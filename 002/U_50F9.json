@@ -1,0 +1,122 @@
+{
+    "character": "價",
+    "details": {
+        "Âm Hán Việt": [
+            "giá",
+            "giới"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nhân 人 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻賈"
+        ],
+        "Nét bút": [
+            "ノ丨一丨フ丨丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OMWC (人一田金)"
+        ],
+        "Unicode": [
+            "U+50F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jià ㄐㄧㄚˋ",
+            "jiē ㄐㄧㄝ",
+            "jie"
+        ],
+        "Âm Nôm": [
+            "giá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あたい (atai)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa3"
+        ]
+    },
+    "meanings": {
+        "giá": {
+            "Từ điển phổ thông": [
+                "giá trị, giá cả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giá cả, giá tiền. ◎Như: 'vật giá' 物價 giá hóa vật, 'thị giá' 市價 giá cả trên thị trường.",
+                "(Danh) Giá trị (người, sự, vật). ◎Như: 'thanh giá' 聲價 danh giá, 'tha đích thân giá phi phàm' 他的身價非凡 địa vị (trong xã hội) của ông ta cao lớn, không phải tầm thường.",
+                "(Danh) Hóa trị (đơn vị trong Hóa học). ◎Như: 'khinh thị nhất giá đích nguyên tố' 氫是一價的元素 hydrogen là nguyên tố có hóa trị 1.",
+                "(Trợ) Thường dùng sau tính từ, phó từ để nhấn mạnh. ◎Như: 'chỉnh thiên giá du đãng' 整天價遊蕩 đi chơi suốt ngày."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giá cả, giá cái gì đáng bao nhiêu gọi là giá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Đặt sau phó từ phủ định để nhấn mạnh: 不價 Không được;",
+                "Đặt sau một số phó từ: 成天價忙 Bận suốt ngày; 震天價響 Tiếng nổ vang trời. Xem 價 [jià]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mức cao thấp, tốt xấu hay dở của sự vật, tức cái giá trị của sự vật — Số tiền để mua một vật. Tức giá tiền."
+            ],
+            "compound_words": {
+                "報價": "báo giá",
+                "平價": "bình giá",
+                "高價": "cao giá",
+                "估價": "cổ giá",
+                "名價": "danh giá",
+                "豫價": "dự giá",
+                "代價": "đại giá",
+                "特價": "đặc giá",
+                "鬬價": "đấu giá",
+                "跌價": "điệt giá",
+                "定價": "định giá",
+                "價格": "giá cách",
+                "價款": "giá khoản",
+                "價錢": "giá tiền",
+                "價值": "giá trị",
+                "減價": "giảm giá",
+                "講價": "giảng giá",
+                "下價": "hạ giá",
+                "還價": "hoàn giá",
+                "廉價": "liêm giá",
+                "官價": "quan giá",
+                "貴價": "quý giá",
+                "增價": "tăng giá",
+                "身價": "thân giá",
+                "市價": "thị giá",
+                "時價": "thời giá",
+                "售價": "thụ giá",
+                "値價": "trị giá",
+                "比價": "tỷ giá",
+                "物價": "vật giá",
+                "無價": "vô giá",
+                "依價": "y giá"
+            }
+        },
+        "giới": {
+            "Từ điển trích dẫn": [
+                "(Danh) Giá cả, giá tiền. ◎Như: 'vật giá' 物價 giá hóa vật, 'thị giá' 市價 giá cả trên thị trường.",
+                "(Danh) Giá trị (người, sự, vật). ◎Như: 'thanh giá' 聲價 danh giá, 'tha đích thân giá phi phàm' 他的身價非凡 địa vị (trong xã hội) của ông ta cao lớn, không phải tầm thường.",
+                "(Danh) Hóa trị (đơn vị trong Hóa học). ◎Như: 'khinh thị nhất giá đích nguyên tố' 氫是一價的元素 hydrogen là nguyên tố có hóa trị 1.",
+                "(Trợ) Thường dùng sau tính từ, phó từ để nhấn mạnh. ◎Như: 'chỉnh thiên giá du đãng' 整天價遊蕩 đi chơi suốt ngày."
+            ]
+        }
+    }
+}

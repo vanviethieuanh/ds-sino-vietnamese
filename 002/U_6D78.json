@@ -1,0 +1,143 @@
+{
+    "character": "浸",
+    "details": {
+        "Âm Hán Việt": [
+            "thâm",
+            "tẩm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡⿳彐冖又"
+        ],
+        "Nét bút": [
+            "丶丶一フ一一丶フフ丶"
+        ],
+        "Thương Hiệt": [
+            "ESME (水尸一水)"
+        ],
+        "Unicode": [
+            "U+6D78"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jìn ㄐㄧㄣˋ",
+            "qīn ㄑㄧㄣ"
+        ],
+        "Âm Nôm": [
+            "rẫm",
+            "tắm",
+            "tẩm",
+            "thâm",
+            "trẫm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひた.す (hita.su)",
+            "ひた.る (hita.ru)"
+        ],
+        "Âm Hàn": [
+            "침"
+        ],
+        "Âm Quảng Đông": [
+            "zam3"
+        ]
+    },
+    "meanings": {
+        "thâm": {
+            "Từ điển trích dẫn": [
+                "(Động) Ngâm, nhúng. ◎Như: 'tẩm thủy' 浸水 ngâm nước. ◇Giả Tư Hiệp 賈思勰: 'Tẩm dược tửu pháp: Dĩ thử tửu tẩm ngũ gia mộc bì, cập nhất thiết dược, giai hữu ích, thần hiệu' 浸藥酒法: 以此酒浸五茄木皮, 及一切藥, 皆有益, 神效 (Tề dân yếu thuật 齊民要術, Bổn khúc tịnh tửu 笨麴並酒).",
+                "(Động) Thấm ướt. ◇Dương Quýnh 楊烱: 'Câu thủy tẩm bình sa' 溝水浸平沙 (Tống Phong Thành Vương Thiếu Phủ 送豐城王少府) Nước ngòi thấm bãi cát.",
+                "(Động) Chìm, ngập. ◇Tống sử 宋史: 'Chân Tông Cảnh Đức nguyên niên cửu nguyệt, Tống Châu ngôn Biện Hà quyết, tẩm dân điền, hoại lư xá' 真宗景德元年九月, 宋州言汴河決, 浸民田, 壞廬舍 (Hà cừ chí tam 河渠志三).",
+                "(Động) Tưới, rót. ◇Hoài Nam Tử 淮南子: 'Phù lâm giang chi hương, cư nhân cấp thủy dĩ tẩm kì viên, giang thủy phất tăng dã' 夫臨江之鄉, 居人汲水以浸其園, 江水弗憎也 (Tinh thần huấn 精神訓).",
+                "(Động) Tỉ dụ ánh chiếu. ◇Tống Tường 宋庠: 'Hướng tịch cựu than đô tẩm nguyệt, Quá hàn tân thụ tiện lưu yên' 向夕舊灘都浸月, 過寒新樹便留煙 (Trùng triển Tây Hồ 重展西湖).",
+                "(Động) Tỉ dụ ở trong một cảnh giới hoặc trong hoạt động tư tưởng nào đó. ◇Đinh Linh 丁玲: 'Mạn mạn đích, tha tựu cánh tẩm tại bất khả cập đích huyễn mộng lí liễu' 慢慢的, 她就更浸在不可及的幻夢裏了 (A Mao cô nương 阿毛姑娘, Đệ nhị chương ngũ).",
+                "(Động) Tẩy, rửa. ◇Trương Hành 張衡: 'Tẩm thạch khuẩn ư trùng nhai, Trạc linh chi dĩ chu kha' 浸石菌於重涯, 濯靈芝以朱柯 (Tây kinh phú 西京賦).",
+                "(Động) Tích chứa nước để tưới vào sông chằm. § Sau cũng phiếm chỉ hồ, đầm, sông, chằm. ◇Lương Chương Cự 梁章鉅: 'Dâm vũ vi tai, Trực Lệ bách dư châu huyện, giai thành cự tẩm' 淫雨為災, 直隸百餘州縣, 皆成巨浸 (Quy điền tỏa kí 歸田瑣記, Thần mộc 神木).",
+                "(Động) Thấm nhuần. Tỉ dụ ban cho ân huệ. ◇Tư Mã Tương Như 司馬相如: 'Thư thịnh đức, phát hào vinh, thụ hậu phúc, dĩ tẩm lê nguyên' 舒盛德, 發號榮, 受厚福, 以浸黎元 (Phong thiện văn 封禪文).",
+                "(Động) Nhìn kĩ, xét kĩ. ◎Như: 'tẩm tưởng' 浸想 khảo sát sâu xa kĩ lưỡng.",
+                "(Phó) Dần dần. ◇Kim sử 金史: 'Quốc thế tẩm thịnh' 國勢浸盛 (Binh chế 兵制) Thế nước dần thịnh.",
+                "(Danh) Tên gọi chung các chằm lớn.",
+                "(Liên) Nếu như, giả sử. ◇Vương Phu Chi 王夫之: 'Tẩm kì bất nhiên, nhi xả khí ngôn lí, tắc bất đắc dĩ thiên vi lí hĩ' 浸其不然, 而舍氣言理, 則不得以天為理矣 (Độc tứ thư đại toàn thuyết 讀四書大全說, Mạnh Tử 孟子, Tận tâm thượng ngũ 盡心上五).",
+                "§ Xem 'tẩm hành' 浸行.",
+                "Một âm là 'thâm'. § Xem 'thâm tầm' 浸尋.",
+                "§ Cũng như 'xâm' 侵. (Động) Xúc phạm, mạo phạm.",
+                "§ Cũng như 'xâm' 侵. (Động) Xâm phạm. ◎Như: 'thâm lăng' 浸凌.",
+                "§ Cũng như 'xâm' 侵. (Động) Xâm chiếm. ◎Như: 'thâm ngư' 浸漁 chiếm đoạt tài vật của người khác."
+            ],
+            "compound_words": {
+                "浸潯": "thâm tầm"
+            }
+        },
+        "tẩm": {
+            "Từ điển phổ thông": [
+                "ngâm, thấm (nước)",
+                "dần dần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngâm, nhúng. ◎Như: 'tẩm thủy' 浸水 ngâm nước. ◇Giả Tư Hiệp 賈思勰: 'Tẩm dược tửu pháp: Dĩ thử tửu tẩm ngũ gia mộc bì, cập nhất thiết dược, giai hữu ích, thần hiệu' 浸藥酒法: 以此酒浸五茄木皮, 及一切藥, 皆有益, 神效 (Tề dân yếu thuật 齊民要術, Bổn khúc tịnh tửu 笨麴並酒).",
+                "(Động) Thấm ướt. ◇Dương Quýnh 楊烱: 'Câu thủy tẩm bình sa' 溝水浸平沙 (Tống Phong Thành Vương Thiếu Phủ 送豐城王少府) Nước ngòi thấm bãi cát.",
+                "(Động) Chìm, ngập. ◇Tống sử 宋史: 'Chân Tông Cảnh Đức nguyên niên cửu nguyệt, Tống Châu ngôn Biện Hà quyết, tẩm dân điền, hoại lư xá' 真宗景德元年九月, 宋州言汴河決, 浸民田, 壞廬舍 (Hà cừ chí tam 河渠志三).",
+                "(Động) Tưới, rót. ◇Hoài Nam Tử 淮南子: 'Phù lâm giang chi hương, cư nhân cấp thủy dĩ tẩm kì viên, giang thủy phất tăng dã' 夫臨江之鄉, 居人汲水以浸其園, 江水弗憎也 (Tinh thần huấn 精神訓).",
+                "(Động) Tỉ dụ ánh chiếu. ◇Tống Tường 宋庠: 'Hướng tịch cựu than đô tẩm nguyệt, Quá hàn tân thụ tiện lưu yên' 向夕舊灘都浸月, 過寒新樹便留煙 (Trùng triển Tây Hồ 重展西湖).",
+                "(Động) Tỉ dụ ở trong một cảnh giới hoặc trong hoạt động tư tưởng nào đó. ◇Đinh Linh 丁玲: 'Mạn mạn đích, tha tựu cánh tẩm tại bất khả cập đích huyễn mộng lí liễu' 慢慢的, 她就更浸在不可及的幻夢裏了 (A Mao cô nương 阿毛姑娘, Đệ nhị chương ngũ).",
+                "(Động) Tẩy, rửa. ◇Trương Hành 張衡: 'Tẩm thạch khuẩn ư trùng nhai, Trạc linh chi dĩ chu kha' 浸石菌於重涯, 濯靈芝以朱柯 (Tây kinh phú 西京賦).",
+                "(Động) Tích chứa nước để tưới vào sông chằm. § Sau cũng phiếm chỉ hồ, đầm, sông, chằm. ◇Lương Chương Cự 梁章鉅: 'Dâm vũ vi tai, Trực Lệ bách dư châu huyện, giai thành cự tẩm' 淫雨為災, 直隸百餘州縣, 皆成巨浸 (Quy điền tỏa kí 歸田瑣記, Thần mộc 神木).",
+                "(Động) Thấm nhuần. Tỉ dụ ban cho ân huệ. ◇Tư Mã Tương Như 司馬相如: 'Thư thịnh đức, phát hào vinh, thụ hậu phúc, dĩ tẩm lê nguyên' 舒盛德, 發號榮, 受厚福, 以浸黎元 (Phong thiện văn 封禪文).",
+                "(Động) Nhìn kĩ, xét kĩ. ◎Như: 'tẩm tưởng' 浸想 khảo sát sâu xa kĩ lưỡng.",
+                "(Phó) Dần dần. ◇Kim sử 金史: 'Quốc thế tẩm thịnh' 國勢浸盛 (Binh chế 兵制) Thế nước dần thịnh.",
+                "(Danh) Tên gọi chung các chằm lớn.",
+                "(Liên) Nếu như, giả sử. ◇Vương Phu Chi 王夫之: 'Tẩm kì bất nhiên, nhi xả khí ngôn lí, tắc bất đắc dĩ thiên vi lí hĩ' 浸其不然, 而舍氣言理, 則不得以天為理矣 (Độc tứ thư đại toàn thuyết 讀四書大全說, Mạnh Tử 孟子, Tận tâm thượng ngũ 盡心上五).",
+                "§ Xem 'tẩm hành' 浸行.",
+                "Một âm là 'thâm'. § Xem 'thâm tầm' 浸尋.",
+                "§ Cũng như 'xâm' 侵. (Động) Xúc phạm, mạo phạm.",
+                "§ Cũng như 'xâm' 侵. (Động) Xâm phạm. ◎Như: 'thâm lăng' 浸凌.",
+                "§ Cũng như 'xâm' 侵. (Động) Xâm chiếm. ◎Như: 'thâm ngư' 浸漁 chiếm đoạt tài vật của người khác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tẩm, ngâm.",
+                "Tên gọi chung các chằm lớn.",
+                "Dần dần, như quốc thế tẩm thịnh 國勢浸盛 thế nước dần thịnh.",
+                "Tẩm dả ví rồi ra, dùng làm chữ giúp lời.",
+                "Tẩm nhuận chi chấm 浸潤之譖 lời dèm pha ton hót, ý nói lời dèm lần lần nó vào như nước ngấm dần vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngâm, nhúng, tẩm: 浸水 Ngâm nước; 浸種 Ngâm giống;",
+                "Đầm, thấm: 淚水浸濕了衣服 Áo đầm nước mắt; 這塊布不浸水 Miếng vải này không thấm nước;",
+                "(văn) Tưới: 一日浸百畦 Một ngày tưới trăm;",
+                "(văn) Sông lớn, chằm lớn, hồ nước: 大浸稽天而不溺 Sông lớn tràn lên đến trời mà không bị chìm chết (Trang tử: Tiêu dao du);",
+                "(văn) Dần dần: 旬日之間，浸大也 Trong vòng mười ngày, lớn dần ra (Liệt tử);",
+                "(văn) Càng thêm: 若其浸盛，何以制之！ Nếu quyền lực của ông ta càng lớn thì lấy gì để chế phục ông ta! (Hậu Hán thư)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngâm cho thấm vào — Tưới, dội — Dần dần — Càng thêm."
+            ],
+            "compound_words": {
+                "炒浸": "sao tẩm",
+                "浸補": "tẩm bổ",
+                "浸淫": "tẩm dâm",
+                "浸行": "tẩm hành",
+                "浸花": "tẩm hoa",
+                "浸禮": "tẩm lễ",
+                "浸入": "tẩm nhập",
+                "浸染": "tẩm nhiễm",
+                "浸潤": "tẩm nhuận",
+                "浸漸": "tẩm tiệm"
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "character": "魴",
+    "details": {
+        "Âm Hán Việt": [
+            "phường"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "ngư 魚 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰魚方"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一丶丶丶丶丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "NFYHS (弓火卜竹尸)"
+        ],
+        "Unicode": [
+            "U+9B74"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "fáng ㄈㄤˊ"
+        ],
+        "Âm Nôm": [
+            "phương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かがみたい (kagamitai)",
+            "おしきうお (oshikiuo)",
+            "かがみだい (kagamidai)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "fong4"
+        ]
+    },
+    "meanings": {
+        "phường": {
+            "Từ điển phổ thông": [
+                "cá mè"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cá phường, cá mè."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con cá phường, cá mè."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Cá phường, cá mè."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con cá mè."
+            ],
+            "compound_words": {
+                "魴鮄": "phường phất"
+            }
+        }
+    }
+}

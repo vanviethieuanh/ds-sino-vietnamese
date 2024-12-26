@@ -1,0 +1,150 @@
+{
+    "character": "弁",
+    "details": {
+        "Âm Hán Việt": [
+            "biền",
+            "biện",
+            "bàn"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "củng 廾 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱厶廾"
+        ],
+        "Nét bút": [
+            "フ丶一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "IT (戈廿)"
+        ],
+        "Unicode": [
+            "U+5F01"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "biàn ㄅㄧㄢˋ",
+            "pán ㄆㄢˊ"
+        ],
+        "Âm Nôm": [
+            "biền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ベン (ben)",
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わきま.える (wakima.eru)",
+            "わ.ける (wa.keru)",
+            "はなびら (hanabira)",
+            "あらそ.う (araso.u)"
+        ],
+        "Âm Hàn": [
+            "변",
+            "반"
+        ],
+        "Âm Quảng Đông": [
+            "bin6",
+            "pun4"
+        ]
+    },
+    "meanings": {
+        "biền": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cái mũ lớn của đàn ông đời xưa. Chia ra hai thứ mũ da và mũ tước, mũ da để quan võ dùng, mũ tước để quan văn dùng.",
+                "(Danh) Quan cấp dưới hoặc quan võ thời xưa. § Ghi chú: Nhân mũ biện bằng da, là mũ quan võ đội nên gọi quan võ là 'biện'. ◎Như: 'binh biện' 兵弁, 'tướng biện' 將弁, v.v ◇Nguyễn Du 阮攸: 'Châu biện văn tặc chí' 州弁聞賊至 (Trở binh hành 阻兵行) Quan võ ở châu nghe tin giặc đến.",
+                "(Danh) Họ 'Biện'.",
+                "(Tính) Hấp tấp, nóng nảy. § Thông 'biện' 卞.",
+                "(Tính) Sợ hãi. ◇Hán Thư 漢書: 'Hữu liệt phong lôi vũ phát ốc chiết mộc chi biến, dư thậm biện yên! dư thậm lật yên! dư thậm khủng yên!' 有列風雷雨發屋折木之變, 予甚弁焉, 予甚栗焉, 予甚恐焉 (Vương Mãng truyện 王莽傳) Có tai họa nhiều mưa gió sấm sét tốc nhà gãy cây, ta thật sợ hãi, ta run rẩy quá, ta kinh hoảng lắm vậy.",
+                "(Động) Đặt, để trên hay trước mặt.",
+                "(Danh) Lấy tay đánh.",
+                "Một âm là 'bàn'. (Tính) Vui, vui vẻ. ◇Thi Kinh 詩經: 'Bàn bỉ dư tư, Quy phi thì thì' 弁彼鸒斯, 歸飛提提 (Tiểu nhã 小雅, Tiểu bàn 小弁) Con quạ vui kia, Bay về thành đàn.",
+                "§ Ta quen đọc là 'biền'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái mũ lớn đời xưa. Chia ra hai thứ mũ da và mũ tước, mũ da để quan võ dùng, mũ tước để quan văn dùng.",
+                "Nhân mũ biện bằng da là mũ quan võ đội nên gọi quan võ là biện như binh biện 兵弁, tướng biện 將弁, v.v.",
+                "Hấp tấp, nóng nảy. Cũng như chữ biện 卞.",
+                "Sợ run lẩy bẩy. Ta quen đọc là biền.",
+                "Một âm là bàn. Vui."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ông quan võ — Cái mũ — Thuộc về nhà binh. Chẳng hạn Võ biền."
+            ],
+            "compound_words": {
+                "武弁": "vũ biền"
+            }
+        },
+        "biện": {
+            "Từ điển phổ thông": [
+                "mũ lớn của quan văn và quan võ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái mũ lớn của đàn ông đời xưa. Chia ra hai thứ mũ da và mũ tước, mũ da để quan võ dùng, mũ tước để quan văn dùng.",
+                "(Danh) Quan cấp dưới hoặc quan võ thời xưa. § Ghi chú: Nhân mũ biện bằng da, là mũ quan võ đội nên gọi quan võ là 'biện'. ◎Như: 'binh biện' 兵弁, 'tướng biện' 將弁, v.v ◇Nguyễn Du 阮攸: 'Châu biện văn tặc chí' 州弁聞賊至 (Trở binh hành 阻兵行) Quan võ ở châu nghe tin giặc đến.",
+                "(Danh) Họ 'Biện'.",
+                "(Tính) Hấp tấp, nóng nảy. § Thông 'biện' 卞.",
+                "(Tính) Sợ hãi. ◇Hán Thư 漢書: 'Hữu liệt phong lôi vũ phát ốc chiết mộc chi biến, dư thậm biện yên! dư thậm lật yên! dư thậm khủng yên!' 有列風雷雨發屋折木之變, 予甚弁焉, 予甚栗焉, 予甚恐焉 (Vương Mãng truyện 王莽傳) Có tai họa nhiều mưa gió sấm sét tốc nhà gãy cây, ta thật sợ hãi, ta run rẩy quá, ta kinh hoảng lắm vậy.",
+                "(Động) Đặt, để trên hay trước mặt.",
+                "(Danh) Lấy tay đánh.",
+                "Một âm là 'bàn'. (Tính) Vui, vui vẻ. ◇Thi Kinh 詩經: 'Bàn bỉ dư tư, Quy phi thì thì' 弁彼鸒斯, 歸飛提提 (Tiểu nhã 小雅, Tiểu bàn 小弁) Con quạ vui kia, Bay về thành đàn.",
+                "§ Ta quen đọc là 'biền'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái mũ lớn đời xưa. Chia ra hai thứ mũ da và mũ tước, mũ da để quan võ dùng, mũ tước để quan văn dùng.",
+                "Nhân mũ biện bằng da là mũ quan võ đội nên gọi quan võ là biện như binh biện 兵弁, tướng biện 將弁, v.v.",
+                "Hấp tấp, nóng nảy. Cũng như chữ biện 卞.",
+                "Sợ run lẩy bẩy. Ta quen đọc là biền.",
+                "Một âm là bàn. Vui."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chiếc mũ lớn (thời xưa);",
+                "Chức quan võ thấp (thời xưa);",
+                "(văn) Hấp tấp nóng nảy (như 卞, bộ 卜);",
+                "(văn) Run lẩy bẩy (vì sợ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại mũ, đội khi mặc lễ phục — Chức quan võ cấp dưới — Nóng nảy, gấp gáp — Ta quen đọc là Biền. Một âm khác là Bàn."
+            ],
+            "compound_words": {
+                "弁髦": "biện mao",
+                "弁目": "biện mục",
+                "弁言": "biện ngôn"
+            }
+        },
+        "bàn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cái mũ lớn của đàn ông đời xưa. Chia ra hai thứ mũ da và mũ tước, mũ da để quan võ dùng, mũ tước để quan văn dùng.",
+                "(Danh) Quan cấp dưới hoặc quan võ thời xưa. § Ghi chú: Nhân mũ biện bằng da, là mũ quan võ đội nên gọi quan võ là 'biện'. ◎Như: 'binh biện' 兵弁, 'tướng biện' 將弁, v.v ◇Nguyễn Du 阮攸: 'Châu biện văn tặc chí' 州弁聞賊至 (Trở binh hành 阻兵行) Quan võ ở châu nghe tin giặc đến.",
+                "(Danh) Họ 'Biện'.",
+                "(Tính) Hấp tấp, nóng nảy. § Thông 'biện' 卞.",
+                "(Tính) Sợ hãi. ◇Hán Thư 漢書: 'Hữu liệt phong lôi vũ phát ốc chiết mộc chi biến, dư thậm biện yên! dư thậm lật yên! dư thậm khủng yên!' 有列風雷雨發屋折木之變, 予甚弁焉, 予甚栗焉, 予甚恐焉 (Vương Mãng truyện 王莽傳) Có tai họa nhiều mưa gió sấm sét tốc nhà gãy cây, ta thật sợ hãi, ta run rẩy quá, ta kinh hoảng lắm vậy.",
+                "(Động) Đặt, để trên hay trước mặt.",
+                "(Danh) Lấy tay đánh.",
+                "Một âm là 'bàn'. (Tính) Vui, vui vẻ. ◇Thi Kinh 詩經: 'Bàn bỉ dư tư, Quy phi thì thì' 弁彼鸒斯, 歸飛提提 (Tiểu nhã 小雅, Tiểu bàn 小弁) Con quạ vui kia, Bay về thành đàn.",
+                "§ Ta quen đọc là 'biền'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái mũ lớn đời xưa. Chia ra hai thứ mũ da và mũ tước, mũ da để quan võ dùng, mũ tước để quan văn dùng.",
+                "Nhân mũ biện bằng da là mũ quan võ đội nên gọi quan võ là biện như binh biện 兵弁, tướng biện 將弁, v.v.",
+                "Hấp tấp, nóng nảy. Cũng như chữ biện 卞.",
+                "Sợ run lẩy bẩy. Ta quen đọc là biền.",
+                "Một âm là bàn. Vui."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vui sướng — Các âm khác là Biện, Biền."
+            ]
+        }
+    }
+}

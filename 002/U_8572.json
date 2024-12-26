@@ -1,0 +1,66 @@
+{
+    "character": "蕲",
+    "details": {
+        "Âm Hán Việt": [
+            "cần",
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thảo 艸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹⿰单斤"
+        ],
+        "Nét bút": [
+            "一丨丨丶ノ丨フ一一一丨ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "TCJL (廿金十中)"
+        ],
+        "Unicode": [
+            "U+8572"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "cần": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 蘄"
+            ]
+        },
+        "kì": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 蘄."
+            ]
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "(xem: kỳ chỉ 蘄茝,蕲茝)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 蘄"
+            ],
+            "compound_words": {
+                "蕲茝": "kỳ chỉ"
+            }
+        }
+    }
+}

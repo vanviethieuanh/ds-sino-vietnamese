@@ -1,0 +1,63 @@
+{
+    "character": "篸",
+    "details": {
+        "Âm Hán Việt": [
+            "sâm",
+            "trâm"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "trúc 竹 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮參"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶フ丶フ丶フ丶ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "HIIH (竹戈戈竹)"
+        ],
+        "Unicode": [
+            "U+7BF8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そろわない (sorowanai)"
+        ],
+        "Âm Quảng Đông": [
+            "caam2",
+            "cam1",
+            "zaam1"
+        ]
+    },
+    "meanings": {
+        "sâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Sâm si 篸𥰭"
+            ],
+            "compound_words": {
+                "篸𥰭": "sâm si"
+            }
+        },
+        "trâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trâm 簪 — Một âm là Sâm."
+            ]
+        }
+    }
+}

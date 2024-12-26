@@ -1,0 +1,95 @@
+{
+    "character": "跋",
+    "details": {
+        "Âm Hán Việt": [
+            "bạt"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "túc 足 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊犮"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一一ノフ丶丶"
+        ],
+        "Thương Hiệt": [
+            "RMIKK (口一戈大大)"
+        ],
+        "Unicode": [
+            "U+8DCB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bá ㄅㄚˊ",
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bạt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハツ (hatsu)",
+            "バツ (batsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おくがき (okugaki)",
+            "ふ.む (fu.mu)"
+        ],
+        "Âm Hàn": [
+            "발"
+        ],
+        "Âm Quảng Đông": [
+            "bat6"
+        ]
+    },
+    "meanings": {
+        "bạt": {
+            "Từ điển phổ thông": [
+                "leo, trèo lên",
+                "lời tựa cuối sách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vượt, băng, lặn lội. ◎Như: 'bạt thiệp' 跋涉 lặn lội, 'bạt lí san xuyên' 跋履山川 trèo đèo lội suối. § Ghi chú: Bổn nghĩa, đi trên cỏ gọi là 'bạt' 跋, đi trên nước gọi là 'thiệp' 涉.",
+                "(Động) Đạp, giẫm. ◎Như: 'bạt lãng' 跋浪 đạp sóng.",
+                "(Động) Ghì, nắm lại. ◇Nghiêm Vũ —嚴武: 'Bạt mã vọng quân phi nhất độ, Lãnh viên thu nhạn bất thắng bi' 跋馬望君非一度, 冷猿秋雁不勝悲 (Ba Lĩnh đáp Đỗ Nhị Kiến ức 巴嶺答杜二見憶) Ghì cương ngựa ngóng anh chẳng phải một lần, Vượn lạnh nhạn thu đau buồn biết bao.",
+                "(Động) Hoành hành bạo ngược. ◇Tư trị thông giám 資治通鑑: 'Vãng niên Xích Mi bạt hỗ Trường An' 往年赤眉跋扈長安 (Quyển đệ tứ thập nhất 卷第四十一) Năm trước quân Xích Mi hoành hành ngang ngược ở Trường An.",
+                "(Danh) Gót chân.",
+                "(Danh) Một thể văn. ◎Như: 'bạt văn' 跋文 bài văn viết ở cuối sách."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bạt thiệp 跋涉 lặn lội. Ði trên cỏ gọi là bạt 跋, đi trên nước gọi là thiệp 涉. Nói sự đi khó khăn.",
+                "Đi lại luôn luôn gọi là bạt lai báo vãng 跋來報往.",
+                "Hung tợn. Như bạt hỗ 跋扈 người cứng đầu cứng cổ không chịu ai kiềm chế.",
+                "Gót chân. Cho nên bài văn viết ở cuối sách gọi là bài bạt văn 跋文.",
+                "Nhảy vọt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vượt, băng, lặn lội: 跋山涉水 Vượt suối băng ngàn, trèo đèo lội suối;",
+                "Lời bạt: 序言和跋 Lời tựa và lời bạt;",
+                "(văn) Gót chân;",
+                "(văn) Giẫm đạp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bước qua. Nhảy ra — Bài văn ở sau cuốn sách, nói về cuốn sách."
+            ],
+            "compound_words": {
+                "跋扈": "bạt hỗ",
+                "跋涉": "bạt thiệp",
+                "跋前蹇後": "bạt tiền kiển hậu",
+                "跋文": "bạt văn",
+                "狼跋其胡": "lang bạt kì hồ"
+            }
+        }
+    }
+}

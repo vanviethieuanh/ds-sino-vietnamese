@@ -1,0 +1,83 @@
+{
+    "character": "芪",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thảo 艸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹氏"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ一フ"
+        ],
+        "Thương Hiệt": [
+            "THVP (廿竹女心)"
+        ],
+        "Unicode": [
+            "U+82AA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ",
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "シ (shi)",
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はなすげ (hanasuge)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Hoàng kì' 黄芪 loài cỏ thân mọc ngang trên đất, rễ dùng làm thuốc. Thứ sinh ở Miên Thượng 綿上 thì tốt, nên gọi là 'Miên kì' 綿芪, còn viết là 緜芪. § Chữ 'kì' 芪 có khi viết là 耆.",
+                "(Danh) 'Kì mẫu' 芪母 loài cỏ lá nhỏ mà dài, hoa màu tía nhạt. § Còn gọi là 'tri mẫu' 芪母."
+            ]
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "(xem: hoàng kỳ 黃芪,黄芪)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hoàng kì 黄芪 thứ cỏ, rễ dùng làm thuốc. Thứ nào sinh ở Miên Thượng thì tốt, cho nên gọi là miên kì 緜芪, còn viết là 綿芪. Chữ kì 芪 có khi viết là 蓍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(dược) Cây thuốc: 黄芪 Hoàng kì. Cv 蓍."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hoàng kì 黄芪: Tên một vị thuốc Bắc."
+            ],
+            "compound_words": {
+                "黃芪": "hoàng kỳ",
+                "黄芪": "hoàng kỳ"
+            }
+        }
+    }
+}

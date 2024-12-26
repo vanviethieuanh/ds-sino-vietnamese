@@ -1,0 +1,87 @@
+{
+    "character": "慣",
+    "details": {
+        "Âm Hán Việt": [
+            "quán"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "tâm 心 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖貫"
+        ],
+        "Nét bút": [
+            "丶丶丨フフ丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "PWJC (心田十金)"
+        ],
+        "Unicode": [
+            "U+6163"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guàn ㄍㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "quán",
+            "quen"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な.れる (na.reru)",
+            "な.らす (na.rasu)"
+        ],
+        "Âm Hàn": [
+            "관"
+        ],
+        "Âm Quảng Đông": [
+            "gwaan3"
+        ]
+    },
+    "meanings": {
+        "quán": {
+            "Từ điển phổ thông": [
+                "quen",
+                "nuông chiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thói quen. ◎Như: 'tập quán' 習慣 thói quen.",
+                "(Động) Nuông chiều, dung túng. ◎Như: 'tha tòng tiểu bị phụ thân quán hoại liễu' 他從小被父親慣壞了 nó từ nhỏ được cha nuông chiều hư rồi.",
+                "(Động) Thông, suốt. § Thông 'quán' 貫. ◇Thủy hử truyện 水滸傳: 'Học thành vũ nghệ quán tâm hung' 學成武藝慣心胸 (Đệ ngũ thập cửu hồi) Học xong võ nghệ thông suốt tim gan.",
+                "(Phó) Quen. ◇Tam quốc diễn nghĩa 三國演義: 'Bạch phát ngư tiều giang chử thượng, Quán khán thu nguyệt xuân phong' 白髮漁樵江渚上, 慣看秋月春風 (Đệ nhất hồi) (Bạn) đầu bạc ngư tiều trên bãi, Đã quen nhìn trăng thu gió xuân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Quen, như tập quán 習慣 tập quen."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quen thói, thói quen: 吃不慣 Ăn không quen;",
+                "Nuông chiều, nuông: 慣壞了脾氣 Nuông quá hoá hư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tập thành thói quen. Td: Tập quán — Quen."
+            ],
+            "compound_words": {
+                "慣行": "quán hành",
+                "慣例": "quán lệ",
+                "慣習": "quán tập",
+                "慣性": "quán tính",
+                "習慣": "tập quán",
+                "住慣": "trú quán"
+            }
+        }
+    }
+}

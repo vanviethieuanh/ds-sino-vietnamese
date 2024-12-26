@@ -1,0 +1,82 @@
+{
+    "character": "访",
+    "details": {
+        "Âm Hán Việt": [
+            "phóng",
+            "phỏng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠方"
+        ],
+        "Nét bút": [
+            "丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "IVYHS (戈女卜竹尸)"
+        ],
+        "Unicode": [
+            "U+8BBF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fǎng ㄈㄤˇ"
+        ],
+        "Âm Nôm": [
+            "phỏng"
+        ],
+        "Âm Quảng Đông": [
+            "fong2"
+        ]
+    },
+    "meanings": {
+        "phóng": {
+            "Từ điển phổ thông": [
+                "thăm viếng, hỏi thăm",
+                "dò xét"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 訪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 訪"
+            ],
+            "compound_words": {
+                "访事": "phóng sự"
+            }
+        },
+        "phỏng": {
+            "Từ điển phổ thông": [
+                "thăm viếng, hỏi thăm",
+                "dò xét"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 訪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 訪"
+            ],
+            "compound_words": {
+                "拜访": "bái phỏng",
+                "回访": "hồi phỏng",
+                "来访": "lai phỏng",
+                "访问": "phỏng vấn",
+                "寻访": "tầm phỏng",
+                "采访": "thái phỏng"
+            }
+        }
+    }
+}

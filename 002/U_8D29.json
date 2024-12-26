@@ -1,0 +1,74 @@
+{
+    "character": "贩",
+    "details": {
+        "Âm Hán Việt": [
+            "phiến",
+            "phán"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰贝反"
+        ],
+        "Nét bút": [
+            "丨フノ丶ノノフ丶"
+        ],
+        "Thương Hiệt": [
+            "BOHE (月人竹水)"
+        ],
+        "Unicode": [
+            "U+8D29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fàn ㄈㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phán"
+        ],
+        "Âm Quảng Đông": [
+            "faan3"
+        ]
+    },
+    "meanings": {
+        "phiến": {
+            "Từ điển phổ thông": [
+                "mua rẻ bán đắt",
+                "buôn bán"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 販."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 販"
+            ],
+            "compound_words": {
+                "小贩": "tiểu phiến"
+            }
+        },
+        "phán": {
+            "Từ điển phổ thông": [
+                "mua rẻ bán đắt",
+                "buôn bán"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 販."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 販"
+            ]
+        }
+    }
+}

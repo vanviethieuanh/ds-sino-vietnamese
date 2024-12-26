@@ -1,0 +1,97 @@
+{
+    "character": "呀",
+    "details": {
+        "Âm Hán Việt": [
+            "a",
+            "nha"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口牙"
+        ],
+        "Nét bút": [
+            "丨フ一一フ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "RMVH (口一女竹)"
+        ],
+        "Unicode": [
+            "U+5440"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yā ㄧㄚ",
+            "yá ㄧㄚˊ",
+            "ya"
+        ],
+        "Âm Nôm": [
+            "nha"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)",
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ (a)"
+        ],
+        "Âm Hàn": [
+            "하"
+        ],
+        "Âm Quảng Đông": [
+            "aa1",
+            "aa3",
+            "aa6"
+        ]
+    },
+    "meanings": {
+        "a": {
+            "Từ điển Trần Văn Chánh": [
+                "(thán) Ồ, chà: 呀，下雪了！ Ồ tuyết rơi rồi!;",
+                "(thán) Kẹt, két: 門呀的一聲開了 Cửa mở đánh kẹt một cái. Xem 呀 [ya]."
+            ],
+            "compound_words": {
+                "啊呀": "a nha",
+                "哎呀": "ái nha",
+                "吧呀": "ba nha",
+                "吽呀": "ngâu nha"
+            }
+        },
+        "nha": {
+            "Từ điển phổ thông": [
+                "ạ, nha (phụ từ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trợ) Biểu thị kinh ngạc, sợ hãi. ◎Như: 'hảo hiểm nha' 好險呀 nguy lắm nha.",
+                "(Trợ) Biểu thị nghi vấn. ◎Như: 'nhĩ yêu khứ nha' 你要去呀 anh muốn đi à?",
+                "(Trợ) Biểu thị khẳng định. ◎Như: 'thị nha' 是呀 phải a, 'đối nha' 對呀 đúng đấy.",
+                "(Thán) Ồ, ô, a. ◎Như: 'nha! hạ đại vũ liễu' 呀! 下大雨了 ồ! mưa lớn rồi.",
+                "(Trạng thanh) Két, kẹt. ◇Tây du kí 西遊記: 'Chỉ thính đắc nha đích nhất thanh, đỗng môn khai xử, lí diện tẩu xuất nhất cá tiên đồng' 只聽得呀的一聲, 洞門開處, 裡面走出一個仙童 (Đệ nhất hồi) Chỉ nghe két một tiếng, cửa động mở, từ bên trong đi ra một tiên đồng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lời trợ từ, như hài nhi nha 孩兒呀 con ạ!"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Há miệng ra — Trống không — Trợ từ cuối câu — Tán thán từ."
+            ],
+            "compound_words": {
+                "啊呀": "a nha",
+                "哎呀": "ái nha",
+                "吧呀": "ba nha",
+                "吽呀": "ngâu nha"
+            }
+        }
+    }
+}

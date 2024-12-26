@@ -1,0 +1,63 @@
+{
+    "character": "驱",
+    "details": {
+        "Âm Hán Việt": [
+            "khu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mã 馬 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰马区"
+        ],
+        "Nét bút": [
+            "フフ一一ノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "NMSK (弓一尸大)"
+        ],
+        "Unicode": [
+            "U+9A71"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "khu"
+        ],
+        "Âm Quảng Đông": [
+            "keoi1"
+        ]
+    },
+    "meanings": {
+        "khu": {
+            "Từ điển phổ thông": [
+                "khua, lùa, đuổi",
+                "ruổi ngựa",
+                "chạy, bôn tẩu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 驅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 驅"
+            ],
+            "compound_words": {
+                "驱驰": "khu trì",
+                "先驱": "tiên khu"
+            }
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "character": "束",
+    "details": {
+        "Âm Hán Việt": [
+            "thú",
+            "thúc"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mộc 木 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DL (木中)"
+        ],
+        "Unicode": [
+            "U+675F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shù ㄕㄨˋ"
+        ],
+        "Âm Nôm": [
+            "súc",
+            "thóc",
+            "thót",
+            "thúc",
+            "thút"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たば (taba)",
+            "たば.ねる (taba.neru)",
+            "つか (tsuka)",
+            "つか.ねる (tsuka.neru)"
+        ],
+        "Âm Hàn": [
+            "속"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1"
+        ]
+    },
+    "meanings": {
+        "thú": {
+            "Từ điển trích dẫn": [
+                "(Động) Buộc, bó lại. ◎Như: 'thúc thủ' 束手 bó tay. ◇Thủy hử truyện 水滸傳: 'Thuyên thúc liễu hành lí, tác biệt liễu tam vị đầu lĩnh hạ san' 拴束了行李, 作別了三位頭領下山 (Đệ tam thập nhị hồi) Buộc hành lí, từ biệt ba vị đầu lĩnh đi xuống núi.",
+                "(Danh) Lượng từ: gói, bó. ◎Như: 'thúc thỉ' 束失 bó tên, 'thúc bạch' 束帛 bó lụa. § Ghi chú: Đời xưa dùng thịt khô làm quà biếu gọi là 'thúc tu' 束脩. Vì thế, tục mới gọi món tiền lễ thầy học là 'thúc tu'.",
+                "Một âm là 'thú'. (Động) Hạn chế. ◎Như: 'ước thú' 約束 cùng hẹn ước hạn chế nhau, nay thường dùng về nghĩa cai quản coi sóc. ◎Như: 'ước thú bất nghiêm' 約束不嚴 coi sóc không nghiêm (thầy dạy học trò không nghiêm)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Buộc, bó lại, như thúc thủ 束手 bó tay.",
+                "Bó, như thúc thỉ 束矢 bó tên, thúc bạch 束帛 bó lụa, v.v.",
+                "Gói, mười cái nem buộc làm một gọi là nhất thúc 一束 một thúc. Ðời xưa dùng nem làm quà biếu gọi là thúc tu 束脩 vì thế tục mới gọi món tiền lễ thầy học là thúc tu.",
+                "Một âm là thú. Hạn chế, như ước thú 約束 cùng hẹn ước hạn chế nhau, nay thường dùng về nghĩa cai quản coi sóc, như ước thú bất nghiêm 約束不嚴 coi sóc không nghiêm (thầy dạy học trò không nghiêm)."
+            ],
+            "compound_words": {
+                "拘束": "câu thúc",
+                "結束": "kết thúc",
+                "结束": "kết thúc",
+                "檢束": "kiểm thúc",
+                "管束": "quản thúc",
+                "光束": "quang thúc",
+                "催束": "thôi thúc",
+                "收束": "thu thúc",
+                "束紧": "thúc khẩn",
+                "束緊": "thúc khẩn",
+                "束縛": "thúc phược",
+                "束缚": "thúc phược",
+                "束手": "thúc thủ",
+                "束腰": "thúc yêu",
+                "約束": "ước thúc"
+            }
+        },
+        "thúc": {
+            "Từ điển phổ thông": [
+                "bó, buộc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Buộc, bó lại. ◎Như: 'thúc thủ' 束手 bó tay. ◇Thủy hử truyện 水滸傳: 'Thuyên thúc liễu hành lí, tác biệt liễu tam vị đầu lĩnh hạ san' 拴束了行李, 作別了三位頭領下山 (Đệ tam thập nhị hồi) Buộc hành lí, từ biệt ba vị đầu lĩnh đi xuống núi.",
+                "(Danh) Lượng từ: gói, bó. ◎Như: 'thúc thỉ' 束失 bó tên, 'thúc bạch' 束帛 bó lụa. § Ghi chú: Đời xưa dùng thịt khô làm quà biếu gọi là 'thúc tu' 束脩. Vì thế, tục mới gọi món tiền lễ thầy học là 'thúc tu'.",
+                "Một âm là 'thú'. (Động) Hạn chế. ◎Như: 'ước thú' 約束 cùng hẹn ước hạn chế nhau, nay thường dùng về nghĩa cai quản coi sóc. ◎Như: 'ước thú bất nghiêm' 約束不嚴 coi sóc không nghiêm (thầy dạy học trò không nghiêm)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Buộc, bó lại, như thúc thủ 束手 bó tay.",
+                "Bó, như thúc thỉ 束矢 bó tên, thúc bạch 束帛 bó lụa, v.v.",
+                "Gói, mười cái nem buộc làm một gọi là nhất thúc 一束 một thúc. Ðời xưa dùng nem làm quà biếu gọi là thúc tu 束脩 vì thế tục mới gọi món tiền lễ thầy học là thúc tu.",
+                "Một âm là thú. Hạn chế, như ước thú 約束 cùng hẹn ước hạn chế nhau, nay thường dùng về nghĩa cai quản coi sóc, như ước thú bất nghiêm 約束不嚴 coi sóc không nghiêm (thầy dạy học trò không nghiêm)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Buộc, thắt, bó lại: 腰束皮帶 Lưng thắt dây da;",
+                "(loại) Bó: 一束鮮花 Một bó hoa tươi; 束帛 Bó lụa; 束脩 Bó nem;",
+                "Bó buộc: 束手束腳 Bó tay bó chân; 約束 Ràng buộc;",
+                "[Shù] (Họ) Thúc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cột trói lại — Ràng buộc — Một bó."
+            ],
+            "compound_words": {
+                "拘束": "câu thúc",
+                "結束": "kết thúc",
+                "结束": "kết thúc",
+                "檢束": "kiểm thúc",
+                "管束": "quản thúc",
+                "光束": "quang thúc",
+                "催束": "thôi thúc",
+                "收束": "thu thúc",
+                "束紧": "thúc khẩn",
+                "束緊": "thúc khẩn",
+                "束縛": "thúc phược",
+                "束缚": "thúc phược",
+                "束手": "thúc thủ",
+                "束腰": "thúc yêu",
+                "約束": "ước thúc"
+            }
+        }
+    }
+}

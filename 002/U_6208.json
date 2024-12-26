@@ -1,0 +1,89 @@
+{
+    "character": "戈",
+    "details": {
+        "Âm Hán Việt": [
+            "qua"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "qua 戈 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "I (戈)"
+        ],
+        "Unicode": [
+            "U+6208"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gē ㄍㄜ"
+        ],
+        "Âm Nôm": [
+            "qua",
+            "quơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほこ (hoko)",
+            "ほこづくり (hokozukuri)"
+        ],
+        "Âm Hàn": [
+            "과"
+        ],
+        "Âm Quảng Đông": [
+            "gwo1"
+        ]
+    },
+    "meanings": {
+        "qua": {
+            "Từ điển phổ thông": [
+                "cái qua, cái mác (binh khí)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái mác, một thứ vũ khí ngày xưa.",
+                "(Danh) Chiến tranh. ◎Như: 'nhật tầm can qua' 日尋干戈 ngày gây sự đánh nhau.",
+                "(Danh) Âm tiếng Mãn Thanh. ◎Như: 'qua-thập-cáp' 戈什哈 kẻ hầu cận, kẻ hộ vệ.",
+                "(Danh) Họ 'Qua'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái mác, một thứ đồ binh ngày xưa.",
+                "Ðánh nhau, nhật tầm can qua 日尋干戈 ngày gây sự đánh nhau. Người trong đảng quay lại phản đảng gọi là đảo qua tương hướng 倒戈相向, cùng trong một đảng mà đánh lẫn nhau gọi là đồng thất thao qua 同室操戈.",
+                "Qua thập cáp 戈什哈 tiếng Mãn Thanh, nghĩa là kẻ hầu gần, kẻ hộ vệ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giáo, thương, mâu, mác, lao: 倒戈 Trở giáo;",
+                "Đánh nhau: 同室操戈 Cùng nhà đánh nhau;",
+                "【戈什哈】qua thập cáp [geshíha] Kẻ hầu cận, kẻ hậu vệ;",
+                "[Ge] (Họ) Qua."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ binh khí thời xưa, giống như cây kích. Td: Can qua ( giáo mác, chỉ việc chiến tranh ) — Tên một bộ chữ Trung Hoa, tức bộ Qua."
+            ],
+            "compound_words": {
+                "兵戈": "binh qua",
+                "干戈": "can qua",
+                "止戈": "chỉ qua",
+                "倒戈": "đảo qua",
+                "投戈": "đầu qua",
+                "戈甲": "qua giáp",
+                "探戈": "tham qua",
+                "偃戈": "yển qua"
+            }
+        }
+    }
+}

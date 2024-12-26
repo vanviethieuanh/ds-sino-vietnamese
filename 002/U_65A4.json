@@ -1,0 +1,92 @@
+{
+    "character": "斤",
+    "details": {
+        "Âm Hán Việt": [
+            "cân",
+            "cấn"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "cân 斤 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "HML (竹一中)"
+        ],
+        "Unicode": [
+            "U+65A4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jīn ㄐㄧㄣ"
+        ],
+        "Âm Nôm": [
+            "cân",
+            "gần",
+            "rìu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Hàn": [
+            "근"
+        ],
+        "Âm Quảng Đông": [
+            "gan1"
+        ]
+    },
+    "meanings": {
+        "cân": {
+            "Từ điển phổ thông": [
+                "cái rìu",
+                "cân (đơn vị khối lượng)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái rìu. ◇Trang Tử 莊子: 'Tiêu dao hồ tẩm ngọa kì hạ, bất yểu cân phủ, vật vô hại giả' 逍遙乎寢臥其下, 不夭斤斧, 物 無害者 (Tiêu dao du 逍遙遊) Tiêu dao ta nằm (ngủ) khểnh ở dưới (cây), không chết yểu với búa rìu, không (sợ) có giống gì làm hại.",
+                "(Danh) Một thứ binh khí ngày xưa.",
+                "(Danh) Lượng từ: đơn vị trọng lượng. Một 'cân' xưa bằng 16 lạng. Ngày nay, một 'công cân' 公斤 (1 kg) bằng 'thiên công khắc' 千公克 (1000 g).",
+                "(Động) Chặt, bổ, đẵn, đốn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái rìu.",
+                "Cân, cân ta 16 lạng là một cân.",
+                "Một âm là cấn. Cấn cấn 斤斤 xét rõ (tường tất)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cân: 一包幾斤？ Mấy cân một gói?;",
+                "(văn) Cái rìu;",
+                "【斤斤計較】cân cân kế giảo [jinjin jìjiào] Tính toán thiệt hơn, suy bì từng tí, so hơn quản thiệt: 他最愛斤斤計較 Anh ấy hay tính toán thiệt hơn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái rìu chặt gỗ. Tên một đơn vị trọng lượng, bằng 16 lạng. Ta cũng gọi là một cân — Tên một bộ chữ trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "半斤八兩": "bán cân bát lượng",
+                "斤斤": "cân cân",
+                "斤兩": "cân lượng",
+                "斤斧": "cân phủ",
+                "公斤": "công cân",
+                "斧斤": "phủ cân"
+            }
+        },
+        "cấn": {
+            "Từ điển Thiều Chửu": [
+                "Cái rìu.",
+                "Cân, cân ta 16 lạng là một cân.",
+                "Một âm là cấn. Cấn cấn 斤斤 xét rõ (tường tất)."
+            ]
+        }
+    }
+}

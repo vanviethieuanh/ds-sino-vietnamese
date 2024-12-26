@@ -1,0 +1,84 @@
+{
+    "character": "蕹",
+    "details": {
+        "Âm Hán Việt": [
+            "ung",
+            "ủng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹雍"
+        ],
+        "Nét bút": [
+            "一丨丨丶一フフノノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "TYVG (廿卜女土)"
+        ],
+        "Unicode": [
+            "U+8579"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wèng ㄨㄥˋ",
+            "yōng ㄧㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "ủng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "ユ (yu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.める (atsu.meru)"
+        ],
+        "Âm Quảng Đông": [
+            "jung1",
+            "ngung3",
+            "ung3"
+        ]
+    },
+    "meanings": {
+        "ung": {
+            "Từ điển phổ thông": [
+                "rau muống"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Rau muống. § Ruột nó rỗng nên còn gọi là “không tâm thái” 空心菜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Họp.",
+                "Rau ung, ruột nó rỗng nên gọi là không tâm thái 空心菜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蕹菜】ung thái [wèngcài] Rau muống. Cg. 空心菜 [kongxincài];",
+                "(văn) Hợp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng cây cỏ rậm rạp."
+            ]
+        },
+        "ủng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ủng thái 蕹菜: Rau muống — Một âm là Ung. Xem Ung."
+            ],
+            "compound_words": {
+                "蕹菜": "ủng thái"
+            }
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "character": "攻",
+    "details": {
+        "Âm Hán Việt": [
+            "công"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "phác 攴 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰工攵"
+        ],
+        "Nét bút": [
+            "一丨一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MOK (一人大)"
+        ],
+        "Unicode": [
+            "U+653B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gōng ㄍㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "công"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せ.める (se.meru)"
+        ],
+        "Âm Hàn": [
+            "공"
+        ],
+        "Âm Quảng Đông": [
+            "gung1"
+        ]
+    },
+    "meanings": {
+        "công": {
+            "Từ điển phổ thông": [
+                "đánh, tấn công"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh, kích. ◎Như: 'vi công' 圍攻 vây đánh, 'mãnh công' 猛攻 đánh mạnh, 'phản công' 反攻 đánh trở lại.",
+                "(Động) Sửa sang. ◎Như: 'công kim' 攻金 sửa vàng, 'công ngọc' 攻玉 sửa ngọc.",
+                "(Động) Chỉ trích, chê trách. ◇Luận Ngữ 論語: 'Phi ngô đồ dã, tiểu tử minh cổ nhi công chi khả dã' 非吾徒也, 小子鳴鼓而攻之可也 (Tiên tiến 先進) Không phải là học trò của ta nữa, các trò hãy nổi trống mà chê trách nó đi.",
+                "(Động) Trị liệu, chữa trị. ◇Chu Lễ 周禮: 'Phàm liệu dương, dĩ ngũ độc công chi' 凡療瘍, 以五毒攻 (Thiên quan 天官, Dương y 瘍醫) Phàm chữa bệnh sảy nhọt, lấy năm độc chữa trị.",
+                "(Động) Nghiên cứu. ◎Như: 'tha chuyên công ứng dụng số học' 他專攻應用數學 anh ấy chuyên nghiên cứu về ứng dụng của toán học.",
+                "(Danh) Họ 'Công'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðánh, vây đánh một thành ấp nào gọi là công.",
+                "Sửa, như công kim 攻金 sửa vàng, công ngọc 攻玉 sửa ngọc, v.v.",
+                "Công kích, trách điều lỗi lầm của người gọi là công.",
+                "Làm.",
+                "bền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tấn công, đánh, công: 攻入敵陣 Đánh vào trận địa địch;",
+                "Công kích, chỉ trích, phản đối: 攻人之短 Công kích cái sai của người, đánh vào chỗ yếu của người khác; 群起而攻之 Hùa nhau phản đối;",
+                "Nghiên cứu: 術業專攻 Có sự nghiên cứu chuyên về học thuật nghề nghiệp (Hàn Dũ: Sư thuyết); 專攻醫學 Chuyên nghiên cứu y học;",
+                "(văn) Trị liệu: 凡療瘍以五毒攻之 Nói chung trị bệnh loét phải dùng phương ngũ độc để trị (Chu lễ);",
+                "(văn) Khéo về, giỏi về (dùng như 工, bộ 工): 是攻用兵 Như thế là giỏi về việc dùng binh (Chiến quốc sách);",
+                "(văn) Chế tạo, làm, gia công: 庶民攻之，不日成之 Dân chúng đến làm (xây dựng Linh đài), chưa đầy ngày đã làm xong (Thi Kinh: Đại nhã, Linh đài);",
+                "(văn) Bền chắc: 我車旣攻 Xe ta đã sửa chắc (Thi Kinh: Tiểu nhã, Xa công);",
+                "(văn) Tinh xảo: 材良而器攻 Vật liệu tốt mà đồ dùng tinh xảo (Liễu Tôn Nguyên: Thuyết xa tặng Dương Hối Chi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đem binh mà đánh — Chuyên chú làm việc — Chỉ trích lỗi lầm của người khác."
+            ],
+            "compound_words": {
+                "攻打": "công đả",
+                "攻击": "công kích",
+                "攻擊": "công kích",
+                "攻伐": "công phạt",
+                "攻势": "công thế",
+                "攻勢": "công thế",
+                "攻守": "công thủ",
+                "攻書": "công thư",
+                "黨同攻異": "đảng đồng công dị",
+                "夾攻": "giáp công",
+                "火攻": "hoả công",
+                "內攻": "nội công",
+                "襲攻": "tập công",
+                "進攻": "tiến công",
+                "围攻": "vi công",
+                "圍攻": "vi công"
+            }
+        }
+    }
+}

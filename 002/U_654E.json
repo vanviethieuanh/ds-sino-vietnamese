@@ -1,0 +1,93 @@
+{
+    "character": "敎",
+    "details": {
+        "Âm Hán Việt": [
+            "giao",
+            "giáo"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phác 攴 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿰𡥉攵"
+        ],
+        "Nét bút": [
+            "ノ丶一ノフ丨一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KDOK (大木人大)"
+        ],
+        "Unicode": [
+            "U+654E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiāo ㄐㄧㄠ",
+            "jiào ㄐㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "dáo",
+            "dạy",
+            "giáo"
+        ],
+        "Âm Hàn": [
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "gaau3"
+        ]
+    },
+    "meanings": {
+        "giao": {
+            "Từ điển phổ thông": [
+                "dạy dỗ, truyền thụ",
+                "tôn giáo, đạo",
+                "sai bảo, khiến",
+                "cho phép"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Như chữ 教."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lệnh dạy (lệnh truyền), mệnh lệnh của thiên tử gọi là chiếu 詔 mệnh lệnh của thái tử, và của chư hầu gọi là giáo 敎.",
+                "Dạy dỗ, như giáo dục 敎育 dạy nuôi, giáo sư 敎師 thầy giáo, v.v.",
+                "Tôn giáo, gọi tắt là giáo, như giáo hội 敎會 hội tôn giáo, hồi giáo 回敎 tôn giáo hồi, v.v.",
+                "Các chức quan coi về việc học đều gọi là giáo chức 敎職.",
+                "Một âm là giao. Sai khiến."
+            ]
+        },
+        "giáo": {
+            "Từ điển phổ thông": [
+                "dạy dỗ, truyền thụ",
+                "tôn giáo, đạo",
+                "sai bảo, khiến",
+                "cho phép"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Như chữ 教."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lệnh dạy (lệnh truyền), mệnh lệnh của thiên tử gọi là chiếu 詔 mệnh lệnh của thái tử, và của chư hầu gọi là giáo 敎.",
+                "Dạy dỗ, như giáo dục 敎育 dạy nuôi, giáo sư 敎師 thầy giáo, v.v.",
+                "Tôn giáo, gọi tắt là giáo, như giáo hội 敎會 hội tôn giáo, hồi giáo 回敎 tôn giáo hồi, v.v.",
+                "Các chức quan coi về việc học đều gọi là giáo chức 敎職.",
+                "Một âm là giao. Sai khiến."
+            ],
+            "compound_words": {
+                "敎育": "giáo dục",
+                "敎坊": "giáo phường",
+                "佛敎": "phật giáo",
+                "宗敎": "tông giáo",
+                "助敎": "trợ giáo"
+            }
+        }
+    }
+}

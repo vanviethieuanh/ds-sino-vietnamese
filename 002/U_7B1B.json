@@ -1,0 +1,80 @@
+{
+    "character": "笛",
+    "details": {
+        "Âm Hán Việt": [
+            "địch"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trúc 竹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮由"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "HLW (竹中田)"
+        ],
+        "Unicode": [
+            "U+7B1B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dí ㄉㄧˊ"
+        ],
+        "Âm Nôm": [
+            "địch",
+            "sáo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テキ (teki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふえ (fue)"
+        ],
+        "Âm Hàn": [
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "dek6"
+        ]
+    },
+    "meanings": {
+        "địch": {
+            "Từ điển phổ thông": [
+                "cái sáo (để thổi)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ống sáo. § Đời sau gọi thứ sáo thổi dọc là 'tiêu' 蕭, thứ thổi ngang là 'địch' 笛. ◇Nguyễn Du 阮攸: 'Đoản địch thanh thanh minh nguyệt trung' 短笛聲聲明月中 (Thăng Long 昇龍) Sáo vẳng từng hồi dưới trăng sáng.",
+                "(Danh) Còi. ◎Như: 'cảnh địch' 警笛 còi cảnh sát, 'khí địch' 汽笛 còi hơi (xe lửa, tàu thủy)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái sáo. Ðời sau gọi thứ sáo thổi dọc là cái tiêu 蕭, thứ thổi ngang là địch 笛. Nguyễn Du 阮攸: Ðoản địch thanh thanh minh nguyệt trung 短笛聲聲明月中 sáo vẳng từng hồi dưới sáng trăng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sáo: 笛子獨奏 Độc tấu sáo. Cg. 橫笛 [héngdí];",
+                "Còi: 汽笛 Còi (hơi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ống sáo ngắn, một thứ nhạc khí thời xưa. Bản dịch  Chinh phụ ngâm khúc  có câu: » Tiếng địch thổi nghe chừng đồng vọng «."
+            ],
+            "compound_words": {
+                "橫笛": "hoành địch",
+                "汽笛": "khí địch",
+                "牧笛": "mục địch"
+            }
+        }
+    }
+}

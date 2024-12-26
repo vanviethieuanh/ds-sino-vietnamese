@@ -1,0 +1,95 @@
+{
+    "character": "穢",
+    "details": {
+        "Âm Hán Việt": [
+            "uế"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "hoà 禾 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾歲"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨一丨一一ノ一丨ノノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDYMH (竹木卜一竹)"
+        ],
+        "Unicode": [
+            "U+7A62"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "uế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アイ (ai)",
+            "エ (e)",
+            "ワイ (wai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けが.す (kega.su)",
+            "けが.れ (kega.re)",
+            "けが.れる (kega.reru)"
+        ],
+        "Âm Hàn": [
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "wai3"
+        ]
+    },
+    "meanings": {
+        "uế": {
+            "Từ điển phổ thông": [
+                "cỏ xấu, cỏ dại",
+                "bẩn thỉu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ xấu, cỏ dại. ◇Đào Uyên Minh 陶淵明: 'Thần hưng lí hoang uế, Đái nguyệt hà sừ quy' 晨興理荒穢, 帶月荷鋤歸 (Quy điền viên cư 歸田園居) Sớm dậy rẫy cỏ hoang, (Tối đi) dưới trăng vác cuốc về.",
+                "(Danh) Sự nhơ bẩn, vật nhơ bẩn, vết xấu. ◎Như: 'tẩy uế' 洗穢 rửa sạch những nhơ bẩn. ◇Pháp Hoa Kinh 法華經: 'Thanh tịnh vô hà uế' 清淨無瑕穢 (Thí dụ phẩm đệ tam 譬喻品第三) Trong sạch không vết dơ.",
+                "(Danh) Người gian ác, xấu xa. ◇Tư Mã Quang 司馬光: 'Vị Hán gia trừ tàn khử uế' 為漢家除殘去穢 (Xích bích chi chiến 赤壁之戰) Vì nhà Hán trừ khử những kẻ tàn ác, xấu xa.",
+                "(Tính) Dơ, bẩn, không sạch sẽ. ◎Như: 'ô uế' 汙穢 nhơ bẩn, nhớp nhúa.",
+                "(Tính) Xấu xa, xấu xí. ◎Như: 'uế ngữ' 穢語 lời nhơ nhuốc, 'tự tàm hình uế' 自慚形穢 tự hổ thẹn vì hình thể xấu xí.",
+                "(Tính) Phiền tạp, tạp loạn. ◇Hậu Hán Thư 後漢書: 'Thiệm nhi bất uế, tường nhi hữu thể' 贍而不穢, 詳而有體 (Ban Bưu truyện hạ 班彪傳下) Phong phú mà không tạp loạn, Rõ ràng mà có thể cách.",
+                "(Động) Làm ô uế, bôi bẩn. ◇Thái Ung 蔡邕: 'Diện nhất đán bất tu sức, tắc trần cấu uế chi' 面一旦不修飾, 則塵垢穢之 (Nữ giới 女誡) Mặt mày một ngày mà không chăm sóc, thì bụi bặm sẽ làm dơ bẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ xấu, cỏ lan ruộng lúa.",
+                "Dơ bẩn, vết xấu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhơ, dơ bẩn: 污穢 Nhơ nhớp, dơ bẩn, bẩn thỉu. (Ngb) Xấu xa, nhơ nhuốc.【穢行】 uế hành [huìxíng] (văn) Làm bậy, hành động thối tha ô uế;",
+                "(văn) Cỏ dại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ rậm rạp lẫn lộn ở chỗ đất hoang — Nhơ bẩn. Td: Ô uế — Xấu xa nhơ bẩn."
+            ],
+            "compound_words": {
+                "汙穢": "ô uế",
+                "污穢": "ô uế",
+                "洗穢": "tẩy uế",
+                "穢氣": "uế khí",
+                "穢囊": "uế nang",
+                "穢雜": "uế tạp",
+                "穢物": "uế vật",
+                "臭穢": "xú uế"
+            }
+        }
+    }
+}

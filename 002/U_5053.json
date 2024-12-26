@@ -1,0 +1,76 @@
+{
+    "character": "偓",
+    "details": {
+        "Âm Hán Việt": [
+            "ác",
+            "ốc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿰亻屋"
+        ],
+        "Nét bút": [
+            "ノ丨フ一ノ一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "OSMG (人尸一土)"
+        ],
+        "Unicode": [
+            "U+5053"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wò ㄨㄛˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アク (aku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かか.わる (kaka.waru)"
+        ],
+        "Âm Hàn": [
+            "악"
+        ],
+        "Âm Quảng Đông": [
+            "ak1"
+        ]
+    },
+    "meanings": {
+        "ác": {
+            "Từ điển trích dẫn": [
+                "(Tính) Hẹp hòi, câu thúc.",
+                "(Danh) Họ 'Ác'. § 'Ác Thuyên' 偓佺 tên một vị tiên thời cổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ ngu đần."
+            ],
+            "compound_words": {
+                "偓促": "ác xúc"
+            }
+        },
+        "ốc": {
+            "Từ điển phổ thông": [
+                "cấp bách, gấp rút",
+                "họ Ốc"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cấp bách, gấp rút;",
+                "[Wò] (Họ) Ốc;",
+                "【偓佺】Ốc Thuyên [Wòquán] Tên một vị tiên trong truyền thuyết đời cổ."
+            ],
+            "compound_words": {
+                "偓佺": "ốc thuyên"
+            }
+        }
+    }
+}

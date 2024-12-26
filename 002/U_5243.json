@@ -1,0 +1,79 @@
+{
+    "character": "剃",
+    "details": {
+        "Âm Hán Việt": [
+            "thế"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "đao 刀 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰弟⺉"
+        ],
+        "Nét bút": [
+            "丶ノフ一フ丨ノ丨丨"
+        ],
+        "Thương Hiệt": [
+            "CHLN (金竹中弓)"
+        ],
+        "Unicode": [
+            "U+5243"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tì ㄊㄧˋ"
+        ],
+        "Âm Nôm": [
+            "thế",
+            "thí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まい (mai)",
+            "そ.る (so.ru)",
+            "す.る (su.ru)"
+        ],
+        "Âm Hàn": [
+            "체"
+        ],
+        "Âm Quảng Đông": [
+            "tai3"
+        ]
+    },
+    "meanings": {
+        "thế": {
+            "Từ điển phổ thông": [
+                "cắt tóc, cạo trọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Cắt, cạo. § Thường dùng cho râu, tóc. ◎Như: “thế phát” 剃髮 cắt tóc đi tu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cắt tóc. Cắt tóc đi tu gọi là thế phát 剃髮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cạo, cắt tóc: 剃頭 Cạo đầu, húi đầu; 剃光 Cạo trọc, húi trọc; 剃鬍子 Cạo râu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắt tóc. Cạo đầu. Cũng nói là Thế phát."
+            ],
+            "compound_words": {
+                "剃刀": "thế đao",
+                "剃度": "thế độ"
+            }
+        }
+    }
+}

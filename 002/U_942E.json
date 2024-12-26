@@ -1,0 +1,75 @@
+{
+    "character": "鐮",
+    "details": {
+        "Âm Hán Việt": [
+            "liêm"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "kim 金 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金廉"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丶一ノ丶ノ一フ一一丨丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CITC (金戈廿金)"
+        ],
+        "Unicode": [
+            "U+942E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lẹm",
+            "liêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)",
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かま (kama)"
+        ],
+        "Âm Quảng Đông": [
+            "lim4"
+        ]
+    },
+    "meanings": {
+        "liêm": {
+            "Từ điển phổ thông": [
+                "cái liềm, lưỡi liềm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái liềm (để cắt cỏ, gặt lúa). § Cũng viết là 鎌."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái liềm. Có khi viết là 鎌."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái liềm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái liềm. Như chữ Liêm 鎌. Cái hái, dùng để gặt lúa."
+            ],
+            "compound_words": {
+                "鉤鐮": "câu liêm",
+                "蜚鐮": "phỉ liêm"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "乡",
+    "details": {
+        "Âm Hán Việt": [
+            "hương",
+            "hướng",
+            "hưởng"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "ất 乙 (+2 nét)",
+            "yêu 幺 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "フフノ"
+        ],
+        "Thương Hiệt": [
+            "VVH (女女竹)"
+        ],
+        "Unicode": [
+            "U+4E61"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiāng ㄒㄧㄤ",
+            "xiǎng ㄒㄧㄤˇ",
+            "xiàng ㄒㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hương"
+        ],
+        "Âm Quảng Đông": [
+            "hoeng1"
+        ]
+    },
+    "meanings": {
+        "hương": {
+            "Từ điển phổ thông": [
+                "làng",
+                "thôn quê, nông thôn",
+                "quê hương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鄉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鄉"
+            ],
+            "compound_words": {
+                "故乡": "cố hương",
+                "乡贡": "hương cống",
+                "乡贯": "hương quán"
+            }
+        },
+        "hướng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hướng về, ngoảnh về (dùng như 向, bộ 口);",
+                "(văn) Phương hướng (dùng như 向, bộ 口): 紂卒易鄉 Quân của Trụ đổi hướng (Tuân tử: Thành tướng thiên);",
+                "Hướng dẫn;",
+                "Khuyên bảo;",
+                "Xưa, trước (đây), lúc nãy (dùng như 嚮, bộ 口): 鄉也吾見於夫子而問知Lúc nãy tôi gặp phu tử và hỏi nên mới biết (điều đó) (Luận ngữ); 臣鄉論蓋國家事 Điều thần nói trước đây là việc quốc gia đại sự (Tống sử: Phạm Trọng Yêm liệt truyện).【鄉使】hướng sử [xiàng shê] (văn) (Khi trước, lúc đầu) nếu như, nếu trước đây: 鄉使文王疏呂尚而不與深言，是周無天子之德，而文，武無與成其業也 Nếu trước đây Văn vương xa lánh Lã Thượng mà không nói chuyện thân thiết với họ Lã, thì đó là nhà Chu không có cái đức của bậc thiên tử, và vua Văn vua Võ cũng sẽ không cùng với ông ta làm nên sự nghiệp (Sử kí); 【鄉者】 hướng giả [xiàngzhâ] Trước đây, lúc nãy, vừa rồi: 鄉者先生之言有可聞者焉 Lời nói của tiên sinh lúc nãy có nhiều điều đáng nghe (Mặc tử);",
+                "(văn) Cửa sổ (dùng như 向, bộ 口)."
+            ]
+        },
+        "hưởng": {
+            "Từ điển Trần Văn Chánh": [
+                "Tiếng dội (dùng như 響): 猶景之象形，鄉之應聲 Giống như bóng theo hình, tiếng dội dội lại theo tiếng động (Hán thư)."
+            ]
+        }
+    }
+}

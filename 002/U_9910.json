@@ -1,0 +1,93 @@
+{
+    "character": "餐",
+    "details": {
+        "Âm Hán Việt": [
+            "xan"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thực 食 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱𣦼食"
+        ],
+        "Nét bút": [
+            "丨一ノフ丶フ丶ノ丶丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YEOIV (卜水人戈女)"
+        ],
+        "Unicode": [
+            "U+9910"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cān ㄘㄢ",
+            "sùn ㄙㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "san",
+            "xan",
+            "xun"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "ソン (son)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "の.む (no.mu)",
+            "くら.う (kura.u)"
+        ],
+        "Âm Hàn": [
+            "찬",
+            "손"
+        ],
+        "Âm Quảng Đông": [
+            "caan1"
+        ]
+    },
+    "meanings": {
+        "xan": {
+            "Từ điển phổ thông": [
+                "ăn",
+                "bữa cơm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn. ◎Như: 'tố xan' 素餐 không có công mà ăn lộc. ◇Tây du kí 西遊記: 'Triêu xan dạ túc' 朝餐夜宿 (Đệ nhất hồi) Sáng ăn tối nghỉ.",
+                "(Danh) Cơm, thức ăn, đồ ăn. ◎Như: 'tảo xan' 早餐 bữa ăn sáng, 'tây xan' 西餐 món ăn theo lối tây phương.",
+                "(Danh) Lượng từ: bữa, chuyến. ◎Như: 'nhất thiên tam xan phạn' 一天三餐飯 một ngày ba bữa cơm. ◇Trần Quốc Tuấn 陳國峻: 'Dư thường lâm xan vong thực, trung dạ phủ chẩm' 余常臨餐忘食, 中夜撫枕 (Dụ chư bì tướng hịch văn 諭諸裨將檄文) Ta thường tới bữa quên ăn, nửa đêm vỗ gối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ăn, không có công mà ăn lộc gọi là tố xan 素餐.",
+                "Bận, chuyến. Ăn một bữa cơm gọi là nhất xan 一餐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ăn: 飽餐一頓 Ăn một bữa no nê; 素餐 Ngồi không ăn lộc;",
+                "Bữa, bữa cơm: 一日三餐 Một ngày ba bữa;",
+                "Cơm, đồ ăn, thức ăn: 中餐 Cơm Trung Quốc; 西餐 Cơm tây."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn cơm — Bữa cơm."
+            ],
+            "compound_words": {
+                "午餐": "ngọ xan",
+                "廢寢忘餐": "phế tẩm vong xan",
+                "風餐露宿": "phong xan lộ túc",
+                "早餐": "tảo xan",
+                "晚餐": "vãn xan",
+                "晩餐": "vãn xan",
+                "餐飯": "xan phạn"
+            }
+        }
+    }
+}

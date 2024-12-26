@@ -1,0 +1,95 @@
+{
+    "character": "怛",
+    "details": {
+        "Âm Hán Việt": [
+            "đát"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖旦"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "PAM (心日一)"
+        ],
+        "Unicode": [
+            "U+601B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dá ㄉㄚˊ"
+        ],
+        "Âm Nôm": [
+            "đảm",
+            "đát",
+            "đắn",
+            "đắt",
+            "đét",
+            "tạ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダツ (datsu)",
+            "タン (tan)",
+            "タツ (tatsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いた.む (ita.mu)"
+        ],
+        "Âm Hàn": [
+            "달"
+        ],
+        "Âm Quảng Đông": [
+            "daat3"
+        ]
+    },
+    "meanings": {
+        "đát": {
+            "Từ điển phổ thông": [
+                "xót xa",
+                "kinh ngạc",
+                "nhọc nhằn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đau buồn, thương xót. § Tục gọi người chết là 'đát hóa' 怛化 là theo nghĩa ấy. ◇Thi Kinh 詩經: 'Cố chiêm Chu đạo, Trung tâm đát hề' 顧瞻周道, 中心怛兮 (Cối phong 檜風, Phỉ phong 匪風) Ngoái nhìn đường về nhà Chu, Trong lòng bi thương.",
+                "(Động) Kinh sợ, nể sợ. ◇Độc Cô Cập 獨孤及: 'Trì chánh si mị đát' 持正魑魅怛 (Đại thư kí thượng lí quảng châu 代書寄上李廣州) Giữ ngay chính thì yêu quái kính sợ.",
+                "(Động) Dọa nạt. ◇Liễu Tông Nguyên 柳宗元: 'Quần khuyển thùy tiên, dương vĩ giai lai, kì nhân nộ đát chi' 群犬垂涎, 揚尾皆來, 其人怒怛之 (Lâm giang chi mi 臨江之麋) Bầy chó nhỏ dãi, vểnh đuôi chạy lại, người đó giận dữ dọa nạt chúng.",
+                "(Danh) Sợ hãi. ◇Tả Tư 左思: 'Yên chí quan hình nhi hoài đát' 焉至觀形而懷怛 (Ngụy đô phú 魏都賦) Sao đến nỗi thấy hình mà đã mang lòng sợ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xót xa, thấy người có sự bất hạnh mà sinh lòng thương gọi là đát. Tục gọi người chết là đát hoá 怛化 là theo nghĩa ấy.",
+                "Kinh ngạc.",
+                "Nhọc nhằn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Buồn đau, thương xót, đau đớn, xót xa: 怛化 Người chết;",
+                "Kinh ngạc;",
+                "Nhọc nhằn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buồn khổ đau đớn — Sợ hãi — Kinh ngạc."
+            ],
+            "compound_words": {
+                "悲怛": "bi đát",
+                "惙怛": "chuyết đát",
+                "忉怛": "đao đát",
+                "愊怛": "phức đát",
+                "惻怛": "trắc đát"
+            }
+        }
+    }
+}

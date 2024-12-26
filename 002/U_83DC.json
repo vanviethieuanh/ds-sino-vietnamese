@@ -1,0 +1,94 @@
+{
+    "character": "菜",
+    "details": {
+        "Âm Hán Việt": [
+            "thái"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹采"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TBD (廿月木)"
+        ],
+        "Unicode": [
+            "U+83DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cài ㄘㄞˋ"
+        ],
+        "Âm Nôm": [
+            "thái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な (na)"
+        ],
+        "Âm Hàn": [
+            "채"
+        ],
+        "Âm Quảng Đông": [
+            "coi3"
+        ]
+    },
+    "meanings": {
+        "thái": {
+            "Từ điển phổ thông": [
+                "rau ăn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Rau, rau cỏ ăn được. ◎Như: 'bạch thái' 白菜 rau cải trắng. ◇Lỗ Tấn 魯迅: 'Hậu diện đích đê thổ tường lí thị thái viên' 後面的低土牆裡是菜園 (A Q chánh truyện 阿Q正傳) Đám đất mé sau bức tường đất thấp là một vườn rau.",
+                "(Danh) Món ăn, thức ăn. ◎Như: 'Xuyên thái' 川菜 món ăn Tứ Xuyên, 'tố thái' 素菜 món ăn chay.",
+                "(Danh) Chuyên chỉ 'du thái' 油菜 rau cải xanh.",
+                "(Tính) Tầm thường, không có gì xuất sắc. ◎Như: 'thái điểu' 菜鳥 người ngớ ngẩn, ngu dốt (tiếng chế giễu), cũng như 'ngai điểu' 呆鳥.",
+                "(Động) Ăn chay. ◎Như: 'thái đỗ' 菜肚 ăn chay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rau. Thứ rau cỏ nào ăn được đều gọi là thái. Người đói phải ăn rau trừ bữa nên gọi là thái sắc 菜色.",
+                "Tục gọi các đồ ăn cơm là thái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rau, cải, rau cải: 白菜 Rau cải trắng, cải thìa; 種菜 Trồng rau;",
+                "Thức ăn, món ăn: 好菜 Thức ăn ngon, món ăn ngon; 今天食堂有好菜 Hôm nay nhà ăn có bán thức ăn ngon."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rau để làm món ăn — Món ăn. Đồ ăn."
+            ],
+            "compound_words": {
+                "菠菜": "ba thái",
+                "白菜": "bạch thái",
+                "點菜": "điểm thái",
+                "荇菜": "hạnh thái",
+                "苦菜": "khổ thái",
+                "空心菜": "không tâm thái",
+                "納菜": "nạp thái",
+                "飯菜": "phạn thái",
+                "捲心菜": "quyển tâm thái",
+                "蓄菜": "súc thái",
+                "菜單": "thái đơn",
+                "菜園": "thái viên",
+                "酒菜": "tửu thái",
+                "蕹菜": "ủng thái"
+            }
+        }
+    }
+}

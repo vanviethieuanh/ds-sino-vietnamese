@@ -1,0 +1,136 @@
+{
+    "character": "雨",
+    "details": {
+        "Âm Hán Việt": [
+            "vú",
+            "vũ",
+            "vụ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "vũ 雨 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一丨フ丨丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "MLBY (一中月卜)"
+        ],
+        "Unicode": [
+            "U+96E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "vũ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あめ (ame)",
+            "あま- (ama-)",
+            "-さめ (-same)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu5",
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "vú": {
+            "Từ điển trích dẫn": [
+                "(Danh) Mưa. ◇Nguyễn Trãi 阮廌: 'Chung tiêu thính vũ thanh' (Thính vũ 聴雨) 終宵聽雨聲 Suốt đêm nghe tiếng mưa.",
+                "Một âm là 'vú'. (Động) Đổ, rơi, rưới, mưa xuống. ◎Như: 'vú bạc' 雨雹 đổ mưa đá, 'vú tuyết' 雨雪 mưa tuyết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mưa.",
+                "Một âm là vú. Ðổ mưa xuống. Như vú bạc 雨雹 đổ mưa đá, vú tuyết 雨雪 mưa tuyết, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Mưa, tuyết...) rơi, xuống, đổ xuống: 雨雪 Mưa tuyết, tuyết rơi; 雨雹 Đổ mưa đá. Xem 雨 [yư]."
+            ],
+            "compound_words": {
+                "夏雨雨人": "hạ vũ vú nhân"
+            }
+        },
+        "vũ": {
+            "Từ điển phổ thông": [
+                "mưa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mưa. ◇Nguyễn Trãi 阮廌: 'Chung tiêu thính vũ thanh' (Thính vũ 聴雨) 終宵聽雨聲 Suốt đêm nghe tiếng mưa.",
+                "Một âm là 'vú'. (Động) Đổ, rơi, rưới, mưa xuống. ◎Như: 'vú bạc' 雨雹 đổ mưa đá, 'vú tuyết' 雨雪 mưa tuyết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mưa.",
+                "Một âm là vú. Ðổ mưa xuống. Như vú bạc 雨雹 đổ mưa đá, vú tuyết 雨雪 mưa tuyết, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mưa: 天雨 Trời mưa xuống; 暴風雨 Mưa bão. Xem 雨 [yù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mưa.  Cung oán ngâm khúc : » Hình mộc thạch vàng kim ố cổ, Sắc cầm ngư ủ vũ ê phong « — Nhiều lắm. Như mưa. Xem Vũ pháo — Tên một bộ chữ Hán, tức bộ Vũ — Một âm là Vụ. Xem Vụ."
+            ],
+            "compound_words": {
+                "歐風美雨": "âu phong mĩ vũ",
+                "暴雨": "bạo vũ",
+                "別風淮雨": "biệt phong hoài vũ",
+                "甘雨": "cam vũ",
+                "穀雨": "cốc vũ",
+                "久旱逢甘雨": "cửu hạn phùng cam vũ",
+                "舊雨": "cựu vũ",
+                "夜雨": "dạ vũ",
+                "淫雨": "dâm vũ",
+                "下雨": "hạ vũ",
+                "夏雨": "hạ vũ",
+                "夏雨雨人": "hạ vũ vú nhân",
+                "紅雨": "hồng vũ",
+                "祈雨": "kì vũ",
+                "雷雨": "lôi vũ",
+                "良雨": "lương vũ",
+                "量雨表": "lượng vũ biểu",
+                "硬雨": "ngạnh vũ",
+                "凝雨": "ngưng vũ",
+                "法雨": "pháp vũ",
+                "風雨": "phong vũ",
+                "風雨表": "phong vũ biểu",
+                "灑淚雨": "sái lệ vũ",
+                "驟雨": "sậu vũ",
+                "殘雨": "tàn vũ",
+                "催花雨": "thôi hoa vũ",
+                "澤雨": "trạch vũ",
+                "雲雨": "vân vũ",
+                "未雨綢繆": "vị vũ trù mâu",
+                "雨淚": "vũ lệ",
+                "雨露": "vũ lộ",
+                "雨蛙": "vũ oa",
+                "雨砲": "vũ pháo",
+                "雨集": "vũ tập",
+                "雨雪": "vũ tuyết",
+                "春雨": "xuân vũ"
+            }
+        },
+        "vụ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mưa rơi. Đổ mưa. Ta cứ quen đọc Vũ — Rơi từ cao xuống. Đổ xuống. Trút xuống. Một âm là Vũ. Xem Vũ."
+            ]
+        }
+    }
+}

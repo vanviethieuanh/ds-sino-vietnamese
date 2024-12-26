@@ -1,0 +1,78 @@
+{
+    "character": "丟",
+    "details": {
+        "Âm Hán Việt": [
+            "đâu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhất 一 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱一去"
+        ],
+        "Nét bút": [
+            "一一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "HGI (竹土戈)"
+        ],
+        "Unicode": [
+            "U+4E1F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "diū ㄉㄧㄡ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)",
+            "チュ (chu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さる (saru)",
+            "なげう.つ (nageu.tsu)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "diu1",
+            "diu6"
+        ]
+    },
+    "meanings": {
+        "đâu": {
+            "Từ điển phổ thông": [
+                "tiêu mất, biến mất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mất hẳn, đi không trở lại nữa. ◎Như: 'đâu liễu tiền bao' 丟了錢包 mất bao tiền, 'đâu kiểm' 丟臉 mất mặt.",
+                "(Động) Ném đi, quăng. ◇Thủy hử truyện 水滸傳: 'Lỗ Đạt tiêu táo, tiện bả điệp nhi trản nhi đô đâu tại lâu bản thượng' 魯達焦躁, 便把碟兒盞兒都丟在樓板上 (Đệ tam hồi) Lỗ Đạt nổi nóng, liền quăng đĩa chén xuống sàn gác.",
+                "(Động) Đưa, liếc. ◎Như: 'đâu mi lộng nhãn' 丟眉弄眼 đưa mày liếc mắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mất hẳn, cái gì đi không lại nữa gọi là đâu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mất: 我把帽子丟哪兒了？ Cái mũ tôi đâu mất rồi?;",
+                "Vứt đi: 小孩子把手裡的菜葉丟給小兔喫 Em bé vứt lá cải trong tay cho thỏ ăn;",
+                "Bỏ: 我的法語丟好幾年了，都忘得差不多了 Tiếng Pháp của tôi bỏ đã mấy năm, bây giờ quên gần hết rồi."
+            ],
+            "compound_words": {
+                "丟掉": "đâu điệu",
+                "丟棄": "đâu khí",
+                "丟臉": "đâu kiểm"
+            }
+        }
+    }
+}

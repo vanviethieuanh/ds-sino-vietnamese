@@ -1,0 +1,67 @@
+{
+    "character": "圆",
+    "details": {
+        "Âm Hán Việt": [
+            "viên"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "vi 囗 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴囗员"
+        ],
+        "Nét bút": [
+            "丨フ丨フ一丨フノ丶一"
+        ],
+        "Thương Hiệt": [
+            "WRBO (田口月人)"
+        ],
+        "Unicode": [
+            "U+5706"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yuán ㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "viên"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "viên": {
+            "Từ điển phổ thông": [
+                "tròn, hình tròn",
+                "cầu, hình cầu",
+                "tròn (trăng)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 圓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 圓"
+            ],
+            "compound_words": {
+                "半圆": "bán viên",
+                "团圆": "đoàn viên",
+                "日圆": "nhật viên",
+                "圆盘": "viên bàn",
+                "圆周": "viên chu",
+                "圆柱": "viên trụ"
+            }
+        }
+    }
+}

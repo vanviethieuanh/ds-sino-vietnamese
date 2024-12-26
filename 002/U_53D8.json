@@ -1,0 +1,84 @@
+{
+    "character": "变",
+    "details": {
+        "Âm Hán Việt": [
+            "biến",
+            "biện"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hựu 又 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱亦又"
+        ],
+        "Nét bút": [
+            "丶一丨丨ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YCE (卜金水)"
+        ],
+        "Unicode": [
+            "U+53D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "biàn ㄅㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "bến",
+            "biến"
+        ],
+        "Âm Quảng Đông": [
+            "bin3"
+        ]
+    },
+    "meanings": {
+        "biến": {
+            "Từ điển phổ thông": [
+                "thay đổi, biến đổi",
+                "trờ thành, biến thành",
+                "bán lấy tiền",
+                "biến cố, rối loạn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 變."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 變"
+            ],
+            "compound_words": {
+                "不变": "bất biến",
+                "变壓器": "biến áp khí",
+                "变革": "biến cách",
+                "变质": "biến chất",
+                "变动": "biến động",
+                "变形": "biến hình",
+                "变化": "biến hoá",
+                "变換": "biến hoán",
+                "变卦": "biến quái",
+                "变色": "biến sắc",
+                "变数": "biến số",
+                "兵变": "binh biến",
+                "改变": "cải biến",
+                "多变": "đa biến",
+                "突变": "đột biến"
+            }
+        },
+        "biện": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 變."
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "character": "簿",
+    "details": {
+        "Âm Hán Việt": [
+            "bạ",
+            "bạc",
+            "bộ"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trúc 竹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮溥"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丶丶一一丨フ一一丨丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "HEII (竹水戈戈)"
+        ],
+        "Unicode": [
+            "U+7C3F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ",
+            "bù ㄅㄨˋ"
+        ],
+        "Âm Nôm": [
+            "bạ",
+            "bạ/bộ",
+            "bộ",
+            "bợ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボ (bo)"
+        ],
+        "Âm Hàn": [
+            "부",
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bou6"
+        ]
+    },
+    "meanings": {
+        "bạ": {
+            "Từ điển phổ thông": [
+                "sổ sách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sổ, vở. ◎Như: 'điểm danh bộ' 點名簿 sổ điểm danh, 'nhật kí bộ' 日記簿 sổ nhật kí, 'học tịch bộ' 學籍簿 học bạ (sổ dùng để ghi chép kết quả lịch trình mỗi học sinh).",
+                "(Danh) Tên chức quan, nói tắt của 'chủ bộ' 主簿.",
+                "(Danh) Văn trạng (bài văn giải bày sự thực để kêu với thần thánh, vua quan).",
+                "(Danh) Cái hốt. ◇Tam quốc chí 三國志: 'Mật dĩ bộ kích giáp' 宓以簿擊頰 (Tần Mật truyện 秦宓傳) Mật lấy cái hốt đánh vào mặt.",
+                "(Động) Thanh tra, kiểm điểm.",
+                "§ Cũng đọc là 'bạ'.",
+                "Một âm là 'bạc'. (Danh) Cái liếp, cái né (làm bằng tre nhỏ hay bằng cây lau, dùng để nuôi tằm). § Thông 'bạc' 箔. ◎Như: 'tàm bạc' 蠶簿 né tằm.",
+                "(Danh) Bức rèm. § Thông 'bạc' 箔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sổ, vở: 日記簿 Sổ nhật kí; 練習簿 Vở bài tập;",
+                "(văn) Cái hốt;",
+                "Xem 鹵簿 [lưbù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sổ sách ghi chép sự việc — Giấy tờ — Cũng đọc Bộ — Một âm khác là Bạc."
+            ],
+            "compound_words": {
+                "簿記": "bạ kí",
+                "簿錄": "bạ lục",
+                "簿閥": "bạ phiệt",
+                "簿書": "bạ thư",
+                "主簿": "chủ bạ",
+                "掌簿": "chưởng bạ",
+                "典簿": "điển bạ",
+                "學簿": "học bạ",
+                "記簿": "kí bạ",
+                "儉簿": "kiệm bạc",
+                "守簿": "thủ bạ",
+                "著簿": "trước bạ"
+            }
+        },
+        "bạc": {
+            "Từ điển trích dẫn": [
+                "(Danh) Sổ, vở. ◎Như: 'điểm danh bộ' 點名簿 sổ điểm danh, 'nhật kí bộ' 日記簿 sổ nhật kí, 'học tịch bộ' 學籍簿 học bạ (sổ dùng để ghi chép kết quả lịch trình mỗi học sinh).",
+                "(Danh) Tên chức quan, nói tắt của 'chủ bộ' 主簿.",
+                "(Danh) Văn trạng (bài văn giải bày sự thực để kêu với thần thánh, vua quan).",
+                "(Danh) Cái hốt. ◇Tam quốc chí 三國志: 'Mật dĩ bộ kích giáp' 宓以簿擊頰 (Tần Mật truyện 秦宓傳) Mật lấy cái hốt đánh vào mặt.",
+                "(Động) Thanh tra, kiểm điểm.",
+                "§ Cũng đọc là 'bạ'.",
+                "Một âm là 'bạc'. (Danh) Cái liếp, cái né (làm bằng tre nhỏ hay bằng cây lau, dùng để nuôi tằm). § Thông 'bạc' 箔. ◎Như: 'tàm bạc' 蠶簿 né tằm.",
+                "(Danh) Bức rèm. § Thông 'bạc' 箔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sổ sách, phàm những sách vở đặt ra để tùy thời ghi chép các sự vật đều gọi là bộ.",
+                "Lỗ bộ 鹵簿 các nghi vệ hầu hạ.",
+                "Cái hốt.",
+                "Một âm là bạc. Cái liếp, cái né. Như tàm bạc 蠶簿 cái né tằm, cũng như chữ bạc 箔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 箔 nghĩa",
+                "."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nong, cái nia để nuôi tằm — Các âm khác là Bạ, Bộ."
+            ],
+            "compound_words": {
+                "儉簿": "kiệm bạc"
+            }
+        },
+        "bộ": {
+            "Từ điển phổ thông": [
+                "sổ sách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sổ, vở. ◎Như: 'điểm danh bộ' 點名簿 sổ điểm danh, 'nhật kí bộ' 日記簿 sổ nhật kí, 'học tịch bộ' 學籍簿 học bạ (sổ dùng để ghi chép kết quả lịch trình mỗi học sinh).",
+                "(Danh) Tên chức quan, nói tắt của 'chủ bộ' 主簿.",
+                "(Danh) Văn trạng (bài văn giải bày sự thực để kêu với thần thánh, vua quan).",
+                "(Danh) Cái hốt. ◇Tam quốc chí 三國志: 'Mật dĩ bộ kích giáp' 宓以簿擊頰 (Tần Mật truyện 秦宓傳) Mật lấy cái hốt đánh vào mặt.",
+                "(Động) Thanh tra, kiểm điểm.",
+                "§ Cũng đọc là 'bạ'.",
+                "Một âm là 'bạc'. (Danh) Cái liếp, cái né (làm bằng tre nhỏ hay bằng cây lau, dùng để nuôi tằm). § Thông 'bạc' 箔. ◎Như: 'tàm bạc' 蠶簿 né tằm.",
+                "(Danh) Bức rèm. § Thông 'bạc' 箔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sổ sách, phàm những sách vở đặt ra để tùy thời ghi chép các sự vật đều gọi là bộ.",
+                "Lỗ bộ 鹵簿 các nghi vệ hầu hạ.",
+                "Cái hốt.",
+                "Một âm là bạc. Cái liếp, cái né. Như tàm bạc 蠶簿 cái né tằm, cũng như chữ bạc 箔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sổ, vở: 日記簿 Sổ nhật kí; 練習簿 Vở bài tập;",
+                "(văn) Cái hốt;",
+                "Xem 鹵簿 [lưbù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Bạ — Một âm khác là Bạc."
+            ],
+            "compound_words": {
+                "簿書": "bộ thư",
+                "鄉簿": "hương bộ"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "character": "募",
+    "details": {
+        "Âm Hán Việt": [
+            "mộ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "lực 力 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱莫力"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一一ノ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "TAKS (廿日大尸)"
+        ],
+        "Unicode": [
+            "U+52DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mù ㄇㄨˋ"
+        ],
+        "Âm Nôm": [
+            "mộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボ (bo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つの.る (tsuno.ru)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mou6"
+        ]
+    },
+    "meanings": {
+        "mộ": {
+            "Từ điển phổ thông": [
+                "tuyển mộ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tìm khắp, chiêu tập. ◎Như: 'mộ binh' 募兵 mộ lính. ◇Liễu Tông Nguyên 柳宗元: 'Dĩ vương mệnh tụ chi, tuế phú kì nhị. Mộ hữu năng bộ chi giả' 以王命聚之, 歲賦其二, 募有能捕之者 (Bộ xà giả thuyết 捕蛇者說) Theo lệnh vua sai thu góp (loài rắn đó), mỗi năm dâng nộp hai lần, (nên đi) chiêu mộ những người có tài bắt (rắn).",
+                "(Động) Xin, quyên. ◎Như: 'mộ hóa' 募化 xin bố thí, 'mộ quyên' 募捐 quyên góp.",
+                "(Danh) § Thông 'mô' 膜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tìm rộng ra. Treo một cái bảng nói rõ cách thức của mình muốn kén để cho người ta đến ứng nhận gọi là mộ, như mộ binh 募兵 mộ lính.",
+                "Xin, như mộ hoá 募化 thầy tu đi xin ăn, mộ quyên 募捐 quyên tiền gạo phát chẩn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mộ, chiêu mộ, tập hợp lại: 招募 Chiêu mộ;",
+                "Xin, quyên: 募捐 Quyên, lạc quyên; 募款 Quyên tiền; 募化 (Thầy tu) đi xin ăn, đi khất thực."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tìm kiếm rộng rãi khắp nơi — Kêu gọi tới."
+            ],
+            "compound_words": {
+                "招募": "chiêu mộ",
+                "公募": "công mộ",
+                "募兵": "mộ binh",
+                "募伇": "mộ dịch",
+                "募役": "mộ dịch",
+                "募緣": "mộ duyên",
+                "募化": "mộ hoá",
+                "募夫": "mộ phu",
+                "募捐": "mộ quyên",
+                "私募": "tư mộ",
+                "應募": "ứng mộ"
+            }
+        }
+    }
+}

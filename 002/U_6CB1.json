@@ -1,0 +1,85 @@
+{
+    "character": "沱",
+    "details": {
+        "Âm Hán Việt": [
+            "đà"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡它"
+        ],
+        "Nét bút": [
+            "丶丶一丶丶フノフ"
+        ],
+        "Thương Hiệt": [
+            "EJP (水十心)"
+        ],
+        "Unicode": [
+            "U+6CB1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ",
+            "duò ㄉㄨㄛˋ",
+            "tuó ㄊㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "đà",
+            "đờ",
+            "đừ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タ (ta)",
+            "ダ (da)"
+        ],
+        "Âm Hàn": [
+            "타"
+        ],
+        "Âm Quảng Đông": [
+            "to4"
+        ]
+    },
+    "meanings": {
+        "đà": {
+            "Từ điển phổ thông": [
+                "sông nhánh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khúc sông, vũng sông (thường dùng đặt tên đất). ◎Như: 'Thạch Bàn đà' 石盤沱.",
+                "(Danh) 'Đà giang' 沱江: (1) Tên sông ở tỉnh 'Tứ Xuyên' 四川. (2) Tên huyện thuộc tỉnh 'Hồ Nam' 湖南.",
+                "(Tính) § Xem 'bàng đà' 滂沱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông nhánh.",
+                "Bàng đà 滂沱 mưa giàn giụa, nước mắt chan hoà. Nguyễn Du 阮攸: Vũ tự bàng đà vân tự si 雨自滂沱雲自癡 mưa rơi tầm tã, mây thẫn thờ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sông nhánh;",
+                "(Mưa) tầm tã, (nước mắt) ràn rụa, chan hoà. Xem 滂沱;",
+                "[Tuó] Tên sông: 沱江 Sông Đà (ở tỉnh Tứ Xuyên, chi nhánh của sông Trường Giang)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mưa to — Nhánh sông."
+            ],
+            "compound_words": {
+                "滂沱": "bàng đà",
+                "沱江": "đà giang",
+                "潭沱": "đàm đà",
+                "滹沱": "hô đà"
+            }
+        }
+    }
+}

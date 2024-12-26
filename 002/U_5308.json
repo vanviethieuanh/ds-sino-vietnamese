@@ -1,0 +1,81 @@
+{
+    "character": "匈",
+    "details": {
+        "Âm Hán Việt": [
+            "hung"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "bao 勹 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿹勹凶"
+        ],
+        "Nét bút": [
+            "ノフノ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "PUK (心山大)"
+        ],
+        "Unicode": [
+            "U+5308"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiōng ㄒㄩㄥ"
+        ],
+        "Âm Nôm": [
+            "hung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Hàn": [
+            "흉"
+        ],
+        "Âm Quảng Đông": [
+            "hung1"
+        ]
+    },
+    "meanings": {
+        "hung": {
+            "Từ điển phổ thông": [
+                "rầm rĩ",
+                "tộc Hung Nô",
+                "nước Hungari"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phần thân thể phía trước từ cổ tới bụng. § Dạng gốc của chữ 'hung' 胸.",
+                "(Danh) Tức 'Hung Nô' dân tộc Trung Quốc thời cổ ở phía bắc.",
+                "(Danh) Tên gọi tắt của nước 'Hung-nha-lợi' 匈牙利 (Hungarian) ở châu Âu.",
+                "(Động) Rầm rĩ, huyên nhiễu. § Cũng viết là 洶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hung hung 匈匈 rầm rĩ. Cũng viết là 洶.",
+                "Nước Hung. Nước Hung-nha-lợi 匈牙利 (Hungarian) ở châu Âu, gọi tắt là nước Hung."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 胸 [xiong] (bộ 肉);",
+                "【匈奴】 Hung Nô [Xiongnú] Hung Nô (một dân tộc du mục thời xưa ở miền bắc Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái ngực, cái bụng."
+            ],
+            "compound_words": {
+                "匈加利": "hung gia lợi",
+                "匈牙利": "hung nha lợi",
+                "匈奴": "hung nô"
+            }
+        }
+    }
+}

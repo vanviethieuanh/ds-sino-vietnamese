@@ -1,0 +1,83 @@
+{
+    "character": "杀",
+    "details": {
+        "Âm Hán Việt": [
+            "sái",
+            "sát",
+            "tát"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mộc 木 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱㐅木"
+        ],
+        "Nét bút": [
+            "ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "XKD (重大木)"
+        ],
+        "Unicode": [
+            "U+6740"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sà ㄙㄚˋ",
+            "shā ㄕㄚ",
+            "shài ㄕㄞˋ",
+            "shè ㄕㄜˋ"
+        ],
+        "Âm Nôm": [
+            "sát"
+        ],
+        "Âm Quảng Đông": [
+            "saat3"
+        ]
+    },
+    "meanings": {
+        "sái": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 殺."
+            ]
+        },
+        "sát": {
+            "Từ điển phổ thông": [
+                "giết chết"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 殺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 殺"
+            ],
+            "compound_words": {
+                "暗杀": "ám sát",
+                "屠杀": "đồ sát",
+                "抹杀": "mạt sát",
+                "杀害": "sát hại",
+                "杀气": "sát khí",
+                "杀戮": "sát lục",
+                "杀人": "sát nhân",
+                "宰杀": "tể sát",
+                "自杀": "tự sát"
+            }
+        },
+        "tát": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 殺."
+            ]
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "character": "車",
+    "details": {
+        "Âm Hán Việt": [
+            "xa"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "xa 車 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "JWJ (十田十)"
+        ],
+        "Unicode": [
+            "U+8ECA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chē ㄔㄜ",
+            "jū ㄐㄩ"
+        ],
+        "Âm Nôm": [
+            "se",
+            "xa",
+            "xe",
+            "xế",
+            "xơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くるま (kuruma)"
+        ],
+        "Âm Hàn": [
+            "차",
+            "거"
+        ],
+        "Âm Quảng Đông": [
+            "ce1",
+            "geoi1"
+        ]
+    },
+    "meanings": {
+        "xa": {
+            "Từ điển phổ thông": [
+                "cái xe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Xe. ◎Như: 'khí xa' 汽車 xe hơi, 'hỏa xa' 火車 xe lửa.",
+                "(Danh) Hàm răng. ◇Tả truyện 左傳: 'Phụ xa tương y, thần vong xỉ hàn' 輔車相依, 脣亡齒寒 (Hi Công ngũ niên 僖公五年) Xương má và hàm răng cùng nương tựa nhau, môi hở răng lạnh.",
+                "(Danh) Guồng (có trục, có bánh xe xoay vần). ◎Như: 'thủy xa' 水車 xe nước, 'phưởng xa' 紡車 cái guồng xe sợi.",
+                "(Danh) Lượng từ: đơn vị chỉ số lần xe chuyên chở. ◎Như: 'nhất xa sa thạch' 一車砂石 một xe đá cát.",
+                "(Danh) Họ 'Xa'.",
+                "(Động) May (bằng máy). ◎Như: 'xa y phục' 車衣服 may quần áo.",
+                "(Động) Tiện. ◎Như: 'xa viên' 車圓 tiện tròn, 'xa oản' 車碗 tiện chén bát, 'xa pha li' 車玻璃 tiện thủy tinh.",
+                "(Động) Guồng, đạp nước (để dẫn nước lên cao). ◎Như: 'xa thủy' 車水 guồng nước, đạp nước.",
+                "(Động) Chở (bẳng xe). ◎Như: 'xa lạp ngập' 車垃圾 chở rác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái xe.",
+                "Hàm răng. Như phụ xa tương y 輔車相依 má và hàm răng cùng nương tựa nhau.",
+                "Phàm cái gì dùng sức xoay vần cho đỡ sức người đều gọi là xa. Như thuỷ xa 水車 xe nước, phưởng xa 紡車 cái guồng xe sợi, v.v.",
+                "Họ Xa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con xe trong cờ tướng. Xem 車 [che]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái xe. Td: Hoả xa (xe lửa) — Phàm vật gì có bánh tròn quay quanh trục đều gọi là xa. Td: Guồng quay tơ gọi là Phưởng xa — Xương lợi, ở dưới răng — Tên một bộ chữ Hán, tức bộ Xa."
+            ],
+            "compound_words": {
+                "柏車": "bách xa",
+                "輣車": "bành xa",
+                "包車": "bao xa",
+                "苹車": "biền xa",
+                "蒲車": "bồ xa",
+                "杯水車薪": "bôi thuỷ xa tân",
+                "革車": "cách xa",
+                "脂車": "chi xa",
+                "戰車": "chiến xa",
+                "輜車": "chuy xa",
+                "公共氣車": "công cộng khí xa",
+                "公車": "công xa",
+                "腳踏車": "cước đạp xa",
+                "輿車": "dư xa",
+                "洋車": "dương xa",
+                "倒車": "đảo xa",
+                "電車": "điện xa",
+                "停車": "đình xa",
+                "火車": "hoả xa",
+                "貨車": "hoà xa",
+                "魂車": "hồn xa",
+                "客車": "khách xa",
+                "遣車": "khán xa",
+                "氣車": "khí xa",
+                "汽車": "khí xa",
+                "鼸車": "khiểm xa",
+                "輕車": "khinh xa",
+                "列車": "liệt xa",
+                "靈車": "linh xa",
+                "鸞車": "loan xa",
+                "龍車": "long xa",
+                "露車": "lộ xa",
+                "雷車": "lôi xa",
+                "馬車": "mã xa",
+                "御車": "ngự xa",
+                "牛車": "ngưu xa",
+                "戎車": "nhung xa",
+                "風車": "phong xa",
+                "紡車": "phưởng xa",
+                "巢車": "sào xa",
+                "在車": "tại xa",
+                "殯車": "tấn xa",
+                "拖車": "tha xa",
+                "坦克車": "thản khắc xa",
+                "水車": "thuỷ xa",
+                "上車": "thượng xa",
+                "繀車": "tối xa",
+                "囚車": "tù xa",
+                "自動車": "tự động xa",
+                "自行車": "tự hành xa",
+                "車脚": "xa cước",
+                "車駕": "xa giá",
+                "車里": "xa lí",
+                "車裂": "xa liệt",
+                "車輪": "xa luân",
+                "車馬": "xa mã",
+                "車票": "xa phiếu",
+                "車夫": "xa phu",
+                "車服": "xa phục",
+                "車捐": "xa quyên",
+                "車載": "xa tải",
+                "車寢室": "xa tẩm thất",
+                "車前": "xa tiền",
+                "車葥": "xa tiền",
+                "車站": "xa trạm",
+                "車塵": "xa trần"
+            }
+        }
+    }
+}

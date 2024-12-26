@@ -1,0 +1,115 @@
+{
+    "character": "染",
+    "details": {
+        "Âm Hán Việt": [
+            "nhiễm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱氿木"
+        ],
+        "Nét bút": [
+            "丶丶一ノフ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "END (水弓木)"
+        ],
+        "Unicode": [
+            "U+67D3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "rǎn ㄖㄢˇ"
+        ],
+        "Âm Nôm": [
+            "nhẹm",
+            "nhiễm",
+            "nhuốm",
+            "ruộm",
+            "vẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そ.める (so.meru)",
+            "-ぞ.め (-zo.me)",
+            "-ぞめ (-zome)",
+            "そ.まる (so.maru)",
+            "し.みる (shi.miru)",
+            "-じ.みる (-ji.miru)",
+            "し.み (shi.mi)",
+            "-し.める (-shi.meru)"
+        ],
+        "Âm Hàn": [
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "jim5"
+        ]
+    },
+    "meanings": {
+        "nhiễm": {
+            "Từ điển phổ thông": [
+                "nhiễm, mắc, lây",
+                "nhuộm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhuộm. ◎Như: 'nhiễm bố' 染布 nhuộm vải.",
+                "(Động) Vẩy màu, rắc mực (khi viết vẽ). ◇Tương Phòng 蔣防: 'Sanh tố đa tài tư, thụ bút thành chương. (...) nhiễm tất, mệnh tàng ư bảo khiếp chi nội' 生素多才思, 授筆成章. (...) 染畢, 命藏於寶篋之內 (Hoắc Tiểu Ngọc truyện 霍小玉傳) Sinh ra vốn nhiều tài năng, cầm bút thành văn. (...) vẩy mực xong, sai cất giữ trong tráp quý.",
+                "(Động) Vấy, thấm, dính bẩn. ◎Như: 'nhất trần bất nhiễm' 一塵不染 không dính một hạt bụi nào. ◇Vương An Thạch 王安石: 'Hoang yên lương vũ trợ nhân bi, Lệ nhiễm y cân bất tự tri' 荒煙涼雨助人悲, 淚染衣巾不自知 (Tống Hòa Phủ 送和甫) Khói hoang mưa lạnh làm cho người buồn thêm, Nước mắt thấm vào khăn áo mà không hay.",
+                "(Động) Lây, mắc phải. ◎Như: 'truyền nhiễm' 傳染 truyền lây, 'nhiễm bệnh' 染病 lây bệnh.",
+                "(Danh) Quan hệ nam nữ không chính đính. ◎Như: 'lưỡng nhân hữu nhiễm' 兩人有染 hai người có dây dưa.",
+                "(Danh) Họ 'Nhiễm'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhuộm, dùng các thuốc mùi mà nhuộm các thứ đồ gọi là nhiễm.",
+                "Nhiễm dần, ở với những người hay rồi mình cũng hay, ở với những kẻ hư rồi mình cũng hư gọi là nhiễm.",
+                "Lây, một kẻ bị bệnh lây sang kẻ khác gọi là truyền nhiễm 傳染."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhuộm: 染布 Nhuộm vải; 印染廠 Nhà máy in mhuộm;",
+                "Lây, lây nhiễm, tiêm nhiễm, mắc: 傳染 Truyền nhiễm, lây; 染病 Nhiễm bệnh, bị lây bệnh; 染上惡習 Tiêm nhiễm thói xấu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhuộm vải lụa cho có màu — Lâu dần thành quen, như nhuốm vào người — Nhuốm bệnh. Lây bệnh."
+            ],
+            "compound_words": {
+                "愛染": "ái nhiễm",
+                "感染": "cảm nhiễm",
+                "荏染": "nhẫm nhiễm",
+                "染疫": "nhiễm dịch",
+                "染化": "nhiễm hoá",
+                "染料": "nhiễm liệu",
+                "染污": "nhiễm ô",
+                "染色": "nhiễm sắc",
+                "染習": "nhiễm tập",
+                "染草": "nhiễm thảo",
+                "染蟲": "nhiễm trùng",
+                "濡染": "nhu nhiễm",
+                "汙染": "ô nhiễm",
+                "污染": "ô nhiễm",
+                "浸染": "tẩm nhiễm",
+                "習染": "tập nhiễm",
+                "深染": "thâm nhiễm",
+                "漸染": "tiêm nhiễm",
+                "沾染": "triêm nhiễm",
+                "传染": "truyền nhiễm",
+                "傳染": "truyền nhiễm"
+            }
+        }
+    }
+}

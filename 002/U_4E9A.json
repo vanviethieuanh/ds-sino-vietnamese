@@ -1,0 +1,81 @@
+{
+    "character": "亚",
+    "details": {
+        "Âm Hán Việt": [
+            "á"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhất 一 (+5 nét)",
+            "nhị 二 (+4 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一丨丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "MTC (一廿金)"
+        ],
+        "Unicode": [
+            "U+4E9A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yā ㄧㄚ",
+            "yà ㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "á"
+        ],
+        "Âm Quảng Đông": [
+            "aa3",
+            "ngaa3"
+        ]
+    },
+    "meanings": {
+        "á": {
+            "Từ điển phổ thông": [
+                "thứ hai",
+                "châu Á"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 亞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 亞"
+            ],
+            "compound_words": {
+                "亚格门农": "á cách môn nông",
+                "亚洲": "á châu",
+                "亚特兰大": "á đặc lan đại",
+                "亚拉巴马": "á lạp ba mã",
+                "亚麻": "á ma",
+                "阿尔巴尼亚": "a nhĩ ba ni á",
+                "阿尔及利亚": "a nhĩ cập lợi á",
+                "亚军": "á quân",
+                "亚太": "á thái",
+                "亚太经合组织": "á thái kinh hiệp tổ chức",
+                "印度尼西亚": "ấn độ ni tây á",
+                "巴布亚新几內亚": "ba bố á tân kỷ nội á",
+                "波斯尼亚": "ba tư ni á",
+                "哥伦比亚": "ca luân tỷ á",
+                "东亚": "đông á",
+                "东南亚国家联盟": "đông nam á quốc gia liên minh",
+                "肯尼亚": "khẳng ni á",
+                "南亚": "nam á",
+                "玻利维亚": "pha lợi duy á",
+                "中亚": "trung á",
+                "澳大利亚": "úc đại lợi á"
+            }
+        }
+    }
+}

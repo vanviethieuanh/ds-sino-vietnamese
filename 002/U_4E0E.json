@@ -1,0 +1,106 @@
+{
+    "character": "与",
+    "details": {
+        "Âm Hán Việt": [
+            "dư",
+            "dữ",
+            "dự"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "nhất 一 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一フ一"
+        ],
+        "Thương Hiệt": [
+            "YSM (卜尸一)"
+        ],
+        "Unicode": [
+            "U+4E0E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ",
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "dữ",
+            "đử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨ (yo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あた.える (ata.eru)",
+            "あずか.る (azuka.ru)",
+            "くみ.する (kumi.suru)",
+            "ともに (tomoni)"
+        ],
+        "Âm Hàn": [
+            "여"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4",
+            "jyu5",
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "dư": {
+            "Từ điển phổ thông": [
+                "cho",
+                "đi lại chơi bời, thân thiện",
+                "khen ngợi, tán thưởng"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 與.",
+                "Giản thể của chữ 與."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 與 (bộ 臼)."
+            ]
+        },
+        "dữ": {
+            "Từ điển phổ thông": [
+                "cho",
+                "đi lại chơi bời, thân thiện",
+                "khen ngợi, tán thưởng"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 與.",
+                "Giản thể của chữ 與."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ 與."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 與 (bộ 臼)."
+            ],
+            "compound_words": {
+                "参与": "tham dữ",
+                "授与": "thụ dữ"
+            }
+        },
+        "dự": {
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 與.",
+                "Giản thể của chữ 與."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 與 (bộ 臼)."
+            ]
+        }
+    }
+}

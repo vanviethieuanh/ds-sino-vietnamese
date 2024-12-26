@@ -1,0 +1,53 @@
+{
+    "character": "饹",
+    "details": {
+        "Âm Hán Việt": [
+            "lạc"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thực 食 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰饣各"
+        ],
+        "Nét bút": [
+            "ノフフノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "NVHER (弓女竹水口)"
+        ],
+        "Unicode": [
+            "U+9979"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lē ㄌㄜ",
+            "lè ㄌㄜˋ",
+            "le"
+        ]
+    },
+    "meanings": {
+        "lạc": {
+            "Từ điển phổ thông": [
+                "(xem: hợp lạc 餄餎,饸饹)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 餎"
+            ],
+            "compound_words": {
+                "饸饹": "hợp lạc"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "猝",
+    "details": {
+        "Âm Hán Việt": [
+            "thốt"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨卒"
+        ],
+        "Nét bút": [
+            "ノフノ丶一ノ丶ノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "KHYOJ (大竹卜人十)"
+        ],
+        "Unicode": [
+            "U+731D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cù ㄘㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thốt",
+            "thút",
+            "tót",
+            "vuốt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソツ (sotsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にわか (niwaka)"
+        ],
+        "Âm Hàn": [
+            "졸"
+        ],
+        "Âm Quảng Đông": [
+            "cyut3"
+        ]
+    },
+    "meanings": {
+        "thốt": {
+            "Từ điển phổ thông": [
+                "vội vàng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Phó) Đột nhiên, thình lình. ◎Như: “thảng thốt” 倉猝 vội vàng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Vội vàng, như thảng thốt 倉猝 lúc bối rối vội vàng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bỗng nhiên, đột ngột, thình lình: 猝不及防 Đột ngột không kịp đề phòng; 猝起變化 Biến đổi đột ngột; 倉猝 Bối rối vội vàng; 非常之謀，難于猝發 Những mưu hay kế lạ, khó đột ngột nghĩ ra được (Trương Phổ: Ngũ nhân mộ bi kí);",
+                "Vội vã, cấp bách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chó thình lình xổ ra đuổi cắn người — Thình lình. Bất chợt."
+            ],
+            "compound_words": {
+                "仓猝": "thảng thốt",
+                "倉猝": "thảng thốt",
+                "猝然": "thốt nhiên"
+            }
+        }
+    }
+}

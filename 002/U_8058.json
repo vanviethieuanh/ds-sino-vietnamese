@@ -1,0 +1,99 @@
+{
+    "character": "聘",
+    "details": {
+        "Âm Hán Việt": [
+            "sính"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhĩ 耳 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰耳甹"
+        ],
+        "Nét bút": [
+            "一丨丨一一一丨フ一丨一一フ"
+        ],
+        "Thương Hiệt": [
+            "SJLWS (尸十中田尸)"
+        ],
+        "Unicode": [
+            "U+8058"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pìn ㄆㄧㄣˋ",
+            "pìng ㄆㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "sánh",
+            "sính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "へい.する (hei.suru)",
+            "と.う (to.u)",
+            "め.す (me.su)"
+        ],
+        "Âm Hàn": [
+            "빙"
+        ],
+        "Âm Quảng Đông": [
+            "ping3"
+        ]
+    },
+    "meanings": {
+        "sính": {
+            "Từ điển phổ thông": [
+                "tìm hỏi, mời đón",
+                "lễ cưới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tìm hỏi, mời đón (nghe biết ai có tài có đức sinh lòng kính lễ, lấy các đồ quý báu đến tặng để cầu thân hay xin giúp đỡ). ◇Lễ Kí 禮記: 'Miễn chư hầu, sính danh sĩ, lễ hiền giả' 勉諸侯, 聘名士, 禮賢者 (Nguyệt lệnh 月令) Khuyên khích chư hầu, mời đón kẻ sĩ có tiếng tăm, hậu đãi người hiền tài.",
+                "(Động) Hỏi thăm, các nước sai sứ đi thông hiếu với nhau (ngày xưa). ◇Thiền Uyển Tập Anh 禪苑集英: 'Thất niên Tống nhân Nguyễn Giác lai sính' 七年宋人阮覺來聘 (Khuông Việt Đại sư 匡越大師) Năm (Thiên Phúc) thứ 7 (986), người Tống là Nguyễn Giác sang sứ nước ta.",
+                "(Động) Đính hôn. ◎Như: 'sính định' 聘定 đính hôn (giao ước làm vợ chồng nhưng chưa làm lễ thành hôn).",
+                "(Danh) Lễ cưới hoặc lễ vật đem đến giạm hỏi cưới. ◇Phù sanh lục kí 浮生六記: 'Dĩ thiên kim tác sính' 以千金作聘 (Khảm kha kí sầu 坎坷記愁) Bỏ ra một ngàn tiền vàng làm sính lễ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tìm hỏi, mời đón. Nghe biết ai có tài có đức sinh lòng kính lễ, lấy các đồ quý báu đến tặng để cầu thân hay cầu giúp mình gọi là sính.",
+                "Hỏi thăm, các nước sai sứ đi thông hiếu với nhau gọi là sính.",
+                "Lễ cưới, do người mai mối đem lễ vật đến giạm hỏi cũng gọi là sính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mời (đến làm việc): 聘爲顧問 Mời làm cố vấn; 被聘爲名譽主席 Được mời làm chủ tịch danh dự;",
+                "(văn) Hỏi thăm (qua việc cử sứ giả đi);",
+                "Hỏi, giạm hỏi: 聘妻 Hỏi vợ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏi cho biết — Đem lễ vật tới mời người hiền tài ra giúp nước — Đem lễ vật đi hỏi vợ."
+            ],
+            "compound_words": {
+                "報聘": "báo sính",
+                "招聘": "chiêu sính",
+                "聘用": "sính dụng",
+                "聘賢": "sính hiền",
+                "聘金": "sính kim",
+                "聘禮": "sính lễ",
+                "聘命": "sính mệnh",
+                "聘儀": "sính nghi",
+                "聘君": "sính quân",
+                "聘妻": "sính thê",
+                "聘請": "sính thỉnh",
+                "聘問": "sính vấn",
+                "應聘": "ứng sính"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "我",
+    "details": {
+        "Âm Hán Việt": [
+            "ngã"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "qua 戈 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノ一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HQI (竹手戈)"
+        ],
+        "Unicode": [
+            "U+6211"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wǒ ㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "ngã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "われ (ware)",
+            "わ (wa)",
+            "わ.が- (wa.ga-)",
+            "わが- (waga-)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "ngo5"
+        ]
+    },
+    "meanings": {
+        "ngã": {
+            "Từ điển phổ thông": [
+                "tôi, tao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Đại) Ta, tôi, tao (đại từ ngôi thứ nhất).",
+                "(Danh) Bản thân. ◎Như: 'vô ngã' 無我 đừng chấp bản thân. ◇Luận Ngữ 論語: 'Tử tuyệt tứ: vô ý, vô tất, vô cố, vô ngã' 子絕四: 毋意, 毋必, 毋固, 毋我 (Tử Hãn 子罕) Khổng Tử bỏ hẳn bốn tật này: \"vô ý\" là xét việc thì không đem ý riêng (hoặc tư dục) của mình vào mà cứ theo lẽ phải; \"vô tất\" tức không quyết rằng điều đó tất đúng, việc đó tất làm được; \"vô cố\" tức không cố chấp, \"vô ngã\" tức quên mình đi, không để cho cái ta làm mờ (hoặc không ích kỉ mà phải chí công vô tư).",
+                "(Tính) Của ta, của tôi (tỏ ý thân mật). ◎Như: 'ngã huynh' 我兄 anh tôi, 'ngã đệ' 我弟 em ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ta (tiếng tự xưng mình).",
+                "Mình tự gọi mình cũng gọi là ngã.",
+                "Của ta, lời nói cho thân thêm, như ngã huynh 我兄, anh của ta, ngã đệ 我弟 em của ta, v.v.",
+                "Ý riêng ta, như vô ngã 無我 đừng cứ ý riêng ta, cố chấp ý kiến của mình gọi là ngã chấp 我執."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tôi, ta, tao, tớ, mình (đại từ nhân xưng số ít, ngôi thứ nhất, chỉ người): 給我一杯水 Cho tôi một cốc nước; 忘我精神 Tinh thần quên mình;",
+                "Của ta (tỏ ý thân mật): 我兄 Anh ta; 我弟 Em ta; 竊比於我老彭 Ta trộm ví mình với ông Lão Bành nhà ta (Luận ngữ); 惟我大越之國，實爲 文獻之邦 Nước Đại Việt ta thật là một nước có văn hiến (Bình Ngô đại cáo);",
+                "Chúng ta, nước ta, phe ta, bên ta: 十年春，齊師伐我 Mùa xuân năm thứ mười, quân Tề tấn công nước ta (Tả truyện);",
+                "(văn) Tự cho mình là đúng: 毌固，毌我 Đừng câu nệ cố chấp, đừng tự cho mình là đúng (Luận ngữ: Tử hãn)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tôi. Ta. Tiếng tự xưng. Hát nói của Dương Khuê có câu: » Ngã lãng du thời, quân thượng thiếu « ( lúc mà ta rong chơi phóng túng thì nàng hãy còn nhỏ tuổi )."
+            ],
+            "compound_words": {
+                "主我": "chủ ngã",
+                "唯我": "duy ngã",
+                "唯我獨尊": "duy ngã độc tôn",
+                "唯我論": "duy ngã luận",
+                "我輩": "ngã bối",
+                "我國": "ngã quốc",
+                "爾虞我詐": "nhĩ ngu ngã trá",
+                "非我": "phi ngã",
+                "捲舒在我": "quyển thư tại ngã",
+                "嗟我": "ta ngã",
+                "爲我": "vị ngã",
+                "無我": "vô ngã"
+            }
+        }
+    }
+}

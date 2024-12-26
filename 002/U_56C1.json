@@ -1,0 +1,83 @@
+{
+    "character": "囁",
+    "details": {
+        "Âm Hán Việt": [
+            "chiếp",
+            "nhiếp"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "khẩu 口 (+18 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口聶"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨一一一一丨丨一一一一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "RSJJ (口尸十十)"
+        ],
+        "Unicode": [
+            "U+56C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "niè ㄋㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "li",
+            "niếp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ささや.く (sasaya.ku)"
+        ],
+        "Âm Hàn": [
+            "섭",
+            "녑"
+        ],
+        "Âm Quảng Đông": [
+            "zip3"
+        ]
+    },
+    "meanings": {
+        "chiếp": {
+            "Từ điển phổ thông": [
+                "hấp háy môi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Phó) “Chiếp nhu” 囁嚅 nhập nhù, ấp úng, muốn nói nhưng lại thôi. ◇Tô Mạn Thù 蘇曼殊: “Cửu nãi chiếp nhu ngôn viết” 久乃囁嚅言曰 (Đoạn hồng linh nhạn kí 斷鴻零雁記) Một chặp lâu sau mới ấp úng mà bảo rằng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chiếp nhu 囁嚅 nhập nhù."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói năng không giữ gìn, nói luôn miệng — Dáng miệng mấp máy."
+            ],
+            "compound_words": {
+                "呫囁": "chiếp chiếp"
+            }
+        },
+        "nhiếp": {
+            "Từ điển Trần Văn Chánh": [
+                "【囁嚅】 nhiếp nhu [nièrú] (văn) Ngập ngừng, ấp úng."
+            ],
+            "compound_words": {
+                "呫囁": "xiếp nhiếp"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "倖",
+    "details": {
+        "Âm Hán Việt": [
+            "hãnh"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻幸"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OGTJ (人土廿十)"
+        ],
+        "Unicode": [
+            "U+5016"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xìng ㄒㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "hãnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しあわ.せ (shiawa.se)",
+            "さいわ.い (saiwa.i)"
+        ],
+        "Âm Hàn": [
+            "행"
+        ],
+        "Âm Quảng Đông": [
+            "hang6"
+        ]
+    },
+    "meanings": {
+        "hãnh": {
+            "Từ điển phổ thông": [
+                "may mắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Thân cận. ◎Như: 'hãnh thần' 倖臣 bề tôi thân cận.",
+                "(Phó) May mắn. ◎Như: 'kiểu hãnh' 僥倖 cầu may, 'hãnh tồn' 倖存 may còn. § Cùng nghĩa như chữ 'hạnh' 幸."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① May, như kiểu hãnh 僥倖 cầu may. Cũng cùng nghĩa như chữ hạnh 幸 may."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 幸 (bộ 干). Xem 僥倖."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "May mắn. Chẳng hạn Hãnh tồn ( May mắn còn được ) — Kiêu căng. Chẳng hạn Kiêu hãnh — Thân mật gần gũi."
+            ],
+            "compound_words": {
+                "薄倖": "bạc hãnh",
+                "嬖倖": "bế hãnh",
+                "侥倖": "nghiêu hãnh",
+                "僥倖": "nghiêu hãnh"
+            }
+        }
+    }
+}

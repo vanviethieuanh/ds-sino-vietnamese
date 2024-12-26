@@ -1,0 +1,98 @@
+{
+    "character": "嘰",
+    "details": {
+        "Âm Hán Việt": [
+            "cơ",
+            "ki",
+            "ky",
+            "kỷ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口幾"
+        ],
+        "Nét bút": [
+            "丨フ一フフ丶フフ丶一ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "RVII (口女戈戈)"
+        ],
+        "Unicode": [
+            "U+5630"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "ghè",
+            "kí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "ケ (ke)"
+        ],
+        "Âm Quảng Đông": [
+            "gei1"
+        ]
+    },
+    "meanings": {
+        "cơ": {
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) (Kêu) chiêm chiếp: 小雞嘰嘰叫 Gà con kêu chiêm chiếp;",
+                "(Nói) thì thào, líu lo;",
+                "(văn) Ăn một chút;",
+                "Xem 嗶嘰."
+            ]
+        },
+        "ki": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'tất ki' 嗶嘰.",
+                "(Trạng thanh) Chiêm chiếp, râm ran (tiếng chim hoặc tiếng ve kêu). ◎Như: 'thiền nhi ki ki đích khiếu' 蟬兒嘰嘰的叫 tiếng ve kêu râm ran."
+            ],
+            "compound_words": {
+                "嘰嘰喳喳": "ki ki tra tra",
+                "嘰哩咕嚕": "ki lí cô lỗ",
+                "嗶嘰": "tất ki"
+            }
+        },
+        "ky": {
+            "Từ điển phổ thông": [
+                "ăn một chút",
+                "than thở, sùi sụt"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) (Kêu) chiêm chiếp: 小雞嘰嘰叫 Gà con kêu chiêm chiếp;",
+                "(Nói) thì thào, líu lo;",
+                "(văn) Ăn một chút;",
+                "Xem 嗶嘰."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cười — Đau đớn — Ăn tạm cho đỡ đói."
+            ],
+            "compound_words": {
+                "咔嘰": "ca ky"
+            }
+        },
+        "kỷ": {
+            "Từ điển Thiều Chửu": [
+                "Ăn một chút.",
+                "Than thở, sụt sùi.",
+                "Tất kỉ 嗶嘰 đồ dệt bằng lông."
+            ]
+        }
+    }
+}

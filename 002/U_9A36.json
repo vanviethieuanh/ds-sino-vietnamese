@@ -1,0 +1,91 @@
+{
+    "character": "騶",
+    "details": {
+        "Âm Hán Việt": [
+            "sô"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "mã 馬 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬芻"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶ノフフ丨ノノフフ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "SFPUU (尸火心山山)"
+        ],
+        "Unicode": [
+            "U+9A36"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qū ㄑㄩ",
+            "zhòu ㄓㄡˋ",
+            "zhū ㄓㄨ",
+            "zōu ㄗㄡ"
+        ],
+        "Âm Nôm": [
+            "sô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)",
+            "シュ (shu)",
+            "ス (su)",
+            "チュ (chu)",
+            "スウ (sū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うまかい (umakai)"
+        ],
+        "Âm Hàn": [
+            "추"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "sô": {
+            "Từ điển phổ thông": [
+                "dẹp đường cho kiệu quan đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Kị sĩ, người dẹp đường hay hộ vệ cho quan quý khi đi ra ngoài (ngày xưa). § Vì thế gọi kẻ đi hầu là 'tiền sô' 前騶 hay 'sô tụng' 騶從. ◇Liêu trai chí dị 聊齋志異: 'Sô tụng tạm lệnh khứ hĩ' 騶從暫令去矣 (Châu nhi 珠兒) Người ngựa theo hầu tạm cho đi cả rồi.",
+                "(Danh) Chức quan coi về việc xe ngựa.",
+                "(Danh) Họ 'Sô'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khi người quan quý đi ra, trước có kẻ dẹp đường, sau có kẻ hộ vệ đều gọi là sô. Vì thế nên gọi kẻ đi hầu của một người nào là tiền sô 前騶 hay sô tụng 騶從.",
+                "Chức quan coi về việc xe ngựa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Người cưỡi ngựa dẹp đường (thời xưa, cho quan lớn đi): 前騶 người cưỡi ngựa dẹp đường phía trước. 【騶從】sô tòng [zoucóng] (văn) Phu ngựa (thời cổ);",
+                "Chức quan coi về việc xe ngựa (thời xưa);",
+                "[Zou] (Họ) Sô."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người cưỡi ngựa. Lính tráng đi theo hộ vệ cho quan thời xưa."
+            ],
+            "compound_words": {
+                "騶哄": "sô hống",
+                "騶騎": "sô kị",
+                "騶從": "sô tòng",
+                "騶卒": "sô tốt",
+                "騶唱": "sô xướng"
+            }
+        }
+    }
+}

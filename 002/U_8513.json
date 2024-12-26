@@ -1,0 +1,108 @@
+{
+    "character": "蔓",
+    "details": {
+        "Âm Hán Việt": [
+            "man",
+            "mạn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thảo 艸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹曼"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一丨フ丨丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "TAWE (廿日田水)"
+        ],
+        "Unicode": [
+            "U+8513"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mán ㄇㄢˊ",
+            "màn ㄇㄢˋ",
+            "wàn ㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "man",
+            "mơn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マン (man)",
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はびこ.る (habiko.ru)",
+            "つる (tsuru)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "maan4",
+            "maan6"
+        ]
+    },
+    "meanings": {
+        "man": {
+            "Từ điển trích dẫn": [
+                "(Danh) Loài thực vật, thân nhỏ, có thể vin, quấn hoặc leo lên cây khác.",
+                "(Động) Lan ra. ◎Như: 'mạn diên' 蔓延 lan rộng.",
+                "Một âm là 'man'. ◎Như: 'man tinh' 蔓菁 cây su hào. § Còn gọi là 'đại đầu giới' 大頭芥, 'đại đầu thái' 大頭菜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đọt của cây leo, cây leo Xem 蔓 [mán], [màn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bò lan ra ( nói về thứ cây leo )."
+            ],
+            "compound_words": {
+                "枝蔓": "chi man",
+                "延蔓": "diên man",
+                "莚蔓": "diên man",
+                "蔓延": "man diên",
+                "蔓衍": "man diễn",
+                "瓜蔓": "qua man"
+            }
+        },
+        "mạn": {
+            "Từ điển phổ thông": [
+                "lan rộng",
+                "cây cỏ bò dưới mặt đất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Loài thực vật, thân nhỏ, có thể vin, quấn hoặc leo lên cây khác.",
+                "(Động) Lan ra. ◎Như: 'mạn diên' 蔓延 lan rộng.",
+                "Một âm là 'man'. ◎Như: 'man tinh' 蔓菁 cây su hào. § Còn gọi là 'đại đầu giới' 大頭芥, 'đại đầu thái' 大頭菜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Các loài thực vật rò bò dài dưới đất gọi là mạn.",
+                "Sự gì ở một nơi rồi lan đến các nơi là mạn duyên 蔓延, làm vương vít liên can đến mọi người gọi là qua mạn nhi 瓜蔓兒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây cỏ bò lan. 【蔓草】mạn thảo [màncăo] Cỏ bò lan dưới đất;",
+                "Lan ra: 蔓延 Lan ra Xem 蔓 [mán], [wàn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bò lan ra ( nói về loại cây leo ) cũng đọc Mạn. Xem Mạn."
+            ],
+            "compound_words": {
+                "镺蔓": "áo mạn"
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "character": "凤",
+    "details": {
+        "Âm Hán Việt": [
+            "phượng",
+            "phụng"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "kỷ 几 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵⺇又"
+        ],
+        "Nét bút": [
+            "ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "HNE (竹弓水)"
+        ],
+        "Unicode": [
+            "U+51E4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fèng ㄈㄥˋ"
+        ],
+        "Âm Nôm": [
+            "phụng",
+            "phượng"
+        ],
+        "Âm Quảng Đông": [
+            "fung6"
+        ]
+    },
+    "meanings": {
+        "phượng": {
+            "Từ điển phổ thông": [
+                "chim phượng hoàng (con đực)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鳳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim phượng: 龍鳳 Long phượng;",
+                "[Fèng] (Họ) Phượng."
+            ],
+            "compound_words": {
+                "龙飞凤舞": "long phi phượng vũ",
+                "凤凰": "phượng hoàng",
+                "凤梨": "phượng lê"
+            }
+        },
+        "phụng": {
+            "Từ điển phổ thông": [
+                "chim phượng hoàng (con đực)"
+            ],
+            "compound_words": {
+                "凤凰": "phụng hoàng",
+                "凤梨": "phụng lê"
+            }
+        }
+    }
+}

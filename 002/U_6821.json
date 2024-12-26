@@ -1,0 +1,176 @@
+{
+    "character": "校",
+    "details": {
+        "Âm Hán Việt": [
+            "giáo",
+            "hiệu",
+            "hào"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木交"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DYCK (木卜金大)"
+        ],
+        "Unicode": [
+            "U+6821"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎo ㄐㄧㄠˇ",
+            "jiào ㄐㄧㄠˋ",
+            "xiáo ㄒㄧㄠˊ",
+            "xiào ㄒㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "chò",
+            "giâu",
+            "hiệu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "キョウ (kyō)"
+        ],
+        "Âm Hàn": [
+            "교",
+            "효"
+        ],
+        "Âm Quảng Đông": [
+            "gaau3",
+            "haau6"
+        ]
+    },
+    "meanings": {
+        "giáo": {
+            "Từ điển phổ thông": [
+                "kiểm tra, xét"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cùm chân ngày xưa.",
+                "(Động) Tranh, thi đua. ◎Như: 'khảo giáo' 考校 thi khảo, 'bất dữ giáo luận' 不與校論 không tranh nhau mà bàn bạc.",
+                "(Động) Tính số, kế toán. ◎Như: 'kiểm giáo' 檢校 kiểm xét sự vật. ◇Sử Kí 史記: 'Kinh sư chi tiền lũy cự vạn, quán hủ nhi bất khả giáo' 京師之錢累巨萬, 貫朽而不可校 (Bình chuẩn thư 平準書) Tiền ở kinh đô chất hàng trăm vạn rất nhiều, dây xâu tiền mục nát không biết bao nhiêu mà kể.",
+                "(Động) Tra xét, sửa chữa, đính chính. ◎Như: 'giáo khám' 校勘 khảo xét lại, 'giáo đính' 校訂 đính chính, 'giáo cảo' 校稿 xem và sửa bản thảo. § Ghi chú: Ta quen đọc âm 'hiệu'.",
+                "Một âm là 'hiệu'. (Danh) Trường. ◎Như: 'học hiệu' 學校 trường học.",
+                "(Danh) Sĩ quan bậc trung (ba cấp tá). ◎Như: 'thượng hiệu' 上校 đại tá, 'trung hiệu' 中校 trung tá, 'thiếu hiệu' 少校 thiếu tá.",
+                "(Danh) Chuồng ngựa.",
+                "(Danh) Bộ quân. ◎Như: 'nhất hiệu' 一校 một bộ quân.",
+                "(Danh) Họ 'Hiệu'.",
+                "Một âm là 'hào'. (Danh) Chân cái bát đậu (để cúng tế thời xưa)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cùm chân.",
+                "Tranh, thi, như khảo giáo 考校 thi khảo, bất dữ giáo luận 不與校論 chẳng cùng tranh dành.",
+                "Tính số, như kiểm giáo 檢校 kiểm xét sự vật.",
+                "Tra xét đính chính lại sách vở gọi là giáo, như giáo khám 校勘 khảo xét lại.",
+                "Một âm là hiệu. Tràng, như học hiệu 學校 tràng học.",
+                "Cái chuồng ngựa. Một bộ quân cũng gọi là nhất hiệu 一校.",
+                "Một âm là hào. Chân cái bát đậu bát chở."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cùm bằng gỗ để cùm chân tay tội nhân thời xưa — Cái chuồng bằng gỗ để nhốt gia súc — Các âm khác là Hào, Hiệu. Xem các âm này."
+            ],
+            "compound_words": {
+                "校訂": "giáo đính",
+                "校订": "giáo đính"
+            }
+        },
+        "hiệu": {
+            "Từ điển phổ thông": [
+                "sửa chữa, đính chính",
+                "trường học",
+                "họ Hiệu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cùm chân ngày xưa.",
+                "(Động) Tranh, thi đua. ◎Như: 'khảo giáo' 考校 thi khảo, 'bất dữ giáo luận' 不與校論 không tranh nhau mà bàn bạc.",
+                "(Động) Tính số, kế toán. ◎Như: 'kiểm giáo' 檢校 kiểm xét sự vật. ◇Sử Kí 史記: 'Kinh sư chi tiền lũy cự vạn, quán hủ nhi bất khả giáo' 京師之錢累巨萬, 貫朽而不可校 (Bình chuẩn thư 平準書) Tiền ở kinh đô chất hàng trăm vạn rất nhiều, dây xâu tiền mục nát không biết bao nhiêu mà kể.",
+                "(Động) Tra xét, sửa chữa, đính chính. ◎Như: 'giáo khám' 校勘 khảo xét lại, 'giáo đính' 校訂 đính chính, 'giáo cảo' 校稿 xem và sửa bản thảo. § Ghi chú: Ta quen đọc âm 'hiệu'.",
+                "Một âm là 'hiệu'. (Danh) Trường. ◎Như: 'học hiệu' 學校 trường học.",
+                "(Danh) Sĩ quan bậc trung (ba cấp tá). ◎Như: 'thượng hiệu' 上校 đại tá, 'trung hiệu' 中校 trung tá, 'thiếu hiệu' 少校 thiếu tá.",
+                "(Danh) Chuồng ngựa.",
+                "(Danh) Bộ quân. ◎Như: 'nhất hiệu' 一校 một bộ quân.",
+                "(Danh) Họ 'Hiệu'.",
+                "Một âm là 'hào'. (Danh) Chân cái bát đậu (để cúng tế thời xưa)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cùm chân.",
+                "Tranh, thi, như khảo giáo 考校 thi khảo, bất dữ giáo luận 不與校論 chẳng cùng tranh dành.",
+                "Tính số, như kiểm giáo 檢校 kiểm xét sự vật.",
+                "Tra xét đính chính lại sách vở gọi là giáo, như giáo khám 校勘 khảo xét lại.",
+                "Một âm là hiệu. Tràng, như học hiệu 學校 tràng học.",
+                "Cái chuồng ngựa. Một bộ quân cũng gọi là nhất hiệu 一校.",
+                "Một âm là hào. Chân cái bát đậu bát chở."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trường, trường học: 全校 Cả trường; 夜校 Trường học buổi tối;",
+                "(Sĩ quan cấp) tá: 大校 Đại tá; 上校 Thượng tá;",
+                "(văn) Hiệu (biên chế quân đội thời xưa): 一校 Một hiệu quân;",
+                "(văn) Chuồng ngựa. Xem 校 [jiào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khảo xét — Trường học — Chuồng ngựa — Chức quan võ bậc trung, tương đương với cấp Tá của ta."
+            ],
+            "compound_words": {
+                "鉤校": "câu hiệu",
+                "校正": "hiệu chính",
+                "校訂": "hiệu đính",
+                "校订": "hiệu đính",
+                "校規": "hiệu quy",
+                "校長": "hiệu trưởng",
+                "校长": "hiệu trưởng",
+                "校园": "hiệu viên",
+                "校園": "hiệu viên",
+                "学校": "học hiệu",
+                "學校": "học hiệu",
+                "鄉校": "hương hiệu",
+                "考校": "khảo hiệu",
+                "軍校": "quân hiệu",
+                "師範學校": "sư phạm học hiệu",
+                "少校": "thiếu hiệu"
+            }
+        },
+        "hào": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cùm chân ngày xưa.",
+                "(Động) Tranh, thi đua. ◎Như: 'khảo giáo' 考校 thi khảo, 'bất dữ giáo luận' 不與校論 không tranh nhau mà bàn bạc.",
+                "(Động) Tính số, kế toán. ◎Như: 'kiểm giáo' 檢校 kiểm xét sự vật. ◇Sử Kí 史記: 'Kinh sư chi tiền lũy cự vạn, quán hủ nhi bất khả giáo' 京師之錢累巨萬, 貫朽而不可校 (Bình chuẩn thư 平準書) Tiền ở kinh đô chất hàng trăm vạn rất nhiều, dây xâu tiền mục nát không biết bao nhiêu mà kể.",
+                "(Động) Tra xét, sửa chữa, đính chính. ◎Như: 'giáo khám' 校勘 khảo xét lại, 'giáo đính' 校訂 đính chính, 'giáo cảo' 校稿 xem và sửa bản thảo. § Ghi chú: Ta quen đọc âm 'hiệu'.",
+                "Một âm là 'hiệu'. (Danh) Trường. ◎Như: 'học hiệu' 學校 trường học.",
+                "(Danh) Sĩ quan bậc trung (ba cấp tá). ◎Như: 'thượng hiệu' 上校 đại tá, 'trung hiệu' 中校 trung tá, 'thiếu hiệu' 少校 thiếu tá.",
+                "(Danh) Chuồng ngựa.",
+                "(Danh) Bộ quân. ◎Như: 'nhất hiệu' 一校 một bộ quân.",
+                "(Danh) Họ 'Hiệu'.",
+                "Một âm là 'hào'. (Danh) Chân cái bát đậu (để cúng tế thời xưa)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cùm chân.",
+                "Tranh, thi, như khảo giáo 考校 thi khảo, bất dữ giáo luận 不與校論 chẳng cùng tranh dành.",
+                "Tính số, như kiểm giáo 檢校 kiểm xét sự vật.",
+                "Tra xét đính chính lại sách vở gọi là giáo, như giáo khám 校勘 khảo xét lại.",
+                "Một âm là hiệu. Tràng, như học hiệu 學校 tràng học.",
+                "Cái chuồng ngựa. Một bộ quân cũng gọi là nhất hiệu 一校.",
+                "Một âm là hào. Chân cái bát đậu bát chở."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chân ghế — Các âm khác là Giáo, Hiệu. Xem các âm này."
+            ]
+        }
+    }
+}

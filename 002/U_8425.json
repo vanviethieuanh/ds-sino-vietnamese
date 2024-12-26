@@ -1,0 +1,81 @@
+{
+    "character": "营",
+    "details": {
+        "Âm Hán Việt": [
+            "dinh",
+            "doanh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿳艹冖吕"
+        ],
+        "Nét bút": [
+            "一丨丨丶フ丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TBRR (廿月口口)"
+        ],
+        "Unicode": [
+            "U+8425"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yíng ㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dinh",
+            "doanh"
+        ],
+        "Âm Quảng Đông": [
+            "jing4"
+        ]
+    },
+    "meanings": {
+        "dinh": {
+            "Từ điển phổ thông": [
+                "nơi đóng quân",
+                "mưu sự",
+                "doanh (gồm 500 lính)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 營."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 營"
+            ]
+        },
+        "doanh": {
+            "Từ điển phổ thông": [
+                "nơi đóng quân",
+                "mưu sự",
+                "doanh (gồm 500 lính)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 營."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 營"
+            ],
+            "compound_words": {
+                "安营": "an doanh",
+                "拔营": "bạt doanh",
+                "兵营": "binh doanh",
+                "经营": "kinh doanh",
+                "国营": "quốc doanh"
+            }
+        }
+    }
+}

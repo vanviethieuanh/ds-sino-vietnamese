@@ -1,0 +1,109 @@
+{
+    "character": "娩",
+    "details": {
+        "Âm Hán Việt": [
+            "miễn",
+            "phiền",
+            "vãn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nữ 女 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女免"
+        ],
+        "Nét bút": [
+            "フノ一ノフ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "VNAU (女弓日山)"
+        ],
+        "Unicode": [
+            "U+5A29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "miǎn ㄇㄧㄢˇ",
+            "wǎn ㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "vãn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ベン (ben)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "maan5",
+            "min5"
+        ]
+    },
+    "meanings": {
+        "miễn": {
+            "Từ điển trích dẫn": [
+                "(Tính) Thùy mị, nhu thuận. ◎Như: 'vãn mị' 娩媚 xinh đẹp thùy mị.",
+                "Một âm là 'miễn'. (Động) Đàn bà đẻ con. ◎Như: 'miễn thân' 娩身 đẻ con.",
+                "Một âm là 'phiền'. (Động) Sinh sôi nẩy nở. ◎Như: 'phiền tức' 娩息 sinh sôi nẩy nở.",
+                "(Động) Động đậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Uyển vãn 婉娩 thùy mị, tả cái nét con gái nhu thuận.",
+                "Một âm là miễn. Ðàn bà đẻ con gọi là phân miễn 分娩."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sinh con, đẻ con. 【娩出】miễn xuất [miăn chu] (y) Đẻ, sinh đẻ. Xem 娩 [wăn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đẻ con — Một âm là Vãn. Xem Vãn."
+            ],
+            "compound_words": {
+                "分娩": "phân miễn"
+            }
+        },
+        "phiền": {
+            "Từ điển trích dẫn": [
+                "(Tính) Thùy mị, nhu thuận. ◎Như: 'vãn mị' 娩媚 xinh đẹp thùy mị.",
+                "Một âm là 'miễn'. (Động) Đàn bà đẻ con. ◎Như: 'miễn thân' 娩身 đẻ con.",
+                "Một âm là 'phiền'. (Động) Sinh sôi nẩy nở. ◎Như: 'phiền tức' 娩息 sinh sôi nẩy nở.",
+                "(Động) Động đậy."
+            ]
+        },
+        "vãn": {
+            "Từ điển phổ thông": [
+                "(xem: uyển vãn 婉娩)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Thùy mị, nhu thuận. ◎Như: 'vãn mị' 娩媚 xinh đẹp thùy mị.",
+                "Một âm là 'miễn'. (Động) Đàn bà đẻ con. ◎Như: 'miễn thân' 娩身 đẻ con.",
+                "Một âm là 'phiền'. (Động) Sinh sôi nẩy nở. ◎Như: 'phiền tức' 娩息 sinh sôi nẩy nở.",
+                "(Động) Động đậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Uyển vãn 婉娩 thùy mị, tả cái nét con gái nhu thuận.",
+                "Một âm là miễn. Ðàn bà đẻ con gọi là phân miễn 分娩."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chiều chuộng, ân cần: 婉娩 Thùy mị."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ dịu dàng hoà thuận của đàn bà con gái."
+            ],
+            "compound_words": {
+                "婉娩": "uyển vãn"
+            }
+        }
+    }
+}

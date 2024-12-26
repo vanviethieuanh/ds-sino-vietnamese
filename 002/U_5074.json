@@ -1,0 +1,102 @@
+{
+    "character": "側",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻則"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一一一ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "OBCN (人月金弓)"
+        ],
+        "Unicode": [
+            "U+5074"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "zè ㄗㄜˋ",
+            "zhāi ㄓㄞ"
+        ],
+        "Âm Nôm": [
+            "trắc",
+            "trắt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわ (kawa)",
+            "がわ (gawa)",
+            "そば (soba)"
+        ],
+        "Âm Hàn": [
+            "측"
+        ],
+        "Âm Quảng Đông": [
+            "zak1"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "một bên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bên. ◎Như: 'lưỡng trắc' 兩側 hai bên, 'tùy thị tại trắc' 隨侍在側 theo hầu ở bên cạnh. ◇Tấn Thư 晉書: 'Thường dữ quần nhi hí ư đạo trắc' 嘗與群兒戲於道側 (Vương Nhung truyện 王戎傳) Thường cùng đám trẻ con chơi đùa bên đường.",
+                "(Động) Nghiêng. ◎Như: 'trắc nhĩ khuynh thính' 側耳傾聽 nghiêng tai lắng nghe, 'trắc thân nhi quá' 側身而過 nghiêng mình lách qua.",
+                "(Động) Ở vào, náu mình. ◇Hoài Nam Tử 淮南子: 'Xử cùng tích chi hương, trắc khê cốc chi gian' 處窮僻之鄉, 側谿谷之閒 (Nguyên đạo 原道) Ở nơi làng quê hẻo lánh, náu mình trong khoảng khe hang.",
+                "(Tính) Bên cạnh, phụ, lẽ. ◎Như: 'trắc diện' 側面 mặt bên, trắc thất 側室 vợ lẽ.",
+                "(Tính) Hèn, dốt. ◎Như: 'trắc lậu' 側陋 hèn kém.",
+                "(Phó) Lóm, lấm lét. ◎Như: 'vô trắc thính' 無側聽 chớ nghe lóm. ◇Nguyễn Du 阮攸: 'Thê kiến kì phu trắc mục thị' 妻見其夫側目視 (Tô Tần đình 蘇秦亭) Vợ thấy chồng lấm lét nhìn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bên, như trắc diện 側面 mặt bên, trắc thất 側室 vợ lẽ.",
+                "Lóng, như vô trắc thính 無側聽 chớ nghe lóng.",
+                "Nghiêng, như trắc mục 側目 nghé mắt, trắc thân 側身 nghiêng mình.",
+                "Hèn dốt, như trắc lậu 側陋 hèn kém."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Nghiêng: 車在山坡上側訩開 Xe chạy nghiêng trên đồi. Xem 側 [cè], [zè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghiêng lệch — Thấp hẹp — Như Trắc 仄 — Bên cạnh. Một bên — Gần sát."
+            ],
+            "compound_words": {
+                "傾側": "khuynh trắc",
+                "反側": "phản trắc",
+                "陫側": "phỉ trắc",
+                "床側": "sàng trắc",
+                "側柏": "trắc bách",
+                "側陋": "trắc lậu",
+                "側目": "trắc mục",
+                "側日": "trắc nhật",
+                "側耳": "trắc nhĩ",
+                "側鋒": "trắc phong",
+                "側躺": "trắc thảng",
+                "側身": "trắc thân",
+                "側室": "trắc thất",
+                "側聞": "trắc văn",
+                "側微": "trắc vi"
+            }
+        }
+    }
+}

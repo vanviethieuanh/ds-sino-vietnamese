@@ -1,0 +1,87 @@
+{
+    "character": "犧",
+    "details": {
+        "Âm Hán Việt": [
+            "hi",
+            "hy"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "ngưu 牛 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰牜羲"
+        ],
+        "Nét bút": [
+            "ノ一丨一丶ノ一一丨一ノ一丨ノ丶一フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "HQTGS (竹手廿土尸)"
+        ],
+        "Unicode": [
+            "U+72A7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "suō ㄙㄨㄛ",
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "hi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いけにえ (ikenie)"
+        ],
+        "Âm Hàn": [
+            "희",
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "hei1"
+        ]
+    },
+    "meanings": {
+        "hi": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Ngày xưa, con muông (“sinh súc” 牲畜) thuần sắc dùng để cúng tế gọi là “hi” 犧. § Vua Thang cầu mưa, tự phục trước miếu thay làm con muông để lễ, vì thế người ta gọi những người bỏ cả đời mình để đạt được một sự gì là “hi sinh” 犧牲."
+            ],
+            "compound_words": {
+                "犧牲": "hi sinh",
+                "犧生": "hi sinh",
+                "三犧": "tam hi"
+            }
+        },
+        "hy": {
+            "Từ điển phổ thông": [
+                "con vật tế thần"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con muông thuần sắc dùng để cúng tế gọi là hi.",
+                "Vua Thang cầu mưa, tự phục trước miếu thay làm con muông để lễ, vì thế người ta gọi những người bỏ cả đời mình để làm cho đạt một sự gì là hi sinh 犧牲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Súc vật để tế (thời xưa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Súc vật để tế thần."
+            ],
+            "compound_words": {
+                "犧牲": "hy sinh"
+            }
+        }
+    }
+}

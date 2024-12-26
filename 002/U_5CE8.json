@@ -1,0 +1,82 @@
+{
+    "character": "峨",
+    "details": {
+        "Âm Hán Việt": [
+            "nga"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sơn 山 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰山我"
+        ],
+        "Nét bút": [
+            "丨フ丨ノ一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "UHQI (山竹手戈)"
+        ],
+        "Unicode": [
+            "U+5CE8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "é"
+        ],
+        "Âm Nôm": [
+            "nga"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けわ.しい (kewa.shii)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "ngo4"
+        ]
+    },
+    "meanings": {
+        "nga": {
+            "Từ điển phổ thông": [
+                "cao lớn",
+                "(tên núi)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên gọi tắt của núi 'Nga Mi' 峨嵋. ◇Lục Du 陸游: 'Mạc hận cửu vi Nga hạ khách' 莫恨久為峨下客 (Thu dạ độc túy hí đề 秋夜獨醉戲題) Chớ hận là khách lâu ngày dưới núi Nga Mi.",
+                "(Tính) Cao. ◎Như: 'nga quan bác đái' 峨冠博帶 mũ cao đai rộng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cao, như nga quan bác đái 峨冠博帶 mũ cao đai rộng.",
+                "Nga mi 峨嵋 núi Nga-mi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cao lớn: 巍峨 Nguy nga; 峨冠 Mũ cao;",
+                "Tên núi: 峨眉山Núi Nga Mi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng núi cao ngất — Tên núi, tức Nga sơn."
+            ],
+            "compound_words": {
+                "峨眉": "nga mi",
+                "峨嵋": "nga my",
+                "巍峨": "nguy nga",
+                "嵯峨": "tha nga"
+            }
+        }
+    }
+}

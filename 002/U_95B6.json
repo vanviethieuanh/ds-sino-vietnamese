@@ -1,0 +1,75 @@
+{
+    "character": "閶",
+    "details": {
+        "Âm Hán Việt": [
+            "xương"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "môn 門 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿵門昌"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丨フ一一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "ANAA (日弓日日)"
+        ],
+        "Unicode": [
+            "U+95B6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chāng ㄔㄤ",
+            "tāng ㄊㄤ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "トウ (tō)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "coeng1"
+        ]
+    },
+    "meanings": {
+        "xương": {
+            "Từ điển phổ thông": [
+                "cửa trời (cửa chính trong cung)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “xương hạp” 閶闔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xương hạp 閶闔 cửa trời, cửa chính trong cung.",
+                "Gió thu. Như Xương hạp tây nam lai 閶闔西南來 gió thu từ hướng tây nam lại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【閶 闔】xương hạp [changhé] a. Cửa; b. Cửa trời (theo truyền thuyết); c. Cửa cung;",
+                "【閶門】xương môn [changmén] Tên cửa thành Tô Châu (Trung Quốc);",
+                "【閶風】xương phong [changfeng] (văn) Gió thu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cửa nhỏ."
+            ],
+            "compound_words": {
+                "閶闔": "xương hạp",
+                "閶風": "xương phong"
+            }
+        }
+    }
+}

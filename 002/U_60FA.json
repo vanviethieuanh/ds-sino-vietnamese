@@ -1,0 +1,88 @@
+{
+    "character": "惺",
+    "details": {
+        "Âm Hán Việt": [
+            "tinh",
+            "tỉnh"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺖星"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一一ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "PAHM (心日竹一)"
+        ],
+        "Unicode": [
+            "U+60FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xīng ㄒㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "tênh",
+            "tinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さと.る (sato.ru)"
+        ],
+        "Âm Hàn": [
+            "성"
+        ],
+        "Âm Quảng Đông": [
+            "sing1"
+        ]
+    },
+    "meanings": {
+        "tinh": {
+            "Từ điển trích dẫn": [
+                "(Tính) § Xem 'tinh tinh' 惺惺.",
+                "(Tính) § Xem 'tinh chung' 惺忪.",
+                "(Động) Tỏ ngộ, hiểu ra. ◇Bão Phác Tử 抱朴子: 'Thủy Hoàng tinh ngộ, tín thế gian chi tất hữu tiên đạo' 始皇惺悟, 信世間之必有仙道 (Nội thiên 內篇, Cực ngôn 極言) Thủy Hoàng tỉnh ngộ, tin rằng thế gian ắt có đạo tu tiên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tỉnh táo, yên lặng mà vẫn sáng suốt gọi là tinh.",
+                "Lặng, tỏ ngộ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tỉnh táo;",
+                "Lặng, tỏ ngộ. 【惺忪】tỉnh chung [xingsong] Mắt nhắm mắt mở, mắt ngái ngủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tỉnh ra. Hiểu ra — Hiểu rõ.  Đoạn trường tân thanh : » Nàng đà tinh hết gần xa «."
+            ],
+            "compound_words": {
+                "惺忪": "tinh chung",
+                "惺惺": "tinh tinh"
+            }
+        },
+        "tỉnh": {
+            "Từ điển phổ thông": [
+                "tỉnh táo"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tỉnh táo;",
+                "Lặng, tỏ ngộ. 【惺忪】tỉnh chung [xingsong] Mắt nhắm mắt mở, mắt ngái ngủ."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "敕",
+    "details": {
+        "Âm Hán Việt": [
+            "sắc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phác 攴 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰束攵"
+        ],
+        "Nét bút": [
+            "一丨フ一丨ノ丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DLOK (木中人大)"
+        ],
+        "Unicode": [
+            "U+6555"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ"
+        ],
+        "Âm Nôm": [
+            "sắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョク (choku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いまし.める (imashi.meru)",
+            "みことのり (mikotonori)"
+        ],
+        "Âm Hàn": [
+            "칙"
+        ],
+        "Âm Quảng Đông": [
+            "cik1"
+        ]
+    },
+    "meanings": {
+        "sắc": {
+            "Từ điển phổ thông": [
+                "sắc lệnh",
+                "răn bảo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Răn bảo, cảnh giác, cáo giới. ◇Pháp Hoa Kinh 法華經: 'Như thế tôn sắc, đương cụ phụng hành' 如世尊敕, 當具奉行 (Chúc lũy phẩm đệ nhị thập nhị 囑累品第二十二) Đúng như lời thế tôn răn dạy, (chúng con) xin phụng hành.",
+                "(Động) Thận trọng sửa trị. § Thông 'sức' 飭.",
+                "(Danh) Chiếu thư của vua.",
+                "(Danh) Mệnh lệnh của đạo sĩ dùng trong bùa chú để trừ tà ma."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sắc lệnh, tờ chiếu mệnh của vua ban cho quan dân gọi là sắc.",
+                "Cảnh tỉnh cho biết đạo mà chấn chỉnh cho nên công bình trị (sửa trị)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 勅 (bộ 力);",
+                "(văn) Thận trọng, cẩn thận;",
+                "(văn) Báo trước, cảnh giác."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tờ giấy ghi lệnh vua, ban thưởng chức tước cho người. Ca dao có câu: » Sắc ấn ngọc nộp đây đem về « — Khuyên răn — Thận trọng công việc — Cái bùa có việt chữ. Xem Sắc lặc."
+            ],
+            "compound_words": {
+                "敕旨": "sắc chỉ",
+                "敕詔": "sắc chiếu",
+                "敕勒": "sắc lặc",
+                "敕厲": "sắc lệ",
+                "敕令": "sắc lệnh",
+                "敕律": "sắc luật",
+                "敕命": "sắc mệnh",
+                "敕封": "sắc phong",
+                "敕贈": "sắc tặng",
+                "敕授": "sắc thụ",
+                "敕書": "sắc thư",
+                "敕賜": "sắc tứ"
+            }
+        }
+    }
+}

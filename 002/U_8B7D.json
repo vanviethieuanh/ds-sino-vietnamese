@@ -1,0 +1,89 @@
+{
+    "character": "譽",
+    "details": {
+        "Âm Hán Việt": [
+            "dự"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "ngôn 言 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱與言"
+        ],
+        "Nét bút": [
+            "ノ丨一一一フ丨フ一一一ノ丶丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HCYMR (竹金卜一口)"
+        ],
+        "Unicode": [
+            "U+8B7D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "dư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨ (yo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ.まれ (ho.mare)",
+            "ほ.める (ho.meru)"
+        ],
+        "Âm Hàn": [
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "dự": {
+            "Từ điển phổ thông": [
+                "khen ngợi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khen, xưng tán. ◎Như: 'xưng dự' 稱譽 khen ngợi. ◇Luận Ngữ 論語: 'Ngô chi ư nhân dã, thùy hủy thùy dự?' 吾之於人也, 誰毀誰譽 (Vệ Linh Công 衛靈公) Ta đối với người, có chê ai có khen ai đâu?",
+                "(Danh) Tiếng khen, tiếng tốt. ◎Như: 'danh dự' 名譽 tiếng tốt, 'thương dự' 商譽 người buôn hoặc cửa hàng có tiếng tăm, được tín nhiệm.",
+                "(Tính) Yên vui, vui vẻ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khen, khen những cái hay của người gọi là dự.",
+                "Tiếng khen. Như danh dự 名譽.",
+                "Yên vui."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Danh dự, vinh dự, tiếng khen, tiếng tăm, tiếng thơm: 榮譽 Vinh dự; 譽滿全國 Tiếng tăm lừng lẫy khắp nước;",
+                "Ngợi khen , ca tụng: 譽不絕口 Khen không ngớt lời;",
+                "(văn) Yên vui."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khen ngợi — Tiếng khen. Tiếng tốt — Vui vẻ."
+            ],
+            "compound_words": {
+                "沽名釣譽": "cô danh điếu dự",
+                "名譽": "danh dự",
+                "溢譽": "dật dự",
+                "延譽": "diên dự",
+                "面譽": "diện dự",
+                "浮譽": "phù dự",
+                "過譽": "quá dự",
+                "榮譽": "vinh dự"
+            }
+        }
+    }
+}

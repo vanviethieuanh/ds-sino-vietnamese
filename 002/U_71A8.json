@@ -1,0 +1,119 @@
+{
+    "character": "熨",
+    "details": {
+        "Âm Hán Việt": [
+            "uý",
+            "uất"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "hoả 火 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱尉火"
+        ],
+        "Nét bút": [
+            "フ一ノ一一丨ノ丶一丨丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "SIF (尸戈火)"
+        ],
+        "Unicode": [
+            "U+71A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ",
+            "yù ㄩˋ",
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "uất",
+            "ủi",
+            "uý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)",
+            "ウツ (utsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のし (noshi)",
+            "おさ.える (osa.eru)",
+            "の.す (no.su)",
+            "ひのし (hinoshi)"
+        ],
+        "Âm Hàn": [
+            "위",
+            "울"
+        ],
+        "Âm Quảng Đông": [
+            "tong3",
+            "wai3",
+            "wan6",
+            "wat1"
+        ]
+    },
+    "meanings": {
+        "uý": {
+            "Từ điển phổ thông": [
+                "nhẵn, trơn",
+                "hoà giải"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Là, ủi (cho phẳng). ◎Như: 'uất y phục' 熨衣服 ủi quần áo. ◇Vương Kiến 王建: 'Mỗi dạ đình đăng uất ngự y, Ngân huân lung để hỏa phi phi' 每夜停燈熨御衣, 銀薰籠底火霏霏 (Cung từ 宮詞, Chi tam lục).",
+                "(Động) Chườm, ấp sát vào mình. ◇Lưu Nghĩa Khánh 劉義慶: 'Đông nguyệt phụ bệnh nhiệt, nãi xuất trung đình tự thủ lãnh, hoàn dĩ thân uất chi' 冬月婦病熱, 乃出中庭自取冷, 還以身熨之 (Thế thuyết tân ngữ 世說新語, Hoặc nịch 惑溺).",
+                "Một âm là 'úy'. (Tính) § Xem 'úy thiếp' 熨貼."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Là phẳng, lấy bàn là là cho vải lụa phẳng gọi là uất.",
+                "Một âm là uý. Chườm, lấy thuốc sao nóng chườm vào mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Là, ủi (cho phẳng): 熨衣服 Là quần áo;",
+                "(văn) Chườm (thuốc sao nóng vào mình)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đè xuống — Một âm là Uất. Xem Uất."
+            ],
+            "compound_words": {
+                "熨貼": "uý thiếp"
+            }
+        },
+        "uất": {
+            "Từ điển phổ thông": [
+                "là cho phẳng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Là, ủi (cho phẳng). ◎Như: 'uất y phục' 熨衣服 ủi quần áo. ◇Vương Kiến 王建: 'Mỗi dạ đình đăng uất ngự y, Ngân huân lung để hỏa phi phi' 每夜停燈熨御衣, 銀薰籠底火霏霏 (Cung từ 宮詞, Chi tam lục).",
+                "(Động) Chườm, ấp sát vào mình. ◇Lưu Nghĩa Khánh 劉義慶: 'Đông nguyệt phụ bệnh nhiệt, nãi xuất trung đình tự thủ lãnh, hoàn dĩ thân uất chi' 冬月婦病熱, 乃出中庭自取冷, 還以身熨之 (Thế thuyết tân ngữ 世說新語, Hoặc nịch 惑溺).",
+                "Một âm là 'úy'. (Tính) § Xem 'úy thiếp' 熨貼."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Là phẳng, lấy bàn là là cho vải lụa phẳng gọi là uất.",
+                "Một âm là uý. Chườm, lấy thuốc sao nóng chườm vào mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【熨帖】uất thiếp [yùtie] (Dùng chữ, dùng từ) sát sao, xác đáng;",
+                "Bình tâm, yên lòng: 心裡十分熨帖 Rất yên lòng;",
+                "(đph) (Việc) đã ổn thoả. Xem 熨 [yùn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hơ lửa cho vải lụa thẳng ra — Xem Uý."
+            ],
+            "compound_words": {
+                "熨斗": "uất đẩu",
+                "熨貼": "uất thiếp"
+            }
+        }
+    }
+}

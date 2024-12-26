@@ -1,0 +1,67 @@
+{
+    "character": "卫",
+    "details": {
+        "Âm Hán Việt": [
+            "vệ"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "ất 乙 (+2 nét)",
+            "tiết 卩 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱卩一"
+        ],
+        "Nét bút": [
+            "フ丨一"
+        ],
+        "Thương Hiệt": [
+            "SLM (尸中一)"
+        ],
+        "Unicode": [
+            "U+536B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "vệ"
+        ],
+        "Âm Quảng Đông": [
+            "wai6"
+        ]
+    },
+    "meanings": {
+        "vệ": {
+            "Từ điển phổ thông": [
+                "bảo vệ, phòng giữ",
+                "nước Vệ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 衛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 衞"
+            ],
+            "compound_words": {
+                "保卫": "bảo vệ",
+                "捍卫": "hãn vệ",
+                "护卫": "hộ vệ",
+                "侍卫": "thị vệ",
+                "自卫": "tự vệ",
+                "卫生": "vệ sinh"
+            }
+        }
+    }
+}

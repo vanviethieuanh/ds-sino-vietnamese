@@ -1,0 +1,83 @@
+{
+    "character": "狩",
+    "details": {
+        "Âm Hán Việt": [
+            "thú"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺨守"
+        ],
+        "Nét bút": [
+            "ノフノ丶丶フ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "KHJDI (大竹十木戈)"
+        ],
+        "Unicode": [
+            "U+72E9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shòu ㄕㄡˋ"
+        ],
+        "Âm Nôm": [
+            "thú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.る (ka.ru)",
+            "か.り (ka.ri)",
+            "-が.り (-ga.ri)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau2",
+            "sau3"
+        ]
+    },
+    "meanings": {
+        "thú": {
+            "Từ điển phổ thông": [
+                "lễ đi săn vào mùa đông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lễ đi săn mùa đông.",
+                "(Động) Đi săn.",
+                "(Động) 'Tuần thú' 巡狩 thiên tử đi tuần xem các đất nước chư hầu. ◇Tam quốc diễn nghĩa 三國演義: 'Nhị thập bát niên, Thủy Hoàng tuần thú chí Động Đình hồ' 二十八年, 始皇巡狩至洞庭湖 (Đệ lục hồi) Năm thứ hai mươi tám, (Tần) Thủy Hoàng đi tuần thú đến hồ Động Đình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lễ đi săn mùa đông.",
+                "Tuần thú 巡狩 vua thiên tử đi tuần xem các đất nước chư hầu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đi săn (vào mùa đông);",
+                "【巡狩】tuần thú [xúnshòu] Vua đi tuần hành các nơi để xem xét việc chính trị."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cuộc đi săn của nhà vua vào mùa đông — Đi xem xét tình hình các nơi. Td: Tuần thú 巡狩."
+            ],
+            "compound_words": {
+                "巡狩": "tuần thú",
+                "遠狩": "viễn thú"
+            }
+        }
+    }
+}

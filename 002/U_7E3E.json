@@ -1,0 +1,85 @@
+{
+    "character": "績",
+    "details": {
+        "Âm Hán Việt": [
+            "tích"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mịch 糸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹責"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一一丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFQMC (女火手一金)"
+        ],
+        "Unicode": [
+            "U+7E3E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セキ (seki)"
+        ],
+        "Âm Hàn": [
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "zek3",
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "tích": {
+            "Từ điển phổ thông": [
+                "đánh sợi, xe chỉ",
+                "tích luỹ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh sợi, xe sợi. ◇Nguyễn Du 阮攸: 'Nữ sự duy tích ma' 女事惟績麻 (Hoàng Mai sơn thượng thôn 黃梅山上村) Việc đàn bà chỉ là xe sợi gai.",
+                "(Danh) Công nghiệp, thành quả. ◎Như: 'công tích' 功績 công cán, 'lao tích' 勞績 công lao, 'khảo tích' 考績 xét công các quan lại (để thăng thưởng). ◇Tam quốc diễn nghĩa 三國演義: 'Cửu sự Tào Tháo, đa lập công tích' 久事曹操, 多立功績 (Đệ tứ thập bát hồi) Theo phò Tào Tháo đã lâu, lập được nhiều công trạng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðánh sợi, xe sợi.",
+                "Công nghiệp, sự gì tích luỹ mãi đến thành hiệu cũng gọi là tích, như công tích 功績 công cán, lao tích 勞績 công lao. Xét công các quan lại để thăng thưởng gọi là khảo tích 考績."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vặn thừng, đánh thừng, đánh sợi, xe sợi;",
+                "Thành tích, công lao: 功績 Công cán; 勞績 Công lao; 考績 Xét thành tích (để thăng thưởng cho quan lại); 戰績 Thành tích chiến đấu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kéo thành sợi — Công lao lập được. Td: Chiến tích, thành tích."
+            ],
+            "compound_words": {
+                "敗績": "bại tích",
+                "戰績": "chiến tích",
+                "功績": "công tích",
+                "勳績": "huân tích",
+                "業績": "nghiệp tích",
+                "紡績機": "phưởng tích cơ",
+                "成績": "thành tích",
+                "偉績": "vĩ tích"
+            }
+        }
+    }
+}

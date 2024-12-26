@@ -1,0 +1,65 @@
+{
+    "character": "汉",
+    "details": {
+        "Âm Hán Việt": [
+            "hán"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡又"
+        ],
+        "Nét bút": [
+            "丶丶一フ丶"
+        ],
+        "Thương Hiệt": [
+            "EE (水水)"
+        ],
+        "Unicode": [
+            "U+6C49"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hàn ㄏㄢˋ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "hán",
+            "hớn"
+        ],
+        "Âm Quảng Đông": [
+            "hon3"
+        ]
+    },
+    "meanings": {
+        "hán": {
+            "Từ điển phổ thông": [
+                "đời nhà Hán",
+                "sông Hán",
+                "sông Ngân Hà",
+                "người Trung Quốc nói chung"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 漢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 漢"
+            ],
+            "compound_words": {
+                "阿罗汉": "a la hán"
+            }
+        }
+    }
+}

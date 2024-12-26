@@ -1,0 +1,118 @@
+{
+    "character": "撣",
+    "details": {
+        "Âm Hán Việt": [
+            "đàn",
+            "đãn",
+            "đạn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘單"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一丨フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "QRRJ (手口口十)"
+        ],
+        "Unicode": [
+            "U+64A3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ",
+            "dǎn ㄉㄢˇ",
+            "shàn ㄕㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "も.つ (mo.tsu)"
+        ],
+        "Âm Quảng Đông": [
+            "daan6",
+            "sin6"
+        ]
+    },
+    "meanings": {
+        "đàn": {
+            "Từ điển phổ thông": [
+                "đánh, va phải",
+                "nước Đàn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nâng giữ.",
+                "(Động) Phủi, quét bụi bặm. ◎Như: 'đạn y phục' 撣衣服 phủi bụi quần áo.",
+                "Một âm là 'đàn'. (Danh) Tên một dân tộc thiểu số thời xưa, ở vào tỉnh Vân Nam (Trung Quốc) cho tới Việt Nam, Thái Quốc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðạn đạn 撣撣 răn bảo, cảnh cáo cho biết mà răn phòng.",
+                "Phẩy, quét.",
+                "Nâng giữ.",
+                "Cùng nghĩa với chữ đạn 襌.",
+                "Một âm là đàn. Ðánh, va phải.",
+                "Tên nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đánh, va phải;",
+                "[Dàn] Tên nước (thời xưa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đụng chạm. Chạm vào — Một âm là Đãn."
+            ]
+        },
+        "đãn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cầm nắm. Nắm giữ — Phủi bụi. Như chữ Đãn 担 — Một âm là Đàn."
+            ]
+        },
+        "đạn": {
+            "Từ điển phổ thông": [
+                "răn bảo, dặn dò",
+                "phẩy, quét, phủi",
+                "nâng giữ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nâng giữ.",
+                "(Động) Phủi, quét bụi bặm. ◎Như: 'đạn y phục' 撣衣服 phủi bụi quần áo.",
+                "Một âm là 'đàn'. (Danh) Tên một dân tộc thiểu số thời xưa, ở vào tỉnh Vân Nam (Trung Quốc) cho tới Việt Nam, Thái Quốc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðạn đạn 撣撣 răn bảo, cảnh cáo cho biết mà răn phòng.",
+                "Phẩy, quét.",
+                "Nâng giữ.",
+                "Cùng nghĩa với chữ đạn 襌.",
+                "Một âm là đàn. Ðánh, va phải.",
+                "Tên nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phủi, phẩy (bụi): 撣衣服 Phủi bụi trên quần áo;",
+                "Khăn lau bụi;",
+                "(văn) Nâng giữ;",
+                "(văn) Như 禪 (bộ 示)."
+            ],
+            "compound_words": {
+                "撣子": "đạn tử"
+            }
+        }
+    }
+}

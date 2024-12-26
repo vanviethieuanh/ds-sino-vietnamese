@@ -1,0 +1,79 @@
+{
+    "character": "腑",
+    "details": {
+        "Âm Hán Việt": [
+            "phủ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhục 肉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月府"
+        ],
+        "Nét bút": [
+            "ノフ一一丶一ノノ丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "BIOI (月戈人戈)"
+        ],
+        "Unicode": [
+            "U+8151"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fǔ ㄈㄨˇ"
+        ],
+        "Âm Nôm": [
+            "phủ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらわた (harawata)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu2"
+        ]
+    },
+    "meanings": {
+        "phủ": {
+            "Từ điển phổ thông": [
+                "phủ tạng (lục phủ gồm có: 中醫上指胃 trung y thượng chỉ vị; 膽,胆 đảm; 大腸,大肠 đại tràng; 小腸,小肠 tiểu tràng; 膀胱 bàng quang; 三焦 tam tiêu)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dạ dày, mật, ruột già, ruột non, bong bóng, ba mạng mỡ: 'trung y thượng chỉ vị, đảm, đại tràng, tiểu tràng, bàng quang, tam tiêu' 中醫上指胃, 膽, 大腸, 小腸, 膀胱, 三焦 gọi là 'lục phủ' 六腑. § Xem 'ngũ tạng' 五臟.",
+                "(Danh) Tục gọi tấm lòng là 'phế phủ' 肺腑. § Xem thêm từ này."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dạ dày, mật, ruột già, ruột non, bong bóng, ba mạng mỡ: trung y thượng chỉ vị, đảm, đại tràng, tiểu tràng, bàng quang, tam tiêu 中醫上指胃、膽、大腸、小腸、膀胱、三焦 gọi là lục phủ 六腑. Xem ngũ tạng 五臟.",
+                "Tục gọi tấm lòng là phế phủ 肺腑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tạng phủ. Xem 臟腑 [zàngfư], 六腑 [liùfư]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cơ quan tiêu hoá trong thân thể con người. Xem them Lục phủ. Vần Lục."
+            ],
+            "compound_words": {
+                "六腑": "lục phủ",
+                "肺腑": "phế phủ",
+                "臓腑": "tạng phủ"
+            }
+        }
+    }
+}

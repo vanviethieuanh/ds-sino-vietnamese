@@ -1,0 +1,72 @@
+{
+    "character": "邴",
+    "details": {
+        "Âm Hán Việt": [
+            "bính",
+            "bỉnh"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "ấp 邑 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰丙⻏"
+        ],
+        "Nét bút": [
+            "一丨フノ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "MBNL (一月弓中)"
+        ],
+        "Unicode": [
+            "U+90B4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bǐng ㄅㄧㄥˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Quảng Đông": [
+            "bing2"
+        ]
+    },
+    "meanings": {
+        "bính": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vui mừng;",
+                "[Bêng] Huyện Bỉnh (một huyện thời xưa, nay thuộc Sơn Đông, Trung Quốc);",
+                "[Bêng] (Họ) Bỉnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên đất thời cổ, thuộc tỉnh Sơn Đông ngày nay — Họ người."
+            ]
+        },
+        "bỉnh": {
+            "Từ điển phổ thông": [
+                "vui mừng",
+                "huyện Bỉnh (nay thuộc tỉnh Sơn Đông của Trung Quốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên đất. § Ấp nước Trịnh thời Xuân Thu.",
+                "(Danh) Họ 'Bỉnh'.",
+                "(Tính) Vui vẻ."
+            ],
+            "compound_words": {
+                "邴邴": "bỉnh bỉnh"
+            }
+        }
+    }
+}

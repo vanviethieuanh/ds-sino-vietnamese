@@ -1,0 +1,95 @@
+{
+    "character": "虫",
+    "details": {
+        "Âm Hán Việt": [
+            "huỷ",
+            "trùng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "trùng 虫 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "LMI (中一戈)"
+        ],
+        "Unicode": [
+            "U+866B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chóng ㄔㄨㄥˊ",
+            "huǐ ㄏㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "chùng",
+            "trùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むし (mushi)"
+        ],
+        "Âm Hàn": [
+            "훼",
+            "충"
+        ],
+        "Âm Quảng Đông": [
+            "cung4",
+            "wai2"
+        ]
+    },
+    "meanings": {
+        "huỷ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cũng như 'trùng' 蟲.",
+                "§ Giản thể của chữ 蟲.",
+                "Một âm là 'hủy'. (Danh) Dạng xưa của chữ 'hủy' 虺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "① Như"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên loài rắn độc. Đầu hình tam giác — Một âm là Trùng."
+            ]
+        },
+        "trùng": {
+            "Từ điển phổ thông": [
+                "loài sâu bọ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cũng như 'trùng' 蟲.",
+                "§ Giản thể của chữ 蟲.",
+                "Một âm là 'hủy'. (Danh) Dạng xưa của chữ 'hủy' 虺."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nguyên là chữ 虺, ngày xưa tục mượn thay chữ 蟲: loài sâu bọ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sâu, bọ, (côn) trùng: 毛毛蟲 Sâu róm; (đph) 大蟲 Cọp, hổ; 羽蟲 Loài chim; 毛蟲 1. Sâu róm; 2. Loài thú rừng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trùng 蟲 — Tên một bộ chữ Hán, tức bộ Trùng."
+            ],
+            "compound_words": {
+                "幼虫": "ấu trùng",
+                "昆虫": "côn trùng",
+                "绦虫": "thao trùng"
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "character": "馴",
+    "details": {
+        "Âm Hán Việt": [
+            "huấn",
+            "tuần"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mã 馬 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰馬川"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶ノ丨丨"
+        ],
+        "Thương Hiệt": [
+            "SFLLL (尸火中中中)"
+        ],
+        "Unicode": [
+            "U+99B4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xún ㄒㄩㄣˊ",
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "thuần",
+            "tuần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)",
+            "シュン (shun)",
+            "クン (kun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な.れる (na.reru)",
+            "な.らす (na.rasu)",
+            "したが.う (shitaga.u)"
+        ],
+        "Âm Hàn": [
+            "순",
+            "훈"
+        ],
+        "Âm Quảng Đông": [
+            "ceon4",
+            "seon4"
+        ]
+    },
+    "meanings": {
+        "huấn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dạy ngựa cho thuần — Dạy bảo. Như chữ Huấn 訓. Một âm là Tuần."
+            ]
+        },
+        "tuần": {
+            "Từ điển phổ thông": [
+                "thuần, lành (thú)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thuận tòng. ◇Hoài Nam Tử 淮南子: 'Mã tiên tuần nhi hậu cầu lương' 馬先馴而後求良 (Thuyết lâm 說林) Ngựa trước hết phải thuận tòng, rồi sau mới cầu cho giỏi.",
+                "(Động) Làm cho thuần phục. ◇Hàn Dũ 韓愈: 'Giang ngư bất trì hoạt, Dã điểu nan lung tuần' 江魚不池活, 野鳥難籠馴 (Tống Huệ Sư 送惠師) Cá sông không sống trong ao, Chim đồng khó làm cho quen ở trong lồng.",
+                "(Tính) Quen, dễ bảo, thuần phục. ◎Như: 'ôn tuần' 溫馴 dễ bảo, thuần thục.",
+                "(Tính) Tốt lành, lương thiện.",
+                "(Phó) Dần dần. ◎Như: 'tuần chí' 馴至 đến dần dần. ◇Dịch Kinh 易經: 'Tuần trí kì đạo, chí kiên băng dã' 馴致其道, 至堅冰也 (Khôn quái 坤卦) Dần dần đạt đạo, tới băng giá vững chắc.",
+                "Một âm là 'huấn'. (Động) Dạy dỗ, chỉ bảo. § Thông 'huấn' 訓."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quen, lành. Ngựa tập đã thuần theo như ý người gọi là tuần. Nói rộng ra phàm vật gì dữ tợn mà rèn tập cho đều theo như ý mình đều gọi là tuần.",
+                "Hay. Văn chương hay gọi là nhã tuần 雅馴.",
+                "Dần dần, sự gì nó dần dần đến gọi là tuần chí 馴至."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quen, lành, dễ bảo, thuần, thuần phục, thuận theo: 馴養野獸 Thuần dưỡng thú rừng;",
+                "(văn) Dạy cho thuần, thuần hoá;",
+                "(văn) Dần dần: 馴至 Dần dần đến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngựa đã được huấn luyện thuần thục — Thuận theo — Tốt đẹp."
+            ],
+            "compound_words": {
+                "馴良": "tuần lương"
+            }
+        }
+    }
+}

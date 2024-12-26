@@ -1,0 +1,95 @@
+{
+    "character": "誅",
+    "details": {
+        "Âm Hán Việt": [
+            "tru"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言朱"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRHJD (卜口竹十木)"
+        ],
+        "Unicode": [
+            "U+8A85"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhū ㄓㄨ"
+        ],
+        "Âm Nôm": [
+            "trô",
+            "tru"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)",
+            "チュ (chu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちゅう.する (chū.suru)",
+            "ころ.す (koro.su)",
+            "せ.める (se.meru)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu1"
+        ]
+    },
+    "meanings": {
+        "tru": {
+            "Từ điển phổ thông": [
+                "giết kẻ có tội",
+                "phát cỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh dẹp, thảo phạt. ◇Tào Tháo 曹操: 'Ngô khởi nghĩa binh, tru bạo loạn' 吾起義兵, 誅暴亂 (Phong công thần lệnh 封功臣令) Ta dấy nghĩa quân, đánh dẹp bạo loạn.",
+                "(Động) Giết. ◇Sử Kí 史記: 'Tần tất tận tru ngô phụ mẫu thê tử' 秦必盡誅吾父母妻子 (Hạng Vũ bổn kỉ 項羽本紀) (Quân) Tần sẽ giết hết cha mẹ vợ con chúng mình.",
+                "(Động) Trừ khử, diệt trừ. ◎Như: 'tru mao' 誅茅 trừ cỏ tranh. ◇Sử Kí 史記: 'Tru loạn trừ hại' 誅亂除害 (Tần Thủy Hoàng bổn kỉ 秦始皇本紀) Diệt trừ họa loạn.",
+                "(Động) Trừng phạt, trừng trị. ◎Như: 'tru ư hữu tội giả' 誅於有罪者也 trừng trị kẻ có tội.",
+                "(Động) Khiển trách. ◎Như: 'khẩu tru bút phạt' 口誅筆伐 bút phê miệng trách. ◇Luận Ngữ 論語: 'Hủ mộc bất khả điêu dã, phẩn thổ chi tường bất khả ô dã. Ư Dư dư hà tru' 朽木不可雕也, 糞土之牆不可杇也. 於予與何誅 (Công Dã Tràng 公冶長) Gỗ mục không thể chạm khắc được, vách bằng đất dơ không thể trát được. Đối với trò Dư, còn trách làm gì.",
+                "(Động) Yêu cầu, đòi hỏi. ◎Như: 'tru cầu vô yếm' 誅求無厭 nạo khoét không chán."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giết, kể rõ tội lỗi ra mà giết đi gọi là tru.",
+                "Giết cả kẻ nọ kẻ kia không những một người cũng gọi là tru.",
+                "Trách, phạt. Như tru cầu vô yếm 誅求無厭 nạo khoét không chán, lấy thần thế ép người phải đút của.",
+                "Cắt cỏ, phát cỏ. Như tru mao 誅茅 phát cỏ tranh.",
+                "Bị thương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chém (đầu), giết, bị giết: 罪不容誅 Chết chém cũng chưa hết tội; 至景元中坐事誅 Đến niên hiệu Cảnh Nguyên, vì (phạm lỗi trong) công việc mà bị giết (Tam quốc chí: Vương Xán truyện);",
+                "Công kích, trừng phạt: 口誅筆伐 Bút phê miệng phạt;",
+                "(văn) Cắt cỏ, phát cỏ: 誅茅 Phát cỏ tranh;",
+                "(văn) Bị thương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trách phạt — Giết kẻ có tội — Đánh dẹp."
+            ],
+            "compound_words": {
+                "誅夷": "tru di",
+                "誅戮": "tru lục",
+                "誅殺": "tru sát",
+                "誅除": "tru trừ"
+            }
+        }
+    }
+}

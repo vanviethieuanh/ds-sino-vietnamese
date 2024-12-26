@@ -1,0 +1,130 @@
+{
+    "character": "括",
+    "details": {
+        "Âm Hán Việt": [
+            "hoạt",
+            "quát"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘舌"
+        ],
+        "Nét bút": [
+            "一丨一ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QHJR (手竹十口)"
+        ],
+        "Unicode": [
+            "U+62EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guā ㄍㄨㄚ",
+            "kuò ㄎㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "khoát",
+            "quát",
+            "quất",
+            "quét"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くく.る (kuku.ru)"
+        ],
+        "Âm Hàn": [
+            "괄"
+        ],
+        "Âm Quảng Đông": [
+            "kut3"
+        ]
+    },
+    "meanings": {
+        "hoạt": {
+            "Từ điển trích dẫn": [
+                "(Động) Bao, chứa. ◎Như: 'tổng quát' 總括 chứa tất cả, 'khái quát' 概括 bao gồm. ◇Bạch Cư Dị 白居易: 'Đỗ Phủ, Trần Tử Ngang, tài danh quát thiên địa' 杜甫陳子昂, 才名括天地 (Sơ thụ thập di thi 初授拾遺詩).",
+                "(Động) Buộc, bó, kết. ◎Như: 'quát phát' 括髮 quấn tóc, búi tóc.",
+                "(Động) Tìm tòi, sưu tầm, gom lại. ◎Như: 'sưu quát' 搜括 vơ vét. ◇Liêu trai chí dị 聊齋志異: 'Tiềm nhập tẩm thất, sưu quát tài vật' 潛入寢室, 搜括財物 (Ưng hổ thần 鷹虎神) Lẻn vào phòng ngủ, vơ vét tiền của.",
+                "(Động) Đến. ◇Thi Kinh 詩經: 'Nhật chi tịch hĩ, Dương ngưu hạ quát' 日之夕矣, 羊牛下括 (Vương phong 王風, Quân tử vu dịch 君子于役) Ngày đã tối rồi, Cừu và bò đã về đến.",
+                "(Động) Làm.",
+                "(Danh) Mũi cái tên.",
+                "Một âm là 'hoạt'. (Động) Hội họp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bao quát. Bó buộc lại, như quát phát 括髮 quấn tóc, búi tóc.",
+                "Mũi tên.",
+                "Tìm tòi (sưu tầm).",
+                "Ðến.",
+                "Làm.",
+                "Một âm là hoạt. Hội họp."
+            ]
+        },
+        "quát": {
+            "Từ điển phổ thông": [
+                "bao quát",
+                "buộc lại, bó lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bao, chứa. ◎Như: 'tổng quát' 總括 chứa tất cả, 'khái quát' 概括 bao gồm. ◇Bạch Cư Dị 白居易: 'Đỗ Phủ, Trần Tử Ngang, tài danh quát thiên địa' 杜甫陳子昂, 才名括天地 (Sơ thụ thập di thi 初授拾遺詩).",
+                "(Động) Buộc, bó, kết. ◎Như: 'quát phát' 括髮 quấn tóc, búi tóc.",
+                "(Động) Tìm tòi, sưu tầm, gom lại. ◎Như: 'sưu quát' 搜括 vơ vét. ◇Liêu trai chí dị 聊齋志異: 'Tiềm nhập tẩm thất, sưu quát tài vật' 潛入寢室, 搜括財物 (Ưng hổ thần 鷹虎神) Lẻn vào phòng ngủ, vơ vét tiền của.",
+                "(Động) Đến. ◇Thi Kinh 詩經: 'Nhật chi tịch hĩ, Dương ngưu hạ quát' 日之夕矣, 羊牛下括 (Vương phong 王風, Quân tử vu dịch 君子于役) Ngày đã tối rồi, Cừu và bò đã về đến.",
+                "(Động) Làm.",
+                "(Danh) Mũi cái tên.",
+                "Một âm là 'hoạt'. (Động) Hội họp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bao quát. Bó buộc lại, như quát phát 括髮 quấn tóc, búi tóc.",
+                "Mũi tên.",
+                "Tìm tòi (sưu tầm).",
+                "Ðến.",
+                "Làm.",
+                "Một âm là hoạt. Hội họp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bao quát: 概括Khái quát;",
+                "Giằng, giữ, buộc, quấn: 括髮 Búi tóc, quấn tóc;",
+                "(văn) Sưu tầm, tìm tòi;",
+                "(văn) Làm;",
+                "(văn) Đến;",
+                "(văn) Mũi cây tên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cột lại. Bó lại — Chứa đựng — Bao gồm hết cả. Td: Bao quát — Đầu mũi tên."
+            ],
+            "compound_words": {
+                "隱括": "ẩn quát",
+                "包括": "bao quát",
+                "賅括": "cai quát",
+                "機括": "cơ quát",
+                "概括": "khái quát",
+                "普括": "phổ quát",
+                "括号": "quát hiệu",
+                "括號": "quát hiệu",
+                "括弧": "quát hồ",
+                "括言": "quát ngôn",
+                "括髮": "quát phát",
+                "括收": "quát thâu",
+                "括撮": "quát toát",
+                "總括": "tổng quát",
+                "要括": "yếu quát"
+            }
+        }
+    }
+}

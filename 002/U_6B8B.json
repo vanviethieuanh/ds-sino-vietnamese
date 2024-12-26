@@ -1,0 +1,80 @@
+{
+    "character": "残",
+    "details": {
+        "Âm Hán Việt": [
+            "tàn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹戋"
+        ],
+        "Nét bút": [
+            "一ノフ丶一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "MNIJ (一弓戈十)"
+        ],
+        "Unicode": [
+            "U+6B8B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cán ㄘㄢˊ"
+        ],
+        "Âm Nôm": [
+            "tàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザン (zan)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のこ.る (noko.ru)",
+            "のこ.す (noko.su)",
+            "そこな.う (sokona.u)",
+            "のこ.り (noko.ri)"
+        ],
+        "Âm Hàn": [
+            "잔"
+        ],
+        "Âm Quảng Đông": [
+            "caan1",
+            "caan4"
+        ]
+    },
+    "meanings": {
+        "tàn": {
+            "Từ điển phổ thông": [
+                "thiếu",
+                "tàn, còn sót lại"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 殘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 殘"
+            ],
+            "compound_words": {
+                "残株": "tàn châu",
+                "残骸": "tàn hài",
+                "残酷": "tàn khốc",
+                "残忍": "tàn nhẫn",
+                "残废": "tàn phế",
+                "摧残": "tồi tàn"
+            }
+        }
+    }
+}

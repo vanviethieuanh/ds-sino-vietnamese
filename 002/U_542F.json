@@ -1,0 +1,83 @@
+{
+    "character": "启",
+    "details": {
+        "Âm Hán Việt": [
+            "khải",
+            "khể",
+            "khởi"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸户口"
+        ],
+        "Nét bút": [
+            "丶フ一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ISR (戈尸口)"
+        ],
+        "Unicode": [
+            "U+542F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qǐ ㄑㄧˇ"
+        ],
+        "Âm Nôm": [
+            "khải"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひら.く (hira.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "kai2"
+        ]
+    },
+    "meanings": {
+        "khải": {
+            "Từ điển phổ thông": [
+                "mở ra",
+                "bắt đầu"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 啓.",
+                "Giản thể của chữ 啟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 啟"
+            ]
+        },
+        "khể": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mở ra."
+            ]
+        },
+        "khởi": {
+            "Từ điển phổ thông": [
+                "mở ra",
+                "bắt đầu"
+            ],
+            "compound_words": {
+                "启动": "khởi động",
+                "启发": "khởi phát",
+                "启示": "khởi thị"
+            }
+        }
+    }
+}

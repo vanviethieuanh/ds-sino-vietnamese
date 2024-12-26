@@ -1,0 +1,142 @@
+{
+    "character": "飲",
+    "details": {
+        "Âm Hán Việt": [
+            "ấm",
+            "ẩm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thực 食 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰飠欠"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "OINO (人戈弓人)"
+        ],
+        "Unicode": [
+            "U+98F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yǐn ㄧㄣˇ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ẩm",
+            "hẩm",
+            "ỡm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "の.む (no.mu)",
+            "-の.み (-no.mi)"
+        ],
+        "Âm Hàn": [
+            "음"
+        ],
+        "Âm Quảng Đông": [
+            "jam2",
+            "jam3"
+        ]
+    },
+    "meanings": {
+        "ấm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ uống (rượu, tương, v.v.). ◇Luận Ngữ 論語: 'Nhất đan tự, nhất biều ẩm' 一簞食, 一瓢飲 (Ung dã 雍也) Một giỏ cơm, một bầu nước.",
+                "(Động) Uống. ◎Như: 'ẩm tửu' 飲酒 uống rượu, 'ẩm thủy' 飲水 uống nước. ◇Nguyễn Trãi 阮廌: 'Ẩm thủy phạn sơ tùy phận túc' 飲水飯蔬隨分足 (Côn sơn ca 崑山歌) Uống nước ăn cơm rau tùy phận cũng đủ.",
+                "(Động) Ngậm nuốt. ◎Như: 'ẩm hận' 飲恨 nuốt giận, nghĩa là mang mối hận âm thầm ở trong không lộ ra ngoài.",
+                "Một âm là 'ấm'. (Động) Cho uống. ◎Như: 'ấm chi dĩ tửu' 飲之以酒 cho uống rượu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cho (gia súc hoặc người) uống: 飲馬 Cho ngựa uống nước; 飲之以酒 Cho uống rượu. Xem 飲 [yên]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy nước cho uống. Cho uống nước. Một âm khác là Ẩm."
+            ]
+        },
+        "ẩm": {
+            "Từ điển phổ thông": [
+                "uống",
+                "nước uống",
+                "thuốc nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ uống (rượu, tương, v.v.). ◇Luận Ngữ 論語: 'Nhất đan tự, nhất biều ẩm' 一簞食, 一瓢飲 (Ung dã 雍也) Một giỏ cơm, một bầu nước.",
+                "(Động) Uống. ◎Như: 'ẩm tửu' 飲酒 uống rượu, 'ẩm thủy' 飲水 uống nước. ◇Nguyễn Trãi 阮廌: 'Ẩm thủy phạn sơ tùy phận túc' 飲水飯蔬隨分足 (Côn sơn ca 崑山歌) Uống nước ăn cơm rau tùy phận cũng đủ.",
+                "(Động) Ngậm nuốt. ◎Như: 'ẩm hận' 飲恨 nuốt giận, nghĩa là mang mối hận âm thầm ở trong không lộ ra ngoài.",
+                "Một âm là 'ấm'. (Động) Cho uống. ◎Như: 'ấm chi dĩ tửu' 飲之以酒 cho uống rượu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Uống: 飲茶 Uống trà;",
+                "Đồ uống: 冷飲 Đồ uống lạnh, đồ giải khát;",
+                "Nuốt, ngậm, ôm: 飲恨 Nuốt hận, ôm hận. Xem 飲 [yìn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Uống nước — Nước uống, đồ uống — Chỉ sự nhẫn nhịn chịu đựng — Một âm khác là Ấm."
+            ],
+            "compound_words": {
+                "飲冰": "ẩm băng",
+                "飲冰茹蘗": "ẩm băng như nghiệt",
+                "飲冰室": "ẩm băng thất",
+                "飲冰室文集": "ẩm băng thất văn tập",
+                "飲至": "ẩm chí",
+                "飲羊": "ẩm dương",
+                "飲酖止渴": "ẩm đam chỉ khát",
+                "飲徒": "ẩm đồ",
+                "飲恨": "ẩm hận",
+                "飲禍": "ẩm hoạ",
+                "飲灰洗胃": "ẩm hôi tẩy vị",
+                "飲血": "ẩm huyết",
+                "飲泣": "ẩm khấp",
+                "飲器": "ẩm khí",
+                "飲淚": "ẩm lệ",
+                "飲料": "ẩm liệu",
+                "飲福": "ẩm phúc",
+                "飲水思源": "ẩm thuỷ tư nguyên",
+                "飲食": "ẩm thực",
+                "飲食療養": "ẩm thực liệu dưỡng",
+                "飲食男女": "ẩm thực nam nữ",
+                "飲俴": "ẩm tiễn",
+                "飲餞": "ẩm tiễn",
+                "飲啄": "ẩm trác",
+                "飲鴆": "ẩm trẩm",
+                "飲鴆止渴": "ẩm trậm chỉ khát",
+                "飲子": "ẩm tử",
+                "飲羽": "ẩm vũ",
+                "谷飲": "cốc ẩm",
+                "狂飲": "cuồng ẩm",
+                "夜飲": "dạ ẩm",
+                "簞食瓢飲": "đan tự biều ẩm",
+                "獨飲": "độc ẩm",
+                "對飲": "đối ẩm",
+                "會飲": "hội ẩm",
+                "牛飲": "ngưu ẩm",
+                "茹毛飲血": "như mao ẩm huyết",
+                "轟飲": "oanh ẩm",
+                "雙飲": "song ẩm",
+                "沈飲": "trầm ẩm",
+                "長夜飲": "trường dạ ẩm",
+                "啜飲": "xuyết ẩm",
+                "宴飲": "yến ẩm"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "战",
+    "details": {
+        "Âm Hán Việt": [
+            "chiến"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "qua 戈 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰占戈"
+        ],
+        "Nét bút": [
+            "丨一丨フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRI (卜口戈)"
+        ],
+        "Unicode": [
+            "U+6218"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhàn ㄓㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chiến"
+        ],
+        "Âm Quảng Đông": [
+            "zin3"
+        ]
+    },
+    "meanings": {
+        "chiến": {
+            "Từ điển phổ thông": [
+                "chiến tranh, đánh nhau"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 戰."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 戰"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Chiến 戰."
+            ],
+            "compound_words": {
+                "战斗": "chiến đấu",
+                "战区": "chiến khu",
+                "战略": "chiến lược",
+                "战士": "chiến sĩ",
+                "战事": "chiến sự",
+                "战胜": "chiến thắng",
+                "战争": "chiến tranh",
+                "战场": "chiến trường",
+                "战车": "chiến xa",
+                "征战": "chinh chiến",
+                "第一次世界大战": "đệ nhất thứ thế giới đại chiến",
+                "第二次世界大战": "đệ nhị thứ thế giới đại chiến",
+                "好战": "hiếu chiến",
+                "休战": "hưu chiến",
+                "抗战": "kháng chiến",
+                "挑战": "khiêu chiến",
+                "冷战": "lãnh chiến",
+                "內战": "nội chiến",
+                "作战": "tác chiến",
+                "宣战": "tuyên chiến",
+                "应战": "ứng chiến"
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "character": "劳",
+    "details": {
+        "Âm Hán Việt": [
+            "lao",
+            "lạo"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "lực 力 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿳艹冖力"
+        ],
+        "Nét bút": [
+            "一丨丨丶フフノ"
+        ],
+        "Thương Hiệt": [
+            "TBKS (廿月大尸)"
+        ],
+        "Unicode": [
+            "U+52B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "láo ㄌㄠˊ",
+            "lào ㄌㄠˋ"
+        ],
+        "Âm Nôm": [
+            "lao"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lao": {
+            "Từ điển phổ thông": [
+                "nặng nhọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 勞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 勞"
+            ],
+            "compound_words": {
+                "劬劳": "cù lao",
+                "徒劳": "đồ lao",
+                "劳工": "lao công",
+                "劳动": "lao động",
+                "劳教": "lao giáo",
+                "操劳": "thao lao"
+            }
+        },
+        "lạo": {
+            "Từ điển phổ thông": [
+                "an ủi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 勞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 勞"
+            ]
+        }
+    }
+}

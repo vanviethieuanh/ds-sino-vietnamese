@@ -1,0 +1,78 @@
+{
+    "character": "灸",
+    "details": {
+        "Âm Hán Việt": [
+            "cứu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "hoả 火 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱久火"
+        ],
+        "Nét bút": [
+            "ノフ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "NOF (弓人火)"
+        ],
+        "Unicode": [
+            "U+7078"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǔ ㄐㄧㄡˇ"
+        ],
+        "Âm Nôm": [
+            "cứu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やいと (yaito)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "gau3"
+        ]
+    },
+    "meanings": {
+        "cứu": {
+            "Từ điển phổ thông": [
+                "cứu (lấy ngải cứu châm lửa đốt vào các huyệt để chữa bệnh)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phương pháp chữa bệnh dùng lá ngải châm đốt vào các huyệt. ◎Như: 'châm cứu' 針灸.",
+                "(Động) Thiêu, đốt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cứu, lấy ngải cứu châm lửa đốt vào các huyệt để chữa bệnh gọi là cứu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(y) Cứu (dùng ngải cứu châm vào huyệt đốt để chữa bệnh): 艾條灸 Cứu bằng thoi ngải; 艾柱灸 Cứu bằng mồi ngải; 間接灸 Cứu gián tiếp; 重灸 Cứu năng. Xem 針灸 [zhenjiư]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nướng trên lửa."
+            ],
+            "compound_words": {
+                "針灸": "châm cứu",
+                "艾灸": "ngải cứu"
+            }
+        }
+    }
+}

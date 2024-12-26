@@ -1,0 +1,95 @@
+{
+    "character": "吵",
+    "details": {
+        "Âm Hán Việt": [
+            "sao",
+            "sảo"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口少"
+        ],
+        "Nét bút": [
+            "丨フ一丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "RFH (口火竹)"
+        ],
+        "Unicode": [
+            "U+5435"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chǎo ㄔㄠˇ"
+        ],
+        "Âm Nôm": [
+            "sao",
+            "thểu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)",
+            "ミョウ (myō)",
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さえず.る (saezu.ru)",
+            "こえ (koe)"
+        ],
+        "Âm Quảng Đông": [
+            "caau2"
+        ]
+    },
+    "meanings": {
+        "sao": {
+            "Từ điển Trần Văn Chánh": [
+                "【吵吵】sao sao [chaochao] Xì xào, om sòm. Xem 吵 [chăo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng người nói ồn ào."
+            ],
+            "compound_words": {
+                "吵閙": "sao náo"
+            }
+        },
+        "sảo": {
+            "Từ điển phổ thông": [
+                "(xem: sảo náo 吵鬧)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quấy rầy, quấy nhiễu. ◇Lão Xá 老舍: 'Ngã đích đề khốc, sảo đắc tha bất năng an miên' 我的啼哭, 吵得她不能安眠 (Chánh hồng kì hạ 正紅旗下) Tiếng tôi kêu khóc, quấy rầy làm cho bà ấy không ngủ yên được.",
+                "(Động) Cãi nhau. ◎Như: 'tranh sảo' 爭吵 tranh cãi.",
+                "(Tính) Ồn ào, ầm ĩ. ◎Như: 'xa thanh thái sảo' 車聲太吵 tiếng xe cộ ầm ĩ quá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sảo náo 吵閙 nói rầm rĩ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ồn ào, ầm ĩ, làm ồn: 吵得慌 Ồn đến nhức cả đầu; 好好聽着，別吵 Ngồi im mà nghe, đừng làm ồn lên;",
+                "Cãi nhau: 兩人吵起來了 Hai người cãi nhau; 吵吵嚷嚷 Cãi nhau ầm ĩ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng ồn ào — Tiếng xì xào — Cũng đọc Sao. Xem Sao."
+            ],
+            "compound_words": {
+                "吵架": "sảo giá",
+                "吵闹": "sảo náo",
+                "吵鬧": "sảo náo",
+                "爭吵": "tranh sảo"
+            }
+        }
+    }
+}

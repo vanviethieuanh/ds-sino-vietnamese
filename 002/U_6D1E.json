@@ -1,0 +1,107 @@
+{
+    "character": "洞",
+    "details": {
+        "Âm Hán Việt": [
+            "đỗng",
+            "động"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡同"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "EBMR (水月一口)"
+        ],
+        "Unicode": [
+            "U+6D1E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dòng ㄉㄨㄥˋ",
+            "tóng ㄊㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dọng",
+            "dộng",
+            "đọng",
+            "động",
+            "đùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほら (hora)"
+        ],
+        "Âm Hàn": [
+            "동",
+            "통"
+        ],
+        "Âm Quảng Đông": [
+            "dung6"
+        ]
+    },
+    "meanings": {
+        "đỗng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Động, hang sâu. ◇Nguyễn Trãi 阮廌: 'Thanh Hư đỗng lí trúc thiên can' 清虛洞裡竹千竿 (Mộng sơn trung 夢山中) Trong động Thanh Hư hàng nghin cành trúc.",
+                "(Danh) Lỗ hổng.",
+                "(Động) Suốt, thấu. ◎Như: 'đỗng giám' 洞鑒 soi suốt. ◇Hồng Lâu Mộng 紅樓夢: 'Đãn đệ tử ngu trọc, bất năng đỗng tất minh bạch' 但弟子愚濁, 不能洞悉明白 (Đệ nhất hồi) Nhưng đệ tử ngu tối, không thể hiểu thấu rõ ràng.",
+                "§ Ghi chú: Ta quen đọc là 'động'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái động (hang sâu).",
+                "Lỗ hổng, cái gì đục thủng đều gọi là đỗng.",
+                "Suốt, như đỗng giám 洞鑒 soi suốt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hang, động, chỗ thủng, chỗ rách: 洞主 Chủ động; 山洞 Hang núi; 仙洞 Động tiên; 洞口 Cửa động; 襯衣破 了一個洞 Cái áo sơ mi rách một lỗ;",
+                "Suốt, nhìn thấu, nghĩ thấu: 洞見症結 Nhìn thấy rõ điều uẩn khúc; 洞鑒 Soi suốt."
+            ],
+            "compound_words": {
+                "黑洞洞": "hắc đỗng đỗng"
+            }
+        },
+        "động": {
+            "Từ điển phổ thông": [
+                "hang động"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Động, hang sâu. ◇Nguyễn Trãi 阮廌: 'Thanh Hư đỗng lí trúc thiên can' 清虛洞裡竹千竿 (Mộng sơn trung 夢山中) Trong động Thanh Hư hàng nghin cành trúc.",
+                "(Danh) Lỗ hổng.",
+                "(Động) Suốt, thấu. ◎Như: 'đỗng giám' 洞鑒 soi suốt. ◇Hồng Lâu Mộng 紅樓夢: 'Đãn đệ tử ngu trọc, bất năng đỗng tất minh bạch' 但弟子愚濁, 不能洞悉明白 (Đệ nhất hồi) Nhưng đệ tử ngu tối, không thể hiểu thấu rõ ràng.",
+                "§ Ghi chú: Ta quen đọc là 'động'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hang, động, chỗ thủng, chỗ rách: 洞主 Chủ động; 山洞 Hang núi; 仙洞 Động tiên; 洞口 Cửa động; 襯衣破 了一個洞 Cái áo sơ mi rách một lỗ;",
+                "Suốt, nhìn thấu, nghĩ thấu: 洞見症結 Nhìn thấy rõ điều uẩn khúc; 洞鑒 Soi suốt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng nước chảy xiết — Nhỏ xuống, rỉ xuống — Hang núi. Như chữ Động 峒. Chẳng hạn Động khẩu ( miệng hang )."
+            ],
+            "compound_words": {
+                "洞庭": "động đình",
+                "澒洞": "hống động",
+                "巖洞": "nham động",
+                "山洞": "sơn động",
+                "天南洞主": "thiên nam động chủ"
+            }
+        }
+    }
+}

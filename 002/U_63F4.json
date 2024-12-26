@@ -1,0 +1,129 @@
+{
+    "character": "援",
+    "details": {
+        "Âm Hán Việt": [
+            "viên",
+            "viện"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘爰"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶丶ノ一一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "QBME (手月一水)"
+        ],
+        "Unicode": [
+            "U+63F4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yuán ㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "vén",
+            "viện",
+            "vin",
+            "vờn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Hàn": [
+            "원"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4",
+            "jyun6",
+            "wun4"
+        ]
+    },
+    "meanings": {
+        "viên": {
+            "Từ điển trích dẫn": [
+                "(Động) Vin, dựa theo. ◎Như: 'viên lệ' 援例 vin lệ cũ.",
+                "(Động) Cầm, nắm. ◇Tả truyện 左傳: 'Viên phu nhi cổ' 援枹而鼓 (Thành Công nhị niên 成公二年) Cầm dùi mà đánh trống.",
+                "(Động) Dẫn ra, đưa ra. ◇Quách Phác 郭璞: 'Sự hữu ẩn trệ, viên cứ trưng chi' 事有隱滯, 援據徵之 (Nhĩ nhã tự 爾雅序) Việc có uẩn khúc, đưa ra bằng cớ để chứng minh.",
+                "(Động) Tiến dẫn. ◎Như: 'cử hiền viên năng' 舉賢援能 đề cử người hiền tài tiến dẫn người có khả năng.",
+                "Một âm là 'viện'. (Động) Cứu giúp, cứu trợ. ◎Như: 'viện binh' 援兵 binh đến cứu giúp. ◇Mạnh Tử 孟子: 'Thiên hạ nịch, viện chi dĩ đạo; tẩu nịch, viện chi dĩ thủ' 天下溺, 援之以道；嫂溺，援之以手 (Li Lâu thượng 離婁上) Thiên hạ chìm đắm, lấy đạo mà cứu giúp; chị dâu bị đuối, lấy tay mà cứu giúp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vin, như viên lệ 援例 vin lệ cũ.",
+                "Kéo, dắt, như thiên hạ nịch, viên chi dĩ đạo 天下溺援之以道 thiên hạ chìm đắm, phải lấy đạo mà kéo dắt lên.",
+                "Một âm là viện. Cứu giúp, như viện binh 援兵 binh đến cứu giúp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dắt, kéo, níu: 援之以手 Dắt tay; 天下溺，援之以道 Thiên hạ chìm đắm, phải dùng đạo để kéo dắt lên;",
+                "Viện trợ, giúp đỡ: 支援 Chi viện;",
+                "Dẫn, viện dẫn, vin theo; 援證 Viện dẫn chứng cứ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dắt kéo — Vịn vào — Xem Viện."
+            ],
+            "compound_words": {
+                "攀援": "phan viên",
+                "援能": "viên năng",
+                "援溺": "viên nịch"
+            }
+        },
+        "viện": {
+            "Từ điển phổ thông": [
+                "bám, víu",
+                "viện ra, dẫn ra",
+                "viện trợ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vin, dựa theo. ◎Như: 'viên lệ' 援例 vin lệ cũ.",
+                "(Động) Cầm, nắm. ◇Tả truyện 左傳: 'Viên phu nhi cổ' 援枹而鼓 (Thành Công nhị niên 成公二年) Cầm dùi mà đánh trống.",
+                "(Động) Dẫn ra, đưa ra. ◇Quách Phác 郭璞: 'Sự hữu ẩn trệ, viên cứ trưng chi' 事有隱滯, 援據徵之 (Nhĩ nhã tự 爾雅序) Việc có uẩn khúc, đưa ra bằng cớ để chứng minh.",
+                "(Động) Tiến dẫn. ◎Như: 'cử hiền viên năng' 舉賢援能 đề cử người hiền tài tiến dẫn người có khả năng.",
+                "Một âm là 'viện'. (Động) Cứu giúp, cứu trợ. ◎Như: 'viện binh' 援兵 binh đến cứu giúp. ◇Mạnh Tử 孟子: 'Thiên hạ nịch, viện chi dĩ đạo; tẩu nịch, viện chi dĩ thủ' 天下溺, 援之以道；嫂溺，援之以手 (Li Lâu thượng 離婁上) Thiên hạ chìm đắm, lấy đạo mà cứu giúp; chị dâu bị đuối, lấy tay mà cứu giúp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vin, như viên lệ 援例 vin lệ cũ.",
+                "Kéo, dắt, như thiên hạ nịch, viên chi dĩ đạo 天下溺援之以道 thiên hạ chìm đắm, phải lấy đạo mà kéo dắt lên.",
+                "Một âm là viện. Cứu giúp, như viện binh 援兵 binh đến cứu giúp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dắt, kéo, níu: 援之以手 Dắt tay; 天下溺，援之以道 Thiên hạ chìm đắm, phải dùng đạo để kéo dắt lên;",
+                "Viện trợ, giúp đỡ: 支援 Chi viện;",
+                "Dẫn, viện dẫn, vin theo; 援證 Viện dẫn chứng cứ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giúp đỡ. Cứu giúp — Một âm là Viên. Xem Viên — Vin vào. Vịn vào ( với nghĩa này, đáng lẽ phải đọc Viên, ta vẫn quen đọc Viện )."
+            ],
+            "compound_words": {
+                "支援": "chi viện",
+                "救援": "cứu viện",
+                "外援": "ngoại viện",
+                "增援": "tăng viện",
+                "應援": "ứng viện",
+                "援兵": "viện binh",
+                "援證": "viện chứng",
+                "援據": "viện cứ",
+                "援救": "viện cứu",
+                "援引": "viện dẫn",
+                "援例": "viện lệ",
+                "援理": "viện lí",
+                "援軍": "viện quân",
+                "援手": "viện thủ",
+                "援助": "viện trợ"
+            }
+        }
+    }
+}

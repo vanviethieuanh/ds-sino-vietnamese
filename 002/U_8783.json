@@ -1,0 +1,77 @@
+{
+    "character": "螃",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trùng 虫 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫旁"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "LIYBS (中戈卜月尸)"
+        ],
+        "Unicode": [
+            "U+8783"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bǎng ㄅㄤˇ",
+            "páng ㄆㄤˊ"
+        ],
+        "Âm Nôm": [
+            "bàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển phổ thông": [
+                "(xem: bàng kỳ 螃蜞)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Bàng kì' 螃蜞 con cáy.",
+                "(Danh) 'Bàng giải' 螃蟹 con cua. § Gọi tắt là 'giải' 蟹."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bàng kì 螃蜞 con cáy.",
+                "Bàng giải 螃蟹 con cua."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【螃蟹】bàng giải [pángxiè] (Con) cua."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem các từ ngữ Bàng giải 螃蟹, Bàng kì 螃蜞."
+            ],
+            "compound_words": {
+                "螃蟹": "bàng giải",
+                "螃蜞": "bàng kỳ"
+            }
+        }
+    }
+}

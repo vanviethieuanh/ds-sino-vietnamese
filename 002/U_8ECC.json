@@ -1,0 +1,95 @@
+{
+    "character": "軌",
+    "details": {
+        "Âm Hán Việt": [
+            "quỹ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "xa 車 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰車九"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨ノフ"
+        ],
+        "Thương Hiệt": [
+            "JJKN (十十大弓)"
+        ],
+        "Unicode": [
+            "U+8ECC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guǐ ㄍㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "quẫy",
+            "quĩ",
+            "quỹ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Hàn": [
+            "궤"
+        ],
+        "Âm Quảng Đông": [
+            "gwai2"
+        ]
+    },
+    "meanings": {
+        "quỹ": {
+            "Từ điển phổ thông": [
+                "cỡ bánh xe",
+                "vết bánh xe",
+                "đường sắt, đường ray"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khoảng cách giữa hai bánh xe. ◇Lễ Kí 禮記: 'Kim thiên hạ xa đồng quỹ, thư đồng văn' 今天下車同軌, 書同文 (Trung Dung 中庸) Nay xe trong thiên hạ có khoảng cách giữa hai bánh xe như nhau, viết cùng một văn tự.",
+                "(Danh) Vết xe đi. ◇Liễu Tông Nguyên 柳宗元: 'Chu đạo kí hoại, binh xa chi quỹ giao ư thiên hạ, nhi hãn tri xâm phạt chi đoan yên' 周道既壞, 兵車之軌交於天下, 而罕知侵伐之端焉 (Biện xâm phạt luận 辯侵伐論).",
+                "(Danh) Mượn chỉ xe.",
+                "(Danh) Đường đi của xe lửa hoặc đường vận hành của các sao. ◇Hoài Nam Tử 淮南子: 'Ngũ tinh tuần quỹ nhi bất thất kì hành' 五星循軌而不失其行 (Bổn kinh 本經) Năm sao noi theo quỹ đạo mà không sai đường đi của chúng.",
+                "(Danh) Đường đi, đạo lộ.",
+                "(Danh) Phép tắc, pháp độ, quy củ.",
+                "(Danh) Một loại biên chế hộ khẩu thời xưa.",
+                "(Danh) Họ 'Quỹ'.",
+                "(Động) Tuân theo, y theo. ◎Như: 'bất quỹ' 不軌 không tuân theo phép tắc.",
+                "(Động) Tính toán, thống kê. ◎Như: 'quỹ sổ' 軌數."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái vết bánh xe chỗ trục hai bánh xe cách nhau. Ðường sắt xe hoả, xe điện chạy gọi là thiết quỹ 鐵軌 hay quỹ đạo 軌道.",
+                "Con đường, các sao hành tinh đi xung quanh mặt trời gọi là quỹ đạo 軌道.",
+                "Phép tắc. Không tuân theo phép tắc gọi là bất quỹ 不軌. Kẻ mưu làm loạn gọi là mưu vi bất quỹ 謀為不軌."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vết xe;",
+                "Đường xe: 鐵軌 Đường ray, đường rầy; 出軌 Trật đường rầy, trật bánh;",
+                "Nề nếp, mẫu mực, phép tắc, khuôn phép, khuôn khổ: 不軌 Không theo phép tắc; 走上正軌 Đi vào nề nếp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vết bánh xe đi — Đầu trục bánh xe — Đường đi của các hành tinh. Tức quỹ đạo – Phép tắc — Noi theo. Tuân giữ."
+            ],
+            "compound_words": {
+                "高軌": "cao quỹ",
+                "軌道": "quỹ đạo",
+                "軌度": "quỹ độ",
+                "軌模": "quỹ mô",
+                "軌則": "quỹ tắc",
+                "齒軌": "xỉ quỹ",
+                "出軌": "xuất quỹ"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "墓",
+    "details": {
+        "Âm Hán Việt": [
+            "mộ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thổ 土 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱莫土"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一一ノ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "TAKG (廿日大土)"
+        ],
+        "Unicode": [
+            "U+5893"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mù ㄇㄨˋ"
+        ],
+        "Âm Nôm": [
+            "mô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボ (bo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はか (haka)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "mou6"
+        ]
+    },
+    "meanings": {
+        "mộ": {
+            "Từ điển phổ thông": [
+                "nấm mồ, ngôi mộ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Mồ, mả. ◇Nguyễn Du 阮攸: “Tống triều cổ mộ kí Âu Dương” 宋朝古墓記歐陽 (Âu Dương Văn Trung Công mộ 歐陽文忠公墓) Ghi rõ mộ cổ của Âu Dương Tu đời nhà Tống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái mả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mồ, mộ, mả: 公墓 Nghĩa địa, nghĩa trang; 烈士墓 Mộ liệt sĩ, nghĩa trang liệt sĩ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gò đất — Nắm mồ. Ngôi mả người chết."
+            ],
+            "compound_words": {
+                "古墓": "cổ mộ",
+                "墟墓": "khư mộ",
+                "陵墓": "lăng mộ",
+                "廬墓": "lư mộ",
+                "墓碑": "mộ bi",
+                "墓志": "mộ chí",
+                "墓誌": "mộ chí",
+                "墓地": "mộ địa",
+                "坟墓": "phần mộ",
+                "墳墓": "phần mộ",
+                "封墓": "phong mộ",
+                "掃墓": "tảo mộ"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "character": "洲",
+    "details": {
+        "Âm Hán Việt": [
+            "châu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡州"
+        ],
+        "Nét bút": [
+            "丶丶一丶ノ丶丨丶丨"
+        ],
+        "Thương Hiệt": [
+            "EILL (水戈中中)"
+        ],
+        "Unicode": [
+            "U+6D32"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhōu ㄓㄡ"
+        ],
+        "Âm Nôm": [
+            "chao",
+            "châu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)",
+            "ス (su)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しま (shima)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "châu": {
+            "Từ điển phổ thông": [
+                "bãi, cù lao",
+                "châu lục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bãi cù lao, trong nước có chỗ ở được. ◇Đỗ Phủ 杜甫: 'Dĩ ánh châu tiền lô địch hoa' 已映洲前蘆荻花 (Thu hứng 秋興) Đã chiếu sáng những bông lau trước bãi cù lao.",
+                "(Danh) Đất liền lớn trên địa cầu. § Có năm 'châu' 洲 là Á, Âu, Phi, Úc và Mĩ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bãi cù lao, trong nước có chỗ ở được gọi là châu.",
+                "Châu, đất liền lớn gọi là châu. Ðịa cầu chia làm sáu châu là châu Á, Âu, Phi, Úc, Nam Mĩ, Bắc Mĩ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cồn, bãi, cù lao (giữa sông): 沙洲 Cồn cát; 綠洲 Ốc đảo; 關關睢鳩，在河之州 Quan quan cái con thư cưu, con sống con mái cùng nhau bãi ngoài (Thi Kinh);",
+                "Châu: 亞洲 Châu Á; 五大洲 Năm đại châu; 五洲四海 Năm châu bốn biển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng đất lớn nổi lên giữa biển — Đại lục. Đất liền, rộng lớn."
+            ],
+            "compound_words": {
+                "亚洲": "á châu",
+                "亞洲": "á châu",
+                "欧洲": "âu châu",
+                "歐洲": "âu châu",
+                "瀛洲": "doanh châu",
+                "交洲": "giao châu",
+                "滿洲": "mãn châu",
+                "美洲": "mỹ châu",
+                "五大洲": "ngũ đại châu",
+                "非洲": "phi châu",
+                "神洲": "thần châu",
+                "中洲": "trung châu"
+            }
+        }
+    }
+}

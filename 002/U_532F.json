@@ -1,0 +1,100 @@
+{
+    "character": "匯",
+    "details": {
+        "Âm Hán Việt": [
+            "hối",
+            "hội"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "phương 匚 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿷匚淮"
+        ],
+        "Nét bút": [
+            "一丶丶一ノ丨丶一一一丨一フ"
+        ],
+        "Thương Hiệt": [
+            "SEOG (尸水人土)"
+        ],
+        "Unicode": [
+            "U+532F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "hối",
+            "vị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "エ (e)",
+            "カイ (kai)",
+            "ワイ (wai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "がい (gai)",
+            "めぐ.る (megu.ru)"
+        ],
+        "Âm Hàn": [
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "wui6"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển phổ thông": [
+                "quay lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Các sông đổ dồn về. ◇Liễu Tông Nguyên 柳宗元: '(Liễu Châu) nam bắc đông tây giai thủy hối' (柳州)南北東西皆水匯 (Liễu Châu san thủy 柳州山水) (Liễu Châu) nam bắc đông tây, các sông đều đổ về.",
+                "(Động) Tụ họp. ◎Như: 'hối tập' 匯集 tụ tập.",
+                "(Động) Gửi tiền, chuyển tiền. ◎Như: 'hối khoản' 匯款 gửi tiền, 'hối đoái' 匯兌 gửi và nhận tiền qua trung gian bưu điện, điện báo, ngân hàng, v.v."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quanh lại. Nước chảy quanh lại.",
+                "Rót vào, chỗ các dòng nước đều chảy vào.",
+                "Gửi, nhận tiền của xứ A gửi cho xứ B nhận lấy gọi là hối đoái 匯兌 tức là cách gửi mandat vậy. Cái mandat để lĩnh tiền gọi là hối phiếu 匯票."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gởi. 【匯款】hối khoản [huìkuăn] a. Gởi tiền: 他到銀行匯款去了 Anh ấy đi ngân hàng gởi tiền; b. Tiền gởi: 收到一筆匯款 Nhận được một số tiền gởi đến;",
+                "Hối (đoái).【匯兌】hối đoái [huìduì] Hối đoái: 國内匯兌 Hối đoái trong nước; 國外匯兌 Hối đoái ngoài nước;",
+                "Tụ lại: 小川匯成巨流 Sông con tụ lại thành sông lớn;",
+                "Hội, hợp: 詞匯 Từ hội; 總匯 Tổng hợp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước chảy vòng tụ lại một chỗ — Gửi tiền từ nước này qua nước khác."
+            ],
+            "compound_words": {
+                "郵匯": "bưu hối",
+                "匯兌": "hối đoái",
+                "匯票": "hối phiếu",
+                "匯率": "hối suất",
+                "外匯": "ngoại hối"
+            }
+        },
+        "hội": {
+            "Từ điển Trần Văn Chánh": [
+                "Gởi. 【匯款】hối khoản [huìkuăn] a. Gởi tiền: 他到銀行匯款去了 Anh ấy đi ngân hàng gởi tiền; b. Tiền gởi: 收到一筆匯款 Nhận được một số tiền gởi đến;",
+                "Hối (đoái).【匯兌】hối đoái [huìduì] Hối đoái: 國内匯兌 Hối đoái trong nước; 國外匯兌 Hối đoái ngoài nước;",
+                "Tụ lại: 小川匯成巨流 Sông con tụ lại thành sông lớn;",
+                "Hội, hợp: 詞匯 Từ hội; 總匯 Tổng hợp."
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "character": "岏",
+    "details": {
+        "Âm Hán Việt": [
+            "hoàn",
+            "ngoan"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sơn 山 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰山元"
+        ],
+        "Nét bút": [
+            "丨フ丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "UMMU (山一一山)"
+        ],
+        "Unicode": [
+            "U+5C8F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wán ㄨㄢˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガン (gan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けわ.しい (kewa.shii)",
+            "たか.い (taka.i)"
+        ],
+        "Âm Hàn": [
+            "완"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "hoàn": {
+            "Từ điển phổ thông": [
+                "(xem: tán hoàn 巑岏)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【巑岏】tán hoàn [cuánwán] (văn) Núi nhọn, núi cao;",
+                "Cao ngất."
+            ],
+            "compound_words": {
+                "巑岏": "tán hoàn"
+            }
+        },
+        "ngoan": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng núi nhọn hoắt. Cũng nói Toản ngoan 巑岏."
+            ],
+            "compound_words": {
+                "巑岏": "toàn ngoan"
+            }
+        }
+    }
+}

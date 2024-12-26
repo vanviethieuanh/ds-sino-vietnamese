@@ -1,0 +1,119 @@
+{
+    "character": "荷",
+    "details": {
+        "Âm Hán Việt": [
+            "hà",
+            "hạ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹何"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "TOMR (廿人一口)"
+        ],
+        "Unicode": [
+            "U+8377"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hē ㄏㄜ",
+            "hé ㄏㄜˊ",
+            "hè ㄏㄜˋ",
+            "kē ㄎㄜ"
+        ],
+        "Âm Nôm": [
+            "hà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "に (ni)"
+        ],
+        "Âm Hàn": [
+            "하"
+        ],
+        "Âm Quảng Đông": [
+            "ho4",
+            "ho6"
+        ]
+    },
+    "meanings": {
+        "hà": {
+            "Từ điển phổ thông": [
+                "hoa sen"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây sen. § Còn gọi là 'liên' 蓮, 'phù cừ' 芙蕖.",
+                "(Danh) § Xem 'bạc hà' 薄荷.",
+                "Một âm là 'hạ'. (Động) Gánh, vác. ◇Nguyễn Trãi 阮廌: 'Tha niên Nhị Khê ước, Đoản lạp hạ xuân sừ' 他年淽溪約, 短笠荷春鋤 (Tặng hữu nhân 贈友人) Năm nào hẹn về Nhị Khê (quê hương của Nguyễn Trãi), Đội nón lá, vác cuốc đi làm vụ xuân.",
+                "(Động) Nhờ ơn, mang ơn (thường dùng trong thư từ). ◎Như: 'cảm hạ' 感荷 cảm tạ.",
+                "(Động) Đảm đang, đảm nhiệm. ◇Trương Hành 張衡: 'Hà thiên hạ chi trọng nhậm' 荷天下之重任 (Đông Kinh phú 東京賦) Gánh vác trọng trách trong thiên hạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hoa sen.",
+                "Bạc hà 薄荷 cây bạc hà, dùng cất dầu làm thuốc.",
+                "Một âm là hạ. Gánh vác.",
+                "Nhờ ơn.",
+                "Tự đảm đang lấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sen, hoa sen: 【荷花】hà hoa [héhua] a. Hoa sen; b. Sen;",
+                "Xem 薄荷 [bòhe] Xem 荷 [hè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây sen. Hoa sen — Một âm là Hạ. Xem Hạ."
+            ],
+            "compound_words": {
+                "奥克拉荷马": "áo khắc lạp hà mã",
+                "奧克拉荷馬": "áo khắc lạp hà mã",
+                "薄荷": "bạc hà",
+                "薄荷油": "bạc hà du",
+                "薄荷晶": "bạc hà tinh",
+                "暴荷": "bạo hà",
+                "荷葉": "hà diệp",
+                "荷花": "hà hoa",
+                "荷蘭": "hà lan",
+                "荷錢": "hà tiền",
+                "蘘荷": "nhương hà",
+                "負荷": "phụ hà"
+            }
+        },
+        "hạ": {
+            "Từ điển phổ thông": [
+                "vác trên vai"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây sen. § Còn gọi là 'liên' 蓮, 'phù cừ' 芙蕖.",
+                "(Danh) § Xem 'bạc hà' 薄荷.",
+                "Một âm là 'hạ'. (Động) Gánh, vác. ◇Nguyễn Trãi 阮廌: 'Tha niên Nhị Khê ước, Đoản lạp hạ xuân sừ' 他年淽溪約, 短笠荷春鋤 (Tặng hữu nhân 贈友人) Năm nào hẹn về Nhị Khê (quê hương của Nguyễn Trãi), Đội nón lá, vác cuốc đi làm vụ xuân.",
+                "(Động) Nhờ ơn, mang ơn (thường dùng trong thư từ). ◎Như: 'cảm hạ' 感荷 cảm tạ.",
+                "(Động) Đảm đang, đảm nhiệm. ◇Trương Hành 張衡: 'Hà thiên hạ chi trọng nhậm' 荷天下之重任 (Đông Kinh phú 東京賦) Gánh vác trọng trách trong thiên hạ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vác, gánh vác, đảm đương: 荷鋤 Vác cuốc; 肩負 重荷 Đôi vai vác nặng;",
+                "(Làm) ơn: 請早日示復爲荷 Làm ơn sớm trả lời; 感荷 Cảm ơn Xem 荷 [hé]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Theo ý người khác. Chẳng hạn Bái hạ ( lĩnh ý mà làm ) — Một âm là Hà. Xem Hà."
+            ]
+        }
+    }
+}

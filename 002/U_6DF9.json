@@ -1,0 +1,128 @@
+{
+    "character": "淹",
+    "details": {
+        "Âm Hán Việt": [
+            "yêm",
+            "yểm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡奄"
+        ],
+        "Nét bút": [
+            "丶丶一一ノ丶丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "EKLU (水大中山)"
+        ],
+        "Unicode": [
+            "U+6DF9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yān ㄧㄢ",
+            "yǎn ㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "êm",
+            "im",
+            "ươm",
+            "yêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.れる (i.reru)"
+        ],
+        "Âm Hàn": [
+            "엄"
+        ],
+        "Âm Quảng Đông": [
+            "jim1"
+        ]
+    },
+    "meanings": {
+        "yêm": {
+            "Từ điển phổ thông": [
+                "ngâm nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngâm nước, ngập nước, chìm đắm. ◇Hàn Ác 韓偓: 'Du giáp đôi tường thủy bán yêm' 榆莢堆牆水半淹 (Xuân tận nhật 春盡日) Cây du cây giáp chất đống bên tường, nước ngập một nửa.",
+                "(Động) Kéo dài, để lâu ngày. ◎Như: 'yêm lưu' 淹留 ở lâu, 'yêm trệ' 淹滯 đọng mãi.",
+                "(Động) Rịn, thấm. ◎Như: 'cách chi oa bị hãn yêm đắc nan thụ' 胳肢窩被汗淹得難受 nách rịn mồ hôi rất khó chịu.",
+                "(Phó) Sâu xa, sâu sắc. ◎Như: 'yêm thông' 淹通 thông hiểu sâu xa, 'học vấn yêm bác' 學問淹博 học vấn sâu rộng.",
+                "Một âm là 'yểm'. (Động) Mất, chìm mất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngâm nước.",
+                "Ðể lâu, như yêm lưu 淹留 ngâm mãi, yêm trệ 淹滯 đọng mãi, v.v.",
+                "Sâu, như yêm thông 淹通 thông hiểu sâu xa.",
+                "Một âm là yểm. Mất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngâm nước, ngập: 莊稼被淹了 Mùa màng bị ngập rồi;",
+                "Rịn, thấm: 胳肢窩被汗淹得難受 Mồ hôi rịn ướt cả nách rất khó chịu;",
+                "(văn) Uyên bác, sâu rộng, tinh thâm: 淹通 Thông hiểu sâu xa.【淹博】 yêm bác [yanbó] (văn) Uyên bác, sâu rộng: 學問淹博 Học sâu biết rộng, học thức sâu rộng (uyên bác);",
+                "(văn) Để lâu, kéo dài: 淹留 Ngâm mãi;",
+                "(văn) Chìm đắm: 淹沉之樂 Niềm hoan lạc trầm mê (Mai Thừa: Thất phát)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngấm vào. Thấm vào — Ngâm lâu trong nước. Ở lại lâu. Trì hoãn lại — Sâu dưới nước — Sâu xa — Một âm là Yểm. Xem Yểm."
+            ],
+            "compound_words": {
+                "淹愽": "yêm bác",
+                "淹該": "yêm cai",
+                "淹留": "yêm lưu",
+                "淹月": "yêm nguyệt",
+                "淹雅": "yêm nhã",
+                "淹貫": "yêm quán",
+                "淹通": "yêm thông",
+                "淹識": "yêm thức",
+                "淹滯": "yêm trệ",
+                "淹遲": "yêm trì",
+                "淹中": "yêm trung",
+                "淹旬": "yêm tuần",
+                "淹恤": "yêm tuất",
+                "淹宿": "yêm túc"
+            }
+        },
+        "yểm": {
+            "Từ điển trích dẫn": [
+                "(Động) Ngâm nước, ngập nước, chìm đắm. ◇Hàn Ác 韓偓: 'Du giáp đôi tường thủy bán yêm' 榆莢堆牆水半淹 (Xuân tận nhật 春盡日) Cây du cây giáp chất đống bên tường, nước ngập một nửa.",
+                "(Động) Kéo dài, để lâu ngày. ◎Như: 'yêm lưu' 淹留 ở lâu, 'yêm trệ' 淹滯 đọng mãi.",
+                "(Động) Rịn, thấm. ◎Như: 'cách chi oa bị hãn yêm đắc nan thụ' 胳肢窩被汗淹得難受 nách rịn mồ hôi rất khó chịu.",
+                "(Phó) Sâu xa, sâu sắc. ◎Như: 'yêm thông' 淹通 thông hiểu sâu xa, 'học vấn yêm bác' 學問淹博 học vấn sâu rộng.",
+                "Một âm là 'yểm'. (Động) Mất, chìm mất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngâm nước.",
+                "Ðể lâu, như yêm lưu 淹留 ngâm mãi, yêm trệ 淹滯 đọng mãi, v.v.",
+                "Sâu, như yêm thông 淹通 thông hiểu sâu xa.",
+                "Một âm là yểm. Mất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chìm xuống nước — Chìm đắm — Một âm là Yêm. Xem Yêm."
+            ],
+            "compound_words": {
+                "淹死": "yểm tử"
+            }
+        }
+    }
+}

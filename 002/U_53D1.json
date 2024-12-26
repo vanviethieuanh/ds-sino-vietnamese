@@ -1,0 +1,77 @@
+{
+    "character": "发",
+    "details": {
+        "Âm Hán Việt": [
+            "phát"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "hựu 又 (+3 nét)"
+        ],
+        "Nét bút": [
+            "フノフ丶丶"
+        ],
+        "Thương Hiệt": [
+            "VIHE (女戈竹水)"
+        ],
+        "Unicode": [
+            "U+53D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ",
+            "fā ㄈㄚ",
+            "fǎ ㄈㄚˇ",
+            "fà ㄈㄚˋ"
+        ],
+        "Âm Nôm": [
+            "phát"
+        ],
+        "Âm Quảng Đông": [
+            "faat3"
+        ]
+    },
+    "meanings": {
+        "phát": {
+            "Từ điển phổ thông": [
+                "tóc",
+                "một phần nghìn của một tấc"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 髮.",
+                "Giản thể của chữ 發."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 發"
+            ],
+            "compound_words": {
+                "暴发": "bạo phát",
+                "爆发": "bộc phát",
+                "勃发": "bột phát",
+                "告发": "cáo phát",
+                "启发": "khởi phát",
+                "发表": "phát biểu",
+                "发育": "phát dục",
+                "发達": "phát đạt",
+                "发动": "phát động",
+                "发觉": "phát giác",
+                "发明": "phát minh",
+                "发热": "phát nhiệt",
+                "发展": "phát triển",
+                "分发": "phân phát",
+                "批发": "phê phát",
+                "散发": "tán phát",
+                "自发": "tự phát",
+                "出发": "xuất phát",
+                "揭发": "yết phát"
+            }
+        }
+    }
+}

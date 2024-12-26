@@ -1,0 +1,83 @@
+{
+    "character": "牘",
+    "details": {
+        "Âm Hán Việt": [
+            "độc"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "phiến 片 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰片賣"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一丨一丨フ丨丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LLGWC (中中土田金)"
+        ],
+        "Unicode": [
+            "U+7258"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dú ㄉㄨˊ"
+        ],
+        "Âm Nôm": [
+            "độc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トク (toku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かきもの (kakimono)",
+            "ふだ (fuda)"
+        ],
+        "Âm Hàn": [
+            "독"
+        ],
+        "Âm Quảng Đông": [
+            "duk6"
+        ]
+    },
+    "meanings": {
+        "độc": {
+            "Từ điển phổ thông": [
+                "thẻ (tre) viết văn thư"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thẻ gỗ để viết ngày xưa.",
+                "(Danh) Giấy tờ, sách vở, văn kiện, thư tịch. ◎Như: 'văn độc' 文牘 văn kiện.",
+                "(Danh) Thư từ. ◎Như: 'xích độc' 尺牘 thư tín. ◇Liêu trai chí dị 聊齋志異: 'Năng nhã hước, thiện xích độc' 能雅謔, 善尺牘 (Nhan Thị 顏氏) Khéo pha trò, giỏi viết thư.",
+                "(Danh) Một nhạc khí thời cổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thẻ viết văn thư, tờ bồi gọi là xích độc 尺牘.",
+                "Một thứ âm nhạc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Miếng thẻ tre dày để viết chữ thời xưa;",
+                "Văn thư;",
+                "Giấy tờ, thư từ;",
+                "Một loại nhạc khí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tờ giấy — Văn thư. Giấy tờ việc quan. Tờ trát."
+            ],
+            "compound_words": {
+                "尺牘": "xích độc"
+            }
+        }
+    }
+}

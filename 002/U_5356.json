@@ -1,0 +1,61 @@
+{
+    "character": "卖",
+    "details": {
+        "Âm Hán Việt": [
+            "mại"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thập 十 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿳十乛头"
+        ],
+        "Nét bút": [
+            "一丨フ丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "JNYK (十弓卜大)"
+        ],
+        "Unicode": [
+            "U+5356"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mài ㄇㄞˋ"
+        ],
+        "Âm Nôm": [
+            "mại"
+        ],
+        "Âm Quảng Đông": [
+            "maai6"
+        ]
+    },
+    "meanings": {
+        "mại": {
+            "Từ điển phổ thông": [
+                "bán"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 賣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 賣"
+            ],
+            "compound_words": {
+                "拍卖": "phách mại",
+                "售卖": "thụ mại"
+            }
+        }
+    }
+}

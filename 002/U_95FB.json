@@ -1,0 +1,78 @@
+{
+    "character": "闻",
+    "details": {
+        "Âm Hán Việt": [
+            "văn",
+            "vấn",
+            "vặn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "môn 門 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵门耳"
+        ],
+        "Nét bút": [
+            "丶丨フ一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "LSSJ (中尸尸十)"
+        ],
+        "Unicode": [
+            "U+95FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wén ㄨㄣˊ",
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "văn"
+        ],
+        "Âm Quảng Đông": [
+            "man4"
+        ]
+    },
+    "meanings": {
+        "văn": {
+            "Từ điển phổ thông": [
+                "nghe"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 聞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 聞"
+            ],
+            "compound_words": {
+                "奇闻": "kỳ văn",
+                "新闻": "tân văn",
+                "传闻": "truyền văn"
+            }
+        },
+        "vấn": {
+            "Từ điển phổ thông": [
+                "tiếng động tới, tiếng truyền tới"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 聞."
+            ]
+        },
+        "vặn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 聞."
+            ]
+        }
+    }
+}

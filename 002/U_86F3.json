@@ -1,0 +1,75 @@
+{
+    "character": "蛳",
+    "details": {
+        "Âm Hán Việt": [
+            "si",
+            "sư",
+            "tư"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫师"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨ノ一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "LILLB (中戈中中月)"
+        ],
+        "Unicode": [
+            "U+86F3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sī ㄙ"
+        ],
+        "Âm Nôm": [
+            "sư"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển phổ thông": [
+                "(xem: loa si 螺螄,螺蛳)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 螄."
+            ],
+            "compound_words": {
+                "螺蛳": "loa si"
+            }
+        },
+        "sư": {
+            "Từ điển phổ thông": [
+                "(xem: loa si 螺螄,螺蛳)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 螄."
+            ]
+        },
+        "tư": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 螄."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 螄"
+            ]
+        }
+    }
+}

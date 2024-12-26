@@ -1,0 +1,88 @@
+{
+    "character": "塲",
+    "details": {
+        "Âm Hán Việt": [
+            "tràng",
+            "trường"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thổ 土 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土⿱𠂉昜"
+        ],
+        "Nét bút": [
+            "一丨一ノ一丨フ一一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "GOAH (土人日竹)"
+        ],
+        "Unicode": [
+            "U+5872"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ",
+            "chǎng ㄔㄤˇ"
+        ],
+        "Âm Nôm": [
+            "trường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ば (ba)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tràng": {
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “tràng” 場."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ tràng 場."
+            ],
+            "compound_words": {
+                "壇塲": "đàn tràng"
+            }
+        },
+        "trường": {
+            "Từ điển phổ thông": [
+                "vùng",
+                "cái sân"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 場 (bộ 土)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trường 場."
+            ],
+            "compound_words": {
+                "戰塲": "chiến trường",
+                "名塲": "danh trường",
+                "運動塲": "vận động trường",
+                "圍塲": "vi trường",
+                "舞塲": "vũ trường"
+            }
+        }
+    }
+}

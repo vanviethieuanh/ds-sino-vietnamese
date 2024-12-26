@@ -1,0 +1,90 @@
+{
+    "character": "誌",
+    "details": {
+        "Âm Hán Việt": [
+            "chí"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言志"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "YRGP (卜口土心)"
+        ],
+        "Unicode": [
+            "U+8A8C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi3"
+        ]
+    },
+    "meanings": {
+        "chí": {
+            "Từ điển phổ thông": [
+                "ghi chép",
+                "văn ký sự"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ghi nhớ. ◎Như: 'chí chi bất vong' 誌之不忘 ghi nhớ chẳng quên.",
+                "(Động) Ghi chép, kí lục. ◇Liệt Tử 列子: 'Thái cổ chi sự diệt hĩ, thục chí chi tai?' 太古之事滅矣, 孰誌之哉 (Dương Chu 楊朱) Việc đời thượng cổ tiêu tán mất rồi, ai ghi chép lại?",
+                "(Động) Ghi dấu, đánh dấu. ◇Đào Uyên Minh 陶淵明: 'Kí xuất, đắc kì thuyền, tiện phù hướng lộ, xứ xứ chí chi' 既出, 得其船, 便扶向路, 處處誌之 (Đào hoa nguyên kí 桃花源記) Ra khỏi hang rồi, tìm lại được chiếc thuyền, bèn theo đường cũ mà về, tới đâu đánh dấu chỗ đó.",
+                "(Động) Biểu thị, bày tỏ. ◎Như: 'chí ai' 誌哀 bày tỏ lòng thương tiếc, ai điếu.",
+                "(Danh) Một thể văn kí sự. ◎Như: 'bi chí' 碑誌 bài văn bia, 'mộ chí' 墓誌 văn mộ chí.",
+                "(Danh) Phả ghi chép sự việc. ◎Như: 'địa chí' 地誌 sách địa lí, 'danh sơn chí' 名山誌 sách chép các núi danh tiếng.",
+                "(Danh) Nêu, mốc, dấu hiệu. ◎Như: 'tiêu chí' 標誌 đánh mốc, dấu hiệu.",
+                "(Danh) Chỉ tạp chí định kì. ◎Như: 'Khoa học tạp chí' 科學雜誌 (Science magazine).",
+                "(Danh) § Thông 'chí' 痣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ghi nhớ, như chí chi bất vong 誌之不忘 ghi nhớ chẳng quên.",
+                "Một lối văn kí sự. Như bi chí 碑誌 bài văn bia, mộ chí 墓誌 văn mộ chí, v.v.",
+                "Phả chép các sự vật gì. Như địa chí 地誌 sách chép một xứ nào, danh sơn chí 名山誌 sách chép quả núi có tiếng.",
+                "Nêu, mốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ghi chép — Lối văn ghi chép sự việc — Sách vở ghi chép sự vật. Chẳng hạn Địa dư chí, Tạp chí…."
+            ],
+            "compound_words": {
+                "碑誌": "bi chí",
+                "誌哀": "chí ai",
+                "地誌": "địa chí",
+                "歴朝憲章類誌": "lịch triều hiến chương loại chí",
+                "類誌": "loại chí",
+                "墓誌": "mộ chí",
+                "日誌": "nhật chí",
+                "雜誌": "tạp chí",
+                "標誌": "tiêu chí",
+                "越南世誌": "việt nam thế chí"
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "店",
+    "details": {
+        "Âm Hán Việt": [
+            "điếm"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广占"
+        ],
+        "Nét bút": [
+            "丶一ノ丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "IYR (戈卜口)"
+        ],
+        "Unicode": [
+            "U+5E97"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đám",
+            "đêm",
+            "điếm",
+            "tiệm",
+            "xóm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みせ (mise)",
+            "たな (tana)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "dim3"
+        ]
+    },
+    "meanings": {
+        "điếm": {
+            "Từ điển phổ thông": [
+                "quán trọ, tiệm hàng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiệm, hiệu, cửa hàng. ◎Như: 'bố điếm' 布店 tiệm vải, 'thương điếm' 商店 hiệu buôn, 'thư điếm' 書店 tiệm sách.",
+                "(Danh) Nhà trọ, lữ quán. ◎Như: 'khách điếm' 客店 nhà trọ, 'trụ điếm' 住店 ở nhà trọ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiệm, chỗ để chứa đồ cầm đồ, tục gọi nhà trọ là khách điếm 客店."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cửa) hiệu, (cửa) hàng, tiệm: 書店 Hiệu sách; 飯店 Tiệm ăn; 零售店 Cửa hàng bán lẻ;",
+                "Nhà trọ: 客店 Nhà trọ; 住店 Ở (nhà) trọ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ bán hàng. Cửa hàng, cửa tiệm. Cũng gọi là Điếm phố 店鋪, hoặc Điếm tứ 店肆."
+            ],
+            "compound_words": {
+                "本店": "bản điếm",
+                "支店": "chi điếm",
+                "打店": "đả điếm",
+                "店主": "điếm chủ",
+                "客店": "khách điếm",
+                "旅店": "lữ điếm",
+                "茅店": "mao điếm",
+                "飯店": "phạn điếm",
+                "饭店": "phạn điếm",
+                "书店": "thư điếm",
+                "書店": "thư điếm",
+                "商店": "thương điếm",
+                "巡店": "tuần điếm",
+                "酒店": "tửu điếm"
+            }
+        }
+    }
+}

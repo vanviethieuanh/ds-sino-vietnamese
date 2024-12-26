@@ -1,0 +1,121 @@
+{
+    "character": "搖",
+    "details": {
+        "Âm Hán Việt": [
+            "dao",
+            "diêu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丶丶ノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "QBOU (手月人山)"
+        ],
+        "Unicode": [
+            "U+6416"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao",
+            "diêu",
+            "gieo",
+            "vêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ゆ.れる (yu.reru)",
+            "ゆ.らぐ (yu.ragu)",
+            "ゆ.るぐ (yu.rugu)",
+            "ゆ.する (yu.suru)",
+            "ゆ.さぶる (yu.saburu)",
+            "ゆ.すぶる (yu.suburu)",
+            "うご.く (ugo.ku)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển phổ thông": [
+                "lay động",
+                "quấy nhiễu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lay động, lắc, rung, xua, vẫy. ◎Như: 'diêu thủ' 搖手 vẫy tay, 'diêu đầu' 搖頭 lắc đầu. ◇Nguyễn Trãi 阮廌: 'Quy tứ diêu diêu nhật tự tinh' 歸思搖搖日似旌 (Quy Côn Sơn chu trung tác 歸崑山舟中作) Lòng muốn về ngày ngày lay động như cờ.",
+                "(Động) Quấy nhiễu.",
+                "(Danh) Họ 'Diêu'.",
+                "§ Ghi chú: Cũng đọc là 'dao'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dao động, lay động, vẫy, chèo, quay, lắc: 搖鈴 Rung chuông, lắc chuông; 小狗搖著尾巴跑了 Con chó vẫy đuôi chạy mất; 搖轆轤 Quay tời quay;",
+                "(văn) Quấy nhiễu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Động đậy, lay động qua lại — Vẫy qua lắc lại."
+            ],
+            "compound_words": {
+                "搖擺": "dao bài",
+                "搖搖": "dao dao",
+                "搖頭擺尾": "dao đầu bãi vĩ",
+                "搖動": "dao động",
+                "搖晃": "dao hoảng",
+                "搖落": "dao lạc",
+                "搖籃": "dao lam",
+                "搖牀": "dao sàng",
+                "搖辰": "dao thần",
+                "搖手": "dao thủ",
+                "搖尾乞憐": "dao vĩ khất lân",
+                "動搖": "động dao",
+                "漂搖": "phiêu dao",
+                "扶搖": "phù dao"
+            }
+        },
+        "diêu": {
+            "Từ điển phổ thông": [
+                "lay động",
+                "quấy nhiễu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lay động, lắc, rung, xua, vẫy. ◎Như: 'diêu thủ' 搖手 vẫy tay, 'diêu đầu' 搖頭 lắc đầu. ◇Nguyễn Trãi 阮廌: 'Quy tứ diêu diêu nhật tự tinh' 歸思搖搖日似旌 (Quy Côn Sơn chu trung tác 歸崑山舟中作) Lòng muốn về ngày ngày lay động như cờ.",
+                "(Động) Quấy nhiễu.",
+                "(Danh) Họ 'Diêu'.",
+                "§ Ghi chú: Cũng đọc là 'dao'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lay động, như diêu thủ 搖手 vẫy tay.",
+                "Quấy nhiễu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dao động, lay động, vẫy, chèo, quay, lắc: 搖鈴 Rung chuông, lắc chuông; 小狗搖著尾巴跑了 Con chó vẫy đuôi chạy mất; 搖轆轤 Quay tời quay;",
+                "(văn) Quấy nhiễu."
+            ],
+            "compound_words": {
+                "招搖": "chiêu diêu",
+                "票搖": "phiêu diêu"
+            }
+        }
+    }
+}

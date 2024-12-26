@@ -1,0 +1,76 @@
+{
+    "character": "隍",
+    "details": {
+        "Âm Hán Việt": [
+            "hoàng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phụ 阜 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖皇"
+        ],
+        "Nét bút": [
+            "フ丨ノ丨フ一一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "NLHAG (弓中竹日土)"
+        ],
+        "Unicode": [
+            "U+968D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "huáng ㄏㄨㄤˊ"
+        ],
+        "Âm Nôm": [
+            "hoàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほり (hori)"
+        ],
+        "Âm Hàn": [
+            "황"
+        ],
+        "Âm Quảng Đông": [
+            "wong4"
+        ]
+    },
+    "meanings": {
+        "hoàng": {
+            "Từ điển phổ thông": [
+                "ao cạn trong thành"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái ao cạn trong thành, cái hào cạn. § Có nước gọi là “trì” 池, không có nước gọi là “hoàng” 隍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái ao cạn trong thành, cái hào, có nước gọi là trì 池, không có nước gọi là hoàng 隍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Hào (ao cạn trong thành): 城隍 Hào thành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rãnh sâu đào ở ngoài chân thành, không có nước. Có nước gọi là Trì."
+            ],
+            "compound_words": {
+                "阢隍": "ngột hoàng",
+                "城隍": "thành hoàng"
+            }
+        }
+    }
+}

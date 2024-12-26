@@ -1,0 +1,109 @@
+{
+    "character": "盧",
+    "details": {
+        "Âm Hán Việt": [
+            "lô",
+            "lư"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mẫn 皿 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丨一フノ一フ丨フ一丨一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "YPWBT (卜心田月廿)"
+        ],
+        "Unicode": [
+            "U+76E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lô",
+            "lơ",
+            "lu",
+            "lư",
+            "lứa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)"
+        ],
+        "Âm Hàn": [
+            "로",
+            "노"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lô": {
+            "Từ điển phổ thông": [
+                "màu đen"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Đen. ◇Thư Kinh 書經: 'Lô cung nhất, lô thỉ bách' 盧弓一, 盧矢百 (Văn Hầu chi mệnh 文侯之命) Cung đen một cái, tên đen trăm mũi.",
+                "(Danh) Chén đựng cơm.",
+                "(Danh) Trò chơi đánh bạc, gieo được năm quân màu đen là thắng, gọi là 'hô lô' 呼盧.",
+                "(Danh) Chó tốt, chó săn. § Giống chó lông đen, giỏi chạy nhảy.",
+                "(Danh) Họ 'Lô'.",
+                "§ Còn đọc là 'lư'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sắc đen, như lô cung nhất, lô thỉ bách 盧弓一，盧矢百 (Thư Kinh 書經) cung đen một cái, tên đen trăm mũi.",
+                "Hô lô 呼盧 đánh bạc.",
+                "Chó tốt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Màu đen: 盧弓 Cây cung đen;",
+                "Chó tốt;",
+                "【呼盧】hô lô [hulú] (văn) Đánh bạc;",
+                "[Lú] (Họ) Lư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chén để uống rượu thời xưa — Cái lò để đốt lửa đốt than — Đồng tử trong mắt. Con ngươi mắt — Đen. Màu đen — Cũng đọc Lư ( họ người )."
+            ],
+            "compound_words": {
+                "滑鐵盧": "hoạt thiết lô",
+                "呼盧": "hô lô"
+            }
+        },
+        "lư": {
+            "Từ điển phổ thông": [
+                "màu đen"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Đen. ◇Thư Kinh 書經: 'Lô cung nhất, lô thỉ bách' 盧弓一, 盧矢百 (Văn Hầu chi mệnh 文侯之命) Cung đen một cái, tên đen trăm mũi.",
+                "(Danh) Chén đựng cơm.",
+                "(Danh) Trò chơi đánh bạc, gieo được năm quân màu đen là thắng, gọi là 'hô lô' 呼盧.",
+                "(Danh) Chó tốt, chó săn. § Giống chó lông đen, giỏi chạy nhảy.",
+                "(Danh) Họ 'Lô'.",
+                "§ Còn đọc là 'lư'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Màu đen: 盧弓 Cây cung đen;",
+                "Chó tốt;",
+                "【呼盧】hô lô [hulú] (văn) Đánh bạc;",
+                "[Lú] (Họ) Lư."
+            ],
+            "compound_words": {
+                "毗盧": "bì lư",
+                "草盧": "thảo lư"
+            }
+        }
+    }
+}

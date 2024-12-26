@@ -1,0 +1,84 @@
+{
+    "character": "扩",
+    "details": {
+        "Âm Hán Việt": [
+            "khoác",
+            "khoách",
+            "khoáng",
+            "khuếch"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thủ 手 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘广"
+        ],
+        "Nét bút": [
+            "一丨一丶一ノ"
+        ],
+        "Thương Hiệt": [
+            "XQI (重手戈)"
+        ],
+        "Unicode": [
+            "U+6269"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kuò ㄎㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "khuếch"
+        ],
+        "Âm Quảng Đông": [
+            "kwong3"
+        ]
+    },
+    "meanings": {
+        "khoác": {
+            "Từ điển phổ thông": [
+                "mở rộng ra, nới rộng"
+            ]
+        },
+        "khoách": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擴."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擴"
+            ]
+        },
+        "khoáng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擴."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擴"
+            ]
+        },
+        "khuếch": {
+            "Từ điển phổ thông": [
+                "mở rộng ra, nới rộng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擴"
+            ],
+            "compound_words": {
+                "扩大": "khuếch đại",
+                "扩充": "khuếch sung",
+                "扩散": "khuếch tán",
+                "扩展": "khuếch triển"
+            }
+        }
+    }
+}

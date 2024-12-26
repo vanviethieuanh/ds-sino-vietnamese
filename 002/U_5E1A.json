@@ -1,0 +1,92 @@
+{
+    "character": "帚",
+    "details": {
+        "Âm Hán Việt": [
+            "chửu",
+            "trửu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "cân 巾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿳彐冖巾"
+        ],
+        "Nét bút": [
+            "フ一一丶フ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "SMBLB (尸一月中月)"
+        ],
+        "Unicode": [
+            "U+5E1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhǒu ㄓㄡˇ"
+        ],
+        "Âm Nôm": [
+            "chổi",
+            "trửu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほうき (hōki)"
+        ],
+        "Âm Hàn": [
+            "추"
+        ],
+        "Âm Quảng Đông": [
+            "zaau2",
+            "zau2"
+        ]
+    },
+    "meanings": {
+        "chửu": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái chổi. ◎Như: “trúc trửu” 竹帚 trổi tre."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chổi, cái dùng để quét để giặt rửa đều gọi là chửu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chổi để quét nhà."
+            ],
+            "compound_words": {
+                "堊帚": "ác chửu"
+            }
+        },
+        "trửu": {
+            "Từ điển phổ thông": [
+                "cái chổi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái chổi. ◎Như: “trúc trửu” 竹帚 trổi tre."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chổi, cái dùng để quét để giặt rửa đều gọi là chửu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chổi: 竹帚 Chổi tre."
+            ],
+            "compound_words": {
+                "笤帚": "điều trửu",
+                "扫帚": "tảo trửu",
+                "掃帚": "tảo trửu"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "佐",
+    "details": {
+        "Âm Hán Việt": [
+            "tá"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻左"
+        ],
+        "Nét bút": [
+            "ノ丨一ノ一丨一"
+        ],
+        "Thương Hiệt": [
+            "OKM (人大一)"
+        ],
+        "Unicode": [
+            "U+4F50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zuǒ ㄗㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "tá",
+            "tớ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)"
+        ],
+        "Âm Hàn": [
+            "좌"
+        ],
+        "Âm Quảng Đông": [
+            "zo3"
+        ]
+    },
+    "meanings": {
+        "tá": {
+            "Từ điển phổ thông": [
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giúp. ◎Như: 'phụ tá' 輔佐 giúp đỡ. ◇Hàn Dũ 韓愈: 'Thị niên, ngô tá nhung Từ Châu' 是年，吾佐戎徐州 (Tế thập nhị lang văn 祭十二郎文) Năm đó, chú giúp việc binh ở Từ Châu.",
+                "(Động) Phụ với người khác ăn uống, khuyến ẩm, phối thực. ◎Như: 'tá tửu' 佐酒 cùng uống rượu.",
+                "(Danh) Người giúp đỡ, người phụ trợ. ◎Như: 'huyện tá' 縣佐 chức quan giúp việc quan huyện.",
+                "(Tính) Phó, thứ hai, ở địa vị phụ trợ. ◎Như: 'tá xa' 佐車 xe phó (ngày xưa dành cho vua đi chinh chiến hoặc săn bắn)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giúp.",
+                "Thứ hai, như huyện tá 縣佐 chức quan giúp việc quan huyện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giúp đỡ: 佐理 Giúp việc;",
+                "Người giúp đỡ: 僚佐 Người giúp việc, người trợ tá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người đứng ở bên trái mình để giúp đỡ mình ( chữ Tả cạnh chữ Nhân ) — Giúp đỡ — Người đứng phó. Phụ tá."
+            ],
+            "compound_words": {
+                "幫佐": "bang tá",
+                "證佐": "chứng tá",
+                "大佐": "đại tá",
+                "縣佐": "huyện tá",
+                "扶佐": "phù tá",
+                "輔佐": "phụ tá",
+                "軍佐": "quân tá",
+                "佐役": "tá dịch",
+                "佐理": "tá lí",
+                "佐驗": "tá nghiệm",
+                "佐國卿": "tá quốc khanh",
+                "佐治": "tá trị",
+                "參佐": "tham tá",
+                "少佐": "thiếu tá",
+                "中佐": "trung tá",
+                "將佐": "tướng tá"
+            }
+        }
+    }
+}

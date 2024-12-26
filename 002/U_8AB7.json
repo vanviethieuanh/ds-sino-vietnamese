@@ -1,0 +1,61 @@
+{
+    "character": "誷",
+    "details": {
+        "Âm Hán Việt": [
+            "võng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "ngôn 言 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言罔"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ丶ノ一丶一フ"
+        ],
+        "Thương Hiệt": [
+            "YRBTV (卜口月廿女)"
+        ],
+        "Unicode": [
+            "U+8AB7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wǎng ㄨㄤˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しい.る (shii.ru)"
+        ]
+    },
+    "meanings": {
+        "võng": {
+            "Từ điển phổ thông": [
+                "lừa dối, lừa đảo"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 罔 nghĩa ① (bộ 网)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói điều không có. Nói vu."
+            ],
+            "compound_words": {
+                "誷言": "võng ngôn"
+            }
+        }
+    }
+}

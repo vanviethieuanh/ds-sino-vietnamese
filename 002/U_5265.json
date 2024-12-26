@@ -1,0 +1,85 @@
+{
+    "character": "剥",
+    "details": {
+        "Âm Hán Việt": [
+            "bác"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "đao 刀 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰录⺉"
+        ],
+        "Nét bút": [
+            "フ一一丨丶一ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "NELN (弓水中弓)"
+        ],
+        "Unicode": [
+            "U+5265"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bāo ㄅㄠ",
+            "bō ㄅㄛ",
+            "pū ㄆㄨ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "bóc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ホク (hoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "へ.ぐ (he.gu)",
+            "へず.る (hezu.ru)",
+            "む.く (mu.ku)",
+            "む.ける (mu.keru)",
+            "は.がれる (ha.gareru)",
+            "は.ぐ (ha.gu)",
+            "は.げる (ha.geru)",
+            "は.がす (ha.gasu)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bok1",
+            "mok1"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "bóc vỏ, lột"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 剝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 剝"
+            ],
+            "compound_words": {
+                "剥掉": "bác điệu",
+                "剥夺": "bác đoạt",
+                "剥落": "bác lạc",
+                "剥離": "bác ly",
+                "剥啄": "bác trác"
+            }
+        }
+    }
+}

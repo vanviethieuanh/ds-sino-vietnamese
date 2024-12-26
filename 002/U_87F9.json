@@ -1,0 +1,76 @@
+{
+    "character": "蟹",
+    "details": {
+        "Âm Hán Việt": [
+            "giải"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trùng 虫 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱解虫"
+        ],
+        "Nét bút": [
+            "ノフノフ一一丨フノノ一一丨丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NQLMI (弓手中一戈)"
+        ],
+        "Unicode": [
+            "U+87F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "giải"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かに (kani)"
+        ],
+        "Âm Hàn": [
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "haai5"
+        ]
+    },
+    "meanings": {
+        "giải": {
+            "Từ điển phổ thông": [
+                "con cua"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Con cua."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con cua."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Con) cua. Cv. 蠏."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con cua."
+            ],
+            "compound_words": {
+                "螃蟹": "bàng giải",
+                "蟹眼": "giải nhãn"
+            }
+        }
+    }
+}

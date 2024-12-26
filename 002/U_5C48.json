@@ -1,0 +1,134 @@
+{
+    "character": "屈",
+    "details": {
+        "Âm Hán Việt": [
+            "khuất",
+            "quật"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thi 尸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸尸出"
+        ],
+        "Nét bút": [
+            "フ一ノフ丨丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "SUU (尸山山)"
+        ],
+        "Unicode": [
+            "U+5C48"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "khuất",
+            "quất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "クツ (kutsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かが.む (kaga.mu)",
+            "かが.める (kaga.meru)"
+        ],
+        "Âm Hàn": [
+            "굴"
+        ],
+        "Âm Quảng Đông": [
+            "wat1"
+        ]
+    },
+    "meanings": {
+        "khuất": {
+            "Từ điển phổ thông": [
+                "cong",
+                "khuất phục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Oan ức, ủy khúc. ◎Như: 'thụ khuất' 受屈 chịu oan, 'khiếu khuất' 叫屈 kêu oan.",
+                "(Danh) Họ 'Khuất'.",
+                "(Động) Làm cho cong, co lại. ◎Như: 'khuất tất' 屈膝 quỳ gối, 'khuất chỉ nhất toán' 屈指一算 bấm đốt tính. ◇Dịch Kinh 易經: 'Vãng giả khuất dã, lai giả thân dã' 往者屈也, 來者信也 (Hệ từ hạ 繫辭下) Cái đã qua thì co rút lại, cái sắp tới thì duỗi dài ra.",
+                "(Động) Hàng phục. ◎Như: 'khuất tiết' 屈節 không giữ được tiết tháo. ◇Mạnh Tử 孟子: 'Uy vũ bất năng khuất' 威武不能屈 (Đằng Văn Công hạ 滕文公下) Uy quyền sức mạnh không làm khuất phục được.",
+                "(Tính) Cong, không thẳng. ◇Đạo Đức Kinh 道德經: 'Đại trực nhược khuất, đại xảo nhược chuyết' 大直若屈, 大巧若拙 (Chương 45) Cực thẳng thì dường như cong, cực khéo thì dường như vụng.",
+                "(Tính) Thiếu sót, không đủ vững. ◎Như: 'lí khuất từ cùng' 理屈詞窮 lẽ đuối lời cùng.",
+                "(Phó) Miễn cưỡng, gượng ép. ◇Tam quốc chí 三國志: 'Thử nhân khả tựu kiến, bất khả khuất trí dã' 此人可就見, 不可屈致也 (Gia Cát Lượng truyện 諸葛亮傳) Người này đáng nên xin gặp, không thể miễn cưỡng vời lại được đâu.",
+                "(Phó) Oan uổng. ◎Như: 'khuất tử' 屈死 chết oan uổng.",
+                "Một âm là 'quật'. (Tính) ◎Như: 'quật cường' 屈疆 cứng cỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cong, phàm sự gì cong không duỗi được đều gọi là khuất, như lí khuất từ cùng 理屈詞窮 lẽ khuất lời cùng, bị oan ức không tỏ ra được gọi là oan khuất 冤屈, v.v.",
+                "Chịu khuất, như khuất tiết 屈節 chịu bỏ cái tiết của mình mà theo người.",
+                "Một âm là quật. Như quật cường 屈彊 cứng cỏi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cong, co lại: 貓屈着腿 Con mèo co chân lại; 屈而不信 Co mà không duỗi (Mạnh tử);",
+                "Khuất phục, chịu khuất: 不屈 Không khuất phục; 屈節 Chịu bỏ khí tiết của mình;",
+                "Oan ức: 叫屈 Kêu oan; 受屈 Uất ức;",
+                "Đuối lí: 理屈詞窮 Nghẹn lời cụt lí;",
+                "[Qu] (Họ) Khuất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cong lại. Co lại — Cúi xuống."
+            ],
+            "compound_words": {
+                "隱屈": "ẩn khuất",
+                "不屈": "bất khuất",
+                "詰屈": "cật khuất",
+                "屈曲": "khuất khúc",
+                "屈辱": "khuất nhục",
+                "屈服": "khuất phục",
+                "屈膝": "khuất tất",
+                "屈身": "khuất thân",
+                "屈節": "khuất tiết",
+                "蠖屈": "oách khuất",
+                "冤屈": "oan khuất",
+                "首屈一指": "thủ khuất nhất chỉ",
+                "委屈": "uỷ khuất"
+            }
+        },
+        "quật": {
+            "Từ điển phổ thông": [
+                "(xem: quật cường 屈彊)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Oan ức, ủy khúc. ◎Như: 'thụ khuất' 受屈 chịu oan, 'khiếu khuất' 叫屈 kêu oan.",
+                "(Danh) Họ 'Khuất'.",
+                "(Động) Làm cho cong, co lại. ◎Như: 'khuất tất' 屈膝 quỳ gối, 'khuất chỉ nhất toán' 屈指一算 bấm đốt tính. ◇Dịch Kinh 易經: 'Vãng giả khuất dã, lai giả thân dã' 往者屈也, 來者信也 (Hệ từ hạ 繫辭下) Cái đã qua thì co rút lại, cái sắp tới thì duỗi dài ra.",
+                "(Động) Hàng phục. ◎Như: 'khuất tiết' 屈節 không giữ được tiết tháo. ◇Mạnh Tử 孟子: 'Uy vũ bất năng khuất' 威武不能屈 (Đằng Văn Công hạ 滕文公下) Uy quyền sức mạnh không làm khuất phục được.",
+                "(Tính) Cong, không thẳng. ◇Đạo Đức Kinh 道德經: 'Đại trực nhược khuất, đại xảo nhược chuyết' 大直若屈, 大巧若拙 (Chương 45) Cực thẳng thì dường như cong, cực khéo thì dường như vụng.",
+                "(Tính) Thiếu sót, không đủ vững. ◎Như: 'lí khuất từ cùng' 理屈詞窮 lẽ đuối lời cùng.",
+                "(Phó) Miễn cưỡng, gượng ép. ◇Tam quốc chí 三國志: 'Thử nhân khả tựu kiến, bất khả khuất trí dã' 此人可就見, 不可屈致也 (Gia Cát Lượng truyện 諸葛亮傳) Người này đáng nên xin gặp, không thể miễn cưỡng vời lại được đâu.",
+                "(Phó) Oan uổng. ◎Như: 'khuất tử' 屈死 chết oan uổng.",
+                "Một âm là 'quật'. (Tính) ◎Như: 'quật cường' 屈疆 cứng cỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cong, phàm sự gì cong không duỗi được đều gọi là khuất, như lí khuất từ cùng 理屈詞窮 lẽ khuất lời cùng, bị oan ức không tỏ ra được gọi là oan khuất 冤屈, v.v.",
+                "Chịu khuất, như khuất tiết 屈節 chịu bỏ cái tiết của mình mà theo người.",
+                "Một âm là quật. Như quật cường 屈彊 cứng cỏi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 掘 (bộ 扌);",
+                "Cạn kiệt: 用之無度，則物力必掘掘 Dùng mà vô độ thì vật lực ắt phải cạn kiệt (Giả Nghị: Luận tích trữ sớ)."
+            ],
+            "compound_words": {
+                "屈强": "quật cường",
+                "屈彊": "quật cường"
+            }
+        }
+    }
+}

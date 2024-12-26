@@ -1,0 +1,90 @@
+{
+    "character": "嘯",
+    "details": {
+        "Âm Hán Việt": [
+            "khiếu",
+            "sất",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口肅"
+        ],
+        "Nét bút": [
+            "丨フ一フ一一丨ノ丨一一フフ丨一丨"
+        ],
+        "Thương Hiệt": [
+            "RLX (口中重)"
+        ],
+        "Unicode": [
+            "U+562F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiào ㄒㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "khiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "シツ (shitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うそぶ.く (usobu.ku)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "siu3"
+        ]
+    },
+    "meanings": {
+        "khiếu": {
+            "Từ điển phổ thông": [
+                "rít, thở dài, huýt gió",
+                "gầm, thét gào, kêu, hú"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Huýt, kêu. ◇Vương Duy 王維: 'Độc tọa u hoàng lí, Đàn cầm phục trường khiếu, Thâm lâm nhân bất tri, Minh nguyệt lai tương chiếu' 獨坐幽篁裡, 彈琴復長嘯, 深林人不知, 明月來相照 ('Trúc lí quán' 竹里館) Một mình ngồi trong bụi tre tối tăm, Gẩy đàn rồi lại kêu dài, Trong rừng sâu, người không biết được, Chỉ có trăng sáng đến chiếu lên mình.",
+                "(Động) Gầm, rống, hú, rít... (chim hoặc dã thú). ◎Như: 'hổ khiếu' 虎嘯 cọp rống, 'viên khiếu' 猿嘯 vượn kêu.",
+                "(Động) Hô hoán. ◎Như: 'khiếu tụ' 嘯聚 hô hào tụ tập.",
+                "(Danh) Tiếng kêu lớn, tiếng hú, tiếng gào (người làm ra, hiện tượng thiên nhiên phát sinh). ◎Như: 'phong khiếu' 風嘯 tiếng gió hú."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Huýt, kêu, hò."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rít, thở dài, huýt gió;",
+                "Gầm, thét gào, kêu, hú: 長嘯一聲 Thét dài một tiếng; 虎嘯 Hổ gầm; 猿嘯 Vượn hú."
+            ],
+            "compound_words": {
+                "海嘯": "hải khiếu"
+            }
+        },
+        "sất": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Sất 叱 — Một âm khác là Tiêu. Xem Tiêu."
+            ]
+        },
+        "tiêu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Huýt gió — Hát nghêu ngao, kéo dài giọng ra."
+            ]
+        }
+    }
+}

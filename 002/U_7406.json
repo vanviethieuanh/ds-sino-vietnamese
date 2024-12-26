@@ -1,0 +1,214 @@
+{
+    "character": "理",
+    "details": {
+        "Âm Hán Việt": [
+            "lí",
+            "lý"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩里"
+        ],
+        "Nét bút": [
+            "一一丨一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "MGWG (一土田土)"
+        ],
+        "Unicode": [
+            "U+7406"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǐ ㄌㄧˇ"
+        ],
+        "Âm Nôm": [
+            "lẽ",
+            "lí",
+            "lý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ことわり (kotowari)"
+        ],
+        "Âm Hàn": [
+            "리",
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "lei5"
+        ]
+    },
+    "meanings": {
+        "lí": {
+            "Từ điển trích dẫn": [
+                "(Động) Sửa ngọc, mài giũa ngọc.",
+                "(Động) Sửa sang, chỉnh trị, làm cho chỉnh tề ngay ngắn. ◎Như: 'chỉnh lí' 整理 sắp đặt cho ngay ngắn, 'tu lí' 修理 sửa sang, 'quản lí' 管理 coi sóc. ◇Lưu Cơ 劉基: 'Pháp đố nhi bất tri lí' 法斁而不知理 (Mại cam giả ngôn 賣柑者言) Pháp luật hủy hoại mà không biết sửa.",
+                "(Động) Làm việc, lo liệu. ◎Như: 'lí sự' 理事 làm việc.",
+                "(Động) Tấu nhạc, cử nhạc. ◇Nguyễn Trãi 阮廌: 'Ẩn kỉ phần hương lí ngọc cầm' 隱几焚香理玉琴 (Tức hứng 即興) Dựa ghế, đốt hương, gảy đàn ngọc.",
+                "(Động) Ôn tập, luyện tập. ◇Vô danh thị 無名氏: 'Tằng lí binh thư tập lục thao' 曾理兵書習六韜 (Nháo đồng đài 鬧銅臺) Đã từng luyện tập binh thư lục thao.",
+                "(Động) Phản ứng, đáp ứng (đối với lời nói hoặc hành vi của người khác). ◎Như: 'bất lí' 不理 không quan tâm, 'lí hội' 理會 thông hiểu.",
+                "(Danh) Thớ, đường vân. ◎Như: 'thấu lí' 腠理 thớ da thịt, 'mộc lí' 木理 vân gỗ.",
+                "(Danh) Thứ tự, mạch lạc. ◎Như: 'hữu điều hữu lí' 有條有理 có thứ tự mạch lạc.",
+                "(Danh) Quy luật, ý chỉ của sự vật. ◎Như: 'thiên lí' 天理, 'công lí' 公理, 'chân lí' 真理, 'nghĩa lí' 義理, 'định lí' 定理.",
+                "(Danh) Đời xưa gọi quan án là 'lí', cho nên tòa án thượng thẩm bây giờ gọi là 'đại lí viện' 大理院.",
+                "(Danh) Môn vật lí học hoặc khoa tự nhiên học. ◎Như: 'lí hóa' 理化 môn vật lí và môn hóa học.",
+                "(Danh) Họ 'Lí'."
+            ],
+            "compound_words": {
+                "案理": "án lí",
+                "不理": "bất lí",
+                "病理": "bệnh lí",
+                "辦理": "biện lí",
+                "背理": "bội lí",
+                "正理": "chính lí",
+                "真理": "chân lí",
+                "至理": "chí lí",
+                "整理": "chỉnh lí",
+                "掌理": "chưởng lí",
+                "公理": "công lí",
+                "窮理": "cùng lí",
+                "據理": "cứ lí",
+                "疆理": "cương lí",
+                "易理": "dịch lí",
+                "唯理": "duy lí",
+                "代理": "đại lí",
+                "道理": "đạo lí",
+                "地理": "địa lí",
+                "定理": "định lí",
+                "董理": "đổng lí",
+                "教理": "giáo lí",
+                "合理": "hợp lí",
+                "經理": "kinh lí",
+                "理由": "lí do",
+                "理解": "lí giải",
+                "理化": "lí hoá",
+                "理論": "lí luận",
+                "理髪": "lí phát",
+                "理國": "lí quốc",
+                "理產": "lí sản",
+                "理數": "lí số",
+                "理事": "lí sự",
+                "理財": "lí tài",
+                "理七": "lí thất",
+                "理趣": "lí thú",
+                "理說": "lí thuyết",
+                "理智": "lí trí",
+                "理想": "lí tưởng",
+                "理應": "lí ưng",
+                "料理": "liệu lí",
+                "倫理": "luân lí",
+                "論理": "luận lí",
+                "義理": "nghĩa lí",
+                "逆理": "nghịch lí",
+                "入理": "nhập lí",
+                "入情入理": "nhập tình nhập lí",
+                "攝理": "nhiếp lí",
+                "溫理": "ôn lí",
+                "法理": "pháp lí",
+                "非理": "phi lí",
+                "管理": "quản lí",
+                "生理": "sinh lí",
+                "生理學": "sinh lí học",
+                "推理": "suy lí",
+                "事理": "sự lí",
+                "佐理": "tá lí",
+                "讚理": "tán lí",
+                "心理": "tâm lí",
+                "天理": "thiên lí",
+                "受理": "thụ lí",
+                "純理": "thuần lí",
+                "說理": "thuyết lí",
+                "情理": "tình lí",
+                "總理": "tổng lí",
+                "治理": "trị lí",
+                "哲理": "triết lí",
+                "綏理王": "tuy lí vương",
+                "文理": "văn lí",
+                "物理": "vật lí",
+                "物理學": "vật lí học",
+                "援理": "viện lí",
+                "處理": "xử lí"
+            }
+        },
+        "lý": {
+            "Từ điển phổ thông": [
+                "vân, đường vân",
+                "lý lẽ",
+                "sửa sang"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sửa ngọc, làm ngọc.",
+                "Sửa sang, trị. Như lí sự 理事 làm việc, chỉnh lí 整理 sắp đặt, tu lí  修理 sửa sang, v.v.",
+                "Ðiều lí 條理, phàm cái gì có trước có sau có gốc có ngọn không loạn thứ tự đều gọi là điều lí. Ðiều 條 là nói cái lớn, lí 理 là nói cái nhỏ, như sự lí 事理, văn lí 文理 đều một nghĩa ấy cả.",
+                "Ðạo lí 道理, nói về sự nên làm gọi là đạo 道, nói về cái lẽ sao mà phải làm gọi là lí 理. Lí tức là cái đạo tự nhiên vậy.",
+                "Thớ, như thấu lí 腠理 mang thớ da dẻ. Xem chữ thấu 腠.",
+                "Ðời xưa gọi quan án là lí, cho nên toà án thượng thẩm bây giờ gọi là đại lí viện 大理院.",
+                "Ôn tập, đem cái nghe biết trước mà dung nạp với cái mới hiểu cho chỉnh tề gọi là lí.",
+                "Cùng ứng đáp không trả lời lại, tục gọi là bất lí 不理, nghe tiếng lọt vào lòng thông hiểu được gọi là lí hội 理會.",
+                "Lí học, nghiên cứu về môn học thân tâm tinh mệnh gọi là lí học 理學 hay đạo học 道學. Môn triết học 哲學 bây giờ cũng gọi là lí học 理學.",
+                "Lí khoa 理科 một khoa học nghiên cứu về tính vật như vật lí học 物理學, hoá học 化學, v.v.",
+                "Lí chướng 理障 chữ nhà Phật, không rõ lẽ đúng thực, bị ý thức nó chướng ngại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thớ: 肌理 Thớ thịt; 木 理 Thớ gỗ;",
+                "Lí lẽ: 合理 Hợp lí; 理屈詞窮 Lời cùng lí đuối, đuối lí; 理當如 此 Lẽ ra là thế, đúng phải như vậy;",
+                "(Vật) lí: 理科 Ngành khoa học tự nhiên; 數理化 Toán lí hoá;",
+                "Xử sự, quản lí: 處理 Xử lí; 理財 Quản lí tài chánh;",
+                "Chỉnh lí, sắp xếp: 理一理書籍 Sắp xếp lại sách vở;",
+                "Thèm quan tâm đến, đếm xỉa (chỉ thái độ và ý kiến đối với người khác, thường dùng với ý phủ định): 路上碰見了，誰也沒理誰 Gặp nhau giữa đường, chẳng ai thèm hỏi ai; 跟他說了半天，他理也不理 Nói với anh ta cả buổi mà anh ta vẫn dửng dưng chẳng thèm quan tâm; 置之不理 Bỏ mặc không đếm xỉa;",
+                "(văn) Luyện tập, ôn tập: 十年一理，猶不遺忘 Mười năm ôn lại một lần, vẫn không quên mất (Nhan thị gia huấn);",
+                "(văn) Tấu lên, cử nhạc lên: 理正聲，奏妙曲 Cử chính thanh (tiếng nhạc đoan chính), tấu diệu khúc (Kê Khang: Cầm phú); 試理一曲消遣 Đàn chơi một bản để tiêu khiển;",
+                "Lí học (một ngành của triết học Trung Quốc);",
+                "(văn) Sửa ngọc, làm ngọc;",
+                "[Lê] (Họ) Lí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mài giũa ngọc cho đẹp — Sửa sang, sắp đặt công việc — Cái lẽ của sự vật. Lẽ phải."
+            ],
+            "compound_words": {
+                "按理": "án lý",
+                "不合理": "bất hợp lý",
+                "眞理": "chân lý",
+                "真理": "chân lý",
+                "整理": "chỉnh lý",
+                "正理": "chính lý",
+                "代理": "đại lý",
+                "地理": "địa lý",
+                "合理": "hợp lý",
+                "伦理": "luân lý",
+                "倫理": "luân lý",
+                "理解": "lý giải",
+                "理論": "lý luận",
+                "理论": "lý luận",
+                "理想": "lý tưởng",
+                "原理": "nguyên lý",
+                "法理": "pháp lý",
+                "管理": "quản lý",
+                "推理": "suy lý",
+                "心理": "tâm lý",
+                "审理": "thẩm lý",
+                "審理": "thẩm lý",
+                "助理": "trợ lý",
+                "修理": "tu lý",
+                "处理": "xử lý",
+                "處理": "xử lý"
+            }
+        }
+    }
+}

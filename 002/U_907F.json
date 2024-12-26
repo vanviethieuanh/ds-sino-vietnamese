@@ -1,0 +1,96 @@
+{
+    "character": "避",
+    "details": {
+        "Âm Hán Việt": [
+            "tị",
+            "tỵ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "sước 辵 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶辟"
+        ],
+        "Nét bút": [
+            "フ一ノ丨フ一丶一丶ノ一一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YSRJ (卜尸口十)"
+        ],
+        "Unicode": [
+            "U+907F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さ.ける (sa.keru)",
+            "よ.ける (yo.keru)"
+        ],
+        "Âm Hàn": [
+            "피"
+        ],
+        "Âm Quảng Đông": [
+            "bei6"
+        ]
+    },
+    "meanings": {
+        "tị": {
+            "Từ điển trích dẫn": [
+                "(Động) Tránh, lánh xa. ◎Như: 'hồi tị' 迴避 quay lánh ra chỗ khác. ◇Nguyễn Du 阮攸: 'Hành lộ tị can qua' 行路避干戈 (Từ Châu dạ 徐州夜) Đi đường phải tránh vùng giặc giã.",
+                "(Động) Kiêng. ◎Như: 'tị húy' 避諱 kiêng tên húy."
+            ],
+            "compound_words": {
+                "避嫌": "tị hiềm",
+                "避免": "tị miễn",
+                "避難": "tị nạn",
+                "避實擊虛": "tị thật kích hư",
+                "避實就虛": "tị thật tựu hư",
+                "避世": "tị thế"
+            }
+        },
+        "tỵ": {
+            "Từ điển phổ thông": [
+                "tránh né, lánh, trốn",
+                "phòng"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lánh, lánh xa không cho gặp gọi là tị. Như hồi tị 迴避 quay lánh ra chỗ khác.",
+                "Kiêng. Như tị huý 避諱 kiêng tên huý."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tránh, lánh, trú: 避雨 Tránh mưa, trú mưa; 不避艱險 Không trốn tránh khó khăn nguy hiểm;",
+                "Ngăn ngừa, tránh xa, từ khước;",
+                "(văn) Kiêng kị: 避諱 Kiêng huý."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tránh đi. Lánh mặt."
+            ],
+            "compound_words": {
+                "避雷針": "tỵ lôi châm",
+                "避雷针": "tỵ lôi châm",
+                "避难": "tỵ nạn",
+                "避難": "tỵ nạn",
+                "避暑": "tỵ thử"
+            }
+        }
+    }
+}

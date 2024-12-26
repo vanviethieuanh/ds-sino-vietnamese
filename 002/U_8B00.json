@@ -1,0 +1,115 @@
+{
+    "character": "謀",
+    "details": {
+        "Âm Hán Việt": [
+            "mưu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言某"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRTMD (卜口廿一木)"
+        ],
+        "Unicode": [
+            "U+8B00"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "móu ㄇㄡˊ"
+        ],
+        "Âm Nôm": [
+            "mưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ム (mu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はか.る (haka.ru)",
+            "たばか.る (tabaka.ru)",
+            "はかりごと (hakarigoto)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mau4"
+        ]
+    },
+    "meanings": {
+        "mưu": {
+            "Từ điển phổ thông": [
+                "lo liệu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Toan tính, trù hoạch, bàn thảo. ◎Như: 'mưu hoạch' 謀劃 tính toán, 'đồ mưu' 圖謀 trù tính, 'bất mưu nhi hợp' 不謀而合 không tính mà thành.",
+                "(Động) Lo liệu, mong cầu, cố gắng đạt được. ◎Như: 'mưu sanh' 謀生 tìm kế sinh nhai, 'mưu chức' 謀職 xoay xở cho nắm được chức vụ. ◇Luận Ngữ 論語: 'Quân tử mưu đạo bất mưu thực' 君子謀道不謀食 (Vệ Linh Công 衛靈公) Người quân tử mong cầu đạt đạo, chứ không phải tìm cách hưởng bổng lộc.",
+                "(Động) Tìm cách hại ngầm, hãm hại. ◇Thủy hử truyện 水滸傳: 'Ngã hựu bất dữ nhĩ hữu sát phụ chi thù, nhĩ như hà định yếu mưu ngã?' 我又不與你有殺父之讎, 你如何定要謀我 (Đệ tứ thập nhất hồi) Ta với ngươi cũng không có thù giết cha, cớ sao ngươi cứ cố tình hãm hại ta?",
+                "(Danh) Kế sách, sách lược. ◎Như: 'âm mưu' 陰謀 kế hoạch ngầm, mưu kế kín đáo, 'kế mưu' 計謀 sách lược, 'hữu dũng vô mưu' 有勇無謀 có sức mạnh nhưng không có mưu kế, 'túc trí đa mưu' 足智多謀 lắm mưu nhiều kế. ◇Luận Ngữ 論語: 'Xảo ngôn loạn đức, tiểu bất nhẫn tắc loạn đại mưu' 巧言亂德, 小不忍則亂大謀 (Vệ Linh Công 衛靈公) Lời nói khôn khéo làm bại hoại đạo đức, việc nhỏ không nhịn được thì làm hỏng kế hoạch lớn.",
+                "(Tính) Có sách lược. ◎Như: 'mưu sĩ' 謀士 người giúp đỡ tìm kế hoạch, 'mưu thần' 謀臣 bề tôi có mưu kế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Toan tính, toan tính trước rồi mới làm gọi là mưu. Như tham mưu 參謀 cùng dự vào việc mưu toan ấy, mưu sinh 謀生 toan mưu sự sinh nhai, nay gọi sự gặp mặt nhau là mưu diện 謀面 nghĩa là mưu toan cho được gặp mặt nhau một lần vậy.",
+                "Mưu kế.",
+                "Mưu cầu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tính toán, toan tính, mưu kế, mưu mô: 有勇無謀 Hữu dũng vô mưu 足智多謀 Nhiều mưu mẹo;",
+                "Mưu tính, mưu cầu: 謀生 Tìm kế sinh nhai; 爲人類謀福利 Mưu cầu hạnh phúc cho loài người;",
+                "Bàn bạc, trao đổi ý kiến: 不謀而合 Không bàn mà nên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tính toán sắp đặt công việc từ trước để cứ theo đó mà làm — Sự sắp đặt tính toán. Truyện  Trê Cóc  có câu: » Đàn bà nông nổi khác nào, biết đâu những chuyện mưu cao mà bàn «."
+            ],
+            "compound_words": {
+                "暗謀": "ám mưu",
+                "陰謀": "âm mưu",
+                "不謀而合": "bất mưu nhi hợp",
+                "祕謀": "bí mưu",
+                "主謀": "chủ mưu",
+                "機謀": "cơ mưu",
+                "與虎謀皮": "dữ hổ mưu bì",
+                "預謀": "dự mưu",
+                "圖謀": "đồ mưu",
+                "同謀": "đồng mưu",
+                "立謀": "lập mưu",
+                "密謀": "mật mưu",
+                "謀主": "mưu chủ",
+                "謀奸": "mưu gian",
+                "謀害": "mưu hại",
+                "謀計": "mưu kế",
+                "謀謨": "mưu mô",
+                "謀反": "mưu phản",
+                "謀殺": "mưu sát",
+                "謀士": "mưu sĩ",
+                "謀生": "mưu sinh",
+                "謀事": "mưu sự",
+                "謀智": "mưu trí",
+                "伐謀": "phạt mưu",
+                "軍謀": "quân mưu",
+                "權謀": "quyền mưu",
+                "邪謀": "tà mưu",
+                "參謀": "tham mưu",
+                "遠謀": "viễn mưu",
+                "無謀": "vô mưu"
+            }
+        }
+    }
+}

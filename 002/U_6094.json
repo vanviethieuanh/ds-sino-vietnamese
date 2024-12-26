@@ -1,0 +1,113 @@
+{
+    "character": "悔",
+    "details": {
+        "Âm Hán Việt": [
+            "hối",
+            "hổi"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖每"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ一フフ丶一丶"
+        ],
+        "Thương Hiệt": [
+            "POWY (心人田卜)"
+        ],
+        "Unicode": [
+            "U+6094"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huǐ ㄏㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "hối",
+            "húi",
+            "mủi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "く.いる (ku.iru)",
+            "く.やむ (ku.yamu)",
+            "くや.しい (kuya.shii)"
+        ],
+        "Âm Hàn": [
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "fui3"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển phổ thông": [
+                "hối hận, nuối tiếc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn năn, ân hận. ◇Vương An Thạch 王安石: 'Dư diệc hối kì tùy chi, nhi bất đắc cực hồ du chi lạc dã' 予亦悔其隨之, 而不得極乎遊之樂也 (Du Bao Thiền Sơn kí 遊褒禪山記) Tôi cũng ân hận rằng đã theo họ, không được thỏa hết cái thú vui du lãm.",
+                "(Động) Sửa lỗi. ◎Như: 'hối quá' 悔過 sửa lỗi, 'hối cải' 悔改 sửa đổi lỗi lầm. ◇Hậu Hán Thư 後漢書: 'Đình trưởng nãi tàm hối, hoàn ngưu, nghệ ngục thụ tội' 亭長乃慚悔, 還牛, 詣獄受罪 (Lỗ Cung truyện 魯恭傳) Viên đình trưởng xấu hổ hối lỗi, trả lại bò, đến nhà giam chịu tội.",
+                "(Danh) Quẻ 'Hối', tên một quẻ trong kinh 'Dịch' 易.",
+                "Một âm là 'hổi'. (Tính) Xấu, không lành. ◎Như: 'hổi khí' 悔氣 xui, không may."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hối hận, biết lỗi mà nghĩ cách đổi gọi là hối. Phàm sự gì đã ấn định rồi mà lại định đổi làm cuộc khác cũng gọi là hối.",
+                "Quẻ hối, tên một quẻ trong kinh Dịch.",
+                "Một âm là hổi. xấu, không lành. Tục gọi sự không tốt lành là hổi khí 悔氣 là do nghĩa ấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hối, hối hận, ân hận, ăn năn: 悔之已晚 Hối không kịp nữa, ăn năn đã muộn;",
+                "Quẻ hối (tên một quẻ trong Kinh Dịch);",
+                "(văn) Xấu, chẳng lành: 悔氣 Việc chẳng lành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tự giận mình vì điều lỗi lầm của mình."
+            ],
+            "compound_words": {
+                "懊悔": "áo hối",
+                "改悔": "cải hối",
+                "后悔": "hậu hối",
+                "後悔": "hậu hối",
+                "悔改": "hối cải",
+                "悔恨": "hối hận",
+                "悔悟": "hối ngộ",
+                "悔過": "hối quá",
+                "悔惜": "hối tích",
+                "悔罪": "hối tội",
+                "忏悔": "sám hối",
+                "懺悔": "sám hối",
+                "追悔": "truy hối",
+                "尤悔": "vưu hối"
+            }
+        },
+        "hổi": {
+            "Từ điển trích dẫn": [
+                "(Động) Ăn năn, ân hận. ◇Vương An Thạch 王安石: 'Dư diệc hối kì tùy chi, nhi bất đắc cực hồ du chi lạc dã' 予亦悔其隨之, 而不得極乎遊之樂也 (Du Bao Thiền Sơn kí 遊褒禪山記) Tôi cũng ân hận rằng đã theo họ, không được thỏa hết cái thú vui du lãm.",
+                "(Động) Sửa lỗi. ◎Như: 'hối quá' 悔過 sửa lỗi, 'hối cải' 悔改 sửa đổi lỗi lầm. ◇Hậu Hán Thư 後漢書: 'Đình trưởng nãi tàm hối, hoàn ngưu, nghệ ngục thụ tội' 亭長乃慚悔, 還牛, 詣獄受罪 (Lỗ Cung truyện 魯恭傳) Viên đình trưởng xấu hổ hối lỗi, trả lại bò, đến nhà giam chịu tội.",
+                "(Danh) Quẻ 'Hối', tên một quẻ trong kinh 'Dịch' 易.",
+                "Một âm là 'hổi'. (Tính) Xấu, không lành. ◎Như: 'hổi khí' 悔氣 xui, không may."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hối hận, biết lỗi mà nghĩ cách đổi gọi là hối. Phàm sự gì đã ấn định rồi mà lại định đổi làm cuộc khác cũng gọi là hối.",
+                "Quẻ hối, tên một quẻ trong kinh Dịch.",
+                "Một âm là hổi. xấu, không lành. Tục gọi sự không tốt lành là hổi khí 悔氣 là do nghĩa ấy."
+            ]
+        }
+    }
+}

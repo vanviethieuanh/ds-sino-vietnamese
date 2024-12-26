@@ -1,0 +1,71 @@
+{
+    "character": "舢",
+    "details": {
+        "Âm Hán Việt": [
+            "san"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "chu 舟 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟山"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HYU (竹卜山)"
+        ],
+        "Unicode": [
+            "U+8222"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "san"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Quảng Đông": [
+            "saan1"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển phổ thông": [
+                "(xem: san bản 舢舨,舢板)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'San bản' 舢板 thuyền nhỏ. § Cũng viết là 舢舨 hay là 三板.",
+                "(Danh) Một loại chiến thuyền đời nhà Thanh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① San bản 舢板 cái thuyền con. Cũng viết là 舢舨 hay là 三板."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền nhỏ: 他在一艘舢板上釣魚 Anh ta câu cá trên một chiếc xuồng (tam bản). Cg. 舢板, 舢舨 [shan băn] 三板 [sanbăn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chiếc thuyền nhỏ."
+            ],
+            "compound_words": {
+                "舢板": "san bản",
+                "舢舨": "san bản"
+            }
+        }
+    }
+}

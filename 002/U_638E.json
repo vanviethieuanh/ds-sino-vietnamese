@@ -1,0 +1,109 @@
+{
+    "character": "掎",
+    "details": {
+        "Âm Hán Việt": [
+            "ky",
+            "kỉ",
+            "kỷ",
+            "ỷ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘奇"
+        ],
+        "Nét bút": [
+            "一丨一一ノ丶一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "QKMR (手大一口)"
+        ],
+        "Unicode": [
+            "U+638E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jǐ ㄐㄧˇ"
+        ],
+        "Âm Nôm": [
+            "ghé"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei2"
+        ]
+    },
+    "meanings": {
+        "ky": {
+            "Từ điển phổ thông": [
+                "(xem: kỷ giốc 掎角)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Co một bên, chia quân đóng hai mặt để chế quân giặc gọi là kỉ giốc 掎角. Ta quen đọc là chữ ỷ. Cũng đọc là chữ ki."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quơ lấy, quắp lấy;",
+                "Bắn (cung...)."
+            ]
+        },
+        "kỉ": {
+            "Từ điển trích dẫn": [
+                "(Động) Từ phía sau hoặc theo bên cạnh chặn ép. ◎Như: 'kỉ giốc' 掎角 chia quân hai mặt đánh giáp công quân địch.",
+                "(Động) Lôi, kéo.",
+                "(Động) Chèn ép, khiên chế.",
+                "(Động) Nắm chặt, ghì giữ.",
+                "(Động) Bắn ra, phát xạ. ◇Ban Cố 班固: 'Cơ bất hư kỉ, huyền bất tái khống' 機不虛掎, 弦不再控 (Tây đô phú 西都賦) Máy chẳng bắn không, dây cung không giương lên lại."
+            ]
+        },
+        "kỷ": {
+            "Từ điển phổ thông": [
+                "(xem: kỷ giốc 掎角)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Co một bên, chia quân đóng hai mặt để chế quân giặc gọi là kỉ giốc 掎角. Ta quen đọc là chữ ỷ. Cũng đọc là chữ ki."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quơ lấy, quắp lấy;",
+                "Bắn (cung...)."
+            ],
+            "compound_words": {
+                "掎角": "kỷ giốc"
+            }
+        },
+        "ỷ": {
+            "Từ điển phổ thông": [
+                "(xem: kỷ giốc 掎角)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Co một bên, chia quân đóng hai mặt để chế quân giặc gọi là kỉ giốc 掎角. Ta quen đọc là chữ ỷ. Cũng đọc là chữ ki."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quơ lấy, quắp lấy;",
+                "Bắn (cung...)."
+            ],
+            "compound_words": {
+                "掎角": "ỷ giốc"
+            }
+        }
+    }
+}

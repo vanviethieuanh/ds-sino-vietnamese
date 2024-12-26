@@ -1,0 +1,71 @@
+{
+    "character": "躂",
+    "details": {
+        "Âm Hán Việt": [
+            "thát",
+            "đáp"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "túc 足 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊達"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一一丨一丶ノ一一一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "RMYGQ (口一卜土手)"
+        ],
+        "Unicode": [
+            "U+8E82"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dā ㄉㄚ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タツ (tatsu)",
+            "タチ (tachi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つまず.く (tsumazu.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "daat3",
+            "taat3"
+        ]
+    },
+    "meanings": {
+        "thát": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trặc chân, trẹo chân."
+            ]
+        },
+        "đáp": {
+            "Từ điển phổ thông": [
+                "(xem: bính đáp 蹦躂,蹦跶)",
+                "(xem: lựu đáp 蹓躂,蹓跶)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蹦躂】bính đáp [bèngda] Nhảy. Xem 蹦 [bèng];",
+                "【蹓躂】lựu đáp [liuda] Tản bộ, đi thong thả, đi lang thang."
+            ],
+            "compound_words": {
+                "蹦躂": "bính đáp",
+                "蹓躂": "lựu đáp"
+            }
+        }
+    }
+}

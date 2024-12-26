@@ -1,0 +1,100 @@
+{
+    "character": "炙",
+    "details": {
+        "Âm Hán Việt": [
+            "chá",
+            "chích"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hoả 火 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ丶丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "BF (月火)"
+        ],
+        "Unicode": [
+            "U+7099"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chá",
+            "chích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)",
+            "セキ (seki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あぶ.る (abu.ru)"
+        ],
+        "Âm Hàn": [
+            "자",
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "zek3",
+            "zik3"
+        ]
+    },
+    "meanings": {
+        "chá": {
+            "Từ điển trích dẫn": [
+                "(Động) Nướng, quay. ◎Như: 'chích nhục' 炙肉 nướng thịt.",
+                "Một âm là 'chá'. (Động) Hun đúc, rèn luyện. ◎Như: 'thân chá' 親炙 thân gần học hỏi.",
+                "(Danh) Cá thịt đã nấu nướng. ◇Sử Kí 史記: 'Tửu kí hàm, công tử Quang tường vi túc tật, nhập quật thất trung, sử Chuyên Chư trí chủy thủ ngư chá chi phúc trung nhi tiến chi' 酒既酣, 公子光詳為足疾, 入窟室中, 使專諸置匕首魚炙之腹中而進之 (Thích khách truyện 刺客傳, Chuyên Chư truyện 專諸傳) Rượu đến lúc ngà say vui chén, công tử Quang vờ như chân có tật, xuống nhà hầm, sai Chuyên Chư nhét cây chủy thủ vào bụng con cá nướng đem lên dâng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nướng, cho thịt lên trên lửa cho chín gọi là chích.",
+                "Một âm là chá. Chả, thịt nướng.",
+                "Thân gần, được gần mà tiêm nhiễm những tính hay gọi là thân chá 親炙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nướng, quay: 炙肉 Nướng thịt;",
+                "(văn) Chả nướng, thịt nướng, thịt quay."
+            ]
+        },
+        "chích": {
+            "Từ điển phổ thông": [
+                "nướng chín"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nướng, quay. ◎Như: 'chích nhục' 炙肉 nướng thịt.",
+                "Một âm là 'chá'. (Động) Hun đúc, rèn luyện. ◎Như: 'thân chá' 親炙 thân gần học hỏi.",
+                "(Danh) Cá thịt đã nấu nướng. ◇Sử Kí 史記: 'Tửu kí hàm, công tử Quang tường vi túc tật, nhập quật thất trung, sử Chuyên Chư trí chủy thủ ngư chá chi phúc trung nhi tiến chi' 酒既酣, 公子光詳為足疾, 入窟室中, 使專諸置匕首魚炙之腹中而進之 (Thích khách truyện 刺客傳, Chuyên Chư truyện 專諸傳) Rượu đến lúc ngà say vui chén, công tử Quang vờ như chân có tật, xuống nhà hầm, sai Chuyên Chư nhét cây chủy thủ vào bụng con cá nướng đem lên dâng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nướng, cho thịt lên trên lửa cho chín gọi là chích.",
+                "Một âm là chá. Chả, thịt nướng.",
+                "Thân gần, được gần mà tiêm nhiễm những tính hay gọi là thân chá 親炙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nướng, quay: 炙肉 Nướng thịt;",
+                "(văn) Chả nướng, thịt nướng, thịt quay."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nướng, hơ trên lửa cho chín."
+            ],
+            "compound_words": {
+                "炙背": "chích bối",
+                "日炙風吹": "nhật chích phong xuy",
+                "膾炙人口": "quái chích nhân khẩu"
+            }
+        }
+    }
+}

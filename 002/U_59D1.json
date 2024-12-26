@@ -1,0 +1,121 @@
+{
+    "character": "姑",
+    "details": {
+        "Âm Hán Việt": [
+            "cô"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nữ 女 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女古"
+        ],
+        "Nét bút": [
+            "フノ一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "VJR (女十口)"
+        ],
+        "Unicode": [
+            "U+59D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ"
+        ],
+        "Âm Nôm": [
+            "cô",
+            "go",
+            "o"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しゅうとめ (shūtome)",
+            "しゅうと (shūto)",
+            "おば (oba)",
+            "しばらく (shibaraku)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu1"
+        ]
+    },
+    "meanings": {
+        "cô": {
+            "Từ điển phổ thông": [
+                "mẹ chồng, mẹ vợ, cô ruột",
+                "con gái chưa chồng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng xưng hô: (1) Phụ nữ gọi mẹ chồng là 'cô'. ◇Phù sanh lục kí 浮生六記: 'Ninh thụ trách ư ông, vật thất hoan ư cô dã' 寧受責於翁, 勿失歡於姑也 (Khảm kha kí sầu 坎坷記愁) (Em) thà chịu cha khiển trách, chớ đừng làm mất lòng mẹ. (2) Chị em với cha gọi là 'cô'. (3) Chị dâu gọi em gái chồng là 'cô'. (4) Mẹ vợ gọi là 'ngoại cô' 外姑.",
+                "(Danh) Tiếng gọi chung đàn bà con gái.",
+                "(Danh) Tục gọi con gái chưa chồng là 'cô'.",
+                "(Danh) Phụ nữ xuất gia tu hành. ◎Như: 'ni cô' 尼姑, 'đạo cô' 道姑.",
+                "(Danh) Họ 'Cô'.",
+                "(Phó) Hẵng, hãy, cứ, hãy tạm. ◇Trần Quốc Tuấn 陳國峻: 'Cổ tiên chi sự cô trí vật luận' 古先之事姑置勿論 (Dụ chư bì tướng hịch văn 諭諸裨將檄文) Việc đời trước hẵng tạm không bàn. ◇Mạnh Tử 孟子: 'Cô xả nhữ sở học nhi tòng ngã' 姑舍汝所學而從我 (Lương Huệ vương hạ 梁惠王下) Hãy bỏ cái mi học mà theo ta.",
+                "(Phó) § Xem 'cô tức' 姑息."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mẹ chồng.",
+                "Chị dâu gọi em gái chồng là tiểu cô 小姑.",
+                "Chị em với bố cũng gọi là cô.",
+                "Mẹ vợ cũng gọi là ngoại cô 外姑.",
+                "Tiếng gọi chung của đàn bà con gái. Tục gọi con gái chưa chồng là cô.",
+                "Tiếng giúp lời, nghĩa là hẵng, hãy. Như cô xả nhữ sở học nhi tòng ngã 姑舍汝所學而從我 hãy bỏ cái mày học mà theo ta.",
+                "Cô tức 姑息 núm náu, yêu không phải đạo gọi là cô tức."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cô (gọi chung đàn bà con gái, hoặc gọi con gái chưa chồng): 小姑 Em gái chồng; 師姑 Sư cô, ni cô;",
+                "Cô (em hoặc chị gái của cha);",
+                "Mẹ chồng;",
+                "Mẹ vợ: 外姑 Mẹ vợ;",
+                "(văn) Tạm thời, hãy tạm: 姑且勿論 Tạm không bàn tới; 子姑待之 Ông hãy tạm chờ đó (Hàn Phi tử).【姑且】 cô thả [guqiâ] (pht) Tạm thời, hãy: 你姑且試一試 Anh hãy thử xem."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mẹ chồng — Chị hoặc em gái của cha — Tiếng người vợ gọi chị hoặc em gái của chồng mình — Tiếng gọi chung đàn bà con gái. Ta chỉ dùng để gọi người con gái hoặc đàn bà thật trẻ mà thôi."
+            ],
+            "compound_words": {
+                "姑章": "cô chương",
+                "姑妐": "cô công",
+                "姑母": "cô mẫu",
+                "姑妈": "cô mụ",
+                "姑媽": "cô mụ",
+                "姑妹": "cô muội",
+                "姑娘": "cô nương",
+                "姑夫": "cô phu",
+                "姑婿": "cô tế",
+                "姑姊": "cô tỉ",
+                "姑苏": "cô tô",
+                "姑蘇": "cô tô",
+                "姑子": "cô tử",
+                "姑息": "cô tức",
+                "公姑": "công cô",
+                "舅姑": "cữu cô",
+                "道姑": "đạo cô",
+                "黃姑": "hoàng cô",
+                "外姑": "ngoại cô",
+                "尼姑": "ni cô",
+                "翁姑": "ông cô",
+                "師姑": "sư cô",
+                "蠶姑": "tàm cô",
+                "仙姑": "tiên cô",
+                "慈姑": "tỳ cô"
+            }
+        }
+    }
+}

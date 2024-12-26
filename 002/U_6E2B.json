@@ -1,0 +1,95 @@
+{
+    "character": "渫",
+    "details": {
+        "Âm Hán Việt": [
+            "tiết",
+            "điệp"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡枼"
+        ],
+        "Nét bút": [
+            "丶丶一一丨丨一フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EPTD (水心廿木)"
+        ],
+        "Unicode": [
+            "U+6E2B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "qiè ㄑㄧㄝˋ",
+            "xiè ㄒㄧㄝˋ",
+            "yì ㄧˋ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "thế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さら.う (sara.u)"
+        ],
+        "Âm Hàn": [
+            "설",
+            "접"
+        ],
+        "Âm Quảng Đông": [
+            "sit3"
+        ]
+    },
+    "meanings": {
+        "tiết": {
+            "Từ điển phổ thông": [
+                "trừ bỏ",
+                "sơ tán, phân tán",
+                "ngưng lại, dơ bẩn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trừ khử dơ bẩn, rửa sạch.",
+                "(Động) Phân tán, phát tán.",
+                "(Động) Ngưng lại, ngừng.",
+                "(Tính) Dơ, bẩn, ô uế.",
+                "(Danh) Họ 'Tiết'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trừ bỏ;",
+                "Sơ tán, phân tán;",
+                "Ngưng lại;",
+                "Dơ bẩn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trừ bỏ đi — Tiêu tan — Nhơ bẩn."
+            ]
+        },
+        "điệp": {
+            "Từ điển phổ thông": [
+                "sóng nước liên tiếp",
+                "rơi lã chã"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【渫渫】điệp điệp [diédié] (văn) Sóng nước liền nhau;",
+                "Lệ rơi lã chã."
+            ]
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "character": "遊",
+    "details": {
+        "Âm Hán Việt": [
+            "du"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sước 辵 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶斿"
+        ],
+        "Nét bút": [
+            "丶一フノノ一フ丨一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YYSD (卜卜尸木)"
+        ],
+        "Unicode": [
+            "U+904A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yóu ㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "du"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユウ (yū)",
+            "ユ (yu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あそ.ぶ (aso.bu)",
+            "あそ.ばす (aso.basu)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jau4"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển phổ thông": [
+                "đi chơi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rong chơi, đi ngắm nghía cho thích. ◎Như: 'du sơn' 遊山 chơi núi, 'du viên' 遊園 chơi vườn.",
+                "(Động) Đi xa. ◎Như: 'du học' 遊學 đi xa cầu học. ◇Luận Ngữ 論語: 'Phụ mẫu tại, bất viễn du, du tất hữu phương' 父母在, 不遠遊, 遊必有方 (Lí nhân 里仁) Cha mẹ còn thì con không nên đi xa, nếu đi thì phải có nơi nhất định.",
+                "(Động) Đi. ◎Như: 'du hành' 遊行 đi từ chỗ này tới chỗ khác.",
+                "(Động) Kết giao, qua lại với nhau. ◎Như: 'giao du thậm quảng' 交遊甚廣 chơi bạn rất rộng.",
+                "(Động) Thuyết phục. ◎Như: 'du thuyết' 遊說 dùng lời khôn khéo làm cho người xiêu lòng.",
+                "(Động) Làm quan. ◇Chiến quốc sách 戰國策: 'Vương độc bất văn Ngô nhân chi du Sở giả hồ' 王獨不聞吳人之遊楚者乎 (Tần sách nhị 秦策二, Sở tuyệt Tần 楚絕秦) Nhà vua có nghe chuyện người nước Ngô đi làm quan nước Sở không?",
+                "(Động) Đưa, vận chuyển. ◎Như: 'du mục' 遊目 đưa mắt.",
+                "(Động) § Thông 'du' 游."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chơi, tới chỗ cảnh đẹp ngắm nghía cho thích gọi là du. Như du sơn 遊山 chơi núi. Du viên 遊園 chơi vườn, v.v. Ði xa cũng gọi là du. Như du học 遊學 đi học xa.",
+                "Chơi bời, đi lại chơi bời với nhau gọi là du. Như giao du thậm quảng 交遊甚廣 chơi bạn rất rộng.",
+                "Ðặt ra những lời đáng mừng, đáng sợ để nói cho người dễ xiêu lòng nghe mình gọi là du thuyết 遊說.",
+                "Có khi dùng lầm như chữ du 游. Xem lại chữ du 游.",
+                "Vui."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 游 (bộ 氵)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi. Đi từ nơi này qua nơi khác — Trôi nổi, lông bông — Đi chơi. Rong chơi — Giao thiệp, chơi với người khác."
+            ],
+            "compound_words": {
+                "盤遊": "bàn du",
+                "炳燭夜遊": "bỉnh chúc dạ du",
+                "周遊": "chu du",
+                "夜遊": "dạ du",
+                "佚遊": "dật du",
+                "逸遊": "dật du",
+                "遊豫": "du dự",
+                "遊蕩": "du đãng",
+                "遊行": "du hành",
+                "遊戲": "du hí",
+                "遊學": "du học",
+                "遊客": "du khách",
+                "遊記": "du kí",
+                "遊击": "du kích",
+                "遊擊": "du kích",
+                "遊邏": "du la",
+                "遊覽": "du lãm",
+                "遊離": "du li",
+                "遊歷": "du lịch",
+                "遊牧": "du mục",
+                "遊目": "du mục",
+                "遊獵": "du nạp",
+                "遊頑": "du ngoạn",
+                "遊人": "du nhân",
+                "遊惰": "du noạ",
+                "遊方僧": "du phương tăng",
+                "遊觀": "du quan",
+                "遊山": "du sơn",
+                "遊說": "du thuyết",
+                "遊子": "du tử",
+                "遊春": "du xuân",
+                "交遊": "giao du",
+                "浪遊": "lãng du",
+                "旅遊": "lữ du",
+                "夢遊": "mộng du",
+                "敖遊": "ngao du",
+                "遨遊": "ngao du",
+                "卧遊巢詩文集": "ngoạ du sào thi văn tập",
+                "雅遊": "nhã du",
+                "閒遊": "nhàn du",
+                "泛遊": "phiếm du",
+                "漂遊": "phiêu du",
+                "倦遊": "quyện du",
+                "西遊": "tây du",
+                "清遊": "thanh du",
+                "仙遊": "tiên du",
+                "優遊": "ưu du",
+                "雲遊": "vân du",
+                "遠遊": "viễn du"
+            }
+        }
+    }
+}

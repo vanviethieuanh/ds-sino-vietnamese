@@ -1,0 +1,72 @@
+{
+    "character": "开",
+    "details": {
+        "Âm Hán Việt": [
+            "khai"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "củng 廾 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱一廾"
+        ],
+        "Nét bút": [
+            "一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "MT (一廿)"
+        ],
+        "Unicode": [
+            "U+5F00"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kāi ㄎㄞ"
+        ],
+        "Âm Nôm": [
+            "khai"
+        ],
+        "Âm Quảng Đông": [
+            "hoi1"
+        ]
+    },
+    "meanings": {
+        "khai": {
+            "Từ điển phổ thông": [
+                "mở ra",
+                "nở (hoa)",
+                "một phần chia",
+                "sôi (nước)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 開."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 開"
+            ],
+            "compound_words": {
+                "白开水": "bạch khai thuỷ",
+                "公开": "công khai",
+                "打开": "đả khai",
+                "开幂": "khai mạc",
+                "劈开": "phách khai",
+                "放开": "phóng khai",
+                "伸开": "thân khai",
+                "展开": "triển khai",
+                "召开": "triệu khai",
+                "张开": "trương khai"
+            }
+        }
+    }
+}

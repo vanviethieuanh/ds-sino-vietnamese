@@ -1,0 +1,69 @@
+{
+    "character": "瞒",
+    "details": {
+        "Âm Hán Việt": [
+            "man",
+            "môn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mục 目 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目⿱艹两"
+        ],
+        "Nét bút": [
+            "丨フ一一一一丨丨一丨フノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BUTMB (月山廿一月)"
+        ],
+        "Unicode": [
+            "U+7792"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mán ㄇㄢˊ",
+            "mén ㄇㄣˊ",
+            "mèn ㄇㄣˋ"
+        ],
+        "Âm Nôm": [
+            "man"
+        ],
+        "Âm Quảng Đông": [
+            "mun4"
+        ]
+    },
+    "meanings": {
+        "man": {
+            "Từ điển phổ thông": [
+                "dối, lừa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 瞞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 瞞"
+            ],
+            "compound_words": {
+                "欺瞒": "khi man",
+                "鄋瞒": "sưu man"
+            }
+        },
+        "môn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 瞞."
+            ]
+        }
+    }
+}

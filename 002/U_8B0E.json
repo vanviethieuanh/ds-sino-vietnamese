@@ -1,0 +1,81 @@
+{
+    "character": "謎",
+    "details": {
+        "Âm Hán Việt": [
+            "mê"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言迷"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶ノ一丨ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YRYFD (卜口卜火木)"
+        ],
+        "Unicode": [
+            "U+8B0E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mèi ㄇㄟˋ",
+            "mí ㄇㄧˊ",
+            "mì ㄇㄧˋ"
+        ],
+        "Âm Nôm": [
+            "mê"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メイ (mei)",
+            "ベイ (bei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なぞ (nazo)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "mai4",
+            "mai6"
+        ]
+    },
+    "meanings": {
+        "mê": {
+            "Từ điển phổ thông": [
+                "câu đố"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Câu đố, ẩn ngữ. ◇Tây du kí 西遊記: 'Nguyên lai na Hầu vương, dĩ đả phá bàn trung chi mê, ám ám tại tâm, sở dĩ bất dữ chúng nhân tranh cạnh, chỉ thị nhẫn nại vô ngôn' 原來那猴王, 已打破盤中之謎, 暗暗在心, 所以不與眾人爭競, 只是忍耐無言 (Đệ nhị hồi) Nguyên là Hầu vương, đã hiểu ra ẩn ý (của tổ sư), âm thầm trong lòng, vì vậy không tranh cãi với mọi người, mà chỉ nhẫn nại không nói.",
+                "(Danh) Việc khó hiểu, khó giải thích. ◎Như: 'vũ trụ đích thần bí áo diệu, đối nhân loại lai thuyết nhưng thị cá mê' 宇宙的神祕奧妙, 對人類來說仍是個謎 những điều thần bí ảo diệu trong vũ trũ, đối với con người vẫn là điều khó hiểu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Câu đố."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Câu đố;",
+                "Việc khó hiểu, việc khó giải quyết: 這個問題到現在還是一個謎，誰也猜不透 Vấn đề này đến bây giờ vẫn là một việc khó hiểu, không ai đoán ra được. Xem 謎 [mèi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Câu đố. Cũng gọi là Mê ngữ 謎語."
+            ],
+            "compound_words": {
+                "燈謎": "đăng mê"
+            }
+        }
+    }
+}

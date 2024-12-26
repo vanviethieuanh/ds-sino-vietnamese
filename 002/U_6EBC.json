@@ -1,0 +1,77 @@
+{
+    "character": "溼",
+    "details": {
+        "Âm Hán Việt": [
+            "thấp"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡𡌥"
+        ],
+        "Nét bút": [
+            "丶丶一一フフ丶フフ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "EMVG (水一女土)"
+        ],
+        "Unicode": [
+            "U+6EBC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qì ㄑㄧˋ",
+            "shī ㄕ"
+        ],
+        "Âm Nôm": [
+            "thấp"
+        ],
+        "Âm Quảng Đông": [
+            "sap1"
+        ]
+    },
+    "meanings": {
+        "thấp": {
+            "Từ điển phổ thông": [
+                "ẩm ướt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đất ướt, đất ẩm thấp.",
+                "(Danh) Khí ẩm (theo đông y). ◎Như: 'phong thấp' 風溼 bệnh phong thấp, làm đau nhức xương thịt, do khí ẩm thấp sinh ra.",
+                "(Tính) Ẩm, ướt. ◎Như: 'y phục hoàn thấp' 衣服還溼 quần áo còn ướt.",
+                "(Động) Thấm ướt. ◎Như: 'lệ thấp y khâm' 淚溼衣襟. ◇Thủy hử truyện 水滸傳: 'Tiểu nhân bị tuyết đả thấp liễu y thường, tá thử hỏa hồng nhất hồng' 小人被雪打溼了衣裳, 借此火烘一烘 (Đệ thập hồi) Tiểu nhân bị tuyết thấm ướt cả quần áo, mượn lửa này sưởi một lúc cho khô."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðất ướt.",
+                "Ướt thấm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ướt, ẩm ướt: 衣服還溼 Quần áo còn ướt; 潮溼 Ẩm ướt, ướt át;",
+                "(văn) Đất ướt, đất ẩm thấp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ẩm ướt. Thấm nước."
+            ],
+            "compound_words": {
+                "溼病": "thấp bệnh",
+                "溼答答": "thấp đáp đáp",
+                "溼地": "thấp địa",
+                "溼度": "thấp độ",
+                "溼氣": "thấp khí",
+                "溼熱": "thấp nhiệt"
+            }
+        }
+    }
+}

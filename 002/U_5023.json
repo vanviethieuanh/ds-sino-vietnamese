@@ -1,0 +1,96 @@
+{
+    "character": "倣",
+    "details": {
+        "Âm Hán Việt": [
+            "phóng",
+            "phảng",
+            "phỏng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻放"
+        ],
+        "Nét bút": [
+            "ノ丨丶一フノノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OYSK (人卜尸大)"
+        ],
+        "Unicode": [
+            "U+5023"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "fǎng ㄈㄤˇ",
+            "páng ㄆㄤˊ"
+        ],
+        "Âm Nôm": [
+            "phạng",
+            "phỏng",
+            "phổng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なら.う (nara.u)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "fong2"
+        ]
+    },
+    "meanings": {
+        "phóng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt chước — Cũng đọc Phỏng. Xem Phỏng."
+            ],
+            "compound_words": {
+                "寫倣": "tả phóng"
+            }
+        },
+        "phảng": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 仿."
+            ]
+        },
+        "phỏng": {
+            "Từ điển phổ thông": [
+                "bắt chước, làm theo, làm giống"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Bắt chước. § Cũng như “phỏng” 仿."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bắt chước, cũng viết là phỏng 仿."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt chước. Td: Mô phỏng — Cũng đọc Phóng."
+            ],
+            "compound_words": {
+                "模倣": "mô phỏng",
+                "倣辨": "phỏng biện",
+                "倣照": "phỏng chiếu",
+                "倣古": "phỏng cổ",
+                "倣使": "phỏng sử",
+                "倣作": "phỏng tác",
+                "倣造": "phỏng tạo"
+            }
+        }
+    }
+}

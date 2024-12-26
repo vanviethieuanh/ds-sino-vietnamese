@@ -1,0 +1,104 @@
+{
+    "character": "笋",
+    "details": {
+        "Âm Hán Việt": [
+            "duẩn",
+            "duẫn",
+            "tuân",
+            "tuẩn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trúc 竹 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮尹"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶フ一一ノ"
+        ],
+        "Thương Hiệt": [
+            "HSK (竹尸大)"
+        ],
+        "Unicode": [
+            "U+7B0B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sǔn ㄙㄨㄣˇ"
+        ],
+        "Âm Nôm": [
+            "duẫn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)",
+            "シュン (shun)",
+            "イン (in)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たけのこ (takenoko)",
+            "たかんな (takan na)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "seon2"
+        ]
+    },
+    "meanings": {
+        "duẩn": {
+            "Từ điển phổ thông": [
+                "măng tre"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Tục dùng như chữ 'duẩn' 筍.",
+                "§ Giản thể của chữ 筍.",
+                "§ Cũng đọc là 'tuẩn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ duẩn 筍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Măng tre: 筍干 Măng khô;",
+                "Non: 筍鴨 Vịt non;",
+                "(văn) Cây xà ngang để treo chuông khánh (như 簨)."
+            ]
+        },
+        "duẫn": {
+            "Từ điển phổ thông": [
+                "măng tre"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Măng tre — Cây tre non."
+            ]
+        },
+        "tuân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tuân 筍."
+            ]
+        },
+        "tuẩn": {
+            "Từ điển trích dẫn": [
+                "§ Tục dùng như chữ 'duẩn' 筍.",
+                "§ Giản thể của chữ 筍.",
+                "§ Cũng đọc là 'tuẩn'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Măng tre: 筍干 Măng khô;",
+                "Non: 筍鴨 Vịt non;",
+                "(văn) Cây xà ngang để treo chuông khánh (như 簨)."
+            ]
+        }
+    }
+}

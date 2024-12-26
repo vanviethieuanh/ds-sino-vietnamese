@@ -1,0 +1,100 @@
+{
+    "character": "梦",
+    "details": {
+        "Âm Hán Việt": [
+            "mông",
+            "mộng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱林夕"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨ノ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "DDNI (木木弓戈)"
+        ],
+        "Unicode": [
+            "U+68A6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "méng ㄇㄥˊ",
+            "mèng ㄇㄥˋ"
+        ],
+        "Âm Nôm": [
+            "mộng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ム (mu)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ゆめ (yume)",
+            "ゆめ.みる (yume.miru)",
+            "くら.い (kura.i)"
+        ],
+        "Âm Hàn": [
+            "몽"
+        ],
+        "Âm Quảng Đông": [
+            "mung6"
+        ]
+    },
+    "meanings": {
+        "mông": {
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'mộng' 夢.",
+                "Giản thể của chữ 夢."
+            ]
+        },
+        "mộng": {
+            "Từ điển phổ thông": [
+                "mơ, mộng, chiêm bao",
+                "mơ tưởng, ao ước",
+                "họ Mộng"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'mộng' 夢.",
+                "Giản thể của chữ 夢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ mộng 夢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giấc mơ, giấc mộng, giấc chiêm bao: 惡夢 Cơn ác mộng;",
+                "Mê, nằm mơ, nằm mộng, chiêm bao: 夢見 Nằm mê thấy, chiêm bao thấy;",
+                "Mộng tưởng, ao ước;",
+                "[Mèng] (Họ) Mộng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết giản dị của chữ Mộng 夢."
+            ],
+            "compound_words": {
+                "恶梦": "ác mộng",
+                "梦幻": "mộng ảo",
+                "梦境": "mộng cảnh",
+                "梦遗": "mộng di",
+                "梦见": "mộng kiến",
+                "梦寐": "mộng mị",
+                "梦话": "mộng thoại",
+                "梦想": "mộng tưởng",
+                "梦魘": "mộng yểm"
+            }
+        }
+    }
+}

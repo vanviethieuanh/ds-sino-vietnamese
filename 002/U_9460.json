@@ -1,0 +1,89 @@
+{
+    "character": "鑠",
+    "details": {
+        "Âm Hán Việt": [
+            "thước"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "kim 金 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金樂"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丨フ一一フフ丶フフ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CVID (金女戈木)"
+        ],
+        "Unicode": [
+            "U+9460"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ",
+            "shuò ㄕㄨㄛˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャク (shaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とろ.かす (toro.kasu)",
+            "と.かす (to.kasu)"
+        ],
+        "Âm Hàn": [
+            "삭"
+        ],
+        "Âm Quảng Đông": [
+            "soek3"
+        ]
+    },
+    "meanings": {
+        "thước": {
+            "Từ điển phổ thông": [
+                "nóng chảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nung, nóng chảy. ◎Như: 'thiêu thước' 燒鑠 nung chảy.",
+                "(Động) Tiêu hủy, tiêu mòn. ◇Lục Du 陸游: 'Chu nhan khởi thị nhất triêu khứ, Ám thước tiềm tiêu ngũ thập niên' 朱顏豈是一朝去, 暗鑠潛銷五十年 (Thần khởi đối kính 晨起對鏡) Mặt đẹp há phải một sớm mai đi mất, Nó âm thầm tiêu mòn trong năm mươi năm.",
+                "(Động) Rèn luyện.",
+                "(Tính) Tốt đẹp, sáng sủa.",
+                "(Tính) Long lanh, lấp lánh. § Thông 'thước' 爍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nung.",
+                "Đẹp.",
+                "Quắc thước 鸎鑠 mạnh mẽ, người già mà tinh thần còn mạnh cũng gọi là quắc thước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nung chảy: 鑠金 Nung vàng; 鑠石流金 (Nắng) như thiêu như đốt;",
+                "Mòn mất, tiêu huỷ;",
+                "Sáng ngời (như Ã{ [shuò], bộ 火);",
+                "(văn) Mạnh mẽ: ôw鑠 Già mà vẫn còn lanh lợi mạnh khỏe, quắc thước."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nấu kim loại cho chảy ra — Tốt đẹp. Td: Quắc thước."
+            ],
+            "compound_words": {
+                "震古鑠今": "chấn cổ thước kim",
+                "眾口鑠金": "chúng khẩu thước kim",
+                "矍鑠": "quắc thước"
+            }
+        }
+    }
+}

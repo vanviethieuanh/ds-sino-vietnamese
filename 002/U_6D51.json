@@ -1,0 +1,76 @@
+{
+    "character": "浑",
+    "details": {
+        "Âm Hán Việt": [
+            "hồn",
+            "hỗn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡军"
+        ],
+        "Nét bút": [
+            "丶丶一丶フ一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "EBKQ (水月大手)"
+        ],
+        "Unicode": [
+            "U+6D51"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gǔn ㄍㄨㄣˇ",
+            "hún ㄏㄨㄣˊ",
+            "hùn ㄏㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "hồn"
+        ],
+        "Âm Quảng Đông": [
+            "wan4"
+        ]
+    },
+    "meanings": {
+        "hồn": {
+            "Từ điển phổ thông": [
+                "đục (nước)",
+                "ngớ ngẩn",
+                "tự nhiên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 渾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 渾"
+            ],
+            "compound_words": {
+                "浑厚": "hồn hậu"
+            }
+        },
+        "hỗn": {
+            "Từ điển phổ thông": [
+                "(xem: hỗn độn 渾敦)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 渾"
+            ],
+            "compound_words": {
+                "浑沌": "hỗn độn"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "character": "闖",
+    "details": {
+        "Âm Hán Việt": [
+            "sấm"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "môn 門 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵門馬"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "ANSQF (日弓尸手火)"
+        ],
+        "Unicode": [
+            "U+95D6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chèn ㄔㄣˋ",
+            "chuǎng ㄔㄨㄤˇ"
+        ],
+        "Âm Nôm": [
+            "sấm",
+            "sấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チン (chin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うかが.う (ukaga.u)"
+        ],
+        "Âm Hàn": [
+            "츰",
+            "틈"
+        ],
+        "Âm Quảng Đông": [
+            "cong2"
+        ]
+    },
+    "meanings": {
+        "sấm": {
+            "Từ điển phổ thông": [
+                "ló đầu ra",
+                "xông pha"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Dáng ngựa chạy ra khỏi cổng.",
+                "(Tính) Dáng ló đầu ra.",
+                "(Động) Xông vào. ◎Như: 'sấm tịch' 闖席 xông vào mâm ngồi ăn, vào dự tiệc nửa chừng. ◇Tây du kí 西遊記: 'Ngộ Không tài án hạ vân đầu, kính sấm nhập triều môn lí' 悟空才按下雲頭. 徑闖入朝門裏 (Đệ tam hồi) (Tôn) Ngộ Không bèn từ trên mây xuống, xông thẳng vào cung điện.",
+                "(Động) Xông pha, lăn lộn, lịch luyện, chạy vạy kiếm sống. ◎Như: 'sấm giang hồ' 闖江湖 vùng vẫy bôn tẩu chốn giang hồ, 'sấm đãng' 闖蕩 phiêu bạt.",
+                "(Động) Xảy ra thình lình, bất ngờ. ◎Như: 'sấm họa' 闖禍 họa xảy đến bất ngờ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ló đầu ra.",
+                "Tục gọi sự xông vào là sấm. Như sấm tịch 闖席 xông vào mâm ngồi ăn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xông vào, xông tới, vượt: 闖進門來 Xông vào nhà; 闖席 Xông vào chiếu ngồi ăn; 往裡闖 Xông vào trong; 闖過難關 Vượt khó khăn;",
+                "Xông pha, lăn lộn. 【闖江湖】 sấm giang hồ [chuăng jianghú] Xông pha đây đó, lăn lộn khắp đó đây, vùng vẫy chốn giang hồ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ló đầu ra — Thình lình — Sấn vào, đi bừa vào."
+            ],
+            "compound_words": {
+                "闖禍": "sấm hoạ",
+                "闖事": "sấm sự",
+                "闖席": "sấm tịch"
+            }
+        }
+    }
+}

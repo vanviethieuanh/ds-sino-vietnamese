@@ -1,0 +1,59 @@
+{
+    "character": "鄋",
+    "details": {
+        "Âm Hán Việt": [
+            "sưu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ấp 邑 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰叟⻏"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一一丨フ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "HENL (竹水弓中)"
+        ],
+        "Unicode": [
+            "U+910B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "sōu ㄙㄡ"
+        ],
+        "Âm Quảng Đông": [
+            "sau1",
+            "sau2"
+        ]
+    },
+    "meanings": {
+        "sưu": {
+            "Từ điển phổ thông": [
+                "(xem: sưu man 叟瞞)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "[叟瞞】Sưu Man [Soumán] Tên nước thời Xuân thu (thuộc phía bắc thành phố Tế Nam, tỉnh Sơn Đông, Trung Quốc ngày nay)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sưu man 鄋瞞: Tên một giống dân thiểu số thời Trung Hoa, cư ngụ tại vùng Sơn Đông."
+            ],
+            "compound_words": {
+                "鄋瞒": "sưu man",
+                "鄋瞞": "sưu man"
+            }
+        }
+    }
+}

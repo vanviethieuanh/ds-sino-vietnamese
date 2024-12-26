@@ -1,0 +1,83 @@
+{
+    "character": "筵",
+    "details": {
+        "Âm Hán Việt": [
+            "diên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮延"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丨一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "HNKM (竹弓大一)"
+        ],
+        "Unicode": [
+            "U+7B75"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "diên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むしろ (mushiro)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "jin4"
+        ]
+    },
+    "meanings": {
+        "diên": {
+            "Từ điển phổ thông": [
+                "cái chiếu trúc",
+                "bữa tiệc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chiếu tre. ◇Lễ Kí 禮記: 'Ấp tân tựu diên' 揖賓就筵 (Đầu hồ 投壺) Vái mời khách ngồi xuống chiếu.",
+                "(Danh) Ngày xưa trải chiếu xuống đất ngồi, cho nên chỗ ngồi gọi là 'diên'.",
+                "(Danh) Tiệc rượu, cỗ. ◎Như: 'hỉ diên' 喜筵 tiệc cưới. ◇Vương Bột 王勃: 'Ô hô! Thắng địa bất thường, thịnh diên nan tái' 嗚呼! 勝地不常, 盛筵難再 (Đằng Vương các tự 滕王閣序) Than ôi! Chốn danh thắng không còn mãi, thịnh yến khó gặp lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chiếu trúc. Ngày xưa giải chiếu xuống đất ngồi, cho nên chỗ ngồi là diên.",
+                "Tục gọi tiệc rượu là diên tịch 筵席."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chiếu (bằng trúc);",
+                "Tiệc, cỗ: 喜筵 Tiệc cưới."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chiếu đan bằng tre thời cổ."
+            ],
+            "compound_words": {
+                "筵席": "diên tịch",
+                "瓊筵": "quỳnh diên",
+                "夀筵": "thọ diên",
+                "宴筵": "yến diên"
+            }
+        }
+    }
+}

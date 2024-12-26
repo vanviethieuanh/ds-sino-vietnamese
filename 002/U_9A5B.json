@@ -1,0 +1,83 @@
+{
+    "character": "驛",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "mã 馬 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬睪"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶丨フ丨丨一一丨一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "SFWLJ (尸火田中十)"
+        ],
+        "Unicode": [
+            "U+9A5B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dịch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エキ (eki)"
+        ],
+        "Âm Hàn": [
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "ngựa trạm (đưa thư, truyền chỉ dụ)",
+                "việc quân đội"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa dùng để đưa thư từ, công văn ngày xưa. ◇Bạch Cư Dị 白居易: 'Đạo phùng trì dịch giả, Sắc hữu phi thường cụ' 道逢馳驛者, 色有非常懼 (Kí ẩn giả 寄隱者) Trên đường gặp người ruổi ngựa trạm, Sắc mặt sợ kinh hồn.",
+                "(Danh) Trạm. § Ngày xưa đặt các trạm để truyền đưa văn thư, mỗi trạm có một chức quan coi giữ, gọi là 'dịch thừa' 驛丞. ◇Lục Du 陸游: 'Dịch ngoại đoạn kiều biên, Tịch mịch khai vô chủ' 驛外斷橋邊, 寂寞開無主 (Vịnh mai 詠梅) Ngoài trạm bên cầu gãy, (Hoa mai) không có chủ lặng lẽ nở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngựa trạm, dùng ngựa đưa thư. Ngày xưa đặt các trạm để truyền đưa văn thư, mỗi trạm có một chức quan coi giữ, gọi là dịch thừa 驛丞.",
+                "Lạc dịch 絡驛 liền nối không dứt. Cũng viết là 駱驛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngựa trạm (để đưa thư từ, công văn thời xưa). 【驛站】dịch trạm [yìzhàn] (cũ) Trạm dịch (trạm truyền thư tín, công văn thời xưa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng ngựa để cguyển giấy tờ như thư từ theo đường bộ."
+            ],
+            "compound_words": {
+                "郵驛": "bưu dịch",
+                "驛亭": "dịch đình",
+                "驛騎": "dịch kỵ",
+                "驛馬": "dịch mã",
+                "驛夫": "dịch phu",
+                "驛使": "dịch sứ",
+                "驛站": "dịch trạm",
+                "絡驛": "lạc dịch",
+                "館驛": "quán dịch"
+            }
+        }
+    }
+}

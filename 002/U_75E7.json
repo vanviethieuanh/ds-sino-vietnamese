@@ -1,0 +1,78 @@
+{
+    "character": "痧",
+    "details": {
+        "Âm Hán Việt": [
+            "sa"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nạch 疒 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒沙"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丶丶一丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "KEFH (大水火竹)"
+        ],
+        "Unicode": [
+            "U+75E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shā ㄕㄚ"
+        ],
+        "Âm Nôm": [
+            "sa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "これら (korera)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "saa1"
+        ]
+    },
+    "meanings": {
+        "sa": {
+            "Từ điển phổ thông": [
+                "bệnh thổ tả"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bệnh trúng nắng, bệnh mụt có mủ, bệnh hoắc loạn 霍亂 vừa nôn mửa vừa tả lị, v.v. § Tục gọi bệnh lâm chẩn 痳疹 (lên sởi) là “sa tử” 痧子."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh sa, một thứ bệnh như bệnh hoắc loạn, nguyên do ăn uống bẩn thỉu thành ra thổ tả, chân tay lạnh giá gọi là bệnh sa, có thể truyền nhiễm được.",
+                "Tục gọi lên sởi là sa tử 痧子. Xem chữ lâm 痳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh sa (chỉ những bệnh cấp tính như tả, đau bụng, viêm ruột, cảm nắng v.v...);",
+                "【痧子】sa tử [shazi] (đph) Bệnh sởi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh tiêu chảy."
+            ],
+            "compound_words": {
+                "喉痧": "hầu sa",
+                "痧子": "sa tử"
+            }
+        }
+    }
+}

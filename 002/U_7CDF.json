@@ -1,0 +1,95 @@
+{
+    "character": "糟",
+    "details": {
+        "Âm Hán Việt": [
+            "tao"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mễ 米 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米曹"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶一丨フ一丨丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "FDTWA (火木廿田日)"
+        ],
+        "Unicode": [
+            "U+7CDF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zāo ㄗㄠ"
+        ],
+        "Âm Nôm": [
+            "tao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬか (nuka)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zou1"
+        ]
+    },
+    "meanings": {
+        "tao": {
+            "Từ điển phổ thông": [
+                "cặn rượu",
+                "ngâm rượu",
+                "ướp, muối, ngâm",
+                "mục nát, mủn",
+                "hỏng, yếu kém, bại hoại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cặn rượu. ◎Như: 'tửu tao' 酒糟 cặn rượu, bã rượu.",
+                "(Danh) Cặn bã, đồ vô dụng, thứ không có giá trị gì cả. ◎Như: 'tao phách' 糟粕 cặn bã, thừa bỏ (trái nghĩa với 'tinh hoa' 精華).",
+                "(Danh) Họ 'Tao'.",
+                "(Động) Ngâm với rượu. ◎Như: 'tao ngư' 糟魚 cá ngâm rượu, 'tao nhục' 糟肉 thịt ngâm rượu.",
+                "(Tính) Kém, hỏng, hư nát, bại hoại. ◎Như: 'tao cao' 糟糕 sự tình hư hỏng, 'tha giá học kì đích thành tích ngận tao' 他這學期的成績很糟 kết quả kì học này của nó tệ lắm.",
+                "(Tính) Mục nát. ◎Như: 'bố tao liễu' 布糟了 vải mục rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cặn rượu. Câu nói không có tinh thần gì gọi là tao phách 糟粕.",
+                "Vợ. Tống Hoằng có câu: Tao khang chi thê bất khả hạ đường 糟糠之妻不可下堂 người vợ cùng chịu cảnh nghèo hèn với mình không thể bỏ được, vì thế nên vợ cả gọi là tao khang chi thê.",
+                "Ngâm rượu, như tao ngư 糟魚 lấy rượu ngâm cá.",
+                "Bại hoại, hỏng, tan nát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bã, hèm: 酒糟 Bã rượu, hèm rượu;",
+                "Ướp, muối, ngâm (rượu): 糟魚 Cá ướp (bằng bã rượu hoặc rượu);",
+                "Mục, mục nát, mủn: 木頭糟了 Gỗ đã mục rồi; 布糟了 Vải đã mủn rồi;",
+                "Hỏng, kém, yếu, bại hoại, tan nát: 事情糟了 Hỏng việc rồi; 她的身體 很糟 (Người) chị ấy yếu lắm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bã rượu. Hèm rượu."
+            ],
+            "compound_words": {
+                "鏖糟": "ao tao",
+                "糟糕": "tao cao",
+                "糟糠": "tao khang",
+                "糟粕": "tao phách",
+                "糟心": "tao tâm"
+            }
+        }
+    }
+}

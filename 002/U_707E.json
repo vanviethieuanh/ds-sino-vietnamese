@@ -1,0 +1,78 @@
+{
+    "character": "灾",
+    "details": {
+        "Âm Hán Việt": [
+            "tai"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "hoả 火 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱宀火"
+        ],
+        "Nét bút": [
+            "丶丶フ丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "JF (十火)"
+        ],
+        "Unicode": [
+            "U+707E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zāi ㄗㄞ"
+        ],
+        "Âm Nôm": [
+            "tai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざわ.い (wazawa.i)"
+        ],
+        "Âm Hàn": [
+            "재"
+        ],
+        "Âm Quảng Đông": [
+            "zoi1"
+        ]
+    },
+    "meanings": {
+        "tai": {
+            "Từ điển phổ thông": [
+                "cháy nhà",
+                "tai ương"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'tai' 災.",
+                "Giản thể của chữ 災."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ tai 災."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 災."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tai 災."
+            ],
+            "compound_words": {
+                "大灾": "đại tai",
+                "火灾": "hoả tai"
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "锤",
+    "details": {
+        "Âm Hán Việt": [
+            "chuý",
+            "chuỳ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅垂"
+        ],
+        "Nét bút": [
+            "ノ一一一フノ一丨一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "XCHJM (重金竹十一)"
+        ],
+        "Unicode": [
+            "U+9524"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuí ㄔㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "chuỳ",
+            "thuỳ"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4"
+        ]
+    },
+    "meanings": {
+        "chuý": {
+            "Từ điển phổ thông": [
+                "quả cân",
+                "nặng",
+                "cái búa lớn"
+            ]
+        },
+        "chuỳ": {
+            "Từ điển phổ thông": [
+                "quả cân",
+                "nặng",
+                "cái búa lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 錘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 錘"
+            ],
+            "compound_words": {
+                "大锤": "đại chuỳ"
+            }
+        }
+    }
+}

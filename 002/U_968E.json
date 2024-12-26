@@ -1,0 +1,96 @@
+{
+    "character": "階",
+    "details": {
+        "Âm Hán Việt": [
+            "giai"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phụ 阜 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖皆"
+        ],
+        "Nét bút": [
+            "フ丨一フノフノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "NLPPA (弓中心心日)"
+        ],
+        "Unicode": [
+            "U+968E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiē ㄐㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "giai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きざはし (kizahashi)"
+        ],
+        "Âm Hàn": [
+            "계"
+        ],
+        "Âm Quảng Đông": [
+            "gaai1"
+        ]
+    },
+    "meanings": {
+        "giai": {
+            "Từ điển phổ thông": [
+                "cấp bậc",
+                "bậc thềm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bậc thềm. ◇Cao Bá Quát 高伯适: 'Tiền giai yêu khách chỉ' 前階要客止 (Phạn xá cảm tác 飯舍感作) Trước thềm kèo nài khách dừng chân.",
+                "(Danh) Ngôi, bực, ngôi thứ, đẳng cấp. ◎Như: 'quan giai' 官階 ngôi quan.",
+                "(Danh) Chỗ dựa, duyên do, con đường dẫn tới. ◎Như: 'vô xích thốn chi giai' 無尺寸之階 không còn có chỗ nương tựa được. ◇Dịch Kinh 易經: 'Loạn chi sở sanh dã, tắc ngôn ngữ dĩ vi giai' 亂之所生也, 則言語以為階 (Hệ từ thượng 繫辭上) Loạn sở dĩ sinh ra, duyên do là từ ngôn ngữ.",
+                "(Động) Bắc thang. ◇Luận Ngữ 論語: 'Do thiên chi bất khả giai nhi thăng dã' 猶天之不可階而升也 (Tử Trương 子張) Cũng như trời không thể bắc thang mà lên được vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bực thềm, thềm cao hơn sàn, phải xây bực lên gọi là giai.",
+                "Bắc thang. Như Luận ngữ 論語 nói Do thiên chi bất khả giai nhi thăng dã 猶天之不可階而升也 (Tử Trương 子張) cũng như trời không thể bắc thang mà lên được vậy.",
+                "Ngôi, bực, ngôi thứ trong quan chế gọi là giai. Vì thế nên gọi ngôi quan là quan giai 官階.",
+                "Lối lên, cái lối dắt dẫn lên. Như bởi cớ gì đó mà sinh ra loạn gọi là hoạ giai 禍階 hay loạn giai 亂階.",
+                "Nương tựa. Như vô xích thốn chi giai 無尺寸之階 không còn có chỗ nương tựa được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bậc, bực (thềm): 階梯 Bậc thang;",
+                "Cấp bậc, ngôi thứ;",
+                "(văn) Bắc thang: 猶天之不可階而昇也 Giống như trời thì không thể bắt thang mà lên được (Luận ngữ);",
+                "(văn) Lối đưa tới, con đường dẫn tới: 禍階 Cớ gây ra tai hoạ;",
+                "(văn) Nương tựa: 無尺寸之階 Không còn có chỗ nương tựa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bậc thềm — Thứ bậc — Cái thang."
+            ],
+            "compound_words": {
+                "音階": "âm giai",
+                "低階": "đê giai",
+                "階級": "giai cấp",
+                "階段": "giai đoạn",
+                "階次": "giai thứ",
+                "玉階": "ngọc giai",
+                "官階": "quan giai",
+                "初階": "sơ giai",
+                "文階": "văn giai",
+                "武階": "vũ giai"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "character": "觉",
+    "details": {
+        "Âm Hán Việt": [
+            "giác",
+            "giáo"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "kiến 見 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿳⺍冖见"
+        ],
+        "Nét bút": [
+            "丶丶ノ丶フ丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "FBBHU (火月月竹山)"
+        ],
+        "Unicode": [
+            "U+89C9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiào ㄐㄧㄠˋ",
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "dác",
+            "giác"
+        ],
+        "Âm Quảng Đông": [
+            "gaau3",
+            "gok3"
+        ]
+    },
+    "meanings": {
+        "giác": {
+            "Từ điển phổ thông": [
+                "biết",
+                "phát hiện",
+                "tỉnh dậy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 覺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cảm thấy, thấy: 我覺得冷 Tôi cảm thấy lạnh; 他覺得這本書很好 Anh ấy cảm thấy quyển sách này rất tốt;",
+                "Tỉnh giấc, thức giấc: 如夢初覺 Như mộng vừa tỉnh;",
+                "Tỉnh ngộ, giác ngộ, biết ra, thức tỉnh, nhận thức ra, phát giác ra: 提高覺悟 Nâng cao giác ngộ; 他察覺到自己的危險 Nó nhận thức được tình trạng nguy hiểm của nó;",
+                "(văn) Cao to và thẳng, cao lớn;",
+                "(văn) Bảo, làm cho thức tỉnh;",
+                "(văn) Người hiền trí. Xem 覺 [jiào]."
+            ],
+            "compound_words": {
+                "感觉": "cảm giác",
+                "发觉": "phát giác",
+                "察觉": "sát giác",
+                "自觉": "tự giác"
+            }
+        },
+        "giáo": {
+            "Từ điển phổ thông": [
+                "thức dậy, tỉnh dậy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 覺."
+            ]
+        }
+    }
+}

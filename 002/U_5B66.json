@@ -1,0 +1,95 @@
+{
+    "character": "学",
+    "details": {
+        "Âm Hán Việt": [
+            "học"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tử 子 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿳⺍冖子"
+        ],
+        "Nét bút": [
+            "丶丶ノ丶フフ丨一"
+        ],
+        "Thương Hiệt": [
+            "FBND (火月弓木)"
+        ],
+        "Unicode": [
+            "U+5B66"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xué ㄒㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "học"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガク (gaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まな.ぶ (mana.bu)"
+        ],
+        "Âm Hàn": [
+            "학"
+        ],
+        "Âm Quảng Đông": [
+            "hok6"
+        ]
+    },
+    "meanings": {
+        "học": {
+            "Từ điển phổ thông": [
+                "học hành"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 學."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 學"
+            ],
+            "compound_words": {
+                "博学": "bác học",
+                "大学": "đại học",
+                "同学": "đồng học",
+                "教学": "giáo học",
+                "化学": "hoá học",
+                "学级": "học cấp",
+                "学徒": "học đồ",
+                "学家": "học gia",
+                "学者": "học giả",
+                "学校": "học hiệu",
+                "学会": "học hội",
+                "学期": "học kỳ",
+                "学龄": "học linh",
+                "学生": "học sinh",
+                "学习": "học tập",
+                "学术": "học thuật",
+                "学问": "học vấn",
+                "学位": "học vị",
+                "学院": "học viện",
+                "科学": "khoa học",
+                "数学": "số học",
+                "才学": "tài học",
+                "才疏学浅": "tài sơ học thiển",
+                "小学": "tiểu học",
+                "哲学": "triết học",
+                "中学": "trung học",
+                "文学": "văn học"
+            }
+        }
+    }
+}

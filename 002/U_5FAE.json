@@ -1,0 +1,147 @@
+{
+    "character": "微",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "xích 彳 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノノ丨丨フ丨一ノフノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HOUUK (竹人山山大)"
+        ],
+        "Unicode": [
+            "U+5FAE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wēi ㄨㄟ",
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かす.か (kasu.ka)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "mei4"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "(Động) Trốn, giấu, ẩn tàng. ◇Tả truyện 左傳: 'Bạch Công bôn san nhi ải, kì đồ vi chi' 白公奔山而縊, 其徒微之 (Ai Công thập lục niên 哀公十六年) Bạch Công chạy tới núi tự ải, đồ đệ của ông đi trốn.",
+                "(Động) Không có. ◇Luận Ngữ 論語: 'Vi Quản Trọng ngô kì bỉ phát tả nhẫm hĩ' 微管仲吾其彼髮左衽矣 (Hiến vấn 憲問) Nếu không có ông Quản Trọng, ta tất bị búi tóc mặc áo trái vạt vậy (như người Di 夷, Địch 狄). § Ý nói Quản Trọng đã có công chống với Di, Địch.",
+                "(Động) Chẳng phải. ◇Thi Kinh 詩經: 'Vi ngã vô tửu' 微我無酒 (Bội phong 邶風, Bách chu 柏舟) Chẳng phải là em không có rượu.",
+                "(Động) Dò xét, trinh sát. ◇Hán Thư 漢書: 'Giải sử nhân vi tri tặc xứ' 解使人微知賊處 (Quách Giải truyện 郭解傳) (Quách) Giải sai người dò biết chỗ ở của giặc.",
+                "(Tính) Mầu nhiệm, kì diệu, tinh thâm, ảo diệu. ◎Như: 'tinh vi' 精微, 'vi diệu' 微妙 tinh tế, mầu nhiệm, không thể nghĩ bàn được.",
+                "(Tính) Nhỏ, bé. ◎Như: 'vi tội' 微罪 tội nhỏ, 'vi lễ' 微禮 lễ mọn.",
+                "(Tính) Suy yếu, tàn tạ. ◎Như: 'suy vi' 衰微 suy yếu. ◇Hàn Dũ 韓愈: 'Mao huyết nhật ích suy, chí khí nhật ích vi' 毛血日益衰, 志氣日益微 (Tế thập nhị lang văn 祭十二郎文) Khí huyết ngày một kém, chí khí ngày một mòn.",
+                "(Tính) Thấp kém, ti tiện, hèn hạ. ◎Như: 'xuất thân hàn vi' 出身寒微 xuất thân nghèo hèn. ◇Sử Kí 史記: 'Lữ Thái Hậu giả, Cao Tổ vi thì phi dã' 呂太后者, 高祖微時妃也 (Lữ thái hậu bổn kỉ 呂太后本紀) Lữ Thái Hậu là vợ của Cao Tổ từ lúc còn hàn vi.",
+                "(Tính) Ít. ◎Như: 'vi thiểu' 微少 ít ỏi.",
+                "(Tính) Cực kì nhỏ, cực kì ngắn, cực kì bén nhạy. ◎Như: 'vi ba' 微波 microwave, 'vi âm khí' 微音器 microphone.",
+                "(Tính) Tối tăm, không sáng. ◇Thi Kinh 詩經: 'Bỉ nguyệt nhi vi, Thử nhật nhi vi' 彼月而微, 此日而微 (Tiểu nhã 小雅, Thập nguyệt chi giao 十月之交) Mặt trăng kia tối tăm, Mặt trời này tối tăm. ◇Tạ Linh Vận 謝靈運: 'Xuất cốc nhật thượng tảo, Nhập chu dương dĩ vi' 出谷日尚早, 入舟陽已微 (Thạch bích tinh xá hoàn hồ trung tác 石壁精舍還湖中作) Ra khỏi hang còn sáng, Xuống thuyền mặt trời đã tối.",
+                "(Phó) Ẩn, giấu, lén. ◎Như: 'vi phục' 微服 đổi lốt áo xấu không cho ai biết mình, 'vi hành' 微行 đi lẻn (người tôn quý đi ra ngoài mà không muốn người khác biết).",
+                "(Phó) Không chỉ, chẳng phải một mình. § Cũng như 'bất cận' 不僅, 'bất độc' 不獨. ◇Kỉ Quân 紀昀: 'Tử tội chí trọng, vi ngã nan giải thoát, tức Thích Ca Mâu Ni, diệc vô năng vi lực dã' 此罪至重, 微我難解脫, 即釋迦牟尼, 亦無能為力也 (Duyệt vi thảo đường bút kí 閱微草堂筆記) Tội này rất nặng, chẳng phải chỉ mình ta khó mà giải thoát, ngay cả đức Thích Ca Mâu Ni, cũng không có khả năng làm được.",
+                "(Phó) Nhỏ, nhẹ. ◎Như: 'vi tiếu' 微笑 cười khẽ, cười mỉm, 'niêm hoa vi tiếu' 拈花微笑 cầm hoa mỉm cười.",
+                "(Danh) Lượng từ: đơn vị thời gian biến đổi về khí tượng thời tiết ngày xưa: năm ngày là một 'vi' 微.",
+                "(Danh) Con số cực nhỏ: về chiều dài, bằng một phần triệu của một tấc ('thốn' 寸); về độ tròn (viên độ), bằng một phần sáu mươi của một giây ('miểu' 秒).",
+                "(Danh) Tên nước cổ.",
+                "(Danh) Họ 'Vi'."
+            ],
+            "compound_words": {
+                "隱微": "ẩn vi",
+                "白玉微瑕": "bạch ngọc vi hà",
+                "寒微": "hàn vi",
+                "顯微": "hiển vi",
+                "玄微": "huyền vi",
+                "毚微": "sàm vi",
+                "衰微": "suy vi",
+                "些微": "ta vi",
+                "細微": "tế vi",
+                "细微": "tế vi",
+                "翠微": "thuý vi",
+                "式微": "thức vi",
+                "卑微": "ti vi",
+                "纖微": "tiêm vi",
+                "精微": "tinh vi",
+                "側微": "trắc vi",
+                "紫微": "tử vi",
+                "紫微斗數": "tử vi đẩu số",
+                "微音": "vi âm",
+                "微音器": "vi âm khí",
+                "微波": "vi ba",
+                "微薄": "vi bạc",
+                "微旨": "vi chỉ",
+                "微机": "vi cơ",
+                "微機": "vi cơ",
+                "微妙": "vi diệu",
+                "微動": "vi động",
+                "微型": "vi hình",
+                "微乎": "vi hồ",
+                "微芒": "vi mang",
+                "微言": "vi ngôn",
+                "微芽": "vi nha",
+                "微軟": "vi nhuyễn",
+                "微软": "vi nhuyễn",
+                "微風": "vi phong",
+                "微光": "vi quang",
+                "微生物": "vi sinh vật",
+                "微時": "vi thời",
+                "微便": "vi tiện",
+                "微笑": "vi tiếu",
+                "微情": "vi tình",
+                "微塵": "vi trần",
+                "微蟲": "vi trùng"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "nhỏ bé",
+                "nhạt (màu)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mầu nhiệm. Như tinh vi 精微, vi diệu 微妙 nghĩa là tinh tế mầu nhiệm không thể nghĩ bàn được.",
+                "Nhỏ, như vi tội 微罪 tội nhỏ, vi lễ 微禮 lễ mọn.",
+                "Suy. Như thức vi 式微 suy quá.",
+                "Ẩn, dấu không cho người biết gọi là vi, như vi phục 微服 đổi lốt áo xấu không cho ai biết mình, vi hành 微行 đi lẻn, v.v.",
+                "Chẳng phải, không. Như vi Quản Trọng ngô kì bỉ phát tả nhẫm hĩ 微管仲吾其彼髮左衽矣 không ông Quản Trọng ta tất bị búi tóc mặc áo trái vạt vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhỏ, bé, nhẹ, mọn, vi: 細微 Nhỏ bé, nhỏ nhắn; 微風 Gió nhẹ; 微罪 Tội nhỏ; 微禮 Lễ mọn; 顯微鏡 Kính hiển vi; 微乎其微 Bé tí ti, ít ỏi;",
+                "Vi diệu, mầu nhiệm tinh tế: 精微 Tinh vi; 微妙 Vi diệu, tinh tế mầu nhiệm;",
+                "Giấu không cho biết, ẩn, bí mật: 微服 Mặc đồ xấu để không ai biết mình; 微行 Đi lén; 嘗以中山之謀微告趙王 Từng đem mưu kế của vua Trung Sơn bí mật báo cho Triệu vương biết (Hàn Phi tử);",
+                "(văn) Suy kém, suy vi: 式微 Suy quá rồi (Thi Kinh);",
+                "(văn) Chẳng phải, không, nếu không có: 微與之期 Không hẹn đánh với quân địch (Tôn tử binh pháp: Cửu địa); 雖讀禮傳，微愛屬文 Tuy đã đọc qua phần truyện của kinh Lễ, song vẫn không thích làm văn (Nhan thị gia huấn: Tự trí); 微管仲吾其被髮左衽矣 Nếu không có ông Quản Trọng thì bọn ta đã phải bị búi tóc và mặc áo trái vạt (như mọi rợ) rồi (Luận ngữ);",
+                "Ít, khá, nhẹ, hơi: 微感不適 Thấy trong người hơi khó chịu; 肅弟秉正，字文正，涉獵書史，微有兄風 Em của Vương Túc là Vương Bỉnh, tự là Văn Chính, rành rẽ việc kinh sử, hơi có phong độ của anh (Nguỵ thư: Vương Đương Túc truyện); 以小杖微打之 Dùng gậy nhỏ đánh nhẹ một cái (Tề dân yếu thuật);",
+                "Sút, sụt xuống: 衰微 Suy sụp;",
+                "Micrô, một phần triệu: 微米 Micrômet ( ); 微秒 Micrô giây."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé. Rất nhỏ. Td: Vi trùng — Nhỏ nhen thấp hèn. Td: Hàn vi — Mầu nhiệm, khéo léo. Td: Tinh vi."
+            ]
+        }
+    }
+}

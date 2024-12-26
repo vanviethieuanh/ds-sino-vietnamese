@@ -1,0 +1,89 @@
+{
+    "character": "笙",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "sinh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trúc 竹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮生"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "HHQM (竹竹手一)"
+        ],
+        "Unicode": [
+            "U+7B19"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shēng ㄕㄥ"
+        ],
+        "Âm Nôm": [
+            "sanh",
+            "sênh",
+            "sinh",
+            "xênh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふえ (fue)"
+        ],
+        "Âm Hàn": [
+            "생"
+        ],
+        "Âm Quảng Đông": [
+            "saang1",
+            "sang1"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển phổ thông": [
+                "sinh (một nhạc cụ như sáo)",
+                "cái sênh",
+                "cái chiếu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái sênh. § Ngày xưa làm bằng quả bầu, khoét 13 lỗ, trong có máng đồng thổi ra tiếng. ◇Trần Nhân Tông 陳仁宗: 'Bách bộ sanh ca cầm bách thiệt' 百部笙歌禽百舌 (Hạnh Thiên Trường phủ 幸天長府) Trăm bộ sênh ca là trăm tiếng chim.",
+                "(Danh) Chiếu tre. ◎Như: 'đào sanh' 桃笙 thứ chiếu ken bằng cành cây đào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái sênh. Ngày xưa làm bằng quả bầu, khoét 13 lỗ, trong có máng đồng thổi ra tiếng hay.",
+                "Cái chiếu, như đào sanh 桃笙 thứ chiếu ken bằng đào trúc (chiếu trúc)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái khèn, cái sênh (một nhạc khí thời xưa làm bằng quả bầu, có 13 lỗ, để thổi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái kèn có 13 ống, một thứ nhạc khí thời cổ — Nhỏ bé. Nhỏ nhặt."
+            ]
+        },
+        "sinh": {
+            "Từ điển phổ thông": [
+                "sinh (một nhạc cụ như sáo)",
+                "cái sênh",
+                "cái chiếu"
+            ]
+        }
+    }
+}

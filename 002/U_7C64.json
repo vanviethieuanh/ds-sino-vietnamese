@@ -1,0 +1,93 @@
+{
+    "character": "籤",
+    "details": {
+        "Âm Hán Việt": [
+            "thiêm",
+            "tiêm"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "trúc 竹 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮韱"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丶ノ丶一丨一一一丨一一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HOIM (竹人戈一)"
+        ],
+        "Unicode": [
+            "U+7C64"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "thiêm",
+            "tiêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くじ (kuji)",
+            "かずとり (kazutori)"
+        ],
+        "Âm Hàn": [
+            "첨"
+        ],
+        "Âm Quảng Đông": [
+            "cim1"
+        ]
+    },
+    "meanings": {
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "viết chữ lên thẻ tre làm dấu hiệu",
+                "đề tên, ký tên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái thẻ, cái xăm, các đình chùa dùng để cho người xóc mà xem xấu tốt. ◎Như: 'trừu thiêm' 抽籤 rút xăm, 'cầu thiêm' 求籤 xin xăm.",
+                "(Danh) Thẻ dùng làm dấu. ◎Như: 'thư thiêm' 書籤 cái làm dấu trong sách, 'tiêu thiêm' 標籤 cái thẻ đặt bên cạnh thương phẩm để thông tin vắn tắt (chủng loại, hình thức, giá cả...).",
+                "(Danh) Que nhọn, mũi nhọn làm bằng tre, gỗ... dùng để xỉa, móc, khảy, v.v. § Thông  扦. ◎Như: 'nha thiêm' 牙籤 tăm xỉa răng, 'trúc thiêm' 竹籤 tăm tre.",
+                "(Danh) Một thứ dụng cụ khắc số điểm để chơi cờ bạc.",
+                "(Danh) Nhật Bản gọi xổ số là 'phú thiêm' 富籤 nghĩa là rút số để phân được thua vậy. Cuối đời nhà Thanh cho quan được xổ số để lấy lời gọi là 'thiêm quyên' 籤捐.",
+                "(Động) Xâu, lấy kim xâu suốt vật gì gọi là 'thiêm'.",
+                "§ Cùng nghĩa với chữ 'thiêm' 簽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cùng nghĩa với chữ thiêm 簽 nghĩa là viết chữ lên trên cái thẻ tre đề làm dấu hiệu.",
+                "Nhọn, xâu. Lấy kim xâu suốt vật gì gọi là thiêm.",
+                "Nhật Bản gọi sự sổ số là phú thiêm 富籤 nghĩa là rút số để phân được thua vậy. Cuối đời nhà Thanh cho quan được xổ số để lấy lời gọi là thiêm quyên 籤捐.",
+                "Cái thẻ, các đình chùa dùng để cho người xóc mà xem xấu tốt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 簽 nghĩa",
+                ",",
+                ",",
+                "."
+            ],
+            "compound_words": {
+                "標籤": "tiêu thiêm"
+            }
+        },
+        "tiêm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thẻ tre — Thẻ xâm, thẻ tre dùng để xin quẻ bói ở đền chùa."
+            ]
+        }
+    }
+}

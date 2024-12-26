@@ -1,0 +1,66 @@
+{
+    "character": "轳",
+    "details": {
+        "Âm Hán Việt": [
+            "lô",
+            "lư"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "xa 車 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰车卢"
+        ],
+        "Nét bút": [
+            "一フ丨一丨一フ一ノ"
+        ],
+        "Thương Hiệt": [
+            "KQYS (大手卜尸)"
+        ],
+        "Unicode": [
+            "U+8F73"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lô"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lô": {
+            "Từ điển phổ thông": [
+                "(xem: lộc lô 轆轤,辘轳)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 轤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 轤"
+            ],
+            "compound_words": {
+                "辘轳": "lộc lô"
+            }
+        },
+        "lư": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 轤"
+            ]
+        }
+    }
+}

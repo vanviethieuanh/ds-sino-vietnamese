@@ -1,0 +1,107 @@
+{
+    "character": "允",
+    "details": {
+        "Âm Hán Việt": [
+            "doãn",
+            "duẫn"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhân 儿 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱厶儿"
+        ],
+        "Nét bút": [
+            "フ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "IHU (戈竹山)"
+        ],
+        "Unicode": [
+            "U+5141"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yǔn ㄩㄣˇ"
+        ],
+        "Âm Nôm": [
+            "doãn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "じょう (jō)",
+            "まこと.に (makoto.ni)",
+            "ゆるす (yurusu)"
+        ],
+        "Âm Hàn": [
+            "윤"
+        ],
+        "Âm Quảng Đông": [
+            "wan5"
+        ]
+    },
+    "meanings": {
+        "doãn": {
+            "Từ điển trích dẫn": [
+                "(Động) Đồng ý, chấp thuận, cho phép. ◎Như: 'ứng duẫn' 應允 chấp thuận. ◇Tây sương kí 西廂記: 'Bần tăng nhất thì ứng duẫn liễu, khủng phu nhân kiến trách' 貧僧一時應允了, 恐夫人見責 (Đệ nhất bổn 第一本, Đệ tứ chiết) Bần tăng đã trót nhận lời, sợ bà lớn trách cập.",
+                "(Phó) Thật là. ◇Thi Kinh 詩經: 'Độ kì tịch dương, Bân cư duẫn hoang' 度其夕陽, 豳居允荒 (Đại nhã 大雅, Công lưu 公劉) Phân định ruộng đất ở phía tịch dương, Đất nước Bân thật là rộng rãi.",
+                "(Tính) Thích hợp, thỏa đáng. ◎Như: 'bình duẫn' 平允 (xử đoán) công bằng.",
+                "(Danh) Họ 'Duẫn'.",
+                "§ Ghi chú: Cũng đọc là 'doãn'."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thật lòng tin tưởng — Kẻ nịnh — Bằng lòng, cho phép — Thoả đáng."
+            ],
+            "compound_words": {
+                "平允": "bình doãn",
+                "允當": "doãn đương",
+                "允厚": "doãn hậu",
+                "允許": "doãn hứa",
+                "允納": "doãn nạp",
+                "允諾": "doãn nặc",
+                "應允": "ưng doãn"
+            }
+        },
+        "duẫn": {
+            "Từ điển phổ thông": [
+                "thành thực",
+                "xứng đáng, phải chăng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đồng ý, chấp thuận, cho phép. ◎Như: 'ứng duẫn' 應允 chấp thuận. ◇Tây sương kí 西廂記: 'Bần tăng nhất thì ứng duẫn liễu, khủng phu nhân kiến trách' 貧僧一時應允了, 恐夫人見責 (Đệ nhất bổn 第一本, Đệ tứ chiết) Bần tăng đã trót nhận lời, sợ bà lớn trách cập.",
+                "(Phó) Thật là. ◇Thi Kinh 詩經: 'Độ kì tịch dương, Bân cư duẫn hoang' 度其夕陽, 豳居允荒 (Đại nhã 大雅, Công lưu 公劉) Phân định ruộng đất ở phía tịch dương, Đất nước Bân thật là rộng rãi.",
+                "(Tính) Thích hợp, thỏa đáng. ◎Như: 'bình duẫn' 平允 (xử đoán) công bằng.",
+                "(Danh) Họ 'Duẫn'.",
+                "§ Ghi chú: Cũng đọc là 'doãn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thành thực.",
+                "Ðáng, như bình duẫn 平允 xử đoán phải chăng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cho phép, ưng cho: 不蒙察允，遽以慚歸 Không được xét cho phép, liền thẹn bỏ về (Hàn Dũ: Thượng Trịnh Thượng thư tướng công khải);",
+                "Công bằng, phải chăng: 案法平允 Xử án công bằng (phải chăng) (Hậu Hán thư); 公允 Công bằng;",
+                "(văn) Thực, thành thực, chân thực, đích xác, xác thực: 夙夜出納朕命，惟允 Đêm ngày ban bố mệnh lệnh của ta, đều phải thành thực (Thượng thư: Thuấn điển); 允矣君子！ Thành thực thay người quân tử! (Thi Kinh: Tiểu nhã, Xa công); 豳居允荒 Nơi đất Bân này thật là to lớn (Thi Kinh: Đại nhã, Công lưu)."
+            ],
+            "compound_words": {
+                "允当": "duẫn đáng",
+                "允當": "duẫn đáng",
+                "允許": "duẫn hứa",
+                "允许": "duẫn hứa"
+            }
+        }
+    }
+}

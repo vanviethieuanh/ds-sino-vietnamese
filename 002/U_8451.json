@@ -1,0 +1,95 @@
+{
+    "character": "葑",
+    "details": {
+        "Âm Hán Việt": [
+            "phong",
+            "phúng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹封"
+        ],
+        "Nét bút": [
+            "一丨丨一丨一一丨一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "TGGI (廿土土戈)"
+        ],
+        "Unicode": [
+            "U+8451"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ",
+            "fèng ㄈㄥˋ"
+        ],
+        "Âm Nôm": [
+            "phong"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "フ (fu)",
+            "フウ (fū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぶら (kabura)"
+        ],
+        "Âm Hàn": [
+            "풍"
+        ],
+        "Âm Quảng Đông": [
+            "fung1"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "rau phong",
+                "nấm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tức là 'vu tinh' 蕪菁 (Brassica rapa var. rapa).",
+                "Một âm là 'phúng'. (Danh) Tức là 'giao bạch căn' 茭白根."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rau phong.",
+                "Một âm là phúng. Nấm mọc từng chùm mà rễ quấn quýt nhau gọi là phúng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rau phong. Cg. 蕪菁."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một một loại rau. Xem thêm Phỉ phong 菲葑. Vần Phỉ."
+            ],
+            "compound_words": {
+                "菲葑": "phỉ phong"
+            }
+        },
+        "phúng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tức là 'vu tinh' 蕪菁 (Brassica rapa var. rapa).",
+                "Một âm là 'phúng'. (Danh) Tức là 'giao bạch căn' 茭白根."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rau phong.",
+                "Một âm là phúng. Nấm mọc từng chùm mà rễ quấn quýt nhau gọi là phúng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rễ của cây dưa — Một âm khác là Phong. Xem Phong."
+            ]
+        }
+    }
+}

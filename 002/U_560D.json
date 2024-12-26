@@ -1,0 +1,84 @@
+{
+    "character": "嘍",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "khẩu 口 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口婁"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "RLWV (口中田女)"
+        ],
+        "Unicode": [
+            "U+560D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lōu ㄌㄡ",
+            "lóu ㄌㄡˊ",
+            "lou"
+        ],
+        "Âm Nôm": [
+            "làu",
+            "lâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "ル (ru)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うるさ.い (urusa.i)",
+            "みだ.れる (mida.reru)"
+        ],
+        "Âm Hàn": [
+            "루"
+        ],
+        "Âm Quảng Đông": [
+            "lau1",
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "(xem: lâu la 嘍羅,喽啰)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trợ) Dùng cuối câu: rồi, đã, v.v. § Dùng như 'liễu' 了. ◎Như: 'hạ vũ lâu' 下雨嘍 trời mưa rồi.",
+                "(Danh) § Xem 'lâu la': 嘍羅, 嘍囉."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lâu la 嘍羅 quân thủ hạ của giặc cướp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lâu la: 嘍羅 Quân thủ hạ của giặc cướp, lâu la. Xem 嘍 [lou]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng trợ từ cuối câu Bạch thoại — Xem Lâu la 嘍囉."
+            ],
+            "compound_words": {
+                "嘍囉": "lâu la",
+                "嘍羅": "lâu la",
+                "嗹嘍": "liên lâu"
+            }
+        }
+    }
+}

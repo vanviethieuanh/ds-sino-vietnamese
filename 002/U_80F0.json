@@ -1,0 +1,77 @@
+{
+    "character": "胰",
+    "details": {
+        "Âm Hán Việt": [
+            "di"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月夷"
+        ],
+        "Nét bút": [
+            "ノフ一一一フ一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BKN (月大弓)"
+        ],
+        "Unicode": [
+            "U+80F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yí ㄧˊ"
+        ],
+        "Âm Nôm": [
+            "di"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せにく (seniku)"
+        ],
+        "Âm Quảng Đông": [
+            "ji4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển phổ thông": [
+                "thịt thăn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lá lách. § Ngày xưa gọi là 'tụy tạng' 膵臟.",
+                "(Danh) Thịt thăn.",
+                "(Danh) Mỡ heo ở khoảng giữa hai trái thận.",
+                "(Danh) 'Di tử' 胰子 làm bằng mỡ heo lấy ở lá lách, dùng để tẩy rửa. § Tục gọi xà phòng là 'di tử' 胰子. Cũng gọi là 'di tạo' 胰皂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thịt thăn.",
+                "Tục gọi sà phòng là di tử 胰子."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(giải) Tuỵ, lá lách;",
+                "Xem 胰子."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Béo mập — Chất béo trong cơ thể."
+            ],
+            "compound_words": {
+                "胰子": "di tử"
+            }
+        }
+    }
+}

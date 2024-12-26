@@ -1,0 +1,99 @@
+{
+    "character": "葯",
+    "details": {
+        "Âm Hán Việt": [
+            "dược",
+            "ước"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹約"
+        ],
+        "Nét bút": [
+            "一丨丨フフ丶丶丶丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "TVFI (廿女火戈)"
+        ],
+        "Unicode": [
+            "U+846F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yào ㄧㄠˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "dược",
+            "ước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)"
+        ],
+        "Âm Hàn": [
+            "약",
+            "악"
+        ],
+        "Âm Quảng Đông": [
+            "joek1",
+            "joek3",
+            "joek6"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển phổ thông": [
+                "cây thuốc, thuốc chữa bệnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đầu nhụy đực của hoa, tức là 'hùng nhị' 雄蕊.",
+                "(Danh) Cây bạch chỉ 白芷.",
+                "Một âm là 'dược'. (Danh) Dạng viết khác của 'dược' 藥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðầu nhuỵ đực của hoa, tức là hùng nhụy 雄蕊.",
+                "Cây bạch chỉ 白芷.",
+                "Một âm là dược. Cùng nghĩa với chữ 藥.",
+                "Một âm nữa là điếu. Buộc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 藥"
+            ],
+            "compound_words": {
+                "補葯": "bổ dược"
+            }
+        },
+        "ước": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đầu nhụy đực của hoa, tức là 'hùng nhị' 雄蕊.",
+                "(Danh) Cây bạch chỉ 白芷.",
+                "Một âm là 'dược'. (Danh) Dạng viết khác của 'dược' 藥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðầu nhuỵ đực của hoa, tức là hùng nhụy 雄蕊.",
+                "Cây bạch chỉ 白芷.",
+                "Một âm là dược. Cùng nghĩa với chữ 藥.",
+                "Một âm nữa là điếu. Buộc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây bạch chỉ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ cây dùng làm vị thuốc bắc, còn gọi là Bạch chỉ — Quấn chặt xung quanh. Bó lại. Dùng như chữ Ước 約."
+            ]
+        }
+    }
+}

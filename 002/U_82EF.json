@@ -1,0 +1,67 @@
+{
+    "character": "苯",
+    "details": {
+        "Âm Hán Việt": [
+            "bản",
+            "bổn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thảo 艸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹本"
+        ],
+        "Nét bút": [
+            "一丨丨一丨ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "TDM (廿木一)"
+        ],
+        "Unicode": [
+            "U+82EF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "běn ㄅㄣˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホン (hon)"
+        ],
+        "Âm Quảng Đông": [
+            "bun2"
+        ]
+    },
+    "meanings": {
+        "bản": {
+            "Từ điển phổ thông": [
+                "chất benzen (công thức hoá học: C6H6)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Benden (Benzene, chất hoá hợp hữu cơ, công thức C6H6):甲苯 Tôlu en; 乙苯 Êtibenden."
+            ],
+            "compound_words": {
+                "乙苯": "ất bản",
+                "甲苯": "giáp bản"
+            }
+        },
+        "bổn": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Hợp chất hóa học (Benzene, C6H6)."
+            ],
+            "compound_words": {
+                "苯䔿": "bổn tỗn"
+            }
+        }
+    }
+}

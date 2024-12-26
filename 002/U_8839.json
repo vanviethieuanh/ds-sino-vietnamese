@@ -1,0 +1,80 @@
+{
+    "character": "蠹",
+    "details": {
+        "Âm Hán Việt": [
+            "đố"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "trùng 虫 (+18 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨フ一丨丶フ一ノ丨フ一丨フ一丨一丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "JBMRI (十月一口戈)"
+        ],
+        "Unicode": [
+            "U+8839"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dù ㄉㄨˋ"
+        ],
+        "Âm Nôm": [
+            "đỗ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ト (to)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きくいむし (kikuimushi)"
+        ],
+        "Âm Hàn": [
+            "두"
+        ],
+        "Âm Quảng Đông": [
+            "dou3"
+        ]
+    },
+    "meanings": {
+        "đố": {
+            "Từ điển phổ thông": [
+                "con mọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con mọt. ◎Như: 'mộc đố' 木蠹 mọt gỗ.",
+                "(Danh) Kẻ ăn mòn, làm tổn hại. ◎Như: 'quốc đố' 國蠹 kẻ ăn hại nước. ◇Tả truyện 左傳: 'Binh dân chi tàn dã, tài dụng chi đố' 兵民之殘也, 財用之蠹 (Tương Công nhị thập hữu thất niên 襄公二十有七年) Bọn tàn hại quân dân và hao tán tiền của.",
+                "(Động) Ăn mòn, đục khoét, hư hại. ◇Lã Thị Xuân Thu 呂氏春秋: 'Lưu thủy bất hủ, hộ xu bất đố' 流水不腐, 戶樞不蠹 (Quý xuân 季春) Nước chảy không mục, then cửa không mọt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con mọt.",
+                "Lấy hao tiền của, như quốc đố 國蠹 kẻ ăn hại của nhà nước, mọt nước.",
+                "Phơi sách."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con mọt: 國蠹 Sâu dân mọt nước;",
+                "Ăn mòn, làm hỏng: 流水不腐，戶樞不蠹 Nước chảy không thối, nõ cửa không mọt;",
+                "(văn) Phơi sách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Đố 蠧."
+            ],
+            "compound_words": {
+                "巨蠹": "cự đố",
+                "桂蠹": "quế đố",
+                "國蠹": "quốc đố"
+            }
+        }
+    }
+}

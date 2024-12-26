@@ -1,0 +1,122 @@
+{
+    "character": "煎",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên",
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoả 火 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱前灬"
+        ],
+        "Nét bút": [
+            "丶ノ一丨フ一一丨丨丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TBNF (廿月弓火)"
+        ],
+        "Unicode": [
+            "U+714E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "jiǎn ㄐㄧㄢˇ",
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chiên",
+            "tiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せん.じる (sen .jiru)",
+            "い.る (i.ru)",
+            "に.る (ni.ru)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "nấu, sắc, cất",
+                "ngâm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rán, chiên. ◎Như: 'tiên ngư' 煎魚 rán cá, 'tiên đản' 煎蛋 chiên trứng.",
+                "(Động) Sắc, nấu cô lại. ◎Như: 'tiên dược' 煎藥 sắc thuốc.",
+                "(Động) Rèn, tôi luyện. ◇Chu Lễ 周禮: 'Cải tiên kim tích tắc bất háo' 改煎金錫則不耗 (Đông quan khảo công kí 冬官考工記, Lật thị 栗氏) Đổi cách tôi luyện vàng thiếc thì không hao mất.",
+                "(Động) Làm cho khổ sở, bức bách. ◇Nhạc phủ thi tập 樂府詩集: 'Khủng bất nhậm ngã ý, Nghịch dĩ tiên ngã hoài' 恐不任我意, 逆以煎我懷 (Tiêu Trọng Khanh thê 焦仲卿妻) Sợ không theo ý ta, Chắc sẽ làm khổ sở lòng ta.",
+                "Một âm là 'tiễn'. (Động) Ngâm, dầm. ◎Như: 'mật tiễn' 蜜煎 thức ăn ngâm mật, đường. § Cũng viết là 'mật tiễn' 蜜餞, 'mật tí' 蜜漬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nấu, sắc, chất nước đem đun cho đặc gọi là tiên.",
+                "Một âm là tiễn. Ngâm, đem các thứ quả ngâm mật gọi là mật tiễn 蜜煎."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sắc: 煎藥 Sắc thuốc;",
+                "Nước thứ...: 頭煎 Nước (thuốc) thứ nhất;",
+                "Rán: 煎豆腐 Rán đậu phụ, đậu phụ rán;",
+                "(văn) Ngâm: 蜜煎 Ngâm mật;",
+                "(văn) Làm cho đau đớn khổ sở: 恐不任我意，逆以煎我懷 Sợ rằng người ấy sẽ không theo ý ta, chắc tương lai lòng ta sẽ bị đau đớn khổ sở (Ngọc Đài tân vịnh: Khổng tước đông nam phi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đun lên cho cạn. Ta còn đọc Tiễn — Một âm là Tiễn. Xem Tiễn."
+            ],
+            "compound_words": {
+                "熬熬煎煎": "ngao ngao tiên tiên",
+                "煎餅": "tiên bính"
+            }
+        },
+        "tiễn": {
+            "Từ điển phổ thông": [
+                "nấu, sắc, cất",
+                "ngâm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rán, chiên. ◎Như: 'tiên ngư' 煎魚 rán cá, 'tiên đản' 煎蛋 chiên trứng.",
+                "(Động) Sắc, nấu cô lại. ◎Như: 'tiên dược' 煎藥 sắc thuốc.",
+                "(Động) Rèn, tôi luyện. ◇Chu Lễ 周禮: 'Cải tiên kim tích tắc bất háo' 改煎金錫則不耗 (Đông quan khảo công kí 冬官考工記, Lật thị 栗氏) Đổi cách tôi luyện vàng thiếc thì không hao mất.",
+                "(Động) Làm cho khổ sở, bức bách. ◇Nhạc phủ thi tập 樂府詩集: 'Khủng bất nhậm ngã ý, Nghịch dĩ tiên ngã hoài' 恐不任我意, 逆以煎我懷 (Tiêu Trọng Khanh thê 焦仲卿妻) Sợ không theo ý ta, Chắc sẽ làm khổ sở lòng ta.",
+                "Một âm là 'tiễn'. (Động) Ngâm, dầm. ◎Như: 'mật tiễn' 蜜煎 thức ăn ngâm mật, đường. § Cũng viết là 'mật tiễn' 蜜餞, 'mật tí' 蜜漬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nấu, sắc, chất nước đem đun cho đặc gọi là tiên.",
+                "Một âm là tiễn. Ngâm, đem các thứ quả ngâm mật gọi là mật tiễn 蜜煎."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sắc: 煎藥 Sắc thuốc;",
+                "Nước thứ...: 頭煎 Nước (thuốc) thứ nhất;",
+                "Rán: 煎豆腐 Rán đậu phụ, đậu phụ rán;",
+                "(văn) Ngâm: 蜜煎 Ngâm mật;",
+                "(văn) Làm cho đau đớn khổ sở: 恐不任我意，逆以煎我懷 Sợ rằng người ấy sẽ không theo ý ta, chắc tương lai lòng ta sẽ bị đau đớn khổ sở (Ngọc Đài tân vịnh: Khổng tước đông nam phi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mứt trái cây — Món ăn ngào đường rồi chưng lên — Một âm là Tiên. Xem Tiên."
+            ],
+            "compound_words": {
+                "烹煎": "phanh tiễn"
+            }
+        }
+    }
+}

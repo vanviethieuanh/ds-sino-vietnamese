@@ -1,0 +1,142 @@
+{
+    "character": "播",
+    "details": {
+        "Âm Hán Việt": [
+            "bá",
+            "bả"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘番"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶ノ一丨ノ丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "QHDW (手竹木田)"
+        ],
+        "Unicode": [
+            "U+64AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ",
+            "bǒ ㄅㄛˇ",
+            "bò ㄅㄛˋ"
+        ],
+        "Âm Nôm": [
+            "bá",
+            "bợ",
+            "phăng",
+            "vá",
+            "vớ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)",
+            "バン (ban)",
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ま.く (ma.ku)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "bo3"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển phổ thông": [
+                "gieo ra, vung ra",
+                "làm lan rộng",
+                "trốn",
+                "đuổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gieo, vãi. ◎Như: 'bá chủng' 播種 gieo hạt giống.",
+                "(Động) Ban bố, tuyên dương. ◇Ngụy Trưng 魏徵: 'Nhân giả bá kì huệ, tín giả hiệu kì trung' 仁者播其惠, 信者效其忠 (Luận thì chánh sơ 論時政疏) Người nhân nghĩa ban lòng thương yêu, người tín nghĩa hết sức tỏ lòng trung thành.",
+                "(Động) Truyền rộng ra. ◎Như: 'bá âm' 播音 truyền thanh, 'bá cáo' 播告 bảo cho khắp mọi người đều biết.",
+                "(Động) Chia ra, phân khai, phân tán. ◇Thư Kinh 書經: 'Hựu bắc bá vi cửu Hà' 又北播為九河 (Vũ cống 禹貢) Phía bắc lại chia làm chín nhánh sông Hoàng Hà.",
+                "(Động) Dời đi, đi trốn. ◎Như: 'bá thiên' 播遷 dời đi ở chỗ khác. ◇Hậu Hán Thư 後漢書: 'Hiến sanh bất thần, thân bá quốc truân' 獻生不辰, 身播國屯 (Hiếu Hiến đế kỉ 孝獻帝紀) Hiến sinh không hợp thời, thân phải bôn đào, nước bị gian nan.",
+                "(Động) Dao động. ◎Như: 'bả đãng' 播盪 lay động. ◇Trang Tử 莊子: 'Cổ sách bá tinh, túc dĩ thực thập nhân' 鼓筴播精, 足以食十人 (Nhân gian thế 人間世) Khua sàng giũ gạo, đủ để nuôi mười người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gieo ra, vung ra, như bá chủng 播種 gieo hạt giống.",
+                "Làm lan rộng, như bá cáo 播告 bảo cho khắp mọi người đều biết.",
+                "Trốn, như bá thiên 播遷 trốn đi ở chỗ khác.",
+                "Ðuổi.",
+                "Một âm là bả. Lay động."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gieo, rải, tung, vung ra: 條播 Gieo hàng; 點播 Gieo hốc;",
+                "Làm lan rộng, truyền, truyền đi: 傳播 Truyền bá; 廣播 Phát thanh; 廣播電台 Đài phát thanh;",
+                "(văn) Trốn: 播遷 Trốn đi nơi khác;",
+                "(văn) Đuổi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gieo hạt giống — Gieo rắc khắp nơi — Chia ra — Bỏ đi không dùng nữa."
+            ],
+            "compound_words": {
+                "播惡": "bá ác",
+                "播音": "bá âm",
+                "播告": "bá cáo",
+                "播种": "bá chủng",
+                "播種": "bá chủng",
+                "播揚": "bá dương",
+                "播蕩": "bá đãng",
+                "播化": "bá hoá",
+                "播棄": "bá khí",
+                "播弄": "bá lộng",
+                "播放": "bá phóng",
+                "播遷": "bá thiên",
+                "播植": "bá thực",
+                "播精": "bá tinh",
+                "播送": "bá tống",
+                "播越": "bá việt",
+                "種播": "chủng bá",
+                "轉播": "chuyển bá",
+                "广播": "quảng bá",
+                "廣播": "quảng bá",
+                "散播": "tản bá",
+                "传播": "truyền bá",
+                "傳播": "truyền bá",
+                "直播": "trực bá"
+            }
+        },
+        "bả": {
+            "Từ điển trích dẫn": [
+                "(Động) Gieo, vãi. ◎Như: 'bá chủng' 播種 gieo hạt giống.",
+                "(Động) Ban bố, tuyên dương. ◇Ngụy Trưng 魏徵: 'Nhân giả bá kì huệ, tín giả hiệu kì trung' 仁者播其惠, 信者效其忠 (Luận thì chánh sơ 論時政疏) Người nhân nghĩa ban lòng thương yêu, người tín nghĩa hết sức tỏ lòng trung thành.",
+                "(Động) Truyền rộng ra. ◎Như: 'bá âm' 播音 truyền thanh, 'bá cáo' 播告 bảo cho khắp mọi người đều biết.",
+                "(Động) Chia ra, phân khai, phân tán. ◇Thư Kinh 書經: 'Hựu bắc bá vi cửu Hà' 又北播為九河 (Vũ cống 禹貢) Phía bắc lại chia làm chín nhánh sông Hoàng Hà.",
+                "(Động) Dời đi, đi trốn. ◎Như: 'bá thiên' 播遷 dời đi ở chỗ khác. ◇Hậu Hán Thư 後漢書: 'Hiến sanh bất thần, thân bá quốc truân' 獻生不辰, 身播國屯 (Hiếu Hiến đế kỉ 孝獻帝紀) Hiến sinh không hợp thời, thân phải bôn đào, nước bị gian nan.",
+                "(Động) Dao động. ◎Như: 'bả đãng' 播盪 lay động. ◇Trang Tử 莊子: 'Cổ sách bá tinh, túc dĩ thực thập nhân' 鼓筴播精, 足以食十人 (Nhân gian thế 人間世) Khua sàng giũ gạo, đủ để nuôi mười người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gieo ra, vung ra, như bá chủng 播種 gieo hạt giống.",
+                "Làm lan rộng, như bá cáo 播告 bảo cho khắp mọi người đều biết.",
+                "Trốn, như bá thiên 播遷 trốn đi ở chỗ khác.",
+                "Ðuổi.",
+                "Một âm là bả. Lay động."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lắc qua lắc lại. Dao động — Một âm khác là Bá."
+            ]
+        }
+    }
+}

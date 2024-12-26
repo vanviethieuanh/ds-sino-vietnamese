@@ -1,0 +1,78 @@
+{
+    "character": "惨",
+    "details": {
+        "Âm Hán Việt": [
+            "thảm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖参"
+        ],
+        "Nét bút": [
+            "丶丶丨フ丶一ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "PIKH (心戈大竹)"
+        ],
+        "Unicode": [
+            "U+60E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cǎn ㄘㄢˇ"
+        ],
+        "Âm Nôm": [
+            "thảm",
+            "thom"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "ザン (zan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みじ.め (miji.me)",
+            "いた.む (ita.mu)",
+            "むご.い (mugo.i)"
+        ],
+        "Âm Hàn": [
+            "참",
+            "침"
+        ],
+        "Âm Quảng Đông": [
+            "caam2"
+        ]
+    },
+    "meanings": {
+        "thảm": {
+            "Từ điển phổ thông": [
+                "bi thảm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 慘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Độc ác, tàn ác: 慘無人道 Tàn ác vô nhân đạo;",
+                "Đau đớn, thê thảm, thảm thương, thảm hại: 她的遭遇眞慘 Cảnh ngộ của chị ấy thật là thảm thương; 慘痛的教訓 Bài học đau đớn; 慘遭殺害 Bị giết một cách thảm hại."
+            ],
+            "compound_words": {
+                "悲惨": "bi thảm",
+                "惨事": "thảm sự",
+                "惨切": "thảm thiết",
+                "凄惨": "thê thảm"
+            }
+        }
+    }
+}

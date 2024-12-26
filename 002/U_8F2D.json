@@ -1,0 +1,97 @@
+{
+    "character": "輭",
+    "details": {
+        "Âm Hán Việt": [
+            "nhuyến",
+            "nhuyễn"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "xa 車 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車耎"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨一ノ丨フ丨丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "JJMBK (十十一月大)"
+        ],
+        "Unicode": [
+            "U+8F2D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ruǎn ㄖㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "nhuyễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゼン (zen)",
+            "ネン (nen)",
+            "ナン (nan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねぐるま (neguruma)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "jyun5"
+        ]
+    },
+    "meanings": {
+        "nhuyến": {
+            "Từ điển trích dẫn": [
+                "§ Cũng viết là 'nhuyễn' 軟.",
+                "§ Còn đọc là 'nhuyến'."
+            ]
+        },
+        "nhuyễn": {
+            "Từ điển phổ thông": [
+                "mềm, dẻo"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Cũng viết là 'nhuyễn' 軟.",
+                "§ Còn đọc là 'nhuyến'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mềm, tục thông dùng như chữ nhuyễn 軟.",
+                "Người yếu lướt.",
+                "Hèn nhát, vô dụng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mềm (như 軟);",
+                "Người yếu ớt;",
+                "Hèn nhát vô dụng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mềm ( trái với rắn ) — Mềm dẻo."
+            ],
+            "compound_words": {
+                "輭骨": "nhuyễn cốt",
+                "輭化": "nhuyễn hoá",
+                "輭美": "nhuyễn mĩ",
+                "輭玉": "nhuyễn ngọc",
+                "輭弱": "nhuyễn nhược",
+                "輭風": "nhuyễn phong",
+                "輭聲": "nhuyễn thanh",
+                "輭熟": "nhuyễn thục",
+                "細輭": "tế nhuyễn"
+            }
+        }
+    }
+}

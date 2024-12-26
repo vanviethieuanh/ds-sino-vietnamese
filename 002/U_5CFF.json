@@ -1,0 +1,59 @@
+{
+    "character": "峿",
+    "details": {
+        "Âm Hán Việt": [
+            "ngô",
+            "ngữ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sơn 山 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿰山吾"
+        ],
+        "Nét bút": [
+            "丨フ丨一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "UMMR (山一一口)"
+        ],
+        "Unicode": [
+            "U+5CFF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wú ㄨˊ"
+        ],
+        "Âm Quảng Đông": [
+            "ng4"
+        ]
+    },
+    "meanings": {
+        "ngô": {
+            "Từ điển phổ thông": [
+                "núi Ngô (thuộc tỉnh Sơn Đông của Trung Quốc)",
+                "(xem: khu ngô 嶇峿)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Núi Ngô (núi cổ, thuộc tỉnh Sơn Đông, Trung Quốc ngày nay);",
+                "【嶇峿】khu ngô [quwú] (văn) Núi cao không bằng phẳng."
+            ],
+            "compound_words": {
+                "嶇峿": "khu ngô"
+            }
+        },
+        "ngữ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng đá núi so le không đều. Cũng nói: Thư ngữ 岨峿 ( so le )."
+            ]
+        }
+    }
+}

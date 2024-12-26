@@ -1,0 +1,91 @@
+{
+    "character": "襠",
+    "details": {
+        "Âm Hán Việt": [
+            "đang",
+            "đương"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "y 衣 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤當"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶丨丶ノ丶フ丨フ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "LFBW (中火月田)"
+        ],
+        "Unicode": [
+            "U+8960"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dāng ㄉㄤ"
+        ],
+        "Âm Nôm": [
+            "đang",
+            "đũng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふんどし (fun doshi)",
+            "まち (machi)"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "dong1"
+        ]
+    },
+    "meanings": {
+        "đang": {
+            "Từ điển phổ thông": [
+                "cái trôn quần, ngã ba khố"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trôn quần, đũng quần. ◎Như: 'khố đang' 褲襠 đũng quần, 'khai đang khố' 開襠褲 quần hở đũng.",
+                "(Danh) Một thứ áo khoác ngoài của phụ nữ thời Đường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trôn quần, ngã ba khố."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đũng (quần), trôn (quần): 褲襠 Đũng quần; 開襠褲 Quần hở đũng;",
+                "(giải) Đáy chậu;",
+                "Xem 裲."
+            ]
+        },
+        "đương": {
+            "Từ điển phổ thông": [
+                "cái trôn quần, ngã ba khố"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đũng (quần), trôn (quần): 褲襠 Đũng quần; 開襠褲 Quần hở đũng;",
+                "(giải) Đáy chậu;",
+                "Xem 裲."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đũng quần."
+            ],
+            "compound_words": {
+                "裲襠": "lưỡng đương"
+            }
+        }
+    }
+}

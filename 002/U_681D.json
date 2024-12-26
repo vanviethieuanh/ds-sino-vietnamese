@@ -1,0 +1,92 @@
+{
+    "character": "栝",
+    "details": {
+        "Âm Hán Việt": [
+            "quát",
+            "thiến",
+            "thiệm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木舌"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "DHJR (木竹十口)"
+        ],
+        "Unicode": [
+            "U+681D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "guā ㄍㄨㄚ",
+            "kuài ㄎㄨㄞˋ",
+            "kuò ㄎㄨㄛˋ",
+            "tiàn ㄊㄧㄢˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)",
+            "カツ (katsu)",
+            "カチ (kachi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たきぎ (takigi)"
+        ],
+        "Âm Hàn": [
+            "괄"
+        ],
+        "Âm Quảng Đông": [
+            "kut3"
+        ]
+    },
+    "meanings": {
+        "quát": {
+            "Từ điển phổ thông": [
+                "cây quát, cây cối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đuôi mũi tên, bộ phận gắn tên vào dây cung.",
+                "(Danh) Tức cây 'cối' 檜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cây quát, tức là cây cối."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 干栝."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầu mũi tên — Tên một loài cây lớn, gỗ giống như gỗ thông — Một âm là Thiệm. Xem Thiệm."
+            ],
+            "compound_words": {
+                "檼栝": "ẩn quát",
+                "櫽栝": "ẩn quát",
+                "隱栝": "ẩn quát"
+            }
+        },
+        "thiến": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Que đốt."
+            ]
+        },
+        "thiệm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Củi đun bếp — Xem Quát."
+            ]
+        }
+    }
+}

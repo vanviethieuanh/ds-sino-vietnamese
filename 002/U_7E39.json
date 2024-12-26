@@ -1,0 +1,103 @@
+{
+    "character": "縹",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "phiếu"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mịch 糸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹票"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一丨フ丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFMWF (女火一田火)"
+        ],
+        "Unicode": [
+            "U+7E39"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "piāo ㄆㄧㄠ",
+            "piǎo ㄆㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "phiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はなだ (hanada)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "piu1",
+            "piu5"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển phổ thông": [
+                "mập mờ, huyền ảo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lụa vải màu vừa xanh vừa trắng. § Ngày xưa dùng để may túi đựng sách vở, nên gọi sách vở là 'tương phiếu' 緗縹.",
+                "(Tính) Xanh nhạt, tức màu trắng của ánh trăng.",
+                "Một âm là 'phiêu'. (Tính) § Xem 'phiêu diểu' 縹緲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lụa màu hồ thuỷ, màu vừa xanh vừa trắng. Ngày xưa dùng may túi để đựng sách vở, nên gọi sách vở là tương phiếu 緗縹.",
+                "Một âm là phiêu. Phiêu miểu 縹緲 xa tít thăm thẳm. Cũng viết là 縹渺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【縹緲】 phiêu miểu [piaomiăo] Mờ mờ, thấp thoáng, xa tít, thăm thẳm, mù khơi, mù mịt. Cv. 飄渺 Xem 縹 [piăo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Phiêu diểu 縹緲 — Một âm khác là Phiếu. Xem Phiếu."
+            ],
+            "compound_words": {
+                "縹緲": "phiêu diểu",
+                "縹渺": "phiêu miểu"
+            }
+        },
+        "phiếu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Lụa vải màu vừa xanh vừa trắng. § Ngày xưa dùng để may túi đựng sách vở, nên gọi sách vở là 'tương phiếu' 緗縹.",
+                "(Tính) Xanh nhạt, tức màu trắng của ánh trăng.",
+                "Một âm là 'phiêu'. (Tính) § Xem 'phiêu diểu' 縹緲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lụa màu hồ thuỷ, màu vừa xanh vừa trắng. Ngày xưa dùng may túi để đựng sách vở, nên gọi sách vở là tương phiếu 緗縹.",
+                "Một âm là phiêu. Phiêu miểu 縹緲 xa tít thăm thẳm. Cũng viết là 縹渺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lụa màu vừa xanh vừa trắng, lụa màu xanh nhạt;",
+                "Màu xanh xanh Xem 縹 [piao]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ lụa xanh thật nhạt."
+            ],
+            "compound_words": {
+                "縹酒": "phiếu tửu"
+            }
+        }
+    }
+}

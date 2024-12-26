@@ -1,0 +1,319 @@
+{
+    "character": "風",
+    "details": {
+        "Âm Hán Việt": [
+            "phong",
+            "phóng",
+            "phúng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "phong 風 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵几䖝"
+        ],
+        "Nét bút": [
+            "ノフノ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "HNHLI (竹弓竹中戈)"
+        ],
+        "Unicode": [
+            "U+98A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ",
+            "fěng ㄈㄥˇ",
+            "fèng ㄈㄥˋ"
+        ],
+        "Âm Nôm": [
+            "phong"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フウ (fū)",
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぜ (kaze)",
+            "かざ- (kaza-)",
+            "-かぜ (-kaze)"
+        ],
+        "Âm Hàn": [
+            "풍"
+        ],
+        "Âm Quảng Đông": [
+            "fung1",
+            "fung3"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "gió",
+                "tục, thói quen",
+                "bệnh phong"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gió. ◇Bạch Cư Dị 白居易: 'Sầu kiến chu hành phong hựu khởi, Bạch đầu lãng lí bạch đầu nhân' 愁見舟行風又起,白頭浪裡白頭人 (Lâm giang tống Hạ Chiêm 臨江送夏瞻) Buồn trông thuyền đi, gió lại nổi lên, Khách bạc đầu ở trong sóng bạc đầu.",
+                "(Danh) Cảnh tượng. ◎Như: 'phong quang' 風光 cảnh tượng trước mắt, 'phong cảnh' 風景 cảnh tượng tự nhiên, cảnh vật.",
+                "(Danh) Tập tục, thói. ◎Như: 'thế phong' 世風 thói đời, 'di phong dịch tục' 移風易俗 đổi thay tập tục, 'thương phong bại tục' 傷風敗俗 làm tổn thương hư hỏng phong tục.",
+                "(Danh) Thần thái, lề lối, dáng vẻ. ◎Như: 'tác phong' 作風 cách làm việc, lối cư xử, 'phong độ' 風度 dáng dấp, nghi thái, độ lượng, 'phong cách' 風格 cách điệu, phẩm cách, lề lối.",
+                "(Danh) Tin tức. ◎Như: 'thông phong báo tín' 通風報信 truyền báo tin tức, 'văn phong nhi lai' 聞風而來 nghe tin mà lại. ◇Thủy hử truyện 水滸傳: 'Cố đại tẩu đạo: Bá bá, nhĩ đích Nhạc a cữu thấu phong dữ ngã môn liễu' 顧大嫂道: 伯伯, 你的樂阿舅透風與我們了 (Đệ tứ thập cửu hồi) Cố đại tẩu nói: Thưa bác, cậu Nhạc (Hòa) đã thông tin cho chúng em rồi.",
+                "(Danh) Biến cố. ◎Như: 'phong ba' 風波 sóng gió (biến cố, khốn ách).",
+                "(Danh) Vinh nhục, hơn thua. ◎Như: 'tranh phong cật thố' 爭風吃醋 tranh giành ghen ghét lẫn nhau.",
+                "(Danh) Nghĩa thứ nhất trong sáu nghĩa của kinh Thi: 'phong, phú, tỉ, hứng, nhã, tụng' 風, 賦, 比, 興, 雅, 頌.",
+                "(Danh) Phiếm chỉ ca dao, dân dao. § Thi Kinh 詩經 có 'quốc phong' 國風 nghĩa là nhân những câu ngợi hát của các nước mà xét được phong tục của các nước, vì thế nên gọi thơ ấy là 'phong', cùng với thơ 'tiểu nhã' 小雅, thơ 'đại nhã' 大雅 đều gọi là 'phong' cả.",
+                "(Danh) Bệnh phong. ◎Như: 'phong thấp' 風溼 bệnh nhức mỏi (đau khớp xương khi khí trời ẩm thấp), 'phong hàn' 風寒 bệnh cảm lạnh, cảm mạo.",
+                "(Danh) Họ 'Phong'.",
+                "(Động) Thổi.",
+                "(Động) Giáo hóa, dạy dỗ. ◎Như: 'xuân phong phong nhân' 春風風人 gió xuân ấm áp thổi đến cho người, dạy dỗ người như làm ra ân huệ mà cảm hóa.",
+                "(Động) Hóng gió, hóng mát. ◇Luận Ngữ 論語: 'Quán giả ngũ lục nhân, đồng tử lục thất nhân, dục hồ Nghi, phong hồ Vũ Vu, vịnh nhi quy' 冠者五六人, 童子六七人, 浴乎沂, 風乎舞雩, 詠而歸 Năm sáu người vừa tuổi đôi mươi, với sáu bảy đồng tử, dắt nhau đi tắm ở sông Nghi rồi lên hóng mát ở nền Vũ Vu, vừa đi vừa hát kéo nhau về nhà.",
+                "(Động) Quạt, hong. ◎Như: 'phong can' 風乾 hong cho khô, 'phong kê' 風雞 gà khô, 'phong ngư' 風魚 cá khô.",
+                "(Động) Giống đực giống cái dẫn dụ nhau, gùn ghè nhau. ◎Như: 'phong mã ngưu bất tương cập' 風馬牛不相及 không có tương can gì với nhau cả. ◇Tả truyện 左傳: 'Quân xử Bắc Hải, quả nhân xử Nam Hải, duy thị phong mã ngưu bất tương cập dã' 君處北海, 寡人處南海, 唯是風馬牛不相及也 (Hi Công tứ niên 僖公四年) Ông ở Bắc Hải, ta ở Nam Hải, cũng như giống đực giống cái của ngựa của bò, không thể dẫn dụ nhau được.",
+                "(Tính) Không có căn cứ (tin đồn đãi). ◎Như: 'phong ngôn phong ngữ' 風言風語 lời đồn đãi không căn cứ.",
+                "Một âm là 'phúng'. (Động) Châm biếm. § Thông 'phúng' 諷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gió, không khí động mạnh thành ra gió.",
+                "Cái mà tục đang chuộng. Như thế phong 世風 thói đời, quốc phong 國風 thói nước, gia phong 家風 thói nhà, v.v. ý nói sự gì kẻ kia xướng lên người này nối theo dần dần thành tục quen. Như vật theo gió, vẫn cảm theo đó mà không tự biết vậy.",
+                "Ngợi hát. Như Kinh Thi 詩經 có quốc phong nghĩa là nhân những câu ngợi hát của các nước mà xét được phong tục của các nước, vì thế nên gọi thơ ấy là phong, cùng với thơ tiểu nhã 小雅, thơ đại nhã 大雅 đều gọi là phong cả. Nói rộng ra người nào có vẻ thi thư cũng gọi là phong nhã 風雅.",
+                "Thói, cái thói quen của một người mà được mọi người cùng hâm mộ bắt chước cũng gọi là phong. Như sách Mạnh Tử 孟子 nói văn Bá Di chi phong giả 聞伯夷之風者 nghe cái thói quen của ông Bá Di ấy. Lại như nói về đạo đức thì gọi là phong tiết 風節, phong nghĩa 風義, nói về quy mô khí tượng thì gọi là phong tiêu 風標, phong cách 風格, nói về dáng dấp thì thì gọi là phong tư 風姿, phong thái 風采, nói về cái ý thú của lời nói thì gọi là phong vị 風味, phong thú 風趣, v.v.",
+                "Phàm sự gì nổi lên hay tiêu diệt đi không có manh mối gì để xét, biến hoá không thể lường được cũng gọi là phong. Như phong vân 風雲, phong trào 風潮, v.v. nói nó biến hiện bất thường như gió mây như nước thuỷ triều vậy.",
+                "Bệnh phong. Chứng cảm gió gọi là trúng phong 中風. Phàm các bệnh mà ta gọi là phong, thầy thuốc tây gọi là bệnh thần kinh hết.",
+                "Thổi, quạt.",
+                "Cảnh tượng.",
+                "Phóng túng, giống đực giống cái dẫn dụ nhau, gùn ghè nhau.",
+                "Cùng nghĩa với chữ phúng 諷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gió: 刮風 Nổi gió; 海風 Gió biển;",
+                "Hong khô, thổi, quạt (sạch): 風乾 Hong khô; 曬乾風淨 Phơi khô quạt sạch; 風雞 Gà khô; 風肉 Thịt khô; 風魚 Cá khô;",
+                "Cảnh tượng, quang cảnh, phong cảnh: 風光 Quang cảnh, phong cảnh;",
+                "Thái độ, phong cách, phong thái: 作風 Tác phong; 風度 Phong độ;",
+                "Phong tục, thói: 世風 Thói đời; 家風 Thói nhà; 伯夷之風 Thói quen của Bá Di (Mạnh tử);",
+                "Tiếng tăm;",
+                "Bệnh do gió và sự nhiễm nước gây ra: 中風 Trúng gió, bệnh cảm gió;",
+                "Tin tức: 聞風而至 Nghe tin ùa đến; 千萬別漏風 Đừng để tin lọt ra ngoài;",
+                "Tiếng đồn: 聞風 Nghe đồn; 風言風語 Tiếng đồn bậy bạ;",
+                "Trai gái phóng túng, lẳng lơ;",
+                "[Feng] (Họ) Phong."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gió. Hát nói của Nguyễn CôngTrứ có câu: » Chen chúc lợi danh đà chán ngắt, cúc tùng phong nguyệt mới vui sao « — Gió thổi — Hóng mát — Nếp sống theo thói quen lâu đời. Td: Phong tục — Cảnh vật bày ra trước mắt. Td: Phong cảnh — Bệnh điên. Dùng như chữ Phong 瘋 — Tên một bộ trong các bộ chữ Trung Hoa, tức bộ Phong — Một âm là Phúng. Xem Phúng — Quyến kì phong 捲旗風 hay dương giốc phong 羊角風 tức là gió lốc. » Phúc đâu trận gió cuốn cờ đến ngay « ( Kiều )."
+            ],
+            "compound_words": {
+                "陰風": "âm phong",
+                "歐風美雨": "âu phong mĩ vũ",
+                "把風": "bả phong",
+                "舶趠風": "bạc trác phong",
+                "白癜風": "bạch điến phong",
+                "敗俗頽風": "bại tục đồi phong",
+                "暴風": "bạo phong",
+                "北風": "bắc phong",
+                "別風淮雨": "biệt phong hoài vũ",
+                "屏風": "bình phong",
+                "屛風": "bình phong",
+                "捕影拿風": "bộ ảnh nã phong",
+                "捕風": "bổ phong",
+                "感風": "cảm phong",
+                "正風": "chánh phong",
+                "震風": "chấn phong",
+                "占上風": "chiếm thượng phong",
+                "古風": "cổ phong",
+                "穀風": "cốc phong",
+                "谷風": "cốc phong",
+                "颶風": "cụ phong",
+                "狂風": "cuồng phong",
+                "剛風": "cương phong",
+                "強風": "cường phong",
+                "淫風": "dâm phong",
+                "民風": "dân phong",
+                "遺風": "di phong",
+                "移風易俗": "di phong dịch tục",
+                "眇風": "diệu phong",
+                "大同風景賦": "đại đồng phong cảnh phú",
+                "大風": "đại phong",
+                "颱風": "đài phong",
+                "頹風": "đồi phong",
+                "東風": "đông phong",
+                "迵風": "đồng phong",
+                "家風": "gia phong",
+                "寒儒風味賦": "hàn nho phong vị phú",
+                "寒風": "hàn phong",
+                "曉風": "hiểu phong",
+                "和風": "hoà phong",
+                "學風": "học phong",
+                "薰風": "huân phong",
+                "有風": "hữu phong",
+                "凱風": "khải phong",
+                "輕風": "khinh phong",
+                "金風": "kim phong",
+                "驚風": "kinh phong",
+                "厲風": "lệ phong",
+                "滿面春風": "mãn diện xuân phong",
+                "門風": "môn phong",
+                "南風": "nam phong",
+                "迎風": "nghênh phong",
+                "逆風": "nghịch phong",
+                "日炙風吹": "nhật chích phong xuy",
+                "儒風": "nho phong",
+                "輭風": "nhuyễn phong",
+                "溫風": "ôn phong",
+                "飛風": "phi phong",
+                "飄風": "phiêu phong",
+                "風佰": "phong bá",
+                "風波": "phong ba",
+                "風格": "phong cách",
+                "風乾": "phong can",
+                "風景": "phong cảnh",
+                "風琴": "phong cầm",
+                "風燭": "phong chúc",
+                "風骨": "phong cốt",
+                "風謠": "phong dao",
+                "風燈": "phong đăng",
+                "風調": "phong điệu",
+                "風度": "phong độ",
+                "風教": "phong giáo",
+                "風行": "phong hành",
+                "風險": "phong hiểm",
+                "風憲": "phong hiến",
+                "風化": "phong hoá",
+                "風會": "phong hội",
+                "風虹": "phong hồng",
+                "風氣": "phong khí",
+                "風蘭": "phong lan",
+                "風鈴": "phong linh",
+                "風雷": "phong lôi",
+                "風力": "phong lực",
+                "風力表": "phong lực biểu",
+                "風涼": "phong lương",
+                "風流": "phong lưu",
+                "風貌": "phong mạo",
+                "風木": "phong mộc",
+                "風儀": "phong nghi",
+                "風月": "phong nguyệt",
+                "風雅": "phong nhã",
+                "風人": "phong nhân",
+                "風光": "phong quang",
+                "風色": "phong sắc",
+                "風霜": "phong sương",
+                "風邪": "phong tà",
+                "風騷": "phong tao",
+                "風聲": "phong thanh",
+                "風操": "phong tháo",
+                "風神": "phong thần",
+                "風濕": "phong thấp",
+                "風土": "phong thổ",
+                "風樹": "phong thụ",
+                "風水": "phong thuỷ",
+                "風尚": "phong thượng",
+                "風節": "phong tiết",
+                "風信": "phong tín",
+                "風情": "phong tình",
+                "風箏": "phong tranh",
+                "風潮": "phong triều",
+                "風塵": "phong trần",
+                "風傳": "phong truyền",
+                "風俗": "phong tục",
+                "風姿": "phong tư",
+                "風聞": "phong văn",
+                "風運": "phong vận",
+                "風雲": "phong vân",
+                "風韻": "phong vận",
+                "風物": "phong vật",
+                "風味": "phong vị",
+                "風雨": "phong vũ",
+                "風雨表": "phong vũ biểu",
+                "風車": "phong xa",
+                "風餐露宿": "phong xan lộ túc",
+                "觀風": "quan phong",
+                "軍風": "quân phong",
+                "國風": "quốc phong",
+                "殺風景": "sát phong cảnh",
+                "朔風": "sóc phong",
+                "山風": "sơn phong",
+                "霜風": "sương phong",
+                "作風": "tác phong",
+                "疾風": "tật phong",
+                "採風": "thái phong",
+                "清風": "thanh phong",
+                "晨風": "thần phong",
+                "鷐風": "thần phong",
+                "淒風": "thê phong",
+                "通風": "thông phong",
+                "秋風": "thu phong",
+                "淳風": "thuần phong",
+                "順風": "thuận phong",
+                "乘風破浪": "thừa phong phá lãng",
+                "傷風": "thương phong",
+                "仙風": "tiên phong",
+                "仙風道骨": "tiên phong đạo cốt",
+                "信風": "tín phong",
+                "旋風": "toàn phong",
+                "從風": "tòng phong",
+                "爭風": "tranh phong",
+                "中風": "trúng phong",
+                "追風": "truy phong",
+                "威風": "uy phong",
+                "晚風": "vãn phong",
+                "微風": "vi phong",
+                "炎風": "viêm phong",
+                "趨風": "xu phong",
+                "春風": "xuân phong",
+                "出風頭": "xuất phong đầu",
+                "吹風": "xuy phong",
+                "閶風": "xương phong",
+                "妖風": "yêu phong"
+            }
+        },
+        "phóng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Báo tin, cho biết;",
+                "Châm biếm (như 諷, bộ 言);",
+                "(Gió) thổi."
+            ]
+        },
+        "phúng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Gió. ◇Bạch Cư Dị 白居易: 'Sầu kiến chu hành phong hựu khởi, Bạch đầu lãng lí bạch đầu nhân' 愁見舟行風又起,白頭浪裡白頭人 (Lâm giang tống Hạ Chiêm 臨江送夏瞻) Buồn trông thuyền đi, gió lại nổi lên, Khách bạc đầu ở trong sóng bạc đầu.",
+                "(Danh) Cảnh tượng. ◎Như: 'phong quang' 風光 cảnh tượng trước mắt, 'phong cảnh' 風景 cảnh tượng tự nhiên, cảnh vật.",
+                "(Danh) Tập tục, thói. ◎Như: 'thế phong' 世風 thói đời, 'di phong dịch tục' 移風易俗 đổi thay tập tục, 'thương phong bại tục' 傷風敗俗 làm tổn thương hư hỏng phong tục.",
+                "(Danh) Thần thái, lề lối, dáng vẻ. ◎Như: 'tác phong' 作風 cách làm việc, lối cư xử, 'phong độ' 風度 dáng dấp, nghi thái, độ lượng, 'phong cách' 風格 cách điệu, phẩm cách, lề lối.",
+                "(Danh) Tin tức. ◎Như: 'thông phong báo tín' 通風報信 truyền báo tin tức, 'văn phong nhi lai' 聞風而來 nghe tin mà lại. ◇Thủy hử truyện 水滸傳: 'Cố đại tẩu đạo: Bá bá, nhĩ đích Nhạc a cữu thấu phong dữ ngã môn liễu' 顧大嫂道: 伯伯, 你的樂阿舅透風與我們了 (Đệ tứ thập cửu hồi) Cố đại tẩu nói: Thưa bác, cậu Nhạc (Hòa) đã thông tin cho chúng em rồi.",
+                "(Danh) Biến cố. ◎Như: 'phong ba' 風波 sóng gió (biến cố, khốn ách).",
+                "(Danh) Vinh nhục, hơn thua. ◎Như: 'tranh phong cật thố' 爭風吃醋 tranh giành ghen ghét lẫn nhau.",
+                "(Danh) Nghĩa thứ nhất trong sáu nghĩa của kinh Thi: 'phong, phú, tỉ, hứng, nhã, tụng' 風, 賦, 比, 興, 雅, 頌.",
+                "(Danh) Phiếm chỉ ca dao, dân dao. § Thi Kinh 詩經 có 'quốc phong' 國風 nghĩa là nhân những câu ngợi hát của các nước mà xét được phong tục của các nước, vì thế nên gọi thơ ấy là 'phong', cùng với thơ 'tiểu nhã' 小雅, thơ 'đại nhã' 大雅 đều gọi là 'phong' cả.",
+                "(Danh) Bệnh phong. ◎Như: 'phong thấp' 風溼 bệnh nhức mỏi (đau khớp xương khi khí trời ẩm thấp), 'phong hàn' 風寒 bệnh cảm lạnh, cảm mạo.",
+                "(Danh) Họ 'Phong'.",
+                "(Động) Thổi.",
+                "(Động) Giáo hóa, dạy dỗ. ◎Như: 'xuân phong phong nhân' 春風風人 gió xuân ấm áp thổi đến cho người, dạy dỗ người như làm ra ân huệ mà cảm hóa.",
+                "(Động) Hóng gió, hóng mát. ◇Luận Ngữ 論語: 'Quán giả ngũ lục nhân, đồng tử lục thất nhân, dục hồ Nghi, phong hồ Vũ Vu, vịnh nhi quy' 冠者五六人, 童子六七人, 浴乎沂, 風乎舞雩, 詠而歸 Năm sáu người vừa tuổi đôi mươi, với sáu bảy đồng tử, dắt nhau đi tắm ở sông Nghi rồi lên hóng mát ở nền Vũ Vu, vừa đi vừa hát kéo nhau về nhà.",
+                "(Động) Quạt, hong. ◎Như: 'phong can' 風乾 hong cho khô, 'phong kê' 風雞 gà khô, 'phong ngư' 風魚 cá khô.",
+                "(Động) Giống đực giống cái dẫn dụ nhau, gùn ghè nhau. ◎Như: 'phong mã ngưu bất tương cập' 風馬牛不相及 không có tương can gì với nhau cả. ◇Tả truyện 左傳: 'Quân xử Bắc Hải, quả nhân xử Nam Hải, duy thị phong mã ngưu bất tương cập dã' 君處北海, 寡人處南海, 唯是風馬牛不相及也 (Hi Công tứ niên 僖公四年) Ông ở Bắc Hải, ta ở Nam Hải, cũng như giống đực giống cái của ngựa của bò, không thể dẫn dụ nhau được.",
+                "(Tính) Không có căn cứ (tin đồn đãi). ◎Như: 'phong ngôn phong ngữ' 風言風語 lời đồn đãi không căn cứ.",
+                "Một âm là 'phúng'. (Động) Châm biếm. § Thông 'phúng' 諷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Báo tin, cho biết;",
+                "Châm biếm (như 諷, bộ 言);",
+                "(Gió) thổi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Phúng 諷 — Một âm khác là Phong. Xem Phong."
+            ]
+        }
+    }
+}

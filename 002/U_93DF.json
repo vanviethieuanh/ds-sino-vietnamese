@@ -1,0 +1,82 @@
+{
+    "character": "鏟",
+    "details": {
+        "Âm Hán Việt": [
+            "sạn",
+            "sản"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "kim 金 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金産"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丶一丶ノ一ノノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "CYHM (金卜竹一)"
+        ],
+        "Unicode": [
+            "U+93DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chǎn ㄔㄢˇ"
+        ],
+        "Âm Nôm": [
+            "sám",
+            "san",
+            "xẻng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いたがね (itagane)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "caan2"
+        ]
+    },
+    "meanings": {
+        "sạn": {
+            "Từ điển phổ thông": [
+                "cái nạo bằng sắt, cái xẻng",
+                "gọt, nạo, xúc, xới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Xẻng, mai, thuổng (khí cụ dùng để xúc, xới, san). ◎Như: 'thiết sạn' 鐵鏟 cái xẻng (bằng sắt), 'sạn xa' 鏟車 xe xúc đất.",
+                "(Động) Xúc, xới. ◎Như: 'sạn thổ' 鏟土 xúc đất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái nạo bằng sắt, cái xẻng.",
+                "Gọt, nạo, xúc, xới."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bào, để bào gỗ cho phẳng — Bào đi, gọt đẽo cho phẳng."
+            ]
+        },
+        "sản": {
+            "Từ điển Trần Văn Chánh": [
+                "Cái xẻng: 鐵鏟 Cái xẻng;",
+                "Xúc, xới, san: 鏟土 Xúc đất, xới đất; 把地鏟平 San bằng mặt đất."
+            ]
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "迂",
+    "details": {
+        "Âm Hán Việt": [
+            "vu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "sước 辵 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶于"
+        ],
+        "Nét bút": [
+            "一一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YMD (卜一木)"
+        ],
+        "Unicode": [
+            "U+8FC2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yū ㄩ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "vu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)"
+        ],
+        "Âm Hàn": [
+            "오",
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "heoi1",
+            "jyu1"
+        ]
+    },
+    "meanings": {
+        "vu": {
+            "Từ điển phổ thông": [
+                "đường xa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Quanh co, ngoằn ngoèo. ◎Như: 'san lộ khúc vu' 山路曲迂 đường núi quanh co.",
+                "(Tính) Viển vông, thiếu thực tế. ◎Như: 'vu khoát' 迂闊 viển vông.",
+                "(Động) Đi vòng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xa. Con đường không được thẳng suốt gọi là vu. Vì thế nên làm việc không đúng lẽ phải gọi là vu khoát 迂闊 hay vu viễn 迂遠, v.v.",
+                "Ðường xa.",
+                "Vu cửu 迂久 hồi lâu, lúc lâu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quanh co, ngoằn ngoèo: 山路典迂 Đường núi quanh co;",
+                "Cổ hủ, không thực tế;",
+                "Đi vòng quanh;",
+                "Phi lí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xa xôi — Viển vông, xa sự thật."
+            ],
+            "compound_words": {
+                "迂闊": "vu khoát",
+                "迂遠": "vu viễn"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "character": "殯",
+    "details": {
+        "Âm Hán Việt": [
+            "thấn",
+            "tấn",
+            "tẫn"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹賓"
+        ],
+        "Nét bút": [
+            "一ノフ丶丶丶フ一丨ノノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MNJMC (一弓十一金)"
+        ],
+        "Unicode": [
+            "U+6BAF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bìn ㄅㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tằn",
+            "tấn",
+            "thắn",
+            "thấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒン (hin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かりもがり (karimogari)"
+        ],
+        "Âm Hàn": [
+            "빈"
+        ],
+        "Âm Quảng Đông": [
+            "ban3"
+        ]
+    },
+    "meanings": {
+        "thấn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Linh cữu đã liệm nhưng chưa chôn.",
+                "(Động) Giữ linh cữu chờ mai táng.",
+                "(Động) Vùi lấp, mai một.",
+                "§ Ta quen đọc là 'thấn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Yên cữu (xác chết nhập quan chưa chôn). Ðưa ma đi chôn gọi là xuất tấn 出殯.",
+                "Vùi lấp (mai một). Ta quen đọc là chữ thấn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xác đã liệm nhưng chưa chôn: 出 殯 Đem (quan tài) đi chôn, đưa đám;",
+                "(văn) Mai một, vùi lấp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chết ở quê người, còn quàn tạm, chưa đem về quê nhà.  Đoạn trường tân thanh : » Bơ vơ lữ thấn tha hương đề huề «."
+            ],
+            "compound_words": {
+                "旅殯": "lữ thấn"
+            }
+        },
+        "tấn": {
+            "Từ điển phổ thông": [
+                "yên cữu (xác chết nhập quan chưa chôn)",
+                "vùi lấp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Linh cữu đã liệm nhưng chưa chôn.",
+                "(Động) Giữ linh cữu chờ mai táng.",
+                "(Động) Vùi lấp, mai một.",
+                "§ Ta quen đọc là 'thấn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Yên cữu (xác chết nhập quan chưa chôn). Ðưa ma đi chôn gọi là xuất tấn 出殯.",
+                "Vùi lấp (mai một). Ta quen đọc là chữ thấn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xác đã liệm nhưng chưa chôn: 出 殯 Đem (quan tài) đi chôn, đưa đám;",
+                "(văn) Mai một, vùi lấp."
+            ],
+            "compound_words": {
+                "殯葬": "tấn táng",
+                "殯車": "tấn xa"
+            }
+        },
+        "tẫn": {
+            "Từ điển Trần Văn Chánh": [
+                "Xác đã liệm nhưng chưa chôn: 出 殯 Đem (quan tài) đi chôn, đưa đám;",
+                "(văn) Mai một, vùi lấp."
+            ]
+        }
+    }
+}

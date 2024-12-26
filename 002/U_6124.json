@@ -1,0 +1,68 @@
+{
+    "character": "愤",
+    "details": {
+        "Âm Hán Việt": [
+            "phấn",
+            "phẫn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖贲"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨一丨丨丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "PJTO (心十廿人)"
+        ],
+        "Unicode": [
+            "U+6124"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fèn ㄈㄣˋ"
+        ],
+        "Âm Nôm": [
+            "phẫn"
+        ],
+        "Âm Quảng Đông": [
+            "fan5"
+        ]
+    },
+    "meanings": {
+        "phấn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 憤."
+            ]
+        },
+        "phẫn": {
+            "Từ điển phổ thông": [
+                "tức giận, cáu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 憤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 憤"
+            ],
+            "compound_words": {
+                "悲愤": "bi phẫn",
+                "愤慨": "phẫn khái",
+                "愤怒": "phẫn nộ"
+            }
+        }
+    }
+}

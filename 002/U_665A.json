@@ -1,0 +1,119 @@
+{
+    "character": "晚",
+    "details": {
+        "Âm Hán Việt": [
+            "vãn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhật 日 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日免"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "ANAU (日弓日山)"
+        ],
+        "Unicode": [
+            "U+665A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wǎn ㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "muộn",
+            "vãn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くれ (kure)",
+            "おそい (osoi)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "maan5"
+        ]
+    },
+    "meanings": {
+        "vãn": {
+            "Từ điển phổ thông": [
+                "buổi chiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chiều, tối, hoàng hôn. ◎Như: ' tòng tảo đáo vãn' 從早到晚 từ sáng đến tối.",
+                "(Danh) Đêm. ◎Như: 'tạc vãn' 昨晚 đêm qua. ◇Thủy hử truyện 水滸傳: 'Lí Tiểu Nhị phu thê lưỡng cá, niết trước lưỡng bả hãn, đương vãn vô sự' 李小二夫妻兩個, 捏著兩把汗, 當晚無事 (Đệ thập hồi) Cả hai vợ chồng Lí Tiểu Nhị sợ toát mồ hôi hột, đêm đó không có chuyện gì xảy ra.",
+                "(Danh) Tiếng tự xưng đối với trưởng bối. ◎Như: 'học vãn' 學晚 kẻ học muộn này, 'vãn sinh' 晚生 kẻ sinh sau.",
+                "(Tính) Cuối, muộn, sắp hết. ◎Như: 'vãn niên' 晚年 lúc tuổi già, 'vãn tuế' 晚歲 cuối năm.",
+                "(Tính) Sau, kế. ◎Như: 'vãn nương' 晚娘 mẹ kế, 'vãn thế học giả' 晚世學者 học giả đời sau, đời gần đây.",
+                "(Phó) Chậm, trễ. ◎Như: 'tương kiến hận vãn' 相見恨晚 tiếc rằng biết nhau chậm quá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chiều, muộn, như vãn niên 晚年 lúc tuổi già, tuế vãn 歲晚 cuối năm, v.v.",
+                "Sau, chậm, như tương kiến hận vãn 相見恨晚 tiếc rằng biết nhau chậm quá.",
+                "Kẻ tiến sau đối với kẻ tiến trước thì tự xưng là vãn sinh 晚生 nghĩa là kẻ làm nên sau, sinh sau vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tối, chiều, đêm: 從早到晚 Từ sáng đến tối; 晚飯 Bữa cơm chiều; 昨晚 Đêm qua;",
+                "Muộn, cuối, chậm, trễ: 晚秋 Cuối thu; 來晚了 Đến muộn rồi; 相見恨晚 Tiếc rằng biết nhau muộn quá;",
+                "【晚生】vãn sinh [wăn sheng] (văn) Kẻ hậu sinh này (tiếng tự xưng của người trẻ tuổi đối với bậc tiền bối)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buổi chiều — Lúc về già — Muộn. Trễ."
+            ],
+            "compound_words": {
+                "傍晚": "bàng vãn",
+                "旁晚": "bàng vãn",
+                "夜晚": "dạ vãn",
+                "今晚": "kim vãn",
+                "昨晚": "tạc vãn",
+                "早晚": "tảo vãn",
+                "晚報": "vãn báo",
+                "晚輩": "vãn bối",
+                "晚景": "vãn cảnh",
+                "晚近": "vãn cận",
+                "晚酌": "vãn chước",
+                "晚艷": "vãn diễm",
+                "晚緣": "vãn duyên",
+                "晚達": "vãn đạt",
+                "晚間": "vãn gian",
+                "晚花": "vãn hoa",
+                "晚學": "vãn học",
+                "晚婚": "vãn hôn",
+                "晚路": "vãn lộ",
+                "晚暮": "vãn mộ",
+                "晚年": "vãn niên",
+                "晚飯": "vãn phạn",
+                "晚風": "vãn phong",
+                "晚生": "vãn sinh",
+                "晚成": "vãn thành",
+                "晚世": "vãn thế",
+                "晚上": "vãn thượng",
+                "晚節": "vãn tiết",
+                "晚送": "vãn tống",
+                "晚智": "vãn trí",
+                "晚歲": "vãn tuế",
+                "晚運": "vãn vận",
+                "晚餐": "vãn xan",
+                "晚宴": "vãn yến"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "宝",
+    "details": {
+        "Âm Hán Việt": [
+            "bảo",
+            "bửu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "miên 宀 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱宀玉"
+        ],
+        "Nét bút": [
+            "丶丶フ一一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "JMGI (十一土戈)"
+        ],
+        "Unicode": [
+            "U+5B9D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bǎo ㄅㄠˇ"
+        ],
+        "Âm Nôm": [
+            "bảo",
+            "báu",
+            "bửu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たから (takara)"
+        ],
+        "Âm Hàn": [
+            "보"
+        ],
+        "Âm Quảng Đông": [
+            "bou2"
+        ]
+    },
+    "meanings": {
+        "bảo": {
+            "Từ điển phổ thông": [
+                "quý giá"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'bảo' 寶.",
+                "Giản thể của chữ 寶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 寶"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết tắt của chữ Bảo 寶."
+            ],
+            "compound_words": {
+                "宝宝": "bảo bảo",
+                "宝贝": "bảo bối",
+                "宝库": "bảo khố",
+                "宝剑": "bảo kiếm",
+                "宝蓝": "bảo lam",
+                "宝贵": "bảo quý",
+                "宝石": "bảo thạch",
+                "宝塔": "bảo tháp",
+                "宝座": "bảo toạ",
+                "宝物": "bảo vật"
+            }
+        },
+        "bửu": {
+            "Từ điển phổ thông": [
+                "quý giá"
+            ],
+            "compound_words": {
+                "宝剑": "bửu kiếm"
+            }
+        }
+    }
+}

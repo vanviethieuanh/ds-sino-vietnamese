@@ -1,0 +1,148 @@
+{
+    "character": "失",
+    "details": {
+        "Âm Hán Việt": [
+            "thất"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "đại 大 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰丿夫"
+        ],
+        "Nét bút": [
+            "ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HQO (竹手人)"
+        ],
+        "Unicode": [
+            "U+5931"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shī ㄕ"
+        ],
+        "Âm Nôm": [
+            "thắt",
+            "thất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うしな.う (ushina.u)",
+            "う.せる (u.seru)"
+        ],
+        "Âm Hàn": [
+            "실"
+        ],
+        "Âm Quảng Đông": [
+            "sat1"
+        ]
+    },
+    "meanings": {
+        "thất": {
+            "Từ điển phổ thông": [
+                "lỡ, sai lầm",
+                "mất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mất. ◎Như: 'di thất' 遺失 bỏ mất, 'thất nhi phục đắc' 失而復得 mất rồi mà lấy lại được, 'thất hồn lạc phách' 失魂落魄 hết hồn hết vía, 'tam sao thất bản' 三抄失本 ba lần chép lại thì đã làm mất hết cả gốc, ý nói mỗi lần chép lại là mỗi lần sai đi.",
+                "(Động) Làm sai, làm trái. ◇Tam quốc diễn nghĩa 三國演義: 'Công thiết vật thất tín' 公切勿失信 (Đệ thập nhất hồi) Xin ông chớ sai hẹn.",
+                "(Động) Lạc. ◎Như: 'mê thất phương hướng' 迷失方向 lạc hướng.",
+                "(Động) Để lỡ, bỏ qua. ◎Như: 'thác thất lương ki' 錯失良機 để lỡ cơ hội tốt, 'ki bất khả thất' 機不可失 cơ hội không thể bỏ qua (cơ hội nghìn năm một thuở).",
+                "(Danh) Lầm lỗi, sơ hở. ◎Như: 'quá thất' 過失 sai lầm, 'trí giả thiên lự tất hữu nhất thất' 智者千慮必有一失 người trí suy nghĩ chu đáo mà vẫn khó tránh khỏi sai sót.",
+                "§ Có khi dùng như chữ 'dật' 佚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mất.",
+                "Lỗi.",
+                "Bỏ qua.",
+                "Có khi dùng như chữ dật 佚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mất: 遺失 Đánh mất, sót mất; 失物拾領 Nhận của đánh mất; 坐失良機 Để mất dịp tốt;",
+                "(Ngr) Sai lầm, làm trái ngược: 失信 Không giữ lời hứa, thất tín; 失約 Sai hẹn, lỡ hẹn;",
+                "Lạc: 失群之鳥 Chim lạc đàn; 迷失方向 Lạc hướng, mất phương hướng;",
+                "Không cẩn thận, lỡ, nhỡ: 失足 Lỡ bước, trượt chân; 失言 Lỡ lời;",
+                "Không đạt mục đích, thua thiệt: 失意 Bất đắc ý, thất ý, chán nản; 失望 Thất vọng, chán nản;",
+                "Sai lầm, lầm lẫn, sơ hở: 千慮一失 Suy nghĩ chu đáo thế mà vẫn có chỗ sơ hở;",
+                "Dáng bộ thất thường: 失聲痛哭 Khóc không ra tiếng (nức nở); 失色 Thất sắc, tái mặt;",
+                "(văn) Như 佚 (bộ 亻)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mất đi. Td: Tổn thất — Thua ( trái với được ). Td: Thất trận — Lầm lỗi. Sai quấy."
+            ],
+            "compound_words": {
+                "遺失": "di thất",
+                "得失": "đắc thất",
+                "冒冒失失": "mạo mạo thất thất",
+                "冒失": "mạo thất",
+                "迷失": "mê thất",
+                "過失": "quá thất",
+                "塞翁失馬": "tái ông thất mã",
+                "三抄失本": "tam sao thất bản",
+                "喪失": "táng thất",
+                "失敗": "thất bại",
+                "失败": "thất bại",
+                "失格": "thất cách",
+                "失志": "thất chí",
+                "失調": "thất điệu",
+                "失调": "thất điệu",
+                "失徳": "thất đức",
+                "失孝": "thất hiếu",
+                "失效": "thất hiệu",
+                "失學": "thất học",
+                "失控": "thất khống",
+                "失去": "thất khứ",
+                "失驚": "thất kinh",
+                "失落": "thất lạc",
+                "失禮": "thất lễ",
+                "失靈": "thất linh",
+                "失祿": "thất lộc",
+                "失利": "thất lợi",
+                "失律": "thất luật",
+                "失业": "thất nghiệp",
+                "失業": "thất nghiệp",
+                "失粘": "thất niêm",
+                "失策": "thất sách",
+                "失色": "thất sắc",
+                "失事": "thất sự",
+                "失散": "thất tán",
+                "失聲": "thất thanh",
+                "失身": "thất thân",
+                "失勢": "thất thế",
+                "失措": "thất thố",
+                "失守": "thất thủ",
+                "失常": "thất thường",
+                "失節": "thất tiết",
+                "失信": "thất tín",
+                "失情": "thất tình",
+                "失传": "thất truyền",
+                "失傳": "thất truyền",
+                "失足": "thất túc",
+                "失約": "thất ước",
+                "失约": "thất ước",
+                "失望": "thất vọng",
+                "失意": "thất ý",
+                "消失": "tiêu thất",
+                "损失": "tổn thất",
+                "損失": "tổn thất",
+                "萬無一失": "vạn vô nhất thất",
+                "違失": "vi thất"
+            }
+        }
+    }
+}

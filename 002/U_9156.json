@@ -1,0 +1,126 @@
+{
+    "character": "酖",
+    "details": {
+        "Âm Hán Việt": [
+            "chậm",
+            "trấm",
+            "trầm",
+            "trậm",
+            "đam"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "dậu 酉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰酉冘"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一丶フノフ"
+        ],
+        "Thương Hiệt": [
+            "MWLBU (一田中月山)"
+        ],
+        "Unicode": [
+            "U+9156"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dān ㄉㄢ",
+            "zhèn ㄓㄣˋ"
+        ],
+        "Âm Nôm": [
+            "chẫm",
+            "đam",
+            "đem",
+            "trấm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "チン (chin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふ.ける (fu.keru)"
+        ],
+        "Âm Hàn": [
+            "탐",
+            "짐"
+        ],
+        "Âm Quảng Đông": [
+            "daam1",
+            "zam6"
+        ]
+    },
+    "meanings": {
+        "chậm": {
+            "Từ điển phổ thông": [
+                "pha rượu với thuốc độc"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mê rượu.",
+                "Một âm là chậm. Cùng nghĩa với chữ 鴆 nghĩa là rượu pha thuốc độc."
+            ]
+        },
+        "trấm": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Giống chim độc (dùng như 鴆, bộ 鳥);",
+                "Rượu độc, rượu pha thuốc độc (dùng như 鴆, bộ 鳥): 飲酖 Uống thuốc độc;",
+                "Dùng thuốc độc hại người (dùng như 鴆, bộ 鳥)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rượu độc — Dùng rượu độc để đầu độc người khác."
+            ]
+        },
+        "trầm": {
+            "Từ điển phổ thông": [
+                "mê rượu, ham rượu"
+            ],
+            "compound_words": {
+                "沈酖": "trầm đam"
+            }
+        },
+        "trậm": {
+            "Từ điển trích dẫn": [
+                "(Động) Ham mê rượu.",
+                "Một âm là 'trậm'. (Danh) Cùng nghĩa với 'trậm' 鴆 nghĩa là rượu pha thuốc độc."
+            ]
+        },
+        "đam": {
+            "Từ điển phổ thông": [
+                "mê rượu, ham rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ham mê rượu.",
+                "Một âm là 'trậm'. (Danh) Cùng nghĩa với 'trậm' 鴆 nghĩa là rượu pha thuốc độc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mê rượu.",
+                "Một âm là chậm. Cùng nghĩa với chữ 鴆 nghĩa là rượu pha thuốc độc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mê rượu: 有些人酖迷酒色 Có nhiều người ham mê tửu sắc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ham uống rượu. Mê rượu — Chỉ sự say mê — Một âm là Trấm."
+            ],
+            "compound_words": {
+                "飲酖止渴": "ẩm đam chỉ khát",
+                "酖酖": "đam đam",
+                "酖樂": "đam lạc",
+                "酖迷": "đam mê",
+                "酖誤": "đam ngộ",
+                "沈酖": "trầm đam"
+            }
+        }
+    }
+}

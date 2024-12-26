@@ -1,0 +1,77 @@
+{
+    "character": "触",
+    "details": {
+        "Âm Hán Việt": [
+            "xúc"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "giác 角 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰角虫"
+        ],
+        "Nét bút": [
+            "ノフノフ一一丨丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NBLMI (弓月中一戈)"
+        ],
+        "Unicode": [
+            "U+89E6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chù ㄔㄨˋ",
+            "hóng ㄏㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "xúc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふ.れる (fu.reru)",
+            "さわ.る (sawa.ru)",
+            "さわ (sawa)"
+        ],
+        "Âm Hàn": [
+            "촉"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1",
+            "zuk1"
+        ]
+    },
+    "meanings": {
+        "xúc": {
+            "Từ điển phổ thông": [
+                "húc, đâm",
+                "chạm vào, sờ vào",
+                "cảm động",
+                "xúc phạm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 觸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 觸"
+            ],
+            "compound_words": {
+                "接触": "tiếp xúc",
+                "触犯": "xúc phạm"
+            }
+        }
+    }
+}

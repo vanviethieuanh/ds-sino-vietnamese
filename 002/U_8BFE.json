@@ -1,0 +1,61 @@
+{
+    "character": "课",
+    "details": {
+        "Âm Hán Việt": [
+            "khoá"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠果"
+        ],
+        "Nét bút": [
+            "丶フ丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IVWD (戈女田木)"
+        ],
+        "Unicode": [
+            "U+8BFE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kè ㄎㄜˋ"
+        ],
+        "Âm Nôm": [
+            "khoá"
+        ],
+        "Âm Quảng Đông": [
+            "fo3"
+        ]
+    },
+    "meanings": {
+        "khoá": {
+            "Từ điển phổ thông": [
+                "bài học"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 課."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 課"
+            ],
+            "compound_words": {
+                "操课": "thao khoá",
+                "授课": "thụ khoá"
+            }
+        }
+    }
+}

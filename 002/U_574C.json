@@ -1,0 +1,93 @@
+{
+    "character": "坌",
+    "details": {
+        "Âm Hán Việt": [
+            "bộn",
+            "phần"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱分土"
+        ],
+        "Nét bút": [
+            "ノ丶フノ一丨一"
+        ],
+        "Thương Hiệt": [
+            "CSHG (金尸竹土)"
+        ],
+        "Unicode": [
+            "U+574C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bèn ㄅㄣˋ"
+        ],
+        "Âm Nôm": [
+            "bộn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホン (hon)",
+            "フン (fun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちり (chiri)",
+            "なら.ぶ (nara.bu)",
+            "あつ.まる (atsu.maru)",
+            "わく (waku)"
+        ],
+        "Âm Hàn": [
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "ban3",
+            "ban6"
+        ]
+    },
+    "meanings": {
+        "bộn": {
+            "Từ điển phổ thông": [
+                "hợp, nhóm",
+                "bụi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bụi bặm, tro bụi. ◇Nguyên Hiếu Vấn 元好問: 'Phi phi tán phù yên, Ái ái tập vi bộn' 霏霏散浮煙, 靄靄集微坌 (Mậu tuất thập nguyệt San Dương vũ dạ 戊戌十月山陽雨夜) Phất phơ khói bay tản mát, Mù mịt bụi nhỏ tụ tập lại.",
+                "(Động) Họp, tụ tập. ◎Như: 'bộn tập' 坌集 tụ họp.",
+                "(Động) Bụi bặm rơi rớt, dính bám trên mình. ◇Pháp Hoa Kinh 法華經: 'Ư song dũ trung, diêu kiến tử thân, luy sấu tiều tụy, phẩn thổ trần bộn' 於窗牖中, 遙見子身, 羸瘦憔悴, 糞土塵坌 (Tín giải phẩm đệ tứ 信解品第四) Từ trong cửa sổ, (người cha) xa thấy thân con gầy gò tiều tụy, phân đất bụi bặm làm bẩn cả người.",
+                "(Tính) § Thông 'bổn' 笨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Họp, đều. Như bộn tập 坌集 cùng họp.",
+                "Bụi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tro bụi, bụi bặm;",
+                "Tụ tập, tụ họp, nhóm họp, hội họp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cùng. Cùng nhau — Bụi đất."
+            ],
+            "compound_words": {
+                "坌集": "bộn tập"
+            }
+        },
+        "phần": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tro bụi, bụi bặm;",
+                "Tụ tập, tụ họp, nhóm họp, hội họp."
+            ]
+        }
+    }
+}

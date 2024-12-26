@@ -1,0 +1,129 @@
+{
+    "character": "爲",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy",
+            "vị"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trảo 爪 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノ丶丶ノノフフフ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "BHNF (月竹弓火)"
+        ],
+        "Unicode": [
+            "U+7232"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wéi ㄨㄟˊ",
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "vay",
+            "vi",
+            "vơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ため (tame)",
+            "な.る (na.ru)",
+            "な.す (na.su)",
+            "す.る (su.ru)",
+            "たり (tari)",
+            "つく.る (tsuku.ru)",
+            "なり (nari)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai4",
+            "wai6"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "1. Cũng như “vi” 為."
+            ],
+            "compound_words": {
+                "百歲爲期": "bách tuế vi kì",
+                "轉敗爲勝": "chuyển bại vi thắng",
+                "庭爲": "đình vi",
+                "行爲": "hành vi",
+                "若爲": "nhược vi",
+                "爲憑": "vi bằng",
+                "爲難": "vi nạn",
+                "爲仁": "vi nhân",
+                "爲始": "vi thuỷ",
+                "無爲": "vô vi"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "làm, gây nên"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làm, như hành vi 行爲.",
+                "Gây nên, làm nên.",
+                "Trị, như vi quốc 爲國 trị nước.",
+                "Dùng làm ngữ từ, như tuy đa diệc hề dĩ vi 雖多亦奚以爲 dầu nhiều có làm gì.",
+                "Một âm là vị. Như vị kỉ 爲已 vì mình, hữu sở vị nhi vị 有所爲而爲 có vì cái gì mà làm, v.v.",
+                "Giúp, như Luận ngữ nói: phu tử bất vị dã 夫子不爲也 nhà thầy chẳng giúp vậy. Cũng viết là vi 為."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm. Td: Hành vi — Là — Một âm khác là Vị. Xem Vị."
+            ]
+        },
+        "vị": {
+            "Từ điển phổ thông": [
+                "bởi vì",
+                "giúp cho"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như “vi” 為."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làm, như hành vi 行爲.",
+                "Gây nên, làm nên.",
+                "Trị, như vi quốc 爲國 trị nước.",
+                "Dùng làm ngữ từ, như tuy đa diệc hề dĩ vi 雖多亦奚以爲 dầu nhiều có làm gì.",
+                "Một âm là vị. Như vị kỉ 爲已 vì mình, hữu sở vị nhi vị 有所爲而爲 có vì cái gì mà làm, v.v.",
+                "Giúp, như Luận ngữ nói: phu tử bất vị dã 夫子不爲也 nhà thầy chẳng giúp vậy. Cũng viết là vi 為."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhân vì — Giúp đỡ. Vì người khác mà làm — Bị. Được — Một âm là Vi. Xem Vi."
+            ],
+            "compound_words": {
+                "人爲": "nhân vị",
+                "偏爲": "thiên vị",
+                "私爲": "tư vị",
+                "爲名": "vị danh",
+                "爲己": "vị kỉ",
+                "爲利": "vị lợi",
+                "爲我": "vị ngã",
+                "爲義": "vị nghĩa",
+                "爲人生": "vị nhân sinh",
+                "爲他": "vị tha"
+            }
+        }
+    }
+}

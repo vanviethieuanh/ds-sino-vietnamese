@@ -1,0 +1,91 @@
+{
+    "character": "型",
+    "details": {
+        "Âm Hán Việt": [
+            "hình"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thổ 土 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱刑土"
+        ],
+        "Nét bút": [
+            "一一ノ丨丨丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "MNG (一弓土)"
+        ],
+        "Unicode": [
+            "U+578B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xíng ㄒㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "hình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かた (kata)",
+            "-がた (-gata)"
+        ],
+        "Âm Hàn": [
+            "형"
+        ],
+        "Âm Quảng Đông": [
+            "jing4"
+        ]
+    },
+    "meanings": {
+        "hình": {
+            "Từ điển phổ thông": [
+                "cái khuôn đất để đúc",
+                "làm gương, làm mẫu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khuôn, khuôn đúc. ◎Như: 'mô hình' 模型 khuôn đúc. ◇Hoài Nam Tử 淮南子: 'Minh kính chi thủy hạ hình, mông nhiên vị kiến hình dong' 明鏡之始下型, 矇然未見形容 (Tu vụ 脩務) Gương sáng vừa mới lấy khỏi khuôn, mù mờ chưa soi rõ hình mạo.",
+                "(Danh) Khuôn phép, điển phạm, pháp thức. ◎Như: 'điển hình' 典型 phép tắc.",
+                "(Danh) Loại, kiểu, cỡ, thức dạng. ◎Như: 'huyết hình' 血型 loại máu, 'tân hình' 新型 kiểu mới, 'phát hình' 髮型 kiểu tóc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái khuôn. Cái khuôn bằng đất để đúc các đồ gọi là hình.",
+                "Nói bóng nghĩa là làm khuôn phép."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuôn, khuôn đúc: 砂型 Khuôn đúc (bằng cát); 模型 Mô hình;",
+                "Loại hình, cỡ, kiểu: 新型 Kiểu mới; 大型 Cỡ lớn;",
+                "(văn) Làm khuôn phép."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái khuôn để đúc đồ vật — Cái mẫu nhỏ, để theo đó mà xây cất. Chẳng hạn Mô hình."
+            ],
+            "compound_words": {
+                "整型": "chỉnh hình",
+                "大型": "đại hình",
+                "典型": "điển hình",
+                "型狀": "hình trạng",
+                "師型": "sư hình",
+                "造型": "tạo hình",
+                "新型": "tân hình",
+                "小型": "tiểu hình",
+                "字型": "tự hình",
+                "微型": "vi hình"
+            }
+        }
+    }
+}

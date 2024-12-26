@@ -1,0 +1,135 @@
+{
+    "character": "拘",
+    "details": {
+        "Âm Hán Việt": [
+            "câu",
+            "cù"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘句"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QPR (手心口)"
+        ],
+        "Unicode": [
+            "U+62D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gōu ㄍㄡ",
+            "jū ㄐㄩ"
+        ],
+        "Âm Nôm": [
+            "câu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かか.わる (kaka.waru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "keoi1"
+        ]
+    },
+    "meanings": {
+        "câu": {
+            "Từ điển phổ thông": [
+                "câu nệ, hay tin nhảm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bắt. ◎Như: 'bị câu' 被拘 bị bắt.",
+                "(Động) Cố chấp, thủ cựu, câu nệ. ◎Như: 'bất câu tiểu tiết' 不拘小節 không câu nệ tiểu tiết.",
+                "(Động) Gò bó. ◎Như: 'bất câu văn pháp' 不拘文法 không gò bó theo văn pháp.",
+                "(Động) Hạn chế, hạn định. ◎Như: 'bất câu đa thiểu' 不拘多少 không hạn chế nhiều hay ít.",
+                "(Tính) Cong. ◇Nguyễn Du 阮攸: 'Vô bệnh cố câu câu' 無病故拘拘 (Thu chí 秋至) Không bệnh mà lưng vẫn khom khom.",
+                "(Danh) 'Câu-lư-xá' 拘盧舍 dịch âm tiếng Phạn, một tiếng gọi trong phép đo, một câu-lư-xá bằng hai dặm bây giờ, tám câu-lư-xá là một do-tuần.",
+                "Một âm là 'cù'. (Danh) § Xem 'châu cù' 株拘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bắt, như bị câu 被拘 bị bắt.",
+                "Câu nệ, hay tin nhảm gọi là câu.",
+                "Câu thúc.",
+                "Hạn.",
+                "Bưng, lấy.",
+                "Cong.",
+                "Câu lư xá 拘盧舍 dịch âm tiếng Phạm, một tiếng gọi trong phép đo, một câu lư xá bằng hai dặm bây giờ, tám câu lư xá là một do tuần.",
+                "Một âm là cù. Châu cù 株拘 gốc cây gỗ khô."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt: 拘捕 Bắt; 拘押 Bắt giam;",
+                "Hạn chế: 不拘多少 Không hạn chế nhiều ít;",
+                "Bó buộc, gò bó: 拘於舊法 Bó buộc trong khuôn phép cũ; 拘於形式 Gò bó trong hình thức;",
+                "Cố chấp, thủ cựu, câu nệ, khư khư giữ cái cũ: 這個人太拘了 Người này cố chấp (thủ cựu) lắm;",
+                "(văn) Bưng, lấy;",
+                "【拘盧舍】câu lư xá [julúshâ] (Phạn ngữ) Câu lư xá (đơn vị đo chiều dài, bằng hai dặm; tám câu lư xá là một do tuần)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt giam — Nắm chặt. Giữ chặt, không thay đổi — Hạn chế — Bó buộc, ràng buộc."
+            ],
+            "compound_words": {
+                "不拘": "bất câu",
+                "拘押": "câu áp",
+                "拘捕": "câu bộ",
+                "拘執": "câu chấp",
+                "拘局": "câu cục",
+                "拘役": "câu dịch",
+                "拘虛": "câu hư",
+                "拘絜": "câu khiết",
+                "拘禮": "câu lễ",
+                "拘留": "câu lưu",
+                "拘泥": "câu nệ",
+                "拘儒": "câu nho",
+                "拘票": "câu phiếu",
+                "拘管": "câu quản",
+                "拘守": "câu thủ",
+                "拘束": "câu thúc",
+                "拘文": "câu văn"
+            }
+        },
+        "cù": {
+            "Từ điển trích dẫn": [
+                "(Động) Bắt. ◎Như: 'bị câu' 被拘 bị bắt.",
+                "(Động) Cố chấp, thủ cựu, câu nệ. ◎Như: 'bất câu tiểu tiết' 不拘小節 không câu nệ tiểu tiết.",
+                "(Động) Gò bó. ◎Như: 'bất câu văn pháp' 不拘文法 không gò bó theo văn pháp.",
+                "(Động) Hạn chế, hạn định. ◎Như: 'bất câu đa thiểu' 不拘多少 không hạn chế nhiều hay ít.",
+                "(Tính) Cong. ◇Nguyễn Du 阮攸: 'Vô bệnh cố câu câu' 無病故拘拘 (Thu chí 秋至) Không bệnh mà lưng vẫn khom khom.",
+                "(Danh) 'Câu-lư-xá' 拘盧舍 dịch âm tiếng Phạn, một tiếng gọi trong phép đo, một câu-lư-xá bằng hai dặm bây giờ, tám câu-lư-xá là một do-tuần.",
+                "Một âm là 'cù'. (Danh) § Xem 'châu cù' 株拘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bắt, như bị câu 被拘 bị bắt.",
+                "Câu nệ, hay tin nhảm gọi là câu.",
+                "Câu thúc.",
+                "Hạn.",
+                "Bưng, lấy.",
+                "Cong.",
+                "Câu lư xá 拘盧舍 dịch âm tiếng Phạm, một tiếng gọi trong phép đo, một câu lư xá bằng hai dặm bây giờ, tám câu lư xá là một do tuần.",
+                "Một âm là cù. Châu cù 株拘 gốc cây gỗ khô."
+            ],
+            "compound_words": {
+                "株拘": "châu cù"
+            }
+        }
+    }
+}

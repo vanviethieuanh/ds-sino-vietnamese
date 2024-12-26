@@ -1,0 +1,65 @@
+{
+    "character": "菏",
+    "details": {
+        "Âm Hán Việt": [
+            "hà"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹河"
+        ],
+        "Nét bút": [
+            "一丨丨丶丶一一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "TEMR (廿水一口)"
+        ],
+        "Unicode": [
+            "U+83CF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "hé ㄏㄜˊ"
+        ],
+        "Âm Nôm": [
+            "hà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くさ (kusa)"
+        ],
+        "Âm Quảng Đông": [
+            "go1",
+            "ho4"
+        ]
+    },
+    "meanings": {
+        "hà": {
+            "Từ điển phổ thông": [
+                "(xem: hà trạch 菏澤,菏泽)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【菏澤】Hà Trạch [Hézé] Tên thành phố (ở tỉnh Sơn Đông, Trung Quốc)."
+            ],
+            "compound_words": {
+                "菏泽": "hà trạch",
+                "菏澤": "hà trạch"
+            }
+        }
+    }
+}

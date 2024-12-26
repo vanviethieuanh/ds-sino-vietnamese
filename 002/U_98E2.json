@@ -1,0 +1,96 @@
+{
+    "character": "飢",
+    "details": {
+        "Âm Hán Việt": [
+            "cơ",
+            "ky"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thực 食 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰飠几"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "OIHN (人戈竹弓)"
+        ],
+        "Unicode": [
+            "U+98E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "cơ",
+            "ki"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.える (u.eru)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei1"
+        ]
+    },
+    "meanings": {
+        "cơ": {
+            "Từ điển phổ thông": [
+                "đói",
+                "mất mùa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Đói. ◎Như: 'cơ khát' 飢渴 đói khát. § Có khi dùng như chữ 'ki' 饑.",
+                "(Danh) Họ 'Cơ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Đói. Như cơ bão 飢飽 đói no. Có khi dùng như chữ ki 饑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đói: 飢飽 Đói no; 飢荒 Mất mùa đói kém;",
+                "(Họ) Cơ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đói — Mất mùa — Nghèo đói — Cũng viết 饑."
+            ],
+            "compound_words": {
+                "飢饉": "cơ cận",
+                "飢窮": "cơ cùng",
+                "飢寒": "cơ hàn",
+                "飢火": "cơ hoả",
+                "飢荒": "cơ hoang",
+                "飢渴": "cơ khát",
+                "飢苦": "cơ khổ",
+                "飢驅": "cơ khu",
+                "飢餓": "cơ ngạ",
+                "防飢": "phòng cơ",
+                "充飢": "sung cơ"
+            }
+        },
+        "ky": {
+            "Từ điển phổ thông": [
+                "đói",
+                "mất mùa"
+            ]
+        }
+    }
+}

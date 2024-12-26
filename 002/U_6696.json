@@ -1,0 +1,94 @@
+{
+    "character": "暖",
+    "details": {
+        "Âm Hán Việt": [
+            "huyên",
+            "noãn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhật 日 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日爰"
+        ],
+        "Nét bút": [
+            "丨フ一一ノ丶丶ノ一一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "ABME (日月一水)"
+        ],
+        "Unicode": [
+            "U+6696"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "nuǎn ㄋㄨㄢˇ",
+            "xuān ㄒㄩㄢ"
+        ],
+        "Âm Nôm": [
+            "hoãn",
+            "noãn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダン (dan)",
+            "ノン (non)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あたた.か (atata.ka)",
+            "あたた.かい (atata.kai)",
+            "あたた.まる (atata.maru)",
+            "あたた.める (atata.meru)"
+        ],
+        "Âm Hàn": [
+            "난",
+            "훤"
+        ],
+        "Âm Quảng Đông": [
+            "nyun5"
+        ]
+    },
+    "meanings": {
+        "huyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ dịu dàng của phụ nữ — Một âm khác là Noãn."
+            ]
+        },
+        "noãn": {
+            "Từ điển phổ thông": [
+                "ấm áp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ấm, ấm áp. ◎Như: 'xuân noãn hoa khai' 春暖花開 mùa xuân ấm áp hoa nở, 'thân tình ôn noãn' 親情溫暖 tình thân ấm áp.",
+                "(Động) Ấp cho nóng ấm, hơ nóng, hâm. ◎Như: 'noãn tửu' 暖酒 hâm rượu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ám áp.",
+                "Ấp cho nóng ấm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ôn hoà, ấm áp: 天暖了 trời ấm rồi:",
+                "Hâm nóng, sưởi ấm: 暖一暖手 Sưởi tay cho ấm, hơ tay."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ấm áp — Sưởi ấm."
+            ],
+            "compound_words": {
+                "甘暖": "cam noãn",
+                "暖和": "noãn hoà",
+                "採暖": "thái noãn",
+                "采暖": "thái noãn"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "character": "詠",
+    "details": {
+        "Âm Hán Việt": [
+            "vịnh"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言永"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRINE (卜口戈弓水)"
+        ],
+        "Unicode": [
+            "U+8A60"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yǒng ㄧㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "vạnh",
+            "vẳng",
+            "vịnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エイ (ei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よ.む (yo.mu)",
+            "うた.う (uta.u)"
+        ],
+        "Âm Hàn": [
+            "영"
+        ],
+        "Âm Quảng Đông": [
+            "wing6"
+        ]
+    },
+    "meanings": {
+        "vịnh": {
+            "Từ điển phổ thông": [
+                "vịnh thơ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ca hát, ngâm, đọc văn thơ có âm điệu ngân nga trầm bổng. ◎Như: 'ngâm vịnh' 吟詠 ca ngâm. ◇Luận Ngữ 論語: 'Quán giả ngũ lục nhân, đồng tử lục thất nhân, dục hồ Nghi, phong hồ Vũ Vu, vịnh nhi quy' 冠者五六人, 童子六七人, 浴乎沂, 風乎舞雩, 詠而歸 Năm sáu người vừa tuổi đôi mươi, với sáu bảy đồng tử, dắt nhau đi tắm ở sông Nghi rồi lên hứng mát ở nền Vũ Vu, vừa đi vừa hát kéo nhau về nhà.",
+                "(Động) Diễn tả, biểu đạt. ◇Tấn Thư 晉書: 'Hoành hữu dật tài, văn chương tuyệt mĩ, tằng vi vịnh sử thi, thị kì phong tình sở kí' 宏有逸才, 文章絕美, 曾為詠史詩, 是其風情所寄 (Viên Hoành truyện 袁宏傳) Hoành có biệt tài, văn chương tuyệt mĩ, đã từng diễn dịch sử thi, để gửi gắm tâm tình của mình.",
+                "(Động) Ca tụng, tán dương. ◇Ban Cố 班固: 'Há vũ thướng ca, đạo đức vịnh nhân' 下舞上歌, 蹈德詠仁 (Đông đô phú 東都賦) Xuống múa lên ca, Tán dương nhân đức.",
+                "Cũng viết là 'vịnh' 咏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngâm vịnh, đọc văn thơ đến chỗ có âm điệu phải kéo dài giọng đọc ra gọi là vịnh. Có khi viết là vịnh 咏."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngâm vịnh, hát: 歌詠 Hát, ca hát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hát lên. Ngâm lên. Td: Ngâm vịnh. Kêu hót ( nói về loài chim ) — Dùng thơ để bày tỏ tình cảm của mình về một việc hay một sự vật.  Đoạn trường tân thanh : » Vạch da cây vịnh bốn câu ba vần «."
+            ],
+            "compound_words": {
+                "河仙十詠": "hà tiên thập vịnh",
+                "南程聯詠集": "nam trình liên vịnh tập",
+                "吟詠": "ngâm vịnh",
+                "御製越史總詠集": "ngự chế việt sử tổng vịnh tập",
+                "諷詠": "phúng vịnh",
+                "越鑑詠史詩集": "việt giám vịnh sử thi tập",
+                "詠歌": "vịnh ca",
+                "詠南史": "vịnh nam sử",
+                "詠月": "vịnh nguyệt",
+                "詠史": "vịnh sử",
+                "詠嘆": "vịnh thán"
+            }
+        }
+    }
+}

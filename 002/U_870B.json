@@ -1,0 +1,78 @@
+{
+    "character": "蜋",
+    "details": {
+        "Âm Hán Việt": [
+            "lang"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trùng 虫 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫良"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIIAV (中戈戈日女)"
+        ],
+        "Unicode": [
+            "U+870B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "láng ㄌㄤˊ",
+            "liáng ㄌㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "lang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Hàn": [
+            "랑"
+        ],
+        "Âm Quảng Đông": [
+            "loeng4",
+            "long4"
+        ]
+    },
+    "meanings": {
+        "lang": {
+            "Từ điển phổ thông": [
+                "(xem: đường lang 螳螂, khương lang 蜣蜋, chương lang 蟑螂)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Đường lang' 螳蜋: xem 'đường' 螳.",
+                "(Danh) 'Khương lang' 蜣蜋: xem 'khương' 蜣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðường lang 螳螂. Xem chữ đường 螳.",
+                "Khương lang 蜣蜋. Xem chữ khương 蜣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蜣蜋（螂）."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Đường lang 螳螂, Khương lang 蜣蜋 — Như chữ Lang 螂."
+            ],
+            "compound_words": {
+                "螳蜋": "đường lang",
+                "蜣蜋": "khương lang"
+            }
+        }
+    }
+}

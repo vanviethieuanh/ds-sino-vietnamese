@@ -1,0 +1,97 @@
+{
+    "character": "禦",
+    "details": {
+        "Âm Hán Việt": [
+            "ngữ",
+            "ngự"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "kỳ 示 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱御示"
+        ],
+        "Nét bút": [
+            "ノノ丨ノ一一丨一丨一フ丨一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HLMMF (竹中一一火)"
+        ],
+        "Unicode": [
+            "U+79A6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ngự",
+            "ngừa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギョ (gyo)",
+            "ゴ (go)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふせ.ぐ (fuse.gu)"
+        ],
+        "Âm Hàn": [
+            "어"
+        ],
+        "Âm Quảng Đông": [
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "ngữ": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chống cự, chống lại;",
+                "Địch;",
+                "Ngăn;",
+                "Tấm phên che trước xe. Xem 御 (bộ 彳)."
+            ]
+        },
+        "ngự": {
+            "Từ điển phổ thông": [
+                "ngăn lại, chống lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chống lại, chống cự. ◎Như: 'phòng ngự' 防禦 phòng vệ. ◇Quốc ngữ 國語: 'Dĩ tru vô đạo, dĩ bình Chu thất, thiên hạ đại quốc chi quân mạc chi năng ngự' 以誅無道, 以屏周室, 天下大國之君莫之能禦 (Tề ngữ 齊語) Diệt trừ vô đạo, bảo vệ triều đình nhà Chu, vua các nước lớn trong thiên hạ không thể chống lại được.",
+                "(Động) Ngăn, che. ◇Phù sanh lục kí 浮生六記: 'Cô tửu ngự hàn' 沽酒禦寒 (Khảm kha kí sầu 坎坷記愁) Mua rượu uống cho ngăn được lạnh.",
+                "(Động) Cấm đoán, cấm chỉ. ◇Chu Lễ 周禮: 'Ngự thần hành giả, cấm tiêu hành giả' 禦晨行者, 禁宵行者 (Thu quan 秋官, Ti ngụ thị 司寤氏) Cấm người đi buổi sớm, cấm người đi ban đêm.",
+                "(Danh) Cái phên che trước xe.",
+                "(Danh) Cường quyền, bạo quyền. ◇Bão Phác Tử 抱朴子: 'Bất úy cường ngự' 不畏強禦 (Ngoại thiên 外篇, Hành phẩm 行品) Không sợ cường quyền.",
+                "(Danh) Vệ binh, thị vệ.",
+                "Cũng viết là 'ngự' 御."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chống lại, chống cự.",
+                "Ngăn.",
+                "Ðịch.",
+                "Cái phên che trước xe."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chống lại — Ngăn cản."
+            ],
+            "compound_words": {
+                "制禦": "chế ngự",
+                "禦敵": "ngự địch",
+                "禦寒": "ngự hàn",
+                "禦史臺": "ngự sử đài",
+                "防禦": "phòng ngự",
+                "鎮禦": "trấn ngự"
+            }
+        }
+    }
+}

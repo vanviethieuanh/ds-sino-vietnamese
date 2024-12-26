@@ -1,0 +1,106 @@
+{
+    "character": "賣",
+    "details": {
+        "Âm Hán Việt": [
+            "mại"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱士買"
+        ],
+        "Nét bút": [
+            "一丨一丨フ丨丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GWLC (土田中金)"
+        ],
+        "Unicode": [
+            "U+8CE3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mài ㄇㄞˋ"
+        ],
+        "Âm Nôm": [
+            "mại",
+            "mợi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.る (u.ru)",
+            "う.れる (u.reru)"
+        ],
+        "Âm Hàn": [
+            "매"
+        ],
+        "Âm Quảng Đông": [
+            "maai6"
+        ]
+    },
+    "meanings": {
+        "mại": {
+            "Từ điển phổ thông": [
+                "bán"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bán (đem đồ vật đổi lấy tiền). ◎Như: 'mại hoa' 賣花 bán hoa, 'đoạn mại' 斷賣 bán đứt.",
+                "(Động) Làm hại người để lợi mình. ◎Như: 'mại quốc' 賣國 vì lợi riêng thông đồng với địch làm nguy hại nước nhà, 'mại hữu cầu vinh' 賣友求榮 hại bạn cầu vinh. ◇Sử Kí 史記: 'Vi Triệu quân, ki vi thừa tướng sở mại' 微趙君, 幾為丞相所賣 (Lí Tư truyện 李斯傳) Nếu không có ông Triệu (Cao) thì suýt nữa ta bị thừa tướng làm hại rồi.",
+                "(Động) Khoe khoang, bẻm mép. ◎Như: 'mại lộng tài năng' 賣弄才能 khoe tài. ◇Trang Tử 莊子: 'Tử phi phù bác học dĩ nghĩ thánh, ư vu dĩ cái chúng, độc huyền ai ca, dĩ mại danh thanh ư thiên hạ giả hồ' 子非夫博學以擬聖, 於于以蓋眾, 獨弦哀歌, 以賣名聲於天下者乎 (Thiên địa 天地) Nhà ngươi chẳng phải là kẻ học rộng để đọ với thánh, mà trùm lấp mọi người, một mình gảy đàn hát thảm, để khoe khoang danh tiếng với thiên hạ đó sao?",
+                "(Động) Bỏ hết ra, không tiếc.",
+                "(Danh) Lượng từ: một phần món ăn (tiếng dùng trong trong tiệm rượu, tiệm cơm... ngày xưa).",
+                "(Danh) Họ 'Mại'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bán, lấy đồ đổi lấy tiền gọi là mại, như đoạn mại 斷賣 bán đứt.",
+                "Làm hại người để lợi mình gọi là mại, như mại quốc 賣國 làm hại nước, mại hữu 賣友 làm hại bạn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bán;",
+                "Bán đứng, phản bội, làm hại: 他被朋友出賣 Anh ta bị bạn bè phản bội (bán đứng); 賣友 Hại bạn; 賣國求榮 Bán nước cầu vinh;",
+                "Cố sức: 賣力氣 Cố sức làm;",
+                "Khoe, phô trương (tài): 賣弄才能 Khoe tài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bán ( đem đồ vật đổi lấy tiền )."
+            ],
+            "compound_words": {
+                "競賣": "cạnh mại",
+                "專賣": "chuyên mại",
+                "轉賣": "chuyển mại",
+                "典賣": "điển mại",
+                "斷賣": "đoạn mại",
+                "賣恩": "mại ân",
+                "賣名": "mại danh",
+                "賣淫": "mại dâm",
+                "賣婚": "mại hôn",
+                "賣友": "mại hữu",
+                "賣臉": "mại kiểm",
+                "買賣": "mãi mại",
+                "賣國": "mại quốc",
+                "賣身": "mại thân",
+                "拍賣": "phách mại",
+                "發賣": "phát mại",
+                "官賣": "quan mại",
+                "燒賣": "thiêu mại",
+                "售賣": "thụ mại",
+                "商賣": "thương mại",
+                "倚門賣笑": "ỷ môn mại tiếu"
+            }
+        }
+    }
+}

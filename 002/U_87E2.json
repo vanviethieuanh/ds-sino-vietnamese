@@ -1,0 +1,71 @@
+{
+    "character": "蟢",
+    "details": {
+        "Âm Hán Việt": [
+            "hỉ",
+            "hỷ"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "trùng 虫 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫喜"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨一丨フ一丶ノ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIGRR (中戈土口口)"
+        ],
+        "Unicode": [
+            "U+87E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xǐ ㄒㄧˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Quảng Đông": [
+            "hei2"
+        ]
+    },
+    "meanings": {
+        "hỉ": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Hỉ tử' 蟢子, một tên là 'tiêu sao' 蠨蛸. § Xem 'tiêu' 蛸.",
+                "(Danh) 'Bích hỉ' 壁蟢 con nhện càng, nó ôm một cái trứng ở bụng như hình đồng tiền, nên cũng gọi là 'bích tiền' 壁錢."
+            ],
+            "compound_words": {
+                "壁蟢": "bích hỉ"
+            }
+        },
+        "hỷ": {
+            "Từ điển phổ thông": [
+                "con nhện"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hỉ tử 蟢子, một tên là tiêu sao 蠨蛸. Xem chữ 蛸.",
+                "Bích hỉ 壁蟢 con nhện càng, nó ôm một cái trứng ở bụng như hình đồng tiền, nên cũng gọi là bích tiền 壁錢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蟢子】 hỉ tử [xêzi] (Một loại) nhện nhỏ cao cẳng (có bụng và ổ trứng dài)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con nhện. Cũng gọi là Hỉ tử 蟢子."
+            ]
+        }
+    }
+}

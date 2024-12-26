@@ -1,0 +1,131 @@
+{
+    "character": "議",
+    "details": {
+        "Âm Hán Việt": [
+            "nghị"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "ngôn 言 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言義"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶ノ一一丨一ノ一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRTGI (卜口廿土戈)"
+        ],
+        "Unicode": [
+            "U+8B70"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "nghĩ",
+            "ngợi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)"
+        ],
+        "Âm Hàn": [
+            "의"
+        ],
+        "Âm Quảng Đông": [
+            "ji3",
+            "ji5",
+            "ji6"
+        ]
+    },
+    "meanings": {
+        "nghị": {
+            "Từ điển phổ thông": [
+                "bàn bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thảo luận, thương lượng. ◎Như: 'hiệp nghị' 協議 họp bàn, 'thương nghị' 商議 thảo luận, thương thảo.",
+                "(Động) Bình luận, suy xét phải trái, đúng sai. ◇Luận Ngữ 論語: 'Thiên hạ hữu đạo, tắc thứ nhân bất nghị' 天下有道則庶人不議 (Quý thị 季氏) Thiên hạ có đạo thì kẻ thứ nhân không bàn bạc phải trái.",
+                "(Động) Chỉ trích. ◎Như: 'tì nghị' 疵議 chỉ trích, chê bai.",
+                "(Động) Chọn lựa, tuyển trạch. ◇Nghi lễ 儀禮: 'Nãi nghị hựu vu tân dĩ dị tính' 乃議侑于賓以異姓 (Hữu ti 有司) Bèn chọn người khác họ để giúp đỡ tân khách.",
+                "(Danh) Lời nói, lời bàn, ý kiến. ◇Lã Thị Xuân Thu 呂氏春秋: 'Phàm quân tử chi thuyết dã, phi cẩu biện dã, sĩ chi nghị dã, phi cẩu ngữ dã' 凡君子之說也, 非苟辨也, 士之議也, 非苟語也 (Hoài sủng 懷寵) Phàm luận thuyết của bậc quân tử, chẳng phải là suy xét bừa bãi, ý kiến của kẻ sĩ, chẳng phải là lời nói cẩu thả vậy.",
+                "(Danh) Một lối văn luận thuyết. ◎Như: 'tấu nghị' 奏議 sớ tâu vua và bàn luận các chánh sách hay dở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bàn, bàn về sự lí để phân biệt phải trái gọi là luận 論, bàn về sự lí để định việc nên hay không gọi là nghị 議. Như hội nghị 會議 họp bàn, quyết nghị 決議 bàn cho quyết xong để thi hành.",
+                "Một lối văn, như tấu nghị 奏議 sớ tâu vua và bàn các chánh sách hay dở thế nào.",
+                "Chê. Như thiên hạ hữu đạo, tắc thứ nhân bất nghị 天下有道則庶人不議 thiên hạ có đạo thì kẻ thứ nhân không chê.",
+                "Kén chọn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ý kiến, ngôn luận, (đề) nghị: 建議 Kiến nghị; 無異議 Không có ý kiến khác;",
+                "Bàn bạc phải trái, thảo luận: 我們對各種方案都議了一議 Chúng tôi đã bàn qua các phương án;",
+                "(văn) Chê: 天下有道則庶人不議 Thiên hạ có đạo thì kẻ thứ nhân (bình dân) không chê;",
+                "(văn) Kén chọn;",
+                "Một lối văn: 奏議 Sớ tâu lên vua để bàn về chính sách hay dở."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bàn luận — Sự sắp đặt trước. Mưu kế."
+            ],
+            "compound_words": {
+                "駁議": "bác nghị",
+                "駮議": "bác nghị",
+                "八議": "bát nghị",
+                "不可思議": "bất khả tư nghị",
+                "平議": "bình nghị",
+                "評議": "bình nghị",
+                "閣議": "các nghị",
+                "異議": "dị nghị",
+                "大議": "đại nghị",
+                "提議": "đề nghị",
+                "動議": "động nghị",
+                "下議院": "hạ nghị viện",
+                "巷議": "hạng nghị",
+                "協議": "hiệp nghị",
+                "和議": "hoà nghị",
+                "會議": "hội nghị",
+                "抗議": "kháng nghị",
+                "建議": "kiến nghị",
+                "免議": "miễn nghị",
+                "議案": "nghị án",
+                "議定": "nghị định",
+                "議和": "nghị hoà",
+                "議會": "nghị hội",
+                "議論": "nghị luận",
+                "議决": "nghị quyết",
+                "議事": "nghị sự",
+                "議程": "nghị trình",
+                "議場": "nghị trường",
+                "議員": "nghị viên",
+                "議院": "nghị viện",
+                "街談巷議": "nhai đàm hạng nghị",
+                "發議": "phát nghị",
+                "非議": "phi nghị",
+                "浮議": "phù nghị",
+                "羣議": "quần nghị",
+                "決議": "quyết nghị",
+                "議議": "sát nghị",
+                "芻議": "sô nghị",
+                "奏議": "tấu nghị",
+                "斃監免議": "tễ giam miễn nghị",
+                "參議": "tham nghị",
+                "清議": "thanh nghị",
+                "審議": "thẩm nghị",
+                "商議": "thương nghị",
+                "爭議": "tranh nghị"
+            }
+        }
+    }
+}

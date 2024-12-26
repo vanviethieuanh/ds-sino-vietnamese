@@ -1,0 +1,67 @@
+{
+    "character": "尷",
+    "details": {
+        "Âm Hán Việt": [
+            "dam",
+            "giam"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "uông 尢 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸尢監"
+        ],
+        "Nét bút": [
+            "一ノフ一丨フ一丨フノ一丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "KUSIT (大山尸戈廿)"
+        ],
+        "Unicode": [
+            "U+5C37"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ"
+        ],
+        "Âm Quảng Đông": [
+            "gaam1",
+            "gaam3"
+        ]
+    },
+    "meanings": {
+        "dam": {
+            "Từ điển phổ thông": [
+                "(xem: dam giới 尷尬,尲尬,尴尬)"
+            ],
+            "compound_words": {
+                "尷尬": "dam giới"
+            }
+        },
+        "giam": {
+            "Từ điển trích dẫn": [
+                "§ Xem 'giam giới' 尷尬.",
+                "§ Một dạng khác của chữ 'giam': 尲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【尷尬】 giam giới [gangà] Lúng túng, khó xử, bất tiện, không tiện: 處境尷尬 Lâm vào cảnh lúng túng, ở vào địa vị khó xử;",
+                "(Đi) Khập khiễng;",
+                "(đph) Ngượng, ngượng ngạo: 眞是尷尬！ Thật là ngượng ngạo!"
+            ],
+            "compound_words": {
+                "尷尬": "giam giới"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "character": "统",
+    "details": {
+        "Âm Hán Việt": [
+            "thống"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mịch 糸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟充"
+        ],
+        "Nét bút": [
+            "フフ一丶一フ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "VMYIU (女一卜戈山)"
+        ],
+        "Unicode": [
+            "U+7EDF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tǒng ㄊㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "thống"
+        ],
+        "Âm Quảng Đông": [
+            "tung2"
+        ]
+    },
+    "meanings": {
+        "thống": {
+            "Từ điển phổ thông": [
+                "mối tơ",
+                "dòng, hệ thống",
+                "thống trị"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 統."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 統"
+            ],
+            "compound_words": {
+                "正统": "chính thống",
+                "系统": "hệ thống",
+                "统领": "thống lĩnh",
+                "总统": "tổng thống",
+                "传统": "truyền thống"
+            }
+        }
+    }
+}

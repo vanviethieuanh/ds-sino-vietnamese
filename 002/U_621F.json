@@ -1,0 +1,80 @@
+{
+    "character": "戟",
+    "details": {
+        "Âm Hán Việt": [
+            "kích"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "qua 戈 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰𠦝戈"
+        ],
+        "Nét bút": [
+            "一丨丨フ一一一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "JJI (十十戈)"
+        ],
+        "Unicode": [
+            "U+621F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jǐ ㄐㄧˇ"
+        ],
+        "Âm Nôm": [
+            "kích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲキ (geki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほこ (hoko)"
+        ],
+        "Âm Hàn": [
+            "극"
+        ],
+        "Âm Quảng Đông": [
+            "gik1"
+        ]
+    },
+    "meanings": {
+        "kích": {
+            "Từ điển phổ thông": [
+                "cái kích (một loại vũ khí)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái 'kích' (vũ khí). ◇Sử Kí 史記: 'Tôn Tử phân vi nhị đội, dĩ vương chi sủng cơ nhị nhân các vi đội trường, giai lệnh trì kích' 孫子分為二隊, 以王之寵姬二人各為隊長, 皆令持戟 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Tôn Tử phân làm hai đội, cử hai người sủng cơ của vua (cung nữ được vua yêu) làm đội trưởng, đều cho cầm kích.",
+                "(Động) Lấy tay trỏ vào người. ◎Như: 'kích thủ' 戟手 nắm tay lại xỉa ra một ngón (như hình cái kích)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái kích.",
+                "Lấy tay trỏ vào người gọi là kích thủ 戟手 nghĩa là nắm tay lại thò một ngón ra xỉa vào người như hình cái kích vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái kích (một thứ vũ khí thời xưa);",
+                "Chỏ, xỉa vào người (bằng tay): 戟手 Xỉa vào người (như hình cái kích)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại binh khí thời cổ, giống như cây giáo, nhưng có ba mũi."
+            ],
+            "compound_words": {
+                "陛戟": "bệ kích",
+                "綮戟": "khể kích",
+                "匽戟": "yển kích"
+            }
+        }
+    }
+}

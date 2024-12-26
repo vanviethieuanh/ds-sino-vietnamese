@@ -1,0 +1,100 @@
+{
+    "character": "擾",
+    "details": {
+        "Âm Hán Việt": [
+            "nhiễu"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thủ 手 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘憂"
+        ],
+        "Nét bút": [
+            "一丨一一ノ丨フ一一丶フ丶フ丶丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "QMBE (手一月水)"
+        ],
+        "Unicode": [
+            "U+64FE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "rǎo ㄖㄠˇ",
+            "róu ㄖㄡˊ"
+        ],
+        "Âm Nôm": [
+            "nhầu",
+            "nhiễu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みだ.れる (mida.reru)",
+            "みだ.す (mida.su)",
+            "わずら.わしい (wazura.washii)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu2",
+            "jiu5"
+        ]
+    },
+    "meanings": {
+        "nhiễu": {
+            "Từ điển phổ thông": [
+                "làm phiền, quấy rầy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quấy rối, làm loạn. ◎Như: 'nhiễu loạn nhân tâm' 擾亂人心 làm rối loạn lòng người.",
+                "(Động) Quấy rầy, làm phiền (cách nói xã giao, khách khí). ◎Như: 'thao nhiễu' 叨擾 quấy quả, làm phiền rầy.",
+                "(Động) Nuôi cho thuần, tuần phục. ◇Chu Lễ 周禮: 'Chưởng dưỡng mãnh thú nhi giáo nhiễu chi' 掌養猛獸而教擾之 (Hạ quan 夏官, Phục bất thị 服不氏) Coi việc nuôi thú dữ mà dạy cho chúng thuần phục.",
+                "(Động) Làm cho yên, an phủ, an định. ◇Vương An Thạch 王安石: 'Dĩ đạo nhiễu dân giả dã' 以道擾民者也 (Nguyên giáo 原教) Lấy đạo làm cho yên dân.",
+                "(Tính) Nhu thuận. ◇Thư Kinh 書經: 'Nhiễu nhi nghị' 擾而毅 (Cao Dao Mô 皋陶謨) Nhu thuận mà quả quyết.",
+                "(Danh) Gia súc. ◇Chu Lễ 周禮: 'Kì súc nghi lục nhiễu' 其畜宜六擾 (Hạ quan 夏官, Chức phương thị 職方氏) Về súc vật, nên nuôi sáu loại gia súc (ngựa, bò, cừu, heo, chó, gà)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quấy rối.",
+                "Nuôi cho thuần.",
+                "Làm cho yên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quấy rối, quấy rầy: 騷擾 Quấy nhiễu, quấy rối gây loạn; 煩擾 Làm rầy, làm phiền;",
+                "(văn) Nuôi cho thuần;",
+                "(văn) Làm cho yên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rối loạn. Gây rối loạn — Nhờ vả ăn uống của người khác. Làm phiền."
+            ],
+            "compound_words": {
+                "干擾": "can nhiễu",
+                "打擾": "đả nhiễu",
+                "攪擾": "giảo nhiễu",
+                "困擾": "khốn nhiễu",
+                "擾奪": "nhiễu đoạt",
+                "擾亂": "nhiễu loạn",
+                "擾攘": "nhiễu nhương",
+                "宂擾": "nhũng nhiễu",
+                "紛擾": "phân nhiễu",
+                "煩擾": "phiền nhiễu",
+                "索擾": "sách nhiễu",
+                "侵擾": "xâm nhiễu"
+            }
+        }
+    }
+}

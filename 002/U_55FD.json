@@ -1,0 +1,92 @@
+{
+    "character": "嗽",
+    "details": {
+        "Âm Hán Việt": [
+            "thấu",
+            "tốc"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "khẩu 口 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口欶"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一丨ノ丶ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "RDLO (口木中人)"
+        ],
+        "Unicode": [
+            "U+55FD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sòu ㄙㄡˋ"
+        ],
+        "Âm Nôm": [
+            "sấu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "シュウ (shū)",
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すす.ぐ (susu.gu)",
+            "ゆす.ぐ (yusu.gu)",
+            "くちすす.ぐ (kuchisusu.gu)",
+            "うがい (ugai)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau2",
+            "sau3"
+        ]
+    },
+    "meanings": {
+        "thấu": {
+            "Từ điển phổ thông": [
+                "ho có đờm",
+                "mút"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ho (có đờm). ◇Hồng Lâu Mộng 紅樓夢: 'Hốt thính đắc song ngoại hữu nữ tử thấu thanh' 忽聽得窗外有女子嗽聲 (Đệ nhất hồi) Chợt nghe ngoài cửa sổ có tiếng người con gái ho.",
+                "(Động Mút, hút. ◇Hán Thư 漢書: 'Văn Đế thường bệnh ung, Đặng Thông thường vị thượng thấu duyện chi' 文帝嘗病癰, 鄧通常為上嗽吮之 (Đặng Thông truyện 鄧通傳) Văn Đế từng có bệnh nhọt, Đặng Thông hút mút nhọt cho vua.",
+                "(Động) Súc miệng. § Thông 'thấu' 漱. ◇Sử Kí 史記: '... Khổ sâm thang, nhật thấu tam thăng, xuất nhập ngũ lục nhật, bệnh dĩ' ... 苦參湯, 日嗽三升, 出入五六日，病已 (Biển Thước Thương Công truyện 扁鵲倉公傳) ... Lấy thang sâm đắng, mỗi ngày súc miệng ba thăng, khoảng năm sáu ngày, bệnh khỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ho nhổ (ho có đờm).",
+                "Mút."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ho khạc (có đờm);",
+                "(văn) Mút."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ho ( bệnh về hô hấp bất thường )."
+            ],
+            "compound_words": {
+                "咳嗽": "khải thấu"
+            }
+        },
+        "tốc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng miệng méo xệch khi trúng gió — Một âm là Thấu. Xem Thấu."
+            ]
+        }
+    }
+}

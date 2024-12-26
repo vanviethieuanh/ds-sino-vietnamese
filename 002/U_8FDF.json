@@ -1,0 +1,83 @@
+{
+    "character": "迟",
+    "details": {
+        "Âm Hán Việt": [
+            "khích",
+            "trì",
+            "trí"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sước 辵 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺⻌尺"
+        ],
+        "Nét bút": [
+            "フ一ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YSO (卜尸人)"
+        ],
+        "Unicode": [
+            "U+8FDF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ",
+            "zhí ㄓˊ"
+        ],
+        "Âm Nôm": [
+            "chày",
+            "trì"
+        ],
+        "Âm Quảng Đông": [
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "khích": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi quanh co."
+            ]
+        },
+        "trì": {
+            "Từ điển phổ thông": [
+                "trì hoãn",
+                "chậm trễ, muộn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 遲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 遲"
+            ],
+            "compound_words": {
+                "延迟": "duyên trì",
+                "凌迟": "lăng trì",
+                "陵迟": "lăng trì",
+                "推迟": "thôi trì",
+                "迟延": "trì diên",
+                "迟钝": "trì độn"
+            }
+        },
+        "trí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 遲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 遲"
+            ]
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "character": "州",
+    "details": {
+        "Âm Hán Việt": [
+            "châu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "xuyên 巛 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình & hội ý"
+        ],
+        "Nét bút": [
+            "丶ノ丶丨丶丨"
+        ],
+        "Thương Hiệt": [
+            "ILIL (戈中戈中)"
+        ],
+        "Unicode": [
+            "U+5DDE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhōu ㄓㄡ"
+        ],
+        "Âm Nôm": [
+            "châu",
+            "chu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)",
+            "ス (su)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す (su)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "châu": {
+            "Từ điển phổ thông": [
+                "châu (đơn vị hành chính)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cồn đất giữa nước, bãi cù lao. Cũng như 'châu' 洲.",
+                "(Danh) Khu vực hành chánh. § Ghi chú: Ngày xưa chia đất ra từng khu, lấy núi sông làm mốc, gọi là 'châu'. ◎Như: 'Tô Châu' 蘇州, 'Gia Châu' 加州. ◇Bạch Cư Dị 白居易: 'Tọa trung khấp hạ thùy tối đa? Giang Châu tư mã thanh sam thấp' 座中泣下誰最多? 江州司馬青衫濕 (Tì Bà Hành 琵琶行) Trong số những người ngồi nghe, ai là người khóc nhiều nhất? Vạt áo xanh của tư mã Giang Châu ướt đẫm (nước mắt). § Phan Huy Vịnh dịch thơ: Lệ ai chan chứa hơn người? Giang Châu tư mã đượm mùi áo xanh.",
+                "(Danh) Lễ nhà Chu định 2500 nhà là một 'châu'. ◎Như: 'châu lí' 州里 hợp xưng hai chữ 'châu' và 'lí', chỉ khu vực hành chánh ngày xưa, phiếm chỉ làng xóm. ◇Luận Ngữ 論語: 'Ngôn bất trung tín, hành bất đốc kính, tuy châu lí hành hồ tai?' 言不忠信, 行不篤敬, 雖州里行乎哉 (Vệ Linh Công 衛靈公) Lời nói không trung thực đáng tin, hành vi không chuyên nhất, kính cẩn, thì dù trong làng xóm của mình, cũng làm sao mà nên việc được?",
+                "(Danh) Họ 'Châu'.",
+                "(Phó) Ổn định. ◇Quốc ngữ 國語: 'Quần tụy nhi châu xử' 群萃而州處 (Tề ngữ 齊語) Tập họp mà ở ổn định."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Châu, ngày xưa nhân thấy có núi cao sông dài mới chia đất ra từng khu lấy núi sông làm mốc nên gọi là châu.",
+                "Lễ nhà Chu định 2500 nhà là một châu, nên sau gọi làng mình là châu lí 州里 là vì đó."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Châu: 自治州 Châu tự trị;",
+                "Lệ nhà Chu định 2500 nhà là một châu: 州里 Làng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng đất lớn nổi lên giữa sông biển, có thể cư ngụ được — Tên một đơn vị hành chánh thời trước — Tên đơn vị hộ tịch thời xưa, gồm 2500 gia đình."
+            ],
+            "compound_words": {
+                "亞州": "á châu",
+                "愛州": "ái châu",
+                "本州": "bản châu",
+                "州伯": "châu bá",
+                "州里": "châu lí",
+                "州閭": "châu lư",
+                "州牧": "châu mục",
+                "州官": "châu quan",
+                "州郡": "châu quận",
+                "州尊": "châu tôn",
+                "州長": "châu trưởng",
+                "州长": "châu trưởng",
+                "州尉": "châu uý",
+                "專州": "chuyên châu",
+                "九州": "cửu châu",
+                "加州": "gia châu",
+                "杭州": "hàng châu",
+                "洪州國語詩集": "hồng châu quốc ngữ thi tập",
+                "萊州": "lai châu",
+                "鄚州": "mạo châu",
+                "烏州": "ô châu",
+                "烏州錄": "ô châu lục",
+                "佛州": "phật châu",
+                "光州": "quang châu",
+                "广州": "quảng châu",
+                "廣州": "quảng châu",
+                "神州赤縣": "thần châu xích huyện",
+                "知州": "tri châu",
+                "弇州": "yểm châu"
+            }
+        }
+    }
+}

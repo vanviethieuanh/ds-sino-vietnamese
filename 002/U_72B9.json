@@ -1,0 +1,90 @@
+{
+    "character": "犹",
+    "details": {
+        "Âm Hán Việt": [
+            "do",
+            "du",
+            "dứu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨尤"
+        ],
+        "Nét bút": [
+            "ノフノ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "KHIKU (大竹戈大山)"
+        ],
+        "Unicode": [
+            "U+72B9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yóu ㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "do"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "ユウ (yū)",
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なお (nao)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jau4"
+        ]
+    },
+    "meanings": {
+        "do": {
+            "Từ điển phổ thông": [
+                "con do (giống khỉ)",
+                "vẫn còn"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'do' 猶.",
+                "Giản thể của chữ 猶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ do 猶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 猶"
+            ],
+            "compound_words": {
+                "犹豫": "do dự",
+                "犹太": "do thái"
+            }
+        },
+        "du": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Du 猷."
+            ]
+        },
+        "dứu": {
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'do' 猶.",
+                "Giản thể của chữ 猶."
+            ]
+        }
+    }
+}

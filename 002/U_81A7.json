@@ -1,0 +1,60 @@
+{
+    "character": "膧",
+    "details": {
+        "Âm Hán Việt": [
+            "đồng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nhục 肉 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月童"
+        ],
+        "Nét bút": [
+            "ノフ丶一丶一丶ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "BYTG (月卜廿土)"
+        ],
+        "Unicode": [
+            "U+81A7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tóng ㄊㄨㄥˊ"
+        ],
+        "Âm Quảng Đông": [
+            "tung4"
+        ]
+    },
+    "meanings": {
+        "đồng": {
+            "Từ điển phổ thông": [
+                "(xem: đồng lung 膧朧,膧胧)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) 【膧朧】 đồng long [tónglóng] Lờ mờ;",
+                "【膧朦】đồng mông [tóngméng] Không rõ, không sáng;",
+                "Mập, béo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng mập, béo phệ. ( chữ này viết với bộ Nhục, đừng lầm với chữ Đồng viết với bộ Nguyệt )."
+            ],
+            "compound_words": {
+                "膧朧": "đồng lung",
+                "膧胧": "đồng lung"
+            }
+        }
+    }
+}

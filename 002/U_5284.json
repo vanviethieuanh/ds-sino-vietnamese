@@ -1,0 +1,80 @@
+{
+    "character": "劄",
+    "details": {
+        "Âm Hán Việt": [
+            "tráp",
+            "trát"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "đao 刀 (+12 nét)",
+            "trúc 竹 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰答⺉"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丶一丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "HRLN (竹口中弓)"
+        ],
+        "Unicode": [
+            "U+5284"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dá ㄉㄚˊ",
+            "zhā ㄓㄚ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "chép",
+            "tráp",
+            "trát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さす (sasu)",
+            "かぎ (kagi)",
+            "かま (kama)"
+        ],
+        "Âm Quảng Đông": [
+            "zaap3"
+        ]
+    },
+    "meanings": {
+        "tráp": {
+            "Từ điển trích dẫn": [
+                "(Danh) Thư tín. § Cũng như 'trát' 札. ◎Như: 'tín tráp' 信劄.",
+                "(Danh) Công văn. § Cũng như 'trát' 札. ◎Như: 'tráp tử' 劄子, 'tráp văn' 劄文.",
+                "(Danh) Bút kí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khắc vào vỏ tre — Ghi khắc. Ghi chép."
+            ]
+        },
+        "trát": {
+            "Từ điển phổ thông": [
+                "thẻ tre để viết",
+                "công văn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 札 (bộ 木)."
+            ]
+        }
+    }
+}

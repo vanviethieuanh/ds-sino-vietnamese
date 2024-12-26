@@ -1,0 +1,94 @@
+{
+    "character": "檀",
+    "details": {
+        "Âm Hán Việt": [
+            "đàn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mộc 木 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木亶"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶一丨フ丨フ一一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "DYWM (木卜田一)"
+        ],
+        "Unicode": [
+            "U+6A80"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shàn ㄕㄢˋ",
+            "tán ㄊㄢˊ"
+        ],
+        "Âm Nôm": [
+            "đàn",
+            "trầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダン (dan)",
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まゆみ (mayumi)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "taan4"
+        ]
+    },
+    "meanings": {
+        "đàn": {
+            "Từ điển phổ thông": [
+                "cây đàn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây đàn (thực vật). § Có thứ 'bạch đàn' 白檀 và 'hoàng đàn' 黃檀. Mùi gỗ cây 'bạch đàn' thơm nức, nên gọi là 'đàn hương' 檀香 hay trầm bạch, dùng đốt cho thơm. Lại có thứ 'tử đàn' 紫檀 gỗ dắn mà dẻo dùng đóng đồ rất quý.",
+                "(Danh) § Xem 'đàn việt' 檀越, 'đàn na' 檀那.",
+                "(Danh) § Xem 'đàn nô' 檀奴, 'đàn lang' 檀郎.",
+                "(Tính) Mùi đỏ lợt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây đàn, lại có thứ bạch đàn 白檀 và hoàng đàn 黃檀, mùi gỗ thơm nức gọi là đàn hương 檀香 hay trầm bạch, dùng đốt cho thơm. Lại có thứ tử đàn 紫檀 gỗ rắn mà dẻo dùng đóng đồ rất quý.",
+                "Nhà Phật gọi các người cúng đàn cầu được qua cõi khổ là đàn việt 檀越 hay đàn na 檀那.",
+                "Ðàn nô 檀奴, đàn lang 檀郎 tiếng gọi riêng những cậu đẹp trai.",
+                "Màu đỏ lợt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây đàn hương;",
+                "(văn) Màu đỏ nhạt;",
+                "【檀郎】 đàn lang [tánláng] Từ để nói về người chồng hay người yêu (thời xưa). Cg. 檀奴;",
+                "【檀樾】đàn việt [tányuè] Người đi cúng chùa để cầu phước, thí chủ;",
+                "[Tán] (Họ) Đàn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây, gỗ có hương thơm, còn gọi là Đàn hương."
+            ],
+            "compound_words": {
+                "白檀": "bạch đàn",
+                "旃檀": "chiên đàn",
+                "栴檀": "chiên đàn",
+                "檀郎": "đàn lang",
+                "檀那": "đàn na",
+                "檀奴": "đàn nô",
+                "檀越": "đàn việt"
+            }
+        }
+    }
+}

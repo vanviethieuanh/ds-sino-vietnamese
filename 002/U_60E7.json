@@ -1,0 +1,75 @@
+{
+    "character": "惧",
+    "details": {
+        "Âm Hán Việt": [
+            "cụ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖具"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "PBMC (心月一金)"
+        ],
+        "Unicode": [
+            "U+60E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jù ㄐㄩˋ"
+        ],
+        "Âm Nôm": [
+            "cụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おそ.れる (oso.reru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "geoi6"
+        ]
+    },
+    "meanings": {
+        "cụ": {
+            "Từ điển phổ thông": [
+                "sợ hãi",
+                "kính cẩn, khép nép"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'cụ' 懼.",
+                "Giản thể của chữ 懼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 懼"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Cụ 懼."
+            ],
+            "compound_words": {
+                "恐惧": "khủng cụ",
+                "危惧": "nguy cụ"
+            }
+        }
+    }
+}

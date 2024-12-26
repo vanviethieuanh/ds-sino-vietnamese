@@ -1,0 +1,83 @@
+{
+    "character": "惕",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch",
+            "thích"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖易"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "PAPH (心日心竹)"
+        ],
+        "Unicode": [
+            "U+60D5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tì ㄊㄧˋ"
+        ],
+        "Âm Nôm": [
+            "rẻ",
+            "thích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テキ (teki)",
+            "チャク (chaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつし.む (tsutsushi.mu)"
+        ],
+        "Âm Hàn": [
+            "척"
+        ],
+        "Âm Quảng Đông": [
+            "tik1"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "kính sợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Thận trọng, cảnh giác. § Xem “cảnh dịch” 警惕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kinh sợ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cẩn thận, cảnh giác: 警惕 Cảnh giác. Cv. 乃."
+            ],
+            "compound_words": {
+                "警惕": "cảnh dịch"
+            }
+        },
+        "thích": {
+            "Từ điển Trần Văn Chánh": [
+                "Cẩn thận, cảnh giác: 警惕 Cảnh giác. Cv. 乃."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kính trọng. Như chữ Thích 悐."
+            ]
+        }
+    }
+}

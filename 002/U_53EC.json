@@ -1,0 +1,115 @@
+{
+    "character": "召",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêu",
+            "thiệu",
+            "triệu"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱刀口"
+        ],
+        "Nét bút": [
+            "フノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "SHR (尸竹口)"
+        ],
+        "Unicode": [
+            "U+53EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "Shào ㄕㄠˋ",
+            "zhào ㄓㄠˋ"
+        ],
+        "Âm Nôm": [
+            "chẹo",
+            "chịu",
+            "giẹo",
+            "trẹo",
+            "triệu",
+            "trịu",
+            "xạu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "め.す (me.su)"
+        ],
+        "Âm Hàn": [
+            "소",
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "siu6",
+            "ziu6"
+        ]
+    },
+    "meanings": {
+        "chiêu": {
+            "Từ điển phổ thông": [
+                "kêu gọi, mời đến"
+            ]
+        },
+        "thiệu": {
+            "Từ điển trích dẫn": [
+                "(Động) Gọi, vời đến. ◎Như: 'triệu tập' 召集 kêu gọi tập hợp. § Ghi chú: Lấy tay vẫy lại là 'chiêu' 招, lấy lời gọi lại là 'triệu' 召.",
+                "(Động) Đem lại, dẫn lại, gây ra. ◎Như: 'triệu họa' 召禍 dẫn tai vạ tới. ◇Tuân Tử 荀子: 'Cố ngôn hữu triệu họa dã, hành hữu chiêu nhục dã' 故言有召禍也, 行有招辱也 (Khuyến học 勸學) Cho nên lời nói có thể gây ra tai vạ, việc làm có thể đem lại nhục nhã.",
+                "Một âm là 'thiệu'. (Danh) Tên một nước thời xưa, ở vào khoảng tỉnh Thiểm Tây bây giờ.",
+                "(Danh) Họ 'Thiệu'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đất Thiệu (thời xưa ở Trung Quốc);",
+                "(Họ) Thiệu (dùng như 邵, bộ 邑)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Họ người — Một âm là Triệu. Xem Triệu."
+            ]
+        },
+        "triệu": {
+            "Từ điển phổ thông": [
+                "kêu gọi, mời đến"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gọi, vời đến. ◎Như: 'triệu tập' 召集 kêu gọi tập hợp. § Ghi chú: Lấy tay vẫy lại là 'chiêu' 招, lấy lời gọi lại là 'triệu' 召.",
+                "(Động) Đem lại, dẫn lại, gây ra. ◎Như: 'triệu họa' 召禍 dẫn tai vạ tới. ◇Tuân Tử 荀子: 'Cố ngôn hữu triệu họa dã, hành hữu chiêu nhục dã' 故言有召禍也, 行有招辱也 (Khuyến học 勸學) Cho nên lời nói có thể gây ra tai vạ, việc làm có thể đem lại nhục nhã.",
+                "Một âm là 'thiệu'. (Danh) Tên một nước thời xưa, ở vào khoảng tỉnh Thiểm Tây bây giờ.",
+                "(Danh) Họ 'Thiệu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Vời, lấy tay vẫy lại là chiêu 招, lấy lời gọi lại là triệu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gọi, vời đến, triệu (tập): 號召 Kêu gọi, hiệu triệu;",
+                "(văn) Gây ra, dẫn đến: 故言有召禍也 Cho nên lời nói có khi gây vạ (Tuân tử: Khuyến học)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẫy gọi — Gọi từ xa về."
+            ],
+            "compound_words": {
+                "號召": "hiệu triệu",
+                "召回": "triệu hồi",
+                "召开": "triệu khai",
+                "召開": "triệu khai",
+                "召見": "triệu kiến",
+                "召集": "triệu tập"
+            }
+        }
+    }
+}

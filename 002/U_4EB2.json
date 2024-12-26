@@ -1,0 +1,88 @@
+{
+    "character": "亲",
+    "details": {
+        "Âm Hán Việt": [
+            "thân",
+            "thấn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "đầu 亠 (+7 nét)",
+            "lập 立 (+4 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱立朩"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YTD (卜廿木)"
+        ],
+        "Unicode": [
+            "U+4EB2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qīn ㄑㄧㄣ",
+            "qìng ㄑㄧㄥˋ",
+            "xīn ㄒㄧㄣ"
+        ],
+        "Âm Nôm": [
+            "thân"
+        ],
+        "Âm Quảng Đông": [
+            "can1"
+        ]
+    },
+    "meanings": {
+        "thân": {
+            "Từ điển phổ thông": [
+                "cha mẹ",
+                "ruột thịt",
+                "thân cận, gần gũi",
+                "cô dâu",
+                "thơm, hôn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 親."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【親家】 thân gia [qìngjia] Thông gia, thân gia, sui gia: 結成親家 Làm sui (gia);",
+                "Sui: 親家公 Ông sui; 親家母 Bà sui, chị sui. Xem 親 [qin]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Thân 親."
+            ],
+            "compound_words": {
+                "结亲": "kết thân",
+                "可亲": "khả thân",
+                "母亲": "mẫu thân",
+                "迎亲": "nghinh thân",
+                "姻亲": "nhân thân",
+                "父亲": "phụ thân",
+                "双亲": "song thân",
+                "探亲": "thám thân",
+                "亲近": "thân cận",
+                "亲生": "thân sinh",
+                "亲切": "thân thiết",
+                "四顾无亲": "tứ cố vô thân"
+            }
+        },
+        "thấn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 親."
+            ]
+        }
+    }
+}

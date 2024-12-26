@@ -1,0 +1,62 @@
+{
+    "character": "习",
+    "details": {
+        "Âm Hán Việt": [
+            "tập"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "ất 乙 (+2 nét)",
+            "băng 冫 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "フ丶一"
+        ],
+        "Thương Hiệt": [
+            "SIM (尸戈一)"
+        ],
+        "Unicode": [
+            "U+4E60"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xí ㄒㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tập"
+        ],
+        "Âm Quảng Đông": [
+            "zaap6"
+        ]
+    },
+    "meanings": {
+        "tập": {
+            "Từ điển phổ thông": [
+                "học đi học lại, luyện tập",
+                "quen"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 習."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 習"
+            ],
+            "compound_words": {
+                "学习": "học tập",
+                "练习": "luyện tập",
+                "复习": "phúc tập",
+                "实习": "thực tập"
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "character": "捕",
+    "details": {
+        "Âm Hán Việt": [
+            "bổ",
+            "bộ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘甫"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "QIJB (手戈十月)"
+        ],
+        "Unicode": [
+            "U+6355"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bǔ ㄅㄨˇ"
+        ],
+        "Âm Nôm": [
+            "bõ",
+            "bố",
+            "bủa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.らえる (to.raeru)",
+            "と.らわれる (to.rawareru)",
+            "と.る (to.ru)",
+            "とら.える (tora.eru)",
+            "とら.われる (tora.wareru)",
+            "つか.まえる (tsuka.maeru)",
+            "つか.まる (tsuka.maru)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bou6"
+        ]
+    },
+    "meanings": {
+        "bổ": {
+            "Từ điển Trần Văn Chánh": [
+                "Bắt, đánh, tróc nã: 捕蛇 Bắt rắn; 捕魚 Đánh cá; 逮捕 Đuổi bắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt sống. Bắt bớ — Đi tuần."
+            ],
+            "compound_words": {
+                "捕影": "bổ ảnh",
+                "捕蠅紙": "bổ dăng chỉ",
+                "捕役": "bổ dịch",
+                "捕風": "bổ phong",
+                "兜捕": "đâu bổ",
+                "攫捕": "quặc bổ",
+                "追捕": "truy bổ",
+                "掩目捕雀": "yểm mục bổ tước"
+            }
+        },
+        "bộ": {
+            "Từ điển phổ thông": [
+                "bắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tróc nã, tìm bắt. ◎Như: 'tập bộ' 緝捕 lùng bắt. ◇Thủy hử truyện 水滸傳: 'Như hữu nhân tàng nặc phạm nhân tại gia túc thực giả, sự phát đáo quan, dữ phạm nhân đồng tội. Biến hành lân cận châu phủ, nhất đồng tập bộ' 如有人藏匿犯人在家宿食者, 事發到官, 與犯人同罪. 遍行鄰近州府, 一同緝捕 (Đệ tam thập nhất hồi) Nếu có người chứa chấp tội phạm trong nhà cho ăn cho ở, quan mà biết được, sẽ cùng chịu tội với phạm nhân. Truyền khắp các châu phủ lân cận cùng nhau lùng bắt.",
+                "(Động) Săn bắt (cầm thú). ◎Như: 'bộ xà' 捕蛇 bắt rắn, 'bộ ngư' 捕魚 đánh cá. ◇Đào Uyên Minh 陶淵明: 'Vũ Lăng nhân bộ ngư vi nghiệp' 武陵人捕魚為業 (Đào hoa nguyên kí 桃花源記) Người ở Vũ Lăng làm nghề đánh cá.",
+                "(Động) Trưu tầm, sưu tầm.",
+                "(Danh) Ngày xưa, là một thứ lính sai bảo, giữ an ninh, trật tự. ◎Như: 'tuần bộ' 巡捕 lính tuần.",
+                "(Danh) Họ 'Bộ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bắt, tới thẳng nhà kẻ có tội mà bắt gọi là đãi 逮, lùng đuổi kẻ có tội trốn là bộ 捕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt, đánh, tróc nã: 捕蛇 Bắt rắn; 捕魚 Đánh cá; 逮捕 Đuổi bắt."
+            ],
+            "compound_words": {
+                "捕影拿風": "bộ ảnh nã phong",
+                "捕役": "bộ dịch",
+                "捕獲": "bộ hoạch",
+                "捕获": "bộ hoạch",
+                "捕拿": "bộ nã",
+                "捕魚": "bộ ngư",
+                "捕鱼": "bộ ngư",
+                "捕俘": "bộ phu",
+                "捕生": "bộ sinh",
+                "捕食": "bộ thực",
+                "捕捉": "bộ tróc",
+                "拘捕": "câu bộ",
+                "逮捕": "đãi bộ",
+                "兜捕": "đâu bộ",
+                "搜捕": "sưu bộ"
+            }
+        }
+    }
+}

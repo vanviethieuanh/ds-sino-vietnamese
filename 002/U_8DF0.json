@@ -1,0 +1,87 @@
+{
+    "character": "跰",
+    "details": {
+        "Âm Hán Việt": [
+            "bính",
+            "kiển",
+            "nghiễn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "túc 足 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰⻊并"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶ノ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "RMTT (口一廿廿)"
+        ],
+        "Unicode": [
+            "U+8DF0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bèng ㄅㄥˋ",
+            "jiǎn ㄐㄧㄢˇ",
+            "pián ㄆㄧㄢˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ヘイ (hei)",
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "したが.う (shitaga.u)"
+        ],
+        "Âm Quảng Đông": [
+            "pin4"
+        ]
+    },
+    "meanings": {
+        "bính": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chạy tản mát ra."
+            ],
+            "compound_words": {
+                "跰躚": "bính tiên"
+            }
+        },
+        "kiển": {
+            "Từ điển trích dẫn": [
+                "(Danh) Móng chân giống thú ngay và phẳng.",
+                "Một âm là 'kiển'. (Danh) Da giộp lên, da chai."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Móng chân giống thú ngay và phẳng.",
+                "Một âm là kiển. Da giộp lên, da chai."
+            ]
+        },
+        "nghiễn": {
+            "Từ điển phổ thông": [
+                "móng chân ngay và phẳng của giống thú",
+                "chai (phần da dày lên)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Móng chân giống thú ngay và phẳng.",
+                "Một âm là 'kiển'. (Danh) Da giộp lên, da chai."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Móng chân giống thú ngay và phẳng.",
+                "Một âm là kiển. Da giộp lên, da chai."
+            ],
+            "compound_words": {
+                "跰𨇤": "nghiễn tiên"
+            }
+        }
+    }
+}

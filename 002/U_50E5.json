@@ -1,0 +1,103 @@
+{
+    "character": "僥",
+    "details": {
+        "Âm Hán Việt": [
+            "kiểu",
+            "nghiêu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhân 人 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻堯"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一一丨一一丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "OGGU (人土土山)"
+        ],
+        "Unicode": [
+            "U+50E5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǎo ㄐㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "khiếu",
+            "kiểu",
+            "nghẹo",
+            "nghêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギョウ (gyō)",
+            "キョウ (kyō)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "giu1",
+            "giu2",
+            "hiu1",
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "kiểu": {
+            "Từ điển phổ thông": [
+                "(xem: tiêu nghiêu 僬僥,僬侥)",
+                "(xem: nghiêu hãnh 僥倖,侥倖)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'tiêu nghiêu' 僬僥.",
+                "Một âm là 'kiểu'. (Tính) § Xem 'kiểu hãnh' 僥倖."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【僥倖】 kiểu hãnh [jiăoxìng] May mắn, hoạ may: 你眞僥倖 Anh thật may mắn. Cv. 傲倖, 微倖."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kiểu hãnh 僥倖May mắn mà được, không phải do tài năng — Một âm là Nghiêu."
+            ],
+            "compound_words": {
+                "僥倖": "kiểu hãnh"
+            }
+        },
+        "nghiêu": {
+            "Từ điển phổ thông": [
+                "(xem: tiêu nghiêu 僬僥,僬侥)",
+                "(xem: nghiêu hãnh 僥倖,侥倖)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'tiêu nghiêu' 僬僥.",
+                "Một âm là 'kiểu'. (Tính) § Xem 'kiểu hãnh' 僥倖."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tiêu nghiêu 僬僥 người lùn.",
+                "Một âm là kiểu, kiểu hãnh 僥倖 cầu may, tả cái dáng cầu lợi không chán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 僬僥."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Tiêu nghiêu 僬僥 — Một âm là Kiểu."
+            ],
+            "compound_words": {
+                "僥倖": "nghiêu hãnh",
+                "僬僥": "tiêu nghiêu"
+            }
+        }
+    }
+}

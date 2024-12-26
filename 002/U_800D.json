@@ -1,0 +1,111 @@
+{
+    "character": "耍",
+    "details": {
+        "Âm Hán Việt": [
+            "soạ",
+            "sá",
+            "sái",
+            "xoạ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhi 而 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱而女"
+        ],
+        "Nét bút": [
+            "一ノ丨フ丨丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "MBV (一月女)"
+        ],
+        "Unicode": [
+            "U+800D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shuǎ ㄕㄨㄚˇ"
+        ],
+        "Âm Nôm": [
+            "sái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すばや.い (subaya.i)"
+        ],
+        "Âm Quảng Đông": [
+            "saa2"
+        ]
+    },
+    "meanings": {
+        "soạ": {
+            "Từ điển phổ thông": [
+                "đùa bỡn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðùa bỡn. Ðồ của trẻ con chơi gọi là sái hoá 耍貨. Ta quen đọc là chữ soạ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Chơi, đùa, nghịch: 耍貨 Đồ chơi (trẻ con);",
+                "Làm trò: 耍猴子 Bắt khỉ làm trò, xiếc khỉ;",
+                "Múa: 耍大刀 Múa đao;",
+                "Giở: 耍手腕 Giở mánh khoé."
+            ]
+        },
+        "sá": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trò chơi — Chơi đùa."
+            ],
+            "compound_words": {
+                "戏耍": "hí sái",
+                "戲耍": "hí sái",
+                "耍子": "sá tử"
+            }
+        },
+        "sái": {
+            "Từ điển phổ thông": [
+                "đùa bỡn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chơi, đùa. ◎Như: 'sái hóa' 耍貨 đồ chơi của trẻ con. ◇Thủy hử truyện 水滸傳: 'Hảo, nhĩ tiện hạ tràng lai thích nhất hồi sái' 好, 你便下場來踢一回耍 (Đệ nhị hồi) Được, ngươi bước xuống đá (cầu) một hồi chơi.",
+                "(Động) Làm trò. ◎Như: 'sái hầu nhi' 耍猴兒 bắt khỉ làm trò.",
+                "(Động) Múa may, nghịch. ◎Như: 'sái đại đao' 耍大刀 múa đại đao, 'sái chủy bì' 耍嘴皮 khua môi múa mép.",
+                "(Động) Giở trò. ◎Như: 'sái lại' 耍賴 giở trò vô lại.",
+                "§ Ghi chú: Ta quen đọc là 'xọa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðùa bỡn. Ðồ của trẻ con chơi gọi là sái hoá 耍貨. Ta quen đọc là chữ soạ."
+            ],
+            "compound_words": {
+                "戏耍": "hí sái",
+                "戲耍": "hí sái"
+            }
+        },
+        "xoạ": {
+            "Từ điển phổ thông": [
+                "đùa bỡn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chơi, đùa. ◎Như: 'sái hóa' 耍貨 đồ chơi của trẻ con. ◇Thủy hử truyện 水滸傳: 'Hảo, nhĩ tiện hạ tràng lai thích nhất hồi sái' 好, 你便下場來踢一回耍 (Đệ nhị hồi) Được, ngươi bước xuống đá (cầu) một hồi chơi.",
+                "(Động) Làm trò. ◎Như: 'sái hầu nhi' 耍猴兒 bắt khỉ làm trò.",
+                "(Động) Múa may, nghịch. ◎Như: 'sái đại đao' 耍大刀 múa đại đao, 'sái chủy bì' 耍嘴皮 khua môi múa mép.",
+                "(Động) Giở trò. ◎Như: 'sái lại' 耍賴 giở trò vô lại.",
+                "§ Ghi chú: Ta quen đọc là 'xọa'."
+            ]
+        }
+    }
+}

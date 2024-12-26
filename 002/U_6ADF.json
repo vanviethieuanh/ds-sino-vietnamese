@@ -1,0 +1,100 @@
+{
+    "character": "櫟",
+    "details": {
+        "Âm Hán Việt": [
+            "dược",
+            "lao",
+            "lịch"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mộc 木 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木樂"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丨フ一一フフ丶フフ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DVID (木女戈木)"
+        ],
+        "Unicode": [
+            "U+6ADF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "láo ㄌㄠˊ",
+            "lì ㄌㄧˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "lác",
+            "lịch",
+            "nẻo",
+            "nếu",
+            "niểu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レキ (reki)",
+            "ヤク (yaku)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くぬぎ (kunugi)"
+        ],
+        "Âm Hàn": [
+            "력"
+        ],
+        "Âm Quảng Đông": [
+            "lik1"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Dược Dương 櫟陽."
+            ],
+            "compound_words": {
+                "櫟陽": "dược dương"
+            }
+        },
+        "lao": {
+            "Từ điển Thiều Chửu": [
+                "Cây lịch.",
+                "Một thứ như lan can.",
+                "Một âm là lao. Nạo, cạo sồn sột."
+            ]
+        },
+        "lịch": {
+            "Từ điển phổ thông": [
+                "cây lịch, cây sồi",
+                "nạo, cạo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cây “lịch” (Quercus)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây lịch.",
+                "Một thứ như lan can.",
+                "Một âm là lao. Nạo, cạo sồn sột."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cây sồi (Quercus chinensis)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây lớn."
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "汹",
+    "details": {
+        "Âm Hán Việt": [
+            "hung"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡凶"
+        ],
+        "Nét bút": [
+            "丶丶一ノ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "EUK (水山大)"
+        ],
+        "Unicode": [
+            "U+6C79"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiōng ㄒㄩㄥ"
+        ],
+        "Âm Nôm": [
+            "húng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わ.く (wa.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "hung1"
+        ]
+    },
+    "meanings": {
+        "hung": {
+            "Từ điển phổ thông": [
+                "(xem: hung dũng 洶湧,汹涌)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 洶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lo lắng không yên;",
+                "Ồn ào, ầm ĩ;",
+                "【洶洶】hung hung [xiongxiong] (Sóng nước) cuồn cuộn, ầm ầm, sôi sục, rầm rập."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hung 洶."
+            ],
+            "compound_words": {
+                "汹涌": "hung dũng"
+            }
+        }
+    }
+}

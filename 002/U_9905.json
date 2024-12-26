@@ -1,0 +1,87 @@
+{
+    "character": "餅",
+    "details": {
+        "Âm Hán Việt": [
+            "bính"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thực 食 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠并"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶丶ノ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "OITT (人戈廿廿)"
+        ],
+        "Unicode": [
+            "U+9905"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bǐng ㄅㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "bánh",
+            "bính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もち (mochi)",
+            "もちい (mochii)"
+        ],
+        "Âm Hàn": [
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "beng2",
+            "bing2"
+        ]
+    },
+    "meanings": {
+        "bính": {
+            "Từ điển phổ thông": [
+                "bánh làm bằng bột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bánh (thường có hình tròn giẹt, làm bằng bột để ăn). ◎Như: 'nguyệt bính' 月餅 bánh trung thu.",
+                "(Danh) Chỉ vật gì có hình tròn và giẹt như cái bánh. ◎Như: 'thị bính' 柿餅 hồng khô, 'thiết bính' 鐵餅 đĩa sắt (để ném).",
+                "§ Cũng viết là 'bính' 餠."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ bính 餠."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bánh: 月餅 Bánh Trung thu; 糖果餅乾 Bánh mứt, bánh kẹo;",
+                "Vật tròn như cái bánh: 鐵餅 Đĩa sắt (dùng để ném); 豆餅 Khô đậu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bánh ( để ăn ) — Vật tròn như cái bánh."
+            ],
+            "compound_words": {
+                "餅乾": "bính can",
+                "餅師": "bính sư",
+                "蒸餅": "chưng bính",
+                "豆餅": "đậu bính",
+                "畫餅": "hoạ bính",
+                "煎餅": "tiên bính"
+            }
+        }
+    }
+}

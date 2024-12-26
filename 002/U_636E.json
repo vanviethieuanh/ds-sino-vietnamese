@@ -1,0 +1,108 @@
+{
+    "character": "据",
+    "details": {
+        "Âm Hán Việt": [
+            "cư",
+            "cứ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘居"
+        ],
+        "Nét bút": [
+            "一丨一フ一ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QSJR (手尸十口)"
+        ],
+        "Unicode": [
+            "U+636E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ",
+            "jù ㄐㄩˋ"
+        ],
+        "Âm Nôm": [
+            "cớ",
+            "cư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.える (su.eru)",
+            "す.わる (su.waru)"
+        ],
+        "Âm Hàn": [
+            "거"
+        ],
+        "Âm Quảng Đông": [
+            "geoi1"
+        ]
+    },
+    "meanings": {
+        "cư": {
+            "Từ điển trích dẫn": [
+                "(Tính) § Xem 'kiết cư' 拮据.",
+                "Một âm là 'cứ'. (Động) § Cũng như 'cứ' 據.",
+                "§ Giản thể của chữ 據."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh tay, kiết cư 拮据 bệnh tay. Cảnh huống quẫn bách cũng gọi là kiết cư.",
+                "Một âm là cứ. Cũng như chữ cứ 據."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 拮据 [jiéju]. Xem 據 [jù]."
+            ],
+            "compound_words": {
+                "拮据": "kiết cư"
+            }
+        },
+        "cứ": {
+            "Từ điển phổ thông": [
+                "chiếm giữ",
+                "căn cứ, bằng cứ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) § Xem 'kiết cư' 拮据.",
+                "Một âm là 'cứ'. (Động) § Cũng như 'cứ' 據.",
+                "§ Giản thể của chữ 據."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh tay, kiết cư 拮据 bệnh tay. Cảnh huống quẫn bách cũng gọi là kiết cư.",
+                "Một âm là cứ. Cũng như chữ cứ 據."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 據"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nắm vào. Dựa vào — Bướng bỉnh."
+            ],
+            "compound_words": {
+                "凭据": "bằng cứ",
+                "根据": "căn cứ",
+                "佔据": "chiếm cứ",
+                "据悉": "cứ tất",
+                "据说": "cứ thuyết",
+                "单据": "đơn cứ",
+                "非对称式数据用户线": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "收据": "thu cứ",
+                "依据": "y cứ"
+            }
+        }
+    }
+}

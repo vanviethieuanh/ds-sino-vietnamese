@@ -1,0 +1,207 @@
+{
+    "character": "質",
+    "details": {
+        "Âm Hán Việt": [
+            "chí",
+            "chất"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱斦貝"
+        ],
+        "Nét bút": [
+            "ノノ一丨ノノ一丨丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HLBUC (竹中月山金)"
+        ],
+        "Unicode": [
+            "U+8CEA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhí ㄓˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chát",
+            "chắc",
+            "chắt",
+            "chất",
+            "chớt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)",
+            "シチ (shichi)",
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たち (tachi)",
+            "ただ.す (tada.su)",
+            "もと (moto)",
+            "わりふ (warifu)"
+        ],
+        "Âm Hàn": [
+            "질",
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zat1",
+            "zi3"
+        ]
+    },
+    "meanings": {
+        "chí": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bản thể của sự vật, gốc rễ, căn bản, đặc tính. ◎Như: 'khí chất' 氣質 chất hơi, 'lưu chất' 流質 chất lỏng. ◇Luận Ngữ 論語: 'Quân tử nghĩa dĩ vi chất, lễ dĩ hành chi' 君子義以為質, 禮以行之 (Vệ Linh Công 衛靈公) Người quân tử lấy nghĩa làm gốc, theo lễ mà làm.",
+                "(Danh) Bẩm tính trời cho. ◎Như: 'tư chất' 私質 bẩm tính riêng.",
+                "(Danh) Bản tính chất phác. ◇Luận Ngữ 論語: 'Chất thắng văn tắc dã, văn thắng chất tắc sử, văn chất bân bân, nhiên hậu quân tử' 質勝文則野, 文勝質則史, 文質彬彬然後君子 (Ung dã 雍也) Chất phác thắng văn nhã thì là người quê mùa, văn nhã thắng chất phác thì là người chép sử (giữ việc văn thư), văn và chất đều nhau mới là người quân tử.",
+                "(Danh) Hình vóc, thân thể. ◇Tào Thực 曹植: 'Thống dư chất chi nhật khuy' 痛余質之日虧 (Mẫn chí phú 愍志賦) Đau đớn trong thân ta mà ngày một suy kém.",
+                "(Danh) Cái đích tập bắn.",
+                "(Danh) Gông, một hình cụ thời xưa.",
+                "(Danh) Lối văn tự mua bán. ◎Như: 'chất tề' 質劑 tờ hợp đồng buôn bán.",
+                "(Danh) Lời thề ước.",
+                "(Động) Hỏi, cật vấn, còn nghi ngờ nên hỏi lại. ◎Như: 'chất nghi' 質疑 tới người biết hơn mà định phải trái nên chăng. ◇Liêu trai chí dị 聊齋志異: 'Ấp trung bộ dịch nghi nhi chấp chi, chất ư quan, khảo lược khốc thảm' 邑中捕役疑而執之, 質於官, 拷掠酷慘 (Vương Lan 王蘭) Sai dịch trong ấp nghi ngờ nên bắt giữ, cật vấn ở sở quan, khảo đánh thảm khốc.",
+                "(Tính) Thật thà, mộc mạc. ◇Hồng Lâu Mộng 紅樓夢: 'Nhược thuyết nhĩ tính linh, khước hựu như thử chất xuẩn' 若說你性靈, 卻又如此質蠢 (Đệ nhất hồi) Ngươi bảo ngươi có tính linh, sao lại dại dột ngu dốt thế?",
+                "Một âm là 'chí'. (Động) Để một vật hay người làm tin. § Ngày xưa hai nước hòa hiếu với nhau, sợ sau phản trắc, mới cắt người thân nước này sang ở nước kia để làm con tin gọi là 'chí'. ◇Chiến quốc sách 戰國策: 'Yên thái tử Đan chí ư Tần, vong quy' 燕太子丹質於秦, 亡歸 (Yên sách tam 燕策三) Thái tử Đan nước Yên làm con tin ở Tần, trốn được về nước.",
+                "(Động) Đem đồ đạc hay nhà ruộng mà cầm làm tin để lấy tiền. ◇Liêu trai chí dị 聊齋志異: 'Tả nang chí y' 瀉囊質衣 (Cát Cân 葛巾) Dốc hết túi cầm bán áo.",
+                "(Danh) Lễ vật để bái kiến người trên. § Thông 'chí' 贄. ◇Sử Kí 史記: 'Nãi lệnh Trương Nghi tường khứ Tần, hậu tệ ủy chí sự Sở' 乃令張儀詳去秦, 厚幣委質事楚 (Khuất Nguyên Giả Sanh truyện 屈原賈生傳) Bèn sai Trương Nghi giả vờ bỏ Tần, mang nhiều tiền của và lễ vật xin thờ nước Sở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thể chất, cái bản thể của các vật đều gọi là chất, như khí chất 氣質 chất hơi, lưu chất 流質 chất lỏng, chia rẽ vật thể ra từng bộ phận rất nhỏ gọi là chất điểm 質點, cái chất điểm thuần một chất không lẫn cái gì gọi là nguyên chất 原質.",
+                "Tư chất 私質 nói về cái bẩm tính của con người.",
+                "Chất phác, mộc mạc.",
+                "Chất chính, tới người biết hơn mà định phải trái nên chăng gọi là chất nghi 質疑.",
+                "Chủ, cỗi gốc.",
+                "Lối văn tự mua bán.",
+                "Tin.",
+                "Thật, chân thật.",
+                "Lời thề ước.",
+                "Cái đích tập bắn.",
+                "Một âm là chí. Cầm đợ, để một vật gì làm tin. Ngày xưa hai nước hoà hiếu với nhau, sợ sau phản trắc, mới cắt người thân nước này sang ở nước kia để làm cho tin gọi là chí. Đem đồ đạc hay nhà ruộng mà cầm làm tin để lấy tiền cũng gọi là chí."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chất: 流質 Chất lỏng; 物質 Vật chất; 品質 Phẩm chất; 性質 Tính chất;",
+                "Chất lượng, phẩm chất: 重質不重量 Coi trọng chất lượng chứ không coi trọng số lượng; 按質分等 Chia cấp theo chất lượng;",
+                "(văn) Chất phác, mộc mạc (ít văn vẻ);",
+                "Chất chính, chất vấn, hỏi (cho ra đúng sai): 我質問那個男孩，直到他說出所知道一切 Tôi chất vấn đứa bé trai này cho đến lúc nó nói ra hết những gì nó biết;",
+                "Đối chất: 被告與原告對質 Bị cáo đối chất với nguyên cáo;",
+                "Thế nợ, cầm, đợ, đưa (người) đi làm con tin, đồ (vật) gán nợ, con tin: 以衣物質錢 Lấy quần áo gán nợ; 以此物為質 Lấy vật này làm đồ gán nợ; 人質 Con tin;",
+                "(văn) Thật, chân thật;",
+                "(văn) Lời thề ước;",
+                "(văn) Cái đích tập bắn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa ra, gửi lại để làm tin — Vật làm tin. Con tin. Một âm khác là Chất."
+            ],
+            "compound_words": {
+                "質正": "chất chính",
+                "質庫": "chí khố",
+                "人質": "nhân chí",
+                "委質": "uỷ chí"
+            }
+        },
+        "chất": {
+            "Từ điển phổ thông": [
+                "thể chất (rắn, lỏng, khí)",
+                "tư chất",
+                "chất phác, mộc mạc",
+                "hỏi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bản thể của sự vật, gốc rễ, căn bản, đặc tính. ◎Như: 'khí chất' 氣質 chất hơi, 'lưu chất' 流質 chất lỏng. ◇Luận Ngữ 論語: 'Quân tử nghĩa dĩ vi chất, lễ dĩ hành chi' 君子義以為質, 禮以行之 (Vệ Linh Công 衛靈公) Người quân tử lấy nghĩa làm gốc, theo lễ mà làm.",
+                "(Danh) Bẩm tính trời cho. ◎Như: 'tư chất' 私質 bẩm tính riêng.",
+                "(Danh) Bản tính chất phác. ◇Luận Ngữ 論語: 'Chất thắng văn tắc dã, văn thắng chất tắc sử, văn chất bân bân, nhiên hậu quân tử' 質勝文則野, 文勝質則史, 文質彬彬然後君子 (Ung dã 雍也) Chất phác thắng văn nhã thì là người quê mùa, văn nhã thắng chất phác thì là người chép sử (giữ việc văn thư), văn và chất đều nhau mới là người quân tử.",
+                "(Danh) Hình vóc, thân thể. ◇Tào Thực 曹植: 'Thống dư chất chi nhật khuy' 痛余質之日虧 (Mẫn chí phú 愍志賦) Đau đớn trong thân ta mà ngày một suy kém.",
+                "(Danh) Cái đích tập bắn.",
+                "(Danh) Gông, một hình cụ thời xưa.",
+                "(Danh) Lối văn tự mua bán. ◎Như: 'chất tề' 質劑 tờ hợp đồng buôn bán.",
+                "(Danh) Lời thề ước.",
+                "(Động) Hỏi, cật vấn, còn nghi ngờ nên hỏi lại. ◎Như: 'chất nghi' 質疑 tới người biết hơn mà định phải trái nên chăng. ◇Liêu trai chí dị 聊齋志異: 'Ấp trung bộ dịch nghi nhi chấp chi, chất ư quan, khảo lược khốc thảm' 邑中捕役疑而執之, 質於官, 拷掠酷慘 (Vương Lan 王蘭) Sai dịch trong ấp nghi ngờ nên bắt giữ, cật vấn ở sở quan, khảo đánh thảm khốc.",
+                "(Tính) Thật thà, mộc mạc. ◇Hồng Lâu Mộng 紅樓夢: 'Nhược thuyết nhĩ tính linh, khước hựu như thử chất xuẩn' 若說你性靈, 卻又如此質蠢 (Đệ nhất hồi) Ngươi bảo ngươi có tính linh, sao lại dại dột ngu dốt thế?",
+                "Một âm là 'chí'. (Động) Để một vật hay người làm tin. § Ngày xưa hai nước hòa hiếu với nhau, sợ sau phản trắc, mới cắt người thân nước này sang ở nước kia để làm con tin gọi là 'chí'. ◇Chiến quốc sách 戰國策: 'Yên thái tử Đan chí ư Tần, vong quy' 燕太子丹質於秦, 亡歸 (Yên sách tam 燕策三) Thái tử Đan nước Yên làm con tin ở Tần, trốn được về nước.",
+                "(Động) Đem đồ đạc hay nhà ruộng mà cầm làm tin để lấy tiền. ◇Liêu trai chí dị 聊齋志異: 'Tả nang chí y' 瀉囊質衣 (Cát Cân 葛巾) Dốc hết túi cầm bán áo.",
+                "(Danh) Lễ vật để bái kiến người trên. § Thông 'chí' 贄. ◇Sử Kí 史記: 'Nãi lệnh Trương Nghi tường khứ Tần, hậu tệ ủy chí sự Sở' 乃令張儀詳去秦, 厚幣委質事楚 (Khuất Nguyên Giả Sanh truyện 屈原賈生傳) Bèn sai Trương Nghi giả vờ bỏ Tần, mang nhiều tiền của và lễ vật xin thờ nước Sở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thể chất, cái bản thể của các vật đều gọi là chất, như khí chất 氣質 chất hơi, lưu chất 流質 chất lỏng, chia rẽ vật thể ra từng bộ phận rất nhỏ gọi là chất điểm 質點, cái chất điểm thuần một chất không lẫn cái gì gọi là nguyên chất 原質.",
+                "Tư chất 私質 nói về cái bẩm tính của con người.",
+                "Chất phác, mộc mạc.",
+                "Chất chính, tới người biết hơn mà định phải trái nên chăng gọi là chất nghi 質疑.",
+                "Chủ, cỗi gốc.",
+                "Lối văn tự mua bán.",
+                "Tin.",
+                "Thật, chân thật.",
+                "Lời thề ước.",
+                "Cái đích tập bắn.",
+                "Một âm là chí. Cầm đợ, để một vật gì làm tin. Ngày xưa hai nước hoà hiếu với nhau, sợ sau phản trắc, mới cắt người thân nước này sang ở nước kia để làm cho tin gọi là chí. Đem đồ đạc hay nhà ruộng mà cầm làm tin để lấy tiền cũng gọi là chí."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chất: 流質 Chất lỏng; 物質 Vật chất; 品質 Phẩm chất; 性質 Tính chất;",
+                "Chất lượng, phẩm chất: 重質不重量 Coi trọng chất lượng chứ không coi trọng số lượng; 按質分等 Chia cấp theo chất lượng;",
+                "(văn) Chất phác, mộc mạc (ít văn vẻ);",
+                "Chất chính, chất vấn, hỏi (cho ra đúng sai): 我質問那個男孩，直到他說出所知道一切 Tôi chất vấn đứa bé trai này cho đến lúc nó nói ra hết những gì nó biết;",
+                "Đối chất: 被告與原告對質 Bị cáo đối chất với nguyên cáo;",
+                "Thế nợ, cầm, đợ, đưa (người) đi làm con tin, đồ (vật) gán nợ, con tin: 以衣物質錢 Lấy quần áo gán nợ; 以此物為質 Lấy vật này làm đồ gán nợ; 人質 Con tin;",
+                "(văn) Thật, chân thật;",
+                "(văn) Lời thề ước;",
+                "(văn) Cái đích tập bắn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thể của vật, cái làm nên vật — Tính cách của sự vật — Thành thật, không trau chuốt giả dối — Hỏi kĩ, gạn hỏi — Phần cốt yếu, phần chính. Một âm khác là P Chí."
+            ],
+            "compound_words": {
+                "本質": "bổn chất",
+                "變質": "biến chất",
+                "質正": "chất chính",
+                "質證": "chất chứng",
+                "質點": "chất điểm",
+                "質料": "chất liệu",
+                "質量": "chất lượng",
+                "質疑": "chất nghi",
+                "質言": "chất ngôn",
+                "質樸": "chất phác",
+                "質數": "chất số",
+                "質成": "chất thành",
+                "質實": "chất thật",
+                "質問": "chất vấn",
+                "容質": "dung chất",
+                "地質": "địa chất",
+                "毒質": "độc chất",
+                "對質": "đối chất",
+                "同質": "đồng chất",
+                "介質": "giới chất",
+                "氣質": "khí chất",
+                "鑛質": "khoáng chất",
+                "流質": "lưu chất",
+                "媒質": "môi chất",
+                "原質": "nguyên chất",
+                "品質": "phẩm chất",
+                "訪質": "phỏng chất",
+                "斧質": "phủ chất",
+                "光質": "quang chất",
+                "鬼質": "quỷ chất",
+                "雜質": "tạp chất",
+                "實質": "thực chất",
+                "性質": "tính chất",
+                "素質": "tố chất",
+                "私質": "tư chất",
+                "資質": "tư chất",
+                "物質": "vật chất"
+            }
+        }
+    }
+}

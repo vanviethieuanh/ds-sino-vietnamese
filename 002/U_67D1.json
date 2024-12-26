@@ -1,0 +1,85 @@
+{
+    "character": "柑",
+    "details": {
+        "Âm Hán Việt": [
+            "cam",
+            "kiềm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木甘"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "DTM (木廿一)"
+        ],
+        "Unicode": [
+            "U+67D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ",
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "cam",
+            "cùm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)",
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "gam1"
+        ]
+    },
+    "meanings": {
+        "cam": {
+            "Từ điển phổ thông": [
+                "cây cam"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây cam. § Trái của cây cam cũng gọi là 'cam' 柑. ◎Như: 'kim cam' 金柑 cam vàng.",
+                "Một âm là 'kiềm'. (Động) Lấy miếng gỗ đặt ở mõm ngựa, làm cho ngựa không ăn được. § Thông 'kiềm' 拑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây cam.",
+                "Cùng nghĩa với chữ cam 鉗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây cam;",
+                "Như 鉗 (bộ 金)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây, trái nhiều nước thơm ngon. Ta cũng gọi là cây Cam, quả Cam ( citrus nobilis ) — Một âm khác là Kiềm."
+            ],
+            "compound_words": {
+                "柑果": "cam quả",
+                "乳柑": "nhũ cam"
+            }
+        },
+        "kiềm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy khúc gỗ nhỏ mà kiềm miệng ngựa — Dùng như chữ Kiềm拑 — Một âm là Cam."
+            ]
+        }
+    }
+}

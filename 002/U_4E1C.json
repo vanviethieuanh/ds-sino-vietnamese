@@ -1,0 +1,64 @@
+{
+    "character": "东",
+    "details": {
+        "Âm Hán Việt": [
+            "đông"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhất 一 (+4 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一フ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KD (大木)"
+        ],
+        "Unicode": [
+            "U+4E1C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dōng ㄉㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "đông"
+        ],
+        "Âm Quảng Đông": [
+            "dung1"
+        ]
+    },
+    "meanings": {
+        "đông": {
+            "Từ điển phổ thông": [
+                "phía đông, phương đông"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 東."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 東"
+            ],
+            "compound_words": {
+                "东亚": "đông á",
+                "东海": "đông hải",
+                "东京": "đông kinh",
+                "东盟": "đông minh",
+                "东南亚国家联盟": "đông nam á quốc gia liên minh",
+                "东莞": "đông quản",
+                "东西": "đông tây",
+                "广东": "quảng đông"
+            }
+        }
+    }
+}

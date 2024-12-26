@@ -1,0 +1,86 @@
+{
+    "character": "駒",
+    "details": {
+        "Âm Hán Việt": [
+            "câu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬句"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "SFPR (尸火心口)"
+        ],
+        "Unicode": [
+            "U+99D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ",
+            "jù ㄐㄩˋ"
+        ],
+        "Âm Nôm": [
+            "câu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こま (koma)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "keoi1"
+        ]
+    },
+    "meanings": {
+        "câu": {
+            "Từ điển phổ thông": [
+                "ngựa non",
+                "khoẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa tốt, tuấn mã. ◎Như: 'thiên lí câu' 千里駒 ngựa chạy nghìn dặm. ◇Tam quốc diễn nghĩa 三國演義: 'Bố kiến liễu thử mã, đại hỉ, tạ Túc viết: Huynh tứ thử lương câu, tương hà dĩ vi báo?' 布見了此馬, 大喜, 謝肅曰: 兄賜此良駒, 將何以為報 (Đệ tam hồi) (Lã) Bố trông thấy con ngựa đó (Xích Thố), mừng lắm, cảm tạ (Lí) Túc rằng: Anh cho con ngựa hay như thế, biết lấy gì đáp lại?",
+                "(Danh) Thú còn non. ◎Như: 'mã câu tử' 馬駒子 ngựa con, 'lư câu tử' 驢駒子 lừa con. ◇Vương Vũ Xưng 王禹偁: 'Chân kì lân chi câu, phượng hoàng chi sồ dã' 真麒麟之駒, 鳳凰之雛也 (Thần đồng ... liên cú tự 神童...聯句序) Đúng là con nhỏ của kì lân, chim non của phượng hoàng vậy.",
+                "(Danh) Họ 'Câu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngựa hai tuổi gọi là câu. Phàm ngựa còn non còn khoẻ đều gọi là câu cả. Vì thế khen các con em có tài khí hơn người gọi là thiên lí câu 千里駒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngựa hai tuổi, ngựa khỏe;",
+                "Con: 駒子 Ngựa con, lừa con;",
+                "(Ngb) (Bóng) mặt trời: 駒光過隙 Bóng mặt trời chạy qua cửa sổ (thời gian đi quá nhanh); 駒隙 Thời gian trôi nhanh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngựa trẻ, đang sung sức."
+            ],
+            "compound_words": {
+                "白駒": "bạch câu",
+                "白駒過隙": "bạch câu quá khích",
+                "駒影": "câu ảnh",
+                "駒隙": "câu khích",
+                "駒光": "câu quang",
+                "駒齒": "câu xỉ"
+            }
+        }
+    }
+}

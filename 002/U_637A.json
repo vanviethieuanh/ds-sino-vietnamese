@@ -1,0 +1,83 @@
+{
+    "character": "捺",
+    "details": {
+        "Âm Hán Việt": [
+            "nại"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘奈"
+        ],
+        "Nét bút": [
+            "一丨一一ノ丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QKMF (手大一火)"
+        ],
+        "Unicode": [
+            "U+637A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "nà ㄋㄚˋ"
+        ],
+        "Âm Nôm": [
+            "nài",
+            "nậy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ナツ (natsu)",
+            "ダツ (datsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さ.す (sa.su)",
+            "お.す (o.su)"
+        ],
+        "Âm Hàn": [
+            "날"
+        ],
+        "Âm Quảng Đông": [
+            "naat6"
+        ]
+    },
+    "meanings": {
+        "nại": {
+            "Từ điển phổ thông": [
+                "đè ép, ấn",
+                "nét phảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lấy tay đè. ◎Như: 'nại thủ ấn' 捺手印 in dấu tay.",
+                "(Động) Đè nén, kiềm chế, dằn xuống. ◎Như: 'nại trụ tâm đầu đích nộ hỏa' 捺住心頭的怒火 đè nén lửa giận trong lòng.",
+                "(Danh) Nét mác về bên phải trong chữ Hán."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðè ép, lấy tay ấn mạnh gọi là nại.",
+                "Cách viết đưa bút về bên tay phải xuống gọi là nại (cái phẩy)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kiềm chế, dằn lại, đè xuống, nén, ấn: 他勉強捺住了心頭的怒火 Anh ta cố nén cơn giận trong lòng;",
+                "Nét phẩy (trong chữ Hán)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy tay đè xuống, ấn xuống."
+            ],
+            "compound_words": {
+                "按捺": "án nại"
+            }
+        }
+    }
+}

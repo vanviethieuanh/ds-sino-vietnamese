@@ -1,0 +1,87 @@
+{
+    "character": "棟",
+    "details": {
+        "Âm Hán Việt": [
+            "đống"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木東"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DDW (木木田)"
+        ],
+        "Unicode": [
+            "U+68DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dòng ㄉㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đóng",
+            "đống",
+            "đúng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むね (mune)",
+            "むな- (muna-)"
+        ],
+        "Âm Hàn": [
+            "동"
+        ],
+        "Âm Quảng Đông": [
+            "dung3",
+            "dung6"
+        ]
+    },
+    "meanings": {
+        "đống": {
+            "Từ điển phổ thông": [
+                "cái cột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cột trụ chính trong nhà. ◎Như: 'đống lương' 棟梁: (1) Rường cột. ◇Trang Tử 莊子: 'Phù ngưỡng nhi thị kì tế chi, tắc quyền khúc nhi bất khả dĩ vi đống lương' 夫仰而視其細枝, 則拳曲而不可以為棟梁 (Nhân gian thế 人間世) Ngẩng lên mà trông cành nhỏ của nó, thì khùng khoè mà không thể dùng làm rường cột. (2) Chỉ người có tài gánh vác việc nước. ◇Tam quốc diễn nghĩa 三國演義: 'Tử Long thân cố, quốc gia tổn nhất đống lương, ngô khứ nhất tí dã' 子龍身故, 國家損一棟梁, 吾去一臂也 (Đệ cửu thập thất hồi) Tử Long mất đi, nước nhà tổn mất một bậc lương đống, ta mất đi một cánh tay.",
+                "(Danh) Lượng từ, đơn vị dùng chỉ phòng ốc: tòa, ngôi, nóc. ◎Như: 'nhất đống phòng ốc' 一棟房屋 một ngôi nhà."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nóc mái, nóc là một cái cần nhất của một cái nhà, nên một cái nhà cũng gọi là nhất đống 一棟. Vật gì nhiều lắm gọi là hãn ngưu sung đống 汗牛充棟 (mồ hôi trâu rui trên nóc).",
+                "Người có tài gánh vác được việc quan trọng lớn cho nước (như tể tướng) gọi là đống lương 棟梁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nóc (nhà);",
+                "Trụ cột;",
+                "Toà, ngôi, nóc (chỉ số nhà): 一棟樓房 Một toà nhà (gác)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cột nhà — Đòn nóc nhà. Đòn dông — Tên người, tức Hồ Sĩ Đống, danh sĩ thời Lê mạt, sinh 1739, mất 1785, tự là Long Cát, hiệu là Long Phủ, dòng dõi Hồ Tôn Thốc, quê ở xã Hoàn Hậu huyện Quỳnh Lưu tỉnh Nghệ An, đậu tiến sĩ năm 1872, năm Cảnh Hưng thứ 3 đời Lê Hiển Tông, làm quan tới chức Thượng thư, tước Dao Đĩnh Hầu, sang sứ Trung Hoa năm 1777. Tác phẩm có Dao đình sứ tập và Hoa trình khiển hứng."
+            ],
+            "compound_words": {
+                "棟梁": "đống lương",
+                "棟宇": "đống vũ",
+                "汗牛充棟": "hãn ngưu sung đống",
+                "梁棟": "lương đống",
+                "充棟汗牛": "sung đống hãn ngưu"
+            }
+        }
+    }
+}

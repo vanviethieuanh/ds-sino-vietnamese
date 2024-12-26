@@ -1,0 +1,117 @@
+{
+    "character": "需",
+    "details": {
+        "Âm Hán Việt": [
+            "nhu",
+            "nhuyễn",
+            "noạ",
+            "tu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "vũ 雨 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱雨而"
+        ],
+        "Nét bút": [
+            "一丶フ丨丶丶丶丶一ノ丨フ丨丨"
+        ],
+        "Thương Hiệt": [
+            "MBMBL (一月一月中)"
+        ],
+        "Unicode": [
+            "U+9700"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nuò ㄋㄨㄛˋ",
+            "rú ㄖㄨˊ",
+            "ruǎn ㄖㄨㄢˇ",
+            "xū ㄒㄩ"
+        ],
+        "Âm Nôm": [
+            "nhu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)"
+        ],
+        "Âm Hàn": [
+            "수",
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "seoi1"
+        ]
+    },
+    "meanings": {
+        "nhu": {
+            "Từ điển phổ thông": [
+                "đợi",
+                "đồ dùng",
+                "nhu cầu, cần thiết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đợi. ◎Như: 'tương nhu' 相需 đợi nhau.",
+                "(Động) Cần. ◎Như: 'nhu yếu' 需要 cần phải, 'nhu tác vô độ' 需索無度 đòi hỏi không cùng. ◇Pháp Hoa Kinh 法華經: 'Như nhân khát nhu thủy' 如人渴需水 (Pháp sư phẩm đệ thập 法師品第十) Như người khát cần nước.",
+                "(Danh) Sự cần thiết, sự cần dùng, nhu cầu. ◎Như: 'quân nhu' 軍需 đồ dùng trong quân. ◇Tô Thức 蘇軾: 'Ngã hữu đẩu tửu, tàng chi cửu hĩ, dĩ đãi tử bất thời chi nhu' 我有斗酒, 藏之久矣, 以待子不時之需 (Hậu Xích Bích phú 後赤壁賦) Tôi có một đấu rượu, cất đã lâu, phòng lúc thầy bất thần dùng đến.",
+                "(Danh) Sự lần lữa, trì hoãn. ◇Tả truyện 左傳: 'Nhu, sự chi tặc giã' 需, 事之賊也 (Ai Công thập tứ niên 哀公十四年) Lần lữa, là cái hại cho công việc vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðợi. Như tương nhu 相需 cùng đợi.",
+                "Dùng. Như quân nhu 軍需 đồ dùng trong quân.",
+                "Lần lữa. Như sách Tả truyện 左傳 nói nhu sự chi tặc giã 需事之賊也 lần lữa là cái hại cho công việc vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhu cầu, sự cần dùng, sự cần thiết: 按需分配 Phân phối theo nhu cầu;",
+                "Cần: 他需款甚殷 Nó rất cần tiền;",
+                "(văn) Lần lữa, trì hoãn, do dự: 需，事之賊也 Lần lữa là cái hại cho công việc (Tả truyện);",
+                "(văn) Đợi: 相需 Đợi nhau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cần dùng. Cần đến — Mềm mại."
+            ],
+            "compound_words": {
+                "兵需": "binh nhu",
+                "公需": "công nhu",
+                "供需": "cung nhu",
+                "契需": "khiếp nhu",
+                "需求": "nhu cầu",
+                "需用": "nhu dụng",
+                "需費": "nhu phí",
+                "需要": "nhu yếu",
+                "需要品": "nhu yếu phẩm",
+                "軍需": "quân nhu",
+                "必需": "tất nhu"
+            }
+        },
+        "nhuyễn": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 軟 (bộ 車)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Yếu đuối — không được đầy đủ, sung mãn — Các âm khác là Nhu, Tu. Xem các âm này."
+            ]
+        },
+        "noạ": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 懦 (bộ 忄)."
+            ]
+        },
+        "tu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một quẻ trong kinh Dịch, dưới quẻ Càn, trên quẻ Khảm, chủ về sự chờ đợi, trì trệ — Các âm khác là Nhu, Nhuyên. Xem các âm này."
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "character": "筒",
+    "details": {
+        "Âm Hán Việt": [
+            "đồng",
+            "động"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮同"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HBMR (竹月一口)"
+        ],
+        "Unicode": [
+            "U+7B52"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dòng ㄉㄨㄥˋ",
+            "tóng ㄊㄨㄥˊ",
+            "tǒng ㄊㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "đồng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつ (tsutsu)"
+        ],
+        "Âm Hàn": [
+            "통"
+        ],
+        "Âm Quảng Đông": [
+            "tung2",
+            "tung4"
+        ]
+    },
+    "meanings": {
+        "đồng": {
+            "Từ điển phổ thông": [
+                "ống tre",
+                "ống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ống tre. ◇Vương Sung 王充: 'Tiệt trúc vi đồng' 截竹為筒 (Luận hành 論衡, Lượng tri 量知) Chặt tre làm ống.",
+                "(Danh) Phàm vật gì hình ống, tròn mà trong rỗng đều gọi là 'đồng'. ◎Như: 'bút đồng' 筆筒 tháp bút, 'xuy đồng' 吹筒 ống bắn chim.",
+                "(Danh) Lượng từ: đơn vị dùng cho vật hình ống: thùng, hòm, hộp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ống tre, ống trúc, phàm vật gì tròn mà trong có lỗ đều gọi là đồng cả. Như bút đồng 筆筒 cái thắp bút, xuy đồng 吹筒 cái ống bắn chim, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ống (tre): 煙筒 Ống khói; 袖筒兒 Tay áo; 筆筒 Ống đựng bút, tháp bút; 吹筒 Ống bắn chim;",
+                "Thùng, hòm, hộp: 信筒 Hòm thư, hộp thư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ống tre, ống trúc dài — Một âm là Động. Xem Động."
+            ],
+            "compound_words": {
+                "詩筒": "thi đồng",
+                "書筒": "thư đồng",
+                "唧筒": "tức đồng",
+                "吹筒": "xuy đồng"
+            }
+        },
+        "động": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây sáo làm bằng ống trúc, một thứ nhạc khí thời xưa. Cũng gọi là Động tiêu — Một âm là Đồng. Xem Đồng."
+            ]
+        }
+    }
+}

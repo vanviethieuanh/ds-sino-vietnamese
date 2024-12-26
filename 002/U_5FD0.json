@@ -1,0 +1,81 @@
+{
+    "character": "忐",
+    "details": {
+        "Âm Hán Việt": [
+            "khẩn",
+            "thảm"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "tâm 心 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱上心"
+        ],
+        "Nét bút": [
+            "丨一一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "YMP (卜一心)"
+        ],
+        "Unicode": [
+            "U+5FD0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tǎn ㄊㄢˇ"
+        ],
+        "Âm Nôm": [
+            "thảm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "クン (kun)",
+            "コウ (kō)",
+            "キョウ (kyō)",
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むな.しい (muna.shii)"
+        ],
+        "Âm Hàn": [
+            "탐"
+        ],
+        "Âm Quảng Đông": [
+            "taan2"
+        ]
+    },
+    "meanings": {
+        "khẩn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Khẩn 恳 và Khẩn 懇."
+            ]
+        },
+        "thảm": {
+            "Từ điển phổ thông": [
+                "(xem: thảm thắc 忐忑)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) § Xem “thảm thắc” 忐忑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【忐忑】thảm thắc [tăntè] Thấp thỏm, bồn chồn: 心裡忐忑不安 Bồn chồn trong dạ, thấp tha thấp thỏm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bồn chồn thiết tha."
+            ],
+            "compound_words": {
+                "忐忑": "thảm thắc"
+            }
+        }
+    }
+}

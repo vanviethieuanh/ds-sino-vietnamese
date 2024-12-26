@@ -1,0 +1,85 @@
+{
+    "character": "莨",
+    "details": {
+        "Âm Hán Việt": [
+            "lang",
+            "lương"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹良"
+        ],
+        "Nét bút": [
+            "一丨丨丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "TIAV (廿戈日女)"
+        ],
+        "Unicode": [
+            "U+83A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "láng ㄌㄤˊ",
+            "làng ㄌㄤˋ",
+            "liáng ㄌㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "lương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たばこ (tabako)"
+        ],
+        "Âm Hàn": [
+            "랑"
+        ],
+        "Âm Quảng Đông": [
+            "loeng4",
+            "long4"
+        ]
+    },
+    "meanings": {
+        "lang": {
+            "Từ điển phổ thông": [
+                "(xem: lang đãng 莨菪)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ cỏ, thân và cành thô cứng, hái ăn được.",
+                "(Danh) § Xem 'lang đãng' 莨菪.",
+                "(Danh) § Xem 'thự lang' 薯莨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lang đãng 莨菪 một thứ cỏ để làm thuốc. Tục gọi là thiên tiên tử 天仙子.",
+                "Thự lang 薯莨 một thứ cỏ có nhiều nhựa dùng để nhuộm dây gai, dây đay cho bền, có khi dùng để nhuộm vải nữa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【莨菪】lang đãng [làngdàng] (thực) Cây kì nham, thiên tiên tử. Cg. 天仙子 [tianxianzi] Xem 莨 [liáng]."
+            ],
+            "compound_words": {
+                "莨菪": "lang đãng",
+                "薯莨": "thự lang"
+            }
+        },
+        "lương": {
+            "Từ điển Trần Văn Chánh": [
+                "【莨綢】 lương trù [liángchóu] Lụa củ nâu, lụa Quảng Đông. Cg. 拷綢 [kăochóu], 黑膠綢 [hei jiaochóu] Xem 莨 [làng]."
+            ]
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "繪",
+    "details": {
+        "Âm Hán Việt": [
+            "hội"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mịch 糸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹會"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶ノ丶一丨フ丨丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "VFOMA (女火人一日)"
+        ],
+        "Unicode": [
+            "U+7E6A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guì ㄍㄨㄟˋ",
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "cởi",
+            "gói",
+            "hội"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "エ (e)"
+        ],
+        "Âm Hàn": [
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "kui1",
+            "kui2"
+        ]
+    },
+    "meanings": {
+        "hội": {
+            "Từ điển phổ thông": [
+                "vẽ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tơ lụa thêu năm màu.",
+                "(Động) Vẽ. ◎Như: 'hội đồ' 繪圖 vẽ tranh.",
+                "(Động) Mô tả, hình dung. ◎Như: 'hội ảnh hội thanh' 繪影繪聲 miêu tả hình dung sự vật rành rành như thật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thêu năm màu.",
+                "Vẽ thuốc.",
+                "Vẽ, như hội đồ 繪圖 vẽ tranh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vẽ, hội (hoạ): 描繪 Tô vẽ;",
+                "(văn) Thêu năm màu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom tơ ngũ sắc lại mà thêu — Dùng nhiều màu mà vẽ."
+            ],
+            "compound_words": {
+                "繪晝": "hội hoạ",
+                "繪畫": "hội hoạ",
+                "描繪": "miêu hội",
+                "御製名勝圖繪詩集": "ngự chế danh thắng đồ hội thi tập"
+            }
+        }
+    }
+}

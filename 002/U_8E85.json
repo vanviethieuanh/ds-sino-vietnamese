@@ -1,0 +1,89 @@
+{
+    "character": "躅",
+    "details": {
+        "Âm Hán Việt": [
+            "trạc",
+            "trục"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "túc 足 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊蜀"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丨フ丨丨一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "RMWLI (口一田中戈)"
+        ],
+        "Unicode": [
+            "U+8E85"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhú ㄓㄨˊ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "trục",
+            "xộc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョク (choku)",
+            "タク (taku)"
+        ],
+        "Âm Hàn": [
+            "촉"
+        ],
+        "Âm Quảng Đông": [
+            "zuk6"
+        ]
+    },
+    "meanings": {
+        "trạc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vết chân — Dấu vết — Xem Trục."
+            ]
+        },
+        "trục": {
+            "Từ điển phổ thông": [
+                "nao núng, do dự",
+                "vết chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dấu vết, tung tích. ◇Khâu Đan 丘丹: 'Ngưỡng mộ hiền giả trục' 仰慕賢者躅 (Kinh trạm trường sử thảo đường 經湛長史草堂) Ngưỡng mộ tung tích của bậc hiền tài.",
+                "(Danh) Tỉ dụ hành vi của bậc tiền hiền, công tích. ◎Như: 'kế tiền trục' 繼前躅 nối dõi công tích người trước.",
+                "(Động) Giẫm, đạp.",
+                "(Phó) 'Trịch trục' 蹢躅: xem 'trịch' 蹢, 躑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trịch trục 蹢躅 luẩn quẩn, quẩn chân không đi lên được.",
+                "Dấu vết. Như cao trục 高躅 vết cao, phương trục 芳躅 vết thơm, đều là tiếng gọi các hành vi, dấu vết của nguời ẩn dật cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nao núng, do dự: 蹢躅 Luẩn quẩn một chỗ. Xem 蹢;",
+                "Vết chân: 芳躅 Vết thơm (của người ẩn dật)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Không dứt đi được. Td: Trịch trục ( dùng dằn ) — Một âm khác là Trạc."
+            ],
+            "compound_words": {
+                "踯躅": "trịch trục",
+                "蹢躅": "trịch trục",
+                "躑躅": "trịch trục"
+            }
+        }
+    }
+}

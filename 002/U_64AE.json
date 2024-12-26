@@ -1,0 +1,92 @@
+{
+    "character": "撮",
+    "details": {
+        "Âm Hán Việt": [
+            "toát"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘最"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一丨丨一一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "QASE (手日尸水)"
+        ],
+        "Unicode": [
+            "U+64AE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cuō ㄘㄨㄛ",
+            "zuǒ ㄗㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "duỗi",
+            "toát",
+            "tòi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.る (to.ru)",
+            "つま.む (tsuma.mu)",
+            "-ど.り (-do.ri)"
+        ],
+        "Âm Hàn": [
+            "촬"
+        ],
+        "Âm Quảng Đông": [
+            "cyut3"
+        ]
+    },
+    "meanings": {
+        "toát": {
+            "Từ điển phổ thông": [
+                "dúm (đơn vị đo, bằng 256 hạt thóc)",
+                "rút lại",
+                "tụ họp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bắt, tóm, quặp lấy. ◇Trang Tử 莊子: 'Si hưu dạ toát tảo, sát hào mạt, trú xuất sân mục nhi bất kiến khưu sơn' 鴟鵂夜撮蚤, 察毫末, 晝出, 瞋目而不見丘山 (Thu thủy 秋水) Cú vọ đêm bắt bọ chét, nhìn rõ mảy lông, ban ngày ra, trố mắt mà nhìn không thấy gò núi.",
+                "(Động) Tụ họp. ◇Khổng Tử gia ngữ 孔子家語: 'Kì tụ xứ túc dĩ toát đồ thành đảng' 其聚處足以撮徒成黨 (Thủy tru 始誅) Chỗ ở của ông đủ họp học trò thành đảng.",
+                "(Động) Trích lục, rút tỉa. ◎Như: 'toát yếu' 撮要 rút lấy những điều cốt yếu. ◇Hồng Lâu Mộng 紅樓夢: 'Tương thị tục đích thô thoại, toát kì yếu, san kì phồn, tái gia nhuận sắc bỉ phương xuất lai' 將市俗的粗話, 撮其要, 刪其繁, 再加潤色比方出來 (Đệ tứ thập nhị hồi) Đem những tiếng tục ở đầu đường xó chợ rút ra những lời chủ chốt, bớt chỗ rườm rà, rồi tô điểm thêm lên, nên nói câu nào ra câu ấy.",
+                "(Danh) Lượng từ: (1) Đơn vị dung lượng bằng một phần ngàn 'cân' 斤. (2) Giúm, nhúm. ◎Như: 'nhất toát diêm' 一撮鹽 một giúm muối, 'nhất toát thổ' 一撮土 một nhúm đất. (3) Chùm, chòm (tóc, râu, cỏ, ...). ◎Như: 'nhất toát đầu phát' 一撮頭髮 một chùm tóc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dúm, phép đong ngày xưa cứ đếm 256 hạt thóc gọi là một toát.",
+                "Dúm lấy, rút lại, như toát yếu 撮要 rút lấy các cái cốt yếu.",
+                "Tụ họp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dúm, chòm: 一撮兒黑毛 Một chòm lông đen. Xem 撮 [cuo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng ngón tay mà nhón lấy — Gom gọn lại — Tên một đơn vị đo lường thời xưa, bằng 1/10 thăng — Chỉ vật nhỏ bé, ít ỏi."
+            ],
+            "compound_words": {
+                "公撮": "công toát",
+                "會撮": "hội toát",
+                "括撮": "quát toát",
+                "撮鹽入火": "toát diêm nhập hoả",
+                "撮合山": "toát hợp san",
+                "撮要": "toát yếu"
+            }
+        }
+    }
+}

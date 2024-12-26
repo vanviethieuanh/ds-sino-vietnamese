@@ -1,0 +1,117 @@
+{
+    "character": "傀",
+    "details": {
+        "Âm Hán Việt": [
+            "khôi",
+            "khổi",
+            "quỷ",
+            "ổi"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻鬼"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丨フ一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "OHI (人竹戈)"
+        ],
+        "Unicode": [
+            "U+5080"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "guī ㄍㄨㄟ",
+            "kuǐ ㄎㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "khổi",
+            "ngội",
+            "ổi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおき.い (ōki.i)"
+        ],
+        "Âm Hàn": [
+            "괴"
+        ],
+        "Âm Quảng Đông": [
+            "faai3",
+            "gwai1"
+        ]
+    },
+    "meanings": {
+        "khôi": {
+            "Từ điển trích dẫn": [
+                "(Tính) To lớn, vạm vỡ.",
+                "(Tính) Quái lạ, quái dị.",
+                "Một âm là 'quỷ'. (Danh) § Xem 'quỷ lỗi' 傀儡."
+            ],
+            "Từ điển Thiều Chửu": [
+                "To lớn, vạm vỡ.",
+                "Quái lạ.",
+                "Một âm là khổi, như khổi lỗi 傀儡 tượng gỗ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) To lớn;",
+                "(văn) Quái lạ;",
+                "【傀儡】 khổi lỗi [kuêlâi] Bù nhìn, tượng gỗ, búp bê: 傀儡政府 Chính phủ bù nhìn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "To lớn. Td: Khôi vĩ ( lớn lao ) — Lạ lùng. Td: Kì khôi."
+            ]
+        },
+        "khổi": {
+            "Từ điển phổ thông": [
+                "to lớn, vạm vỡ",
+                "quái lạ",
+                "bù nhìn, hình nhân"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) To lớn;",
+                "(văn) Quái lạ;",
+                "【傀儡】 khổi lỗi [kuêlâi] Bù nhìn, tượng gỗ, búp bê: 傀儡政府 Chính phủ bù nhìn."
+            ]
+        },
+        "quỷ": {
+            "Từ điển trích dẫn": [
+                "(Tính) To lớn, vạm vỡ.",
+                "(Tính) Quái lạ, quái dị.",
+                "Một âm là 'quỷ'. (Danh) § Xem 'quỷ lỗi' 傀儡."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Quỷ lỗi 傀儡 — Một âm là khôi. Xem Khôi."
+            ],
+            "compound_words": {
+                "傀儡": "quỷ lỗi"
+            }
+        },
+        "ổi": {
+            "Từ điển phổ thông": [
+                "to lớn, vạm vỡ",
+                "quái lạ",
+                "bù nhìn, hình nhân"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ổi lỗi 傀儡: Tượng gỗ — Hìng người làm bằng rơm, vải. Con búp bê. » Xem hay dở cũng một tràng ổi lỗi « ( Hát nói )."
+            ]
+        }
+    }
+}

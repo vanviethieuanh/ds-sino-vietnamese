@@ -1,0 +1,92 @@
+{
+    "character": "詁",
+    "details": {
+        "Âm Hán Việt": [
+            "cổ",
+            "hỗ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言古"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRJR (卜口十口)"
+        ],
+        "Unicode": [
+            "U+8A41"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gǔ ㄍㄨˇ"
+        ],
+        "Âm Nôm": [
+            "cổ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よみ (yomi)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu2",
+            "gu3"
+        ]
+    },
+    "meanings": {
+        "cổ": {
+            "Từ điển phổ thông": [
+                "giải thích chuyện cũ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lấy lời bây giờ mà giải thích lời nói ngày xưa hay phương ngôn. ◎Như: 'cổ huấn' 詁訓 chú giải nghĩa văn.",
+                "(Danh) Lời giải thích chữ nghĩa.",
+                "§ Ta quen đọc là 'hỗ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lấy lời bây giờ mà giải thích lời nói ngày xưa gọi là cổ. Như cổ huấn 詁訓 chú giải nghĩa văn. Ta quen đọc là chữ hỗ."
+            ]
+        },
+        "hỗ": {
+            "Từ điển phổ thông": [
+                "giải thích chuyện cũ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lấy lời bây giờ mà giải thích lời nói ngày xưa hay phương ngôn. ◎Như: 'cổ huấn' 詁訓 chú giải nghĩa văn.",
+                "(Danh) Lời giải thích chữ nghĩa.",
+                "§ Ta quen đọc là 'hỗ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lấy lời bây giờ mà giải thích lời nói ngày xưa gọi là cổ. Như cổ huấn 詁訓 chú giải nghĩa văn. Ta quen đọc là chữ hỗ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dùng lời nói phổ thông hiện nay để giải thích chữ nghĩa trong sách cổ. Xem 訓詁."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giảng nghĩa lời nói xưa, câu văn cổ — Giảng nghĩa từng câu từng chữ."
+            ],
+            "compound_words": {
+                "訓詁": "huấn hỗ"
+            }
+        }
+    }
+}

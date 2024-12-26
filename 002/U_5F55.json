@@ -1,0 +1,65 @@
+{
+    "character": "录",
+    "details": {
+        "Âm Hán Việt": [
+            "lục"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "kệ 彐 (+5 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱彐⺢"
+        ],
+        "Nét bút": [
+            "フ一一丨丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NMME (弓一一水)"
+        ],
+        "Unicode": [
+            "U+5F55"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lù ㄌㄨˋ"
+        ],
+        "Âm Nôm": [
+            "lục"
+        ],
+        "Âm Quảng Đông": [
+            "luk6"
+        ]
+    },
+    "meanings": {
+        "lục": {
+            "Từ điển phổ thông": [
+                "ghi chép"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 錄."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Khắc gỗ;",
+                "Xem 錄 (bộ 金)."
+            ],
+            "compound_words": {
+                "笔录": "bút lục",
+                "目录": "mục lục",
+                "抄录": "sao lục",
+                "采录": "thái lục",
+                "摘录": "trích lục"
+            }
+        }
+    }
+}

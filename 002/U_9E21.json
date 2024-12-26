@@ -1,0 +1,67 @@
+{
+    "character": "鸡",
+    "details": {
+        "Âm Hán Việt": [
+            "kê"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰又鸟"
+        ],
+        "Nét bút": [
+            "フ丶ノフ丶フ一"
+        ],
+        "Thương Hiệt": [
+            "EPYM (水心卜一)"
+        ],
+        "Unicode": [
+            "U+9E21"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "kê"
+        ],
+        "Âm Quảng Đông": [
+            "gai1"
+        ]
+    },
+    "meanings": {
+        "kê": {
+            "Từ điển phổ thông": [
+                "con gà"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 雞.",
+                "Giản thể của chữ 鷄."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 雞"
+            ],
+            "compound_words": {
+                "锦鸡": "cẩm kê",
+                "鹍鸡": "côn kê",
+                "野鸡": "dã kê",
+                "田鸡": "điền kê",
+                "鹖鸡": "hạt kê",
+                "母鸡": "mẫu kê",
+                "水鸡子": "thuỷ kê tử"
+            }
+        }
+    }
+}

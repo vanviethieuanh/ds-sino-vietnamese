@@ -1,0 +1,100 @@
+{
+    "character": "蠖",
+    "details": {
+        "Âm Hán Việt": [
+            "hoạch",
+            "oách"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trùng 虫 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫蒦"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨丨ノ丨丶一一一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "LITOE (中戈廿人水)"
+        ],
+        "Unicode": [
+            "U+8816"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "huò ㄏㄨㄛˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "oách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワク (waku)",
+            "カク (kaku)"
+        ],
+        "Âm Hàn": [
+            "확"
+        ],
+        "Âm Quảng Đông": [
+            "wok6"
+        ]
+    },
+    "meanings": {
+        "hoạch": {
+            "Từ điển phổ thông": [
+                "(xem: xích oách 尺蠖)",
+                "(xem: oách khuất 蠖屈)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Xích oách' 尺蠖 sâu đo, ấu trùng của loài ngài, kí sinh ở trong cây cối, ăn lá cây hoa quả, lúc bò thì co mình lại, cong lên rồi búng tới trước, như người lấy tay đo khoảng cách.",
+                "(Phó) 'Xích oách chi khuất' 蠖屈 tạm chịu nhún mình thua kém mà đợi thời cơ.",
+                "§ 蠖 cũng đọc là 'hoạch'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xích oách 尺蠖 một loài sâu nhỏ hay ăn lá dâu, lá mơ.",
+                "Oách khuất 蠖屈 tạm phải chịu lún, tạm chịu thua kém. Cũng đọc là chữ hoạch."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Xem 蚇蠖 [chêhuò];",
+                "【蠖屈】hoạch khuất [huòqu] Tạm thời chịu lép vế, tạm chịu thua kém, tạm chịu khuất."
+            ],
+            "compound_words": {
+                "尺蠖": "xích hoạch",
+                "蚇蠖": "xích hoạch"
+            }
+        },
+        "oách": {
+            "Từ điển phổ thông": [
+                "(xem: xích oách 尺蠖)",
+                "(xem: oách khuất 蠖屈)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Xích oách' 尺蠖 sâu đo, ấu trùng của loài ngài, kí sinh ở trong cây cối, ăn lá cây hoa quả, lúc bò thì co mình lại, cong lên rồi búng tới trước, như người lấy tay đo khoảng cách.",
+                "(Phó) 'Xích oách chi khuất' 蠖屈 tạm chịu nhún mình thua kém mà đợi thời cơ.",
+                "§ 蠖 cũng đọc là 'hoạch'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xích oách 尺蠖 một loài sâu nhỏ hay ăn lá dâu, lá mơ.",
+                "Oách khuất 蠖屈 tạm phải chịu lún, tạm chịu thua kém. Cũng đọc là chữ hoạch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Oách khuất 蠖屈: Chỉ sự bất đắc chí, thất vọng, nản lòng."
+            ],
+            "compound_words": {
+                "蠖屈": "oách khuất",
+                "尺蠖": "xích oách"
+            }
+        }
+    }
+}

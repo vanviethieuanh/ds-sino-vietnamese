@@ -1,0 +1,270 @@
+{
+    "character": "國",
+    "details": {
+        "Âm Hán Việt": [
+            "quốc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "vi 囗 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿴囗或"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一フノ丶一"
+        ],
+        "Thương Hiệt": [
+            "WIRM (田戈口一)"
+        ],
+        "Unicode": [
+            "U+570B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guó ㄍㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "cuốc",
+            "quốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コク (koku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くに (kuni)"
+        ],
+        "Âm Hàn": [
+            "국"
+        ],
+        "Âm Quảng Đông": [
+            "gwok3"
+        ]
+    },
+    "meanings": {
+        "quốc": {
+            "Từ điển phổ thông": [
+                "đất nước, quốc gia"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đất phong cho chư hầu hoặc quân vương ngày xưa (thực ấp). ◎Như: 'Lỗ quốc' 魯國, 'Tề quốc' 齊國.",
+                "(Danh) Nước, có đất, có dân, có chủ quyền. ◎Như: 'Trung quốc' 中國, 'Mĩ quốc' 美國.",
+                "(Danh) Miền, địa phương. ◎Như: 'thủy hương trạch quốc' 水鄉澤國 vùng sông nước. ◇Vương Duy 王維: 'Hồng đậu sanh nam quốc, Xuân lai phát kỉ chi' 紅豆生南國, 春來發幾枝 (Tương tư 相思) Đậu đỏ sinh ra ở xứ miền nam, Xuân đến mọc mấy cành.",
+                "(Danh) Họ 'Quốc'.",
+                "(Tính) Đại biểu cho quốc gia. ◎Như: 'quốc kì' 國旗, 'quốc ca' 國歌.",
+                "(Tính) Thuộc về quốc gia. ◎Như: 'quốc nhân' 國人 người trong nước, 'quốc thổ' 國土 đất đai quốc gia, lãnh thổ quốc gia."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nước, có đất có dân, có quyền cai trị gọi là nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nước, quốc: 祖國 Tổ quốc; 外國 Nước ngoài; 保家衛國 Giữ nhà giữ nước; 國旗 Quốc kì; 國籍 Quốc tịch;",
+                "(Của) Trung Quốc, trong nước: 國畫 Tranh Trung Quốc; 國產 Sản phẩm trong nước (do Trung Quốc sản xuất);",
+                "[Guó] (Họ) Quốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một nước, chỉ chung lĩnh thổ, dân chúng và chính quyền."
+            ],
+            "compound_words": {
+                "愛國": "ái quốc",
+                "英國": "anh quốc",
+                "奧國": "áo quốc",
+                "白雲國語詩": "bạch vân quốc ngữ thi",
+                "本國": "bản quốc",
+                "報國": "báo quốc",
+                "八國集團峰會": "bát quốc tập đoàn phong hội",
+                "閉關鎖國": "bế quan toả quốc",
+                "病國": "bệnh quốc",
+                "病國殃民": "bệnh quốc ương dân",
+                "各國": "các quốc",
+                "戰國": "chiến quốc",
+                "故國": "cố quốc",
+                "舉國": "cử quốc",
+                "強國": "cường quốc",
+                "民國": "dân quốc",
+                "異國": "dị quốc",
+                "大南國史演歌": "đại nam quốc sử diễn ca",
+                "島國": "đảo quốc",
+                "帝國": "đế quốc",
+                "敵國": "địch quốc",
+                "東南亞國家聯盟": "đông nam á quốc gia liên minh",
+                "德國": "đức quốc",
+                "當國": "đương quốc",
+                "下國": "hạ quốc",
+                "海國": "hải quốc",
+                "韓國": "hàn quốc",
+                "洪州國語詩集": "hồng châu quốc ngữ thi tập",
+                "洪徳國音詩集": "hồng đức quốc âm thi tập",
+                "合衆國": "hợp chúng quốc",
+                "興國": "hưng quốc",
+                "益國": "ích quốc",
+                "開國": "khai quốc",
+                "建國": "kiến quốc",
+                "經國": "kinh quốc",
+                "樂國": "lạc quốc",
+                "鄰國": "lân quốc",
+                "立國": "lập quốc",
+                "理國": "lí quốc",
+                "列國": "liệt quốc",
+                "六國": "lục quốc",
+                "賣國": "mại quốc",
+                "母國": "mẫu quốc",
+                "美國": "mỹ quốc",
+                "我國": "ngã quốc",
+                "外國": "ngoại quốc",
+                "法國": "pháp quốc",
+                "佛國": "phật quốc",
+                "藩國": "phiên quốc",
+                "富國": "phú quốc",
+                "復國": "phục quốc",
+                "軍國": "quân quốc",
+                "國音": "quốc âm",
+                "國本": "quốc bản",
+                "國寶": "quốc bảo",
+                "國兵": "quốc binh",
+                "國柄": "quốc bính",
+                "國步": "quốc bộ",
+                "國歌": "quốc ca",
+                "國主": "quốc chủ",
+                "國故": "quốc cố",
+                "國公": "quốc công",
+                "國舅": "quốc cữu",
+                "國民": "quốc dân",
+                "國民黨": "quốc dân đảng",
+                "國營": "quốc doanh",
+                "國裔": "quốc duệ",
+                "國用": "quốc dụng",
+                "國維": "quốc duy",
+                "國典": "quốc điển",
+                "國定": "quốc định",
+                "國度": "quốc độ",
+                "國蠹": "quốc đố",
+                "國都": "quốc đô",
+                "國家": "quốc gia",
+                "國家主義": "quốc gia chủ nghĩa",
+                "國交": "quốc giao",
+                "國教": "quốc giáo",
+                "國憲": "quốc hiến",
+                "國號": "quốc hiệu",
+                "國禍": "quốc hoạ",
+                "國花": "quốc hoa",
+                "國華": "quốc hoa",
+                "國貨": "quốc hoá",
+                "國會": "quốc hội",
+                "國魂": "quốc hồn",
+                "國徽": "quốc huy",
+                "國諱": "quốc huý",
+                "國香": "quốc hương",
+                "國有": "quốc hữu",
+                "國有化": "quốc hữu hoá",
+                "國計": "quốc kế",
+                "國慶": "quốc khánh",
+                "國氣": "quốc khí",
+                "國庫": "quốc khố",
+                "國庫券": "quốc khố khoán",
+                "國旗": "quốc kỳ",
+                "國立": "quốc lập",
+                "國力": "quốc lực",
+                "國脉": "quốc mạch",
+                "國母": "quốc mẫu",
+                "國命": "quốc mệnh",
+                "國難": "quốc nạn",
+                "國外": "quốc ngoại",
+                "國語": "quốc ngữ",
+                "國樂": "quốc nhạc",
+                "國內": "quốc nội",
+                "國内": "quốc nội",
+                "國法": "quốc pháp",
+                "國費": "quốc phí",
+                "國防": "quốc phòng",
+                "國風": "quốc phong",
+                "國富": "quốc phú",
+                "國父": "quốc phụ",
+                "國光": "quốc quang",
+                "國權": "quốc quyền",
+                "國產": "quốc sản",
+                "國色": "quốc sắc",
+                "國色天香": "quốc sắc thiên hương",
+                "國士": "quốc sĩ",
+                "國事": "quốc sự",
+                "國使": "quốc sứ",
+                "國史": "quốc sử",
+                "國師": "quốc sư",
+                "國事犯": "quốc sự phạm",
+                "國史館": "quốc sử quán",
+                "國喪": "quốc tang",
+                "國葬": "quốc táng",
+                "國賊": "quốc tặc",
+                "國幣": "quốc tệ",
+                "國敝": "quốc tệ",
+                "國際": "quốc tế",
+                "國際公法": "quốc tế công pháp",
+                "國際地位": "quốc tế địa vị",
+                "國際貨幣基金組織": "quốc tế hoá tệ cơ kim tổ chức",
+                "國際貿易": "quốc tế mậu dịch",
+                "國際太空站": "quốc tế thái không trạm",
+                "國際私法": "quốc tế tư pháp",
+                "國神": "quốc thần",
+                "國勢": "quốc thế",
+                "國體": "quốc thể",
+                "國是": "quốc thị",
+                "國戚": "quốc thích",
+                "國手": "quốc thủ",
+                "國讐": "quốc thù",
+                "國術": "quốc thuật",
+                "國稅": "quốc thuế",
+                "國壐": "quốc tỉ",
+                "國籍": "quốc tịch",
+                "國姓": "quốc tính",
+                "國性": "quốc tính",
+                "國族": "quốc tộc",
+                "國債": "quốc trái",
+                "國柱": "quốc trụ",
+                "國粹": "quốc tuý",
+                "國子": "quốc tử",
+                "國子監": "quốc tử giám",
+                "國子祭酒": "quốc tử tế tửu",
+                "國子司業": "quốc tử tư nghiệp",
+                "國威": "quốc uy",
+                "國文": "quốc văn",
+                "國運": "quốc vận",
+                "國務": "quốc vụ",
+                "國務卿": "quốc vụ khanh",
+                "國王": "quốc vương",
+                "貴國": "quý quốc",
+                "超國家": "siêu quốc gia",
+                "楚國": "sở quốc",
+                "使北國語詩集": "sứ bắc quốc ngữ thi tập",
+                "佐國卿": "tá quốc khanh",
+                "三國": "tam quốc",
+                "泰國": "thái quốc",
+                "屬國": "thuộc quốc",
+                "水國": "thuỷ quốc",
+                "上國": "thượng quốc",
+                "全國": "toàn quốc",
+                "祖國": "tổ quốc",
+                "治國": "trị quốc",
+                "中國": "trung quốc",
+                "殉國": "tuẫn quốc",
+                "相國": "tướng quốc",
+                "憂國": "ưu quốc",
+                "萬國": "vạn quốc",
+                "亡國": "vong quốc",
+                "望國": "vọng quốc",
+                "無國界醫生組織": "vô quốc giới y sinh tổ chức",
+                "奢國": "xa quốc",
+                "醫國": "y quốc"
+            }
+        }
+    }
+}

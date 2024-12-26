@@ -1,0 +1,75 @@
+{
+    "character": "荨",
+    "details": {
+        "Âm Hán Việt": [
+            "kiền",
+            "tầm",
+            "đàm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹寻"
+        ],
+        "Nét bút": [
+            "一丨丨フ一一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "XTSMI (重廿尸一戈)"
+        ],
+        "Unicode": [
+            "U+8368"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "qián ㄑㄧㄢˊ",
+            "tán ㄊㄢˊ",
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tầm"
+        ],
+        "Âm Quảng Đông": [
+            "cam4"
+        ]
+    },
+    "meanings": {
+        "kiền": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 蕁"
+            ]
+        },
+        "tầm": {
+            "Từ điển phổ thông": [
+                "cây cỏ gai",
+                "lửa bốc lên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 蕁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蕁麻疹】tầm ma chẩn [xúnmázhân] (y) Một loại bệnh của da."
+            ],
+            "compound_words": {
+                "荨麻": "tầm ma"
+            }
+        },
+        "đàm": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 蕁"
+            ]
+        }
+    }
+}

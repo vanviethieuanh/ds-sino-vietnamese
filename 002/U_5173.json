@@ -1,0 +1,80 @@
+{
+    "character": "关",
+    "details": {
+        "Âm Hán Việt": [
+            "loan",
+            "quan",
+            "tiếu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "bát 八 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱丷天"
+        ],
+        "Nét bút": [
+            "丶ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TK (廿大)"
+        ],
+        "Unicode": [
+            "U+5173"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guān ㄍㄨㄢ",
+            "wān ㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "quan"
+        ],
+        "Âm Quảng Đông": [
+            "gwaan1"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 關."
+            ]
+        },
+        "quan": {
+            "Từ điển phổ thông": [
+                "cửa ải, cửa ô",
+                "đóng (cửa)",
+                "quan hệ, liên quan"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 關."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 關"
+            ],
+            "compound_words": {
+                "把关": "bả quan",
+                "机关": "cơ quan",
+                "有关": "hữu quan",
+                "关隘": "quan ải",
+                "关心": "quan tâm",
+                "城关": "thành quan"
+            }
+        },
+        "tiếu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Tiếu 笑."
+            ]
+        }
+    }
+}

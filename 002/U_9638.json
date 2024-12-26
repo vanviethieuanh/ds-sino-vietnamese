@@ -1,0 +1,83 @@
+{
+    "character": "阸",
+    "details": {
+        "Âm Hán Việt": [
+            "ách",
+            "ải"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "phụ 阜 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖戹"
+        ],
+        "Nét bút": [
+            "フ丨丶フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "NLISN (弓中戈尸弓)"
+        ],
+        "Unicode": [
+            "U+9638"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ài ㄚㄧˋ",
+            "è"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)",
+            "アイ (ai)",
+            "アク (aku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せま.い (sema.i)",
+            "ふさが.る (fusaga.ru)",
+            "せま.る (sema.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "aai3",
+            "aak1",
+            "ak1",
+            "ngaai3",
+            "ngaak1",
+            "ngak1"
+        ]
+    },
+    "meanings": {
+        "ách": {
+            "Từ điển phổ thông": [
+                "khốn ách",
+                "hẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cách trở, ngăn trở.",
+                "(Động) Bức bách, khốn bách.",
+                "(Danh) Gian nguy, tai nạn.",
+                "(Danh) Giới hạn, chướng ngại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khốn cùng, vận ách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chẹn lại, bóp nghẹt — Tai nạn — một âm khác là m Ải."
+            ]
+        },
+        "ải": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hiểm trở, nói về địa thế — Nhỏ hẹp, nói về địa thế — Một âm khác là Ách."
+            ]
+        }
+    }
+}

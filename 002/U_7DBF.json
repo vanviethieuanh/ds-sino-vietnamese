@@ -1,0 +1,99 @@
+{
+    "character": "綿",
+    "details": {
+        "Âm Hán Việt": [
+            "miên"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹帛"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶ノ丨フ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "VFHAB (女火竹日月)"
+        ],
+        "Unicode": [
+            "U+7DBF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mián ㄇㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "men",
+            "mên",
+            "miên",
+            "min"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メン (men)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わた (wata)"
+        ],
+        "Âm Hàn": [
+            "면"
+        ],
+        "Âm Quảng Đông": [
+            "min4"
+        ]
+    },
+    "meanings": {
+        "miên": {
+            "Từ điển phổ thông": [
+                "tơ tằm",
+                "kéo dài, liền",
+                "mềm mại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bông. § Ghi chú: 'miên' 綿 bông đã tinh, 'nhứ' 絮 bông còn thô. ◎Như: 'ti miên' 絲綿 bông tơ.",
+                "(Danh) Vật thể có hình trạng hoặc tính chất giống như bông. ◇Lục Du 陸游: 'Hải đường như tuyết liễu phi miên' 海棠如雪柳飛綿 (Túy trung hoài Mi San cựu du 醉中懷眉山舊游) Hải đường như tuyết, liễu bay (như) bông.",
+                "(Danh) Họ 'Miên'.",
+                "(Tính) Mềm, yếu. ◎Như: 'miên bạc chi lực' 綿薄之力 sức mềm yếu.",
+                "(Phó) Liên tục không dứt. ◎Như: 'miên diên' 綿延 dài dặc, 'liên miên' 連綿 liên tiếp không ngừng.",
+                "(Phó) Kĩ lưỡng, thận trọng, tế mật. ◎Như: 'miên mật' 綿密 chu đáo, kĩ lưỡng.",
+                "(Trạng thanh) § Xem 'miên man' 綿蠻."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bông mới. Cho kén vào nước sôi rồi gỡ ra chỗ nào săn đẹp gọi là miên 綿, chỗ nào sù sì gọi là nhứ 絮.",
+                "Dài dặc, như miên duyên 綿延 dài dặc, miên viễn 綿遠 dài xa, v.v.",
+                "Ràng rịt, như triền miên 纏綿.",
+                "Miên man 綿蠻 líu lo, ríu rít (tiếng chim).",
+                "Mềm yếu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tơ tằm, bông mới (dùng để làm áo bông và chăn bông);",
+                "Kéo dài, liên tục: 綿長 Dài dằng dặc;",
+                "Mềm mại, mỏng manh: 綿薄 Mỏng manh; 綿軟 Mềm mại;",
+                "(văn) Ràng rịt.【纏綿】triền miên [chánmián] (văn) Bịn rịn, vướng víu, vương vấn, dày vò, triền miên (thường nói về bệnh tật hay tình cảm)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dài. Lâu dài — Nối tiếp không dứt. Td: Liên miên, Triền miên."
+            ],
+            "compound_words": {
+                "連綿": "liên miên",
+                "綿延": "miên diên",
+                "綿羊": "miên dương",
+                "綿蠻": "miên man",
+                "綿長": "miên trường",
+                "綿遠": "miên viễn",
+                "纏綿": "triền miên"
+            }
+        }
+    }
+}

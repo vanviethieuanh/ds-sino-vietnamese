@@ -1,0 +1,86 @@
+{
+    "character": "萁",
+    "details": {
+        "Âm Hán Việt": [
+            "ki",
+            "ky",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹其"
+        ],
+        "Nét bút": [
+            "一丨丨一丨丨一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TTMC (廿廿一金)"
+        ],
+        "Unicode": [
+            "U+8401"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まめがら (mamegara)"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "ki": {
+            "Từ điển trích dẫn": [
+                "(Danh) Thân dây đậu. ◇Tào Thực 曹植: 'Ki tại phủ hạ nhiên' 萁在釜下然 (Thất bộ thi 七步詩) Thân dây đậu ở dưới nồi nấu chín (đậu trong nồi). § Văn Đế 'Tào Phi' 曹丕 ra lệnh cho Đông A Vuơng 'Tào Thực' 曹植 trong bảy bước phải làm một bài thơ, không xong thì sẽ bị chém đầu. Lời Phi chưa dứt, Thực đã đọc xong bài thơ. Nay ta nói anh em tàn hại lẫn nhau là 'đậu ki' 豆萁 là vì thế.",
+                "(Danh) Loại cỏ như cỏ lau mà nhỏ hơn (Osmunda japonica)."
+            ],
+            "compound_words": {
+                "煮豆燃萁": "chử đậu nhiên ki"
+            }
+        },
+        "ky": {
+            "Từ điển phổ thông": [
+                "cây đậu",
+                "cỏ ky"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dây đậu. Tào Thực 曹植 (192-232) có câu thơ rằng: Chữ đậu nhiên đậu ki 煮豆燃豆萁 nấu đậu đun bằng dây đậu, là vì bị anh là Tào Phi ức hiếp mà nói thế. Nay ta nói anh em tàn hại lẫn nhau là đậu ki 豆萁 là vì thế.",
+                "Cỏ ki."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây gỗ mềm, thời cổ thường dùng để giùi lấy lửa — Trợ ngữ từ ở cuối câu — Một âm khác là Kì."
+            ],
+            "compound_words": {
+                "煮豆燃萁": "chử đậu nhiên ky"
+            }
+        },
+        "kỳ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dây của cây đậu. Ta quen đọc Ki."
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "导",
+    "details": {
+        "Âm Hán Việt": [
+            "đạo"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thốn 寸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱巳寸"
+        ],
+        "Nét bút": [
+            "フ一フ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "RUDI (口山木戈)"
+        ],
+        "Unicode": [
+            "U+5BFC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dǎo ㄉㄠˇ",
+            "dào ㄉㄠˋ"
+        ],
+        "Âm Nôm": [
+            "đạo"
+        ],
+        "Âm Quảng Đông": [
+            "dou6"
+        ]
+    },
+    "meanings": {
+        "đạo": {
+            "Từ điển phổ thông": [
+                "dẫn, đưa",
+                "chỉ đạo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 導."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 導"
+            ],
+            "compound_words": {
+                "指导": "chỉ đạo",
+                "主导": "chủ đạo",
+                "引导": "dẫn đạo",
+                "导弹": "đạo đạn",
+                "导航": "đạo hàng",
+                "教导": "giáo đạo",
+                "向导": "hướng đạo",
+                "勸导": "khuyến đạo",
+                "领导": "lãnh đạo",
+                "辅导": "phụ đạo"
+            }
+        }
+    }
+}

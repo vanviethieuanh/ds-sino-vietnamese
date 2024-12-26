@@ -1,0 +1,70 @@
+{
+    "character": "醾",
+    "details": {
+        "Âm Hán Việt": [
+            "mi",
+            "my"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "dậu 酉 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰酉糜"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一丶一ノ一丨ノ丶一丨ノ丶丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MWIDD (一田戈木木)"
+        ],
+        "Unicode": [
+            "U+91BE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "mí ㄇㄧˊ"
+        ],
+        "Âm Quảng Đông": [
+            "mei4"
+        ]
+    },
+    "meanings": {
+        "mi": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Cũng như chữ 'mi' 釄.",
+                "(Danh) § Xem 'đồ mi' 荼蘼."
+            ],
+            "compound_words": {
+                "酴醾": "đồ mi"
+            }
+        },
+        "my": {
+            "Từ điển phổ thông": [
+                "(xem: đồ my 酴釄,酴醾)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ mi 釄."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 酴."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Mi 釄."
+            ],
+            "compound_words": {
+                "酴醾": "đồ my"
+            }
+        }
+    }
+}

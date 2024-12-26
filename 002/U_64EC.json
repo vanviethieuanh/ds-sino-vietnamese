@@ -1,0 +1,89 @@
+{
+    "character": "擬",
+    "details": {
+        "Âm Hán Việt": [
+            "nghĩ"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thủ 手 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘疑"
+        ],
+        "Nét bút": [
+            "一丨一ノフノ一一ノ丶フ丶フ丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QPKO (手心大人)"
+        ],
+        "Unicode": [
+            "U+64EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "nǐ ㄋㄧˇ"
+        ],
+        "Âm Nôm": [
+            "nghĩ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まが.い (maga.i)",
+            "もど.き (modo.ki)"
+        ],
+        "Âm Hàn": [
+            "의"
+        ],
+        "Âm Quảng Đông": [
+            "ji4",
+            "ji5"
+        ]
+    },
+    "meanings": {
+        "nghĩ": {
+            "Từ điển phổ thông": [
+                "định",
+                "phỏng theo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ước lượng, suy tính, cân nhắc. ◇Dịch Kinh 易經: 'Nghĩ chi nhi hậu ngôn, nghị chi nhi hậu động' 擬之而後言, 議之而後動 (Hệ từ thượng 繫辭上) Cân nhắc rồi mới nói, bàn xét rồi mới hành động.",
+                "(Động) Phỏng theo, mô phỏng, bắt chước. ◎Như: 'nghĩ cổ' 擬古 phỏng theo lối cổ. ◇Hồng Lâu Mộng 紅樓夢: 'Nghĩ \"Xuân giang hoa nguyệt dạ\" chi cách, nãi danh kì từ viết \"Thu song phong vũ tịch\"' 擬\"春江花月夜\"之格, 乃名其詞曰\"秋窗風雨夕\" (Đệ tứ thập ngũ hồi) Phỏng theo cách của bài \"Xuân giang hoa nguyệt dạ\", nên đặt tên cho bài từ là \"Thu song phong vũ tịch\".",
+                "(Động) Dự định, liệu tính. ◇Lí Thanh Chiếu 李清照: 'Văn thuyết Song Khê xuân thượng hảo, dã nghĩ phiếm khinh chu' 聞說雙溪春尚好, 也擬泛輕舟 (Phong trụ trần hương hoa dĩ tận từ 風住塵香花已盡詞) Nghe nói Song Khê xuân rất đẹp, cũng định bơi thuyền nhẹ lãng du.",
+                "(Động) Sánh với, đọ với. ◇Tuân Tử 荀子: 'Ngôn dĩ chi quang mĩ, nghĩ ư Thuấn Vũ' 言已之光美, 擬於舜禹 (Bất cẩu 不苟) Lời tươi sáng đẹp đẽ, sánh được với vua Thuấn vua Vũ.",
+                "(Động) Khởi thảo, biên chép. ◎Như: 'thảo nghĩ' 草擬 phác thảo. ◇Tỉnh thế hằng ngôn 醒世恆言: 'Na Bạch Thị bả tâm trung chi sự, nghĩ thành ca khúc' 那白氏把心中之事, 擬成歌曲 (Độc cô sanh quy đồ nháo mộng 獨孤生歸途鬧夢) Bạch Thị đem nỗi lòng viết thành ca khúc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghĩ định, như nghĩ án 擬案 nghĩ định án như thế.",
+                "Làm phỏng theo, giống như, như nghĩ cổ 擬古 làm phỏng theo lối cổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phác thảo, dự thảo, khởi thảo: 擬提綱 Phác thảo bản đề cương; 擬一個方案 Khởi thảo một phương án;",
+                "Nghĩ, định, dự định: 擬于下月去安江 Dự định tháng tới sẽ đi An Giang;",
+                "Bắt chước, làm phỏng theo, giống như."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đắn đo, tính toán — So sánh — Bắt chước."
+            ],
+            "compound_words": {
+                "模擬": "mô nghĩ",
+                "擬古": "nghĩ cổ",
+                "擬經": "nghĩ kinh",
+                "擬論": "nghĩ luận",
+                "擬聲": "nghĩ thanh"
+            }
+        }
+    }
+}

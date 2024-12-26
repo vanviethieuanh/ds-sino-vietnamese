@@ -1,0 +1,94 @@
+{
+    "character": "駢",
+    "details": {
+        "Âm Hán Việt": [
+            "biền"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mã 馬 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰馬并"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶丶ノ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "SFTT (尸火廿廿)"
+        ],
+        "Unicode": [
+            "U+99E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "pián ㄆㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "bền",
+            "biền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なら.ぶ (nara.bu)"
+        ],
+        "Âm Hàn": [
+            "변",
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "pin4",
+            "ping4"
+        ]
+    },
+    "meanings": {
+        "biền": {
+            "Từ điển phổ thông": [
+                "hai ngựa đóng kèm nhau (chạy song song)",
+                "song song, đối nhau, sát nhau, liền nhau"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đóng hai ngựa vào một xe.",
+                "(Động) Hai ngựa đi sóng đôi. ◇Tiết Đào 薛濤: 'Song tinh thiên kị biền đông mạch' 雙旌千騎駢東陌 (Tống Trịnh Mi Châu 九送鄭眉州) Hai cờ nghìn kị đi sóng đôi trên đường hướng đông.",
+                "(Động) Hai vật theo cùng một hàng. ◇Tào Huân 曹勛: 'Biền kiên dẫn cảnh, khí ngạnh bất đắc ngữ' 駢肩引頸, 氣哽不得語 (Xuất nhập tắc 出入塞, Tự 序) Sánh vai vươn cổ, uất nghẹn không nên lời.",
+                "(Tính) Liền nhau, dính với nhau. ◎Như: 'biền mẫu chi chỉ' 駢拇枝指 ngón chân cái dính với ngón thứ hai và ngón tay thứ sáu (nghĩa bóng: thừa thãi vô dụng).",
+                "(Tính) Đối, đối ngẫu. ◎Như: 'biền cú' 駢句 câu đối. ◇Liễu Tông Nguyên 柳宗元: 'Biền tứ lệ lục, cẩm tâm tú khẩu' 駢四儷六, 錦心繡口 (Khất xảo văn 乞巧文) Câu tứ câu lục đối ngẫu, lòng gấm miệng thêu.",
+                "(Phó) Cùng, đều. ◇Hàn Dũ 韓愈: 'Biền tử ư tào lịch gian' 駢死於槽櫪間 (Tạp thuyết tứ 雜說四) Cùng chết nơi máng ăn chuồng ngựa.",
+                "(Danh) Tên ấp nước Tề 齊 thời Xuân Thu, nay ở vào tỉnh Sơn Đông 山東.",
+                "(Danh) Văn thể, từng hai câu đối nhau. ◎Như: 'biền văn' 駢文, 'biền thể văn' 駢體文.",
+                "(Danh) Họ 'Biền'.",
+                "§ Cũng viết là 'biền' 騈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ biền 騈."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 騈."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hai ngựa chạy song đôi — Cùng nhau."
+            ],
+            "compound_words": {
+                "駢駢": "biền biền",
+                "駢枝": "biền chi",
+                "駢田": "biền điền",
+                "駢肩": "biền kiên",
+                "駢偶": "biền ngẫu",
+                "駢體": "biền thể",
+                "駢文": "biền văn"
+            }
+        }
+    }
+}

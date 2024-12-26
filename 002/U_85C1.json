@@ -1,0 +1,82 @@
+{
+    "character": "藁",
+    "details": {
+        "Âm Hán Việt": [
+            "cảo"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thảo 艸 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱蒿木"
+        ],
+        "Nét bút": [
+            "一丨丨丶一丨フ一丨フ丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TYRD (廿卜口木)"
+        ],
+        "Unicode": [
+            "U+85C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gǎo ㄍㄠˇ"
+        ],
+        "Âm Nôm": [
+            "cảo",
+            "kiểu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わら (wara)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gou2"
+        ]
+    },
+    "meanings": {
+        "cảo": {
+            "Từ điển phổ thông": [
+                "khô",
+                "gỗ khô"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây khô.",
+                "(Danh) § Thông 'cảo' 稿."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây khô.",
+                "Rơm rạ.",
+                "Văn mới thảo ra gọi là cảo. Cùng nghĩa với chữ cảo 槀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 槁 (bộ 木)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ rác. Rơm rác — Cũng như chữ Cảo 稾."
+            ],
+            "compound_words": {
+                "藁萊": "cảo lai",
+                "藁人": "cảo nhân",
+                "藁床": "cảo sàng"
+            }
+        }
+    }
+}

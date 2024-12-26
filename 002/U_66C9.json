@@ -1,0 +1,92 @@
+{
+    "character": "曉",
+    "details": {
+        "Âm Hán Việt": [
+            "hiểu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nhật 日 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日堯"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨一一丨一一丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "AGGU (日土土山)"
+        ],
+        "Unicode": [
+            "U+66C9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiǎo ㄒㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "hẻo",
+            "hểu",
+            "hiểu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "ギョウ (gyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あかつき (akatsuki)",
+            "さと.る (sato.ru)"
+        ],
+        "Âm Hàn": [
+            "효"
+        ],
+        "Âm Quảng Đông": [
+            "hiu2"
+        ]
+    },
+    "meanings": {
+        "hiểu": {
+            "Từ điển phổ thông": [
+                "trời sáng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sớm. ◎Như: 'phá hiểu' 破曉 lúc mới tờ mờ sáng.",
+                "(Động) Biết, rõ, hiểu rõ. ◇Tư Mã Thiên 司馬遷: 'Vị năng tận minh, minh chủ bất hiểu' (Báo Nhậm Thiếu Khanh thư 報任少卿書) Chưa được bày tỏ hết lẽ, minh chủ không hiểu rõ.",
+                "(Động) Bảo cho biết. ◎Như: 'hiểu thị' 曉示 bảo cho đều biết rõ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sớm, lúc mới hơi mờ mờ sáng gọi là phá hiểu 破曉.",
+                "Biết, rõ (hiểu rõ).",
+                "Bảo cho biết, như hiểu thị 曉示 bảo cho đều biết rõ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sáng sớm, tảng sáng: 雞聲報曉 Tiếng gà gáy sáng; 破曉 Tờ mờ sáng;",
+                "Biết, hiểu rõ: 家喻戶曉 Mọi nhà đều biết;",
+                "Làm cho biết: 揭曉 Công bố cho biết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trời bắt đầu sáng — Sáng sủa, nhiều ánh sáng — Biết rõ — Bảo cho biết."
+            ],
+            "compound_words": {
+                "諳曉": "am hiểu",
+                "不曉事": "bất hiểu sự",
+                "曉諭": "hiểu dụ",
+                "曉得": "hiểu đắc",
+                "曉風": "hiểu phong",
+                "曉示": "hiểu thị",
+                "破曉": "phá hiểu",
+                "揭曉": "yết hiểu"
+            }
+        }
+    }
+}

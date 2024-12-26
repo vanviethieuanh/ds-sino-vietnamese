@@ -1,0 +1,154 @@
+{
+    "character": "位",
+    "details": {
+        "Âm Hán Việt": [
+            "vị"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻立"
+        ],
+        "Nét bút": [
+            "ノ丨丶一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "OYT (人卜廿)"
+        ],
+        "Unicode": [
+            "U+4F4D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "vì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くらい (kurai)",
+            "ぐらい (gurai)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai2",
+            "wai6"
+        ]
+    },
+    "meanings": {
+        "vị": {
+            "Từ điển phổ thông": [
+                "vị trí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ, nơi. ◎Như: 'tọa vị' 座位 chỗ ngồi.",
+                "(Danh) Ngôi, chức quan. ◎Như: 'bất kế danh vị' 不計名位 không phân biệt tên tuổi chức tước.",
+                "(Danh) Cấp bậc. ◎Như: 'tước vị' 爵位.",
+                "(Danh) Chuẩn tắc của sự vật. ◎Như: 'đơn vị' 單位.",
+                "(Danh) Tiếng tôn kính người. ◎Như: 'chư vị' 諸位 các ngài, 'các vị' 各位 quý ngài.",
+                "(Danh) Lượng từ: đơn vị dùng cho người, mang ý kính trọng. ◎Như: 'thập vị khách nhân' 十位客人 mười người khách, 'ngũ vị lão sư' 五位老師 năm vị lão sư.",
+                "(Động) Ở, tại. ◎Như: 'Trung Quốc vị ư Á châu đích đông nam phương' Trung Quốc ở vào phía đông nam Á châu.",
+                "(Động) Xếp đặt, an bài."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngôi, cái chỗ ngồi của mình được ở gọi là vị, như địa vị 地位, tước vị 爵位, v.v.",
+                "Vị, lời tôn kính người, như chư vị 諸位 mọi ngài, các vị 各位 các ngài, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nơi, chỗ, vị trí: 座位 Chỗ ngồi;",
+                "Chức vị, địa vị: 名位 Địa vị có danh vọng;",
+                "Vị, ngài, bạn...: 三位貴客 Ba vị khách quý;",
+                "Ngôi vua: 即位 Lên ngôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngôi thứ — Chỗ đứng. Td: Vị trí — Tiếng kính trọng để gọi người khác. Td: Quý vị, Liệt vị."
+            ],
+            "compound_words": {
+                "安位": "an vị",
+                "拜位": "bái vị",
+                "牌位": "bài vị",
+                "本位": "bản vị",
+                "寶位": "bảo vị",
+                "備位": "bị vị",
+                "本位貨幣": "bổn vị hoá tệ",
+                "各位": "các vị",
+                "正位": "chánh vị",
+                "諸位": "chư vị",
+                "職位": "chức vị",
+                "冈位": "cương vị",
+                "崗位": "cương vị",
+                "名位": "danh vị",
+                "名位不彰": "danh vị bất chương",
+                "登位": "đăng vị",
+                "地位": "địa vị",
+                "定位": "định vị",
+                "奪位": "đoạt vị",
+                "同位": "đồng vị",
+                "单位": "đơn vị",
+                "單位": "đơn vị",
+                "換位": "hoán vị",
+                "学位": "học vị",
+                "學位": "học vị",
+                "虛位": "hư vị",
+                "繼位": "kế vị",
+                "栏位": "lan vị",
+                "欄位": "lan vị",
+                "列位": "liệt vị",
+                "靈位": "linh vị",
+                "六位": "lục vị",
+                "銀本位": "ngân bản vị",
+                "攝位": "nhiếp vị",
+                "閏位": "nhuận vị",
+                "讓位": "nhượng vị",
+                "品位": "phẩm vị",
+                "方位": "phương vị",
+                "國際地位": "quốc tế địa vị",
+                "歸位": "quy vị",
+                "篡位": "soán vị",
+                "数位": "số vị",
+                "數位": "số vị",
+                "在位": "tại vị",
+                "賓位": "tân vị",
+                "禅位": "thiện vị",
+                "禪位": "thiện vị",
+                "退位": "thoái vị",
+                "次位": "thứ vị",
+                "席位": "tịch vị",
+                "僭位": "tiếm vị",
+                "坐位": "toạ vị",
+                "座位": "toạ vị",
+                "遜位": "tốn vị",
+                "黜位": "truất vị",
+                "即位": "tức vị",
+                "卽位": "tức vị",
+                "爵位": "tước vị",
+                "就位": "tựu vị",
+                "位號": "vị hiệu",
+                "位次": "vị thứ",
+                "位置": "vị trí",
+                "位子": "vị tử",
+                "位於": "vị ư",
+                "位望": "vị vọng",
+                "無位": "vô vị",
+                "王位": "vương vị"
+            }
+        }
+    }
+}

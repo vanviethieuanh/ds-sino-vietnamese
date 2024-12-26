@@ -1,0 +1,99 @@
+{
+    "character": "棍",
+    "details": {
+        "Âm Hán Việt": [
+            "côn",
+            "hỗn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木昆"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "DAPP (木日心心)"
+        ],
+        "Unicode": [
+            "U+68CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "āo ㄚㄛ",
+            "gǔn ㄍㄨㄣˇ",
+            "gùn ㄍㄨㄣˋ",
+            "hùn ㄏㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "côn",
+            "gon"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つえ (tsue)"
+        ],
+        "Âm Hàn": [
+            "흔",
+            "곤"
+        ],
+        "Âm Quảng Đông": [
+            "gwan3"
+        ]
+    },
+    "meanings": {
+        "côn": {
+            "Từ điển phổ thông": [
+                "cái gậy",
+                "kẻ côn đồ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gậy, que. ◎Như: 'thiết côn' 鐵棍 gậy sắt, 'cảnh côn' 警棍 dùi cui của cảnh sát.",
+                "(Danh) Kẻ vô lại. ◎Như: 'đổ côn' 賭棍 con bạc, 'ác côn' 惡棍 bọn côn đồ xấu ác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây côn.",
+                "Kẻ vô lại gọi là côn đồ 棍徒, như đổ côn 賭棍 con bạc, tụng côn 訟棍 thầy cò, thầy kiện, v.v.",
+                "Cái côn, cái gậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gậy, que, côn: 指揮棍 Gậy chỉ huy; 鐵棍 Gậy sắt; 火柴棍 Que diêm;",
+                "Côn đồ, ác ôn, con: 賭棍 Con bạc; 惡棍 Ác ôn; 訟棍 Thầy cò, thầy kiện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây gậy — Kẻ vô lại dữ dằn xấu xa."
+            ],
+            "compound_words": {
+                "恶棍": "ác côn",
+                "惡棍": "ác côn",
+                "冰棍": "băng côn",
+                "騙棍": "phiến côn",
+                "棍棒": "côn bổng",
+                "棍徒": "côn đồ",
+                "打光棍": "đả quang côn",
+                "柴棍": "sài côn",
+                "竹棍": "trúc côn"
+            }
+        },
+        "hỗn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bó lại. Một bó — Giống. Như — Một âm là Côn. Xem Côn."
+            ]
+        }
+    }
+}

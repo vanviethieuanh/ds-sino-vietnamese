@@ -1,0 +1,187 @@
+{
+    "character": "關",
+    "details": {
+        "Âm Hán Việt": [
+            "loan",
+            "quan"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "môn 門 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿵門⿱𢆶丱"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一フフ丶フフ丶フノ丨一丨"
+        ],
+        "Thương Hiệt": [
+            "ANVIT (日弓女戈廿)"
+        ],
+        "Unicode": [
+            "U+95DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guān ㄍㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "quan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せき (seki)",
+            "かか.わる (kaka.waru)",
+            "からくり (karakuri)",
+            "かんぬき (kan nuki)"
+        ],
+        "Âm Hàn": [
+            "관",
+            "완"
+        ],
+        "Âm Quảng Đông": [
+            "gwaan1"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển trích dẫn": [
+                "(Động) Đóng (cửa). Đối lại với 'khai' 開. ◎Như: 'quan môn' 關門 đóng cửa. ◇Đào Uyên Minh 陶淵明: 'Môn tuy thiết nhi thường quan' 門雖設而常關 (Quy khứ lai từ 歸去來辭) Tuy có cửa nhưng vẫn thường đóng.",
+                "(Động) Nhốt, giam giữ. ◎Như: 'điểu bị quan tại lung trung' 鳥被關在籠中 chim bị nhốt trong lồng, 'tha bị quan tại lao lí' 他被關在牢裡 nó bị giam trong tù.",
+                "(Động) Ngừng, tắt. ◎Như: 'quan cơ' 關機 tắt máy, 'quan đăng' 關燈 tắt đèn.",
+                "(Động) Liên quan, liên hệ, dính líu. ◎Như: 'quan thư' 關書 đính ước, 'quan tâm' 關心 bận lòng đến, đoái hoài. ◇Nguyễn Du 阮攸: 'Quan tâm nhất dạ khổ vô thụy' 關心一夜苦無睡 (Thăng Long 昇龍) Bận lòng nghĩ ngợi thâu đêm khổ tâm không ngủ được.",
+                "(Động) Lĩnh, phát (lương, tiền). ◎Như: 'quan hướng' 關餉 lĩnh lương, phát lương. ◇Hồng Lâu Mộng 紅樓夢: 'Giả Trân nhân vấn Vưu thị: Gia môn xuân tế đích ân thưởng khả lĩnh liễu bất tằng? Vưu thị đạo: Kim nhi ngã đả phát Dung nhi quan khứ liễu' 賈珍因問尤氏: 咱們春祭的恩賞可領了不曾? 尤氏道: 今兒我打發蓉兒關去了 (Đệ ngũ thập tam hồi) Giả Trân hỏi Vưu thị: Tiền thưởng tế xuân của chúng ta đã lĩnh chưa? Vưu thị đáp: Hôm nay tôi đã sai thằng Dung đi lĩnh rồi.",
+                "(Danh) Dõi cửa, then cửa. ◇Liêu trai chí dị 聊齋志異: 'Nhất dạ, bế hộ độc chước, hốt văn đạn chỉ xao song, bạt quan xuất thị, tắc hồ nữ dã' 一夜, 閉戶獨酌, 忽聞彈指敲窗, 拔關出視, 則狐女也 (Hà hoa tam nương tử 荷花三娘子) Một đêm, đóng cửa uống rượu một mình, chợt nghe có tiếng ngón tay gõ cửa sổ, mở then cửa ra xem, thì chính là nàng hồ li.",
+                "(Danh) Cửa ải, cửa biên giới. ◎Như: 'biên quan' 邊關 cửa ải ngoài biên, chỗ nước này giáp với nước khác. ◎Như: 'quan san' 關山 cửa ải và núi, ý nói đường đi xa xôi khó khăn. ◇Vương Bột 王勃: 'Quan san nan việt, thùy bi thất lộ chi nhân' 關山難越, 誰悲失路之人 (Đằng Vương Các tự 滕王閣序) Quan san khó vượt, nào ai xót thương người lạc lối.",
+                "(Danh) Cửa ô, các nơi ách yếu để tra xét hành khách và hàng hóa. ◇Mạnh Tử 孟子: 'Quan cơ nhi bất chinh' 關譏而不征 (Đằng Văn Công hạ 滕文公下) Cửa ô chỉ để tra xét hành khách mà không đánh thuế.",
+                "(Danh) Bộ phận, giai đoạn trọng yếu. ◎Như: 'nan quan' 難關 giai đoạn khó khăn, 'quá thử nhất quan, tất vô đại ngại' 過此一關, 必無大礙 vượt qua chặng quan trọng này, tất không còn trở ngại lớn nào nữa, 'niên quan tại nhĩ' 年關在邇 cuối năm.",
+                "(Danh) Bộ vị trên thân người. ◎Như: Nhà làm thuốc chia ba bộ mạch, cứ nơi cổ tay, lấy cái xương chồi đằng sau làm cữ, giữa gọi là 'mạch quan' 脈關.",
+                "(Danh) Tên đất.",
+                "(Danh) Họ 'Quan'.",
+                "(Trạng thanh) 'Quan quan' 關關 tiếng kêu của con chim thư cưu.",
+                "Một âm là 'loan'. (Động) Giương. ◎Như: 'Việt nhân loan cung nhi xạ chi' 越人關弓而射之 người Việt giương cung mà bắn đấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đóng. Như môn tuy thiết nhi thường quan 門雖設而常關 (Ðào Uyên Minh 陶淵明) tuy có làm cửa đấy nhưng vẫn đóng luôn.",
+                "Cái dõi cửa, dùng một cái trục gỗ cài ngang cửa lại gọi là quan. Cho nên then chốt trên cửa gọi là quan kiện 關鍵. Nói rộng ra thì các máy móc trong các đồ đều gọi là cơ quan 機關. Phàm các cái cốt yếu của sự vật gì hay chỗ tổng cục phân phát đi đều gọi là quan kiện hay là cơ quan. Như ta nói cơ quan truyền bá, cơ quan phát hành, v.v.",
+                "Cửa ải. Như biên quan 邊關 cửa ải ngoài biên, chỗ nước này giáp với nước khác.",
+                "Cửa ô. Đặt ở các nơi ách yếu để tra xét hành khách và hàng hoá gọi là quan. Ngày xưa đặt cửa ô chỉ để tra xét hành khách, đời sau mới đánh thuế. Như sách Mạnh Tử 孟子 nói quan cơ nhi bất chinh 關譏而不征 cửa ô chỉ để tra xét hành khách mà không đánh thuế.",
+                "Giới hạn. Như thánh vực hiền quan 聖域賢關 cõi thánh bực hiền. Nay gọi cuối năm là niên quan tại nhĩ 年關在邇 cũng bởi nghĩa đó (cái hạn năm nó đã gần hết cũ sang mới).",
+                "Quan hệ. Hai bên cùng có liên thuộc với nhau gọi là quan. Nay gọi sự để lòng thắc mắc nhớ luôn là quan tâm 關心 hay quan hoài 關懷 cũng bởi nghĩa đó. Nguyễn Du 阮攸: Quan tâm nhất dạ khổ vô thuỵ 關心一夜苦無睡 (Thăng Long 升龍) nghĩ ngợi thâu đêm khổ tâm không ngủ được.",
+                "Cách bức. Như quan thuyết 關說 lời nói cách bức, do một người khác nhắc lại, chứ không phải lời nói trước mặt.",
+                "Các văn bằng để đi lãnh lương gọi là quan hưởng 關餉. Hai bên cùng đính ước với nhau gọi là quan thư 關書.",
+                "Quan quan 關關 tiếng con chim thư cưu kêu.",
+                "Mạch quan. Nhà làm thuốc chia ba bộ mạch, cứ nơi cổ tay, lấy cái xương chồi đằng sau làm cữ, giữa gọi là mạch quan.",
+                "Tên đất. Một âm là loan. Dương. Như Việt nhân loan cung nhi xạ chi 越人關弓而射之 người Việt dương cung mà bắn đấy."
+            ]
+        },
+        "quan": {
+            "Từ điển phổ thông": [
+                "cửa ải, cửa ô",
+                "đóng (cửa)",
+                "quan hệ, liên quan"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đóng (cửa). Đối lại với 'khai' 開. ◎Như: 'quan môn' 關門 đóng cửa. ◇Đào Uyên Minh 陶淵明: 'Môn tuy thiết nhi thường quan' 門雖設而常關 (Quy khứ lai từ 歸去來辭) Tuy có cửa nhưng vẫn thường đóng.",
+                "(Động) Nhốt, giam giữ. ◎Như: 'điểu bị quan tại lung trung' 鳥被關在籠中 chim bị nhốt trong lồng, 'tha bị quan tại lao lí' 他被關在牢裡 nó bị giam trong tù.",
+                "(Động) Ngừng, tắt. ◎Như: 'quan cơ' 關機 tắt máy, 'quan đăng' 關燈 tắt đèn.",
+                "(Động) Liên quan, liên hệ, dính líu. ◎Như: 'quan thư' 關書 đính ước, 'quan tâm' 關心 bận lòng đến, đoái hoài. ◇Nguyễn Du 阮攸: 'Quan tâm nhất dạ khổ vô thụy' 關心一夜苦無睡 (Thăng Long 昇龍) Bận lòng nghĩ ngợi thâu đêm khổ tâm không ngủ được.",
+                "(Động) Lĩnh, phát (lương, tiền). ◎Như: 'quan hướng' 關餉 lĩnh lương, phát lương. ◇Hồng Lâu Mộng 紅樓夢: 'Giả Trân nhân vấn Vưu thị: Gia môn xuân tế đích ân thưởng khả lĩnh liễu bất tằng? Vưu thị đạo: Kim nhi ngã đả phát Dung nhi quan khứ liễu' 賈珍因問尤氏: 咱們春祭的恩賞可領了不曾? 尤氏道: 今兒我打發蓉兒關去了 (Đệ ngũ thập tam hồi) Giả Trân hỏi Vưu thị: Tiền thưởng tế xuân của chúng ta đã lĩnh chưa? Vưu thị đáp: Hôm nay tôi đã sai thằng Dung đi lĩnh rồi.",
+                "(Danh) Dõi cửa, then cửa. ◇Liêu trai chí dị 聊齋志異: 'Nhất dạ, bế hộ độc chước, hốt văn đạn chỉ xao song, bạt quan xuất thị, tắc hồ nữ dã' 一夜, 閉戶獨酌, 忽聞彈指敲窗, 拔關出視, 則狐女也 (Hà hoa tam nương tử 荷花三娘子) Một đêm, đóng cửa uống rượu một mình, chợt nghe có tiếng ngón tay gõ cửa sổ, mở then cửa ra xem, thì chính là nàng hồ li.",
+                "(Danh) Cửa ải, cửa biên giới. ◎Như: 'biên quan' 邊關 cửa ải ngoài biên, chỗ nước này giáp với nước khác. ◎Như: 'quan san' 關山 cửa ải và núi, ý nói đường đi xa xôi khó khăn. ◇Vương Bột 王勃: 'Quan san nan việt, thùy bi thất lộ chi nhân' 關山難越, 誰悲失路之人 (Đằng Vương Các tự 滕王閣序) Quan san khó vượt, nào ai xót thương người lạc lối.",
+                "(Danh) Cửa ô, các nơi ách yếu để tra xét hành khách và hàng hóa. ◇Mạnh Tử 孟子: 'Quan cơ nhi bất chinh' 關譏而不征 (Đằng Văn Công hạ 滕文公下) Cửa ô chỉ để tra xét hành khách mà không đánh thuế.",
+                "(Danh) Bộ phận, giai đoạn trọng yếu. ◎Như: 'nan quan' 難關 giai đoạn khó khăn, 'quá thử nhất quan, tất vô đại ngại' 過此一關, 必無大礙 vượt qua chặng quan trọng này, tất không còn trở ngại lớn nào nữa, 'niên quan tại nhĩ' 年關在邇 cuối năm.",
+                "(Danh) Bộ vị trên thân người. ◎Như: Nhà làm thuốc chia ba bộ mạch, cứ nơi cổ tay, lấy cái xương chồi đằng sau làm cữ, giữa gọi là 'mạch quan' 脈關.",
+                "(Danh) Tên đất.",
+                "(Danh) Họ 'Quan'.",
+                "(Trạng thanh) 'Quan quan' 關關 tiếng kêu của con chim thư cưu.",
+                "Một âm là 'loan'. (Động) Giương. ◎Như: 'Việt nhân loan cung nhi xạ chi' 越人關弓而射之 người Việt giương cung mà bắn đấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đóng. Như môn tuy thiết nhi thường quan 門雖設而常關 (Ðào Uyên Minh 陶淵明) tuy có làm cửa đấy nhưng vẫn đóng luôn.",
+                "Cái dõi cửa, dùng một cái trục gỗ cài ngang cửa lại gọi là quan. Cho nên then chốt trên cửa gọi là quan kiện 關鍵. Nói rộng ra thì các máy móc trong các đồ đều gọi là cơ quan 機關. Phàm các cái cốt yếu của sự vật gì hay chỗ tổng cục phân phát đi đều gọi là quan kiện hay là cơ quan. Như ta nói cơ quan truyền bá, cơ quan phát hành, v.v.",
+                "Cửa ải. Như biên quan 邊關 cửa ải ngoài biên, chỗ nước này giáp với nước khác.",
+                "Cửa ô. Đặt ở các nơi ách yếu để tra xét hành khách và hàng hoá gọi là quan. Ngày xưa đặt cửa ô chỉ để tra xét hành khách, đời sau mới đánh thuế. Như sách Mạnh Tử 孟子 nói quan cơ nhi bất chinh 關譏而不征 cửa ô chỉ để tra xét hành khách mà không đánh thuế.",
+                "Giới hạn. Như thánh vực hiền quan 聖域賢關 cõi thánh bực hiền. Nay gọi cuối năm là niên quan tại nhĩ 年關在邇 cũng bởi nghĩa đó (cái hạn năm nó đã gần hết cũ sang mới).",
+                "Quan hệ. Hai bên cùng có liên thuộc với nhau gọi là quan. Nay gọi sự để lòng thắc mắc nhớ luôn là quan tâm 關心 hay quan hoài 關懷 cũng bởi nghĩa đó. Nguyễn Du 阮攸: Quan tâm nhất dạ khổ vô thuỵ 關心一夜苦無睡 (Thăng Long 升龍) nghĩ ngợi thâu đêm khổ tâm không ngủ được.",
+                "Cách bức. Như quan thuyết 關說 lời nói cách bức, do một người khác nhắc lại, chứ không phải lời nói trước mặt.",
+                "Các văn bằng để đi lãnh lương gọi là quan hưởng 關餉. Hai bên cùng đính ước với nhau gọi là quan thư 關書.",
+                "Quan quan 關關 tiếng con chim thư cưu kêu.",
+                "Mạch quan. Nhà làm thuốc chia ba bộ mạch, cứ nơi cổ tay, lấy cái xương chồi đằng sau làm cữ, giữa gọi là mạch quan.",
+                "Tên đất. Một âm là loan. Dương. Như Việt nhân loan cung nhi xạ chi 越人關弓而射之 người Việt dương cung mà bắn đấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đóng, khép, tắt, đậy kín, bịt kín: 關窗戶 Đóng cửa sổ; 關燈 Tắt đèn; 把門關上 Khép cửa lại; 門雖設而常關 Cửa tuy có nhưng thường khép luôn (Đào Uyên Minh: Quy khứ lai từ);",
+                "Giam, bỏ tù: 把這個流氓分子關起來 Giam tên lưu manh này lại;",
+                "Cửa ải, cửa biên giới, quan: 過關 Vượt qua cửa ải;",
+                "Cửa ô (ngày xưa), hải quan, hàng rào hải quan (thời nay): 關機而不征 Cửa ô chỉ tra xét hành khách mà không đánh thuế (Mạnh tử);",
+                "Dính dáng, liên quan, quan hệ: 責任由我負，不關你們的事 Tôi chịu trách nhiệm, không liên quan đến các anh. 【關于】quan vu [quanyú] Về: 關于工業化問題 Về vấn đề công nghiệp hoá;",
+                "Dàn xếp, làm môi giới;",
+                "Lãnh (lương, tiền...): 關餉 Lãnh lương;",
+                "(văn) Dõi cửa;",
+                "(văn) Điểm then chốt, bước quyết định;",
+                "(y) Mạch quan;",
+                "【關關】 quan quan [guanguan] (thanh) Quan quan (tiếng chim kêu): 關關睢鳩，在河之州 Quan quan cái con thư cưu, con sống con mái cùng nhau bãi ngoài (Thi Kinh);",
+                "[Guan] Tên đất: 關中 Quan Trung;",
+                "[Guan] (Họ) Quan."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy thanh gỗ ngang mà chặn cửa lại — Đóng lại — Đường hiểm yếu đi vào lĩnh thổ một nước. Cửa ải. Cửa quan.  Đoạn trường tân thanh  có câu: » Quá quan này khúc chiêu quân, Nửa phần luyến chúa nửa phần tư gia « — Ràng buộc, liên lạc với nhau — Bộ phận trong thân thể người — Nơi mà việc làm có tổ chức liên lạc chặt chẽ. Td: Cơ quan."
+            ],
+            "compound_words": {
+                "隘關": "ải quan",
+                "把關": "bả quan",
+                "抱關擊柝": "bão quan kích phác",
+                "閉關": "bế quan",
+                "閉關鎖國": "bế quan toả quốc",
+                "肘關節": "chửu quan tiết",
+                "骨關節": "cốt quan tiết",
+                "機關": "cơ quan",
+                "覺關": "giác quan",
+                "海關": "hải quan",
+                "有關": "hữu quan",
+                "開關": "khai quan",
+                "入關": "nhập quan",
+                "過關": "quá quan",
+                "關隘": "quan ải",
+                "關照": "quan chiếu",
+                "關征": "quan chinh",
+                "關帝": "quan đế",
+                "關河": "quan hà",
+                "關係": "quan hệ",
+                "關懷": "quan hoài",
+                "關鍵": "quan kiện",
+                "關聯": "quan liên",
+                "關礙": "quan ngại",
+                "關嚴寺碑文": "quan nghiêm tự bi văn",
+                "關外": "quan ngoại",
+                "關內": "quan nội",
+                "關房": "quan phòng",
+                "關山": "quan san",
+                "關塞": "quan tái",
+                "關心": "quan tâm",
+                "關涉": "quan thiệp",
+                "關切": "quan thiết",
+                "關通": "quan thông",
+                "關稅": "quan thuế",
+                "關節": "quan tiết",
+                "三關": "tam quan",
+                "城關": "thành quan",
+                "蕭關": "tiêu quan",
+                "相關": "tương quan"
+            }
+        }
+    }
+}

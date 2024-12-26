@@ -1,0 +1,112 @@
+{
+    "character": "焚",
+    "details": {
+        "Âm Hán Việt": [
+            "phần",
+            "phẫn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hoả 火 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱林火"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨ノ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "DDF (木木火)"
+        ],
+        "Unicode": [
+            "U+711A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fén ㄈㄣˊ",
+            "fěn ㄈㄣˇ",
+            "fèn ㄈㄣˋ"
+        ],
+        "Âm Nôm": [
+            "phàn",
+            "phần",
+            "phừng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フン (fun)",
+            "ホン (hon)",
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "た.く (ta.ku)",
+            "や.く (ya.ku)",
+            "やきがり (yakigari)"
+        ],
+        "Âm Hàn": [
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "fan4"
+        ]
+    },
+    "meanings": {
+        "phần": {
+            "Từ điển phổ thông": [
+                "đốt cháy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đốt. ◎Như: 'phần hương' 焚香 đốt hương.",
+                "(Động) Nướng phạm nhân (một hình phạt thời xưa). ◇Chu Lễ 周禮: 'Phàm phàm sát kì thân giả phần chi' 凡殺其親者焚之 (Thu quan 秋官, Chưởng lục 掌戮) Kẻ giết người thân của mình sẽ bị phạt nướng.",
+                "(Tính) Khô, ráo, hanh. ◎Như: 'phần phong' 焚風 gió hanh.",
+                "Một âm là 'phẫn'. (Động) Đổ ngã, bại hoại. § Thông 'phẫn' 僨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðốt, như phần hương 焚香 đốt hương.",
+                "Một âm là phẫn. Cùng nghĩa với chữ phẫn 僨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đốt, thắp, thiêu: 焚香 Đốt hương, thắp hương; 憂心如焚 Lòng lo như lửa đốt, như lửa đốt trong lòng; 焚林而田 Đốt rừng để làm ruộng (Hàn Phi tử: Nan nhất)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đốt, châm lửa đốt cháy."
+            ],
+            "compound_words": {
+                "芝焚蕙歎": "chi phần huệ thán",
+                "焚香": "phần hương",
+                "焚棄": "phần khí",
+                "焚刧": "phần kíp",
+                "焚掠": "phần lược",
+                "焚如": "phần như",
+                "焚溺": "phần nịch",
+                "焚書": "phần thư",
+                "焚書坑儒": "phần thư khanh nho",
+                "焚修": "phần tu"
+            }
+        },
+        "phẫn": {
+            "Từ điển trích dẫn": [
+                "(Động) Đốt. ◎Như: 'phần hương' 焚香 đốt hương.",
+                "(Động) Nướng phạm nhân (một hình phạt thời xưa). ◇Chu Lễ 周禮: 'Phàm phàm sát kì thân giả phần chi' 凡殺其親者焚之 (Thu quan 秋官, Chưởng lục 掌戮) Kẻ giết người thân của mình sẽ bị phạt nướng.",
+                "(Tính) Khô, ráo, hanh. ◎Như: 'phần phong' 焚風 gió hanh.",
+                "Một âm là 'phẫn'. (Động) Đổ ngã, bại hoại. § Thông 'phẫn' 僨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðốt, như phần hương 焚香 đốt hương.",
+                "Một âm là phẫn. Cùng nghĩa với chữ phẫn 僨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 僨 (bộ 亻)."
+            ]
+        }
+    }
+}

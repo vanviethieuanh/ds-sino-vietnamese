@@ -1,0 +1,89 @@
+{
+    "character": "鴰",
+    "details": {
+        "Âm Hán Việt": [
+            "cốc",
+            "hộc",
+            "quát"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舌鳥"
+        ],
+        "Nét bút": [
+            "ノ一丨丨フ一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "HRHAF (竹口竹日火)"
+        ],
+        "Unicode": [
+            "U+9D30"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "guā ㄍㄨㄚ",
+            "hú ㄏㄨˊ"
+        ],
+        "Âm Nôm": [
+            "quát",
+            "quật"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "カチ (kachi)",
+            "ケチ (kechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まなづる (manazuru)"
+        ],
+        "Âm Hàn": [
+            "괄"
+        ],
+        "Âm Quảng Đông": [
+            "kut3"
+        ]
+    },
+    "meanings": {
+        "cốc": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đích (để tập bắn). Xem 鴰 [hú]."
+            ]
+        },
+        "hộc": {
+            "Từ điển Trần Văn Chánh": [
+                "(động) Thiên nga, ngỗng trời, ngan trời, chim hộc;",
+                "Đứng thẳng. Xem 鴰 [gư]."
+            ]
+        },
+        "quát": {
+            "Từ điển phổ thông": [
+                "(xem: thương quát 鶬鴰,鸧鸹)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Thương quát” 鶬鴰: còn gọi là “lão quát” 老鴰. Xem “thương” 鶬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thương quát 鶬鴰 quạ, con dang. Có tên khác là bạch đỉnh hạc 白頂鶴. Còn gọi là lão quát 老鴰."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quạ. Cg. 老鴰 [lăogua]."
+            ],
+            "compound_words": {
+                "鶬鴰": "thương quát"
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "character": "礨",
+    "details": {
+        "Âm Hán Việt": [
+            "lôi",
+            "lỗi"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thạch 石 (+15 nét)"
+        ],
+        "Hình thái": [
+            "⿱畾石"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨フ一丨一丨フ一丨一一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "WWWR (田田田口)"
+        ],
+        "Unicode": [
+            "U+7928"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lēi ㄌㄟ",
+            "lěi ㄌㄟˇ"
+        ],
+        "Âm Quảng Đông": [
+            "leoi5"
+        ]
+    },
+    "meanings": {
+        "lôi": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'lỗi không' 礨空.",
+                "Một âm là 'lôi'. (Danh) Đá lớn.",
+                "(Danh) § Xem 'lôi thạch' 礨石."
+            ],
+            "compound_words": {
+                "礨石": "lôi thạch"
+            }
+        },
+        "lỗi": {
+            "Từ điển phổ thông": [
+                "hang động nhỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'lỗi không' 礨空.",
+                "Một âm là 'lôi'. (Danh) Đá lớn.",
+                "(Danh) § Xem 'lôi thạch' 礨石."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Lỗi 磊."
+            ],
+            "compound_words": {
+                "礨空": "lỗi không"
+            }
+        }
+    }
+}

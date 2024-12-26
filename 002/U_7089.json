@@ -1,0 +1,80 @@
+{
+    "character": "炉",
+    "details": {
+        "Âm Hán Việt": [
+            "lô",
+            "lư"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hoả 火 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰火户"
+        ],
+        "Nét bút": [
+            "丶ノノ丶丶フ一ノ"
+        ],
+        "Thương Hiệt": [
+            "FIS (火戈尸)"
+        ],
+        "Unicode": [
+            "U+7089"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lò",
+            "lô",
+            "lư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いろり (irori)"
+        ],
+        "Âm Hàn": [
+            "로"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lô": {
+            "Từ điển phổ thông": [
+                "lò lửa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 爐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 爐"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết giản dị của chữ Lô 爐."
+            ],
+            "compound_words": {
+                "壁炉": "bích lô"
+            }
+        },
+        "lư": {
+            "Từ điển phổ thông": [
+                "lò lửa"
+            ]
+        }
+    }
+}

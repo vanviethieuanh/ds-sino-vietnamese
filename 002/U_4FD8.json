@@ -1,0 +1,79 @@
+{
+    "character": "俘",
+    "details": {
+        "Âm Hán Việt": [
+            "phu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhân 人 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻孚"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶丶ノフ丨一"
+        ],
+        "Thương Hiệt": [
+            "OBND (人月弓木)"
+        ],
+        "Unicode": [
+            "U+4FD8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fú ㄈㄨˊ"
+        ],
+        "Âm Nôm": [
+            "phù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とりこ (toriko)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu1"
+        ]
+    },
+    "meanings": {
+        "phu": {
+            "Từ điển phổ thông": [
+                "bắt được"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tù binh. ◎Như: 'phu lỗ' 俘虜 tù binh, 'khiển phu' 遣俘 thả tù binh.",
+                "(Động) Bắt làm tù binh. ◇Minh sử 明史: 'Nhật phu lương dân dĩ yêu thưởng' 日俘良民以邀賞 (Thái tổ bổn kỉ nhất 太祖本紀一) Hằng ngày bắt dân lành làm tù binh để được thưởng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bắt được, đánh bắt được quân giặc gọi là phu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tù binh: 戰俘 Tù binh; 遣俘 Thả tù binh;",
+                "Bắt được (quân địch): 師長被俘 Sư đoàn trưởng bị bắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người lính bị giặc bắt — Trừng phạt."
+            ],
+            "compound_words": {
+                "捕俘": "bộ phu",
+                "俘虏": "phu lỗ",
+                "俘虜": "phu lỗ"
+            }
+        }
+    }
+}

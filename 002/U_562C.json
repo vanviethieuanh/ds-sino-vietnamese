@@ -1,0 +1,94 @@
+{
+    "character": "嘬",
+    "details": {
+        "Âm Hán Việt": [
+            "soái",
+            "toát"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口最"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一一丨丨一一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "RASE (口日尸水)"
+        ],
+        "Unicode": [
+            "U+562C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chuài ㄔㄨㄞˋ",
+            "zuō ㄗㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "chối",
+            "đạm",
+            "ngoạm",
+            "toát",
+            "tòi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "セ (se)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.む (ka.mu)",
+            "むさぼ.る (musabo.ru)"
+        ],
+        "Âm Hàn": [
+            "최"
+        ],
+        "Âm Quảng Đông": [
+            "caai3",
+            "zyut3"
+        ]
+    },
+    "meanings": {
+        "soái": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắn. Dùng răng mà cắn — Vẻ dữ dội, mạnh mẽ — Ta có người đọc Toát."
+            ]
+        },
+        "toát": {
+            "Từ điển phổ thông": [
+                "cắn, khoét"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nuốt trọn một lần.",
+                "(Động) Cắn, khoét.",
+                "(Động) Tham cầu, ham muốn.",
+                "(Tính) Thô."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cắn khoét."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(khn) Bú, mút: 小孩兒嘬奶 Em bé bú sữa;",
+                "(văn) Cắn khoét."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng răng mà cắn. Cũng đọc Soái."
+            ],
+            "compound_words": {
+                "嘬兵": "toát binh"
+            }
+        }
+    }
+}

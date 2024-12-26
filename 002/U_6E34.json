@@ -1,0 +1,129 @@
+{
+    "character": "渴",
+    "details": {
+        "Âm Hán Việt": [
+            "hạt",
+            "khát",
+            "kiệt"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡曷"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "EAPV (水日心女)"
+        ],
+        "Unicode": [
+            "U+6E34"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hé ㄏㄜˊ",
+            "jié ㄐㄧㄝˊ",
+            "kài ㄎㄞˋ",
+            "kě ㄎㄜˇ"
+        ],
+        "Âm Nôm": [
+            "khát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわく (kawaku)",
+            "かわき (kawaki)"
+        ],
+        "Âm Hàn": [
+            "갈"
+        ],
+        "Âm Quảng Đông": [
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "hạt": {
+            "Từ điển trích dẫn": [
+                "(Danh) Khát. ◎Như: 'giải khát' 解渴 uống để hết khát, 'vọng mai chỉ khát' 望梅止渴 ngóng tới rừng cây mơ chảy nước miếng mà hết khát.",
+                "(Phó) Gấp, tha thiết, cấp thiết. ◎Như: 'khát mộ' 渴慕 hâm mộ nồng nhiệt, 'khát vọng' 渴望 mong mỏi thiết tha, 'khát niệm' 渴念 hết sức tưởng nhớ.",
+                "Một âm là 'kiệt'. (Tính) Khô, cạn. ◎Như: 'kiệt trạch' 渴澤 ao đầm khô cạn nước.",
+                "Một âm là 'hạt'. (Danh) Dòng nước chảy ngược. ◇Liễu Tông Nguyên 柳宗元: 'Sở Việt chi gian phương ngôn, vị thủy chi phản lưu giả vi hạt' 楚越之間方言, 謂水之反流者為渴 (Viên gia hạt kí 袁家渴記) Tiếng địa phương vùng Sở, Việt, gọi dòng nước chảy ngược là \"hạt\"."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sóng nước — Các âm khác là Kiệt, Khát. Xem các âm này."
+            ]
+        },
+        "khát": {
+            "Từ điển phổ thông": [
+                "khát (nước)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khát. ◎Như: 'giải khát' 解渴 uống để hết khát, 'vọng mai chỉ khát' 望梅止渴 ngóng tới rừng cây mơ chảy nước miếng mà hết khát.",
+                "(Phó) Gấp, tha thiết, cấp thiết. ◎Như: 'khát mộ' 渴慕 hâm mộ nồng nhiệt, 'khát vọng' 渴望 mong mỏi thiết tha, 'khát niệm' 渴念 hết sức tưởng nhớ.",
+                "Một âm là 'kiệt'. (Tính) Khô, cạn. ◎Như: 'kiệt trạch' 渴澤 ao đầm khô cạn nước.",
+                "Một âm là 'hạt'. (Danh) Dòng nước chảy ngược. ◇Liễu Tông Nguyên 柳宗元: 'Sở Việt chi gian phương ngôn, vị thủy chi phản lưu giả vi hạt' 楚越之間方言, 謂水之反流者為渴 (Viên gia hạt kí 袁家渴記) Tiếng địa phương vùng Sở, Việt, gọi dòng nước chảy ngược là \"hạt\"."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khát nước.",
+                "Kíp, nóng sốt nồng nàn, như khát mộ 渴慕 hâm mộ sốt sắng, có ý muốn được ngay không đợi lâu được.",
+                "Một âm là kiệt. Cạn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khát (nước), khát khao: 渴思飲，饑思食 Khát thì nghĩ đến uống, đói thì nghĩ đến ăn; 我渴 Tôi khát (nước)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khô miệng, muốn uống nước. Ta cũng gọi là Khát — Mong muốn, thèm thuồng — Gấp gáp, nóng nảy — Các âm khác là Hạt, Kiệt."
+            ],
+            "compound_words": {
+                "飲酖止渴": "ẩm đam chỉ khát",
+                "飲鴆止渴": "ẩm trậm chỉ khát",
+                "拜渴": "bái khát",
+                "止渴": "chỉ khát",
+                "飢渴": "cơ khát",
+                "解渴": "giải khát",
+                "觧渴": "giải khát",
+                "渴筆": "khát bút",
+                "渴慕": "khát mộ",
+                "渴仰": "khát ngưỡng",
+                "渴睡": "khát thuỵ",
+                "渴望": "khát vọng",
+                "口渴": "khẩu khát",
+                "痟渴": "tiêu khát"
+            }
+        },
+        "kiệt": {
+            "Từ điển trích dẫn": [
+                "(Danh) Khát. ◎Như: 'giải khát' 解渴 uống để hết khát, 'vọng mai chỉ khát' 望梅止渴 ngóng tới rừng cây mơ chảy nước miếng mà hết khát.",
+                "(Phó) Gấp, tha thiết, cấp thiết. ◎Như: 'khát mộ' 渴慕 hâm mộ nồng nhiệt, 'khát vọng' 渴望 mong mỏi thiết tha, 'khát niệm' 渴念 hết sức tưởng nhớ.",
+                "Một âm là 'kiệt'. (Tính) Khô, cạn. ◎Như: 'kiệt trạch' 渴澤 ao đầm khô cạn nước.",
+                "Một âm là 'hạt'. (Danh) Dòng nước chảy ngược. ◇Liễu Tông Nguyên 柳宗元: 'Sở Việt chi gian phương ngôn, vị thủy chi phản lưu giả vi hạt' 楚越之間方言, 謂水之反流者為渴 (Viên gia hạt kí 袁家渴記) Tiếng địa phương vùng Sở, Việt, gọi dòng nước chảy ngược là \"hạt\"."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khát nước.",
+                "Kíp, nóng sốt nồng nàn, như khát mộ 渴慕 hâm mộ sốt sắng, có ý muốn được ngay không đợi lâu được.",
+                "Một âm là kiệt. Cạn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cạn (như 竭, bộ 立)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ao nước tù hãm — Các âm khác là Hạt, Khát."
+            ]
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "character": "换",
+    "details": {
+        "Âm Hán Việt": [
+            "hoán"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘奂"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "XQNBK (重手弓月大)"
+        ],
+        "Unicode": [
+            "U+6362"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huàn ㄏㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hoán"
+        ],
+        "Âm Quảng Đông": [
+            "wun6"
+        ]
+    },
+    "meanings": {
+        "hoán": {
+            "Từ điển phổ thông": [
+                "hoán đổi, trao đổi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 換."
+            ],
+            "compound_words": {
+                "更换": "canh hoán",
+                "兑换": "đoái hoán",
+                "换置": "hoán trí",
+                "互换": "hỗ hoán",
+                "替换": "thế hoán",
+                "物换星移": "vật hoán tinh di"
+            }
+        }
+    }
+}

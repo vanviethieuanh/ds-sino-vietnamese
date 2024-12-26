@@ -1,0 +1,97 @@
+{
+    "character": "戏",
+    "details": {
+        "Âm Hán Việt": [
+            "hi",
+            "huy",
+            "hí",
+            "hô",
+            "hý"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "qua 戈 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰又戈"
+        ],
+        "Nét bút": [
+            "フ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "EI (水戈)"
+        ],
+        "Unicode": [
+            "U+620F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hū ㄏㄨ",
+            "huī ㄏㄨㄟ",
+            "xī ㄒㄧ",
+            "xì ㄒㄧˋ"
+        ],
+        "Âm Nôm": [
+            "hí",
+            "hô"
+        ],
+        "Âm Quảng Đông": [
+            "hei3"
+        ]
+    },
+    "meanings": {
+        "hi": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 戲."
+            ]
+        },
+        "huy": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 戲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cờ chỉ huy trong quân đội, cờ đầu (dùng như 麾, bộ 麻)."
+            ]
+        },
+        "hí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 戲."
+            ],
+            "compound_words": {
+                "把戏": "bả hí",
+                "戏剧": "hí kịch",
+                "戏弄": "hí lộng",
+                "戏耍": "hí sái",
+                "戏院": "hí viện",
+                "京戏": "kinh hí"
+            }
+        },
+        "hô": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 戲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 戲"
+            ]
+        },
+        "hý": {
+            "Từ điển phổ thông": [
+                "đùa nghịch",
+                "tuồng, kịch, xiếc"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 戲"
+            ]
+        }
+    }
+}

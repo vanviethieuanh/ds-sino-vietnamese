@@ -1,0 +1,100 @@
+{
+    "character": "阻",
+    "details": {
+        "Âm Hán Việt": [
+            "trở"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "phụ 阜 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖且"
+        ],
+        "Nét bút": [
+            "フ丨丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "NLBM (弓中月一)"
+        ],
+        "Unicode": [
+            "U+963B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhù ㄓㄨˋ",
+            "zǔ ㄗㄨˇ"
+        ],
+        "Âm Nôm": [
+            "trở"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はば.む (haba.mu)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zo2"
+        ]
+    },
+    "meanings": {
+        "trở": {
+            "Từ điển phổ thông": [
+                "cản trở",
+                "hiểm trở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ đất hiểm yếu. ◎Như: 'hiểm trở' 險阻 đất hiểm yếu.",
+                "(Danh) Chướng ngại. ◎Như: 'thông hành vô trở' 通行無阻 đường đi không có chướng ngại.",
+                "(Động) Ngăn cách. ◎Như: 'trở cách' 阻隔 ngăn cách. ◇Đỗ Phủ 杜甫: 'Yên trần trở trường hà' 煙塵阻長河 (Khiển hứng 遣興) Khói bụi ngăn cách, sông thì dài.",
+                "(Động) Ngăn cấm, ngăn chận. ◎Như: 'át trở' 遏阻 ngăn cấm, 'vi chi khí trở' 爲之氣阻 làm cho cái khí đang hăng tắt ngẵng lại.",
+                "(Động) Từ chối, cự tuyệt. ◎Như: 'thôi tam trở tứ' 推三阻四 nhiều lần từ chối. ◇Thi Kinh 詩經: 'Kí trở ngã đức, Cổ dụng bất thụ' 宴爾新昏, 如兄如弟 (Bội phong 邶風, Cốc phong 谷風) (Chàng) cự tuyệt điều hay việc phải (của em), Cũng như đem bán mà không ai mua.",
+                "(Động) Cậy, dựa vào. ◇Tả truyện 左傳: 'Trở binh nhi an nhẫn' 阻兵而安忍 (Ẩn Công tứ niên 隱公四年) Dựa vào thế quân mà ở yên. ◇Phan Nhạc 潘岳: 'Xuẩn xuẩn khuyển dương, Trở chúng lăng quả (Mã khiên đốc lụy' 馬汧督誄) 蠢蠢犬羊, 阻眾陵寡 Chó cừu ngu xuẩn, Cậy đông hiếp ít.",
+                "(Động) Nghi hoặc. ◇Kê Khang 嵇康: 'Túc hạ âm tự trở nghi' (Dữ Lữ Trường Đễ tuyệt giao thư 與呂長悌絕交書) 足下陰自阻疑, 密表繫都 Túc hạ ngầm nghi hoặc.",
+                "(Tính) Gian nan, nguy hiểm. ◇Cổ thi 古詩: 'Đạo lộ trở thả trường, Hội diện an khả tri?' 道路阻且長, 會面安可知 (Hành hành trùng hành hành 行行重行行) Đường đi khó khăn, lại thêm xa xôi, Biết làm sao gặp mặt?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hiểm trở. Chỗ núi hiểm hóc gọi là hiểm 險, chỗ nước nguy hiểm gọi là trở 阻.",
+                "Ngăn trở. Cùng nghĩa với chữ trở 沮. Như vi chi khí trở 爲之氣阻 làm cho cái khí đang hăng tắt ngẵng lại. Lại cản trở không cho làm cũng gọi là trở.",
+                "Gian nan.",
+                "Cậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngăn trở, cản trở, chặn, trở ngại: 攔阻 Ngăn, ngăn cản; 勸阻 Khuyên ngăn; 通行無阻 Đường đi không có gì trở ngại;",
+                "Hiểm trở;",
+                "Gian nan."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khó khăn, khó thể vượt qua. Td: Hiểm trở — Xa xôi, khó gặp gỡ. Td: Cách trở — Ngăn cách."
+            ],
+            "compound_words": {
+                "遏阻": "át trở",
+                "隔阻": "cách trở",
+                "電阻": "điện trở",
+                "险阻": "hiểm trở",
+                "險阻": "hiểm trở",
+                "梗阻": "ngạnh trở",
+                "崱阻": "trắc trở",
+                "阻隔": "trở cách",
+                "阻止": "trở chỉ",
+                "阻力": "trở lực",
+                "阻撓": "trở nạo",
+                "阻礙": "trở ngại"
+            }
+        }
+    }
+}

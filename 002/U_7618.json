@@ -1,0 +1,71 @@
+{
+    "character": "瘘",
+    "details": {
+        "Âm Hán Việt": [
+            "lu",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nạch 疒 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒娄"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丶ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "KFDV (大火木女)"
+        ],
+        "Unicode": [
+            "U+7618"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lòu ㄌㄡˋ",
+            "lǘ",
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lâu"
+        ],
+        "Âm Quảng Đông": [
+            "lau6"
+        ]
+    },
+    "meanings": {
+        "lu": {
+            "Từ điển phổ thông": [
+                "(xem: câu lu 痀瘻)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 瘻"
+            ],
+            "compound_words": {
+                "痀瘘": "câu lu"
+            }
+        },
+        "lũ": {
+            "Từ điển phổ thông": [
+                "nhọt nhỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của 瘻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 瘻"
+            ]
+        }
+    }
+}

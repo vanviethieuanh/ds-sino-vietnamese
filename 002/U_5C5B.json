@@ -1,0 +1,117 @@
+{
+    "character": "屛",
+    "details": {
+        "Âm Hán Việt": [
+            "bình",
+            "bính",
+            "phanh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thi 尸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸尸幷"
+        ],
+        "Nét bút": [
+            "フ一ノノ一一ノノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "SYJJ (尸卜十十)"
+        ],
+        "Unicode": [
+            "U+5C5B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bīng ㄅㄧㄥ",
+            "bǐng ㄅㄧㄥˇ",
+            "bìng ㄅㄧㄥˋ",
+            "píng ㄆㄧㄥˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しりぞく (shirizoku)",
+            "おおう (ōu)"
+        ],
+        "Âm Hàn": [
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "bing2"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển phổ thông": [
+                "bức bình phong"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như 屏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Che, cái bình phong. Vua thiên tử phong cho các họ hàng và công thần ra làm vua chư hầu các địa phương gọi là bình phiên 屛藩 nghĩa là để che chở cho nhà vua vậy.",
+                "Ken mấy bức vẽ lại làm một mảng cũng gọi là bình, như bình điều 屛條, bình đối 屛對 nghĩa là ken các bức tranh lại để treo cho kín tường vách cho đẹp.",
+                "Bình dinh 屛營 sợ hãi.",
+                "Một âm là bính. Trừ đi, đuổi đi.",
+                "Lui, đứng hầu khép nép gọi là bính tức dĩ đãi 屛息以待 nghĩa là khép nép đứng lùi một bên hầu không dám thở to vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 屏 (1), (2)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Che đi. Ngăn đi — Cái tường nhỏ trước cửa để che bớt cửa — Các âm khác là Bính, Phanh. Xem các âm này."
+            ],
+            "compound_words": {
+                "屛障": "bình chướng",
+                "屛帷": "bình duy",
+                "屛條": "bình điều",
+                "屛氣": "bình khí",
+                "屛泥": "bình nê",
+                "屛蕃": "bình phiên",
+                "屛風": "bình phong",
+                "屛息": "bình tức",
+                "屛廁": "bình xí"
+            }
+        },
+        "bính": {
+            "Từ điển trích dẫn": [
+                "1. Cũng như 屏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Che, cái bình phong. Vua thiên tử phong cho các họ hàng và công thần ra làm vua chư hầu các địa phương gọi là bình phiên 屛藩 nghĩa là để che chở cho nhà vua vậy.",
+                "Ken mấy bức vẽ lại làm một mảng cũng gọi là bình, như bình điều 屛條, bình đối 屛對 nghĩa là ken các bức tranh lại để treo cho kín tường vách cho đẹp.",
+                "Bình dinh 屛營 sợ hãi.",
+                "Một âm là bính. Trừ đi, đuổi đi.",
+                "Lui, đứng hầu khép nép gọi là bính tức dĩ đãi 屛息以待 nghĩa là khép nép đứng lùi một bên hầu không dám thở to vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 屏 (1), (2)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lui về. Ẩn giấu — Trừ đi. Bỏ đi — Các âm khác là Bình, Phanh."
+            ],
+            "compound_words": {
+                "屛氣": "bính khí"
+            }
+        },
+        "phanh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phanh doanh 屛營: Sợ hãi, bàng hoàng khi ở trong rừng núi."
+            ]
+        }
+    }
+}

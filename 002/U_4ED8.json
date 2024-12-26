@@ -1,0 +1,117 @@
+{
+    "character": "付",
+    "details": {
+        "Âm Hán Việt": [
+            "phó",
+            "phụ"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhân 人 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻寸"
+        ],
+        "Nét bút": [
+            "ノ丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "ODI (人木戈)"
+        ],
+        "Unicode": [
+            "U+4ED8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "pho",
+            "phú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.ける (tsu.keru)",
+            "-つ.ける (-tsu.keru)",
+            "-づ.ける (-zu.keru)",
+            "つ.け (tsu.ke)",
+            "つ.け- (tsu.ke-)",
+            "-つ.け (-tsu.ke)",
+            "-づ.け (-zu.ke)",
+            "-づけ (-zuke)",
+            "つ.く (tsu.ku)",
+            "-づ.く (-zu.ku)",
+            "つ.き (tsu.ki)",
+            "-つ.き (-tsu.ki)",
+            "-つき (-tsuki)",
+            "-づ.き (-zu.ki)",
+            "-づき (-zuki)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu6"
+        ]
+    },
+    "meanings": {
+        "phó": {
+            "Từ điển phổ thông": [
+                "giao phó"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giao phó, trao cho. ◇Pháp Hoa Kinh 法華經: 'Ngã tài vật khố tàng, kim hữu sở phó' 我財物庫藏, 今有所付 (Tín giải phẩm đệ tứ 信解品第四) Của cải kho tàng của ta nay đã có người giao phó.",
+                "(Động) Tiêu ra, chi ra. ◎Như: 'phó khoản' 付款 trả tiền, 'phó trướng' 付帳 trả tiền.",
+                "(Danh) Lượng từ: bộ, cặp. § Thông 'phó' 副. ◎Như: 'nhất phó nhãn kính' 一付眼鏡 một cặp kính mắt, 'lưỡng phó oản khoái' 兩付碗筷 hai bộ bát đũa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giao phó cho 交付.",
+                "Tiêu ra, số tiền tiêu ra gọi là khoản phó 款付."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đưa, giao: 交付 Giao cho; 付表決 Đưa ra biểu quyết; 付諸實施 Đưa ra thi hành;",
+                "Trả (tiền): 付款 Trả tiền;",
+                "[Fù] (Họ) Phó;",
+                "Như 副 [fù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cấp cho — Đưa cho. Trao cho.  Đoạn trường tân thanh  có câu: » Hãy về tạm phó giam ngoài, có ba trăm lạng việc này mới xuôi « — Một âm là Phụ. Xem Phụ."
+            ],
+            "compound_words": {
+                "拨付": "bát phó",
+                "撥付": "bát phó",
+                "支付": "chi phó",
+                "囑付": "chúc phó",
+                "對付": "đối phó",
+                "交付": "giao phó",
+                "發付": "phát phó",
+                "分付": "phân phó",
+                "批付": "phê phó",
+                "付印": "phó ấn",
+                "付之流水": "phó chi lưu thuỷ",
+                "付款": "phó khoản",
+                "付託": "phó thác",
+                "托付": "thác phó",
+                "应付": "ứng phó",
+                "應付": "ứng phó"
+            }
+        },
+        "phụ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Phụ 祔 — Một âm là Phó. Xem Phó."
+            ]
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "喃",
+    "details": {
+        "Âm Hán Việt": [
+            "nam"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口南"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨フ丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "RJBJ (口十月十)"
+        ],
+        "Unicode": [
+            "U+5583"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "nán ㄋㄢˊ"
+        ],
+        "Âm Nôm": [
+            "nam",
+            "nêm",
+            "nôm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ナン (nan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "の.う (no.u)"
+        ],
+        "Âm Hàn": [
+            "남"
+        ],
+        "Âm Quảng Đông": [
+            "naam4"
+        ]
+    },
+    "meanings": {
+        "nam": {
+            "Từ điển phổ thông": [
+                "tiếng nói lầm bầm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) § Xem “nam nam” 喃喃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nam nam 喃喃 tiếng nói lầm rầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiếng kêu của chim én;",
+                "Nói thầm, lầm bầm, lẩm nhẩm. 【喃喃】nam nam [nánnán] Lẩm bẩm, lẩm nhẩm: 喃喃地說 Nói lẩm bẩm; 喃喃自語 Tự nói lẩm nhẩm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng nhiều người nói. Td: Nam nam ( xì xào )."
+            ],
+            "compound_words": {
+                "詀喃": "chiêm nam",
+                "喃喃": "nam nam",
+                "呢喃": "ni nam",
+                "呋喃": "phu nam"
+            }
+        }
+    }
+}

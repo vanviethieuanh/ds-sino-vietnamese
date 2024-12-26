@@ -1,0 +1,90 @@
+{
+    "character": "贅",
+    "details": {
+        "Âm Hán Việt": [
+            "chuế"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "bối 貝 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱敖貝"
+        ],
+        "Nét bút": [
+            "一一丨一フノノ一ノ丶丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GKBUC (土大月山金)"
+        ],
+        "Unicode": [
+            "U+8D05"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhuì ㄓㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "chuế",
+            "xuế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いぼ (ibo)"
+        ],
+        "Âm Hàn": [
+            "췌",
+            "취"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi3"
+        ]
+    },
+    "meanings": {
+        "chuế": {
+            "Từ điển phổ thông": [
+                "thừa ra, rườm rà",
+                "ở rể, kén rể"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cầm cố. ◎Như: 'chuế tử' 贅子 cầm đợ con (tục lệ ngày xưa, đem con bán lấy tiền, sau ba năm không chuộc lại được, con thành nô tì cho người).",
+                "(Danh) Con trai ở rể. ◎Như: 'nhập chuế' 入贅 đi ở rể. ◇Hán Thư 漢書: 'Gia bần tử tráng tắc xuất chuế' 家貧子壯則出贅 (Giả Nghị truyện 賈誼傳) Nhà nghèo con trai lớn thì đi gởi rể.",
+                "(Danh) Bướu (cục thịt thừa ngoài da). ◇Liễu Tông Nguyên 柳宗元: 'Nhân chi huyết khí bại nghịch ủng để, vi ung, dương, vưu, chuế, trĩ' 人之血氣敗逆壅底, 為癰, 瘍, 疣, 贅, 痔 (Thiên thuyết 天說) Khí huyết người ta suy bại ủng trệ, sinh ra nhọt, mụt, thịt thừa, bướu, trĩ.",
+                "(Tính) Rườm, thừa. ◎Như: 'chuế ngôn' 贅言 lời rườm rà (thường dùng trong thư từ), 'chuế vưu' 贅疣 bướu mọc thừa ở ngoài da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khíu lại, bám vào, như chuế vưu 贅肬 cái bướu mọc ở ngoài da, vì thế nên vật gì thừa, vô dụng cũng gọi là chuế.",
+                "Nói phiền, nói rườm, như dưới các thư từ thường viết chữ bất chuế 不贅 nghĩa là không nói phiền nữa, không kể rườm nữa.",
+                "Ngày xưa gọi các con trai đi gửi rể là chuế tế 贅婿 nay thường nói con trai làm lễ thành hôn ở nhà vợ là nhập chuế 入贅 (vào gửi rể)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thừa, rườm: 言不多贅 Không nên nói rườm;",
+                "(cũ) Ở rể, gởi rể: 入贅 Đi ở rể;",
+                "(đph) Lôi thôi, vất vả, mệt nhọc: 孩子多了眞贅人 Lắm con thật là vất vả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cầm thế đồ đạc để lấy tiền — Đem thân mình đi làm con tin — Nhỏ nhặt, lặt vặt — Thừa ra, vô ích."
+            ],
+            "compound_words": {
+                "贅筆": "chuế bút",
+                "贅言": "chuế ngôn",
+                "贅壻": "chuế tế",
+                "贅子": "chuế tử",
+                "贅文": "chuế văn",
+                "贅疣": "chuế vưu"
+            }
+        }
+    }
+}

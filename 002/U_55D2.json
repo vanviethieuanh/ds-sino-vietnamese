@@ -1,0 +1,87 @@
+{
+    "character": "嗒",
+    "details": {
+        "Âm Hán Việt": [
+            "tháp",
+            "đáp"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口荅"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨ノ丶一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RTOR (口廿人口)"
+        ],
+        "Unicode": [
+            "U+55D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tà ㄊㄚˋ"
+        ],
+        "Âm Nôm": [
+            "đáp",
+            "tháp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な.める (na.meru)"
+        ],
+        "Âm Quảng Đông": [
+            "dap1",
+            "taap3",
+            "tap3"
+        ]
+    },
+    "meanings": {
+        "tháp": {
+            "Từ điển phổ thông": [
+                "thất vọng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) 'Tháp táng' 嗒喪 thẫn thờ, ngơ ngác, ủ rũ, rầu rĩ, dáng mất cả ý khí, như kẻ mất hồn. § Cũng nói là 'tháp nhiên' 嗒然. ◇Liêu trai chí dị 聊齋志異: 'Sanh tháp táng nhi quy, quý phụ tri kỉ, hình tiêu cốt lập, si nhược mộc ngẫu' 生嗒喪而歸, 愧負知己, 形銷骨立, 痴若木偶 (Diệp sinh 葉生) Sinh thẫn thờ trở về, thẹn nỗi phụ lòng tri kỉ, hình dung gầy guộc, ngẩn ngơ như tượng gỗ.",
+                "Một âm là 'đáp'. (Động) Liếm. § Cũng như 'thiểm' 舔.",
+                "(Trạng thanh) Lách cách, đoành đoành... § Tiếng ngựa kêu, tiếng súng bắn liên tục...",
+                "(Trợ) § Tương đương với 'liễu' 了."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tháp yên 嗒焉 ủ rũ, rầu rĩ. Tả cái dáng mất cả ý khí."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tiu nghỉu, rầu rĩ, ủ rũ, ủ ê: 嗒焉 Ủ rũ, rầu rĩ; 嗒然若喪 Mặt ủ mày ê. Xem 噠 [da]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ buồn rầu thất vọng."
+            ],
+            "compound_words": {
+                "嗒然": "tháp nhiên"
+            }
+        },
+        "đáp": {
+            "Từ điển trích dẫn": [
+                "(Tính) 'Tháp táng' 嗒喪 thẫn thờ, ngơ ngác, ủ rũ, rầu rĩ, dáng mất cả ý khí, như kẻ mất hồn. § Cũng nói là 'tháp nhiên' 嗒然. ◇Liêu trai chí dị 聊齋志異: 'Sanh tháp táng nhi quy, quý phụ tri kỉ, hình tiêu cốt lập, si nhược mộc ngẫu' 生嗒喪而歸, 愧負知己, 形銷骨立, 痴若木偶 (Diệp sinh 葉生) Sinh thẫn thờ trở về, thẹn nỗi phụ lòng tri kỉ, hình dung gầy guộc, ngẩn ngơ như tượng gỗ.",
+                "Một âm là 'đáp'. (Động) Liếm. § Cũng như 'thiểm' 舔.",
+                "(Trạng thanh) Lách cách, đoành đoành... § Tiếng ngựa kêu, tiếng súng bắn liên tục...",
+                "(Trợ) § Tương đương với 'liễu' 了."
+            ]
+        }
+    }
+}

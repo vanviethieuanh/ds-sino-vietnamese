@@ -1,0 +1,85 @@
+{
+    "character": "裱",
+    "details": {
+        "Âm Hán Việt": [
+            "biểu",
+            "phiếu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "y 衣 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰衤表"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶一一丨一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "LQMV (中手一女)"
+        ],
+        "Unicode": [
+            "U+88F1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "biǎo ㄅㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "biếu",
+            "bíu",
+            "phiếu",
+            "víu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひれ (hire)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "biu2"
+        ]
+    },
+    "meanings": {
+        "biểu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Khăn quàng cổ.",
+                "(Động) Bồi, dán, trang hoàng, tô điểm tranh sách. ◎Như: 'biểu bối' 裱褙 bồi, dán, trang hoàng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bồi, dán (tranh, sách): 裱畫 Bồi tranh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khăn choàng ngoài của đàn bà."
+            ],
+            "compound_words": {
+                "裱褙": "biểu bối"
+            }
+        },
+        "phiếu": {
+            "Từ điển phổ thông": [
+                "trang hoàng tranh sách"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trang hoàng tranh sách."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bồi, dán (tranh, sách): 裱畫 Bồi tranh."
+            ]
+        }
+    }
+}

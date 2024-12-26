@@ -1,0 +1,87 @@
+{
+    "character": "藪",
+    "details": {
+        "Âm Hán Việt": [
+            "tẩu"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thảo 艸 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹數"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一丨フ一丨フノ一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TLVK (廿中女大)"
+        ],
+        "Unicode": [
+            "U+85EA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "còu ㄘㄡˋ",
+            "shú ㄕㄨˊ",
+            "sǒu ㄙㄡˇ"
+        ],
+        "Âm Nôm": [
+            "sác",
+            "sú",
+            "tẩu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やぶ (yabu)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau2"
+        ]
+    },
+    "meanings": {
+        "tẩu": {
+            "Từ điển phổ thông": [
+                "chằm lớn, cái đầm",
+                "nơi tụ tập",
+                "nơi thôn dã"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chằm, hồ có cỏ hoang mọc rậm rạp.",
+                "(Danh) Chỗ nhân vật tụ tập đông đảo. ◎Như: 'nhân tài uyên tẩu' 人才淵藪 nơi tập trung nhân tài.",
+                "(Danh) Chốn thảo dã, hương dã. ◇Trạm Phương Sanh 湛方生: 'Từ triều quy tẩu' 辭朝歸藪 (Hậu trai 後齋) Từ bỏ triều đình về nơi hương dã."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chằm lớn, cái đầm. Chằm cạn cũng gọi là tẩu.",
+                "Chỗ nhân vật tụ đông cũng gọi là tẩu. Như nhân tài uyên tẩu 人才淵藪 nơi tập trung nhân tài.",
+                "Chốn thảo dã, hương dã."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái đầm, cái chằm lớn;",
+                "Nơi hội tụ, nơi tập trung: 人才淵藪 Nơi tập trung nhân tài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đầm lớn, ao lớn — Chỗ tụ họp đông đảo."
+            ],
+            "compound_words": {
+                "斗藪": "đẩu tẩu",
+                "林藪": "lâm tẩu"
+            }
+        }
+    }
+}

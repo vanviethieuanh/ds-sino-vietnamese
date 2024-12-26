@@ -1,0 +1,149 @@
+{
+    "character": "柴",
+    "details": {
+        "Âm Hán Việt": [
+            "si",
+            "sài",
+            "trại",
+            "tái",
+            "tý",
+            "tứ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱此木"
+        ],
+        "Nét bút": [
+            "丨一丨一ノフ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YPD (卜心木)"
+        ],
+        "Unicode": [
+            "U+67F4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chái ㄔㄞˊ",
+            "zhài ㄓㄞˋ",
+            "zì ㄗˋ"
+        ],
+        "Âm Nôm": [
+            "sài",
+            "sầy",
+            "thài",
+            "thày",
+            "thầy",
+            "xầy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しば (shiba)"
+        ],
+        "Âm Hàn": [
+            "시",
+            "채"
+        ],
+        "Âm Quảng Đông": [
+            "caai4"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Si trì柴池 — Các âm khác là Sài, Tái, Tứ. Xem các âm này."
+            ],
+            "compound_words": {
+                "柴池": "si trì"
+            }
+        },
+        "sài": {
+            "Từ điển phổ thông": [
+                "củi đun"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Củi. ◎Như: 'sài hỏa' 柴火 củi để đốt.",
+                "(Danh) Họ 'Sài'.",
+                "(Động) Đốt củi tế trời. ◇Lễ Kí 禮記: 'Sài vu thượng đế' 柴于上帝 (Đại truyện 大傳) Đốt củi tế thượng đế.",
+                "(Động) Dùng củi che, che chở, bảo hộ. ◇Hoài Nam Tử 淮南子: 'Sài Cơ Tử chi môn' 柴箕子之門 (Đạo ứng 道應) Giữ gìn nhà của Cơ Tử.",
+                "(Tính) Làm bằng củi. ◇Nguyễn Trãi 阮廌: 'Sài môn trú tảo tịnh âm âm' 柴門晝掃凈陰陰 (Tức hứng 即興) Cửa sài ban ngày quét dọn sạch sẽ, im mát.",
+                "Một âm là 'trại'. (Danh) § Thông 'trại' 寨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Củi.",
+                "Tế sài, lúc tế chất củi lên trên, xong rồi đốt đi gọi là sài. Ken cỏ làm cửa gọi là sài môn 柴門.",
+                "Lấp.",
+                "Giữ.",
+                "Một âm là tí. Chứa, chất đống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Củi, cành khô, rơm cỏ (để đốt): 木柴 Củi chẻ; 一捆柴 Một bó củi; 去打柴 Đi lấy củi;",
+                "Khô đét, gầy đét: 骨瘐如柴 Gầy đét;",
+                "(văn) Lấp, ngăn chặn;",
+                "Tế sài (đốt củi tế);",
+                "(văn) Giữ;",
+                "[Chái] (Họ) Sài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Củi để đun nấu — Thanh gỗ nhỏ, xấu.  Đoạn trường tân thanh  có câu: » Cửa sài vừa ngỏ then hoa, gia đồng vào gửi thư nhà mới sang « ( Cửa sài chỉ cái cổng gỗ, cũng chỉ cổng ngõ nhà nghèo ) — Các âm khác là Si, Tái, Tứ. Xem các âm này."
+            ],
+            "compound_words": {
+                "骨瘦如柴": "cốt sấu như sài",
+                "火柴": "hoả sài",
+                "柴棍": "sài côn",
+                "柴胡": "sài hồ",
+                "柴荆": "sài kinh",
+                "柴門": "sài môn",
+                "薪柴": "tân sài"
+            }
+        },
+        "trại": {
+            "Từ điển trích dẫn": [
+                "(Danh) Củi. ◎Như: 'sài hỏa' 柴火 củi để đốt.",
+                "(Danh) Họ 'Sài'.",
+                "(Động) Đốt củi tế trời. ◇Lễ Kí 禮記: 'Sài vu thượng đế' 柴于上帝 (Đại truyện 大傳) Đốt củi tế thượng đế.",
+                "(Động) Dùng củi che, che chở, bảo hộ. ◇Hoài Nam Tử 淮南子: 'Sài Cơ Tử chi môn' 柴箕子之門 (Đạo ứng 道應) Giữ gìn nhà của Cơ Tử.",
+                "(Tính) Làm bằng củi. ◇Nguyễn Trãi 阮廌: 'Sài môn trú tảo tịnh âm âm' 柴門晝掃凈陰陰 (Tức hứng 即興) Cửa sài ban ngày quét dọn sạch sẽ, im mát.",
+                "Một âm là 'trại'. (Danh) § Thông 'trại' 寨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 寨 (bộ 宀)."
+            ]
+        },
+        "tái": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Tái 塞 — Cái trại — Các âm khác là Sài, Si, Tứ. Xem các âm này."
+            ]
+        },
+        "tý": {
+            "Từ điển Thiều Chửu": [
+                "Củi.",
+                "Tế sài, lúc tế chất củi lên trên, xong rồi đốt đi gọi là sài. Ken cỏ làm cửa gọi là sài môn 柴門.",
+                "Lấp.",
+                "Giữ.",
+                "Một âm là tí. Chứa, chất đống."
+            ]
+        },
+        "tứ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chất chứa — Các âm khác là Sài, Si, Tái. Xem các âm này."
+            ]
+        }
+    }
+}

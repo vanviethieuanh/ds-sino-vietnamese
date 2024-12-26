@@ -1,0 +1,88 @@
+{
+    "character": "蛸",
+    "details": {
+        "Âm Hán Việt": [
+            "sao",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trùng 虫 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫肖"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨丶ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "LIFB (中戈火月)"
+        ],
+        "Unicode": [
+            "U+86F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shāo ㄕㄠ",
+            "xiāo ㄒㄧㄠ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たこ (tako)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "saau1",
+            "siu1"
+        ]
+    },
+    "meanings": {
+        "sao": {
+            "Từ điển phổ thông": [
+                "(xem: tiêu sao 蠨蛸,蟏蛸)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tiêu sao” 蠨蛸: xem “tiêu” 蠨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiêu sao 蠨蛸 giống nhện cao cẳng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một giống nhện cao cẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sao chẩm 蛸枕: Tên một loại sò hến lớn ở biển, hình tròn, trên dưới phình nhọn ra."
+            ],
+            "compound_words": {
+                "蜱蛸": "bi sao",
+                "螵蛸": "phiêu sao",
+                "蟏蛸": "tiêu sao",
+                "蠨蛸": "tiêu sao"
+            }
+        },
+        "tiêu": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蠨蛸, 螵蛸."
+            ],
+            "compound_words": {
+                "蟏蛸": "tiêu sao",
+                "蠨蛸": "tiêu sao"
+            }
+        }
+    }
+}

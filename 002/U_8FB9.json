@@ -1,0 +1,76 @@
+{
+    "character": "边",
+    "details": {
+        "Âm Hán Việt": [
+            "biên"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "sước 辵 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶力"
+        ],
+        "Nét bút": [
+            "フノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YKS (卜大尸)"
+        ],
+        "Unicode": [
+            "U+8FB9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "biān ㄅㄧㄢ",
+            "bian"
+        ],
+        "Âm Nôm": [
+            "bên",
+            "biên",
+            "ven"
+        ],
+        "Âm Quảng Đông": [
+            "bin1"
+        ]
+    },
+    "meanings": {
+        "biên": {
+            "Từ điển phổ thông": [
+                "bên, phía",
+                "bờ, rịa, ven, mép, vệ, viền, cạnh",
+                "biên giới",
+                "giới hạn, chừng mực",
+                "ở gần, bên cạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 邊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 邊"
+            ],
+            "compound_words": {
+                "旁边": "bàng biên",
+                "不修边幅": "bất tu biên bức",
+                "边界": "biên giới",
+                "边防": "biên phòng",
+                "边戍": "biên thú",
+                "边垂": "biên thuỳ",
+                "后边": "hậu biên",
+                "右边": "hữu biên",
+                "匮边": "quỹ biên",
+                "左边": "tả biên"
+            }
+        }
+    }
+}

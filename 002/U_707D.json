@@ -1,0 +1,105 @@
+{
+    "character": "災",
+    "details": {
+        "Âm Hán Việt": [
+            "tai"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "hoả 火 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱巛火"
+        ],
+        "Nét bút": [
+            "フフフ丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "VVF (女女火)"
+        ],
+        "Unicode": [
+            "U+707D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zāi ㄗㄞ"
+        ],
+        "Âm Nôm": [
+            "tai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざわ.い (wazawa.i)"
+        ],
+        "Âm Hàn": [
+            "재"
+        ],
+        "Âm Quảng Đông": [
+            "zoi1"
+        ]
+    },
+    "meanings": {
+        "tai": {
+            "Từ điển phổ thông": [
+                "cháy nhà",
+                "tai ương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nạn, họa hại (như lụt lội, cháy, đói kém, chiến tranh). ◎Như: 'thủy tai' 水災 nạn lụt, 'hạn tai' 旱災 nạn hạn hán.",
+                "(Danh) Sự không may, điều bất hạnh, vạ. ◎Như: 'chiêu tai nhạ họa' 招災惹禍 chuốc lấy những chuyện không may, 'một bệnh một tai' 沒病沒災 không bệnh không vạ.",
+                "(Tính) Gặp phải tai vạ, hoạn nạn. ◎Như: 'tai dân' 災民 dân bị tai vạ, 'tai khu' 災區 khu vực gặp nạn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cháy nhà.",
+                "Tai vạ, những sự trời đất biến lạ, những sự không may đều gọi là tai cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Thiên) tai, nạn, tai vạ, tai nạn, điều không may: 旱災 Nạn hạn hán; 水災 Nạn lụt; 防災 Đề phòng thiên tai;",
+                "(văn) Cháy nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa của trời — Điều hại lớn lao xảy tới.  Đoạn trường tân thanh  có câu: » Có tài mà cậy chi tài, chữ tài liền với chữ tai một vần «."
+            ],
+            "compound_words": {
+                "賑災": "chẩn tai",
+                "招災": "chiêu tai",
+                "救災": "cứu tai",
+                "大災": "đại tai",
+                "火災": "hoả tai",
+                "禳災": "nhương tai",
+                "眚災": "sảnh tai",
+                "災厄": "tai ách",
+                "災變": "tai biến",
+                "災民": "tai dân",
+                "災害": "tai hại",
+                "災限": "tai hạn",
+                "災禍": "tai hoạ",
+                "災荒": "tai hoang",
+                "災區": "tai khu",
+                "災戾": "tai lệ",
+                "災難": "tai nạn",
+                "災虐": "tai ngược",
+                "災怪": "tai quái",
+                "災神": "tai thần",
+                "災殃": "tai ương",
+                "三災": "tam tai",
+                "天災": "thiên tai",
+                "水災": "thuỷ tai",
+                "妖災": "yêu tai",
+                "訞災": "yêu tai"
+            }
+        }
+    }
+}

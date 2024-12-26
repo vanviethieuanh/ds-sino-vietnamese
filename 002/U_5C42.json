@@ -1,0 +1,67 @@
+{
+    "character": "层",
+    "details": {
+        "Âm Hán Việt": [
+            "tằng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thi 尸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸尸云"
+        ],
+        "Nét bút": [
+            "フ一ノ一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "SMMI (尸一一戈)"
+        ],
+        "Unicode": [
+            "U+5C42"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "céng ㄘㄥˊ"
+        ],
+        "Âm Nôm": [
+            "tằng"
+        ],
+        "Âm Quảng Đông": [
+            "cang4"
+        ]
+    },
+    "meanings": {
+        "tằng": {
+            "Từ điển phổ thông": [
+                "tầng, lớp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 層."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 層"
+            ],
+            "compound_words": {
+                "低层": "đê tằng",
+                "下层": "hạ tằng",
+                "层压": "tằng áp",
+                "层层": "tằng tằng",
+                "层次": "tằng thứ",
+                "层云": "tằng vân",
+                "上层": "thượng tằng",
+                "子层": "tử tằng"
+            }
+        }
+    }
+}

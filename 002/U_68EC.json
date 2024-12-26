@@ -1,0 +1,88 @@
+{
+    "character": "棬",
+    "details": {
+        "Âm Hán Việt": [
+            "khuyên",
+            "quyền",
+            "quyển"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木卷"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶ノ一一ノ丶フフ"
+        ],
+        "Thương Hiệt": [
+            "DFQU (木火手山)"
+        ],
+        "Unicode": [
+            "U+68EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "quān ㄑㄩㄢ",
+            "quàn ㄑㄩㄢˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "권"
+        ],
+        "Âm Quảng Đông": [
+            "hyun1"
+        ]
+    },
+    "meanings": {
+        "khuyên": {
+            "Từ điển phổ thông": [
+                "cái chén làm bằng gỗ cong"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chén làm bằng gỗ cong.",
+                "§ Ta quen đọc là 'quyển'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bát đĩa đan bằng mây (cái môi). ta quen đọc là chữ quyền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái chén (bát) làm bằng gỗ cong."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khúc cây cong."
+            ]
+        },
+        "quyền": {
+            "Từ điển phổ thông": [
+                "cái chén làm bằng gỗ cong"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bát đĩa đan bằng mây (cái môi). ta quen đọc là chữ quyền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái chén (bát) làm bằng gỗ cong."
+            ]
+        },
+        "quyển": {
+            "Từ điển trích dẫn": [
+                "(Danh) Chén làm bằng gỗ cong.",
+                "§ Ta quen đọc là 'quyển'."
+            ]
+        }
+    }
+}

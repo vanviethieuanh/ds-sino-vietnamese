@@ -1,0 +1,85 @@
+{
+    "character": "卽",
+    "details": {
+        "Âm Hán Việt": [
+            "tức"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tiết 卩 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿰皀卩"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一ノフフ丨"
+        ],
+        "Thương Hiệt": [
+            "HPSL (竹心尸中)"
+        ],
+        "Unicode": [
+            "U+537D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)",
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つく (tsuku)",
+            "すなわち (sunawachi)",
+            "もし (moshi)"
+        ],
+        "Âm Hàn": [
+            "즉"
+        ],
+        "Âm Quảng Đông": [
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "tức": {
+            "Từ điển phổ thông": [
+                "tới gần",
+                "ngay, tức thì",
+                "chính là"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Thường viết là 即."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tới, gần. Như khả vọng nhi bất khả tức 可望而不可卽 khá trông mà chẳng khá tới gần.",
+                "Ngay. Như lê minh tức khởi 黎明卽起 sáng sớm dậy ngay, tức khắc 卽刻 ngay lập tức, v.v.",
+                "Tức là, như sắc tức thị không 色卽是空 sắc tức là không, ý nói hai bên như một.",
+                "Du, lời nói ví thử. Như thiện tức vô thưởng, diệc bất khả bất vi thiện 善卽無賞亦不可不為善 làm thiện dù chưa được thưởng, cũng phải làm thiện. Thường viết là 即."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 即."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ấy là. Ta cũng nói: Tức là — Liền ngay. Td: Tức thì — Tới. Lên tới. Td: Tức vị."
+            ],
+            "compound_words": {
+                "卽景": "tức cảnh",
+                "卽刻": "tức khắc",
+                "卽是": "tức thị",
+                "卽時": "tức thì",
+                "卽速": "tức tốc",
+                "卽位": "tức vị"
+            }
+        }
+    }
+}

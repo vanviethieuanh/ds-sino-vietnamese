@@ -1,0 +1,82 @@
+{
+    "character": "怠",
+    "details": {
+        "Âm Hán Việt": [
+            "đãi"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱台心"
+        ],
+        "Nét bút": [
+            "フ丶丨フ一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "IRP (戈口心)"
+        ],
+        "Unicode": [
+            "U+6020"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ"
+        ],
+        "Âm Nôm": [
+            "đãi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おこた.る (okota.ru)",
+            "なま.ける (nama.keru)"
+        ],
+        "Âm Hàn": [
+            "태"
+        ],
+        "Âm Quảng Đông": [
+            "doi6",
+            "toi5"
+        ]
+    },
+    "meanings": {
+        "đãi": {
+            "Từ điển phổ thông": [
+                "lười biếng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Lười biếng. ◎Như: 'đãi nọa' 怠惰 nhác nhớn, 'giải đãi' 懈怠 lười biếng.",
+                "(Tính) Khinh mạn, bất kính. ◎Như: 'đãi mạn' 怠慢 khinh nhờn.",
+                "(Tính) Mệt. ◎Như: 'quyện đãi' 倦怠 mệt mỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lười biếng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lười, biếng nhác, chểnh mảng, uể oải: 學習上不可懈怠 Học hành không được chểnh mảng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chậm chạp — Lười biếng. Cũng gọi là Đãi noạ 怠惰."
+            ],
+            "compound_words": {
+                "豫怠": "dự đãi",
+                "怠工": "đãi công",
+                "怠惰": "đãi noạ",
+                "懈怠": "giải đãi"
+            }
+        }
+    }
+}

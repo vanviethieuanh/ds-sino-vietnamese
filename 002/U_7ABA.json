@@ -1,0 +1,82 @@
+{
+    "character": "窺",
+    "details": {
+        "Âm Hán Việt": [
+            "khuy"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴規"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶一一ノ丶丨フ一一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "JCQOU (十金手人山)"
+        ],
+        "Unicode": [
+            "U+7ABA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kuī ㄎㄨㄟ",
+            "kuǐ ㄎㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "khuy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うかが.う (ukaga.u)",
+            "のぞく (nozoku)"
+        ],
+        "Âm Hàn": [
+            "규"
+        ],
+        "Âm Quảng Đông": [
+            "kwai1"
+        ]
+    },
+    "meanings": {
+        "khuy": {
+            "Từ điển phổ thông": [
+                "dòm, ngó, nhìn trộm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhìn trộm, dòm lén. ◎Như: 'vi khuy' 微窺 nhìn lén, 'thâu khuy' 偷窺 nhìn trộm.",
+                "(Động) Phiếm chỉ nhìn, xem. ◇Minh sử 明史: 'Cơ bác thông kinh sử, ư thư vô bất khuy' 基博通經史, 於書無不窺 (Lưu Cơ truyện 劉基傳) Lưu Cơ rộng thông kinh sử, trong sách không gì mà không xem.",
+                "(Động) Dòm ngó, nhắm. ◇Lí Bạch 李白: 'Hán há Bạch Đăng đạo, Hồ khuy Thanh Hải loan, Do lai chinh chiến địa, Bất kiến hữu nhân hoàn' 漢下白登道, 胡窺青海灣, 由來征戰地, 不見有人還 (Quan san nguyệt 關山月) Quân Hán đi đường Bạch Đăng, Rợ Hồ dòm ngó vịnh Thanh Hải, Xưa nay nơi chiến địa, Không thấy có người về."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dòm, ngó. Chọc lỗ tường vách để dòm gọi là khuy. Lí Bạch 李白: Hán há Bạch Ðăng đạo, Hồ khuy Thanh Hải loan, Do lai chinh chiến địa, Bất kiến hữu nhân hoàn 漢下白登道，胡窺青海灣，由來征戰地，不見有人還 (Quan san nguyệt 關山月) quân Hán đi đường Bạch Ðăng, Rợ Hồ dòm ngó vịnh Thanh Hải, Xưa nay nơi chiến địa, Không thấy có người về."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhòm, nhìn lén lút, dòm ngó, rình, nhìn trộm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn trộm — Nhòm. Rình xem."
+            ],
+            "compound_words": {
+                "面面相窺": "diện diện tương khuy",
+                "窺窬": "khuy du",
+                "窺測": "khuy trắc",
+                "管窺": "quản khuy"
+            }
+        }
+    }
+}

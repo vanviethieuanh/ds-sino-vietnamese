@@ -1,0 +1,87 @@
+{
+    "character": "鈀",
+    "details": {
+        "Âm Hán Việt": [
+            "ba",
+            "bả"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kim 金 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金巴"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "CAU (金日山)"
+        ],
+        "Unicode": [
+            "U+9200"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bā ㄅㄚ",
+            "bǎ ㄅㄚˇ",
+            "pá ㄆㄚˊ"
+        ],
+        "Âm Nôm": [
+            "ba"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)",
+            "ヘ (he)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いくさぐるま (ikusaguruma)"
+        ],
+        "Âm Quảng Đông": [
+            "baa1",
+            "baa2",
+            "paa4"
+        ]
+    },
+    "meanings": {
+        "ba": {
+            "Từ điển phổ thông": [
+                "cái bồ cào, cái cào cỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Xe binh ngày xưa.",
+                "(Danh) Tên một vũ khí, giống như cái bừa cào, có cán. § Cũng gọi là 'đinh bá' 釘耙.",
+                "(Danh) Cái bồ cào, cái bừa. § Cũng như 'bá' 耙.",
+                "(Danh) Nguyên tố hóa học (palladium, Pd).",
+                "(Động) Đào, moi, bới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái bồ cào, cái bừa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái bồ cào, cái bừa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên phiên âm chất Palladium, kí hiệu Pd."
+            ]
+        },
+        "bả": {
+            "Từ điển phổ thông": [
+                "nguyên tố paladi, Pd"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Palađi (Palladium)."
+            ]
+        }
+    }
+}

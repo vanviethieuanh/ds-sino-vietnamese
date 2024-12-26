@@ -1,0 +1,101 @@
+{
+    "character": "屋",
+    "details": {
+        "Âm Hán Việt": [
+            "ốc"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thi 尸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸尸至"
+        ],
+        "Nét bút": [
+            "フ一ノ一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "SMIG (尸一戈土)"
+        ],
+        "Unicode": [
+            "U+5C4B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wū ㄨ"
+        ],
+        "Âm Nôm": [
+            "ọc",
+            "ốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オク (oku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や (ya)"
+        ],
+        "Âm Hàn": [
+            "옥"
+        ],
+        "Âm Quảng Đông": [
+            "nguk1",
+            "uk1"
+        ]
+    },
+    "meanings": {
+        "ốc": {
+            "Từ điển phổ thông": [
+                "nhà",
+                "mui xe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhà ở. ◎Như: 'mao ốc' 茅屋 nhà tranh.",
+                "(Danh) Phòng, buồng. ◎Như: 'giá ốc tử quang tuyến sung túc' 這屋子光線充足 căn phòng này thật là sáng sủa.",
+                "(Danh) Mui xe. ◎Như: 'hoàng ốc tả đạo' 黃屋左纛 mui xe vàng cờ tiết mao cắm bên tả. ◇Sử Kí 史記: 'Kỉ Tín thừa hoàng ốc xa, phó tả đạo' 紀信乘黃屋車, 傅左纛 (Hạng Vũ bổn kỉ 項羽本紀) Kỉ Tín (giả làm Hán Vương) ngồi xe mui lụa vàng, có lọng tết bằng lông vũ, lông mao cắm bên trái xe.",
+                "(Danh) Màn, trướng. § Thông 'ác'. 幄."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhà ở.",
+                "Mui xe, như hoàng ốc tả đạo 黃屋左纛 mui xe vàng cờ tiết mao cắm bên tả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà: 在屋裡 Ở trong nhà;",
+                "Buồng, phòng: 裡屋 Buồng trong;",
+                "(văn) Mui xe."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà ở. Bản dịch  Chinh phụ ngâm khúc  có câu: » Vài tiếng dế nguyệt soi trước ốc, một hàng tiêu gió thốc ngoài hiên « — Mái nhà. Mái che — Phàm vật gì che ở trên như cái mái đều gọi là Ốc."
+            ],
+            "compound_words": {
+                "白屋": "bạch ốc",
+                "板屋": "bản ốc",
+                "高屋建瓴": "cao ốc kiến linh",
+                "地屋": "địa ốc",
+                "疊床架屋": "điệp sàng giá ốc",
+                "金屋": "kim ốc",
+                "茅屋": "mao ốc",
+                "屋頂": "ốc đính",
+                "屋顶": "ốc đính",
+                "屋漏": "ốc lậu",
+                "屋檐": "ốc thiềm",
+                "屋簷": "ốc thiềm",
+                "屋稅": "ốc thuế",
+                "屋子": "ốc tử",
+                "房屋": "phòng ốc",
+                "葺屋": "tập ốc",
+                "小屋": "tiểu ốc",
+                "場屋": "trường ốc"
+            }
+        }
+    }
+}

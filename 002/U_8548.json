@@ -1,0 +1,89 @@
+{
+    "character": "蕈",
+    "details": {
+        "Âm Hán Việt": [
+            "khuẩn",
+            "nấm",
+            "tẩm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thảo 艸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹覃"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ丨丨一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "TMWJ (廿一田十)"
+        ],
+        "Unicode": [
+            "U+8548"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jùn ㄐㄩㄣˋ",
+            "tán ㄊㄢˊ",
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "nấm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジン (jin)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きのこ (kinoko)",
+            "たけ (take)"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "cam5"
+        ]
+    },
+    "meanings": {
+        "khuẩn": {
+            "Từ điển phổ thông": [
+                "cây nấm",
+                "vi khuẩn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như chữ “khuẩn” 菌."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ khuẩn 菌."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nấm (như 菌): 香蕈 Nấm hương."
+            ]
+        },
+        "nấm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây, dùng làm thực phẩm, ngon và bổ, tư cũng gọi là cây nấm."
+            ]
+        },
+        "tẩm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài mộc nhĩ ( thứ nấm mọc trên thân cây )."
+            ],
+            "compound_words": {
+                "香蕈": "hương tẩm"
+            }
+        }
+    }
+}

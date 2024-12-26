@@ -1,0 +1,89 @@
+{
+    "character": "紇",
+    "details": {
+        "Âm Hán Việt": [
+            "hột",
+            "ngột"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹乞"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶ノ一フ"
+        ],
+        "Thương Hiệt": [
+            "VFON (女火人弓)"
+        ],
+        "Unicode": [
+            "U+7D07"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gē ㄍㄜ",
+            "hé ㄏㄜˊ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "hạt",
+            "hột",
+            "hụt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コツ (kotsu)",
+            "ゴチ (gochi)",
+            "ケツ (ketsu)",
+            "ゲチ (gechi)"
+        ],
+        "Âm Hàn": [
+            "흘"
+        ],
+        "Âm Quảng Đông": [
+            "gat1",
+            "hat6"
+        ]
+    },
+    "meanings": {
+        "hột": {
+            "Từ điển phổ thông": [
+                "sợi tơ rủ xuống",
+                "núm, nơ, gút, nút"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tơ hạng thô xấu.",
+                "(Danh) Tên người. ◎Như: 'Thúc Lương Hột' 叔梁紇 là ông thân sinh ra đức Khổng Tử 孔子.",
+                "(Danh) § Xem 'hồi hột' 回紇."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tên người, Thúc Lương Hột 叔梁紇 ông thân sinh ra đức Khổng Tử 孔子.",
+                "Hồi hột 回紇 giống Hồi Hột.",
+                "Sợi tơ rủ xuống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 回紇 [Huíhé]. Xem 紇 [ge]."
+            ],
+            "compound_words": {
+                "回紇": "hồi hột"
+            }
+        },
+        "ngột": {
+            "Từ điển phổ thông": [
+                "sợi tơ rủ xuống",
+                "núm, nơ, gút, nút"
+            ]
+        }
+    }
+}

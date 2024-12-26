@@ -1,0 +1,74 @@
+{
+    "character": "姺",
+    "details": {
+        "Âm Hán Việt": [
+            "sâm",
+            "sân",
+            "tiên"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nữ 女 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女先"
+        ],
+        "Nét bút": [
+            "フノ一ノ一丨一ノフ"
+        ],
+        "Thương Hiệt": [
+            "VHGU (女竹土山)"
+        ],
+        "Unicode": [
+            "U+59FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shēn ㄕㄣ",
+            "xiān ㄒㄧㄢ",
+            "xiǎn ㄒㄧㄢˇ"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "sin2"
+        ]
+    },
+    "meanings": {
+        "sâm": {
+            "Từ điển phổ thông": [
+                "nước Sâm thời cổ"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên nước đời cổ."
+            ]
+        },
+        "sân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một nước thời cổ, chư hầu của nhà Thương — Một âm là Tiên. Xem Tiên."
+            ]
+        },
+        "tiên": {
+            "Từ điển Trần Văn Chánh": [
+                "【媥姺】phiên tiên [pianxian] (văn) Múa may uyển chuyển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Thiên tiên 媥姺."
+            ],
+            "compound_words": {
+                "媥姺": "thiên tiên"
+            }
+        }
+    }
+}

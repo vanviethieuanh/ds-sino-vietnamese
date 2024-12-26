@@ -1,0 +1,95 @@
+{
+    "character": "应",
+    "details": {
+        "Âm Hán Việt": [
+            "ưng",
+            "ứng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广⿱⺍一"
+        ],
+        "Nét bút": [
+            "丶一ノ丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "IFM (戈火一)"
+        ],
+        "Unicode": [
+            "U+5E94"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yīng ㄧㄥ",
+            "yìng ㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "ưng"
+        ],
+        "Âm Quảng Đông": [
+            "jing1",
+            "jing3"
+        ]
+    },
+    "meanings": {
+        "ưng": {
+            "Từ điển phổ thông": [
+                "ưng, thích"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 應."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 應"
+            ],
+            "compound_words": {
+                "应该": "ưng cai",
+                "应得": "ưng đắc",
+                "应当": "ưng đương",
+                "应有": "ưng hữu"
+            }
+        },
+        "ứng": {
+            "Từ điển phổ thông": [
+                "ứng phó"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 應."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đáp, đáp ứng, đồng ý làm theo, cho: 以應急需 Để đáp ứng những nhu cầu cần thiết; 有求必應 Hễ cầu xin là cho;",
+                "Ứng (phó), đối phó: 隨機應變 Tùy cơ ứng biến; 吾將何以應敵 Ta sẽ làm sao đối phó với địch (Hàn Phi tử);",
+                "(Thích, phản) ứng, ứng theo: 要適應這一環境 Phải thích ứng với hoàn cảnh này; 化學反應 Phản ứng hoá học;",
+                "Tương ứng, (tùy) theo: 應弦而倒 Ngã theo cây đàn (Thế thuyết tân ngữ);",
+                "Ứng hoạ, hoạ theo;",
+                "Hưởng ứng: 殺之以應陳涉 Giết ông ta để hưởng ứng cuộc khởi nghĩa của Trần Thiệp (Sử kí);",
+                "Ứng nghiệm, đúng với: 今果應此言 Nay quả ứng nghiệm với (đúng với) lời nói đó (Tam quốc diễn nghĩa);",
+                "Căn cứ theo, dựa theo. Xem 應 [ying]."
+            ],
+            "compound_words": {
+                "报应": "báo ứng",
+                "供应": "cung ứng",
+                "效应": "hiệu ứng",
+                "反应": "phản ứng",
+                "应战": "ứng chiến",
+                "应用": "ứng dụng",
+                "应对": "ứng đối",
+                "应力": "ứng lực",
+                "应付": "ứng phó"
+            }
+        }
+    }
+}

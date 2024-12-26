@@ -1,0 +1,64 @@
+{
+    "character": "氆",
+    "details": {
+        "Âm Hán Việt": [
+            "bảng",
+            "phổ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mao 毛 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺毛普"
+        ],
+        "Nét bút": [
+            "ノ一一フ丶ノ一丨丨丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "HUTCA (竹山廿金日)"
+        ],
+        "Unicode": [
+            "U+6C06"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pǔ ㄆㄨˇ"
+        ],
+        "Âm Quảng Đông": [
+            "pou2"
+        ]
+    },
+    "meanings": {
+        "bảng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bảng lỗ 氆氌."
+            ],
+            "compound_words": {
+                "氆氌": "bảng lỗ"
+            }
+        },
+        "phổ": {
+            "Từ điển phổ thông": [
+                "(xem: phổ lỗ 氆氌,氆氇)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【氆氌】phổ lỗ [pưlu] Hàng dệt bằng lông của dân tộc Tạng (có thể làm thảm trải giường hoặc may quần áo). (Ngr) Chiếu lông."
+            ],
+            "compound_words": {
+                "氆氇": "phổ lỗ",
+                "氆氌": "phổ lỗ"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "character": "婆",
+    "details": {
+        "Âm Hán Việt": [
+            "bà"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nữ 女 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱波女"
+        ],
+        "Nét bút": [
+            "丶丶一フノ丨フ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "EEV (水水女)"
+        ],
+        "Unicode": [
+            "U+5A46"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "pó ㄆㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バ (ba)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ばば (baba)",
+            "ばあ (bā)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "po4"
+        ]
+    },
+    "meanings": {
+        "bà": {
+            "Từ điển phổ thông": [
+                "bà già",
+                "mẹ chồng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bà già (phụ nữ lớn tuổi). ◎Như: 'lão bà bà' 老婆婆.",
+                "(Danh) Mẹ hoặc phụ nữ ngang hàng với mẹ. ◇Nhạc phủ thi tập 樂府詩集: 'A bà bất giá nữ, na đắc tôn nhi bão' 阿婆不嫁女, 那得孫兒抱 (Hoành xuy khúc từ ngũ 橫吹曲辭五, Chiết dương liễu chi ca nhị 折楊柳枝歌二) Mẹ ơi, không lấy chồng cho con gái, thì làm sao có cháu mà bồng.",
+                "(Danh) Bà (mẹ của mẹ) hoặc phụ nữ ngang hàng với bà. ◎Như: 'ngoại bà' 外婆 bà ngoại, 'di bà' 姨婆 bà dì.",
+                "(Danh) Tục gọi mẹ chồng là 'bà'. ◇Hồng Lâu Mộng 紅樓夢: 'Duy hữu na đệ thập cá tức phụ thông minh linh lị, tâm xảo chủy quai, công bà tối đông' 惟有第十個媳婦伶俐, 心巧嘴乖, 公婆最疼 (Đệ ngũ thập tứ hồi) Chỉ có người con dâu thứ mười là thông minh lanh lợi, khéo léo mồm mép, bố mẹ chồng rất thương.",
+                "(Danh) Vợ. ◇Thủy hử truyện 水滸傳: 'Vũ Đại tiến lai, hiết liễu đam nhi, tùy đáo trù hạ. Kiến lão bà song nhãn khốc đích hồng hồng đích' 武大進來, 歇了擔兒, 隨到廚下. 見老婆雙眼哭的紅紅的 (Đệ nhị thập tứ hồi) Vũ Đại vào nhà, đặt gánh rồi đi theo xuống bếp. Thấy vợ hai mắt khóc đỏ hoe.",
+                "(Danh) Ngày xưa gọi phụ nữ làm một nghề nào đó là 'bà'. ◎Như: 'môi bà' 媒婆 bà mối, 'ổn bà' 穩婆 bà mụ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bà, đàn bà già gọi là bà. Tục gọi mẹ chồng là bà.",
+                "Bà sa 婆娑 dáng múa loà xoà, dáng đi lại lật đật."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bà (chỉ người đàn bà lớn tuổi): 老太婆 Bà già;",
+                "Bà (trước đây chỉ người đàn bà trong một nghề gì): 媒婆兒 Bà mối, bà mai;",
+                "Mẹ chồng: 婆媳 Mẹ chồng nàng dâu;",
+                "【婆娑】bà sa [pósuo] Quay tròn, đu đưa, lắc lư, lòa xòa, đưa qua đưa lại: 婆娑起舞 Múa may quay tròn; 路上樹影婆娑 Ngoài đường bóng cây đu đưa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng gọi người đàn bà già — Tiếng gọi mẹ của cha mình — Người mẹ chồng."
+            ],
+            "compound_words": {
+                "阿婆": "a bà",
+                "婆婆": "bà bà",
+                "婆家": "bà gia",
+                "婆羅門": "bà la môn",
+                "婆娘": "bà nương",
+                "婆娑": "bà sa",
+                "婆心": "bà tâm",
+                "潑婆娘": "bát bà nương",
+                "公婆": "công bà",
+                "提婆": "đề bà",
+                "苦口婆心": "khổ khẩu bà tâm",
+                "虔婆": "kiền bà",
+                "老婆": "lão bà",
+                "媒婆": "môi bà",
+                "外婆": "ngoại bà",
+                "一片婆心": "nhất phiến bà tâm",
+                "穩婆": "ổn bà",
+                "娑婆": "sa bà",
+                "娑婆訶": "sa bà ha",
+                "娑婆世界": "sa bà thế giới",
+                "產婆": "sản bà",
+                "收生婆": "thu sinh bà",
+                "仙婆": "tiên bà",
+                "巫婆": "vu bà"
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "character": "卑",
+    "details": {
+        "Âm Hán Việt": [
+            "ti",
+            "ty"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thập 十 (+6 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "HHJ (竹竹十)"
+        ],
+        "Unicode": [
+            "U+5351"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bēi ㄅㄟ"
+        ],
+        "Âm Nôm": [
+            "bấy",
+            "te",
+            "ti"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いや.しい (iya.shii)",
+            "いや.しむ (iya.shimu)",
+            "いや.しめる (iya.shimeru)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei1"
+        ]
+    },
+    "meanings": {
+        "ti": {
+            "Từ điển trích dẫn": [
+                "(Tính) Thấp, thấp kém. ◎Như: 'ti tiện' 卑賤 thấp kém. ◇Dịch Kinh 易經: 'Thiên tôn địa ti' 天尊地卑 (Hệ từ thượng 繫辭上) Trời cao đất thấp.",
+                "(Tính) Hèn hạ, đê liệt (nói về phẩm cách). ◎Như: 'ti bỉ' 卑鄙 hèn hạ bỉ ổi.",
+                "(Tính) Suy vi, suy yếu. ◇Quốc ngữ 國語: 'Vương thất kì tương ti hồ?' 王室其將卑乎 (Chu ngữ thượng 周語上) Vương thất sắp suy vi ư?",
+                "(Tính) Khiêm nhường, cung kính. ◎Như: 'khiêm ti' 謙卑 khiêm cung, 'ti cung khuất tất' 卑躬屈膝 quỳ gối khiêm cung.",
+                "(Tính) Tiếng tự nhún. ◎Như: 'ti nhân' 卑人 người hèn mọn này, 'ti chức' 卑職 chức hèn mọn này.",
+                "(Danh) Chỗ thấp.",
+                "(Động) Làm thấp xuống, làm cho giản tiện. ◇Luận Ngữ 論語: 'Ti cung thất nhi tận lực hồ câu hức' 卑宮室而盡力乎溝洫 (Thái Bá 泰伯) Giản tiện cung thất mà hết sức sửa sang ngòi lạch (chỉ việc vua Vũ 禹 trị thủy).",
+                "(Động) Coi thường, khinh thị. ◇Quốc ngữ 國語: 'Tần, Tấn thất dã, hà dĩ ti ngã?' 秦, 晉匹也, 何以卑我 (Tấn ngữ tứ 晉語四) Nước Tần và nước Tấn ngang nhau, tại sao khinh thường ta?"
+            ],
+            "compound_words": {
+                "辨卑": "biếm ti",
+                "卑職": "ti chức",
+                "卑賤": "ty tiện",
+                "卑小": "ti tiểu",
+                "卑微": "ti vi",
+                "卑贱": "ty tiện"
+            }
+        },
+        "ty": {
+            "Từ điển phổ thông": [
+                "thấp",
+                "hèn kém"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấp.",
+                "Hèn.",
+                "Tiếng nói nhún nhường với người trên. Như ti nhân 卑人 người hèn mọn này, ti chức 卑職 chức hèn mọn này."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thấp, kém, hèn: 自卑感 Lòng tự ti;",
+                "Hèn mọn (dùng để khiêm xưng): 卑人 Người hèn mọn này; 卑織 Chức hèn mọn này."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thấp — Thấp hèn, kém cõi — Tiếng tự khiêm."
+            ],
+            "compound_words": {
+                "自卑": "tự ty",
+                "卑鄙": "ty bỉ",
+                "卑怯": "ty khiếp",
+                "卑人": "ty nhân",
+                "卑污": "ty ô",
+                "卑賤": "ty tiện",
+                "卑贱": "ty tiện"
+            }
+        }
+    }
+}

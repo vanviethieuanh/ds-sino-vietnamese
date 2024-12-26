@@ -1,0 +1,93 @@
+{
+    "character": "普",
+    "details": {
+        "Âm Hán Việt": [
+            "phổ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhật 日 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱並日"
+        ],
+        "Nét bút": [
+            "丶ノ一丨丨丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "TCA (廿金日)"
+        ],
+        "Unicode": [
+            "U+666E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "pǔ ㄆㄨˇ"
+        ],
+        "Âm Nôm": [
+            "phổ",
+            "phơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あまね.く (amane.ku)",
+            "あまねし (amaneshi)"
+        ],
+        "Âm Hàn": [
+            "보"
+        ],
+        "Âm Quảng Đông": [
+            "pou2"
+        ]
+    },
+    "meanings": {
+        "phổ": {
+            "Từ điển phổ thông": [
+                "rộng, lớn, khắp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Rộng, khắp. ◎Như: 'giáo dục phổ cập' 教育普及 giáo dục khắp cả.",
+                "(Danh) § Xem 'Phổ-lỗ-sĩ' 普魯士.",
+                "(Danh) Họ 'Phổ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rộng, lớn, khắp, như giáo dục phổ cập 教育普及 dạy dỗ khắp cả dân gian.",
+                "Nước Phổ, nước Phổ-lỗ-sĩ 普魯士 miền trung châu Âu (Prussia), gọi tắt là nước Phổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khắp cả, thông thường: 普愛無私 Yêu khắp không tư vị (Diêm thiết luận: Địa quảng); 普施明法 Thi hành luật pháp và kỉ luật khắp cả (Sử kí); 普天一統 Khắp thiên hạ thống nhất (Tam quốc chí);",
+                "[Pư] Nước Phổ;",
+                "[Pư] (Họ) Phổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rộng lớn — Khắp mọi nơi."
+            ],
+            "compound_words": {
+                "普博": "phổ bác",
+                "普徧": "phổ biến",
+                "普遍": "phổ biến",
+                "普及": "phổ cập",
+                "普度": "phổ độ",
+                "普魯士": "phổ lỗ sĩ",
+                "普泛": "phổ phiếm",
+                "普括": "phổ quát",
+                "普施": "phổ thí",
+                "普天": "phổ thiên",
+                "普通": "phổ thông",
+                "川普": "xuyên phổ"
+            }
+        }
+    }
+}

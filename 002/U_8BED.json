@@ -1,0 +1,88 @@
+{
+    "character": "语",
+    "details": {
+        "Âm Hán Việt": [
+            "ngứ",
+            "ngữ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠吾"
+        ],
+        "Nét bút": [
+            "丶フ一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "IVMMR (戈女一一口)"
+        ],
+        "Unicode": [
+            "U+8BED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ngữ"
+        ],
+        "Âm Quảng Đông": [
+            "jyu5"
+        ]
+    },
+    "meanings": {
+        "ngứ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 語."
+            ]
+        },
+        "ngữ": {
+            "Từ điển phổ thông": [
+                "ngôn ngữ",
+                "lời lẽ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 語."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiếng nói, lời nói, ngữ: 越語 Tiếng Việt; 成語 Thành ngữ; 甜言蜜語 Lời ngon tiếng ngọt;",
+                "Nói: 不言不語 Chẳng nói chẳng rằng; 細語 Nói nhỏ;",
+                "Lời tục, ngạn ngữ, thành ngữ: 語雲：不入虎穴，焉得虎子 Ngạn ngữ nói: Không vào hang cọp, làm sao bắt được cọp con;",
+                "Tín hiệu thay lời nói (có thể biểu đạt thay cho ngôn ngữ): 手語 Tín hiệu bằng tay; 燈語 Tín hiệu bằng đèn. Xem 語 [yù]."
+            ],
+            "compound_words": {
+                "暗语": "ám ngữ",
+                "按语": "án ngữ",
+                "主语": "chủ ngữ",
+                "低语": "đê ngữ",
+                "定语": "định ngữ",
+                "口语": "khẩu ngữ",
+                "俚语": "lý ngữ",
+                "母语": "mẫu ngữ",
+                "俄语": "nga ngữ",
+                "耦语": "ngẫu ngữ",
+                "外语": "ngoại ngữ",
+                "语句": "ngữ cú",
+                "梵语": "phạm ngữ",
+                "宾语": "tân ngữ",
+                "成语": "thành ngữ",
+                "标语": "tiêu ngữ",
+                "程式语言": "trình thức ngữ ngôn",
+                "谓语": "vị ngữ"
+            }
+        }
+    }
+}

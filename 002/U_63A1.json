@@ -1,0 +1,129 @@
+{
+    "character": "採",
+    "details": {
+        "Âm Hán Việt": [
+            "thái",
+            "thải"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘采"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QBD (手月木)"
+        ],
+        "Unicode": [
+            "U+63A1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cǎi ㄘㄞˇ"
+        ],
+        "Âm Nôm": [
+            "thái",
+            "thám",
+            "thăm",
+            "thớm",
+            "xái",
+            "xăm",
+            "xom"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.る (to.ru)"
+        ],
+        "Âm Hàn": [
+            "채"
+        ],
+        "Âm Quảng Đông": [
+            "coi2"
+        ]
+    },
+    "meanings": {
+        "thái": {
+            "Từ điển phổ thông": [
+                "hái, ngắt",
+                "chọn nhặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hái, ngắt. ◎Như: 'thải liên' 採蓮 hái sen, 'thải cúc' 採菊 hái cúc.",
+                "(Động) Chọn nhặt. ◎Như: 'thải tuyển' 採選 chọn lọc. § Nguyên viết là 'thải' 采.",
+                "(Động) Hiểu rõ. § Thông 'thải' 睬.",
+                "§ Ta quen đọc là 'thái'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hái, như thải liên 採蓮 hái sen, thải cúc 採菊 hái cúc, v.v.",
+                "Chọn nhặt, như thải tuyển 採選 chọn lấy, nguyên viết là chữ thải 采. Ta quen đọc là chữ thái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hái, bẻ, trảy, ngắt: 採茶 Hái chè; 採花 Bẻ hoa;",
+                "Chọn nhặt, thu nhặt, tiếp thu (dùng như 採, bộ 釆): 採納 Tiếp thu;",
+                "Lôi kéo;",
+                "Vẫy tay ra hiệu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hái lấy. Nhặt lấy — Sắp đặt."
+            ],
+            "compound_words": {
+                "採邑": "thái ấp",
+                "採購": "thái cấu",
+                "採制": "thái chế",
+                "採脂": "thái chi",
+                "採種": "thái chủng",
+                "採樣": "thái dạng",
+                "採油": "thái du",
+                "採用": "thái dụng",
+                "採礦": "thái khoáng",
+                "採錄": "thái lục",
+                "採買": "thái mãi",
+                "採煤": "thái môi",
+                "採納": "thái nạp",
+                "採暖": "thái noãn",
+                "採伐": "thái phạt",
+                "採訪": "thái phỏng",
+                "採風": "thái phong",
+                "採光": "thái quang",
+                "採掘": "thái quật",
+                "採集": "thái tập",
+                "採擇": "thái trạch",
+                "採摘": "thái trích"
+            }
+        },
+        "thải": {
+            "Từ điển trích dẫn": [
+                "(Động) Hái, ngắt. ◎Như: 'thải liên' 採蓮 hái sen, 'thải cúc' 採菊 hái cúc.",
+                "(Động) Chọn nhặt. ◎Như: 'thải tuyển' 採選 chọn lọc. § Nguyên viết là 'thải' 采.",
+                "(Động) Hiểu rõ. § Thông 'thải' 睬.",
+                "§ Ta quen đọc là 'thái'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hái, như thải liên 採蓮 hái sen, thải cúc 採菊 hái cúc, v.v.",
+                "Chọn nhặt, như thải tuyển 採選 chọn lấy, nguyên viết là chữ thải 采. Ta quen đọc là chữ thái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hái, bẻ, trảy, ngắt: 採茶 Hái chè; 採花 Bẻ hoa;",
+                "Chọn nhặt, thu nhặt, tiếp thu (dùng như 採, bộ 釆): 採納 Tiếp thu;",
+                "Lôi kéo;",
+                "Vẫy tay ra hiệu."
+            ]
+        }
+    }
+}

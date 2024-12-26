@@ -1,0 +1,83 @@
+{
+    "character": "胚",
+    "details": {
+        "Âm Hán Việt": [
+            "phôi"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月丕"
+        ],
+        "Nét bút": [
+            "ノフ一一一ノ丨丶一"
+        ],
+        "Thương Hiệt": [
+            "BMFM (月一火一)"
+        ],
+        "Unicode": [
+            "U+80DA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pēi ㄆㄟ"
+        ],
+        "Âm Nôm": [
+            "phôi",
+            "phui"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらみ (harami)",
+            "はら.む (hara.mu)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "pui1"
+        ]
+    },
+    "meanings": {
+        "phôi": {
+            "Từ điển phổ thông": [
+                "bào thai",
+                "vật chưa làm xong"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phụ nữ có mang được một tháng gọi là 'phôi' 胚.",
+                "(Danh) Bào thai, mầm.",
+                "(Danh) Đồ vật chưa làm xong. § Thông 'phôi' 坏. ◎Như: 'từ phôi' 瓷胚, 'đào phôi' 陶胚, 'thô phôi' 粗胚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chửa, có mang mới được một tháng gọi là phôi.",
+                "Ðồ chưa xong hẳn gọi là phôi, nghĩa là mới có hình. Phôi thai 胚胎 cái gì mới ở bước đầu, cái mầm mới sinh ra. Có khi viết là phôi 肧."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(sinh) Mầm, phôi, phôi thai, bào thai;",
+                "Đồ vật làm chưa xong, vật đúc chưa xong;",
+                "Mầm (chồi) cây non. Cv. 胚."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phôi 肧."
+            ],
+            "compound_words": {
+                "胚胎": "phôi thai"
+            }
+        }
+    }
+}

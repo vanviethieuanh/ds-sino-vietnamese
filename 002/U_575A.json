@@ -1,0 +1,64 @@
+{
+    "character": "坚",
+    "details": {
+        "Âm Hán Việt": [
+            "kiên"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨丨フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "LEG (中水土)"
+        ],
+        "Unicode": [
+            "U+575A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "kiên"
+        ],
+        "Âm Quảng Đông": [
+            "gin1"
+        ]
+    },
+    "meanings": {
+        "kiên": {
+            "Từ điển phổ thông": [
+                "bền vững",
+                "cố sức",
+                "không lo sợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 堅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 堅"
+            ],
+            "compound_words": {
+                "坚固": "kiên cố",
+                "坚强": "kiên cường",
+                "坚定": "kiên định",
+                "坚决": "kiên quyết",
+                "坚持": "kiên trì",
+                "忠坚": "trung kiên"
+            }
+        }
+    }
+}

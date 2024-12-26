@@ -1,0 +1,106 @@
+{
+    "character": "井",
+    "details": {
+        "Âm Hán Việt": [
+            "tĩnh",
+            "tỉnh",
+            "đán"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhị 二 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "TT (廿廿)"
+        ],
+        "Unicode": [
+            "U+4E95"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐng ㄐㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "giếng",
+            "tểnh",
+            "tĩn",
+            "tỉnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い (i)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "zeng2",
+            "zing2"
+        ]
+    },
+    "meanings": {
+        "tĩnh": {
+            "Từ điển phổ thông": [
+                "cái giếng",
+                "sao Tỉnh (một trong Nhị thập bát tú)"
+            ]
+        },
+        "tỉnh": {
+            "Từ điển phổ thông": [
+                "cái giếng",
+                "sao Tỉnh (một trong Nhị thập bát tú)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giếng nước. ◎Như: 'thủy tỉnh' 水井 giếng nước, 'khô tỉnh' 枯井 giếng cạn.",
+                "(Danh) Hố, vũng, động giống như cái giếng nước cũng gọi là 'tỉnh'. ◎Như: 'diêm tỉnh' 鹽井 giếng muối, 'du tỉnh' 油井 giếng dầu.",
+                "(Danh) Nơi người ta tụ tập sinh sống. § Ngày xưa đào giếng giữa phố cho hàng phố cùng dùng, nên gọi phố là 'thị tỉnh' 市井.",
+                "(Danh) Làng nước, gia hương. ◎Như: 'hương tỉnh' 鄉井 xóm làng, 'li hương bối tỉnh' 離鄉背井 bỏ làng bỏ nước.",
+                "(Danh) Đời Chu, một trăm mẫu ruộng gọi là một 'tỉnh'. Chế độ ruộng đất nhà Chu lấy chín trăm mẫu ruộng, chia làm chín khu, tám nhà lấy tám khu, còn một khu giữa của nhà vua gọi là 'tỉnh điền' 井田. § Chín khu đất có hình như chữ 'tỉnh', nên gọi tên là 'tỉnh điền'.",
+                "(Danh) Sao 'Tỉnh', một ngôi sao trong Nhị thập bát tú.",
+                "(Danh) Họ 'Tỉnh'.",
+                "(Tính) Ngay ngắn, gọn gàng, chỉnh tề. ◎Như: 'trật tự tỉnh nhiên' 秩序井然 thứ tự rành mạch có điều lí."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giếng, đào sâu lấy mạch nước dùng gọi là tỉnh.",
+                "Ngày xưa đào giếng giữa phố cho hàng phố cùng dùng, nên gọi phố là thị tỉnh 市井, đào giếng ở giữa làng để cả làng cùng dùng gọi làng là hương tỉnh 鄉井.",
+                "Ngày xưa chia ruộng làm chín khu, tám nhà làm tám khu, còn một khu giữa của vua gọi là tỉnh điền 井田.",
+                "Rành mạch, như trật tự tỉnh nhiên 秩序井然 thứ tự rành mạch có điều lí.",
+                "Sao Tỉnh, một ngôi sao trong Nhị thập bát tú."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giếng nước — Tên một quẻ bói trong kinh Dịch, dưới quẻ Cấn trên quẻ Khảm, chỉ về sự nuôi dưỡng vô cùng — Tên một ngôi sao trong Nhị thập bát tú."
+            ],
+            "compound_words": {
+                "鹽井": "diêm tỉnh",
+                "玉井蓮賦": "ngọc tỉnh liên phú",
+                "眢井": "oan tỉnh",
+                "操井臼": "thao tỉnh cữu",
+                "井田": "tỉnh điền",
+                "井魚": "tỉnh ngư",
+                "井井有條": "tỉnh tỉnh hữu điều",
+                "浚井": "tuấn tỉnh"
+            }
+        },
+        "đán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng ném vật gì xuống giếng — Một âm là Tỉnh. Xem Tỉnh."
+            ]
+        }
+    }
+}

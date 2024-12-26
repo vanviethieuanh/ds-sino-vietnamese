@@ -1,0 +1,100 @@
+{
+    "character": "販",
+    "details": {
+        "Âm Hán Việt": [
+            "phiến",
+            "phán"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰貝反"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶ノノフ丶"
+        ],
+        "Thương Hiệt": [
+            "BCHE (月金竹水)"
+        ],
+        "Unicode": [
+            "U+8CA9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fàn ㄈㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Hàn": [
+            "판"
+        ],
+        "Âm Quảng Đông": [
+            "faan3",
+            "faan5"
+        ]
+    },
+    "meanings": {
+        "phiến": {
+            "Từ điển phổ thông": [
+                "mua rẻ bán đắt",
+                "buôn bán"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người buôn bán nhỏ, lái buôn. ◎Như: 'bố phiến' 布販 người bán vải, 'thái phiến' 菜販 người bán rau.",
+                "(Động) Bán. ◎Như: 'phiến ngư' 販魚 bán cá.",
+                "(Động) Buôn. ◇Hồng Lâu Mộng 紅樓夢: 'Ngã đồng khỏa kế phiến liễu hóa vật, tự xuân thiên khởi thân vãng hồi lí tẩu, nhất lộ bình an' 我同夥計販了貨物, 自春天起身往回裡走, 一路平安 (Đệ lục thập lục hồi) Tôi cùng bọn người hùn hạp mua hàng hóa, từ mùa xuân bắt đầu đi, trên đường về bình yên.",
+                "Cũng đọc là 'phán'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mua rẻ bán đắt, buôn bán.",
+                "Cũng đọc là phán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Buôn bán: 販布 Buôn vải; 販米 Buôn gạo;",
+                "Người (kẻ, cửa hàng) buôn bán: 小販 Kẻ buôn thúng bán mẹt; 攤販 Người bày hàng bán bên đường, người buôn bán nhỏ; 水果販 Cửa hàng bán hoa quả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mua rẻ bán đắt — Chạy hàng xách."
+            ],
+            "compound_words": {
+                "小販": "tiểu phiến"
+            }
+        },
+        "phán": {
+            "Từ điển phổ thông": [
+                "mua rẻ bán đắt",
+                "buôn bán"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người buôn bán nhỏ, lái buôn. ◎Như: 'bố phiến' 布販 người bán vải, 'thái phiến' 菜販 người bán rau.",
+                "(Động) Bán. ◎Như: 'phiến ngư' 販魚 bán cá.",
+                "(Động) Buôn. ◇Hồng Lâu Mộng 紅樓夢: 'Ngã đồng khỏa kế phiến liễu hóa vật, tự xuân thiên khởi thân vãng hồi lí tẩu, nhất lộ bình an' 我同夥計販了貨物, 自春天起身往回裡走, 一路平安 (Đệ lục thập lục hồi) Tôi cùng bọn người hùn hạp mua hàng hóa, từ mùa xuân bắt đầu đi, trên đường về bình yên.",
+                "Cũng đọc là 'phán'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mua rẻ bán đắt, buôn bán.",
+                "Cũng đọc là phán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Buôn bán: 販布 Buôn vải; 販米 Buôn gạo;",
+                "Người (kẻ, cửa hàng) buôn bán: 小販 Kẻ buôn thúng bán mẹt; 攤販 Người bày hàng bán bên đường, người buôn bán nhỏ; 水果販 Cửa hàng bán hoa quả."
+            ]
+        }
+    }
+}

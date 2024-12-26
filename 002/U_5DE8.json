@@ -1,0 +1,113 @@
+{
+    "character": "巨",
+    "details": {
+        "Âm Hán Việt": [
+            "cự",
+            "há"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "công 工 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "SS (尸尸)"
+        ],
+        "Unicode": [
+            "U+5DE8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jù ㄐㄩˋ"
+        ],
+        "Âm Nôm": [
+            "cự",
+            "cựa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)"
+        ],
+        "Âm Hàn": [
+            "거"
+        ],
+        "Âm Quảng Đông": [
+            "geoi6"
+        ]
+    },
+    "meanings": {
+        "cự": {
+            "Từ điển phổ thông": [
+                "lớn, to"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) To, lớn. ◎Như: 'cự khoản' 巨款 khoản tiền lớn, 'cự thất' 巨室 nhà có tiếng lừng lẫy (danh gia vọng tộc), 'cự vạn' 巨萬 số nhiều hàng vạn. ◇Tô Thức 蘇軾: 'Cử võng đắc ngư, cự khẩu tế lân' 舉網得魚, 巨口細鱗 (Hậu Xích Bích phú 後赤壁賦) Cất lưới được cá, miệng to vảy nhỏ.",
+                "(Danh) Cái khuôn hình vuông. § Thông 矩.",
+                "(Danh) Họ 'Cự'.",
+                "(Trợ) Há. § Thông 'cự' 詎. ◇Hán Thư 漢書: 'Bái Công bất tiên phá Quan Trung binh, công cự năng nhập hồ?' 沛公不先破關中兵, 公巨能入乎 (Cao đế kỉ thượng 高帝紀上) Bái Công không phá trước tiên quân ở Quan Trung, ông há có thể vào được ư?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lớn, cự thất 巨室 nhà có tiếng lừng lẫy. Số nhiều gọi là cự vạn 巨萬.",
+                "Há, cùng nghĩa với chữ 詎."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thép;",
+                "To lớn (như 巨, bộ 工)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "To lớn."
+            ],
+            "compound_words": {
+                "巨擘": "cự phách",
+                "巨公": "cự công",
+                "巨功": "cự công",
+                "巨名": "cự danh",
+                "巨大": "cự đại",
+                "巨蠹": "cự đố",
+                "巨奸": "cự gian",
+                "巨款": "cự khoản",
+                "巨利": "cự lợi",
+                "巨流": "cự lưu",
+                "巨額": "cự ngạch",
+                "巨额": "cự ngạch",
+                "巨人": "cự nhân",
+                "巨儒": "cự nho",
+                "巨農": "cự nông",
+                "巨費": "cự phí",
+                "巨富": "cự phú",
+                "巨作": "cự tác",
+                "巨室": "cự thất",
+                "巨商": "cự thương",
+                "巨星": "cự tinh",
+                "巨子": "cự tử",
+                "巨匠": "cự tượng"
+            }
+        },
+        "há": {
+            "Từ điển trích dẫn": [
+                "(Tính) To, lớn. ◎Như: 'cự khoản' 巨款 khoản tiền lớn, 'cự thất' 巨室 nhà có tiếng lừng lẫy (danh gia vọng tộc), 'cự vạn' 巨萬 số nhiều hàng vạn. ◇Tô Thức 蘇軾: 'Cử võng đắc ngư, cự khẩu tế lân' 舉網得魚, 巨口細鱗 (Hậu Xích Bích phú 後赤壁賦) Cất lưới được cá, miệng to vảy nhỏ.",
+                "(Danh) Cái khuôn hình vuông. § Thông 矩.",
+                "(Danh) Họ 'Cự'.",
+                "(Trợ) Há. § Thông 'cự' 詎. ◇Hán Thư 漢書: 'Bái Công bất tiên phá Quan Trung binh, công cự năng nhập hồ?' 沛公不先破關中兵, 公巨能入乎 (Cao đế kỉ thượng 高帝紀上) Bái Công không phá trước tiên quân ở Quan Trung, ông há có thể vào được ư?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lớn, cự thất 巨室 nhà có tiếng lừng lẫy. Số nhiều gọi là cự vạn 巨萬.",
+                "Há, cùng nghĩa với chữ 詎."
+            ],
+            "compound_words": {
+                "巨擘": "cự phách"
+            }
+        }
+    }
+}

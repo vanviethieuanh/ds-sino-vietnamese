@@ -1,0 +1,95 @@
+{
+    "character": "幫",
+    "details": {
+        "Âm Hán Việt": [
+            "bang"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "cân 巾 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱封帛"
+        ],
+        "Nét bút": [
+            "一丨一一丨一一丨丶ノ丨フ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "GIHAB (土戈竹日月)"
+        ],
+        "Unicode": [
+            "U+5E6B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bāng ㄅㄤ"
+        ],
+        "Âm Nôm": [
+            "bang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たす.ける (tasu.keru)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "bong1"
+        ]
+    },
+    "meanings": {
+        "bang": {
+            "Từ điển phổ thông": [
+                "giúp đỡ, trợ giúp, làm hộ",
+                "đám, lũ, tốp, đoàn, bầy",
+                "bang đảng",
+                "mạn (thuyền), bẹ (rau), mép (giày)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giúp, phụ trợ. ◎Như: 'bang trợ' 幫助 giúp đỡ. ◇Thủy hử truyện 水滸傳: 'Trí Thâm đạo: Ngã lai bang nhĩ tư đả' 智深道: 我來幫你廝打 (Đệ thất hồi) (Lỗ) Trí Thâm nói: Ta lại giúp đệ đánh nó một trận.",
+                "(Động) Phụ họa. ◎Như: 'bang khang' 幫腔 phụ họa, nói theo hay làm theo người khác.",
+                "(Danh) Phần bên cạnh của một vật thể. ◎Như: 'hài bang' 鞋幫 mép giày, 'thuyền bang' 船幫 mạn thuyền.",
+                "(Danh) Đoàn thể tổ chức của một số người có chung mục đích hoặc tính chất về chính trí, kinh tế, v.v. ◎Như: 'bang hội' 幫會 đoàn thể, 'cái bang' 丐幫 bang của những người ăn mày.",
+                "(Danh) Lượng từ: nhóm, đoàn, lũ, bọn, v.v. ◎Như: 'nhất bang nhân mã' 一幫人馬 một đoàn binh mã, một đoàn quân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chữa mép dầy.",
+                "Giúp, đồng đảng gọi là bang, như một đảng gọi là một bang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 帮."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết chính thức của hai chữ Bang 幇, 幚, có nghĩa là giúp đỡ — Nhiều người kết hợp lại để làm việc chung hoặc giúp đỡ lẫn nhau."
+            ],
+            "compound_words": {
+                "幫辦": "bang biện",
+                "幫護": "bang hộ",
+                "幫会": "bang hội",
+                "幫會": "bang hội",
+                "幫兇": "bang hung",
+                "幫凶": "bang hung",
+                "幫忙": "bang mang",
+                "幫閒": "bang nhàn",
+                "幫派": "bang phái",
+                "幫佐": "bang tá",
+                "幫手": "bang thủ",
+                "幫助": "bang trợ",
+                "幫長": "bang trưởng"
+            }
+        }
+    }
+}

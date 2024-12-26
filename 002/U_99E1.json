@@ -1,0 +1,69 @@
+{
+    "character": "駡",
+    "details": {
+        "Âm Hán Việt": [
+            "mạ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)",
+            "mã 馬 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱吅馬"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "RRSQF (口口尸手火)"
+        ],
+        "Unicode": [
+            "U+99E1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "mà ㄇㄚˋ"
+        ],
+        "Âm Nôm": [
+            "mắng",
+            "mựa"
+        ],
+        "Âm Quảng Đông": [
+            "maa6"
+        ]
+    },
+    "meanings": {
+        "mạ": {
+            "Từ điển phổ thông": [
+                "mắng mỏ, chửi bới"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là 罵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mắng, chửi: 駡了他一頓 Chửi cho hắn ta một trận; 她在駡孩子 Chị ấy đang mắng con."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chửi rủa."
+            ],
+            "compound_words": {
+                "淩駡": "lăng mạ",
+                "駡詈": "mạ lị",
+                "辱駡": "nhục mạ",
+                "恥駡": "sỉ mạ",
+                "唾駡": "thoá mạ"
+            }
+        }
+    }
+}

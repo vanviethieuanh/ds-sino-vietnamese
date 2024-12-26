@@ -1,0 +1,95 @@
+{
+    "character": "飄",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "phong 風 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰票風"
+        ],
+        "Nét bút": [
+            "一丨フ丨丨一一一丨ノ丶ノフノ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "MFHNI (一火竹弓戈)"
+        ],
+        "Unicode": [
+            "U+98C4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "piāo ㄆㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "phiêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひるが.える (hiruga.eru)",
+            "つむじかぜ (tsumujikaze)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "piu1"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển phổ thông": [
+                "thổi (gió)",
+                "bay nhẹ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gió lốc.",
+                "(Động) Thổi. ◎Như: 'phong phiêu diệp lạc' 風飄葉落 gió thổi lá rụng. ◇Thi Kinh 詩經: 'Phong kì phiêu nhữ' 風其飄汝 (Đại nhã 大雅, Quyển a 卷阿) Gió thổi mày đi.",
+                "(Động) Bay phấp phới, bay phất phơ. ◇Dương Quảng 楊廣: 'Phù hương phiêu vũ y' 浮香飄舞衣 (Yến đông đường 宴東堂) Hương bay áo múa phất phới.",
+                "(Động) Theo gió bay đi. ◎Như: 'phiêu hương' 飄香 hương bay. ◇Bạch Cư Dị 白居易: 'Li cung cao xứ nhập thanh vân, Tiên nhạc phong phiêu xứ xứ văn' 驪宮高處入青雲, 仙樂風飄處處聞 (Trường hận ca 長恨歌) Li Cung cao vút lẫn vào trong mây xanh, Tiếng nhạc tiên theo gió bay đi, khắp nơi đều nghe thấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thổi. Như Kinh Thi 經詩 nói phong kì phiêu nhữ 風其飄汝 gió thổi mày đi.",
+                "Nhẹ nhàng. Như phiêu phiêu dục tiên 飄飄欲仙 nhẹ nhàng muốn lên tiên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phấp phới, phất phơ, bay lộn, tung bay: 紅旗飄 Cờ đỏ tung bay (phấp phới); 外面飄着小雨 Bên ngoài phấp phới mưa bay; 雪花飄 Tuyết bay lộn trên không;",
+                "(văn) Bồng bềnh, lềnh bềnh (dùng như 漂, bộ 氵): 樹葉在水上飄流差 Lá cây nổi lềnh bềnh trên mặt nước;",
+                "(văn) Thổi: 風飄葉落 Gió thổi lá rụng; 風其飄汝 Gió thổi mày đi (Thi Kinh);",
+                "(văn) Lung lay, lay động;",
+                "(văn) Nhẹ nhàng, lâng lâng: 飄飄慾仙 Nhẹ nhàng như muốn lên tiên;",
+                "(văn) Gió lốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gió lốc, thổi xoáy tròn — Gió thổi mạnh, làm lay động — Dùng như chữ Phiêu 票 và 漂."
+            ],
+            "compound_words": {
+                "飄颻": "phiêu diêu",
+                "飄揚": "phiêu dương",
+                "飄蕩": "phiêu đãng",
+                "飄忽": "phiêu hốt",
+                "飄零": "phiêu linh",
+                "飄渺": "phiêu miểu",
+                "飄然": "phiêu nhiên",
+                "飄飄": "phiêu phiêu",
+                "飄風": "phiêu phong",
+                "神魂飄蕩": "thần hồn phiêu đãng"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "灯",
+    "details": {
+        "Âm Hán Việt": [
+            "đinh",
+            "đăng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "hoả 火 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火丁"
+        ],
+        "Nét bút": [
+            "丶ノノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "FMN (火一弓)"
+        ],
+        "Unicode": [
+            "U+706F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dēng ㄉㄥ"
+        ],
+        "Âm Nôm": [
+            "đăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ (hi)",
+            "ほ- (ho-)",
+            "ともしび (tomoshibi)",
+            "とも.す (tomo.su)",
+            "あかり (akari)"
+        ],
+        "Âm Hàn": [
+            "등",
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "dang1"
+        ]
+    },
+    "meanings": {
+        "đinh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa. Ngọn lửa — Một âm là Đăng. Xem Đăng."
+            ]
+        },
+        "đăng": {
+            "Từ điển phổ thông": [
+                "cái đèn"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'đăng' 燈.",
+                "Giản thể của chữ 燈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ đăng 燈."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đèn, đăng: 電燈 Đèn điện; 花燈 Hoa đăng, đèn hoa; 酒精燈 Đèn cồn;",
+                "Bóng đèn điện tử: 五燈收音機 Rađiô 5 đèn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết tắt của chữ Đăng 燈 — Một âm là Đinh. Xem Đinh."
+            ],
+            "compound_words": {
+                "幻灯": "ảo đăng",
+                "壁灯": "bích đăng",
+                "灯芯": "đăng tâm",
+                "电灯": "điện đăng",
+                "标灯": "tiêu đăng",
+                "桌灯": "trác đăng"
+            }
+        }
+    }
+}

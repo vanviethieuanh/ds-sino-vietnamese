@@ -1,0 +1,101 @@
+{
+    "character": "毫",
+    "details": {
+        "Âm Hán Việt": [
+            "hào"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mao 毛 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⿳亠口冖毛"
+        ],
+        "Nét bút": [
+            "丶一丨フ一丶フノ一一フ"
+        ],
+        "Thương Hiệt": [
+            "YRBU (卜口月山)"
+        ],
+        "Unicode": [
+            "U+6BEB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "há ㄏㄚˊ",
+            "háo ㄏㄠˊ"
+        ],
+        "Âm Nôm": [
+            "hào"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴウ (gō)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ごう.も (gō.mo)",
+            "すこし (sukoshi)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "hou4"
+        ]
+    },
+    "meanings": {
+        "hào": {
+            "Từ điển phổ thông": [
+                "sợi lông",
+                "một chút",
+                "hào (1/10 đồng)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lông dài mà nhọn. ◎Như: 'thu hào' 秋毫 lông thú mới mọc mùa thu, chỉ những sự vật rất nhỏ bé.",
+                "(Danh) Lượng từ: trong phép cân đo, mười 'hào' là một li, tức là một phần trong muôn phần của một lạng.",
+                "(Danh) Cái bút. § Bút làm bằng lông nên gọi là 'hào'. ◇Vương Thao 王韜: 'Hoàng Kiều đối sanh huy hào, khoảnh khắc doanh bức, xuất hoài trung ngọc ấn kiềm chi' 黃嬌對生揮毫, 頃刻盈幅, 出懷中玉印鈐之 (Yểu nương tái thế 窅娘再世) Hoàng Kiều trước mặt chàng vẫy bút, khoảnh khắc chữ viết đầy trên bức lụa, lấy ấn ngọc trong người in lên.",
+                "(Tính) Nhỏ lắm. ◎Như: 'hào li' 毫釐, 'hào mạt' 毫末 đều gọi về phần cực nhỏ bé cả.",
+                "(Phó) Tí, chút, mảy may. ◎Như: 'hào vô' 毫無 tuyệt không có chút gì cả. ◇Nguyễn Du 阮攸: 'Quân ân tự hải hào vô báo' 君恩似海毫無報 (Nam Quan đạo trung 南關道中) Ơn vua như biển rộng, chưa mảy may báo đáp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lông dài mà nhọn. Lông đến mùa thu lại mọc cái mới nên gọi là thu hào 秋毫.",
+                "Hào, trong phép cân đo gọi mười hào là một li, tức là một phần trong muôn phần của một lạng.",
+                "Bút, bút làm bằng lông nên gọi là hào.",
+                "Nhỏ lắm, như hào li 毫釐, hào mạt 毫末, v.v. đều gọi về phần cực nhỏ bé cả. Tục nói tuyệt không có gì cả là hào vô 毫無.",
+                "Cái bút lông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lông: 狼毫筆 Bút lông sói;",
+                "Bút, bút lông: 揮毫 Viết (bằng bút lông);",
+                "Hào (đơn vị đo lường bằng một phần mười của li);",
+                "Hào (đơn vị tiền tệ bằng một phần mười của đồng). Như 角 [jiăo], 毛 [máo];",
+                "Tí, chút, tí chút: 毫無誠意 Không chút thành ý."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợi lông — Ngọn bút lông. Cái bút — Tên một đơn vị trọng lượng rất nhỏ thời cổ, bằng 1/10 li — Chỉ sự rất nhỏ nhặt — Tên một đơn vị tiền tệ thời xưa, bằng 1/10 của đồng bạc."
+            ],
+            "compound_words": {
+                "毫釐": "hào li",
+                "毫末": "hào mạt",
+                "毫米": "hào mễ",
+                "毫放": "hào phóng",
+                "毫昇": "hào thăng",
+                "毫素": "hào tố",
+                "毫無": "hào vô",
+                "揮毫": "huy hào",
+                "濡毫": "nhu hào",
+                "絲毫": "ti hào"
+            }
+        }
+    }
+}

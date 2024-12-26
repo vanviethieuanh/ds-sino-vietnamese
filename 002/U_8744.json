@@ -1,0 +1,51 @@
+{
+    "character": "蝄",
+    "details": {
+        "Âm Hán Việt": [
+            "võng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫罔"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ丶ノ一丶一フ"
+        ],
+        "Thương Hiệt": [
+            "LIBTV (中戈月廿女)"
+        ],
+        "Unicode": [
+            "U+8744"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wǎng ㄨㄤˇ"
+        ]
+    },
+    "meanings": {
+        "võng": {
+            "Từ điển phổ thông": [
+                "(xem: võng lượng 魍魎,魍魉,蝄蜽)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 魍 (bộ 鬼)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Võng lưỡng 蝄蜽: Loài ma quái ở rừng núi, ở cây cối đất đá. Loài yêu tinh."
+            ],
+            "compound_words": {
+                "蝄蜽": "võng lượng"
+            }
+        }
+    }
+}

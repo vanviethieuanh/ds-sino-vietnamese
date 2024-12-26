@@ -1,0 +1,111 @@
+{
+    "character": "睪",
+    "details": {
+        "Âm Hán Việt": [
+            "cao",
+            "dịch",
+            "nhiếp",
+            "trạch",
+            "đố"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mục 目 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱罒幸"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一一丨一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "WLGTJ (田中土廿十)"
+        ],
+        "Unicode": [
+            "U+776A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gāo ㄍㄠ",
+            "hào ㄏㄠˋ",
+            "yì ㄧˋ",
+            "zé ㄗㄜˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エキ (eki)",
+            "ヤク (yaku)",
+            "ジョウ (jō)",
+            "ニョウ (nyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うかがい.める (ukagai.meru)"
+        ],
+        "Âm Quảng Đông": [
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "cao": {
+            "Từ điển phổ thông": [
+                "mỡ màng, nhẵn bóng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rình, dòm, nom, trinh thám.",
+                "Một âm là 'cao'. (Danh) 'Cao hoàn' 睪丸 hòn dái, dịch hoàn.",
+                "(Tính) Cao lớn. § Cũng như 'cao' 皋."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Cao hoàn 睪丸 — Cũng dùng như chữ Cao 高 — Các âm khác là Dịch, Trạch, Đố."
+            ],
+            "compound_words": {
+                "睪丸": "cao hoàn"
+            }
+        },
+        "dịch": {
+            "Từ điển phổ thông": [
+                "rình, dòm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rình, dòm, nom, trinh thám.",
+                "Một âm là 'cao'. (Danh) 'Cao hoàn' 睪丸 hòn dái, dịch hoàn.",
+                "(Tính) Cao lớn. § Cũng như 'cao' 皋."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rình, dòm, nom.",
+                "Cùng nghĩa với chữ trạch 澤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Rình, nom, dòm;",
+                "Như 澤 (bộ 氵)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn trộm — Ngày nay còn có nghĩa là trừng mắt mà nhìn — Các âm khác là Cao, Trạch, Đố."
+            ]
+        },
+        "nhiếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn trộm."
+            ]
+        },
+        "trạch": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Trạch 澤."
+            ]
+        },
+        "đố": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏng, đổ nát. Thua cuộc."
+            ]
+        }
+    }
+}

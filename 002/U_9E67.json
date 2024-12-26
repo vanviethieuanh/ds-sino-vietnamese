@@ -1,0 +1,81 @@
+{
+    "character": "鹧",
+    "details": {
+        "Âm Hán Việt": [
+            "chá",
+            "gia",
+            "giá"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰庶鸟"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨丨一丶丶丶丶ノフ丶フ一"
+        ],
+        "Thương Hiệt": [
+            "IFPYM (戈火心卜一)"
+        ],
+        "Unicode": [
+            "U+9E67"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhè ㄓㄜˋ"
+        ],
+        "Âm Nôm": [
+            "giá"
+        ],
+        "Âm Quảng Đông": [
+            "ze3"
+        ]
+    },
+    "meanings": {
+        "chá": {
+            "Từ điển phổ thông": [
+                "(xem: chá cô 鷓鴣,鹧鸪)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鷓."
+            ],
+            "compound_words": {
+                "鹧鸪": "chá cô"
+            }
+        },
+        "gia": {
+            "Từ điển phổ thông": [
+                "(xem: chá cô 鷓鴣,鹧鸪)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鷓."
+            ],
+            "compound_words": {
+                "鹧鸪": "gia cô"
+            }
+        },
+        "giá": {
+            "Từ điển phổ thông": [
+                "(xem: chá cô 鷓鴣,鹧鸪)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鷓"
+            ],
+            "compound_words": {
+                "鹧鸪": "giá cô"
+            }
+        }
+    }
+}

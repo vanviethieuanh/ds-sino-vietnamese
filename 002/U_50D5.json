@@ -1,0 +1,97 @@
+{
+    "character": "僕",
+    "details": {
+        "Âm Hán Việt": [
+            "bộc"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhân 人 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻菐"
+        ],
+        "Nét bút": [
+            "ノ丨丨丨丶ノ一丶ノ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OTCO (人廿金人)"
+        ],
+        "Unicode": [
+            "U+50D5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pú ㄆㄨˊ"
+        ],
+        "Âm Nôm": [
+            "bọc",
+            "bộc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボク (boku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しもべ (shimobe)"
+        ],
+        "Âm Hàn": [
+            "복"
+        ],
+        "Âm Quảng Đông": [
+            "buk6"
+        ]
+    },
+    "meanings": {
+        "bộc": {
+            "Từ điển phổ thông": [
+                "người đầy tớ",
+                "người cầm cương ngựa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đầy tớ. ◎Như: 'nô bộc' 奴僕 đầy tớ, 'bộc nhân' 僕人 người hầu hạ.",
+                "(Danh) Kẻ cầm cương. ◎Như: Ngày xưa có chức 'Thái bộc tự' 太僕寺 coi về việc xe ngựa cho vua.",
+                "(Động) Đánh xe. ◇Luận Ngữ 論語: 'Tử thích Vệ, Nhiễm Hữu bộc' 子適衛, 冉有僕 (Tử Lộ 子路) (Khổng) Tử tới nước Vệ, Nhiễm Hữu đánh xe.",
+                "(Đại) Kẻ hèn này. § Lời nói nhún mình dùng trong thư từ. ◇Tư Mã Thiên 司馬遷: 'Bộc hoài dục trần chi nhi vị hữu lộ' 僕懷欲陳之而未有路 (Báo Nhậm Thiếu Khanh thư 報任少卿書) Kẻ hèn này muốn trình bày lẽ đó nhưng chưa có cơ hội."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðầy tớ.",
+                "Kẻ cầm cương, ngày xưa có chức Thái bộc tự 太僕寺 coi về việc xe ngựa cho vua.",
+                "Kẻ hèn này, lời thư từ nói nhún mình gọi là bộc.",
+                "Lóc cóc, như phong trần bộc bộc 風塵僕僕 đi lại lóc cóc, nghĩa là phải xông pha gió bụi, không được nghỉ ngơi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đầy tớ;",
+                "(văn) Tôi, kẻ hèn này (từ dùng để khiêm xưng trong thư từ qua lại): 聞足下遇火災，僕始聞而駭，中而疑，終乃大喜 Nghe ông bị cháy nhà, tôi lúc mới nghe qua thì giật mình, giữa chừng thì nghi ngờ, cuối cùng lại mừng (Liễu Tôn Nguyên: Hạ thất hoả thư);",
+                "(văn) Đi khắp, chạy khắp: 僕僕風塵 Xông pha gió bụi khắp nơi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người đày tớ — Tiếng tự xưng khiêm nhường. Có nghĩa là tôi."
+            ],
+            "compound_words": {
+                "僕歐": "bộc âu",
+                "僕僕": "bộc bộc",
+                "僕人": "bộc nhân",
+                "僕夫": "bộc phu",
+                "僕從": "bộc tụng",
+                "僕射": "bộc xạ",
+                "主僕": "chủ bộc",
+                "公僕": "công bộc",
+                "家僕": "gia bộc",
+                "老僕": "lão bộc",
+                "義僕": "nghĩa bộc",
+                "奴僕": "nô bộc",
+                "寵僕": "sủng bộc"
+            }
+        }
+    }
+}

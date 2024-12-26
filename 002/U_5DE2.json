@@ -1,0 +1,86 @@
+{
+    "character": "巢",
+    "details": {
+        "Âm Hán Việt": [
+            "sào"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "xuyên 巛 (+8 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Hình thái": [
+            "⿱巛果"
+        ],
+        "Nét bút": [
+            "フフフ丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VVWD (女女田木)"
+        ],
+        "Unicode": [
+            "U+5DE2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cháo ㄔㄠˊ"
+        ],
+        "Âm Nôm": [
+            "sào"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "caau4"
+        ]
+    },
+    "meanings": {
+        "sào": {
+            "Từ điển phổ thông": [
+                "tổ chim, ổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tổ, ổ (chim, côn trùng). ◎Như: 'điểu sào' 鳥巢 tổ chim, 'phong sào' 蜂巢 tổ ong.",
+                "(Danh) Chỗ ở. ◎Như: 'tặc sào' 賊巢 ổ giặc, 'sào huyệt' 巢穴 hang tổ giặc.",
+                "(Danh) Một nhạc khí, giống như cái sênh ('sanh' 笙).",
+                "(Danh) Họ 'Sào'.",
+                "(Động) Làm tổ. ◇Tả truyện 左傳: 'Hữu cù dục lai sào' 有鴝鵒來巢 (Chiêu Công nhị thập ngũ niên 昭公二十五年) Có chim yểng lại làm tổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tổ, tổ chim gọi là sào. Chỗ trộm cướp tụ họp gọi là tặc sào 賊巢 ổ giặc, hay sào huyệt 巢穴 hang tổ giặc, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ổ, hang ổ, tổ: 匪巢 Ổ gian phỉ; 鳥巢 Tổ chim;",
+                "(văn) Làm tổ: 鷦鷯巢於深林，不過一枝 Chim ri làm tổ ở rừng sâu, chẳng qua một cành (Trang tử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tổ chim — Làm tổ – Nơi ẩn náu của bọn bất lương."
+            ],
+            "compound_words": {
+                "鳩居鵲巢": "cưu cư thước sào",
+                "卧遊巢詩文集": "ngoạ du sào thi văn tập",
+                "卵巢": "noãn sào",
+                "巢居": "sào cư",
+                "巢由": "sào do",
+                "巢穴": "sào huyệt",
+                "巢許": "sào hứa",
+                "巢南": "sào nam",
+                "巢父": "sào phủ",
+                "巢車": "sào xa",
+                "賊巢": "tặc sào",
+                "精巢": "tinh sào",
+                "燕巢": "yến sào"
+            }
+        }
+    }
+}

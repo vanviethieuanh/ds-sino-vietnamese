@@ -1,0 +1,80 @@
+{
+    "character": "籃",
+    "details": {
+        "Âm Hán Việt": [
+            "lam"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "trúc 竹 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮監"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨フ一丨フノ一丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "HSIT (竹尸戈廿)"
+        ],
+        "Unicode": [
+            "U+7C43"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lán ㄌㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lam",
+            "làn",
+            "xớm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かご (kago)"
+        ],
+        "Âm Hàn": [
+            "람"
+        ],
+        "Âm Quảng Đông": [
+            "laam4"
+        ]
+    },
+    "meanings": {
+        "lam": {
+            "Từ điển phổ thông": [
+                "cái giỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giỏ xách tay, thùng có quai, cái làn. ◎Như: 'trúc lam' 竹籃 giỏ tre, 'thái lam' 菜籃 giỏ rau, 'diêu lam' 搖籃 nôi (để ru trẻ con).",
+                "(Danh) Rổ (vòng có lưới, đặt trên giá, dùng trong môn thể thao đánh bóng rổ basketball). ◎Như: 'đầu lam' 投籃 ném bóng vào rổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái giỏ xách tay để đựng các đồ mua bán cho tiện (cái thùng có quai, cái làn)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giỏ, làn: 竹籃 Giỏ tre; 花籃兒 Làn hoa, lẵng hoa;",
+                "Rổ (vòng sắt có lưới, đặt trên giá bóng rổ): 投籃兒 Ném bóng vào rổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giỏ tre lớn, để đựng đồ vật."
+            ],
+            "compound_words": {
+                "搖籃": "dao lam",
+                "籃球": "lam cầu"
+            }
+        }
+    }
+}

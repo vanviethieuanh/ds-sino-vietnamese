@@ -1,0 +1,61 @@
+{
+    "character": "锁",
+    "details": {
+        "Âm Hán Việt": [
+            "toả"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅⿱⺌贝"
+        ],
+        "Nét bút": [
+            "ノ一一一フ丨丶ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "CFBO (金火月人)"
+        ],
+        "Unicode": [
+            "U+9501"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "suǒ ㄙㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "toả"
+        ],
+        "Âm Quảng Đông": [
+            "so2"
+        ]
+    },
+    "meanings": {
+        "toả": {
+            "Từ điển phổ thông": [
+                "giam, nhốt, khoá chặt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鎖."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鎖"
+            ],
+            "compound_words": {
+                "撞锁": "chàng toả",
+                "封锁": "phong toả"
+            }
+        }
+    }
+}

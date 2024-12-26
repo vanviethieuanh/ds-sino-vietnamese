@@ -1,0 +1,91 @@
+{
+    "character": "蒐",
+    "details": {
+        "Âm Hán Việt": [
+            "sưu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿱艹鬼"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨フ一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "THI (廿竹戈)"
+        ],
+        "Unicode": [
+            "U+8490"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "sōu ㄙㄡ"
+        ],
+        "Âm Nôm": [
+            "cói"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あかね (akane)",
+            "あつ.まる (atsu.maru)",
+            "あつ.める (atsu.meru)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau1"
+        ]
+    },
+    "meanings": {
+        "sưu": {
+            "Từ điển phổ thông": [
+                "góp lại, sưu tập",
+                "ẩn, giấu",
+                "cây thiến thảo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tức là cây 'thiến thảo' 茜草, dùng làm thuốc nhuộm.",
+                "(Danh) Lễ đi săn mùa xuân hay mùa thu. ◎Như: 'xuân sưu' 春蒐 lễ đi săn mùa xuân.",
+                "(Động Gom góp, tụ họp. ◎Như: 'sưu tập' 蒐輯 góp lại. Còn viết là 'sưu tập' 蒐集.",
+                "(Động) Tìm kiếm. ◎Như: 'sưu bổ khuyết dật' 蒐補闕軼 tìm tòi bổ khuyết những thiếu sót.",
+                "(Động) Ẩn, giấu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Góp lại. Như sưu tập 蒐輯 góp lại. Còn viết là 蒐集.",
+                "Lễ đi săn mùa xuân, xuân sưu 春蒐.",
+                "Ẩn, giấu.",
+                "Cây thiến thảo 茜草."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Góp lại, gom góp: 蒐輯 Sưu tập, gom góp lại;",
+                "Lễ đi săn mùa xuân;",
+                "(thực) Cây thiến thảo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom lại. Gom góp — Việc đóng góp của dân chúng cho triều đình. Đóng góp bằng sức lực hoặc tiền bạc, cũng viết là Sưu 搜 — Cuộc đi săn mùa xuân của vua. Như chữ Sưu 獀 — Ẩn giấu."
+            ],
+            "compound_words": {
+                "蒐補": "sưu bổ",
+                "蒐役": "sưu dịch",
+                "蒐潤": "sưu nhuận",
+                "蒐拾": "sưu thập",
+                "蒐稅": "sưu thuế",
+                "蒐節": "sưu tiết",
+                "蒐省": "sưu tỉnh"
+            }
+        }
+    }
+}

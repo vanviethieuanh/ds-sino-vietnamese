@@ -1,0 +1,89 @@
+{
+    "character": "捭",
+    "details": {
+        "Âm Hán Việt": [
+            "bác",
+            "bãi",
+            "phách"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘卑"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨フ一一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "QHHJ (手竹竹十)"
+        ],
+        "Unicode": [
+            "U+636D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bǎi ㄅㄞˇ",
+            "bò ㄅㄛˋ"
+        ],
+        "Âm Nôm": [
+            "bới"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)",
+            "ハ (ha)",
+            "ヘイ (hei)"
+        ],
+        "Âm Quảng Đông": [
+            "baai2"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bổ xẻ ra. Mổ ra — Một âm khác là Bài."
+            ]
+        },
+        "bãi": {
+            "Từ điển phổ thông": [
+                "mở ra",
+                "hai tay đánh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mở. § Quỷ Cốc Tử 鬼谷子 có một bài sách gọi là 'bãi hạp thiên' 捭闔篇 nghĩa là bài học về cách úp mở để đi du thuyết.",
+                "(Động) Hai tay đánh ra phía ngoài.",
+                "(Động) Tách, bửa ra, xẻ ra. § Thông 'phách' 擘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mở, Quỷ Cốc Tử có một bài sách gọi là bãi hạp thiên 捭闔篇 nghĩa là bài học về cách úp mở để đi du thuyết.",
+                "Hai tay đánh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tách ra, mở ra (từ dùng để nói về thuật du thuyết thời Chiến quốc, trái với 闔 là đóng lại);",
+                "Đánh cả hai tay sang hai bên;",
+                "Dời qua dời lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bẻ đôi, bửa đôi vật gì ra — Mở ra, vẹt ra — Một âm khác là Bách."
+            ]
+        },
+        "phách": {
+            "Từ điển trích dẫn": [
+                "(Động) Mở. § Quỷ Cốc Tử 鬼谷子 có một bài sách gọi là 'bãi hạp thiên' 捭闔篇 nghĩa là bài học về cách úp mở để đi du thuyết.",
+                "(Động) Hai tay đánh ra phía ngoài.",
+                "(Động) Tách, bửa ra, xẻ ra. § Thông 'phách' 擘."
+            ]
+        }
+    }
+}

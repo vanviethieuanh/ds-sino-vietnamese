@@ -1,0 +1,83 @@
+{
+    "character": "遮",
+    "details": {
+        "Âm Hán Việt": [
+            "già"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "sước 辵 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶庶"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨丨一丶丶丶丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YITF (卜戈廿火)"
+        ],
+        "Unicode": [
+            "U+906E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhē ㄓㄜ"
+        ],
+        "Âm Nôm": [
+            "dà",
+            "già"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さえぎ.る (saegi.ru)"
+        ],
+        "Âm Hàn": [
+            "차"
+        ],
+        "Âm Quảng Đông": [
+            "ze1"
+        ]
+    },
+    "meanings": {
+        "già": {
+            "Từ điển phổ thông": [
+                "che lấp",
+                "ngăn trở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngăn trở, chận. ◎Như: 'già kích' 遮擊 đánh chận hậu, đánh úp.",
+                "(Động) Che lấp. ◎Như: 'già cái' 遮蓋 che trùm, 'già hộ' 遮護 che chở. ◇Bạch Cư Dị 白居易: 'Do bão tì bà bán già diện' 猶抱琵琶半遮面 (Tì Bà Hành 琵琶行) Tay còn ôm đàn che mất nửa mặt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chận. Như già kích 遮擊 đánh chận hậu, đánh úp.",
+                "Che. Như già cái 遮蓋 che trùm, già hộ 遮護 che chở, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Che: 遮太陽 Che nắng; 雲彩把太陽遮住了 Mây che kín mặt trời; 遮護 Che chở;",
+                "Giấu giếm, che đậy, che giấu: 遮人耳目 Che mắt thế gian;",
+                "Chắn, ngăn: 遮風 Chắn gió."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Che lấp đi — Ngăn che."
+            ],
+            "compound_words": {
+                "遮護": "già hộ",
+                "遮攔": "già lan",
+                "口沒遮攔": "khẩu một già lan"
+            }
+        }
+    }
+}

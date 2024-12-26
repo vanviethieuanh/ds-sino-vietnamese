@@ -1,0 +1,84 @@
+{
+    "character": "癃",
+    "details": {
+        "Âm Hán Việt": [
+            "long",
+            "lung"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nạch 疒 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒隆"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一フ丨ノフ丶一ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "KNLM (大弓中一)"
+        ],
+        "Unicode": [
+            "U+7643"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lóng ㄌㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "lung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リュウ (ryū)",
+            "リュ (ryu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つか.れる (tsuka.reru)"
+        ],
+        "Âm Hàn": [
+            "륭"
+        ],
+        "Âm Quảng Đông": [
+            "lung4"
+        ]
+    },
+    "meanings": {
+        "long": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Suy yếu nhiều bệnh, bệnh già;",
+                "Bí đái."
+            ]
+        },
+        "lung": {
+            "Từ điển phổ thông": [
+                "bị gù lưng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh tiểu tiện không thông.",
+                "(Tính) Gù, còng lưng (già khọm)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gù, bệnh già không chữa được nữa.",
+                "Bệnh lung bế 癃閉, không đi giải được."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh mỏi chân tay bệnh tê bại của người già — Bệnh tiểu tiện khó khăn — cũnh đọc Long."
+            ],
+            "compound_words": {
+                "疲癃": "bì lung",
+                "癃閉": "lung bế",
+                "癃闭": "lung bế"
+            }
+        }
+    }
+}

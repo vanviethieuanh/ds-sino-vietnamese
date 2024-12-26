@@ -1,0 +1,84 @@
+{
+    "character": "蚍",
+    "details": {
+        "Âm Hán Việt": [
+            "tì",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trùng 虫 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫比"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一フノフ"
+        ],
+        "Thương Hiệt": [
+            "LIPP (中戈心心)"
+        ],
+        "Unicode": [
+            "U+868D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bǐ ㄅㄧˇ",
+            "pí ㄆㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおあり (ōari)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "pei4"
+        ]
+    },
+    "meanings": {
+        "tì": {
+            "Từ điển trích dẫn": [
+                "1. § Xem “tì phù” 蚍蜉."
+            ],
+            "compound_words": {
+                "蚍蜉": "tì phù",
+                "蚍蜉撼大樹": "tì phù hám đại thụ",
+                "蚍蜉撼樹": "tì phù hám thụ"
+            }
+        },
+        "tỳ": {
+            "Từ điển phổ thông": [
+                "(xem: tỳ phù 蚍蜉)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tì phù 蚍蜉 con kiến càng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蚍蜉】tì phù [pífú] Con kiến càng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tì phu 蚍蜉: Loại kiến đen, làm tổ trên cây."
+            ],
+            "compound_words": {
+                "蚍蜉": "tỳ phù"
+            }
+        }
+    }
+}

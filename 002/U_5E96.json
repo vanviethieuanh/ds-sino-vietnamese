@@ -1,0 +1,90 @@
+{
+    "character": "庖",
+    "details": {
+        "Âm Hán Việt": [
+            "bao",
+            "bào"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广包"
+        ],
+        "Nét bút": [
+            "丶一ノノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "IPRU (戈心口山)"
+        ],
+        "Unicode": [
+            "U+5E96"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "páo ㄆㄠˊ"
+        ],
+        "Âm Nôm": [
+            "bào"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くりや (kuriya)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "paau4"
+        ]
+    },
+    "meanings": {
+        "bao": {
+            "Từ điển phổ thông": [
+                "cái bếp"
+            ]
+        },
+        "bào": {
+            "Từ điển phổ thông": [
+                "cái bếp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bếp, nhà bếp.",
+                "(Danh) Người làm bếp, đầu bếp. ◎Như: 'bào đinh' 庖丁 người đầu bếp, 'danh bào' 名庖 người đầu bếp danh tiếng.",
+                "(Danh) Gọi tắt của 'Bào Hi thị' 庖羲氏.",
+                "(Động) Nấu nướng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bếp, bồi bếp gọi là bào đinh 庖丁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bếp, nhà bếp: 名庖 Người đầu bếp nổi tiếng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà bếp, chỗ nấu ăn."
+            ],
+            "compound_words": {
+                "庖正": "bào chính",
+                "庖代": "bào đại",
+                "庖丁": "bào đinh",
+                "庖人": "bào nhân",
+                "庖廚": "bào trù",
+                "良庖": "lương bào",
+                "烹庖": "phanh bào"
+            }
+        }
+    }
+}

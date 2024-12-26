@@ -1,0 +1,82 @@
+{
+    "character": "咈",
+    "details": {
+        "Âm Hán Việt": [
+            "phất",
+            "phật"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口弗"
+        ],
+        "Nét bút": [
+            "丨フ一フ一フノ丨"
+        ],
+        "Thương Hiệt": [
+            "RLLN (口中中弓)"
+        ],
+        "Unicode": [
+            "U+5488"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "fú ㄈㄨˊ"
+        ],
+        "Âm Nôm": [
+            "phớt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フツ (futsu)",
+            "ブチ (buchi)",
+            "ヒツ (hitsu)",
+            "ビチ (bichi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たが.う (taga.u)",
+            "いな (ina)"
+        ],
+        "Âm Quảng Đông": [
+            "fat1",
+            "fat6"
+        ]
+    },
+    "meanings": {
+        "phất": {
+            "Từ điển phổ thông": [
+                "ngang trái, mâu thuẫn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Làm trái, nghịch lại.",
+                "(Động) Phẫn nộ, giận dữ. § Thông 'phật' 艴.",
+                "(Phó) 'Hu phất' 吁咈: (1) Không vừa ý, không bằng lòng. (2) Vua tôi hòa hợp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trái ý, ý không ưng thế, gọi là hu phất 吁咈."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngang trái: 吁咈 Không ưng, không chịu."
+            ]
+        },
+        "phật": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trái ngược lại. Xem Phật ý — Tiếng dùng."
+            ],
+            "compound_words": {
+                "咈意": "phật ý"
+            }
+        }
+    }
+}

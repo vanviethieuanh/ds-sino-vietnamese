@@ -1,0 +1,100 @@
+{
+    "character": "飾",
+    "details": {
+        "Âm Hán Việt": [
+            "sức"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thực 食 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶ノ一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "OIOLB (人戈人中月)"
+        ],
+        "Unicode": [
+            "U+98FE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ",
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "sức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かざ.る (kaza.ru)",
+            "かざ.り (kaza.ri)"
+        ],
+        "Âm Hàn": [
+            "식"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "sức": {
+            "Từ điển phổ thông": [
+                "trang sức",
+                "mệnh lệnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trang điểm, làm cho đẹp. ◎Như: 'tu sức' 修飾 tô điểm, 'trang sức' 裝飾 trang điểm.",
+                "(Động) Che đậy, ngụy trang. ◎Như: 'yểm sức' 掩飾 che đậy, 'phấn sức thái bình' 粉飾太平 chính trị đã rối bét mà vẫn làm như thái bình yên tĩnh.",
+                "(Động) Giả thác, giả bộ. ◎Như: 'sức từ' 飾詞 nói lời lấp liếm, 'sức mạo' 飾貌 giả dạng vẻ mặt.",
+                "(Động) Tẩy rửa cho sạch sẽ. § Thông 拭. ◇Chu Lễ 周禮: 'Phàm tế tự, sức kì ngưu sinh' 凡祭祀, 飾其牛牲 (Địa quan 地官, Phong nhân 封人) Trong việc tế tự, tắm rửa trâu bò con thú đem cúng cho sạch sẽ.",
+                "(Động) Sửa trị. § Thông 'sức' 飭.",
+                "(Động) Đóng vai, sắm tuồng.",
+                "(Danh) Áo quần. ◎Như: 'phục sức' 服飾 quần áo.",
+                "(Danh) Vật phẩm dùng để trang điểm. ◎Như: 'thủ sức' 首飾 đồ trang điểm trên đầu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Văn sức. Vật gì đã làm, song lại trang sức thêm. Như sơn, như vẽ, như thêu, như khắc cho đẹp thêm đều gọi là sức. Như phục sức 服飾 quần áo đẹp, thủ sức 首飾 đồ trang sức trên đầu, v.v.",
+                "Che đậy, phấn sức bên ngoài, chỉ có bề ngoài, trong không có gì thực gọi là sức. Như phấn sức thái bình 粉飾太平 chính trị đã rối bét mà vẫn làm ra dáng thái bình yên tĩnh.",
+                "Giả thác, giả bộ. Như sức từ 飾詞 lời giả thác, sức mạo 飾貌 nét mặt giả dạng.",
+                "Sửa sang cho sạch sẽ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trang sức, trang điểm, trang hoàng: 油飾門窗 Sơn cửa sổ cho đẹp. (Ngb) Che giấu giả tạo, làm ra vẻ như thật, giả bộ: 飾辭 Lời nói giả tạo không thực; 文過飾非 Che đậy sai lầm; 飾貌 Nét mặt giả tạo;",
+                "Đồ trang sức, đồ trang hoàng: 首飾 Đồ trang sức. Cg. 飾物 [shìwù];",
+                "Đóng vai, sắm tuồng;",
+                "Áo quần."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm cho đẹp — Vật làm cho đẹp bề ngoài — Che đậy bề ngoài."
+            ],
+            "compound_words": {
+                "矯飾": "kiểu sức",
+                "粉飾": "phấn sức",
+                "服飾": "phục sức",
+                "飾貌": "sức mạo",
+                "飾言": "sức ngôn",
+                "飾偽": "sức nguỵ",
+                "飾非": "sức phi",
+                "飾說": "sức thuyết",
+                "飾辭": "sức từ",
+                "粧飾": "trang sức",
+                "裝飾": "trang sức",
+                "修飾": "tu sức",
+                "文飾": "văn sức"
+            }
+        }
+    }
+}

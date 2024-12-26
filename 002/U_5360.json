@@ -1,0 +1,130 @@
+{
+    "character": "占",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêm",
+            "chiếm"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "bốc 卜 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺊囗"
+        ],
+        "Nét bút": [
+            "丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YR (卜口)"
+        ],
+        "Unicode": [
+            "U+5360"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhān ㄓㄢ",
+            "zhàn ㄓㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chàm",
+            "chăm",
+            "chầm",
+            "chem",
+            "chễm",
+            "chiêm",
+            "chím",
+            "coi",
+            "giếm",
+            "xem"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "し.める (shi.meru)",
+            "うらな.う (urana.u)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "zim1",
+            "zim3"
+        ]
+    },
+    "meanings": {
+        "chiêm": {
+            "Từ điển phổ thông": [
+                "xem điềm để biết tốt xấu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bói, nhìn điềm triệu để đoán tốt xấu. ◎Như: 'chiêm bốc' 占卜 xem bói, 'chiêm quái' 占卦 xem quẻ.",
+                "Một âm là 'chiếm'. (Động) Tự tiện lấy của người. § Thông 佔. ◎Như: 'chiếm hữu' 占有 chiếm làm quyền sở hữu của mình.",
+                "(Động) Truyền miệng. ◎Như: 'khẩu chiếm' 口占 đọc thơ ra bằng miệng, làm thơ văn không cần dùng bút khởi thảo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xem, coi điềm gì để biết xấu tốt gọi là chiêm. Bói cho khỏi ngờ cũng gọi là chiêm.",
+                "Một âm là chiếm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem bói: 占卜 Bói toán, bói số, bói;",
+                "[Zhan] (Họ) Chiêm. Xem 占 [zhàn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn. Xem — Bói toán — Một âm khác là Chiếm."
+            ],
+            "compound_words": {
+                "占卜": "chiêm bốc",
+                "占夢": "chiêm mộng",
+                "占驗": "chiêm nghiệm",
+                "占卦": "chiêm quái",
+                "占城": "chiêm thành",
+                "占星": "chiêm tinh"
+            }
+        },
+        "chiếm": {
+            "Từ điển phổ thông": [
+                "chiếm đoạt của người khác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bói, nhìn điềm triệu để đoán tốt xấu. ◎Như: 'chiêm bốc' 占卜 xem bói, 'chiêm quái' 占卦 xem quẻ.",
+                "Một âm là 'chiếm'. (Động) Tự tiện lấy của người. § Thông 佔. ◎Như: 'chiếm hữu' 占有 chiếm làm quyền sở hữu của mình.",
+                "(Động) Truyền miệng. ◎Như: 'khẩu chiếm' 口占 đọc thơ ra bằng miệng, làm thơ văn không cần dùng bút khởi thảo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tự tiện chiếm cứ của người.",
+                "Làm thơ làm ca chưa viết ra gọi là khẩu chiếm 口占.",
+                "Một âm là chiêm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chiếm: 占壓倒優勢 Chiếm thế áp đảo;",
+                "Đọc ra thơ bằng miệng (chưa viết thành bài): 口占 Khẩu chiếm. Xem 占 [zhan]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy làm của mình — Có được — Một âm khác là Chiêm."
+            ],
+            "compound_words": {
+                "占公為私": "chiếm công vi tư",
+                "占據": "chiếm cứ",
+                "占奪": "chiếm đoạt",
+                "占有": "chiếm hữu",
+                "占領": "chiếm lĩnh",
+                "占上風": "chiếm thượng phong",
+                "強占": "cưỡng chiếm",
+                "口占": "khẩu chiếm",
+                "侵占": "xâm chiếm"
+            }
+        }
+    }
+}

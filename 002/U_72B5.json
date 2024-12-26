@@ -1,0 +1,67 @@
+{
+    "character": "犵",
+    "details": {
+        "Âm Hán Việt": [
+            "khất",
+            "ngật"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+3 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺨乞"
+        ],
+        "Nét bút": [
+            "ノフノノ一フ"
+        ],
+        "Thương Hiệt": [
+            "KHON (大竹人弓)"
+        ],
+        "Unicode": [
+            "U+72B5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gē ㄍㄜ",
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Hàn": [
+            "힐"
+        ],
+        "Âm Quảng Đông": [
+            "hat1"
+        ]
+    },
+    "meanings": {
+        "khất": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một giống dân thiểu số, cư ngụ tại các vùng Quảng Tây, Hồ Nam và Quý Châu."
+            ],
+            "compound_words": {
+                "犵狫": "khất lão"
+            }
+        },
+        "ngật": {
+            "Từ điển phổ thông": [
+                "(xem: ngật lao 犵狫)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Xem “ngật lão” 仡佬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【犵狫族】Ngật Lao tộc [Gelăozú] Xem 仡 (1) (bộ 亻)."
+            ],
+            "compound_words": {
+                "犵狫": "ngật lao"
+            }
+        }
+    }
+}

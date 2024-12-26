@@ -1,0 +1,112 @@
+{
+    "character": "彷",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng",
+            "phảng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "xích 彳 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰彳方"
+        ],
+        "Nét bút": [
+            "ノノ丨丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "HOYHS (竹人卜竹尸)"
+        ],
+        "Unicode": [
+            "U+5F77"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fǎng ㄈㄤˇ",
+            "páng ㄆㄤˊ"
+        ],
+        "Âm Nôm": [
+            "bàng",
+            "phảng",
+            "phẳng",
+            "phỏng",
+            "vưởng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さまよ.う (samayo.u)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "fong2",
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển phổ thông": [
+                "(xem: bàng hoàng 彷徨)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) § Xem 'bàng hoàng' 彷徨.",
+                "(Động) § Xem 'bàng dương' 彷徉.",
+                "Một âm là 'phảng'. (Động) § Xem 'phảng phất' 彷彿."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bàng hoàng 彷徨 bàng hoàng, ý không yên định.",
+                "Bàng dương 彷徉 quanh co.",
+                "Một âm là phảng. Phảng phất 彷佛 thấy không được rõ ràng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【彷徨】bàng hoàng [pánghuáng] Do dự, lưỡng lự, dùng dằng, ngập ngừng, bàng hoàng, băn khoăn: 彷徨歧途 Băn khoăn (ngập ngừng) trước ngã ba đường."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bàng hoàng 彷偟 — Một âm là Phảng."
+            ],
+            "compound_words": {
+                "彷徉": "bàng dương",
+                "彷偟": "bàng hoàng",
+                "彷徨": "bàng hoàng"
+            }
+        },
+        "phảng": {
+            "Từ điển phổ thông": [
+                "(xem: phảng phất 彷彿)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) § Xem 'bàng hoàng' 彷徨.",
+                "(Động) § Xem 'bàng dương' 彷徉.",
+                "Một âm là 'phảng'. (Động) § Xem 'phảng phất' 彷彿."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bàng hoàng 彷徨 bàng hoàng, ý không yên định.",
+                "Bàng dương 彷徉 quanh co.",
+                "Một âm là phảng. Phảng phất 彷佛 thấy không được rõ ràng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 仿佛 [făng fú]. Xem 彷 [páng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phảng 仿."
+            ],
+            "compound_words": {
+                "彷彿": "phảng phất"
+            }
+        }
+    }
+}

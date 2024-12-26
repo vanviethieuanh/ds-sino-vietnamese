@@ -1,0 +1,103 @@
+{
+    "character": "腫",
+    "details": {
+        "Âm Hán Việt": [
+            "thũng",
+            "trũng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhục 肉 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月重"
+        ],
+        "Nét bút": [
+            "ノフ一一ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "BHJG (月竹十土)"
+        ],
+        "Unicode": [
+            "U+816B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǒng ㄓㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "sõng",
+            "sũng",
+            "thõng",
+            "thũng",
+            "thuỗn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.れる (ha.reru)",
+            "は.れ (ha.re)",
+            "は.らす (ha.rasu)",
+            "く.む (ku.mu)",
+            "はれもの (haremono)"
+        ],
+        "Âm Hàn": [
+            "종"
+        ],
+        "Âm Quảng Đông": [
+            "zung2"
+        ]
+    },
+    "meanings": {
+        "thũng": {
+            "Từ điển phổ thông": [
+                "sưng, nề, phù"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh sưng, nhọt độc. ◎Như: 'viêm thũng' 炎腫 bệnh sưng lên vì nóng sốt.",
+                "(Tính) Sưng, phù. ◎Như: 'bì phu hồng thũng' 皮膚紅腫 da ngoài sưng đỏ. ◇Lỗ Tấn 魯迅: 'Đệ nhị thiên, thũng trước nhãn tình khứ công tác' 第二天, 腫著眼睛去工作 (A Q chánh truyện 阿Q正傳) (Và) ngày hôm sau, (lại) mang cặp mắt sưng húp đi làm thuê.",
+                "(Tính) Nặng nề, to béo, thô kệch. § Xem 'ủng thũng' 擁腫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sưng, nề. Vật gì nặng nề bung sung lắm cũng gọi là ủng thũng 擁腫. Trang Tử 莊子: Ngô hữu đại thụ, nhân vị chi Vu, kì đại bản ủng thũng nhi bất trúng thằng mặc 吾有大樹，人謂之樗，其大本擁腫，而不中繩墨 tôi có một cây lớn, người ta gọi nó là cây cây xư, gốc lớn nó lồi lõm, không đúng dây mực.",
+                "Nhọt. Cũng đọc là chữ trũng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sưng, nề, phù: 紅腫 Sưng tấy; 腫處隆起 Sưng vù; 手腳浮腫 Chân tay bị phù;",
+                "Nhạt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh sưng thân người lên. Td: Phù thũng."
+            ],
+            "compound_words": {
+                "鼻青臉腫": "tỵ thanh kiểm thũng",
+                "擁腫": "ủng thũng",
+                "臃腫": "ung thũng",
+                "炎腫": "viêm thũng"
+            }
+        },
+        "trũng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh sưng, nhọt độc. ◎Như: 'viêm thũng' 炎腫 bệnh sưng lên vì nóng sốt.",
+                "(Tính) Sưng, phù. ◎Như: 'bì phu hồng thũng' 皮膚紅腫 da ngoài sưng đỏ. ◇Lỗ Tấn 魯迅: 'Đệ nhị thiên, thũng trước nhãn tình khứ công tác' 第二天, 腫著眼睛去工作 (A Q chánh truyện 阿Q正傳) (Và) ngày hôm sau, (lại) mang cặp mắt sưng húp đi làm thuê.",
+                "(Tính) Nặng nề, to béo, thô kệch. § Xem 'ủng thũng' 擁腫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sưng, nề. Vật gì nặng nề bung sung lắm cũng gọi là ủng thũng 擁腫. Trang Tử 莊子: Ngô hữu đại thụ, nhân vị chi Vu, kì đại bản ủng thũng nhi bất trúng thằng mặc 吾有大樹，人謂之樗，其大本擁腫，而不中繩墨 tôi có một cây lớn, người ta gọi nó là cây cây xư, gốc lớn nó lồi lõm, không đúng dây mực.",
+                "Nhọt. Cũng đọc là chữ trũng."
+            ]
+        }
+    }
+}

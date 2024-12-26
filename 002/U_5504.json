@@ -1,0 +1,94 @@
+{
+    "character": "唄",
+    "details": {
+        "Âm Hán Việt": [
+            "bái",
+            "bại",
+            "bối"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khẩu 口 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口貝"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RBUC (口月山金)"
+        ],
+        "Unicode": [
+            "U+5504"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ",
+            "bēi ㄅㄟ",
+            "bei"
+        ],
+        "Âm Nôm": [
+            "bái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うた (uta)",
+            "うた.う (uta.u)"
+        ],
+        "Âm Hàn": [
+            "패"
+        ],
+        "Âm Quảng Đông": [
+            "baai6"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển phổ thông": [
+                "tụng kinh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bài kinh tán thán đức hạnh chư Phật, tán tụng các bài kệ. ◇Pháp Hoa Kinh 法華經: 'Ca bái tụng Phật đức' 歌唄頌佛德 (Phương tiện phẩm đệ nhị 方便品第二) Ca tán khen ngợi đức tính của Phật. § Bên Tây-vực có cây Bái-đa, nhà Phật dùng lá nó viết kinh gọi là 'bái diệp' 唄葉, cũng gọi là 'bái-đa-la'.",
+                "(Trợ) Trợ từ cuối câu: rồi, vậy, được. ◎Như: 'giá tựu hành liễu bái' 這就行了唄 thế là được rồi.",
+                "§ Ghi chú: Còn đọc là 'bối'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tiếng Phạm, nghĩa là chúc tụng. Bên Tây-vực có cây Bái-đa, nhà Phật dùng lá nó viết kinh gọi là bái diệp 唄葉, cũng gọi là Bái-đa-la.",
+                "Canh, tăng đồ đọc canh tán tụng các câu kệ gọi là bái tán 唄讚."
+            ]
+        },
+        "bại": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng hát, tiếng ngâm."
+            ],
+            "compound_words": {
+                "唄讚": "bại tán"
+            }
+        },
+        "bối": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bài kinh tán thán đức hạnh chư Phật, tán tụng các bài kệ. ◇Pháp Hoa Kinh 法華經: 'Ca bái tụng Phật đức' 歌唄頌佛德 (Phương tiện phẩm đệ nhị 方便品第二) Ca tán khen ngợi đức tính của Phật. § Bên Tây-vực có cây Bái-đa, nhà Phật dùng lá nó viết kinh gọi là 'bái diệp' 唄葉, cũng gọi là 'bái-đa-la'.",
+                "(Trợ) Trợ từ cuối câu: rồi, vậy, được. ◎Như: 'giá tựu hành liễu bái' 這就行了唄 thế là được rồi.",
+                "§ Ghi chú: Còn đọc là 'bối'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(trợ) Rồi, vậy, được... (biểu thị sự tất nhiên, hiển nhiên): 這就行了唄 Thế là được rồi; 他不幹，咱們幹唄 Nó không làm thì chúng mình làm vậy; 記不住，多讀幾遍唄！ Không nhớ được, thì đọc thêm vài lần nữa!; 天不好，就坐車去唄！ Trời không tốt, thì cứ ngồi xe mà đi!; 好唄 Ờ được!, tốt thôi!;",
+                "(Phạn ngữ) Chúc tụng;",
+                "(Phạn ngữ) Lá bối (để viết kinh Phật): 唄葉 Lá bối."
+            ]
+        }
+    }
+}

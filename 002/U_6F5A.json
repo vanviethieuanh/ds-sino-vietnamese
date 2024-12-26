@@ -1,0 +1,75 @@
+{
+    "character": "潚",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêu",
+            "túc"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡肅"
+        ],
+        "Nét bút": [
+            "丶丶一フ一一丨ノ丨一一フフ丨一丨"
+        ],
+        "Thương Hiệt": [
+            "ELX (水中重)"
+        ],
+        "Unicode": [
+            "U+6F5A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xiāo ㄒㄧㄠ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュク (shuku)",
+            "ショウ (shō)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きよ.い (kiyo.i)"
+        ],
+        "Âm Hàn": [
+            "숙"
+        ],
+        "Âm Quảng Đông": [
+            "siu1"
+        ]
+    },
+    "meanings": {
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "sông Tiêu",
+                "mưa lất phất"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 瀟."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước trong xanh và sâu thẳm — Tên sông, tức Tiêu thuỷ, phát nguyên từ tỉnh Hồ Nam."
+            ],
+            "compound_words": {
+                "潚湘": "tiêu tương"
+            }
+        },
+        "túc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước sâu, trong xanh — Mau lẹ."
+            ]
+        }
+    }
+}

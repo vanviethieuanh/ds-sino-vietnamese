@@ -1,0 +1,89 @@
+{
+    "character": "週",
+    "details": {
+        "Âm Hán Việt": [
+            "chu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sước 辵 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶周"
+        ],
+        "Nét bút": [
+            "ノフ一丨一丨フ一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YBGR (卜月土口)"
+        ],
+        "Unicode": [
+            "U+9031"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhōu ㄓㄡ"
+        ],
+        "Âm Nôm": [
+            "châu",
+            "chu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển phổ thông": [
+                "đi khắp nơi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Năm đầy. ◎Như: 'chu niên' 週年 một năm tròn, 'chu tuế' 週歲 đầy một năm, tròn một tuổi.",
+                "(Danh) Vòng khắp. § Thông 'chu' 周.",
+                "(Danh) Tuần lễ. ◎Như: 'nhất chu' 一週 một tuần, 'chu mạt' 週末 ngày cuối tuần (thường chỉ thứ bảy).",
+                "(Tính) Mỗi tuần một lần. ◎Như: 'chu báo' 週報 tuần báo.",
+                "(Tính) Khắp cả, toàn bộ. § Thông 'chu' 周. ◎Như: 'chu thân' 週身 khắp cả người.",
+                "(Phó) Đều, khắp, phổ biến. § Thông 'chu' 周. ◎Như: 'chúng sở chu tri' 眾所週知 điều mà mọi người đều biết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vòng khắp. Cùng nghĩa với chữ chu 周.",
+                "Một tuần lễ gọi là nhất chu 一週."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 周 (bộ 口) nghĩa ,",
+                ",",
+                ";",
+                "Tuần lễ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vòng quanh — Tuần lễ ( 7 ngày ) — Cũng dùng như chữ Chu 周."
+            ],
+            "compound_words": {
+                "週報": "chu báo",
+                "週期": "chu kì",
+                "週日": "chu nhật",
+                "週年": "chu niên",
+                "週歲": "chu tuế",
+                "週围": "chu vi",
+                "週圍": "chu vi",
+                "一週": "nhất chu"
+            }
+        }
+    }
+}

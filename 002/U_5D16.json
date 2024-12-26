@@ -1,0 +1,89 @@
+{
+    "character": "崖",
+    "details": {
+        "Âm Hán Việt": [
+            "nhai"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sơn 山 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱山厓"
+        ],
+        "Nét bút": [
+            "丨フ丨一ノ一丨一一丨一"
+        ],
+        "Thương Hiệt": [
+            "UMGG (山一土土)"
+        ],
+        "Unicode": [
+            "U+5D16"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yá ㄧㄚˊ",
+            "yái ㄧㄞˊ"
+        ],
+        "Âm Nôm": [
+            "day",
+            "nhai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)",
+            "ゲ (ge)",
+            "ギ (gi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "がけ (gake)",
+            "きし (kishi)",
+            "はて (hate)"
+        ],
+        "Âm Hàn": [
+            "애",
+            "의"
+        ],
+        "Âm Quảng Đông": [
+            "ngaai4"
+        ]
+    },
+    "meanings": {
+        "nhai": {
+            "Từ điển phổ thông": [
+                "ven núi, cạnh núi, vách núi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ven núi. ◇Nguyễn Du 阮攸: 'Hồi đầu dĩ cách vạn trùng nhai' 回頭已隔萬重崖 (Vọng Quan Âm miếu 望觀音廟) Quay đầu lại đã cách núi muôn trùng.",
+                "(Danh) Bờ, ranh giới, biên tế. ◇Trang Tử 莊子: 'Kim nhĩ xuất ư nhai sĩ, quan ư đại hải' 今爾出於崖涘, 觀於大海 (Thu thủy 秋水) Nay ngươi ra khỏi bờ bến, nhìn xem biển cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ven núi, cũng như chữ nhai 厓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vách núi (như 厓, bộ 厂)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sườn núi."
+            ],
+            "compound_words": {
+                "陰崖": "âm nhai",
+                "悬崖": "huyền nhai",
+                "懸崖": "huyền nhai",
+                "崖谷": "nhai cốc",
+                "崖岸": "nhai ngạn",
+                "山崖": "sơn nhai",
+                "崇崖": "sùng nhai"
+            }
+        }
+    }
+}

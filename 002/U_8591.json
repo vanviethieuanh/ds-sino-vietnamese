@@ -1,0 +1,85 @@
+{
+    "character": "薑",
+    "details": {
+        "Âm Hán Việt": [
+            "khương"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹畺"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一丨一一丨フ一丨一一"
+        ],
+        "Thương Hiệt": [
+            "TMWM (廿一田一)"
+        ],
+        "Unicode": [
+            "U+8591"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiāng ㄐㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "cưng",
+            "gừng",
+            "khương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はじかみ (hajikami)"
+        ],
+        "Âm Hàn": [
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "goeng1"
+        ]
+    },
+    "meanings": {
+        "khương": {
+            "Từ điển phổ thông": [
+                "cây gừng",
+                "họ Khương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây gừng (lat. Zingiber officinale). ◇Lễ Kí 禮記: 'Tiết quế dữ khương' 屑桂與薑 (Nội tắc 內則) Nghiền quế với gừng.",
+                "(Danh) Họ 'Khương'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây gừng.",
+                "Họ Khương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Củ) gừng: 薑湯 Nước gừng;",
+                "[Jiang] (Họ) Khương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây gừng — Củ gừng."
+            ],
+            "compound_words": {
+                "乾薑": "can khương",
+                "薑黃": "khương hoàng",
+                "薑桂": "khương quế",
+                "生薑": "sinh khương"
+            }
+        }
+    }
+}

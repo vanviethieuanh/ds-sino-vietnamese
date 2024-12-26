@@ -1,0 +1,97 @@
+{
+    "character": "股",
+    "details": {
+        "Âm Hán Việt": [
+            "cổ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月殳"
+        ],
+        "Nét bút": [
+            "ノフ一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "BHNE (月竹弓水)"
+        ],
+        "Unicode": [
+            "U+80A1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gǔ ㄍㄨˇ"
+        ],
+        "Âm Nôm": [
+            "cổ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "また (mata)",
+            "もも (momo)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu2"
+        ]
+    },
+    "meanings": {
+        "cổ": {
+            "Từ điển phổ thông": [
+                "nét dọc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đùi, vế.",
+                "(Danh) Phần, bộ phận. § Đùi vế là một bộ phận trong thân thể, cho nên một bộ phận của một sự gì gọi là 'cổ'. ◎Như: 'hợp cổ' 合股 góp phần vốn, góp cổ phần.",
+                "(Danh) § Xem 'câu cổ' 勾股.",
+                "(Danh) Lượng từ: làn, mớ, luồng, cánh, toán. ◎Như: 'nhất cổ u hương' 一股幽香 một làn hương kín đáo, 'nhất cổ đầu phát' 一股頭髮 một mớ tóc, 'nhất cổ binh' 一股兵 một cánh quân. ◇Tây du kí 西遊記: 'Giá cổ thủy bất tri thị na lí đích thủy' 這股水不知是那裏的水 (Đệ nhất hồi) Dòng nước này không biết chảy từ đâu tới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðùi vế.",
+                "Ðùi vế là một bộ phận trong thân thể, cho nên một bộ phận của một sự gì gọi là cổ. Như một cánh quân gọi là nhất cổ binh 一股兵, mấy người góp vốn buôn chung gọi là hợp cổ 合股.",
+                "Câu cổ 勾股 trong hình tam giác vuông, bề ngang ngắn gọi là câu 勾, bề dọc dài gọi là cổ 股, cạnh dài nhất đối diện với góc vuông gọi là huyền 弦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đùi;",
+                "Phần, bộ phận: 按股均分 Chia đều ra thành từng phần một; 入股 Góp cổ phần;",
+                "(loại) Làn, mớ, luồng, cánh, toán: 一股熱氣 Một làn hơi nóng; 一股頭髮 Một mớ tóc; 一股道 Một con đường (nẻo đường); 一股力量 Một luồng sức mạnh; 一 股兵 Một toán quân;",
+                "【勾股形】câu cổ hình [gougưxíng] (toán) Hình tam giác thẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đùi. Cái vế — Một thành phần."
+            ],
+            "compound_words": {
+                "八股": "bát cổ",
+                "勾股": "câu cổ",
+                "錐股": "chuỳ cổ",
+                "股本": "cổ bản",
+                "股戰": "cổ chiến",
+                "股骨": "cổ cốt",
+                "股東": "cổ đông",
+                "股份": "cổ phần",
+                "股分": "cổ phần",
+                "股票": "cổ phiếu",
+                "股肱": "cổ quăng",
+                "股息": "cổ tức",
+                "屁股": "thí cổ",
+                "刺股": "thích cổ"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "娉",
+    "details": {
+        "Âm Hán Việt": [
+            "phinh",
+            "sính"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nữ 女 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女甹"
+        ],
+        "Nét bút": [
+            "フノ一丨フ一丨一一フ"
+        ],
+        "Thương Hiệt": [
+            "VLWS (女中田尸)"
+        ],
+        "Unicode": [
+            "U+5A09"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "pīng ㄆㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "sính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ (ho)"
+        ],
+        "Âm Hàn": [
+            "빙"
+        ],
+        "Âm Quảng Đông": [
+            "ping1"
+        ]
+    },
+    "meanings": {
+        "phinh": {
+            "Từ điển phổ thông": [
+                "con gái đẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “phinh đình” 娉婷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phinh đình 娉婷 dáng đẹp, mặt đẹp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【娉婷】 sính đình [pingtíng] (văn) Dáng đẹp (của người con gái)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phinh đình 娉婷: Vẻ đẹp đẽ của con gái — Một âm là Sính. Xem Sính."
+            ],
+            "compound_words": {
+                "娉婷": "phinh đình"
+            }
+        },
+        "sính": {
+            "Từ điển Trần Văn Chánh": [
+                "【娉婷】 sính đình [pingtíng] (văn) Dáng đẹp (của người con gái)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏi — Hỏi vợ. Dùng như chữ Sính 聘."
+            ],
+            "compound_words": {
+                "娉會": "sính hội"
+            }
+        }
+    }
+}

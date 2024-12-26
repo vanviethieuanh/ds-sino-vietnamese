@@ -1,0 +1,112 @@
+{
+    "character": "扇",
+    "details": {
+        "Âm Hán Việt": [
+            "phiến",
+            "thiên"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hộ 戶 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸户羽"
+        ],
+        "Nét bút": [
+            "丶フ一ノフ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "HSSMM (竹尸尸一一)"
+        ],
+        "Unicode": [
+            "U+6247"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ",
+            "shàn ㄕㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phiến",
+            "thiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おうぎ (ōgi)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "sin3"
+        ]
+    },
+    "meanings": {
+        "phiến": {
+            "Từ điển phổ thông": [
+                "cánh cửa",
+                "cái quạt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cánh cửa. ◇Tây du kí 西遊記: 'Trực đáo binh khí quán, vũ khố trung, đả khai môn phiến' 直到兵器館, 武庫中, 打開門扇 (Đệ tam hồi) Thẳng tới chỗ để binh khí, trong kho vũ khí, mở toang cửa ra.",
+                "(Danh) Cái quạt. ◇Tô Thức 蘇軾: 'Vũ phiến luân cân' 羽扇綸巾 (Niệm nô kiều 念奴嬌) Quạt lông khăn là.",
+                "Một âm là 'thiên'. (Động) Quạt. § Cũng như 'thiên' 煽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cánh cửa.",
+                "Cái quạt.",
+                "Một âm là thiên. Quạt mát, cùng nghĩa như chữ 煽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái quạt: 蒲扇 Quạt cói; 電扇 Quạt điện;",
+                "Quạt mát (như 煽, bộ 火);",
+                "(loại) Cánh (cửa), cái...: 一扇門 Một cánh cửa; 一扇磨 Một cái cối xay. Xem 煽 [shan] (bộ 火)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cánh cửa — Cái quạt — Quạt mát — Quạt cho cháy bùng lên. Làm bùng dậy — Kiều dĩ thủ trung kim phiến tụ nội cẩm thoa đáp chi 翹以手中金扇袖内錦釵答之: ( Thanh Tâm Tài Nhân ). Kiều lấy cái quạt cầm sẵn ở tay và cái khăn ở trong ống tay áo cùng chiếc thoa mà đáp lại: » Sẵn tay khăn gấm quạt quì « ( Kiều )."
+            ],
+            "compound_words": {
+                "波扇": "ba phiến",
+                "蒲扇": "bồ phiến",
+                "摺扇": "chiếp phiến",
+                "障扇": "chướng phiến",
+                "電扇": "điện phiến",
+                "紈扇": "hoàn phiến",
+                "扇誘": "phiến dụ",
+                "扇揚": "phiến dương",
+                "扇動": "phiến động",
+                "扇形": "phiến hình",
+                "扇惑": "phiến hoặc",
+                "扇亂": "phiến loạn",
+                "扇馬": "phiến mã",
+                "葵扇": "quỳ phiến",
+                "羽扇": "vũ phiến",
+                "腰扇": "yêu phiến"
+            }
+        },
+        "thiên": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cánh cửa. ◇Tây du kí 西遊記: 'Trực đáo binh khí quán, vũ khố trung, đả khai môn phiến' 直到兵器館, 武庫中, 打開門扇 (Đệ tam hồi) Thẳng tới chỗ để binh khí, trong kho vũ khí, mở toang cửa ra.",
+                "(Danh) Cái quạt. ◇Tô Thức 蘇軾: 'Vũ phiến luân cân' 羽扇綸巾 (Niệm nô kiều 念奴嬌) Quạt lông khăn là.",
+                "Một âm là 'thiên'. (Động) Quạt. § Cũng như 'thiên' 煽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cánh cửa.",
+                "Cái quạt.",
+                "Một âm là thiên. Quạt mát, cùng nghĩa như chữ 煽."
+            ]
+        }
+    }
+}

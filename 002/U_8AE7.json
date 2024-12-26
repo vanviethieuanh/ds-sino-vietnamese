@@ -1,0 +1,95 @@
+{
+    "character": "諧",
+    "details": {
+        "Âm Hán Việt": [
+            "hài"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言皆"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一フノフノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "YRPPA (卜口心心日)"
+        ],
+        "Unicode": [
+            "U+8AE7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xié ㄒㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "giai",
+            "hài"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かな.う (kana.u)",
+            "やわ.らぐ (yawa.ragu)"
+        ],
+        "Âm Hàn": [
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "haai4"
+        ]
+    },
+    "meanings": {
+        "hài": {
+            "Từ điển phổ thông": [
+                "hoà hợp, hài hoà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hòa hợp, điều hòa. ◎Như: 'âm vận hòa hài' 音韻和諧 âm vận hòa hợp.",
+                "(Động) Xong, kết thúc. ◇Đổng tây sương 董西廂: 'Sự tất hài hĩ' 事必諧矣 (Quyển tam) Việc ắt xong xuôi.",
+                "(Động) Thương nghị, thỏa thuận. ◎Như: 'hài giá' 諧價 thỏa thuận giá cả.",
+                "(Động) Biện biệt. ◇Liệt Tử 列子: 'Dư nhất nhân bất doanh ư đức nhi hài ư lạc, hậu thế kì truy sổ ngô quá hồ!' 予一人不盈於德而諧於樂, 後世其追數吾過乎! (Chu Mục vương 周穆王) Ta không biết tu dưỡng đạo đức mà chỉ lo tìm hưởng thú vui sung sướng, người đời sau có lẽ sẽ trách lỗi lầm của ta!",
+                "(Động) Đối chiếu. ◇Vương Sung 王充: 'Hài ư kinh bất nghiệm, tập ư truyện bất hợp' 諧於經不驗, 集於傳不合 (Luận hành 論衡, Tự kỉ 自紀).",
+                "(Tính) Hí hước, hoạt kê. ◎Như: 'khôi hài' 詼諧 hài hước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hoà hợp. Như âm điệu ăn nhịp nhau gọi là hài thanh 諧聲, mua hàng ngã giá rồi gọi là hài giá 諧價.",
+                "Sự đã xong cũng gọi là hài.",
+                "Hài hước. Như khôi hài 詼諧 hài hước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hài hoà, hoà hợp, chan hoà, ổn thoả: 諧音 Âm điệu hài hoà;",
+                "Hài hước, khôi hài: 詼諧 Khôi hài;",
+                "Xong xuôi, kết thúc: 事諧之後，我們將前往韓國 Sau khi xong việc, chúng tôi sẽ đi Hàn Quốc; 諧價 Giá đã ngã xong (đã thoả thuận)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hoà hợp. Cũng nói là Hoà hài — Lời nói nói bông đùa, riễu cợt, chọc cười."
+            ],
+            "compound_words": {
+                "俳諧": "bài hài",
+                "弻諧": "bật hài",
+                "緣諧": "duyên hài",
+                "諧音": "hài âm",
+                "諧和": "hài hoà",
+                "諧謔": "hài hước",
+                "諧劇": "hài kịch",
+                "諧聲": "hài thanh",
+                "和諧": "hoà hài",
+                "詼諧": "khôi hài"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "character": "煤",
+    "details": {
+        "Âm Hán Việt": [
+            "môi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoả 火 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火某"
+        ],
+        "Nét bút": [
+            "丶ノノ丶一丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "FTMD (火廿一木)"
+        ],
+        "Unicode": [
+            "U+7164"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "méi ㄇㄟˊ"
+        ],
+        "Âm Nôm": [
+            "mai",
+            "môi",
+            "muồi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)",
+            "マイ (mai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すす (susu)"
+        ],
+        "Âm Hàn": [
+            "매"
+        ],
+        "Âm Quảng Đông": [
+            "mui4"
+        ]
+    },
+    "meanings": {
+        "môi": {
+            "Từ điển phổ thông": [
+                "than đá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Than đá. § Cây cối đổ nát bị đất đè lên, lâu ngày thành ra than dắn như đá, sức lửa rất mạnh gọi là “môi”. ◎Như: “môi khoáng” 煤礦 mỏ than."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Than mỏ, than đá. Cây cối đổ nát bị đất đè lên, lâu ngày đông lại thành ra than rắn như đá, sức lửa rất mạnh gọi là môi.",
+                "Khói bốc lên đóng ở trên mái nhà gọi là môi đài 煤炱 (mồ hóng)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Than đá;",
+                "Xem 炱."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Than đá. Than mỏ."
+            ],
+            "compound_words": {
+                "白煤": "bạch môi",
+                "煤窰": "môi diêu",
+                "煤油": "môi du",
+                "煤田": "môi điền",
+                "煤氣": "môi khí",
+                "煤礦": "môi khoáng",
+                "採煤": "thái môi",
+                "采煤": "thái môi"
+            }
+        }
+    }
+}

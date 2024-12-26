@@ -1,0 +1,82 @@
+{
+    "character": "见",
+    "details": {
+        "Âm Hán Việt": [
+            "hiện",
+            "kiến"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "kiến 見 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "BLU (月中山)"
+        ],
+        "Unicode": [
+            "U+89C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ",
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hiện",
+            "kiến"
+        ],
+        "Âm Quảng Đông": [
+            "gin3"
+        ]
+    },
+    "meanings": {
+        "hiện": {
+            "Từ điển phổ thông": [
+                "tỏ rõ, hiện ra"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 見."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tỏ rõ, hiện ra (dùng như 現, bộ 玉): 天下有道則見 Thiên hạ có đạo thì ra làm quan để được vẻ vang;",
+                "Tiến cử;",
+                "Đồ trang sức ngoài quan tài."
+            ],
+            "compound_words": {
+                "可见": "khả hiện"
+            }
+        },
+        "kiến": {
+            "Từ điển phổ thông": [
+                "gặp, thấy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 見."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 見"
+            ],
+            "compound_words": {
+                "拜见": "bái kiến",
+                "不见棺材不落泪": "bất kiến quan tài bất lạc lệ",
+                "会见": "hội kiến",
+                "见识": "kiến thức",
+                "梦见": "mộng kiến",
+                "再见": "tái kiến",
+                "意见": "ý kiến"
+            }
+        }
+    }
+}

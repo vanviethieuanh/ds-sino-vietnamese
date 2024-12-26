@@ -1,0 +1,84 @@
+{
+    "character": "嚇",
+    "details": {
+        "Âm Hán Việt": [
+            "hách"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "khẩu 口 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口赫"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一ノ丨ノ丶一丨一ノ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RGCC (口土金金)"
+        ],
+        "Unicode": [
+            "U+5687"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hè ㄏㄜˋ",
+            "xià ㄒㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "hách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おど.かす (odo.kasu)"
+        ],
+        "Âm Hàn": [
+            "하",
+            "혁"
+        ],
+        "Âm Quảng Đông": [
+            "haak1",
+            "haak3"
+        ]
+    },
+    "meanings": {
+        "hách": {
+            "Từ điển phổ thông": [
+                "dọa nạt, đe doạ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dọa nạt. ◇Cù Hựu 瞿佑: 'Vị thập ma kinh thường dụng vũ lực họa hại khủng hách nhân?' 為什麼經常用武力禍害恐嚇人 (Vĩnh Châu dã miếu kí 永州野廟記) Tại sao lại cứ dùng võ lực làm hại và dọa nạt người ta?",
+                "(Động) Hoảng sợ, kinh hãi. ◎Như: 'kinh hách' 驚嚇 hoảng sợ. ◇Thủy hử truyện 水滸傳: 'Hách đích hoảng liễu, thủ cước tẩu bất động' 嚇的慌了, 手腳走不動 (Đệ thập hồi) Hoảng sợ quá, tay chân cứng đờ (không động đậy được).",
+                "(Thán) Biểu thị kinh hãi hay trầm trồ (khen ngợi). ◎Như: 'hách, giá đại hạ hảo cao nga!' 嚇, 這大廈好高哦 chu choa, cái nhà lớn này cao thật!",
+                "(Thán) Biểu thị không vừa lòng hoặc nghi vấn. ◎Như: 'hách, chẩm ma năng giá dạng ni' 嚇, 怎麼能這樣呢 ấy! làm sao lại thế?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Doạ nạt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Doạ, doạ dẫm, làm cho khiếp sợ: 這種困難嚇不倒我們 Khó khăn này không thể làm cho chúng tôi khiếp sợ. Xem 嚇 [hè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng miệng lưỡi mà chống cự lại kẻ khác — Rất sợ hãi — Tiếng cười khanh khách. Cũng nói là Hách hách."
+            ],
+            "compound_words": {
+                "震嚇": "chấn hách",
+                "恫嚇": "đỗng hách",
+                "嚇唬": "hách hách",
+                "恐嚇": "khủng hách"
+            }
+        }
+    }
+}

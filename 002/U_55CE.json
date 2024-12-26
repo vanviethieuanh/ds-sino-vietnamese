@@ -1,0 +1,93 @@
+{
+    "character": "嗎",
+    "details": {
+        "Âm Hán Việt": [
+            "ma",
+            "mạ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khẩu 口 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口馬"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "RSQF (口尸手火)"
+        ],
+        "Unicode": [
+            "U+55CE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ",
+            "má ㄇㄚˊ",
+            "mǎ ㄇㄚˇ",
+            "ma"
+        ],
+        "Âm Nôm": [
+            "ma",
+            "mắng",
+            "mỉa",
+            "mớ",
+            "mứa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バ (ba)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ののし.る (nonoshi.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "maa1",
+            "maa3",
+            "maa5"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "gì, nào (trợ ngữ trong câu hỏi)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Mạ phê' 嗎啡 chất lấy ở thuốc phiện ra, rất độc (tiếng Pháp: morphine).",
+                "(Trợ) Biểu thị nghi vấn. § Cũng như 'ma' 麼. ◎Như: 'thị điện thoại hoại liễu ma?' 是電話壞了嗎? điện thoại hư rồi sao?"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【嗎啡】ma phi [măfei] (dược) Moócphin (Mor-phine). Xem [má], 嗎 [ma]."
+            ]
+        },
+        "mạ": {
+            "Từ điển phổ thông": [
+                "(xem: mạ phê 嗎啡,吗啡)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Mạ phê' 嗎啡 chất lấy ở thuốc phiện ra, rất độc (tiếng Pháp: morphine).",
+                "(Trợ) Biểu thị nghi vấn. § Cũng như 'ma' 麼. ◎Như: 'thị điện thoại hoại liễu ma?' 是電話壞了嗎? điện thoại hư rồi sao?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mạ phê 嗎啡 chất lấy ở thuốc phiện ra rất độc (morphine).",
+                "Tục dùng làm tiếng giúp lời, cũng như chữ 麼."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng trợ từ cuối câu dùng để hỏi ( dùng trong văn bạch thoại ) ."
+            ],
+            "compound_words": {
+                "嗎啡": "mạ phê"
+            }
+        }
+    }
+}

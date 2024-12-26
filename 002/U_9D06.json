@@ -1,0 +1,87 @@
+{
+    "character": "鴆",
+    "details": {
+        "Âm Hán Việt": [
+            "chậm",
+            "trấm",
+            "trậm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰冘鳥"
+        ],
+        "Nét bút": [
+            "丶フノフノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "LUHAF (中山竹日火)"
+        ],
+        "Unicode": [
+            "U+9D06"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhèn ㄓㄣˋ"
+        ],
+        "Âm Nôm": [
+            "chũm",
+            "trấm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チン (chin)"
+        ],
+        "Âm Hàn": [
+            "짐"
+        ],
+        "Âm Quảng Đông": [
+            "zam6"
+        ]
+    },
+    "meanings": {
+        "chậm": {
+            "Từ điển phổ thông": [
+                "loài chim độc",
+                "rượu có độc"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một loài chim rất độc, ngày xưa bảo lấy cánh nó khuấy vào rượu uống thì chết ngay.",
+                "Rượu có chất độc. Như chậm độc 鴆酒 rượu độc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một loài chim độc;",
+                "Rượu có chất độc."
+            ],
+            "compound_words": {
+                "鴆酒": "chậm tửu"
+            }
+        },
+        "trấm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài chim, lông có chất cực độc. Nhưng lông chim này vào rượu mà uống tất chết — Dùng như chữ Trấm 酖."
+            ]
+        },
+        "trậm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một loài chim rất độc. § Ngày xưa bảo lấy cánh nó khuấy vào rượu uống thì chết ngay.",
+                "(Danh) Rượu có chất độc. § Thông 酖. ◎Như: 'trậm độc' 鴆酒 rượu độc.",
+                "(Động) Dùng rượu độc hại người. ◇Tam quốc diễn nghĩa 三國演義: 'Hà hậu tật đố, trậm sát Vương Mĩ Nhân' 何后嫉妒, 鴆殺王美人 (Đệ nhị hồi) Hà hậu ghen ghét, dùng rượu độc giết Vương Mĩ Nhân."
+            ],
+            "compound_words": {
+                "飲鴆止渴": "ẩm trậm chỉ khát"
+            }
+        }
+    }
+}

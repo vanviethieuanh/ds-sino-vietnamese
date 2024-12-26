@@ -1,0 +1,89 @@
+{
+    "character": "讒",
+    "details": {
+        "Âm Hán Việt": [
+            "sàm"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "ngôn 言 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言毚"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノフ丨フ一一フノフノフ丨フ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "YRNRI (卜口弓口戈)"
+        ],
+        "Unicode": [
+            "U+8B92"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ"
+        ],
+        "Âm Nôm": [
+            "gièm",
+            "sàm",
+            "sòm",
+            "sồm",
+            "sờm",
+            "xàm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザン (zan)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そし.る (soshi.ru)"
+        ],
+        "Âm Hàn": [
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "caam4"
+        ]
+    },
+    "meanings": {
+        "sàm": {
+            "Từ điển phổ thông": [
+                "nói xấu, gièm pha"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Gièm pha, nói xấu. ◇Phạm Trọng Yêm 范仲淹: “Ưu sàm úy ki” 憂讒畏譏 (Nhạc Dương Lâu kí 岳陽樓記) Lo sợ bị gièm chê."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gièm pha, thêu dệt các lời nói bậy làm cho mất cái hay cái phải của người đi gọi là sàm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói xấu, gièm pha: 登斯樓也，則有去國懷鄉，憂讒畏譏 Khi lên lầu này thì có tâm trạng của người xa nước, nhớ làng, lo gièm, sợ chê (Phạm Trọng Yêm: Nhạc Dương lâu kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói xấu người khác. Truyện  Nhị độ mai  có câu: » Miệng sàm dệt gấm thêu hoa «."
+            ],
+            "compound_words": {
+                "讒謗": "sàm báng",
+                "讒間": "sàm gián",
+                "讒陷": "sàm hãm",
+                "讒毁": "sàm huỷ",
+                "讒口": "sàm khẩu",
+                "讒言": "sàm ngôn",
+                "讒諂": "sàm siểm",
+                "讒疾": "sàm tật",
+                "讒誣": "sàm vu"
+            }
+        }
+    }
+}

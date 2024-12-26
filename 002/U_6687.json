@@ -1,0 +1,95 @@
+{
+    "character": "暇",
+    "details": {
+        "Âm Hán Việt": [
+            "hạ",
+            "xuyết"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhật 日 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日叚"
+        ],
+        "Nét bút": [
+            "丨フ一一フ一丨一一フ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "ARYE (日口卜水)"
+        ],
+        "Unicode": [
+            "U+6687"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiá ㄒㄧㄚˊ",
+            "xià ㄒㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "há"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひま (hima)",
+            "いとま (itoma)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "haa6"
+        ]
+    },
+    "meanings": {
+        "hạ": {
+            "Từ điển phổ thông": [
+                "rảnh rỗi",
+                "thôi, nghỉ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nhàn rỗi. ◎Như: 'hạ nhật' 暇日 ngày rảnh.",
+                "(Danh) Lúc vô sự, sự rảnh rỗi. ◎Như: 'vô hạ cập thử' 無暇及此 không rỗi đâu lo tới sự ấy. ◇Liêu trai chí dị 聊齋志異: 'Hạ hạnh kiến cố' 暇幸見顧 (Đinh Tiền Khê 丁前溪) Khi nào rảnh xin đến thăm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhàn rỗi.",
+                "Lúc vô sự, như hạ nhật 暇日 lúc không bận có việc gì, vô hạ cập thử 無暇及此 không rỗi đâu tới sự ấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhàn hạ, nhàn, rỗi rảnh, rỗi rãi, rảnh việc: 無暇 Không được rỗi; 工餘之暇 Lúc nhàn rỗi sau giờ làm; 暇日 Ngày rảnh việc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rảnh rang, nhàn rỗi. Ta vẫn nói Nhàn hạ."
+            ],
+            "compound_words": {
+                "不暇": "bất hạ",
+                "逸暇": "dật hạ",
+                "餘暇": "dư hạ",
+                "休暇": "hưu hạ",
+                "空暇": "không hạ",
+                "閒暇": "nhàn hạ",
+                "闲暇": "nhàn hạ",
+                "天南餘暇集": "thiên nam dư hạ tập",
+                "應接不暇": "ứng tiếp bất hạ"
+            }
+        },
+        "xuyết": {
+            "Từ điển phổ thông": [
+                "rảnh rỗi",
+                "thôi, nghỉ"
+            ]
+        }
+    }
+}

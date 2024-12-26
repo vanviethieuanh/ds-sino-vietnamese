@@ -1,0 +1,78 @@
+{
+    "character": "棵",
+    "details": {
+        "Âm Hán Việt": [
+            "khoã",
+            "khoả"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木果"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DWD (木田木)"
+        ],
+        "Unicode": [
+            "U+68F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kē ㄎㄜ",
+            "kě ㄎㄜˇ",
+            "kuǎn ㄎㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "khoả",
+            "quả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きぎれ (kigire)"
+        ],
+        "Âm Quảng Đông": [
+            "fo1",
+            "fo2",
+            "po1"
+        ]
+    },
+    "meanings": {
+        "khoã": {
+            "Từ điển Thiều Chửu": [
+                "① Một cây, một gốc."
+            ]
+        },
+        "khoả": {
+            "Từ điển phổ thông": [
+                "một cây, một gốc (dùng để đếm cây)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Lượng từ: cây, gốc, ngọn. ◎Như: “tam khỏa mẫu đan” 三棵牡丹 ba cây mẫu đơn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(loại) Cây, gốc, ngọn: 三棵牡丹 Ba cây mẫu đơn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng dùng để đếm số cây cối. Td: Nhất khoả 一棵 ( một gốc, một cây )."
+            ]
+        }
+    }
+}

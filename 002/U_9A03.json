@@ -1,0 +1,100 @@
+{
+    "character": "騃",
+    "details": {
+        "Âm Hán Việt": [
+            "ngai",
+            "ngãi",
+            "ngốc",
+            "sĩ"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mã 馬 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬矣"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶フ丶ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SFIOK (尸火戈人大)"
+        ],
+        "Unicode": [
+            "U+9A03"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ái ㄚㄧˊ",
+            "dāi ㄉㄞ"
+        ],
+        "Âm Nôm": [
+            "ngãi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)",
+            "シ (shi)",
+            "イ (i)",
+            "ギ (gi)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おろ.か (oro.ka)"
+        ],
+        "Âm Hàn": [
+            "애"
+        ],
+        "Âm Quảng Đông": [
+            "ngoi4"
+        ]
+    },
+    "meanings": {
+        "ngai": {
+            "Từ điển phổ thông": [
+                "ngây ngô, ngớ ngẩn, ngu đần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Lẩn thẩn, ngu ngốc. ◎Như: 'si ngãi' 痴騃 ngu đần.",
+                "§ Ghi chú: Có khi đọc là 'ngai'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lẩn thẩn, ngu ngốc. Có khi đọc là chữ ngai."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngu đần, ngu xuẩn, xuẩn ngốc, lần thần (như 呆nghĩa ①, bộ 犬)."
+            ]
+        },
+        "ngãi": {
+            "Từ điển trích dẫn": [
+                "(Tính) Lẩn thẩn, ngu ngốc. ◎Như: 'si ngãi' 痴騃 ngu đần.",
+                "§ Ghi chú: Có khi đọc là 'ngai'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lẩn thẩn, ngu ngốc. Có khi đọc là chữ ngai."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ ngu dốt, đàn độn, không biết gì — Một âm là Sĩ. Xem Sĩ."
+            ]
+        },
+        "ngốc": {
+            "Từ điển phổ thông": [
+                "ngây ngô, ngớ ngẩn, ngu đần"
+            ]
+        },
+        "sĩ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng ngựa chạy mạnh mẽ — Một âm khác là Ngãi ( ngu dốt, không biết gì )."
+            ]
+        }
+    }
+}

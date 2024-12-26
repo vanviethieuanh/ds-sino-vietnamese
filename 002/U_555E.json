@@ -1,0 +1,161 @@
+{
+    "character": "啞",
+    "details": {
+        "Âm Hán Việt": [
+            "a",
+            "nha",
+            "nhạ",
+            "á",
+            "ách"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口亞"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一フフ一丨一"
+        ],
+        "Thương Hiệt": [
+            "RMLM (口一中一)"
+        ],
+        "Unicode": [
+            "U+555E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "è",
+            "yā ㄧㄚ",
+            "yǎ ㄧㄚˇ"
+        ],
+        "Âm Nôm": [
+            "á",
+            "ớ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ア (a)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おし (oshi)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "aa1",
+            "aa2",
+            "ak1"
+        ]
+    },
+    "meanings": {
+        "a": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 呀 [ya]. Xem 啞 [yă]."
+            ],
+            "compound_words": {
+                "啞嘔": "nha ẩu",
+                "啞啞": "nha nha"
+            }
+        },
+        "nha": {
+            "Từ điển phổ thông": [
+                "(xem: nha ẩu 啞嘔,哑呕)",
+                "(xem: nha nha 啞啞,哑哑)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Ha hả, sằng sặc (tiếng cười). ◎Như: 'tiếu ngôn ách ách' 笑言啞啞 nói cười ha hả.",
+                "Một âm là 'á'. (Tính) Câm. ◎Như: 'á tử' 啞子 kẻ câm.",
+                "(Tính) Khản (cổ). ◎Như: 'sa á' 沙啞 khản giọng, khản cổ, 'tảng tử đô hảm á liễu' 嗓子都喊啞了 gọi khản cả cổ.",
+                "Lại một âm là 'nha'. (Trạng thanh) (1) Tiếng bập bẹ. ◎Như: 'nha ẩu' 啞嘔 bập bẹ (học nói). (2) 'Nha nha' 啞啞 tiếng chim kêu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ách ách 啞啞 tiếng cười sằng sặc.",
+                "Một âm là á. Câm. Á tử 啞子 kẻ câm.",
+                "Lại một âm là nha. Nha ẩu 啞嘔 bập bẹ (học nói).",
+                "Nha nha 啞啞 tiếng chim kêu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bi bô » chỉ đứa trẻ đang tập nói « Cũng nói: Nha nha — Các âm khác là Ách, Nhạ, Á. Xem các âm này."
+            ],
+            "compound_words": {
+                "啞嘔": "nha ẩu",
+                "啞啞": "nha nha"
+            }
+        },
+        "nhạ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhạ nhạ: — Tiếng cười — Tiếng chim hót — Tiếng than thở — Các âm khác là Á, Ách, Nha. Xem các âm này."
+            ]
+        },
+        "á": {
+            "Từ điển phổ thông": [
+                "câm",
+                "khàn, khản"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Ha hả, sằng sặc (tiếng cười). ◎Như: 'tiếu ngôn ách ách' 笑言啞啞 nói cười ha hả.",
+                "Một âm là 'á'. (Tính) Câm. ◎Như: 'á tử' 啞子 kẻ câm.",
+                "(Tính) Khản (cổ). ◎Như: 'sa á' 沙啞 khản giọng, khản cổ, 'tảng tử đô hảm á liễu' 嗓子都喊啞了 gọi khản cả cổ.",
+                "Lại một âm là 'nha'. (Trạng thanh) (1) Tiếng bập bẹ. ◎Như: 'nha ẩu' 啞嘔 bập bẹ (học nói). (2) 'Nha nha' 啞啞 tiếng chim kêu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ách ách 啞啞 tiếng cười sằng sặc.",
+                "Một âm là á. Câm. Á tử 啞子 kẻ câm.",
+                "Lại một âm là nha. Nha ẩu 啞嘔 bập bẹ (học nói).",
+                "Nha nha 啞啞 tiếng chim kêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Câm: 聾啞Câm điếc;",
+                "Khản (cổ): 沙啞 Khản giọng, khản cổ; 嗓子都喊啞了 Gọi khản cả cổ;",
+                "(văn) Tiếng bập bẹ (của trẻ con): 啞嘔 Bập bẹ (học nói);",
+                "(văn) Tiếng cười;",
+                "(văn) Tiếng chim kêu;",
+                "Trợ từ dùng ở cuối câu. Xem 啞 [ya]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Câm, không nói được — Các âm khác là Ách, Nha, Nhạ."
+            ],
+            "compound_words": {
+                "啞子吃黃連": "á tử cật hoàng liên",
+                "喑啞": "ấm á",
+                "喑啞叱咤": "ấm á sất sá",
+                "嘔啞": "âu ách"
+            }
+        },
+        "ách": {
+            "Từ điển phổ thông": [
+                "tiếng cười sằng sặc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Ha hả, sằng sặc (tiếng cười). ◎Như: 'tiếu ngôn ách ách' 笑言啞啞 nói cười ha hả.",
+                "Một âm là 'á'. (Tính) Câm. ◎Như: 'á tử' 啞子 kẻ câm.",
+                "(Tính) Khản (cổ). ◎Như: 'sa á' 沙啞 khản giọng, khản cổ, 'tảng tử đô hảm á liễu' 嗓子都喊啞了 gọi khản cả cổ.",
+                "Lại một âm là 'nha'. (Trạng thanh) (1) Tiếng bập bẹ. ◎Như: 'nha ẩu' 啞嘔 bập bẹ (học nói). (2) 'Nha nha' 啞啞 tiếng chim kêu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ách ách 啞啞 tiếng cười sằng sặc.",
+                "Một âm là á. Câm. Á tử 啞子 kẻ câm.",
+                "Lại một âm là nha. Nha ẩu 啞嘔 bập bẹ (học nói).",
+                "Nha nha 啞啞 tiếng chim kêu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng cười ằng ặc — Các âm khác là Á, Nha, Nhạ."
+            ],
+            "compound_words": {
+                "嘔啞": "âu ách"
+            }
+        }
+    }
+}

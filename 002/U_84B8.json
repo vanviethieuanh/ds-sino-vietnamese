@@ -1,0 +1,111 @@
+{
+    "character": "蒸",
+    "details": {
+        "Âm Hán Việt": [
+            "chưng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoả 火 (+9 nét)",
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹烝"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨フノ丶一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TNEF (廿弓水火)"
+        ],
+        "Unicode": [
+            "U+84B8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhēng ㄓㄥ"
+        ],
+        "Âm Nôm": [
+            "chưng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "む.す (mu.su)",
+            "む.れる (mu.reru)",
+            "む.らす (mu.rasu)"
+        ],
+        "Âm Hàn": [
+            "증"
+        ],
+        "Âm Quảng Đông": [
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "chưng": {
+            "Từ điển phổ thông": [
+                "lũ, bọn",
+                "hơi nóng bốc lên",
+                "hương lên, đùn đùn",
+                "cây gai róc vỏ",
+                "ngọn đuốc",
+                "củi nhỏ",
+                "lễ tế chưng (vào mùa đông)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bốc hơi. ◎Như: 'chưng phát' 蒸發 bốc hơi.",
+                "(Động) Chưng, cất, hấp. ◎Như: 'chưng ngư' 蒸魚 hấp cá.",
+                "(Danh) Cây gai róc vỏ.",
+                "(Danh) Đuốc.",
+                "(Danh) Củi nhỏ.",
+                "(Danh) Tế 'chưng' (tế về mùa đông).",
+                "(Tính) Lũ, bọn, đông đúc. ◎Như: 'chưng dân' 蒸民 lũ dân, trăm họ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lũ, bọn. Như chưng dân 蒸民.",
+                "Hơi nóng bốc lên. Như uất chưng 鬱蒸 nung nấu, viêm chưng 炎蒸 nóng ngùn ngụt, v.v.",
+                "Hướng lên, đùn đùn. Như chưng chưng nhật thượng 蒸蒸日上 đùn đùn ngày tiến lên, ý nói là chăm chỉ tu tiến lên hơn vậy.",
+                "Cây gai róc vỏ.",
+                "Ðuốc.",
+                "Củi nhỏ.",
+                "Tế về mùa đông, gọi là tế chưng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bốc, bốc lên, hướng lên: 水氣都蒸發上來了 Hơi nước đã bốc lên rồi;",
+                "Hấp, chưng, cất: 飯蒸熟了 Cơm đã hấp chín rồi; 放在鍋裡蒸 Chưng (hấp) trong nồi; 蒸酒 Cất rượu;",
+                "(văn) Cây gai bóc vỏ;",
+                "(văn) Đuốc;",
+                "(văn) Củi nhỏ;",
+                "(văn) Tế chưng (tế về mùa đông);",
+                "(văn) Lũ, bọn: 蒸民 Lũ dân, dân chúng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khí bốc lên — Nhiều, đông — Như chữ Chưng 烝 — Hấp. Đun cách thuỷ, tức làm chín bằng hơi nước."
+            ],
+            "compound_words": {
+                "蒸餅": "chưng bính",
+                "蒸蒸日上": "chưng chưng nhật thượng",
+                "蒸氣": "chưng khí",
+                "蒸氣機": "chưng khí cơ",
+                "蒸餾": "chưng lưu",
+                "蒸發": "chưng phát",
+                "蒸暑": "chưng thử",
+                "清蒸": "thanh chưng",
+                "鬱蒸": "uất chưng"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "僻",
+    "details": {
+        "Âm Hán Việt": [
+            "tích",
+            "tịch"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nhân 人 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻辟"
+        ],
+        "Nét bút": [
+            "ノ丨フ一ノ丨フ一丶一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OSRJ (人尸口十)"
+        ],
+        "Unicode": [
+            "U+50FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pì ㄆㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tịch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘキ (heki)",
+            "ヒ (hi)",
+            "ヘイ (hei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "へき.する (heki.suru)",
+            "ひが.む (higa.mu)"
+        ],
+        "Âm Hàn": [
+            "벽",
+            "피"
+        ],
+        "Âm Quảng Đông": [
+            "pik1"
+        ]
+    },
+    "meanings": {
+        "tích": {
+            "Từ điển phổ thông": [
+                "hẹp hòi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Hẹp, vắng vẻ, hẻo lánh. ◎Như: 'hoang tích' 荒僻 nơi hoang hủy hẹp hòi. ◇Nguyễn Trãi 阮廌: 'Cung dư tích địa bán trăn kinh' 弓餘僻地半榛荆 (Thứ vận Hoàng môn thị lang 次韻黃門侍郎) Đất hẻo lánh hơn một cung, phân nửa là gai góc.",
+                "(Tính) Kì, lạ, khác thường. ◎Như: 'quái tích' 怪僻 quái lạ, khác thường.",
+                "(Tính) Tà, xấu, bất chánh. ◎Như: 'tà tích' 邪僻 tà xấu, không hợp đạo phải. ◇Hồng Lâu Mộng 紅樓夢: 'Cập như kim sảo minh thì sự, hựu khán liễu ta tà thư tích truyện' 及如今稍明時事, 又看了些邪書僻傳 (Đệ nhị thập cửu hồi) Bây giờ (Bảo Ngọc) đã biết chút mùi đời, lại được xem vài sách truyện nhảm nhí."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hẹp, cái gì không phải là các bực chính đính thông đạt cùng noi gọi là tích 僻, như hoang tích 荒僻 nơi hoang huỷ hẹp hòi, văn chương dùng chữ điển tích quái quỷ người ta ít biết gọi là quái tích 怪僻, tà tích 邪僻, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vắng, vắng vẻ, hẻo lánh: 偏僻的山村 Bản làng hẻo lánh; 窮鄉僻壤 Nơi hoang vu hẻo lánh, nơi hẻo lánh xa xôi;",
+                "Ít thấy, hiếm thấy, tính kì quặc: 僻字 Chữ ít thấy; 性情乖僻 Tính nết kì quặc."
+            ],
+            "compound_words": {
+                "阨僻": "ách tích",
+                "孤僻": "cô tích",
+                "窮僻": "cùng tích",
+                "冷僻": "lãnh tích",
+                "怪僻": "quái tích",
+                "僻陋": "tích lậu"
+            }
+        },
+        "tịch": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xa xôi hẻo lánh — Nghiêng xéo, không ngay thẳng."
+            ],
+            "compound_words": {
+                "阨僻": "ách tịch",
+                "別僻": "biệt tịch",
+                "孤僻": "cô tịch",
+                "窮僻": "cùng tịch",
+                "冷僻": "lãnh tịch",
+                "僻陋": "tịch lậu",
+                "幽僻": "u tịch"
+            }
+        }
+    }
+}

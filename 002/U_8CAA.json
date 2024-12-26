@@ -1,0 +1,86 @@
+{
+    "character": "貪",
+    "details": {
+        "Âm Hán Việt": [
+            "tham"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱今貝"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OINC (人戈弓金)"
+        ],
+        "Unicode": [
+            "U+8CAA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tān ㄊㄢ"
+        ],
+        "Âm Nôm": [
+            "tham"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "トン (ton)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むさぼ.る (musabo.ru)"
+        ],
+        "Âm Hàn": [
+            "탐"
+        ],
+        "Âm Quảng Đông": [
+            "taam1"
+        ]
+    },
+    "meanings": {
+        "tham": {
+            "Từ điển phổ thông": [
+                "ăn của đút",
+                "tham, ham"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ham lấy tiền của bằng bất cứ thủ đoạn nào. ◎Như: 'tham tang uổng pháp' 貪贓枉法 ăn của đút làm trái pháp luật.",
+                "(Động) Ham, thích, mải. ◎Như: 'tham ngoạn' 貪玩 mải chơi, 'tham khán thư' 貪看書 ham đọc sách. ◇Pháp Hoa Kinh 法華經: 'Bất tham ngũ dục lạc' 不貪五欲樂 (Đề Bà Đạt Đa phẩm đệ thập nhị 提婆達多品第十二) Không đam mê năm thứ dục lạc.",
+                "(Tính) Hưởng lấy lợi ích một cách bất chính. ◎Như: 'tham quan ô lại' 貪官汙吏 quan gian lại bẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ăn của đút, như tham tang uổng pháp 貪贓枉法 ăn đút làm loạn phép.",
+                "Tham, phàm mong cầu không biết chán đều gọi là tham."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ăn của đút lót: 貪贓柱法 Ăn của đút làm sai phép nước;",
+                "Tham, tham lam: 貪官汙吏 Tham quan ô lại;",
+                "Ham, thích, mải: 貪看書 Ham đọc sách; 貪玩 Mải chơi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ham muốn.  Đoạn trường tân thanh : » Máu tham hễ thấy hơi đồng thì mê «."
+            ],
+            "compound_words": {
+                "奸貪": "gian tham",
+                "貪婪": "tham lam",
+                "貪冗": "tham nhũng",
+                "貪污": "tham ô",
+                "貪殘": "tham tàn"
+            }
+        }
+    }
+}

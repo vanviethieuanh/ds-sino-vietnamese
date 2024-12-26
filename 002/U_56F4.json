@@ -1,0 +1,71 @@
+{
+    "character": "围",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "vi 囗 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿴囗韦"
+        ],
+        "Nét bút": [
+            "丨フ一一フ丨一"
+        ],
+        "Thương Hiệt": [
+            "WQS (田手尸)"
+        ],
+        "Unicode": [
+            "U+56F4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "vay",
+            "vi"
+        ],
+        "Âm Quảng Đông": [
+            "wai4"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 圍."
+            ],
+            "compound_words": {
+                "包围": "bao vi",
+                "週围": "chu vi",
+                "围巾": "vi cân",
+                "围攻": "vi công",
+                "围兜": "vi đâu",
+                "围裙": "vi quần",
+                "围城": "vi thành",
+                "围墙": "vi tường"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "vây quanh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 圍"
+            ]
+        }
+    }
+}

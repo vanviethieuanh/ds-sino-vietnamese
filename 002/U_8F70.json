@@ -1,0 +1,72 @@
+{
+    "character": "轰",
+    "details": {
+        "Âm Hán Việt": [
+            "hoanh",
+            "oanh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "xa 車 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱车双"
+        ],
+        "Nét bút": [
+            "一フ一丨フ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "KQEE (大手水水)"
+        ],
+        "Unicode": [
+            "U+8F70"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hōng ㄏㄨㄥ"
+        ],
+        "Âm Quảng Đông": [
+            "gwang1"
+        ]
+    },
+    "meanings": {
+        "hoanh": {
+            "Từ điển phổ thông": [
+                "nổ (sấm)",
+                "thuốc nổ",
+                "quát",
+                "vang lừng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 轟."
+            ]
+        },
+        "oanh": {
+            "Từ điển phổ thông": [
+                "nổ (sấm)",
+                "thuốc nổ",
+                "quát",
+                "vang lừng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 轟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 轟"
+            ],
+            "compound_words": {
+                "轰烈": "oanh liệt"
+            }
+        }
+    }
+}

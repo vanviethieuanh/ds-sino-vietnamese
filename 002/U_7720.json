@@ -1,0 +1,93 @@
+{
+    "character": "眠",
+    "details": {
+        "Âm Hán Việt": [
+            "miên"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mục 目 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目民"
+        ],
+        "Nét bút": [
+            "丨フ一一一フ一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "BURVP (月山口女心)"
+        ],
+        "Unicode": [
+            "U+7720"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mián ㄇㄧㄢˊ",
+            "miǎn ㄇㄧㄢˇ",
+            "mǐn ㄇㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "miên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミン (min)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねむ.る (nemu.ru)",
+            "ねむ.い (nemu.i)"
+        ],
+        "Âm Hàn": [
+            "면"
+        ],
+        "Âm Quảng Đông": [
+            "min4"
+        ]
+    },
+    "meanings": {
+        "miên": {
+            "Từ điển phổ thông": [
+                "ngủ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngủ. ◎Như 'thất miên' 失眠 mất ngủ. ◇Vi Ứng Vật 韋應物: 'Sơn không tùng tử lạc, U nhân ưng vị miên' 山空松子落, 幽人應未眠 Núi vắng trái thông rụng, Người buồn chưa ngủ yên.",
+                "(Động) Các loài sâu bọ mới lột hoặc trong mùa nằm yên bất động, không ăn, gọi là 'miên'. ◎Như: 'tàm miên' 蠶眠 tằm ngủ, 'đông miên' 冬眠 ngủ đông.",
+                "(Động) Nhắm mắt (giả chết). ◇San hải kinh 山海經: 'Hữu thú yên (...), kiến nhân tắc miên' 有獸焉 (...), 見人則眠 (Đông san kinh 東山經) Có giống thú (...), thấy người liền nhắm mắt lại (như chết).",
+                "(Tính) Bày ngang, nằm ngang. ◎Như: 'miên cầm' 眠琴 đàn đặt nằm ngang.",
+                "(Tính) Đổ rạp, nằm rạp (cây cối). ◎Như: 'miên liễu' 眠柳 cây liễu nằm rạp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngủ, nhắm mắt. Vi Ứng Vật 韋應物: Sơn không tùng tử lạc, u nhân ưng vị miên 山空松子落，幽人應未眠 núi không trái tùng rụng, người buồn chưa ngủ yên.",
+                "Các loài sâu bọ mới lột nằm yên bất động gọi là miên.",
+                "Vật gì bày ngang cũng gọi là miên.",
+                "Cây cối đổ rạp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngủ: 失眠 Mất ngủ; 長眠 Giấc nghìn thu; 愁眠 Giấc ngủ buồn;",
+                "(Động vật) ngủ đông;",
+                "(văn) Nhắm mắt lại (giả chết): 餘峨之山有獸焉，則人則眠 Ở núi Dư Nga có loài thú, hễ trông thấy người thì nhắm mắt lại (Sơn hải kinh);",
+                "(văn) (Cây cối) cúi rạp xuống, cúi xuống: 漢苑中有柳，…一日三眠三起 Trong vườn ở cung nhà Hán có cây liễu, mỗi ngày ba lần cúi rạp xuống ba lần ngẩng đầu lên (Tam phụ cựu sự)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngủ. Td: Cô miên ( ngủ một mình ) — Tình trạng bất động của côn trùng khi thay xác, hoặc của thú vật trong mùa đông. ( Td: Đông miên ) ."
+            ],
+            "compound_words": {
+                "安眠": "an miên",
+                "安眠藥": "an miên dược",
+                "三眠": "tam miên",
+                "蠶眠": "tàm miên",
+                "催眠": "thôi miên",
+                "沈眠": "trầm miên"
+            }
+        }
+    }
+}

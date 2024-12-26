@@ -1,0 +1,81 @@
+{
+    "character": "朦",
+    "details": {
+        "Âm Hán Việt": [
+            "mông"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nguyệt 月 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月蒙"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨丨丶フ一一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "BTBO (月廿月人)"
+        ],
+        "Unicode": [
+            "U+6726"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mēng ㄇㄥ",
+            "méng ㄇㄥˊ"
+        ],
+        "Âm Nôm": [
+            "mông"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モウ (mō)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おぼろ (oboro)"
+        ],
+        "Âm Hàn": [
+            "몽"
+        ],
+        "Âm Quảng Đông": [
+            "mung4"
+        ]
+    },
+    "meanings": {
+        "mông": {
+            "Từ điển phổ thông": [
+                "không rõ ràng",
+                "lừa lọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính, phó) § Xem “mông lông” 朦朧."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mông lông 朦朧 lờ mờ, lúc mặt trăng sắp lặn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tình trạng mặt trăng lúc sắp lặn;",
+                "Lờ mờ;",
+                "Lừa dối, lừa bịp, lừa đảo. 【朦朧】mông lung [ménglóng] a. Ánh trăng mờ; b. Lờ mờ không rõ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mặt trăng mờ tối."
+            ],
+            "compound_words": {
+                "朦朧": "mông lung",
+                "朦胧": "mông lung"
+            }
+        }
+    }
+}

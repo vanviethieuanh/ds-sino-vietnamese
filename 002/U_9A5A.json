@@ -1,0 +1,101 @@
+{
+    "character": "驚",
+    "details": {
+        "Âm Hán Việt": [
+            "kinh"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "mã 馬 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱敬馬"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ丨フ一ノ一ノ丶一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TKSQF (廿大尸手火)"
+        ],
+        "Unicode": [
+            "U+9A5A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "kinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おどろ.く (odoro.ku)",
+            "おどろ.かす (odoro.kasu)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "geng1",
+            "ging1"
+        ]
+    },
+    "meanings": {
+        "kinh": {
+            "Từ điển phổ thông": [
+                "kinh động",
+                "kinh sợ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lồng lên (ngựa sợ hãi, không điều khiển được nữa). ◎Như: 'mã kinh liễu' 馬驚了 ngựa lồng lên.",
+                "(Động) Sợ, hãi. ◎Như: 'kinh hoảng' 驚慌 hoảng sợ, 'kinh phạ' 驚怕 sợ hãi. ◇Sử Kí 史記: 'Chí bái đại tướng, nãi Hàn Tín dã, nhất quân giai kinh' 至拜大將, 乃韓信也, 一軍皆驚 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Đến khi phong đại tướng, lại là Hàn Tín, các quân đều giật mình kinh ngạc.",
+                "(Động) Chấn động, lay động. ◎Như: 'kinh thiên động địa' 驚天動地 rung trời chuyển đất, 'đả thảo kinh xà' 打草驚蛇 đập cỏ làm cho rắn động, bứt dây động rừng.",
+                "(Động) Bị xúc động, nhiễu loạn. ◎Như: 'kinh nhiễu' 驚擾 quấy rối. ◇Đỗ Phủ: 'Cảm thì hoa tiễn lệ, Hận biệt điểu kinh tâm' 感時花濺淚, 恨別鳥驚心 (Xuân vọng 春望) Thương cảm thời thế, hoa đẫm lệ, Oán hận biệt li, chim xúc động trong lòng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngựa sợ hãi.",
+                "Sợ. Phàm cái gì lấy làm sợ đều gọi là kinh.",
+                "Chứng sài. Trẻ con phải chứng sài sợ giật mình mẩy, co chân co tay trợn mắt uốn lưng đều gọi là kinh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sợ hãi: 驚恐 Sợ hãi;",
+                "Làm sợ, làm giật mình, làm hốt hoảng, làm kinh ngạc, làm kinh động: 打草驚蛇 Đập cỏ làm cho rắn sợ, bứt dây động rừng;",
+                "Lồng: 馬驚了 Ngựa lồng lên;",
+                "(văn) Ngạc nhiên, kinh ngạc;",
+                "Chứng làm kinh (ở trẻ con)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng ngựa sợ hãi — Rất sợ hãi — Bệnh giựt chân tay của trẻ con."
+            ],
+            "compound_words": {
+                "吃驚": "ngật kinh",
+                "震驚": "chấn kinh",
+                "可驚": "khả kinh",
+                "驚弓之鳥": "kinh cung chi điểu",
+                "驚異": "kinh dị",
+                "驚動": "kinh động",
+                "驚駭": "kinh hãi",
+                "驚恍": "kinh hoảng",
+                "驚惶": "kinh hoàng",
+                "驚恐": "kinh khủng",
+                "驚噩": "kinh ngạc",
+                "驚風": "kinh phong",
+                "驚天動地": "kinh thiên động địa",
+                "心驚膽戰": "tâm kinh đảm chiến",
+                "失驚": "thất kinh"
+            }
+        }
+    }
+}

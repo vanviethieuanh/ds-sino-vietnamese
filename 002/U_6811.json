@@ -1,0 +1,74 @@
+{
+    "character": "树",
+    "details": {
+        "Âm Hán Việt": [
+            "thọ",
+            "thụ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿲木又寸"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "DEDI (木水木戈)"
+        ],
+        "Unicode": [
+            "U+6811"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shù ㄕㄨˋ"
+        ],
+        "Âm Nôm": [
+            "ruối",
+            "thụ"
+        ],
+        "Âm Quảng Đông": [
+            "syu6"
+        ]
+    },
+    "meanings": {
+        "thọ": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 樹"
+            ]
+        },
+        "thụ": {
+            "Từ điển phổ thông": [
+                "cái cây"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 樹."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây: 桃樹 Cây đào; 庭樹不知人去盡 Cây sân chẳng biết người đi hết (Sầm Tham: Sơn phòng xuân sự);",
+                "Trồng: 百年之計莫如樹人 Kế trăm năm không gì bằng trồng người (gây dựng nhân tài);",
+                "Dựng: 樹碑 Dựng bia;",
+                "(văn) Tấm bình phong che cửa."
+            ],
+            "compound_words": {
+                "树皮": "thụ bì",
+                "树叶": "thụ diệp",
+                "树林": "thụ lâm",
+                "树篱": "thụ ly",
+                "树桩": "thụ trang"
+            }
+        }
+    }
+}

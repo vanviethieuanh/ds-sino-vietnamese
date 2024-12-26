@@ -1,0 +1,76 @@
+{
+    "character": "鲜",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên",
+            "tiển"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngư 魚 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰鱼羊"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一一丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "NMTQ (弓一廿手)"
+        ],
+        "Unicode": [
+            "U+9C9C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiān ㄒㄧㄢ",
+            "xiǎn ㄒㄧㄢˇ",
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tiên"
+        ],
+        "Âm Quảng Đông": [
+            "sin1",
+            "sin2"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "cá tươi",
+                "sáng sủa",
+                "ngon lành"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鮮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鮮"
+            ],
+            "compound_words": {
+                "北朝鲜": "bắc triều tiên",
+                "新鲜": "tân tiên",
+                "朝鲜": "triều tiên"
+            }
+        },
+        "tiển": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鮮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鮮"
+            ]
+        }
+    }
+}

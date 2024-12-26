@@ -1,0 +1,84 @@
+{
+    "character": "蠅",
+    "details": {
+        "Âm Hán Việt": [
+            "dăng"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trùng 虫 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰虫黽"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一丨フ一丨一一フ一一"
+        ],
+        "Thương Hiệt": [
+            "LIRXU (中戈口重山)"
+        ],
+        "Unicode": [
+            "U+8805"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yíng ㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dăng",
+            "giằng",
+            "nhặng",
+            "thằn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はえ (hae)",
+            "はい (hai)"
+        ],
+        "Âm Hàn": [
+            "승"
+        ],
+        "Âm Quảng Đông": [
+            "jing4"
+        ]
+    },
+    "meanings": {
+        "dăng": {
+            "Từ điển phổ thông": [
+                "con ruồi",
+                "nhỏ bé"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ruồi. ◎Như: 'thương dăng' 蒼蠅 con nhặng.",
+                "(Tính) Dùng để nói cái gì nhỏ bé. ◎Như: 'dăng đầu tế tự' 蠅頭細字 chữ nhỏ như đầu ruồi, chữ nhỏ tí."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ruồi.",
+                "Thương dăng 蒼蠅 con nhặng.",
+                "Dùng để nói các cái nhỏ bé. Như dăng đầu tế tự 蠅頭細字 chữ nhỏ như đầu ruồi, nói chữ nhỏ lắm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ruồi: 蒼蠅 Con nhặng;",
+                "Nhỏ như ruồi: 蠅頭細字 Chữ nhỏ như đầu ruồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ruồi — Con nhặng."
+            ],
+            "compound_words": {
+                "捕蠅紙": "bổ dăng chỉ"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "訞",
+    "details": {
+        "Âm Hán Việt": [
+            "yêu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言夭"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRHK (卜口竹大)"
+        ],
+        "Unicode": [
+            "U+8A1E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざわ.い (wazawa.i)",
+            "あやしいことば (ayashiikotoba)"
+        ]
+    },
+    "meanings": {
+        "yêu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lời nói khéo léo — Lời nói gian xảo mê hoặc người khác — Tai vạ."
+            ],
+            "compound_words": {
+                "訞禍": "yêu hoạ",
+                "訞言": "yêu ngôn",
+                "訞災": "yêu tai"
+            }
+        }
+    }
+}

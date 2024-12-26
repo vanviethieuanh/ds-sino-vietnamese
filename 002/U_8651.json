@@ -1,0 +1,69 @@
+{
+    "character": "虑",
+    "details": {
+        "Âm Hán Việt": [
+            "lư",
+            "lự"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+6 nét)",
+            "hô 虍 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸虍心"
+        ],
+        "Nét bút": [
+            "丨一フノ一フ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "YPP (卜心心)"
+        ],
+        "Unicode": [
+            "U+8651"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǜ",
+            "lù ㄌㄨˋ"
+        ],
+        "Âm Nôm": [
+            "lự"
+        ],
+        "Âm Quảng Đông": [
+            "leoi6"
+        ]
+    },
+    "meanings": {
+        "lư": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 慮."
+            ]
+        },
+        "lự": {
+            "Từ điển phổ thông": [
+                "lo âu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 慮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 慮"
+            ],
+            "compound_words": {
+                "思虑": "tư lự",
+                "忧虑": "ưu lự"
+            }
+        }
+    }
+}

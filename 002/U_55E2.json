@@ -1,0 +1,84 @@
+{
+    "character": "嗢",
+    "details": {
+        "Âm Hán Việt": [
+            "miệt",
+            "ốt"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿰口昷"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "RWOT (口田人廿)"
+        ],
+        "Unicode": [
+            "U+55E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wà ㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "ồn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オツ (otsu)",
+            "ラツ (ratsu)",
+            "ラチ (rachi)",
+            "アツ (atsu)",
+            "エチ (echi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むせぶ (musebu)",
+            "の.む (no.mu)"
+        ],
+        "Âm Hàn": [
+            "올"
+        ],
+        "Âm Quảng Đông": [
+            "wat1"
+        ]
+    },
+    "meanings": {
+        "miệt": {
+            "Từ điển phổ thông": [
+                "cười lớn",
+                "nuốt"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cười lớn, cả cười;",
+                "Nuốt."
+            ]
+        },
+        "ốt": {
+            "Từ điển trích dẫn": [
+                "(Động) Nuốt.",
+                "(Phó) 'Ốt cược' 嗢噱 cười mãi không thôi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nuốt.",
+                "Ốt cược 嗢噱 cười lớn, cười mãi không thôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghẹn ở cổ."
+            ],
+            "compound_words": {
+                "嗢噱": "ốt cược"
+            }
+        }
+    }
+}

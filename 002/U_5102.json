@@ -1,0 +1,98 @@
+{
+    "character": "儂",
+    "details": {
+        "Âm Hán Việt": [
+            "nông",
+            "nùng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nhân 人 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻農"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一丨丨一一ノ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OTWV (人廿田女)"
+        ],
+        "Unicode": [
+            "U+5102"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "nóng ㄋㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "noọng",
+            "nông",
+            "nùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)",
+            "ノウ (nō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わし (washi)",
+            "かれ (kare)"
+        ],
+        "Âm Hàn": [
+            "농"
+        ],
+        "Âm Quảng Đông": [
+            "nung4"
+        ]
+    },
+    "meanings": {
+        "nông": {
+            "Từ điển trích dẫn": [
+                "(Đại) Ta, tôi (tiếng đất Ngô). ◇Hồng Lâu Mộng 紅樓夢: 'Nông kim táng hoa nhân tiếu si, Tha niên táng nông tri thị thùy?' 儂今葬花人笑痴, 他年葬儂知是誰 (Đệ nhị thập thất hồi) Nay ta chôn hoa, người cười ta cuồng si, Mai sau (ta chết), biết ai là người chôn ta?",
+                "(Đại) Anh, ông... (đại từ ngôi thứ hai).",
+                "(Danh) Họ 'Nông'. § Tục thường đọc là 'nùng'. ◎Như: 'Nùng Trí Cao' 儂智高 (thời Tống 宋)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục tự xưng nông là ta đây, đất Ngô gọi người là nông, nên gọi người đất Ngô là nông nhân 儂人. Tục thường đọc là nùng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Anh, ông... (đại từ ngôi thứ hai);",
+                "Tôi, ta (đại từ nhân xưng ngôi thứ nhất dùng trong văn thơ cũ): 道子頷曰：儂知儂知 Đạo Tử Hạm nói: Ta biết, ta biết (Tấn thư: Võ Thập Tam Ngũ truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tôi, ta ( đại danh từ ngôi thứ nhất ) — Đày tớ."
+            ],
+            "compound_words": {
+                "阿儂": "a nông",
+                "懊儂": "áo nông"
+            }
+        },
+        "nùng": {
+            "Từ điển phổ thông": [
+                "(từ khiếm xưng của phụ nữ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Đại) Ta, tôi (tiếng đất Ngô). ◇Hồng Lâu Mộng 紅樓夢: 'Nông kim táng hoa nhân tiếu si, Tha niên táng nông tri thị thùy?' 儂今葬花人笑痴, 他年葬儂知是誰 (Đệ nhị thập thất hồi) Nay ta chôn hoa, người cười ta cuồng si, Mai sau (ta chết), biết ai là người chôn ta?",
+                "(Đại) Anh, ông... (đại từ ngôi thứ hai).",
+                "(Danh) Họ 'Nông'. § Tục thường đọc là 'nùng'. ◎Như: 'Nùng Trí Cao' 儂智高 (thời Tống 宋)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Anh, ông... (đại từ ngôi thứ hai);",
+                "Tôi, ta (đại từ nhân xưng ngôi thứ nhất dùng trong văn thơ cũ): 道子頷曰：儂知儂知 Đạo Tử Hạm nói: Ta biết, ta biết (Tấn thư: Võ Thập Tam Ngũ truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Họ người. Td: Nùng Trí Cao — Một âm khác là Nông. Xem Nông — Người Nùng, dân thiểu số thượng du Bắc Việt Nam."
+            ]
+        }
+    }
+}

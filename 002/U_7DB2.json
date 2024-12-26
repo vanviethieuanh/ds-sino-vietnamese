@@ -1,0 +1,98 @@
+{
+    "character": "網",
+    "details": {
+        "Âm Hán Việt": [
+            "võng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹罔"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丨フ丶ノ一丶一フ"
+        ],
+        "Thương Hiệt": [
+            "VFBTV (女火月廿女)"
+        ],
+        "Unicode": [
+            "U+7DB2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wǎng ㄨㄤˇ"
+        ],
+        "Âm Nôm": [
+            "võng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あみ (ami)"
+        ],
+        "Âm Hàn": [
+            "망"
+        ],
+        "Âm Quảng Đông": [
+            "mong5"
+        ]
+    },
+    "meanings": {
+        "võng": {
+            "Từ điển phổ thông": [
+                "cái lưới",
+                "vu khống, lừa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lưới, chài. ◇Tô Thức 蘇軾: 'Cử võng đắc ngư, cự khẩu tế lân' 舉網得魚, 巨口細鱗 (Hậu Xích Bích phú 後赤壁賦) Cất lưới được cá, miệng to vảy nhỏ.",
+                "(Danh) Mạng (chỉ chung cái gì kết thành từng mắt như cái lưới). ◎Như: 'thù võng' 蛛網 mạng nhện.",
+                "(Danh) Hình dung cái để ràng buộc người và vật. ◎Như: 'trần võng' 塵網 lưới trần, ý nói sự đời nó ràng buộc người như thể phải bị mắc vào lưới vậy, 'văn võng' 文網 pháp luật, 'thiên la địa võng' 天羅地網 lưới trời khó thoát.",
+                "(Danh) Hệ thống, tổ chức, bộ máy (bao trùm, phân bố như cái lưới). ◎Như: 'giao thông võng' 交通網 hệ thống giao thông, 'thông tấn võng' 通訊網 mạng lưới thông tin.",
+                "(Động) Bắt bằng lưới. ◎Như: 'võng tinh đình' 網蜻蜓 bắt chuồn chuồn (bằng lưới), 'võng liễu nhất điều ngư' 網了一條魚 lưới được một con cá.",
+                "(Động) Tìm kiếm. ◇Hán Thư 漢書: 'Võng la thiên hạ dị năng chi sĩ' 網羅天下異能之士 (Vương Mãng truyện 王莽傳) Tìm khắp những bậc tài năng khác thường trong thiên hạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái lưới, cái chài.",
+                "Phàm cái gì kết thành từng mắt đều gọi là võng, như thù võng 蛛網 mạng nhện.",
+                "Cái để ràng buộc người và vật, như trần võng 塵網 lưới trần, ý nói sự đời nó ràng buộc người như thể phải bị mắc vào lưới vậy, vì thế nên gọi pháp luật là văn võng 文網."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lưới, chài: 魚網 Lưới bắt cá. (Ngr) Bủa vây để bắt: 天羅地網 Lưới trời khó thoát, thiên la địa võng;",
+                "Mạng: 蜘蛛網 Mạng nhện; 電網 Mạng điện;",
+                "Hệ thống, mạng lưới, bộ máy: 通訊網 Hệ thống thông tin;",
+                "Đánh bắt bằng lưới: 網着了一條魚 Đánh được một con cá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lưới đánh cá — Chỉ chung các loại lưới, hoặc vật giống như cái lưới."
+            ],
+            "compound_words": {
+                "禁網": "cấm võng",
+                "政網": "chính võng",
+                "電腦網": "điện não võng",
+                "電腦網絡": "điện não võng lạc",
+                "電腦網路": "điện não võng lộ",
+                "羅網": "la võng",
+                "密網": "mật võng",
+                "因特網": "nhân đặc võng",
+                "因特網提供商": "nhân đặc võng đề cung thương",
+                "法網": "pháp võng",
+                "網球": "võng cầu",
+                "網頁": "võng hiệt",
+                "網膜": "võng mô"
+            }
+        }
+    }
+}

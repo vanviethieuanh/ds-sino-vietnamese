@@ -1,0 +1,95 @@
+{
+    "character": "棺",
+    "details": {
+        "Âm Hán Việt": [
+            "quan",
+            "quán"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木官"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶丶フ丨フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "DJRR (木十口口)"
+        ],
+        "Unicode": [
+            "U+68FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guān ㄍㄨㄢ",
+            "guàn ㄍㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "quan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "관"
+        ],
+        "Âm Quảng Đông": [
+            "gun1"
+        ]
+    },
+    "meanings": {
+        "quan": {
+            "Từ điển phổ thông": [
+                "áo quan (cho người chết)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Quan tài, áo quan, hòm. ◎Như: 'nhập quan' 入棺 bỏ xác người chết vào hòm, 'cái quan luận định' 蓋棺論定 đậy nắp hòm mới khen chê hay dở. ◇Luận Ngữ 論語: 'Lí dã tử, hữu quan nhi vô quách' 鯉也死, 有棺而無椁 (Tiên tiến 先進) Lí (con Khổng Tử) chết, có quan tài nhưng không có quách (bọc áo quan).",
+                "Một âm là 'quán'. (Động) Liệm xác bỏ vào áo quan."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái áo quan.",
+                "Một âm là quán. Liệm xác bỏ vào áo quan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Săng, áo quan, quan tài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hòm đựng xác người chết để đem chôn."
+            ],
+            "compound_words": {
+                "不見棺材不落淚": "bất kiến quan tài bất lạc lệ",
+                "不见棺材不落泪": "bất kiến quan tài bất lạc lệ",
+                "蓋棺論定": "cái quan luận định",
+                "瓦棺": "ngoã quan",
+                "入棺": "nhập quan",
+                "棺槨": "quan quách",
+                "棺材": "quan tài"
+            }
+        },
+        "quán": {
+            "Từ điển trích dẫn": [
+                "(Danh) Quan tài, áo quan, hòm. ◎Như: 'nhập quan' 入棺 bỏ xác người chết vào hòm, 'cái quan luận định' 蓋棺論定 đậy nắp hòm mới khen chê hay dở. ◇Luận Ngữ 論語: 'Lí dã tử, hữu quan nhi vô quách' 鯉也死, 有棺而無椁 (Tiên tiến 先進) Lí (con Khổng Tử) chết, có quan tài nhưng không có quách (bọc áo quan).",
+                "Một âm là 'quán'. (Động) Liệm xác bỏ vào áo quan."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái áo quan.",
+                "Một âm là quán. Liệm xác bỏ vào áo quan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Liệm vào áo quan."
+            ]
+        }
+    }
+}

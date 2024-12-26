@@ -1,0 +1,100 @@
+{
+    "character": "櫃",
+    "details": {
+        "Âm Hán Việt": [
+            "cử",
+            "quỹ"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mộc 木 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木匱"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨フ一丨一丨フ一一一ノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "DSLC (木尸中金)"
+        ],
+        "Unicode": [
+            "U+6AC3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guì ㄍㄨㄟˋ",
+            "jǔ ㄐㄩˇ",
+            "kuì ㄎㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "cũi",
+            "quầy",
+            "quĩ",
+            "quỹ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひつ (hitsu)"
+        ],
+        "Âm Hàn": [
+            "궤"
+        ],
+        "Âm Quảng Đông": [
+            "gwai6"
+        ]
+    },
+    "meanings": {
+        "cử": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tủ, hòm. ◎Như: 'y quỹ' 衣櫃 tủ áo, 'thư quỹ' 書櫃 tủ sách.",
+                "(Danh) Chỗ đất cao lên ở chung quanh, dùng để chứa nước. Cũng chỉ 'quỹ điền' 櫃田. ◇Nam Tống Thư 南宋書: 'Phàm yếu hại chi địa giai trúc thành bảo, kì khả nhân thủy vi hiểm giả, giai tích thủy vi quỹ' 凡要害之地皆築城堡, 其可因水為險者, 皆積水為櫃 (Quyển thập tứ).",
+                "(Danh) Quầy hàng, cửa hàng. ◎Như: 'chưởng quỹ' 掌櫃 chủ tiệm. ◇Thủy hử truyện 水滸傳: 'Trịnh Đồ khán thì, kiến thị Lỗ đề hạt, hoảng mang xuất quỹ thân lai xướng nhạ' 鄭屠看時, 見是魯提轄, 慌忙出櫃身來唱喏 (Đệ tam hồi) Trịnh Đồ nhìn ra, thấy Lỗ đề hạt, vội vàng bước ra khỏi quầy hàng vái chào."
+            ]
+        },
+        "quỹ": {
+            "Từ điển phổ thông": [
+                "cái hòm, cái rương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tủ, hòm. ◎Như: 'y quỹ' 衣櫃 tủ áo, 'thư quỹ' 書櫃 tủ sách.",
+                "(Danh) Chỗ đất cao lên ở chung quanh, dùng để chứa nước. Cũng chỉ 'quỹ điền' 櫃田. ◇Nam Tống Thư 南宋書: 'Phàm yếu hại chi địa giai trúc thành bảo, kì khả nhân thủy vi hiểm giả, giai tích thủy vi quỹ' 凡要害之地皆築城堡, 其可因水為險者, 皆積水為櫃 (Quyển thập tứ).",
+                "(Danh) Quầy hàng, cửa hàng. ◎Như: 'chưởng quỹ' 掌櫃 chủ tiệm. ◇Thủy hử truyện 水滸傳: 'Trịnh Đồ khán thì, kiến thị Lỗ đề hạt, hoảng mang xuất quỹ thân lai xướng nhạ' 鄭屠看時, 見是魯提轄, 慌忙出櫃身來唱喏 (Đệ tam hồi) Trịnh Đồ nhìn ra, thấy Lỗ đề hạt, vội vàng bước ra khỏi quầy hàng vái chào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái hòm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái tủ: 衣櫃 Tủ áo; 書櫃 Tủ sách;",
+                "Tủ hàng, quầy hàng, cửa hàng. em 柜 [jư]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái tủ đựng đồ đạc, quần áo, tiền bạc."
+            ],
+            "compound_words": {
+                "押櫃": "áp quỹ",
+                "掌櫃": "chưởng quỹ",
+                "公櫃": "công quỹ",
+                "銀櫃": "ngân quỹ",
+                "票櫃": "phiếu quỹ",
+                "櫃邊": "quỹ biên",
+                "櫃檯": "quỹ đài",
+                "櫃臺": "quỹ đài",
+                "守櫃": "thủ quỹ",
+                "出櫃": "xuất quỹ"
+            }
+        }
+    }
+}

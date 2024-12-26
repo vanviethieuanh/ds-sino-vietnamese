@@ -1,0 +1,96 @@
+{
+    "character": "欠",
+    "details": {
+        "Âm Hán Việt": [
+            "khiếm"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "khiếm 欠 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "NO (弓人)"
+        ],
+        "Unicode": [
+            "U+6B20"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiàn ㄑㄧㄢˋ",
+            "quē ㄑㄩㄝ"
+        ],
+        "Âm Nôm": [
+            "khiếm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)",
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.ける (ka.keru)",
+            "か.く (ka.ku)"
+        ],
+        "Âm Hàn": [
+            "흠",
+            "감",
+            "결"
+        ],
+        "Âm Quảng Đông": [
+            "him3"
+        ]
+    },
+    "meanings": {
+        "khiếm": {
+            "Từ điển phổ thông": [
+                "thiếu thốn, nợ",
+                "ngáp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngáp. ◎Như: 'a khiếm' 呵欠 ngáp, 'khiếm thân' 欠伸 vươn vai ngáp dài.",
+                "(Động) Nhổm dậy, nhón mình lên. ◎Như: 'khiếm thân' 欠身 nhổm mình. ◇Hồng Lâu Mộng 紅樓夢: 'Na Đại Ngọc khước hựu bả thân tử khiếm khởi, Tử Quyên chỉ đắc lưỡng chích thủ lai phù trước tha' 那黛玉卻又把身子欠起, 紫鵑只得兩隻手來扶著她 (Đệ cửu thập thất hồi) Đại Ngọc lại nhổm dậy. Tử Quyên đành phải đưa hai tay đỡ lấy.",
+                "(Động) Thiếu, không đủ. ◎Như: 'khiếm khuyết' 欠缺 thiếu thốn, 'nhĩ hoàn khiếm đa thiểu?' 你還欠多少 anh còn thiếu bao nhiêu? ◇Tam quốc diễn nghĩa 三國演義: 'Y phục ẩm thực, tiệm tiệm khiếm khuyết' 衣服飲食, 漸漸欠缺 (Đệ tứ hồi) Áo quần ăn uống, dần dần càng thiếu thốn.",
+                "(Động) Mắc nợ. ◎Như: 'khiếm trướng' 欠帳 nợ tiền.",
+                "(Phó) Không, không đủ, thiếu. § Dùng như chữ 'bất' 不. ◎Như: 'khiếm an' 欠安 không khỏe, 'khiếm thỏa' 欠妥 thiếu thỏa đáng, 'khiếm khảo lự' 欠考慮 thiếu suy nghĩ.",
+                "(Danh) Món nợ. ◎Như: 'cựu khiếm vị thanh' 舊欠未清 nợ cũ chưa trả hết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngáp, như khiếm thân 欠伸 vươn vai ngáp.",
+                "Thiếu, như khiếm khuyết 欠缺 thiếu thốn.",
+                "Nợ, như khiếm trướng 欠帳 còn nợ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nợ: 欠債 Mắc nợ, thiếu nợ;",
+                "Thiếu: 說話欠考慮 Nói năng thiếu suy nghĩ;",
+                "Không: 身體欠安 Không khỏe;",
+                "Nhổm: 欠身 Nhổm mình;",
+                "Ngáp: 打呵欠 Ngáp ngủ; 欠伸 Vươn vai ngáp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Há miệng và thở ra — Thiếu, không đủ — Thiếu sót. Khuyết điểm — Thiếu nợ — Tên một bộ chữ."
+            ],
+            "compound_words": {
+                "哈欠": "cáp khiếm",
+                "欠面": "khiếm diện",
+                "欠好": "khiếm hảo",
+                "欠缺": "khiếm khuyết",
+                "欠雅": "khiếm nhã",
+                "欠債": "khiếm tá",
+                "欠視": "khiếm thị",
+                "虧欠": "khuy khiếm"
+            }
+        }
+    }
+}

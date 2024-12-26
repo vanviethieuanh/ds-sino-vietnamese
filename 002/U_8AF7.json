@@ -1,0 +1,87 @@
+{
+    "character": "諷",
+    "details": {
+        "Âm Hán Việt": [
+            "phúng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言風"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノフノ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "YRHNI (卜口竹弓戈)"
+        ],
+        "Unicode": [
+            "U+8AF7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ",
+            "fěng ㄈㄥˇ",
+            "fèng ㄈㄥˋ"
+        ],
+        "Âm Nôm": [
+            "phúng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フウ (fū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そら.んじる (sora.n jiru)"
+        ],
+        "Âm Hàn": [
+            "풍"
+        ],
+        "Âm Quảng Đông": [
+            "fung3"
+        ]
+    },
+    "meanings": {
+        "phúng": {
+            "Từ điển phổ thông": [
+                "chế giễu, cười nhạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đọc cao giọng. ◎Như: 'phúng kinh niệm Phật' 諷經念佛 tụng kinh niệm Phật.",
+                "(Động) Châm biếm, mỉa mai, chế nhạo. ◎Như: 'trào phúng' 嘲諷 giễu cợt, 'phúng thích' 諷刺 châm biếm.",
+                "(Động) Khuyên can, dùng lời mềm mỏng mà can gián. ◇Dương Hùng 揚雄: 'Chánh nguyệt tòng thượng Cam Tuyền hoàn, tấu Cam Tuyền phú dĩ phúng' 正月從上甘泉還, 奏甘泉賦以諷 (Cam tuyền phú 甘泉賦) Tháng giêng theo vua từ Cam Tuyền về, tâu lên bài phú Cam Tuyền để khuyên can."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đọc sách, đọc lên cao giọng gọi là phúng. Như phúng tụng 諷誦 đọc tụng ngâm nga.",
+                "Nói mát, nói thác một chuyện khác mà khiến cho người tỉnh biết đổi lỗi đi gọi là phúng. Như trào phúng 嘲諷 riễu cợt, trào phúng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Châm biếm, trào phúng, chế nhạo: 譏諷 Châm biếm; 嘲諷 Trào phúng;",
+                "(văn) Ám chỉ hoặc khuyên can bằng lời lẽ hàm súc, nói khéo để can gián: 常以談笑諷諫 Thường dùng lời cười đùa để can khéo (Sử kí);",
+                "(văn) Đọc cao giọng: 諷誦 Đọc sách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đọc lên. Ngâm lên — Nói xa xôi mà có ngụ ý khuyên răn. Td: Trào phúng — Nói bóng gió."
+            ],
+            "compound_words": {
+                "譏諷": "cơ phúng",
+                "諷諫": "phúng gián",
+                "諷勸": "phúng khuyến",
+                "諷刺": "phúng thích",
+                "諷詠": "phúng vịnh",
+                "嘲諷": "trào phúng"
+            }
+        }
+    }
+}

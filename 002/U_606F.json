@@ -1,0 +1,127 @@
+{
+    "character": "息",
+    "details": {
+        "Âm Hán Việt": [
+            "tức"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱自心"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "HUP (竹山心)"
+        ],
+        "Unicode": [
+            "U+606F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "tức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いき (iki)"
+        ],
+        "Âm Hàn": [
+            "식"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "tức": {
+            "Từ điển phổ thông": [
+                "hơi thở",
+                "than vãn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hơi thở. ◎Như: 'nhất tức thượng tồn' 一息尚存 (chừng nào) còn một hơi thở.",
+                "(Danh) Con cái. ◎Như: 'tử tức' 子息 con cái, 'nhược tức' 弱息 con trai con gái còn bé. ◇Liêu trai chí dị 聊齋志異: 'Nhược tức cận tồn, diệc vi thứ sản' 弱息僅存, 亦為庶產 (Anh Ninh 嬰寧) Chỉ còn một đứa con gái nhỏ, cũng là (con của) người thiếp sinh ra.",
+                "(Danh) Tiền lời, tiền lãi. § Tiền vốn gọi là 'mẫu' 母, số lãi ở tiền vốn ra gọi là 'tức' 息.",
+                "(Danh) Âm tín, tin tức. ◎Như: 'tiêu tức' 消息 tin tức, 'tín tức' 信息 thư tín.",
+                "(Danh) § Thông 'tức' 瘜.",
+                "(Danh) Họ 'Tính'.",
+                "(Động) Nghỉ, ngưng. ◎Như: 'hưu tức' 休息 nghỉ ngơi, 'an tức' 安息 yên nghỉ.",
+                "(Động) Sinh trưởng, sinh ra lớn lên. ◎Như: 'sanh tức phồn thực' 生息繁殖 sinh sôi nẩy nở.",
+                "(Động) An ủi. ◇Chiến quốc sách 戰國策: 'Chấn khốn cùng, bổ bất túc, thị trợ vương tức kì dân giả dã' 振困窮, 補不足, 是助王息其民者也 (Tề sách tứ 齊策四) Giúp đỡ những kẻ khốn cùng, thiếu thốn, (như vậy) là giúp vua (Tề) cứu vớt, an ủi nhân dân của nhà vua.",
+                "(Động) Thở, hô hấp. ◎Như: 'thái tức' 太息 thở dài, than thở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hơi thở, mũi thở ra hít vào một lượt gọi là nhất tức 一息. Thở dài mà than thở gọi là thái tức 太息.",
+                "Nghỉ, như hưu tức 休息 nghỉ ngơi, an tức 安息 yên nghỉ, v.v.",
+                "Con cái, con trai con gái còn bé gọi là nhược tức 弱息.",
+                "Lãi. Tiền vốn gọi là mẫu 母, số lãi ở tiền vốn ra gọi là tức 息.",
+                "Thôi.",
+                "Yên ủi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hơi thở: 一息尚存，此志不懈 Chừng nào còn một hơi thở, thì chí này vẫn không nao núng;",
+                "Tin tức: 信息 Thư tín;",
+                "Đình chỉ, ngừng, nghỉ: 日落而息 Mặt trời lặn thì nghỉ làm; 風止雨息 Mưa tạnh gió ngừng;",
+                "(cũ) Con cái: 子息 Con cái; 弱息 Con cái còn nhỏ, con mọn; 生息繁殖 Sinh sôi nảy nở;",
+                "Lãi, lợi tức: 年息 Lợi tức hàng năm;",
+                "(văn) An ủi;",
+                "[Xi] (Họ) Tức."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hơi thở — Ngừng.Thôi. Td: Hưu tức ( thôi, ngừng ) — Tin báo cho biết. Td: Tiêu tức — Tiền lãi ( lời ). Td: Lợi tức. Con cái. Td: Tử tức."
+            ],
+            "compound_words": {
+                "安息": "an tức",
+                "音息": "âm tức",
+                "本息": "bản tức",
+                "保息": "bảo tức",
+                "屏息": "bình tức",
+                "屛息": "bình tức",
+                "止息": "chỉ tức",
+                "姑息": "cô tức",
+                "股息": "cổ tức",
+                "休息": "hưu tức",
+                "慨息": "khái tức",
+                "利息": "lợi tức",
+                "沒出息": "một xuất tức",
+                "月息": "nguyệt tức",
+                "一息": "nhất tức",
+                "發息": "phát tức",
+                "繁息": "phiền tức",
+                "複利息": "phức lợi tức",
+                "生息": "sinh tức",
+                "喘息": "suyễn tức",
+                "殘息": "tàn tức",
+                "叹息": "thán tức",
+                "嘆息": "thán tức",
+                "消息": "tiêu tức",
+                "信息": "tín tức",
+                "債息": "trái tức",
+                "窒息": "trất tức",
+                "出息": "xuất tức",
+                "奄息": "yểm tức",
+                "偃旗息鼓": "yển kì tức cổ",
+                "偃息": "yển tức",
+                "宴息": "yến tức"
+            }
+        }
+    }
+}

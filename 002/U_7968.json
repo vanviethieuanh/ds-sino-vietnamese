@@ -1,0 +1,157 @@
+{
+    "character": "票",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "phiếu",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "kỳ 示 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱覀示"
+        ],
+        "Nét bút": [
+            "一丨フ丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MWMMF (一田一一火)"
+        ],
+        "Unicode": [
+            "U+7968"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "piāo ㄆㄧㄠ",
+            "piào ㄆㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "phiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "biu1",
+            "piu3"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển phổ thông": [
+                "nhẹ nhàng, nhanh nhẹn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiền giấy, tiền. ◎Như: 'sao phiếu' 鈔票 tiền giấy.",
+                "(Danh) Vé, tem, hóa đơn, giấy chứng nhận, giấy làm bằng cứ, phiếu, v.v. ◎Như: 'hối phiếu' 匯票 phiếu đổi lấy tiền bạc, 'xa phiếu' 車票 vé xe, 'hí phiếu' 戲票 vé xem hát.",
+                "(Danh) Con tin (tiếng Anh: \"hostage\"). ◎Như: 'bảng phiếu' 綁票 bắt cóc con tin (để tống tiền, v.v.).",
+                "(Danh) Người diễn tuồng, đóng kịch nghiệp dư, không phải chuyên nghiệp. ◎Như: 'ngoạn phiếu' 玩票 hát tuồng nghiệp dư.",
+                "(Danh) Lượng từ: (1) Người. ◎Như: 'nhất phiếu nhân' 一票人 một người. (2) Đơn vị chỉ số, lần trong việc giao dịch: cuộc, món, vụ, v.v. ◎Như: 'nhất phiếu mãi mại' 一票買賣 một cuộc mua bán.",
+                "Một âm là 'tiêu'. (Danh) Lửa lém, lửa bay.",
+                "Lại một âm là 'phiêu'. (Phó) Nhẹ nhàng, nhanh nhẹn. § Thông 'phiêu' 嫖. ◎Như: 'phiêu diêu' 票姚: (1) Nhanh nhẹn và cứng cỏi. (2) Nhà Hán gọi quan binh là 'phiêu diêu'. § Cũng viết là 嫖姚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chứng chỉ, cái dấu hiệu để nêu tên cho dễ nhận. Như hối phiếu 匯票 cái phiếu đổi lấy tiền bạc.",
+                "Một âm là tiêu. Lửa lém, lửa bay.",
+                "Lại một âm là phiêu. Nhẹ nhàng, nhanh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lay động (Như 飄 , bộ 風): 橫鉅海，票昆侖 Tung hoành biển lớn, lay động núi Côn Lôn (Hán thư: Dương Hùng truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lay động — Nhẹ nhàng — Các âm khác là Phiếu, Tiêu. Xem các âm này."
+            ],
+            "compound_words": {
+                "票姚": "phiêu diêu",
+                "票搖": "phiêu diêu",
+                "票動": "phiêu động",
+                "票忽": "phiêu hốt"
+            }
+        },
+        "phiếu": {
+            "Từ điển phổ thông": [
+                "tấm vé, tem, phiếu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiền giấy, tiền. ◎Như: 'sao phiếu' 鈔票 tiền giấy.",
+                "(Danh) Vé, tem, hóa đơn, giấy chứng nhận, giấy làm bằng cứ, phiếu, v.v. ◎Như: 'hối phiếu' 匯票 phiếu đổi lấy tiền bạc, 'xa phiếu' 車票 vé xe, 'hí phiếu' 戲票 vé xem hát.",
+                "(Danh) Con tin (tiếng Anh: \"hostage\"). ◎Như: 'bảng phiếu' 綁票 bắt cóc con tin (để tống tiền, v.v.).",
+                "(Danh) Người diễn tuồng, đóng kịch nghiệp dư, không phải chuyên nghiệp. ◎Như: 'ngoạn phiếu' 玩票 hát tuồng nghiệp dư.",
+                "(Danh) Lượng từ: (1) Người. ◎Như: 'nhất phiếu nhân' 一票人 một người. (2) Đơn vị chỉ số, lần trong việc giao dịch: cuộc, món, vụ, v.v. ◎Như: 'nhất phiếu mãi mại' 一票買賣 một cuộc mua bán.",
+                "Một âm là 'tiêu'. (Danh) Lửa lém, lửa bay.",
+                "Lại một âm là 'phiêu'. (Phó) Nhẹ nhàng, nhanh nhẹn. § Thông 'phiêu' 嫖. ◎Như: 'phiêu diêu' 票姚: (1) Nhanh nhẹn và cứng cỏi. (2) Nhà Hán gọi quan binh là 'phiêu diêu'. § Cũng viết là 嫖姚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chứng chỉ, cái dấu hiệu để nêu tên cho dễ nhận. Như hối phiếu 匯票 cái phiếu đổi lấy tiền bạc.",
+                "Một âm là tiêu. Lửa lém, lửa bay.",
+                "Lại một âm là phiêu. Nhẹ nhàng, nhanh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vé, tem, hoá đơn, phiếu, giấy, tiền giấy, tiền bạc: 買票 Mua vé; 彩票 Vé xổ số; 火車票 Vé tàu hoả; 布票 Phiếu (mua) vải; 欠資郵票 Tem phạt; 給我一張發票 Cho tôi tờ hoá đơn; 投贊成票 Bỏ phiếu tán thành; 不記名投票 Bỏ phiếu kín; 沒有零（小）票 Không có tiền (giấy) lẻ; 五元的大票 Giấy bạc 5 đồng;",
+                "(đph) Một chuyến hàng, một món: 一票兒買賣 Đi buôn một chuyến; 一票貨 Một món hàng, một số hàng hoá;",
+                "(văn) Nhẹ nhàng, nhanh chóng, mau lẹ: 遣票輕吏微求人罪 Sai một viên quan nhanh lẹ ngầm đi dò tìm lỗi của người (Hán thư: Vương Thương truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tờ giấy làm bằng — Tấm giấy ghi chép sự việc — Ngày nay còn hiểu là tờ giấy giúp mình bày tỏ ý kiến, hoặc lựa chọn. Ta cũng gọi là lá Phiếu — Các âm khác là Phiêu, Tiêu. Xem các âm này."
+            ],
+            "compound_words": {
+                "半票": "bán phiếu",
+                "綁票": "bảng phiếu",
+                "憑票": "bằng phiếu",
+                "不信任投票": "bất tín nhiệm đầu phiếu",
+                "郵票": "bưu phiếu",
+                "拘票": "câu phiếu",
+                "支票": "chi phiếu",
+                "股票": "cổ phiếu",
+                "公庫票": "công khố phiếu",
+                "得票": "đắc phiếu",
+                "投票": "đầu phiếu",
+                "提票": "đề phiếu",
+                "匯票": "hối phiếu",
+                "開票": "khai phiếu",
+                "期票": "kỳ phiếu",
+                "拉票": "lạp phiếu",
+                "票紙": "phiếu chỉ",
+                "票㨿": "phiếu cứ",
+                "票櫃": "phiếu quỹ",
+                "鈔票": "sao phiếu",
+                "債票": "trái phiếu",
+                "車票": "xa phiếu"
+            }
+        },
+        "tiêu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tiền giấy, tiền. ◎Như: 'sao phiếu' 鈔票 tiền giấy.",
+                "(Danh) Vé, tem, hóa đơn, giấy chứng nhận, giấy làm bằng cứ, phiếu, v.v. ◎Như: 'hối phiếu' 匯票 phiếu đổi lấy tiền bạc, 'xa phiếu' 車票 vé xe, 'hí phiếu' 戲票 vé xem hát.",
+                "(Danh) Con tin (tiếng Anh: \"hostage\"). ◎Như: 'bảng phiếu' 綁票 bắt cóc con tin (để tống tiền, v.v.).",
+                "(Danh) Người diễn tuồng, đóng kịch nghiệp dư, không phải chuyên nghiệp. ◎Như: 'ngoạn phiếu' 玩票 hát tuồng nghiệp dư.",
+                "(Danh) Lượng từ: (1) Người. ◎Như: 'nhất phiếu nhân' 一票人 một người. (2) Đơn vị chỉ số, lần trong việc giao dịch: cuộc, món, vụ, v.v. ◎Như: 'nhất phiếu mãi mại' 一票買賣 một cuộc mua bán.",
+                "Một âm là 'tiêu'. (Danh) Lửa lém, lửa bay.",
+                "Lại một âm là 'phiêu'. (Phó) Nhẹ nhàng, nhanh nhẹn. § Thông 'phiêu' 嫖. ◎Như: 'phiêu diêu' 票姚: (1) Nhanh nhẹn và cứng cỏi. (2) Nhà Hán gọi quan binh là 'phiêu diêu'. § Cũng viết là 嫖姚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chứng chỉ, cái dấu hiệu để nêu tên cho dễ nhận. Như hối phiếu 匯票 cái phiếu đổi lấy tiền bạc.",
+                "Một âm là tiêu. Lửa lém, lửa bay.",
+                "Lại một âm là phiêu. Nhẹ nhàng, nhanh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa táp qua — Các âm khác là Phiêu, Phiếu. Xem các âm này."
+            ]
+        }
+    }
+}

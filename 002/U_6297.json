@@ -1,0 +1,115 @@
+{
+    "character": "抗",
+    "details": {
+        "Âm Hán Việt": [
+            "kháng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘亢"
+        ],
+        "Nét bút": [
+            "一丨一丶一ノフ"
+        ],
+        "Thương Hiệt": [
+            "QYHN (手卜竹弓)"
+        ],
+        "Unicode": [
+            "U+6297"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "káng ㄎㄤˊ",
+            "kàng ㄎㄤˋ"
+        ],
+        "Âm Nôm": [
+            "kháng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あらが.う (araga.u)"
+        ],
+        "Âm Hàn": [
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "kong3"
+        ]
+    },
+    "meanings": {
+        "kháng": {
+            "Từ điển phổ thông": [
+                "vác",
+                "chống lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chống cự, chống lại. ◎Như: 'phản kháng' 反抗 chống đối, 'kháng địch' 抗敵 đối địch, 'kháng bạo' 抗暴 chống lại bạo lực.",
+                "(Động) Không tuân theo. ◎Như: 'kháng mệnh' 抗命 không tuân theo mệnh lệnh.",
+                "(Động) Ngang ngửa, không bên nào thua. ◎Như: 'kháng hành' 抗衡 ngang ngửa, 'phân đình kháng lễ' 分庭抗禮 chia nhà làm lễ ngang nhau.",
+                "(Động) Giơ, nâng. ◇Tào Thực 曹植: 'Kháng la mệ dĩ yểm thế hề, lệ lưu khâm chi lang lang' 抗羅袂以掩涕兮, 淚流襟之浪浪 (Lạc thần phú 洛神賦) Nâng tay áo là che nước mắt hề, nước mắt chảy thấm khăn đầm đìa.",
+                "(Động) Giấu, cất.",
+                "(Tính) Cương trực, chính trực. ◇Tiêu Thống 蕭統: 'Nhược hiền nhân chi mĩ từ, trung thần chi kháng trực' 若賢人之美辭, 忠臣之抗直 (Văn tuyển tự 文選序) Như lời hay đẹp của người hiền tài, lòng cương trực của bậc trung thần.",
+                "(Tính) Cao thượng. ◎Như: 'kháng chí' 抗志 chí cao khiết.",
+                "(Danh) Họ 'Kháng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vác.",
+                "Chống cự, như kháng nghị 抗議 chống cự lời bàn, kháng mệnh 抗命 chống cự lại mệnh lệnh.",
+                "Ngang, như phân đình kháng lễ 分庭抗禮 chia nhà địch lễ, nghĩa là cùng đứng riêng một phe mà làm lễ ngang nhau.",
+                "Giấu, cất.",
+                "Lang kháng 狼抗 nặng nề."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chống cự, chống lại, chống đối, phản đối: 抗暴鬥爭 Cuộc đấu tranh chống bạo lực; 違抗法律 Chống lại luật pháp;",
+                "Ngang ngửa nhau, đối lại. 【抗衡】kháng hoành [kàng héng] Chống đối, chống chọi, không ai thua ai;",
+                "(văn) Vác;",
+                "(văn) Giấu, cất;",
+                "(văn) 狼抗;",
+                "(văn) Cao khiết;",
+                "[Kàng] (Họ) Kháng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa lên cao, đội lên — Ngăn cản. Chống cự."
+            ],
+            "compound_words": {
+                "排抗": "bài kháng",
+                "不可抗": "bất khả kháng",
+                "不可抗力": "bất khả kháng lực",
+                "支抗": "chi kháng",
+                "抵抗": "để kháng",
+                "对抗": "đối kháng",
+                "對抗": "đối kháng",
+                "抗吿": "kháng cáo",
+                "抗战": "kháng chiến",
+                "抗戰": "kháng chiến",
+                "抗拒": "kháng cự",
+                "抗衡": "kháng hành",
+                "抗击": "kháng kích",
+                "抗擊": "kháng kích",
+                "抗議": "kháng nghị",
+                "抗议": "kháng nghị",
+                "抗生": "kháng sinh",
+                "抗体": "kháng thể",
+                "抗體": "kháng thể",
+                "抗稅": "kháng thuế",
+                "抗書": "kháng thư",
+                "反抗": "phản kháng"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "岩",
+    "details": {
+        "Âm Hán Việt": [
+            "nham"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "sơn 山 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱山石"
+        ],
+        "Nét bút": [
+            "丨フ丨一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "UMR (山一口)"
+        ],
+        "Unicode": [
+            "U+5CA9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "nham",
+            "nhem"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガン (gan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いわ (iwa)"
+        ],
+        "Âm Hàn": [
+            "암"
+        ],
+        "Âm Quảng Đông": [
+            "ngaam4"
+        ]
+    },
+    "meanings": {
+        "nham": {
+            "Từ điển phổ thông": [
+                "núi cao ngất",
+                "nơi hiểm yếu",
+                "hang núi",
+                "thạch đá, đá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Cũng như 'nham' 巖. ◎Như: 'nham đỗng' 岩洞 hang núi.",
+                "(Danh) Chất quặng lẫn cả đá cát làm thành vỏ địa cầu. § Do khí nóng của đất mà thành gọi là 'hỏa thành nham' 火成岩, do gió thổi nước chảy mòn gọi là 'thủy thành nham' 水成岩."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðá nham, một chất lẫn cả đá cát để làm thành vỏ đất bọc quả địa cầu. Do khí nóng của đất mà thành gọi là hoả thành nham 火成岩, do gió thổi nước chảy mòn gọi là thuỷ thành nham 水成岩.Tục dùng như chữ nham 巖."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vách núi: 七星巖 Vách núi Thất Tinh (ở Quảng Đông, Trung Quốc);",
+                "Đá: 花崗巖 Đá hoa cương, đá granit. Cv. 巗，巌，岢，喦."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết giản dị của chữ Nham 巖."
+            ],
+            "compound_words": {
+                "熔岩": "dung nham",
+                "悬岩": "huyền nham",
+                "懸岩": "huyền nham",
+                "岩磴": "nham đặng",
+                "岩石": "nham thạch",
+                "岩浆": "nham tương",
+                "岩漿": "nham tương",
+                "噴出岩": "phún xuất nham"
+            }
+        }
+    }
+}

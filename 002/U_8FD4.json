@@ -1,0 +1,98 @@
+{
+    "character": "返",
+    "details": {
+        "Âm Hán Việt": [
+            "phiên",
+            "phản"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sước 辵 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶反"
+        ],
+        "Nét bút": [
+            "ノノフ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YHE (卜竹水)"
+        ],
+        "Unicode": [
+            "U+8FD4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fǎn ㄈㄢˇ"
+        ],
+        "Âm Nôm": [
+            "phản"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かえ.す (kae.su)",
+            "-かえ.す (-kae.su)",
+            "かえ.る (kae.ru)",
+            "-かえ.る (-kae.ru)"
+        ],
+        "Âm Hàn": [
+            "반"
+        ],
+        "Âm Quảng Đông": [
+            "faan1",
+            "faan2"
+        ]
+    },
+    "meanings": {
+        "phiên": {
+            "Từ điển phổ thông": [
+                "ngược",
+                "sai trái",
+                "trở lại",
+                "trả lại"
+            ]
+        },
+        "phản": {
+            "Từ điển phổ thông": [
+                "ngược",
+                "sai trái",
+                "trở lại",
+                "trả lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trả lại. ◇Sưu Thần Kí 搜神記: 'Phản nhữ trâm' 返汝簪 (Quyển tứ) Trả lại mi cái trâm.",
+                "(Động) Trở lại, quay về. ◇Nguyễn Du 阮攸: 'Thận vật tái phản linh nhân xuy' 愼勿再返令人嗤 (Phản chiêu hồn 反招魂) Đừng trở lại đây nữa để người ta mai mỉa (nói với Khuất Nguyên).",
+                "(Động) Chiếu lại. ◎Như: 'hồi quang phản chiếu' 迴光返照.",
+                "(Động) Thay đổi. ◇Lã Thị Xuân Thu 呂氏春秋: 'Phản sắt nhi huyền' 返瑟而弦 (Hiếu hạnh lãm 孝行覽) Đổi cái đàn sắt mà gảy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trả lại.",
+                "Trở lại. Nguyễn Du 阮攸: Thận vật tái phản linh nhân xi 愼勿再返令人嗤 (Khuất Nguyên) đừng trở lại đây nữa để người ta mai mỉa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trở về, trở lại: 往返 Đi và trở về; 重返故鄉 Trở về quê hương; 一去不復返 Đã qua rồi không bao giờ trở lại nữa;",
+                "Trả lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trở về. Quay về. Như chữ Phản 反 — Lại. Lại nữa."
+            ],
+            "compound_words": {
+                "返回": "phản hồi",
+                "返老還童": "phản lão hoàn đồng",
+                "往返": "vãng phản"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "character": "蒀",
+    "details": {
+        "Âm Hán Việt": [
+            "uân"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿱艹昷"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "TABT (廿日月廿)"
+        ],
+        "Unicode": [
+            "U+8480"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yūn ㄩㄣ"
+        ],
+        "Âm Quảng Đông": [
+            "wan1"
+        ]
+    },
+    "meanings": {
+        "uân": {
+            "Từ điển phổ thông": [
+                "(xem: thiên niên uân 千年蒕,千年蒀)",
+                "(xem: phần uân 葐蒕,葐蒀)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 蒕"
+            ],
+            "compound_words": {
+                "葐蒀": "phần uân",
+                "千年蒀": "thiên niên uân"
+            }
+        }
+    }
+}

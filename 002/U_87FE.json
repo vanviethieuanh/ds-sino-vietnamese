@@ -1,0 +1,78 @@
+{
+    "character": "蟾",
+    "details": {
+        "Âm Hán Việt": [
+            "thiềm"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trùng 虫 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫詹"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノフ一ノノ丶丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LINCR (中戈弓金口)"
+        ],
+        "Unicode": [
+            "U+87FE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ"
+        ],
+        "Âm Nôm": [
+            "thiêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "섬"
+        ],
+        "Âm Quảng Đông": [
+            "sim4"
+        ]
+    },
+    "meanings": {
+        "thiềm": {
+            "Từ điển phổ thông": [
+                "(xem: thiềm thừ 蟾蜍)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'thiềm thừ' 蟾蜍.",
+                "(Danh) Theo truyền thuyết, những vết đen đen trên mặt trăng là con cóc, nên gọi ánh trăng là 'thiềm' 蟾. Cũng gọi mặt trăng là 'thiềm cung' 蟾宮, 'ngân thiềm' 銀蟾 hay 'minh thiềm' 明蟾. ◇Trần Sư Đạo 陳師道: 'Thu thiềm chỉ độc minh' 秋蟾只獨明 (Dạ cú 夜句) Trăng thu chỉ sáng một mình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thiềm thừ 蟾蜍 con cóc.",
+                "Tục nói những vết đen đen trên mặt trăng là con cóc, nên gọi mặt trăng là thiềm cung 蟾宮 hay ngân thiềm 銀蟾, minh thiềm 明蟾, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蟾蜍】thiềm thừ [chánchú] Con cóc, cóc tía;",
+                "Mặt trăng (theo truyền thuyết)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con cóc — Chỉ mặt trăng, vì trên mặt trăng có bóng đen, trông giống hình con cóc. Truyện  Hoa Tiên : » Mảnh thư đưa đến cung thiềm được không «."
+            ],
+            "compound_words": {
+                "銀蟾": "ngân thiềm",
+                "玉蟾": "ngọc thiềm",
+                "蟾宮": "thiềm cung",
+                "蟾蜍": "thiềm thừ"
+            }
+        }
+    }
+}

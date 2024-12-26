@@ -1,0 +1,88 @@
+{
+    "character": "袈",
+    "details": {
+        "Âm Hán Việt": [
+            "ca",
+            "cà",
+            "già"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "y 衣 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱加衣"
+        ],
+        "Nét bút": [
+            "フノ丨フ一丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "KRYHV (大口卜竹女)"
+        ],
+        "Unicode": [
+            "U+8888"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jiā ㄐㄧㄚ"
+        ],
+        "Âm Nôm": [
+            "ca"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケ (ke)",
+            "カ (ka)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa1"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển phổ thông": [
+                "(xem: ca sa 袈裟)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Ca-sa” 袈裟 áo cà sa (phiên âm tiếng Phạn \"kasaya\")."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ca sa 袈裟 cái áo cà sa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【袈裟】già sa [jiasha] Áo già sa (cà sa): 袈裟未著嫌多事，著得袈裟事更多 Già sa chưa khoác hiềm nhiều chuyện, khoác được già sa chuyện lại thêm (Tô Thức)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ca-sa 袈裟: Cái áo riêng của tu sĩ Phật giáo, may bằng nhiều mảnh vải đủ loại, đủ màu sắc xin được của các thí chủ. Cũng đọc Cà-sa."
+            ],
+            "compound_words": {
+                "袈裟": "ca sa"
+            }
+        },
+        "cà": {
+            "Từ điển Trần Văn Chánh": [
+                "【袈裟】già sa [jiasha] Áo già sa (cà sa): 袈裟未著嫌多事，著得袈裟事更多 Già sa chưa khoác hiềm nhiều chuyện, khoác được già sa chuyện lại thêm (Tô Thức)."
+            ],
+            "compound_words": {
+                "袈裟": "cà sa"
+            }
+        },
+        "già": {
+            "Từ điển Trần Văn Chánh": [
+                "【袈裟】già sa [jiasha] Áo già sa (cà sa): 袈裟未著嫌多事，著得袈裟事更多 Già sa chưa khoác hiềm nhiều chuyện, khoác được già sa chuyện lại thêm (Tô Thức)."
+            ]
+        }
+    }
+}

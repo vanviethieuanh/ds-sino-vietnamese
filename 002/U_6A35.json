@@ -1,0 +1,88 @@
+{
+    "character": "樵",
+    "details": {
+        "Âm Hán Việt": [
+            "tiều"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mộc 木 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木焦"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丨丶一一一丨一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "DOGF (木人土火)"
+        ],
+        "Unicode": [
+            "U+6A35"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "qiáo ㄑㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "tiều"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きこ.る (kiko.ru)",
+            "こ.る (ko.ru)",
+            "きこり (kikori)"
+        ],
+        "Âm Hàn": [
+            "초"
+        ],
+        "Âm Quảng Đông": [
+            "ciu4"
+        ]
+    },
+    "meanings": {
+        "tiều": {
+            "Từ điển phổ thông": [
+                "người đốn củi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Củi, gỗ vụn. ◎Như: 'thải tiều' 採樵 đốn củi, nhặt củi, 'tiều tô' 樵蘇 củi và cỏ (cũng chỉ hái củi và cắt cỏ).",
+                "(Danh) Ngày xưa, dùng như 'tiều' 譙: đài hay chòi cao.",
+                "(Động) Kiếm củi. ◎Như: 'tiều phu' 樵夫 người kiếm củi.",
+                "(Động) Đốt cháy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Củi.",
+                "Kiếm củi. Kẻ kiếm củi gọi là tiều phu 樵夫.",
+                "Ðốt cháy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lấy củi, đốn củi, kiếm củi: 樵夫 Người đốn củi, tiều phu;",
+                "(đph) Củi: 採樵 Lấy củi, đốn củi;",
+                "(văn) Đốt cháy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Củi. Cành cây dùng để đun bếp — Kiếm củi — Người kiếm củi. Thơ Bà Huyện Thanh quan: » Lom khom dưới núi tiều vài chú «."
+            ],
+            "compound_words": {
+                "漁樵": "ngư tiều",
+                "漁樵問答": "ngư tiều vấn đáp",
+                "芻獵漁樵": "sô lạp ngư tiều",
+                "樵隱詩集": "tiều ẩn thi tập",
+                "樵夫": "tiều phu"
+            }
+        }
+    }
+}

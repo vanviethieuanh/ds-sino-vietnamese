@@ -1,0 +1,92 @@
+{
+    "character": "倍",
+    "details": {
+        "Âm Hán Việt": [
+            "bội"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻咅"
+        ],
+        "Nét bút": [
+            "ノ丨丶一丶ノ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OYTR (人卜廿口)"
+        ],
+        "Unicode": [
+            "U+500D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bạu",
+            "bậu",
+            "bội",
+            "buạ",
+            "vội"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)"
+        ],
+        "Âm Hàn": [
+            "배",
+            "패"
+        ],
+        "Âm Quảng Đông": [
+            "pui5"
+        ]
+    },
+    "meanings": {
+        "bội": {
+            "Từ điển phổ thông": [
+                "gấp nhiều lần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phản bội, làm phản. ◎Như: 'sư tử nhi bội chi' 師死而倍之 thầy chết mà phản lại ngay.",
+                "(Động) Quay lưng về. ◇Sử Kí 史記: 'Binh pháp hữu bội san lăng, tiền tả thủy trạch' 兵法右倍山陵, 前左水澤 (Hoài Âm Hầu truyện 淮陰侯傳) Binh pháp nói 'Bên phải quay lưng về núi gò, trước mặt bên trái có sông đầm\".",
+                "(Động) Gấp, tăng lên nhiều lần. ◎Như: 'bội nhị' 倍二 gấp hai, 'bội tam' 倍三 gấp ba.",
+                "(Danh) Lượng từ: bội số (số nhân lên nhiều lần). ◎Như: 'thập bội' 十倍 số gấp mười, 'lục thị tam đích lưỡng bội' 六是三的兩倍 sáu là bội số của ba nhân hai.",
+                "(Phó) Tăng thêm, gia tăng. ◎Như: 'dũng khí bội tăng' 勇氣倍增 dũng khí tăng lên gấp bội."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gấp, như bội nhị 倍二 gấp hai, bội tam 倍三 gấp ba, v.v.",
+                "Phản bội, là trái lại, như sư tử nhi bội chi 師死而倍之 thầy chết mà phản lại ngay."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gấp, lần: 產量增加一倍 Sản lượng tăng gấp đôi; 二的五倍是十 Năm lần hai là mười;",
+                "(văn) Chống đối, không phục tùng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tăng thêm — Gấp nhiều lần — Trái lại."
+            ],
+            "compound_words": {
+                "鄙倍": "bỉ bội",
+                "倍僪": "bội huất",
+                "倍数": "bội số",
+                "倍數": "bội số",
+                "倍塔": "bội tháp",
+                "倍稱": "bội xưng",
+                "加倍": "gia bội",
+                "過倍": "quá bội",
+                "三倍": "tam bội",
+                "萬倍": "vạn bội"
+            }
+        }
+    }
+}

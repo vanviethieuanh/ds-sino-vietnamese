@@ -1,0 +1,108 @@
+{
+    "character": "褐",
+    "details": {
+        "Âm Hán Việt": [
+            "cát",
+            "hạt"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "y 衣 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤曷"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "LAPV (中日心女)"
+        ],
+        "Unicode": [
+            "U+8910"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hé ㄏㄜˊ",
+            "hè ㄏㄜˋ"
+        ],
+        "Âm Nôm": [
+            "hạt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Hàn": [
+            "갈"
+        ],
+        "Âm Quảng Đông": [
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển phổ thông": [
+                "áo vải to"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo vải thô. ◎Như: 'đoản hạt' 短褐 quần áo ngắn vải thô.",
+                "(Danh) Chỉ người nghèo hèn. ◎Như: 'hạt phu' 褐夫 kẻ nghèo hèn.",
+                "(Danh) Sắc vàng sẫm không có màu mỡ. ◎Như: 'trà hạt sắc' 茶褐色 trà vàng đen.",
+                "(Danh) Họ 'Hạt'.",
+                "§ Ghi chú: Ta quen đọc là 'cát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo vải to.",
+                "Người nghèo hèn mặc áo vải to, cho nên người nghèo hèn cũng gọi là hạt.",
+                "Sắc vàng sẫm mà không có màu mở gọi là hát sắc 褐色 (sắc kềnh kệch). Ta quen đọc là chữ cát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại dép xấu đan bằng cỏ gai — Loại vải thô xấu dùng may áo cho người nghèo — Chỉ sự nghèo nàn — Màu vàng đen — Đáng lẽ đọc Hạt."
+            ],
+            "compound_words": {
+                "被褐懷玉": "bị cát hoài ngọc",
+                "褐夫": "cát phu",
+                "裘褐": "cừu cát"
+            }
+        },
+        "hạt": {
+            "Từ điển phổ thông": [
+                "áo vải to"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo vải thô. ◎Như: 'đoản hạt' 短褐 quần áo ngắn vải thô.",
+                "(Danh) Chỉ người nghèo hèn. ◎Như: 'hạt phu' 褐夫 kẻ nghèo hèn.",
+                "(Danh) Sắc vàng sẫm không có màu mỡ. ◎Như: 'trà hạt sắc' 茶褐色 trà vàng đen.",
+                "(Danh) Họ 'Hạt'.",
+                "§ Ghi chú: Ta quen đọc là 'cát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo vải to.",
+                "Người nghèo hèn mặc áo vải to, cho nên người nghèo hèn cũng gọi là hạt.",
+                "Sắc vàng sẫm mà không có màu mở gọi là hát sắc 褐色 (sắc kềnh kệch). Ta quen đọc là chữ cát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quần áo vải thô: 短褐 Quần áo ngắn vải thô;",
+                "Màu be, màu marông, màu vàng sẫm, màu nâu xám;",
+                "(văn) Người nghèo (vì người nghèo mặc áo vải thô)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chiếc áo vải xấu — Chỉ sự nghèo hèn — Màu vàng pha đen, vàng kệch — Ta quen đọc Cát."
+            ],
+            "compound_words": {
+                "被褐懷玉": "bị hạt hoài ngọc",
+                "褐夫": "hạt phu"
+            }
+        }
+    }
+}

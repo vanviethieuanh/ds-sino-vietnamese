@@ -1,0 +1,82 @@
+{
+    "character": "葺",
+    "details": {
+        "Âm Hán Việt": [
+            "tập"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹咠"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "TRSJ (廿口尸十)"
+        ],
+        "Unicode": [
+            "U+847A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tập"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あし (ashi)",
+            "ふ.く (fu.ku)",
+            "ふき (fuki)"
+        ],
+        "Âm Hàn": [
+            "즙"
+        ],
+        "Âm Quảng Đông": [
+            "cap1"
+        ]
+    },
+    "meanings": {
+        "tập": {
+            "Từ điển phổ thông": [
+                "tu bổ lại",
+                "chồng chất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lấy cỏ tranh che lợp lại mái nhà. ◇Khuất Nguyên 屈原: 'Trúc thất hề thủy trung, tập chi hề hà cái' 築室兮水中, 葺之兮荷蓋 (Cửu ca 九歌, Tương Phu nhân 湘夫人) Cất nhà hề trong nước, lợp mái hề cây sen.",
+                "(Động) Tu bổ, sửa sang. ◇Tam quốc diễn nghĩa 三國演義: 'Tu tập thành viên, phủ dụ cư dân' 修葺城垣, 撫諭居民 (Đệ thập nhất hồi) Sửa sang thành quách, phủ dụ dân cư.",
+                "(Động) Chồng chất, tích lũy. ◇Khuất Nguyên 屈原: 'Ngư tập lân dĩ tự biệt hề, giao long ẩn kì văn chương' 魚葺鱗以自別兮, 蛟龍隱其文章 (Cửu chương 九章, Bi hồi phong 悲回風) Bầy cá chồng chất vảy để làm cho mình khác lạ hề, giao long che giấu vẻ sáng rỡ của mình đi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tu bổ lại. Lấy cỏ lấy lá giọi lại mái nhà gọi là tập. Sửa sang lại nhà cửa cũng gọi là tập.",
+                "Chồng chất, họp lại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chữa, tu bổ lại, giọi lại (mái nhà): 修葺房屋 Chữa nhà, lợp lại nhà;",
+                "Chồng chất, họp lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên thứ cỏ thường dùng để lợp nhà thời xưa."
+            ],
+            "compound_words": {
+                "葺屋": "tập ốc"
+            }
+        }
+    }
+}

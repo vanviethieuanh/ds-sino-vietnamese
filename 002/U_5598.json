@@ -1,0 +1,90 @@
+{
+    "character": "喘",
+    "details": {
+        "Âm Hán Việt": [
+            "suyễn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口耑"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ丨一ノ丨フ丨丨"
+        ],
+        "Thương Hiệt": [
+            "RUMB (口山一月)"
+        ],
+        "Unicode": [
+            "U+5598"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chuǎn ㄔㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "siễn",
+            "suyển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゼン (zen)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あえ.ぐ (ae.gu)",
+            "せき (seki)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cyun2"
+        ]
+    },
+    "meanings": {
+        "suyễn": {
+            "Từ điển phổ thông": [
+                "hổn hển",
+                "thở",
+                "bệnh suyễn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thở gấp, thở hổn hển. ◎Như: 'suyễn tức' 喘息 thở hổn hển, 'suyễn hu hu' 喘吁吁 thở phì phò, 'khí suyễn nan đương' 氣喘難當 ngộp thở khó chịu.",
+                "(Động) Thở, hô hấp. ◎Như: 'suyễn liễu nhất khẩu khí' 喘了一口氣 thở phào một cái.",
+                "(Danh) Bệnh hen, bệnh suyễn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thở gằn, khí bực tức thở mau quá độ. Ta gọi là bệnh suyễn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thở gấp, thở hổn hển: 累得直喘 Mệt thở hổn hển; 喘不過氣來 Mệt không kịp thở;",
+                "(y) Bệnh hen, bệnh suyễn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hơi thở mạnh — Bệnh kéo đờm khó thở, phải cố gắn mới thở được — Nói nhỏ. Nói thì thào, như hơi thở."
+            ],
+            "compound_words": {
+                "餘喘": "dư suyễn",
+                "痰喘": "đàm suyễn",
+                "氣喘": "khí suyễn",
+                "喘气": "suyễn khí",
+                "喘氣": "suyễn khí",
+                "喘息": "suyễn tức",
+                "喘咽": "suyễn yết",
+                "殘喘": "tàn suyễn"
+            }
+        }
+    }
+}

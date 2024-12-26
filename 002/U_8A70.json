@@ -1,0 +1,99 @@
+{
+    "character": "詰",
+    "details": {
+        "Âm Hán Việt": [
+            "cật"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言吉"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRGR (卜口土口)"
+        ],
+        "Unicode": [
+            "U+8A70"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "cật",
+            "gạt",
+            "gợt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キツ (kitsu)",
+            "キチ (kichi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.める (tsu.meru)",
+            "つ.め (tsu.me)",
+            "-づ.め (-zu.me)",
+            "つ.まる (tsu.maru)",
+            "つ.む (tsu.mu)"
+        ],
+        "Âm Hàn": [
+            "힐"
+        ],
+        "Âm Quảng Đông": [
+            "gat1",
+            "kit3"
+        ]
+    },
+    "meanings": {
+        "cật": {
+            "Từ điển phổ thông": [
+                "hỏi vặn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hỏi vặn, gạn hỏi. ◎Như: 'cùng cật' 窮詰 vặn hỏi tới cùng, 'diện cật' 面詰 gạn hỏi tận mặt. ◇Liêu trai chí dị 聊齋志異: 'Cật kì tính thị, viết: Thiếp tổ cư ư Tề. Dĩ Tề vi tính, tiểu tự A Hà' 詰其姓氏, 曰: 妾祖居於齊. 以齊為姓, 小字阿霞 (A Hà 阿霞) Gạn hỏi tên họ, đáp: Tổ tiên thiếp ở xứ Tề (Sơn Đông). Nên lấy Tề làm họ, tên tự là A Hà.",
+                "(Động) Truy cứu, điều tra. ◇Niếp Di Trung 聶夷中: 'Tẩu mã đạp sát nhân, Nhai lại bất cảm cật' 走馬踏殺人, 街吏不敢詰 (Công tử hành 公子) Ngựa chạy đạp chết người, Viên chức trên đường không dám điều tra.",
+                "(Tính) Sau, mai (ngày). ◎Như: 'cật triêu' 詰朝 sáng sớm mai.",
+                "(Tính) Khuất khúc, khúc khuỷu. ◇Tào Tháo 曹操: 'Dương tràng cật khuất, Xa luân vị chi tồi' 羊腸詰屈, 車輪為之摧 (Khổ hàn hành 苦寒行) Đường ruột dê khúc khuỷu, Bánh xe bị gãy bể."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hỏi vặn. Như cùng cật 窮詰 vặn cho cùng tận, diện cật 面詰 vặn hỏi tận mặt, v.v.",
+                "Cật triêu 詰朝 sáng sớm mai.",
+                "Trị.",
+                "Cấm.",
+                "Khuất khúc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hỏi vặn. 【詰問】cật vấn [jiéwèn] (văn) Vặn, hỏi vặn, vặn hỏi: 詰問被告 Vặn hỏi bị cáo;",
+                "Trừng trị;",
+                "Cấm, hạn chế;",
+                "【詰朝】 cật triêu [jiézhao] Sáng sớm mai. Xem 詰 [jí]"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quanh co — Hỏi vặn — Nói ngang — Cấm đoán."
+            ],
+            "compound_words": {
+                "詰奸": "cật gian",
+                "詰屈": "cật khuất",
+                "詰難": "cật nạn",
+                "詰罪": "cật tội",
+                "詰責": "cật trách",
+                "詰朝": "cật triêu",
+                "詰問": "cật vấn"
+            }
+        }
+    }
+}

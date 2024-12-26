@@ -1,0 +1,79 @@
+{
+    "character": "节",
+    "details": {
+        "Âm Hán Việt": [
+            "tiết",
+            "tiệt"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thảo 艸 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹卩"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "TSL (廿尸中)"
+        ],
+        "Unicode": [
+            "U+8282"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiē ㄐㄧㄝ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "tiết"
+        ],
+        "Âm Quảng Đông": [
+            "zit3"
+        ]
+    },
+    "meanings": {
+        "tiết": {
+            "Từ điển phổ thông": [
+                "đốt, đoạn",
+                "tiết trời",
+                "một khoảng thời gian",
+                "ngày tết, lễ",
+                "lễ tháo, tiết tháo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 節."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【節骨眼】 tiết cốt nhãn [jieguyăn] (đph) Giờ phút quan trọng, mấu chốt: 在這節骨眼上 Trong giờ phút quan trọng đó. Xem 節 [jié]."
+            ],
+            "compound_words": {
+                "音节": "âm tiết",
+                "季节": "quý tiết",
+                "使节": "sứ tiết",
+                "时节": "thời tiết",
+                "节点": "tiết điểm",
+                "节目": "tiết mục",
+                "情节": "tình tiết",
+                "字节": "tự tiết",
+                "春节": "xuân tiết"
+            }
+        },
+        "tiệt": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 節."
+            ]
+        }
+    }
+}

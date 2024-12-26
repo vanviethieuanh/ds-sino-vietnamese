@@ -1,0 +1,84 @@
+{
+    "character": "卦",
+    "details": {
+        "Âm Hán Việt": [
+            "quái"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bốc 卜 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰圭卜"
+        ],
+        "Nét bút": [
+            "一丨一一丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "GGY (土土卜)"
+        ],
+        "Unicode": [
+            "U+5366"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "guà ㄍㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "quái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "カイ (kai)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うらかた (urakata)"
+        ],
+        "Âm Hàn": [
+            "괘"
+        ],
+        "Âm Quảng Đông": [
+            "gwaa3"
+        ]
+    },
+    "meanings": {
+        "quái": {
+            "Từ điển phổ thông": [
+                "quẻ trong Kinh Dịch"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Quẻ trong kinh “Dịch” 易. § Họ Phục Hi 伏羲 chế ba “hào” 爻 (vạch) là một “quái” 卦 (quẻ). Hào lại chia ra hào âm hào dương, cùng phối hợp nhau thành tám quẻ, tính gấp lên thành 64 quẻ. Người xưa xem quẻ để đoán “cát hung” 吉凶 lành hay dữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Quẻ, họ Phục-hi 伏羲 chế ba vạch (hào) là một quẻ. Hào lại chia ra hào âm hào dương, cùng phối hợp nhau thành tám quẻ, tính gấp lên thành 64 quẻ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quẻ: 六十四卦 64 quẻ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quẻ bói. Td: Bát quái ( tám quẻ trong kinh Dịch )."
+            ],
+            "compound_words": {
+                "八卦": "bát quái",
+                "八卦拳": "bát quái quyền",
+                "变卦": "biến quái",
+                "變卦": "biến quái",
+                "占卦": "chiêm quái",
+                "卦筮": "quái phệ",
+                "擲卦": "trịch quái",
+                "問卦": "vấn quái"
+            }
+        }
+    }
+}

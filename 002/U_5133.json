@@ -1,0 +1,92 @@
+{
+    "character": "儳",
+    "details": {
+        "Âm Hán Việt": [
+            "sàm",
+            "sảm"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "nhân 人 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻毚"
+        ],
+        "Nét bút": [
+            "ノ丨ノフ丨フ一一フノフノフ丨フ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "ONRI (人弓口戈)"
+        ],
+        "Unicode": [
+            "U+5133"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ",
+            "chàn ㄔㄢˋ"
+        ],
+        "Âm Nôm": [
+            "sàm",
+            "sờm",
+            "xàm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ととのわぬ (totonowanu)",
+            "はや.い (haya.i)",
+            "わる.い (waru.i)"
+        ],
+        "Âm Hàn": [
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "caam3"
+        ]
+    },
+    "meanings": {
+        "sàm": {
+            "Từ điển phổ thông": [
+                "hỗn tạp, không chỉnh tề",
+                "nhanh, tắt",
+                "tướng mạo xấu xí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Không ngay ngắn, không chỉnh tề.",
+                "(Tính) Thuận tiện. ◇Hậu Hán Thư 後漢書: 'Tiến kinh, trì tòng sàm đạo quy doanh' 進驚, 馳從儳道歸營 (Hà Tiến truyện 何進傳) (Hà) Tiến sợ hãi, ruổi ngựa theo đường tắt về trại.",
+                "(Tính) Cẩu thả, thiếu nghiêm túc, không trang trọng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hỗn tạp, không chỉnh tề;",
+                "Nhanh: 儳路 Đường tắt;",
+                "Tướng mạo xấu xí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Không chỉnh tề, ngay ngắn — Một âm là Sảm, xem Sảm."
+            ],
+            "compound_words": {
+                "儳道": "sàm đạo",
+                "儳言": "sàm ngôn",
+                "儳巖": "sàm nham",
+                "儳雜": "sàm tạp"
+            }
+        },
+        "sảm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cẩu thả — Một âm là Sàm. Xem Sàm ."
+            ]
+        }
+    }
+}

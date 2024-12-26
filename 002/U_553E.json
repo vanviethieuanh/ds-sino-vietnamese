@@ -1,0 +1,87 @@
+{
+    "character": "唾",
+    "details": {
+        "Âm Hán Việt": [
+            "thoá"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口垂"
+        ],
+        "Nét bút": [
+            "丨フ一ノ一丨一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "RHJM (口竹十一)"
+        ],
+        "Unicode": [
+            "U+553E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tuò ㄊㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "thoá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)",
+            "タ (ta)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つば (tsuba)",
+            "つばき (tsubaki)"
+        ],
+        "Âm Hàn": [
+            "타"
+        ],
+        "Âm Quảng Đông": [
+            "to3",
+            "toe3",
+            "toe5"
+        ]
+    },
+    "meanings": {
+        "thoá": {
+            "Từ điển phổ thông": [
+                "nước bọt",
+                "phỉ nhổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nước bọt. ◎Như: 'thóa mạt' 唾沫 nước bọt, 'thóa dịch' 唾液 sự tiết nước bọt.",
+                "(Động) Nhổ, nhổ nước dãi, phỉ nhổ. ◎Như: 'thóa khí' 唾棄 phỉ nhổ, 'thóa mạ' 唾罵 mắng nhiếc. ◇Chiến quốc sách 戰國策: 'Hữu phục ngôn lệnh Trường An Quân vi chí giả, lão phụ tất thóa kì diện' 有復言令長安君為質者, 老婦必唾其面 (Triệu sách tứ 周趙策四, Triệu thái hậu tân dụng sự 趙太后新用事) Ai mà còn nói (đến chuyện) khiến Trường An Quân đến Trường An làm con tin thì già này tất nhổ vào mặt.",
+                "(Động) Ọc, thổ. ◇Hàn Dũ 韓愈: 'Thóa huyết sổ thập thăng dĩ tễ' 唾血數十升以斃 (Thái học bác sĩ lí quân mộ chí minh 太學博士李君墓誌銘) Ọc ra vài thăng máu mà ngã sấp xuống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhổ, nhổ nước dãi đi gọi là thoá.",
+                "Chán ghét, như thoá khí 唾棄, thoá mạ 唾罵 mắng nhiếc, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nước bọt: 吐唾液 Nhổ nước bọt;",
+                "Nhổ (nước bọt): 唾手可得 Dễ như lật bàn tay, dễ như bỡn;",
+                "Phỉ nhổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhổ nước miếng. Khạc nhổ — Nước miếng."
+            ],
+            "compound_words": {
+                "唾液": "thoá dịch",
+                "唾面": "thoá diện",
+                "唾駡": "thoá mạ"
+            }
+        }
+    }
+}

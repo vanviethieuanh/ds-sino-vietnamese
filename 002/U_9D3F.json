@@ -1,0 +1,80 @@
+{
+    "character": "鴿",
+    "details": {
+        "Âm Hán Việt": [
+            "cáp"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰合鳥"
+        ],
+        "Nét bút": [
+            "ノ丶一丨フ一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "ORHAF (人口竹日火)"
+        ],
+        "Unicode": [
+            "U+9D3F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gē ㄍㄜ"
+        ],
+        "Âm Nôm": [
+            "cáp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はと (hato)",
+            "どばと (dobato)"
+        ],
+        "Âm Hàn": [
+            "합"
+        ],
+        "Âm Quảng Đông": [
+            "gaap3",
+            "gap3"
+        ]
+    },
+    "meanings": {
+        "cáp": {
+            "Từ điển phổ thông": [
+                "chim bồ câu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “bột cáp” 鵓鴿."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con chim bồ câu. Có hai giống, giống dã cáp 野鴿 ở rừng hay ăn hại lúa, giống gia cáp 家鴿 là do dã cáp biến giống ra, bay rất cao, trí nhớ tốt, cho đem đi thật xa mới thả cũng biết bay về, vì thế nên ngày xưa hay dùng nó để đưa thư từ về việc quân. Tục gọi là bột cáp 鵓鴿."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim bồ câu: 通訊鴿 Bồ câu đưa thư, bồ câu truyền tin; 野鴿 Bồ câu rừng; 家鴿 Bồ câu nuôi. Cg. 鵓鴿 [bóge]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chim bồ câu, còn gọi là Bột cáp 鴿鵓."
+            ],
+            "compound_words": {
+                "鵓鴿": "bột cáp",
+                "鳩鴿類": "cưu cáp loại",
+                "野鴿": "dã cáp",
+                "家鴿": "gia cáp"
+            }
+        }
+    }
+}

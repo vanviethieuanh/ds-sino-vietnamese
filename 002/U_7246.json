@@ -1,0 +1,84 @@
+{
+    "character": "牆",
+    "details": {
+        "Âm Hán Việt": [
+            "tường"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "tường 爿 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰爿嗇"
+        ],
+        "Nét bút": [
+            "フ丨一ノ一丨ノ丶ノ丶一丨フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "VMGOW (女一土人田)"
+        ],
+        "Unicode": [
+            "U+7246"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiáng ㄑㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かき (kaki)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tường": {
+            "Từ điển phổ thông": [
+                "bức tường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tường, vách (xây bằng gạch, đất, đá). ◇Luận Ngữ 論語: 'Hủ mộc bất khả điêu dã, phẩn thổ chi tường bất khả ô dã' 朽木不可雕也, 糞土之牆不可杇也 (Công Dã Tràng 公冶長) Gỗ mục không thể chạm khắc được, vách bằng đất dơ không thể trát được.",
+                "(Danh) Phiếm chỉ cái gì cấu tạo, họp thành giống như một bức tường. ◎Như: 'nhân tường' 人牆 bức tường người, 'điện thị tường' 電視牆 tường máy truyền hình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tường (tường xây bằng gạch đá)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 墻 (bộ 土)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bức vách xây bằng gạch, hoặc đắp bằng đất. Bản dịch  Chinh phụ ngâm khúc : » Gió may hiu hắt trên đầu tường vôi «."
+            ],
+            "compound_words": {
+                "宮牆": "cung tường",
+                "面牆": "diện tường",
+                "鬩牆": "huých tường",
+                "騎牆": "kị tường",
+                "巖牆": "nham tường",
+                "女牆": "nữ tường",
+                "城牆": "thành tường",
+                "蕭牆": "tiêu tường",
+                "圍牆": "vi tường"
+            }
+        }
+    }
+}

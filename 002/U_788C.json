@@ -1,0 +1,93 @@
+{
+    "character": "碌",
+    "details": {
+        "Âm Hán Việt": [
+            "lục",
+            "lựu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thạch 石 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石录"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一フ一一丨丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MRVNE (一口女弓水)"
+        ],
+        "Unicode": [
+            "U+788C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "liù ㄌㄧㄡˋ",
+            "lù ㄌㄨˋ",
+            "luò ㄌㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "lộc",
+            "lục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロク (roku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ろく.な (roku.na)"
+        ],
+        "Âm Hàn": [
+            "록",
+            "녹"
+        ],
+        "Âm Quảng Đông": [
+            "luk1"
+        ]
+    },
+    "meanings": {
+        "lục": {
+            "Từ điển phổ thông": [
+                "(xem: lục lục 碌碌)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Đá nhỏ nhiều.",
+                "(Tính) Bận rộn, bận bịu. ◎Như: 'mang lục' 忙碌 bận rộn. ◇Tây du kí 西遊記: 'Giá nhất hướng tại đồ trung bôn lục, vị cập trí tạ' 這一向在途中奔碌, 未及致謝 (Đệ nhị thập nhị hồi) Khi ấy trên đường vội vã bận rộn, chưa đến tạ ơn.",
+                "§ Xem 'lục lục' 碌碌."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lục lục 碌碌 hèn hạ, theo đuôi. Như thử đẳng lục lục tiểu nhân 此等碌碌小人 (Tam quốc diễn nghĩa 三國演義) cái hạng hèn hạ tiểu nhân này.",
+                "Nhiều việc bận rộn gọi là mang lục 忙碌."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thường, tầm thường: 庸碌之輩 Con người tầm thường;",
+                "Công việc bề bộn: 忙忙碌碌 Bận bịu. Xem 碌 [liù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng đá chồng chất — Bận rộn nhiều việc. Cũng nói Mang lục 忙碌 ( trong Bạch thoại )."
+            ],
+            "compound_words": {
+                "碌碌": "lục lục",
+                "忙碌": "mang lục"
+            }
+        },
+        "lựu": {
+            "Từ điển phổ thông": [
+                "trục lăn, hòn lăn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【碌碡】lựu độc [liùzhóu] Trục lăn, hòn lăn, quả lăn (làm bằng đá để cán ngũ cốc hoặc cán sân đập lúa). Cv. 磣碡. Cg. 石磙 [shígưn]. Xem 碌 [lù]."
+            ]
+        }
+    }
+}

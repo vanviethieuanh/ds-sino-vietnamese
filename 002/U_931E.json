@@ -1,0 +1,95 @@
+{
+    "character": "錞",
+    "details": {
+        "Âm Hán Việt": [
+            "thuần",
+            "đối",
+            "đỗi",
+            "đội"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金享"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丶一丨フ一フ丨一"
+        ],
+        "Thương Hiệt": [
+            "CYRD (金卜口木)"
+        ],
+        "Unicode": [
+            "U+931E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chún ㄔㄨㄣˊ",
+            "duì ㄉㄨㄟˋ",
+            "duò ㄉㄨㄛˋ",
+            "qún ㄑㄩㄣˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュン (shun)",
+            "トン (ton)",
+            "タイ (tai)",
+            "ズイ (zui)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "deoi6",
+            "seon4"
+        ]
+    },
+    "meanings": {
+        "thuần": {
+            "Từ điển phổ thông": [
+                "(một nhạc cụ để đánh nhịp với trống)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhạc khí thời xưa, làm bằng đồng, thường dùng trong quân đánh nhịp với với trống để điều khiển binh sĩ. § Cũng gọi là 'thuần vu' 錞于.",
+                "Một âm là 'đối'. (Danh) Đầu cán giáo, cán mác bịt kim loại. § Xem 'đối' 鐓."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thuần vu 錞于 một thứ âm nhạc để đánh nhịp với trống.",
+                "Một âm là đối. Xem chữ đối 鐓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Một nhạc cụ thời cổ (để đánh nhịp với trống). Cg. 錞於 [chúnyú]."
+            ]
+        },
+        "đối": {
+            "Từ điển trích dẫn": [
+                "(Danh) Nhạc khí thời xưa, làm bằng đồng, thường dùng trong quân đánh nhịp với với trống để điều khiển binh sĩ. § Cũng gọi là 'thuần vu' 錞于.",
+                "Một âm là 'đối'. (Danh) Đầu cán giáo, cán mác bịt kim loại. § Xem 'đối' 鐓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lớp bọc bằng đồng ở phần cuối chuôi các thứ võ khí như giáo, kích. Xem 鐓."
+            ]
+        },
+        "đỗi": {
+            "Từ điển Thiều Chửu": [
+                "Thuần vu 錞于 một thứ âm nhạc để đánh nhịp với trống.",
+                "Một âm là đối. Xem chữ đối 鐓."
+            ]
+        },
+        "đội": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phần bịt kim loại ở đuôi của cán dao mác."
+            ]
+        }
+    }
+}

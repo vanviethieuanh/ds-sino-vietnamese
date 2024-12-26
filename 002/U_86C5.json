@@ -1,0 +1,61 @@
+{
+    "character": "蛅",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫占"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIYR (中戈卜口)"
+        ],
+        "Unicode": [
+            "U+86C5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "rán ㄖㄢˊ",
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネン (nen)",
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "jim4",
+            "zim1"
+        ]
+    },
+    "meanings": {
+        "chiêm": {
+            "Từ điển phổ thông": [
+                "(xem: chiêm tư 蛅蟖)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蛅北】chiêm tư [zhansi] Ấu trùng của loài côn trùng thuộc bộ lân xí;",
+                "Sâu róm ăn lá cây. Cv. 蛅蟴."
+            ],
+            "compound_words": {
+                "蛅蟖": "chiêm tư"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "character": "螺",
+    "details": {
+        "Âm Hán Việt": [
+            "loa"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "trùng 虫 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫累"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一丨一フフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIWVF (中戈田女火)"
+        ],
+        "Unicode": [
+            "U+87BA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "luó ㄌㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "loa",
+            "loe"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラ (ra)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にし (nishi)",
+            "にな (nina)"
+        ],
+        "Âm Hàn": [
+            "라",
+            "레",
+            "나"
+        ],
+        "Âm Quảng Đông": [
+            "lo4"
+        ]
+    },
+    "meanings": {
+        "loa": {
+            "Từ điển phổ thông": [
+                "con ốc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con ốc. ◎Như: 'điền loa' 田螺 ốc ruộng, 'hải loa' 海螺 ốc biển. § Có thứ ốc trong vỏ nhóng nhánh, thợ sơn hay dùng để dát vào chữ, vào đồ cho đẹp gọi là 'loa điền' 螺鈿 khảm ốc.",
+                "(Danh) Vằn, đường vằn. ◇Tô Thức 蘇軾: 'Kì văn như nhân chỉ thượng loa' 其文如人指上螺 (Quái thạch cung 怪石供) Đường vằn của nó như đường vằn ngón tay người ta.",
+                "(Danh) Đồ vật làm bằng vỏ ốc. ◇Dữu Tín 庾信: 'Hương loa chước mĩ tửu' 香螺酌美酒 (Viên đình 園庭) Chén (vỏ ốc) thơm rót rượu ngon.",
+                "(Danh) Nói tắt của 'pháp loa' 法螺, nhạc khí dùng trong quân hoặc tăng đạo. ◎Như: 'xuy loa kích cổ' 吹螺擊鼓 thổi loa đánh trống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ốc, có thứ ốc trong vỏ lóng lánh, thợ sơn hay dùng để dát vào chữ vào đồ cho đẹp gọi là loa điền 螺鈿 khảm ốc.",
+                "Búi tóc. Như loa kế 螺髻 trẻ con róc tóc quấn quanh như xoáy trôn ốc, vì thế cho nên ngọn núi cũng gọi là loa kế, búi tóc đàn bà cũng gọi là loa kế."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ốc;",
+                "Đường xoáy trôn ốc. 【螺螄】loa sư [luósi] Con ốc;",
+                "(văn) Búi tóc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ốc — Hình trôn ốc."
+            ],
+            "compound_words": {
+                "古螺": "cổ loa",
+                "陀螺": "đà loa",
+                "螺貝": "loa bối",
+                "螺釘": "loa đinh",
+                "螺钉": "loa đinh",
+                "螺髻": "loa kế",
+                "螺蛳": "loa si",
+                "螺螄": "loa si",
+                "螺城": "loa thành",
+                "螺旋": "loa triền",
+                "螺殻": "loa xác",
+                "法螺": "pháp loa"
+            }
+        }
+    }
+}

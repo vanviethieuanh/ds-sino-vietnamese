@@ -1,0 +1,96 @@
+{
+    "character": "叨",
+    "details": {
+        "Âm Hán Việt": [
+            "thao",
+            "đao"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口刀"
+        ],
+        "Nét bút": [
+            "丨フ一フノ"
+        ],
+        "Thương Hiệt": [
+            "RSH (口尸竹)"
+        ],
+        "Unicode": [
+            "U+53E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dāo ㄉㄠ",
+            "tāo ㄊㄠ"
+        ],
+        "Âm Nôm": [
+            "đao",
+            "đau",
+            "đâu",
+            "thao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みだりに (midarini)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou1",
+            "tou1"
+        ]
+    },
+    "meanings": {
+        "thao": {
+            "Từ điển phổ thông": [
+                "chịu ơn người khác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tham (thường dùng nói về công danh, công lao).",
+                "(Động) Được nhờ (cách nói xưa). ◎Như: 'thao quang' 叨光 nhận ân huệ của người.",
+                "(Phó) Lạm được (lời nói khiêm). ◎Như: 'thao tại tri kỉ' 叨在知己 lạm được cho là tri kỉ (lời nói nhún mình).",
+                "Một âm là 'đao'. (Động) Nói nhiều, lải nhải. § Ta quen đọc là 'thao' cả. ◎Như: 'thao thao' 叨叨 lải nhải."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tham. Chịu ơn của người gọi là thao. Tạ ơn người ta trọng đãi mình gọi là thao nhiễu 叨擾 quấy quả.",
+                "Lạm được, như thao tại tri kỉ 叨在知己 lạm được cho là tri kỉ (lời nói nhún mình)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Được nhờ, lạm được (lời nói khiêm): 叨在知己 Lạm được cho là tri kỉ; 臣叨居近職，已涉四年 Thần lạm ở chức vụ hiện nay, đã trải bốn năm (Bạch Cư Dị: Tạ quan trạng). Xem 叨 [dao]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bỏ vào miệng mà ăn — Thâm vào — Nhận lấy — Nhiều lời. Cũng nói là Thao thao."
+            ],
+            "compound_words": {
+                "嘮叨": "lao thao"
+            }
+        },
+        "đao": {
+            "Từ điển trích dẫn": [
+                "(Động) Tham (thường dùng nói về công danh, công lao).",
+                "(Động) Được nhờ (cách nói xưa). ◎Như: 'thao quang' 叨光 nhận ân huệ của người.",
+                "(Phó) Lạm được (lời nói khiêm). ◎Như: 'thao tại tri kỉ' 叨在知己 lạm được cho là tri kỉ (lời nói nhún mình).",
+                "Một âm là 'đao'. (Động) Nói nhiều, lải nhải. § Ta quen đọc là 'thao' cả. ◎Như: 'thao thao' 叨叨 lải nhải."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【叨叨】 thao thao [daodao] Lải nhải. Xem 叨 [tao]."
+            ]
+        }
+    }
+}

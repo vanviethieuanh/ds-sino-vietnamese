@@ -1,0 +1,165 @@
+{
+    "character": "北",
+    "details": {
+        "Âm Hán Việt": [
+            "bắc",
+            "bối",
+            "bội"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "tỷ 匕 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰土匕"
+        ],
+        "Nét bút": [
+            "丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "LMP (中一心)"
+        ],
+        "Unicode": [
+            "U+5317"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "běi ㄅㄟˇ",
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "bắc",
+            "bấc",
+            "bước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホク (hoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きた (kita)"
+        ],
+        "Âm Hàn": [
+            "북",
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "baak1",
+            "bak1"
+        ]
+    },
+    "meanings": {
+        "bắc": {
+            "Từ điển phổ thông": [
+                "phía bắc, phương bắc",
+                "thua trận"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phương bắc.",
+                "(Danh) Quân thua trận, bại quân. ◇Lí Lăng 李陵: 'Trảm tướng khiên kì, truy bôn trục bắc' 斬將搴旗, 追奔逐北 (Đáp Tô Vũ thư 答蘇武書) Chém tướng nhổ cờ (địch), truy đuổi lùng bắt quân thua trận.",
+                "(Tính) Ở tại phương bắc hay từ phương bắc lại. ◎Như: 'bắc quốc' 北國 nước ở phía bắc, 'bắc phong' 北風 gió bấc.",
+                "(Tính) Về phương bắc. ◎Như: 'bắc chinh' 北征 chinh chiến hướng về phương bắc.",
+                "(Động) Ngang trái, trái nghịch nhau.",
+                "(Động) Đi, bay hướng về phương bắc. ◎Như: 'nhạn bắc' 鴈北 chim nhạn bay về phương bắc.",
+                "(Động) Thua, thất bại. ◇Hàn Phi Tử 韓非子: 'Tam chiến tam bắc' 三戰三北 (Ngũ đố 五蠹) Ba lần đánh ba lần thua.",
+                "(Động) Làm phản, phản bội. § Thông 'bội' 背. ◇Chiến quốc sách 戰國策: 'Thực nhân xuy cốt, sĩ vô phản bắc chi tâm, thị Tôn Tẫn, Ngô Khởi chi binh dã' 食人炊骨, 士無反北之心, 是孫臏, 吳起之兵也 (Tề sách lục 齊策六) Ăn thịt người, đốt xương người (để nấu bếp), quân sĩ không có lòng làm phản, đó là binh của Tôn Tẫn và Ngô Khởi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phương bắc.",
+                "Trái, cùng ngang trái nhau. Như sĩ vô phản bắc chi tâm 士無反北之心 tướng sĩ không có lòng ngang trái.",
+                "Thua, như tam chiến tam bắc 三戰三北 đánh ba trận thua cả ba."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phương bắc, bắc, bấc: 由南往北 Từ nam sang bắc; 北門 Cửa phía bắc; 東北地區 Vùng Đông Bắc; 北風 Gió bấc;",
+                "(văn) Thua trận: 三戰三北 Đánh ba trận thua cả ba; 連戰皆北 Đánh nhiều trận đều thua;",
+                "(văn) Phản bội (dùng như 背, bộ 肉): 士無反北之心 Binh sĩ không có lòng phản bội."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên phương hướng. Nếu quay mặt về phía mặt trời mọc thì hướng Bắc ở phía bên tay trái — Thua chạy — Một âm khác là Bội."
+            ],
+            "compound_words": {
+                "敗北": "bại bắc",
+                "败北": "bại bắc",
+                "北半求": "bắc bán cầu",
+                "北冰洋": "bắc băng dương",
+                "北鄙": "bắc bỉ",
+                "北平": "bắc bình",
+                "北至": "bắc chí",
+                "北周": "bắc chu",
+                "北極": "bắc cực",
+                "北面": "bắc diện",
+                "北大西洋公約組織": "bắc đại tây dương công ước tổ chức",
+                "北大西洋公约组织": "bắc đại tây dương công ước tổ chức",
+                "北斗": "bắc đẩu",
+                "北堂": "bắc đường",
+                "北郊": "bắc giao",
+                "北河": "bắc hà",
+                "北海": "bắc hải",
+                "北韓": "bắc hàn",
+                "北韩": "bắc hàn",
+                "北行詩集": "bắc hành thi tập",
+                "北𣴓": "bắc kạn",
+                "北圻": "bắc kì",
+                "北京": "bắc kinh",
+                "北遼": "bắc liêu",
+                "北邙": "bắc mang",
+                "北溟": "bắc minh",
+                "北美": "bắc mỹ",
+                "北魏": "bắc nguỵ",
+                "北鴈南鴻": "bắc nhạn nam hồng",
+                "北寧": "bắc ninh",
+                "北派": "bắc phái",
+                "北風": "bắc phong",
+                "北瓜": "bắc qua",
+                "北史": "bắc sử",
+                "北齊": "bắc tề",
+                "北齐": "bắc tề",
+                "北辰": "bắc thần",
+                "北屬": "bắc thuộc",
+                "北宋": "bắc tống",
+                "北宗": "bắc tông",
+                "北朝": "bắc triều",
+                "北朝鮮": "bắc triều tiên",
+                "北朝鲜": "bắc triều tiên",
+                "北約": "bắc ước",
+                "北约": "bắc ước",
+                "北緯": "bắc vĩ",
+                "北纬": "bắc vĩ",
+                "北越": "bắc việt",
+                "奔北": "bôn bắc",
+                "戰北": "chiến bắc",
+                "拱北": "củng bắc",
+                "台北": "đài bắc",
+                "臺北": "đài bắc",
+                "大不列顛與北愛爾蘭聯": "đại bất liệt điên dữ bắc ái nhĩ lan",
+                "湖北": "hồ bắc",
+                "南北朝": "nam bắc triều",
+                "御製北巡詩集": "ngự chế bắc tuần thi tập",
+                "朔北": "sóc bắc",
+                "使北國語詩集": "sứ bắc quốc ngữ thi tập",
+                "泰山北斗": "thái san bắc đẩu",
+                "逐北": "trục bắc"
+            }
+        },
+        "bối": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Bối 背 — Các âm khác là Bắc, Bội."
+            ]
+        },
+        "bội": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Bội 背 — Các âm khác là Bắc, Bối."
+            ]
+        }
+    }
+}

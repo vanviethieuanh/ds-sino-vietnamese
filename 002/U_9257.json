@@ -1,0 +1,99 @@
+{
+    "character": "鉗",
+    "details": {
+        "Âm Hán Việt": [
+            "kiềm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金甘"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "CTM (金廿一)"
+        ],
+        "Unicode": [
+            "U+9257"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ",
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "cùm",
+            "cườm",
+            "ghìm",
+            "kèm",
+            "kềm",
+            "kiềm",
+            "kìm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つぐ.む (tsugu.mu)",
+            "くびかせ (kubikase)"
+        ],
+        "Âm Hàn": [
+            "겸"
+        ],
+        "Âm Quảng Đông": [
+            "kim4"
+        ]
+    },
+    "meanings": {
+        "kiềm": {
+            "Từ điển phổ thông": [
+                "cái kìm",
+                "giữ, kìm",
+                "cùm chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ hình cụ ngày xưa, dùng để kẹp cổ phạm nhân.",
+                "(Danh) Một thứ hình phạt thời xưa, lấy đồ bằng sắt kẹp cổ, tay, chân tội nhân.",
+                "(Danh) Cái kìm, cái giàm, cái kẹp. § Thông 'kiềm' 箝.",
+                "(Danh) Cái càng (động vật có đốt, như tôm, cua...).",
+                "(Động) Cầm giữ, giam cấm.",
+                "(Động) Dùng sắt kềm kẹp phạm nhân.",
+                "(Động) Ngậm miệng, khóa miệng. § Thông 'kiềm' 箝, 'kiềm' 拑. ◇Trang Tử 莊子: 'Khẩu kiềm nhi bất dục ngôn' 口鉗而不欲言 (Điền Tử Phương 田子方) Miệng ngậm không muốn nói.",
+                "(Tính) Xấu, ác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái kìm gắp.",
+                "Một thứ hình phép ngày xưa, lấy sắt kẹp vào cổ. Có khi viết là 鉆 hay 箝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái kìm: 鴨嘴鉗 Kìm mỏ vịt; 嘴嘴鉗 Kìm nhọn đầu; 老虎鉗 Êtô; 鉗形進攻 Tấn công gọng kìm. Cv. 鉗子;",
+                "Cặp, kẹp vào; 用鉗子夾住 Cặp bằng kìm;",
+                "Hình phạt kẹp bằng kìm (thời xưa);",
+                "Hãm, chặn. 【鉗制】kiềm chế [qiánzhì] Kìm hãm, kiềm chế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái kiềm bằng sắt, dùng để kẹp đồ vật — Kiềm kẹp, trói buộc."
+            ],
+            "compound_words": {
+                "夾鉗": "giáp kiềm",
+                "鉗制": "kiềm chế",
+                "鉗鎖": "kiềm toả"
+            }
+        }
+    }
+}

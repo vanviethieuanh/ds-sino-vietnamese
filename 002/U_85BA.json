@@ -1,0 +1,88 @@
+{
+    "character": "薺",
+    "details": {
+        "Âm Hán Việt": [
+            "tề",
+            "tể"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thảo 艸 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹齊"
+        ],
+        "Nét bút": [
+            "一丨丨丶一丶ノ丨フノノフ丶一ノ丨一一"
+        ],
+        "Thương Hiệt": [
+            "TYX (廿卜重)"
+        ],
+        "Unicode": [
+            "U+85BA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "cí ㄘˊ",
+            "jì ㄐㄧˋ",
+            "qī ㄑㄧ",
+            "qí ㄑㄧˊ",
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tề"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ザイ (zai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひと (hito)",
+            "ととの.える (totono.eru)",
+            "なずな (nazuna)"
+        ],
+        "Âm Hàn": [
+            "제",
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "cai4",
+            "cai5",
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "tề": {
+            "Từ điển phổ thông": [
+                "(một loại rau)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cây củ ấu, cây tật lê. Xem “bột tề” 荸薺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【薺菜】tề thái [jìcài] (thực) Rau tề, rau má (một thứ rau có hoa trắng, khi còn non ăn được, dùng để làm thuốc giải nhiệt, lợi tiểu, cầm máu) Xem 薺 [cí], [qí]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây, còn gọi là Tật lê."
+            ],
+            "compound_words": {
+                "荸薺": "bột tề"
+            }
+        },
+        "tể": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 荸薺 [bíqí] Xem 薺 [cí], [jì]."
+            ]
+        }
+    }
+}

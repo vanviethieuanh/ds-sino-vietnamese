@@ -1,0 +1,95 @@
+{
+    "character": "唫",
+    "details": {
+        "Âm Hán Việt": [
+            "cấm",
+            "cẩm",
+            "ngâm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口金"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶一一丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "RC (口金)"
+        ],
+        "Unicode": [
+            "U+552B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jìn ㄐㄧㄣˋ",
+            "yín ㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "căm",
+            "câm",
+            "gặm",
+            "gẫm",
+            "ngẩm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴン (gon)",
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ども.る (domo.ru)",
+            "くちをと.じる (kuchi o to.jiru)",
+            "うたうた.う (utauta.u)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "am4",
+            "gam3",
+            "jam4",
+            "ngam4"
+        ]
+    },
+    "meanings": {
+        "cấm": {
+            "Từ điển phổ thông": [
+                "ngậm miệng lại",
+                "hít vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngậm miệng.",
+                "(Động) Hít."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngậm miệng lại;",
+                "Hít."
+            ]
+        },
+        "cẩm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói mà hai hàm răng rít lại — Cắn chặt miệng lại — Một âm khác là Ngâm."
+            ]
+        },
+        "ngâm": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 吟."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hai hàm răng cắn chặt lại — Ngậm miệng lại — Như chữ Ngâm 吟."
+            ]
+        }
+    }
+}

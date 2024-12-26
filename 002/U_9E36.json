@@ -1,0 +1,61 @@
+{
+    "character": "鸶",
+    "details": {
+        "Âm Hán Việt": [
+            "ty",
+            "tư"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱丝鸟"
+        ],
+        "Nét bút": [
+            "フフフフ一ノフ丶フ一"
+        ],
+        "Thương Hiệt": [
+            "VVMPM (女女一心一)"
+        ],
+        "Unicode": [
+            "U+9E36"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "sī ㄙ"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "ty": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 鷥"
+            ]
+        },
+        "tư": {
+            "Từ điển phổ thông": [
+                "(xem: lô tư 鸕鷀,鸕鷥,鸬鷀,鸬鸶)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鷥."
+            ],
+            "compound_words": {
+                "鸬鸶": "lô tư",
+                "鹭鸶": "lộ tư"
+            }
+        }
+    }
+}

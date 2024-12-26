@@ -1,0 +1,79 @@
+{
+    "character": "籧",
+    "details": {
+        "Âm Hán Việt": [
+            "cừ",
+            "cử"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "trúc 竹 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮遽"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨一フノ一フ一ノフノノノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "HYYO (竹卜卜人)"
+        ],
+        "Unicode": [
+            "U+7C67"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jǔ ㄐㄩˇ",
+            "qú ㄑㄩˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)",
+            "ゴ (go)"
+        ],
+        "Âm Hàn": [
+            "거"
+        ],
+        "Âm Quảng Đông": [
+            "keoi4"
+        ]
+    },
+    "meanings": {
+        "cừ": {
+            "Từ điển phổ thông": [
+                "cái chiếu trúc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'cừ trừ' 籧篨.",
+                "(Danh) Đồ hình tròn, làm bằng tre. § Thông 'cử' 筥. ◎Như: 'cừ khuông' 籧筐 nong nuôi tằm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cừ trừ 籧篨 cái chiếu trúc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chiếu tre thô;",
+                "【籧篨】cừ trừ [qúchú] (văn) Bệnh õng bụng."
+            ],
+            "compound_words": {
+                "籧篨": "cừ trừ"
+            }
+        },
+        "cử": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái sọt để chăn tằm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một cách viết của hai chữ Cử 筥,"
+            ]
+        }
+    }
+}

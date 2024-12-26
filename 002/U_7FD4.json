@@ -1,0 +1,88 @@
+{
+    "character": "翔",
+    "details": {
+        "Âm Hán Việt": [
+            "tường"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "vũ 羽 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺶羽"
+        ],
+        "Nét bút": [
+            "丶ノ一一一ノフ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "TQSMM (廿手尸一一)"
+        ],
+        "Unicode": [
+            "U+7FD4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiáng ㄒㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かけ.る (kake.ru)",
+            "と.ぶ (to.bu)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tường": {
+            "Từ điển phổ thông": [
+                "liệng quanh",
+                "đi vung tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bay lượn, liệng quanh. ◇Nguyễn Du 阮攸: 'Đương thế hà bất nam du tường' 當世何不南遊翔 (Kì lân mộ 騏麟墓) Thời ấy sao không bay lượn sang nam chơi?",
+                "(Động) Đi vung tay. ◇Lễ Kí 禮記: 'Thất trung bất tường' 室中不翔 (Khúc lễ thượng 曲禮上) Trong nhà không đi vung tay.",
+                "(Động) Đậu, nghỉ. ◇Nễ Hành 禰衡: 'Phi bất vọng tập, tường tất trạch lâm' 飛不妄集, 翔必擇林 (Anh vũ phú 鸚鵡賦) Bay không tụ bừa, đậu ắt chọn rừng.",
+                "(Tính) Rõ ràng, xác thật. § Thông 'tường' 詳.",
+                "(Tính) Tốt lành. § Thông 'tường' 祥.",
+                "(Phó) Lên cao, tăng lên. ◇Hán Thư 漢書: 'Cốc giá tường quý' 穀賈翔貴 (Thực hóa chí thượng 食貨志上) Giá thóc lúa tăng cao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Liệng quanh. Nguyễn Du 阮攸: Ðương thế hà bất nam du tường 當世何不南遊翔 thời ấy sao không bay lượn sang Nam chơi?",
+                "Cao tường 翺翔 ngao du đùa bỡn.",
+                "Cùng nghĩa với chữ tường 詳.",
+                "Ði vung tay."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lượn, liệng quanh: 飛翔 Bay lượn; 滑翔機 Tàu lượn;",
+                "(văn) Đi vung tay;",
+                "(văn) Như 詳 (bộ 言)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bay vòng. Bay liệng."
+            ],
+            "compound_words": {
+                "翺翔": "cao tường",
+                "翔驟": "tường sậu"
+            }
+        }
+    }
+}

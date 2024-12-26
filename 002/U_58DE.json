@@ -1,0 +1,108 @@
+{
+    "character": "壞",
+    "details": {
+        "Âm Hán Việt": [
+            "hoài",
+            "hoại"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "thổ 土 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土褱"
+        ],
+        "Nét bút": [
+            "一丨一丶一丨フ丨丨一丨丶一ノ丶ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "GYWV (土卜田女)"
+        ],
+        "Unicode": [
+            "U+58DE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huài ㄏㄨㄞˋ"
+        ],
+        "Âm Nôm": [
+            "hoai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "エ (e)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こわ.す (kowa.su)",
+            "こわ.れる (kowa.reru)",
+            "やぶ.る (yabu.ru)"
+        ],
+        "Âm Hàn": [
+            "괴",
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "waai6"
+        ]
+    },
+    "meanings": {
+        "hoài": {
+            "Từ điển phổ thông": [
+                "tồi, kém, xấu, hư, hỏng, ung"
+            ]
+        },
+        "hoại": {
+            "Từ điển phổ thông": [
+                "tồi, kém, xấu, hư, hỏng, ung"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phá hỏng, làm hỏng. ◎Như: 'phá hoại' 破壞 phá hỏng, 'ngã nhất bất tiểu tâm bả môn tràng hoại liễu' 我一不小心把門撞壞了 tôi không cẩn thận đụng hư cửa rồi.",
+                "(Động) Hư nát, mục nát, thối nát. ◎Như: 'bình quả hoại liễu' 蘋果壞了 táo thối rồi, 'tự hành xa hoại liễu' 自行車壞了 xe đạp hỏng rồi.",
+                "(Động) Phá bó, hủy. ◇Hán Thư 漢書: 'Vũ vương mạt, Lỗ cộng vương hoại Khổng Tử trạch, dục dĩ quảng kì cung' 武王末, 魯共王壞孔子宅, 欲以廣其宮 (Nghệ văn chí 藝文志) Cuối đời Vũ vương, nước Lỗ cùng vua hủy bỏ nhà Khổng Tử, muốn mở rộng cung điện.",
+                "(Tính) Âm hiểm, giảo trá. ◎Như: 'nhĩ biệt dữ ngã sử hoại tâm nhãn nhi' 你別與我使壞心眼兒 mi đừng có giở thủ đoạn xảo trá với ta.",
+                "(Tính) Xấu, không tốt. ◎Như: 'khí hậu ngận hoại' 氣候很壞 khí hậu rất xấu.",
+                "(Phó) Rất, hết sức. ◎Như: 'mang liễu nhất chỉnh thiên, chân bả ngã lụy hoại liễu' 忙了一整天, 真把我累壞了 bận rộn cả ngày, thật làm tôi mệt quá sức."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Huỷ nát.",
+                "Thua.",
+                "Phá hoại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xấu, không tốt: 壞人壞事 Người xấu việc dở; 氣候很壞 Khí hậu rất xấu;",
+                "Hoại, hỏng, thối, huỷ nát: 破壞 Phá hoại; 自行車壞了 Xe đạp hỏng rồi; 搞壞了 Làm hỏng rồi; 蘋果壞了 Táo thối rồi;",
+                "Quá, hết sức: 氣壞了 Tức quá; 忙壞了 Bận quá, bận hết sức;",
+                "(văn) Thua."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hư nát — Hỏng, không dùng được nữa — Xấu xa, hư hỏng."
+            ],
+            "compound_words": {
+                "敗壞": "bại hoại",
+                "敗壞門楣": "bại hoại môn mi",
+                "崩壞": "băng hoại",
+                "不壞身": "bất hoại thân",
+                "更壞": "cánh hoại",
+                "壞血": "hoại huyết",
+                "壞木": "hoại mộc",
+                "壞人": "hoại nhân",
+                "壞身": "hoại thân",
+                "毀壞": "huỷ hoại",
+                "破壞": "phá hoại",
+                "寵壞": "sủng hoại",
+                "殘壞": "tàn hoại",
+                "損壞": "tổn hoại"
+            }
+        }
+    }
+}

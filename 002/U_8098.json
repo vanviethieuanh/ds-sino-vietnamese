@@ -1,0 +1,89 @@
+{
+    "character": "肘",
+    "details": {
+        "Âm Hán Việt": [
+            "chửu",
+            "trửu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhục 肉 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰月寸"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "BDI (月木戈)"
+        ],
+        "Unicode": [
+            "U+8098"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhǒu ㄓㄡˇ"
+        ],
+        "Âm Nôm": [
+            "khuỷu",
+            "trửu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひじ (hiji)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zaau2",
+            "zau2"
+        ]
+    },
+    "meanings": {
+        "chửu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái khuỷu tay. Cái cùi chỏ — Nắm lấy khuỷu tay."
+            ],
+            "compound_words": {
+                "被肘": "bị chửu",
+                "踵決肘見": "chủng quyết chửu kiến",
+                "肘腋": "chửu dịch",
+                "肘關節": "chửu quan tiết",
+                "掣肘": "sế chửu"
+            }
+        },
+        "trửu": {
+            "Từ điển phổ thông": [
+                "khuỷu tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khuỷu tay. ◎Như: 'xế trửu' 掣肘 níu khuỷu tay (làm việc mà bị ngăn trở).",
+                "(Động) Níu khuỷu tay. ◇Đỗ Phủ 杜甫: 'Dục khởi thì bị trửu' 欲起時被肘 (Tao điền phủ 遭田父) Muốn dậy thường bị níu khuỷu tay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khuỷu tay. Làm việc mà có người ngăn trở không được thẳng tay làm gọi là xế trửu 掣肘 bó cánh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuỷu (tay): 胳膊肘子 Khuỷu tay."
+            ],
+            "compound_words": {
+                "手肘": "thủ trửu",
+                "掣肘": "xế trửu"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "秒",
+    "details": {
+        "Âm Hán Việt": [
+            "miểu",
+            "miễu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoà 禾 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰禾少"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "HDFH (竹木火竹)"
+        ],
+        "Unicode": [
+            "U+79D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "miǎo ㄇㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "miểu",
+            "sao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)"
+        ],
+        "Âm Hàn": [
+            "초",
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "miu5"
+        ]
+    },
+    "meanings": {
+        "miểu": {
+            "Từ điển phổ thông": [
+                "tua lúa",
+                "giây (bằng 1/60 phút)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tua cây lúa. ◎Như: 'mạch miểu' 麥秒 tua lúa mạch.",
+                "(Danh) Giây (thời giờ). ◎Như: 'lục thập miểu vi nhất phân' 六十秒為一分 60 giây là một phút. ◇Lỗ Tấn 魯迅: 'Nhiên nhi bất đáo thập miểu chung, A Q dã tâm mãn ý túc đích đắc thắng đích tẩu liễu' 然而不到十秒鍾, 阿Q也心滿意足的得勝的走了 (A Q chánh truyện 阿Q正傳) Nhưng chưa đầy mười giây đồng hồ, A Q đã lại hớn hở ra về có vẻ đắc thắng.",
+                "(Danh) Đơn vị toán học (góc độ), bằng 1 ∕ 60 phút. ◎Như: 'lục thập miểu vi nhất phân, lục thập phân vi nhất độ' 六十秒為一分, 六十分為一度 60 giây là một phút, 60 phút là một độ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tua lúa.",
+                "Giây, phép chia thời gian 60 giây là một phút."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầu nhọn của lá lúa — Một giây đồng hồ — Nhỏ nhặt, không đáng kể."
+            ],
+            "compound_words": {
+                "秒忽": "miểu hốt"
+            }
+        },
+        "miễu": {
+            "Từ điển Trần Văn Chánh": [
+                "Giây: 一分鐘六十秒 Một phút có 60 giây;",
+                "(toán) Đơn vị góc bằng 1/60 của phút góc;",
+                "(văn) Tua lúa."
+            ]
+        }
+    }
+}

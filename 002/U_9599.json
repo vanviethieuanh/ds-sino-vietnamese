@@ -1,0 +1,83 @@
+{
+    "character": "閙",
+    "details": {
+        "Âm Hán Việt": [
+            "nháo",
+            "náo"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "môn 門 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵門市"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丶一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "ANYLB (日弓卜中月)"
+        ],
+        "Unicode": [
+            "U+9599"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "nào ㄋㄠˋ"
+        ],
+        "Âm Nôm": [
+            "nào"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さわが.しい (sawaga.shii)"
+        ],
+        "Âm Hàn": [
+            "뇨"
+        ],
+        "Âm Quảng Đông": [
+            "naau6"
+        ]
+    },
+    "meanings": {
+        "nháo": {
+            "Từ điển phổ thông": [
+                "ầm ĩ"
+            ]
+        },
+        "náo": {
+            "Từ điển phổ thông": [
+                "ầm ĩ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “náo” 鬧."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ náo 鬧."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鬧 (bộ 鬥)."
+            ],
+            "compound_words": {
+                "喧閙": "huyên náo",
+                "熱閙": "nhiệt náo",
+                "吵閙": "sao náo",
+                "炒閙": "sao náo",
+                "作閙": "tác náo"
+            }
+        }
+    }
+}

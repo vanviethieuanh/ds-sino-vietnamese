@@ -1,0 +1,101 @@
+{
+    "character": "跳",
+    "details": {
+        "Âm Hán Việt": [
+            "khiêu",
+            "đào"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "túc 足 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊兆"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一ノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "RMLMO (口一中一人)"
+        ],
+        "Unicode": [
+            "U+8DF3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "diào ㄉㄧㄠˋ",
+            "táo ㄊㄠˊ",
+            "tiáo ㄊㄧㄠˊ",
+            "tiào ㄊㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "khêu",
+            "khiêu",
+            "khoèo",
+            "queo",
+            "xeo",
+            "xệu",
+            "xiêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.ねる (ha.neru)",
+            "と.ぶ (to.bu)",
+            "-と.び (-to.bi)"
+        ],
+        "Âm Hàn": [
+            "조",
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "tiu3"
+        ]
+    },
+    "meanings": {
+        "khiêu": {
+            "Từ điển phổ thông": [
+                "nhảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhảy. ◎Như: 'khiêu dược' 跳躍 nhảy lên, 'khiêu viễn' 跳遠 nhảy xa, 'kê phi cẩu khiêu' 雞飛狗跳 gà bay chó nhảy, 'khiêu vũ xướng ca' 跳舞唱歌 nhảy múa ca hát.",
+                "(Động) Đập, động đậy, máy động. ◎Như: 'tâm khiêu' 心跳 tim đập, 'nhãn khiêu' 眼跳 mắt máy động. ◇Phù sanh lục kí 浮生六記: 'Ác kì oản, noãn tiêm hoạt nị, hung trung bất giác phanh phanh tác khiêu' 握其腕, 暖尖滑膩, 胸中不覺怦怦作跳 (Khuê phòng kí lạc 閨房記樂) Cầm tay nàng, ấm áp thon nhỏ mịn màng, trong ngực tim tôi bỗng đập thình thình.",
+                "(Động) Vượt qua, đi quá. ◎Như: 'khiêu cấp' 跳級 nhảy qua cấp bậc, 'giá nhất hiệt khiêu quá khứ bất khán' 這一頁跳過去不看 trang đó bỏ qua không xem.",
+                "(Động) Thoát khỏi, trốn thoát. ◎Như: 'khiêu xuất hỏa khanh' 跳出火坑 thoát ra khỏi hố lửa. ◇Hồng Lâu Mộng 紅樓夢: 'Vạn vọng tiên dĩ tình dục thanh sắc đẳng sự cảnh kì si ngoan, hoặc năng sử bỉ khiêu xuất mê nhân quyển tử, nhiên hậu nhập ư chánh lộ' 萬望先以情欲聲色等事警其痴頑, 或能使彼跳出迷人圈子, 然後入於正路 (Đệ ngũ hồi) Xin nhờ trước hãy lấy những việc tình dục thanh sắc răn bảo bệnh si ngoan của nó, họa chăng nó có thể thoát vòng mê muội, mà sau mới đi vào đường chính."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nhảy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhảy: 他從高處跳下 Anh ta từ trên cao nhảy xuống;",
+                "Đập: 心跳 Tim đập."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhảy lên — Trượt chân — Một âm là Đào."
+            ],
+            "compound_words": {
+                "跳動": "khiêu động",
+                "跳踉": "khiêu lương",
+                "跳舞": "khiêu vũ",
+                "乱跳": "loạn khiêu",
+                "亂跳": "loạn khiêu"
+            }
+        },
+        "đào": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi ra. Trốn đi — Một âm là Khiêu. Xem Khiêu."
+            ]
+        }
+    }
+}

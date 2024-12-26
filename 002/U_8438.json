@@ -1,0 +1,76 @@
+{
+    "character": "萸",
+    "details": {
+        "Âm Hán Việt": [
+            "du"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹臾"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨一フ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "THXO (廿竹重人)"
+        ],
+        "Unicode": [
+            "U+8438"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "du"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユ (yu)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển phổ thông": [
+                "cây du"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Thù du” 茱萸: xem “thù” 茱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thù du 茱萸 cây thù du. Có ba thứ, một thứ gọi là ngô thù du 吳茱萸 dùng làm thuốc, một thứ gọi là thực thù du 食茱萸 dùng pha đồ ăn, một thứ gọi là sơn thù du 山茱萸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 茱萸."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Thù du 茱萸, vần Thù."
+            ],
+            "compound_words": {
+                "吳茱萸": "ngô thù du",
+                "吴茱萸": "ngô thù du",
+                "山茱萸": "sơn thù du",
+                "茱萸": "thù du",
+                "食茱萸": "thực thù du"
+            }
+        }
+    }
+}

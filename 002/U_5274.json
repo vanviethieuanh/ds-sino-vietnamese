@@ -1,0 +1,85 @@
+{
+    "character": "剴",
+    "details": {
+        "Âm Hán Việt": [
+            "cai",
+            "cái",
+            "khải"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "đao 刀 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰豈⺉"
+        ],
+        "Nét bút": [
+            "丨フ丨一丨フ一丶ノ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "UTLN (山廿中弓)"
+        ],
+        "Unicode": [
+            "U+5274"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "kǎi ㄎㄞˇ"
+        ],
+        "Âm Nôm": [
+            "khải"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)",
+            "カイ (kai)"
+        ],
+        "Âm Hàn": [
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "hoi2"
+        ]
+    },
+    "meanings": {
+        "cai": {
+            "Từ điển phổ thông": [
+                "hợp lý, thích đáng, vừa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái liềm lớn.",
+                "(Động) Mài giũa.",
+                "(Tính) § Xem 'cai thiết' 剴切."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thiết, như cai thiết 剴切 đích đáng, nói đúng sự đúng lí lắm. Một âm là cái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái liềm thật lớn — Châm chọc, chỉ trích."
+            ],
+            "compound_words": {
+                "剴切": "cai thiết"
+            }
+        },
+        "cái": {
+            "Từ điển Thiều Chửu": [
+                "① Thiết, như cai thiết 剴切 đích đáng, nói đúng sự đúng lí lắm. Một âm là cái."
+            ]
+        },
+        "khải": {
+            "Từ điển Trần Văn Chánh": [
+                "Cái liềm;",
+                "Hoàn toàn, hẳn đi rồi. 【剴切】 khải thiết [kăiqiè] a. Hợp (với), hoàn toàn đúng (với): 剴切中理 Hợp lí (hợp tình); b. Thiết thực: 剴切教導 Lời dạy thiết thực, ân cần dạy bảo."
+            ]
+        }
+    }
+}

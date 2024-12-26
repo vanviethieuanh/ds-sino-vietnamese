@@ -1,0 +1,86 @@
+{
+    "character": "兴",
+    "details": {
+        "Âm Hán Việt": [
+            "hưng",
+            "hứng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "bát 八 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿳⺍一八"
+        ],
+        "Nét bút": [
+            "丶丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "FMC (火一金)"
+        ],
+        "Unicode": [
+            "U+5174"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xīng ㄒㄧㄥ",
+            "xìng ㄒㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "dữ",
+            "hưng"
+        ],
+        "Âm Quảng Đông": [
+            "hing1",
+            "hing3"
+        ]
+    },
+    "meanings": {
+        "hưng": {
+            "Từ điển phổ thông": [
+                "thức dậy",
+                "hưng thịnh",
+                "dấy lên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 興."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 興"
+            ],
+            "compound_words": {
+                "振兴": "chấn hưng",
+                "兴隆": "hưng long",
+                "兴旺": "hưng vượng",
+                "复兴": "phục hưng",
+                "新兴": "tân hưng",
+                "中兴": "trung hưng"
+            }
+        },
+        "hứng": {
+            "Từ điển phổ thông": [
+                "hứng thú"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 興."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 興"
+            ],
+            "compound_words": {
+                "败兴": "bại hứng",
+                "兴趣": "hứng thú"
+            }
+        }
+    }
+}

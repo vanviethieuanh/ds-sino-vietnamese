@@ -1,0 +1,64 @@
+{
+    "character": "喽",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口娄"
+        ],
+        "Nét bút": [
+            "丨フ一丶ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "RFDV (口火木女)"
+        ],
+        "Unicode": [
+            "U+55BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lōu ㄌㄡ",
+            "lóu ㄌㄡˊ",
+            "lou"
+        ],
+        "Âm Nôm": [
+            "lâu"
+        ],
+        "Âm Quảng Đông": [
+            "lau1",
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "(xem: lâu la 嘍羅,喽啰)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 嘍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 嘍"
+            ],
+            "compound_words": {
+                "喽啰": "lâu la",
+                "嗹喽": "liên lâu"
+            }
+        }
+    }
+}

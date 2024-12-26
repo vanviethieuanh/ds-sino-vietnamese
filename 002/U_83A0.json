@@ -1,0 +1,102 @@
+{
+    "character": "莠",
+    "details": {
+        "Âm Hán Việt": [
+            "dửu",
+            "dữu",
+            "tú"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹秀"
+        ],
+        "Nét bút": [
+            "一丨丨ノ一丨ノ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "THDS (廿竹木尸)"
+        ],
+        "Unicode": [
+            "U+83A0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "xiù ㄒㄧㄡˋ",
+            "yǒu ㄧㄡˇ"
+        ],
+        "Âm Nôm": [
+            "dửu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユウ (yū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はぐさ (hagusa)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jau5"
+        ]
+    },
+    "meanings": {
+        "dửu": {
+            "Từ điển phổ thông": [
+                "cỏ vực (hay mọc trong ruộng làm hại lúa)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ vực (Setaria viridis), thân mọc thành nhánh cứng, không có lông, mùa hè mọc ra tua lúa, hình như đuôi chó, nên còn có tên là 'cẩu vĩ thảo' 狗尾草.",
+                "(Danh) Người hay sự vật xấu xa ác hại. ◎Như: 'lương dửu bất tề' 良莠不齊 người tốt người xấu không như nhau.",
+                "(Tính) Xấu xa, ác hại. ◎Như: 'dửu ngôn' 莠言 lời nói độc ác.",
+                "§ Ta quen đọc là 'tú'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cỏ vực, hay mọc trong ruộng lúa làm hại lúa. Cho nên cái gì ác hại cũng gọi là dửu. Tục dân tốt gọi là lương 良, tục dân xấu gọi là dửu 莠. Ta quen đọc là chữ tú."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cỏ sâu róm, cỏ đuôi chó, cỏ vực;",
+                "(văn) Người xấu."
+            ],
+            "compound_words": {
+                "鋤莠": "sừ dửu"
+            }
+        },
+        "dữu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài lúa dại — Xấu xa. Chẳng hạn Dữu ngôn ( lời nói xấu xa ). Ta có người đọc Tú."
+            ]
+        },
+        "tú": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ vực (Setaria viridis), thân mọc thành nhánh cứng, không có lông, mùa hè mọc ra tua lúa, hình như đuôi chó, nên còn có tên là 'cẩu vĩ thảo' 狗尾草.",
+                "(Danh) Người hay sự vật xấu xa ác hại. ◎Như: 'lương dửu bất tề' 良莠不齊 người tốt người xấu không như nhau.",
+                "(Tính) Xấu xa, ác hại. ◎Như: 'dửu ngôn' 莠言 lời nói độc ác.",
+                "§ Ta quen đọc là 'tú'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cỏ vực, hay mọc trong ruộng lúa làm hại lúa. Cho nên cái gì ác hại cũng gọi là dửu. Tục dân tốt gọi là lương 良, tục dân xấu gọi là dửu 莠. Ta quen đọc là chữ tú."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cỏ sâu róm, cỏ đuôi chó, cỏ vực;",
+                "(văn) Người xấu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ cỏ, còn gọi là Cầu vĩ thảo ( cỏ đuôi chó ) — Xấu xa. Td: Tú ngôn ( lời nói xấu xa )."
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "character": "告",
+    "details": {
+        "Âm Hán Việt": [
+            "cáo",
+            "cốc"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺧口"
+        ],
+        "Nét bút": [
+            "ノ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HGR (竹土口)"
+        ],
+        "Unicode": [
+            "U+544A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gào ㄍㄠˋ"
+        ],
+        "Âm Nôm": [
+            "cáo",
+            "cáu",
+            "kiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コク (koku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.げる (tsu.geru)"
+        ],
+        "Âm Hàn": [
+            "고",
+            "곡"
+        ],
+        "Âm Quảng Đông": [
+            "gou3",
+            "guk1"
+        ]
+    },
+    "meanings": {
+        "cáo": {
+            "Từ điển phổ thông": [
+                "bảo cho biết, báo cáo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bảo, nói cho biết. ◎Như: 'cáo tố' 告訴 trình báo, 'cáo thối' 告退 nói từ biệt tạm lui, về nghỉ. ◇Hồng Lâu Mộng 紅樓夢: 'Cật giá dạng hảo đông tây, dã bất cáo tố ngã!' 吃這樣好東西, 也不告訴我 (Đệ tứ thập cửu hồi) Ăn gì ngon thế, lại không gọi tôi!",
+                "(Động) Xin, thỉnh cầu. ◎Như: 'cáo lão' 告老 vì già yếu xin nghỉ, 'cáo bệnh' 告病 vì bệnh xin lui về nghỉ, 'cáo nhiêu' 告饒 xin khoan dung tha cho, 'cáo giá' 告假 xin nghỉ, 'cáo thải' 告貸 xin tha.",
+                "(Động) Kiện, đưa ra tòa án tố tụng. ◎Như: 'cáo trạng' 告狀 kiện tụng, 'khống cáo' 控告 tố tụng.",
+                "(Động) Khuyên nhủ. ◎Như: 'trung cáo' 忠告 hết sức khuyên nhủ, chân thành khuyên bảo. ◇Luận Ngữ 論語: 'Tử Cống vấn hữu. Tử viết: Trung cáo nhi thiện đạo chi, bất khả tắc chỉ, vô tự nhục yên' 子貢問友. 子曰: 忠告而善道之, 不可則止, 毋自辱焉 (Nhan Uyên 顏淵) Tử Cống hỏi về cách cư xử với bạn bè. Khổng Tử đáp: (Bạn có lỗi) thì hết lòng khuyên nhủ cho khôn khéo, không được thì thôi, khỏi mang nhục.",
+                "(Danh) Lời nói hoặc văn tự báo cho mọi người biết. ◎Như: 'công cáo' 公告 thông cáo, bố cáo, 'quảng cáo' 廣告 rao rộng khắp (thương mại).",
+                "(Danh) Chỉ hai bên trong việc kiện tụng. ◎Như: 'nguyên cáo' 原告 bên đưa kiện, 'bị cáo' 被告 bên bị kiện.",
+                "(Danh) Nghỉ ngơi. ◎Như: 'tứ cáo dưỡng tật' 賜告養疾 ban cho được nghỉ để dưỡng bệnh.",
+                "(Danh) Họ 'Cáo'.",
+                "Một âm là 'cốc'. (Động) Trình. ◎Như: 'xuất cốc phản diện' 出告反面 đi thưa về trình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bảo, nói với, nói ra, báo cho biết, trình, thưa, gởi: 告全世界人民書 Thư gởi nhân dân toàn thế giới; 出告反面 Đi thưa về trình; 何時起程，盼告 Lúc nào lên đường, mong cho biết;",
+                "Kiện, tố cáo;",
+                "Xin, xin phép, yêu cầu, thỉnh: 告老 Xin cho nghỉ vì tuổi già; 告病假 Xin phép nghỉ bệnh;",
+                "Tuyên bố: 會議已告結束 Hội nghị đã tuyên bố kết thúc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói cho biết. Báo cho biết — Xin phép — Nói rõ ra."
+            ],
+            "compound_words": {
+                "哀告": "ai cáo",
+                "播告": "bá cáo",
+                "辨告": "ban cáo",
+                "報告": "báo cáo",
+                "报告": "báo cáo",
+                "抱告": "bão cáo",
+                "被告": "bị cáo",
+                "平吳大告": "bình ngô đại cáo",
+                "布告": "bố cáo",
+                "警告": "cảnh cáo",
+                "告白": "cáo bạch",
+                "告病": "cáo bệnh",
+                "告別": "cáo biệt",
+                "告别": "cáo biệt",
+                "告近": "cáo cận",
+                "告急": "cáo cấp",
+                "告終": "cáo chung",
+                "告窮": "cáo cùng",
+                "告喻": "cáo dụ",
+                "告假": "cáo hà",
+                "告覺": "cáo giác",
+                "告戒": "cáo giới",
+                "告誡": "cáo giới",
+                "告诫": "cáo giới",
+                "告休": "cáo hưu",
+                "告老": "cáo lão",
+                "告令": "cáo lệnh",
+                "告密": "cáo mật",
+                "告发": "cáo phát",
+                "告發": "cáo phát",
+                "告訃": "cáo phó",
+                "告讣": "cáo phó",
+                "告歸": "cáo quy",
+                "告喪": "cáo tang",
+                "告貸": "cáo thải",
+                "告成": "cáo thành",
+                "告示": "cáo thị",
+                "告天": "cáo thiên",
+                "告娶": "cáo thú",
+                "告訴": "cáo tố",
+                "告诉": "cáo tố",
+                "告罪": "cáo tội",
+                "告狀": "cáo trạng",
+                "告知": "cáo tri",
+                "告辭": "cáo từ",
+                "轉告": "chuyển cáo",
+                "預告": "dự cáo",
+                "啟告": "khải cáo",
+                "控告": "khống cáo",
+                "密告": "mật cáo",
+                "原告": "nguyên cáo",
+                "訃告": "phó cáo",
+                "广告": "quảng cáo",
+                "廣告": "quảng cáo",
+                "祭告": "tế cáo",
+                "通告": "thông cáo",
+                "訴告": "tố cáo",
+                "忠告": "trung cáo",
+                "宣告": "tuyên cáo",
+                "誣告": "vu cáo",
+                "诬告": "vu cáo"
+            }
+        },
+        "cốc": {
+            "Từ điển trích dẫn": [
+                "(Động) Bảo, nói cho biết. ◎Như: 'cáo tố' 告訴 trình báo, 'cáo thối' 告退 nói từ biệt tạm lui, về nghỉ. ◇Hồng Lâu Mộng 紅樓夢: 'Cật giá dạng hảo đông tây, dã bất cáo tố ngã!' 吃這樣好東西, 也不告訴我 (Đệ tứ thập cửu hồi) Ăn gì ngon thế, lại không gọi tôi!",
+                "(Động) Xin, thỉnh cầu. ◎Như: 'cáo lão' 告老 vì già yếu xin nghỉ, 'cáo bệnh' 告病 vì bệnh xin lui về nghỉ, 'cáo nhiêu' 告饒 xin khoan dung tha cho, 'cáo giá' 告假 xin nghỉ, 'cáo thải' 告貸 xin tha.",
+                "(Động) Kiện, đưa ra tòa án tố tụng. ◎Như: 'cáo trạng' 告狀 kiện tụng, 'khống cáo' 控告 tố tụng.",
+                "(Động) Khuyên nhủ. ◎Như: 'trung cáo' 忠告 hết sức khuyên nhủ, chân thành khuyên bảo. ◇Luận Ngữ 論語: 'Tử Cống vấn hữu. Tử viết: Trung cáo nhi thiện đạo chi, bất khả tắc chỉ, vô tự nhục yên' 子貢問友. 子曰: 忠告而善道之, 不可則止, 毋自辱焉 (Nhan Uyên 顏淵) Tử Cống hỏi về cách cư xử với bạn bè. Khổng Tử đáp: (Bạn có lỗi) thì hết lòng khuyên nhủ cho khôn khéo, không được thì thôi, khỏi mang nhục.",
+                "(Danh) Lời nói hoặc văn tự báo cho mọi người biết. ◎Như: 'công cáo' 公告 thông cáo, bố cáo, 'quảng cáo' 廣告 rao rộng khắp (thương mại).",
+                "(Danh) Chỉ hai bên trong việc kiện tụng. ◎Như: 'nguyên cáo' 原告 bên đưa kiện, 'bị cáo' 被告 bên bị kiện.",
+                "(Danh) Nghỉ ngơi. ◎Như: 'tứ cáo dưỡng tật' 賜告養疾 ban cho được nghỉ để dưỡng bệnh.",
+                "(Danh) Họ 'Cáo'.",
+                "Một âm là 'cốc'. (Động) Trình. ◎Như: 'xuất cốc phản diện' 出告反面 đi thưa về trình."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mời mọc. Xin xỏ — Một âm khác là Cáo."
+            ]
+        }
+    }
+}

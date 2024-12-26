@@ -1,0 +1,87 @@
+{
+    "character": "窘",
+    "details": {
+        "Âm Hán Việt": [
+            "quẫn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴君"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶フ一一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "JCSKR (十金尸大口)"
+        ],
+        "Unicode": [
+            "U+7A98"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǒng ㄐㄩㄥˇ"
+        ],
+        "Âm Nôm": [
+            "quẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たしな.める (tashina.meru)",
+            "くるし.む (kurushi.mu)"
+        ],
+        "Âm Hàn": [
+            "군"
+        ],
+        "Âm Quảng Đông": [
+            "kwan3"
+        ]
+    },
+    "meanings": {
+        "quẫn": {
+            "Từ điển phổ thông": [
+                "túng thiếu, quẫn bách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bức bách, gặp khó khăn. ◎Như: 'quẫn bách' 窘迫 khốn bách.",
+                "(Tính) Khó khăn, khó xử. ◎Như: 'quẫn cảnh' 窘境 tình cảnh khốn đốn.",
+                "(Phó) Gấp rút, cấp bách. ◇Hán Thư 漢書: 'Giải sử nhân vi tri tặc xứ. Tặc quẫn tự quy' 解使人微知賊處. 賊窘自歸 (Quách Giải truyện 郭解傳) (Quách) Giải sai người dò biết chỗ ở của giặc. Quân giặc vội vàng tự quy thuận."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cùng quẫn, quẫn bách."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Túng quẫn, quẫn bách: 他家裡很窘 Nhà anh ấy rất túng quẫn;",
+                "Lúng túng, khó xử, rắc rối: 當時我很窘 Lúc đó tôi hết sức lúng túng;",
+                "Làm lúng túng, gây khó khăn cho: 這個問題把他弄得窘極了 Vấn đề này làm cho anh ta rất lúng túng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khốn đốn gấp rút — Không biết tính toán xoay trở ra sao."
+            ],
+            "compound_words": {
+                "窮窘": "cùng quẫn",
+                "困窘": "khốn quẫn",
+                "窘迫": "quẫn bách",
+                "窘步": "quẫn bộ",
+                "窘逼": "quẫn bức",
+                "窘急": "quẫn cấp",
+                "窘窮": "quẫn cùng",
+                "窘智": "quẫn trí"
+            }
+        }
+    }
+}

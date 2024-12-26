@@ -1,0 +1,82 @@
+{
+    "character": "謫",
+    "details": {
+        "Âm Hán Việt": [
+            "trích"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "ngôn 言 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言啇"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶一丶ノ丨フ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRYCB (卜口卜金月)"
+        ],
+        "Unicode": [
+            "U+8B2B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zé ㄗㄜˊ",
+            "zhé ㄓㄜˊ"
+        ],
+        "Âm Nôm": [
+            "trích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)",
+            "チャク (chaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せ.める (se.meru)",
+            "とが.める (toga.meru)"
+        ],
+        "Âm Hàn": [
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "zaak6"
+        ]
+    },
+    "meanings": {
+        "trích": {
+            "Từ điển phổ thông": [
+                "khiển trách, phạt",
+                "lỗi lầm",
+                "biến khí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khiển trách, trách phạt. ◎Như: 'chỉ trích' 指謫 khiển trách.",
+                "(Động) Giáng chức, biếm. ◎Như: 'trích thú' 謫戍 đày ra ngoài biên làm lính thú, 'trích giáng' 謫降 bị giáng chức và đưa đi xa. ◇Phạm Trọng Yêm 范仲淹: 'Đằng Tử Kinh trích thú Ba Lăng quận' 滕子京謫守巴陵郡 (Nhạc Dương Lâu kí 岳陽樓記) Đằng Tử Kinh bị biếm làm thái thú ở quận Ba Lăng.",
+                "(Danh) Lỗi lầm. ◇Đạo Đức Kinh 道德經: 'Thiện hành vô triệt tích, thiện ngôn vô hà trích' 善行無轍跡, 善言無瑕謫 (Chương 27) Khéo đi thì không để lại dấu vết, khéo nói thì không có lỗi lầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chỉ trích, khiển trách: 衆口交謫 Mọi người khiển trách;",
+                "Giáng chức đày đi xa, trích giáng, biếm đi (nói về việc xử phạt các quan lại phạm tội)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trách điều lỗi — Phạt tội — Tội lỗi — Hình phạt đày đi, đổi đi nơi xa."
+            ],
+            "compound_words": {
+                "謫客": "trích khách",
+                "謫戍": "trích thú",
+                "謫仙": "trích tiên"
+            }
+        }
+    }
+}

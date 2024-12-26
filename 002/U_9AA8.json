@@ -1,0 +1,159 @@
+{
+    "character": "骨",
+    "details": {
+        "Âm Hán Việt": [
+            "cốt"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "cốt 骨 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フフ丶フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "BBB (月月月)"
+        ],
+        "Unicode": [
+            "U+9AA8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ",
+            "gú ㄍㄨˊ",
+            "gǔ ㄍㄨˇ"
+        ],
+        "Âm Nôm": [
+            "cọt",
+            "cốt",
+            "cút",
+            "gút"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コツ (kotsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほね (hone)"
+        ],
+        "Âm Hàn": [
+            "골"
+        ],
+        "Âm Quảng Đông": [
+            "gwat1"
+        ]
+    },
+    "meanings": {
+        "cốt": {
+            "Từ điển phổ thông": [
+                "xương cốt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Xương. ◎Như: 'kiên giáp cốt' 肩胛骨 xương bả vai, 'tỏa cốt' 鎖骨 xương đòn (quai xanh), 'quăng cốt' 肱骨 xương cánh tay, 'cân cốt' 筋骨 gân và xương.",
+                "(Danh) Chỉ xác chết, thi cốt. ◇Cao Bá Quát 高伯适: 'Bích thảo đa tình oanh chiến cốt' 碧草多情縈戰骨 (Cảm phú 感賦) Cỏ biếc nặng tình quấn quanh xác lính chết trận. ◇Đỗ Phủ 杜甫: 'Chu môn tửu nhục xú, Lộ hữu đống tử cốt' 朱門酒肉臭, 路有凍死骨 (Tự kinh phó Phụng Tiên huyện vịnh hoài 自京赴奉先縣詠懷) Cửa son rượu thịt ôi, Ngoài đường người chết cóng.",
+                "(Danh) Thân mình, khu thể. ◇Tống Liêm 宋濂: 'Thì binh hậu tuế cơ, Dân cốt bất tương bảo' 時兵後歲饑, 民骨不相保 (Đỗ Hoàn Tiểu truyện 杜環小傳).",
+                "(Danh) Chỉ thịt của gia súc dùng để cúng tế. § Tức là những con 'sinh' 牲. ◇Lễ Kí 禮記: 'Phàm vi trở giả, dĩ cốt vi chủ. Cốt hữu quý tiện. Ân nhân quý bễ, Chu nhân quý kiên' 凡為俎者, 以骨為主. 骨有貴賤. 殷人貴髀, 周人貴肩 (Tế thống 祭統).",
+                "(Danh) Khung, nan, cốt. ◎Như: 'phiến cốt' 扇骨 nan quạt, 'cương cốt thủy nê' 鋼骨水泥 xi-măng cốt sắt.",
+                "(Danh) Chỉ thành phần chủ yếu.",
+                "(Danh) Rễ cây. ◇Quản Tử 管子: 'Phong sanh mộc dữ cốt' 風生木與骨 (Tứ thì 四時).",
+                "(Danh) Phẩm chất, tính chất. ◇Lí Ngư 李漁: 'Cụ tùng bách chi cốt, hiệp đào lí chi tư' 具松柏之骨, 挾桃李之姿 (Nhàn tình ngẫu kí 閑情偶寄, Chủng thực 種植, Mộc bổn 木本).",
+                "(Danh) Chỉ thật chất, cái lẽ thật bên trong. ◇Lỗ Tấn 魯迅: 'Cố thử sự chánh diệc vị khả tri, ngã nghi tất cốt nô nhi phu chủ, kì trạng dữ chiến khu đồng' 顧此事正亦未可知, 我疑必骨奴而膚主, 其狀與戰區同 (Thư tín tập 書信集, Trí đài tĩnh nông 致臺靜農).",
+                "(Danh) Chỉ khí chất. ◇Tấn Thư 晉書: 'Thử nhi hữu kì cốt, khả thí sử đề' 此兒有奇骨, 可試使啼 (Hoàn Ôn truyện 桓溫傳).",
+                "(Danh) Chỉ bổn tính, tính cách. ◎Như: 'ngạo cốt' 傲骨 phong cách kiêu ngạo, 'phong cốt' 風骨 tính cách.",
+                "(Danh) Chỉ tâm thần, tâm ý. ◇Giang Yêm 江淹: 'Sử nhân ý đoạt thần hãi, tâm chiết cốt kinh' 使人意奪神駭, 心折骨驚 (Biệt phú 別賦).",
+                "(Danh) Chỉ nét chữ cứng cỏi hùng mạnh. ◇Tô Thức 蘇軾: 'Đông Pha bình thì tác tự, cốt sanh nhục, nhục một cốt, vị thường tác thử sấu diệu dã' 東坡平時作字, 骨撐肉, 肉沒骨, 未嘗作此瘦玅也 (Đề tự tác tự 題自作字).",
+                "(Danh) Chỉ đường hướng và khí thế của thơ văn. ◇Văn tâm điêu long 文心雕龍: 'Cố luyện ư cốt giả, tích từ tất tinh' 故練於骨者, 析辭必精 (Phong cốt 風骨).",
+                "(Danh) Tỉ dụ đáy lòng sâu xa. ◇Vương Sung 王充: 'Dĩ vi tích cổ chi sự, sở ngôn cận thị, tín chi nhập cốt, bất khả tự giải' 以為昔古之事, 所言近是, 信之入骨, 不可自解 (Luận hành 論衡, Tự kỉ 自紀).",
+                "(Danh) Tỉ dụ (trong lời nói) hàm ý bất mãn, chế giễu... ◇Mao Thuẫn 茅盾: 'Lí Ngọc Đình bất minh bạch tha môn đích thoại trung hữu cốt' 李玉亭不明白他們的話中有骨 (Tí dạ 子夜, Cửu).",
+                "(Danh) Khắc (thời giờ). § Dịch âm tiếng Anh: quarter. ◇Khang Hữu Vi 康有為: 'Âu nhân ư nhất thì chi trung, phân tứ cốt, mỗi cốt tam tự, diệc đồng ư thì số' 歐人於一時之中, 分四骨, 每骨三字, 亦同於時數 (Đại đồng thư 大衕書, Ất bộ đệ tứ chương 乙部第四章).",
+                "(Danh) Họ 'Cốt'.",
+                "(Danh) Tức 'cốt phẩm chế' 骨品製. § Chế độ của tộc Tân La 新羅 ngày xưa, dựa theo huyết thống phân chia đẳng cấp (hoàng thất, quý tộc...).",
+                "(Giới) Vẫn cứ, vẫn lại. § Dùng như: 'hoàn' 還, 'nhưng nhiên' 仍然. ◇Lí Lai Lão 李萊老: 'Tú áp thùy liêm, cốt hữu hứa đa hàn tại' 繡壓垂簾, 骨有許多寒在 (Quyện tầm phương 倦尋芳, Từ 詞)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xương, là một phần cốt yếu trong thân thể người và vật.",
+                "Cái cốt, dùng để làm cái mẫu để đúc nắn các hình đứng đều gọi là cốt.",
+                "Thứ cốt 次骨 khắc sâu vào. Giận người không quên gọi là hàm chi thứ cốt 銜之次骨.",
+                "Cứng cỏi. Như kẻ cứ đứng thẳng mà can, không a dua nịnh hót gọi là cốt ngạnh 骨鯁 (xương cá).",
+                "Người chết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【骨朵兒】cốt đoá nhi [guduor] (khn) Nụ hoa;",
+                "【骨碌】cốt lục [gulu] Lăn long lóc. Xem 骨 [gú], [gư]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xương — Chỉ sự cứng cỏi — Chính yếu."
+            ],
+            "compound_words": {
+                "髆骨": "bác cốt",
+                "白骨": "bạch cốt",
+                "排骨": "bài cốt",
+                "冰肌玉骨": "băng cơ ngọc cốt",
+                "暴骨": "bộc cốt",
+                "筋骨": "cân cốt",
+                "枕骨": "chẩm cốt",
+                "指骨": "chỉ cốt",
+                "肢骨": "chi cốt",
+                "椎骨": "chuỳ cốt",
+                "掌骨": "chưởng cốt",
+                "股骨": "cổ cốt",
+                "骨盆": "cốt bồn",
+                "骨格": "cốt cách",
+                "骨骼": "cốt cách",
+                "骨朵兒": "cốt đoá nhi",
+                "骨董": "cốt đổng",
+                "骨灰": "cốt khôi",
+                "骨立": "cốt lập",
+                "骨膜": "cốt mạc",
+                "骨鯁": "cốt nghạch",
+                "骨肉": "cốt nhục",
+                "骨肉相殘": "cốt nhục tương tàn",
+                "骨法": "cốt pháp",
+                "骨關節": "cốt quan tiết",
+                "骨瘦如柴": "cốt sấu như sài",
+                "骨髓": "cốt tuỷ",
+                "骨子": "cốt tử",
+                "骨相": "cốt tướng",
+                "肌骨": "cơ cốt",
+                "窮骨": "cùng cốt",
+                "面骨": "diện cốt",
+                "頭骨": "đầu cốt",
+                "骸骨": "hài cốt",
+                "脅骨": "hiếp cốt",
+                "虎骨": "hổ cốt",
+                "雞骨": "kê cốt",
+                "刻骨": "khắc cốt",
+                "氣骨": "khí cốt",
+                "枯骨": "khô cốt",
+                "肋骨": "lặc cốt",
+                "梅骨": "mai cốt",
+                "毛骨悚然": "mao cốt tủng nhiên",
+                "玉骨": "ngọc cốt",
+                "顏面骨": "nhan diện cốt",
+                "入骨": "nhập cốt",
+                "輭骨": "nhuyễn cốt",
+                "烏骨雞": "ô cốt kê",
+                "凡骨": "phàm cốt",
+                "粉骨碎身": "phấn cốt toái thân",
+                "風骨": "phong cốt",
+                "富骨": "phú cốt",
+                "肱骨": "quăng cốt",
+                "歸骨": "quy cốt",
+                "權骨": "quyền cốt",
+                "瘦骨": "sấu cốt",
+                "仙風道骨": "tiên phong đạo cốt",
+                "接骨": "tiếp cốt",
+                "座骨": "toạ cốt"
+            }
+        }
+    }
+}

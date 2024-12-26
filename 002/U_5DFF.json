@@ -1,0 +1,72 @@
+{
+    "character": "巿",
+    "details": {
+        "Âm Hán Việt": [
+            "phất",
+            "thị"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "cân 巾 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "JB (十月)"
+        ],
+        "Unicode": [
+            "U+5DFF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "fú ㄈㄨˊ",
+            "shì ㄕˋ"
+        ],
+        "Âm Quảng Đông": [
+            "fat1",
+            "si5"
+        ]
+    },
+    "meanings": {
+        "phất": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Dây đeo lưng cho quan phục hoặc lễ phục thời xưa. § Cũng như “phất” 紱 hoặc 韍."
+            ]
+        },
+        "thị": {
+            "Từ điển phổ thông": [
+                "thị xã",
+                "cái chợ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chợ, chỗ để mua bán gọi là thị. Giá hàng vì sự cung cầu chậm trễ hay cần kíp mà lên xuống giá gọi là thị giá 巿價. Nói về trạng huống sự mua bán gọi là thị diện 巿面. Kẻ làm hàng sách cho hai bên mua bán mà lấy lợi gọi là thị quái 巿儈. Ðồ gì bền tốt gọi là thị hoá 巿貨, đồ gì không tốt gọi là hành hoá 行貨.",
+                "Mua, như cô tửu thị bô bất thực 沽酒巿脯不食 (Luận ngữ 論語) rượu nem mua ở chợ không ăn, thị ân 巿恩 mua ơn, v.v."
+            ],
+            "compound_words": {
+                "罷巿": "bãi thị",
+                "都巿": "đô thị",
+                "開巿": "khai thị",
+                "糠巿": "khang thị",
+                "棄巿": "khí thị",
+                "城巿": "thành thị",
+                "巿政": "thị chính",
+                "巿民": "thị dân",
+                "巿场": "thị trường",
+                "巿长": "thị trưởng",
+                "上巿": "thượng thị",
+                "揭巿": "yết thị"
+            }
+        }
+    }
+}

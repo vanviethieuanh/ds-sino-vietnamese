@@ -1,0 +1,106 @@
+{
+    "character": "伐",
+    "details": {
+        "Âm Hán Việt": [
+            "phạt"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻戈"
+        ],
+        "Nét bút": [
+            "ノ丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OI (人戈)"
+        ],
+        "Unicode": [
+            "U+4F10"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fá ㄈㄚˊ"
+        ],
+        "Âm Nôm": [
+            "phạt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バツ (batsu)",
+            "ハツ (hatsu)",
+            "カ (ka)",
+            "ボチ (bochi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.る (ki.ru)",
+            "そむ.く (somu.ku)",
+            "う.つ (u.tsu)"
+        ],
+        "Âm Hàn": [
+            "벌"
+        ],
+        "Âm Quảng Đông": [
+            "fat6"
+        ]
+    },
+    "meanings": {
+        "phạt": {
+            "Từ điển phổ thông": [
+                "chinh phạt",
+                "chặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh, đem binh đi đánh dẹp. ◎Như: 'chinh phạt' 征伐 đem quân đi đánh nơi xa.",
+                "(Động) Nện, đập. ◎Như: 'phạt cổ' 伐鼓 đánh trống.",
+                "(Động) Chặt, đốn. ◎Như: 'phạt mộc' 伐木 chặt cây.",
+                "(Động) Khoe công. ◇Luận Ngữ 論語: 'Mạnh Chi Phản bất phạt' 孟之反不伐 (Ung dã 雍也) Ông Mạnh Chi Phản không khoe công. § Xem thêm chữ 殿.",
+                "(Động) Đâm chém, đánh giết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðánh, đem binh đi đánh nước người gọi là phạt.",
+                "Nện, như phạt cổ 伐鼓 đánh trống.",
+                "Chặt, như phạt mộc 伐木 chặt cây.",
+                "Khoe công.",
+                "Ðâm chém đánh giết cũng gọi là phạt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chặt, đốn (cây): 伐了幾棵樹 Chặt mấy gốc cây; 伐工業 Nghề đốn gỗ;",
+                "Phạt, đánh, dẹp: 征伐 Chinh phạt; 討伐 Thảo phạt; 北伐 Bắc phạt;",
+                "(văn) Đánh, nện: 伐鼓 Đánh trống;",
+                "(văn) Sát phạt, đánh giết;",
+                "(văn) Khoe khoang: 伐善 Hay khoe khoang; 不矜不伐 Không kiêu ngạo khoe khoang."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh giặc. Đánh kẻ có lỗi — Đem binh đi đánh. Td: Chinh phạt — Tự khoe công lao của mình — Đánh. Gõ."
+            ],
+            "compound_words": {
+                "步伐": "bộ phạt",
+                "矜伐": "căng phạt",
+                "征伐": "chinh phạt",
+                "攻伐": "công phạt",
+                "弔民伐罪": "điếu dân phạt tội",
+                "吊伐": "điếu phạt",
+                "伐鼓": "phạt cổ",
+                "伐木": "phạt mộc",
+                "伐謀": "phạt mưu",
+                "伐善": "phạt thiện",
+                "伐罪": "phạt tội",
+                "殺伐": "sát phạt",
+                "採伐": "thái phạt",
+                "采伐": "thái phạt"
+            }
+        }
+    }
+}

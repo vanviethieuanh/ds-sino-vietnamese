@@ -1,0 +1,94 @@
+{
+    "character": "汇",
+    "details": {
+        "Âm Hán Việt": [
+            "hối",
+            "hội",
+            "vị",
+            "vựng"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡匚"
+        ],
+        "Nét bút": [
+            "丶丶一一フ"
+        ],
+        "Thương Hiệt": [
+            "ES (水尸)"
+        ],
+        "Unicode": [
+            "U+6C47"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "hối",
+            "vị"
+        ],
+        "Âm Quảng Đông": [
+            "wui6"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển trích dẫn": [
+                "Như chữ 'hối' 匯.",
+                "Giản thể của chữ 匯.",
+                "Giản thể của chữ 彙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 匯"
+            ]
+        },
+        "hội": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 匯"
+            ]
+        },
+        "vị": {
+            "Từ điển phổ thông": [
+                "loài, loại",
+                "phân loại",
+                "tập hợp, thu thập"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'hối' 匯.",
+                "Giản thể của chữ 匯.",
+                "Giản thể của chữ 彙."
+            ],
+            "compound_words": {
+                "汇报": "vị báo",
+                "汇编": "vị biên",
+                "汇集": "vị tập"
+            }
+        },
+        "vựng": {
+            "Từ điển phổ thông": [
+                "loài, loại",
+                "phân loại",
+                "tập hợp, thu thập"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'hối' 匯.",
+                "Giản thể của chữ 匯.",
+                "Giản thể của chữ 彙."
+            ]
+        }
+    }
+}

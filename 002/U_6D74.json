@@ -1,0 +1,88 @@
+{
+    "character": "浴",
+    "details": {
+        "Âm Hán Việt": [
+            "dục"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡谷"
+        ],
+        "Nét bút": [
+            "丶丶一ノ丶ノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ECOR (水金人口)"
+        ],
+        "Unicode": [
+            "U+6D74"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "dục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨク (yoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ.びる (a.biru)",
+            "あ.びせる (a.biseru)"
+        ],
+        "Âm Hàn": [
+            "욕"
+        ],
+        "Âm Quảng Đông": [
+            "juk6"
+        ]
+    },
+    "meanings": {
+        "dục": {
+            "Từ điển phổ thông": [
+                "tắm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tắm. ◎Như: 'mộc dục' 沐浴 tắm gội. ◇Luận Ngữ 論語: 'Dục hồ Nghi, phong hồ Vũ Vu' 浴乎沂, 風乎舞雩 Tắm ở sông Nghi, hứng mát ở nền Vũ Vu.",
+                "(Động) Tẩy rửa. ◎Như: 'dục Phật' 浴佛 nghi thức dùng nước nóng hương thơm lau chùi tượng Phật.",
+                "(Động) Thấm đẫm, hụp lặn. ◎Như: 'dục huyết' 浴血 đẫm máu, 'vĩnh dục ái hà' 永浴愛河 mãi được hụp lặn trong sông tình ái (lời chúc tụng tình nhân yêu nhau mãi mãi).",
+                "(Tính) Dùng cho sự tắm rửa. ◎Như: 'dục thất' 浴室 phòng tắm, 'dục cân' 浴巾 khăn tắm.",
+                "(Danh) Họ 'Dục'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tắm.",
+                "Phàm cái gì rửa cho sạch đi đều gọi là dục."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tắm: 海水浴 Tắm biển; 日光浴 Tắm nắng;",
+                "Rửa cho sạch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tắm rửa — Dáng chim bay lên xuống."
+            ],
+            "compound_words": {
+                "補天浴日": "bổ thiên dục nhật",
+                "浴堂": "dục đường",
+                "浴血": "dục huyết",
+                "浴池": "dục trì",
+                "淴浴": "hốt dục",
+                "沐浴": "mộc dục",
+                "砂浴": "sa dục"
+            }
+        }
+    }
+}

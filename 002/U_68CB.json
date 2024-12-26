@@ -1,0 +1,107 @@
+{
+    "character": "棋",
+    "details": {
+        "Âm Hán Việt": [
+            "ky",
+            "kì",
+            "kí",
+            "ký",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木其"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨丨一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DTMC (木廿一金)"
+        ],
+        "Unicode": [
+            "U+68CB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cờ",
+            "cơi",
+            "kè",
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ご (go)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "ky": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rễ cây — Gốc rễ sự việc — Một âm là Kì."
+            ]
+        },
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cờ, một thứ trò chơi, hai bên bày quân tranh hơn thua. ◎Như: 'tượng kì' 象棋 cờ tướng.",
+                "Một âm là 'kí'. (Danh) Cỗi rễ, căn để, căn cơ. § Thông 'cơ' 基."
+            ],
+            "compound_words": {
+                "琴棋詩畫": "cầm kì thi hoạ",
+                "琴棋書畫": "cầm kì thư hoạ",
+                "棋局": "kì cục",
+                "圍棋": "vi kì"
+            }
+        },
+        "kí": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cờ, một thứ trò chơi, hai bên bày quân tranh hơn thua. ◎Như: 'tượng kì' 象棋 cờ tướng.",
+                "Một âm là 'kí'. (Danh) Cỗi rễ, căn để, căn cơ. § Thông 'cơ' 基."
+            ]
+        },
+        "ký": {
+            "Từ điển Thiều Chửu": [
+                "Cờ, một thứ trò chơi, hai bên bày quân đánh nhau, như thể đánh trận, ngày xưa gọi là tượng hí 象戲.",
+                "Một âm là kí. Cỗi rễ."
+            ]
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "cờ (chơi)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cờ, một thứ trò chơi, hai bên bày quân đánh nhau, như thể đánh trận, ngày xưa gọi là tượng hí 象戲.",
+                "Một âm là kí. Cỗi rễ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cờ, con cờ: 下棋 Đánh cờ; 圍棋 Cờ vây; 棋的着數 Nước cờ (Cv. 招數); 連贏三盤棋 Thắng liền ba ván cờ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bàn cờ — Con cờ."
+            ]
+        }
+    }
+}

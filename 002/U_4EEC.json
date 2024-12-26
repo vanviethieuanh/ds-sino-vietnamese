@@ -1,0 +1,67 @@
+{
+    "character": "们",
+    "details": {
+        "Âm Hán Việt": [
+            "môn"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhân 人 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻门"
+        ],
+        "Nét bút": [
+            "ノ丨丶丨フ"
+        ],
+        "Thương Hiệt": [
+            "OLS (人中尸)"
+        ],
+        "Unicode": [
+            "U+4EEC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mēn ㄇㄣ",
+            "mén ㄇㄣˊ",
+            "men"
+        ],
+        "Âm Nôm": [
+            "môn"
+        ],
+        "Âm Quảng Đông": [
+            "mun4"
+        ]
+    },
+    "meanings": {
+        "môn": {
+            "Từ điển phổ thông": [
+                "bọn, các, chúng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 們."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chúng, bọn (gia từ đặt sau một đại từ hay một danh từ để chỉ số nhiều): 我們 Chúng ta, chúng tôi; 你們 Các anh; 咱們 Chúng ta, chúng mình; 人們 Người ta; 姑娘們 Các cô; 孩子們 Các em;",
+                "Từ xưng hô: 哥兒們 Anh em ta; 姐兒們 Chị em ta; 鄉親們 Bà con cô bác."
+            ],
+            "compound_words": {
+                "咱们": "cha môn",
+                "人们": "nhân môn",
+                "你们": "nhĩ môn",
+                "他们": "tha môn",
+                "它们": "tha môn"
+            }
+        }
+    }
+}

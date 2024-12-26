@@ -1,0 +1,96 @@
+{
+    "character": "圻",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ",
+            "ngân"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土斤"
+        ],
+        "Nét bút": [
+            "一丨一ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "GHML (土竹一中)"
+        ],
+        "Unicode": [
+            "U+573B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ",
+            "yín ㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "ギン (gin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さか.い (saka.i)"
+        ],
+        "Âm Hàn": [
+            "기",
+            "은"
+        ],
+        "Âm Quảng Đông": [
+            "kei4",
+            "ngan4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Kinh kì (chỗ thiên tử đóng đô), kinh thành.",
+                "(Danh) Đất diện tích nghìn dặm.",
+                "Một âm là 'ngân'. (Danh) Biên giới, địa giới. § Thông 'ngân' 垠.",
+                "(Danh) Bờ, ngạn."
+            ],
+            "compound_words": {
+                "北圻": "bắc kì",
+                "南圻": "nam kì",
+                "御製剿平南圻賊寇詩集": "ngự chế tiễu bình nam kì tặc khấu thi tập"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "biên, bờ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cõi đất vuông nghìn dặm gọi là kì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Địa giới, cõi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng đất ngàn dặm xung quanh kinh đô — Vùng đất rộng lớn. Td: Bắc kì, Nam kì ( vùng đất phía Bắc, phía Nam kinh đô )."
+            ]
+        },
+        "ngân": {
+            "Từ điển trích dẫn": [
+                "(Danh) Kinh kì (chỗ thiên tử đóng đô), kinh thành.",
+                "(Danh) Đất diện tích nghìn dặm.",
+                "Một âm là 'ngân'. (Danh) Biên giới, địa giới. § Thông 'ngân' 垠.",
+                "(Danh) Bờ, ngạn."
+            ]
+        }
+    }
+}

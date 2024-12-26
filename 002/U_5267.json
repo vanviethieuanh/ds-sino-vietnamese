@@ -1,0 +1,70 @@
+{
+    "character": "剧",
+    "details": {
+        "Âm Hán Việt": [
+            "kịch"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "đao 刀 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰居⺉"
+        ],
+        "Nét bút": [
+            "フ一ノ一丨丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "SRLN (尸口中弓)"
+        ],
+        "Unicode": [
+            "U+5267"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jù ㄐㄩˋ"
+        ],
+        "Âm Nôm": [
+            "cưa",
+            "kịch"
+        ],
+        "Âm Quảng Đông": [
+            "kek6"
+        ]
+    },
+    "meanings": {
+        "kịch": {
+            "Từ điển phổ thông": [
+                "quá mức",
+                "trò đùa, vở kịch"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 劇."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 劇"
+            ],
+            "compound_words": {
+                "悲剧": "bi kịch",
+                "歌剧": "ca kịch",
+                "急剧": "cấp kịch",
+                "加剧": "gia kịch",
+                "喜剧": "hỉ kịch",
+                "戏剧": "hí kịch",
+                "剧烈": "kịch liệt",
+                "剧场": "kịch trường",
+                "京剧": "kinh kịch"
+            }
+        }
+    }
+}

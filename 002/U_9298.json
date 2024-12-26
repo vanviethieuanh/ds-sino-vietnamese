@@ -1,0 +1,80 @@
+{
+    "character": "銘",
+    "details": {
+        "Âm Hán Việt": [
+            "minh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "kim 金 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金名"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "CNIR (金弓戈口)"
+        ],
+        "Unicode": [
+            "U+9298"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "míng ㄇㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "minh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メイ (mei)"
+        ],
+        "Âm Hàn": [
+            "명"
+        ],
+        "Âm Quảng Đông": [
+            "ming4",
+            "ming5"
+        ]
+    },
+    "meanings": {
+        "minh": {
+            "Từ điển phổ thông": [
+                "bài minh (khắc chữ vào bia để tự răn mình hoặc ghi chép công đức)",
+                "ghi nhớ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên một thể văn. Bài 'minh' thường được khắc chữ vào đồ vật, hoặc để tự răn mình, hoặc ghi chép công đức. Ngày xưa khắc vào chuông, đỉnh, đời sau hay khắc vào bia. ◎Như: 'tọa hữu minh' 座右銘, Thôi Viện 崔瑗 đời Đông Hán làm bài minh để bên phải chỗ ngồi của minh. ◇Nguyễn Trãi 阮廌: 'Hỉ đắc tân thi đáng tọa minh' 喜得新詩當座銘 (Thứ vận Hoàng môn thị lang 次韻黃門侍郎) Mừng được bài thơ mới đáng khắc làm bài minh để (bên phải) chỗ ngồi.",
+                "(Động) Ghi nhớ không quên. ◎Như: 'minh tâm' 銘心 ghi khắc trong lòng, 'minh kí' 銘記 ghi nhớ không quên. ◇Tam quốc diễn nghĩa 三國演義: 'Kim thạch chi ngôn, đáng minh phế phủ' 金石之言, 當銘肺腑 (Đệ lục thập hồi) (Thật là) lời vàng đá, đáng đem ghi lòng tạc dạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bài minh. Khắc chữ vào đồ, hoặc để tự răn mình, hoặc ghi chép công đức gọi là minh. Ngày xưa khắc vào cái chuông cái đỉnh, đời sau hay khắc vào bia.",
+                "Ghi nhớ không quên. Như minh cảm 銘感 cảm in vào lòng không bao giờ quên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chữ khắc vào đồ vật để tự răn mình, bài minh: 墓志銘 Mộ chí; 座右銘 Câu cách ngôn viết để bên phải cạnh chỗ ngồi (để răn mình);",
+                "Nhớ, không quên, khắc sâu: 銘功 Ghi nhớ công lao; 銘感 Mối cảm kích in sâu trong lòng; 銘諸肺腑 Khắc sâu vào tim phổi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao khắc vào đá — Thể văn bia, thường được khắc vào bia đá để ghi nhớ. Khắc vào lòng, ý nói nhớ mãi không quên."
+            ],
+            "compound_words": {
+                "盤銘": "bàn minh",
+                "碑銘": "bi minh",
+                "銘心": "minh tâm",
+                "銘旌": "minh tinh"
+            }
+        }
+    }
+}

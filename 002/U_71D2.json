@@ -1,0 +1,109 @@
+{
+    "character": "燒",
+    "details": {
+        "Âm Hán Việt": [
+            "thiêu",
+            "thiếu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "hoả 火 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火堯"
+        ],
+        "Nét bút": [
+            "丶ノノ丶一丨一一丨一一丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "FGGU (火土土山)"
+        ],
+        "Unicode": [
+            "U+71D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shāo ㄕㄠ",
+            "shào ㄕㄠˋ"
+        ],
+        "Âm Nôm": [
+            "sao",
+            "thiêu",
+            "thiu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.く (ya.ku)",
+            "や.ける (ya.keru)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "siu1"
+        ]
+    },
+    "meanings": {
+        "thiêu": {
+            "Từ điển phổ thông": [
+                "đốt cháy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đốt, cháy. ◎Như: 'nhiên thiêu' 燃燒 thiêu đốt, 'thiêu hương' 燒香 đốt nhang.",
+                "(Động) Dùng lửa biến chế vật thể. ◎Như: 'thiêu phạn' 燒飯 nấu cơm, 'thiêu thủy' 燒水 đun nước, 'thiêu thán' 燒炭 đốt than, 'thiêu chuyên' 燒磚 nung gạch.",
+                "(Động) Quay, xào, nướng, v.v. (những cách nấu ăn). ◎Như: 'thiêu gia tử' 燒茄子 bung cà, 'hồng thiêu lí ngư' 紅燒鯉魚 rán kho cá chép, 'xoa thiêu' 叉燒 làm xá xíu.",
+                "(Tính) Đã được nấu nướng. ◎Như: 'thiêu bính' 燒餅 bánh nướng, 'thiêu kê' 燒雞 gà quay, 'thiêu áp' 燒鴨 vịt quay.",
+                "(Danh) Bệnh sốt (có bệnh, nhiệt độ trong thân thể tăng cao). ◎Như: 'phát thiêu' 發燒 bị sốt.",
+                "Một âm là 'thiếu'. (Danh) Lửa. ◇Bạch Cư Dị 白居易: 'Tịch chiếu hồng ư thiếu' 夕照紅於燒 (Thu tứ 秋思) Nắng chiều đỏ hơn lửa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðốt.",
+                "Một âm là thiếu. Lửa đồng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cháy: Xem 燃燒 [ránshao];",
+                "Đốt, đun, nấu, quay, xào, nướng: 燒水 Đun nước; 燒炭 Đốt than; 燒飯 Nấu (thổi) cơm; 燒茄子 Cà xào; 燒鴨 Vịt quay; 燒雞 Gà quay;",
+                "Sốt: 不燒了 Không sốt nữa; 發燒 Sốt;",
+                "(văn) Lửa, lửa đồng: 夕照紅于燒 Nắng chiều đỏ hơn lửa (Bạch Cư Dị: Thu tứ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa cháy — Châm lửa cho cháy. Đốt cháy."
+            ],
+            "compound_words": {
+                "火燒": "hoả thiêu",
+                "燃燒": "nhiên thiêu",
+                "燒毀": "thiêu huỷ",
+                "燒香": "thiêu hương",
+                "燒賣": "thiêu mại",
+                "燒葬": "thiêu táng",
+                "燒焦": "thiêu tiêu"
+            }
+        },
+        "thiếu": {
+            "Từ điển trích dẫn": [
+                "(Động) Đốt, cháy. ◎Như: 'nhiên thiêu' 燃燒 thiêu đốt, 'thiêu hương' 燒香 đốt nhang.",
+                "(Động) Dùng lửa biến chế vật thể. ◎Như: 'thiêu phạn' 燒飯 nấu cơm, 'thiêu thủy' 燒水 đun nước, 'thiêu thán' 燒炭 đốt than, 'thiêu chuyên' 燒磚 nung gạch.",
+                "(Động) Quay, xào, nướng, v.v. (những cách nấu ăn). ◎Như: 'thiêu gia tử' 燒茄子 bung cà, 'hồng thiêu lí ngư' 紅燒鯉魚 rán kho cá chép, 'xoa thiêu' 叉燒 làm xá xíu.",
+                "(Tính) Đã được nấu nướng. ◎Như: 'thiêu bính' 燒餅 bánh nướng, 'thiêu kê' 燒雞 gà quay, 'thiêu áp' 燒鴨 vịt quay.",
+                "(Danh) Bệnh sốt (có bệnh, nhiệt độ trong thân thể tăng cao). ◎Như: 'phát thiêu' 發燒 bị sốt.",
+                "Một âm là 'thiếu'. (Danh) Lửa. ◇Bạch Cư Dị 白居易: 'Tịch chiếu hồng ư thiếu' 夕照紅於燒 (Thu tứ 秋思) Nắng chiều đỏ hơn lửa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðốt.",
+                "Một âm là thiếu. Lửa đồng."
+            ]
+        }
+    }
+}

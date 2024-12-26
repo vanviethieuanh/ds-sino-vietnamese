@@ -1,0 +1,272 @@
+{
+    "character": "惡",
+    "details": {
+        "Âm Hán Việt": [
+            "ác",
+            "ô",
+            "ố"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱亞心"
+        ],
+        "Nét bút": [
+            "一丨一フフ一丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "MMP (一一心)"
+        ],
+        "Unicode": [
+            "U+60E1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ě",
+            "è",
+            "wū ㄨ",
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "ác",
+            "ố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アク (aku)",
+            "オ (o)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わる.い (waru.i)",
+            "あ.し (a.shi)",
+            "にく.い (niku.i)",
+            "ああ (ā)",
+            "いずくに (izukuni)",
+            "いずくんぞ (izukun zo)",
+            "にく.む (niku.mu)"
+        ],
+        "Âm Hàn": [
+            "악",
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ngok3",
+            "ok3",
+            "wu1",
+            "wu3"
+        ]
+    },
+    "meanings": {
+        "ác": {
+            "Từ điển phổ thông": [
+                "ác độc",
+                "xấu xí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tội lỗi, lỗi lầm, hành vi không tốt. ◎Như: 'tội ác' 罪惡 điều xấu gây nên tội. ◇Dịch Kinh 易經: 'Quân tử dĩ át ác dương thiện' 君子以遏惡揚善 (Đại hữu quái 大有卦) Bậc quân tử đè nén việc ác dữ, đề cao việc tốt lành.",
+                "(Danh) Bệnh tật. ◇Tả truyện 左傳: 'Thổ bạc thủy thiển, kì ác dị cấu' 土薄水淺, 其惡易覯 (Thành Công lục niên 成公六年) Đất cạn nước nông, bệnh tật ở đó dễ gặp phải.",
+                "(Danh) Vật dơ bẩn, sự dơ bẩn. ◇Tả truyện 左傳: 'Thổ hậu thủy thâm, cư chi bất tật, hữu Phần quái dĩ lưu kì ác' 土厚水深, 居之不疾, 有汾澮以流其惡 (Thành Công lục niên 成公六年) Đất dày nước sâu, ở đó không bệnh tật, có sông Phần trôi đi những cái dơ bẩn.",
+                "(Danh) Phân, cứt. ◇Hiếu nghĩa truyện 孝義傳: 'Mẫu hoạn bạo lị, Dực vị trúng độc, toại thân thường ác' 母患暴痢, 翼謂中毒, 遂親嘗惡 (Điền Dực truyện 田翼傳) Mẹ mắc bệnh lị gấp dữ, (Điền) Dực cho là trúng độc, bèn tự mình nếm phân.",
+                "(Tính) Độc, dữ, không tốt. ◎Như: 'ác phụ' 惡婦 người đàn bà xấu xa, không lương thiện.",
+                "(Tính) Xấu. ◎Như: 'ác tướng' 惡相 tướng xấu, 'ác thanh' 惡聲 tiếng xấu.",
+                "(Tính) Thô xấu. ◇Luận Ngữ 論語: 'Sĩ chí ư đạo, nhi sỉ ác y ác thực giả, vị túc dữ nghị dã' 士志於道, 而恥惡衣惡食者, 未足與議也 (Lí nhân 里仁) Kẻ sĩ chuyên tâm vào đạo, mà còn hổ thẹn vì áo xấu cơm thô, thì chưa đủ để cùng bàn luận được.",
+                "Một âm là 'ố'. (Động) Ghét, chán. ◎Như: 'khả ố' 可惡 đáng ghét. ◇Luận Ngữ 論語: 'Ố cư hạ lưu nhi san thượng giả' 惡居下流而訕上者 (Dương Hóa 陽貨) Ghét kẻ ở dưới mà hủy báng người trên.",
+                "(Động) Xúc phạm, mạo phạm, làm cho nổi giận. ◇Thủy hử truyện 水滸傳: 'Ngã nhân ố liễu Cao Thái Úy sanh sự hãm hại, thụ liễu nhất tràng quan ti, thích phối đáo giá lí' 我因惡了高太尉生事陷害, 受了一場官司, 刺配到這裏 (Đệ thập hồi) Ta vì xúc phạm Cao Thái Úy nên bị kiếm chuyện hãm hại, bị xử án ở ti quan phải thích chữ vào mặt rồi đày tới đây.",
+                "(Động) Sợ hãi. ◇Hàn Phi Tử 韓非子: 'Sử nhân bất y bất thực, nhi bất cơ bất hàn, hựu bất ố tử, tắc vô sự thượng chi ý' 使人不衣不食, 而不飢不寒, 又不惡死 (Bát thuyết 八說) Làm cho người không có áo, không có cơm ăn, mà không đói không lạnh, cũng không sợ chết.",
+                "(Động) Hủy báng, gièm pha.",
+                "(Danh) Xấu hổ. ◎Như: 'tu ố chi tâm' 羞惡之心 lòng hổ thẹn.",
+                "Một âm là 'ô'. (Thán) Ồ, ô, ôi. ◎Như: 'ô thị hà ngôn dã' 惡是何言也 ồ, thế là lời nói gì vậy?",
+                "(Phó) Sao, làm sao, thế nào. ◇Tả truyện 左傳: 'Nhĩ ấu, ô thức quốc?' 爾幼, 惡識國 (Chiêu Công thập lục niên 昭公十六年) Ngươi còn nhỏ, làm sao hiểu việc nước?",
+                "(Phó) Đâu, ở đâu. ◇Mạnh Tử 孟子: 'Cư ô tại? nhân thị dã; lộ ô tại? nghĩa thị dã' 居惡在, 仁是也; 路惡在, 義是也 (Vạn Chương thượng 萬章上) Nhà ở tại đâu? là điều nhân vậy; đường đi đâu? là điều nghĩa vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ác.",
+                "Xấu. Như ác tướng 惡相 tướng xấu, ác thanh 惡聲 tiếng xấu, v.v.",
+                "Một âm là ố. Ghét. Khả ố 可惡 đáng ghét.",
+                "Xấu hổ. Như tu ố chi tâm 羞惡之心 chưng lòng hổ thẹn.",
+                "Một âm là ô. Sao thế? Ồ, như ô thị hà ngôn dã 惡是何言也 ồ, thế là lời nói gì vậy?"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tội ác, tội lỗi: 無惡不作 Không chừa một tội ác nào; 罪大惡極 Tộc ác tày trời;",
+                "Ác, dữ: 惡霸 Ác bá; 一場惡戰 Một trận ác chiến;",
+                "Xấu: 惡習 Tật xấu; 惡聲 Tiếng xấu; 惡意 Ý xấu; 惡勢力 Thế lực xấu. Xem 惡 [â], [wù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xấu xa nói về tính nết hoặc hành động trái đạo thường — Xấu xí nói về nét mặt — Nhơ bẩn. Hung tợn dữ dằn — Bệnh tật — Các âm khác là Ô và Ố."
+            ],
+            "compound_words": {
+                "惡報": "ác báo",
+                "惡感": "ác cảm",
+                "惡戰": "ác chiến",
+                "惡終": "ác chung",
+                "惡棍": "ác côn",
+                "惡名": "ác danh",
+                "惡黨": "ác đảng",
+                "惡道": "ác đạo",
+                "惡鳥": "ác điểu",
+                "惡徒": "ác đồ",
+                "惡毒": "ác độc",
+                "惡德": "ác đức",
+                "惡者惡報": "ác giả ác báo",
+                "惡害": "ác hại",
+                "惡寒": "ác hàn",
+                "惡化": "ác hoá",
+                "惡有惡報": "ác hữu ác báo",
+                "惡口": "ác khẩu",
+                "惡口受之": "ác khẩu thụ chi",
+                "惡劣": "ác liệt",
+                "惡路": "ác lộ",
+                "惡魔": "ác ma",
+                "惡夢": "ác mộng",
+                "惡逆": "ác nghịch",
+                "惡業": "ác nghiệp",
+                "惡孽": "ác nghiệt",
+                "惡言": "ác ngôn",
+                "惡人": "ác nhân",
+                "惡念": "ác niệm",
+                "惡犯": "ác phạm",
+                "惡貫滿盈": "ác quán mãn doanh",
+                "惡鬼": "ác quỷ",
+                "惡邪": "ác tà",
+                "惡作": "ác tác",
+                "惡僧": "ác tăng",
+                "惡心": "ác tâm",
+                "惡習": "ác tập",
+                "惡疾": "ác tật",
+                "惡聲": "ác thanh",
+                "惡草": "ác thảo",
+                "惡神": "ác thần",
+                "惡少": "ác thiếu",
+                "惡獸": "ác thú",
+                "惡食": "ác thực",
+                "惡卒": "ác tốt",
+                "惡歲": "ác tuế",
+                "惡子": "ác tử",
+                "惡醜": "ác xú",
+                "惡意": "ác ý",
+                "惡衣": "ác y",
+                "惡衣惡食": "ác y ác thực",
+                "遏惡揚善": "át ác dương thiện",
+                "陰惡": "âm ác",
+                "隱惡揚善": "ẩn ác dương thiện",
+                "隱惡楊善": "ẩn ác dương thiện",
+                "播惡": "bá ác",
+                "改惡": "cải ác",
+                "改惡從善": "cải ác tòng thiện",
+                "舊惡": "cựu ác",
+                "溢惡": "dật ác",
+                "刁惡": "điêu ác",
+                "毒惡": "độc ác",
+                "同惡": "đồng ác",
+                "同惡相濟": "đồng ác tương tế",
+                "同惡相助": "đồng ác tương trợ",
+                "奸惡": "gian ác",
+                "嫌惡": "hiềm ác",
+                "險惡": "hiểm ác",
+                "凶惡": "hung ác",
+                "二惡英": "nhị ác anh",
+                "逞惡": "sính ác",
+                "鋤惡": "sừ ác",
+                "作惡": "tác ác",
+                "殘惡": "tàn ác",
+                "憎惡": "tăng ác",
+                "十惡": "thập ác",
+                "罪惡": "tội ác",
+                "醜惡": "xú ác",
+                "厭惡": "yếm ác"
+            }
+        },
+        "ô": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tội lỗi, lỗi lầm, hành vi không tốt. ◎Như: 'tội ác' 罪惡 điều xấu gây nên tội. ◇Dịch Kinh 易經: 'Quân tử dĩ át ác dương thiện' 君子以遏惡揚善 (Đại hữu quái 大有卦) Bậc quân tử đè nén việc ác dữ, đề cao việc tốt lành.",
+                "(Danh) Bệnh tật. ◇Tả truyện 左傳: 'Thổ bạc thủy thiển, kì ác dị cấu' 土薄水淺, 其惡易覯 (Thành Công lục niên 成公六年) Đất cạn nước nông, bệnh tật ở đó dễ gặp phải.",
+                "(Danh) Vật dơ bẩn, sự dơ bẩn. ◇Tả truyện 左傳: 'Thổ hậu thủy thâm, cư chi bất tật, hữu Phần quái dĩ lưu kì ác' 土厚水深, 居之不疾, 有汾澮以流其惡 (Thành Công lục niên 成公六年) Đất dày nước sâu, ở đó không bệnh tật, có sông Phần trôi đi những cái dơ bẩn.",
+                "(Danh) Phân, cứt. ◇Hiếu nghĩa truyện 孝義傳: 'Mẫu hoạn bạo lị, Dực vị trúng độc, toại thân thường ác' 母患暴痢, 翼謂中毒, 遂親嘗惡 (Điền Dực truyện 田翼傳) Mẹ mắc bệnh lị gấp dữ, (Điền) Dực cho là trúng độc, bèn tự mình nếm phân.",
+                "(Tính) Độc, dữ, không tốt. ◎Như: 'ác phụ' 惡婦 người đàn bà xấu xa, không lương thiện.",
+                "(Tính) Xấu. ◎Như: 'ác tướng' 惡相 tướng xấu, 'ác thanh' 惡聲 tiếng xấu.",
+                "(Tính) Thô xấu. ◇Luận Ngữ 論語: 'Sĩ chí ư đạo, nhi sỉ ác y ác thực giả, vị túc dữ nghị dã' 士志於道, 而恥惡衣惡食者, 未足與議也 (Lí nhân 里仁) Kẻ sĩ chuyên tâm vào đạo, mà còn hổ thẹn vì áo xấu cơm thô, thì chưa đủ để cùng bàn luận được.",
+                "Một âm là 'ố'. (Động) Ghét, chán. ◎Như: 'khả ố' 可惡 đáng ghét. ◇Luận Ngữ 論語: 'Ố cư hạ lưu nhi san thượng giả' 惡居下流而訕上者 (Dương Hóa 陽貨) Ghét kẻ ở dưới mà hủy báng người trên.",
+                "(Động) Xúc phạm, mạo phạm, làm cho nổi giận. ◇Thủy hử truyện 水滸傳: 'Ngã nhân ố liễu Cao Thái Úy sanh sự hãm hại, thụ liễu nhất tràng quan ti, thích phối đáo giá lí' 我因惡了高太尉生事陷害, 受了一場官司, 刺配到這裏 (Đệ thập hồi) Ta vì xúc phạm Cao Thái Úy nên bị kiếm chuyện hãm hại, bị xử án ở ti quan phải thích chữ vào mặt rồi đày tới đây.",
+                "(Động) Sợ hãi. ◇Hàn Phi Tử 韓非子: 'Sử nhân bất y bất thực, nhi bất cơ bất hàn, hựu bất ố tử, tắc vô sự thượng chi ý' 使人不衣不食, 而不飢不寒, 又不惡死 (Bát thuyết 八說) Làm cho người không có áo, không có cơm ăn, mà không đói không lạnh, cũng không sợ chết.",
+                "(Động) Hủy báng, gièm pha.",
+                "(Danh) Xấu hổ. ◎Như: 'tu ố chi tâm' 羞惡之心 lòng hổ thẹn.",
+                "Một âm là 'ô'. (Thán) Ồ, ô, ôi. ◎Như: 'ô thị hà ngôn dã' 惡是何言也 ồ, thế là lời nói gì vậy?",
+                "(Phó) Sao, làm sao, thế nào. ◇Tả truyện 左傳: 'Nhĩ ấu, ô thức quốc?' 爾幼, 惡識國 (Chiêu Công thập lục niên 昭公十六年) Ngươi còn nhỏ, làm sao hiểu việc nước?",
+                "(Phó) Đâu, ở đâu. ◇Mạnh Tử 孟子: 'Cư ô tại? nhân thị dã; lộ ô tại? nghĩa thị dã' 居惡在, 仁是也; 路惡在, 義是也 (Vạn Chương thượng 萬章上) Nhà ở tại đâu? là điều nhân vậy; đường đi đâu? là điều nghĩa vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ác.",
+                "Xấu. Như ác tướng 惡相 tướng xấu, ác thanh 惡聲 tiếng xấu, v.v.",
+                "Một âm là ố. Ghét. Khả ố 可惡 đáng ghét.",
+                "Xấu hổ. Như tu ố chi tâm 羞惡之心 chưng lòng hổ thẹn.",
+                "Một âm là ô. Sao thế? Ồ, như ô thị hà ngôn dã 惡是何言也 ồ, thế là lời nói gì vậy?"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ở đâu, nơi nào? (đại từ nghi vấn): 路惡在？ Đường ở nơi nào? (Mạnh tử);",
+                "Từ đâu, ở chỗ nào? (thường dùng 惡乎): 且王攻楚，將惡出兵？ Vả lại nếu nhà vua đánh Sở thì định xuất binh từ đâu? (Sử kí); 學惡乎始，惡乎終？ Sự học bắt đầu từ chỗ nào, chấm dứt chỗ nào? (Tuân tử);",
+                "Làm sao? (đại từ biểu thị sự phản vấn): 爾幼，惡識國？ Ngươi còn nhỏ, làm sao hiểu được việc nước? (Tả truyện); 子不能治子之身，惡能治國政？ Ông không lo được cho thân ông, làm sao lo được việc nước? (Mặc tử);",
+                "Ô, ồ! (thán từ): 惡，言是何言也！ Ồ, ấy là nói thế nào! (Mạnh tử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sao. Thế nào ( tiếng dùng để hỏi ) — Tiếng kêu than thở. Như chữ Ô 圬 — Các âm khác là Ác, Ố. Xem các âm này."
+            ],
+            "compound_words": {
+                "惡棍": "ác côn",
+                "惡言": "ác ngôn"
+            }
+        },
+        "ố": {
+            "Từ điển phổ thông": [
+                "ghét, căm",
+                "xấu hổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tội lỗi, lỗi lầm, hành vi không tốt. ◎Như: 'tội ác' 罪惡 điều xấu gây nên tội. ◇Dịch Kinh 易經: 'Quân tử dĩ át ác dương thiện' 君子以遏惡揚善 (Đại hữu quái 大有卦) Bậc quân tử đè nén việc ác dữ, đề cao việc tốt lành.",
+                "(Danh) Bệnh tật. ◇Tả truyện 左傳: 'Thổ bạc thủy thiển, kì ác dị cấu' 土薄水淺, 其惡易覯 (Thành Công lục niên 成公六年) Đất cạn nước nông, bệnh tật ở đó dễ gặp phải.",
+                "(Danh) Vật dơ bẩn, sự dơ bẩn. ◇Tả truyện 左傳: 'Thổ hậu thủy thâm, cư chi bất tật, hữu Phần quái dĩ lưu kì ác' 土厚水深, 居之不疾, 有汾澮以流其惡 (Thành Công lục niên 成公六年) Đất dày nước sâu, ở đó không bệnh tật, có sông Phần trôi đi những cái dơ bẩn.",
+                "(Danh) Phân, cứt. ◇Hiếu nghĩa truyện 孝義傳: 'Mẫu hoạn bạo lị, Dực vị trúng độc, toại thân thường ác' 母患暴痢, 翼謂中毒, 遂親嘗惡 (Điền Dực truyện 田翼傳) Mẹ mắc bệnh lị gấp dữ, (Điền) Dực cho là trúng độc, bèn tự mình nếm phân.",
+                "(Tính) Độc, dữ, không tốt. ◎Như: 'ác phụ' 惡婦 người đàn bà xấu xa, không lương thiện.",
+                "(Tính) Xấu. ◎Như: 'ác tướng' 惡相 tướng xấu, 'ác thanh' 惡聲 tiếng xấu.",
+                "(Tính) Thô xấu. ◇Luận Ngữ 論語: 'Sĩ chí ư đạo, nhi sỉ ác y ác thực giả, vị túc dữ nghị dã' 士志於道, 而恥惡衣惡食者, 未足與議也 (Lí nhân 里仁) Kẻ sĩ chuyên tâm vào đạo, mà còn hổ thẹn vì áo xấu cơm thô, thì chưa đủ để cùng bàn luận được.",
+                "Một âm là 'ố'. (Động) Ghét, chán. ◎Như: 'khả ố' 可惡 đáng ghét. ◇Luận Ngữ 論語: 'Ố cư hạ lưu nhi san thượng giả' 惡居下流而訕上者 (Dương Hóa 陽貨) Ghét kẻ ở dưới mà hủy báng người trên.",
+                "(Động) Xúc phạm, mạo phạm, làm cho nổi giận. ◇Thủy hử truyện 水滸傳: 'Ngã nhân ố liễu Cao Thái Úy sanh sự hãm hại, thụ liễu nhất tràng quan ti, thích phối đáo giá lí' 我因惡了高太尉生事陷害, 受了一場官司, 刺配到這裏 (Đệ thập hồi) Ta vì xúc phạm Cao Thái Úy nên bị kiếm chuyện hãm hại, bị xử án ở ti quan phải thích chữ vào mặt rồi đày tới đây.",
+                "(Động) Sợ hãi. ◇Hàn Phi Tử 韓非子: 'Sử nhân bất y bất thực, nhi bất cơ bất hàn, hựu bất ố tử, tắc vô sự thượng chi ý' 使人不衣不食, 而不飢不寒, 又不惡死 (Bát thuyết 八說) Làm cho người không có áo, không có cơm ăn, mà không đói không lạnh, cũng không sợ chết.",
+                "(Động) Hủy báng, gièm pha.",
+                "(Danh) Xấu hổ. ◎Như: 'tu ố chi tâm' 羞惡之心 lòng hổ thẹn.",
+                "Một âm là 'ô'. (Thán) Ồ, ô, ôi. ◎Như: 'ô thị hà ngôn dã' 惡是何言也 ồ, thế là lời nói gì vậy?",
+                "(Phó) Sao, làm sao, thế nào. ◇Tả truyện 左傳: 'Nhĩ ấu, ô thức quốc?' 爾幼, 惡識國 (Chiêu Công thập lục niên 昭公十六年) Ngươi còn nhỏ, làm sao hiểu việc nước?",
+                "(Phó) Đâu, ở đâu. ◇Mạnh Tử 孟子: 'Cư ô tại? nhân thị dã; lộ ô tại? nghĩa thị dã' 居惡在, 仁是也; 路惡在, 義是也 (Vạn Chương thượng 萬章上) Nhà ở tại đâu? là điều nhân vậy; đường đi đâu? là điều nghĩa vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ác.",
+                "Xấu. Như ác tướng 惡相 tướng xấu, ác thanh 惡聲 tiếng xấu, v.v.",
+                "Một âm là ố. Ghét. Khả ố 可惡 đáng ghét.",
+                "Xấu hổ. Như tu ố chi tâm 羞惡之心 chưng lòng hổ thẹn.",
+                "Một âm là ô. Sao thế? Ồ, như ô thị hà ngôn dã 惡是何言也 ồ, thế là lời nói gì vậy?"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ghét, căm ghét: 可惡 Đáng ghét; 深惡痛絕 Ghét cay ghét đắng. Xem 惡 [â], [è]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ghét, không ưa. Hát nói của Nguyễn Công Trứ có câu: » Khi hỉ nộ khi ái ố lúc sầu bi, chứa chi lắm một bầu nhân dục « — Xấu hổ — Các âm khác là Ác, Ô. Xem các âm này."
+            ],
+            "compound_words": {
+                "惡卒": "ác tốt",
+                "可惡": "khả ố",
+                "羞惡": "tu ố",
+                "厭惡": "yếm ố"
+            }
+        }
+    }
+}

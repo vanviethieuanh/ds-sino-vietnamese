@@ -1,0 +1,75 @@
+{
+    "character": "亍",
+    "details": {
+        "Âm Hán Việt": [
+            "súc",
+            "xúc"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "nhị 二 (+1 nét)"
+        ],
+        "Hình thái": [
+            "⿱一丁"
+        ],
+        "Nét bút": [
+            "一一丨"
+        ],
+        "Thương Hiệt": [
+            "MMN (一一弓)"
+        ],
+        "Unicode": [
+            "U+4E8D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chù ㄔㄨˋ"
+        ],
+        "Âm Nôm": [
+            "súc",
+            "xúc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョク (choku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たたず.む (tatazu.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1"
+        ]
+    },
+    "meanings": {
+        "súc": {
+            "Từ điển Trần Văn Chánh": [
+                "Bước ngắn (bằng chân bên phải). Xem 彳亍 [chìchù]."
+            ],
+            "compound_words": {
+                "彳亍": "sách súc"
+            }
+        },
+        "xúc": {
+            "Từ điển phổ thông": [
+                "bước chân phải"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngừng bước.",
+                "(Động) Đi tới bước ngắn.",
+                "(Danh) Bước bên phải. § Chân trái bước đi gọi là 'xích' 彳, chân phải bước đi gọi là 'xúc' 亍, hai chữ hợp lại thành chữ 'hành' 行 nghĩa là đi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bước ngắn, chân trái bước đi gọi là xích 彳, chân phải bước đi gọi là xúc 亍, hai chữ hợp lại thành chữ hành 行 là đi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngừng lại. Không bước tới nữa."
+            ]
+        }
+    }
+}

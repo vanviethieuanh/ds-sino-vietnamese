@@ -1,0 +1,73 @@
+{
+    "character": "詀",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêm",
+            "siệp",
+            "điêm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言占"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRYR (卜口卜口)"
+        ],
+        "Unicode": [
+            "U+8A40"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "テン (ten)",
+            "セン (sen)"
+        ],
+        "Âm Quảng Đông": [
+            "cip3",
+            "zaam1",
+            "zip3"
+        ]
+    },
+    "meanings": {
+        "chiêm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lắm miệng — Các âm khác là Điêm, Siệp."
+            ],
+            "compound_words": {
+                "詀喃": "chiêm nam"
+            }
+        },
+        "siệp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói nhỏ. Nói thầm — Các âm khác là Chiêm, Điêm. Xem các âm này."
+            ],
+            "compound_words": {
+                "詀讘": "siệp nhiếp"
+            }
+        },
+        "điêm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khéo nói. Ăn nói gian xảo — Các âm khác là Chiêm, Siệp. Xem các âm này."
+            ]
+        }
+    }
+}

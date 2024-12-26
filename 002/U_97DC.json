@@ -1,0 +1,97 @@
+{
+    "character": "韜",
+    "details": {
+        "Âm Hán Việt": [
+            "sáo",
+            "thao"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "vi 韋 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰韋舀"
+        ],
+        "Nét bút": [
+            "フ丨一丨フ一一フ丨ノ丶丶ノノ丨一フ一一"
+        ],
+        "Thương Hiệt": [
+            "DQBHX (木手月竹重)"
+        ],
+        "Unicode": [
+            "U+97DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tāo ㄊㄠ",
+            "tào ㄊㄠˋ"
+        ],
+        "Âm Nôm": [
+            "thao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ゆぶくろ (yubukuro)",
+            "ゆみぶくろ (yumibukuro)",
+            "つつ.む (tsutsu.mu)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "tou1"
+        ]
+    },
+    "meanings": {
+        "sáo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Áo tay dài — Một âm là Thao. Xem Thao."
+            ]
+        },
+        "thao": {
+            "Từ điển phổ thông": [
+                "túi đựng gươm",
+                "phép dùng binh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Túi (vỏ) gươm.",
+                "(Danh) Bao đựng cung.",
+                "(Danh) Binh pháp. ◎Như: 'lục thao' 六韜 phép binh (của 'Thái Công' 太公), 'thao lược' 韜畧 tài làm tướng dùng binh giỏi.",
+                "(Động) Giấu kín, ẩn tàng. ◎Như: 'thao quang dưỡng hối' 韜光養晦 giữ kín đáo tài năng không cho người ta biết.",
+                "§ Cũng viết là 'thao' 弢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái túi đựng gươm, đựng cung.",
+                "Giấu kín, phàm sự gì giấu kín không lộ ra đều gọi là thao. Như thao hối 韜晦 có tài có trí mà giữ kín đáo không cho người ta biết mình.",
+                "Phép binh, phép binh của ông Thái Công 太公 gọi là lục thao 六韜. Người có tài tháo vát giỏi gọi là thao lược 韜畧, có tài làm tướng dùng binh giỏi cũng gọi là thao lược. Cũng có khi viết thao 弢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vỏ (bao) kiếm (hoặc cung);",
+                "Phép dùng binh, chiến thuật, thao lược;",
+                "Giấu.【韜光養晦】thao quang dưỡng hối [taoguang-yănhuì] Giấu tài;",
+                "Ăn không ngồi rồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái túi đựng cung — Cái vỏ kiếm — Cất giấu — Phép dùng binh."
+            ],
+            "compound_words": {
+                "六韜": "lục thao",
+                "六韜三略": "lục thao tam lược",
+                "韜略": "thao lược",
+                "韜畧": "thao lược"
+            }
+        }
+    }
+}

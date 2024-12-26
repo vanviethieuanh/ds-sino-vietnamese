@@ -1,0 +1,86 @@
+{
+    "character": "你",
+    "details": {
+        "Âm Hán Việt": [
+            "nhĩ",
+            "nễ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻尔"
+        ],
+        "Nét bút": [
+            "ノ丨ノフ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ONF (人弓火)"
+        ],
+        "Unicode": [
+            "U+4F60"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nǐ ㄋㄧˇ"
+        ],
+        "Âm Nôm": [
+            "né",
+            "nể"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)",
+            "ニ (ni)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なんじ (nan ji)",
+            "しかり (shikari)",
+            "その (sono)",
+            "のみ (nomi)"
+        ],
+        "Âm Quảng Đông": [
+            "nei5"
+        ]
+    },
+    "meanings": {
+        "nhĩ": {
+            "Từ điển phổ thông": [
+                "anh, bạn, mày",
+                "vậy (dùng để kết thúc câu)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Đại) Đại từ nhân xưng ngôi thứ hai (số ít và số nhiều): anh, chị, ông, bà, ngươi, mày, mi, cậu, bác, con, cháu, các người, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Anh, chị, ông, bà, ngài, ngươi, mày, mi, cậu, bác, con, cháu (đại từ nhân xưng ngôi thứ hai)."
+            ],
+            "compound_words": {
+                "你好": "nhĩ hảo",
+                "你们": "nhĩ môn",
+                "你們": "nhĩ môn"
+            }
+        },
+        "nễ": {
+            "Từ điển trích dẫn": [
+                "1. (Đại) Đại từ nhân xưng ngôi thứ hai (số ít và số nhiều): anh, chị, ông, bà, ngươi, mày, mi, cậu, bác, con, cháu, các người, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Anh, chị, ông, bà, ngài, ngươi, mày, mi, cậu, bác, con, cháu (đại từ nhân xưng ngôi thứ hai)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đại danh từ ngôi thứ hai ( Ông, Anh, Mày ) — Dùng để gọi cả phái nam, nữ."
+            ]
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "character": "钳",
+    "details": {
+        "Âm Hán Việt": [
+            "kiềm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅甘"
+        ],
+        "Nét bút": [
+            "ノ一一一フ一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "XCTM (重金廿一)"
+        ],
+        "Unicode": [
+            "U+94B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Quảng Đông": [
+            "kim4"
+        ]
+    },
+    "meanings": {
+        "kiềm": {
+            "Từ điển phổ thông": [
+                "cái kìm",
+                "giữ, kìm",
+                "cùm chân"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鉗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鉗"
+            ],
+            "compound_words": {
+                "夹钳": "giáp kiềm"
+            }
+        }
+    }
+}

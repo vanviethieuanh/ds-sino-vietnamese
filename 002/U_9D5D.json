@@ -1,0 +1,76 @@
+{
+    "character": "鵝",
+    "details": {
+        "Âm Hán Việt": [
+            "nga"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰我鳥"
+        ],
+        "Nét bút": [
+            "ノ一丨一フノ丶ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "HIHAF (竹戈竹日火)"
+        ],
+        "Unicode": [
+            "U+9D5D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "é"
+        ],
+        "Âm Nôm": [
+            "nga",
+            "ngổng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "ngo4"
+        ]
+    },
+    "meanings": {
+        "nga": {
+            "Từ điển phổ thông": [
+                "con ngỗng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngan, ngỗng. ◎Như: 'thương nga' 蒼鵝 giống ngỗng đen.",
+                "(Danh) 'Nga quán' 鵝鸛 tên một trận thế thời xưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con ngan, con ngỗng. Giống đen gọi là thương nga 蒼鵝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngỗng: 蒼鵝 Ngỗng đen. Cv. 鵞."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ngỗng."
+            ],
+            "compound_words": {
+                "鴚鵝": "ca nga",
+                "淘鵝": "đào nga",
+                "天鵝": "thiên nga"
+            }
+        }
+    }
+}

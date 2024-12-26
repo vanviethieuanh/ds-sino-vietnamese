@@ -1,0 +1,116 @@
+{
+    "character": "劑",
+    "details": {
+        "Âm Hán Việt": [
+            "tề",
+            "tễ",
+            "tệ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "đao 刀 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰齊⺉"
+        ],
+        "Nét bút": [
+            "丶一丶ノ丨フノノフ丶ノ丨一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "YXLN (卜重中弓)"
+        ],
+        "Unicode": [
+            "U+5291"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tễ",
+            "xẻ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザイ (zai)",
+            "スイ (sui)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かる (karu)",
+            "けず.る (kezu.ru)"
+        ],
+        "Âm Hàn": [
+            "제",
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "zai1"
+        ]
+    },
+    "meanings": {
+        "tề": {
+            "Từ điển phổ thông": [
+                "văn tự loại nhỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giao kèo, văn tự, hợp đồng. § Văn tự lớn gọi là 'chất' 質, nhỏ gọi là 'tề' 劑.",
+                "Một âm là 'tễ'. (Danh) Thuốc đã luyện hay pha chế. ◎Như: 'dược tễ' 藥劑 tễ thuốc.",
+                "(Danh) Phân lượng nhất định. ◎Như: 'phân tễ' 分劑 phân lượng nhiều ít đã chia ra rõ ràng.",
+                "(Danh) Lượng từ về thuốc: thang, chén, liều. ◎Như: 'nhất tễ' 一劑 một chén thuốc.",
+                "(Động) Pha chế, điều chế. ◎Như: 'điều tễ' 調劑 pha chế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chất tề 質劑 một thứ văn tự, lớn gọi là chất, nhỏ gọi là tề, cũng như giấy hợp đồng bây giờ.",
+                "Một âm là tễ, do nhiều thứ gộp lại gọi là tễ. Như dược tễ 藥劑 tễ thuốc. Uống một chén thuốc cũng gọi là nhất tễ 一劑 một tễ.",
+                "Số lượng nhiều ít đã chia ra rõ ràng gọi là phân tễ 分劑."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao mà cắt cho bằng — Cắt bỏ. Dứt bỏ — Một âm là Tễ. Xem Tễ."
+            ],
+            "compound_words": {
+                "劑刀": "tề đao"
+            }
+        },
+        "tễ": {
+            "Từ điển phổ thông": [
+                "do nhiều thứ hợp thành",
+                "thuốc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giao kèo, văn tự, hợp đồng. § Văn tự lớn gọi là 'chất' 質, nhỏ gọi là 'tề' 劑.",
+                "Một âm là 'tễ'. (Danh) Thuốc đã luyện hay pha chế. ◎Như: 'dược tễ' 藥劑 tễ thuốc.",
+                "(Danh) Phân lượng nhất định. ◎Như: 'phân tễ' 分劑 phân lượng nhiều ít đã chia ra rõ ràng.",
+                "(Danh) Lượng từ về thuốc: thang, chén, liều. ◎Như: 'nhất tễ' 一劑 một chén thuốc.",
+                "(Động) Pha chế, điều chế. ◎Như: 'điều tễ' 調劑 pha chế."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuốc đã luyện hay pha: 藥劑 Thuốc bào chế, tễ thuốc; 麻醉劑 Thuốc mê;",
+                "Thang, chén, liều: 一劑藥 Một thang thuốc; 第二劑藥 Thang thuốc thứ hai;",
+                "(văn) Văn tự, giao kèo, hợp đồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Điều hoà nhiều vị với nhau để ăn cho vừa miệng — Thứ thuốc hoàn, nhiều vị thuốc giã nhỏ trộn lẫn, viên lại thành viên. Ta cũng gọi là thuốc tễ."
+            ],
+            "compound_words": {
+                "方劑": "phương tễ"
+            }
+        },
+        "tệ": {
+            "Từ điển Trần Văn Chánh": [
+                "Thuốc đã luyện hay pha: 藥劑 Thuốc bào chế, tễ thuốc; 麻醉劑 Thuốc mê;",
+                "Thang, chén, liều: 一劑藥 Một thang thuốc; 第二劑藥 Thang thuốc thứ hai;",
+                "(văn) Văn tự, giao kèo, hợp đồng."
+            ]
+        }
+    }
+}

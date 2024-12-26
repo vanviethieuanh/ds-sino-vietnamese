@@ -1,0 +1,100 @@
+{
+    "character": "盲",
+    "details": {
+        "Âm Hán Việt": [
+            "manh",
+            "vọng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mục 目 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱亡目"
+        ],
+        "Nét bút": [
+            "丶一フ丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "YVBU (卜女月山)"
+        ],
+        "Unicode": [
+            "U+76F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "máng ㄇㄤˊ",
+            "wàng ㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "manh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "めくら (mekura)"
+        ],
+        "Âm Hàn": [
+            "맹"
+        ],
+        "Âm Quảng Đông": [
+            "maang4"
+        ]
+    },
+    "meanings": {
+        "manh": {
+            "Từ điển phổ thông": [
+                "mù loà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Mù, lòa. ◎Như: 'manh nhân' 盲人 người mù.",
+                "(Tính) Không hiểu sự lí. ◇Vương Sung 王充: 'Phù tri kim bất tri cổ, vị chi manh cổ' 夫知今不知古, 謂之盲瞽 (Luận hành 論衡, Thuyết đoản 說短) Biết nay không biết xưa, thế gọi là mù quáng.",
+                "(Danh) Người mù. § Tục gọi là 'hạt tử' 瞎子.",
+                "(Danh) Người thiếu kém về một phương diện hiểu biết nào đó. ◎Như: 'văn manh' 文盲 người mù chữ, nạn mù chữ.",
+                "(Danh) 'Manh văn' 盲文 chữ Braille dùng cho người mù.",
+                "(Động) Nhìn không thấy. ◇Đạo Đức Kinh 道德經: 'Ngũ sắc lệnh nhân mục manh, ngũ âm lệnh nhân nhĩ lung' 五色令人目盲, 五音令人耳聾 (Chương 12) Ngũ sắc làm cho mắt người ta nhìn không thấy, ngũ âm làm cho tai người ta nghe không ra.",
+                "(Phó) Bừa, loạn, xằng, mù quáng. ◎Như: 'manh tòng' 盲從 hùa theo một cách mù quáng. ◇Pháp Hoa Kinh 法華經: 'Trước lạc si sở manh' 著樂癡所盲 (Phương tiện phẩm đệ nhị 方便品第二) Tham vui mê mẩn làm xằng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thanh manh.",
+                "Làm mù, không biết mà làm xằng gọi là manh.",
+                "Tối."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mù, mù quáng: 盲人 Người mù; 文盲 Mù chữ;",
+                "(văn) Làm xằng;",
+                "(văn) Tối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt không có con ngươi. Mù — Mù quáng, không hiểu biết gì — Tối tăm. Thiếu ánh sáng — Một âm là Vọng."
+            ],
+            "compound_words": {
+                "晦盲": "hối manh",
+                "雞盲": "kê manh",
+                "盲动": "manh động",
+                "盲動": "manh động",
+                "盲從": "manh tòng",
+                "盲肠": "manh trường",
+                "盲腸": "manh trường",
+                "色盲": "sắc manh",
+                "文盲": "văn manh"
+            }
+        },
+        "vọng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn xa. Trông nhìn. Như chữ Vọng 朢. Xem Manh."
+            ]
+        }
+    }
+}

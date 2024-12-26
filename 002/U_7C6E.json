@@ -1,0 +1,70 @@
+{
+    "character": "籮",
+    "details": {
+        "Âm Hán Việt": [
+            "la"
+        ],
+        "Tổng nét": [
+            "25"
+        ],
+        "Bộ": [
+            "trúc 竹 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮羅"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨フ丨丨一フフ丶丶丶丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "HWLG (竹田中土)"
+        ],
+        "Unicode": [
+            "U+7C6E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "luó ㄌㄨㄛˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラ (ra)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "み (mi)"
+        ],
+        "Âm Quảng Đông": [
+            "lo4"
+        ]
+    },
+    "meanings": {
+        "la": {
+            "Từ điển phổ thông": [
+                "cái rá vo gạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Rá, sọt (thường đan bằng tre dưới vuông trên tròn).",
+                "(Danh) Cái rây (để lọc)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái rá vo gạo (đồ đan bằng tre dưới vuông trên tròn)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái sọt, cái thúng, cái rổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giỏ đan bằng tre, để đựng đồ vật."
+            ],
+            "compound_words": {
+                "笸籮": "phả la"
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "character": "敖",
+    "details": {
+        "Âm Hán Việt": [
+            "ngao",
+            "ngạo"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "phác 攴 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一一丨一フノノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GSOK (土尸人大)"
+        ],
+        "Unicode": [
+            "U+6556"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "áo ㄚㄛˊ",
+            "ào ㄚㄛˋ"
+        ],
+        "Âm Nôm": [
+            "ngao",
+            "nghẹo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴウ (gō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あそ.ぶ (aso.bu)",
+            "おご.る (ogo.ru)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ngou4",
+            "ngou6"
+        ]
+    },
+    "meanings": {
+        "ngao": {
+            "Từ điển phổ thông": [
+                "chơi, ngao du"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rong chơi. § Cũng như 'ngao' 遨.",
+                "(Động) Cợt nhã, hí lộng. ◇Quản Tử 管子: 'Tru kì lương thần, Ngao kì phụ nữ' 誅其良臣, 敖其婦女 (Tứ xưng 四稱) Giết lương thần, cợt nhã phụ nữ họ.",
+                "(Động) Nấu nhỏ lửa hoặc rang khô. § Thông 'ngao' 熬.",
+                "Một âm là 'ngạo'. (Tính) Ngạo mạn, xấc láo. § Thông 'ngạo' 傲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chơi, ngao du.",
+                "Một âm là ngạo. Ngạo mạn (láo)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngao du, rong chơi;",
+                "Ngạo mạn;",
+                "[Áo] (Họ) Ngao."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi chơi đây đó. Td: ngao du — Một âm khác là Ngạo. Xem Ngạo."
+            ],
+            "compound_words": {
+                "敖游": "ngao du",
+                "敖遊": "ngao du"
+            }
+        },
+        "ngạo": {
+            "Từ điển phổ thông": [
+                "ngạo mạn, láo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rong chơi. § Cũng như 'ngao' 遨.",
+                "(Động) Cợt nhã, hí lộng. ◇Quản Tử 管子: 'Tru kì lương thần, Ngao kì phụ nữ' 誅其良臣, 敖其婦女 (Tứ xưng 四稱) Giết lương thần, cợt nhã phụ nữ họ.",
+                "(Động) Nấu nhỏ lửa hoặc rang khô. § Thông 'ngao' 熬.",
+                "Một âm là 'ngạo'. (Tính) Ngạo mạn, xấc láo. § Thông 'ngạo' 傲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chơi, ngao du.",
+                "Một âm là ngạo. Ngạo mạn (láo)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngao du, rong chơi;",
+                "Ngạo mạn;",
+                "[Áo] (Họ) Ngao."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kiêu căng — Như ba chữ Ngạo 慠, 奡, 傲 — Một âm là Ngao. Xem Ngao."
+            ]
+        }
+    }
+}

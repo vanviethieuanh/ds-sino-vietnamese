@@ -1,0 +1,76 @@
+{
+    "character": "谱",
+    "details": {
+        "Âm Hán Việt": [
+            "phả",
+            "phổ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠普"
+        ],
+        "Nét bút": [
+            "丶フ丶ノ一丨丨丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "IVTCA (戈女廿金日)"
+        ],
+        "Unicode": [
+            "U+8C31"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pǔ ㄆㄨˇ"
+        ],
+        "Âm Nôm": [
+            "phả",
+            "phổ"
+        ],
+        "Âm Quảng Đông": [
+            "pou2"
+        ]
+    },
+    "meanings": {
+        "phả": {
+            "Từ điển phổ thông": [
+                "phả chép phân chia thứ tự",
+                "khúc nhạc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 譜."
+            ],
+            "compound_words": {
+                "家谱": "gia phả"
+            }
+        },
+        "phổ": {
+            "Từ điển phổ thông": [
+                "phả chép phân chia thứ tự",
+                "khúc nhạc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 譜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 譜"
+            ],
+            "compound_words": {
+                "家谱": "gia phổ",
+                "光谱": "quang phổ"
+            }
+        }
+    }
+}

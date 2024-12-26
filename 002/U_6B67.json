@@ -1,0 +1,90 @@
+{
+    "character": "歧",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "chỉ 止 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰止支"
+        ],
+        "Nét bút": [
+            "丨一丨一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "YMJE (卜一十水)"
+        ],
+        "Unicode": [
+            "U+6B67"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ゆび (yubi)",
+            "わか.れる (waka.reru)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đường rẽ. ◇Liệt Tử 列子: 'Đại đạo dĩ đa kì vong dương, học giả dĩ đa phương táng sanh' 大道以多歧亡羊, 學者以多方喪生 (Thuyết phù 說符) Đường lớn mà nhiều lối rẽ nên lạc mất con cừu, người học theo nhiều cách quá nên mất mạng.",
+                "(Tính) Khác nhau, sai biệt. ◎Như: 'ý kiến phân kì' 意見分歧 ý kiến khác nhau. ◇Văn tâm điêu long 文心雕龍: 'Phú tự thi xuất, phân kì dị phái' 賦自詩出, 分歧異派 (Thuyên phú 詮賦) Phú từ thơ ra, chia theo dòng khác.",
+                "§ Cũng như 'kì' 跂."
+            ],
+            "compound_words": {
+                "歧路": "kì lộ",
+                "歧視": "kì thị"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "kỳ",
+                "đường rẽ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðường rẽ, phàm sự vật gì phát sinh ra không được chính thẳng đều gọi là kì cả.",
+                "Cùng nghĩa với chữ kì 跂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lối rẽ, đường rẽ, đường lầm: 誤入歧途 Lầm đường lạc lối;",
+                "Khác nhau: 意見分歧 Ý kiến khác nhau;",
+                "(văn) Như 跂 (bộ 足)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con đường rẽ. Đường nhánh — tẽ ra. Đâm nhánh ra."
+            ],
+            "compound_words": {
+                "歧視": "kỳ thị",
+                "歧视": "kỳ thị"
+            }
+        }
+    }
+}

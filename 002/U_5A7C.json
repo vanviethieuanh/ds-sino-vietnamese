@@ -1,0 +1,76 @@
+{
+    "character": "婼",
+    "details": {
+        "Âm Hán Việt": [
+            "nhi",
+            "nhược",
+            "xúc",
+            "xước"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nữ 女 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女若"
+        ],
+        "Nét bút": [
+            "フノ一一丨丨一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "VTKR (女廿大口)"
+        ],
+        "Unicode": [
+            "U+5A7C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chuò ㄔㄨㄛˋ",
+            "ruò ㄖㄨㄛˋ"
+        ],
+        "Âm Quảng Đông": [
+            "coek3"
+        ]
+    },
+    "meanings": {
+        "nhi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhi Khương 婼羌: Tên một nước Tây vực đời Hán — Một âm là Xước. Xem Xước."
+            ]
+        },
+        "nhược": {
+            "Từ điển phổ thông": [
+                "(xem: nhược khương 婼羌)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【婼羌】Nhược Khương [Ruòqiang] Tên huyện (thuộc tỉnh Tân Cương, nay viết 若羌)."
+            ],
+            "compound_words": {
+                "婼羌": "nhược khương"
+            }
+        },
+        "xúc": {
+            "Từ điển phổ thông": [
+                "không thuận, không xuôi"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Không thuận, không xuôi."
+            ]
+        },
+        "xước": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ không thuận."
+            ]
+        }
+    }
+}

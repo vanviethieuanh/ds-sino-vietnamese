@@ -1,0 +1,95 @@
+{
+    "character": "港",
+    "details": {
+        "Âm Hán Việt": [
+            "cảng",
+            "hống"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡巷"
+        ],
+        "Nét bút": [
+            "丶丶一一丨丨一ノ丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "ETCU (水廿金山)"
+        ],
+        "Unicode": [
+            "U+6E2F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gǎng ㄍㄤˇ",
+            "hòng ㄏㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "cảng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みなと (minato)"
+        ],
+        "Âm Hàn": [
+            "항",
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "gong2"
+        ]
+    },
+    "meanings": {
+        "cảng": {
+            "Từ điển phổ thông": [
+                "bến cảng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhánh sông hoặc vũng biển cho tàu bè đậu. ◎Như: 'hải cảng' 海港, 'thương cảng' 商港, 'quân cảng' 軍港.",
+                "(Danh) Tên gọi tắt của 'Hương Cảng' 香港 (Hongkong)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông nhánh, ngành sông. Sông lớn có một dòng chảy ngang ra mà đi thuyền được, gọi là cảng.",
+                "Hương cảng 香港 (Hongkong) gọi tắt là cảng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cảng, bến tàu: 海港 Cửa biển, hải cảng; 商港 Thương cảng, cảng buôn;",
+                "Sông nhánh (phần nhiều dùng vào tên sông);",
+                "Hương Cảng (gọi tắt): 港澳 Hương Cảng và Áo Môn; 省港大罷工 Cuộc bãi công lớn ở Quảng Châu và Hương Cảng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cửa sông, cửa biển — Nhánh sông. Một âm khác là Hống."
+            ],
+            "compound_words": {
+                "海港": "hải cảng",
+                "香港": "hương cảng",
+                "入港": "nhập cảng",
+                "封港": "phong cảng",
+                "軍港": "quân cảng",
+                "商港": "thương cảng",
+                "鎖港": "toả cảng",
+                "出港": "xuất cảng",
+                "出入港": "xuất nhập cảng"
+            }
+        },
+        "hống": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hống động: 港洞 Ăn thông với nhau — Một âm là Cảng. Xem Cảng."
+            ]
+        }
+    }
+}

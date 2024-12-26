@@ -1,0 +1,90 @@
+{
+    "character": "踏",
+    "details": {
+        "Âm Hán Việt": [
+            "đạp"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "túc 足 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊沓"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丨フノ丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "RMEA (口一水日)"
+        ],
+        "Unicode": [
+            "U+8E0F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tā ㄊㄚ",
+            "tà ㄊㄚˋ"
+        ],
+        "Âm Nôm": [
+            "đạp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふ.む (fu.mu)",
+            "ふ.まえる (fu.maeru)"
+        ],
+        "Âm Hàn": [
+            "답"
+        ],
+        "Âm Quảng Đông": [
+            "daap6"
+        ]
+    },
+    "meanings": {
+        "đạp": {
+            "Từ điển phổ thông": [
+                "đạp, dẫm lên",
+                "tại chỗ, hiên trường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đặt chân, xéo, giẫm. ◎Như: 'cước đạp thực địa' 腳踏實地 làm việc vững chãi, thiết thực. ◇Nguyễn Trãi 阮廌: 'Khứ phạ phồn hoa đạp nhuyễn trần' 去怕繁花踏軟塵 (Đề Từ Trọng Phủ canh ẩn đường 題徐仲甫耕隱堂) Bỏ đi vì sợ giẫm phải bụi mềm của chốn phồn hoa.",
+                "(Động) Bước đi. ◎Như: 'đạp nguyệt' 踏月 đi bộ dưới trăng. ◇Lưu Vũ Tích 劉禹錫: 'Đạp nguyệt lí ca huyên' 踏月俚歌喧 (Vũ Lăng thư hoài 武陵書懷) Đi tản bộ dưới trăng ca vang khúc hát quê.",
+                "(Động) Khảo nghiệm, xem xét. ◎Như: 'đạp khám' 踏勘 khảo sát thật tế, xem xét tận nơi. ◇Nguyên sử 元史: 'Chư quận huyện tai thương, (...) cập án trị quan bất dĩ thì kiểm đạp, giai tội chi' 諸郡縣災傷, (...) 及按治官不以時檢踏, 皆罪之 (Hình pháp chí nhất 刑法志一) Các quận huyện bị tai họa thương tổn, (...) xét quan lại ở đấy không kịp thời xem xét kiểm tra, thì đều bị tội."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chân sát xuống đất. Làm việc vững chãi không mạo hiểm gọi là cước đạp thực địa 腳踏實地.",
+                "Xéo, lấy chân xéo vào vật gì.",
+                "Bước đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【踏實】đạp thực [tashí] Thận trọng, cẩn thận, thiết thực: 他工作很踏實 Anh ấy làm việc thận trọng lắm;",
+                "Chắc chắn, yên bụng: 事情辦完就踏實了 Việc làm xong xuôi thì yên bụng. Xem 踏 [tà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dẫm chân lên — Co chân lại rồi dùng bàn chân mà đẩy mạnh ra."
+            ],
+            "compound_words": {
+                "腳踏車": "cước đạp xa",
+                "踏冰戲": "đạp băng hí",
+                "踏歌": "đạp ca",
+                "踏月": "đạp nguyệt",
+                "踏牀": "đạp sàng",
+                "踏青": "đạp thanh",
+                "践踏": "tiễn đạp",
+                "踐踏": "tiễn đạp"
+            }
+        }
+    }
+}

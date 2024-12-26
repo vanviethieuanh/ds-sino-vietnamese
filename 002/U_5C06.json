@@ -1,0 +1,114 @@
+{
+    "character": "将",
+    "details": {
+        "Âm Hán Việt": [
+            "thương",
+            "tương",
+            "tướng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thốn 寸 (+6 nét)",
+            "tường 爿 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰丬寽"
+        ],
+        "Nét bút": [
+            "丶一丨ノフ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "LMNII (中一弓戈戈)"
+        ],
+        "Unicode": [
+            "U+5C06"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiāng ㄐㄧㄤ",
+            "jiàng ㄐㄧㄤˋ",
+            "qiāng ㄑㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "tương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まさ.に (masa.ni)",
+            "はた (hata)",
+            "まさ (masa)",
+            "ひきい.る (hikii.ru)",
+            "もって (mo'te)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng1",
+            "zoeng3"
+        ]
+    },
+    "meanings": {
+        "thương": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 將."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mong, xin: 將子無怒 Xin anh đừng giận (Thi Kinh: Vệ phong, Manh)."
+            ]
+        },
+        "tương": {
+            "Từ điển phổ thông": [
+                "sẽ, sắp",
+                "đem, đưa, cầm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 將."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 將"
+            ],
+            "compound_words": {
+                "必将": "tất tương",
+                "即将": "tức tương",
+                "将近": "tương cận",
+                "将来": "tương lai"
+            }
+        },
+        "tướng": {
+            "Từ điển phổ thông": [
+                "cấp tướng, chỉ huy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 將."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tướng: 上將 Thượng tướng; 將領 Tướng lĩnh;",
+                "Mang quân đi, chỉ huy: 將兵 Chỉ huy binh lính, cầm binh;",
+                "(văn) Vừa: 將恐將懼 Vừa lo vừa sợ (Thi Kinh: Tiểu nhã, Cốc phong);",
+                "(văn) Và, cùng: 暫伴月將影 Tạm làm bạn với trăng cùng bóng (Lí Bạch: Nguyệt hạ độc chước). Xem 將 [jiang]."
+            ],
+            "compound_words": {
+                "大将": "đại tướng",
+                "少将": "thiếu tướng",
+                "上将": "thượng tướng",
+                "中将": "trung tướng",
+                "将领": "tướng lĩnh",
+                "将军": "tướng quân"
+            }
+        }
+    }
+}

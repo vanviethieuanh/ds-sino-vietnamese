@@ -1,0 +1,77 @@
+{
+    "character": "帷",
+    "details": {
+        "Âm Hán Việt": [
+            "duy"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cân 巾 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾隹"
+        ],
+        "Nét bút": [
+            "丨フ丨ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "LBOG (中月人土)"
+        ],
+        "Unicode": [
+            "U+5E37"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "duy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とばり (tobari)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "wai4"
+        ]
+    },
+    "meanings": {
+        "duy": {
+            "Từ điển phổ thông": [
+                "cái màn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Màn che, trướng. ◎Như: “xa duy” 車帷 màn xe, “duy mạc” 帷幕 màn trướng, “duy bạc bất tu” 帷薄不修 ô uế dâm dật (“duy” và “bạc” đều là màn ngăn che, ý nói trong ngoài không được sửa trị nghiêm túc)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái màn che, dùng vải hay lụa khâu thành từng bức che cho kín bề trong gọi là duy. Không biết trị nhà gọi là duy bạ bất tu 帷簿不修 là bởi nghĩa đó."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Màn che, trướng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái màn che."
+            ],
+            "compound_words": {
+                "屛帷": "bình duy",
+                "帷幄": "duy ác",
+                "襜帷": "xiêm duy"
+            }
+        }
+    }
+}

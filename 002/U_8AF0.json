@@ -1,0 +1,81 @@
+{
+    "character": "諰",
+    "details": {
+        "Âm Hán Việt": [
+            "tai",
+            "tải",
+            "tỷ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言思"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ一丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "YRWP (卜口田心)"
+        ],
+        "Unicode": [
+            "U+8AF0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xǐ ㄒㄧˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "サイ (sai)",
+            "シャ (sha)",
+            "アイ (ai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おも.う (omo.u)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "saai2",
+            "si2"
+        ]
+    },
+    "meanings": {
+        "tai": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói thẳng, không sợ gì — Suy nghĩ."
+            ],
+            "compound_words": {
+                "諰諰": "tai tai"
+            }
+        },
+        "tải": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói — Lời nói — Một âm khác là Tai. Xem Tai."
+            ]
+        },
+        "tỷ": {
+            "Từ điển phổ thông": [
+                "nói thẳng thắn",
+                "sợ hãi"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nói thẳng thắn;",
+                "Sợ hãi."
+            ]
+        }
+    }
+}

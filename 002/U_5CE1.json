@@ -1,0 +1,90 @@
+{
+    "character": "峡",
+    "details": {
+        "Âm Hán Việt": [
+            "giáp",
+            "hiệp",
+            "hạp"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "sơn 山 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰山夹"
+        ],
+        "Nét bút": [
+            "丨フ丨一丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "UKT (山大廿)"
+        ],
+        "Unicode": [
+            "U+5CE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiá ㄒㄧㄚˊ"
+        ],
+        "Âm Nôm": [
+            "hiệp",
+            "kẽm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はざま (hazama)"
+        ],
+        "Âm Hàn": [
+            "협"
+        ],
+        "Âm Quảng Đông": [
+            "haap6"
+        ]
+    },
+    "meanings": {
+        "giáp": {
+            "Từ điển phổ thông": [
+                "eo đất, eo biển"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 峽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 峽"
+            ]
+        },
+        "hiệp": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 峽"
+            ]
+        },
+        "hạp": {
+            "Từ điển phổ thông": [
+                "eo đất, eo biển"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 峽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 峽"
+            ],
+            "compound_words": {
+                "峡谷": "hạp cốc",
+                "三峡": "tam hạp"
+            }
+        }
+    }
+}

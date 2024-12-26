@@ -1,0 +1,114 @@
+{
+    "character": "充",
+    "details": {
+        "Âm Hán Việt": [
+            "sung"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 儿 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱亠允"
+        ],
+        "Nét bút": [
+            "丶一フ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "YIHU (卜戈竹山)"
+        ],
+        "Unicode": [
+            "U+5145"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chōng ㄔㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "sung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュウ (jū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ.てる (a.teru)",
+            "み.たす (mi.tasu)"
+        ],
+        "Âm Hàn": [
+            "충"
+        ],
+        "Âm Quảng Đông": [
+            "cung1"
+        ]
+    },
+    "meanings": {
+        "sung": {
+            "Từ điển phổ thông": [
+                "đầy đủ",
+                "làm đầy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đầy, tràn. ◎Như: 'tinh thần sung túc' 精神充足 tinh thần đầy đủ. ◇Pháp Hoa Kinh 法華經: 'Đại hỉ sung biến thân' 大喜充遍身 (Phương tiện phẩm đệ nhị 方便品第二) Nỗi mừng lớn tràn khắp cơ thể.",
+                "(Động) Chất vào, lấp chặt, nạp. ◎Như: 'sung số' 充數 thêm vào cho đủ số, 'sung điện' 充電 nạp điện, 'sung cơ' 充飢 ăn vào cho đỡ đói, 'sung nhĩ bất văn' 充耳不聞 lấp chặt tai chẳng nghe.",
+                "(Động) Gánh vác, đảm nhậm. ◎Như: 'sung đương' 充當 giữ chức.",
+                "(Động) Giả mạo, giả làm. ◎Như: 'mạo sung' 冒充 giả mạo, 'sung hảo nhân' 充好人 giả làm người tốt.",
+                "(Động) Tịch thu. ◎Như: 'sung công' 充公 tịch thu tiền của nộp vào công quỹ.",
+                "(Danh) Họ 'Sung'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðầy, như tinh thần sung túc 精神充足 tinh thần đầy đủ.",
+                "Sung số 充數 đủ số, v.v.",
+                "Lấp chặt, như sung nhĩ bất văn 充耳不聞 lấp chặt tai chẳng nghe.",
+                "Ðương gánh vác chức việc của mình gọi là sung đương 充當."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đầy, tràn: 充滿着信心 Tràn ngập niềm tin; 補充 Làm cho đầy đủ, bổ sung;",
+                "Làm, gánh vác. 【充當】sung đương [chongdang] Làm, gánh nhiệm vụ, giữ chức: 充當譯 Làm phiên dịch; 充當秘書Giữ chức thư kí;",
+                "Giả làm: 充能幹 Giả làm bộ tài giỏi; 充好人 Giả làm người tốt;",
+                "Chất vào, trữ vào, lấp đầy, nạp: 充飢 Ăn cho đỡ đói, lót lòng; 充電 Nạp điện; 充耳不聞 Lấp đầy tai không nghe;",
+                "[Chong] (Họ) Sung."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầy đủ — Đưa vào thêm vào cho đầy đủ. Td: Bổ sung."
+            ],
+            "compound_words": {
+                "補充": "bổ sung",
+                "汗牛充棟": "hãn ngưu sung đống",
+                "扩充": "khuếch sung",
+                "擴充": "khuếch sung",
+                "充備": "sung bị",
+                "充職": "sung chức",
+                "充公": "sung công",
+                "充飢": "sung cơ",
+                "充溢": "sung dật",
+                "充裕": "sung dụ",
+                "充填": "sung điền",
+                "充棟汗牛": "sung đống hãn ngưu",
+                "充血": "sung huyết",
+                "充缺": "sung khuyết",
+                "充满": "sung mãn",
+                "充滿": "sung mãn",
+                "充街": "sung nhai",
+                "充分": "sung phân",
+                "充軍": "sung quân",
+                "充數": "sung số",
+                "充暢": "sung sướng",
+                "充塞": "sung tắc",
+                "充贍": "sung thiệm",
+                "充腸": "sung trường",
+                "充足": "sung túc",
+                "食不充腸": "thực bất sung trường"
+            }
+        }
+    }
+}

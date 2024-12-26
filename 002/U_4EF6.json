@@ -1,0 +1,102 @@
+{
+    "character": "件",
+    "details": {
+        "Âm Hán Việt": [
+            "kiện"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻牛"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OHQ (人竹手)"
+        ],
+        "Unicode": [
+            "U+4EF6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "kẹn",
+            "kiện",
+            "kịn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くだん (kudan)"
+        ],
+        "Âm Hàn": [
+            "건"
+        ],
+        "Âm Quảng Đông": [
+            "gin6"
+        ]
+    },
+    "meanings": {
+        "kiện": {
+            "Từ điển phổ thông": [
+                "phân biệt",
+                "từ chỉ đồ đựng trong bồ hay sọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ vật, khí cụ, phẩm vật. ◎Như: 'bưu kiện' 郵件 đồ vật gửi theo đường bưu điện, 'cấp kiện' 急件 công văn khẩn.",
+                "(Danh) Lượng từ: cái, việc, món. ◎Như: 'nhất kiện sự' 一件事 một việc, 'lưỡng kiện y phục' 兩件衣服 hai bộ quần áo, 'tam kiện hành lí' 三件行李 ba kiện hành lí."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phân biệt, phân biệt cái này cái khác.",
+                "Món, tục gọi một món đồ đựng trong một cái bồ hay cái sọt là một kiện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(loại) Cái, món, việc: 一件事 Một việc; 一件衣服 Một cái áo; 有件事想和你商量 Có một việc định bàn với anh; 三件行李 Ba kiện hành lí;",
+                "(Chỉ các bộ phận trong máy móc): 零件 Đồ phụ tùng;",
+                "Công văn: 急件 Công văn khẩn; 密件 Công văn mật;",
+                "Phân biệt (cái này với cái khác)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chia ra — Một phần — Tiếng dùng để chỉ sự vật, có nghĩa như một cái, một việc. Td: Bưu kiện 郵件, Dữ kiện."
+            ],
+            "compound_words": {
+                "案件": "án kiện",
+                "備件": "bị kiện",
+                "备件": "bị kiện",
+                "郵件": "bưu kiện",
+                "稿件": "cảo kiện",
+                "构件": "cấu kiện",
+                "構件": "cấu kiện",
+                "與件": "dữ kiện",
+                "电脑软件": "điện não nhuyễn kiện",
+                "電腦軟件": "điện não nhuyễn kiện",
+                "電子郵件": "điện tử bưu kiện",
+                "条件": "điều kiện",
+                "條件": "điều kiện",
+                "函件": "hàm kiện",
+                "零件": "linh kiện",
+                "元件": "nguyên kiện",
+                "抄件": "sao kiện",
+                "事件": "sự kiện",
+                "文件": "văn kiện",
+                "物件": "vật kiện"
+            }
+        }
+    }
+}

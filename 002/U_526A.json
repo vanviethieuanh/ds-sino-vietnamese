@@ -1,0 +1,83 @@
+{
+    "character": "剪",
+    "details": {
+        "Âm Hán Việt": [
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "đao 刀 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱前刀"
+        ],
+        "Nét bút": [
+            "丶ノ一丨フ一一丨丨フノ"
+        ],
+        "Thương Hiệt": [
+            "TBNH (廿月弓竹)"
+        ],
+        "Unicode": [
+            "U+526A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "tiễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.る (ki.ru)",
+            "つ.む (tsu.mu)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin2"
+        ]
+    },
+    "meanings": {
+        "tiễn": {
+            "Từ điển phổ thông": [
+                "cắt đứt",
+                "cái kéo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái kéo. § Tục dùng như chữ 翦. ◎Như: 'tiễn đao' 剪刀, 'tiễn tử' 剪子.",
+                "(Động) Cắt. ◎Như: 'tiễn thảo' 剪草 cắt cỏ, 'tiễn phát' 剪髮 cắt tóc, 'tiễn chỉ' 剪紙 cắt giấy. ◇Lí Thương Ẩn 李商隱: 'Hà đương cộng tiễn tây song chúc' 何當共剪西窗燭 (Dạ vũ kí bắc 夜雨寄北) Bao giờ cùng nhau cắt hoa đèn dưới song tây.",
+                "(Động) Cắt bỏ, diệt trừ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ 翦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái kéo;",
+                "Cắt (bằng kéo): 剪髮 Cắt tóc;",
+                "Tiễu trừ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắt cho bằng — Cái kéo."
+            ],
+            "compound_words": {
+                "剪刀": "tiễn đao",
+                "剪栽": "tiễn tài",
+                "修剪": "tu tiễn"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "character": "畱",
+    "details": {
+        "Âm Hán Việt": [
+            "lưu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "điền 田 (+7 nét)"
+        ],
+        "Nét bút": [
+            "一丨丨一フフ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "XMLLW (重一中中田)"
+        ],
+        "Unicode": [
+            "U+7571"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "liú ㄌㄧㄡˊ",
+            "liǔ ㄌㄧㄡˇ"
+        ],
+        "Âm Nôm": [
+            "lưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リュウ (ryū)",
+            "ル (ru)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.める (to.meru)",
+            "と.まる (to.maru)",
+            "とど.める (todo.meru)",
+            "とど.まる (todo.maru)",
+            "るうぶる (rūburu)"
+        ],
+        "Âm Quảng Đông": [
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lưu": {
+            "Từ điển phổ thông": [
+                "lưu giữ, ở lại"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Dùng như chữ “lưu” 留."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dùng như chữ lưu 留."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 留."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngừng lại — Ở lại — Để lại cho đời sau."
+            ],
+            "compound_words": {
+                "畱別": "lưu biệt",
+                "畱步": "lưu bộ",
+                "畱級": "lưu cấp",
+                "畱照": "lưu chiếu",
+                "畱名": "lưu danh",
+                "畱學生": "lưu học sinh",
+                "畱客": "lưu khách",
+                "畱連": "lưu liên",
+                "畱戀": "lưu luyến",
+                "畱寓": "lưu ngụ",
+                "畱任": "lưu nhiệm",
+                "畱芳": "lưu phương",
+                "畱心": "lưu tâm",
+                "畱神": "lưu thần",
+                "畱取": "lưu thủ",
+                "畱存": "lưu tồn",
+                "畱住": "lưu trú",
+                "畱意": "lưu ý"
+            }
+        }
+    }
+}

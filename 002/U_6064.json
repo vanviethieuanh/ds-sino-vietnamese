@@ -1,0 +1,100 @@
+{
+    "character": "恤",
+    "details": {
+        "Âm Hán Việt": [
+            "tuất"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tâm 心 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺖血"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "PHBT (心竹月廿)"
+        ],
+        "Unicode": [
+            "U+6064"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xù ㄒㄩˋ"
+        ],
+        "Âm Nôm": [
+            "tuất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュツ (jutsu)",
+            "シュツ (shutsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "めぐ.む (megu.mu)",
+            "あわ.れむ (awa.remu)",
+            "うれ.える (ure.eru)"
+        ],
+        "Âm Hàn": [
+            "휼"
+        ],
+        "Âm Quảng Đông": [
+            "seot1"
+        ]
+    },
+    "meanings": {
+        "tuất": {
+            "Từ điển phổ thông": [
+                "thương xót"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lo buồn, ưu lự.",
+                "(Động) Cấp giúp, chẩn cấp. ◎Như: 'phủ tuất' 撫恤 vỗ về cứu giúp, 'chu tuất' 周恤 cứu giúp. § Có khi viết là 卹.",
+                "(Động) Thương xót, liên mẫn. ◎Như: 'căng tuất' 矜恤 xót thương.",
+                "(Động) Đoái nghĩ, quan tâm. ◎Như: 'võng tuất nhân ngôn' 罔恤人言 chẳng đoái nghĩ đến lời người ta nói. ◇Nguyễn Du 阮攸: 'Sinh bần do bất tuất, Lão tử phục hà bi' 生貧猶不恤, 老死復何悲 (Vinh Khải Kì 榮棨期) Sống nghèo còn chẳng đoái nghĩ, Già chết lại buồn chi?",
+                "(Động) Dè chừng, cẩn thận.",
+                "(Danh) Tang của cha vua.",
+                "(Danh) Tang lễ.",
+                "(Danh) Họ 'Tuất'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cấp giúp. Chẩn cấp cho kẻ nghèo túng gọi là tuất. Như phủ tuất 撫恤, chu tuất 周恤, v.v. Có khi viết chữ 卹.",
+                "Thương xót. Như căng tuất 矜恤 xót thương.",
+                "Ðoái nghĩ. Như võng tuất nhân ngôn 罔恤人言 chẳng đoái nghĩ đến lời người ta nói."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thương xót: 憐恤 Thương hại; 矜恤 Xót thương;",
+                "Cứu tế;",
+                "Đoái nghĩ đến, thông cảm, quan tâm đến: 罔恤人言 Chẳng quan tâm (đoái nghĩ) đến lời người ta nói; 我甚體恤他 Tôi rất hiểu và thông cảm với nó."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lo nghĩ buồn rầu — Giúp đỡ. Cứu giúp."
+            ],
+            "compound_words": {
+                "賠恤": "bồi tuất",
+                "軫恤": "chẩn tuất",
+                "周恤": "chu tuất",
+                "顧恤": "cố tuất",
+                "憐恤": "lân tuất",
+                "撫恤": "phủ tuất",
+                "存恤": "tồn tuất",
+                "恤貧": "tuất bần",
+                "恤養": "tuất dưỡng",
+                "恤老": "tuất lão",
+                "憂恤": "ưu tuất",
+                "淹恤": "yêm tuất"
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "character": "鰻",
+    "details": {
+        "Âm Hán Việt": [
+            "man"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "ngư 魚 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰魚曼"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一丶丶丶丶丨フ一一丨フ丨丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "NFAWE (弓火日田水)"
+        ],
+        "Unicode": [
+            "U+9C3B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "mán ㄇㄢˊ"
+        ],
+        "Âm Nôm": [
+            "man"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マン (man)",
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うなぎ (unagi)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "maan4"
+        ]
+    },
+    "meanings": {
+        "man": {
+            "Từ điển phổ thông": [
+                "(xem: man ly 鰻鱺,鳗鲡)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cá sộp, cá chình. § Tục gọi là “man li” 鰻鱺. Cũng gọi là “bạch thiện” 白鱔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cá sộp, cá chình. Tục gọi là man li 鰻鱺. Cũng gọi là bạch thiện 白鱔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【鰻鱺】 man li [mánlí] Cá chình. Cg. 白"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con lươn. Cũng gọi Man li 鰻鱺."
+            ],
+            "compound_words": {
+                "鰻鱺": "man ly"
+            }
+        }
+    }
+}

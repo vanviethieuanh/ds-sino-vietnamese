@@ -1,0 +1,92 @@
+{
+    "character": "标",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木示"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DMMF (木一一火)"
+        ],
+        "Unicode": [
+            "U+6807"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "biāo ㄅㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "tiêu"
+        ],
+        "Âm Quảng Đông": [
+            "biu1"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 標."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 標"
+            ]
+        },
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "ngọn nguồn",
+                "cái nêu",
+                "nêu lên",
+                "viết"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 標."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 標"
+            ],
+            "compound_words": {
+                "指标": "chỉ tiêu",
+                "图标": "đồ tiêu",
+                "岸标": "ngạn tiêu",
+                "商标": "thương tiêu",
+                "标本": "tiêu bản",
+                "标兵": "tiêu binh",
+                "标高": "tiêu cao",
+                "标志": "tiêu chí",
+                "标准": "tiêu chuẩn",
+                "标灯": "tiêu đăng",
+                "标题": "tiêu đề",
+                "标点": "tiêu điểm",
+                "标定": "tiêu định",
+                "标记": "tiêu ký",
+                "标量": "tiêu lượng",
+                "标明": "tiêu minh",
+                "标语": "tiêu ngữ",
+                "标枪": "tiêu thương",
+                "标签": "tiêu thiêm",
+                "标桩": "tiêu trang",
+                "座标": "toạ tiêu"
+            }
+        }
+    }
+}

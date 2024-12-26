@@ -1,0 +1,117 @@
+{
+    "character": "仿",
+    "details": {
+        "Âm Hán Việt": [
+            "phảng",
+            "phỏng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻方"
+        ],
+        "Nét bút": [
+            "ノ丨丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "OYHS (人卜竹尸)"
+        ],
+        "Unicode": [
+            "U+4EFF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fǎng ㄈㄤˇ",
+            "páng ㄆㄤˊ"
+        ],
+        "Âm Nôm": [
+            "phàng",
+            "phẳng",
+            "phần",
+            "phỏng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さまよ.う (samayo.u)",
+            "なら.う (nara.u)",
+            "くら.べる (kura.beru)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "fong2"
+        ]
+    },
+    "meanings": {
+        "phảng": {
+            "Từ điển phổ thông": [
+                "(xem: phảng phất 仿弗)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giống, tựa như. ◎Như: 'tha trường đắc cân tha phụ thân tương phảng' 他長得跟他父親相仿 nó giống cha nó quá.",
+                "Một âm là 'phỏng'. (Động) Bắt chước. ◎Như: 'phỏng tạo' 仿造 bắt chước mà làm, 'phỏng cổ' 仿古 bắt chước theo lối cổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phảng phất 仿弗 thấy không được rõ ràng, cũng cùng nghĩa như chữ 髣髴.",
+                "Một âm là phỏng. Bắt chước, như phỏng tạo 仿造 bắt chước mà làm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt chước, phỏng theo: 仿造 Làm phỏng theo;",
+                "Hơi giống: 他長得跟他父親相仿 Nó lớn lên hơi giống cha nó."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giống như — Y theo. Bắt chước theo — Cũng đọc Phỏng."
+            ],
+            "compound_words": {
+                "仿古": "phảng cổ",
+                "仿佛": "phảng phất",
+                "仿弗": "phảng phất"
+            }
+        },
+        "phỏng": {
+            "Từ điển phổ thông": [
+                "bắt chước, làm theo, làm giống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giống, tựa như. ◎Như: 'tha trường đắc cân tha phụ thân tương phảng' 他長得跟他父親相仿 nó giống cha nó quá.",
+                "Một âm là 'phỏng'. (Động) Bắt chước. ◎Như: 'phỏng tạo' 仿造 bắt chước mà làm, 'phỏng cổ' 仿古 bắt chước theo lối cổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phảng phất 仿弗 thấy không được rõ ràng, cũng cùng nghĩa như chữ 髣髴.",
+                "Một âm là phỏng. Bắt chước, như phỏng tạo 仿造 bắt chước mà làm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt chước, phỏng theo: 仿造 Làm phỏng theo;",
+                "Hơi giống: 他長得跟他父親相仿 Nó lớn lên hơi giống cha nó."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phỏng 倣 — Một âm khác là Phảng. Xem Phảng."
+            ],
+            "compound_words": {
+                "摸仿": "mô phỏng",
+                "模仿": "mô phỏng",
+                "仿眞": "phỏng chân",
+                "仿真": "phỏng chân",
+                "仿照": "phỏng chiếu",
+                "仿古": "phỏng cổ",
+                "仿傚": "phỏng hiệu",
+                "仿造": "phỏng tạo"
+            }
+        }
+    }
+}

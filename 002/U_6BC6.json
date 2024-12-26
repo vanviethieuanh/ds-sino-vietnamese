@@ -1,0 +1,91 @@
+{
+    "character": "毆",
+    "details": {
+        "Âm Hán Việt": [
+            "khu",
+            "ấu",
+            "ẩu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thù 殳 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰區殳"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フ一丨フ一フノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "SRHNE (尸口竹弓水)"
+        ],
+        "Unicode": [
+            "U+6BC6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "kōu ㄎㄡ",
+            "ōu ㄛㄨ",
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "ẩu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なぐ.る (nagu.ru)",
+            "たた.く (tata.ku)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "au2"
+        ]
+    },
+    "meanings": {
+        "khu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Khu 敺 — Một âm là Ẩu."
+            ]
+        },
+        "ấu": {
+            "Từ điển Trần Văn Chánh": [
+                "Đánh: 痛毆 Đánh thật đau; 鬥毆 Đánh nhau, đánh lộn."
+            ]
+        },
+        "ẩu": {
+            "Từ điển phổ thông": [
+                "đánh nhau bằng gậy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Đánh, đập. ◎Như: “đấu ẩu” 鬥毆 đánh lộn, “ẩu đả” 毆打 đánh nhau. ◇Hồng Lâu Mộng 紅樓夢: “Lưỡng gia tranh mãi nhất tì, các bất tương nhượng, dĩ trí ẩu thương nhân mệnh” 兩家爭買一婢, 各不相讓, 以致毆傷人命 (Đệ tứ hồi) Hai nhà tranh mua một nữ tì, rồi không bên nào nhường bên nào, đến nỗi xảy ra đánh nhau chết người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðánh, lấy gậy đánh đập gọi là ẩu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đánh: 痛毆 Đánh thật đau; 鬥毆 Đánh nhau, đánh lộn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh nhau — Một âm khác là Khu."
+            ],
+            "compound_words": {
+                "毆打": "ẩu đả"
+            }
+        }
+    }
+}

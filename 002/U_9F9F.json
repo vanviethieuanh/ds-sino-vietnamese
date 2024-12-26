@@ -1,0 +1,87 @@
+{
+    "character": "龟",
+    "details": {
+        "Âm Hán Việt": [
+            "cưu",
+            "khưu",
+            "quy",
+            "quân"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "quy 龜 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "NWU (弓田山)"
+        ],
+        "Unicode": [
+            "U+9F9F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guī ㄍㄨㄟ",
+            "jūn ㄐㄩㄣ",
+            "qiū ㄑㄧㄡ"
+        ],
+        "Âm Nôm": [
+            "quân",
+            "qui",
+            "quy"
+        ],
+        "Âm Quảng Đông": [
+            "gau1",
+            "gwai1",
+            "gwan1"
+        ]
+    },
+    "meanings": {
+        "cưu": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 龜."
+            ]
+        },
+        "khưu": {
+            "Từ điển phổ thông": [
+                "(xem: khưu từ 龜茲,龟兹)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 龜"
+            ],
+            "compound_words": {
+                "龟兹": "khưu từ"
+            }
+        },
+        "quy": {
+            "Từ điển phổ thông": [
+                "con rùa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 龜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 龜"
+            ]
+        },
+        "quân": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 龜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 龜"
+            ]
+        }
+    }
+}

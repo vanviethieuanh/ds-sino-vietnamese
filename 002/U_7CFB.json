@@ -1,0 +1,94 @@
+{
+    "character": "系",
+    "details": {
+        "Âm Hán Việt": [
+            "hệ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mịch 糸 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丿糹"
+        ],
+        "Nét bút": [
+            "ノフフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HVIF (竹女戈火)"
+        ],
+        "Unicode": [
+            "U+7CFB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ",
+            "xì ㄒㄧˋ"
+        ],
+        "Âm Nôm": [
+            "hệ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Hàn": [
+            "계"
+        ],
+        "Âm Quảng Đông": [
+            "hai6"
+        ]
+    },
+    "meanings": {
+        "hệ": {
+            "Từ điển phổ thông": [
+                "buộc, bó, nối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Buộc, treo. ◎Như: 'hệ niệm' 系念 nghĩ nhớ đến. § Cũng viết là 繫念.",
+                "(Động) Tiếp tục, kế thừa. ◇Ban Cố 班固: 'Hệ Đường thống' 系唐統 (Đông đô phú 東都賦) Nối tiếp kỉ cương nhà Đường.",
+                "(Danh) Sự thể có liên quan theo một trật tự nhất định với một chỉnh thể hoặc tổ chức. ◎Như: 'thế hệ' 世系 đời nọ đến đời kia, 'thái dương hệ' 太陽系 hệ thống các hành tinh xoay chung quanh mặt trời.",
+                "(Danh) Ngành, nhánh, phân khoa (đại học). ◎Như: 'triết học hệ' 哲學系 phân khoa triết học.",
+                "(Danh) Họ 'Hệ'.",
+                "Giản thể của chữ 係.",
+                "Giản thể của chữ 繫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Buộc, treo, như hệ niệm 系念 nhớ luôn, để việc vào mối nghĩ luôn. Cũng viết là 繫念.",
+                "Mối, liền nối. Như hết đời nọ đến đời kia gọi là thế hệ 世系. Về học thuật chia riêng từng khoa cũng gọi là phân hệ 分系.",
+                "Tên riêng trong khoa học tính, do theo cái lí nhất định ở chỗ này mà suy ra tìm được cái lí nhất định ở chỗ kia gọi là hệ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nối kết, liên lạc, liên hệ: 關繫 Quan hệ 在我心 中，我無法把這兩件事情繫在一起 Trong thâm tâm tôi không thể nhập chung hai việc này làm một được Xem 系, 係 [xì]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cột sợi tơ này tiếp vào sợi kia — Sự liên lạc nối tiếp — Suy ra."
+            ],
+            "compound_words": {
+                "旁系親": "bàng hệ thân",
+                "旁系親屬": "bàng hệ thân thuộc",
+                "系論": "hệ luận",
+                "系統": "hệ thống",
+                "系统": "hệ thống",
+                "联系": "liên hệ",
+                "母系": "mẫu hệ",
+                "腦系": "não hệ",
+                "譜系": "phổ hệ",
+                "法系": "pháp hệ",
+                "山系": "sơn hệ",
+                "世系": "thế hệ",
+                "統系": "thống hệ",
+                "直系": "trực hệ"
+            }
+        }
+    }
+}

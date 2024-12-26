@@ -1,0 +1,92 @@
+{
+    "character": "裒",
+    "details": {
+        "Âm Hán Việt": [
+            "bầu",
+            "bật",
+            "phầu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "y 衣 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿴衣臼"
+        ],
+        "Nét bút": [
+            "丶一ノ丨一フ一一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "YHXV (卜竹重女)"
+        ],
+        "Unicode": [
+            "U+88D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bāo ㄅㄠ",
+            "póu ㄆㄡˊ"
+        ],
+        "Âm Nôm": [
+            "bâu",
+            "phầu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ.める (ho.meru)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fau4",
+            "pau4"
+        ]
+    },
+    "meanings": {
+        "bầu": {
+            "Từ điển phổ thông": [
+                "tụ lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tụ họp. ◎Như: 'bầu tập' 裒集 tụ tập.",
+                "(Động) Bớt, giảm thiểu. ◎Như: 'bầu đa ích quả' 裒多益寡 bớt bên nhiều thêm cho bên ít."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tụ họp, nhiều.",
+                "Bớt. Như bầu đa ích quả 裒多益寡 bớt bên nhiều thêm cho bên ít."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tụ tập;",
+                "Giảm bớt: 裒多益寡 Nhiều giảm ít tăng, bớt bên nhiều thêm cho bên ít."
+            ],
+            "compound_words": {
+                "裒多益寡": "bầu đa ích quả",
+                "裒斂": "bầu liễm",
+                "裒輯": "bầu tập"
+            }
+        },
+        "bật": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom lại. tụ lại nhiều — Một nghĩa khác là giảm đi, bớt đi. Xem Bầu đa ích quả."
+            ]
+        },
+        "phầu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom lại. Tụ lại, cũng đọc Bầu. Td: Phầu tập ( gom tụ lại )."
+            ]
+        }
+    }
+}

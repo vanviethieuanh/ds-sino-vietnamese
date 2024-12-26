@@ -1,0 +1,82 @@
+{
+    "character": "凹",
+    "details": {
+        "Âm Hán Việt": [
+            "ao"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khảm 凵 (+3 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "SSU (尸尸山)"
+        ],
+        "Unicode": [
+            "U+51F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "āo ㄚㄛ",
+            "wā ㄨㄚ"
+        ],
+        "Âm Nôm": [
+            "ao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くぼ.む (kubo.mu)",
+            "へこ.む (heko.mu)",
+            "ぼこ (boko)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "aau1",
+            "aau3",
+            "lap1",
+            "nap1",
+            "waa1"
+        ]
+    },
+    "meanings": {
+        "ao": {
+            "Từ điển phổ thông": [
+                "lõm vào"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Lõm, trũng. ◎Như: “ao địa” 凹地 đất trũng, “ao đột bất bình” 凹凸不平 lồi lõm không bằng phẳng. ◇Nguyễn Du 阮攸: “Ngạch đột diện ao” 額凸面凹 (Long Thành cầm giả ca 龍城琴者歌) Trán dô mặt gãy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lõm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lõm, trũng xuống: 凹凸不平 Gồ ghề, nhấp nhô, lồi lõm không đều, không bằng phẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lõm xuống."
+            ],
+            "compound_words": {
+                "凹凸": "ao đột",
+                "凹角": "ao giác",
+                "凹鏡": "ao kính",
+                "凹透鏡": "ao thấu kính"
+            }
+        }
+    }
+}

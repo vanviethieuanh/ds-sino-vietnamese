@@ -1,0 +1,95 @@
+{
+    "character": "蝙",
+    "details": {
+        "Âm Hán Việt": [
+            "biên",
+            "biển"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trùng 虫 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫扁"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "LIHSB (中戈竹尸月)"
+        ],
+        "Unicode": [
+            "U+8759"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "biān ㄅㄧㄢ",
+            "pián ㄆㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "biển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こうもり (kōmori)"
+        ],
+        "Âm Hàn": [
+            "편"
+        ],
+        "Âm Quảng Đông": [
+            "bin1",
+            "bin2",
+            "pin1"
+        ]
+    },
+    "meanings": {
+        "biên": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'biên bức' 蝙蝠.",
+                "§ Ta quen đọc là 'biển'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Biên bức 蝙蝠 con dơi. Dơi có hai cánh như loài chim, bốn chân như loài thú, xếp vào loài nào cũng được, vì thế kẻ nào đòn cân hai đầu, cứ bề nào mạnh thì theo gọi là phái biên bức. Ta quen đọc là chữ biển."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蝙蝠】biển bức [bianfú] Con dơi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Biên bức 蝙蝠."
+            ],
+            "compound_words": {
+                "蝙蝠": "biên bức"
+            }
+        },
+        "biển": {
+            "Từ điển phổ thông": [
+                "(xem: biển bức 蝙蝠)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'biên bức' 蝙蝠.",
+                "§ Ta quen đọc là 'biển'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Biên bức 蝙蝠 con dơi. Dơi có hai cánh như loài chim, bốn chân như loài thú, xếp vào loài nào cũng được, vì thế kẻ nào đòn cân hai đầu, cứ bề nào mạnh thì theo gọi là phái biên bức. Ta quen đọc là chữ biển."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蝙蝠】biển bức [bianfú] Con dơi."
+            ],
+            "compound_words": {
+                "蝙蝠": "biển bức"
+            }
+        }
+    }
+}

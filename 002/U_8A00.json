@@ -1,0 +1,236 @@
+{
+    "character": "言",
+    "details": {
+        "Âm Hán Việt": [
+            "ngân",
+            "ngôn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "ngôn 言 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YMMR (卜一一口)"
+        ],
+        "Unicode": [
+            "U+8A00"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ",
+            "yàn ㄧㄢˋ",
+            "yín ㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "ngỏn",
+            "ngôn",
+            "ngủn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)",
+            "ゴン (gon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.う (i.u)",
+            "こと (koto)"
+        ],
+        "Âm Hàn": [
+            "언"
+        ],
+        "Âm Quảng Đông": [
+            "jin4"
+        ]
+    },
+    "meanings": {
+        "ngân": {
+            "Từ điển trích dẫn": [
+                "(Động) Nói, tự mình nói ra gọi là 'ngôn' 言. Đáp hay thuật ra gọi là 'ngữ' 語. ◎Như: 'ngôn bất tận ý' 言不盡意 nói không hết ý.",
+                "(Động) Bàn bạc, đàm luận. ◇Luận Ngữ 論語: 'Tứ dã, thủy khả dữ ngôn thi dĩ hĩ' 賜也, 始可與言詩已矣 (Thuật nhi 述而) Như anh Tứ vậy, mới có thề cùng đàm luận về kinh Thi.",
+                "(Động) Kể, trần thuật. ◇Bạch Cư Dị 白居易: 'Tự ngôn bổn thị kinh thành nữ, Gia tại Hà Mô lăng hạ trụ' 自言本是京城女, 家在蝦蟆陵下住 (Tì bà hành 琵琶行) Kể rằng tôi vốn là con gái ở kinh thành, Nhà ở dưới cồn Hà Mô.",
+                "(Động) Báo cho biết. ◇Sử Kí 史記: 'Lịch Sanh sân mục án kiếm sất sứ giả viết: Tẩu! Phục nhập ngôn Bái Công' 酈生瞋目案劍叱使者曰: 走！復入言沛公 (Lịch Sanh Lục Giả truyện 酈生陸賈傳) Lịch Sinh trợn mắt, cầm chặt gươm mắng sứ giả: Cút đi! Rồi trở vào báo cho Bái Công biết.",
+                "(Động) Tra hỏi.",
+                "(Danh) Câu văn, lời. ◎Như: 'nhất ngôn' 一言 một câu. ◇Luận Ngữ 論語: 'Thi tam bách, nhất ngôn dĩ tế chi, viết \"tư vô tà\"' 詩三百, 一言以蔽之, 曰思無邪 (Vi chánh 為政) Kinh Thi có ba trăm thiên, một lời đủ bao quát tất cả, là \"tư tưởng thuần chính\".",
+                "(Danh) Chữ. ◎Như: 'ngũ ngôn thi' 五言詩 thơ năm chữ, 'thất ngôn thi' 七言詩 thơ bảy chữ. ◇Luận Ngữ 論語: 'Tử Cống vấn viết: Hữu nhất ngôn nhi khả dĩ chung thân hành chi giả hồ? Tử viết: Kì thứ hồ! Kỉ sở bất dục, vật thi ư nhân' 子貢問曰: 有一言而可以終身行之者乎? 子曰: 其恕乎! 己所不欲, 勿施於人 (Vệ Linh Công 衛靈公) Ông Tử Cống hỏi rằng: Có một chữ nào mà có thể trọn đời mình làm theo chăng? Đức Khổng Tử đáp: Có lẽ là chữ 'thứ' chăng? Cái gì mà mình không muốn thì đừng làm cho người khác.",
+                "(Danh) Học thuyết. ◇Mạnh Tử 孟子: 'Dương Chu, Mặc Địch chi ngôn doanh thiên hạ' 楊朱, 墨翟之言盈天下 (Đằng Văn Công hạ 滕文公下) Học thuyết của Dương Chu, Mặc Địch tràn khắp thiên hạ.",
+                "(Trợ) Tôi, dùng làm tiếng phát lời. ◎Như: 'ngôn cáo sư thị' 言告師氏 (tôi) bảo với thầy. § Ghi chú: Chữ 'ngôn' 言 đặt ở đầu câu trong Thi Kinh rất nhiều, sách Nhĩ Nhã giải thích với nghĩa 'ngã' 我 \"tôi\", nhưng Vương Dẫn Chi cho rằng ý nghĩa nhiều chỗ không ổn, nên không theo.",
+                "Một âm là 'ngân'. (Tính) 'Ngân ngân' 言言 cung kính hòa nhã. ◇Lễ Kí 禮記: 'Quân tử chi ẩm tửu dã, thụ nhất tước nhi sắc tiển như dã, nhị tước nhi ngôn ngôn tư!' 君子之飲酒也, 受一爵而色洒如也, 二爵而言言斯 (Ngọc tảo 玉藻) Bậc quân tử uống rượu, nhận chén một chén mà nghiêm trang như thế, hai chén mà hòa nhã cung kính thay! § Ghi chú: Cũng như 'ngân ngân' 誾誾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nói, tự mình nói ra gọi là ngôn 言. Ðáp hay thuật ra gọi là ngữ 語.",
+                "Một câu văn cũng gọi là nhất ngôn 一言. Như nhất ngôn dĩ tế chi viết tư vô tà 一言以蔽之曰思無邪 một câu tóm tắt hết nghĩa là không nghĩ xằng.",
+                "Một chữ cũng gọi là ngôn. Như ngũ ngôn thi 五言詩 thơ năm chữ, thất ngôn thi 七言詩 thơ bảy chữ, v.v.",
+                "Mệnh lệnh.",
+                "Bàn bạc.",
+                "Tôi, dùng làm tiếng phát thanh. Như ngôn cáo sư thị 言告師氏 tôi bảo với thầy.",
+                "Một âm là  ngân. Ngân ngân 言言 cao ngất, đồ sộ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Ngân 誾 — Một âm là Ngôn."
+            ]
+        },
+        "ngôn": {
+            "Từ điển phổ thông": [
+                "nói",
+                "lời nói"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nói, tự mình nói ra gọi là 'ngôn' 言. Đáp hay thuật ra gọi là 'ngữ' 語. ◎Như: 'ngôn bất tận ý' 言不盡意 nói không hết ý.",
+                "(Động) Bàn bạc, đàm luận. ◇Luận Ngữ 論語: 'Tứ dã, thủy khả dữ ngôn thi dĩ hĩ' 賜也, 始可與言詩已矣 (Thuật nhi 述而) Như anh Tứ vậy, mới có thề cùng đàm luận về kinh Thi.",
+                "(Động) Kể, trần thuật. ◇Bạch Cư Dị 白居易: 'Tự ngôn bổn thị kinh thành nữ, Gia tại Hà Mô lăng hạ trụ' 自言本是京城女, 家在蝦蟆陵下住 (Tì bà hành 琵琶行) Kể rằng tôi vốn là con gái ở kinh thành, Nhà ở dưới cồn Hà Mô.",
+                "(Động) Báo cho biết. ◇Sử Kí 史記: 'Lịch Sanh sân mục án kiếm sất sứ giả viết: Tẩu! Phục nhập ngôn Bái Công' 酈生瞋目案劍叱使者曰: 走！復入言沛公 (Lịch Sanh Lục Giả truyện 酈生陸賈傳) Lịch Sinh trợn mắt, cầm chặt gươm mắng sứ giả: Cút đi! Rồi trở vào báo cho Bái Công biết.",
+                "(Động) Tra hỏi.",
+                "(Danh) Câu văn, lời. ◎Như: 'nhất ngôn' 一言 một câu. ◇Luận Ngữ 論語: 'Thi tam bách, nhất ngôn dĩ tế chi, viết \"tư vô tà\"' 詩三百, 一言以蔽之, 曰思無邪 (Vi chánh 為政) Kinh Thi có ba trăm thiên, một lời đủ bao quát tất cả, là \"tư tưởng thuần chính\".",
+                "(Danh) Chữ. ◎Như: 'ngũ ngôn thi' 五言詩 thơ năm chữ, 'thất ngôn thi' 七言詩 thơ bảy chữ. ◇Luận Ngữ 論語: 'Tử Cống vấn viết: Hữu nhất ngôn nhi khả dĩ chung thân hành chi giả hồ? Tử viết: Kì thứ hồ! Kỉ sở bất dục, vật thi ư nhân' 子貢問曰: 有一言而可以終身行之者乎? 子曰: 其恕乎! 己所不欲, 勿施於人 (Vệ Linh Công 衛靈公) Ông Tử Cống hỏi rằng: Có một chữ nào mà có thể trọn đời mình làm theo chăng? Đức Khổng Tử đáp: Có lẽ là chữ 'thứ' chăng? Cái gì mà mình không muốn thì đừng làm cho người khác.",
+                "(Danh) Học thuyết. ◇Mạnh Tử 孟子: 'Dương Chu, Mặc Địch chi ngôn doanh thiên hạ' 楊朱, 墨翟之言盈天下 (Đằng Văn Công hạ 滕文公下) Học thuyết của Dương Chu, Mặc Địch tràn khắp thiên hạ.",
+                "(Trợ) Tôi, dùng làm tiếng phát lời. ◎Như: 'ngôn cáo sư thị' 言告師氏 (tôi) bảo với thầy. § Ghi chú: Chữ 'ngôn' 言 đặt ở đầu câu trong Thi Kinh rất nhiều, sách Nhĩ Nhã giải thích với nghĩa 'ngã' 我 \"tôi\", nhưng Vương Dẫn Chi cho rằng ý nghĩa nhiều chỗ không ổn, nên không theo.",
+                "Một âm là 'ngân'. (Tính) 'Ngân ngân' 言言 cung kính hòa nhã. ◇Lễ Kí 禮記: 'Quân tử chi ẩm tửu dã, thụ nhất tước nhi sắc tiển như dã, nhị tước nhi ngôn ngôn tư!' 君子之飲酒也, 受一爵而色洒如也, 二爵而言言斯 (Ngọc tảo 玉藻) Bậc quân tử uống rượu, nhận chén một chén mà nghiêm trang như thế, hai chén mà hòa nhã cung kính thay! § Ghi chú: Cũng như 'ngân ngân' 誾誾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nói, tự mình nói ra gọi là ngôn 言. Ðáp hay thuật ra gọi là ngữ 語.",
+                "Một câu văn cũng gọi là nhất ngôn 一言. Như nhất ngôn dĩ tế chi viết tư vô tà 一言以蔽之曰思無邪 một câu tóm tắt hết nghĩa là không nghĩ xằng.",
+                "Một chữ cũng gọi là ngôn. Như ngũ ngôn thi 五言詩 thơ năm chữ, thất ngôn thi 七言詩 thơ bảy chữ, v.v.",
+                "Mệnh lệnh.",
+                "Bàn bạc.",
+                "Tôi, dùng làm tiếng phát thanh. Như ngôn cáo sư thị 言告師氏 tôi bảo với thầy.",
+                "Một âm là  ngân. Ngân ngân 言言 cao ngất, đồ sộ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lời, ngôn (ngữ): 發言 Phát ngôn; 她會說三種語言 Cô ấy biết nói ba ngôn ngữ; 引言 Lời dẫn;",
+                "Nói: 知無不言 Biết gì nói hết;",
+                "Ngôn, chữ: 五言詩 Thơ ngũ ngôn, thơ năm chữ; 全書約五十萬言 Toàn sách có độ năm trăm ngàn chữ;",
+                "(văn) Bàn bạc;",
+                "(văn) Trợ từ đầu câu (phát ngữ từ, không dịch): 言告師氏 Thưa với bà thầy (Thi Kinh);",
+                "[Yán] (Họ) Ngôn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lời nói — Nói — Một âu văn — Một chữ. Td: Thất ngôn ( bảy chữ ) — Tên một bộ chữ Trung Hoa, tức bộ Ngôn."
+            ],
+            "compound_words": {
+                "惡言": "ác ngôn",
+                "鄙言": "bỉ ngôn",
+                "弁言": "biện ngôn",
+                "格言": "cách ngôn",
+                "甘言": "cam ngôn",
+                "禽言": "cầm ngôn",
+                "苟言": "cẩu ngôn",
+                "正言": "chánh ngôn",
+                "箴言": "châm ngôn",
+                "針言": "châm ngôn",
+                "真言": "chân ngôn",
+                "真言宗": "chân ngôn tông",
+                "質言": "chất ngôn",
+                "至言": "chí ngôn",
+                "贅言": "chuế ngôn",
+                "瞽言": "cổ ngôn",
+                "狂言": "cuồng ngôn",
+                "名言": "danh ngôn",
+                "謠言": "dao ngôn",
+                "引言": "dẫn ngôn",
+                "遺言": "di ngôn",
+                "游言": "du ngôn",
+                "庸言": "dung ngôn",
+                "豫言": "dự ngôn",
+                "揚言": "dương ngôn",
+                "多言": "đa ngôn",
+                "大言": "đại ngôn",
+                "誕言": "đản ngôn",
+                "達言": "đạt ngôn",
+                "断言": "đoạn ngôn",
+                "斷言": "đoạn ngôn",
+                "戲言": "hí ngôn",
+                "花言": "hoa ngôn",
+                "華言": "hoa ngôn",
+                "虛言": "hư ngôn",
+                "苦言": "khổ ngôn",
+                "空言": "không ngôn",
+                "金言": "kim ngôn",
+                "立言": "lập ngôn",
+                "例言": "lệ ngôn",
+                "亂言": "loạn ngôn",
+                "論言": "luận ngôn",
+                "臚言": "lư ngôn",
+                "流言": "lưu ngôn",
+                "漫言": "mạn ngôn",
+                "明言": "minh ngôn",
+                "諺言": "ngạn ngôn",
+                "訛言": "ngoa ngôn",
+                "言隱詩集": "ngôn ẩn thi tập",
+                "言行": "ngôn hành",
+                "言論": "ngôn luận",
+                "言語": "ngôn ngữ",
+                "言詞": "ngôn từ",
+                "五言": "ngũ ngôn",
+                "寓言": "ngụ ngôn",
+                "偽言": "nguỵ ngôn",
+                "雅言": "nhã ngôn",
+                "一言": "nhất ngôn",
+                "邇言": "nhĩ ngôn",
+                "怨言": "oán ngôn",
+                "拋言": "phao ngôn",
+                "法言": "pháp ngôn",
+                "發言": "phát ngôn",
+                "發言人": "phát ngôn nhân",
+                "憤言": "phẫn ngôn",
+                "誹言": "phỉ ngôn",
+                "放言": "phóng ngôn",
+                "浮言": "phù ngôn",
+                "方言": "phương ngôn",
+                "寡言": "quả ngôn",
+                "怪言": "quái ngôn",
+                "括言": "quát ngôn",
+                "羣言": "quần ngôn",
+                "儳言": "sàm ngôn",
+                "讒言": "sàm ngôn",
+                "爽言": "sảng ngôn",
+                "察言": "sát ngôn",
+                "讖言": "sấm ngôn",
+                "芻言": "sô ngôn",
+                "飾言": "sức ngôn",
+                "造謠言": "tạo dao ngôn",
+                "造言": "tạo ngôn",
+                "盡言": "tận ngôn",
+                "託言": "thác ngôn",
+                "慎言": "thận ngôn",
+                "七言": "thất ngôn",
+                "矢言": "thỉ ngôn",
+                "通言": "thông ngôn",
+                "前言": "tiền ngôn",
+                "責言": "trách ngôn",
+                "程式語言": "trình thức ngữ ngôn",
+                "程式语言": "trình thức ngữ ngôn",
+                "忠言": "trung ngôn",
+                "直言": "trực ngôn",
+                "宣言": "tuyên ngôn",
+                "序言": "tự ngôn",
+                "緖言": "tự ngôn",
+                "約言": "ước ngôn",
+                "萬言書": "vạn ngôn thư",
+                "躗言": "vệ ngôn",
+                "微言": "vi ngôn",
+                "違言": "vi ngôn",
+                "誷言": "võng ngôn",
+                "誣言": "vu ngôn",
+                "巧言": "xảo ngôn",
+                "觸言": "xúc ngôn",
+                "昌言": "xương ngôn",
+                "意在言外": "ý tại ngôn ngoại",
+                "妖言": "yêu ngôn",
+                "要言": "yếu ngôn",
+                "訞言": "yêu ngôn"
+            }
+        }
+    }
+}

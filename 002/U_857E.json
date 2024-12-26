@@ -1,0 +1,80 @@
+{
+    "character": "蕾",
+    "details": {
+        "Âm Hán Việt": [
+            "lôi",
+            "lội"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹雷"
+        ],
+        "Nét bút": [
+            "一丨丨一丶フ丨丶丶丶丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "TMBW (廿一月田)"
+        ],
+        "Unicode": [
+            "U+857E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lěi ㄌㄟˇ"
+        ],
+        "Âm Nôm": [
+            "lỗi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ライ (rai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つぼみ (tsubomi)"
+        ],
+        "Âm Hàn": [
+            "뢰"
+        ],
+        "Âm Quảng Đông": [
+            "leoi4",
+            "leoi5"
+        ]
+    },
+    "meanings": {
+        "lôi": {
+            "Từ điển phổ thông": [
+                "(xem: bội lôi 蓓蕾)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “bội lôi” 蓓蕾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bội lôi 蓓蕾. Xem chữ bội 蓓."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nụ hoa. Hoa chưa nở."
+            ],
+            "compound_words": {
+                "蓓蕾": "bội lôi",
+                "蕾動": "lôi động"
+            }
+        },
+        "lội": {
+            "Từ điển Trần Văn Chánh": [
+                "Nụ hoa 【蕾鈴】lội linh [lâilíng] (nông) Nụ hoa và quả nang của cây bông."
+            ]
+        }
+    }
+}

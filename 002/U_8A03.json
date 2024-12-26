@@ -1,0 +1,79 @@
+{
+    "character": "訃",
+    "details": {
+        "Âm Hán Việt": [
+            "phó"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngôn 言 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言卜"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "YRY (卜口卜)"
+        ],
+        "Unicode": [
+            "U+8A03"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phó"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しらせ (shirase)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu6"
+        ]
+    },
+    "meanings": {
+        "phó": {
+            "Từ điển phổ thông": [
+                "tin buồn",
+                "báo tin có tang"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lời viết báo tang.",
+                "(Động) Báo tin có tang, cáo tang. ◇Vương Sung 王充: 'Tề loạn, công hoăng, tam nguyệt nãi phó' 齊亂, 公薨, 三月乃訃 (Luận hành 論衡, Thư hư 書虛) Tề loạn, (Hoàn) Công chết, ba tháng mới báo tang."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Báo tin có tang. Ta gọi là cáo phó 告訃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Báo tang, thư báo tang."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Báo cho biết việc tang. Td: Cáo phó."
+            ],
+            "compound_words": {
+                "告訃": "cáo phó",
+                "訃告": "phó cáo",
+                "訃聞": "phó văn"
+            }
+        }
+    }
+}

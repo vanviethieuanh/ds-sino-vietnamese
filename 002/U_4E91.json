@@ -1,0 +1,90 @@
+{
+    "character": "云",
+    "details": {
+        "Âm Hán Việt": [
+            "vân"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhị 二 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱二厶"
+        ],
+        "Nét bút": [
+            "一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "MMI (一一戈)"
+        ],
+        "Unicode": [
+            "U+4E91"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yún ㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "vân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウン (un)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.う (i.u)",
+            "ここに (kokoni)"
+        ],
+        "Âm Hàn": [
+            "운"
+        ],
+        "Âm Quảng Đông": [
+            "wan4"
+        ]
+    },
+    "meanings": {
+        "vân": {
+            "Từ điển phổ thông": [
+                "rằng (phụ từ)",
+                "vân vân, còn nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rằng, bảo, nói. ◎Như: 'ngữ vân' 語云 lời quê nói rằng. ◇Đào Uyên Minh 陶淵明: 'Tự vân tiên thế tị Tần thời loạn, suất thê tử ấp nhân, lai thử tuyệt cảnh, bất phục xuất yên' 自云先世避秦時亂, 率妻子邑人來此絕境, 不復出焉 (Đào hoa nguyên kí 桃花源記) Họ bảo tổ tiên trốn loạn đời Tần, dắt vợ con và người trong ấp lại chỗ hiểm trở xa xôi này rồi không trở ra nữa.",
+                "(Động) Có. ◇Tuân Tử 荀子: 'Kì vân ích hồ?' 其云益乎 (Pháp hành 法行) Điều đó có ích gì không?",
+                "(Động) Là. ◇Hậu Hán Thư 後漢書: 'Tuy vân thất phu, bá vương khả dã' 雖云匹夫, 霸王可也 (Viên Thuật truyện 袁術傳) Tuy là kẻ thất phu, cũng có thể xưng bá xưng vương.",
+                "(Trợ) Trợ từ ngữ khí đặt ở đầu, giữa hoặc cuối câu. ◇Sử Kí 史記: 'Dư đăng Cơ san, kì thượng cái hữu Hứa Do trủng vân' 余登箕山, 其上蓋有許由冢云 (Bá Di liệt truyện 伯夷列傳) Ta lên núi Cơ, trên ấy dường như có mộ của Hứa Do.",
+                "(Đại) Như thế, vân vân. ◇Tả truyện 左傳: 'Tử chi ngôn vân, hựu yên dụng minh?' 子之言云, 又焉用盟 (Tương Công nhị thập bát niên 襄公二十八年) Ông nói như thế, thì cần gì phải liên minh? ◇Hán Thư 漢書: 'Thượng viết ngô dục vân vân' 上曰吾欲云云 (Cấp Trịnh liệt truyện 汲鄭列傳) Vua nói ta muốn như thế như thế.",
+                "§ Giản thể của 雲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rằng, như ngữ vân 語云 lời quê nói rằng.",
+                "Vân vân v.v. lời kể các sự còn dài, chỉ kể một hai cái làm mẫu, như làng tôi có dệt vải, vóc, nhiễu, v.v.",
+                "Nhung nhúc, như vạn vật vân vân 萬物云云 muôn vật nhung nhúc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mây: 白雲 Mây trắng; 多雲 Nhiều mây; 雲散 Mây tan;",
+                "(văn) Đàn, đoàn, bầy, đám, đông đảo.【雲集】vân tập [yúnjí] Tập hợp đông đảo: 全國代表雲集首都 Đại biểu trong cả nước tập hợp đông đảo tại Thủ đô;",
+                "[Yún] Tỉnh Vân Nam (gọi tắt);",
+                "[Yún] (Họ) Vân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói rằng. Td: Ngữ vân ( tục ngữ nói rằng ) — Tiếng trợ từ cuối câu. Có nghĩa: Vậy."
+            ],
+            "compound_words": {
+                "层云": "tằng vân",
+                "星云": "tinh vân",
+                "云南": "vân nam",
+                "云云": "vân vân"
+            }
+        }
+    }
+}

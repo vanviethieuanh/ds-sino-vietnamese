@@ -1,0 +1,86 @@
+{
+    "character": "忡",
+    "details": {
+        "Âm Hán Việt": [
+            "sung",
+            "xung"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "tâm 心 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖中"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "PL (心中)"
+        ],
+        "Unicode": [
+            "U+5FE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chōng ㄔㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "xung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)",
+            "チュ (chu)",
+            "シュウ (shū)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うれ.える (ure.eru)"
+        ],
+        "Âm Hàn": [
+            "충"
+        ],
+        "Âm Quảng Đông": [
+            "cung1"
+        ]
+    },
+    "meanings": {
+        "sung": {
+            "Từ điển phổ thông": [
+                "lo lắng"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lo."
+            ],
+            "compound_words": {
+                "怔忡": "chinh sung"
+            }
+        },
+        "xung": {
+            "Từ điển trích dẫn": [
+                "(Tính) Vẻ lo lắng, ưu lự. ◇Thi Kinh 詩經: 'Bất ngã dĩ quy, Ưu tâm hữu xung' 不我以歸, 憂心有忡 (Bội phong 邶風, Kích cổ 擊鼓).",
+                "§ Xem 'xung xung' 忡忡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lo lắng. 【忡 忡】xung xung [chongchong] (Có vẻ) lo lắng, lo âu: 憂心忡忡 Lòng lo đau đáu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ lo lắng."
+            ],
+            "compound_words": {
+                "怔忡": "chinh xung",
+                "忡忡": "xung xung"
+            }
+        }
+    }
+}

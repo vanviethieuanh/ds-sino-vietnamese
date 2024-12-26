@@ -1,0 +1,76 @@
+{
+    "character": "痘",
+    "details": {
+        "Âm Hán Việt": [
+            "đậu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nạch 疒 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒豆"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "KMRT (大一口廿)"
+        ],
+        "Unicode": [
+            "U+75D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dòu ㄉㄡˋ"
+        ],
+        "Âm Nôm": [
+            "đậu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Hàn": [
+            "두"
+        ],
+        "Âm Quảng Đông": [
+            "dau6"
+        ]
+    },
+    "meanings": {
+        "đậu": {
+            "Từ điển phổ thông": [
+                "bệnh đậu mùa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh đậu mùa. § Cũng gọi là 'thiên hoa' 天花. ◎Như: 'chủng đậu' 種痘 trồng đậu (lấy giống bệnh đậu trồng vào người để ngừa bệnh lên đậu). § Cũng gọi là 'chủng hoa' 種花.",
+                "(Danh) Mụn trứng cá (nổi trên mặt người vào tuổi dậy thì). ◎Như: 'thanh xuân đậu' 青春痘 mụn trứng cá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lên đậu, lên mùa, cũng gọi là thiên hoa 天花. Lấy giống đậu ở trâu trồng vào tay người cho khỏi lên đậu gọi là chủng đậu 種痘 trồng đậu. Cũng gọi là chủng hoa 種花."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh đậu mùa;",
+                "(Nốt) đậu: 種痘 Chủng đậu, trồng trái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên bệnh, tức bệnh đậu mùa."
+            ],
+            "compound_words": {
+                "種痘": "chủng đậu",
+                "痘苗": "đậu miêu",
+                "水痘": "thuỷ đậu"
+            }
+        }
+    }
+}

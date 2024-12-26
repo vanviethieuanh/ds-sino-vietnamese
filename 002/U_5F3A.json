@@ -1,0 +1,130 @@
+{
+    "character": "强",
+    "details": {
+        "Âm Hán Việt": [
+            "cường",
+            "cưỡng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "cung 弓 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰弓虽"
+        ],
+        "Nét bút": [
+            "フ一フ丨フ一丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NRLI (弓口中戈)"
+        ],
+        "Unicode": [
+            "U+5F3A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiàng ㄐㄧㄤˋ",
+            "qiáng ㄑㄧㄤˊ",
+            "qiǎng ㄑㄧㄤˇ"
+        ],
+        "Âm Nôm": [
+            "càng",
+            "cường",
+            "gượng",
+            "ngượng"
+        ],
+        "Âm Hàn": [
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "koeng4",
+            "koeng5"
+        ]
+    },
+    "meanings": {
+        "cường": {
+            "Từ điển phổ thông": [
+                "mạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Tục dùng như chữ 強.",
+                "§ Giản thể của chữ 強."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mạnh, cũng như chữ cường 彊.",
+                "Con mọt thóc gạo.",
+                "Tục dùng như chữ cường 強"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cưỡng lại, không chịu khuất phục: 倔強 Quật cường. Xem 強 [qiáng], [qiăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Cường 強."
+            ],
+            "compound_words": {
+                "伯强": "bá cường",
+                "强暴": "cường bạo",
+                "刚强": "cương cường",
+                "强大": "cường đại",
+                "强盜": "cường đạo",
+                "强调": "cường điệu",
+                "强度": "cường độ",
+                "强加": "cường gia",
+                "强悍": "cường hãn",
+                "强化": "cường hoá",
+                "强健": "cường kiện",
+                "强劲": "cường kình",
+                "强拉": "cường lạp",
+                "强烈": "cường liệt",
+                "强梁": "cường lương",
+                "强硬": "cường ngạnh",
+                "强风": "cường phong",
+                "强光": "cường quang",
+                "强权": "cường quyền",
+                "强势": "cường thế",
+                "加强": "gia cường",
+                "坚强": "kiên cường",
+                "顽强": "ngoan cường",
+                "富强": "phú cường",
+                "倔强": "quật cường",
+                "屈强": "quật cường",
+                "逞强": "sính cường",
+                "增强": "tăng cường",
+                "自强": "tự cường"
+            }
+        },
+        "cưỡng": {
+            "Từ điển phổ thông": [
+                "quan tiền",
+                "cái địu"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Tục dùng như chữ 強.",
+                "§ Giản thể của chữ 強."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cưỡng lại, không chịu khuất phục: 倔強 Quật cường. Xem 強 [qiáng], [qiăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Cưỡng 強 — Một âm khác là Cường."
+            ],
+            "compound_words": {
+                "强迫": "cưỡng bách",
+                "强制": "cưỡng chế",
+                "强奸": "cưỡng gian",
+                "免强": "miễn cưỡng",
+                "勉强": "miễn cưỡng"
+            }
+        }
+    }
+}

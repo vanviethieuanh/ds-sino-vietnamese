@@ -1,0 +1,106 @@
+{
+    "character": "嗔",
+    "details": {
+        "Âm Hán Việt": [
+            "sân",
+            "điền"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khẩu 口 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口真"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨フ一一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RJBC (口十月金)"
+        ],
+        "Unicode": [
+            "U+55D4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chēn ㄔㄣ",
+            "tián ㄊㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "sân",
+            "sun",
+            "xân",
+            "xin"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いか.る (ika.ru)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "can1",
+            "zan1"
+        ]
+    },
+    "meanings": {
+        "sân": {
+            "Từ điển phổ thông": [
+                "nổi cáu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sự giận, hờn. ◎Như: 'hồi sân tác hỉ' 回嗔作喜道 đổi giận làm vui.",
+                "(Động) Giận, cáu. ◎Như: 'kiều sân' 嬌嗔 hờn dỗi. ◇Lưu Nghĩa Khánh 劉義慶: 'Thừa tướng kiến Trường Dự triếp hỉ, kiến Kính Dự triếp sân' 丞相見長豫輒喜, 見敬豫輒嗔 (Thế thuyết tân ngữ 世說新語, Đức hạnh 德行) Thừa tướng thấy Trường Dự liền vui, thấy Kính Dự liền giận.",
+                "(Động) Trách, quở trách. ◇Hồng Lâu Mộng 紅樓夢: 'Khủng phạ nhĩ đích Lâm muội muội thính kiến, hựu quái sân ngã tán liễu Bảo thư thư' 恐怕你的林妹妹聽見, 又怪嗔我贊了寶姐姐 (Đệ tam thập nhị hồi) Chỉ sợ cô Lâm nhà anh nghe thấy, lại quở trách vì tôi khen cô Bảo thôi.",
+                "Cũng đọc là 'điền'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giận, cáu, cũng có khi đọc là chữ điền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tức giận, cáu;",
+                "Trách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giận dữ. Giận ghét. Td: Tham sân si ( ba điều tối kị của nhà Phật )."
+            ],
+            "compound_words": {
+                "嬌嗔": "kiều sân",
+                "嗔詬": "sân cấu",
+                "嗔睨": "sân nghễ",
+                "嗔癡": "sân si"
+            }
+        },
+        "điền": {
+            "Từ điển trích dẫn": [
+                "(Danh) Sự giận, hờn. ◎Như: 'hồi sân tác hỉ' 回嗔作喜道 đổi giận làm vui.",
+                "(Động) Giận, cáu. ◎Như: 'kiều sân' 嬌嗔 hờn dỗi. ◇Lưu Nghĩa Khánh 劉義慶: 'Thừa tướng kiến Trường Dự triếp hỉ, kiến Kính Dự triếp sân' 丞相見長豫輒喜, 見敬豫輒嗔 (Thế thuyết tân ngữ 世說新語, Đức hạnh 德行) Thừa tướng thấy Trường Dự liền vui, thấy Kính Dự liền giận.",
+                "(Động) Trách, quở trách. ◇Hồng Lâu Mộng 紅樓夢: 'Khủng phạ nhĩ đích Lâm muội muội thính kiến, hựu quái sân ngã tán liễu Bảo thư thư' 恐怕你的林妹妹聽見, 又怪嗔我贊了寶姐姐 (Đệ tam thập nhị hồi) Chỉ sợ cô Lâm nhà anh nghe thấy, lại quở trách vì tôi khen cô Bảo thôi.",
+                "Cũng đọc là 'điền'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giận, cáu, cũng có khi đọc là chữ điền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tức giận, cáu;",
+                "Trách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ giận dữ — Khí kéo lên rất thịnh."
+            ]
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "character": "剝",
+    "details": {
+        "Âm Hán Việt": [
+            "bác",
+            "phốc"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "đao 刀 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰彔⺉"
+        ],
+        "Nét bút": [
+            "フフ一丨丶一ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "VELN (女水中弓)"
+        ],
+        "Unicode": [
+            "U+525D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bāo ㄅㄠ",
+            "bō ㄅㄛ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "bóc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はぐ (hagu)",
+            "むく (muku)",
+            "はげる (hageru)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bok1",
+            "mok1"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "bóc vỏ, lột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rơi, rụng, rớt mất. ◎Như: 'văn tự bác khuyết' 文字剝缺 văn tự sót mất. ◇Trang Tử 莊子: 'Phù tra lê quất dữu, quả lỏa chi thuộc, thật thục tắc bác' 夫楂梨橘柚, 果蓏之屬, 實熟則剝 (Nhân gian thế 人間世) Kìa các loài tra, lê, quất, quýt, dưa quả, trái chín thì rơi rụng.",
+                "(Động) Bóc vỏ, lột vỏ. ◎Như: 'bác quả' 剝果 gọt trái cây, 'bác quất tử' 剝橘子 bóc vỏ quýt.",
+                "(Động) Lột. ◎Như: 'bác bì' 剝皮 lột da, 'bác y' 剝衣 lột áo. ◇Thủy hử truyện 水滸傳: 'Chu Quý hoảng mang lan trụ, Lí Quỳ phương tài trụ liễu thủ tựu sĩ binh thân thượng, bác liễu lưỡng kiện y phục xuyên thượng' 朱貴慌忙攔住, 李逵方纔住了手就士兵身上, 剝了兩件衣服穿上 (Đệ tứ thập tam hồi) Chu Quý hốt hoảng ngăn lại, lúc đó Lí Quỳ mới ngừng tay, lột hai chiếc quần áo của tên lính mặc vào.",
+                "(Động) Bóc lột. ◎Như: 'bác tước' 剝削 bóc lột, 'bác đoạt' 剝奪 tước đoạt.",
+                "(Động) Đập xuống. ◎Như: 'loạn bác dư kiên' 亂剝余肩 đập tơi bời xuống vai tôi.",
+                "(Danh) Vận tải hóa vật. ◎Như: 'bác thuyền' 剝船 thuyền nhỏ chở đồ, 'bác ngạn' 剝岸 bờ bến.",
+                "(Danh) Vận xấu. ◎Như: 'kiển bác' 蹇剝 vận rủi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bóc, gọt, như bác đoạt 剝奪 bóc lột.",
+                "Lột, như bác bì 剝皮 lột da, bác y 剝衣 lột áo, v.v.",
+                "Vận xấu, như kiển bác 蹇剝 vận rủi.",
+                "Vận tải hoá vật cũng gọi là bác, như bác thuyền 剝船 thuyền nhỏ chở đồ, bác ngạn 剝岸 bờ bến.",
+                "Ðập xuống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【剝削】bác tước [boxue] Bóc lột. Xem 剝 [bao]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xé rách ra — Lột ra. Bóc ra — Để lộ ra. Để trần — Làm hại tới, làm bị thương — Một âm khác là Phốc."
+            ],
+            "compound_words": {
+                "剝剝": "bác bác",
+                "剝掉": "bác điệu",
+                "剝奪": "bác đoạt",
+                "剝落": "bác lạc",
+                "剝離": "bác ly",
+                "剝膚": "bác phu",
+                "剝脫": "bác thoát",
+                "剝蝕": "bác thực",
+                "剝啄": "bác trác",
+                "剝削": "bác tước",
+                "剽剝": "phiếu bác"
+            }
+        },
+        "phốc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh. Dùng roi, gậy mà đánh — Một âm là Bác. Xem Bác."
+            ]
+        }
+    }
+}

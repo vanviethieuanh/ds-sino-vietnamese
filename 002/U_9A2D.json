@@ -1,0 +1,84 @@
+{
+    "character": "騭",
+    "details": {
+        "Âm Hán Việt": [
+            "chất"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mã 馬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱陟馬"
+        ],
+        "Nét bút": [
+            "フ丨丨一丨一丨ノノ一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "NHSQF (弓竹尸手火)"
+        ],
+        "Unicode": [
+            "U+9A2D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)",
+            "シチ (shichi)",
+            "チョク (choku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おすうま (osūma)"
+        ],
+        "Âm Hàn": [
+            "즐"
+        ],
+        "Âm Quảng Đông": [
+            "zat1"
+        ]
+    },
+    "meanings": {
+        "chất": {
+            "Từ điển phổ thông": [
+                "định sẵn",
+                "phân biệt",
+                "ngựa cái"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) An bài, an định. ◎Như: 'âm chất' 陰騭 sắp đặt ngầm (tốt xấu họa phúc đều bởi trời định, người không thể biết được).",
+                "(Động) Phân biện, phán định. ◎Như: 'bình chất thị phi' 評騭是非 phán xét phải trái.",
+                "(Động) Lên.",
+                "(Danh) Ngựa đực."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðịnh. Như âm chất 陰騭 tốt xấu hoạ phúc đều bởi trời định, người không thể biết được.",
+                "Phân biện, phán định. Như bình chất thị phi 評騭是非 phán xét phải trái.",
+                "Ngựa cái.",
+                "Lên, cưỡi ngựa lên núi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Định, sắp đặt: 評騭高低 Bình phẩm và sắp đặt cao thấp; 陰騭 Sự định hoạ phúc (của trời) không thể biết được;",
+                "(văn) Ngựa cái, ngựa giống;",
+                "(văn) Đi lên (núi, bằng ngựa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ngựa đực — Trèo lên. Leo lên — Định sẵn. Do trời định sẵn."
+            ],
+            "compound_words": {
+                "陰騭": "âm chất"
+            }
+        }
+    }
+}

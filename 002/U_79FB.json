@@ -1,0 +1,180 @@
+{
+    "character": "移",
+    "details": {
+        "Âm Hán Việt": [
+            "di",
+            "dị",
+            "sỉ",
+            "xỉ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "hoà 禾 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾多"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶ノフ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "HDNIN (竹木弓戈弓)"
+        ],
+        "Unicode": [
+            "U+79FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chǐ ㄔˇ",
+            "yí ㄧˊ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "chòm",
+            "day",
+            "dây",
+            "dê",
+            "di",
+            "dời",
+            "đệm",
+            "giay",
+            "rời",
+            "xờm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつ.る (utsu.ru)",
+            "うつ.す (utsu.su)"
+        ],
+        "Âm Hàn": [
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "ji4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển phổ thông": [
+                "di chuyển"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dời đi. ◇Nguyễn Du 阮攸: 'Tào thị vu thử di Hán đồ' 曹氏于此移漢圖 (Cựu Hứa đô 舊許都) Họ Tào dời đô nhà Hán đến đây.",
+                "(Động) Biến đổi, chuyển biến. ◎Như: 'di phong dịch tục' 移風易俗 thay đồi phong tục. ◇Vương Bột 王勃: 'Vật hoán tinh di kỉ độ thu' 物換星移幾度秋 (Đằng Vương các 滕王閣) Vật đổi sao dời đã bao nhiêu mùa thu rồi.",
+                "(Động) Tặng, cho. ◇Hán Thư 漢書: 'Di trân lai hưởng' 移珍來享 (Dương Hùng truyện 揚雄傳) Tặng cho vật báu lại hưởng.",
+                "(Động) Trừ khử. ◇Vương Sung 王充: 'Dục di huỳnh hoặc chi họa' (Luận hành 論衡, Biến hư 變虛) Muốn trừ họa của sao Huỳnh Hoặc (Hỏa tinh).",
+                "(Danh) Một loại văn thư thời xưa, chuyển giao giữa các quan cùng hàng, gọi là 'di văn' 移文. ◇Thủy hử truyện 水滸傳: 'Thương Châu đại doãn hành di văn thư, họa ảnh đồ hình, tróc nã phạm nhân Lâm Xung' 滄州大尹行移文書, 畫影圖形, 捉拿犯人林沖 (Đệ thập nhất hồi) Quan đại doãn Thương Châu truyền công văn, cho treo tranh vẽ hình (các nơi), để tróc nã phạm nhân Lâm Xung.",
+                "(Danh) Họ 'Di'.",
+                "Một âm là 'dị'. (Động) Khen.",
+                "Lại một âm là 'xỉ'. (Tính) Rộng rãi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dời đi.",
+                "Biến dời, như di phong dịch tục 移風易俗 đổi dời phong tục.",
+                "Ông quan này đưa tờ cho ông quan cùng hàng khác gọi là di văn 移文.",
+                "Một âm là dị. Khen.",
+                "Lại một âm là sỉ. Rộng rãi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Di (chuyển), dời: 轉移陣地 Di chuyển trận địa; 愚公移山Ngu công dời núi;",
+                "Biến chuyển, thay đổi: 移風易俗 Thay đổi phong tục, dị phong dịch tục; 堅定不移 Kiên quyết không thay đổi;",
+                "Chuyển giao;",
+                "(văn) Chuyển giao văn thư;",
+                "(văn) Một loại văn thư nhà nước (công văn) thời xưa (chia làm văn di và võ di: văn di là những công văn có tính khiển trách; võ di có tính lên án, tố cáo, giống như bài hịch);",
+                "(văn) Ban cho."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dời đi chỗ khác — Thay đổi — Một âm khác là Xỉ."
+            ],
+            "compound_words": {
+                "不移": "bất di",
+                "支移": "chi di",
+                "轉移": "chuyển di",
+                "移病": "di bệnh",
+                "移轉": "di chuyển",
+                "移居": "di cư",
+                "移民": "di dân",
+                "移易": "di dịch",
+                "移动": "di động",
+                "移動": "di động",
+                "移禍": "di hoạ",
+                "移花接木": "di hoa tiếp mộc",
+                "移風易俗": "di phong dịch tục",
+                "移天易日": "di thiên dịch nhật",
+                "移時": "di thời",
+                "移情": "di tình",
+                "游移": "du di",
+                "推移": "suy di",
+                "衰移": "suy di",
+                "物换星移": "vật hoán tinh di",
+                "物換星移": "vật hoán tinh di"
+            }
+        },
+        "dị": {
+            "Từ điển phổ thông": [
+                "khen ngợi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dời đi. ◇Nguyễn Du 阮攸: 'Tào thị vu thử di Hán đồ' 曹氏于此移漢圖 (Cựu Hứa đô 舊許都) Họ Tào dời đô nhà Hán đến đây.",
+                "(Động) Biến đổi, chuyển biến. ◎Như: 'di phong dịch tục' 移風易俗 thay đồi phong tục. ◇Vương Bột 王勃: 'Vật hoán tinh di kỉ độ thu' 物換星移幾度秋 (Đằng Vương các 滕王閣) Vật đổi sao dời đã bao nhiêu mùa thu rồi.",
+                "(Động) Tặng, cho. ◇Hán Thư 漢書: 'Di trân lai hưởng' 移珍來享 (Dương Hùng truyện 揚雄傳) Tặng cho vật báu lại hưởng.",
+                "(Động) Trừ khử. ◇Vương Sung 王充: 'Dục di huỳnh hoặc chi họa' (Luận hành 論衡, Biến hư 變虛) Muốn trừ họa của sao Huỳnh Hoặc (Hỏa tinh).",
+                "(Danh) Một loại văn thư thời xưa, chuyển giao giữa các quan cùng hàng, gọi là 'di văn' 移文. ◇Thủy hử truyện 水滸傳: 'Thương Châu đại doãn hành di văn thư, họa ảnh đồ hình, tróc nã phạm nhân Lâm Xung' 滄州大尹行移文書, 畫影圖形, 捉拿犯人林沖 (Đệ thập nhất hồi) Quan đại doãn Thương Châu truyền công văn, cho treo tranh vẽ hình (các nơi), để tróc nã phạm nhân Lâm Xung.",
+                "(Danh) Họ 'Di'.",
+                "Một âm là 'dị'. (Động) Khen.",
+                "Lại một âm là 'xỉ'. (Tính) Rộng rãi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dời đi.",
+                "Biến dời, như di phong dịch tục 移風易俗 đổi dời phong tục.",
+                "Ông quan này đưa tờ cho ông quan cùng hàng khác gọi là di văn 移文.",
+                "Một âm là dị. Khen.",
+                "Lại một âm là sỉ. Rộng rãi."
+            ],
+            "compound_words": {
+                "移易": "di dịch",
+                "移風易俗": "di phong dịch tục",
+                "移天易日": "di thiên dịch nhật"
+            }
+        },
+        "sỉ": {
+            "Từ điển phổ thông": [
+                "rộng rãi"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dời đi.",
+                "Biến dời, như di phong dịch tục 移風易俗 đổi dời phong tục.",
+                "Ông quan này đưa tờ cho ông quan cùng hàng khác gọi là di văn 移文.",
+                "Một âm là dị. Khen.",
+                "Lại một âm là sỉ. Rộng rãi."
+            ]
+        },
+        "xỉ": {
+            "Từ điển trích dẫn": [
+                "(Động) Dời đi. ◇Nguyễn Du 阮攸: 'Tào thị vu thử di Hán đồ' 曹氏于此移漢圖 (Cựu Hứa đô 舊許都) Họ Tào dời đô nhà Hán đến đây.",
+                "(Động) Biến đổi, chuyển biến. ◎Như: 'di phong dịch tục' 移風易俗 thay đồi phong tục. ◇Vương Bột 王勃: 'Vật hoán tinh di kỉ độ thu' 物換星移幾度秋 (Đằng Vương các 滕王閣) Vật đổi sao dời đã bao nhiêu mùa thu rồi.",
+                "(Động) Tặng, cho. ◇Hán Thư 漢書: 'Di trân lai hưởng' 移珍來享 (Dương Hùng truyện 揚雄傳) Tặng cho vật báu lại hưởng.",
+                "(Động) Trừ khử. ◇Vương Sung 王充: 'Dục di huỳnh hoặc chi họa' (Luận hành 論衡, Biến hư 變虛) Muốn trừ họa của sao Huỳnh Hoặc (Hỏa tinh).",
+                "(Danh) Một loại văn thư thời xưa, chuyển giao giữa các quan cùng hàng, gọi là 'di văn' 移文. ◇Thủy hử truyện 水滸傳: 'Thương Châu đại doãn hành di văn thư, họa ảnh đồ hình, tróc nã phạm nhân Lâm Xung' 滄州大尹行移文書, 畫影圖形, 捉拿犯人林沖 (Đệ thập nhất hồi) Quan đại doãn Thương Châu truyền công văn, cho treo tranh vẽ hình (các nơi), để tróc nã phạm nhân Lâm Xung.",
+                "(Danh) Họ 'Di'.",
+                "Một âm là 'dị'. (Động) Khen.",
+                "Lại một âm là 'xỉ'. (Tính) Rộng rãi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "To lớn. Rộng lớn. Dùng như chữ Xỉ 哆 — Một âm là Di. Xem Di."
+            ]
+        }
+    }
+}

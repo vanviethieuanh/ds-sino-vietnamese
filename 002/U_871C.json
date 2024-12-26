@@ -1,0 +1,89 @@
+{
+    "character": "蜜",
+    "details": {
+        "Âm Hán Việt": [
+            "mật"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱宓虫"
+        ],
+        "Nét bút": [
+            "丶丶フ丶フ丶ノ丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "JPHI (十心竹戈)"
+        ],
+        "Unicode": [
+            "U+871C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mì ㄇㄧˋ"
+        ],
+        "Âm Nôm": [
+            "mất",
+            "mứt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミツ (mitsu)",
+            "ビツ (bitsu)"
+        ],
+        "Âm Hàn": [
+            "밀"
+        ],
+        "Âm Quảng Đông": [
+            "mat6"
+        ]
+    },
+    "meanings": {
+        "mật": {
+            "Từ điển phổ thông": [
+                "mật ong",
+                "ngọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mật (chất lỏng do ong hút nhụy hoa làm thành). ◎Như: 'phong mật' 蜂蜜 mật ong, 'hoa mật' 花蜜 mật hoa.",
+                "(Danh) Chỉ chất gì ngọt (giống như mật ong). ◎Như: 'mật tiễn' 蜜餞 mứt, thực phẩm ngâm đường.",
+                "(Tính) Ngọt, ngon ngọt. ◎Như: 'điềm ngôn mật ngữ' 甜言蜜語 lời nói ngon ngọt, lời đường mật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mật ong.",
+                "Lấy đường ngâm đồ ăn cũng gọi là mật. Như quả ngâm nước đường gọi là mật tiễn 蜜餞.",
+                "Ngọt, lấy lời nói khéo mà an ủi người, mà rủ rê người gọi là điềm ngôn mật ngữ 甜言蜜語. Cũng viết là"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mật ong;",
+                "Những thứ giống mật ong: 糖蜜 Đường mật;",
+                "Ngọt ngào, đường mật: 糖蜜語 Nói ngon nói ngọt, lời đường mật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chất nước đặc dính do con ong làm ra — Vị ngọt."
+            ],
+            "compound_words": {
+                "波羅蜜": "ba la mật",
+                "百花蜜": "bách hoa mật",
+                "蜜蠟": "mật lạp",
+                "蜜月": "mật nguyệt",
+                "蜜蜂": "mật phong",
+                "蜜餞": "mật tiễn",
+                "蜜饯": "mật tiễn",
+                "蜜汁": "mật trấp",
+                "蜂蜜": "phong mật"
+            }
+        }
+    }
+}

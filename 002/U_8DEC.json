@@ -1,0 +1,81 @@
+{
+    "character": "跬",
+    "details": {
+        "Âm Hán Việt": [
+            "khuể"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "túc 足 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊圭"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一一丨一一丨一"
+        ],
+        "Thương Hiệt": [
+            "RMGG (口一土土)"
+        ],
+        "Unicode": [
+            "U+8DEC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "kuǐ ㄎㄨㄟˇ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "khoẻ",
+            "khuể",
+            "quế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "カイ (kai)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひとあし (hitoashi)"
+        ],
+        "Âm Hàn": [
+            "규"
+        ],
+        "Âm Quảng Đông": [
+            "kwai2"
+        ]
+    },
+    "meanings": {
+        "khuể": {
+            "Từ điển phổ thông": [
+                "nửa bước chân, bước một chân",
+                "thời gian ngắn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Nửa bước. § Bước một chân gọi là “khuể” 跬, bước hai chân gọi là “bộ” 步. ◎Như: “khuể bộ” 跬步 nửa bước, khoảng cách rất ngắn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nửa bước, bước một chân gọi là khuể 跬 (3 thước), bước hai chân gọi là bộ 步 (6 thước). Vì thế nên thì giờ rất ngắn, rất ngặt gọi là khuể bộ 跬步."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nửa bước (bước một chân)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giơ chân lên để bước, nhưng chưa kịp đặt chân xuống. Bước nửa chừng."
+            ],
+            "compound_words": {
+                "跬步": "khuể bộ"
+            }
+        }
+    }
+}

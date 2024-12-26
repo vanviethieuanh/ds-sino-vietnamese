@@ -1,0 +1,57 @@
+{
+    "character": "晩",
+    "details": {
+        "Âm Hán Việt": [
+            "vãn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhật 日 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿰日免"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフ丨フ丨一ノフ"
+        ],
+        "Thương Hiệt": [
+            "XXANA (重重日弓日)"
+        ],
+        "Unicode": [
+            "U+6669"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wǎn ㄨㄢˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バン (ban)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ]
+    },
+    "meanings": {
+        "vãn": {
+            "Từ điển phổ thông": [
+                "buổi chiều"
+            ],
+            "compound_words": {
+                "旁晩": "bàng vãn",
+                "晩报": "vãn báo",
+                "晩间": "vãn gian",
+                "晩饭": "vãn phạn",
+                "晩上": "vãn thượng",
+                "晩餐": "vãn xan",
+                "晩宴": "vãn yến"
+            }
+        }
+    }
+}

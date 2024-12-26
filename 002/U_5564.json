@@ -1,0 +1,84 @@
+{
+    "character": "啤",
+    "details": {
+        "Âm Hán Việt": [
+            "bì",
+            "ti",
+            "ty",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口卑"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨フ一一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "RHHJ (口竹竹十)"
+        ],
+        "Unicode": [
+            "U+5564"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pí ㄆㄧˊ"
+        ],
+        "Âm Nôm": [
+            "bi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Quảng Đông": [
+            "be1"
+        ]
+    },
+    "meanings": {
+        "bì": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bì tửu 啤酒."
+            ],
+            "compound_words": {
+                "啤酒": "bì tửu"
+            }
+        },
+        "ti": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bia (phiên âm tiếng Anh \"beer\"). ◎Như: “ti tửu” 啤酒 bia."
+            ],
+            "compound_words": {
+                "啤酒": "ti tửu"
+            }
+        },
+        "ty": {
+            "Từ điển phổ thông": [
+                "(xem: ty tửu 啤酒)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【啤酒】ti tửu [píjiư] Bia: 喝啤酒 Uống bia; 啤酒釀造廠 Nhà máy rượu bia."
+            ],
+            "compound_words": {
+                "啤酒": "ty tửu"
+            }
+        },
+        "tỳ": {
+            "Từ điển Trần Văn Chánh": [
+                "【啤酒】ti tửu [píjiư] Bia: 喝啤酒 Uống bia; 啤酒釀造廠 Nhà máy rượu bia."
+            ]
+        }
+    }
+}

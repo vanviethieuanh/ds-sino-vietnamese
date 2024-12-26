@@ -1,0 +1,93 @@
+{
+    "character": "潏",
+    "details": {
+        "Âm Hán Việt": [
+            "duật",
+            "quyết",
+            "quất",
+            "thuật"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡矞"
+        ],
+        "Nét bút": [
+            "丶丶一フ丶フ丨ノ丨フノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ENHB (水弓竹月)"
+        ],
+        "Unicode": [
+            "U+6F4F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ",
+            "shù ㄕㄨˋ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)",
+            "ケチ (kechi)",
+            "シュツ (shutsu)",
+            "ジュチ (juchi)"
+        ],
+        "Âm Hàn": [
+            "율"
+        ],
+        "Âm Quảng Đông": [
+            "gyut3",
+            "kyut3",
+            "wat6"
+        ]
+    },
+    "meanings": {
+        "duật": {
+            "Từ điển phổ thông": [
+                "nước tuôn, nước phun ra",
+                "dòng nước"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nước tuôn (phun, vọt) ra;",
+                "Dòng nước."
+            ]
+        },
+        "quyết": {
+            "Từ điển phổ thông": [
+                "sông Quyết thời cổ (một thuộc tỉnh Thiểm Tây, một thuộc tỉnh Sơn Tây của Trung Quốc ngày nay)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sông Quyết (sông thời cổ, một thuộc tỉnh Thiểm Tây, một thuộc tỉnh Sơn Tây, Trung Quốc ngày nay)."
+            ]
+        },
+        "quất": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước vọt lên — Vùng đất nổi lên giữa sông, ở được — Yên sông, tức Quất thuỷ, thuộc tỉnh Sơn Tây, Trung Hoa."
+            ],
+            "compound_words": {
+                "潏湟": "quất hoàng"
+            }
+        },
+        "thuật": {
+            "Từ điển phổ thông": [
+                "đê đập xây trong nước"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đê đập xây trong nước."
+            ]
+        }
+    }
+}

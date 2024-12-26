@@ -1,0 +1,109 @@
+{
+    "character": "撞",
+    "details": {
+        "Âm Hán Việt": [
+            "chàng",
+            "tràng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘童"
+        ],
+        "Nét bút": [
+            "一丨一丶一丶ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "QYTG (手卜廿土)"
+        ],
+        "Unicode": [
+            "U+649E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chuáng ㄔㄨㄤˊ",
+            "zhuàng ㄓㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "chàng",
+            "tràng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)",
+            "トウ (tō)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.く (tsu.ku)"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "cong4",
+            "zong6"
+        ]
+    },
+    "meanings": {
+        "chàng": {
+            "Từ điển phổ thông": [
+                "khua, đánh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đánh, gõ, khua: 撞鐘 Đánh (gõ) chuông;",
+                "Đâm, đâm vào, xô vào, xông vào: 注意，別讓汽車撞了 Coi chừng, đừng để ô tô đâm phải; 三輪撞了人 Xe xích lô đâm vào người; 一開門，從外面撞進一個人來 Vừa mở cửa thì ở ngoài có một người xông vào nhà; (Ngr) Gặp, bắt gặp, trông thấy: 正在他出逃的時候，被我撞見了 Giữa lúc nó chạy trốn thì bị tôi bắt gặp (trông thấy)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh. Đập vào. Đụng vào — Cầm mà lắc mạnh."
+            ],
+            "compound_words": {
+                "撞針": "chàng châm",
+                "撞针": "chàng châm",
+                "撞鐘擊鼓": "chàng chung kích cổ",
+                "撞突": "chàng đột",
+                "撞憾": "chàng hám",
+                "撞击": "chàng kích",
+                "撞擊": "chàng kích",
+                "撞見": "chàng kiến",
+                "撞騙": "chàng phiến",
+                "撞骗": "chàng phiến",
+                "撞鎖": "chàng toả",
+                "撞锁": "chàng toả"
+            }
+        },
+        "tràng": {
+            "Từ điển trích dẫn": [
+                "(Động) Khua, đánh, gõ. ◎Như: 'tràng chung' 撞鐘 đánh chuông.",
+                "(Động) Đụng, chạm, xô vào. ◇Tam quốc diễn nghĩa 三國演義: 'Trác cản xuất viên môn, nhất nhân phi bôn tiền lai, dữ Trác hung thang tương tràng, Trác đảo ư địa' 卓趕出園門, 一人飛奔前來, 與卓胸膛相撞, 卓倒於地 (Đệ bát hồi) (Đổng) Trác đuổi theo ra tới cửa vườn, một người chạy như bay lại phía trước, đâm sầm vào người Trác, Trác ngã xuống đất.",
+                "(Động) Xung đột, tranh chấp.",
+                "(Động) Tình cờ gặp, bắt gặp. ◎Như: 'tràng kiến' 撞見 gặp mặt tình cờ. ◇Tam quốc diễn nghĩa 三國演義: 'Lã Bố kị mã chấp kích nhi lai, chánh dữ Vương Duẫn tràng kiến, tiện lặc trụ mã' 呂布騎馬執戟而來, 正與王允撞見, 便勒住馬 (Đệ nhất hồi 第一回) Lã Bố cưỡi ngựa cầm kích đi lại, gặp ngay Vương Doãn, liền gò cương dừng ngựa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khua, đánh, như tràng chung 撞鐘 đánh chuông.",
+                "Xung đột."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy tay mà đánh — Dùng vật nhọn mà đâm."
+            ],
+            "compound_words": {
+                "撞鐘": "tràng chung",
+                "撞突": "tràng đột",
+                "撞見": "tràng kiến",
+                "撞破": "tràng phá",
+                "撞騙": "tràng phiến"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "character": "担",
+    "details": {
+        "Âm Hán Việt": [
+            "đam",
+            "đãn",
+            "đảm"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘旦"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "QAM (手日一)"
+        ],
+        "Unicode": [
+            "U+62C5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dān ㄉㄢ",
+            "dǎn ㄉㄢˇ",
+            "dàn ㄉㄢˋ",
+            "qiè ㄑㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "dằng",
+            "dứt",
+            "đam",
+            "đán",
+            "đẵm",
+            "đắn",
+            "đét",
+            "tạ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かつ.ぐ (katsu.gu)",
+            "にな.う (nina.u)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daam1"
+        ]
+    },
+    "meanings": {
+        "đam": {
+            "Từ điển phổ thông": [
+                "khiêng, mang, vác",
+                "đồ để mang vác"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gánh: 擔水 Gánh nước;",
+                "Gánh vác, đảm nhiệm, chịu (trách nhiệm): 把任務擔當起來 Gánh lấy nhiệm vụ. Xem 擔 [dàn]."
+            ]
+        },
+        "đãn": {
+            "Từ điển Thiều Chửu": [
+                "① Tục mượn làm chữ 擔."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phủi đi, phẩy đi — Một âm là Đảm."
+            ]
+        },
+        "đảm": {
+            "Từ điển phổ thông": [
+                "khiêng, mang, vác",
+                "đồ để mang vác"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gánh: 擔水 Gánh nước;",
+                "Gánh vác, đảm nhiệm, chịu (trách nhiệm): 把任務擔當起來 Gánh lấy nhiệm vụ. Xem 擔 [dàn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết tắt của chữ Đảm 擔."
+            ],
+            "compound_words": {
+                "担保": "đảm bảo",
+                "担当": "đảm đương",
+                "担任": "đảm nhiệm",
+                "担心": "đảm tâm",
+                "担忧": "đảm ưu",
+                "承担": "thừa đảm"
+            }
+        }
+    }
+}

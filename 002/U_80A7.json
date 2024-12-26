@@ -1,0 +1,71 @@
+{
+    "character": "肧",
+    "details": {
+        "Âm Hán Việt": [
+            "phôi"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Hình thái": [
+            "⿰月不"
+        ],
+        "Nét bút": [
+            "ノフ一一一ノ丨丶"
+        ],
+        "Thương Hiệt": [
+            "BMF (月一火)"
+        ],
+        "Unicode": [
+            "U+80A7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pēi ㄆㄟ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらみ (harami)",
+            "はら.む (hara.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "pui1"
+        ]
+    },
+    "meanings": {
+        "phôi": {
+            "Từ điển phổ thông": [
+                "bào thai",
+                "vật chưa làm xong"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Nguyên là chữ “phôi” 胚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nguyên là chữ phôi 胚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như胚."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thai mới được một tháng — Cái mầm cây chưa lú khỏi hạt giống — Vật chưa thành hình."
+            ],
+            "compound_words": {
+                "肧盤": "phôi bàn",
+                "肧珠": "phôi châu",
+                "肧孕": "phôi dựng",
+                "肧胎": "phôi thai"
+            }
+        }
+    }
+}

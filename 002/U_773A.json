@@ -1,0 +1,89 @@
+{
+    "character": "眺",
+    "details": {
+        "Âm Hán Việt": [
+            "diểu",
+            "thiếu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mục 目 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目兆"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BULMO (月山中一人)"
+        ],
+        "Unicode": [
+            "U+773A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tiào ㄊㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "thiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なが.める (naga.meru)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "tiu3"
+        ]
+    },
+    "meanings": {
+        "diểu": {
+            "Từ điển phổ thông": [
+                "trông, ngắm từ xa",
+                "lườm",
+                "lễ họp chư hầu"
+            ]
+        },
+        "thiếu": {
+            "Từ điển phổ thông": [
+                "trông, ngắm từ xa",
+                "lườm",
+                "lễ họp chư hầu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhìn ra xa. ◇Tô Mạn Thù 蘇曼殊: 'Xuất sơn môn thiếu vọng' 出山門眺望 (Đoạn hồng linh nhạn kí 斷鴻零雁記) Bước ra cổng chùa ngắm ra xa.",
+                "(Động) Liếc mắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngắm xa.",
+                "Lườm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lễ họp mặt các chư hầu (khi đi sính thiên tử);",
+                "Trông xa, nhìn ra xa (như 眺, bộ 目)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn — Trông đợi."
+            ],
+            "compound_words": {
+                "憑眺": "bằng thiếu",
+                "延眺": "diên thiếu"
+            }
+        }
+    }
+}

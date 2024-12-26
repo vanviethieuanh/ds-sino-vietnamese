@@ -1,0 +1,111 @@
+{
+    "character": "莎",
+    "details": {
+        "Âm Hán Việt": [
+            "sa",
+            "ta",
+            "toa"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹沙"
+        ],
+        "Nét bút": [
+            "一丨丨丶丶一丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "TEFH (廿水火竹)"
+        ],
+        "Unicode": [
+            "U+838E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shā ㄕㄚ",
+            "suī ㄙㄨㄟ",
+            "suō ㄙㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "sa",
+            "toa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はますげ (hamasuge)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "saa1",
+            "so1"
+        ]
+    },
+    "meanings": {
+        "sa": {
+            "Từ điển phổ thông": [
+                "con giọt sành"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ gấu, củ nó gọi là 'hương phụ tử' 香附子, dùng làm thuốc (Cyperus rotundus). § Còn có tên là 'lôi công đầu' 雷公頭, 'tục căn thảo' 續根草.",
+                "(Tính) Trên có mọc cỏ gấu. ◎Như: 'toa châu' 莎州 bãi cỏ gấu, 'toa ngạn' 莎岸 bờ cỏ gấu.",
+                "Một âm là 'sa'. (Danh) Chỉ 'sa kê' 莎雞 con giọt sành, mùa hè thường rung cánh kêu, tiếng như dệt sợi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ gấu. Củ nó gọi là hương phụ tử 香附子 củ gấu, dùng làm thuốc.",
+                "Một âm là sa. Sa kê 莎雞 con giọt sành."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dùng cho tên người hoặc tên địa phương: 莎車 Huyện Sa-chê (ở Tân Cương, Trung Quốc);",
+                "Con giọt sành. Cg. 莎雞 Xem 莎 [suo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Sa kê 莎雞 — Một âm là Ta. Xem Ta."
+            ],
+            "compound_words": {
+                "莎雞": "sa kê"
+            }
+        },
+        "ta": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên cây, còn gọi là Sa thảo, rễ to như củ, gọi là Hương phụ tử, dùng làm vị thuốc bắc — Một âm khác là Sa. Xem Sa."
+            ]
+        },
+        "toa": {
+            "Từ điển phổ thông": [
+                "cỏ gấu, củ gấu (dùng làm thuốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ gấu, củ nó gọi là 'hương phụ tử' 香附子, dùng làm thuốc (Cyperus rotundus). § Còn có tên là 'lôi công đầu' 雷公頭, 'tục căn thảo' 續根草.",
+                "(Tính) Trên có mọc cỏ gấu. ◎Như: 'toa châu' 莎州 bãi cỏ gấu, 'toa ngạn' 莎岸 bờ cỏ gấu.",
+                "Một âm là 'sa'. (Danh) Chỉ 'sa kê' 莎雞 con giọt sành, mùa hè thường rung cánh kêu, tiếng như dệt sợi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ gấu. Củ nó gọi là hương phụ tử 香附子 củ gấu, dùng làm thuốc.",
+                "Một âm là sa. Sa kê 莎雞 con giọt sành."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cỏ gấu (cho ra củ gấu, một vị thuốc bắc có tên là hương phụ tử 香附子). 【莎草】 toa thảo [suocăo] Cỏ gấu (Cyperus rotundus) Xem 莎 [sha]."
+            ],
+            "compound_words": {
+                "伊麗莎白二世": "y lệ toa bạch nhị thế"
+            }
+        }
+    }
+}

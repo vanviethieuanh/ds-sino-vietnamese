@@ -1,0 +1,101 @@
+{
+    "character": "咳",
+    "details": {
+        "Âm Hán Việt": [
+            "hài",
+            "khái"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口亥"
+        ],
+        "Nét bút": [
+            "丨フ一丶一フノノ丶"
+        ],
+        "Thương Hiệt": [
+            "RYVO (口卜女人)"
+        ],
+        "Unicode": [
+            "U+54B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hāi ㄏㄞ",
+            "hái ㄏㄞˊ",
+            "kài ㄎㄞˋ",
+            "ké ㄎㄜˊ"
+        ],
+        "Âm Nôm": [
+            "cay",
+            "gay",
+            "gây",
+            "hãy",
+            "hỡi",
+            "khái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "ガイ (gai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せ.く (se.ku)",
+            "しわぶ.く (shiwabu.ku)",
+            "せき (seki)",
+            "しわぶき (shiwabuki)"
+        ],
+        "Âm Hàn": [
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "haai1",
+            "hoi4",
+            "kat1",
+            "koi3"
+        ]
+    },
+    "meanings": {
+        "hài": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng cười trẻ con — Một âm là Khái. Xem vần Khái."
+            ]
+        },
+        "khái": {
+            "Từ điển phổ thông": [
+                "ho"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ho. § Cũng như 'khái' 欬. ◎Như: 'khái thấu' 咳嗽 ho.",
+                "Một âm là 'cai'. (Động) Khạc. ◎Như: 'khái đàm' 咳痰 khạc đờm, 'khái huyết' 咳血 khạc máu.",
+                "Một âm là 'hai'. (Thán) Biểu thị thương cảm, ân hận: ô, ôi, ối. ◎Như: 'hai! ngã chẩm ma vong liễu' 咳, 我怎麼忘了 ối dào! làm sao tôi quên mất rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ho (ho không có đờm). Cũng như chữ khái 欬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ho: 百日咳 Ho gà. Cv. 欬 (bộ 欠). Xem 咳 [hai]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ho. Bệnh ho — Một âm là Hài."
+            ],
+            "compound_words": {
+                "百日咳": "bách nhật khái",
+                "止咳": "chỉ khái",
+                "咳血": "khái huyết",
+                "咳嗽": "khái thấu"
+            }
+        }
+    }
+}

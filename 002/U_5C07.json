@@ -1,0 +1,252 @@
+{
+    "character": "將",
+    "details": {
+        "Âm Hán Việt": [
+            "thương",
+            "tương",
+            "tướng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thốn 寸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "フ丨一ノノフ丶丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "VMBDI (女一月木戈)"
+        ],
+        "Unicode": [
+            "U+5C07"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiāng ㄐㄧㄤ",
+            "jiàng ㄐㄧㄤˋ",
+            "qiāng ㄑㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "tương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まさ.に (masa.ni)",
+            "はた (hata)",
+            "ひきい.る (hikii.ru)",
+            "もって (mo'te)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng1",
+            "zoeng3"
+        ]
+    },
+    "meanings": {
+        "thương": {
+            "Từ điển trích dẫn": [
+                "(Phó) Sẽ, có thể. ◇Luận Ngữ 論語: 'Quý Thị tương phạt Chuyên Du' 季氏將伐顓臾 (Quý thị 季氏) Họ Quý có thể sẽ đánh nước Chuyên Du.",
+                "(Phó) Sắp, sắp sửa. ◎Như: 'tương yếu' 將要 sắp sửa. ◇Luận Ngữ 論語: 'Điểu chi tương tử, kì minh dã ai; nhân chi tương tử, kì ngôn dã thiện' 鳥之將死, 其鳴也哀; 人之將死, 其言也善 (Thái Bá 泰伯) Con chim sắp chết, tiếng kêu bi ai; người ta sắp chết, lời nói tốt lành.",
+                "(Phó) Gần (số lượng). ◇Mạnh Tử 孟子: 'Tương ngũ thập lí dã' 將五十里也 (Đằng Văn Công thượng 滕文公上) Gần năm mươi dặm.",
+                "(Phó) Vừa, vừa mới. ◎Như: 'tương khốc tựu tiếu' 將哭就笑 vừa mới khóc đã cười, 'tha tương tiến môn một nhất hội nhi' 他將進門沒一會兒 anh ta vừa mới vào cửa không bao lâu.",
+                "(Động) Tiến bộ, tiến lên. ◇Thi Kinh 詩經: 'Nhật tựu nguyệt tương' 日就月將 (Chu tụng 周頌, Kính chi 敬之) (Mong) ngày tháng được thành công, tiến bộ.",
+                "(Động) Cầm, giữ, đem. ◎Như: 'tương tửu lai' 將酒來 đem rượu lại.",
+                "(Động) Giúp đỡ, phù trợ. ◇Thi Kinh 詩經: 'Lạc chỉ quân tử, Phúc lí tương chi' 樂只君子, 福履將之 (Chu nam 周南, Cù mộc 樛木) Vui thay bậc quân tử (bà Hậu Phi), Phúc lộc sẽ giúp đỡ bà.",
+                "(Động) Nghỉ, nghỉ ngơi. ◎Như: 'tương dưỡng' 將養 an dưỡng, nghỉ ngơi. ◇Lí Thanh Chiếu 李清照: 'Sạ noãn hoàn hàn thì hậu, tối nan tương tức' 乍暖還寒時候, 最難將息 (Tầm tầm mịch mịch từ 尋尋覓覓詞) Thời tiết chợt ấm rồi lại lạnh, thật khó mà nghỉ ngơi được.",
+                "(Động) Tiễn đưa. ◇Thi Kinh 詩經: 'Chi tử vu quy, Bách lượng tương chi' 之子于歸, 百兩將之 (Triệu nam 召南, Thước sào 鵲巢) Cô ấy về nhà chồng, Trăm cỗ xe đưa tiễn.",
+                "(Động) Làm, tiến hành. ◎Như: 'thận trọng tương sự' 慎重將事 cẩn thận làm việc.",
+                "(Động) Chiếu tướng (đánh cờ tướng). ◎Như: 'ngã giá nhất bộ trừu xa, hạ nhất bộ tựu yếu tương liễu' 我這一步抽車, 下一步就要將了 tôi một bước rút con xe, hạ xuống một bước thế là chiếu tướng!",
+                "(Động) Nói khích. ◎Như: 'thoại tương tha' 話將他 nói khích anh ta.",
+                "(Giới) Lại, đi. § Dùng như 'bả' 把. ◎Như: 'tương hoa sáp hảo' 將花插好 cắm hoa vào, 'tương môn quan hảo' 將門關好 đóng cửa lại.",
+                "(Giới) Lấy, đem. § Dùng như 'dĩ' 以. ◎Như: 'tương công chiết tội' 將功折罪 lấy công bù tội. ◇Chiến quốc sách 戰國策: 'Tô Tần thủy tương liên hoành thuyết Tần Huệ Vương' 蘇秦始將連橫說秦惠王 (Tần sách nhất) Tô Tần mới đầu đem (chủ trương) liên hoành thuyết phục Tần Huệ Vương.",
+                "(Liên) Với, và. ◇Dữu Tín 庾信: 'Mi tương liễu nhi tranh lục, Diện cộng đào nhi cạnh hồng' 眉將柳而爭綠, 面共桃而競紅 (Xuân phú 春賦) Mi với liễu tranh xanh, Mặt cùng đào đua hồng.",
+                "(Liên) Vừa, lại. ◎Như: 'tương tín tương nghi' 將信將疑 vừa tin vừa ngờ (nửa tin nửa ngờ).",
+                "(Trợ) Đặt sau động từ, dùng chung với 'tiến lai' 進來, 'khởi lai' 起來, 'tiến khứ' 進去: nào, đi, lên. ◎Như: 'đả tương khởi lai' 打將起來 đánh đi nào, 'khốc tương khởi lai' 哭將起來 khóc lên đi.",
+                "Một âm là 'tướng'. (Danh) Người giữ chức cao trong quân. ◎Như: 'đại tướng' 大將, 'danh tướng' 名將, 'dũng tướng' 勇將.",
+                "(Động) Chỉ huy, cầm đầu. ◎Như: 'Hàn Tín tướng binh, đa đa ích thiện' 韓信將兵, 多多益善 Hàn Tín chỉ huy quân, càng đông càng tốt.",
+                "Một âm là 'thương'. (Động) Xin, mời, thỉnh cầu. ◇Thi Kinh 詩經: 'Thương tử vô nộ' 將子無怒 (Vệ phong 衛風, Manh 氓) Mong anh đừng giận dữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sắp, sẽ, rồi mới. Như tương lai 將來 thời gian sắp tới, sau này.",
+                "Cẩu thả, làm việc cẩu thả gọi là tương tựu 將就.",
+                "Nuôi, như bất hoàng tương phụ 不遑將父 chẳng rồi nuôi cha. Nay cũng gọi sự nghỉ ngơi là tương tức 將息.",
+                "Ðưa, như bách lạng tương chi 百兩將之 trăm cỗ xe đưa tiễn đấy.",
+                "Cầm, như tương tương nhi chí 相將而至 cùng cầm tay mà đến, nghĩa là cùng nhau cầm tay mà đều đi đến.",
+                "Tiến, như nhật tựu nguyệt tương 日就月將 ngày tới tháng tiến.",
+                "Bên.",
+                "Mạnh.",
+                "Dài.",
+                "Theo.",
+                "Một âm là thương. Xin.",
+                "Thương thương 將將 tiếng êm đềm, dáng nghiêm chỉnh.",
+                "Lại một âm là tướng. Ông tướng, như đại tướng 大將, tướng sĩ 將士, v.v.",
+                "Coi tất cả, như tướng trung quân 將中軍 cầm quyền thống xuất cả trung quân."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mong, xin: 將子無怒 Xin anh đừng giận (Thi Kinh: Vệ phong, Manh)."
+            ]
+        },
+        "tương": {
+            "Từ điển phổ thông": [
+                "sẽ, sắp",
+                "đem, đưa, cầm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Sẽ, có thể. ◇Luận Ngữ 論語: 'Quý Thị tương phạt Chuyên Du' 季氏將伐顓臾 (Quý thị 季氏) Họ Quý có thể sẽ đánh nước Chuyên Du.",
+                "(Phó) Sắp, sắp sửa. ◎Như: 'tương yếu' 將要 sắp sửa. ◇Luận Ngữ 論語: 'Điểu chi tương tử, kì minh dã ai; nhân chi tương tử, kì ngôn dã thiện' 鳥之將死, 其鳴也哀; 人之將死, 其言也善 (Thái Bá 泰伯) Con chim sắp chết, tiếng kêu bi ai; người ta sắp chết, lời nói tốt lành.",
+                "(Phó) Gần (số lượng). ◇Mạnh Tử 孟子: 'Tương ngũ thập lí dã' 將五十里也 (Đằng Văn Công thượng 滕文公上) Gần năm mươi dặm.",
+                "(Phó) Vừa, vừa mới. ◎Như: 'tương khốc tựu tiếu' 將哭就笑 vừa mới khóc đã cười, 'tha tương tiến môn một nhất hội nhi' 他將進門沒一會兒 anh ta vừa mới vào cửa không bao lâu.",
+                "(Động) Tiến bộ, tiến lên. ◇Thi Kinh 詩經: 'Nhật tựu nguyệt tương' 日就月將 (Chu tụng 周頌, Kính chi 敬之) (Mong) ngày tháng được thành công, tiến bộ.",
+                "(Động) Cầm, giữ, đem. ◎Như: 'tương tửu lai' 將酒來 đem rượu lại.",
+                "(Động) Giúp đỡ, phù trợ. ◇Thi Kinh 詩經: 'Lạc chỉ quân tử, Phúc lí tương chi' 樂只君子, 福履將之 (Chu nam 周南, Cù mộc 樛木) Vui thay bậc quân tử (bà Hậu Phi), Phúc lộc sẽ giúp đỡ bà.",
+                "(Động) Nghỉ, nghỉ ngơi. ◎Như: 'tương dưỡng' 將養 an dưỡng, nghỉ ngơi. ◇Lí Thanh Chiếu 李清照: 'Sạ noãn hoàn hàn thì hậu, tối nan tương tức' 乍暖還寒時候, 最難將息 (Tầm tầm mịch mịch từ 尋尋覓覓詞) Thời tiết chợt ấm rồi lại lạnh, thật khó mà nghỉ ngơi được.",
+                "(Động) Tiễn đưa. ◇Thi Kinh 詩經: 'Chi tử vu quy, Bách lượng tương chi' 之子于歸, 百兩將之 (Triệu nam 召南, Thước sào 鵲巢) Cô ấy về nhà chồng, Trăm cỗ xe đưa tiễn.",
+                "(Động) Làm, tiến hành. ◎Như: 'thận trọng tương sự' 慎重將事 cẩn thận làm việc.",
+                "(Động) Chiếu tướng (đánh cờ tướng). ◎Như: 'ngã giá nhất bộ trừu xa, hạ nhất bộ tựu yếu tương liễu' 我這一步抽車, 下一步就要將了 tôi một bước rút con xe, hạ xuống một bước thế là chiếu tướng!",
+                "(Động) Nói khích. ◎Như: 'thoại tương tha' 話將他 nói khích anh ta.",
+                "(Giới) Lại, đi. § Dùng như 'bả' 把. ◎Như: 'tương hoa sáp hảo' 將花插好 cắm hoa vào, 'tương môn quan hảo' 將門關好 đóng cửa lại.",
+                "(Giới) Lấy, đem. § Dùng như 'dĩ' 以. ◎Như: 'tương công chiết tội' 將功折罪 lấy công bù tội. ◇Chiến quốc sách 戰國策: 'Tô Tần thủy tương liên hoành thuyết Tần Huệ Vương' 蘇秦始將連橫說秦惠王 (Tần sách nhất) Tô Tần mới đầu đem (chủ trương) liên hoành thuyết phục Tần Huệ Vương.",
+                "(Liên) Với, và. ◇Dữu Tín 庾信: 'Mi tương liễu nhi tranh lục, Diện cộng đào nhi cạnh hồng' 眉將柳而爭綠, 面共桃而競紅 (Xuân phú 春賦) Mi với liễu tranh xanh, Mặt cùng đào đua hồng.",
+                "(Liên) Vừa, lại. ◎Như: 'tương tín tương nghi' 將信將疑 vừa tin vừa ngờ (nửa tin nửa ngờ).",
+                "(Trợ) Đặt sau động từ, dùng chung với 'tiến lai' 進來, 'khởi lai' 起來, 'tiến khứ' 進去: nào, đi, lên. ◎Như: 'đả tương khởi lai' 打將起來 đánh đi nào, 'khốc tương khởi lai' 哭將起來 khóc lên đi.",
+                "Một âm là 'tướng'. (Danh) Người giữ chức cao trong quân. ◎Như: 'đại tướng' 大將, 'danh tướng' 名將, 'dũng tướng' 勇將.",
+                "(Động) Chỉ huy, cầm đầu. ◎Như: 'Hàn Tín tướng binh, đa đa ích thiện' 韓信將兵, 多多益善 Hàn Tín chỉ huy quân, càng đông càng tốt.",
+                "Một âm là 'thương'. (Động) Xin, mời, thỉnh cầu. ◇Thi Kinh 詩經: 'Thương tử vô nộ' 將子無怒 (Vệ phong 衛風, Manh 氓) Mong anh đừng giận dữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sắp, sẽ, rồi mới. Như tương lai 將來 thời gian sắp tới, sau này.",
+                "Cẩu thả, làm việc cẩu thả gọi là tương tựu 將就.",
+                "Nuôi, như bất hoàng tương phụ 不遑將父 chẳng rồi nuôi cha. Nay cũng gọi sự nghỉ ngơi là tương tức 將息.",
+                "Ðưa, như bách lạng tương chi 百兩將之 trăm cỗ xe đưa tiễn đấy.",
+                "Cầm, như tương tương nhi chí 相將而至 cùng cầm tay mà đến, nghĩa là cùng nhau cầm tay mà đều đi đến.",
+                "Tiến, như nhật tựu nguyệt tương 日就月將 ngày tới tháng tiến.",
+                "Bên.",
+                "Mạnh.",
+                "Dài.",
+                "Theo.",
+                "Một âm là thương. Xin.",
+                "Thương thương 將將 tiếng êm đềm, dáng nghiêm chỉnh.",
+                "Lại một âm là tướng. Ông tướng, như đại tướng 大將, tướng sĩ 將士, v.v.",
+                "Coi tất cả, như tướng trung quân 將中軍 cầm quyền thống xuất cả trung quân."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tướng: 上將 Thượng tướng; 將領 Tướng lĩnh;",
+                "Mang quân đi, chỉ huy: 將兵 Chỉ huy binh lính, cầm binh;",
+                "(văn) Vừa: 將恐將懼 Vừa lo vừa sợ (Thi Kinh: Tiểu nhã, Cốc phong);",
+                "(văn) Và, cùng: 暫伴月將影 Tạm làm bạn với trăng cùng bóng (Lí Bạch: Nguyệt hạ độc chước). Xem 將 [jiang]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sắp. Gần tới — Đem. Lấy. Hát nói của Tản Đà: » Nhẫn tương tâm sự phó hàn uyên « ( Nỡ đem tâm sự bỏ xuống vực nước lạnh sâu ) — Một âm là Tướng. Xem Tướng."
+            ],
+            "compound_words": {
+                "干將": "can tương",
+                "必將": "tất tương",
+                "即將": "tức tương",
+                "將近": "tương cận",
+                "將來": "tương lai"
+            }
+        },
+        "tướng": {
+            "Từ điển phổ thông": [
+                "cấp tướng, chỉ huy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Sẽ, có thể. ◇Luận Ngữ 論語: 'Quý Thị tương phạt Chuyên Du' 季氏將伐顓臾 (Quý thị 季氏) Họ Quý có thể sẽ đánh nước Chuyên Du.",
+                "(Phó) Sắp, sắp sửa. ◎Như: 'tương yếu' 將要 sắp sửa. ◇Luận Ngữ 論語: 'Điểu chi tương tử, kì minh dã ai; nhân chi tương tử, kì ngôn dã thiện' 鳥之將死, 其鳴也哀; 人之將死, 其言也善 (Thái Bá 泰伯) Con chim sắp chết, tiếng kêu bi ai; người ta sắp chết, lời nói tốt lành.",
+                "(Phó) Gần (số lượng). ◇Mạnh Tử 孟子: 'Tương ngũ thập lí dã' 將五十里也 (Đằng Văn Công thượng 滕文公上) Gần năm mươi dặm.",
+                "(Phó) Vừa, vừa mới. ◎Như: 'tương khốc tựu tiếu' 將哭就笑 vừa mới khóc đã cười, 'tha tương tiến môn một nhất hội nhi' 他將進門沒一會兒 anh ta vừa mới vào cửa không bao lâu.",
+                "(Động) Tiến bộ, tiến lên. ◇Thi Kinh 詩經: 'Nhật tựu nguyệt tương' 日就月將 (Chu tụng 周頌, Kính chi 敬之) (Mong) ngày tháng được thành công, tiến bộ.",
+                "(Động) Cầm, giữ, đem. ◎Như: 'tương tửu lai' 將酒來 đem rượu lại.",
+                "(Động) Giúp đỡ, phù trợ. ◇Thi Kinh 詩經: 'Lạc chỉ quân tử, Phúc lí tương chi' 樂只君子, 福履將之 (Chu nam 周南, Cù mộc 樛木) Vui thay bậc quân tử (bà Hậu Phi), Phúc lộc sẽ giúp đỡ bà.",
+                "(Động) Nghỉ, nghỉ ngơi. ◎Như: 'tương dưỡng' 將養 an dưỡng, nghỉ ngơi. ◇Lí Thanh Chiếu 李清照: 'Sạ noãn hoàn hàn thì hậu, tối nan tương tức' 乍暖還寒時候, 最難將息 (Tầm tầm mịch mịch từ 尋尋覓覓詞) Thời tiết chợt ấm rồi lại lạnh, thật khó mà nghỉ ngơi được.",
+                "(Động) Tiễn đưa. ◇Thi Kinh 詩經: 'Chi tử vu quy, Bách lượng tương chi' 之子于歸, 百兩將之 (Triệu nam 召南, Thước sào 鵲巢) Cô ấy về nhà chồng, Trăm cỗ xe đưa tiễn.",
+                "(Động) Làm, tiến hành. ◎Như: 'thận trọng tương sự' 慎重將事 cẩn thận làm việc.",
+                "(Động) Chiếu tướng (đánh cờ tướng). ◎Như: 'ngã giá nhất bộ trừu xa, hạ nhất bộ tựu yếu tương liễu' 我這一步抽車, 下一步就要將了 tôi một bước rút con xe, hạ xuống một bước thế là chiếu tướng!",
+                "(Động) Nói khích. ◎Như: 'thoại tương tha' 話將他 nói khích anh ta.",
+                "(Giới) Lại, đi. § Dùng như 'bả' 把. ◎Như: 'tương hoa sáp hảo' 將花插好 cắm hoa vào, 'tương môn quan hảo' 將門關好 đóng cửa lại.",
+                "(Giới) Lấy, đem. § Dùng như 'dĩ' 以. ◎Như: 'tương công chiết tội' 將功折罪 lấy công bù tội. ◇Chiến quốc sách 戰國策: 'Tô Tần thủy tương liên hoành thuyết Tần Huệ Vương' 蘇秦始將連橫說秦惠王 (Tần sách nhất) Tô Tần mới đầu đem (chủ trương) liên hoành thuyết phục Tần Huệ Vương.",
+                "(Liên) Với, và. ◇Dữu Tín 庾信: 'Mi tương liễu nhi tranh lục, Diện cộng đào nhi cạnh hồng' 眉將柳而爭綠, 面共桃而競紅 (Xuân phú 春賦) Mi với liễu tranh xanh, Mặt cùng đào đua hồng.",
+                "(Liên) Vừa, lại. ◎Như: 'tương tín tương nghi' 將信將疑 vừa tin vừa ngờ (nửa tin nửa ngờ).",
+                "(Trợ) Đặt sau động từ, dùng chung với 'tiến lai' 進來, 'khởi lai' 起來, 'tiến khứ' 進去: nào, đi, lên. ◎Như: 'đả tương khởi lai' 打將起來 đánh đi nào, 'khốc tương khởi lai' 哭將起來 khóc lên đi.",
+                "Một âm là 'tướng'. (Danh) Người giữ chức cao trong quân. ◎Như: 'đại tướng' 大將, 'danh tướng' 名將, 'dũng tướng' 勇將.",
+                "(Động) Chỉ huy, cầm đầu. ◎Như: 'Hàn Tín tướng binh, đa đa ích thiện' 韓信將兵, 多多益善 Hàn Tín chỉ huy quân, càng đông càng tốt.",
+                "Một âm là 'thương'. (Động) Xin, mời, thỉnh cầu. ◇Thi Kinh 詩經: 'Thương tử vô nộ' 將子無怒 (Vệ phong 衛風, Manh 氓) Mong anh đừng giận dữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sắp, sẽ, rồi mới. Như tương lai 將來 thời gian sắp tới, sau này.",
+                "Cẩu thả, làm việc cẩu thả gọi là tương tựu 將就.",
+                "Nuôi, như bất hoàng tương phụ 不遑將父 chẳng rồi nuôi cha. Nay cũng gọi sự nghỉ ngơi là tương tức 將息.",
+                "Ðưa, như bách lạng tương chi 百兩將之 trăm cỗ xe đưa tiễn đấy.",
+                "Cầm, như tương tương nhi chí 相將而至 cùng cầm tay mà đến, nghĩa là cùng nhau cầm tay mà đều đi đến.",
+                "Tiến, như nhật tựu nguyệt tương 日就月將 ngày tới tháng tiến.",
+                "Bên.",
+                "Mạnh.",
+                "Dài.",
+                "Theo.",
+                "Một âm là thương. Xin.",
+                "Thương thương 將將 tiếng êm đềm, dáng nghiêm chỉnh.",
+                "Lại một âm là tướng. Ông tướng, như đại tướng 大將, tướng sĩ 將士, v.v.",
+                "Coi tất cả, như tướng trung quân 將中軍 cầm quyền thống xuất cả trung quân."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tướng: 上將 Thượng tướng; 將領 Tướng lĩnh;",
+                "Mang quân đi, chỉ huy: 將兵 Chỉ huy binh lính, cầm binh;",
+                "(văn) Vừa: 將恐將懼 Vừa lo vừa sợ (Thi Kinh: Tiểu nhã, Cốc phong);",
+                "(văn) Và, cùng: 暫伴月將影 Tạm làm bạn với trăng cùng bóng (Lí Bạch: Nguyệt hạ độc chước). Xem 將 [jiang]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vị quan võ cao cấp chỉ huy quân lính — Một âm là Tương. Xem Tương."
+            ],
+            "compound_words": {
+                "陰將": "âm tướng",
+                "敗將": "bại tướng",
+                "部將": "bộ tướng",
+                "戰將": "chiến tướng",
+                "主將": "chủ tướng",
+                "諸將": "chư tướng",
+                "廄將": "cứu tướng",
+                "名將": "danh tướng",
+                "勇將": "dũng tướng",
+                "大將": "đại tướng",
+                "檄將士文": "hịch tướng sĩ văn",
+                "虎將": "hổ tướng",
+                "卿將": "khanh tướng",
+                "健將": "kiện tướng",
+                "驕將": "kiêu tướng",
+                "良將": "lương tướng",
+                "猛將": "mãnh tướng",
+                "衙將": "nha tướng",
+                "儒將": "nho tướng",
+                "女將": "nữ tướng",
+                "副將": "phó tướng",
+                "郡將": "quận tướng",
+                "少將": "thiếu tướng",
+                "統將": "thống tướng",
+                "上將": "thượng tướng",
+                "裨將": "tì tướng",
+                "中將": "trung tướng",
+                "將營": "tướng doanh",
+                "將領": "tướng lĩnh",
+                "將門": "tướng môn",
+                "將軍": "tướng quân",
+                "將帥": "tướng suý",
+                "將佐": "tướng tá",
+                "武將": "vũ tướng"
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "character": "词",
+    "details": {
+        "Âm Hán Việt": [
+            "từ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠司"
+        ],
+        "Nét bút": [
+            "丶フフ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "IVSMR (戈女尸一口)"
+        ],
+        "Unicode": [
+            "U+8BCD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cí ㄘˊ"
+        ],
+        "Âm Nôm": [
+            "từ"
+        ],
+        "Âm Quảng Đông": [
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "từ": {
+            "Từ điển phổ thông": [
+                "lời văn",
+                "từ khúc, bài từ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 詞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 詞"
+            ],
+            "compound_words": {
+                "歌词": "ca từ",
+                "主词": "chủ từ",
+                "名词": "danh từ",
+                "代词": "đại từ",
+                "动词": "động từ",
+                "介词": "giới từ",
+                "连词": "liên từ",
+                "媚词": "mị từ",
+                "分词": "phân từ",
+                "副词": "phó từ",
+                "生词": "sinh từ",
+                "叹词": "thán từ",
+                "助词": "trợ từ"
+            }
+        }
+    }
+}

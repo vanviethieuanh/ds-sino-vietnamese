@@ -1,0 +1,78 @@
+{
+    "character": "喚",
+    "details": {
+        "Âm Hán Việt": [
+            "hoán"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口奐"
+        ],
+        "Nét bút": [
+            "丨フ一ノフ丨フノ丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RNBK (口弓月大)"
+        ],
+        "Unicode": [
+            "U+559A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huàn ㄏㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hoán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わめ.く (wame.ku)"
+        ],
+        "Âm Hàn": [
+            "환"
+        ],
+        "Âm Quảng Đông": [
+            "fun3",
+            "wun6"
+        ]
+    },
+    "meanings": {
+        "hoán": {
+            "Từ điển phổ thông": [
+                "kêu, gọi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kêu, gọi. ◇Nguyễn Trãi 阮廌: 'Hoán hồi ngọ mộng chẩm biên cầm' 喚回午夢枕邊禽 (Đề Trình xử sĩ Vân oa đồ 題程處士雲窩圖) Gọi tỉnh giấc mộng trưa, sẵn tiếng chim bên gối.",
+                "(Động) Vời lại, gọi đến. ◇Đỗ Phủ 杜甫: 'Giang thảo nhật nhật hoán sầu sanh' 江草日日喚愁生 (Sầu 愁) Cỏ sông ngày ngày vời buồn lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kêu, gọi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gọi, kêu: 呼喚 Kêu gọi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gọi to — Gọi về, kêu về."
+            ],
+            "compound_words": {
+                "喚醒": "hoán tỉnh",
+                "呼喚": "hô hoán"
+            }
+        }
+    }
+}

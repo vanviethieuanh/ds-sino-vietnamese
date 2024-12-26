@@ -1,0 +1,91 @@
+{
+    "character": "棚",
+    "details": {
+        "Âm Hán Việt": [
+            "bành",
+            "bằng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木朋"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノフ一一ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "DBB (木月月)"
+        ],
+        "Unicode": [
+            "U+68DA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "péng ㄆㄥˊ"
+        ],
+        "Âm Nôm": [
+            "bằng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たな (tana)",
+            "-だな (-dana)"
+        ],
+        "Âm Hàn": [
+            "붕",
+            "팽"
+        ],
+        "Âm Quảng Đông": [
+            "paang4"
+        ]
+    },
+    "meanings": {
+        "bành": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ta quen đọc là Bằng. Xem Bằng."
+            ]
+        },
+        "bằng": {
+            "Từ điển phổ thông": [
+                "gác, nhà rạp",
+                "đơn vị quân gồm 14 lính"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lầu, gác, nhà rạp. ◇Tùy Thư 隋書: 'Cao bằng khóa lộ, quảng mạc lăng vân' 高棚跨路, 廣幕陵雲 (Liễu Úc truyện 柳彧傳) Gác cao vắt ngang đường, màn rộng vượt quá mây.",
+                "(Danh) Giá, giàn. ◎Như: 'lương bằng' 涼棚 giàn hóng mát, 'thảo bằng' 草棚 giàn cỏ, 'thư bằng' 書棚 giá sách. ◇Ngư Dương Lão Nhân 漁洋老人: 'Cô vọng ngôn chi cô thính chi, Đậu bằng qua giá vũ như ti' 姑妄言之姑聽之, 豆棚瓜架雨如絲 (Đề Liêu Trai Chí Dị 題聊齋志異) Cứ nói tràn cứ nghe tràn, Trên giàn đậu giá dưa, mưa (đan sợi nhỏ) như tơ.",
+                "(Danh) Bằng đảng, bang phái.",
+                "(Danh) Lượng từ: phép quân ngày xưa cứ 14 người gọi là một 'bằng' 棚.",
+                "(Động) Dựng, gác. ◇Tiêu Quân 蕭軍: 'Giá bằng tử bằng đắc hợp hồ quy cách ma?' 這棚子棚得合乎規格嗎? (五月的礦山, Đệ bát chương)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gác, nhà rạp.",
+                "Phép quân ngày xưa cứ 14 người gọi là một bằng 棚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trần, lán, giàn: 頂棚 Trần nhà; 瓜棚 Giàn bí; 戲棚 Giàn hát;",
+                "Lều, chuồng: 蓆棚 Lều chiếu; 草棚 Lều tranh; 牛棚 Chuồng bò; 搭一個棚 Dựng một cái lều;",
+                "(cũ) Bằng (đơn vị quân đội thời xưa, gồm 14 người)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm ván gỗ được gác lên — Gác lên để che cho bên dưới — Cái nhà mát, chỉ có mái, xung quanh không có tường — Tên một đơn vị quân đội trong tổ chức quân đội cuối đời Thanh, một Bằng gồm 14 người, tương đương với một tiểu đội ngày nay."
+            ],
+            "compound_words": {
+                "馬棚": "mã bằng"
+            }
+        }
+    }
+}

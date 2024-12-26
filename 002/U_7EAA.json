@@ -1,0 +1,73 @@
+{
+    "character": "纪",
+    "details": {
+        "Âm Hán Việt": [
+            "kỉ",
+            "kỷ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟己"
+        ],
+        "Nét bút": [
+            "フフ一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "VMSU (女一尸山)"
+        ],
+        "Unicode": [
+            "U+7EAA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐ ㄐㄧˇ",
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "kỉ"
+        ],
+        "Âm Quảng Đông": [
+            "gei2",
+            "gei3"
+        ]
+    },
+    "meanings": {
+        "kỉ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 紀."
+            ]
+        },
+        "kỷ": {
+            "Từ điển phổ thông": [
+                "gỡ mối rối",
+                "12 năm",
+                "kỷ cương, kỷ luật",
+                "nước Kỷ"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nước Kỉ (thời xưa ở Trung Quốc);",
+                "(Họ) Kỉ. Xem 紀 [jì]."
+            ],
+            "compound_words": {
+                "纪纲": "kỷ cương",
+                "纪律": "kỷ luật",
+                "纪元": "kỷ nguyên",
+                "纪念": "kỷ niệm",
+                "世纪": "thế kỷ"
+            }
+        }
+    }
+}

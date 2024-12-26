@@ -1,0 +1,120 @@
+{
+    "character": "滴",
+    "details": {
+        "Âm Hán Việt": [
+            "chích",
+            "trích",
+            "tích"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡啇"
+        ],
+        "Nét bút": [
+            "丶丶一丶一丶ノ丨フ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "EYCB (水卜金月)"
+        ],
+        "Unicode": [
+            "U+6EF4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dī ㄉㄧ"
+        ],
+        "Âm Nôm": [
+            "nhếch",
+            "nhích",
+            "rích",
+            "tách",
+            "tích",
+            "trích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テキ (teki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しずく (shizuku)",
+            "したた.る (shitata.ru)"
+        ],
+        "Âm Hàn": [
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "dik1"
+        ]
+    },
+    "meanings": {
+        "chích": {
+            "Từ điển phổ thông": [
+                "giọt nước"
+            ]
+        },
+        "trích": {
+            "Từ điển phổ thông": [
+                "giọt nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giọt (nước, chất lỏng). ◎Như: 'thủy tích' 水滴 giọt nước, 'vũ tích' 雨滴 giọt mưa, 'hãn tích' 汗滴 giọt mồ hôi.",
+                "(Danh) Lượng từ: giọt. ◎Như: 'kỉ tích vũ' 幾滴雨 mấy giọt mưa, 'lưỡng tích nhãn lệ' 兩滴眼淚 hai giọt nước mắt.",
+                "(Danh) Tí, chút. ◎Như: 'nhất điểm nhất tích' 一點一滴 từng li từng tí.",
+                "(Động) Nhỏ, tra, nhỏ xuống. ◎Như: 'tích thượng nhãn dược thủy' 滴上眼藥水 nhỏ vô mắt thuốc đau mắt. ◇Nguyễn Trãi 阮廌: 'Điểm tích sổ tàn canh' 點滴數殘更 (Thính vũ 聽雨) Nhỏ giọt đếm canh tàn.",
+                "§ Ghi chú: Ta quen đọc là 'trích'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giọt nước, như quyên tích 涓滴 nhỏ giọt. Ta quen đọc là chữ trích."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tra, nhỏ, nhỏ xuống: 滴眼藥水 Nhỏ thuốc đau mắt; 汗直往下滴 Mồ hôi cứ nhỏ xuống;",
+                "Giọt: 一滴水 Một giọt nước; 雨滴眼淚 Hai giọt nước mắt;",
+                "Tí, chút: 一點一滴 Một li một tí, từng li từng tí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giọt nước — Nhỏ giọt."
+            ],
+            "compound_words": {
+                "瀝滴": "lịch trích",
+                "涓滴": "quyên trích",
+                "殘滴": "tàn trích",
+                "滴瀝": "trích lịch"
+            }
+        },
+        "tích": {
+            "Từ điển phổ thông": [
+                "giọt nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giọt (nước, chất lỏng). ◎Như: 'thủy tích' 水滴 giọt nước, 'vũ tích' 雨滴 giọt mưa, 'hãn tích' 汗滴 giọt mồ hôi.",
+                "(Danh) Lượng từ: giọt. ◎Như: 'kỉ tích vũ' 幾滴雨 mấy giọt mưa, 'lưỡng tích nhãn lệ' 兩滴眼淚 hai giọt nước mắt.",
+                "(Danh) Tí, chút. ◎Như: 'nhất điểm nhất tích' 一點一滴 từng li từng tí.",
+                "(Động) Nhỏ, tra, nhỏ xuống. ◎Như: 'tích thượng nhãn dược thủy' 滴上眼藥水 nhỏ vô mắt thuốc đau mắt. ◇Nguyễn Trãi 阮廌: 'Điểm tích sổ tàn canh' 點滴數殘更 (Thính vũ 聽雨) Nhỏ giọt đếm canh tàn.",
+                "§ Ghi chú: Ta quen đọc là 'trích'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giọt nước, như quyên tích 涓滴 nhỏ giọt. Ta quen đọc là chữ trích."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tra, nhỏ, nhỏ xuống: 滴眼藥水 Nhỏ thuốc đau mắt; 汗直往下滴 Mồ hôi cứ nhỏ xuống;",
+                "Giọt: 一滴水 Một giọt nước; 雨滴眼淚 Hai giọt nước mắt;",
+                "Tí, chút: 一點一滴 Một li một tí, từng li từng tí."
+            ],
+            "compound_words": {
+                "滴水穿石": "tích thuỷ xuyên thạch"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "簫",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêu",
+            "tiểu"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trúc 竹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮肅"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶フ一一丨ノ丨一一フフ丨一丨"
+        ],
+        "Thương Hiệt": [
+            "HLX (竹中重)"
+        ],
+        "Unicode": [
+            "U+7C2B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xiāo ㄒㄧㄠ",
+            "xiǎo ㄒㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "tiêu",
+            "tiu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふえ (fue)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "siu1"
+        ]
+    },
+    "meanings": {
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "cây tiêu (nhạc cụ, như sáo)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ống tiêu, tức là cái sáo thổi dọc. ◇Nguyễn Du 阮攸: 'Tiêu cổ đông đông sơ xuất môn' 簫鼓鼕鼕初出門 (Minh Giang chu phát 明江舟發) Tiếng tiêu, tiếng trống ầm ĩ lúc mới ra đến cửa (sông).",
+                "(Danh) Cái đốc cung."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái tiêu, tức là cái sáo thổi dọc. Nguyễn Du 阮攸: Tiêu cổ đông đông sơ xuất môn 簫鼓鼕鼕初出門 tiếng tiêu, tiếng trống ầm ĩ lúc mới ra đến cửa (sông).",
+                "Cái đốc cung."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ống sáo, ống tiêu;",
+                "(văn) Cái đốc cung."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ống sáo dài, một thứ nhạc khí thời xưa. Ta cũng gọi là ống tiêu. Truyện  Hoa Tiên : » Tiêu đâu rủ phượng véo von «."
+            ],
+            "compound_words": {
+                "弄簫": "lộng tiêu",
+                "玉簫": "ngọc tiêu",
+                "吹簫": "xuy tiêu"
+            }
+        },
+        "tiểu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như hai chữ Tiểu 筱 — Một âm là Tiêu. Xem Tiêu."
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "脚",
+    "details": {
+        "Âm Hán Việt": [
+            "cước"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhục 肉 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月却"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨一フ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "BGIL (月土戈中)"
+        ],
+        "Unicode": [
+            "U+811A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎo ㄐㄧㄠˇ",
+            "jié ㄐㄧㄝˊ",
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "cuốc",
+            "cước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キャク (kyaku)",
+            "キャ (kya)",
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あし (ashi)"
+        ],
+        "Âm Hàn": [
+            "각"
+        ],
+        "Âm Quảng Đông": [
+            "goek3"
+        ]
+    },
+    "meanings": {
+        "cước": {
+            "Từ điển phổ thông": [
+                "chân"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'cước' 腳.",
+                "Giản thể của chữ 腳."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ cước 腳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 腳."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Cước 腳."
+            ],
+            "compound_words": {
+                "鴨脚": "áp cước",
+                "抱佛脚": "bão phật cước",
+                "獨脚": "độc cước",
+                "龜脚": "quy cước",
+                "拳脚": "quyền cước",
+                "山脚": "sơn cước",
+                "船脚": "thuyền cước",
+                "車脚": "xa cước"
+            }
+        }
+    }
+}

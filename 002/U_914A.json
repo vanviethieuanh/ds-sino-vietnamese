@@ -1,0 +1,83 @@
+{
+    "character": "酊",
+    "details": {
+        "Âm Hán Việt": [
+            "đinh",
+            "đính"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "dậu 酉 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰酉丁"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "MWMN (一田一弓)"
+        ],
+        "Unicode": [
+            "U+914A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dīng ㄉㄧㄥ",
+            "dǐng ㄉㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "đỉnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よう (yō)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "ding1",
+            "ding2"
+        ]
+    },
+    "meanings": {
+        "đinh": {
+            "Từ điển Trần Văn Chánh": [
+                "Cồn thuốc (nói chung). Xem 酊 [dêng]."
+            ]
+        },
+        "đính": {
+            "Từ điển phổ thông": [
+                "(xem: mính đính 酩酊)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) “Mính đính” 酩酊: xem “mính” 酩."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mính đính 酩酊 say rượu, say mèm. Cao Bá Quát 高伯适: Mính đính quy lai bất dụng phù 酩酊歸來不用扶 chuếnh choáng say về không đợi dắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Say (rượu). Xem 酩酊 [mêngdêng]. Xem 酊 [ding]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Say rượu."
+            ],
+            "compound_words": {
+                "酩酊": "mính đính"
+            }
+        }
+    }
+}

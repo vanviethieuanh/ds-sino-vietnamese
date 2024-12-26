@@ -1,0 +1,126 @@
+{
+    "character": "罪",
+    "details": {
+        "Âm Hán Việt": [
+            "tội"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "võng 网 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺲非"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一丨一一一丨一一一"
+        ],
+        "Thương Hiệt": [
+            "WLLMY (田中中一卜)"
+        ],
+        "Unicode": [
+            "U+7F6A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zuì ㄗㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "tội",
+            "tụi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザイ (zai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つみ (tsumi)"
+        ],
+        "Âm Hàn": [
+            "죄"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi6"
+        ]
+    },
+    "meanings": {
+        "tội": {
+            "Từ điển phổ thông": [
+                "tội lỗi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lỗi lầm. ◎Như: 'tương công thục tội' 將功贖罪 đem công chuộc lỗi. ◇Sử Kí 史記: 'Thử thiên chi vong ngã, phi chiến chi tội dã' 此天之亡我, 非戰之罪也 (Hạng Vũ bổn kỉ 項羽本紀) Đây là trời bỏ ta, chứ không phải lỗi tại ta đánh không giỏi.",
+                "(Danh) Hành vi phạm pháp, việc làm trái luật pháp. ◇Tam quốc diễn nghĩa 三國演義: 'Thủ ngã hồi kinh vấn tội' 取我回京問罪 (Đệ nhất hồi 第一回) Bắt ta về kinh hỏi tội.",
+                "(Danh) Nỗi khổ. ◎Như: 'bài tội' 排罪 chịu khổ, 'thụ bất liễu giá cá tội' 受不了這個罪 chịu không nổi cái ách đó.",
+                "(Danh) Hình phạt. ◇Sử Kí 史記: 'Sát nhân giả tử, thương nhân cập đạo để tội' 殺人者死, 傷人及盜抵罪 (Cao Tổ bản kỉ 高祖本紀) Ai giết người thì phải chết, làm người bị thương và ăn trộm thì chịu hình phạt.",
+                "(Động) Lên án, trách cứ. ◎Như: 'quái tội' 怪罪 quở trách. ◇Tả truyện 左傳: 'Vũ, Thang tội kỉ' 禹, 湯罪己 (Trang Công thập nhất niên 莊公十一年) Vua Vũ, vua Thang tự trách lỗi mình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tội lỗi. Làm phạm phép luật phải phạt gọi là tội.",
+                "Làm quan tự nói nhún mình là đãi tội 待罪, nghĩa là tự nói nhún mình là tài không xứng ngôi vậy.",
+                "Lỗi lầm.",
+                "Làm lầm, làm bậy khiến cho người ta giận gọi là đắc tội 得罪, tự nhận lỗi mình gọi là tạ tội 謝罪.",
+                "Người ta lầm lỗi mình tự cho là vì mình không biết răn bảo cũng gọi là tội. Các vua ngày xưa ban chiếu tự nhận là có lỗi với dân gọi là tội kỉ chiếu 罪己詔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tội, tội lỗi: 判罪 Xử tội; 死罪 Tội chết; 立功贖罪 Lập công chuộc tội;",
+                "Cái khổ: 排罪 Chịu khổ; 我排不了這個罪 Tôi không chịu (cái tội, cái nợ) như thế được;",
+                "Lỗi: 歸罪于人 Đổ lỗi cho người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm trái với pháp luật — Tiếng nhà Phật, chỉ việc làm ác, bị quả báo xấu.  Đoạn trường tân thanh : » Thân sau ai chịu tội trời ấy cho « — Ta còn hiểu là lỗi nặng. Truyện  Nhị độ mai : » Công nào chưa thấy, tội đà đến ngay «."
+            ],
+            "compound_words": {
+                "辦罪": "biện tội",
+                "邊罪": "biên tội",
+                "告罪": "cáo tội",
+                "詰罪": "cật tội",
+                "功罪": "công tội",
+                "戴罪立功": "đái tội lập công",
+                "得罪": "đắc tội",
+                "弔民伐罪": "điếu dân phạt tội",
+                "定罪": "định tội",
+                "減罪": "giảm tội",
+                "悔罪": "hối tội",
+                "有罪": "hữu tội",
+                "輕罪": "khinh tội",
+                "免罪": "miễn tội",
+                "原罪": "nguyên tội",
+                "認罪": "nhận tội",
+                "冤罪": "oan tội",
+                "犯罪": "phạm tội",
+                "伐罪": "phạt tội",
+                "罰罪": "phạt tội",
+                "归罪": "quy tội",
+                "歸罪": "quy tội",
+                "懺罪": "sám tội",
+                "謝罪": "tạ tội",
+                "首罪": "thú tội",
+                "坐罪": "toạ tội",
+                "罪惡": "tội ác",
+                "罪名": "tội danh",
+                "罪業": "tội nghiệp",
+                "罪人": "tội nhân",
+                "罪情": "tội tình",
+                "罪狀": "tội trạng",
+                "斬罪": "trảm tội",
+                "治罪": "trị tội",
+                "重罪": "trọng tội",
+                "囚罪": "tù tội",
+                "死罪": "tử tội",
+                "萬罪": "vạn tội",
+                "問罪": "vấn tội",
+                "無罪": "vô tội",
+                "赦罪": "xá tội"
+            }
+        }
+    }
+}

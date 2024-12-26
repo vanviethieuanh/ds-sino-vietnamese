@@ -1,0 +1,100 @@
+{
+    "character": "咬",
+    "details": {
+        "Âm Hán Việt": [
+            "giao",
+            "giảo",
+            "yêu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口交"
+        ],
+        "Nét bút": [
+            "丨フ一丶一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RYCK (口卜金大)"
+        ],
+        "Unicode": [
+            "U+54AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiāo ㄐㄧㄠ",
+            "yǎo ㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "giảo",
+            "rao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.む (ka.mu)"
+        ],
+        "Âm Hàn": [
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "ngaau5"
+        ]
+    },
+    "meanings": {
+        "giao": {
+            "Từ điển Trần Văn Chánh": [
+                "【咬咬】giao giao [jiaojiao] (văn) Tiếng chim kêu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Giao 膠."
+            ]
+        },
+        "giảo": {
+            "Từ điển phổ thông": [
+                "cắn vào xương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cắn, ngoạm. ◎Như: 'giảo nha' 咬牙 nghiến răng. ◇Tây du kí 西遊記: 'Hầu vương văn thử, bất giác tâm đầu hỏa khởi, giảo nha đại nộ đạo...' 猴王聞此, 不覺心頭火起, 咬牙大怒道... (Đệ tứ hồi) Hầu vương nghe vậy, bất giác lòng dạ bốc lửa, nghiến răng nói...",
+                "§ Ghi chú: Nguyên là chữ 'giảo' 齩."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cắn vào xương. Nguyên là chữ giảo 齩."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 齩(bộ 齒)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn — Cắn, nhai."
+            ],
+            "compound_words": {
+                "咬咬": "giảo giảo"
+            }
+        },
+        "yêu": {
+            "Từ điển Trần Văn Chánh": [
+                "【咬哇】yêu oa [yaowa] Bài hát thô tục."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng kêu buồn khổ thống thiết — Các âm khác là Giao, Giảo. Xem các âm này."
+            ],
+            "compound_words": {
+                "咬咬": "yêu yêu"
+            }
+        }
+    }
+}

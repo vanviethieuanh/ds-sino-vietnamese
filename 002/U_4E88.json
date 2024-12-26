@@ -1,0 +1,100 @@
+{
+    "character": "予",
+    "details": {
+        "Âm Hán Việt": [
+            "dư",
+            "dữ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "quyết 亅 (+3 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "フ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "NINN (弓戈弓弓)"
+        ],
+        "Unicode": [
+            "U+4E88"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ",
+            "yǔ ㄩˇ"
+        ],
+        "Âm Nôm": [
+            "dư",
+            "nhừ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨ (yo)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あらかじ.め (arakaji.me)"
+        ],
+        "Âm Hàn": [
+            "여"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4",
+            "jyu5"
+        ]
+    },
+    "meanings": {
+        "dư": {
+            "Từ điển phổ thông": [
+                "ta, tôi (tiếng xưng hô)",
+                "cho"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cho, trao cho. § Thông 'dữ' 與. ◎Như: 'cấp dữ' 給予 cấp cho, 'tặng dữ' 贈予 tặng cho. ◇Sử Kí 史記: 'Chí sử nhân hữu công đương phong tước giả, ấn ngoan tệ, nhẫn bất năng dữ, thử sở vị phụ nhân chi nhân dã' 至使人有功當封爵者, 印刓敝, 忍不能予, 此所謂婦人之仁也 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Khi phong tước cho người có công, (thì) mân mê chiếc ấn muốn mòn đi, dùng dằng như không muốn trao cho, đó là cái lòng nhân đức (kiểu) đàn bà.",
+                "(Động) Khen ngợi. ◇Tuân Tử 荀子: 'Ngôn vị giả dữ Dịch Nha, ngôn âm giả dữ Sư Khoáng' 言味者予易牙, 言音者予師曠 (Đại lược 大略, thiên đệ nhị thập thất) Nói về vị thì khen Dịch Nha, nói về nhạc thì khen Sư Khoáng.",
+                "Một âm là 'dư'. (Đại) Ta, tôi. § Tiếng xưng của mình đối với người. Cũng như 'dư' 余. ◇Nguyễn Trãi 阮廌: 'Bần bệnh dư lân nhữ, Sơ cuồng nhữ tự dư' 貧病予憐汝, 疏狂汝似予 (Tặng hữu nhân 贈友人) Ta thương anh nghèo và bệnh, Ngông cuồng anh giống ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ta, tôi. Tiếng xưng của mình đối với người.",
+                "Một âm là dữ 予. Cho."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ta, tôi. 【予取予求】dư thủ dư cầu [yúqư-yúqiú] (văn) Ta cần ta cứ lấy. (Ngb) Đòi lấy tùy tiện. Xem 予 [yư]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ta. Tôi. Tiếng tự xưng — Một âm là Dữ."
+            ],
+            "compound_words": {
+                "寄予": "ký dư",
+                "授予": "thụ dư"
+            }
+        },
+        "dữ": {
+            "Từ điển trích dẫn": [
+                "(Động) Cho, trao cho. § Thông 'dữ' 與. ◎Như: 'cấp dữ' 給予 cấp cho, 'tặng dữ' 贈予 tặng cho. ◇Sử Kí 史記: 'Chí sử nhân hữu công đương phong tước giả, ấn ngoan tệ, nhẫn bất năng dữ, thử sở vị phụ nhân chi nhân dã' 至使人有功當封爵者, 印刓敝, 忍不能予, 此所謂婦人之仁也 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Khi phong tước cho người có công, (thì) mân mê chiếc ấn muốn mòn đi, dùng dằng như không muốn trao cho, đó là cái lòng nhân đức (kiểu) đàn bà.",
+                "(Động) Khen ngợi. ◇Tuân Tử 荀子: 'Ngôn vị giả dữ Dịch Nha, ngôn âm giả dữ Sư Khoáng' 言味者予易牙, 言音者予師曠 (Đại lược 大略, thiên đệ nhị thập thất) Nói về vị thì khen Dịch Nha, nói về nhạc thì khen Sư Khoáng.",
+                "Một âm là 'dư'. (Đại) Ta, tôi. § Tiếng xưng của mình đối với người. Cũng như 'dư' 余. ◇Nguyễn Trãi 阮廌: 'Bần bệnh dư lân nhữ, Sơ cuồng nhữ tự dư' 貧病予憐汝, 疏狂汝似予 (Tặng hữu nhân 贈友人) Ta thương anh nghèo và bệnh, Ngông cuồng anh giống ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ta, tôi. Tiếng xưng của mình đối với người.",
+                "Một âm là dữ 予. Cho."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cho, trao cho (dùng như 與, bộ 臼): 授予獎狀 Trao bằng khen; 免予處分 Miễn thi hành kỉ luật; 一人予二十金 Mỗi người cấp cho hai chục lạng bạc (Phương Bao). 【予以】dữ dĩ [yưyê] Cho: 予以便利 Dành cho phần tiện lợi;",
+                "(văn) Khen ngợi, tán thành (dùng như 與): 言味者予易牙，言音者予師曠 Nói về vị thì khen Dịch Nha, nói về âm nhạc thì khen Sư Khoáng (Tuân tử: Đại lược). Xem 予 [yú]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cho. Đem cho. Như chữ Dư 与 — Bằng lòng — Cho phép — Một âm là Dư."
+            ]
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "character": "涹",
+    "details": {
+        "Âm Hán Việt": [
+            "oa",
+            "uỷ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡委"
+        ],
+        "Nét bút": [
+            "丶丶一ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "EHDV (水竹木女)"
+        ],
+        "Unicode": [
+            "U+6DB9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wō ㄨㄛ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワ (wa)",
+            "ダイ (dai)",
+            "ネ (ne)",
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にご.る (nigo.ru)",
+            "ひた.す (hita.su)"
+        ],
+        "Âm Quảng Đông": [
+            "wo1"
+        ]
+    },
+    "meanings": {
+        "oa": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước đục. Đục bẩn."
+            ]
+        },
+        "uỷ": {
+            "Từ điển phổ thông": [
+                "dơ bẩn",
+                "ngâm, tẩm"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dơ bẩn. Xem 渨 nghĩa",
+                ";",
+                "Ngâm, tẩm."
+            ],
+            "compound_words": {
+                "渨涹": "ôi uỷ"
+            }
+        }
+    }
+}

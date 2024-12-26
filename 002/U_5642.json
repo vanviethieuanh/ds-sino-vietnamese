@@ -1,0 +1,77 @@
+{
+    "character": "噂",
+    "details": {
+        "Âm Hán Việt": [
+            "tổn",
+            "tỗn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口尊"
+        ],
+        "Nét bút": [
+            "丨フ一丶ノ一丨フノフ一一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "RTWI (口廿田戈)"
+        ],
+        "Unicode": [
+            "U+5642"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zǔn ㄗㄨㄣˇ"
+        ],
+        "Âm Nôm": [
+            "ton",
+            "tun"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソン (son)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うわさ (uwasa)"
+        ],
+        "Âm Hàn": [
+            "준"
+        ],
+        "Âm Quảng Đông": [
+            "zyun2"
+        ]
+    },
+    "meanings": {
+        "tổn": {
+            "Từ điển trích dẫn": [
+                "(Động) Tụ tập trò chuyện.",
+                "(Phó) 'Tổn đạp' 噂沓 nói nhiều, lắm lời, bàn luận lung tung."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói nhiều. Lắm lời — Nói lắp, cà lăm."
+            ]
+        },
+        "tỗn": {
+            "Từ điển phổ thông": [
+                "(xem: tỗn đạp 噂沓)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【噂沓】tỗn đạp [zưntà] (văn) Bàn luận lung tung. Cv. 噂"
+            ],
+            "compound_words": {
+                "噂沓": "tỗn đạp"
+            }
+        }
+    }
+}

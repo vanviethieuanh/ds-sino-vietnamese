@@ -1,0 +1,87 @@
+{
+    "character": "雀",
+    "details": {
+        "Âm Hán Việt": [
+            "tước"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "chuy 隹 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱小隹"
+        ],
+        "Nét bút": [
+            "丨ノ丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "FOG (火人土)"
+        ],
+        "Unicode": [
+            "U+96C0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiāo ㄑㄧㄠ",
+            "qiǎo ㄑㄧㄠˇ",
+            "què ㄑㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "tước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジャク (jaku)",
+            "ジャン (jan)",
+            "サク (saku)",
+            "シャク (shaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すずめ (suzume)"
+        ],
+        "Âm Hàn": [
+            "작"
+        ],
+        "Âm Quảng Đông": [
+            "zoek3"
+        ]
+    },
+    "meanings": {
+        "tước": {
+            "Từ điển phổ thông": [
+                "con chim sẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Chim sẻ. § Còn gọi là “ma tước” 麻雀."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con chim sẻ.",
+                "Tính chim sẻ nó hay nhảy nhót, cho nên người mừng rỡ nhảy nhót gọi là tước dược 雀躍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim: 麻雀 Chim sẻ, chim ri; 孔雀 Chim công;",
+                "(văn) Có tàn nhang. Xem 雀 [qiao], [qiăo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chim sẻ."
+            ],
+            "compound_words": {
+                "孔雀": "khổng tước",
+                "楚雀": "sở tước",
+                "雀屏": "tước bình",
+                "掩目捕雀": "yểm mục bổ tước",
+                "燕雀": "yến tước",
+                "鷃雀": "yến tước"
+            }
+        }
+    }
+}

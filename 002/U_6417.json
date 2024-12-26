@@ -1,0 +1,84 @@
+{
+    "character": "搗",
+    "details": {
+        "Âm Hán Việt": [
+            "đảo"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘島"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨フ一一一フ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "QHAU (手竹日山)"
+        ],
+        "Unicode": [
+            "U+6417"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dǎo ㄉㄠˇ"
+        ],
+        "Âm Nôm": [
+            "đảo",
+            "đẽo",
+            "đểu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.く (tsu.ku)",
+            "か.つ (ka.tsu)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou2"
+        ]
+    },
+    "meanings": {
+        "đảo": {
+            "Từ điển phổ thông": [
+                "giã, đập"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gõ, nện, đập, giã. § Tục dùng như chữ 'đảo' 擣. ◇Nguyễn Trãi 阮廌: 'Cách thủy cô chung đảo nguyệt thôn' 隔水孤鐘搗月村 (Chu trung ngẫu thành 舟中偶成) Bên kia sông tiếng chuông lẻ loi nện trong xóm dưới trăng.",
+                "(Động) Hích, thụi, đánh, xung kích.",
+                "(Động) Gây rối, quấy phá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ đảo 擣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giã, đâm, giằm, tán: 搗蒜 Giằm tỏi; 搗米 Giã gạo; 搗藥 Tán thuốc;",
+                "Xông vào, thọc vào: 直搗 Xông thẳng vào;",
+                "Nện, đập, đánh mạnh, dần: 搗衣 Đập quần áo (khi giặt);",
+                "Phá quấy.【搗亂】đảo loạn [dăo luàn] Phá quấy, phá đám, quấy rối, gây rối, làm loạn: 搗亂分子 Kẻ phá đám, phần tử quấy rối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Đảo 擣."
+            ],
+            "compound_words": {
+                "搗亂": "đảo loạn",
+                "搗碎": "đảo toái"
+            }
+        }
+    }
+}

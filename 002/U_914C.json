@@ -1,0 +1,89 @@
+{
+    "character": "酌",
+    "details": {
+        "Âm Hán Việt": [
+            "chước"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "dậu 酉 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰酉勺"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "MWPI (一田心戈)"
+        ],
+        "Unicode": [
+            "U+914C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "chuốc",
+            "chước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャク (shaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "く.む (ku.mu)"
+        ],
+        "Âm Hàn": [
+            "작"
+        ],
+        "Âm Quảng Đông": [
+            "zoek3"
+        ]
+    },
+    "meanings": {
+        "chước": {
+            "Từ điển phổ thông": [
+                "rót rượu, uống rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rót rượu, uống rượu. ◎Như: 'tiểu chước' 小酌 uống xoàng, 'độc chước' 獨酌 uống một mình. ◇Tam quốc diễn nghĩa 三國演義: 'Kim nhật lão phu tiện giáng, vãn gian cảm khuất chúng vị đáo xá tiểu chước' 今日老夫賤降, 晚間敢屈眾位到舍小酌 (Đệ tứ hồi) Hôm nay là sinh nhật lão phu, đến chiều xin mời chư vị quá bước đến nhà lão phu xơi chén rượu nhạt.",
+                "(Động) Liệu làm, đắn đo, thương lượng. ◎Như: 'thương chước' 商酌 bàn liệu.",
+                "(Danh) Tiệc rượu, yến hội. ◎Như: 'hỉ chước' 喜酌 tiệc cưới.",
+                "(Danh) Rượu. ◇Vương Bột 王勃: 'Lan khí huân san chước' 蘭氣薰山酌 (Thánh tuyền yến 聖泉宴) Hương lan hun rượu núi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rót rượu, nay thông dụng là uống rượu. Như tiểu chước 小酌 uống xoàng, độc chước 獨酌 uống một mình.",
+                "Liệu làm, đắn đo lấy cái hay mà làm gọi là chước, cũng như rót rượu phải liệu cho đầy vơi vừa vặn. Như thương chước 商酌 bàn liệu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chuốc, rót (rượu): 酌一杯酒 Chuốc một cốc rượu. (Ngr) Tiệc rượu: 便酌 Tiệc rượu thường;",
+                "(văn) Uống rượu: 小酌 Uống xoàng; 月夜獨酌 Đêm trăng uống rượu một mình;",
+                "Cân nhắc, châm chước, liệu lường, suy xét, xét: 商酌 Bàn liệu; 酌予答復 Xét và trả lời."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rót rượu ra. Mời rượu — Chỉ rượu — Chẳng hạn gọi là rượu Thanh chước — Uống rượu — Chọn lấy cái tốt — Sắp đặt tính toán, xê xích sao cho êm đẹp. Chẳng hạn Châm chước."
+            ],
+            "compound_words": {
+                "斟酌": "châm chước",
+                "酌定": "chước định",
+                "酌奪": "chước đoạt",
+                "酌量": "chước lượng",
+                "酌酒": "chước tửu",
+                "獨酌": "độc chước",
+                "小酌": "tiểu chước",
+                "晚酌": "vãn chước"
+            }
+        }
+    }
+}

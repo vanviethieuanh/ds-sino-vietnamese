@@ -1,0 +1,78 @@
+{
+    "character": "疫",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nạch 疒 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒殳"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "KHNE (大竹弓水)"
+        ],
+        "Unicode": [
+            "U+75AB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dịch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エキ (eki)",
+            "ヤク (yaku)"
+        ],
+        "Âm Hàn": [
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "bệnh ôn dịch, bệnh lây được"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bệnh truyền nhiễm. ◎Như: “thử dịch” 鼠疫 dịch hạch."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bệnh ôn dịch, bệnh nào có thể lây ra mọi người được gọi là dịch."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Bệnh) dịch: 防疫 Phòng dịch; 鼠疫 Dịch hạch; 時疫 Dịch tễ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh truyền nhiễm. Cũng gọi là Dịch lệ 疫癘."
+            ],
+            "compound_words": {
+                "免疫": "miễn dịch",
+                "染疫": "nhiễm dịch",
+                "瘟疫": "ôn dịch",
+                "防疫": "phòng dịch",
+                "疾疫": "tật dịch",
+                "鼠疫": "thử dịch"
+            }
+        }
+    }
+}

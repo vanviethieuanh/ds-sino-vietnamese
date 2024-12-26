@@ -1,0 +1,120 @@
+{
+    "character": "闇",
+    "details": {
+        "Âm Hán Việt": [
+            "am",
+            "yểm",
+            "ám"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "môn 門 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門音"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丶一丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "ANYTA (日弓卜廿日)"
+        ],
+        "Unicode": [
+            "U+95C7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ",
+            "àn ㄚㄋˋ",
+            "yǎn ㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "ám"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アン (an)",
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やみ (yami)",
+            "くら.い (kura.i)"
+        ],
+        "Âm Hàn": [
+            "암"
+        ],
+        "Âm Quảng Đông": [
+            "am2",
+            "am3"
+        ]
+    },
+    "meanings": {
+        "am": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Am hiểu, quen thuộc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chòi nhỏ dựng bên mộ hoặc ngoài đồng để ở trong thời gian có tang cha mẹ — Một âm khác là Ám."
+            ]
+        },
+        "yểm": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bỗng, bỗng nhiên, chợt (dùng như ©a, bộ 大): 闇復輟已 Lại chợt ngừng lại (Phó Nghị: Vũ phú)."
+            ]
+        },
+        "ám": {
+            "Từ điển phổ thông": [
+                "tối, mờ, không rõ, không tỏ",
+                "thẫm, sẫm màu",
+                "ngầm, âm thầm, bí mật, mờ ám",
+                "nhật thực, nguyệt thực",
+                "đóng cửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đóng cửa.",
+                "(Động) Che lấp.",
+                "(Động) Mai một, chìm mất. ◇Hậu Hán Thư 後漢書: 'Đào ngột chi sự toại ám, nhi Tả Thị, Quốc Ngữ độc chương' 檮杌之事遂闇, 而左氏, 國語獨章 (Ban Bưu truyện thượng 班彪傳上) Việc của những bọn hư ác sau cùng mới tiêu tán, mà sách của Tả Thị, Quốc Ngữ riêng được biểu dương.",
+                "(Động) Không hiểu rõ. ◇Kê Khang 嵇康: 'Hựu bất thức nhân tình, ám ư cơ nghi' 又不識人情, 闇於機宜 (Dữ San Cự Nguyên tuyệt giao thư 與山巨源絕交書) Lại không biết nhân tình, không hiểu gì ở sự lí thời nghi.",
+                "(Tính) Mờ tối, hỗn trọc. ◇Trang Tử 莊子: 'Kim thiên hạ ám, Chu đức suy, kì tịnh hồ Chu dĩ đồ ngô thân dã, bất như tị chi, dĩ khiết ngô hạnh' 今天下闇, 周德衰, 其並乎周以塗吾身也, 不如避之, 以潔吾行 (Nhượng vương 讓王) Nay thiên hạ tối tăm, đức nhà Chu đã suy, ở lại với nhà Chu để làm nhơ bẩn thân ta, không bằng lánh đi cho sạch nết ta.",
+                "(Tính) U mê, hồ đồ. ◎Như: 'hôn ám' 昏闇 u mê. ◇Phan Nhạc 潘岳: 'Chủ ám nhi thần tật, họa ư hà nhi bất hữu' 主闇而臣嫉, 禍於何而不有 (Tây chinh phú 西征賦) Chúa mê muội mà bầy tôi đố kị nhau, họa làm sao mà không có được.",
+                "(Danh) Hoàng hôn, buổi tối, đêm. ◇Lễ Kí 禮記: 'Hạ Hậu thị tế kì ám' 夏后氏祭其闇 (Tế nghĩa 祭義) Họ Hạ Hậu tế lễ vào buổi tối.",
+                "(Danh) Người ngu muội. ◇Tuân Tử 荀子: 'Thế chi ương, ngu ám đọa hiền lương' 世之殃, 愚闇墮賢良 (Thành tướng 成相) Tai họa ở đời là kẻ ngu muội làm hại người hiền lương.",
+                "(Danh) Nhật thực hay nguyệt thực.",
+                "Một âm là 'am'. (Danh) Nhà ở trong khi cư tang.",
+                "(Động) Quen thuộc, biết rành. § Thông 'am' 諳."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mờ tối. Như hôn ám 昏闇 tối tăm u mê.",
+                "Lờ mờ. Như Trung Dong 中庸 nói: Quân tử chi đạo, ám nhiên nhi nhật chương 君子之道，闇然而日章 đạo người quân tử lờ mờ mà ngày rõ rệt.",
+                "Đóng cửa.",
+                "Buổi tối.",
+                "Nhật thực, nguyệt thực. Mặt trời, mặt trăng phải ăn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đóng cửa;",
+                "Tối tăm;",
+                "Ngu muội, hồ đồ;",
+                "Mờ ám, không công khai, không lộ ra;",
+                "Thầm, ngầm (không thành tiếng): 卿能闇誦乎？ Khanh đọc thầm được không? (Tam quốc chí);",
+                "Nhật thực (hoặc nguyệt thực): 五曰闇 Thứ năm gọi là nhật thực nguyệt thực (Lễ kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đóng cửa — Buổi chiều tối — Nhật hoặc nguyệt thực — Tối tăm — Như chữ Ám — Một âm khác là Am."
+            ],
+            "compound_words": {
+                "闇藹": "ám ái",
+                "闇昧": "ám muội",
+                "闇弱": "ám nhược"
+            }
+        }
+    }
+}

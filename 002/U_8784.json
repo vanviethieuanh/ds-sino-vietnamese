@@ -1,0 +1,90 @@
+{
+    "character": "螄",
+    "details": {
+        "Âm Hán Việt": [
+            "si",
+            "sư",
+            "tư"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trùng 虫 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫師"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ丨フ一フ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "LIHRB (中戈竹口月)"
+        ],
+        "Unicode": [
+            "U+8784"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sī ㄙ"
+        ],
+        "Âm Nôm": [
+            "sư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にな (nina)"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển phổ thông": [
+                "(xem: loa si 螺螄,螺蛳)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Loa sư” 螺螄 cùng loài với “điền loa” 田螺 ốc sống ở nước ngọt. § Cũng gọi là “điền thanh” 田青 hay “si loa” 螄螺. Chữ 螄 cũng đọc là “sư” hay “tư”."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Loa sư 螺螄. Xem chữ loa 螺. Cũng đọc là si hay tư."
+            ],
+            "compound_words": {
+                "螺螄": "loa si"
+            }
+        },
+        "sư": {
+            "Từ điển phổ thông": [
+                "(xem: loa si 螺螄,螺蛳)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Loa sư” 螺螄 cùng loài với “điền loa” 田螺 ốc sống ở nước ngọt. § Cũng gọi là “điền thanh” 田青 hay “si loa” 螄螺. Chữ 螄 cũng đọc là “sư” hay “tư”."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Loa sư 螺螄. Xem chữ loa 螺. Cũng đọc là si hay tư."
+            ]
+        },
+        "tư": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Loa sư” 螺螄 cùng loài với “điền loa” 田螺 ốc sống ở nước ngọt. § Cũng gọi là “điền thanh” 田青 hay “si loa” 螄螺. Chữ 螄 cũng đọc là “sư” hay “tư”."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Loa sư 螺螄. Xem chữ loa 螺. Cũng đọc là si hay tư."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một loài ốc. Xem螺螄."
+            ]
+        }
+    }
+}

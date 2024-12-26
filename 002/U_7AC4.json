@@ -1,0 +1,114 @@
+{
+    "character": "竄",
+    "details": {
+        "Âm Hán Việt": [
+            "soán",
+            "thoán"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý & hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴鼠"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶ノ丨一フ一一フ丶丶フ丶丶フ"
+        ],
+        "Thương Hiệt": [
+            "JCHXV (十金竹重女)"
+        ],
+        "Unicode": [
+            "U+7AC4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cuān ㄘㄨㄢ",
+            "cuàn ㄘㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "thoán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザン (zan)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かく.れる (kaku.reru)",
+            "のが.れる (noga.reru)"
+        ],
+        "Âm Hàn": [
+            "찬"
+        ],
+        "Âm Quảng Đông": [
+            "cyun2",
+            "cyun3"
+        ]
+    },
+    "meanings": {
+        "soán": {
+            "Từ điển Trần Văn Chánh": [
+                "Chạy, chạy trốn, chạy dài: 東逃西 竄 Chạy tán loạn; 抱頭鼠竄 Ôm đầu mà chạy;",
+                "(văn) Đuổi đi, đuổi ra;",
+                "Sửa (bài), chữa (văn): 點竄 Sửa chữa (văn, thơ...);",
+                "(văn) Sực mùi, nức mùi: 香竄 Thơm nức;",
+                "(văn) Giấu giếm;",
+                "(văn) Giết;",
+                "(văn) Hun, xông (bằng thuốc)."
+            ]
+        },
+        "thoán": {
+            "Từ điển phổ thông": [
+                "chạy trốn",
+                "đuổi đi, đuổi ra",
+                "sửa (bài), chữa (văn)",
+                "sực mùi, nức mùi",
+                "giấu giếm",
+                "giết",
+                "hun, xông (bằng thuốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chạy trốn. ◎Như: 'thoán đào' 竄逃 trốn chạy, 'bão đầu thoán thoán' 抱頭竄竄 ôm đầu chạy trốn.",
+                "(Động) Sửa đổi văn tự. ◎Như: 'thoán cải' 竄改 sửa chữa, 'điểm thoán' 點竄 sửa chữa (văn, thơ, ...).",
+                "(Động) Sực mùi. ◎Như: 'hương thoán' 香竄 thơm sực, thơm nức.",
+                "(Động) Giấu, ẩn.",
+                "(Động) Đuổi đi, trục xuất. ◇Thư Kinh 書經: 'Thoán Tam Miêu vu Tam Nguy' 竄三苗于三危 (Thuấn điển 舜典) Đuổi rợ Tam Miêu ra vùng Tam Nguy.",
+                "(Động) Hun, xông thuốc chữa bệnh. ◇Sử Kí 史記: 'Tức thoán dĩ dược, toàn hạ, bệnh dĩ' 即竄以藥, 旋下, 病已 (Biển Thước Thương Công truyện 扁鵲倉公傳) Tức thì xông bằng thuốc, chốc lát, bệnh khỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chạy trốn, như bão đầu thoán thoán 抱頭竄竄 ôm đầu thui thủi chạy trốn.",
+                "Sửa đổi văn tự, như điểm thoán 點竄 xoá bỏ nguyên văn mà chữa vào.",
+                "Sực mùi, như hương thoán 香竄 thơm sực, thơm nức.",
+                "Giấu giếm.",
+                "Giết, đuổi xa.",
+                "Hun, xông, lấy thuốc xông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chạy, chạy trốn, chạy dài: 東逃西 竄 Chạy tán loạn; 抱頭鼠竄 Ôm đầu mà chạy;",
+                "(văn) Đuổi đi, đuổi ra;",
+                "Sửa (bài), chữa (văn): 點竄 Sửa chữa (văn, thơ...);",
+                "(văn) Sực mùi, nức mùi: 香竄 Thơm nức;",
+                "(văn) Giấu giếm;",
+                "(văn) Giết;",
+                "(văn) Hun, xông (bằng thuốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ẩn núp. Nấp giấu. Chạy trốn — Xông thuốc cho người bệnh — Xông lên. Bốc lên — Sửa đổi lại."
+            ],
+            "compound_words": {
+                "奔竄": "bôn thoán",
+                "鼠竄": "thử thoán"
+            }
+        }
+    }
+}

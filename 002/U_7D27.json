@@ -1,0 +1,62 @@
+{
+    "character": "紧",
+    "details": {
+        "Âm Hán Việt": [
+            "khẩn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨丨フ丶フフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LEVIF (中水女戈火)"
+        ],
+        "Unicode": [
+            "U+7D27"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐn ㄐㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "khẩn",
+            "lẳm"
+        ],
+        "Âm Quảng Đông": [
+            "gan2"
+        ]
+    },
+    "meanings": {
+        "khẩn": {
+            "Từ điển phổ thông": [
+                "căng (dây)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 緊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 緊"
+            ],
+            "compound_words": {
+                "压紧": "áp khẩn",
+                "紧张": "khẩn trương",
+                "拉紧": "lạp khẩn",
+                "束紧": "thúc khẩn",
+                "抓紧": "trảo khẩn"
+            }
+        }
+    }
+}

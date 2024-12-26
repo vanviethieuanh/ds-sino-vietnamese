@@ -1,0 +1,81 @@
+{
+    "character": "货",
+    "details": {
+        "Âm Hán Việt": [
+            "hoá",
+            "thải",
+            "thắc"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱化贝"
+        ],
+        "Nét bút": [
+            "ノ丨ノフ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OPBO (人心月人)"
+        ],
+        "Unicode": [
+            "U+8D27"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ",
+            "huò ㄏㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "hoá"
+        ],
+        "Âm Quảng Đông": [
+            "fo3"
+        ]
+    },
+    "meanings": {
+        "hoá": {
+            "Từ điển phổ thông": [
+                "tiền tệ",
+                "hàng hoá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 貨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 貨"
+            ],
+            "compound_words": {
+                "百货": "bách hoá",
+                "期货": "kỳ hoá",
+                "售货": "thụ hoá",
+                "存货": "tồn hoá"
+            }
+        },
+        "thải": {
+            "Từ điển Trần Văn Chánh": [
+                "Vay: 這家公司沒有向銀行貸過款 Công ti này chưa hề vay tiền của ngân hàng;",
+                "Cho vay: 銀行貸給大量款項 Ngân hàng cho vay rất nhiều tiền;",
+                "Bên có (trong sổ kế toán);",
+                "Đùn, đổ, thoái thác: 責無旁貸 Trách nhiệm không thể đùn cho người khác được;",
+                "Tha thứ, dung tha, khoan hồng: 嚴懲不貸 Nghiêm trị không khoan hồng (tha thứ)."
+            ]
+        },
+        "thắc": {
+            "Từ điển Trần Văn Chánh": [
+                "Sai lầm (dùng như 忒, bộ 心): 毋有差貸 Không có sai lầm (Lễ kí: Nguyệt lệnh)."
+            ]
+        }
+    }
+}

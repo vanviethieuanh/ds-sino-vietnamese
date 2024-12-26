@@ -1,0 +1,80 @@
+{
+    "character": "鴟",
+    "details": {
+        "Âm Hán Việt": [
+            "si"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰氐鳥"
+        ],
+        "Nét bút": [
+            "ノフ一フ丶ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "HMHAF (竹一竹日火)"
+        ],
+        "Unicode": [
+            "U+9D1F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chī ㄔ",
+            "zhī ㄓ"
+        ],
+        "Âm Nôm": [
+            "si"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とび (tobi)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "ci1"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển phổ thông": [
+                "(như: giốc si 角鴟,角鸱)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cú tai mèo. § Thường gọi là “giốc si” 角鴟. Tục gọi là “miêu đầu ưng” 貓頭鷹."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con cú tai mèo. Thường gọi là giốc si 角鴟. Tục gọi là miêu đầu ưng 貓頭鷹."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cú tai mèo;",
+                "Diều hâu;",
+                "Chén uống rượu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chim cú."
+            ],
+            "compound_words": {
+                "角鴟": "giốc si",
+                "鴟肩": "si kiên",
+                "鴟目": "si mục"
+            }
+        }
+    }
+}

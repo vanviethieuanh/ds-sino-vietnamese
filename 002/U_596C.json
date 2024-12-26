@@ -1,0 +1,72 @@
+{
+    "character": "奬",
+    "details": {
+        "Âm Hán Việt": [
+            "tưởng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "đại 大 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱將大"
+        ],
+        "Nét bút": [
+            "フ丨一ノノフ丶丶一丨丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VIK (女戈大)"
+        ],
+        "Unicode": [
+            "U+596C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiǎng ㄐㄧㄤˇ"
+        ],
+        "Âm Nôm": [
+            "tưởng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すす.める (susu.meru)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng2"
+        ]
+    },
+    "meanings": {
+        "tưởng": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là 奖."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khen thưởng khuyến khích — Giúp đỡ."
+            ],
+            "compound_words": {
+                "褒奬": "bao tưởng",
+                "過奬": "quá tưởng",
+                "推奬": "suy tưởng",
+                "奬勵": "tưởng lệ",
+                "奬錄": "tưởng lục",
+                "奬賞": "tưởng thưởng"
+            }
+        }
+    }
+}

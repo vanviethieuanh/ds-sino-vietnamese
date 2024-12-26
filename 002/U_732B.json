@@ -1,0 +1,79 @@
+{
+    "character": "猫",
+    "details": {
+        "Âm Hán Việt": [
+            "miêu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨苗"
+        ],
+        "Nét bút": [
+            "ノフノ一丨丨丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "KHTW (大竹廿田)"
+        ],
+        "Unicode": [
+            "U+732B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "māo ㄇㄠ",
+            "máo ㄇㄠˊ",
+            "miáo ㄇㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "meo",
+            "miêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねこ (neko)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "maau1"
+        ]
+    },
+    "meanings": {
+        "miêu": {
+            "Từ điển phổ thông": [
+                "con mèo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tục dùng như chữ 'miêu' 貓.",
+                "§ Giản thể của chữ 貓."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ miêu 貓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mèo. Xem 貓 [máo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ miêu 貓."
+            ],
+            "compound_words": {
+                "畜猫防鼠": "súc miêu phòng thử"
+            }
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "character": "闹",
+    "details": {
+        "Âm Hán Việt": [
+            "nháo",
+            "náo"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "môn 門 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵门市"
+        ],
+        "Nét bút": [
+            "丶丨フ丶一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "LSYLB (中尸卜中月)"
+        ],
+        "Unicode": [
+            "U+95F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nào ㄋㄠˋ"
+        ],
+        "Âm Nôm": [
+            "nào"
+        ],
+        "Âm Quảng Đông": [
+            "naau6"
+        ]
+    },
+    "meanings": {
+        "nháo": {
+            "Từ điển phổ thông": [
+                "ầm ĩ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鬧."
+            ]
+        },
+        "náo": {
+            "Từ điển phổ thông": [
+                "ầm ĩ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鬧."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 閙"
+            ],
+            "compound_words": {
+                "喧闹": "huyên náo",
+                "吵闹": "sảo náo"
+            }
+        }
+    }
+}

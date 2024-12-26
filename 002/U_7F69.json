@@ -1,0 +1,95 @@
+{
+    "character": "罩",
+    "details": {
+        "Âm Hán Việt": [
+            "tráo",
+            "trạo"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "võng 网 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺲卓"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一丨一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "WLYAJ (田中卜日十)"
+        ],
+        "Unicode": [
+            "U+7F69"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhào ㄓㄠˋ"
+        ],
+        "Âm Nôm": [
+            "chau",
+            "tráo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こめ.る (kome.ru)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zaau3"
+        ]
+    },
+    "meanings": {
+        "tráo": {
+            "Từ điển phổ thông": [
+                "che, đậy",
+                "lồng chim, lồng gà, nơm cá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái lờ, cái nơm bắt cá.",
+                "(Danh) Vật đậy, đồ trùm bên ngoài. ◎Như: 'đăng tráo' 燈罩 cái chụp đèn, 'bào tráo nhi' 袍罩兒 áo choàng, 'kê tráo' 雞罩 cái bu gà.",
+                "(Động) Đậy, trùm, che phủ. ◎Như: 'dạ mộ tráo trụ đại địa' 夜暮罩住大地 đêm tối bao trùm mặt đất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái lờ bắt cá.",
+                "Ðậy, lấy cái lồng bàn hay cái gì đậy đồ cho kín gọi là tráo. Áo có làn bọc ngoài gọi là tráo bào 罩袍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đậy: 用紗罩把食品罩起來 Lấy lồng bàn đậy thức ăn lại;",
+                "Che, phủ: 天空罩滿了烏雲 Mây đen phủ kín trời;",
+                "Mặc thêm, khoác thêm: 罩上一件大褂兒 Khoác (mặc, lồng) thêm một chiếc áo dài;",
+                "Cái bu, cái lồng: 雞罩 (Cái) bu gà;",
+                "Cái lờ đánh cá, cái nơm úp cá."
+            ],
+            "compound_words": {
+                "籠罩": "lung tráo"
+            }
+        },
+        "trạo": {
+            "Từ điển phổ thông": [
+                "che, đậy",
+                "lồng chim, lồng gà, nơm cá"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đơm, cái đó để bắt cá — Cái lồng úp bên ngoài. Td: Đăng trạo ( lồng đèn )."
+            ],
+            "compound_words": {
+                "奶罩": "nãi trạo",
+                "嬭罩": "nãi trạo"
+            }
+        }
+    }
+}

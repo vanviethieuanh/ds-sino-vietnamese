@@ -1,0 +1,111 @@
+{
+    "character": "忘",
+    "details": {
+        "Âm Hán Việt": [
+            "vong",
+            "vô",
+            "vương"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "tâm 心 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱亡心"
+        ],
+        "Nét bút": [
+            "丶一フ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "YVP (卜女心)"
+        ],
+        "Unicode": [
+            "U+5FD8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wáng ㄨㄤˊ",
+            "wàng ㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "vong"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わす.れる (wasu.reru)"
+        ],
+        "Âm Hàn": [
+            "망"
+        ],
+        "Âm Quảng Đông": [
+            "mong4"
+        ]
+    },
+    "meanings": {
+        "vong": {
+            "Từ điển phổ thông": [
+                "quên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quên. ◎Như: 'phế tẩm vong thực' 廢寢忘食 bỏ ngủ quên ăn. ◇Nguyễn Trãi 阮廌: 'Nhật trường ẩn kỉ vong ngôn xứ' 日長隱几忘言處 (Đề Trình xử sĩ Vân oa đồ 題程處士雲窩圖) Ngày dài tựa ghế, quên nói năng.",
+                "(Động) Mất. § Cũng như 'vong' 亡, 'thất' 失. ◇Hán Thư 漢書: 'Thần văn Tử Tư tận trung nhi vong kì hiệu' 臣聞子胥盡忠而忘其號 (Vũ Ngũ Tử truyện 武五子傳) Thần nghe nói Tử Tư tận trung mà mất danh hiệu của mình.",
+                "(Động) Bỏ sót, bỏ rơi. ◇Hậu Hán Thư 後漢書: 'Bần tiện chi tri bất khả vong' 貧賤之知不可忘 (Tống Hoằng truyện 宋弘傳) Bạn biết nhau thuở nghèo hèn không thể bỏ quên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quên.",
+                "Nhãng qua.",
+                "Bỏ sót. Dùng làm chữ chuyển câu, nghĩa là không."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quên, không nhớ đến: 遺忘 Bỏ quên; 忘個一幹二淨 Quên bẵng; 廢寢忘食 Quên ăn mất ngủ;",
+                "(văn) Bỏ sót (một dòng...);",
+                "(văn) Xao lãng, xao nhãng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quên đi. Không còn nhớ được nữa."
+            ],
+            "compound_words": {
+                "鷗鷺忘機": "âu lộ vong cơ",
+                "遺忘": "di vong",
+                "廢寢忘餐": "phế tẩm vong xan",
+                "捐忘": "quyên vong",
+                "忘恩": "vong ân",
+                "忘本": "vong bản",
+                "忘八": "vong bát",
+                "忘貧": "vong bần",
+                "忘機": "vong cơ",
+                "忘懷": "vong hoài",
+                "忘却": "vong khước",
+                "忘記": "vong ký",
+                "忘记": "vong ký",
+                "忘年": "vong niên",
+                "忘情": "vong tình",
+                "忘憂": "vong ưu"
+            }
+        },
+        "vô": {
+            "Từ điển Trần Văn Chánh": [
+                "【忘其】 vô kì [wúqí] (văn) Như 亡其 [wúqí]. Xem 亡 nghĩa",
+                "(bộ 亠)."
+            ]
+        },
+        "vương": {
+            "Từ điển Trần Văn Chánh": [
+                "【忘八】 vương bát [wángba] Con rùa cạn;",
+                "Đồ bị cắm sừng. Cv. 王八."
+            ]
+        }
+    }
+}

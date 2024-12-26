@@ -1,0 +1,89 @@
+{
+    "character": "礼",
+    "details": {
+        "Âm Hán Việt": [
+            "lễ"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "kỳ 示 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺭乚"
+        ],
+        "Nét bút": [
+            "丶フ丨丶フ"
+        ],
+        "Thương Hiệt": [
+            "IFU (戈火山)"
+        ],
+        "Unicode": [
+            "U+793C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǐ ㄌㄧˇ"
+        ],
+        "Âm Nôm": [
+            "lãi",
+            "lạy",
+            "lấy",
+            "lẻ",
+            "lể",
+            "lởi",
+            "rẽ",
+            "trẩy",
+            "trễ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レイ (rei)",
+            "ライ (rai)"
+        ],
+        "Âm Hàn": [
+            "례"
+        ],
+        "Âm Quảng Đông": [
+            "lai5"
+        ]
+    },
+    "meanings": {
+        "lễ": {
+            "Từ điển phổ thông": [
+                "lễ nghi"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'lễ' 禮.",
+                "Giản thể của chữ 禮."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ lễ 禮"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lễ, lễ nghĩa: 喪禮 Lễ tang;",
+                "Lễ phép, chào: 禮節 Lễ phép; 彬彬有禮 Lịch sự lễ phép; 敬禮 Kính chào;",
+                "(văn) Tôn kính;",
+                "Tặng phẩm, quà: 禮輕情意重 Lễ mọn tình thâm;",
+                "Sách Chu lễ, Nghi lễ và Lễ kí;",
+                "[Lê] (Họ) Lễ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết giản dị của chữ Lễ 禮."
+            ],
+            "compound_words": {
+                "婚礼": "hôn lễ",
+                "敬礼": "kính lễ",
+                "寿礼": "thọ lễ"
+            }
+        }
+    }
+}

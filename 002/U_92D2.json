@@ -1,0 +1,100 @@
+{
+    "character": "鋒",
+    "details": {
+        "Âm Hán Việt": [
+            "phong"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金夆"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノフ丶一一一丨"
+        ],
+        "Thương Hiệt": [
+            "CHEJ (金竹水十)"
+        ],
+        "Unicode": [
+            "U+92D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ"
+        ],
+        "Âm Nôm": [
+            "phong"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きっさき (ki'saki)",
+            "とかり (tokari)",
+            "ほこさき (hokosaki)"
+        ],
+        "Âm Hàn": [
+            "봉"
+        ],
+        "Âm Quảng Đông": [
+            "fung1"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "ngọn giáo, mũi dao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mũi nhọn, bộ phận sắc bén của binh khí. ◎Như: 'kiếm phong' 劍鋒 mũi gươm.",
+                "(Danh) Phiếm chỉ vật gì nhọn, sắc bén. ◎Như: 'bút phong' 筆鋒 ngọn bút.",
+                "(Danh) Mượn chỉ đao, kiếm, binh khí. ◇Sử Kí 史記: 'Thả thiên hạ duệ tinh trì phong dục vi bệ hạ sở vi giả thậm chúng, cố lực bất năng nhĩ' 且天下銳精持鋒欲為陛下所為者甚眾, 顧力不能耳 (Hoài Âm Hầu truyện 淮陰侯傳) Vả lại trong thiên hạ những kẻ mài giáo, cầm mũi nhọn, muốn làm điều bệ hạ đã làm cũng rất nhiều, chẳng qua họ không làm nổi đấy thôi.",
+                "(Danh) Quân lính đi trước đội hoặc người dẫn đầu. ◎Như: 'tiền phong' 前鋒.",
+                "(Danh) Khí thế mạnh mẽ. ◇Sử Kí 史記: 'Thử thừa thắng nhi khứ quốc viễn đấu, kì phong bất khả đương' 此乘勝而去國遠鬥, 其鋒不可當 (Hoài Âm Hầu truyện 淮陰侯傳) Như thế là họ thừa thắng, bỏ nước kéo quân đi viễn chinh, khí thế của họ không chống lại được.",
+                "(Tính) Nhọn, sắc. ◎Như: 'phong nhận' 鋒刃 lưỡi đao sắc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mũi nhọn. Như kiếm phong 劍鋒 mũi gươm.",
+                "Nhọn. Như bút phong 筆鋒 ngọn bút, từ phong 詞鋒 ngọn lưỡi.",
+                "Khí thế dữ dội không thể đương được gọi là phong. Như biến trá phong khởi 變詐鋒起 biến trá gớm giếc. Ý nói biến trá nhiều cách dữ dội như các mũi nhọn đều đâm tua tủa khó phạm vào được.",
+                "Hàng lính đi trước đội. Như tiền phong 前鋒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mũi nhọn, ngọn: 劍鋒 Mũi gươm; 刀鋒 Mũi dao; 筆鋒 Ngọn bút; 針鋒相對 Đối chọi nhau;",
+                "Hàng đi đầu (thường nói về quân đội): 前鋒 Tiền phong; 先鋒 Tiên phong;",
+                "Một loại nông cụ thời xưa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mũi nhọn — Nhọn sắc — Thế mạnh mẽ của quân đội."
+            ],
+            "compound_words": {
+                "筆鋒": "bút phong",
+                "針鋒": "châm phong",
+                "交鋒": "giao phong",
+                "鋭鋒": "nhuệ phong",
+                "鋒利": "phong lợi",
+                "鋒芒": "phong mang",
+                "鋒鋩": "phong mang",
+                "鋒鋭": "phong nhuệ",
+                "軍鋒": "quân phong",
+                "先鋒": "tiên phong",
+                "前鋒": "tiền phong",
+                "爭鋒": "tranh phong",
+                "側鋒": "trắc phong",
+                "衝鋒": "xung phong"
+            }
+        }
+    }
+}

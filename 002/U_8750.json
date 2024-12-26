@@ -1,0 +1,52 @@
+{
+    "character": "蝐",
+    "details": {
+        "Âm Hán Việt": [
+            "mội"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trùng 虫 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫冒"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "LIABU (中戈日月山)"
+        ],
+        "Unicode": [
+            "U+8750"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "mào ㄇㄠˋ"
+        ],
+        "Âm Nôm": [
+            "mồi"
+        ],
+        "Âm Quảng Đông": [
+            "mou6",
+            "mui6"
+        ]
+    },
+    "meanings": {
+        "mội": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Mội 瑁. Xem Đại mội 玳瑁. Vần Đại."
+            ],
+            "compound_words": {
+                "蝳蝐": "đại mội"
+            }
+        }
+    }
+}

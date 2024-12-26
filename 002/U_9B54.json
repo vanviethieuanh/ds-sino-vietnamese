@@ -1,0 +1,95 @@
+{
+    "character": "魔",
+    "details": {
+        "Âm Hán Việt": [
+            "ma"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "quỷ 鬼 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸麻鬼"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨ノ丶一丨ノ丶ノ丨フ一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "IDHI (戈木竹戈)"
+        ],
+        "Unicode": [
+            "U+9B54"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mó ㄇㄛˊ"
+        ],
+        "Âm Nôm": [
+            "ma"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マ (ma)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "mo1"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "ma quỷ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chướng ngại trên đường tu (thuật ngữ Phật Giáo). ◎Như: 'ma do tâm sinh' 魔由心生 ma chướng tự tâm mà ra.",
+                "(Danh) Quỷ quái giết hại người hoặc làm cho mê hoặc. ◎Như: 'yêu ma' 妖魔 quỷ quái.",
+                "(Danh) Sự ham mê quá độ, đã thành nghiện. ◎Như: 'nhập ma' 入魔 mê đắm mất hết lí trí.",
+                "(Danh) Sự vật hoặc người (giống như ma quỷ) làm cho mê đắm. ◇Bạch Cư Dị 白居易: 'Duy hữu thi ma hàng bất đắc, Mỗi phùng phong nguyệt nhất nhàn ngâm' 唯有詩魔降不得, 每逢風月一閑吟 (Nhàn ngâm 閑吟) Chỉ có ma thơ hàng chẳng được, Mỗi khi gặp cảnh gió mát trăng thanh là lại nhàn ngâm.",
+                "(Tính) Bí hiểm, thần bí. ◎Như: 'ma thuật' 魔術 thuật ma quái, 'ma pháp' 魔法 phép ma quái, 'ma kính' 魔鏡 (1) kính hai mặt, một bên soi như gương, một bên nhìn thấu qua được để quan sát kín đáo. (2) gương thần (như trong truyện cổ tích công chúa Bạch Tuyết, soi tìm được ai là người đẹp nhất trần gian).",
+                "(Tính) Ác độc, hiểm quái. ◎Như: 'ma chưởng' 魔掌 thế lực ma quái phá hại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ma quỷ. Các cái làm cho người ta mê muội, làm mất lòng đạo đều gọi là ma cả.",
+                "Ham thích cái gì đã thành ra nghiện cũng gọi là ma.",
+                "Ma chướng. Các thứ làm chướng ngại đường tu. Như ma do tâm sinh 魔由心生 ma chướng tự tâm mà ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ma quỷ: 妖魔 Yêu ma;",
+                "Kì lạ, huyền bí: 魔力 Sức huyền bí;",
+                "(văn) Mê nghiện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng Phạn, Nói tắt của ma la, nghĩa là có hại — Quỷ. Hồn người chết về phá hại người sống. Ta cũng gọi là con ma, hồn ma.  Đoạn trường tân thanh  có câu: » Ma đưa lối quỷ dẫn đường, cứ tìm những chốn đoạn trường mà đi. « — Say đắm mê mẩn, không dứt bỏ được."
+            ],
+            "compound_words": {
+                "恶魔": "ác ma",
+                "惡魔": "ác ma",
+                "病魔": "bệnh ma",
+                "魔道": "ma đạo",
+                "魔教": "ma giáo",
+                "魔鏡": "ma kính",
+                "魔力": "ma lực",
+                "魔鬼": "ma quỷ",
+                "魔術": "ma thuật",
+                "魔醉": "ma tuý",
+                "魔媪": "ma uẩn",
+                "魔王": "ma vương",
+                "邪魔": "tà ma",
+                "精魔": "tinh ma",
+                "妖魔": "yêu ma"
+            }
+        }
+    }
+}

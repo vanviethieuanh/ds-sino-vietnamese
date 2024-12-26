@@ -1,0 +1,65 @@
+{
+    "character": "储",
+    "details": {
+        "Âm Hán Việt": [
+            "trừ",
+            "trữ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhân 人 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻诸"
+        ],
+        "Nét bút": [
+            "ノ丨丶フ一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "OIVA (人戈女日)"
+        ],
+        "Unicode": [
+            "U+50A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chú ㄔㄨˊ",
+            "chǔ ㄔㄨˇ"
+        ],
+        "Âm Quảng Đông": [
+            "cyu5"
+        ]
+    },
+    "meanings": {
+        "trừ": {
+            "Từ điển phổ thông": [
+                "chứa, cất, lưu giữ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 儲."
+            ],
+            "compound_words": {
+                "储藏": "trừ tàng",
+                "储存": "trừ tồn"
+            }
+        },
+        "trữ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 儲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 儲"
+            ]
+        }
+    }
+}

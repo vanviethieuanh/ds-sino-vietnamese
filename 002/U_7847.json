@@ -1,0 +1,85 @@
+{
+    "character": "硇",
+    "details": {
+        "Âm Hán Việt": [
+            "lỗ",
+            "nao",
+            "nạo"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thạch 石 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰石囟"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一ノ丨フノ丶一"
+        ],
+        "Thương Hiệt": [
+            "MRHWK (一口竹田大)"
+        ],
+        "Unicode": [
+            "U+7847"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lǔ ㄌㄨˇ",
+            "náo ㄋㄠˊ"
+        ],
+        "Âm Nôm": [
+            "nạo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)",
+            "ニョウ (nyō)"
+        ],
+        "Âm Quảng Đông": [
+            "laau4",
+            "lou5",
+            "naau4"
+        ]
+    },
+    "meanings": {
+        "lỗ": {
+            "Từ điển phổ thông": [
+                "(xem: lỗ sa 硇砂)"
+            ],
+            "compound_words": {
+                "硇砂": "lỗ sa"
+            }
+        },
+        "nao": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Nao sa” 硇砂 (sal ammoniac) khoáng chất, dạng mạt vụn hoặc thể khối trắng vàng, vị mặn, dùng chế thuốc hoặc dùng trong công nghiệp điện."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nao sa 硇砂 (salammoniac) một chất đá như vỏ cây sinh ở bên núi lửa, dùng làm thuốc đánh màng mắt, và rất cần dùng về điện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ trơn láng của đá."
+            ]
+        },
+        "nạo": {
+            "Từ điển phổ thông": [
+                "(xem: nạo sa 硇砂)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【硇砂】nạo sa [náosha] (khoáng) Amoni clorua."
+            ],
+            "compound_words": {
+                "硇砂": "nạo sa"
+            }
+        }
+    }
+}

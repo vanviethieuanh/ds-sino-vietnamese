@@ -1,0 +1,90 @@
+{
+    "character": "肝",
+    "details": {
+        "Âm Hán Việt": [
+            "can"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhục 肉 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月干"
+        ],
+        "Nét bút": [
+            "ノフ一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "BMJ (月一十)"
+        ],
+        "Unicode": [
+            "U+809D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ"
+        ],
+        "Âm Nôm": [
+            "can",
+            "gan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きも (kimo)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "gon1"
+        ]
+    },
+    "meanings": {
+        "can": {
+            "Từ điển phổ thông": [
+                "lá gan, buồng gan"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gan.",
+                "§ Xem 'can đảm' 肝膽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gan, một cơ quan sinh ra nước mật, ở mé tay phải bên bụng, sắc đỏ lờ lờ, có bốn lá.",
+                "Can đảm, gan góc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lá gan;",
+                "Can đảm, gan góc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá gan. Còn gọi là Can tạng 肝藏."
+            ],
+            "compound_words": {
+                "肝胆": "can đảm",
+                "肝膽": "can đảm",
+                "肝火": "can hoả",
+                "肝氣": "can khí",
+                "肝肺": "can phế",
+                "肝臟": "can tạng",
+                "肝腸寸斷": "can tràng thốn đoạn",
+                "肝腸": "can trường",
+                "魚肝油": "ngư can du",
+                "肺肝": "phế can",
+                "心肝": "tâm can",
+                "忠肝": "trung can"
+            }
+        }
+    }
+}

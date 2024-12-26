@@ -1,0 +1,110 @@
+{
+    "character": "展",
+    "details": {
+        "Âm Hán Việt": [
+            "triển"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thi 尸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "フ一ノ一丨丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "STV (尸廿女)"
+        ],
+        "Unicode": [
+            "U+5C55"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhǎn ㄓㄢˇ"
+        ],
+        "Âm Nôm": [
+            "chẽn",
+            "triển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin2"
+        ]
+    },
+    "meanings": {
+        "triển": {
+            "Từ điển phổ thông": [
+                "mở ra, trải ra",
+                "kéo dài",
+                "triển lãm, trưng bày"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chuyển động. ◇Tây du kí 西遊記: 'Tu du gian, na mã đả cá triển thân, tức thối liễu mao bì' 須臾間, 那馬打個展身, 即退了毛皮 (Đệ bách hồi) Trong chốc lát, con ngựa đó chuyển mình, biến hết lông bờm.",
+                "(Động) Duỗi, giãn ra. ◇Trang Tử 莊子: 'Đạo Chích đại nộ, lưỡng triển kì túc, án kiếm sân mục' 盜跖大怒, 兩展其足, 案劍瞋目 (Đạo Chích 盜跖) Đạo Chích cả giận, duỗi hai chân, cầm gươm, gườm mắt.",
+                "(Động) Mở rộng, làm cho lớn ra, khoách đại. ◎Như: 'phát triển' 發展 mở mang rộng lớn lên",
+                "(Động) Kéo dài thời gian. ◎Như: 'triển kì' 展期 kéo dài kì hạn.",
+                "(Động) Thi hành, thật thi. ◇Thang Hiển Tổ 湯顯祖: 'Trạch nhật triển lễ' 擇日展禮 (Mẫu đan đình 牡丹亭) Chọn ngày làm lễ.",
+                "(Động) Xem xét. ◇Chu Lễ 周禮: 'Đại tế tự, triển hi sinh' 大祭祀, 展犧牲 (Xuân quan 春官, Tứ sư 肆師) Khi tế tự lớn, xem xét những con muông sinh dùng vào cuộc lễ.",
+                "(Động) Bày ra, trưng bày. ◎Như: 'triển lãm' 展覽 bày ra cho xem.",
+                "(Động) Ghi chép. ◇Chu Lễ 周禮: 'Triển kì công tự' 展其功緒 (Thiên quan 天官, Nội tể 內宰) Ghi chép công nghiệp.",
+                "(Động) Tiêm nhiễm. § Thông 'triêm' 沾.",
+                "(Động) Thăm. ◎Như: 'triển mộ' 展墓 viếng thăm mộ.",
+                "(Danh) Họ 'Triển'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giải, mở. Bóc mở ra gọi là triển.",
+                "Khoan hẹn, như triển kì 展期 khoan cho thêm hẹn nữa.",
+                "Thăm, như triển mộ 展墓 viếng thăm mộ.",
+                "Xem xét.",
+                "Ghi chép.",
+                "Thành thực.",
+                "Hậu, ăn ở trung hậu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giương, mở, giở ra: 展翅飛翔 Giương cánh tung bay; 展眉舒眼 Mở mày mở mặt, mặt mũi nở nang;",
+                "Kéo dài, hoãn thêm: 展期 Kéo dài thời hạn;",
+                "Triển lãm: 畫展 Triển lãm tranh vẽ;",
+                "(văn) Thăm: 展墓 Thăm mộ;",
+                "(văn) Ghi chép;",
+                "(văn) Thành thực, trung hậu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sắp sửa chuyển động — Mở rộng ra. Td: Phát triển — Kéo dài thêm. Xem Triển hạn 展限."
+            ],
+            "compound_words": {
+                "扩展": "khuếch triển",
+                "擴展": "khuếch triển",
+                "发展": "phát triển",
+                "發展": "phát triển",
+                "拓展": "thác triển",
+                "伸展": "thân triển",
+                "進展": "tiến triển",
+                "展轉": "triển chuyển",
+                "展限": "triển hạn",
+                "展緩": "triển hoãn",
+                "展开": "triển khai",
+                "展開": "triển khai",
+                "展技": "triển kĩ",
+                "展期": "triển kì",
+                "展覽": "triển lãm",
+                "展览": "triển lãm",
+                "展眉": "triển mi",
+                "展望": "triển vọng"
+            }
+        }
+    }
+}

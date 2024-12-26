@@ -1,0 +1,87 @@
+{
+    "character": "旌",
+    "details": {
+        "Âm Hán Việt": [
+            "tinh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phương 方 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰方⿱𠂉生"
+        ],
+        "Nét bút": [
+            "丶一フノノ一ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "YSOHM (卜尸人竹一)"
+        ],
+        "Unicode": [
+            "U+65CC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "tinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あら.わす (ara.wasu)",
+            "はた (hata)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "sing1",
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "tinh": {
+            "Từ điển phổ thông": [
+                "cờ tinh (cờ trên có cắm lông, dùng khi đi xứ)",
+                "tiêu biểu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Loại cờ có cắm lông chim.",
+                "(Danh) Sự tôn xưng, tôn kính. § Thời xưa, quý tộc, quan lại khi ra ngoài dùng cờ nhiều màu làm nghi trượng, gọi là 'văn tinh' 文旌. Về sau, 'văn tinh' 文旌 dùng làm kính từ đối với văn nhân.",
+                "(Động) Biểu thị, trình bày cho rõ.",
+                "(Động) Biểu dương, tuyên dương. ◇Tả truyện 左傳: 'Thả tinh thiện nhân' 且旌善人 (Hi Công nhị thập tứ niên 僖公二十四年) Hãy tuyên dương người tốt lành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cờ tinh, thứ cờ trên ngù có cắm lông. Ðời xưa ai đi sứ cũng cầm một cái cờ tinh đi, nên gọi kẻ đi văn tinh 文旌 hay hành tinh 行旌.",
+                "Tiêu biểu, ai có đức hạnh gì đáng khen vua cho dựng nhà treo biển để tiêu biểu gọi là tinh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Cờ hiệu, cờ tinh (trên ngù có cắm lông);",
+                "Tuyên dương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá cờ có gù, có tua, dùng trong quân đội thời xưa.  Đoạn trường tân thanh : » Tiếng chiêng dậy đất, bóng tinh rợp đường «."
+            ],
+            "compound_words": {
+                "銘旌": "minh tinh",
+                "使旌": "sứ tinh",
+                "旌表": "tinh biểu",
+                "旌旗": "tinh kỳ"
+            }
+        }
+    }
+}

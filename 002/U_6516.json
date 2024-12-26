@@ -1,0 +1,96 @@
+{
+    "character": "攖",
+    "details": {
+        "Âm Hán Việt": [
+            "anh",
+            "oanh"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thủ 手 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘嬰"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一ノ丶丨フ一一一ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "QBCV (手月金女)"
+        ],
+        "Unicode": [
+            "U+6516"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yīng ㄧㄥ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エイ (ei)",
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せむ.る (semu.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "jing1"
+        ]
+    },
+    "meanings": {
+        "anh": {
+            "Từ điển phổ thông": [
+                "chạm tới, đến gần",
+                "vướng, mắc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quấy rầy, triền nhiễu. ◇La Ẩn 羅隱: 'Lưỡng tấn dĩ suy thì vị ngộ, Sổ phong tuy tại bệnh tương anh' 兩鬢已衰時未遇, 數峰雖在病相攖 (Đồ trung kí hoài 途中寄懷).",
+                "(Động) Nhiễu loạn. ◇Vương Nhược Hư 王若虛: 'Vạn sự bất ngã anh, Nhất tâm thường tự đắc' 萬事不我攖, 一心常自得 (Sanh nhật tự chúc 生日自祝).",
+                "(Động) Đụng chạm, xúc phạm. ◇Liêu trai chí dị 聊齋志異: 'Ấp tể Dương Công, tính cương ngạnh, anh kì nộ giả tất tử' 邑宰楊公, 性剛鯁, 攖其怒者必死 (Mộng lang 夢狼).",
+                "(Động) Chịu, chuốc lấy, tao thụ. ◇Vô danh thị 無名氏: 'Tha gia anh binh tiển, ỷ cô sương tình thù khả liên' 他家攖兵燹, 倚孤孀情殊可憐 (Tứ hiền kí 四賢記, Phó tuyển 赴選)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chạm tới, đến gần, như anh nộ 攖怒 chọc giận.",
+                "Mắc, vướng, như anh hại 攖害 mắc hại, anh hoạ 攖禍 mắc vạ, v.v.",
+                "Một âm là oanh. Buộc, chằng buộc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đụng chạm, xúc phạm: 攖怒 Chọc giận;",
+                "Khuấy, quấy rầy;",
+                "Buộc, chằng buộc;",
+                "Mắc, vướng: 攖禍 Mắc hoạ; 攖害 Bị hại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quấy rối."
+            ],
+            "compound_words": {
+                "攖寧": "oanh ninh"
+            }
+        },
+        "oanh": {
+            "Từ điển trích dẫn": [
+                "(Động) Quấy rầy, triền nhiễu. ◇La Ẩn 羅隱: 'Lưỡng tấn dĩ suy thì vị ngộ, Sổ phong tuy tại bệnh tương anh' 兩鬢已衰時未遇, 數峰雖在病相攖 (Đồ trung kí hoài 途中寄懷).",
+                "(Động) Nhiễu loạn. ◇Vương Nhược Hư 王若虛: 'Vạn sự bất ngã anh, Nhất tâm thường tự đắc' 萬事不我攖, 一心常自得 (Sanh nhật tự chúc 生日自祝).",
+                "(Động) Đụng chạm, xúc phạm. ◇Liêu trai chí dị 聊齋志異: 'Ấp tể Dương Công, tính cương ngạnh, anh kì nộ giả tất tử' 邑宰楊公, 性剛鯁, 攖其怒者必死 (Mộng lang 夢狼).",
+                "(Động) Chịu, chuốc lấy, tao thụ. ◇Vô danh thị 無名氏: 'Tha gia anh binh tiển, ỷ cô sương tình thù khả liên' 他家攖兵燹, 倚孤孀情殊可憐 (Tứ hiền kí 四賢記, Phó tuyển 赴選)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chạm tới, đến gần, như anh nộ 攖怒 chọc giận.",
+                "Mắc, vướng, như anh hại 攖害 mắc hại, anh hoạ 攖禍 mắc vạ, v.v.",
+                "Một âm là oanh. Buộc, chằng buộc."
+            ],
+            "compound_words": {
+                "攖寧": "oanh ninh"
+            }
+        }
+    }
+}

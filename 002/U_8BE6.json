@@ -1,0 +1,68 @@
+{
+    "character": "详",
+    "details": {
+        "Âm Hán Việt": [
+            "dương",
+            "tường"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠羊"
+        ],
+        "Nét bút": [
+            "丶フ丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "IVTQ (戈女廿手)"
+        ],
+        "Unicode": [
+            "U+8BE6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiáng ㄒㄧㄤˊ",
+            "yáng ㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tường"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 詳"
+            ]
+        },
+        "tường": {
+            "Từ điển phổ thông": [
+                "rõ ràng, tường tận"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 詳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 詳"
+            ],
+            "compound_words": {
+                "安详": "an tường",
+                "不详": "bất tường"
+            }
+        }
+    }
+}

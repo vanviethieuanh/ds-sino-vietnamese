@@ -1,0 +1,85 @@
+{
+    "character": "紡",
+    "details": {
+        "Âm Hán Việt": [
+            "phưởng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹方"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "VFYHS (女火卜竹尸)"
+        ],
+        "Unicode": [
+            "U+7D21"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bǎng ㄅㄤˇ",
+            "fǎng ㄈㄤˇ",
+            "fàng ㄈㄤˋ"
+        ],
+        "Âm Nôm": [
+            "phưởng",
+            "vướng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つむ.ぐ (tsumu.gu)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "fong2"
+        ]
+    },
+    "meanings": {
+        "phưởng": {
+            "Từ điển phổ thông": [
+                "xe thành sợi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) The (lụa dệt mỏng và mịn).",
+                "(Động) Xe sợi, đánh sợi. ◎Như: 'phưởng sa' 紡紗 kéo sợi. ◇Phù sanh lục kí 浮生六記: 'Bộc năng thành y, ẩu năng phưởng tích' 僕能成衣, 嫗能紡績 (Nhàn tình kí thú 閑情記趣) Lão bộc biết may quần áo, bà già biết xe sợi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Các thứ dệt bằng tơ đông đặc mềm nhũn tục gọi là phưởng trù 紡綢.",
+                "Xe sợi, đánh sợi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xe, đánh (sợi): 紡紗 Xe sợi; 紡線 Xe chỉ;",
+                "The (một thứ tơ mỏng hơn lụa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợi tơ, sợi bông vải — Kéo tơ, kéo sợi — Vải, lụa, dệt bằng tơ, sợi."
+            ],
+            "compound_words": {
+                "紡紗": "phưởng sa",
+                "紡績機": "phưởng tích cơ",
+                "紡綢": "phưởng trù",
+                "紡絲": "phưởng ty",
+                "紡車": "phưởng xa"
+            }
+        }
+    }
+}

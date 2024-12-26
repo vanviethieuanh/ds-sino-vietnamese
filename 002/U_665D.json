@@ -1,0 +1,76 @@
+{
+    "character": "晝",
+    "details": {
+        "Âm Hán Việt": [
+            "trú"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhật 日 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "フ一一一丨一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "LGAM (中土日一)"
+        ],
+        "Unicode": [
+            "U+665D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhòu ㄓㄡˋ"
+        ],
+        "Âm Nôm": [
+            "chú",
+            "trú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひる (hiru)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau3"
+        ]
+    },
+    "meanings": {
+        "trú": {
+            "Từ điển phổ thông": [
+                "ban ngày"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ban ngày. ◇Nguyễn Du 阮攸: 'Trú kiến yên hà dạ kiến đăng' 晝見煙霞夜見燈 (Thương Ngô Trúc Chi ca 蒼梧竹枝歌) Ngày nhìn khói ráng đêm nhìn đèn.",
+                "(Danh) Tên đất, một ấp nước Tề thời Xuân Thu, nay ở vào khoảng tỉnh Sơn Đông 山東."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ban ngày. Nguyễn Du 阮攸: Trú kiến yên hà dạ kiến đăng 晝見煙霞夜見燈 ngày nhìn khói ráng đêm nhìn đèn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ban ngày, ngày: 明亮如晝 Sáng như ban ngày."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ban ngày."
+            ],
+            "compound_words": {
+                "白晝": "bạch trú",
+                "晝夜": "trú dạ",
+                "晝寢": "trú tẩm"
+            }
+        }
+    }
+}

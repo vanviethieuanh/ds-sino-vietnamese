@@ -1,0 +1,84 @@
+{
+    "character": "襦",
+    "details": {
+        "Âm Hán Việt": [
+            "nhu"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "y 衣 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤需"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶一丶フ丨丶丶丶丶一ノ丨フ丨丨"
+        ],
+        "Thương Hiệt": [
+            "LMBB (中一月月)"
+        ],
+        "Unicode": [
+            "U+8966"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "rú ㄖㄨˊ"
+        ],
+        "Âm Nôm": [
+            "nhu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "したぎ (shitagi)",
+            "はだぎ (hadagi)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "nhu": {
+            "Từ điển phổ thông": [
+                "áo cánh, áo lót"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo ngắn. ◇Đỗ Phủ 杜甫: 'La nhu bất phục thi, Đối quân tẩy hồng trang' 羅襦不復施, 對君洗紅妝 (Tân hôn biệt 新婚別) Không mặc xiêm lụa nữa, Rửa hết phấn hồng vì chàng (trang điểm khi xưa).",
+                "(Danh) Cái yếm dãi của trẻ con. ◇Bạch Cư Dị 白居易: 'Hương băng tiểu tú nhu' 香繃小繡襦 (A thôi 阿崔) Tã lót thơm, yếm dãi thêu nhỏ.",
+                "(Danh) Lưới đan mắt nhỏ để bắt chim muông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo cánh, áo lót mình gọi là hãn nhu 汗襦.",
+                "Là lượt đặc (nhỏ mà khít).",
+                "Cái yếm dãi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Áo cánh, áo choàng ngắn;",
+                "Cái yếm dãi (của trẻ con);",
+                "Vải lụa thật mịn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo ngắn, áo cánh — Cái yếm rãi của trẻ con — Thứ lụa thật mịn mặt."
+            ],
+            "compound_words": {
+                "襌襦": "đan nhu",
+                "汗襦": "hãn nhu",
+                "襜襦": "xiêm nhu"
+            }
+        }
+    }
+}

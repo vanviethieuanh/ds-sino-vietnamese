@@ -1,0 +1,78 @@
+{
+    "character": "俅",
+    "details": {
+        "Âm Hán Việt": [
+            "cầu",
+            "cừu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhân 人 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻求"
+        ],
+        "Nét bút": [
+            "ノ丨一丨丶一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "OIJE (人戈十水)"
+        ],
+        "Unicode": [
+            "U+4FC5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qiú ㄑㄧㄡˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)",
+            "グ (gu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いただ.く (itada.ku)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "kau4"
+        ]
+    },
+    "meanings": {
+        "cầu": {
+            "Từ điển phổ thông": [
+                "dân tộc Cầu của Trung Quốc (còn gọi là dân tộc Độc Long)",
+                "kính cẩn tuân theo, cung thuận"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) § Xem “cầu cầu” 俅俅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dân tộc Cầu (tên gọi cũ của tộc Độc Long, một dân tộc ít người ở Trung Quốc);",
+                "【俅俅】cầu cầu [qiúqiú] Kính cẩn vâng theo, cung thuận."
+            ],
+            "compound_words": {
+                "俅俅": "cầu cầu"
+            }
+        },
+        "cừu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Cừu cừu 俅俅."
+            ],
+            "compound_words": {
+                "俅俅": "cừu cừu"
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "character": "蛤",
+    "details": {
+        "Âm Hán Việt": [
+            "cáp"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰虫合"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ丶一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIOMR (中戈人一口)"
+        ],
+        "Unicode": [
+            "U+86E4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "è",
+            "gé ㄍㄜˊ",
+            "hā ㄏㄚ",
+            "há ㄏㄚˊ"
+        ],
+        "Âm Nôm": [
+            "cáp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はまぐり (hamaguri)"
+        ],
+        "Âm Hàn": [
+            "합"
+        ],
+        "Âm Quảng Đông": [
+            "gaap3",
+            "gap3",
+            "haa4"
+        ]
+    },
+    "meanings": {
+        "cáp": {
+            "Từ điển phổ thông": [
+                "con hàu nhỏ",
+                "con ếch, con cóc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con hàu nhỏ. § Tục gọi là 'cáp lị' 蛤蜊.",
+                "(Danh) § Xem 'văn cáp' 文蛤.",
+                "(Danh) § Xem 'cáp giới' 蛤蚧."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con hầu nhỏ. Tục gọi là cáp lị 蛤蜊.",
+                "Văn cáp 文蛤 con nghêu, vỏ nó tán ra gọi là cáp phấn 蛤粉 dùng làm thuốc.",
+                "Cáp giới 蛤蚧 con cắc kè."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蛤蟆】cáp mô [háma] (động) Cóc, ếch, nhái (tên gọi chung). Cv. 蝍蟆."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con hến, con trai, con sò."
+            ],
+            "compound_words": {
+                "蛤蚧": "cáp giới",
+                "蛤灰": "cáp hôi",
+                "蛤蜊": "cáp lị",
+                "蛤魚": "cáp ngư",
+                "蛤粉": "cáp phấn",
+                "文蛤": "văn cáp"
+            }
+        }
+    }
+}

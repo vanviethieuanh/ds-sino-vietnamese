@@ -1,0 +1,102 @@
+{
+    "character": "模",
+    "details": {
+        "Âm Hán Việt": [
+            "mô"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mộc 木 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木莫"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨丨丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DTAK (木廿日大)"
+        ],
+        "Unicode": [
+            "U+6A21"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mó ㄇㄛˊ",
+            "mú ㄇㄨˊ"
+        ],
+        "Âm Nôm": [
+            "mạc",
+            "mo",
+            "mô",
+            "mu",
+            "mua"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モ (mo)",
+            "ボ (bo)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mou4"
+        ]
+    },
+    "meanings": {
+        "mô": {
+            "Từ điển phổ thông": [
+                "cái khuôn bằng gỗ",
+                "mô phỏng",
+                "gương mẫu",
+                "mơ hồ, mập mờ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khuôn mẫu. ◎Như: 'mô phạm' 模範 khuôn mẫu, chỉ ông thầy, 'giai mô' 楷模 kiểu mẫu.",
+                "(Danh) 'Mô dạng' 模樣 hình dạng, dáng điệu. ◇Thủy hử truyện 水滸傳: 'Tiện thị đệ tử môn, khán na tăng nhân toàn bất tự xuất gia nhân mô dạng' 便是弟子們, 看那僧人全不似出家人模樣 (Đệ lục hồi) Ngay cả các đệ tử đây, xem nhà sư đó chẳng ra dáng người tu hành.",
+                "(Danh) Họ 'Mô'.",
+                "(Động) Bắt chước, phỏng theo. ◎Như: 'mô phỏng' 模仿 bắt chước, theo khuôn mẫu.",
+                "(Tính) Không rõ ràng. ◎Như: 'mô hồ' 模糊 lờ mờ. § Tục viết là 糢糊."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khuôn mẫu, như mô phạm 模範, mô dạng 模樣, v.v.",
+                "Mô hồ 模糊 lờ mờ. Tục viết là 糢糊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuôn: 鉛模 Khuôn chì; 銅模兒 Khuôn đồng. Xem 模 [mó]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cách chức. Kiểu. Mẫu — Theo kiểu mà bắt chước."
+            ],
+            "compound_words": {
+                "大規模": "đại quy mô",
+                "模樣": "mô dạng",
+                "模特兒": "mô đặc nhi",
+                "模形": "mô hình",
+                "模糊": "mô hồ",
+                "模胡": "mô hồ",
+                "模稜": "mô lăng",
+                "模拟": "mô nghĩ",
+                "模擬": "mô nghĩ",
+                "模範": "mô phạm",
+                "模仿": "mô phỏng",
+                "模倣": "mô phỏng",
+                "模寫": "mô tả",
+                "模式": "mô thức",
+                "規模": "quy mô",
+                "軌模": "quỹ mô",
+                "聖模賢範錄": "thánh mô hiền phạm lục"
+            }
+        }
+    }
+}

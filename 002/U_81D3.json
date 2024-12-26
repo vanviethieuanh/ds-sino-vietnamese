@@ -1,0 +1,57 @@
+{
+    "character": "臓",
+    "details": {
+        "Âm Hán Việt": [
+            "tạng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "nhục 肉 (+14 nét)"
+        ],
+        "Hình thái": [
+            "⿰月蔵"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨丨一ノ一丨フ一丨フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "BTIS (月廿戈尸)"
+        ],
+        "Unicode": [
+            "U+81D3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zàng ㄗㄤˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゾウ (zō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらわた (harawata)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ]
+    },
+    "meanings": {
+        "tạng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung các cơ quan trong bụng và ngực. Td: Lục phủ phũ tạng."
+            ],
+            "compound_words": {
+                "五臓": "ngũ tạng",
+                "臓腑": "tạng phủ",
+                "心臓": "tâm tạng",
+                "胃臓": "vị tạng"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "character": "銑",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên",
+            "tiển"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "kim 金 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金先"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ一丨一ノフ"
+        ],
+        "Thương Hiệt": [
+            "CHGU (金竹土山)"
+        ],
+        "Unicode": [
+            "U+9291"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "xǐ ㄒㄧˇ",
+            "xiān ㄒㄧㄢ",
+            "xiǎn ㄒㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "ten",
+            "tiển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "sin2"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Axin (Acyl). Cg. 銑基 [xianji]."
+            ]
+        },
+        "tiển": {
+            "Từ điển phổ thông": [
+                "gang (hợp kim của sắt và carbon)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gang, một loài kim có chất rất sáng, dùng để đúc nồi đúc chảo.",
+                "(Danh) Hai góc miệng chuông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gang, một loài kim có chất rất sáng, dùng để đúc nồi đúc chảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gang.【銑鐵】tiển thiết [xiăntiâ] Gang đúc. Xem 銑 [xê]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thép. Thứ kim loại cứng — Cái đục nhỏ bằng sắt để đục gỗ. Dụng cụ của thợ mộc."
+            ],
+            "compound_words": {
+                "銑鋧": "tiển hiện"
+            }
+        }
+    }
+}

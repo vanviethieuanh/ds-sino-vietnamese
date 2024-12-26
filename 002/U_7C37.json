@@ -1,0 +1,95 @@
+{
+    "character": "簷",
+    "details": {
+        "Âm Hán Việt": [
+            "diêm",
+            "thiềm"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trúc 竹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮詹"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノフ一ノノ丶丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HNCR (竹弓金口)"
+        ],
+        "Unicode": [
+            "U+7C37"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "rèm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひさし (hisashi)"
+        ],
+        "Âm Hàn": [
+            "첨"
+        ],
+        "Âm Quảng Đông": [
+            "jam4",
+            "jim4",
+            "sim4"
+        ]
+    },
+    "meanings": {
+        "diêm": {
+            "Từ điển phổ thông": [
+                "mái hiên, mái nhà",
+                "vành mũ, diềm mũ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mái hiên nhà. ◇Trần Nhân Tông 陳仁宗: 'Họa đường diêm ảnh mộ vân phi' 畫堂簷影暮雲飛 (Xuân cảnh 春景) Bóng hiên nhà vẽ mây chiều bay.",
+                "(Danh) Vành. ◎Như: 'mạo diêm' 帽簷 diêm mũ, vành mũ, 'tán diêm' 傘簷 mái dù.",
+                "Cũng đọc là 'thiềm'.",
+                "§ Cũng viết là 檐."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mái nhà.",
+                "Cái diềm, vành, như mạo diêm 帽簷 diềm mũ, vành mũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 檐 (bộ 木)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Diêm 檐."
+            ]
+        },
+        "thiềm": {
+            "Từ điển phổ thông": [
+                "mái hiên, mái nhà",
+                "vành mũ, diềm mũ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mái hiên nhà. ◇Trần Nhân Tông 陳仁宗: 'Họa đường diêm ảnh mộ vân phi' 畫堂簷影暮雲飛 (Xuân cảnh 春景) Bóng hiên nhà vẽ mây chiều bay.",
+                "(Danh) Vành. ◎Như: 'mạo diêm' 帽簷 diêm mũ, vành mũ, 'tán diêm' 傘簷 mái dù.",
+                "Cũng đọc là 'thiềm'.",
+                "§ Cũng viết là 檐."
+            ],
+            "compound_words": {
+                "屋簷": "ốc thiềm"
+            }
+        }
+    }
+}

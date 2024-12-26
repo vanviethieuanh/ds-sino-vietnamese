@@ -1,0 +1,75 @@
+{
+    "character": "颱",
+    "details": {
+        "Âm Hán Việt": [
+            "di",
+            "thai",
+            "đài"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "phong 風 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺風台"
+        ],
+        "Nét bút": [
+            "ノフノ丨フ一丨一丶フ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HNIR (竹弓戈口)"
+        ],
+        "Unicode": [
+            "U+98B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tái ㄊㄞˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Hàn": [
+            "태"
+        ],
+        "Âm Quảng Đông": [
+            "toi4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Đài phong” 颱風 bão, gió bão (phát sinh từ “Thái Bình dương” 太平洋). Tùy sức yếu hay mạnh, có: “khinh độ đài phong” 輕度颱風, “trung độ đài phong” 中度颱風, “cường liệt đài phong” 強烈颱風."
+            ]
+        },
+        "thai": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Đài phong” 颱風 bão, gió bão (phát sinh từ “Thái Bình dương” 太平洋). Tùy sức yếu hay mạnh, có: “khinh độ đài phong” 輕度颱風, “trung độ đài phong” 中度颱風, “cường liệt đài phong” 強烈颱風."
+            ]
+        },
+        "đài": {
+            "Từ điển phổ thông": [
+                "cơn bão"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Đài phong” 颱風 bão, gió bão (phát sinh từ “Thái Bình dương” 太平洋). Tùy sức yếu hay mạnh, có: “khinh độ đài phong” 輕度颱風, “trung độ đài phong” 中度颱風, “cường liệt đài phong” 強烈颱風."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bão: 颱風 Gió bão."
+            ],
+            "compound_words": {
+                "颱風": "đài phong"
+            }
+        }
+    }
+}

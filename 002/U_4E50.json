@@ -1,0 +1,96 @@
+{
+    "character": "乐",
+    "details": {
+        "Âm Hán Việt": [
+            "lạc",
+            "nhạc",
+            "nhạo"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "triệt 丿 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HVD (竹女木)"
+        ],
+        "Unicode": [
+            "U+4E50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lè ㄌㄜˋ",
+            "liáo ㄌㄧㄠˊ",
+            "luò ㄌㄨㄛˋ",
+            "yào ㄧㄠˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "lạc",
+            "nhạc"
+        ],
+        "Âm Quảng Đông": [
+            "lok6",
+            "ngok6"
+        ]
+    },
+    "meanings": {
+        "lạc": {
+            "Từ điển phổ thông": [
+                "sung sướng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 樂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vui, vui mừng, mừng: 樂事 Chuyện vui; 心裡樂得像開了花 Mừng như nở hoa trong bụng; 樂莫樂兮生相知 Vui thì không gì vui bằng sống mà được biết nhau;",
+                "Thích thú: 樂此不疲 Thích thú quên cả mệt mỏi;",
+                "(khn) Cười: 他說了個笑話，把大家逗樂了 Anh ấy nói câu chuyện đùa, làm cho mọi người đều bật cười;",
+                "[Lè] (Họ) Lạc. Xem 樂 [yuè], [yào]."
+            ],
+            "compound_words": {
+                "安乐": "an lạc",
+                "不亦乐乎": "bất diệc lạc hồ",
+                "欢乐": "hoan lạc",
+                "快乐": "khoái lạc",
+                "乐观": "lạc quan",
+                "乐趣": "lạc thú",
+                "乐园": "lạc viên",
+                "娱乐": "ngu lạc"
+            }
+        },
+        "nhạc": {
+            "Từ điển phổ thông": [
+                "nhạc (trong ca nhạc, ...)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 樂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Âm nhạc: 奏樂 Cử nhạc, tấu nhạc, chơi nhạc;",
+                "[Yuè] (Họ) Nhạc. Xem 樂 [lè], [yào]."
+            ],
+            "compound_words": {
+                "哀乐": "ai nhạc",
+                "音乐": "âm nhạc"
+            }
+        },
+        "nhạo": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 樂."
+            ]
+        }
+    }
+}

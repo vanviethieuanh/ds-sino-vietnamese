@@ -1,0 +1,294 @@
+{
+    "character": "數",
+    "details": {
+        "Âm Hán Việt": [
+            "sác",
+            "số",
+            "sổ",
+            "xúc"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "phác 攴 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰婁攵"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一丨フノ一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LVOK (中女人大)"
+        ],
+        "Unicode": [
+            "U+6578"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cù ㄘㄨˋ",
+            "shǔ ㄕㄨˇ",
+            "shù ㄕㄨˋ",
+            "shuò ㄕㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "số",
+            "xọ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スウ (sū)",
+            "ス (su)",
+            "サク (saku)",
+            "ソク (soku)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かず (kazu)",
+            "かぞ.える (kazo.eru)",
+            "しばしば (shibashiba)",
+            "せ.める (se.meru)",
+            "わずらわ.しい (wazurawa.shii)"
+        ],
+        "Âm Hàn": [
+            "수",
+            "삭"
+        ],
+        "Âm Quảng Đông": [
+            "sok3",
+            "sou2",
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "sác": {
+            "Từ điển trích dẫn": [
+                "(Động) Đếm, tính. ◇Trang Tử 莊子: 'Phún tắc đại giả như châu, tiểu giả như vụ, tạp nhi hạ giả, bất khả thắng sổ dã' 噴則大者如珠, 小者如霧, 雜而下者, 不可勝數也 (Thu thủy 秋水) Phun ra giọt lớn bằng hạt trai, giọt nhỏ như hạt sương mù, lộn xộn rơi xuống, không thể đếm xuể.",
+                "(Động) Trách mắng. ◎Như: 'diện sổ kì tội' 面數其罪 ngay mặt trách tội.",
+                "(Động) Kể, cân nhắc. ◎Như: 'sổ điển vong tổ' 數典忘祖 mất gốc (kể điển tích quên cả chức sự của tổ), 'bất túc sổ' 不足數 không đủ để kể.",
+                "(Phó) (Kể ra thì thấy) trội nhất, hơn hết (trong số, trong vòng). ◎Như: 'toàn ban sổ tha công khóa tối hảo' 全班數他功課最好 trong cả lớp, anh ta được coi là học giỏi nhất.",
+                "(Tính) Vài, mấy. ◎Như: 'sổ nhật' 數日 vài ba ngày, 'sổ khẩu' 數口 vài ba miệng. ◇Mạnh Tử 孟子: 'Sổ khẩu chi gia, khả dĩ vô cơ hĩ' 數口之家, 可以無饑矣 (Lương Huệ Vương thượng 梁惠王上) Vài miệng ăn (nhân khẩu) trong nhà ấy chẳng đến nỗi đói khổ.",
+                "Một âm là 'số'. (Danh) Số mục, số lượng. ◎Như: 'nhân số' 人數 số người, 'thứ sổ' 次數 số lần.",
+                "(Danh) Phép toán thời xưa. § Một trong 'lục nghệ' 六藝 sáu môn học cơ bản: 'lễ' 禮, 'nhạc' 樂, 'xạ' 射 bắn, 'ngự' 御 cầm cương cưỡi ngựa, 'thư' 書 viết, 'số' 數 học về toán.",
+                "(Danh) Thuật bói, thuật chiêm bốc. ◇Tả truyện 左傳: 'Quy, tượng dã. Thệ số dã' 龜, 象也. 筮數也 (Hi Công thập ngũ niên 僖公十五年).",
+                "(Danh) Vận mệnh, khí vận. ◎Như: 'thiên số' 天數, 'kiếp số' 劫數. ◇Hồng Lâu Mộng 紅樓夢: 'Thử diệc tĩnh cực tư động, vô trung sanh hữu chi số dã' 此亦靜極思動, 無中生有之數也 (Đệ nhất hồi) Đấy cũng là cái số kiếp \"tĩnh lắm thì nghĩ tới động\", \"từ không sinh ra có\" đó thôi.",
+                "(Danh) Quy luật, phép tắc. ◇Hậu Hán Thư 後漢書: 'Phù cùng cao tắc nguy, đại mãn tắc dật, nguyệt doanh tắc khuyết, nhật trung tắc di, phàm thử tứ giả, tự nhiên chi số dã' 夫窮高則危, 大滿則溢, 月盈則缺, 日中則移, 凡此四者, 自然之數也 (Lí Cố truyện 李固傳) Cao tới cùng thì nguy hiểm, đầy quá thì tràn, trăng tròn rồi khuyết, mặt trời ở giữa thì dời đi, phàm bốn điều đó, là những quy luật tự nhiên vậy.",
+                "(Danh) Chế độ pháp luật. ◇Quản Tử 管子: 'Thánh quân nhậm pháp nhi bất nhậm trí, nhậm số nhi bất nhậm thuyết' 聖君任法而不任智, 任數而不任說 (Nhậm pháp 任法).",
+                "(Danh) Tài nghệ. ◇Mạnh Tử 孟子: 'Kim phù dịch chi vi số, tiểu số dã' 今夫奕之為數, 小數也 (Cáo tử thượng 告子上) Nay đánh cờ là một tài nghệ, (nhưng chỉ là) một tài nghệ nhỏ thôi.",
+                "Lại một âm là 'sác'. (Phó) Luôn luôn, thường, nhiều lần. ◎Như: 'mạch sác' 脈數 mạch chạy mau, 'sác kiến' 數見 thấy luôn. ◇Chiến quốc sách 戰國策: 'Yên tiểu nhược, sác khốn ư binh' 燕小弱, 數困於兵 (Yên sách tam 燕策三) Nước Yên nhỏ yếu, thường khốn đốn vì chiến tranh.",
+                "Một âm nữa là 'xúc'. (Tính) Nhỏ kín, đan mau, tế mật. ◇Mạnh Tử 孟子: 'Xúc cổ bất nhập ô trì' 數罟不入洿池 (Lương Huệ Vương thượng 梁惠王上) Lưới đan mau không vào ao dơ bẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðếm, đếm số vật xem là bao nhiêu gọi là sổ.",
+                "Trách mắng kẻ có tội.",
+                "Kể, cân nhắc, như sổ điển vong tổ 數典忘祖 kể điển tích quên cả chức sự của tổ, bất túc sổ 不足數 không đủ kể.",
+                "Lời tính phỏng, như sổ nhật 數日 vài ba ngày, sổ khẩu 數口 vài ba miệng, v.v.",
+                "Một âm là số. Số mục, như cơ số 奇數 số lẻ, ngẫu số 偶數 số chẵn, v.v.",
+                "Thuật số, môn toán học dùng chân số để luận về tính chất và quan hệ của số.",
+                "Số mệnh, số kiếp.",
+                "Lại một âm là sác. Luôn luôn, như mạch sác 脉數 mạch chạy mau, sác kiến 數見 thấy luôn.",
+                "Một âm nữa là xúc. Nhỏ, đan mau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhiều lần, luôn luôn, thường: 幾死者數矣 Suýt chết đã mấy lần rồi (Liễu Tôn Nguyên: Bộ xà giả thuyết); 是時地數震裂，衆火頻降 Khi ấy đất thường động vỡ, nhiều trận hoả tai giáng xuống (Hậu Hán thư). 【數見不鮮】sác kiến bất tiên [shuò jiàn bùxian] Thường gặp chẳng mới mẻ gì (không có gì lạ). Xem 數 [cù], [shư], [shù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhiều lần — Các âm khác là Số, Sổ, Xúc. Coi các âm này."
+            ]
+        },
+        "số": {
+            "Từ điển phổ thông": [
+                "số lượng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đếm, tính. ◇Trang Tử 莊子: 'Phún tắc đại giả như châu, tiểu giả như vụ, tạp nhi hạ giả, bất khả thắng sổ dã' 噴則大者如珠, 小者如霧, 雜而下者, 不可勝數也 (Thu thủy 秋水) Phun ra giọt lớn bằng hạt trai, giọt nhỏ như hạt sương mù, lộn xộn rơi xuống, không thể đếm xuể.",
+                "(Động) Trách mắng. ◎Như: 'diện sổ kì tội' 面數其罪 ngay mặt trách tội.",
+                "(Động) Kể, cân nhắc. ◎Như: 'sổ điển vong tổ' 數典忘祖 mất gốc (kể điển tích quên cả chức sự của tổ), 'bất túc sổ' 不足數 không đủ để kể.",
+                "(Phó) (Kể ra thì thấy) trội nhất, hơn hết (trong số, trong vòng). ◎Như: 'toàn ban sổ tha công khóa tối hảo' 全班數他功課最好 trong cả lớp, anh ta được coi là học giỏi nhất.",
+                "(Tính) Vài, mấy. ◎Như: 'sổ nhật' 數日 vài ba ngày, 'sổ khẩu' 數口 vài ba miệng. ◇Mạnh Tử 孟子: 'Sổ khẩu chi gia, khả dĩ vô cơ hĩ' 數口之家, 可以無饑矣 (Lương Huệ Vương thượng 梁惠王上) Vài miệng ăn (nhân khẩu) trong nhà ấy chẳng đến nỗi đói khổ.",
+                "Một âm là 'số'. (Danh) Số mục, số lượng. ◎Như: 'nhân số' 人數 số người, 'thứ sổ' 次數 số lần.",
+                "(Danh) Phép toán thời xưa. § Một trong 'lục nghệ' 六藝 sáu môn học cơ bản: 'lễ' 禮, 'nhạc' 樂, 'xạ' 射 bắn, 'ngự' 御 cầm cương cưỡi ngựa, 'thư' 書 viết, 'số' 數 học về toán.",
+                "(Danh) Thuật bói, thuật chiêm bốc. ◇Tả truyện 左傳: 'Quy, tượng dã. Thệ số dã' 龜, 象也. 筮數也 (Hi Công thập ngũ niên 僖公十五年).",
+                "(Danh) Vận mệnh, khí vận. ◎Như: 'thiên số' 天數, 'kiếp số' 劫數. ◇Hồng Lâu Mộng 紅樓夢: 'Thử diệc tĩnh cực tư động, vô trung sanh hữu chi số dã' 此亦靜極思動, 無中生有之數也 (Đệ nhất hồi) Đấy cũng là cái số kiếp \"tĩnh lắm thì nghĩ tới động\", \"từ không sinh ra có\" đó thôi.",
+                "(Danh) Quy luật, phép tắc. ◇Hậu Hán Thư 後漢書: 'Phù cùng cao tắc nguy, đại mãn tắc dật, nguyệt doanh tắc khuyết, nhật trung tắc di, phàm thử tứ giả, tự nhiên chi số dã' 夫窮高則危, 大滿則溢, 月盈則缺, 日中則移, 凡此四者, 自然之數也 (Lí Cố truyện 李固傳) Cao tới cùng thì nguy hiểm, đầy quá thì tràn, trăng tròn rồi khuyết, mặt trời ở giữa thì dời đi, phàm bốn điều đó, là những quy luật tự nhiên vậy.",
+                "(Danh) Chế độ pháp luật. ◇Quản Tử 管子: 'Thánh quân nhậm pháp nhi bất nhậm trí, nhậm số nhi bất nhậm thuyết' 聖君任法而不任智, 任數而不任說 (Nhậm pháp 任法).",
+                "(Danh) Tài nghệ. ◇Mạnh Tử 孟子: 'Kim phù dịch chi vi số, tiểu số dã' 今夫奕之為數, 小數也 (Cáo tử thượng 告子上) Nay đánh cờ là một tài nghệ, (nhưng chỉ là) một tài nghệ nhỏ thôi.",
+                "Lại một âm là 'sác'. (Phó) Luôn luôn, thường, nhiều lần. ◎Như: 'mạch sác' 脈數 mạch chạy mau, 'sác kiến' 數見 thấy luôn. ◇Chiến quốc sách 戰國策: 'Yên tiểu nhược, sác khốn ư binh' 燕小弱, 數困於兵 (Yên sách tam 燕策三) Nước Yên nhỏ yếu, thường khốn đốn vì chiến tranh.",
+                "Một âm nữa là 'xúc'. (Tính) Nhỏ kín, đan mau, tế mật. ◇Mạnh Tử 孟子: 'Xúc cổ bất nhập ô trì' 數罟不入洿池 (Lương Huệ Vương thượng 梁惠王上) Lưới đan mau không vào ao dơ bẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðếm, đếm số vật xem là bao nhiêu gọi là sổ.",
+                "Trách mắng kẻ có tội.",
+                "Kể, cân nhắc, như sổ điển vong tổ 數典忘祖 kể điển tích quên cả chức sự của tổ, bất túc sổ 不足數 không đủ kể.",
+                "Lời tính phỏng, như sổ nhật 數日 vài ba ngày, sổ khẩu 數口 vài ba miệng, v.v.",
+                "Một âm là số. Số mục, như cơ số 奇數 số lẻ, ngẫu số 偶數 số chẵn, v.v.",
+                "Thuật số, môn toán học dùng chân số để luận về tính chất và quan hệ của số.",
+                "Số mệnh, số kiếp.",
+                "Lại một âm là sác. Luôn luôn, như mạch sác 脉數 mạch chạy mau, sác kiến 數見 thấy luôn.",
+                "Một âm nữa là xúc. Nhỏ, đan mau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Số: 人數太多 Số người nhiều quá; 奇數 Số lẻ; 偶數 Số chẵn;",
+                "Mấy, vài: 數次 Mấy lần; 數日 Vài ngày;",
+                "Thuật số;",
+                "Toán thuật (một trong 6 môn học cơ bản thời xưa — gọi là lục nghệ);",
+                "(văn) Phép tắc, quy luật;",
+                "(văn) Vận mạng, số mạng;",
+                "(văn) Tài nghệ: 今夫弈之爲數，小數也 Nay đánh cờ là một tài nghệ, nhưng nó chỉ là một tài nghệ nhỏ thôi (Mạnh tử: Cáo tử thượng);",
+                "(văn) Lí lẽ: 以新旅與習故爭，其數不勝也 Đem khách mới cho tranh với bạn quen cũ, về lí lẽ thì sẽ không thắng được (Hàn Phi tử: Cô phẫn). Xem 數 [cù], [shư], [shuò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chữ dùng để đếm, tức con số — Cuộc đời được trời sắp đặt trước. Ca dao có câu: » Số giàu lấy khó cũng giàu, số nghèo chín đụn mười trâu cũng nghèo « — Một âm là Sổ. Xem Sổ."
+            ],
+            "compound_words": {
+                "備數": "bị số",
+                "變數": "biến số",
+                "倍數": "bội số",
+                "級數": "cấp số",
+                "質數": "chất số",
+                "指數": "chỉ số",
+                "整數": "chỉnh số",
+                "基數": "cơ số",
+                "民數": "dân số",
+                "多數": "đa số",
+                "大多數": "đại đa số",
+                "代數": "đại số",
+                "倒數": "đảo số",
+                "答數": "đáp số",
+                "噸數": "đốn số",
+                "單數": "đơn số",
+                "函數": "hàm số",
+                "恆河沙數": "hằng hà sa số",
+                "係數": "hệ số",
+                "氣數": "khí số",
+                "奇數": "kỳ số",
+                "理數": "lí số",
+                "母數": "mẫu số",
+                "偶數": "ngẫu số",
+                "人數": "nhân số",
+                "分數": "phân số",
+                "非對稱式數據用戶線": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "軍數": "quân số",
+                "數係": "số hệ",
+                "數號": "số hiệu",
+                "數學": "số học",
+                "數刼": "số kiếp",
+                "數量": "số lượng",
+                "數碼": "số mã",
+                "數命": "số mệnh",
+                "數目": "số mục",
+                "數分": "số phận",
+                "數術": "số thuật",
+                "數字": "số tự",
+                "數位": "số vị",
+                "充數": "sung số",
+                "盡數": "tận số",
+                "少數": "thiểu số",
+                "術數": "thuật số",
+                "次數": "thứ số",
+                "比數": "tỉ số",
+                "小數": "tiểu số",
+                "總數": "tổng số",
+                "足數": "túc số",
+                "歲數": "tuế số",
+                "子數": "tử số",
+                "紫微斗數": "tử vi đẩu số",
+                "相數": "tướng số",
+                "約數": "ước số",
+                "運數": "vận số",
+                "無數": "vô số"
+            }
+        },
+        "sổ": {
+            "Từ điển phổ thông": [
+                "một vài",
+                "đếm",
+                "kể ra, nêu ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đếm, tính. ◇Trang Tử 莊子: 'Phún tắc đại giả như châu, tiểu giả như vụ, tạp nhi hạ giả, bất khả thắng sổ dã' 噴則大者如珠, 小者如霧, 雜而下者, 不可勝數也 (Thu thủy 秋水) Phun ra giọt lớn bằng hạt trai, giọt nhỏ như hạt sương mù, lộn xộn rơi xuống, không thể đếm xuể.",
+                "(Động) Trách mắng. ◎Như: 'diện sổ kì tội' 面數其罪 ngay mặt trách tội.",
+                "(Động) Kể, cân nhắc. ◎Như: 'sổ điển vong tổ' 數典忘祖 mất gốc (kể điển tích quên cả chức sự của tổ), 'bất túc sổ' 不足數 không đủ để kể.",
+                "(Phó) (Kể ra thì thấy) trội nhất, hơn hết (trong số, trong vòng). ◎Như: 'toàn ban sổ tha công khóa tối hảo' 全班數他功課最好 trong cả lớp, anh ta được coi là học giỏi nhất.",
+                "(Tính) Vài, mấy. ◎Như: 'sổ nhật' 數日 vài ba ngày, 'sổ khẩu' 數口 vài ba miệng. ◇Mạnh Tử 孟子: 'Sổ khẩu chi gia, khả dĩ vô cơ hĩ' 數口之家, 可以無饑矣 (Lương Huệ Vương thượng 梁惠王上) Vài miệng ăn (nhân khẩu) trong nhà ấy chẳng đến nỗi đói khổ.",
+                "Một âm là 'số'. (Danh) Số mục, số lượng. ◎Như: 'nhân số' 人數 số người, 'thứ sổ' 次數 số lần.",
+                "(Danh) Phép toán thời xưa. § Một trong 'lục nghệ' 六藝 sáu môn học cơ bản: 'lễ' 禮, 'nhạc' 樂, 'xạ' 射 bắn, 'ngự' 御 cầm cương cưỡi ngựa, 'thư' 書 viết, 'số' 數 học về toán.",
+                "(Danh) Thuật bói, thuật chiêm bốc. ◇Tả truyện 左傳: 'Quy, tượng dã. Thệ số dã' 龜, 象也. 筮數也 (Hi Công thập ngũ niên 僖公十五年).",
+                "(Danh) Vận mệnh, khí vận. ◎Như: 'thiên số' 天數, 'kiếp số' 劫數. ◇Hồng Lâu Mộng 紅樓夢: 'Thử diệc tĩnh cực tư động, vô trung sanh hữu chi số dã' 此亦靜極思動, 無中生有之數也 (Đệ nhất hồi) Đấy cũng là cái số kiếp \"tĩnh lắm thì nghĩ tới động\", \"từ không sinh ra có\" đó thôi.",
+                "(Danh) Quy luật, phép tắc. ◇Hậu Hán Thư 後漢書: 'Phù cùng cao tắc nguy, đại mãn tắc dật, nguyệt doanh tắc khuyết, nhật trung tắc di, phàm thử tứ giả, tự nhiên chi số dã' 夫窮高則危, 大滿則溢, 月盈則缺, 日中則移, 凡此四者, 自然之數也 (Lí Cố truyện 李固傳) Cao tới cùng thì nguy hiểm, đầy quá thì tràn, trăng tròn rồi khuyết, mặt trời ở giữa thì dời đi, phàm bốn điều đó, là những quy luật tự nhiên vậy.",
+                "(Danh) Chế độ pháp luật. ◇Quản Tử 管子: 'Thánh quân nhậm pháp nhi bất nhậm trí, nhậm số nhi bất nhậm thuyết' 聖君任法而不任智, 任數而不任說 (Nhậm pháp 任法).",
+                "(Danh) Tài nghệ. ◇Mạnh Tử 孟子: 'Kim phù dịch chi vi số, tiểu số dã' 今夫奕之為數, 小數也 (Cáo tử thượng 告子上) Nay đánh cờ là một tài nghệ, (nhưng chỉ là) một tài nghệ nhỏ thôi.",
+                "Lại một âm là 'sác'. (Phó) Luôn luôn, thường, nhiều lần. ◎Như: 'mạch sác' 脈數 mạch chạy mau, 'sác kiến' 數見 thấy luôn. ◇Chiến quốc sách 戰國策: 'Yên tiểu nhược, sác khốn ư binh' 燕小弱, 數困於兵 (Yên sách tam 燕策三) Nước Yên nhỏ yếu, thường khốn đốn vì chiến tranh.",
+                "Một âm nữa là 'xúc'. (Tính) Nhỏ kín, đan mau, tế mật. ◇Mạnh Tử 孟子: 'Xúc cổ bất nhập ô trì' 數罟不入洿池 (Lương Huệ Vương thượng 梁惠王上) Lưới đan mau không vào ao dơ bẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðếm, đếm số vật xem là bao nhiêu gọi là sổ.",
+                "Trách mắng kẻ có tội.",
+                "Kể, cân nhắc, như sổ điển vong tổ 數典忘祖 kể điển tích quên cả chức sự của tổ, bất túc sổ 不足數 không đủ kể.",
+                "Lời tính phỏng, như sổ nhật 數日 vài ba ngày, sổ khẩu 數口 vài ba miệng, v.v.",
+                "Một âm là số. Số mục, như cơ số 奇數 số lẻ, ngẫu số 偶數 số chẵn, v.v.",
+                "Thuật số, môn toán học dùng chân số để luận về tính chất và quan hệ của số.",
+                "Số mệnh, số kiếp.",
+                "Lại một âm là sác. Luôn luôn, như mạch sác 脉數 mạch chạy mau, sác kiến 數見 thấy luôn.",
+                "Một âm nữa là xúc. Nhỏ, đan mau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đếm: 數不清 Đếm không xuể;",
+                "Chỉ sự hơn: 我家就數他身子好 Nhà tôi chỉ có nó là khỏe hơn cả;",
+                "Kể: 不足數 Không đáng kể;",
+                "Kể tội, quở mắng: 數說 Quở trách, mắng. Xem 數 [cù], [shù], [shuò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đếm. Đếm số — Tính toán — Vài ba. Mấy — Một âm là Số. Xem Số."
+            ],
+            "compound_words": {
+                "數珠": "sổ châu",
+                "數落": "sổ lạc",
+                "總數": "tổng sổ"
+            }
+        },
+        "xúc": {
+            "Từ điển trích dẫn": [
+                "(Động) Đếm, tính. ◇Trang Tử 莊子: 'Phún tắc đại giả như châu, tiểu giả như vụ, tạp nhi hạ giả, bất khả thắng sổ dã' 噴則大者如珠, 小者如霧, 雜而下者, 不可勝數也 (Thu thủy 秋水) Phun ra giọt lớn bằng hạt trai, giọt nhỏ như hạt sương mù, lộn xộn rơi xuống, không thể đếm xuể.",
+                "(Động) Trách mắng. ◎Như: 'diện sổ kì tội' 面數其罪 ngay mặt trách tội.",
+                "(Động) Kể, cân nhắc. ◎Như: 'sổ điển vong tổ' 數典忘祖 mất gốc (kể điển tích quên cả chức sự của tổ), 'bất túc sổ' 不足數 không đủ để kể.",
+                "(Phó) (Kể ra thì thấy) trội nhất, hơn hết (trong số, trong vòng). ◎Như: 'toàn ban sổ tha công khóa tối hảo' 全班數他功課最好 trong cả lớp, anh ta được coi là học giỏi nhất.",
+                "(Tính) Vài, mấy. ◎Như: 'sổ nhật' 數日 vài ba ngày, 'sổ khẩu' 數口 vài ba miệng. ◇Mạnh Tử 孟子: 'Sổ khẩu chi gia, khả dĩ vô cơ hĩ' 數口之家, 可以無饑矣 (Lương Huệ Vương thượng 梁惠王上) Vài miệng ăn (nhân khẩu) trong nhà ấy chẳng đến nỗi đói khổ.",
+                "Một âm là 'số'. (Danh) Số mục, số lượng. ◎Như: 'nhân số' 人數 số người, 'thứ sổ' 次數 số lần.",
+                "(Danh) Phép toán thời xưa. § Một trong 'lục nghệ' 六藝 sáu môn học cơ bản: 'lễ' 禮, 'nhạc' 樂, 'xạ' 射 bắn, 'ngự' 御 cầm cương cưỡi ngựa, 'thư' 書 viết, 'số' 數 học về toán.",
+                "(Danh) Thuật bói, thuật chiêm bốc. ◇Tả truyện 左傳: 'Quy, tượng dã. Thệ số dã' 龜, 象也. 筮數也 (Hi Công thập ngũ niên 僖公十五年).",
+                "(Danh) Vận mệnh, khí vận. ◎Như: 'thiên số' 天數, 'kiếp số' 劫數. ◇Hồng Lâu Mộng 紅樓夢: 'Thử diệc tĩnh cực tư động, vô trung sanh hữu chi số dã' 此亦靜極思動, 無中生有之數也 (Đệ nhất hồi) Đấy cũng là cái số kiếp \"tĩnh lắm thì nghĩ tới động\", \"từ không sinh ra có\" đó thôi.",
+                "(Danh) Quy luật, phép tắc. ◇Hậu Hán Thư 後漢書: 'Phù cùng cao tắc nguy, đại mãn tắc dật, nguyệt doanh tắc khuyết, nhật trung tắc di, phàm thử tứ giả, tự nhiên chi số dã' 夫窮高則危, 大滿則溢, 月盈則缺, 日中則移, 凡此四者, 自然之數也 (Lí Cố truyện 李固傳) Cao tới cùng thì nguy hiểm, đầy quá thì tràn, trăng tròn rồi khuyết, mặt trời ở giữa thì dời đi, phàm bốn điều đó, là những quy luật tự nhiên vậy.",
+                "(Danh) Chế độ pháp luật. ◇Quản Tử 管子: 'Thánh quân nhậm pháp nhi bất nhậm trí, nhậm số nhi bất nhậm thuyết' 聖君任法而不任智, 任數而不任說 (Nhậm pháp 任法).",
+                "(Danh) Tài nghệ. ◇Mạnh Tử 孟子: 'Kim phù dịch chi vi số, tiểu số dã' 今夫奕之為數, 小數也 (Cáo tử thượng 告子上) Nay đánh cờ là một tài nghệ, (nhưng chỉ là) một tài nghệ nhỏ thôi.",
+                "Lại một âm là 'sác'. (Phó) Luôn luôn, thường, nhiều lần. ◎Như: 'mạch sác' 脈數 mạch chạy mau, 'sác kiến' 數見 thấy luôn. ◇Chiến quốc sách 戰國策: 'Yên tiểu nhược, sác khốn ư binh' 燕小弱, 數困於兵 (Yên sách tam 燕策三) Nước Yên nhỏ yếu, thường khốn đốn vì chiến tranh.",
+                "Một âm nữa là 'xúc'. (Tính) Nhỏ kín, đan mau, tế mật. ◇Mạnh Tử 孟子: 'Xúc cổ bất nhập ô trì' 數罟不入洿池 (Lương Huệ Vương thượng 梁惠王上) Lưới đan mau không vào ao dơ bẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðếm, đếm số vật xem là bao nhiêu gọi là sổ.",
+                "Trách mắng kẻ có tội.",
+                "Kể, cân nhắc, như sổ điển vong tổ 數典忘祖 kể điển tích quên cả chức sự của tổ, bất túc sổ 不足數 không đủ kể.",
+                "Lời tính phỏng, như sổ nhật 數日 vài ba ngày, sổ khẩu 數口 vài ba miệng, v.v.",
+                "Một âm là số. Số mục, như cơ số 奇數 số lẻ, ngẫu số 偶數 số chẵn, v.v.",
+                "Thuật số, môn toán học dùng chân số để luận về tính chất và quan hệ của số.",
+                "Số mệnh, số kiếp.",
+                "Lại một âm là sác. Luôn luôn, như mạch sác 脉數 mạch chạy mau, sác kiến 數見 thấy luôn.",
+                "Một âm nữa là xúc. Nhỏ, đan mau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhặt: 數罟不入洿池Lưới nhặt không vào ao lớn (Mạnh tử: Lương Huệ vương thượng). Xem 數 [shư], [shù], [shuò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé — Các âm khác là Sác, Số, Sổ. Xem các âm này."
+            ]
+        }
+    }
+}

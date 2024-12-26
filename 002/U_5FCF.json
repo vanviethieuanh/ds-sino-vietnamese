@@ -1,0 +1,68 @@
+{
+    "character": "忏",
+    "details": {
+        "Âm Hán Việt": [
+            "sám",
+            "thiên"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "tâm 心 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖千"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "PHJ (心竹十)"
+        ],
+        "Unicode": [
+            "U+5FCF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chàn ㄔㄢˋ"
+        ],
+        "Âm Nôm": [
+            "sám",
+            "sắm",
+            "thin"
+        ],
+        "Âm Quảng Đông": [
+            "caam3"
+        ]
+    },
+    "meanings": {
+        "sám": {
+            "Từ điển phổ thông": [
+                "ăn năn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 懺"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 懺"
+            ],
+            "compound_words": {
+                "忏悔": "sám hối"
+            }
+        },
+        "thiên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đẹp đẽ. Tốt đẹp."
+            ]
+        }
+    }
+}

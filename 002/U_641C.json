@@ -1,0 +1,120 @@
+{
+    "character": "搜",
+    "details": {
+        "Âm Hán Việt": [
+            "sưu",
+            "sảo",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘叟"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨一フ一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "QHXE (手竹重水)"
+        ],
+        "Unicode": [
+            "U+641C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sōu ㄙㄡ"
+        ],
+        "Âm Nôm": [
+            "sưu",
+            "xâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "シュ (shu)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さが.す (saga.su)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau1",
+            "sau2"
+        ]
+    },
+    "meanings": {
+        "sưu": {
+            "Từ điển phổ thông": [
+                "tìm, lục, soát"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tìm kiếm. ◎Như: 'sưu la' 搜羅 tìm kiếm. ◇Liêu trai chí dị 聊齋志異: 'Dĩ nhi chủ nhân liễm tửu cụ, thiểu nhất tước, minh sưu bất đắc' 已而主人斂酒具, 少一爵, 冥搜不得 (Hồ giá nữ 狐嫁女) Xong xuôi, chủ nhân thu dọn bàn tiệc, thấy thiếu một cái chén, tìm khắp không ra.",
+                "(Động) Kiểm tra, kiểm điểm. ◎Như: 'sưu thân' 搜身 kiểm soát trên người (có mang vật gì nguy hiểm hoặc phạm pháp). ◇Tây sương kí 西廂記: 'Bất khẳng sưu tự kỉ cuồng vi, chỉ đãi yêu mịch biệt nhân phá trán' 不肯搜自己狂為, 只待要覓別人破綻 (Đệ tam bổn 第三本, Đệ nhị chiết) Không chịu kiểm điểm là mình dại dột, mà chỉ muốn kiếm ra khuyết điểm sơ hở của người khác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tìm tòi, như sưu la 搜羅 tìm tòi, lục lọi, sưu kiểm 搜檢 tìm soát.",
+                "Róc lấy, bóc lột, như sưu quát 搜括 quan lại bóc lột của dân.",
+                "Tìm nghĩ, như sưu sách khô tràng 搜索枯腸 hết sức tìm tòi suy nghĩ (nặn ruột mà nghĩ).",
+                "Một âm là sảo. Rối loạn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tìm tòi: 搜羅人才 Tìm kiếm nhân tài;",
+                "Khám xét, kiểm tra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tìm. Tìm tòi — Các âm khác là Sảo, Tiêu. Xem các âm này."
+            ],
+            "compound_words": {
+                "冥搜": "minh sưu",
+                "搜捕": "sưu bộ",
+                "搜求": "sưu cầu",
+                "搜空": "sưu không",
+                "搜檢": "sưu kiểm",
+                "搜羅": "sưu la",
+                "搜拿": "sưu nã",
+                "搜索": "sưu sách",
+                "搜尋": "sưu tầm",
+                "搜集": "sưu tập",
+                "搜查": "sưu tra",
+                "搜除": "sưu trừ"
+            }
+        },
+        "sảo": {
+            "Từ điển trích dẫn": [
+                "(Động) Tìm kiếm. ◎Như: 'sưu la' 搜羅 tìm kiếm. ◇Liêu trai chí dị 聊齋志異: 'Dĩ nhi chủ nhân liễm tửu cụ, thiểu nhất tước, minh sưu bất đắc' 已而主人斂酒具, 少一爵, 冥搜不得 (Hồ giá nữ 狐嫁女) Xong xuôi, chủ nhân thu dọn bàn tiệc, thấy thiếu một cái chén, tìm khắp không ra.",
+                "(Động) Kiểm tra, kiểm điểm. ◎Như: 'sưu thân' 搜身 kiểm soát trên người (có mang vật gì nguy hiểm hoặc phạm pháp). ◇Tây sương kí 西廂記: 'Bất khẳng sưu tự kỉ cuồng vi, chỉ đãi yêu mịch biệt nhân phá trán' 不肯搜自己狂為, 只待要覓別人破綻 (Đệ tam bổn 第三本, Đệ nhị chiết) Không chịu kiểm điểm là mình dại dột, mà chỉ muốn kiếm ra khuyết điểm sơ hở của người khác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tìm tòi, như sưu la 搜羅 tìm tòi, lục lọi, sưu kiểm 搜檢 tìm soát.",
+                "Róc lấy, bóc lột, như sưu quát 搜括 quan lại bóc lột của dân.",
+                "Tìm nghĩ, như sưu sách khô tràng 搜索枯腸 hết sức tìm tòi suy nghĩ (nặn ruột mà nghĩ).",
+                "Một âm là sảo. Rối loạn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quấy rối — Các âm khác là Sưu, Tiêu. Xem các âm này."
+            ],
+            "compound_words": {
+                "搜攪": "sảo giảo"
+            }
+        },
+        "tiêu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiêu tiêu 搜搜: Dáng vẻ xao động."
+            ]
+        }
+    }
+}

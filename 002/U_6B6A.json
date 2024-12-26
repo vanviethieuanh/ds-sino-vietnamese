@@ -1,0 +1,110 @@
+{
+    "character": "歪",
+    "details": {
+        "Âm Hán Việt": [
+            "oa",
+            "oai"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "chỉ 止 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱不正"
+        ],
+        "Nét bút": [
+            "一ノ丨丶一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "MFMYM (一火一卜一)"
+        ],
+        "Unicode": [
+            "U+6B6A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wāi ㄨㄞ",
+            "wǎi ㄨㄞˇ"
+        ],
+        "Âm Nôm": [
+            "oa",
+            "oai",
+            "quay"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワイ (wai)",
+            "エ (e)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いが.む (iga.mu)",
+            "いびつ (ibitsu)",
+            "ひず.む (hizu.mu)",
+            "ゆが.む (yuga.mu)"
+        ],
+        "Âm Hàn": [
+            "왜",
+            "애"
+        ],
+        "Âm Quảng Đông": [
+            "me2",
+            "waai1"
+        ]
+    },
+    "meanings": {
+        "oa": {
+            "Từ điển phổ thông": [
+                "méo, lệch"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Méo lệch, nghiêng. ◎Như: 'oai đầu' 歪頭 đầu nghiêng, 'oai tà' 歪斜 nghiêng lệch.",
+                "(Tính) Không chính đáng. ◎Như: 'oai chủ ý' 歪主意 chủ ý không chính đáng.",
+                "(Động) Nghiêng về một bên. ◎Như: 'oai trước đầu' 歪著頭 nghiêng đầu. ◇Thủy hử truyện 水滸傳: 'Phác đích chỉ nhất quyền, chánh đả tại tị tử thượng, đả đắc tiên huyết bính lưu, tị tử oai tại bán biên' 撲的只一拳, 正打在鼻子上, 打得鮮血迸流, 鼻子歪在半邊 (Đệ tam hồi) Đấm một quả vào mũi, máu tươi vọt ra, mũi vẹt sang một bên.",
+                "(Động) Tạm nghỉ. ◎Như: 'tại sàng thượng oai nhất hội nhi' 在床上歪一會兒 trên giường tạm nghỉ một lát.",
+                "(Động) Sái, trật (bị thương). ◎Như: 'oai liễu cước' 歪了腳 trật chân rồi.",
+                "§ Ta quen đọc là 'oa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Méo lệch. Ta quen đọc là chữ oa."
+            ],
+            "compound_words": {
+                "弄歪": "lộng oai"
+            }
+        },
+        "oai": {
+            "Từ điển phổ thông": [
+                "méo, lệch"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Méo lệch, nghiêng. ◎Như: 'oai đầu' 歪頭 đầu nghiêng, 'oai tà' 歪斜 nghiêng lệch.",
+                "(Tính) Không chính đáng. ◎Như: 'oai chủ ý' 歪主意 chủ ý không chính đáng.",
+                "(Động) Nghiêng về một bên. ◎Như: 'oai trước đầu' 歪著頭 nghiêng đầu. ◇Thủy hử truyện 水滸傳: 'Phác đích chỉ nhất quyền, chánh đả tại tị tử thượng, đả đắc tiên huyết bính lưu, tị tử oai tại bán biên' 撲的只一拳, 正打在鼻子上, 打得鮮血迸流, 鼻子歪在半邊 (Đệ tam hồi) Đấm một quả vào mũi, máu tươi vọt ra, mũi vẹt sang một bên.",
+                "(Động) Tạm nghỉ. ◎Như: 'tại sàng thượng oai nhất hội nhi' 在床上歪一會兒 trên giường tạm nghỉ một lát.",
+                "(Động) Sái, trật (bị thương). ◎Như: 'oai liễu cước' 歪了腳 trật chân rồi.",
+                "§ Ta quen đọc là 'oa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Méo lệch. Ta quen đọc là chữ oa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lệch, méo, xéo, nghiêng, xiêu vẹo: 歪着頭 Nghiêng đầu; 這張畫掛歪了 Bức tranh này treo lệch rồi; 房子歪歪倒倒的 Nhà cửa xiêu vẹo;",
+                "Không chính đáng: 歪道 Con đường không chính đáng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cong vẹo, không thẳng."
+            ],
+            "compound_words": {
+                "弄歪": "lộng oai"
+            }
+        }
+    }
+}

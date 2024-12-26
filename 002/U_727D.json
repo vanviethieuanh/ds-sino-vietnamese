@@ -1,0 +1,101 @@
+{
+    "character": "牽",
+    "details": {
+        "Âm Hán Việt": [
+            "khiên",
+            "khản"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngưu 牛 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "丶一フフ丶丶フノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YVBQ (卜女月手)"
+        ],
+        "Unicode": [
+            "U+727D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ",
+            "qiàn ㄑㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "khiên",
+            "khin"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "견"
+        ],
+        "Âm Quảng Đông": [
+            "hin1"
+        ]
+    },
+    "meanings": {
+        "khiên": {
+            "Từ điển phổ thông": [
+                "dắt đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dắt đi. ◎Như: 'khiên ngưu' 牽牛 dắt bò, 'khiên thủ' 牽手 dắt tay.",
+                "(Động) Vướng, ràng buộc. ◎Như: 'khiên bạn' 牽絆 vướng mắc.",
+                "(Động) Co kéo, gượng ép. ◎Như: 'câu văn khiên nghĩa' 拘文牽義 co kéo câu văn, nghĩa văn gượng ép.",
+                "(Động) Liên lụy, dính dấp. ◎Như: 'khiên thiệp' 牽涉 dính líu, 'khiên liên' 牽連 liên lụy.",
+                "(Danh) Họ 'Khiên'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dắt đi, tiến thoái không được tự do cũng gọi là khiên, như khiên bạn 牽絆 vướng mắc.",
+                "Co kéo, như câu văn khiên nghĩa 拘文牽義 co kéo câu văn, nghĩa là văn không được chải chuốt.",
+                "Liền.",
+                "Câu chấp.",
+                "Một âm là khản. Dây kéo thuyền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dắt: 牽牛 Dắt bò; 手牽着手 Tay dắt tay;",
+                "Rút, kéo: 牽一髮而動全身 Kéo một sợi tóc làm động cả toàn thân;",
+                "Dính dáng, dính dấp, liên luỵ: 這案子牽連甚廣 Vụ án này dính dấp đến nhiều người;",
+                "Vướng, ràng buộc: 牽絆 Vướng mắc;",
+                "Co kéo, gượng ép: 拘文牽義 Co kéo văn nghĩa, văn câu thúc nghĩa gượng ép (không được chải chuốt)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dẫn đi. Kéo tới trước — Ràng buộc. Câu thúc — Liền nhau."
+            ],
+            "compound_words": {
+                "牽制": "khiên chế",
+                "牽引": "khiên dẫn",
+                "牽連": "khiên liên",
+                "牽牛": "khiên ngưu",
+                "牽牛織女": "khiên ngưu chức nữ",
+                "冤牽": "oan khiên"
+            }
+        },
+        "khản": {
+            "Từ điển Thiều Chửu": [
+                "Dắt đi, tiến thoái không được tự do cũng gọi là khiên, như khiên bạn 牽絆 vướng mắc.",
+                "Co kéo, như câu văn khiên nghĩa 拘文牽義 co kéo câu văn, nghĩa là văn không được chải chuốt.",
+                "Liền.",
+                "Câu chấp.",
+                "Một âm là khản. Dây kéo thuyền."
+            ]
+        }
+    }
+}

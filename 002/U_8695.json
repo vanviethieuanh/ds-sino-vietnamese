@@ -1,0 +1,89 @@
+{
+    "character": "蚕",
+    "details": {
+        "Âm Hán Việt": [
+            "tàm",
+            "tằm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trùng 虫 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱天虫"
+        ],
+        "Nét bút": [
+            "一一ノ丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "HKLMI (竹大中一戈)"
+        ],
+        "Unicode": [
+            "U+8695"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cán ㄘㄢˊ",
+            "tiǎn ㄊㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "tàm",
+            "tằm",
+            "tòm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かいこ (kaiko)",
+            "こ (ko)"
+        ],
+        "Âm Hàn": [
+            "천",
+            "잠"
+        ],
+        "Âm Quảng Đông": [
+            "caam4",
+            "tim5"
+        ]
+    },
+    "meanings": {
+        "tàm": {
+            "Từ điển phổ thông": [
+                "con tằm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tục dùng như chữ 'tàm' 蠶.",
+                "§ Giản thể của chữ 蠶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ tàm 蠶, nguyên là chữ điến là giống giun."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tằm: 養蠶 Nuôi tằm; 養蠶業 Nghề nuôi tằm;",
+                "(Lấn chiếm) dần dần (như tằm ăn): 蠶食諸候 Xâm lấn dần đất của các nước chư hầu;",
+                "(văn) Chăn tằm;",
+                "【蠶室】 tàm thất [cánshì] (văn) Nhà ngục thiến người (vì kẻ bị thiến phải ở buồng kín như buồng tằm)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết giản dị của chữ Tàm 蠶."
+            ]
+        },
+        "tằm": {
+            "Từ điển phổ thông": [
+                "con tằm"
+            ]
+        }
+    }
+}

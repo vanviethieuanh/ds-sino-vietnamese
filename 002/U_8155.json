@@ -1,0 +1,93 @@
+{
+    "character": "腕",
+    "details": {
+        "Âm Hán Việt": [
+            "oản",
+            "uyển"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhục 肉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月宛"
+        ],
+        "Nét bút": [
+            "ノフ一一丶丶フノフ丶フフ"
+        ],
+        "Thương Hiệt": [
+            "BJNU (月十弓山)"
+        ],
+        "Unicode": [
+            "U+8155"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wàn ㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "oản",
+            "uyển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワン (wan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うで (ude)"
+        ],
+        "Âm Hàn": [
+            "완"
+        ],
+        "Âm Quảng Đông": [
+            "wun2"
+        ]
+    },
+    "meanings": {
+        "oản": {
+            "Từ điển phổ thông": [
+                "cổ tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ tay. § Cũng gọi là 'oản tử' 腕子. ◎Như: 'ách oản' 扼腕 chống tay, nắm cổ tay. Diễn tả: (1) dáng người ta lúc thất ý, toan tính không ra. (2) vẻ phẫn nộ. (3) dáng đắc chí, phấn chấn. (4) dáng than van, thở dài.",
+                "Cũng đọc là 'uyển'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cổ tay. Người ta tới lúc thất ý thường chống tay thở dài, nên toan tính không ra gọi là ách oản 扼腕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cổ tay: 腕力 Sức cổ tay; 腕子 Cổ tay. Cg. 腕兒 [wànr]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cổ tay. Cườm tay."
+            ],
+            "compound_words": {
+                "扼腕": "ách oản",
+                "手腕": "thủ oản"
+            }
+        },
+        "uyển": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ tay. § Cũng gọi là 'oản tử' 腕子. ◎Như: 'ách oản' 扼腕 chống tay, nắm cổ tay. Diễn tả: (1) dáng người ta lúc thất ý, toan tính không ra. (2) vẻ phẫn nộ. (3) dáng đắc chí, phấn chấn. (4) dáng than van, thở dài.",
+                "Cũng đọc là 'uyển'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cổ tay: 腕力 Sức cổ tay; 腕子 Cổ tay. Cg. 腕兒 [wànr]."
+            ],
+            "compound_words": {
+                "握腕": "ác uyển",
+                "扼腕": "ách uyển",
+                "圓腕": "viên uyển"
+            }
+        }
+    }
+}

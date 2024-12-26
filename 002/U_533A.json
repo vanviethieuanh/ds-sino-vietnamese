@@ -1,0 +1,96 @@
+{
+    "character": "区",
+    "details": {
+        "Âm Hán Việt": [
+            "khu",
+            "âu"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "hễ 匸 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿷匚㐅"
+        ],
+        "Nét bút": [
+            "一ノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "SK (尸大)"
+        ],
+        "Unicode": [
+            "U+533A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ōu ㄛㄨ",
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "âu",
+            "khu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)",
+            "オウ (ō)",
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "구",
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "au1",
+            "keoi1"
+        ]
+    },
+    "meanings": {
+        "khu": {
+            "Từ điển phổ thông": [
+                "khu vực, vùng"
+            ],
+            "Từ điển trích dẫn": [
+                "Một dạng của chữ 'khu' 區.",
+                "Giản thể của chữ 區."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khu, vùng: 工業區 Khu công nghiệp; 自治區 Khu tự trị; 山區 Vùng núi; 礦區 Vùng mỏ; 郊區 Vùng ngoại ô;",
+                "Phân biệt, chia ra;",
+                "【區區】 khu khu [ququ] Nhỏ, bé, nhỏ nhặt, nhỏ mọn: 區區小事，何足掛齒 Việc nhỏ nhặt có đáng kể gì đâu; 然而秦以區區之地，致萬乘之權 Nhưng mà nước Tần dùng miếng đất nhỏ xíu, đạt được quyền lực của hoàng đế (Giả Nghị: Quá Tần luận). Xem 區 [ou]."
+            ],
+            "compound_words": {
+                "战区": "chiến khu",
+                "地区": "địa khu",
+                "档案分配区": "đương án phân phối khu",
+                "教区": "giáo khu",
+                "区区": "khu khu",
+                "区域": "khu vực"
+            }
+        },
+        "âu": {
+            "Từ điển phổ thông": [
+                "cái âu",
+                "âu (đơn vị đo khối lượng, bằng bốn đấu)",
+                "họ Âu"
+            ],
+            "Từ điển trích dẫn": [
+                "Một dạng của chữ 'khu' 區.",
+                "Giản thể của chữ 區."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái âu (một thứ đấu thời xưa, bằng 12 thưng);",
+                "[Ou] (Họ) Âu. Xem 區 [qu]."
+            ]
+        }
+    }
+}

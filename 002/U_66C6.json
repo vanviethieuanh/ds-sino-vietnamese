@@ -1,0 +1,88 @@
+{
+    "character": "曆",
+    "details": {
+        "Âm Hán Việt": [
+            "lịch"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nhật 日 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厤日"
+        ],
+        "Nét bút": [
+            "一ノノ一丨ノ丶ノ一丨ノ丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MDA (一木日)"
+        ],
+        "Unicode": [
+            "U+66C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "lịch",
+            "rếch",
+            "rích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レキ (reki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こよみ (koyomi)"
+        ],
+        "Âm Hàn": [
+            "력",
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "lik6"
+        ]
+    },
+    "meanings": {
+        "lịch": {
+            "Từ điển phổ thông": [
+                "lịch pháp, lịch chí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phương pháp tính năm tháng, thời tiết. § Theo vòng quay của mặt trời, mặt trăng mà tính rồi định ra năm tháng thời tiết gọi là 'lịch pháp' 曆法. Lịch tính theo vòng mặt trăng quay quanh quả đất gọi là 'âm lịch' 陰曆. Lịch tính theo vòng quả đất quay quanh mặt trời gọi là 'dương lịch' 陽曆. Vì kiêng tên vua Cao Tôn 高宗 nhà Thanh 清 là 'Lịch' 曆 nên sau viết là 歷. ◇Hoài Nam Tử 淮南子: 'Tinh nguyệt chi hành, khả dĩ lịch thôi đắc dã' 星月之行, 可以曆推得也 (Bổn kinh 本經) Vận hành của các sao và mặt trăng, có thể dùng lịch pháp để suy tính được.",
+                "(Danh) Quyển sách ghi năm, tháng, ngày, mùa, thời tiết. ◇Cựu Đường Thư 舊唐書: 'Lệnh tạo tân lịch' 令造新曆 (Lịch chí nhất 曆志一) (Vua Huyền Tông) ra lệnh làm lịch mới.",
+                "(Danh) Niên đại. ◇Hán Thư 後漢書: 'Chu quá kì lịch, Tần bất cập kì' 周過其曆, 秦不及期 (Chư hầu vương biểu 諸侯王表) Nhà Chu thì quá niên đại, mà nhà Tần thì chưa đến hạn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái vòng của mặt trời, mặt trăng quay đi, người ta cứ theo sức quay của nó mà tính rồi định ra năm tháng thì tiết gọi là lịch pháp 曆法. Lịch Tàu tính theo vòng mặt trăng quay quanh quả đất mà định tháng, định năm gọi là âm lịch 陰曆. Lịch Tây tính theo vòng quả đất quay chung quanh mặt trời mà định năm tháng gọi là dương lịch 陽曆. Vì kiêng tên vua Cao Tôn 高宗 nhà Thanh 清 là Lịch 曆 nên sau cứ viết là 歷."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phép tính năm tháng ngày giờ — Niên đại của một triều vua — Cuốn nhật kí, ghi chép sự việc theo năm tháng ngày giờ."
+            ],
+            "compound_words": {
+                "陰曆": "âm lịch",
+                "陽曆": "dương lịch",
+                "曆本": "lịch bản",
+                "曆正": "lịch chính",
+                "曆頭": "lịch đầu",
+                "曆法": "lịch pháp",
+                "曆書": "lịch thư",
+                "月曆": "nguyệt lịch",
+                "日曆": "nhật lịch",
+                "年曆": "niên lịch",
+                "農曆": "nông lịch",
+                "新曆": "tân lịch"
+            }
+        }
+    }
+}

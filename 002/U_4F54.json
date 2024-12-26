@@ -1,0 +1,112 @@
+{
+    "character": "佔",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêm",
+            "chiếm"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻占"
+        ],
+        "Nét bút": [
+            "ノ丨丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OYR (人卜口)"
+        ],
+        "Unicode": [
+            "U+4F54"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhān ㄓㄢ",
+            "zhàn ㄓㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chiêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チン (chin)",
+            "セン (sen)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みる (miru)",
+            "うかが.う (ukaga.u)",
+            "し.める (shi.meru)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "zim3"
+        ]
+    },
+    "meanings": {
+        "chiêm": {
+            "Từ điển phổ thông": [
+                "quan sát, theo dõi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dòm, nhìn xem. § Cũng như 'chiêm' 覘.",
+                "Một âm là 'chiếm'. (Động) Đoạt lấy. § Cũng như 'chiếm' 占. ◎Như: 'chiếm cứ' 佔據 chiếm giữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dòm xem.",
+                "Một âm là chiếm. Chiếm lấy, như chiếm cứ 佔據 chiếm giữ lấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dòm, nhìn xem."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn. Xem — Lấy làm của mình. Một âm khác là Chiếm."
+            ]
+        },
+        "chiếm": {
+            "Từ điển phổ thông": [
+                "chiếm đoạt của người khác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dòm, nhìn xem. § Cũng như 'chiêm' 覘.",
+                "Một âm là 'chiếm'. (Động) Đoạt lấy. § Cũng như 'chiếm' 占. ◎Như: 'chiếm cứ' 佔據 chiếm giữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dòm xem.",
+                "Một âm là chiếm. Chiếm lấy, như chiếm cứ 佔據 chiếm giữ lấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chiếm lấy: 佔據 Chiếm cứ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Chiếm 占."
+            ],
+            "compound_words": {
+                "霸佔": "bá chiếm",
+                "佔据": "chiếm cứ",
+                "佔據": "chiếm cứ",
+                "佔有": "chiếm hữu",
+                "佔領": "chiếm lĩnh",
+                "佔领": "chiếm lĩnh",
+                "佔先": "chiếm tiên",
+                "佔線": "chiếm tuyến",
+                "佔线": "chiếm tuyến",
+                "獨佔": "độc chiếm",
+                "侵佔": "xâm chiếm"
+            }
+        }
+    }
+}

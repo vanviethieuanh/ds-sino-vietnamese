@@ -1,0 +1,84 @@
+{
+    "character": "疸",
+    "details": {
+        "Âm Hán Việt": [
+            "đáp",
+            "đản"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nạch 疒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒旦"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "KAM (大日一)"
+        ],
+        "Unicode": [
+            "U+75B8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dā ㄉㄚ",
+            "da",
+            "dǎn ㄉㄢˇ",
+            "dàn ㄉㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đảm",
+            "đơn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "달"
+        ],
+        "Âm Quảng Đông": [
+            "taan2"
+        ]
+    },
+    "meanings": {
+        "đáp": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 疙瘩 [geda]. Xem 疸 [dăn]."
+            ]
+        },
+        "đản": {
+            "Từ điển phổ thông": [
+                "chứng bệnh đản"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Hoàng đản” 黃疸 bệnh vàng da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hoàng đản 黃疸 bệnh vàng, mắt mặt đều vàng ủng, đi đái vàng đại tiện bế, mỏi mệt hay nằm là bệnh vàng, ăn rồi lại đói ngay là chứng vị đản 胃疸. Tất cả có năm chứng đản."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 黃疸 [huáng dăn]. Xem 疸 [da]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh sốt ngoài da."
+            ],
+            "compound_words": {
+                "黃疸": "hoàng đản",
+                "黄疸": "hoàng đản",
+                "胃疸": "vị đản"
+            }
+        }
+    }
+}

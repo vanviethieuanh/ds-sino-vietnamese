@@ -1,0 +1,72 @@
+{
+    "character": "荫",
+    "details": {
+        "Âm Hán Việt": [
+            "âm",
+            "ấm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹阴"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "TNLB (廿弓中月)"
+        ],
+        "Unicode": [
+            "U+836B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yīn ㄧㄣ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ấm"
+        ],
+        "Âm Quảng Đông": [
+            "jam3"
+        ]
+    },
+    "meanings": {
+        "âm": {
+            "Từ điển phổ thông": [
+                "bóng râm",
+                "che chở"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bóng cây, bóng rợp, bóng mát Xem 蔭 [yìn]."
+            ]
+        },
+        "ấm": {
+            "Từ điển phổ thông": [
+                "bóng râm",
+                "che chở"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 蔭."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 廕"
+            ],
+            "compound_words": {
+                "庇荫": "tý ấm"
+            }
+        }
+    }
+}

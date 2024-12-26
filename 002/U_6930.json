@@ -1,0 +1,86 @@
+{
+    "character": "椰",
+    "details": {
+        "Âm Hán Việt": [
+            "da",
+            "gia"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木耶"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨丨一一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "DSJL (木尸十中)"
+        ],
+        "Unicode": [
+            "U+6930"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yē ㄜ",
+            "yé ㄜˊ"
+        ],
+        "Âm Nôm": [
+            "da",
+            "dừa",
+            "gia"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤ (ya)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やし (yashi)"
+        ],
+        "Âm Hàn": [
+            "야"
+        ],
+        "Âm Quảng Đông": [
+            "je4"
+        ]
+    },
+    "meanings": {
+        "da": {
+            "Từ điển phổ thông": [
+                "cây dừa, quả dừa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cây dừa. § Cây dừa, trái dừa đều gọi là “da tử” 椰子. ◇Tây du kí 西遊記: “Quảng thiết trân tu bách vị, mãn châm da dịch đào tương, dữ chúng ẩm yến đa thì” 廣設珍饈百味, 滿斟椰液萄漿, 與眾飲宴多時 (Đệ tam hồi) Bày ra trăm món ngon quý, rót đầy nước dừa rượu nho, cùng mọi người yến tiệc tưng bừng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây dừa. 【椰子】da tử [yezi] Cây dừa;",
+                "Quả dừa."
+            ],
+            "compound_words": {
+                "棗椰": "tảo da"
+            }
+        },
+        "gia": {
+            "Từ điển Thiều Chửu": [
+                "① Cây dừa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên cây, một loại cây dừa. Cũng gọi là Gia tử."
+            ],
+            "compound_words": {
+                "椰揄": "gia du",
+                "椰榆": "gia du"
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "character": "稜",
+    "details": {
+        "Âm Hán Việt": [
+            "lăng",
+            "lắng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoà 禾 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰禾夌"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶一丨一ノ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "HDGCE (竹木土金水)"
+        ],
+        "Unicode": [
+            "U+7A1C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "léng ㄌㄥˊ",
+            "lèng ㄌㄥˋ",
+            "líng ㄌㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "lăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いつ (itsu)",
+            "かど (kado)"
+        ],
+        "Âm Hàn": [
+            "릉",
+            "능"
+        ],
+        "Âm Quảng Đông": [
+            "ling4"
+        ]
+    },
+    "meanings": {
+        "lăng": {
+            "Từ điển phổ thông": [
+                "oai linh",
+                "góc, cạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Góc. ◎Như: 'lăng giác' 稜角 góc cạnh.",
+                "(Danh) Sống, ngấn, nếp (đường vằn nổi trên mặt vật thể). ◇Tô Thức 蘇軾: 'Dạ sương xuyên ốc y sanh lăng' 夜霜穿屋衣生稜 (Diêm quan bộ dịch hí trình 鹽官部役戲呈) Sương đêm thấu suốt nhà, áo sinh ra ngấn nếp.",
+                "(Danh) Oai linh, oai nghiêm. ◎Như: 'uy lăng' 威稜 oai nghiêm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Oai linh.",
+                "Góc, vật gì có cạnh góc đều gọi là lăng.",
+                "Một âm là lắng. Nhà làm ruộng chỉ ruộng xa gần nhiều ít là kỉ lắng 幾稜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên huyện: 穆棱縣 Huyện Mục Lăng (ở Hắc Long Giang, Trung Quốc). Xem 棱 [léng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Góc cạnh — Cạnh của vật có nhiều mặt, chỗ tiếp giáp giữa hai mặt — Uy quyền. Vẻ oai nghiêm — Dùng như chữ Lăng堎."
+            ],
+            "compound_words": {
+                "稜鏡": "lăng kính",
+                "稜柱": "lăng trụ",
+                "稜錐": "lăng truỳ",
+                "模稜": "mô lăng",
+                "三稜形": "tam lăng hình"
+            }
+        },
+        "lắng": {
+            "Từ điển Thiều Chửu": [
+                "Oai linh.",
+                "Góc, vật gì có cạnh góc đều gọi là lăng.",
+                "Một âm là lắng. Nhà làm ruộng chỉ ruộng xa gần nhiều ít là kỉ lắng 幾稜."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ sự xa gần của ruộng đất. Chẳng hạn hỏi về ruộng cách bao xa thì hỏi là Kỉ lắng ( mấy thôi đường ) — Một âm là Lăng."
+            ]
+        }
+    }
+}

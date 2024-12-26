@@ -1,0 +1,80 @@
+{
+    "character": "櫑",
+    "details": {
+        "Âm Hán Việt": [
+            "luỹ",
+            "lôi",
+            "lỗi"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mộc 木 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木畾"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一丨一丨フ一丨一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "DWWW (木田田田)"
+        ],
+        "Unicode": [
+            "U+6AD1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "léi ㄌㄟˊ",
+            "lěi ㄌㄟˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ライ (rai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さかだる (sakadaru)"
+        ],
+        "Âm Hàn": [
+            "뢰"
+        ],
+        "Âm Quảng Đông": [
+            "leoi4",
+            "leoi5"
+        ]
+    },
+    "meanings": {
+        "luỹ": {
+            "Từ điển phổ thông": [
+                "(xem: luỹ cụ 櫑具)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【櫑具】luỹ cụ [lâijù] Tên một thanh gươm dài thời xưa."
+            ],
+            "compound_words": {
+                "櫑具": "luỹ cụ"
+            }
+        },
+        "lôi": {
+            "Từ điển phổ thông": [
+                "cái chén uống rượu"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 罍 (bộ 缶)."
+            ]
+        },
+        "lỗi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chén nhỏ bằng gỗ, có khắc hình cho đẹp, dùng để uống rượu."
+            ]
+        }
+    }
+}

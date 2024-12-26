@@ -1,0 +1,77 @@
+{
+    "character": "惊",
+    "details": {
+        "Âm Hán Việt": [
+            "kinh",
+            "lương"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖京"
+        ],
+        "Nét bút": [
+            "丶丶丨丶一丨フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "PYRF (心卜口火)"
+        ],
+        "Unicode": [
+            "U+60CA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ",
+            "liáng ㄌㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "kiêng",
+            "kinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かな.しむ (kana.shimu)"
+        ],
+        "Âm Quảng Đông": [
+            "ging1"
+        ]
+    },
+    "meanings": {
+        "kinh": {
+            "Từ điển phổ thông": [
+                "kinh động",
+                "kinh sợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 驚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 驚"
+            ],
+            "compound_words": {
+                "可惊": "khả kinh",
+                "惊骇": "kinh hãi",
+                "吃惊": "ngật kinh"
+            }
+        },
+        "lương": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Buồn rầu."
+            ]
+        }
+    }
+}

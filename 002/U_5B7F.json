@@ -1,0 +1,87 @@
+{
+    "character": "孿",
+    "details": {
+        "Âm Hán Việt": [
+            "loan",
+            "luyên",
+            "luyến"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "tử 子 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱䜌子"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フフ丶丶丶丶フフ丶丶丶丶フ丨一"
+        ],
+        "Thương Hiệt": [
+            "VFND (女火弓木)"
+        ],
+        "Unicode": [
+            "U+5B7F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "luán ㄌㄨㄢˊ"
+        ],
+        "Âm Nôm": [
+            "loan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "セン (sen)",
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふたご (futago)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "lyun4"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển phổ thông": [
+                "đẻ sinh đôi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bào thai sinh đôi.",
+                "(Tính) Sinh đôi. ◎Như: 'loan tử' 孿子 con sinh đôi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðẻ sinh đôi"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sinh đôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sinh đôi. Td: Loan sinh ( đẻ sinh đôi ) — Ràng buộc lại với nhau."
+            ]
+        },
+        "luyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buộc lại. Cột lại — Co rút lại — Một âm là Luyến. Xem Luyến."
+            ]
+        },
+        "luyến": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh gân co rút lại. Bệnh co quắp chân tay. Cũng gọi là Luyến uyển 孿腕. Một âm là Luyên. Xem Luyên."
+            ]
+        }
+    }
+}

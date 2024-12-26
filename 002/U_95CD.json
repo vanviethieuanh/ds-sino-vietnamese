@@ -1,0 +1,101 @@
+{
+    "character": "闍",
+    "details": {
+        "Âm Hán Việt": [
+            "xà",
+            "đồ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "môn 門 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門者"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "ANJKA (日弓十大日)"
+        ],
+        "Unicode": [
+            "U+95CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dū ㄉㄨ",
+            "shé ㄕㄜˊ"
+        ],
+        "Âm Nôm": [
+            "đồ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ト (to)",
+            "ジャ (ja)"
+        ],
+        "Âm Hàn": [
+            "도",
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "dou1",
+            "se6"
+        ]
+    },
+    "meanings": {
+        "xà": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đài trên cửa thành. ◎Như: 'đồ đài' 闍臺 đài trên cửa thành.",
+                "(Danh) Phiếm chỉ đài.",
+                "Một âm là 'xà'. (Danh) (1) 'A-xà-lê' 阿闍梨 (phiên âm tiếng Phạn \"ācārya\"), gọi tắt là 'xà-lê' 闍梨 thầy dạy Phật pháp, bậc cao tăng, phiếm chỉ tăng. (2) 'Xà-duy' 闍維 tiếng Phạn nghĩa là đốt xác, hỏa táng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhân đồ 闉闍 cổng thành.",
+                "Một âm là xà. Xà lê 闍黎 tiếng Phạn, thầy tăng, ông thầy coi học trò, xà duy 闍維 tiếng Phạn nghĩa là đốt xác, hoả táng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Phạn ngữ). 【闍梨】xà lê [shélí] Thầy tăng: 阿闍梨 Hoà thượng;【闍維】xà duy [shéwéi] Đốt xác, hoả táng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Xà lê 闍黎, Xà duy 闍維."
+            ],
+            "compound_words": {
+                "闍維": "xà duy",
+                "闍黎": "xà lê"
+            }
+        },
+        "đồ": {
+            "Từ điển phổ thông": [
+                "(xem: nhân đồ 闉闍)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đài trên cửa thành. ◎Như: 'đồ đài' 闍臺 đài trên cửa thành.",
+                "(Danh) Phiếm chỉ đài.",
+                "Một âm là 'xà'. (Danh) (1) 'A-xà-lê' 阿闍梨 (phiên âm tiếng Phạn \"ācārya\"), gọi tắt là 'xà-lê' 闍梨 thầy dạy Phật pháp, bậc cao tăng, phiếm chỉ tăng. (2) 'Xà-duy' 闍維 tiếng Phạn nghĩa là đốt xác, hỏa táng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhân đồ 闉闍 cổng thành.",
+                "Một âm là xà. Xà lê 闍黎 tiếng Phạn, thầy tăng, ông thầy coi học trò, xà duy 闍維 tiếng Phạn nghĩa là đốt xác, hoả táng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái tháp ở trên thành. Xem 闉."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lầu nhỏ trên cổng thành."
+            ],
+            "compound_words": {
+                "闉闍": "nhân đồ"
+            }
+        }
+    }
+}

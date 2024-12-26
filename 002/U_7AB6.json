@@ -1,0 +1,96 @@
+{
+    "character": "窶",
+    "details": {
+        "Âm Hán Việt": [
+            "cũ",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+11 nét)"
+        ],
+        "Hình thái": [
+            "⿱穴婁"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "JCLWV (十金中田女)"
+        ],
+        "Unicode": [
+            "U+7AB6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jù ㄐㄩˋ",
+            "lóu ㄌㄡˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "ク (ku)",
+            "ル (ru)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.つる (ya.tsuru)",
+            "や.つれる (ya.tsureru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "geoi6",
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "cũ": {
+            "Từ điển phổ thông": [
+                "nghèo túng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nghèo túng, bần cùng.",
+                "(Tính) Bỉ lậu, thô tục, quê mùa.",
+                "Một âm là 'lũ'. (Danh) § Xem 'âu lũ' 甌窶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nghèo túng hủ lậu (ủ dột). Nghèo không theo như lễ được gọi là cũ. Ta quen đọc là chữ lũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nghèo túng bẩn chật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Cũ 寠."
+            ]
+        },
+        "lũ": {
+            "Từ điển phổ thông": [
+                "nghèo túng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nghèo túng, bần cùng.",
+                "(Tính) Bỉ lậu, thô tục, quê mùa.",
+                "Một âm là 'lũ'. (Danh) § Xem 'âu lũ' 甌窶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nghèo túng hủ lậu (ủ dột). Nghèo không theo như lễ được gọi là cũ. Ta quen đọc là chữ lũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nghèo túng bẩn chật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Không có tiền để chuẩn bị lễ vật — Nghèo khổ — Đáng lẽ đọc Cũ."
+            ],
+            "compound_words": {
+                "甌窶": "âu lũ"
+            }
+        }
+    }
+}

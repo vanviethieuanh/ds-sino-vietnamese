@@ -1,0 +1,86 @@
+{
+    "character": "礮",
+    "details": {
+        "Âm Hán Việt": [
+            "bác",
+            "pháo"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "thạch 石 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石駮"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一丨一一丨フ丶丶丶丶丶一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MRSFK (一口尸火大)"
+        ],
+        "Unicode": [
+            "U+792E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pào ㄆㄠˋ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "pháo"
+        ],
+        "Âm Quảng Đông": [
+            "paau3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "khẩu pháo"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Súng lớn, bắn những tảng đá lớn để phá thành giặc thời xưa, nay còn gọi là Đại bác. Thật ra phải đọc là Pháo. Xem thêm vần Pháo."
+            ],
+            "compound_words": {
+                "大礮": "đại bác"
+            }
+        },
+        "pháo": {
+            "Từ điển phổ thông": [
+                "máy bắn đá",
+                "pháo",
+                "mìn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Máy bắn đá (thời xưa). ◇Đường Thư 唐書: 'Dĩ cơ phát thạch, vi công thành giới, hiệu tương quân pháo' 以機發石, 爲攻城械, 號將軍礮 (Lí Mật truyện 李密傳).",
+                "§ Cũng như 'pháo' 炮.",
+                "§ Tục viết là 'pháo' 砲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái máy bắn đá, cái súng trái phá (đại bác)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Máy bắn đá;",
+                "Súng đại bác, trọng pháo, pháo. Như 砲, 炮 (bộ 火)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái máy, cái dụng cụ bắn đá để phá thành giặc thời xưa — Thứ súng lớn, có tầm bắn xa ngày nay, tức Đại bác — Chữ này ta vẫn quen đọc Bác, phải đọc Pháo mới đúng— Như chữ Pháo 炮."
+            ],
+            "compound_words": {
+                "臼礮": "cữu pháo",
+                "野礮": "dã pháo",
+                "過山礮": "quá sơn pháo"
+            }
+        }
+    }
+}

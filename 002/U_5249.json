@@ -1,0 +1,75 @@
+{
+    "character": "剉",
+    "details": {
+        "Âm Hán Việt": [
+            "toả"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "đao 刀 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿰坐⺉"
+        ],
+        "Nét bút": [
+            "ノ丶ノ丶一丨一丨丨"
+        ],
+        "Thương Hiệt": [
+            "OGLN (人土中弓)"
+        ],
+        "Unicode": [
+            "U+5249"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cuò ㄘㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "toả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くじく (kujiku)",
+            "かどをと.る (kado o to.ru)"
+        ],
+        "Âm Hàn": [
+            "좌"
+        ],
+        "Âm Quảng Đông": [
+            "co3"
+        ]
+    },
+    "meanings": {
+        "toả": {
+            "Từ điển phổ thông": [
+                "cắt đứt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bị tổn hại.",
+                "(Động) Chặt đứt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chặt đứt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chặt đứt;",
+                "Cây giũa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắt gọt đi — Gọt các góc cạnh."
+            ],
+            "compound_words": {
+                "折剉": "chiết toả"
+            }
+        }
+    }
+}

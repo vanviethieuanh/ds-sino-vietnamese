@@ -1,0 +1,107 @@
+{
+    "character": "汜",
+    "details": {
+        "Âm Hán Việt": [
+            "dĩ",
+            "tỉ",
+            "tỷ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡巳"
+        ],
+        "Nét bút": [
+            "丶丶一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "ERU (水口山)"
+        ],
+        "Unicode": [
+            "U+6C5C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "sì ㄙˋ"
+        ],
+        "Âm Nôm": [
+            "dãi",
+            "dẫy",
+            "dỉ",
+            "rỉ",
+            "tị",
+            "tự"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわ (kawa)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "ci5"
+        ]
+    },
+    "meanings": {
+        "dĩ": {
+            "Từ điển phổ thông": [
+                "dòng nước đã rẽ ngang lại chảy về chỗ cũ",
+                "sông Tỷ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dòng nước đã rẽ ngang lại chảy quanh về dòng chính.",
+                "(Danh) Dòng nước không lưu thông.",
+                "(Danh) Bờ nước, bến sông.",
+                "(Danh) Sông 'Tỉ'.",
+                "§ Ghi chú: Tục quen đọc là 'dĩ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dòng nước đã rẽ ngang lại chảy quanh về chỗ cũ gọi là tỉ.",
+                "Sông Tỉ. Tục quen đọc là chữ dĩ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sông rẽ ngang rồi lại chảy hợp về dòng cũ;",
+                "Lạch nhỏ nước không lưu thông;",
+                "[Sì] Sông Dĩ (thuộc tỉnh Hà Nam, Trung Quốc ngày nay)."
+            ]
+        },
+        "tỉ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Dòng nước đã rẽ ngang lại chảy quanh về dòng chính.",
+                "(Danh) Dòng nước không lưu thông.",
+                "(Danh) Bờ nước, bến sông.",
+                "(Danh) Sông 'Tỉ'.",
+                "§ Ghi chú: Tục quen đọc là 'dĩ'."
+            ]
+        },
+        "tỷ": {
+            "Từ điển phổ thông": [
+                "dòng nước đã rẽ ngang lại chảy về chỗ cũ",
+                "sông Tỷ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dòng nước đã rẽ ngang lại chảy quanh về chỗ cũ gọi là tỉ.",
+                "Sông Tỉ. Tục quen đọc là chữ dĩ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dòng sông nhánh tách ra ở một nơi, rồi lại chảy vào dòng sông chính ở một nơi khác."
+            ]
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "character": "驗",
+    "details": {
+        "Âm Hán Việt": [
+            "nghiệm"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "mã 馬 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬僉"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SFOMO (尸火人一人)"
+        ],
+        "Unicode": [
+            "U+9A57"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "nghiệm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あかし (akashi)",
+            "しるし (shirushi)",
+            "ため.す (tame.su)",
+            "ためし (tameshi)"
+        ],
+        "Âm Hàn": [
+            "험"
+        ],
+        "Âm Quảng Đông": [
+            "jim6"
+        ]
+    },
+    "meanings": {
+        "nghiệm": {
+            "Từ điển phổ thông": [
+                "chứng nghiệm, kiểm nghiệm",
+                "hiệu nghiệm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chứng cớ, bằng chứng. ◇Sử Kí 史記: 'Hà dĩ vi nghiệm' 何以為驗 (Ngoại thích thế gia 外戚世家) Lấy gì làm chứng cớ.",
+                "(Danh) Hiệu quả, kết quả đúng như dự đoán. ◇Liêu trai chí dị 聊齋志異: 'Thỉnh tác lưỡng chế chi pháp, tất hữu nghiệm' 請作兩制之法, 必有驗 (Tôn Sinh 孫生) Xin làm phép (yểm) cho cả hai (người), tất nhiên có hiệu nghiệm.",
+                "(Danh) Triệu chứng, chứng trạng của bệnh. ◇Liệt Tử 列子: 'Nhị nhân viết: Nguyện tiên văn kì nghiệm' 二人曰: 願先聞其驗 (Thang vấn 湯問) Hai người nói: Xin được nghe trước chứng trạng bệnh ấy.",
+                "(Động) Khảo sát, xem xét. ◎Như: 'nghiệm huyết' 驗血 thử máu (để khảo xét bệnh), 'nghiệm thi' 驗屍 kiểm tra thi thể.",
+                "(Động) Thẩm hạch, chứng thật.",
+                "(Động) Tương hợp với dự đoán. ◎Như: 'ứng nghiệm' 應驗."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chứng nghiệm.",
+                "Nghiệm xem. Như thí nghiệm 試驗 thử nghiệm.",
+                "Hiệu nghiệm. Phàm sự gì kết quả tốt không ra ngoài chỗ ý mình đoán đều gọi là nghiệm. Sự gì có thành hiệu cũng gọi là nghiệm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghiệm, kiểm nghiệm, xét nghiệm, chứng nghiệm, khám nghiệm: 試驗 Thí nghiệm; 驗貨 Kiểm nghiệm hàng hoá;",
+                "Hiệu nghiệm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bằng chứng có thể tin được — Xem xét tìm tòi cho đúng — Đúng như sự thật — Có hiệu quả. Td: Hiệu nghiệm."
+            ],
+            "compound_words": {
+                "按驗": "án nghiệm",
+                "占驗": "chiêm nghiệm",
+                "證驗": "chứng nghiệm",
+                "效驗": "hiệu nghiệm",
+                "勘驗": "khám nghiệm",
+                "考驗": "khảo nghiệm",
+                "檢驗": "kiểm nghiệm",
+                "經驗": "kinh nghiệm",
+                "靈驗": "linh nghiệm",
+                "驗證": "nghiệm chứng",
+                "驗實": "nghiệm thực",
+                "察驗": "sát nghiệm",
+                "佐驗": "tá nghiệm",
+                "實驗": "thực nghiệm",
+                "體驗": "thể nghiệm",
+                "試驗": "thí nghiệm",
+                "測驗": "trắc nghiệm",
+                "徵驗": "trưng nghiệm",
+                "應驗": "ứng nghiệm"
+            }
+        }
+    }
+}

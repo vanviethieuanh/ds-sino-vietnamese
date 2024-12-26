@@ -1,0 +1,93 @@
+{
+    "character": "粗",
+    "details": {
+        "Âm Hán Việt": [
+            "thô",
+            "thố"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mễ 米 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米且"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "FDBM (火木月一)"
+        ],
+        "Unicode": [
+            "U+7C97"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cū ㄘㄨ"
+        ],
+        "Âm Nôm": [
+            "sồ",
+            "thô",
+            "to",
+            "xồ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あら.い (ara.i)",
+            "あら- (ara-)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "cou1"
+        ]
+    },
+    "meanings": {
+        "thô": {
+            "Từ điển phổ thông": [
+                "to, thô, sơ sài"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) To, lớn. ◎Như: 'giá khỏa thụ ngận thô' 這棵樹很粗 cây đó to quá.",
+                "(Tính) Không mịn, thiếu tinh tế, sơ sài. ◎Như: 'thô trà đạm phạn' 粗茶淡飯 ăn uống đạm bạc, sơ sài. ◇Nguyễn Du 阮攸: 'Thái Bình cổ sư thô bố y' 太平瞽師粗布衣 (Thái Bình mại ca giả 太平賣歌者) Ở phủ Thái Bình có ông lão mù mặc áo vải thô.",
+                "(Tính) Vụng về, thô thiển, sơ suất, quê kệch. ◎Như: 'thô thoại' 粗話 lời vụng về, lời quê kệch, lời thô tục, 'thô dã' 粗野 quê mùa.",
+                "(Tính) To, lớn (tiếng nói). ◎Như: 'thô thanh thô khí' 粗聲粗氣 lời to tiếng lớn.",
+                "(Tính) Sơ, bước đầu, qua loa. ◎Như: 'thô cụ quy mô' 粗具規模 quy mô bước đầu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem粗(bộ 米)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sơ sài. Qua loa — Xấu xí, to lớn."
+            ],
+            "compound_words": {
+                "疏粗": "sơ thô",
+                "粗暴": "thô bạo",
+                "粗鄙": "thô bỉ",
+                "粗魯": "thô lỗ",
+                "粗淺": "thô thiển",
+                "粗俗": "thô tục"
+            }
+        },
+        "thố": {
+            "Từ điển Thiều Chửu": [
+                "Vầng to, như thô tế 粗細 vầng to nhỏ, dùng để nói về chu vi to hay nhỏ.",
+                "Thô, không được nhẵn nhụi tinh tế.",
+                "Thô suất, thô thiển, sơ suất, quê kệch."
+            ]
+        }
+    }
+}

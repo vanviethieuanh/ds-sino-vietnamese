@@ -1,0 +1,120 @@
+{
+    "character": "芋",
+    "details": {
+        "Âm Hán Việt": [
+            "dụ",
+            "hu",
+            "vu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thảo 艸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹于"
+        ],
+        "Nét bút": [
+            "一丨丨一一丨"
+        ],
+        "Thương Hiệt": [
+            "TMD (廿一木)"
+        ],
+        "Unicode": [
+            "U+828B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "hū ㄏㄨ",
+            "xū ㄒㄩ",
+            "yú ㄩˊ",
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "vu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いも (imo)"
+        ],
+        "Âm Hàn": [
+            "우",
+            "후"
+        ],
+        "Âm Quảng Đông": [
+            "wu6"
+        ]
+    },
+    "meanings": {
+        "dụ": {
+            "Từ điển phổ thông": [
+                "ở, cư trú"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khoai. § Tục gọi là 'dụ đầu' 芋頭. ◇Sử Kí 史記: 'Kim tuế cơ dân bần, sĩ tốt thực dụ thục' 今歲饑民貧, 士卒食芋菽 (Hạng Vũ bổn kỉ 項羽本紀) Nay mùa mất dân nghèo, quân lính ăn khoai ăn đỗ. § Ta quen đọc là 'vu'.",
+                "Một âm là 'hu'. (Tính) To lớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoai nước. Ta quen đọc là chữ vu.",
+                "Một âm là hu. To lớn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ở: 鳥鼠攸去，君子攸艿 Chim chuột bỏ đi, người quân tử có thể ở (Thi Kinh: Tiểu nhã, Tư can)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây thuộc giống Thiên Nam tinh, ăn được — Một âm là Hu. Xem Hu."
+            ]
+        },
+        "hu": {
+            "Từ điển phổ thông": [
+                "to lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khoai. § Tục gọi là 'dụ đầu' 芋頭. ◇Sử Kí 史記: 'Kim tuế cơ dân bần, sĩ tốt thực dụ thục' 今歲饑民貧, 士卒食芋菽 (Hạng Vũ bổn kỉ 項羽本紀) Nay mùa mất dân nghèo, quân lính ăn khoai ăn đỗ. § Ta quen đọc là 'vu'.",
+                "Một âm là 'hu'. (Tính) To lớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoai nước. Ta quen đọc là chữ vu.",
+                "Một âm là hu. To lớn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) To lớn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tôn kính người lớn hơn mình — Một âm là Vu."
+            ]
+        },
+        "vu": {
+            "Từ điển phổ thông": [
+                "cây khoai nước, cây khoai sọ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khoai. § Tục gọi là 'dụ đầu' 芋頭. ◇Sử Kí 史記: 'Kim tuế cơ dân bần, sĩ tốt thực dụ thục' 今歲饑民貧, 士卒食芋菽 (Hạng Vũ bổn kỉ 項羽本紀) Nay mùa mất dân nghèo, quân lính ăn khoai ăn đỗ. § Ta quen đọc là 'vu'.",
+                "Một âm là 'hu'. (Tính) To lớn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Khoai sọ. 【芋艿】vu nãi [yùnăi] Như 芋;",
+                "Tên gọi chung các loại khoai: 山芋 Khoai lang."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây khoai lang."
+            ],
+            "compound_words": {
+                "山芋": "sơn vu",
+                "芋艿": "vu nãi"
+            }
+        }
+    }
+}

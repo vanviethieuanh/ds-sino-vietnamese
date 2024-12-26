@@ -1,0 +1,85 @@
+{
+    "character": "詢",
+    "details": {
+        "Âm Hán Việt": [
+            "tuân"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言旬"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノフ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "YRPA (卜口心日)"
+        ],
+        "Unicode": [
+            "U+8A62"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tuân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)",
+            "シュン (shun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はか.る (haka.ru)",
+            "まこと (makoto)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "seon1"
+        ]
+    },
+    "meanings": {
+        "tuân": {
+            "Từ điển phổ thông": [
+                "hỏi ý kiến mọi người để quyết định"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tra hỏi, hỏi ý nhiều người để quyết nên chăng. ◎Như: 'tuân sát' 詢察 xét hỏi.",
+                "(Động) Tin. ◇Thi Kinh 詩經: 'Vị chi ngoại, tuân hu thả lạc' 洧之外, 詢訏且樂 (Trịnh phong 鄭風, Trăn Vị 溱洧) Phía ngoài sông Vị, tin chắc là rộng lớn và vui vẻ.",
+                "(Tính) Đều, bằng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hỏi han, hỏi nhiều người để quyết nên chăng gọi là tuân.",
+                "Tin.",
+                "Đều."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hỏi;",
+                "(văn) Tin;",
+                "(văn) Đều."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sự sắp đặt tính toán. Mưu kế — Xét hỏi — Tin thật."
+            ],
+            "compound_words": {
+                "查詢": "tra tuân",
+                "詢問": "tuân vấn",
+                "咨詢": "tư tuân"
+            }
+        }
+    }
+}

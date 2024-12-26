@@ -1,0 +1,95 @@
+{
+    "character": "暑",
+    "details": {
+        "Âm Hán Việt": [
+            "thử"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhật 日 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱日者"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "AJKA (日十大日)"
+        ],
+        "Unicode": [
+            "U+6691"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shǔ ㄕㄨˇ"
+        ],
+        "Âm Nôm": [
+            "thử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.い (atsu.i)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "syu2"
+        ]
+    },
+    "meanings": {
+        "thử": {
+            "Từ điển phổ thông": [
+                "nóng bức",
+                "nắng",
+                "mùa hè"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mùa hè nóng bức. ◎Như: 'thịnh thử' 盛暑, 'khốc thử' 酷暑. ◇Lưu Cơ 劉基: 'Hàng hữu mại quả giả, thiện tàng cam, thiệp hàn thử bất hội' 杭有賣果者, 善藏柑, 涉寒暑不潰 (Mại cam giả ngôn 賣柑者言) Ở Hàng Châu có người bán trái cây, khéo giữ cam, qua mùa đông mùa hè (mà cam vẫn) không thối nát.",
+                "(Danh) Hơi nóng. ◎Như: 'tị thử' 避暑. ◇Nguyễn Du 阮攸: 'Tàn thử vị tiêu dung' 殘暑未消融 (Hà Nam đạo trung khốc thử 河南道中酷暑) Khí nóng tàn vẫn chưa tan hết.",
+                "(Tính) Nóng nực. ◎Như: 'thử thiên' 暑天, 'thử khí' 暑氣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nắng, nóng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nóng, nắng: 暑天 Mùa hè, mùa nóng; 暑熱 Nóng nực; 中暑 Say nắng, trúng nắng;",
+                "Giữa mùa hè, mùa hè: 暑期 Nghỉ hè, mùa hè; 暑假 Nghỉ hè."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nắng. Mặt trời chiếu nóng."
+            ],
+            "compound_words": {
+                "蒸暑": "chưng thử",
+                "大暑": "đại thử",
+                "夏暑": "hạ thử",
+                "寒暑表": "hàn thử biểu",
+                "溽暑": "nhục thử",
+                "暑假": "thử hạ",
+                "暑气": "thử khí",
+                "暑氣": "thử khí",
+                "暑期": "thử kỳ",
+                "暑热": "thử nhiệt",
+                "暑熱": "thử nhiệt",
+                "暑瘟": "thử ôn",
+                "暑天": "thử thiên",
+                "中暑": "trúng thử",
+                "避暑": "tỵ thử",
+                "炎暑": "viêm thử"
+            }
+        }
+    }
+}

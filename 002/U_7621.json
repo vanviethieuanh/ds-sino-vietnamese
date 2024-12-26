@@ -1,0 +1,85 @@
+{
+    "character": "瘡",
+    "details": {
+        "Âm Hán Việt": [
+            "sang"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nạch 疒 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒倉"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一ノ丶丶フ一一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "KOIR (大人戈口)"
+        ],
+        "Unicode": [
+            "U+7621"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuāng ㄔㄨㄤ"
+        ],
+        "Âm Nôm": [
+            "sang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かさ (kasa)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "cong1"
+        ]
+    },
+    "meanings": {
+        "sang": {
+            "Từ điển phổ thông": [
+                "bị thương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh nhọt. ◇Pháp Hoa Kinh 法華經: 'Cơ ngạ luy sấu, thể sinh sang tiển' 饑餓羸瘦, 體生瘡癬 (Tín giải phẩm đệ tứ 信解品第四) Đói thiếu gầy gò, thân thể sinh ghẻ nhọt.",
+                "(Danh) Vết thương. ◎Như: 'kim sang' 金瘡 vết thương do vật bằng kim loại gây ra. ◇Tam quốc diễn nghĩa 三國演義: 'Đại khiếu nhất thanh, kim sang bính liệt, đảo ư thuyền thượng' 大叫一聲, 金瘡迸裂, 倒於船上 (Đệ ngũ thập ngũ hồi) Gầm lên một tiếng, vết thương vỡ tung ra, ngã lăn xuống thuyền."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh nhọt.",
+                "Bị thương, bị các loài kim đâm vào gọi là kim sang 金瘡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhọt, mụn, đầu đanh: 生瘡 Mọc mụn; 毒瘡 Mụn độc;",
+                "Vết thương: 刀瘡 Vết thương bị dao chém; 金瘡 Vết thương do vật bằng kim loại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mụn nhọt — Bị thương vì vật nhọn sắc."
+            ],
+            "compound_words": {
+                "凍瘡": "đống sang",
+                "疥瘡": "giới sang",
+                "潰瘡": "hội sang",
+                "瘡痍": "sang di",
+                "瘡毒": "sang độc",
+                "瘡痏": "sang vị",
+                "痤瘡": "toạ sang"
+            }
+        }
+    }
+}

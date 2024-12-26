@@ -1,0 +1,113 @@
+{
+    "character": "仇",
+    "details": {
+        "Âm Hán Việt": [
+            "câu",
+            "cừu"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhân 人 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻九"
+        ],
+        "Nét bút": [
+            "ノ丨ノフ"
+        ],
+        "Thương Hiệt": [
+            "OKN (人大弓)"
+        ],
+        "Unicode": [
+            "U+4EC7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chóu ㄔㄡˊ",
+            "qiú ㄑㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "cừu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)",
+            "グ (gu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あだ (ada)",
+            "あた (ata)",
+            "かたき (kataki)",
+            "つれあい (tsureai)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "cau4",
+            "kau4",
+            "sau4"
+        ]
+    },
+    "meanings": {
+        "câu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy. Cầm lấy — Một âm khác là Cừu."
+            ]
+        },
+        "cừu": {
+            "Từ điển phổ thông": [
+                "kẻ thù"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thù địch. ◎Như: 'phục cừu' 復仇 báo thù lại, 'thế cừu' 世仇 thù truyền kiếp.",
+                "(Danh) Mối oán hận sâu xa. ◎Như: 'thâm cừu đại hận' 深仇大恨 oán sâu hận lớn, 'ân tương cừu báo' 恩將仇報 đem oán trả ơn, vô ơn phụ nghĩa.",
+                "(Danh) Phối ngẫu. ◇Tào Thực 曹植: 'Kết phát từ nghiêm thân, Lai vi quân tử cừu' 結發辭嚴親, 來為君子仇 (Bồ sanh hành phù bình thiên 蒲生行浮萍篇) Kết tóc từ biệt cha mẹ, Đến làm vợ người quân tử.",
+                "(Danh) Đồng bạn, đồng loại, đồng bối. ◇Thi Kinh 詩經: 'Công hầu hảo cừu' 公侯好仇 (Chu nam 周南, Thố ta 兔罝) Bạn tốt của bậc công hầu.",
+                "(Danh) Họ 'Cừu'.",
+                "(Động) Căm thù, oán hận. ◇Thư Kinh 書經: 'Vạn tính cừu dữ' 萬姓仇予 (Ngũ tử chi ca 五子之歌) Muôn dân oán hận ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thù địch, như phục cừu 復仇 báo thù lại.",
+                "Giận tức, như cừu thị 仇視 coi lấy làm tức giận (coi như kẻ thù hằn)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đồng bạn: 公侯好仇 Bạn tốt của công hầu (Thi Kinh);",
+                "(văn) Phối ngẫu, vợ: 來爲君子仇 Tiến đến làm vợ người quân tử (Tào Thực);",
+                "[Qiú] (Họ) Cừu. Xem 仇 [chóu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thù hằn giận ghét. Kẻ thù."
+            ],
+            "compound_words": {
+                "報仇": "báo cừu",
+                "报仇": "báo cừu",
+                "招仇": "chiêu cừu",
+                "仇敌": "cừu địch",
+                "仇敵": "cừu địch",
+                "仇家": "cừu gia",
+                "仇恨": "cừu hận",
+                "仇隙": "cừu khích",
+                "仇人": "cừu nhân",
+                "仇殺": "cừu sát",
+                "九世之仇": "cửu thế chi cừu",
+                "仇視": "cừu thị",
+                "冤仇": "oan cừu",
+                "怨仇": "oán cừu",
+                "复仇": "phục cừu",
+                "復仇": "phục cừu",
+                "世仇": "thế cừu",
+                "雪仇": "tuyết cừu"
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "character": "击",
+    "details": {
+        "Âm Hán Việt": [
+            "kích"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khảm 凵 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱扌凵"
+        ],
+        "Nét bút": [
+            "一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "QU (手山)"
+        ],
+        "Unicode": [
+            "U+51FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kích"
+        ],
+        "Âm Quảng Đông": [
+            "gik1"
+        ]
+    },
+    "meanings": {
+        "kích": {
+            "Từ điển phổ thông": [
+                "đánh mạnh, gõ mạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擊"
+            ],
+            "compound_words": {
+                "撞击": "chàng kích",
+                "掌击": "chưởng kích",
+                "攻击": "công kích",
+                "遊击": "du kích",
+                "打击": "đả kích",
+                "抗击": "kháng kích",
+                "击败": "kích bại",
+                "拍击": "phách kích",
+                "抨击": "phanh kích",
+                "拳击": "quyền kích",
+                "袭击": "tập kích",
+                "射击": "xạ kích",
+                "敲击": "xao kích",
+                "衝击": "xung kích"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "难",
+    "details": {
+        "Âm Hán Việt": [
+            "nan",
+            "nạn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hựu 又 (+8 nét)",
+            "chuy 隹 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰又隹"
+        ],
+        "Nét bút": [
+            "フ丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "EOG (水人土)"
+        ],
+        "Unicode": [
+            "U+96BE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nán ㄋㄢˊ",
+            "nàn ㄋㄢˋ",
+            "nuó ㄋㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "nan"
+        ],
+        "Âm Quảng Đông": [
+            "naan4",
+            "naan6"
+        ]
+    },
+    "meanings": {
+        "nan": {
+            "Từ điển phổ thông": [
+                "khó khăn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 難."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 難"
+            ],
+            "compound_words": {
+                "艰难": "gian nan",
+                "困难": "khốn nan",
+                "危难": "nguy nan",
+                "千难": "thiên nan"
+            }
+        },
+        "nạn": {
+            "Từ điển phổ thông": [
+                "hoạn nạn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 難."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tai hoạ, tai nạn, tai ương: 逃難 Chạy nạn; 落難 Mắc nạn; 避難 Lánh nạn; 遭難 Gặp nạn;",
+                "Trách, khiển trách, vặn vẹo, làm khó, vấn nạn: 事事非難 Trách móc đủ điều; 不必責難他 Không nên khiển trách anh ấy; 問難 Hỏi vặn lẽ khó khăn, vấn nạn."
+            ],
+            "compound_words": {
+                "患难": "hoạn nạn",
+                "避难": "tỵ nạn"
+            }
+        }
+    }
+}

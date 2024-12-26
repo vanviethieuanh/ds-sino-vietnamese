@@ -1,0 +1,79 @@
+{
+    "character": "韛",
+    "details": {
+        "Âm Hán Việt": [
+            "bại",
+            "bị",
+            "bộ"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "vi 韋 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "フ丨一丨フ一一フ丨一丨丨一ノ丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "DQTHB (木手廿竹月)"
+        ],
+        "Unicode": [
+            "U+97DB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ",
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)",
+            "フク (fuku)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふいご (fuigo)",
+            "えびら (ebira)"
+        ]
+    },
+    "meanings": {
+        "bại": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái túi da để thổi lửa;",
+                "(đph) Ống bễ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dụng cụ để thổi lửa. Cái bễ."
+            ]
+        },
+        "bị": {
+            "Từ điển phổ thông": [
+                "ống bễ, cái túi da để thổi lửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Túi da để thổi lửa ngày xưa.",
+                "(Danh) Ống bễ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái túi da để thổi lửa.",
+                "Ống bễ."
+            ]
+        },
+        "bộ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bộ xoa 韛靫."
+            ],
+            "compound_words": {
+                "韛靫": "bộ xoa"
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "篡",
+    "details": {
+        "Âm Hán Việt": [
+            "soán",
+            "thoán"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trúc 竹 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿳⺮目大厶"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨フ一一一一ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "HBUI (竹月山戈)"
+        ],
+        "Unicode": [
+            "U+7BE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cuàn ㄘㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "choán",
+            "soán",
+            "thoán",
+            "xoán"
+        ],
+        "Âm Hàn": [
+            "찬"
+        ],
+        "Âm Quảng Đông": [
+            "saan3"
+        ]
+    },
+    "meanings": {
+        "soán": {
+            "Từ điển phổ thông": [
+                "cướp, đoạt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đoạt lấy.",
+                "(Động) Tiếm đoạt. § Chiếm đoạt ngôi vị, quyền lực... bằng thủ đoạn bất chính. ◎Như: 'soán vị' 篡位 tiếm đoạt ngôi vua. ◇Tam quốc diễn nghĩa 三國演義: 'Thiên tử nãi tiên đế đích tử, sơ vô quá thất, hà đắc vọng nghị phế lập? nhữ dục vi soán nghịch da?' 天子乃先帝嫡子, 初無過失, 何得妄議廢立, 汝欲為篡逆耶 (Đệ tam hồi) Nhà vua là con cả đức tiên đế, xưa nay không chút lầm lỗi, sao nói càn bỏ người này lập người kia? Ngươi muốn soán nghịch chăng?",
+                "(Động) Săn bắt. ◇Hậu Hán Thư 後漢書: 'Hồng phi minh minh, dặc giả hà soán yên' 鴻飛冥冥, 弋者何篡焉 (Dật dân truyện 逸民傳, Tự 序) Chim hồng bay cao xa mù mịt, người đi săn làm sao bắt được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cướp lấy, giết vua để lên làm vua gọi là soán vị 篡位 cướp ngôi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cướp (lấy), đoạt, tiếm, tiếm đoạt: 篡權 Tiếm quyền, cướp quyền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm phản mà cướp đoạt. Cũng đọc Thoán."
+            ],
+            "compound_words": {
+                "篡奪": "soán đoạt",
+                "篡逆": "soán nghịch",
+                "篡位": "soán vị"
+            }
+        },
+        "thoán": {
+            "Từ điển phổ thông": [
+                "cướp, đoạt"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cướp đoạt. Td: Thoán vị ( cướp ngôi vua ). Cũng đọc Soán."
+            ]
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "character": "紆",
+    "details": {
+        "Âm Hán Việt": [
+            "hu",
+            "u",
+            "vu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹于"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "VFMD (女火一木)"
+        ],
+        "Unicode": [
+            "U+7D06"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "ōu ㄛㄨ",
+            "yū ㄩ",
+            "yǔ ㄩˇ"
+        ],
+        "Âm Nôm": [
+            "vò",
+            "vu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まが.る (maga.ru)",
+            "めぐ.る (megu.ru)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu1"
+        ]
+    },
+    "meanings": {
+        "hu": {
+            "Từ điển phổ thông": [
+                "quanh co"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Quanh co, khúc khuỷu. ◇Nguyễn Trãi 阮廌: 'Man khê lộ viễn hu loan ngự' 蠻溪路遠紆鸞馭 (Hạ tiệp 賀捷) Chốn Man Khê đường xa xôi, xe loan (xe vua) phải đi quanh co.",
+                "(Tính) Uất kết, phiền muộn. ◇Lưu Hướng 劉向: 'Chí hu uất kì nan thích' 志紆鬱其難釋 (Ưu khổ 憂苦) Lòng lo buồn khôn nguôi.",
+                "(Động) Vướng vít, triền nhiễu.",
+                "(Động) Đeo, buộc. ◇Trương Hành 張衡: 'Bội ngọc tỉ, hu hoàng tổ' 佩玉璽, 紆皇組 (Đông Kinh phú 東京賦) Đeo ấn tín, buộc dây thao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quanh co.",
+                "Trong lòng uất kết cũng gọi là hu. Cũng đọc là chữ u."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quanh co;",
+                "Sự rối rắm trong lòng, sự sầu muộn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quanh co, khuất khúc — Nỗi buồn khổ uất kết trong lòng, không nói ra được."
+            ],
+            "compound_words": {
+                "盤紆": "bàn hu",
+                "縈紆": "oanh hu"
+            }
+        },
+        "u": {
+            "Từ điển trích dẫn": [
+                "(Tính) Quanh co, khúc khuỷu. ◇Nguyễn Trãi 阮廌: 'Man khê lộ viễn hu loan ngự' 蠻溪路遠紆鸞馭 (Hạ tiệp 賀捷) Chốn Man Khê đường xa xôi, xe loan (xe vua) phải đi quanh co.",
+                "(Tính) Uất kết, phiền muộn. ◇Lưu Hướng 劉向: 'Chí hu uất kì nan thích' 志紆鬱其難釋 (Ưu khổ 憂苦) Lòng lo buồn khôn nguôi.",
+                "(Động) Vướng vít, triền nhiễu.",
+                "(Động) Đeo, buộc. ◇Trương Hành 張衡: 'Bội ngọc tỉ, hu hoàng tổ' 佩玉璽, 紆皇組 (Đông Kinh phú 東京賦) Đeo ấn tín, buộc dây thao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quanh co.",
+                "Trong lòng uất kết cũng gọi là hu. Cũng đọc là chữ u."
+            ],
+            "compound_words": {
+                "盤紆": "bàn hu",
+                "縈紆": "oanh hu"
+            }
+        },
+        "vu": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quanh co;",
+                "Sự rối rắm trong lòng, sự sầu muộn."
+            ]
+        }
+    }
+}

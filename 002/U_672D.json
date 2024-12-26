@@ -1,0 +1,87 @@
+{
+    "character": "札",
+    "details": {
+        "Âm Hán Việt": [
+            "trát"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "mộc 木 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木乚"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "DU (木山)"
+        ],
+        "Unicode": [
+            "U+672D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhā ㄓㄚ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "trát",
+            "trớt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふだ (fuda)"
+        ],
+        "Âm Hàn": [
+            "찰"
+        ],
+        "Âm Quảng Đông": [
+            "zaat3"
+        ]
+    },
+    "meanings": {
+        "trát": {
+            "Từ điển phổ thông": [
+                "thẻ tre để viết",
+                "công văn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thẻ gỗ để viết. § Ngày xưa không có giấy, dùng mảnh ván viết chữ. ◎Như: 'bút trát' 筆札 bút và thẻ gỗ để viết, 'giản trát' 簡札 thẻ tre.",
+                "(Danh) Thư từ, công văn. ◎Như: 'tin trát' 信札 văn thư. ◇Cổ thi 古詩: 'Khách tòng viễn phương lai, Di ngã nhất thư trát' 客從遠方來, 遺我一書札 (Mạnh đông hàn khí chí 孟冬寒氣至) Khách từ phương xa đến, Để lại cho ta một bức thư.",
+                "(Danh) Lớp bằng da hoặc kim loại lót áo giáp, mũ trụ.",
+                "(Động) Chết vì tai họa, ôn dịch. ◎Như: 'yểu trát' 夭札 chết yểu. ◇Tả truyện 左傳: 'Lệ tật bất giáng, dân bất yêu trát' 癘疾不降，民不夭札 (Chiêu Công tứ niên 昭公四年) Ôn dịch không giáng xuống, dân không chết yểu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái thẻ, ngày xưa không có giấy, văn tự gì cũng viết vào ván gỗ nhỏ gọi là trát. Thế cho nên thư từ cũng gọi là trát, như tin trát 信札 cái thư, tờ của quan sức cho dân cũng gọi là trát.",
+                "Chết non, như yểu trát 夭札 non yểu.",
+                "Lần áo dày."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bảng gỗ nhỏ, cái thẻ (người xưa dùng để viết);",
+                "(văn) Thư từ: 來札 Thư từ gởi đến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung giấy tờ — Giấy tờ của quan trên sức xuống cấp dưới — Chết yểu."
+            ],
+            "compound_words": {
+                "奉札": "phụng trát",
+                "草札": "thảo trát",
+                "札記": "trát kí",
+                "詞札": "từ trát"
+            }
+        }
+    }
+}

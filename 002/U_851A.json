@@ -1,0 +1,125 @@
+{
+    "character": "蔚",
+    "details": {
+        "Âm Hán Việt": [
+            "uý",
+            "uất"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thảo 艸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹尉"
+        ],
+        "Nét bút": [
+            "一丨丨フ一ノ一一丨ノ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "TSFI (廿尸火戈)"
+        ],
+        "Unicode": [
+            "U+851A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ",
+            "Yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "uất",
+            "uý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウツ (utsu)",
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うち (uchi)",
+            "おとこよもぎ (otokoyomogi)"
+        ],
+        "Âm Hàn": [
+            "울",
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai3",
+            "wat1",
+            "wat3"
+        ]
+    },
+    "meanings": {
+        "uý": {
+            "Từ điển phổ thông": [
+                "cỏ uý",
+                "xanh tốt",
+                "hưng thịnh",
+                "màu sẫm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ 'úy'. § Tục gọi là 'mẫu hao' 牡蒿.",
+                "(Tính) Tươi tốt, mậu thịnh (cây cỏ).",
+                "(Tính) Văn vẻ hoa mĩ. ◎Như: 'văn phong úy khởi' 文風蔚起 văn phong tươi đẹp.",
+                "(Phó) To lớn, thịnh đại.",
+                "Một âm là 'uất'. (Danh) Họ 'Uất'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ uý. Sung uý 茺蔚. Xem chữ sung 茺.",
+                "Xanh tốt, cây cỏ xanh tốt.",
+                "Hưng thịnh. Như văn phong uý khởi 文風蔚起 văn phong hưng thịnh.",
+                "Sắc sẫm, vằn thâm mật gọi là uý tảo 蔚藻 hay bân uý 彬蔚.",
+                "Một âm là uất. Tên đất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cỏ uý. Xem 茺蔚 [chongwèi];",
+                "Xanh tốt, rậm rạp, um tùm, trọng thể: 蔚然可觀 Trọng thể khả quan;",
+                "Nhiều màu sắc",
+                "Hưng thịnh: 文風蔚起 Văn phong hương thịnh;",
+                "Màu sẫm: 蔚藻 Vằn sẫm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ tươi tốt xum xuê của cây cối — Đẹp đẽ — Ta cũng quen đọc là Uất. Td: Sầm uất."
+            ],
+            "compound_words": {
+                "彬蔚": "bân uý"
+            }
+        },
+        "uất": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ 'úy'. § Tục gọi là 'mẫu hao' 牡蒿.",
+                "(Tính) Tươi tốt, mậu thịnh (cây cỏ).",
+                "(Tính) Văn vẻ hoa mĩ. ◎Như: 'văn phong úy khởi' 文風蔚起 văn phong tươi đẹp.",
+                "(Phó) To lớn, thịnh đại.",
+                "Một âm là 'uất'. (Danh) Họ 'Uất'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ uý. Sung uý 茺蔚. Xem chữ sung 茺.",
+                "Xanh tốt, cây cỏ xanh tốt.",
+                "Hưng thịnh. Như văn phong uý khởi 文風蔚起 văn phong hưng thịnh.",
+                "Sắc sẫm, vằn thâm mật gọi là uý tảo 蔚藻 hay bân uý 彬蔚.",
+                "Một âm là uất. Tên đất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Họ) Uất;",
+                "Tên đất (ở tỉnh Hà Bắc, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cỏ tươi tốt xum xuê — Đông đảo tốt đẹp."
+            ],
+            "compound_words": {
+                "岑蔚": "sầm uất",
+                "暢蔚": "sướng uất"
+            }
+        }
+    }
+}

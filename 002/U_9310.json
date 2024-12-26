@@ -1,0 +1,95 @@
+{
+    "character": "錐",
+    "details": {
+        "Âm Hán Việt": [
+            "chuỳ",
+            "truỳ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金隹"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "COG (金人土)"
+        ],
+        "Unicode": [
+            "U+9310"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhuī ㄓㄨㄟ"
+        ],
+        "Âm Nôm": [
+            "chuỳ",
+            "dùi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きり (kiri)"
+        ],
+        "Âm Hàn": [
+            "추"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi1"
+        ]
+    },
+    "meanings": {
+        "chuỳ": {
+            "Từ điển phổ thông": [
+                "dùi",
+                "cái dùi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái dùi. ◇Chiến quốc sách 戰國策: 'Độc thư dục thụy, dẫn chùy tự thứ kì cổ, huyết lưu chí túc' 讀書欲睡, 引錐, , 血流至足 (Tần sách nhị 秦策二, Tô Tần 蘇秦) Đọc sách mà buồn ngủ, thì cầm cầm dùi tự đâm vào vế, máu chảy tới chân.",
+                "(Danh) Vật có hình mũi nhọn như cái dùi. ◎Như: 'mao chùy' 毛錐 cái bút lông.",
+                "(Động) Đâm bằng dùi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái dùi nhọn bằng sắt. Cũng viết là 錘."
+            ],
+            "compound_words": {
+                "錐鑽": "chuỳ chỉ",
+                "錐股": "chuỳ cổ",
+                "錐杵囊中": "chuỳ xử nang trung",
+                "錐處囊中": "chuỳ xử nang trung",
+                "刀錐": "đao chuỳ",
+                "立錐": "lập chuỳ"
+            }
+        },
+        "truỳ": {
+            "Từ điển Thiều Chửu": [
+                "Cái dùi.",
+                "Cái bút gọi là mao trùy 毛錐 vì nó nhọn như cái dùi vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dùi: 無立錐之地 Không có tấc đất cắm dùi;",
+                "Dùi, khoét lỗ: 他在木板上錐孔 Anh ấy dùi lỗ trên tấm ván;",
+                "(văn) Bén;",
+                "Chóp, nón: 圓錐體 Hình chóp, hình nón."
+            ],
+            "compound_words": {
+                "刀錐": "đao truỳ",
+                "稜錐": "lăng truỳ"
+            }
+        }
+    }
+}

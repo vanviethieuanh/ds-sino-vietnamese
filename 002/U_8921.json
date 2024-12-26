@@ -1,0 +1,78 @@
+{
+    "character": "褡",
+    "details": {
+        "Âm Hán Việt": [
+            "áp",
+            "đáp"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "y 衣 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤荅"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶一丨丨ノ丶一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LTOR (中廿人口)"
+        ],
+        "Unicode": [
+            "U+8921"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dā ㄉㄚ"
+        ],
+        "Âm Nôm": [
+            "đáp"
+        ],
+        "Âm Quảng Đông": [
+            "daap3"
+        ]
+    },
+    "meanings": {
+        "áp": {
+            "Từ điển Trần Văn Chánh": [
+                "Áo trấn thủ, áo cụt tay;",
+                "【褡褳】đáp liên [dalián] a. Túi thồ, hầu bao, túi bạc; b. Áo vật."
+            ],
+            "compound_words": {
+                "背褡": "bối đáp",
+                "褡裢": "đáp liên",
+                "褡褳": "đáp liên"
+            }
+        },
+        "đáp": {
+            "Từ điển phổ thông": [
+                "áo trấn thủ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo trấn thủ (không có tay áo). ◎Như: 'bối đáp' 背褡 áo cụt tay.",
+                "(Danh) Túi, bao. ◎Như: 'tiền đáp' 錢褡 túi đựng tiền."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Áo trấn thủ (cộc tay)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chăn nhỏ, mền nhỏ."
+            ],
+            "compound_words": {
+                "背褡": "bối đáp",
+                "褡裢": "đáp liên",
+                "褡褳": "đáp liên"
+            }
+        }
+    }
+}

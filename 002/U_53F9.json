@@ -1,0 +1,67 @@
+{
+    "character": "叹",
+    "details": {
+        "Âm Hán Việt": [
+            "thán"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰口又"
+        ],
+        "Nét bút": [
+            "丨フ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "RE (口水)"
+        ],
+        "Unicode": [
+            "U+53F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tàn ㄊㄢˋ"
+        ],
+        "Âm Nôm": [
+            "thán"
+        ],
+        "Âm Quảng Đông": [
+            "taan3"
+        ]
+    },
+    "meanings": {
+        "thán": {
+            "Từ điển phổ thông": [
+                "kêu, than thở",
+                "tấm tắc khen",
+                "ngân dài giọng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 嘆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 嘆"
+            ],
+            "compound_words": {
+                "哀叹": "ai thán",
+                "悲叹": "bi thán",
+                "感叹": "cảm thán",
+                "赞叹": "tán thán",
+                "叹词": "thán từ",
+                "叹息": "thán tức"
+            }
+        }
+    }
+}

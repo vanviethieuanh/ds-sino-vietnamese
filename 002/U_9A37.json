@@ -1,0 +1,102 @@
+{
+    "character": "騷",
+    "details": {
+        "Âm Hán Việt": [
+            "tao"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mã 馬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬蚤"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶フ丶丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "SFEII (尸火水戈戈)"
+        ],
+        "Unicode": [
+            "U+9A37"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sāo ㄙㄠ",
+            "sǎo ㄙㄠˇ",
+            "xiāo ㄒㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "tao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さわ.ぐ (sawa.gu)",
+            "うれい (urei)",
+            "さわが.しい (sawaga.shii)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "sou1"
+        ]
+    },
+    "meanings": {
+        "tao": {
+            "Từ điển phổ thông": [
+                "quấy nhiễu",
+                "phong nhã, thanh cao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quấy nhiễu. ◎Như: 'tao nhiễu' 騷擾 quấy rối.",
+                "(Danh) Sự lo lắng, lo buồn. ◇Sử Kí 史記: 'Li Tao giả, do li ưu dã' 離騷者, 猶離憂也 (Khuất Nguyên Giả Sanh truyện 屈原賈生傳) Tập Li Tao, do ưu sầu mà làm ra vậy.",
+                "(Danh) Lòng uất ức, sự bất mãn. ◎Như: 'mãn phúc lao tao' 滿腹牢騷 sự bồn chồn, uất ức, bất đắc chí chất chứa trong lòng.",
+                "(Danh) Tên gọi tắt của 'Li Tao' 離騷. ◇Văn tâm điêu long 文心雕龍: 'Tích Hán Vũ ái Tao' 昔漢武愛騷 (Biện Tao 辨騷) Xưa Hán Vũ yêu thích tập Li Tao.",
+                "(Danh) Phiếm chỉ thơ phú. ◇Lưu Trường Khanh 劉長卿: 'Tiếu ngữ họa phong tao, Ung dong sự văn mặc' 笑語和風騷, 雍容事文墨 (Tặng Tể Âm Mã 贈濟陰馬) Cười nói họa thơ phú, Ung dung làm văn chương.",
+                "(Danh) Mùi hôi tanh. § Thông 'tao' 臊. ◎Như: 'tao xú' 騷臭 mùi hôi thối.",
+                "(Tính) Dâm đãng, lẳng lơ. ◎Như: 'tao phụ' 騷婦 người đàn bà dâm đãng.",
+                "(Tính) Phong nhã. ◎Như: 'tao nhân mặc khách' 騷人墨客 người phong nhã khách văn chương."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quấy nhiễu. Như bắt phu thu thuế làm cho dân lo sợ không yên gọi là tao nhiễu 騷擾.",
+                "Ðời Chiến quốc 戰國 có ông Khuất Nguyên 屈原 làm ra thơ Li tao 離騷, nói gặp sự lo lắng vậy. Người bất đắc chí gọi là lao tao 牢騷 bồn chồn, cũng là noi cái ý ấy. Lại sự phong nhã cũng gọi là phong tao 風騷. Vì thế gọi các làng thơ là tao nhân 騷人."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rối ren, quấy nhiễu: 騷動 Rối loạn;",
+                "Như 臊 [sao] (bộ 肉);",
+                "(văn) Buồn rầu, lo lắng;",
+                "Thể văn li tao (chỉ tập thơ Li tao của nhà thơ nổi tiếng Khuất Nguyên thời Chiến quốc của Trung Quốc);",
+                "Giới văn thơ (chỉ văn học nói chung và nhà thơ, nhà văn thời xưa. 【騷客】tao khách [saokè] (văn) Nhà thơ, khách thơ;",
+                "Lẳng lơ, lăng nhăng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gây rối — Rối loạn — Buồn rầu — Hôi thối — Chỉ về văn chương."
+            ],
+            "compound_words": {
+                "牢騷": "lao tao",
+                "離騷": "li tao",
+                "風騷": "phong tao",
+                "騷客": "tao khách",
+                "騷雅": "tao nhã",
+                "騷人": "tao nhân",
+                "騷人墨客": "tao nhân mặc khách",
+                "騷屑": "tao tiết",
+                "清騷": "thanh tao",
+                "蕭騷": "tiêu tao"
+            }
+        }
+    }
+}

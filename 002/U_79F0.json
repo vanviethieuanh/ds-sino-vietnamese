@@ -1,0 +1,100 @@
+{
+    "character": "称",
+    "details": {
+        "Âm Hán Việt": [
+            "xưng",
+            "xứng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoà 禾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰禾尔"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶ノフ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDNF (竹木弓火)"
+        ],
+        "Unicode": [
+            "U+79F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chèn ㄔㄣˋ",
+            "chēng ㄔㄥ",
+            "chèng ㄔㄥˋ"
+        ],
+        "Âm Nôm": [
+            "hấng",
+            "xưng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たた.える (tata.eru)",
+            "とな.える (tona.eru)",
+            "あ.げる (a.geru)",
+            "かな.う (kana.u)",
+            "はか.り (haka.ri)",
+            "はか.る (haka.ru)",
+            "ほめ.る (home.ru)"
+        ],
+        "Âm Hàn": [
+            "칭"
+        ],
+        "Âm Quảng Đông": [
+            "cing1",
+            "cing3"
+        ]
+    },
+    "meanings": {
+        "xưng": {
+            "Từ điển phổ thông": [
+                "gọi bằng, gọi là, xưng là"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 稱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 稱"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết quen của chữ Xưng 稱."
+            ],
+            "compound_words": {
+                "别称": "biệt xưng",
+                "名称": "danh xưng",
+                "或称": "hoặc xưng",
+                "俗称": "tục xưng",
+                "宣称": "tuyên xưng",
+                "自称": "tự xưng"
+            }
+        },
+        "xứng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 稱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 稱"
+            ],
+            "compound_words": {
+                "对称": "đối xứng",
+                "非对称式数据用户线": "phi đối xứng thức số cứ dụng hộ tuyến"
+            }
+        }
+    }
+}

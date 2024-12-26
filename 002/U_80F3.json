@@ -1,0 +1,93 @@
+{
+    "character": "胳",
+    "details": {
+        "Âm Hán Việt": [
+            "ca",
+            "các",
+            "cách"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月各"
+        ],
+        "Nét bút": [
+            "ノフ一一ノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "BHER (月竹水口)"
+        ],
+        "Unicode": [
+            "U+80F3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gā ㄍㄚ",
+            "gē ㄍㄜ",
+            "gé ㄍㄜˊ"
+        ],
+        "Âm Nôm": [
+            "cách",
+            "cặc",
+            "lặc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)",
+            "ギャク (gyaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わき (waki)"
+        ],
+        "Âm Quảng Đông": [
+            "gaak3",
+            "lok3"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển phổ thông": [
+                "(xem: ca chi oa 胳肢窩,胳肢窝)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【胳肢窩】ca chi oa [gazhiwo] Như 夾肢窩 [gazhiwo]. Xem 肐 [ge], 胳 [gé]."
+            ],
+            "compound_words": {
+                "胳肢": "ca chi",
+                "胳肢窝": "ca chi oa",
+                "胳肢窩": "ca chi oa"
+            }
+        },
+        "các": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mạng sườn ( phần dưới nách ) — Xương đùi sau của loài thú bốn chân."
+            ],
+            "compound_words": {
+                "胳膊": "cách bác"
+            }
+        },
+        "cách": {
+            "Từ điển trích dẫn": [
+                "(Danh) Phần dưới nách.",
+                "(Danh) Phần từ vai xuống tới tay. ◎Như: 'cách tí' 胳臂 cánh tay."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【胳肢】cách chi [gézhi] (đph) Cù (cho cười). Xem 胳 [ga], 肐 [ge]."
+            ],
+            "compound_words": {
+                "胳膊": "cách bác"
+            }
+        }
+    }
+}

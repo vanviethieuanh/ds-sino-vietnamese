@@ -1,0 +1,105 @@
+{
+    "character": "拮",
+    "details": {
+        "Âm Hán Việt": [
+            "cát",
+            "kiết",
+            "kiệt"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘吉"
+        ],
+        "Nét bút": [
+            "一丨一一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QGR (手土口)"
+        ],
+        "Unicode": [
+            "U+62EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jiá ㄐㄧㄚˊ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "cắt",
+            "cất",
+            "gặt",
+            "gật",
+            "két",
+            "kiết",
+            "kít"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "ケツ (ketsu)",
+            "キツ (kitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はたら.く (hatara.ku)"
+        ],
+        "Âm Hàn": [
+            "길",
+            "결"
+        ],
+        "Âm Quảng Đông": [
+            "git3"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển trích dẫn": [
+                "(Phó) § Xem 'kiết cư' 拮据.",
+                "§ Chữ 拮 cũng đọc là 'cát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tay và miệng cùng làm (mải làm), kiết cư 拮据 bệnh tay. Cảnh huống quẫn bách cũng gọi là kiết cư. Ta quen đọc là chữ cát.",
+                "Một âm là kiệt. Cho xe kẹp."
+            ]
+        },
+        "kiết": {
+            "Từ điển phổ thông": [
+                "tay và miệng cùng làm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) § Xem 'kiết cư' 拮据.",
+                "§ Chữ 拮 cũng đọc là 'cát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tay và miệng cùng làm (mải làm), kiết cư 拮据 bệnh tay. Cảnh huống quẫn bách cũng gọi là kiết cư. Ta quen đọc là chữ cát.",
+                "Một âm là kiệt. Cho xe kẹp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【拮据】kiết cư [jiéju] Túng bấn, túng thiếu, quẫn bách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy tay mà quơ — Bức bách, ép buộc."
+            ],
+            "compound_words": {
+                "拮据": "kiết cư"
+            }
+        },
+        "kiệt": {
+            "Từ điển Thiều Chửu": [
+                "Tay và miệng cùng làm (mải làm), kiết cư 拮据 bệnh tay. Cảnh huống quẫn bách cũng gọi là kiết cư. Ta quen đọc là chữ cát.",
+                "Một âm là kiệt. Cho xe kẹp."
+            ]
+        }
+    }
+}

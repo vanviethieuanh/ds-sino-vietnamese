@@ -1,0 +1,82 @@
+{
+    "character": "檄",
+    "details": {
+        "Âm Hán Việt": [
+            "hịch"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mộc 木 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木敫"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丨フ一一丶一フノノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DHSK (木竹尸大)"
+        ],
+        "Unicode": [
+            "U+6A84"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "xí ㄒㄧˊ"
+        ],
+        "Âm Nôm": [
+            "hịch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケキ (keki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "げき.する (geki.suru)",
+            "ふれぶみ (furebumi)"
+        ],
+        "Âm Hàn": [
+            "격"
+        ],
+        "Âm Quảng Đông": [
+            "hat6"
+        ]
+    },
+    "meanings": {
+        "hịch": {
+            "Từ điển phổ thông": [
+                "chiếu hịch, lời kêu gọi dân chúng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bài văn của vua quan dùng để kêu gọi, hiểu dụ tướng sĩ, nhân dân. ◎Như: 'vũ hịch' 羽檄 hịch khẩn cấp (viết vào mảnh ván cắm lông gà). ◇Sử Kí 史記: 'Kim đại vương cử nhi đông, Tam Tần khả truyền hịch nhi định dã' 今大王舉而東, 三秦可傳檄而定也 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Nay đại vương cất quân sang Đông, có thể truyền hịch mà bình định được Tam Tần. ◇Nguyễn Du 阮攸: 'Vũ hịch cấp phát như phi tinh' 羽檄急發如飛星 (Trở binh hành 阻兵行) Hịch lệnh cấp tốc như sao bay.",
+                "(Động) Dùng hịch để thông báo, ra lệnh. ◇Liêu trai chí dị 聊齋志異: 'Ư thị cấp hịch thuộc quan, thiết pháp bổ giải cật' 於是急檄屬官, 設法補解訖 (Vương giả 王者) Sau đó vội vàng ra lệnh cho thuộc quan tìm cách bù vào tiền đã mất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lời hịch, lời văn của các quan đòi hỏi, hiểu dụ hay trách cứ dân gọi là hịch, có việc cần kíp thì viết vào mảnh ván cắm lông gà vào gọi là vũ hịch 羽檄 để to cho biết là sự cần kíp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Bài) hịch;",
+                "Dùng bài hịch để kêu gọi hoặc lên án: 檄將士文 Bài kêu gọi các tướng sĩ (của Trần Quốc Tuấn)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây không có cành — Lời kêu gọi quân lính hoặc dân chúng. Bản dịch  Chinh phụ ngâm khúc  có câu: » Nửa đêm truyền hịch định ngày xuất chinh. « Cũng gọi là Hịch văn."
+            ],
+            "compound_words": {
+                "檄將士文": "hịch tướng sĩ văn",
+                "捧檄": "phủng hịch",
+                "軍檄": "quân hịch",
+                "傳檄": "truyền hịch",
+                "羽檄": "vũ hịch"
+            }
+        }
+    }
+}

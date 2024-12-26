@@ -1,0 +1,127 @@
+{
+    "character": "擴",
+    "details": {
+        "Âm Hán Việt": [
+            "khoác",
+            "khoách",
+            "khoáng",
+            "khoắc",
+            "khuếch"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thủ 手 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘廣"
+        ],
+        "Nét bút": [
+            "一丨一丶一ノ一丨丨一丨フ一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QITC (手戈廿金)"
+        ],
+        "Unicode": [
+            "U+64F4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kuò ㄎㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "huếch",
+            "khoác",
+            "khoách",
+            "khuếch",
+            "quẳng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひろ.がる (hiro.garu)",
+            "ひろ.げる (hiro.geru)",
+            "ひろ.める (hiro.meru)"
+        ],
+        "Âm Hàn": [
+            "확",
+            "광"
+        ],
+        "Âm Quảng Đông": [
+            "gwok3",
+            "kong3",
+            "kwok3",
+            "kwong3"
+        ]
+    },
+    "meanings": {
+        "khoác": {
+            "Từ điển phổ thông": [
+                "mở rộng ra, nới rộng"
+            ]
+        },
+        "khoách": {
+            "Từ điển trích dẫn": [
+                "(Động) Mở rộng. ◎Như: 'khoách sung' 擴充 mở mang, 'khoách triển' 擴展 mở rộng, 'khoách trương' 擴張 bành trướng.",
+                "§ Ghi chú: Ta quen đọc là 'khoáng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mở rộng thêm ra như khoách sung 擴充 mở mang cho có vẻ rộng rãi hơn lên. Ta quen đọc là chữ khoáng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuếch đại, mở rộng, làm to ra.【擴大】khuếch đại [kuòdà] Mở rộng, tăng thêm: 擴大耕地面積 Mở rộng diện tích đất cày; 擴大會議 Phiên họp mở rộng."
+            ]
+        },
+        "khoáng": {
+            "Từ điển trích dẫn": [
+                "(Động) Mở rộng. ◎Như: 'khoách sung' 擴充 mở mang, 'khoách triển' 擴展 mở rộng, 'khoách trương' 擴張 bành trướng.",
+                "§ Ghi chú: Ta quen đọc là 'khoáng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mở rộng thêm ra như khoách sung 擴充 mở mang cho có vẻ rộng rãi hơn lên. Ta quen đọc là chữ khoáng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuếch đại, mở rộng, làm to ra.【擴大】khuếch đại [kuòdà] Mở rộng, tăng thêm: 擴大耕地面積 Mở rộng diện tích đất cày; 擴大會議 Phiên họp mở rộng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giăng rộng ra, giương lớn ra. Cũng đọc Khoắc."
+            ]
+        },
+        "khoắc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giương lớn ra. Giăng rộng ra. Cũng đọc Khoáng."
+            ]
+        },
+        "khuếch": {
+            "Từ điển phổ thông": [
+                "mở rộng ra, nới rộng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuếch đại, mở rộng, làm to ra.【擴大】khuếch đại [kuòdà] Mở rộng, tăng thêm: 擴大耕地面積 Mở rộng diện tích đất cày; 擴大會議 Phiên họp mở rộng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mở rộng ra — Làm cho lớn lên."
+            ],
+            "compound_words": {
+                "擴音": "khuếch âm",
+                "擴大": "khuếch đại",
+                "擴充": "khuếch sung",
+                "擴散": "khuếch tán",
+                "擴聲": "khuếch thanh",
+                "擴展": "khuếch triển",
+                "擴張": "khuếch trương"
+            }
+        }
+    }
+}

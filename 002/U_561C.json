@@ -1,0 +1,73 @@
+{
+    "character": "嘜",
+    "details": {
+        "Âm Hán Việt": [
+            "mã",
+            "mạ",
+            "mạch"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "khẩu 口 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口麥"
+        ],
+        "Nét bút": [
+            "丨フ一一丨ノ丶ノ丶ノ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "RJON (口十人弓)"
+        ],
+        "Unicode": [
+            "U+561C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "mà ㄇㄚˋ",
+            "mài ㄇㄞˋ"
+        ],
+        "Âm Nôm": [
+            "mím"
+        ],
+        "Âm Quảng Đông": [
+            "mak1"
+        ]
+    },
+    "meanings": {
+        "mã": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nhãn dán trên các gói hàng. Nhãn hiệu."
+            ]
+        },
+        "mạ": {
+            "Từ điển phổ thông": [
+                "nhãn hiệu, mark hàng hoá"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhãn hiệu (từ dịch âm từ chữ mark, ghi trên bao bì hàng hoá xuất khẩu)."
+            ],
+            "compound_words": {
+                "嘜頭": "mạch đầu"
+            }
+        },
+        "mạch": {
+            "Từ điển trích dẫn": [
+                "1. § Xem “mạch đầu” 嘜頭."
+            ],
+            "compound_words": {
+                "嘜頭": "mạch đầu"
+            }
+        }
+    }
+}

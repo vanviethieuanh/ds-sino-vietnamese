@@ -1,0 +1,81 @@
+{
+    "character": "仃",
+    "details": {
+        "Âm Hán Việt": [
+            "đinh",
+            "đính"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhân 人 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻丁"
+        ],
+        "Nét bút": [
+            "ノ丨一丨"
+        ],
+        "Thương Hiệt": [
+            "OMN (人一弓)"
+        ],
+        "Unicode": [
+            "U+4EC3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dīng ㄉㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "dừng",
+            "đành",
+            "đần",
+            "đinh",
+            "đứa",
+            "đừng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Quảng Đông": [
+            "ding1"
+        ]
+    },
+    "meanings": {
+        "đinh": {
+            "Từ điển phổ thông": [
+                "(xem: linh đinh 伶仃)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Xem “linh đinh” 伶仃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Linh đinh 伶仃 đi vò võ một mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 伶仃 [líng ding]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Linh đinh. Vần Linh — Một âm khác là Đính. Xem Đính."
+            ],
+            "compound_words": {
+                "孤苦伶仃": "cô khổ linh đinh",
+                "伶仃": "linh đinh"
+            }
+        },
+        "đính": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Say lắm. Say rượu đến không còn biết gì. Dùng như chữ Đính 酊 — Một âm là Đinh. Xem Đinh."
+            ]
+        }
+    }
+}

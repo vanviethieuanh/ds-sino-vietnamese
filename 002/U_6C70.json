@@ -1,0 +1,105 @@
+{
+    "character": "汰",
+    "details": {
+        "Âm Hán Việt": [
+            "thái",
+            "thải"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡太"
+        ],
+        "Nét bút": [
+            "丶丶一一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "EKI (水大戈)"
+        ],
+        "Unicode": [
+            "U+6C70"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tài ㄊㄞˋ"
+        ],
+        "Âm Nôm": [
+            "thái",
+            "thảy",
+            "thẩy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タ (ta)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おご.る (ogo.ru)",
+            "にご.る (nigo.ru)",
+            "よな.げる (yona.geru)"
+        ],
+        "Âm Hàn": [
+            "태"
+        ],
+        "Âm Quảng Đông": [
+            "taai3"
+        ]
+    },
+    "meanings": {
+        "thái": {
+            "Từ điển phổ thông": [
+                "quá mức",
+                "thải đi, bỏ đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Quá. ◎Như: 'xa thái' 奢汰 xa xỉ quá.",
+                "(Động) Đãi bỏ, trừ bỏ cái vô dụng đi. ◎Như: 'sa thải' 沙汰 đãi bỏ, 'đào thải' 淘汰 lọc bỏ.",
+                "§ Ta quen đọc là 'thải'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quá, như xa thái 奢汰 xa xỉ quá.",
+                "Thải đi, đãi bỏ, lọc bỏ cái vô dụng đi gọi là thái, như sa thái 沙汰 đãi bỏ, đào thải 淘汰 lọc bỏ, v.v. Ta quen đọc là chữ thải."
+            ]
+        },
+        "thải": {
+            "Từ điển phổ thông": [
+                "quá mức",
+                "thải đi, bỏ đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Quá. ◎Như: 'xa thái' 奢汰 xa xỉ quá.",
+                "(Động) Đãi bỏ, trừ bỏ cái vô dụng đi. ◎Như: 'sa thải' 沙汰 đãi bỏ, 'đào thải' 淘汰 lọc bỏ.",
+                "§ Ta quen đọc là 'thải'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quá, như xa thái 奢汰 xa xỉ quá.",
+                "Thải đi, đãi bỏ, lọc bỏ cái vô dụng đi gọi là thái, như sa thái 沙汰 đãi bỏ, đào thải 淘汰 lọc bỏ, v.v. Ta quen đọc là chữ thải."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thải, bỏ: 淘汰 Bị loại ra;",
+                "(văn) Quá: 奢汰 Xa xỉ quá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bỏ đi. Loại ra, không dùng tới nữa.  Đoạn trường tân thanh : » Tuồng gì hoa thải hương thừa «."
+            ],
+            "compound_words": {
+                "淘汰": "đào thải",
+                "廢汰": "phế thải",
+                "沙汰": "sa thải",
+                "裁汰": "tài thải",
+                "汰囘": "thải hồi"
+            }
+        }
+    }
+}

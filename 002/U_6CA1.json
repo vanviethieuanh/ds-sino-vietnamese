@@ -1,0 +1,80 @@
+{
+    "character": "没",
+    "details": {
+        "Âm Hán Việt": [
+            "một"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡殳"
+        ],
+        "Nét bút": [
+            "丶丶一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "EHNE (水竹弓水)"
+        ],
+        "Unicode": [
+            "U+6CA1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mē ㄇㄜ",
+            "méi ㄇㄟˊ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mốt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボツ (botsu)",
+            "モツ (motsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おぼ.れる (obo.reru)",
+            "しず.む (shizu.mu)",
+            "ない (nai)"
+        ],
+        "Âm Hàn": [
+            "몰"
+        ],
+        "Âm Quảng Đông": [
+            "mut6"
+        ]
+    },
+    "meanings": {
+        "một": {
+            "Từ điển phổ thông": [
+                "chìm mất",
+                "lặn (mặt trời)",
+                "không"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 沒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 沒 (1)，(2)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Một 沒."
+            ],
+            "compound_words": {
+                "辱没": "nhục một",
+                "籍没": "tịch một"
+            }
+        }
+    }
+}

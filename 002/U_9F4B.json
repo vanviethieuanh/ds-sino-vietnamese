@@ -1,0 +1,116 @@
+{
+    "character": "齋",
+    "details": {
+        "Âm Hán Việt": [
+            "trai"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "tề 齊 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵齊小"
+        ],
+        "Nét bút": [
+            "丶一丶ノ丨フノノフ丶ノ丨一一丨ノ丶丨"
+        ],
+        "Thương Hiệt": [
+            "YXF (卜重火)"
+        ],
+        "Unicode": [
+            "U+9F4B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhāi ㄓㄞ"
+        ],
+        "Âm Nôm": [
+            "chay",
+            "chây",
+            "trai",
+            "trơi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつし.む (tsutsushi.mu)",
+            "とき (toki)",
+            "ものいみ (monoimi)"
+        ],
+        "Âm Hàn": [
+            "재",
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "zaai1",
+            "zai1"
+        ]
+    },
+    "meanings": {
+        "trai": {
+            "Từ điển phổ thông": [
+                "ăn chay",
+                "nhà học"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giữ trong sạch, ngăn tham dục. ◎Như: Ngày xưa sắp tế lễ tất kiêng rượu, kiêng thịt, ngủ nhà riêng gọi là 'trai giới' 齋戒. ◇Sử Kí 史記: 'Trạch lương nhật, trai giới, thiết đàn tràng, cụ lễ, nãi khả nhĩ' 擇良日, 齋戒, 設壇場, 具禮, 乃可耳 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Chọn ngày lành, ăn chay giữ giới, thiết lập đàn tràng, làm đủ lễ, như thế mới được.",
+                "(Động) Thết cơm cho sư ăn.",
+                "(Danh) Cái trái ngoài, cái nhà riêng để ở trong lúc sắp tế lễ.",
+                "(Danh) Thư phòng, phòng học. ◎Như: 'thư trai' 書齋 phòng học, phòng văn. ◇Nguyễn Trãi 阮廌: 'Nhàn trung tận nhật bế thư trai' 閑中盡日閉書齋 (Mộ xuân tức sự 暮春即事) Nhàn nhã suốt ngày, khép cửa phòng văn.",
+                "(Danh) Bữa ăn chay, thức rau dưa, bữa ăn của sư. ◇Thủy hử truyện 水滸傳: 'Cật liễu tố trai' 吃了素齋 (Đệ nhất hồi) Ăn xong bữa cơm chay.",
+                "(Danh) § Xem 'trai tiếu' 齋醮.",
+                "(Danh) Danh hiệu tiệm buôn. ◎Như: 'Thái Chi trai' 采芝齋, 'Vinh Bảo trai' 榮寶齋."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tâm chí chuyên chú cả vào một cái. Ngày xưa sắp tế lễ tất kiêng rượu, kiêng thịt, ngủ nhà riêng gọi là trai giới 齋戒.",
+                "Cái chái ngoài, cái nhà riêng để ở trong lúc sắp tế lễ gọi là trai. Cái phòng riêng để học gọi là thư trai 書齋.",
+                "Ăn chay, ăn rau dưa.",
+                "Cơm của sư ăn gọi là trai.",
+                "Thết cơm sư ăn cũng gọi là trai.",
+                "Sư làm đàn cầu cúng gọi là trai tiếu 齋醮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phòng: 書齋Thư trai, phòng đọc sách;",
+                "Lầu, nhà (trong nhà trường): 新齋Lầu mới; 第一齋Lầu một;",
+                "Chay, trai giới: 吃齋 Ăn chay."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Răn giữ theo luật để được trong sạch — Ăn chay, không dùng thịt, cá, mỡ… — Căn phòng tĩnh mịch, để vị tăng ở, hoặc để học hành. Td: Thư trai 書齋 ( phòng học )."
+            ],
+            "compound_words": {
+                "半齋": "bán trai",
+                "艮齋詩集": "cấn trai thi tập",
+                "營齋": "doanh trai",
+                "篤齋": "đốc trai",
+                "懶齋": "lãn trai",
+                "毅齋詩集": "nghị trai thi tập",
+                "喪齋": "tang trai",
+                "水陸齋": "thuỷ lục trai",
+                "書齋": "thư trai",
+                "齋主": "trai chủ",
+                "齋壇": "trai đàn",
+                "齋禱": "trai đảo",
+                "齋戒": "trai giới",
+                "齋期": "trai kì",
+                "齋房": "trai phòng",
+                "齋心": "trai tâm",
+                "齋醮": "trai tiếu",
+                "齋舍": "trai xá",
+                "長齋": "trường trai",
+                "四齋詩集": "tứ trai thi tập",
+                "抑齋詩集": "ức trai thi tập"
+            }
+        }
+    }
+}

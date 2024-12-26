@@ -1,0 +1,89 @@
+{
+    "character": "彗",
+    "details": {
+        "Âm Hán Việt": [
+            "tuệ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "kệ 彐 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⿰丰丰彐"
+        ],
+        "Nét bút": [
+            "一一一丨一一一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "QJSM (手十尸一)"
+        ],
+        "Unicode": [
+            "U+5F57"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ",
+            "suì ㄙㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "tuệ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)",
+            "エ (e)",
+            "ケイ (kei)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほうき (hōki)"
+        ],
+        "Âm Hàn": [
+            "혜",
+            "세"
+        ],
+        "Âm Quảng Đông": [
+            "seoi6",
+            "wai6"
+        ]
+    },
+    "meanings": {
+        "tuệ": {
+            "Từ điển phổ thông": [
+                "sao chổi",
+                "cái chổi",
+                "quét"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái chổi.",
+                "(Danh) 'Tuệ tinh' 彗星 sao chổi (sao có đuôi dài như cái chổi). § Cũng gọi là: 'trửu tinh' 帚星, 'sàm sanh' 欃槍, 'tảo tinh' 掃星, 'tảo trửu tinh' 掃帚星."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chổi.",
+                "Sao chổi, ngôi sao có cái tua dài như cái chổi gọi là tuệ tinh 彗星.",
+                "Quét."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chổi;",
+                "Sao chổi;",
+                "Quét."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chổi — Quét — Sao chổi. Còn gọi là Tuệ tinh."
+            ],
+            "compound_words": {
+                "掃彗": "tảo tuệ",
+                "彗星": "tuệ tinh"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "攣",
+    "details": {
+        "Âm Hán Việt": [
+            "luyên",
+            "luyến"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "thủ 手 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱䜌手"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フフ丶丶丶丶フフ丶丶丶丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "VFQ (女火手)"
+        ],
+        "Unicode": [
+            "U+6523"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "liàn ㄌㄧㄢˋ",
+            "luán ㄌㄨㄢˊ"
+        ],
+        "Âm Nôm": [
+            "loang",
+            "luyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.る (tsu.ru)",
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "련"
+        ],
+        "Âm Quảng Đông": [
+            "lyun4"
+        ]
+    },
+    "meanings": {
+        "luyên": {
+            "Từ điển trích dẫn": [
+                "(Động) Buộc, ràng buộc. ◎Như: 'luyên tác' 攣索 buộc dây thừng.",
+                "Một âm là 'luyến'. (Động) Co quắp, co rút. ◎Như: 'câu luyến' 拘攣 co quắp. ◇Tố Vấn 素問: 'Thủ túc luyến khúc bất năng thân trực' 手足攣曲不能伸直 (Sơ ngũ quá luận 疏五過論) Tay chân co rút không duỗi thẳng được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Buộc, cùng ràng buộc với nhau không rời được.",
+                "Một âm là luyến. Co quắp, như câu luyến 拘攣 chân tay co quắp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Buộc;",
+                "Co: 攣縮Co rút; 四肢痙攣 Co giật chân tay."
+            ]
+        },
+        "luyến": {
+            "Từ điển phổ thông": [
+                "buộc",
+                "co lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Buộc, ràng buộc. ◎Như: 'luyên tác' 攣索 buộc dây thừng.",
+                "Một âm là 'luyến'. (Động) Co quắp, co rút. ◎Như: 'câu luyến' 拘攣 co quắp. ◇Tố Vấn 素問: 'Thủ túc luyến khúc bất năng thân trực' 手足攣曲不能伸直 (Sơ ngũ quá luận 疏五過論) Tay chân co rút không duỗi thẳng được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Buộc, cùng ràng buộc với nhau không rời được.",
+                "Một âm là luyến. Co quắp, như câu luyến 拘攣 chân tay co quắp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Buộc;",
+                "Co: 攣縮Co rút; 四肢痙攣 Co giật chân tay."
+            ],
+            "compound_words": {
+                "攣踠": "luyến uyển"
+            }
+        }
+    }
+}

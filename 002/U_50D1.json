@@ -1,0 +1,82 @@
+{
+    "character": "僑",
+    "details": {
+        "Âm Hán Việt": [
+            "kiều"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhân 人 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻喬"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一ノ丶丨フ一丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OHKB (人竹大月)"
+        ],
+        "Unicode": [
+            "U+50D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiáo ㄑㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "kiều",
+            "quều"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Hàn": [
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "kiu4"
+        ]
+    },
+    "meanings": {
+        "kiều": {
+            "Từ điển phổ thông": [
+                "ở nhờ, đi ở nơi khác",
+                "kiều dân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ở nhờ, ở đậu. ◎Như: 'kiều cư' 僑居 ở nhờ, ở xứ ngoài.",
+                "(Danh) Người ở nhờ làng khác hay nước khác. ◎Như: 'Hoa kiều ' 華僑 người Hoa ở ngoài Trung Quốc.",
+                "(Phó) Tạm thời. ◎Như: 'kiều trí' 僑置 đặt tạm, mượn tên đất này đặt cho đất kia."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ở nhờ, đi ở nhờ làng khác hay nước khác gọi là kiều cư 僑居, kiều dân 僑民."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ở nhờ nơi khác (hay nước khác);",
+                "Kiều dân: 華僑 Hoa kiều; 外僑 Ngoại kiều."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ở đậu — Người sống ở nước ngoài. Td: Ngoại kiều 外僑."
+            ],
+            "compound_words": {
+                "華僑": "hoa kiều",
+                "僑胞": "kiều bào",
+                "僑居": "kiều cư",
+                "僑民": "kiều dân",
+                "僑軍": "kiều quân",
+                "外僑": "ngoại kiều"
+            }
+        }
+    }
+}

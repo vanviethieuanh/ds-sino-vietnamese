@@ -1,0 +1,82 @@
+{
+    "character": "銅",
+    "details": {
+        "Âm Hán Việt": [
+            "đồng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "kim 金 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金同"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "CBMR (金月一口)"
+        ],
+        "Unicode": [
+            "U+9285"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tóng ㄊㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "đòng",
+            "đồng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あかがね (akagane)"
+        ],
+        "Âm Hàn": [
+            "동"
+        ],
+        "Âm Quảng Đông": [
+            "tung4"
+        ]
+    },
+    "meanings": {
+        "đồng": {
+            "Từ điển phổ thông": [
+                "đồng, Cu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồng (copper, Cu). § Một kim loại chất đỏ, ngày xưa gọi là 'xích kim' 赤金.",
+                "(Danh) Gọi tắt đồ vật làm bằng đồng: tiền, gương soi... ◇Văn Nhất Đa 聞一多: 'Đồng thị na dạng xú, Huyết thị na dạng tinh' 銅是那樣臭, 血是那樣腥 (Tẩy y ca 洗衣歌). ◇Viên Hoành Đạo 袁宏道: 'Đối khách tâm như khiếp, Khuy đồng chỉ tự liên' 對客心如怯, 窺銅只自憐 (Bệnh khởi ngẫu đề 病起偶題).",
+                "(Danh) Họ 'Đồng'.",
+                "(Tính) Tỉ dụ chắc chắn, cứng cỏi. ◎Như: 'đồng đầu thiết ngạch' 銅頭鐵額."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðồng (Copper, Cu), một loài kim chất đỏ, ngày xưa gọi là xích kim 赤金."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đồng (Cuprum kí hiệu Cu): 銅鑛 Quặng đồng; 銅像 Tượng đồng; 銅版 Bản khắc đồng. Cg. 赤金 [chìjin]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên thứ kim loại, nếu nguyên chất thì màu đỏ, mềm. Ta cũng gọi là đồng, rất hữu dụng."
+            ],
+            "compound_words": {
+                "銅器": "đồng khí",
+                "銅綠": "đồng lục",
+                "銅石": "đồng thạch",
+                "黃銅": "hoàng đồng"
+            }
+        }
+    }
+}

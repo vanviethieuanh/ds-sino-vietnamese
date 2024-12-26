@@ -1,0 +1,73 @@
+{
+    "character": "弯",
+    "details": {
+        "Âm Hán Việt": [
+            "loan"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "cung 弓 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱亦弓"
+        ],
+        "Nét bút": [
+            "丶一丨丨ノ丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "YCN (卜金弓)"
+        ],
+        "Unicode": [
+            "U+5F2F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wān ㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "loan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワン (wan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "waan1"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển phổ thông": [
+                "cong, ngoằn ngoèo",
+                "chỗ ngoặt, chỗ cong, quanh co",
+                "cúi, cong, còng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 彎."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 彎"
+            ],
+            "compound_words": {
+                "弯曲": "loan khúc",
+                "弯腰": "loan yêu",
+                "拐弯": "quải loan"
+            }
+        }
+    }
+}

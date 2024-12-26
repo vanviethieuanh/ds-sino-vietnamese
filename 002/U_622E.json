@@ -1,0 +1,92 @@
+{
+    "character": "戮",
+    "details": {
+        "Âm Hán Việt": [
+            "lục"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "qua 戈 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰翏戈"
+        ],
+        "Nét bút": [
+            "フ丶一フ丶一ノ丶ノノノ一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "SHI (尸竹戈)"
+        ],
+        "Unicode": [
+            "U+622E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lù ㄌㄨˋ"
+        ],
+        "Âm Nôm": [
+            "lục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リク (riku)",
+            "リュウ (ryū)",
+            "ロク (roku)",
+            "キョウ (kyō)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ころ.す (koro.su)",
+            "けず.る (kezu.ru)"
+        ],
+        "Âm Hàn": [
+            "륙",
+            "육"
+        ],
+        "Âm Quảng Đông": [
+            "luk6"
+        ]
+    },
+    "meanings": {
+        "lục": {
+            "Từ điển phổ thông": [
+                "giết rồi phanh thây",
+                "làm nhục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giết. ◎Như: 'thảm tao đồ lục' 慘遭屠戮 chém giết thảm khốc.",
+                "(Động) Sỉ nhục, làm nhục. § Thông 'lục' 僇.",
+                "(Động) Hợp lại, chung sức. ◎Như: 'lục lực' 戮力 cùng chung sức. ◇Sử Kí 史記: 'Thần dữ Tướng quân lục lực nhi công Tần' 臣與將軍戮力而攻秦 (Hạng Vũ bổn kỉ 項羽本紀) Thần cùng với Tướng quân chung sức đánh Tần."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giết. Giết rồi phanh thây ra gọi là lục.",
+                "Nhục, nguyên là chữ lục 僇. Chung sức. Như lục lực 戮力 cùng chung sức vào.",
+                "Làm nhục."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giết (và phanh thây ra): 殺戮 Giết chóc; 胥之父兄爲戮於楚 Cha anh của Tư bị Sở giết chết (Sử kí);",
+                "(văn) Chung, chung sức, hợp: 戮力同心 Đồng tâm hợp lực;",
+                "Nhục, làm nhục (dùng như 憀, bộ 忄)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giết chết — Bêu thây người chết — Mối nhục nhã."
+            ],
+            "compound_words": {
+                "屠戮": "đồ lục",
+                "杀戮": "sát lục",
+                "殺戮": "sát lục",
+                "殘戮": "tàn lục",
+                "誅戮": "tru lục"
+            }
+        }
+    }
+}

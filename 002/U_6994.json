@@ -1,0 +1,80 @@
+{
+    "character": "榔",
+    "details": {
+        "Âm Hán Việt": [
+            "lang"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木郎"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶フ一一フ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "DIIL (木戈戈中)"
+        ],
+        "Unicode": [
+            "U+6994"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "láng ㄌㄤˊ",
+            "lǎng ㄌㄤˇ"
+        ],
+        "Âm Nôm": [
+            "lang",
+            "trang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)"
+        ],
+        "Âm Hàn": [
+            "랑"
+        ],
+        "Âm Quảng Đông": [
+            "long4"
+        ]
+    },
+    "meanings": {
+        "lang": {
+            "Từ điển phổ thông": [
+                "(xem: tân lang 檳榔,槟榔)",
+                "(xem: lang đầu 榔頭)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Tân lang' 檳榔: xem 'tân' 檳.",
+                "(Danh) 'Quang lang' 桄榔: xem 'quang' 桄."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tân lang 檳榔 cây cau.",
+                "Quang lang 桄榔 cây quang lang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 檳榔 [binláng], 桄榔 [quangláng],"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cau. Như chữ Lang 桹."
+            ],
+            "compound_words": {
+                "榔头": "lang đầu",
+                "榔頭": "lang đầu",
+                "槟榔": "tân lang",
+                "檳榔": "tân lang"
+            }
+        }
+    }
+}

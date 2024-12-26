@@ -1,0 +1,299 @@
+{
+    "character": "長",
+    "details": {
+        "Âm Hán Việt": [
+            "tràng",
+            "trướng",
+            "trường",
+            "trưởng",
+            "trượng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "trường 長 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一丨一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "SMV (尸一女)"
+        ],
+        "Unicode": [
+            "U+9577"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ",
+            "zhǎng ㄓㄤˇ",
+            "zhàng ㄓㄤˋ"
+        ],
+        "Âm Nôm": [
+            "tràng",
+            "trành",
+            "trườn",
+            "trường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なが.い (naga.i)",
+            "おさ (osa)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4",
+            "zoeng2"
+        ]
+    },
+    "meanings": {
+        "tràng": {
+            "Từ điển phổ thông": [
+                "dài",
+                "lâu"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dài, xa, chiều dài: 這段路全長約二千公里 Đoạn đường này dài độ 2.000 thước; 長途 Đường xa;",
+                "Lâu, lâu dài: 很長時間沒有消 Đã rất lâu không có tin tức gì cả;",
+                "Giỏi, tài, sở trường về: 他長于游 泳 Anh ấy bơi giỏi;",
+                "Cái hay, cái sở trường, ưu điểm: 各有所長 Mỗi người có một sở trường; 取長補短 Lấy ưu bù khuyết, lấy hơn bù kém; 一長可取 Có một cái hay khả thủ;",
+                "(văn) Thường, luôn, mãi mãi: 門雖設而長關 Cửa tuy có nhưng thường đóng luôn (Đào Uyên Minh: Quy khứ lai từ); 長使英雄淚滿襟 Mãi mãi khiến cho người anh hùng lệ rơi đầm đìa vạt áo (Đỗ Phủ: Vũ Hầu từ). Xem 長 [zhăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Trường."
+            ],
+            "compound_words": {
+                "冶長": "dã tràng"
+            }
+        },
+        "trướng": {
+            "Từ điển trích dẫn": [
+                "(Tính) Dài. § Đối lại với 'đoản' 短 ngắn. ◎Như: 'trường kiều ngọa ba' 長橋臥波 cầu dài nằm trên sóng nước.",
+                "(Tính) Lâu. ◎Như: 'trường thọ' 長壽 sống lâu.",
+                "(Tính) Xa. ◎Như: 'trường đồ' 長途 đường xa.",
+                "(Danh) Cái giỏi, cái tài, ưu điểm. ◎Như: 'các hữu sở trường' 各有所長 ai cũng có sở trường, 'nhất trường khả thủ' 一長可取 có một cái hay khá lấy.",
+                "(Danh) Họ 'Trường'.",
+                "(Phó) Thường, luôn. ◇Đào Uyên Minh 陶淵明: 'Môn tuy thiết nhi trường quan' 門雖設而長關 (Quy khứ lai từ tự 歸去来辞序) Tuy có cửa mà thường đóng mãi.",
+                "Một âm là 'trưởng'. (Danh) Người nhiều tuổi, bậc trên. ◎Như: 'tôn trưởng' 尊長 bậc trên, 'sư trưởng' 師長 lão sư, tiên sinh, 'huynh trưởng' 兄長 bậc đàn anh.",
+                "(Danh) Người đứng đầu, người cầm đầu. ◎Như: 'bộ trưởng' 部長 người giữ chức đầu một bộ, 'lục quân trưởng' 陸軍長 chức đứng đầu lục quân (bộ binh).",
+                "(Tính) Tuổi cao hơn, có tuổi hơn. ◎Như: 'tha bỉ ngã trưởng tam tuế' 他比我長三歲 anh ấy so với tôi lớn hơn ba tuổi, 'trưởng lão' 長老 bậc trên mình mà có tuổi.",
+                "(Tính) Hàng thứ nhất. ◎Như: 'trưởng tử' 長子 con trưởng, 'trưởng tôn' 長孫 cháu trưởng.",
+                "(Động) Sinh ra. ◇Tây du kí 西遊記: 'Ngã tuy bất thị thụ thượng sanh, khước thị thạch lí trưởng đích' 我雖不是樹上生, 卻是石裡長的 (Đệ nhất hồi) Đệ tử tuy không sinh ra trên cây, nhưng lại sinh ra trong đá.",
+                "(Động) Sinh ra sẵn có, tỏ ra. ◎Như: 'tha trưởng đắc bất xú' 她長得不醜 cô ta trông không xấu.",
+                "(Động) Có tài năng, giỏi. ◎Như: 'trưởng ư thi văn' 長於詩文 giỏi về thơ văn.",
+                "(Động) Nuôi lớn lên. ◇Thi Kinh 詩經: 'Trưởng ngã dục ngã' 長我育我 (Tiểu nhã 小雅, Lục nga 蓼莪) Nuôi tôi lớn lên.",
+                "(Động) Lớn lên. ◇Mạnh Tử 孟子: 'Cẩu đắc kì dưỡng vô vật bất trưởng' 苟得其養無物不長 (Cáo tử thượng 告子上) Nếu nuôi hợp cách, không vật nào không lớn.",
+                "Lại một âm là 'trướng'. (Động) Đo chiều dài. ◎Như: 'trướng nhất thân hữu bán' 長一身有半 đo dài hơn một thân rưỡi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dài, so hai đầu với nhau, bên nào thừa hơn gọi là trường.",
+                "Lâu dài. Như trường thọ 長壽 sống lâu.",
+                "Xa. Như trường đồ 長途 đường xa.",
+                "Thường. Như môn tuy thiết nhi trường quan 門雖設而長關 tuy có cửa mà thường đóng mãi.",
+                "Hay, tài. Như nhất trường khả thủ 一長可取 có một cái hay khá lấy.",
+                "Một âm là trưởng. Lớn, người đã đến tuổi trưởng thành gọi là trưởng.",
+                "Tuổi cao hơn, có tuổi hơn.",
+                "Những bậc trên mình mà có tuổi gọi là trưởng lão 長老.",
+                "Hàng thứ nhất. Như trưởng tử 長子 con trưởng, trưởng tôn 長孫 cháu trưởng, v.v.",
+                "Ðứng đầu. Chức đứng đầu các bộ đều gọi là bộ trưởng 部長, lục quân trưởng 陸軍長 chức đứng đầu các quân bộ.",
+                "Lớn lên, trái lại với tiếng tiêu mòn. Như cẩu đắc kì dưỡng, vô vật bất trưởng 苟得其養無物不長 nếu nuôi hợp cách, không vật nào không lớn.",
+                "Lại một âm là trướng. Chiều dài, nhiều, thừa. Như trướng nhất thân hữu bán 長一身有半 đo chiều dài hơn một thân rưỡi."
+            ]
+        },
+        "trường": {
+            "Từ điển phổ thông": [
+                "dài",
+                "lâu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Dài. § Đối lại với 'đoản' 短 ngắn. ◎Như: 'trường kiều ngọa ba' 長橋臥波 cầu dài nằm trên sóng nước.",
+                "(Tính) Lâu. ◎Như: 'trường thọ' 長壽 sống lâu.",
+                "(Tính) Xa. ◎Như: 'trường đồ' 長途 đường xa.",
+                "(Danh) Cái giỏi, cái tài, ưu điểm. ◎Như: 'các hữu sở trường' 各有所長 ai cũng có sở trường, 'nhất trường khả thủ' 一長可取 có một cái hay khá lấy.",
+                "(Danh) Họ 'Trường'.",
+                "(Phó) Thường, luôn. ◇Đào Uyên Minh 陶淵明: 'Môn tuy thiết nhi trường quan' 門雖設而長關 (Quy khứ lai từ tự 歸去来辞序) Tuy có cửa mà thường đóng mãi.",
+                "Một âm là 'trưởng'. (Danh) Người nhiều tuổi, bậc trên. ◎Như: 'tôn trưởng' 尊長 bậc trên, 'sư trưởng' 師長 lão sư, tiên sinh, 'huynh trưởng' 兄長 bậc đàn anh.",
+                "(Danh) Người đứng đầu, người cầm đầu. ◎Như: 'bộ trưởng' 部長 người giữ chức đầu một bộ, 'lục quân trưởng' 陸軍長 chức đứng đầu lục quân (bộ binh).",
+                "(Tính) Tuổi cao hơn, có tuổi hơn. ◎Như: 'tha bỉ ngã trưởng tam tuế' 他比我長三歲 anh ấy so với tôi lớn hơn ba tuổi, 'trưởng lão' 長老 bậc trên mình mà có tuổi.",
+                "(Tính) Hàng thứ nhất. ◎Như: 'trưởng tử' 長子 con trưởng, 'trưởng tôn' 長孫 cháu trưởng.",
+                "(Động) Sinh ra. ◇Tây du kí 西遊記: 'Ngã tuy bất thị thụ thượng sanh, khước thị thạch lí trưởng đích' 我雖不是樹上生, 卻是石裡長的 (Đệ nhất hồi) Đệ tử tuy không sinh ra trên cây, nhưng lại sinh ra trong đá.",
+                "(Động) Sinh ra sẵn có, tỏ ra. ◎Như: 'tha trưởng đắc bất xú' 她長得不醜 cô ta trông không xấu.",
+                "(Động) Có tài năng, giỏi. ◎Như: 'trưởng ư thi văn' 長於詩文 giỏi về thơ văn.",
+                "(Động) Nuôi lớn lên. ◇Thi Kinh 詩經: 'Trưởng ngã dục ngã' 長我育我 (Tiểu nhã 小雅, Lục nga 蓼莪) Nuôi tôi lớn lên.",
+                "(Động) Lớn lên. ◇Mạnh Tử 孟子: 'Cẩu đắc kì dưỡng vô vật bất trưởng' 苟得其養無物不長 (Cáo tử thượng 告子上) Nếu nuôi hợp cách, không vật nào không lớn.",
+                "Lại một âm là 'trướng'. (Động) Đo chiều dài. ◎Như: 'trướng nhất thân hữu bán' 長一身有半 đo dài hơn một thân rưỡi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dài, so hai đầu với nhau, bên nào thừa hơn gọi là trường.",
+                "Lâu dài. Như trường thọ 長壽 sống lâu.",
+                "Xa. Như trường đồ 長途 đường xa.",
+                "Thường. Như môn tuy thiết nhi trường quan 門雖設而長關 tuy có cửa mà thường đóng mãi.",
+                "Hay, tài. Như nhất trường khả thủ 一長可取 có một cái hay khá lấy.",
+                "Một âm là trưởng. Lớn, người đã đến tuổi trưởng thành gọi là trưởng.",
+                "Tuổi cao hơn, có tuổi hơn.",
+                "Những bậc trên mình mà có tuổi gọi là trưởng lão 長老.",
+                "Hàng thứ nhất. Như trưởng tử 長子 con trưởng, trưởng tôn 長孫 cháu trưởng, v.v.",
+                "Ðứng đầu. Chức đứng đầu các bộ đều gọi là bộ trưởng 部長, lục quân trưởng 陸軍長 chức đứng đầu các quân bộ.",
+                "Lớn lên, trái lại với tiếng tiêu mòn. Như cẩu đắc kì dưỡng, vô vật bất trưởng 苟得其養無物不長 nếu nuôi hợp cách, không vật nào không lớn.",
+                "Lại một âm là trướng. Chiều dài, nhiều, thừa. Như trướng nhất thân hữu bán 長一身有半 đo chiều dài hơn một thân rưỡi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dài, xa, chiều dài: 這段路全長約二千公里 Đoạn đường này dài độ 2.000 thước; 長途 Đường xa;",
+                "Lâu, lâu dài: 很長時間沒有消 Đã rất lâu không có tin tức gì cả;",
+                "Giỏi, tài, sở trường về: 他長于游 泳 Anh ấy bơi giỏi;",
+                "Cái hay, cái sở trường, ưu điểm: 各有所長 Mỗi người có một sở trường; 取長補短 Lấy ưu bù khuyết, lấy hơn bù kém; 一長可取 Có một cái hay khả thủ;",
+                "(văn) Thường, luôn, mãi mãi: 門雖設而長關 Cửa tuy có nhưng thường đóng luôn (Đào Uyên Minh: Quy khứ lai từ); 長使英雄淚滿襟 Mãi mãi khiến cho người anh hùng lệ rơi đầm đìa vạt áo (Đỗ Phủ: Vũ Hầu từ). Xem 長 [zhăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dài. Xa xôi. Bản dịch Chinh phụ ngâm khúc: » Chàng ruổi ngựa dặm trường mây phủ « — Lâu. Lâu dài.  Đoạn trường tân thanh : » Bấm tay mười mấy năm trường « — Tốt đẹp. Hay giỏi. Td: Sở trường ( cái tốt đẹp hay giỏi ) — Tên một bộ chữ Hán, tức bộ Trường — Xem Trưởng, Trượng."
+            ],
+            "compound_words": {
+                "延長": "duyên trường",
+                "綿長": "miên trường",
+                "宂長": "nhũng trường",
+                "片長": "phiến trường",
+                "所長": "sở trường",
+                "山高水長": "sơn cao thuỷ trường",
+                "長安": "trường an",
+                "長歌": "trường ca",
+                "長征": "trường chinh",
+                "長久": "trường cửu",
+                "長夜": "trường dạ",
+                "長夜飲": "trường dạ ẩm",
+                "長楊": "trường dương",
+                "長亭": "trường đình",
+                "長途": "trường đồ",
+                "長江": "trường giang",
+                "長恨": "trường hận",
+                "長驅": "trường khu",
+                "長命": "trường mệnh",
+                "長生": "trường sinh",
+                "長嘆": "trường thán",
+                "長城": "trường thành",
+                "長篇": "trường thiên",
+                "長壽": "trường thọ",
+                "長槍": "trường thương",
+                "長齋": "trường trai",
+                "長春": "trường xuân"
+            }
+        },
+        "trưởng": {
+            "Từ điển phổ thông": [
+                "to, lớn",
+                "đứng đầu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Dài. § Đối lại với 'đoản' 短 ngắn. ◎Như: 'trường kiều ngọa ba' 長橋臥波 cầu dài nằm trên sóng nước.",
+                "(Tính) Lâu. ◎Như: 'trường thọ' 長壽 sống lâu.",
+                "(Tính) Xa. ◎Như: 'trường đồ' 長途 đường xa.",
+                "(Danh) Cái giỏi, cái tài, ưu điểm. ◎Như: 'các hữu sở trường' 各有所長 ai cũng có sở trường, 'nhất trường khả thủ' 一長可取 có một cái hay khá lấy.",
+                "(Danh) Họ 'Trường'.",
+                "(Phó) Thường, luôn. ◇Đào Uyên Minh 陶淵明: 'Môn tuy thiết nhi trường quan' 門雖設而長關 (Quy khứ lai từ tự 歸去来辞序) Tuy có cửa mà thường đóng mãi.",
+                "Một âm là 'trưởng'. (Danh) Người nhiều tuổi, bậc trên. ◎Như: 'tôn trưởng' 尊長 bậc trên, 'sư trưởng' 師長 lão sư, tiên sinh, 'huynh trưởng' 兄長 bậc đàn anh.",
+                "(Danh) Người đứng đầu, người cầm đầu. ◎Như: 'bộ trưởng' 部長 người giữ chức đầu một bộ, 'lục quân trưởng' 陸軍長 chức đứng đầu lục quân (bộ binh).",
+                "(Tính) Tuổi cao hơn, có tuổi hơn. ◎Như: 'tha bỉ ngã trưởng tam tuế' 他比我長三歲 anh ấy so với tôi lớn hơn ba tuổi, 'trưởng lão' 長老 bậc trên mình mà có tuổi.",
+                "(Tính) Hàng thứ nhất. ◎Như: 'trưởng tử' 長子 con trưởng, 'trưởng tôn' 長孫 cháu trưởng.",
+                "(Động) Sinh ra. ◇Tây du kí 西遊記: 'Ngã tuy bất thị thụ thượng sanh, khước thị thạch lí trưởng đích' 我雖不是樹上生, 卻是石裡長的 (Đệ nhất hồi) Đệ tử tuy không sinh ra trên cây, nhưng lại sinh ra trong đá.",
+                "(Động) Sinh ra sẵn có, tỏ ra. ◎Như: 'tha trưởng đắc bất xú' 她長得不醜 cô ta trông không xấu.",
+                "(Động) Có tài năng, giỏi. ◎Như: 'trưởng ư thi văn' 長於詩文 giỏi về thơ văn.",
+                "(Động) Nuôi lớn lên. ◇Thi Kinh 詩經: 'Trưởng ngã dục ngã' 長我育我 (Tiểu nhã 小雅, Lục nga 蓼莪) Nuôi tôi lớn lên.",
+                "(Động) Lớn lên. ◇Mạnh Tử 孟子: 'Cẩu đắc kì dưỡng vô vật bất trưởng' 苟得其養無物不長 (Cáo tử thượng 告子上) Nếu nuôi hợp cách, không vật nào không lớn.",
+                "Lại một âm là 'trướng'. (Động) Đo chiều dài. ◎Như: 'trướng nhất thân hữu bán' 長一身有半 đo dài hơn một thân rưỡi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dài, so hai đầu với nhau, bên nào thừa hơn gọi là trường.",
+                "Lâu dài. Như trường thọ 長壽 sống lâu.",
+                "Xa. Như trường đồ 長途 đường xa.",
+                "Thường. Như môn tuy thiết nhi trường quan 門雖設而長關 tuy có cửa mà thường đóng mãi.",
+                "Hay, tài. Như nhất trường khả thủ 一長可取 có một cái hay khá lấy.",
+                "Một âm là trưởng. Lớn, người đã đến tuổi trưởng thành gọi là trưởng.",
+                "Tuổi cao hơn, có tuổi hơn.",
+                "Những bậc trên mình mà có tuổi gọi là trưởng lão 長老.",
+                "Hàng thứ nhất. Như trưởng tử 長子 con trưởng, trưởng tôn 長孫 cháu trưởng, v.v.",
+                "Ðứng đầu. Chức đứng đầu các bộ đều gọi là bộ trưởng 部長, lục quân trưởng 陸軍長 chức đứng đầu các quân bộ.",
+                "Lớn lên, trái lại với tiếng tiêu mòn. Như cẩu đắc kì dưỡng, vô vật bất trưởng 苟得其養無物不長 nếu nuôi hợp cách, không vật nào không lớn.",
+                "Lại một âm là trướng. Chiều dài, nhiều, thừa. Như trướng nhất thân hữu bán 長一身有半 đo chiều dài hơn một thân rưỡi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mọc: 今年莊稼長得很好 Mùa màng năm nay (mọc) rất tốt; 手上長了一個瘡 Trên tay mọc một cái nhọt;",
+                "Lớn lên: 豬長得眞快 Lợn (heo) chóng lớn lắm; 長大成人 Lớn lên thành người; 苟得其養，無物不長 Nếu được nuôi tử tế thì không vật gì không lớn lên (Mạnh tử);",
+                "Tăng thêm, tăng lên: 長見識 Tăng thêm kiến thức; 學問長了 Học vấn tăng lên;",
+                "Nhiều tuổi hơn, tuổi cao hơn, có tuổi hơn, lớn hơn: 最年長 Nhiều tuổi hơn hết; 我比他長兩歲 Tôi (lớn) hơn nó hai tuổi; 吾又長汝三歲 Ta lại lớn hơn em ba tuổi (Viên Mai: Tế muội văn);",
+                "Trên, bề trên: 叔叔比侄子長一輩 Chú trên cháu một bậc;",
+                "Cả, hàng thứ nhất, hàng trưởng: 長子 Con cả; 長兄 Anh cả;",
+                "Đứng đầu (các ban, bộ...) trưởng: 部長 Bộ trưởng; 首長 Thủ trưởng;",
+                "Sinh ra, mọc ra, đã có: 長蟲子 (Sinh ra) có sâu, có giòi; 長葉子了 (Cây) đã ra lá. Xem 長 [cháng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lớn. Nhiều tuổi. Td: Trưởng lão — Đứng đầu. Td: Trưởng nam — Lớn lên. Td: Trưởng thành — Xem Trường, Trượng."
+            ],
+            "compound_words": {
+                "排長": "bài trưởng",
+                "幫長": "bang trưởng",
+                "部長": "bộ trưởng",
+                "州長": "châu trưởng",
+                "黨長": "đảng trưởng",
+                "亭長": "đình trưởng",
+                "庭長": "đình trưởng",
+                "隊長": "đội trưởng",
+                "家長": "gia trưởng",
+                "艦長": "hạm trưởng",
+                "校長": "hiệu trưởng",
+                "會長": "hội trưởng",
+                "雄長": "hùng trưởng",
+                "兄長": "huynh trưởng",
+                "鄉長": "hương trưởng",
+                "里長": "lí trưởng",
+                "外長": "ngoại trưởng",
+                "副會長": "phó hội trưởng",
+                "副里長": "phó lí trưởng",
+                "芳長": "phương trưởng",
+                "軍長": "quân trưởng",
+                "郡長": "quận trưởng",
+                "生長": "sinh trưởng",
+                "師長": "sư trưởng",
+                "增長": "tăng trưởng",
+                "成長": "thành trưởng",
+                "市長": "thị trưởng",
+                "司長": "ti trưởng",
+                "省長": "tỉnh trưởng",
+                "組長": "tổ trưởng",
+                "族長": "tộc trưởng",
+                "尊長": "tôn trưởng",
+                "總長": "tổng trưởng",
+                "長者": "trưởng giả",
+                "長兄": "trưởng huynh",
+                "長老": "trưởng lão",
+                "長男": "trưởng nam",
+                "長女": "trưởng nữ",
+                "長官": "trưởng quan",
+                "長成": "trưởng thành",
+                "長上": "trưởng thượng",
+                "長孫": "trưởng tôn",
+                "長子": "trưởng tử",
+                "長媳": "trưởng tức",
+                "酋長": "tù trưởng",
+                "社長": "xã trưởng",
+                "廠長": "xưởng trưởng",
+                "揠苖助長": "yển miêu trợ trưởng"
+            }
+        },
+        "trượng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhiều. Thừa thãi — Đo xem dài ngắn thế nào — Xem Trường, Trưởng."
+            ]
+        }
+    }
+}

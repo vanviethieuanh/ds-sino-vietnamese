@@ -1,0 +1,113 @@
+{
+    "character": "駕",
+    "details": {
+        "Âm Hán Việt": [
+            "giá"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱加馬"
+        ],
+        "Nét bút": [
+            "フノ丨フ一一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "KRSQF (大口尸手火)"
+        ],
+        "Unicode": [
+            "U+99D5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiā ㄐㄧㄚ",
+            "jià ㄐㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "giá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ガ (ga)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かご (kago)",
+            "が.する (ga.suru)",
+            "しのぐ (shinogu)",
+            "のる (noru)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa3"
+        ]
+    },
+    "meanings": {
+        "giá": {
+            "Từ điển phổ thông": [
+                "đóng ngựa vào xe",
+                "xe cộ",
+                "chuyến đi của vua"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đóng ngựa, bò vào xe để kéo đi.",
+                "(Động) Cưỡi. ◎Như: 'giá hạc tây quy' 駕鶴西歸 cưỡi hạc về tây, 'đằng vân giá vụ' 騰雲駕霧 cưỡi mây.",
+                "(Động) Cầm lái. ◎Như: 'giá khí xa' 駕汽車 lái xe, 'giá phi cơ' 駕飛機 lái máy bay.",
+                "(Động) Điều khiển, khống chế, chế ngự. ◎Như: 'tràng giá viễn ngự' 長駕遠馭 tiết chế được cả phương xa.",
+                "(Động) Tiến hành. ◎Như: 'tịnh giá tề khu' 並駕齊驅 trình độ tiến ngang nhau. § Cũng gọi là 'phương giá tề khu' 方駕齊驅.",
+                "(Danh) Xe cộ. ◎Như: 'loan giá' 鸞駕 xe vua, 'chỉnh giá xuất du' 整駕出遊 sửa soạn xe đi chơi. § Ngày xưa, vua xuất hành có chia ra 'đại giá' 大駕 và 'pháp giá' 法駕. 'Đại giá' là nói về chuyến đi có nhiều xe theo hầu, 'pháp giá' là nói về chuyến đi có ít xe theo hầu. Song đều gọi tắt là 'giá'. Vì thế nên gọi sự vua xuất hành là 'giá'.",
+                "(Danh) Ngày xưa dùng làm tiếng tôn xưng hoàng đế, vua chúa. ◎Như: 'hộ giá' 護駕 theo phò vua, 'giá băng' 駕崩 vua băng hà. ◇Liêu trai chí dị 聊齋志異: 'Tương truyền giá tương xuất liệp' 相傳駕將出獵 (Thành tiên 成仙) Nghe đồn vua sắp đi săn.",
+                "(Danh) Tiếng dùng để xưng hô tôn trọng người khác. ◎Như: 'lao giá' 勞駕 làm phiền ngài (đến thăm, ...), 'túc giá' 夙駕 chực đón ngài (đến chơi, ...).",
+                "(Danh) 'Biệt giá' 別駕 một chức quan giúp việc quan thứ sử, cũng như chức thông phán bây giờ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðóng xe ngựa (đóng ngựa vào xe).",
+                "Giá ngự. Như tràng giá viễn ngự 長駕遠馭 tiết chế được cả phương xa.",
+                "Xe cộ. Như vua xuất hành có chia ra đại giá 大駕 và pháp giá 法駕. Ðại giá là nói về chuyến đi có nhiều xe theo hầu, pháp giá là nói về chuyến đi có ít xe theo hầu. Song đều gọi tắt là giá. Vì thế nên gọi sự vua xuất hành là giá.",
+                "Một tiếng dùng để xưng hô tôn trọng người khác. Như tạ ơn người ta đến thăm mình gọi là lao giá 勞駕, ước hẹn đón người ta đến chơi gọi là túc giá 夙駕.",
+                "Tiến hành. Như trình độ trình độ tiến ngang nhau gọi là tịnh giá tề khu 並駕齊驅. Cũng có khi gọi là phương giá tề khu 方駕齊驅.",
+                "Biệt giá 別駕 một chức quan giúp việc quan thứ sử, cũng như chức thông phán bây giờ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đóng lừa ngựa vào xe, thắng (lừa, ngựa vào xe): 這輛車太重，得用兩匹馬駕 著 Cái xe này nặng quá, phải đóng hai ngựa mới được;",
+                "Xe ngựa: 整駕出遊 Sửa soạn xe đi chơi;",
+                "Lái, bẻ lái: 駕飛機 Lái máy bay; 你會駕車嗎？ Anh biết lái xe không?;",
+                "Đánh (xe ngựa, xe bò...);",
+                "(văn) Trội hơn;",
+                "(văn) Chế ngự, tiết chế, điều khiển, lèo lái, kiểm soát: 長駕遠馭 Tiết chế tới những nơi xa;",
+                "(văn) Cách gọi có ý kính cẩn (để tôn xưng ngựa xe của người khác đến chơi nhà mình): 勞駕 Làm nhọc ngài đến thăm; 夙駕 Chực đón ngài đến chơi;",
+                "(văn) Vua chúa, hoàng đế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đóng ngựa vào xe — Chỉ chung xe cộ — Xe vua đi. Chẳng hạn Xa giá — Thuyền — Chẳng hạn Giá trưởng ( người thuyền trưởng, hoặc người lái đò )."
+            ],
+            "compound_words": {
+                "保駕": "bảo giá",
+                "救駕": "cứu giá",
+                "駕照": "giá chiếu",
+                "駕御": "giá ngự",
+                "駕馭": "giá ngự",
+                "駕駛": "giá sử",
+                "扈駕": "hỗ giá",
+                "護駕": "hộ giá",
+                "鸞駕": "loan giá",
+                "御駕": "ngự giá",
+                "鳳駕": "phượng giá",
+                "車駕": "xa giá"
+            }
+        }
+    }
+}

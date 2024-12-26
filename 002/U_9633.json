@@ -1,0 +1,72 @@
+{
+    "character": "阳",
+    "details": {
+        "Âm Hán Việt": [
+            "dương"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "phụ 阜 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖日"
+        ],
+        "Nét bút": [
+            "フ丨丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "NLA (弓中日)"
+        ],
+        "Unicode": [
+            "U+9633"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yáng ㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "dương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ (hi)"
+        ],
+        "Âm Quảng Đông": [
+            "joeng4"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển phổ thông": [
+                "mặt trời",
+                "dương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 陽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 陽"
+            ],
+            "compound_words": {
+                "章阳": "chương dương",
+                "咸阳": "hàm dương",
+                "洛阳": "lạc dương",
+                "寻阳": "tầm dương",
+                "太阳": "thái dương",
+                "重阳": "trùng dương"
+            }
+        }
+    }
+}

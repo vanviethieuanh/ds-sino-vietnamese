@@ -1,0 +1,84 @@
+{
+    "character": "麵",
+    "details": {
+        "Âm Hán Việt": [
+            "miến"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "mạch 麥 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰麥面"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丶ノ丶ノフ丶一ノ丨フ丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "JNMWL (十弓一田中)"
+        ],
+        "Unicode": [
+            "U+9EB5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "miǎn ㄇㄧㄢˇ",
+            "miàn ㄇㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "diện",
+            "mì",
+            "miến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メン (men)",
+            "ベン (ben)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むぎこ (mugiko)"
+        ],
+        "Âm Hàn": [
+            "면"
+        ],
+        "Âm Quảng Đông": [
+            "min6"
+        ]
+    },
+    "meanings": {
+        "miến": {
+            "Từ điển phổ thông": [
+                "bột gạo, sợi miến"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bột mì. ◎Như: 'miến phấn' 麵粉 bột mì, 'miến điều' 麵條 sợi mì, 'thang miến' 湯麵 mì nước, 'miến bao' 麵包 bánh mì.",
+                "(Danh) Gọi chung các loại bột. ◎Như: 'đậu miến' 豆麵 bột đậu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ miến 麫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bột: 白麵 Bột mì; 豆麵 Bột đậu; 玉米麵 Bột ngô; 江米麵 Bột nếp 胡椒麵 Bột tiêu;",
+                "Mì: 挂麵 Mì sợi; 切麵 Mì sợi (còn ướt); 湯麵 Mì nước; 一碗麵 Một bát mì;",
+                "(đph) Bở: 這塊白薯眞麵 Củ khoai lang này rất bở."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Miến 麫. Td: Miến Bao ( bánh mì )."
+            ],
+            "compound_words": {
+                "麵包": "miến bao",
+                "泡麵": "phao miến",
+                "方便麵": "phương tiện miến"
+            }
+        }
+    }
+}

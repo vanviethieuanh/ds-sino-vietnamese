@@ -1,0 +1,68 @@
+{
+    "character": "农",
+    "details": {
+        "Âm Hán Việt": [
+            "nông",
+            "nùng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mịch 冖 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱冖𧘇"
+        ],
+        "Nét bút": [
+            "丶フノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "LBV (中月女)"
+        ],
+        "Unicode": [
+            "U+519C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nóng ㄋㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "nông"
+        ],
+        "Âm Quảng Đông": [
+            "nung4"
+        ]
+    },
+    "meanings": {
+        "nông": {
+            "Từ điển phổ thông": [
+                "người làm ruộng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 農."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 農"
+            ],
+            "compound_words": {
+                "亚格门农": "á cách môn nông",
+                "农具": "nông cụ",
+                "农村": "nông thôn"
+            }
+        },
+        "nùng": {
+            "Từ điển phổ thông": [
+                "hoa cỏ rậm rạp"
+            ]
+        }
+    }
+}

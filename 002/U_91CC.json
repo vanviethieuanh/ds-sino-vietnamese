@@ -1,0 +1,123 @@
+{
+    "character": "里",
+    "details": {
+        "Âm Hán Việt": [
+            "lí",
+            "lý"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "lý 里 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱田土"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "WG (田土)"
+        ],
+        "Unicode": [
+            "U+91CC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǐ ㄌㄧˇ"
+        ],
+        "Âm Nôm": [
+            "lí",
+            "lìa",
+            "lý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さと (sato)"
+        ],
+        "Âm Hàn": [
+            "리",
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "lei5"
+        ]
+    },
+    "meanings": {
+        "lí": {
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ ở, nhà ở. ◇Thi Kinh 詩經: 'Tương Trọng tử hề, vô du ngã lí' 將仲子兮, 無踰我里 (Trịnh phong 鄭風, Tương Trọng tử minh 將仲子) Xin chàng Trọng tử, Đừng trèo qua nhà em.",
+                "(Danh) Làng. § Ngày xưa, chỗ dân ở 25 nhà gọi là 'lí'.",
+                "(Danh) Xóm phường, hàng phố. ◎Như: 'lí hạng' 里巷 ngõ xóm, 'lân lí' 鄰里 hàng xóm.",
+                "(Danh) Quê hương, quê nhà. ◎Như: 'cố lí' 故里 quê cũ. ◇Giang Yêm 江淹: 'Cát từ nhẫn ái, li bang khứ lí' 割慈忍愛, 離邦去里 (Biệt phú 別賦) Dứt bỏ mẹ cha, lìa xứ xa quê.",
+                "(Danh) Lượng từ: dặm (đơn vị chiều dài). § Ngày xưa 360 bước là một dặm; ngày nay, 'công lí' 公里 là một nghìn thước (1000 m).",
+                "(Danh) Bên trong. § Thông 裡.",
+                "§ Giản thể của 裏, 裡."
+            ],
+            "compound_words": {
+                "英里": "anh lí",
+                "百里": "bách lí",
+                "百里才": "bách lí tài",
+                "州里": "châu lí",
+                "故里": "cố lí",
+                "公里": "công lí",
+                "鳥里": "điểu lí",
+                "海里": "hải lí",
+                "行里": "hành lí",
+                "鄉里": "hương lí",
+                "墟里": "khư lí",
+                "鄰里": "lân lí",
+                "里役": "lí dịch",
+                "里豪": "lí hào",
+                "里長": "lí trưởng",
+                "閭里": "lư lí",
+                "副里長": "phó lí trưởng",
+                "方里": "phương lí",
+                "坦里": "thản lí",
+                "戚里": "thích lí",
+                "千里": "thiên lí",
+                "梓里": "tử lí",
+                "車里": "xa lí",
+                "綺里": "ỷ lí",
+                "要里": "yếu lí"
+            }
+        },
+        "lý": {
+            "Từ điển phổ thông": [
+                "ở trong",
+                "lần lót áo"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làng. Chỗ dân ở 25 nhà gọi là lí.",
+                "Dặm, 360 bước là một dặm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hàng xóm, hàng phố, láng giềng: 鄰里 Hàng xóm; 里弄 Ngõ xóm;",
+                "Quê hương: 故里 Quê nhà;",
+                "Xóm, làng (thời xưa gồm 25 nhà);",
+                "Dặm (500 mét);",
+                "[Lê] (Họ) Lí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làng nơi cư ngụ của nhiều gia đình trong vùng quê — Dặm đường. Td: Thiên lí (nghìn dặm). Chỗ ở. Nơi cư ngụ.  Đoạn trường tân thanh  có câu: \"Sinh rằng lân lí ra vào, gần đây nào phải người nào xa xôi\"."
+            ],
+            "compound_words": {
+                "公里": "công lý",
+                "那里": "na lý",
+                "佛罗里达": "phật la lý đạt",
+                "雪里蕻": "tuyết lý hồng"
+            }
+        }
+    }
+}

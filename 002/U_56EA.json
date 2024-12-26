@@ -1,0 +1,61 @@
+{
+    "character": "囪",
+    "details": {
+        "Âm Hán Việt": [
+            "song",
+            "thông"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "vi 囗 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨フノノ丶一"
+        ],
+        "Thương Hiệt": [
+            "HWKK (竹田大大)"
+        ],
+        "Unicode": [
+            "U+56EA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuāng ㄔㄨㄤ",
+            "cōng ㄘㄨㄥ"
+        ],
+        "Âm Quảng Đông": [
+            "coeng1",
+            "cung1"
+        ]
+    },
+    "meanings": {
+        "song": {
+            "Từ điển phổ thông": [
+                "ống khói"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ống khói. § Tục gọi là 'yên thông' 煙囪.",
+                "Một âm là 'song'. (Danh) Cũng như 'song' 窗."
+            ],
+            "compound_words": {
+                "無囪": "vô song"
+            }
+        },
+        "thông": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ống khói. § Tục gọi là 'yên thông' 煙囪.",
+                "Một âm là 'song'. (Danh) Cũng như 'song' 窗."
+            ]
+        }
+    }
+}

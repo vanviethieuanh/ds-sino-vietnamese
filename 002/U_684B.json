@@ -1,0 +1,57 @@
+{
+    "character": "桋",
+    "details": {
+        "Âm Hán Việt": [
+            "di",
+            "đề"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木夷"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一フ一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "DKN (木大弓)"
+        ],
+        "Unicode": [
+            "U+684B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yí ㄧˊ"
+        ],
+        "Âm Quảng Đông": [
+            "ji4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây từng bụi — Một âm khác là Đề."
+            ]
+        },
+        "đề": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Đề tang 桋桑 — Một âm là Di. Xem Di."
+            ],
+            "compound_words": {
+                "桋桑": "đề tang"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "character": "盹",
+    "details": {
+        "Âm Hán Việt": [
+            "chuân",
+            "truân",
+            "độn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mục 目 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目屯"
+        ],
+        "Nét bút": [
+            "丨フ一一一一フ丨フ"
+        ],
+        "Thương Hiệt": [
+            "BUPU (月山心山)"
+        ],
+        "Unicode": [
+            "U+76F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dǔn ㄉㄨㄣˇ",
+            "dùn ㄉㄨㄣˋ",
+            "zhūn ㄓㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "độn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュン (shun)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "deon6"
+        ]
+    },
+    "meanings": {
+        "chuân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt lim dim, nhắm hờ."
+            ]
+        },
+        "truân": {
+            "Từ điển phổ thông": [
+                "mắt lim dim"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giấc ngủ rất ngắn. ◎Như: 'đả truân' 打盹 ngủ gật. ◇Kiều Cát 喬吉: 'Thích tài cương đả liễu nhất cá truân, hựu tảo vãn liễu dã' 適纔剛打了一個盹, 又早晚了也 (Dương Châu mộng 揚州夢) Vừa mới chợp mắt một cái, thì trời đã tối từ lâu.",
+                "(Động) Ngủ gục, ngủ gật, chợp mắt ngủ một giấc ngắn. ◇Đổng tây sương 董西廂: 'Nhất dạ gia vô miên bạch nhật truân' 一夜家無眠白日盹 (Quyển thất) Cả đêm không ngủ ban ngày ngủ gật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mắt lim dim. Tục gọi ngủ gật là đả truân 打盹."
+            ],
+            "compound_words": {
+                "打盹": "đả truân"
+            }
+        },
+        "độn": {
+            "Từ điển Trần Văn Chánh": [
+                "Mắt lim dim;",
+                "Ngủ gà, ngủ gật, giấc ngủ ngắn: 打盹兒 Ngủ gật."
+            ]
+        }
+    }
+}

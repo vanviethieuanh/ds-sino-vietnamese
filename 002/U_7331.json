@@ -1,0 +1,83 @@
+{
+    "character": "猱",
+    "details": {
+        "Âm Hán Việt": [
+            "nao",
+            "nhu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨柔"
+        ],
+        "Nét bút": [
+            "ノフノフ丶フ丨ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KHNHD (大竹弓竹木)"
+        ],
+        "Unicode": [
+            "U+7331"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "náo ㄋㄠˊ"
+        ],
+        "Âm Nôm": [
+            "nao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)",
+            "ノウ (nō)",
+            "ジュウ (jū)",
+            "ニュウ (nyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さる (saru)"
+        ],
+        "Âm Hàn": [
+            "노"
+        ],
+        "Âm Quảng Đông": [
+            "naau4"
+        ]
+    },
+    "meanings": {
+        "nao": {
+            "Từ điển Trần Văn Chánh": [
+                "Một loài khỉ nói trong sách cổ (tương tự con vượn, có lông vàng);",
+                "Gãi: 心癢難猱 Lòng ngứa ngáy không thể gãi được."
+            ]
+        },
+        "nhu": {
+            "Từ điển phổ thông": [
+                "một loài vượn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một loài thú thuộc họ vượn. § Người Sở gọi là 'mộc hầu' 沐猴. Cũng gọi là 'nhung' 狨.",
+                "(Danh) Một lối đánh đàn. Ngón tay trái đè lên dây đàn, vuốt qua lại cho ngân lên, ngân nhẹ gọi là 'ngâm' 吟, ngân mạnh gọi là 'nhu' 猱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Một loài thú như con vượn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài vượn hay phá phách."
+            ],
+            "compound_words": {
+                "猱雜": "nhu tạp"
+            }
+        }
+    }
+}

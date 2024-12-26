@@ -1,0 +1,111 @@
+{
+    "character": "藝",
+    "details": {
+        "Âm Hán Việt": [
+            "nghệ"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thảo 艸 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱蓺云"
+        ],
+        "Nét bút": [
+            "一丨丨一丨一ノ丶一丨一ノフ丶一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "TGII (廿土戈戈)"
+        ],
+        "Unicode": [
+            "U+85DD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "nghế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲイ (gei)",
+            "ウン (un)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.える (u.eru)",
+            "のり (nori)",
+            "わざ (waza)"
+        ],
+        "Âm Hàn": [
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "ngai6"
+        ]
+    },
+    "meanings": {
+        "nghệ": {
+            "Từ điển phổ thông": [
+                "trồng cây",
+                "tài năng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nghề, tài năng, kĩ thuật. ◎Như: 'công nghệ' 工藝, 'kĩ nghệ' 技藝.",
+                "(Danh) Đời xưa cho 'lễ' 禮, 'nhạc' 樂, 'xạ' 射 bắn, 'ngự' 御 cầm cương cưỡi ngựa, 'thư' 書 viết, 'số' 數 học về toán: là 'lục nghệ' 六藝.",
+                "(Danh) Văn chương. ◇Liêu trai chí dị 聊齋志異: 'Tri chế nghệ phủ?' 知制藝否 (Lục phán 陸判) Có rành văn chương cử nghiệp không?",
+                "(Danh) Hạn độ, giới hạn. ◇Quốc ngữ 國語: 'Tham dục vô nghệ' 貪慾無藝 (Tấn ngữ bát 晉語八) Tham muốn không hạn độ.",
+                "(Danh) Họ 'Nghệ'.",
+                "(Động) Trồng. ◇Mạnh Tử 孟子: 'Thụ nghệ ngũ cốc' 樹藝五穀 (Đằng Văn Công thượng 滕文公上) Trồng trọt năm giống thóc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghề, tài năng, học vấn, kĩ thuật đều gọi là nghệ. Ðời xưa cho lễ 禮, nhạc 樂, xạ 射 bắn, ngự 御 cầm cương cưỡi ngựa, thư 書 viết, số 數 học về toán: là lục nghệ 六藝 sáu nghệ.",
+                "Văn. Như các sách vở gọi là nghệ văn chí 藝文志.",
+                "Trước. Như nghệ tổ 藝祖, cũng như ta nói thuỷ tổ 始祖.",
+                "Trồng. Như thụ nghệ ngũ cốc 樹藝五穀 trồng tỉa năm giống thóc.",
+                "Cùng cực.",
+                "Chuẩn đích.",
+                "Phân biệt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Công) nghệ, nghề, tài nghề, kĩ năng, kĩ thuật: 工藝 Công nghệ;",
+                "Nghệ thuật: 文藝 Văn nghệ;",
+                "(văn) Trồng: 樹 藝五穀 Trồng tỉa ngũ cốc;",
+                "(văn) Cùng cực;",
+                "(văn) Chuẩn đích;",
+                "(văn) Phân biệt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sự tài giỏi, khéo léo – Trồng trọt — Việc làm đòi hỏi sự khéo léo."
+            ],
+            "compound_words": {
+                "薄藝": "bạc nghệ",
+                "百藝": "bách nghệ",
+                "工藝": "công nghệ",
+                "多才多藝": "đa tài đa nghệ",
+                "技藝": "kĩ nghệ",
+                "六藝": "lục nghệ",
+                "末藝": "mạt nghệ",
+                "美藝": "mĩ nghệ",
+                "藝業": "nghệ nghiệp",
+                "藝術": "nghệ thuật",
+                "色藝": "sắc nghệ",
+                "才藝": "tài nghệ",
+                "善藝": "thiện nghệ",
+                "手藝": "thủ nghệ",
+                "文藝": "văn nghệ",
+                "園藝": "viên nghệ",
+                "武藝": "vũ nghệ"
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "character": "拌",
+    "details": {
+        "Âm Hán Việt": [
+            "bàn",
+            "bạn",
+            "phan",
+            "phán"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘半"
+        ],
+        "Nét bút": [
+            "一丨一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "QFQ (手火手)"
+        ],
+        "Unicode": [
+            "U+62CC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bàn ㄅㄢˋ",
+            "pàn ㄆㄢˋ"
+        ],
+        "Âm Nôm": [
+            "bạn",
+            "bắn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Hàn": [
+            "반"
+        ],
+        "Âm Quảng Đông": [
+            "bun3",
+            "bun6",
+            "pun3"
+        ]
+    },
+    "meanings": {
+        "bàn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bỏ đi, không dùng nữa — Một âm khác là Phán."
+            ]
+        },
+        "bạn": {
+            "Từ điển phổ thông": [
+                "quấy đều, nhào, trộn",
+                "món nộm",
+                "cãi nhau",
+                "vứt bỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khuấy, trộn, nhào. ◎Như: 'bạn quân' 拌勻 khuấy đều, 'bạn thái' 拌菜 trộn rau.",
+                "(Động) Tranh cãi, cãi nhau. ◇Hồng Lâu Mộng 紅樓夢: 'Lưỡng khẩu tử bạn khởi lai tựu thuyết cha môn sử liễu tha gia đích ngân tiền' 兩口子拌起來就說咱們使了他家的銀錢 (Đệ bách hồi) Hai miệng (vợ chồng) cãi nhau là (hắn) nói nhà mình tiêu mất tiền của nhà nó.",
+                "Một âm là 'phan'. (Động) Vứt bỏ. § Cũng như 'phiên' 拚. ◎Như: 'phan mệnh' 拌命 bỏ liều mạng người.",
+                "(Động) Chia cắt. § Cũng như 'phán' 判."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vứt bỏ, như phan mệnh 拌命 bỏ liều mạng người.",
+                "Một âm là bạn. Quấy đều."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhào, quấy, khuấy trộn, khuấy đều: 給牲口拌草 Trộn thức ăn cho gia súc;",
+                "(Món) nộm: 拌木瓜絲兒 Nộm đu đủ; 涼拌菠菜 Nộm rau chân vịt."
+            ],
+            "compound_words": {
+                "搅拌": "giảo bạn",
+                "攪拌": "giảo bạn"
+            }
+        },
+        "phan": {
+            "Từ điển phổ thông": [
+                "quấy đều, nhào, trộn",
+                "món nộm",
+                "cãi nhau",
+                "vứt bỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khuấy, trộn, nhào. ◎Như: 'bạn quân' 拌勻 khuấy đều, 'bạn thái' 拌菜 trộn rau.",
+                "(Động) Tranh cãi, cãi nhau. ◇Hồng Lâu Mộng 紅樓夢: 'Lưỡng khẩu tử bạn khởi lai tựu thuyết cha môn sử liễu tha gia đích ngân tiền' 兩口子拌起來就說咱們使了他家的銀錢 (Đệ bách hồi) Hai miệng (vợ chồng) cãi nhau là (hắn) nói nhà mình tiêu mất tiền của nhà nó.",
+                "Một âm là 'phan'. (Động) Vứt bỏ. § Cũng như 'phiên' 拚. ◎Như: 'phan mệnh' 拌命 bỏ liều mạng người.",
+                "(Động) Chia cắt. § Cũng như 'phán' 判."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vứt bỏ, như phan mệnh 拌命 bỏ liều mạng người.",
+                "Một âm là bạn. Quấy đều."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vứt bỏ: 拌命 Bỏ liều mạng người."
+            ],
+            "compound_words": {
+                "拌种": "phan chủng",
+                "拌種": "phan chủng",
+                "拌嘴": "phan chuỷ",
+                "拌和": "phan hoà"
+            }
+        },
+        "phán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Điều hoà. Làm cho hoà hợp tốt đẹp — Dùng như chữ Phán 判 — Một âm là Bàn. Xem Bàn."
+            ]
+        }
+    }
+}

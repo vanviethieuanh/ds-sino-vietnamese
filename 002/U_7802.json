@@ -1,0 +1,96 @@
+{
+    "character": "砂",
+    "details": {
+        "Âm Hán Việt": [
+            "sa"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thạch 石 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰石少"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "MRFH (一口火竹)"
+        ],
+        "Unicode": [
+            "U+7802"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shā ㄕㄚ"
+        ],
+        "Âm Nôm": [
+            "sa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すな (suna)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "saa1"
+        ]
+    },
+    "meanings": {
+        "sa": {
+            "Từ điển phổ thông": [
+                "đá vụn, sỏi vụn",
+                "cát, sạn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đá vụn, sỏi vụn. ◎Như: 'phi sa tẩu thạch' 飛砂走石 sỏi bay đá chạy, hình dung sức gió mạnh và nhanh.",
+                "(Danh) Cát, vụn. § Cũng như 'sa' 沙. ◎Như: 'quáng sa' 礦砂 cát khoáng.",
+                "(Danh) § Xem 'chu sa' 硃砂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cát vàng, đá vụn, sỏi vụn gọi là sa. Xem chữ sa 沙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cát, đá vụn, sỏi vụn: 砂石 Cát sỏi. Xem 沙 [sha] nghĩa ",
+                "."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hạt cát thật lớn — Đá sỏi."
+            ],
+            "compound_words": {
+                "朱砂": "chu sa",
+                "硃砂": "chu sa",
+                "丹砂": "đan sa",
+                "硇砂": "nạo sa",
+                "磠砂": "nạo sa",
+                "砂布": "sa bố",
+                "砂紙": "sa chỉ",
+                "砂浴": "sa dục",
+                "砂糖": "sa đường",
+                "砂金": "sa kim",
+                "砂礰": "sa lịch",
+                "砂囊": "sa nang",
+                "砂眼": "sa nhãn",
+                "砂仁": "sa nhân",
+                "砂牀": "sa sàng",
+                "砂土": "sa thổ",
+                "縮砂密": "súc sa mật"
+            }
+        }
+    }
+}

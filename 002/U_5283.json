@@ -1,0 +1,93 @@
+{
+    "character": "劃",
+    "details": {
+        "Âm Hán Việt": [
+            "hoạch"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "đao 刀 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰畫⺉"
+        ],
+        "Nét bút": [
+            "フ一一一丨一丨フ一丨一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "LMLN (中一中弓)"
+        ],
+        "Unicode": [
+            "U+5283"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huá ㄏㄨㄚˊ",
+            "huà ㄏㄨㄚˋ",
+            "huāi ㄏㄨㄞ"
+        ],
+        "Âm Nôm": [
+            "đạch",
+            "gạch",
+            "hoa",
+            "hoạch",
+            "vạch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わ.かつ (wa.katsu)",
+            "かぎ.る (kagi.ru)"
+        ],
+        "Âm Hàn": [
+            "획"
+        ],
+        "Âm Quảng Đông": [
+            "waak6"
+        ]
+    },
+    "meanings": {
+        "hoạch": {
+            "Từ điển phổ thông": [
+                "dùng dao rạch ra",
+                "vạch ra, phân chia",
+                "nét ngang",
+                "bàn tính, hoạch định",
+                "chèo thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phân chia, quy định, phân giới. ◎Như: 'hoạch nhất bất nhị' 劃一不二 định giá nhất định, 'hoạch định giới tuyến' 劃定界線 quy dịnh ranh giới.",
+                "(Động) Mưu tính, thiết kế, trù liệu. ◎Như: 'trù hoạch' 籌劃 trù tính.",
+                "(Động) Rạch, vạch (bằng dao hoặc vật sắc nhọn). ◎Như: 'nhất bất tiểu tâm tại thủ thượng hoạch liễu nhất đạo thương khẩu' 一不小心在手上劃了一道傷口 không coi chừng làm rạch một đường vết thương trên tay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rạch, lấy dao rạch ra.",
+                "Vạch rõ, như hoạch nhất bất nhị 劃一不二 định giá nhất định."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sắp: 〖???〗劃 (đph) 1. Sắp xếp; 2. Sửa chữa. Xem 划 [huá], 劃 [huà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng vật nhọn mà vạch thành nét — Vạch chia ranh giới — Nhất định, không dời đổi. Còn nói là Hạch nhất."
+            ],
+            "compound_words": {
+                "勾劃": "câu hoạch",
+                "劃分": "hoạch phân",
+                "計劃": "kế hoạch",
+                "擘劃": "phách hoạch",
+                "規劃": "quy hoạch"
+            }
+        }
+    }
+}

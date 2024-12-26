@@ -1,0 +1,188 @@
+{
+    "character": "旁",
+    "details": {
+        "Âm Hán Việt": [
+            "banh",
+            "bàng",
+            "bạng",
+            "phang"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "phương 方 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿳亠丷冖方"
+        ],
+        "Nét bút": [
+            "丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "YBYHS (卜月卜竹尸)"
+        ],
+        "Unicode": [
+            "U+65C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bàng ㄅㄤˋ",
+            "páng ㄆㄤˊ"
+        ],
+        "Âm Nôm": [
+            "bàng",
+            "bầng",
+            "bừng",
+            "bường",
+            "phàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つくり (tsukuri)",
+            "かたがた (katagata)",
+            "かたわら (katawara)"
+        ],
+        "Âm Hàn": [
+            "방",
+            "팽"
+        ],
+        "Âm Quảng Đông": [
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "banh": {
+            "Từ điển Thiều Chửu": [
+                "Bên cạnh, như nhi lập tại bàng 兒立在旁 đứa bé đứng ở bên.",
+                "Một âm là bạng. Nương tựa.",
+                "Lại một âm là banh. Banh banh 旁旁 rong ruổi, sa sả.",
+                "Một âm nữa là phang. Phang bạc 旁礡 mông mênh, bát ngát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Banh banh 旁旁 — Các âm khác là Bàng, Bạng."
+            ],
+            "compound_words": {
+                "旁旁": "banh banh"
+            }
+        },
+        "bàng": {
+            "Từ điển phổ thông": [
+                "một bên",
+                "bên cạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bên cạnh. ◎Như: 'nhi lập tại bàng' 兒立在旁 đứa bé đứng ở bên.",
+                "(Danh) (Sự) giúp đỡ, phò tá. ◇Khuất Nguyên 屈原: 'Viết hữu chí cực nhi vô bàng' 曰有志極而無旁 (Cửu chương 九章, Tích tụng 惜誦) Bảo rằng chí rất cao mà không có (người) phò tá.",
+                "(Danh) Thành phần chữ Hán đứng bên cạnh một chữ khác. ◎Như: 'lập nhân bàng' 立人旁 bộ thủ Nhân đứng 亻, 'thụ tâm bàng' 豎心旁 bộ thủ Tâm đứng 忄, 'trương thị cung tự bàng đích trương, nhi phi lập tảo chương' 張是弓字旁的張, 而非立早章 chữ \"trương\" thì có chữ \"cung\" ở bên cạnh, khác với chữ \"chương\" gồm có chữ \"lập\" ở trên chữ \"tảo\".",
+                "(Danh) Họ 'Bàng'.",
+                "(Tính) Ở bên cạnh. ◇Sử Kí 史記: 'Lão phụ dĩ khứ, Cao Tổ thích tòng bàng xá lai' 老父已去, 高祖適從旁舍來 (Cao Tổ bổn kỉ 高祖本紀) Cụ già đi rồi, Cao Tổ vừa mới từ nhà bên cạnh đến.",
+                "(Tính) Khác. ◎Như: 'bàng nhân' 旁人 người khác, 'một bàng đích thoại' 沒旁的話 lời nói không có gì khác.",
+                "(Tính) Chẻ ngang, rẽ ngang một bên. ◎Như: 'chủ cán bàng chi' 主幹旁枝 gốc chính càng ngang.",
+                "(Tính) Tà, bất chính. ◎Như: 'bàng môn tả đạo' 旁門左道 môn phái bất chính.",
+                "(Phó) Rộng khắp, phổ biến. ◎Như: 'bàng trưng bác dẫn' 旁徵博引 trưng dẫn rộng rãi. ◇Thư Kinh 書經: 'Bàng cầu tuấn ngạn' 旁求俊彥 (Thái giáp thượng 太甲上) Tìm cầu rộng khắp những bậc anh tài tuấn kiệt.",
+                "Một âm là 'bạng'. (Động) Nương tựa, dựa vào. ◇Hán Thư 漢書: 'Hung Nô đại phát thập dư vạn kị, nam bạng tái, chí Phù Hề Lư san, dục nhập vi khấu' 匈奴大發十餘萬騎, 南旁塞, 至符奚廬山, 欲入為寇 (Triệu Sung Quốc truyện 趙充國傳) Hung Nô đem đại quân hơn mười vạn kị binh, phía nam dựa vào đất hiểm yếu, đến Phù Hề Lư sơn, định vào cướp phá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bên cạnh, như nhi lập tại bàng 兒立在旁 đứa bé đứng ở bên.",
+                "Một âm là bạng. Nương tựa.",
+                "Lại một âm là banh. Banh banh 旁旁 rong ruổi, sa sả.",
+                "Một âm nữa là phang. Phang bạc 旁礡 mông mênh, bát ngát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bên, bên cạnh, cạnh, cạnh bên: 路旁 Bên (cạnh) đường; 兩旁 Hai bên; 站在一旁 Đứng ở một bên;",
+                "Khác: 他有旁的事，先走了 Anh ấy đi trước vì có việc khác; 沒有旁的辦法 Không còn cách nào khác;",
+                "(văn) Người phụ tá;",
+                "(văn) Rộng rãi, phổ biến, khắp nơi: 旁羅日月星辰 Giăng ra khắp nơi mặt trời, mặt trăng và sao (Sử kí);",
+                "(văn) Tùy tiện, càn: 不旁狎 Không tùy tiện thân gần người khác (Lễ kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bên cạnh. Một bên — Rộng lớn — Khắp nơi — Dùng như chữ Bàng 傍 — Các âm khác là Bạnh, Banh. Xem các âm này."
+            ],
+            "compound_words": {
+                "旁礴": "bàng bạc",
+                "旁薄": "bàng bạc",
+                "旁牌": "bàng bài",
+                "旁边": "bàng biên",
+                "旁邊": "bàng biên",
+                "旁注": "bàng chú",
+                "旁行": "bàng hành",
+                "旁行書": "bàng hành thư",
+                "旁系親": "bàng hệ thân",
+                "旁系親屬": "bàng hệ thân thuộc",
+                "旁皇": "bàng hoàng",
+                "旁羅": "bàng la",
+                "旁路": "bàng lộ",
+                "旁午": "bàng ngọ",
+                "旁人": "bàng nhân",
+                "旁魄": "bàng phách",
+                "旁觀": "bàng quan",
+                "旁观": "bàng quan",
+                "旁妻": "bàng thê",
+                "旁聽": "bàng thính",
+                "旁通": "bàng thông",
+                "旁坐": "bàng toạ",
+                "旁晚": "bàng vãn",
+                "旁晩": "bàng vãn",
+                "鄰旁": "lân bàng",
+                "路旁": "lộ bàng",
+                "在旁": "tại bàng",
+                "樿旁": "thiện bàng",
+                "接旁": "tiếp bàng",
+                "四旁": "tứ bàng"
+            }
+        },
+        "bạng": {
+            "Từ điển phổ thông": [
+                "một bên",
+                "bên cạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bên cạnh. ◎Như: 'nhi lập tại bàng' 兒立在旁 đứa bé đứng ở bên.",
+                "(Danh) (Sự) giúp đỡ, phò tá. ◇Khuất Nguyên 屈原: 'Viết hữu chí cực nhi vô bàng' 曰有志極而無旁 (Cửu chương 九章, Tích tụng 惜誦) Bảo rằng chí rất cao mà không có (người) phò tá.",
+                "(Danh) Thành phần chữ Hán đứng bên cạnh một chữ khác. ◎Như: 'lập nhân bàng' 立人旁 bộ thủ Nhân đứng 亻, 'thụ tâm bàng' 豎心旁 bộ thủ Tâm đứng 忄, 'trương thị cung tự bàng đích trương, nhi phi lập tảo chương' 張是弓字旁的張, 而非立早章 chữ \"trương\" thì có chữ \"cung\" ở bên cạnh, khác với chữ \"chương\" gồm có chữ \"lập\" ở trên chữ \"tảo\".",
+                "(Danh) Họ 'Bàng'.",
+                "(Tính) Ở bên cạnh. ◇Sử Kí 史記: 'Lão phụ dĩ khứ, Cao Tổ thích tòng bàng xá lai' 老父已去, 高祖適從旁舍來 (Cao Tổ bổn kỉ 高祖本紀) Cụ già đi rồi, Cao Tổ vừa mới từ nhà bên cạnh đến.",
+                "(Tính) Khác. ◎Như: 'bàng nhân' 旁人 người khác, 'một bàng đích thoại' 沒旁的話 lời nói không có gì khác.",
+                "(Tính) Chẻ ngang, rẽ ngang một bên. ◎Như: 'chủ cán bàng chi' 主幹旁枝 gốc chính càng ngang.",
+                "(Tính) Tà, bất chính. ◎Như: 'bàng môn tả đạo' 旁門左道 môn phái bất chính.",
+                "(Phó) Rộng khắp, phổ biến. ◎Như: 'bàng trưng bác dẫn' 旁徵博引 trưng dẫn rộng rãi. ◇Thư Kinh 書經: 'Bàng cầu tuấn ngạn' 旁求俊彥 (Thái giáp thượng 太甲上) Tìm cầu rộng khắp những bậc anh tài tuấn kiệt.",
+                "Một âm là 'bạng'. (Động) Nương tựa, dựa vào. ◇Hán Thư 漢書: 'Hung Nô đại phát thập dư vạn kị, nam bạng tái, chí Phù Hề Lư san, dục nhập vi khấu' 匈奴大發十餘萬騎, 南旁塞, 至符奚廬山, 欲入為寇 (Triệu Sung Quốc truyện 趙充國傳) Hung Nô đem đại quân hơn mười vạn kị binh, phía nam dựa vào đất hiểm yếu, đến Phù Hề Lư sơn, định vào cướp phá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bên cạnh, như nhi lập tại bàng 兒立在旁 đứa bé đứng ở bên.",
+                "Một âm là bạng. Nương tựa.",
+                "Lại một âm là banh. Banh banh 旁旁 rong ruổi, sa sả.",
+                "Một âm nữa là phang. Phang bạc 旁礡 mông mênh, bát ngát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nương tựa, tựa vào (dùng như 傍, bộ 亻): 南旁塞 Phía nam tựa vào đất hiểm yếu (Hán thư)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tựa vào. Nương nhờ. Như chữ Bạng 傍 — Các âm khác là Bàng, Banh."
+            ],
+            "compound_words": {
+                "旁緣": "bạng duyến"
+            }
+        },
+        "phang": {
+            "Từ điển Thiều Chửu": [
+                "Bên cạnh, như nhi lập tại bàng 兒立在旁 đứa bé đứng ở bên.",
+                "Một âm là bạng. Nương tựa.",
+                "Lại một âm là banh. Banh banh 旁旁 rong ruổi, sa sả.",
+                "Một âm nữa là phang. Phang bạc 旁礡 mông mênh, bát ngát."
+            ]
+        }
+    }
+}

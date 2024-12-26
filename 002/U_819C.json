@@ -1,0 +1,111 @@
+{
+    "character": "膜",
+    "details": {
+        "Âm Hán Việt": [
+            "mô",
+            "mạc"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhục 肉 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月莫"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨丨丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BTAK (月廿日大)"
+        ],
+        "Unicode": [
+            "U+819C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mó ㄇㄛˊ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マク (maku)"
+        ],
+        "Âm Hàn": [
+            "막",
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mok6",
+            "mou4"
+        ]
+    },
+    "meanings": {
+        "mô": {
+            "Từ điển phổ thông": [
+                "màng da",
+                "cúng bái"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Màng (lớp mỏng phân thành tổ chức bên trong cơ thể động hay thực vật). ◎Như: 'nhãn mô' 眼膜 màng mắt, 'nhĩ mô' 耳膜 màng tai.",
+                "(Danh) Lớp vỏ mỏng bao quanh vật. ◎Như: 'tượng bì mô' 橡皮膜 màng cao su.",
+                "(Động) 'Mô bái' 膜拜 quỳ trên đất đưa hai tay lên mà lạy. ☆Tương tự: 'quỵ bái' 跪拜, 'kính bái' 敬拜.",
+                "§ Cũng có âm là 'mạc'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Màng, một thứ màng mỏng để ràng rịt tạng phủ và các cơ quan trong mình. Như nhãn mô 眼膜 màng mắt, nhĩ mô 耳膜 màng tai, v.v. Nói rộng ra như mạng mỏng ở trong các thứ quả cây cũng gọi là mô cả.",
+                "Mô bái 膜拜 quỳ dài mà lạy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Màng: 耳膜 Màng nhĩ, màng tai; 細胞膜 Màng tế bào; 腦膜 Màng óc; 橡皮膜 Màng cao su;",
+                "【膜拜】mô bái [móbài] Cúng bái: 頂禮膜拜 Đi lễ cúng bái, vái lạy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái màng bao bọc các cơ quan trong thân thể người. Td: Hoành cách mô ( Màng nằm ngang ngực và bụng ) — Cũng đọc Mạc. Xem Mạc."
+            ],
+            "compound_words": {
+                "膈膜": "cách mô",
+                "角膜": "giác mô",
+                "橫隔膜": "hoành cách mô",
+                "網膜": "võng mô"
+            }
+        },
+        "mạc": {
+            "Từ điển phổ thông": [
+                "màng da",
+                "cúng bái"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Màng (lớp mỏng phân thành tổ chức bên trong cơ thể động hay thực vật). ◎Như: 'nhãn mô' 眼膜 màng mắt, 'nhĩ mô' 耳膜 màng tai.",
+                "(Danh) Lớp vỏ mỏng bao quanh vật. ◎Như: 'tượng bì mô' 橡皮膜 màng cao su.",
+                "(Động) 'Mô bái' 膜拜 quỳ trên đất đưa hai tay lên mà lạy. ☆Tương tự: 'quỵ bái' 跪拜, 'kính bái' 敬拜.",
+                "§ Cũng có âm là 'mạc'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Màng: 耳膜 Màng nhĩ, màng tai; 細胞膜 Màng tế bào; 腦膜 Màng óc; 橡皮膜 Màng cao su;",
+                "【膜拜】mô bái [móbài] Cúng bái: 頂禮膜拜 Đi lễ cúng bái, vái lạy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái màng mỏng bọc bắp thịt. Màng trong thân thể. Td: Xử nữ mạc ( màng trinh của con gái ). Cũng đọc Mô."
+            ],
+            "compound_words": {
+                "骨膜": "cốt mạc",
+                "腦膜": "não mạc",
+                "肺膜": "phế mạc",
+                "腹膜": "phúc mạc",
+                "處女膜": "xử nữ mạc"
+            }
+        }
+    }
+}

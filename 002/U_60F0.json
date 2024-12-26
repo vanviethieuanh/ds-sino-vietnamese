@@ -1,0 +1,92 @@
+{
+    "character": "惰",
+    "details": {
+        "Âm Hán Việt": [
+            "noạ",
+            "đoạ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖⿱左月"
+        ],
+        "Nét bút": [
+            "丶丶丨一ノ一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "PKMB (心大一月)"
+        ],
+        "Unicode": [
+            "U+60F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "duò ㄉㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "đoạ",
+            "noạ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)"
+        ],
+        "Âm Hàn": [
+            "타"
+        ],
+        "Âm Quảng Đông": [
+            "do6"
+        ]
+    },
+    "meanings": {
+        "noạ": {
+            "Từ điển phổ thông": [
+                "ngây ngô, dốt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Lười biếng. ◎Như: 'nọa tính' 惰性 tính lười, 'du nọa' 遊惰 lười biếng ham chơi, không chịu làm ăn.",
+                "(Tính) Uể oải, mệt mỏi. ◇Liêu trai chí dị 聊齋志異: 'Nữ lang từ dĩ khốn nọa' 女郎辭以困惰 (Cát Cân 葛巾) Thiếu nữ từ chối, lấy cớ vì mệt mỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lười biếng.",
+                "Hình dáng uể oải."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lười biếng, biếng nhác: 懶惰 Biếng nhác, lười biếng;",
+                "Uể oải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lười biếng. Bài  Tụng Tây hồ phú  của Nguyễn Huy Lượng có câu: » Nhận giá sắc xét dân phong cần noạ « ( Cần noạ nghĩa là chăm chỉ và lười biếng ). Cũng đọc Đoạ."
+            ],
+            "compound_words": {
+                "遊惰": "du noạ",
+                "怠惰": "đãi noạ",
+                "懈惰": "giải noạ",
+                "怯惰": "khiếp noạ",
+                "懒惰": "lãn noạ",
+                "懶惰": "lãn noạ",
+                "柔惰": "nhu noạ"
+            }
+        },
+        "đoạ": {
+            "Từ điển Trần Văn Chánh": [
+                "Lười biếng, biếng nhác: 懶惰 Biếng nhác, lười biếng;",
+                "Uể oải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lười biếng. Cũng đọc Noạ."
+            ]
+        }
+    }
+}

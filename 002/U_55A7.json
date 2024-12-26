@@ -1,0 +1,81 @@
+{
+    "character": "喧",
+    "details": {
+        "Âm Hán Việt": [
+            "huyên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口宣"
+        ],
+        "Nét bút": [
+            "丨フ一丶丶フ一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "RJMM (口十一一)"
+        ],
+        "Unicode": [
+            "U+55A7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xuān ㄒㄩㄢ",
+            "xuǎn ㄒㄩㄢˇ"
+        ],
+        "Âm Nôm": [
+            "huyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やかま.しい (yakama.shii)",
+            "かまびす.しい (kamabisu.shii)"
+        ],
+        "Âm Hàn": [
+            "훤"
+        ],
+        "Âm Quảng Đông": [
+            "hyun1"
+        ]
+    },
+    "meanings": {
+        "huyên": {
+            "Từ điển phổ thông": [
+                "ồn ào, ầm ĩ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Huyên náo, ầm ĩ, ồn ào, dức lác. ◇Đặng Trần Côn 鄧陳琨: “Liệp liệp tinh kì hề xuất tái sầu, Huyên huyên tiêu cổ hề từ gia oán” 獵獵旌旗兮出塞 愁, 喧喧簫鼓兮辭家怨 (Chinh Phụ ngâm 征婦吟) Cờ tinh cờ kì bay rộn ràng, giục lòng sầu ra ải, Tiếng sáo tiếng trống inh ỏi, lẫn tiếng oán lìa nhà. Đoàn Thị Điểm dịch thơ: Bóng cờ tiếng trống xa xa, Sầu lên ngọn ải, oán ra cửa phòng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dức lác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Huyên náo, ầm ĩ, ồn ào. Như 諠 (bộ 言)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng ồn ào."
+            ],
+            "compound_words": {
+                "寒喧": "hàn huyên",
+                "喧譁": "huyên hoa",
+                "喧閙": "huyên náo",
+                "喧闹": "huyên náo",
+                "喧鬧": "huyên náo"
+            }
+        }
+    }
+}

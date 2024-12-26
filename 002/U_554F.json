@@ -1,0 +1,153 @@
+{
+    "character": "問",
+    "details": {
+        "Âm Hán Việt": [
+            "vấn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門口"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ANR (日弓口)"
+        ],
+        "Unicode": [
+            "U+554F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "vắn",
+            "vắng",
+            "vấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モン (mon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.う (to.u)",
+            "と.い (to.i)",
+            "とん (ton)"
+        ],
+        "Âm Hàn": [
+            "문"
+        ],
+        "Âm Quảng Đông": [
+            "man6"
+        ]
+    },
+    "meanings": {
+        "vấn": {
+            "Từ điển phổ thông": [
+                "hỏi",
+                "tra xét",
+                "hỏi thăm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hỏi.",
+                "(Động) Tra hỏi, vặn hỏi. ◎Như: 'vấn án' 問案 tra hỏi vụ án, 'thẩm vấn' 審問 hỏi cung.",
+                "(Động) Hỏi thăm. ◎Như: 'vấn nhân ư tha bang' 問人於他邦 thăm người ở nước khác.",
+                "(Động) Can dự, can thiệp. ◎Như: 'bất văn bất vấn' 不聞不問 không nghe tới không can dự.",
+                "(Động) Tặng, biếu.",
+                "(Động) Nghe. § Cùng nghĩa như chữ 'văn' 聞.",
+                "(Danh) Tin tức. ◎Như: 'âm vấn' 音問 tin tức.",
+                "(Danh) Mệnh lệnh.",
+                "(Danh) Tiếng tăm, danh tiếng. § Thông 'văn' 聞."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hỏi, cái gì không biết đi hỏi người khác gọi là vấn.",
+                "Tra hỏi, tra hỏi kẻ có tội tục gọi là vấn.",
+                "Hỏi thăm, như vấn nhân ư tha bang 問人於他邦 thăm tặng người ở nước khác.",
+                "Làm quà.",
+                "Tin tức, như âm vấn 音問 tin tức.",
+                "Lễ ăn hỏi gọi là lễ vấn danh 問名.",
+                "Mệnh lệnh.",
+                "Nghe, cùng nghĩa như chữ văn 聞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hỏi: 我問你 Tôi hỏi anh;",
+                "Hỏi, thăm hỏi, thăm, thăm viếng: 趙威后問齊使 Triệu Uy hậu hỏi thăm sứ nước Tề;",
+                "Hỏi cung, vặn hỏi, tra vấn: 審問 Thẩm vấn, xét hỏi;",
+                "Quan tâm đến, can thiệp;",
+                "(văn) Làm quà;",
+                "(văn) Nghe (như 聞, bộ 耳);",
+                "(văn) Mệnh lệnh;",
+                "[Wèn] (Họ) Vấn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏi cho biết. Hát nói của Cao Bá Quát: » Thế sự thăng trầm quân mạc vấn « ( việc đời thay đổi xin anh đừng hỏi ) — Hỏi han tin tức."
+            ],
+            "compound_words": {
+                "按問": "án vấn",
+                "案問": "án vấn",
+                "音問": "âm vấn",
+                "盤問": "bàn vấn",
+                "不問": "bất vấn",
+                "卜問": "bốc vấn",
+                "詰問": "cật vấn",
+                "求田問舍": "cầu điền vấn xá",
+                "質問": "chất vấn",
+                "顧問": "cố vấn",
+                "究問": "cứu vấn",
+                "答問": "đáp vấn",
+                "家問": "gia vấn",
+                "下問": "hạ vấn",
+                "學問": "học vấn",
+                "拷問": "khảo vấn",
+                "疑問": "nghi vấn",
+                "漁樵問答": "ngư tiều vấn đáp",
+                "發問": "phát vấn",
+                "訪問": "phỏng vấn",
+                "過問": "quá vấn",
+                "策問": "sách vấn",
+                "察問": "sát vấn",
+                "聘問": "sính vấn",
+                "推問": "suy vấn",
+                "借問": "tá vấn",
+                "訊問": "tấn vấn",
+                "審問": "thẩm vấn",
+                "偢問": "thu vấn",
+                "查問": "tra vấn",
+                "責問": "trách vấn",
+                "追問": "truy vấn",
+                "詢問": "tuân vấn",
+                "諮問": "tư vấn",
+                "慰問": "uý vấn",
+                "聞問": "văn vấn",
+                "問安": "vấn an",
+                "問名": "vấn danh",
+                "問道": "vấn đạo",
+                "問答": "vấn đáp",
+                "問題": "vấn đề",
+                "問計": "vấn kế",
+                "問柳": "vấn liễu",
+                "問難": "vấn nạn",
+                "問卦": "vấn quái",
+                "問官": "vấn quan",
+                "問心": "vấn tâm",
+                "問身": "vấn thân",
+                "問世": "vấn thế",
+                "問罪": "vấn tội",
+                "問字": "vấn tự"
+            }
+        }
+    }
+}

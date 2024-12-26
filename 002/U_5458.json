@@ -1,0 +1,79 @@
+{
+    "character": "员",
+    "details": {
+        "Âm Hán Việt": [
+            "viên",
+            "vân"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱口贝"
+        ],
+        "Nét bút": [
+            "丨フ一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "RBO (口月人)"
+        ],
+        "Unicode": [
+            "U+5458"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yuán ㄩㄢˊ",
+            "yún ㄩㄣˊ",
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "viên"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "viên": {
+            "Từ điển phổ thông": [
+                "người, kẻ, gã"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 員."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 員"
+            ],
+            "compound_words": {
+                "兵员": "binh viên",
+                "专员": "chuyên viên",
+                "僱员": "cố viên",
+                "教员": "giáo viên",
+                "会员": "hội viên",
+                "人员": "nhân viên",
+                "官员": "quan viên",
+                "成员": "thành viên",
+                "委员": "uỷ viên"
+            }
+        },
+        "vân": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 員."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 員"
+            ]
+        }
+    }
+}

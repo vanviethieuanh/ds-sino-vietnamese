@@ -1,0 +1,79 @@
+{
+    "character": "监",
+    "details": {
+        "Âm Hán Việt": [
+            "giam",
+            "giám"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mẫn 皿 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨丨ノ一丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "LIBT (中戈月廿)"
+        ],
+        "Unicode": [
+            "U+76D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "jián ㄐㄧㄢˊ",
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "giám"
+        ],
+        "Âm Quảng Đông": [
+            "gaam1",
+            "gaam3"
+        ]
+    },
+    "meanings": {
+        "giam": {
+            "Từ điển phổ thông": [
+                "giam cầm",
+                "nhà tù"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 監."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trông coi, giám thị, giám sát;",
+                "Nhà giam, nhà tù;",
+                "Giam, bỏ tù. Xem 監 [jiàn]."
+            ]
+        },
+        "giám": {
+            "Từ điển phổ thông": [
+                "xem, coi",
+                "sở công"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 監."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trông coi, giám thị, giám sát;",
+                "Nhà giam, nhà tù;",
+                "Giam, bỏ tù. Xem 監 [jiàn]."
+            ],
+            "compound_words": {
+                "监生": "giám sinh",
+                "太监": "thái giám"
+            }
+        }
+    }
+}

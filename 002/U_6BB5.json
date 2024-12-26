@@ -1,0 +1,107 @@
+{
+    "character": "段",
+    "details": {
+        "Âm Hán Việt": [
+            "đoàn",
+            "đoán",
+            "đoạn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thù 殳 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨一一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "HJHNE (竹十竹弓水)"
+        ],
+        "Unicode": [
+            "U+6BB5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "duàn ㄉㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đoàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダン (dan)",
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "dyun6"
+        ]
+    },
+    "meanings": {
+        "đoàn": {
+            "Từ điển phổ thông": [
+                "đoạn, khúc",
+                "quãng, khoảng",
+                "họ Đoàn (âm Đoàn)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khúc, tấm. ◎Như: vải lụa định mấy thước cắt làm một, mỗi tấm gọi là một 'đoạn' 段. ◎Như: 'địa đoạn' 地段 khúc đất.",
+                "(Danh) Chặng, quãng, giai đoạn. ◎Như: 'nhất đoạn lộ' 一段路 một chặng đường.",
+                "(Danh) Đoạn (dệt bằng tơ). § Thông 'đoạn' 緞. ◇Thủy hử truyện 水滸傳: 'Thác xuất nhất bàn, lưỡng cá đoạn tử, nhất bách lạng hoa ngân, tạ sư' 托出一盤, 兩個段子, 一百兩花銀, 謝師 (Đệ nhị hồi) Bưng ra một mâm (gồm) hai tấm đoạn, một trăm lạng hoa ngân (để) tặng thầy.",
+                "(Danh) Họ 'Đoàn'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đoạn, khúc, chặng, quãng, giai đoạn: 一段鐵路 Một đoạn đường sắt; 這段歷史 Đoạn lịch sử này; 一段時間 Một khoảng (một quãng) thời gian;",
+                "(văn) Như 鍛 (bộ 金);",
+                "[Duàn] (Họ) Đoàn."
+            ]
+        },
+        "đoán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đập. Lấy chày mà nện. Cũng đọc Đoạn — Một âm là Đoạn. Xem Đoạn."
+            ]
+        },
+        "đoạn": {
+            "Từ điển phổ thông": [
+                "đoạn, khúc",
+                "quãng, khoảng",
+                "họ Đoàn (âm Đoàn)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khúc, tấm. ◎Như: vải lụa định mấy thước cắt làm một, mỗi tấm gọi là một 'đoạn' 段. ◎Như: 'địa đoạn' 地段 khúc đất.",
+                "(Danh) Chặng, quãng, giai đoạn. ◎Như: 'nhất đoạn lộ' 一段路 một chặng đường.",
+                "(Danh) Đoạn (dệt bằng tơ). § Thông 'đoạn' 緞. ◇Thủy hử truyện 水滸傳: 'Thác xuất nhất bàn, lưỡng cá đoạn tử, nhất bách lạng hoa ngân, tạ sư' 托出一盤, 兩個段子, 一百兩花銀, 謝師 (Đệ nhị hồi) Bưng ra một mâm (gồm) hai tấm đoạn, một trăm lạng hoa ngân (để) tặng thầy.",
+                "(Danh) Họ 'Đoàn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chia từng đoạn, vải lụa định mấy thước cắt làm một, mỗi tấm gọi là đoạn.",
+                "Phàm vật gì tính chia ra từng bộ đều gọi là đoạn, như địa đoạn 地段 đoạn đất, thủ đoạn 手段 phương pháp làm việc, v.v. đều là theo cái ý từng thứ đoạn lạc cả.",
+                "Cùng nghĩa với chữ đoạn 鍛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đoạn, khúc, chặng, quãng, giai đoạn: 一段鐵路 Một đoạn đường sắt; 這段歷史 Đoạn lịch sử này; 一段時間 Một khoảng (một quãng) thời gian;",
+                "(văn) Như 鍛 (bộ 金);",
+                "[Duàn] (Họ) Đoàn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chia ra từng phần — Một phần. Một khúc ngắn — Tên một loại sản phẩm dệt bằng tơ."
+            ],
+            "compound_words": {
+                "段落": "đoạn lạc",
+                "階段": "giai đoạn",
+                "三段論": "tam đoạn luận",
+                "手段": "thủ đoạn"
+            }
+        }
+    }
+}

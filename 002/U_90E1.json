@@ -1,0 +1,88 @@
+{
+    "character": "郡",
+    "details": {
+        "Âm Hán Việt": [
+            "quận"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ấp 邑 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰君⻏"
+        ],
+        "Nét bút": [
+            "フ一一ノ丨フ一フ丨"
+        ],
+        "Thương Hiệt": [
+            "SRNL (尸口弓中)"
+        ],
+        "Unicode": [
+            "U+90E1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jùn ㄐㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "quạnh",
+            "quặn",
+            "quấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "グン (gun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こおり (kōri)"
+        ],
+        "Âm Hàn": [
+            "군"
+        ],
+        "Âm Quảng Đông": [
+            "gwan6"
+        ]
+    },
+    "meanings": {
+        "quận": {
+            "Từ điển phổ thông": [
+                "quận (đơn vị hành chính)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Quận, khu vực hành chính. ◎Như: 'quận huyện' 郡縣 quận và huyện, hai đơn vị hành chánh trong nước, cũng để chỉ chung lãnh thổ đất nước. § Ghi chú: Ở Trung Quốc, thời nhà Chu, 'huyện' 縣 lớn hơn 'quận' 郡. Tới thời Tần Thủy Hoàng, bãi bỏ chế độ phong kiến, 'quận' lớn, 'huyện' nhỏ. Nhà Hán sau đó giữ theo như vậy. Dưới đời nhà Tùy, nhà Đường bỏ 'quận', đặt ra 'châu' 州. Sau nhà Tống đổi 'quận' thành 'phủ' 府.",
+                "(Danh) Họ 'Quận'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Quận. Một tên riêng để gọi khu đất đã chia giới hạn. Như nước ta ngày xưa chia làm 12 quận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quận: 郡縣 Quận và huyện; 昔我越分國爲十二郡Nước ta thời xưa chia làm 12 quận; 交趾郡 Quận Giao Chỉ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một khu vực hành chánh rộng lớn thời cổ — Tên một đơn vị hành chánh thời trước, ở dưới tỉnh, tương đương với phủ, huyện — Tên một dơn vị hành chánh của Việt Nam Cộng Hòa, tương đương với phủ huyện thời xưa."
+            ],
+            "compound_words": {
+                "州郡": "châu quận",
+                "故郡": "cố quận",
+                "同郡": "đồng quận",
+                "郡主": "quận chủ",
+                "郡公": "quận công",
+                "郡縣": "quận huyện",
+                "郡馬": "quận mã",
+                "郡駙馬": "quận phò mã",
+                "郡官": "quận quan",
+                "郡長": "quận trưởng",
+                "郡將": "quận tướng"
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "character": "类",
+    "details": {
+        "Âm Hán Việt": [
+            "loại"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "đại 大 (+6 nét)",
+            "mễ 米 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱米大"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "FDK (火木大)"
+        ],
+        "Unicode": [
+            "U+7C7B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lèi ㄌㄟˋ",
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "loài"
+        ],
+        "Âm Quảng Đông": [
+            "leoi6"
+        ]
+    },
+    "meanings": {
+        "loại": {
+            "Từ điển phổ thông": [
+                "chủng loại, loài"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 類."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 類"
+            ],
+            "compound_words": {
+                "败类": "bại loại",
+                "大类": "đại loại",
+                "人类": "nhân loại",
+                "分类": "phân loại"
+            }
+        }
+    }
+}

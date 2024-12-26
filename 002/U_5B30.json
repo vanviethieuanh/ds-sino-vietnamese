@@ -1,0 +1,93 @@
+{
+    "character": "嬰",
+    "details": {
+        "Âm Hán Việt": [
+            "anh"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nữ 女 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱賏女"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶丨フ一一一ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "BCV (月金女)"
+        ],
+        "Unicode": [
+            "U+5B30"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yīng ㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "anh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エイ (ei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふ.れる (fu.reru)",
+            "みどりご (midorigo)",
+            "あかご (akago)"
+        ],
+        "Âm Hàn": [
+            "영"
+        ],
+        "Âm Quảng Đông": [
+            "jing1"
+        ]
+    },
+    "meanings": {
+        "anh": {
+            "Từ điển phổ thông": [
+                "trẻ con",
+                "thêm vào",
+                "vòng quanh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trẻ sơ sinh. ◎Như: 'nam anh' 男嬰 bé trai, 'nữ anh' 女嬰 bé gái.",
+                "(Động) Vòng quanh, vấn vít. ◇Nguyễn Trãi 阮廌: 'Quân thân nhất niệm cửu anh hoài' 君親一念久嬰懷 (Đề Đông Sơn tự 題東山寺) Một niềm trung hiếu vấn vít mãi trong lòng.",
+                "(Động) Trói buộc, ràng buộc. ◇Lục Cơ 陸機: 'Thế võng anh ngã thân' 世網嬰我身 (Phó lạc trung đạo tác 赴洛中道作) Lưới đời ràng buộc thân ta.",
+                "(Động) Mang, đeo. ◇Tuân Tử 荀子: 'Tích chi, thị do sử xử nữ anh bảo châu, bội bảo ngọc, phụ đái hoàng kim, nhi ngộ trung san chi đạo dã' 辟之, 是猶使處女嬰寶珠, 佩寶玉, 負戴黃金, 而遇中山之盜也 (Phú quốc 富國) Đi lánh, mà còn cho trinh nữ mang hạt trai quý, đeo ngọc quý, mang theo vàng bạc, mà gặp phải kẻ cướp trong núi.",
+                "(Động) Xúc phạm, đụng chạm đến. ◇Tuân Tử 荀子: 'Giáo hối chi, điều nhất chi, tắc binh kính thành cố, địch quốc bất cảm anh dã' 教誨之, 調一之, 則兵勁城固, 敵國不敢嬰也 (Cường quốc 彊國) Dạy bảo, điều hợp, thì quân mạnh thành vững, nước địch không dám xúc phạm vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con trẻ mới đẻ gọi là anh. Có người nói con gái gọi là anh 嬰, con trai gọi là hài 孩.",
+                "Thêm vào, đụng chạm đến.",
+                "Vòng quanh, chằng chói. Như anh tật 嬰疾 mắc bệnh, bị bệnh nó chằng chói."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trẻ sơ sinh, hài nhi: 婦嬰 Bà mẹ và trẻ em;",
+                "(văn) Mắc, bị: 嬰疾 Mắc (bị) bệnh;",
+                "Thêm vào, đụng chạm đến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đứa trẻ mới lọt lòng mẹ — quấn quýt, trói buộc."
+            ],
+            "compound_words": {
+                "嬰孩": "anh hài",
+                "嬰兒": "anh nhi",
+                "嬰疾": "anh tật",
+                "嬰石": "anh thạch",
+                "嬰城": "anh thành",
+                "保嬰": "bảo anh",
+                "育嬰": "dục anh"
+            }
+        }
+    }
+}

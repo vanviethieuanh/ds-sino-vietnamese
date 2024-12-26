@@ -1,0 +1,88 @@
+{
+    "character": "禽",
+    "details": {
+        "Âm Hán Việt": [
+            "cầm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhụ 禸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱人离"
+        ],
+        "Nét bút": [
+            "ノ丶丶一ノ丶フ丨丨フフ丶"
+        ],
+        "Thương Hiệt": [
+            "OYUB (人卜山月)"
+        ],
+        "Unicode": [
+            "U+79BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qín ㄑㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "cầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とり (tori)",
+            "とりこ (toriko)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "kam4"
+        ]
+    },
+    "meanings": {
+        "cầm": {
+            "Từ điển phổ thông": [
+                "loài chim"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Loài chim. ◎Như: 'gia cầm' 家禽 chim gà nuôi trong nhà.",
+                "(Danh) Họ 'Cầm'.",
+                "(Động) Bắt giữ. § Thông 'cầm' 擒. ◇Sử Kí 史記: 'Bệ hạ bất năng tương binh, nhi thiện tương tướng, thử nãi Tín chi sở dĩ vi bệ hạ cầm dã' 陛下不能將兵, 而善將將, 此乃信之所以為陛下禽也 (Quyển cửu thập nhị, Hoài Âm Hầu truyện 淮陰侯傳) Bệ hạ không giỏi cầm quân, nhưng giỏi cầm tướng, vì thế cho nên Tín tôi mới bị Bệ hạ bắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Loài chim, như gia cầm 家禽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Loài chim, loài cầm: 家禽 Gia cầm; 野禽 Chim trời, chim rừng;",
+                "(văn) Chim muông, muông thú."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung loài chim gà, tức loài vật có hai cánh, hai chân và có lông vũ — Bắt giữ. Dùng như chữ Cầm 擒."
+            ],
+            "compound_words": {
+                "頒禽": "ban cầm",
+                "禽言": "cầm ngôn",
+                "禽魚": "cầm ngư",
+                "禽獸": "cầm thú",
+                "夜禽": "dạ cầm",
+                "野禽": "dã cầm",
+                "家禽": "gia cầm",
+                "猛禽": "mãnh cầm",
+                "仙禽": "tiên cầm",
+                "衣冠禽獸": "y quan cầm thú"
+            }
+        }
+    }
+}

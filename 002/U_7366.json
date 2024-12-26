@@ -1,0 +1,76 @@
+{
+    "character": "獦",
+    "details": {
+        "Âm Hán Việt": [
+            "cát",
+            "hát",
+            "liệp"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+12 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺨葛"
+        ],
+        "Nét bút": [
+            "ノフノ一丨丨丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "KHTAV (大竹廿日女)"
+        ],
+        "Unicode": [
+            "U+7366"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gé ㄍㄜˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "カチ (kachi)",
+            "リョウ (ryō)",
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおかみ (ōkami)"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'cát đán' 獦狚.",
+                "Một âm là 'liệp'. (Động) Săn, bắt chim muông. § Cũng như 'liệp' 獵.",
+                "Một âm là 'hát'. (Danh) Chó mõm ngắn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Cát Đán 獦狚."
+            ],
+            "compound_words": {
+                "獦狚": "cát đán",
+                "獦獠": "cát lão"
+            }
+        },
+        "hát": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'cát đán' 獦狚.",
+                "Một âm là 'liệp'. (Động) Săn, bắt chim muông. § Cũng như 'liệp' 獵.",
+                "Một âm là 'hát'. (Danh) Chó mõm ngắn."
+            ]
+        },
+        "liệp": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'cát đán' 獦狚.",
+                "Một âm là 'liệp'. (Động) Săn, bắt chim muông. § Cũng như 'liệp' 獵.",
+                "Một âm là 'hát'. (Danh) Chó mõm ngắn."
+            ]
+        }
+    }
+}

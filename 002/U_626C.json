@@ -1,0 +1,65 @@
+{
+    "character": "扬",
+    "details": {
+        "Âm Hán Việt": [
+            "dương"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thủ 手 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘𠃓"
+        ],
+        "Nét bút": [
+            "一丨一フノノ"
+        ],
+        "Thương Hiệt": [
+            "QNSH (手弓尸竹)"
+        ],
+        "Unicode": [
+            "U+626C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yáng ㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "dương"
+        ],
+        "Âm Quảng Đông": [
+            "joeng4"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển phổ thông": [
+                "dơ lên, giương lên, bay lên",
+                "Dương Châu 揚州"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 揚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 揚"
+            ],
+            "compound_words": {
+                "表扬": "biểu dương",
+                "昂扬": "ngang dương",
+                "飘扬": "phiêu dương",
+                "张扬": "trương dương",
+                "宣扬": "tuyên dương"
+            }
+        }
+    }
+}

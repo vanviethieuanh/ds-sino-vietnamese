@@ -1,0 +1,93 @@
+{
+    "character": "賑",
+    "details": {
+        "Âm Hán Việt": [
+            "chẩn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "bối 貝 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰貝辰"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一ノ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BCMMV (月金一一女)"
+        ],
+        "Unicode": [
+            "U+8CD1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhèn ㄓㄣˋ"
+        ],
+        "Âm Nôm": [
+            "chẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にぎ.わい (nigi.wai)",
+            "にぎ.やか (nigi.yaka)",
+            "にぎ.わす (nigi.wasu)",
+            "にぎ.わう (nigi.wau)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "zan3"
+        ]
+    },
+    "meanings": {
+        "chẩn": {
+            "Từ điển phổ thông": [
+                "giàu",
+                "cấp giúp, phát chẩn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cứu tế, cấp giúp.",
+                "(Tính) Giàu có, phú dụ. ◇Trương Hành 張衡: 'Giao điện chi nội, hương ấp ân chẩn' 郊甸之內, 鄉邑殷賑 (Tây kinh phú 西京賦) Trong vòng khu ngoài thành, làng ấp giàu có."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giàu.",
+                "Cấp giúp, phát chẩn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cứu tế, cứu trợ, cứu giúp, phát chẩn;",
+                "(văn) Giàu có."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giàu có — Cứu giúp — Đem cho — Cũng dùng như chữ Chẩn 振."
+            ],
+            "compound_words": {
+                "殷賑": "ân chẩn",
+                "賑貧": "chẩn bần",
+                "賑救": "chẩn cứu",
+                "賑田": "chẩn điền",
+                "賑款": "chẩn khoản",
+                "賑捐": "chẩn quyên",
+                "賑災": "chẩn tai",
+                "賑濟": "chẩn tế",
+                "賑施": "chẩn thí",
+                "賑贍": "chẩn thiệm",
+                "發賑": "phát chẩn",
+                "放賑": "phóng chẩn"
+            }
+        }
+    }
+}

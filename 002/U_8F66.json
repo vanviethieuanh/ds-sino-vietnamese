@@ -1,0 +1,70 @@
+{
+    "character": "车",
+    "details": {
+        "Âm Hán Việt": [
+            "xa"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "xa 車 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "JQ (十手)"
+        ],
+        "Unicode": [
+            "U+8F66"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chē ㄔㄜ",
+            "jū ㄐㄩ"
+        ],
+        "Âm Nôm": [
+            "xa"
+        ],
+        "Âm Quảng Đông": [
+            "ce1",
+            "geoi1"
+        ]
+    },
+    "meanings": {
+        "xa": {
+            "Từ điển phổ thông": [
+                "cái xe"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 車."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con xe trong cờ tướng. Xem 車 [che]."
+            ],
+            "compound_words": {
+                "战车": "chiến xa",
+                "停车": "đình xa",
+                "火车": "hoả xa",
+                "客车": "khách xa",
+                "气车": "khí xa",
+                "列车": "liệt xa",
+                "在车": "tại xa",
+                "殡车": "tấn xa",
+                "拖车": "tha xa",
+                "上车": "thượng xa",
+                "车前": "xa tiền",
+                "车葥": "xa tiền"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "声",
+    "details": {
+        "Âm Hán Việt": [
+            "thanh"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sĩ 士 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱士𠃜"
+        ],
+        "Nét bút": [
+            "一丨一フ丨一ノ"
+        ],
+        "Thương Hiệt": [
+            "GAH (土日竹)"
+        ],
+        "Unicode": [
+            "U+58F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shēng ㄕㄥ"
+        ],
+        "Âm Nôm": [
+            "thanh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こえ (koe)",
+            "こわ- (kowa-)"
+        ],
+        "Âm Hàn": [
+            "성"
+        ],
+        "Âm Quảng Đông": [
+            "seng1",
+            "sing1"
+        ]
+    },
+    "meanings": {
+        "thanh": {
+            "Từ điển phổ thông": [
+                "tiếng, âm thanh"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'thanh' 聲.",
+                "Giản thể của chữ 聲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ thanh 聲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiếng, tăm: 大聲說話 Nói lớn tiếng; 不通聲氣 Không tin tức qua lại, biệt tăm;",
+                "Thanh: 四聲 Bốn thanh; 平聲 Thanh bằng;",
+                "Thanh điệu. Xem 調 [diào] nghĩa",
+                ";",
+                "Tuyên bố, nói rõ, nêu rõ: 聲明 Tuyên bố, thanh minh; 聲罪致討 Kể rõ tội mà đánh dẹp;",
+                "Tiếng tăm: 聲望 Thanh vọng, tiếng tăm, danh dự."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Thanh 聲."
+            ],
+            "compound_words": {
+                "掌声": "chưởng thanh",
+                "回声": "hồi thanh",
+                "叫声": "khiếu thanh",
+                "噪声": "táo thanh",
+                "小声": "tiểu thanh"
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "character": "謰",
+    "details": {
+        "Âm Hán Việt": [
+            "liên"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "ngôn 言 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言連"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨フ一一一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YRYJJ (卜口卜十十)"
+        ],
+        "Unicode": [
+            "U+8B30"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おしゃべり (oshaberi)"
+        ],
+        "Âm Quảng Đông": [
+            "lin4"
+        ]
+    },
+    "meanings": {
+        "liên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Liên lâu 謰謱, Liên ngữ 謰語."
+            ],
+            "compound_words": {
+                "謰謱": "liên lâu",
+                "謰語": "liên ngữ"
+            }
+        }
+    }
+}

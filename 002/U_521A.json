@@ -1,0 +1,83 @@
+{
+    "character": "刚",
+    "details": {
+        "Âm Hán Việt": [
+            "cang",
+            "cương"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "đao 刀 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰冈⺉"
+        ],
+        "Nét bút": [
+            "丨フノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "BKLN (月大中弓)"
+        ],
+        "Unicode": [
+            "U+521A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gāng ㄍㄤ"
+        ],
+        "Âm Nôm": [
+            "cương"
+        ],
+        "Âm Quảng Đông": [
+            "gong1"
+        ]
+    },
+    "meanings": {
+        "cang": {
+            "Từ điển Trần Văn Chánh": [
+                "Cương, cương quyết, cứng rắn, kiên quyết, vững vàng, mạnh mẽ: 柔中有剛 Trong nhu có cương, trong cái mềm có cái cứng;",
+                "Vừa vặn: 剛一杯 Vừa vặn một chén; 這雙鞋大小剛合適 Đôi giày này vừa chân;",
+                "Vừa, vừa mới: 剛逢 Vừa gặp; 剛來就走 Vừa đến đã đi. 【剛才】cương tài [gangcái] Vừa rồi, ban nãy: 別把剛才跟你說的事忘了 Đừng quên việc đã nói với anh vừa rồi; 【剛剛】cương cương [ganggang] Vừa, vừa đủ, vừa đúng, vừa mới: 剛剛一個月 Vừa đúng một tháng; 天剛剛亮 Trời vừa sáng; 【剛好】cương hảo [ganghăo] Vừa vặn, vừa khớp, vừa lúc, vừa: 他來的時候，我剛好不在 Lúc anh ấy đến, tôi vừa đi vắng; 走到車站，電車剛好停下 Đi đến trạm xe, thì chiếc xe điện cũng vừa dừng lại; 【剛巧】 cương xảo [gangqiăo] Như 剛好;",
+                "(văn) Lại, mà lại, trái lại: 可 憐天艷正當時，剛被狂風一夜吹 Khá thương cho hoa đương lúc đẹp mơn mởn, lại bị cuồng phong thổi trong đêm (Bạch Cư Dị: Tích hoa)."
+            ]
+        },
+        "cương": {
+            "Từ điển phổ thông": [
+                "cứng, rắn",
+                "vừa mới qua, vừa xong"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 剛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cương, cương quyết, cứng rắn, kiên quyết, vững vàng, mạnh mẽ: 柔中有剛 Trong nhu có cương, trong cái mềm có cái cứng;",
+                "Vừa vặn: 剛一杯 Vừa vặn một chén; 這雙鞋大小剛合適 Đôi giày này vừa chân;",
+                "Vừa, vừa mới: 剛逢 Vừa gặp; 剛來就走 Vừa đến đã đi. 【剛才】cương tài [gangcái] Vừa rồi, ban nãy: 別把剛才跟你說的事忘了 Đừng quên việc đã nói với anh vừa rồi; 【剛剛】cương cương [ganggang] Vừa, vừa đủ, vừa đúng, vừa mới: 剛剛一個月 Vừa đúng một tháng; 天剛剛亮 Trời vừa sáng; 【剛好】cương hảo [ganghăo] Vừa vặn, vừa khớp, vừa lúc, vừa: 他來的時候，我剛好不在 Lúc anh ấy đến, tôi vừa đi vắng; 走到車站，電車剛好停下 Đi đến trạm xe, thì chiếc xe điện cũng vừa dừng lại; 【剛巧】 cương xảo [gangqiăo] Như 剛好;",
+                "(văn) Lại, mà lại, trái lại: 可 憐天艷正當時，剛被狂風一夜吹 Khá thương cho hoa đương lúc đẹp mơn mởn, lại bị cuồng phong thổi trong đêm (Bạch Cư Dị: Tích hoa)."
+            ],
+            "compound_words": {
+                "刚正": "cương chính",
+                "刚刚": "cương cương",
+                "刚强": "cương cường",
+                "刚好": "cương hảo",
+                "刚健": "cương kiện",
+                "刚劲": "cương kình",
+                "刚毛": "cương mao",
+                "刚果": "cương quả",
+                "刚才": "cương tài",
+                "刚体": "cương thể",
+                "刚直": "cương trực"
+            }
+        }
+    }
+}

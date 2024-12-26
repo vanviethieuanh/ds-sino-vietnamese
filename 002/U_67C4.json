@@ -1,0 +1,103 @@
+{
+    "character": "柄",
+    "details": {
+        "Âm Hán Việt": [
+            "bính"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木丙"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "DMOB (木一人月)"
+        ],
+        "Unicode": [
+            "U+67C4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bǐng ㄅㄧㄥˇ",
+            "bìng ㄅㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "bính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "がら (gara)",
+            "え (e)",
+            "つか (tsuka)"
+        ],
+        "Âm Hàn": [
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "beng3",
+            "bing3"
+        ]
+    },
+    "meanings": {
+        "bính": {
+            "Từ điển phổ thông": [
+                "cán, báng, tay cầm",
+                "người cầm quyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chuôi, cán (để cầm). § Lúc đầu 'bính' chỉ cán búa. ◎Như: 'đao bính' 刀柄 chuôi dao.",
+                "(Danh) Lượng từ: cái, cây (đơn vị dùng cho đồ vật có cán, chuôi). ◎Như: 'lưỡng bính đại đao' 兩柄大刀 hai cây đao lớn.",
+                "(Danh) Cuống. ◎Như: 'hoa bính' 花柄 cuống hoa, 'diệp bính' 葉柄 cuống lá.",
+                "(Danh) Câu chuyện, đề tài do lời nói hoặc hành vi làm cho người ta có thể đem ra chế nhạo, công kích, đàm tiếu. ◎Như: 'tiếu bính' 笑柄 đề tài lấy làm chuyện cười nhạo.",
+                "(Danh) Căn bổn, gốc. ◇Quốc ngữ 國語: 'Trị quốc gia bất thất kì bính' 治國家不失其柄 (Tề ngữ 齊語) Cai trị nước nhà không được làm mất căn bổn của nó.",
+                "(Danh) Quyền lực, quyền hành.",
+                "(Động) Nắm, cầm. ◎Như: 'bính quốc' 柄國 nắm quyền nước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chuôi, vật gì có chuôi có cán để cầm gọi là bính.",
+                "Một cái đồ gì cũng gọi là nhất bính 一柄.",
+                "Quyền bính, quyền chính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) chuôi, đuôi, cán: 刀柄 Chuôi dao; 斧柄 Cán búa;",
+                "Cuống, 花柄 Cuống hoa; 葉柄 Cuống lá;",
+                "(văn) Nắm, cầm: 柄政 Nắm chính quyền, cầm quyền; Cv. 秉政;",
+                "(văn) Chính quyền, quyền bính: 國柄 Chính quyền của một nước;",
+                "(loại) (đph) Cây, chiếc, cái: 兩柄斧頭 Hai cây búa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chuôi. Cái cán. Cái tay cầm — Cái gốc — Quyền hành. Chẳng hạn Quyền bính — Cầm nắm."
+            ],
+            "compound_words": {
+                "把柄": "bả bính",
+                "欛柄": "bá bính",
+                "柄政": "bính chính",
+                "柄用": "bính dụng",
+                "柄臣": "bính thần",
+                "葉柄": "diệp bính",
+                "斗柄": "đẩu bính",
+                "菌柄": "khuẩn bính",
+                "國柄": "quốc bính",
+                "权柄": "quyền bính",
+                "權柄": "quyền bính",
+                "朝柄": "triều bính"
+            }
+        }
+    }
+}

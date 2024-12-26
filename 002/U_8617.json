@@ -1,0 +1,84 @@
+{
+    "character": "蘗",
+    "details": {
+        "Âm Hán Việt": [
+            "bách",
+            "nghiệt"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thảo 艸 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹檗"
+        ],
+        "Nét bút": [
+            "一丨丨フ一ノ丨フ一丶一丶ノ一一丨一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TSJD (廿尸十木)"
+        ],
+        "Unicode": [
+            "U+8617"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bò ㄅㄛˋ",
+            "niè ㄋㄧㄝˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ビャク (byaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きはだ (kihada)",
+            "きわだ (kiwada)"
+        ],
+        "Âm Hàn": [
+            "벽"
+        ],
+        "Âm Quảng Đông": [
+            "jit6",
+            "paak3"
+        ]
+    },
+    "meanings": {
+        "bách": {
+            "Từ điển phổ thông": [
+                "cây hoàng bá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là 檗."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cây hoàng bá 黃蘗, dùng làm thuốc. Tục gọi là hoàng bá 黃柏."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Bách 薜. Một âm khác là Nghiệt."
+            ]
+        },
+        "nghiệt": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là 檗."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mầm cây."
+            ],
+            "compound_words": {
+                "飲冰茹蘗": "ẩm băng như nghiệt",
+                "葩蘗": "ba nghiệt",
+                "冰蘗": "băng nghiệt"
+            }
+        }
+    }
+}

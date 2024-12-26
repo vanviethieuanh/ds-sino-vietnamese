@@ -1,0 +1,99 @@
+{
+    "character": "濕",
+    "details": {
+        "Âm Hán Việt": [
+            "chập",
+            "sấp",
+            "thấp"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡㬎"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一フフ丶フフ丶丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "EAVF (水日女火)"
+        ],
+        "Unicode": [
+            "U+6FD5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qì ㄑㄧˋ",
+            "shī ㄕ",
+            "tà ㄊㄚˋ",
+            "xí ㄒㄧˊ"
+        ],
+        "Âm Nôm": [
+            "thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しめ.る (shime.ru)",
+            "しめ.す (shime.su)",
+            "うるお.う (uruo.u)",
+            "うるお.す (uruo.su)"
+        ],
+        "Âm Hàn": [
+            "습"
+        ],
+        "Âm Quảng Đông": [
+            "sap1"
+        ]
+    },
+    "meanings": {
+        "chập": {
+            "Từ điển Thiều Chửu": [
+                "Ướt, ẩm thấp.",
+                "Một âm là chập. Chập chập 濕濕 tai trâu ve vẩy."
+            ]
+        },
+        "sấp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sấp sấp 濕濕: Dáng vẻ vầy của tai trâu bò — Một âm khác là Thấp. Xem Thấp."
+            ]
+        },
+        "thấp": {
+            "Từ điển phổ thông": [
+                "ẩm ướt"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'thấp' 溼.",
+                "(Động) § Xem 'thấp thấp' 濕濕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ướt, ẩm thấp.",
+                "Một âm là chập. Chập chập 濕濕 tai trâu ve vẩy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 溼."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Thấp 溼."
+            ],
+            "compound_words": {
+                "風濕": "phong thấp",
+                "痺濕": "tê thấp",
+                "濕濕": "thấp thấp"
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "character": "墙",
+    "details": {
+        "Âm Hán Việt": [
+            "tường"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thổ 土 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土啬"
+        ],
+        "Nét bút": [
+            "一丨一一丨丶ノ一丨フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "GGCW (土土金田)"
+        ],
+        "Unicode": [
+            "U+5899"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiáng ㄑㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tường"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tường": {
+            "Từ điển phổ thông": [
+                "bức tường"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 墻.",
+                "Giản thể của chữ 牆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 墻"
+            ],
+            "compound_words": {
+                "城墙": "thành tường",
+                "围墙": "vi tường"
+            }
+        }
+    }
+}

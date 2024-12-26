@@ -1,0 +1,108 @@
+{
+    "character": "詳",
+    "details": {
+        "Âm Hán Việt": [
+            "dương",
+            "tường"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言羊"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "YRTQ (卜口廿手)"
+        ],
+        "Unicode": [
+            "U+8A73"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiáng ㄒㄧㄤˊ",
+            "yáng ㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くわ.しい (kuwa.shii)",
+            "つまび.らか (tsumabi.raka)"
+        ],
+        "Âm Hàn": [
+            "상",
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Giả vờ (như 佯, bộ 亻): 箕子詳狂 Cơ Tử giả khùng (Khuất Nguyên: Thiên vấn); 行十餘里，廣詳死 Đi được hơn mười dặm, Lí Quảng giả vờ chết (Sử kí: Lí tướng quân liệt truyện)."
+            ]
+        },
+        "tường": {
+            "Từ điển phổ thông": [
+                "rõ ràng, tường tận"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Biết rõ. ◇Đào Uyên Minh 陶淵明: 'Tiên sanh bất tri hà hử nhân dã, diệc bất tường kì tính tự' 先生不知何許人也, 亦不詳其姓字 (Ngũ liễu tiên sanh truyện 五柳先生傳) Ông không biết người đâu, cũng không rõ tên họ gì.",
+                "(Động) Giả vờ. ◇Sử Kí 史記: 'Tửu kí hàm, công tử Quang tường vi túc tật, nhập quật thất trung, sử Chuyên Chư trí chủy thủ ngư chá chi phúc trung nhi tiến chi' 酒既酣, 公子光詳為足疾, 入窟室中, 使專諸置匕首魚炙之腹中而進之 (Thích khách truyện 刺客傳, Chuyên Chư truyện 專諸傳) Rượu đến lúc ngà say vui chén, công tử Quang vờ như chân có tật, xuống nhà hầm, sai Chuyên Chư nhét cây chủy thủ vào bụng con cá nướng đem lên dâng.",
+                "(Phó) Kĩ càng, tỉ mỉ, đầy đủ. ◎Như: 'tường sát' 詳察 xem xét kĩ càng, 'tường đàm' 詳談 bàn bạc tỉ mỉ, 'tường thuật' 詳述 trình bày đầy đủ. ◇Sử Kí 史記: 'Thì hồ thì, bất tái lai. Nguyện túc hạ tường sát chi' 時乎時, 不再來. 願足下詳察之 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Cái thời! cái thời! qua rồi không trở lại. Xin túc hạ xét kĩ cho.",
+                "(Phó) Hết, đều, tất cả. ◇Hán Thư 漢書: 'Cố tường duyên đặc khởi chi sĩ, thứ ki hồ?' 故詳延特起之士, 庶幾乎 (Đổng Trọng Thư truyện 董仲舒傳) Cho nên mời hết những người tài đặc biệt, có lẽ được chăng?.",
+                "(Danh) Một lối văn trong hàng quan lại. Lời của quan dưới báo cáo với các quan trên gọi là 'tường văn' 詳文.",
+                "(Tính) Lành. § Cũng như 'tường' 祥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rõ ràng, tường tất, tường tận, nói đủ mọi sự không thiếu tí gì.",
+                "Một lối văn trong hàng quan lại. Lời của quan dưới báo cáo với các quan trên gọi là tường văn 詳文.",
+                "Hết.",
+                "Lành. Cũng như chữ tường 祥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tường tận, kĩ lưỡng, tỉ mỉ: 詳述 Trình bày tường tận; 内容不詳 Nội dung không rõ; 願足下詳察之 Mong túc hạ xem xét kĩ việc đó (Sử kí);",
+                "Nói rõ, kể rõ: 餘言後詳 Chuyện khác sẽ kể rõ ở thư sau (câu thường dùng ở cuối thư);",
+                "(văn) Biết rõ: 亦不詳其姓字 Cũng không biết rõ họ tên ông là gì (Đào Uyên Minh: Ngũ liễu tiên sinh truyện);",
+                "(văn) Thận trọng, cẩn thận: 詳刑慎法 Thận trọng việc hình pháp (Hậu Hán thư: Minh đế kỉ);",
+                "(văn) Ung dung, chậm rãi: 舉止詳妍 Cử chỉ ung dung tươi tỉnh (Đào Uyên Minh: Nhàn tình phú);",
+                "(văn) Công bằng;",
+                "(cũ) Một lối văn báo cáo thời xưa: 詳文 Lời của quan cấp dưới báo cáo với quan trên;",
+                "(văn) Hết, đều, tất cả: 故詳延特起之士，庶幾乎？ Cho nên mời rước hết những người tài đặc biệt, có lẽ được chăng! (Hán thư: Đổng Trọng Thư truyện);",
+                "(văn) Lành (như 祥, bộ 示)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tỏ rõ. Rõ ràng — Hiểu rõ. Biết rõ.  Đoạn trường tân thanh : » Vâng trình hội chủ xem tường «."
+            ],
+            "compound_words": {
+                "諳詳": "am tường",
+                "安詳": "an tường",
+                "不詳": "bất tường",
+                "端詳": "đoan tường",
+                "精詳": "tinh tường",
+                "詳盡": "tường tận",
+                "詳述": "tường thuật",
+                "詳呈": "tường trình",
+                "未詳": "vị tường"
+            }
+        }
+    }
+}

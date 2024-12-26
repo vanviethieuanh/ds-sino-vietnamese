@@ -1,0 +1,85 @@
+{
+    "character": "祀",
+    "details": {
+        "Âm Hán Việt": [
+            "tự"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "kỳ 示 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺭巳"
+        ],
+        "Nét bút": [
+            "丶フ丨丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "IFRU (戈火口山)"
+        ],
+        "Unicode": [
+            "U+7940"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sì ㄙˋ"
+        ],
+        "Âm Nôm": [
+            "tự"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まつ.る (matsu.ru)",
+            "まつり (matsuri)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "zi6"
+        ]
+    },
+    "meanings": {
+        "tự": {
+            "Từ điển phổ thông": [
+                "cúng tế",
+                "năm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tế, cúng, bái. ◇An Nam Chí Lược 安南志畧: 'Lạp nguyệt tự tổ' 臘月祀祖 (Phong tục 風俗) Tháng chạp cúng ông bà.",
+                "(Danh) Năm. ◎Như: 'nguyên tự' 元祀 năm thứ nhất. ◇Thư Kinh 書經: 'Duy thập hữu tam tự' 惟十有三祀 (Hồng phạm 洪範) Vào năm thứ mười ba.",
+                "(Danh) Đời, thế, đại. ◇Liễu Tông Nguyên 柳宗元: 'Bất truyền ư hậu tự' 不傳於後祀 (Dữ hữu nhân luận văn thư 與友人論文書) Không truyền lại đời sau.",
+                "(Danh) Chỗ thờ cúng. ◇Cựu Đường Thư 舊唐書: 'Cổ chi dụng binh, bất trảm tự' 古之用兵, 不斬祀 (Tiêu Phủ truyện 蕭俛傳) Ngày xưa dùng binh, không chém nơi thờ cúng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tế.",
+                "Năm, đầu năm gọi là nguyên tự 元祀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tế, cúng bái, lễ: 祀天 Tế trời; 祀祖 Cúng tổ tiên;",
+                "Năm: 元祀 Đầu năm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thờ cúng. Td: Tế tự — Một năm."
+            ],
+            "compound_words": {
+                "淫祀": "dâm tự",
+                "祭祀": "tế tự",
+                "祀田": "tự điền",
+                "祀器": "tự khí"
+            }
+        }
+    }
+}

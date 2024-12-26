@@ -1,0 +1,78 @@
+{
+    "character": "鷺",
+    "details": {
+        "Âm Hán Việt": [
+            "lộ"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱路鳥"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一ノフ丶丨フ一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "RRHAF (口口竹日火)"
+        ],
+        "Unicode": [
+            "U+9DFA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lù ㄌㄨˋ"
+        ],
+        "Âm Nôm": [
+            "lộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さぎ (sagi)"
+        ],
+        "Âm Hàn": [
+            "로",
+            "노"
+        ],
+        "Âm Quảng Đông": [
+            "lou6"
+        ]
+    },
+    "meanings": {
+        "lộ": {
+            "Từ điển phổ thông": [
+                "con cò"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Con cò. § Cũng gọi là “lộ tư” 鷺鷥 hay “bạch lộ” 白鷺."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con cò trắng. Cũng gọi là lộ tư 鷺鷥 hay bạch lộ 白鷺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Con cò: 鷺鷥 Cò trắng; 鷺亦羽蟲中之一 Cò cũng là một trong những loài có lông vũ (Nguyễn Công Trứ)."
+            ],
+            "compound_words": {
+                "鷗鷺": "âu lộ",
+                "鷗鷺忘機": "âu lộ vong cơ",
+                "白鷺": "bạch lộ",
+                "䳲鷺": "chấn lộ",
+                "鷺鷥": "lộ tư",
+                "鴛鷺": "uyên lộ"
+            }
+        }
+    }
+}

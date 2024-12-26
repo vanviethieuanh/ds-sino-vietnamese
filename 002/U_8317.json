@@ -1,0 +1,92 @@
+{
+    "character": "茗",
+    "details": {
+        "Âm Hán Việt": [
+            "minh",
+            "mính"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹名"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TNIR (廿弓戈口)"
+        ],
+        "Unicode": [
+            "U+8317"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "míng ㄇㄧㄥˊ",
+            "mǐng ㄇㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "mánh",
+            "minh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミョウ (myō)",
+            "メイ (mei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちゃ (cha)"
+        ],
+        "Âm Hàn": [
+            "명"
+        ],
+        "Âm Quảng Đông": [
+            "ming4",
+            "ming5"
+        ]
+    },
+    "meanings": {
+        "minh": {
+            "Từ điển phổ thông": [
+                "nõn chè, mầm chè",
+                "chè, trà"
+            ]
+        },
+        "mính": {
+            "Từ điển phổ thông": [
+                "nõn chè, mầm chè",
+                "chè, trà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trà hái muộn. § Cũng như 'xuyễn' 荈.",
+                "(Danh) Phiếm chỉ trà. ◎Như: 'hương mính' 香茗 trà thơm, trà hương.",
+                "(Tính) Ngày xưa đồng nghĩa với 'mính' 酩, xem 'mính đính' 酩酊."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nõn ché, mầm chè.",
+                "Thứ chè hái muộn cũng gọi là minh.",
+                "Chè, trà. Như hương minh 香茗 trà thơm, trà hương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nõn chè, mầm chè (trà). (Ngr) Chè, trà: 香茗 Chè hương, chè thơm; 品茗 Uống chè, uống trà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nõn trà. Lá trà non. Ta có người đọc là Dánh."
+            ],
+            "compound_words": {
+                "茗舖": "mính phố",
+                "茗園": "mính viên"
+            }
+        }
+    }
+}

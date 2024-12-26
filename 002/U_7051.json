@@ -1,0 +1,112 @@
+{
+    "character": "灑",
+    "details": {
+        "Âm Hán Việt": [
+            "si",
+            "sái",
+            "tẩy"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡麗"
+        ],
+        "Nét bút": [
+            "丶丶一一丨フ丶一丨フ丶丶一ノフ丨丨一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "EMMP (水一一心)"
+        ],
+        "Unicode": [
+            "U+7051"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "sǎ ㄙㄚˇ",
+            "shī ㄕ",
+            "xǐ ㄒㄧˇ",
+            "xiǎn ㄒㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "rợi",
+            "sái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)",
+            "サイ (sai)",
+            "サ (sa)",
+            "セ (se)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そそ.ぐ (soso.gu)"
+        ],
+        "Âm Hàn": [
+            "새",
+            "쇄"
+        ],
+        "Âm Quảng Đông": [
+            "saa2"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Si li 灑離 — Các âm khác là Sái, Tẩy. Xem các âm này."
+            ],
+            "compound_words": {
+                "灑離": "si li"
+            }
+        },
+        "sái": {
+            "Từ điển phổ thông": [
+                "rảy nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vẩy nước, tưới, rưới. ◎Như: 'sái thủy tảo địa' 灑水掃地 vẩy nước quét đất, 'hương thủy sái địa' 香水灑地 nước thơm rưới đất.",
+                "(Động) Phân tán, rải, rắc. ◎Như: 'thang sái liễu' 湯灑了 nước nóng tung tóe ra, 'hoa sanh sái liễu nhất địa' 花生灑了一地 đậu phọng rải rắc trên đất. ◇Đỗ Phủ 杜甫: 'Mao phi độ giang sái giang giao' 茅飛渡江灑江郊 (Mao ốc vi thu phong sở phá ca 茅屋為秋風所破歌) (Cỏ mái) tranh bay qua sông, rải khắp vùng ven sông.",
+                "(Động) Tung, ném. ◇Phan Nhạc 潘岳: 'Sái điếu đầu võng' 灑釣投網 (Tây chinh phú 西征賦) Ném câu quăng lưới.",
+                "(Động) Vung bút, vẫy bút (viết, vẽ). ◎Như: 'huy sái' 揮灑 vẫy bút.",
+                "(Tính) Tự nhiên không bó buộc. ◎Như: 'sái lạc' 灑落, 'sái thoát' 灑脫, 'tiêu sái' 瀟灑 đều nghĩa là tiêu dao tự tại, không bị ràng buộc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vẩy nước.",
+                "Sái nhiên 灑然 giật mình, tả cái dáng kinh hoàng.",
+                "Tự nhiên không bó buộc, như sai lạc 灑落, sái thoát 灑脫 đều nghĩa là tiêu dao tự tại, không vướng vít vào cái gì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 洒 (1)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tưới nước, rưới nước cho thấm ướt. Truyện  Nhị độ mai  có câu: » Móc mưa xin sái cổ truyền « — Không bị ràng buộc. Thảnh thơi nhàn hạ. Hát nói của Nguyễn Công Trứ có câu: » Mùi tiêu sái với trần gian dễ mấy « — Sái đậu thành binh 洒 ( cũng viết là 灑 ) 豆成兵: Rãy hột đậu thành ra binh. » Phép hay sái đậu thành binh «. ( Lục Vân Tiên )."
+            ],
+            "compound_words": {
+                "灑落": "sái lạc",
+                "灑淚": "sái lệ",
+                "灑淚雨": "sái lệ vũ",
+                "灑然": "sái nhiên",
+                "灑掃": "sái tảo",
+                "灑脫": "sái thoát",
+                "消灑": "tiêu sái",
+                "蕭灑": "tiêu sái"
+            }
+        },
+        "tẩy": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như hai chữ Tẩy 洗 — Các âm khác là Sái, Si. Xem các âm này."
+            ]
+        }
+    }
+}

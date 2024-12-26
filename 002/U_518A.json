@@ -1,0 +1,79 @@
+{
+    "character": "冊",
+    "details": {
+        "Âm Hán Việt": [
+            "sách"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "quynh 冂 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "BT (月廿)"
+        ],
+        "Unicode": [
+            "U+518A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ"
+        ],
+        "Âm Nôm": [
+            "sách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)",
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふみ (fumi)"
+        ],
+        "Âm Hàn": [
+            "책"
+        ],
+        "Âm Quảng Đông": [
+            "caak3"
+        ]
+    },
+    "meanings": {
+        "sách": {
+            "Từ điển phổ thông": [
+                "quyển sách, sổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngày xưa ghép thẻ tre viết chữ thành quyển gọi là 'sách' 冊.",
+                "(Danh) Phiếm chỉ thư tịch. ◎Như: 'họa sách' 畫冊 sách vẽ.",
+                "(Danh) Lượng từ: đơn vị kế toán số lượng thư bổn. ◎Như: 'đệ nhị sách' 第二冊 quyển hai.",
+                "(Danh) Văn thư của vua để tế thần (ngày xưa).",
+                "(Danh) Chiếu thư của vua để phong tặng.",
+                "(Danh) Mưu kế. § Thông 'sách' 策.",
+                "(Phó) Danh phận chưa được chính thức xác lập (thời cổ). ◇Vương Minh Thanh 王明清: 'Sách vi chánh thất' 冊為正室 (Chích thanh tạp thuyết 摭青雜說) Làm chính thất chưa chính thức.",
+                "(Động) Phong, sách phong. ◇Chu Thư 周書: 'Hậu dữ Trần hậu đồng thì bị tuyển nhập cung, câu bái vi phi, cập thăng hậu vị, hựu đồng nhật thụ sách' 后與陳后同時被選入宮, 俱拜為妃, 及升后位, 又同日受冊 (Tuyên đế nguyên hoàng hậu 宣帝元皇后) Hậu cùng Trần hậu đồng thời được tuyển vào cung, đều được cho làm phi, thăng lên chức vị là hậu, lại cùng ngày được thụ phong.",
+                "(Động) Giúp đỡ, phù trợ. § Thông 'sách' 策.",
+                "§ Cũng viết là 册."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Sách 册."
+            ],
+            "compound_words": {
+                "註冊": "chú sách",
+                "名冊": "danh sách",
+                "冊命": "sách mệnh",
+                "手冊": "thủ sách"
+            }
+        }
+    }
+}

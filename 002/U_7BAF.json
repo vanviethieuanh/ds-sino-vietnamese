@@ -1,0 +1,68 @@
+{
+    "character": "箯",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trúc 竹 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮便"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丨一丨フ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HOMK (竹人一大)"
+        ],
+        "Unicode": [
+            "U+7BAF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "biān ㄅㄧㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たけごし (takegoshi)"
+        ],
+        "Âm Quảng Đông": [
+            "bin1"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "(xem: tiên dư 箯輿,箯舆)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Xe kiệu làm bằng tre. ◎Như: 'tiên dư' 箯輿 xe làm bằng tre.",
+                "(Danh) Khí cụ đựng cơm làm bằng tre. § Thứ lớn gọi là 'tiên' 箯, thứ nhỏ gọi là 'cử' 筥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiên dư 箯輿 cái xe đan bằng tre."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ghế kiệu đan bằng tre: 箯輿 Xe đan bằng tre."
+            ],
+            "compound_words": {
+                "箯舆": "tiên dư",
+                "箯輿": "tiên dư"
+            }
+        }
+    }
+}

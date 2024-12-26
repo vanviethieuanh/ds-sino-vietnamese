@@ -1,0 +1,77 @@
+{
+    "character": "噸",
+    "details": {
+        "Âm Hán Việt": [
+            "đốn"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口頓"
+        ],
+        "Nét bút": [
+            "丨フ一一フ丨フ一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RPUC (口心山金)"
+        ],
+        "Unicode": [
+            "U+5678"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dūn ㄉㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "đốn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トン (ton)"
+        ],
+        "Âm Hàn": [
+            "톤"
+        ],
+        "Âm Quảng Đông": [
+            "deon1"
+        ]
+    },
+    "meanings": {
+        "đốn": {
+            "Từ điển phổ thông": [
+                "tấn Anh (đơn vị đo khối lượng, bằng 1720 cân Trung Quốc)",
+                "tấn (đơn vị đo dung tích, bằng 40 mét khối)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Lượng từ: “đốn” dịch âm chữ \"ton\" (tiếng Anh). (1) Đơn vị trọng lượng, mỗi “đốn” là 1000 kg (một tấn). (2) Đơn vị dung lượng, mỗi “đốn” là 100 thước khối (thước Anh). (3) Đơn vị kế toán sức chuyên chở hàng hóa của thuyền, tàu, mỗi “đốn” là 40 thước khối (thước Anh)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðốn, dịch âm chữ Ton của nước Anh nước Mĩ, mỗi một đốn là 1702 cân nước Tầu.",
+                "Dùng để tính xem tầu chở được bao nhiêu gọi là đốn. Mỗi đốn là 40 thước vuông đứng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tấn (= 1.000 kg). Cv. 公噸 [gongdun];",
+                "Tấn Anh (= 2.240 pao = 1.016 kg), tấn Mĩ (= 2.000 pao = 907, 18 kg);",
+                "Trọng tải của tàu bè."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một đơn vị trọng lượng, tức một tấn ( ton )."
+            ],
+            "compound_words": {
+                "公噸": "công đốn",
+                "噸數": "đốn số"
+            }
+        }
+    }
+}

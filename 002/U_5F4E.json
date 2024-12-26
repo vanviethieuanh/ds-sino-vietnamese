@@ -1,0 +1,85 @@
+{
+    "character": "彎",
+    "details": {
+        "Âm Hán Việt": [
+            "loan"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "cung 弓 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱䜌弓"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フフ丶丶丶丶フフ丶丶丶丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "VFN (女火弓)"
+        ],
+        "Unicode": [
+            "U+5F4E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wān ㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "loan",
+            "thoăn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワン (wan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "waan1"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển phổ thông": [
+                "cong, ngoằn ngoèo",
+                "chỗ ngoặt, chỗ cong, quanh co",
+                "cúi, cong, còng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giương cung. ◇Lí Bạch 李白: 'Trạc ỷ thiên chi kiếm, Loan lạc nguyệt chi cung' 擢倚天之劍, 彎落月之弓 (Đại liệp phú 大獵賦) Giơ kiếm chống ngang trời, Giương cung bắn rụng trăng.",
+                "(Động) Uốn cong, khom. ◎Như: 'loan yêu' 彎腰 khom lưng.",
+                "(Động) Đỗ, đậu, ngừng ở bến. ◎Như: 'loan liễu thuyền' 彎了船 đỗ thuyền lại.",
+                "(Tính) Cong, ngoằn ngoèo. ◎Như: 'loan lộ' 彎路 đường ngoằn ngoèo, 'loan cung ngạnh nỗ' 彎弓硬弩 cung cong nỏ cứng.",
+                "(Danh) Khúc quanh, chỗ quanh co. § Cũng gọi là 'loan tử' 彎子. ◇Ba Kim 巴金: 'Tha môn chuyển nhất cá tiểu loan tẩu đáo thủy các đích chánh môn tiền' 他們轉一個小彎走到水閣的正門前 (Gia 家, Nhị thập) Họ đi vòng sang một khúc quanh nhỏ đến trước cửa chính tòa lầu gác bên bờ nước.",
+                "(Danh) Lượng từ: dùng cho vật hình cong. ◇Ba Kim 巴金: 'Nhất loan tân nguyệt cao cao địa quải tại thiên không' 一彎新月高高地挂在天空 (Gia 家, Nhị thập) Một vành trăng mới treo cao trên bầu trời."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cong, ngoằn ngoèo: 彎路 Đường cong;",
+                "Chỗ ngoặt, chỗ cong, quanh co: 這根竹竿有個彎兒 Cây sào này có chỗ cong; 轉彎抹角 Úp mở quanh co, nói quanh nói co;",
+                "Cúi, cong, còng: 彎着腰 Cúi lưng, còng lưng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cầm cây cung. Giương cung — Khúc quanh."
+            ],
+            "compound_words": {
+                "盤馬彎弓": "bàn mã loan cung",
+                "彎曲": "loan khúc",
+                "彎腰": "loan yêu",
+                "拐彎": "quải loan"
+            }
+        }
+    }
+}

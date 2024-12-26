@@ -1,0 +1,80 @@
+{
+    "character": "棱",
+    "details": {
+        "Âm Hán Việt": [
+            "lăng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木夌"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨一ノ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "DGCE (木土金水)"
+        ],
+        "Unicode": [
+            "U+68F1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lēng ㄌㄥ",
+            "léng ㄌㄥˊ",
+            "lèng ㄌㄥˋ",
+            "líng ㄌㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dừng",
+            "lăng",
+            "rừng",
+            "săng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "リョウ (ryō)",
+            "チョウ (chō)"
+        ],
+        "Âm Quảng Đông": [
+            "ling4"
+        ]
+    },
+    "meanings": {
+        "lăng": {
+            "Từ điển phổ thông": [
+                "oai linh",
+                "góc, cạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng như chữ “lăng” 稜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ lăng 稜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên huyện: 穆棱縣 Huyện Mục Lăng (ở Hắc Long Giang, Trung Quốc). Xem 棱 [léng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Góc cạnh ( Nguyên nghĩa là cây có cành mọc ra bốn góc )."
+            ],
+            "compound_words": {
+                "棱角": "lăng giác",
+                "棱鏡": "lăng kính",
+                "六棱": "lục lăng"
+            }
+        }
+    }
+}

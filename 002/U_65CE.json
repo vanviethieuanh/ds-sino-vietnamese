@@ -1,0 +1,86 @@
+{
+    "character": "旎",
+    "details": {
+        "Âm Hán Việt": [
+            "ni",
+            "nỉ",
+            "nị"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phương 方 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰方⿱𠂉尼"
+        ],
+        "Nét bút": [
+            "丶一フノノ一フ一ノノフ"
+        ],
+        "Thương Hiệt": [
+            "YSOSP (卜尸人尸心)"
+        ],
+        "Unicode": [
+            "U+65CE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "nǐ ㄋㄧˇ"
+        ],
+        "Âm Nôm": [
+            "nể"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)",
+            "ニ (ni)",
+            "ダ (da)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たなび.く (tanabi.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "nei5"
+        ]
+    },
+    "meanings": {
+        "ni": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phất phơ mềm mại. Cũng nói: Ni nỉ."
+            ],
+            "compound_words": {
+                "旖旎": "y ni"
+            }
+        },
+        "nỉ": {
+            "Từ điển phổ thông": [
+                "(xem: ỷ nỉ 旖旎)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Xem “y nỉ” 旖旎."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Y nỉ 旖旎 cờ bay phấp phới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 旖旎 [yênê]."
+            ],
+            "compound_words": {
+                "旖旎": "ỷ nỉ"
+            }
+        },
+        "nị": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 旖旎 [yênê]."
+            ]
+        }
+    }
+}

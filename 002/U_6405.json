@@ -1,0 +1,66 @@
+{
+    "character": "搅",
+    "details": {
+        "Âm Hán Việt": [
+            "giảo"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘觉"
+        ],
+        "Nét bút": [
+            "一丨一丶丶ノ丶フ丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "QFBU (手火月山)"
+        ],
+        "Unicode": [
+            "U+6405"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎo ㄐㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "giao"
+        ],
+        "Âm Quảng Đông": [
+            "gaau2"
+        ]
+    },
+    "meanings": {
+        "giảo": {
+            "Từ điển phổ thông": [
+                "quấy, đảo",
+                "quấy rối, làm loạn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 攪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 攪"
+            ],
+            "compound_words": {
+                "搅拌": "giảo bạn",
+                "搅动": "giảo động",
+                "搅和": "giảo hoà",
+                "搅混": "giảo hỗn",
+                "搅乱": "giảo loạn",
+                "搅扰": "giảo nhiễu"
+            }
+        }
+    }
+}

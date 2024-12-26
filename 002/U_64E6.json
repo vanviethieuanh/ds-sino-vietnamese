@@ -1,0 +1,94 @@
+{
+    "character": "擦",
+    "details": {
+        "Âm Hán Việt": [
+            "sát"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thủ 手 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘察"
+        ],
+        "Nét bút": [
+            "一丨一丶丶フノフ丶丶フ丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QJBF (手十月火)"
+        ],
+        "Unicode": [
+            "U+64E6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cā ㄘㄚ"
+        ],
+        "Âm Nôm": [
+            "sát",
+            "xát",
+            "xớt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.る (su.ru)",
+            "す.れる (su.reru)",
+            "-ず.れ (-zu.re)",
+            "こす.る (kosu.ru)",
+            "こす.れる (kosu.reru)"
+        ],
+        "Âm Hàn": [
+            "찰"
+        ],
+        "Âm Quảng Đông": [
+            "caat3"
+        ]
+    },
+    "meanings": {
+        "sát": {
+            "Từ điển phổ thông": [
+                "xoa, xát"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xoa, xát. ◎Như: 'sát chưởng' 擦掌 xoa tay.",
+                "(Động) Lau chùi. ◎Như: 'sát bì hài' 擦皮鞋 đánh giày da.",
+                "(Động) Bôi, thoa. ◎Như: 'sát dược' 擦藥 bôi thuốc, 'sát du' 擦油 thoa dầu.",
+                "(Động) Sát gần. ◎Như: 'sát thân nhi quá' 擦身而過 sát vào người mà đi qua.",
+                "(Danh) Dụng cụ để chà xát. ◎Như: 'tượng bì sát' 橡皮擦 cục tẩy, cục gôm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xoa, xát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lau, chùi, đánh, xoa xát: 擦桌子 Lau bàn; 擦腳 Chùi chân; 擦皮鞋 Đánh giày;",
+                "Sây, sây sát, trầy: 擦破了皮 Trầy cả da;",
+                "Sát: 擦着屋簷飛過 Bay sát mái hiên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cọ, mài. Như chữ Sát 摋."
+            ],
+            "compound_words": {
+                "摩擦": "ma sát",
+                "擦音": "sát âm",
+                "擦掉": "sát điệu",
+                "擦写": "sát tả",
+                "擦寫": "sát tả",
+                "擦澡": "sát táo",
+                "擦洗": "sát tẩy",
+                "擦拭": "sát thức"
+            }
+        }
+    }
+}

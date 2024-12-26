@@ -1,0 +1,71 @@
+{
+    "character": "钉",
+    "details": {
+        "Âm Hán Việt": [
+            "đinh",
+            "đính"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "kim 金 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰钅丁"
+        ],
+        "Nét bút": [
+            "ノ一一一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "XCMN (重金一弓)"
+        ],
+        "Unicode": [
+            "U+9489"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dīng ㄉㄧㄥ",
+            "dìng ㄉㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đinh"
+        ],
+        "Âm Quảng Đông": [
+            "deng1",
+            "ding1"
+        ]
+    },
+    "meanings": {
+        "đinh": {
+            "Từ điển phổ thông": [
+                "cái đinh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 釘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 釘"
+            ],
+            "compound_words": {
+                "螺钉": "loa đinh"
+            }
+        },
+        "đính": {
+            "Từ điển phổ thông": [
+                "đóng đinh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 釘"
+            ]
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "character": "掃",
+    "details": {
+        "Âm Hán Việt": [
+            "táo",
+            "tảo"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘帚"
+        ],
+        "Nét bút": [
+            "一丨一フ一一丶フ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "QSMB (手尸一月)"
+        ],
+        "Unicode": [
+            "U+6383"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sǎo ㄙㄠˇ",
+            "sào ㄙㄠˋ"
+        ],
+        "Âm Nôm": [
+            "tảo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.く (ha.ku)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "sou2",
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "táo": {
+            "Từ điển trích dẫn": [
+                "(Động) Quét. ◎Như: 'sái tảo' 洒掃 vẩy nước quét nhà. ◇Bạch Cư Dị 白居易: 'Lạc diệp mãn giai hồng bất tảo' 落葉滿階紅不掃 (Trường hận ca 長恨歌) Lá rụng đỏ đầy thềm không ai quét. Tản Đà dịch thơ: Đầy thềm ai quét lá hồng thu rơi.",
+                "(Động) Tiêu trừ, tiêu diệt. ◇Trương Hành 張衡: 'Tảo Hạng quân ư Cai Hạ' 掃項軍於垓下 (Đông Kinh phú 東京賦) Quét sạch quân Hạng Vũ ở Cai Hạ.",
+                "(Động) Tô, trát. ◇Đỗ Phủ 杜甫: 'Khước hiềm chi phấn ô nhan sắc, Đạm tảo nga mi triều chí tôn' 卻嫌脂粉涴顏色, 淡掃娥眉朝至尊 (Quắc quốc phu nhân 虢國夫人) Nhưng ngại phấn son nhơ nhan sắc, Tô nhạt mày ngài chầu đấng chí tôn.",
+                "(Động) Lướt qua. ◎Như: 'dụng nhãn tình nhất tảo' 用眼睛一掃 nhìn lướt qua một lượt.",
+                "(Động) Bại, tiêu mất. ◎Như: 'tảo hứng' 掃興 bại hứng.",
+                "(Động) Vẽ, viết. ◇Lí Bạch 李白: 'Tu du tảo tận sổ thiên trương' 須臾掃盡數千張 (Thảo thư ca hành 草書歌行) Trong khoảnh khắc viết xong cả ngàn trang.",
+                "(Động) Xong hết. ◎Như: 'tảo số' 掃數 tính xong các số rồi.",
+                "(Danh) Phu đê lấy rơm ra đánh từng mảng để hộ đê gọi là 'tảo tử' 掃子.",
+                "Một âm là 'táo'. (Danh) § Xem 'táo trửu' 掃帚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【掃帚】táo trửu [sàozhou] Cái chổi. Xem 掃 [săo]."
+            ],
+            "compound_words": {
+                "掃帚": "táo trửu"
+            }
+        },
+        "tảo": {
+            "Từ điển phổ thông": [
+                "quét",
+                "cái chổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quét. ◎Như: 'sái tảo' 洒掃 vẩy nước quét nhà. ◇Bạch Cư Dị 白居易: 'Lạc diệp mãn giai hồng bất tảo' 落葉滿階紅不掃 (Trường hận ca 長恨歌) Lá rụng đỏ đầy thềm không ai quét. Tản Đà dịch thơ: Đầy thềm ai quét lá hồng thu rơi.",
+                "(Động) Tiêu trừ, tiêu diệt. ◇Trương Hành 張衡: 'Tảo Hạng quân ư Cai Hạ' 掃項軍於垓下 (Đông Kinh phú 東京賦) Quét sạch quân Hạng Vũ ở Cai Hạ.",
+                "(Động) Tô, trát. ◇Đỗ Phủ 杜甫: 'Khước hiềm chi phấn ô nhan sắc, Đạm tảo nga mi triều chí tôn' 卻嫌脂粉涴顏色, 淡掃娥眉朝至尊 (Quắc quốc phu nhân 虢國夫人) Nhưng ngại phấn son nhơ nhan sắc, Tô nhạt mày ngài chầu đấng chí tôn.",
+                "(Động) Lướt qua. ◎Như: 'dụng nhãn tình nhất tảo' 用眼睛一掃 nhìn lướt qua một lượt.",
+                "(Động) Bại, tiêu mất. ◎Như: 'tảo hứng' 掃興 bại hứng.",
+                "(Động) Vẽ, viết. ◇Lí Bạch 李白: 'Tu du tảo tận sổ thiên trương' 須臾掃盡數千張 (Thảo thư ca hành 草書歌行) Trong khoảnh khắc viết xong cả ngàn trang.",
+                "(Động) Xong hết. ◎Như: 'tảo số' 掃數 tính xong các số rồi.",
+                "(Danh) Phu đê lấy rơm ra đánh từng mảng để hộ đê gọi là 'tảo tử' 掃子.",
+                "Một âm là 'táo'. (Danh) § Xem 'táo trửu' 掃帚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quét, như sái tảo 洒掃 vẩy nước quét nhà.",
+                "Xong hết, như tảo số 掃數 tính xong các số rồi.",
+                "Phu đê lấy rơm ra đánh từng mảng để hộ đê gọi là tảo tử 掃子."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quét: 掃 地 Quét nhà;",
+                "Mất: 掃興 Mất hứng, cụt hứng;",
+                "Thanh toán, trừ sạch, quét sạch: 掃除文盲 Thanh toán nạn mù chữ;",
+                "Lướt qua: 用眼睛一掃 Nhìn lướt qua một lượt; 他向教室掃了一眼 Ông ta nhìn lướt qua phòng học;",
+                "Toàn bộ: 掃數歸還 Trả lại toàn bộ;",
+                "(văn) Vẽ (lông mày...): 淡掃蛾眉 Mày ngài vẽ nhạt;",
+                "(văn) Dồn lại, gom lại: 大王宜掃淮南之眾，日夜會戰彭城下 Đại vương nên gom quân lính ở Hoài Nam lại, ngày đêm đánh nhau ở dưới Bành Thành (Hán thư);",
+                "(văn) Vơ vét nhanh rồi đi qua;",
+                "(văn) Cúng bái. Xem 掃 [sào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quét sạch — Trừ cho hết."
+            ],
+            "compound_words": {
+                "打掃": "đả tảo",
+                "橫掃": "hoành tảo",
+                "拂掃": "phất tảo",
+                "灑掃": "sái tảo",
+                "掃滅": "tảo diệt",
+                "掃地": "tảo địa",
+                "掃毒": "tảo độc",
+                "掃墓": "tảo mộ",
+                "掃愁": "tảo sầu",
+                "掃清": "tảo thanh",
+                "掃除": "tảo trừ",
+                "掃帚": "tảo trửu",
+                "掃彗": "tảo tuệ",
+                "汛掃": "tấn tảo"
+            }
+        }
+    }
+}

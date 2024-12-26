@@ -1,0 +1,71 @@
+{
+    "character": "殗",
+    "details": {
+        "Âm Hán Việt": [
+            "yêm",
+            "yếp",
+            "yểm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹奄"
+        ],
+        "Nét bút": [
+            "一ノフ丶一ノ丶丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "MNKLU (一弓大中山)"
+        ],
+        "Unicode": [
+            "U+6B97"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yè ㄜˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "オウ (ō)",
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.む (ya.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "jip3"
+        ]
+    },
+    "meanings": {
+        "yêm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chết vì bệnh tật — Bị giết chết — Các âm khác là Yểm, Yếp. Xem các âm này."
+            ]
+        },
+        "yếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh hoạn — Các âm khác là Yêm, Yểm. Xem các âm này."
+            ],
+            "compound_words": {
+                "殗殜": "yếp điệp"
+            }
+        },
+        "yểm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhơ bẩn — Xấu xa bẩn thỉu — Các âm khác là Yêm, Yếp. Xem các âm này."
+            ]
+        }
+    }
+}

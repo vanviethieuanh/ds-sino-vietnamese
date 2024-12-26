@@ -1,0 +1,114 @@
+{
+    "character": "体",
+    "details": {
+        "Âm Hán Việt": [
+            "bổn",
+            "thể"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻本"
+        ],
+        "Nét bút": [
+            "ノ丨一丨ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "ODM (人木一)"
+        ],
+        "Unicode": [
+            "U+4F53"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bèn ㄅㄣˋ",
+            "tī ㄊㄧ",
+            "tǐ ㄊㄧˇ"
+        ],
+        "Âm Nôm": [
+            "thấy",
+            "thể"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)",
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "からだ (karada)",
+            "かたち (katachi)"
+        ],
+        "Âm Hàn": [
+            "체",
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "ban6",
+            "tai2"
+        ]
+    },
+    "meanings": {
+        "bổn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ ngu đần."
+            ],
+            "compound_words": {
+                "体夫": "bổn phu"
+            }
+        },
+        "thể": {
+            "Từ điển phổ thông": [
+                "thân, mình",
+                "hình thể",
+                "dạng"
+            ],
+            "Từ điển trích dẫn": [
+                "Một dạng của chữ 體.",
+                "Giản thể của chữ 體."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chính là chữ bản 笨 nặng nề, tục mượn viết thay chữ thể 體, gọi là chữ thể đơn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【體己】thể kỉ [tiji] Của riêng. Cg. 梯己 [tiji];",
+                "Thân cận: 體己人 Người thân cận. Xem 體 [tê]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Thể 骵."
+            ],
+            "compound_words": {
+                "本体": "bản thể",
+                "扁桃体": "biển đào thể",
+                "扁桃体炎": "biển đào thể viêm",
+                "整体": "chỉnh thể",
+                "主体": "chủ thể",
+                "固体": "cố thể",
+                "肌体": "cơ thể",
+                "具体": "cụ thể",
+                "刚体": "cương thể",
+                "液体": "dịch thể",
+                "大体": "đại thể",
+                "团体": "đoàn thể",
+                "觧体": "giải thể",
+                "抗体": "kháng thể",
+                "媒体": "môi thể",
+                "身体": "thân thể",
+                "体栽": "thể tài",
+                "尸体": "thi thể",
+                "实体": "thực thể",
+                "星体": "tinh thể"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "彡",
+    "details": {
+        "Âm Hán Việt": [
+            "sam",
+            "tiệm"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "sam 彡 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノノノ"
+        ],
+        "Thương Hiệt": [
+            "HHH (竹竹竹)"
+        ],
+        "Unicode": [
+            "U+5F61"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ",
+            "xiān ㄒㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "sam"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "삼"
+        ],
+        "Âm Quảng Đông": [
+            "saam1"
+        ]
+    },
+    "meanings": {
+        "sam": {
+            "Từ điển phổ thông": [
+                "lông dài"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lông dài.",
+                "Một âm là 'tiệm'. (Danh) 'Tiệm Tả' 彡姐 tên họ kép của tộc Khương 羌 ngày xưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lông dài.",
+                "Một âm là tiệm. Tiệm thả 彡姐 tên họ, giống rợ Khương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lông dài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Những sợi lông dài — Vằn. Nét vằn vện — Tên một bộ chữ Trung Hoa, tức bộ Sam."
+            ]
+        },
+        "tiệm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Lông dài.",
+                "Một âm là 'tiệm'. (Danh) 'Tiệm Tả' 彡姐 tên họ kép của tộc Khương 羌 ngày xưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lông dài.",
+                "Một âm là tiệm. Tiệm thả 彡姐 tên họ, giống rợ Khương."
+            ]
+        }
+    }
+}

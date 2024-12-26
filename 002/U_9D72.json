@@ -1,0 +1,81 @@
+{
+    "character": "鵲",
+    "details": {
+        "Âm Hán Việt": [
+            "thước"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰昔鳥"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TAHAF (廿日竹日火)"
+        ],
+        "Unicode": [
+            "U+9D72"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "què ㄑㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャク (shaku)",
+            "ジャク (jaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かささぎ (kasasagi)"
+        ],
+        "Âm Hàn": [
+            "작"
+        ],
+        "Âm Quảng Đông": [
+            "coek3",
+            "zoek3"
+        ]
+    },
+    "meanings": {
+        "thước": {
+            "Từ điển phổ thông": [
+                "chim hỉ thước, chim khách, chim bồ các"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Con chim bồ các, chim khách. § Tục bảo nó kêu là báo điềm lành nên gọi là “hỉ thước” 喜鵲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con chim bồ các, chim khách. Tục bảo nó kêu là báo điềm lành nên gọi là hỉ thước 喜鵲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim khách. Cg. 喜鵲 [xêquè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chim khách, thường kêu lên báo tin khách xa tới hoặc người xa về. Bản dịch  Chinh phụ ngâm khúc : » Ngoài rèm thước chẳng mách tin «."
+            ],
+            "compound_words": {
+                "扁鵲": "biển thước",
+                "鳷鵲": "chi thước",
+                "鳩居鵲巢": "cưu cư thước sào",
+                "喜鵲": "hỉ thước",
+                "烏鵲": "ô thước"
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "character": "构",
+    "details": {
+        "Âm Hán Việt": [
+            "cấu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木勾"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "DPI (木心戈)"
+        ],
+        "Unicode": [
+            "U+6784"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gōu ㄍㄡ",
+            "gòu ㄍㄡˋ"
+        ],
+        "Âm Nôm": [
+            "cấu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かま.える (kama.eru)",
+            "かま.う (kama.u)"
+        ],
+        "Âm Quảng Đông": [
+            "gau3",
+            "kau3"
+        ]
+    },
+    "meanings": {
+        "cấu": {
+            "Từ điển phổ thông": [
+                "làm ra, tạo ra, xây dựng",
+                "tác phẩm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 構."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 構"
+            ],
+            "compound_words": {
+                "构件": "cấu kiện",
+                "构造": "cấu tạo",
+                "构成": "cấu thành",
+                "构想": "cấu tưởng",
+                "机构": "cơ cấu",
+                "结构": "kết cấu"
+            }
+        }
+    }
+}

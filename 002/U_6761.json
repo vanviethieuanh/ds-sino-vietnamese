@@ -1,0 +1,98 @@
+{
+    "character": "条",
+    "details": {
+        "Âm Hán Việt": [
+            "thiêu",
+            "điêu",
+            "điều"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mộc 木 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱夂木"
+        ],
+        "Nét bút": [
+            "ノフ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HED (竹水木)"
+        ],
+        "Unicode": [
+            "U+6761"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tiáo ㄊㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "điều"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "チョウ (chō)",
+            "デキ (deki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えだ (eda)",
+            "すじ (suji)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "tiu4"
+        ]
+    },
+    "meanings": {
+        "thiêu": {
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'điều' 條.",
+                "Giản thể của chữ 條."
+            ]
+        },
+        "điêu": {
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'điều' 條.",
+                "Giản thể của chữ 條."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ điều 條."
+            ]
+        },
+        "điều": {
+            "Từ điển phổ thông": [
+                "điều khoản, khoản mục",
+                "sọc, vằn, sợi",
+                "cành cây"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'điều' 條.",
+                "Giản thể của chữ 條."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 條"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết tắt của chữ Điều 條."
+            ],
+            "compound_words": {
+                "条款": "điều khoản",
+                "条件": "điều kiện",
+                "条例": "điều lệ",
+                "条约": "điều ước"
+            }
+        }
+    }
+}

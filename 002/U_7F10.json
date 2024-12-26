@@ -1,0 +1,52 @@
+{
+    "character": "缐",
+    "details": {
+        "Âm Hán Việt": [
+            "tuyến"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mịch 糸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟泉"
+        ],
+        "Nét bút": [
+            "フフ一ノ丨フ一一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMHAE (女一竹日水)"
+        ],
+        "Unicode": [
+            "U+7F10"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xiàn ㄒㄧㄢˋ"
+        ]
+    },
+    "meanings": {
+        "tuyến": {
+            "Từ điển phổ thông": [
+                "đường, tia"
+            ],
+            "compound_words": {
+                "航缐": "hàng tuyến",
+                "有缐": "hữu tuyến",
+                "曲缐": "khúc tuyến",
+                "路缐": "lộ tuyến",
+                "直缐": "trực tuyến"
+            }
+        }
+    }
+}

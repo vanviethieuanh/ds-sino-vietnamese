@@ -1,0 +1,81 @@
+{
+    "character": "胭",
+    "details": {
+        "Âm Hán Việt": [
+            "yên"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月因"
+        ],
+        "Nét bút": [
+            "ノフ一一丨フ一ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "BWK (月田大)"
+        ],
+        "Unicode": [
+            "U+80ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yān ㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "nhân",
+            "yên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "エン (en)",
+            "エツ (etsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むせ.ぶ (muse.bu)",
+            "むせ.る (muse.ru)",
+            "のど (nodo)",
+            "の.む (no.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "jin1"
+        ]
+    },
+    "meanings": {
+        "yên": {
+            "Từ điển phổ thông": [
+                "(xem: yên chi 胭脂,臙脂)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Yên chi' 胭脂 phấn, đàn bà xoa lên má, lên môi để trang sức. § Nguyên viết là 燕支. Có khi viết là 燕脂 hay 臙脂. Tục gọi tắt là 'chi' 脂. ◎Như: 'chi phấn' 脂粉 phấn sáp.",
+                "§ Thông 'yết' 咽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cùng nghĩa với chữ yết 咽.",
+                "Yên chi Yên chi 燕脂 phấn, đàn bà dùng để làm dáng. Nguyên viết là 燕支. Có khi viết là 胭脂 hay 臙脂. Tục gọi tắt là chi 脂, như chi phấn 脂粉 phấn sáp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 胭."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cổ họng — Xem Yên chi 胭脂."
+            ],
+            "compound_words": {
+                "胭脂": "yên chi",
+                "胭脂虎": "yên chi hổ"
+            }
+        }
+    }
+}

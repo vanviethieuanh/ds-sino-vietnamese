@@ -1,0 +1,109 @@
+{
+    "character": "缸",
+    "details": {
+        "Âm Hán Việt": [
+            "ang",
+            "cang",
+            "cương",
+            "hang"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "phũ 缶 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰缶工"
+        ],
+        "Nét bút": [
+            "ノ一一丨フ丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "OUM (人山一)"
+        ],
+        "Unicode": [
+            "U+7F38"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gāng ㄍㄤ",
+            "hóng ㄏㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "cong",
+            "hồng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かめ (kame)"
+        ],
+        "Âm Hàn": [
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "gong1"
+        ]
+    },
+    "meanings": {
+        "ang": {
+            "Từ điển phổ thông": [
+                "cái ang, vại, sành, cái chum to"
+            ],
+            "compound_words": {
+                "缸面酒": "hang diện tửu"
+            }
+        },
+        "cang": {
+            "Từ điển phổ thông": [
+                "cái ang, vại, sành, cái chum to"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vại, ang, chum. ◎Như: 'thủy hang' 水缸 vại nước.",
+                "§ Cũng đọc là 'cang'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái ang, cái chum to. Cũng đọc là chữ cang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vại, ang, chum to: 水缸 Vại nước; 茄缸 Vại cà."
+            ]
+        },
+        "cương": {
+            "Từ điển phổ thông": [
+                "cái ang, vại, sành, cái chum to"
+            ]
+        },
+        "hang": {
+            "Từ điển phổ thông": [
+                "cái ang, vại, sành, cái chum to"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vại, ang, chum. ◎Như: 'thủy hang' 水缸 vại nước.",
+                "§ Cũng đọc là 'cang'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái ang, cái chum to. Cũng đọc là chữ cang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vại, ang, chum to: 水缸 Vại nước; 茄缸 Vại cà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hũ sành thật lớn. Cũng đọc Hàng."
+            ],
+            "compound_words": {
+                "缸面酒": "hang diện tửu"
+            }
+        }
+    }
+}

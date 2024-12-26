@@ -1,0 +1,94 @@
+{
+    "character": "枅",
+    "details": {
+        "Âm Hán Việt": [
+            "bình",
+            "kiên",
+            "kê",
+            "phanh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木开"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "DMT (木一廿)"
+        ],
+        "Unicode": [
+            "U+6785"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jiān ㄐㄧㄢ",
+            "pēng ㄆㄥ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひじき (hijiki)"
+        ],
+        "Âm Hàn": [
+            "개",
+            "견"
+        ],
+        "Âm Quảng Đông": [
+            "gai1"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển phổ thông": [
+                "(xem: phanh lư 枅櫚,枅榈)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phanh lư 枅櫚 cây phanh lư, một loài như cây dừa. Ta quen đọc là bình."
+            ],
+            "compound_words": {
+                "枅榈": "bình lư",
+                "枅櫚": "bình lư"
+            }
+        },
+        "kiên": {
+            "Từ điển trích dẫn": [
+                "(Danh) Xà ngang.",
+                "(Danh) Tấm gỗ ngang treo ở trên."
+            ]
+        },
+        "kê": {
+            "Từ điển trích dẫn": [
+                "(Danh) Xà ngang.",
+                "(Danh) Tấm gỗ ngang treo ở trên."
+            ]
+        },
+        "phanh": {
+            "Từ điển phổ thông": [
+                "(xem: phanh lư 枅櫚,枅榈)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phanh lư 枅櫚 cây phanh lư, một loài như cây dừa. Ta quen đọc là bình."
+            ],
+            "compound_words": {
+                "枅榈": "phanh lư",
+                "枅櫚": "phanh lư"
+            }
+        }
+    }
+}

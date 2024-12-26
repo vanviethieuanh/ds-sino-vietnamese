@@ -1,0 +1,85 @@
+{
+    "character": "窗",
+    "details": {
+        "Âm Hán Việt": [
+            "song"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶ノ丨フノフ丶一"
+        ],
+        "Thương Hiệt": [
+            "JCHWK (十金竹田大)"
+        ],
+        "Unicode": [
+            "U+7A97"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuāng ㄔㄨㄤ",
+            "cōng ㄘㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "song"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ス (su)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まど (mado)",
+            "てんまど (ten mado)",
+            "けむだし (kemudashi)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "coeng1"
+        ]
+    },
+    "meanings": {
+        "song": {
+            "Từ điển phổ thông": [
+                "cửa sổ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cửa sổ. § Cửa sổ mở ở tường gọi là “dũ” 牖, mở ở trên cửa gọi là “song” 窗. Bây giờ thì gọi cửa sổ là “song” cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cửa sổ, cửa sổ mở ở tường gọi là dũ 牖, mở ở trên cửa gọi là song 窗. Bây giờ thì gọi cửa sổ là song cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cửa sổ: 百葉窗 Cửa chớp, cửa lá sách; 向窗外看 Nhìn ra ngoài cửa sổ. Cg. 窗子 [chuangzi] hoặc 窗兒 [chuangr]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cửa sổ.  Đoạn trường tân thanh  có câu: » Gương Nga chênh chếch dòm song, vàng gieo đáy nước cây lồng bóng sân «."
+            ],
+            "compound_words": {
+                "百葉窗": "bách diệp song",
+                "同窗": "đồng song",
+                "南窗": "nam song",
+                "紗窗": "sa song",
+                "纱窗": "sa song",
+                "窗糊": "song hồ",
+                "窗紗": "song sa",
+                "窗纱": "song sa",
+                "疏窗": "sơ song",
+                "斜窗": "tà song"
+            }
+        }
+    }
+}

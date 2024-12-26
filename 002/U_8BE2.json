@@ -1,0 +1,61 @@
+{
+    "character": "询",
+    "details": {
+        "Âm Hán Việt": [
+            "tuân"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠旬"
+        ],
+        "Nét bút": [
+            "丶フノフ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "IVPA (戈女心日)"
+        ],
+        "Unicode": [
+            "U+8BE2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tuân"
+        ],
+        "Âm Quảng Đông": [
+            "seon1"
+        ]
+    },
+    "meanings": {
+        "tuân": {
+            "Từ điển phổ thông": [
+                "hỏi ý kiến mọi người để quyết định"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 詢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 詢"
+            ],
+            "compound_words": {
+                "查询": "tra tuân",
+                "咨询": "tư tuân"
+            }
+        }
+    }
+}

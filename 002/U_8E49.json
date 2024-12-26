@@ -1,0 +1,110 @@
+{
+    "character": "蹉",
+    "details": {
+        "Âm Hán Việt": [
+            "sa",
+            "tha"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "túc 足 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊差"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶ノ一一一ノ一丨一"
+        ],
+        "Thương Hiệt": [
+            "RMTQM (口一廿手一)"
+        ],
+        "Unicode": [
+            "U+8E49"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chuài ㄔㄨㄞˋ",
+            "cuō ㄘㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "sa",
+            "tha"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つまず.く (tsumazu.ku)"
+        ],
+        "Âm Hàn": [
+            "차"
+        ],
+        "Âm Quảng Đông": [
+            "co1"
+        ]
+    },
+    "meanings": {
+        "sa": {
+            "Từ điển trích dẫn": [
+                "(Động) Lỡ thời, lần lữa. ◎Như: 'tha đà' 蹉跎 lần lữa. ◇Nguyễn Du 阮攸: 'Tha đà lão tự kinh' 蹉跎老自驚 (Quế Lâm công quán 桂林公館) Lần lữa thấy cảnh già giật mình kinh sợ.",
+                "(Động) Đi qua, vượt qua. ◇Hứa Hồn 許渾: 'Hành tận thanh khê nhật dĩ tha, Vân dong san ảnh thủy tha nga' 行盡青溪日已蹉, 雲容山影水嵯峨 (Tương độ cố thành hồ 將度故城湖) Đến tận khe xanh ngày đã qua, Dáng mây bóng núi nước cao xa.",
+                "(Động) Sai lầm. ◇Dương Hùng 揚雄: 'Nhật nguyệt sảng tha' 日月爽蹉 (Tịnh châu châm 并州箴) Ngày tháng lầm lỡ.",
+                "(Động) Vấp ngã. ◎Như: 'tha điệt' 蹉跌 vấp ngã.",
+                "§ Ghi chú: Ta quen đọc là 'sa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sai lầm.",
+                "Tha đà 蹉跎 lần lữa. Xem lại chữ đà 跎.",
+                "Tha điệt 蹉跌 vấp ngã. Ta quen đọc là chữ sa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sai lầm;",
+                "Lần lữa (thời gian). 【蹉跎】 sa đà [cuotuó] Để (thời gian) trôi qua, bỏ phí mất (thời gian): 歲月蹉跎 Ngày tháng trôi qua; 蹉跎半生 Bỏ phí mất nửa đời người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sảy chân. Trợt chân — Sai lầm — Cũng đọc Tha."
+            ],
+            "compound_words": {
+                "蹉跎": "sa đà",
+                "蹉跌": "sa điệt"
+            }
+        },
+        "tha": {
+            "Từ điển phổ thông": [
+                "sai lầm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lỡ thời, lần lữa. ◎Như: 'tha đà' 蹉跎 lần lữa. ◇Nguyễn Du 阮攸: 'Tha đà lão tự kinh' 蹉跎老自驚 (Quế Lâm công quán 桂林公館) Lần lữa thấy cảnh già giật mình kinh sợ.",
+                "(Động) Đi qua, vượt qua. ◇Hứa Hồn 許渾: 'Hành tận thanh khê nhật dĩ tha, Vân dong san ảnh thủy tha nga' 行盡青溪日已蹉, 雲容山影水嵯峨 (Tương độ cố thành hồ 將度故城湖) Đến tận khe xanh ngày đã qua, Dáng mây bóng núi nước cao xa.",
+                "(Động) Sai lầm. ◇Dương Hùng 揚雄: 'Nhật nguyệt sảng tha' 日月爽蹉 (Tịnh châu châm 并州箴) Ngày tháng lầm lỡ.",
+                "(Động) Vấp ngã. ◎Như: 'tha điệt' 蹉跌 vấp ngã.",
+                "§ Ghi chú: Ta quen đọc là 'sa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sai lầm.",
+                "Tha đà 蹉跎 lần lữa. Xem lại chữ đà 跎.",
+                "Tha điệt 蹉跌 vấp ngã. Ta quen đọc là chữ sa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sai lầm;",
+                "Lần lữa (thời gian). 【蹉跎】 sa đà [cuotuó] Để (thời gian) trôi qua, bỏ phí mất (thời gian): 歲月蹉跎 Ngày tháng trôi qua; 蹉跎半生 Bỏ phí mất nửa đời người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trượt chân — Sai lầm, lầm lỡ."
+            ],
+            "compound_words": {
+                "蹉跎": "tha đà"
+            }
+        }
+    }
+}

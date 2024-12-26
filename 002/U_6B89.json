@@ -1,0 +1,87 @@
+{
+    "character": "殉",
+    "details": {
+        "Âm Hán Việt": [
+            "tuẫn",
+            "tuận"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹旬"
+        ],
+        "Nét bút": [
+            "一ノフ丶ノフ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MNPA (一弓心日)"
+        ],
+        "Unicode": [
+            "U+6B89"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tuẫn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "seon1",
+            "seon6"
+        ]
+    },
+    "meanings": {
+        "tuẫn": {
+            "Từ điển phổ thông": [
+                "chết theo người khác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chết theo hoặc táng vật theo người chết. ◎Như: 'quyết tâm nhất tử tuẫn phu' 決心一死殉夫 quyết tâm chết theo chồng.",
+                "(Động) Hi sinh tính mạng để đạt được mục đích hoặc chết vì lí tưởng. ◎Như: 'tuẫn quốc' 殉國 chết vì nước.",
+                "(Động) Đeo đuổi, tham cầu. ◎Như: 'tuẫn lợi' 殉利 đem thân quay cuồng theo lợi, 'tuẫn danh' 殉名 đem thân quay cuồng theo danh. ◇Nguyễn Du 阮攸: 'Phù thế thao thao tử tuẫn danh' 浮世滔滔死殉名 (Nhị Sơ cố lí 二疏故里) Cuộc đời trôi nổi, bao người chết vì háo danh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chết theo, dùng người chôn theo người chết gọi là tuẫn.",
+                "Theo, như tuẫn lợi 殉利 đem thân quay cuồng theo lợi, tuẫn danh 殉名 đem thân quay cuồng theo danh, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Liều chết vì một mục đích: 殉利 Liều thân vì lợi; 殉名 Liều chết vì danh;",
+                "Chôn theo người chết, chết theo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tuân theo — Chôn người sống theo người chết. Thí dụ vua chết, các bà phi bị chôn theo, gọi là Tuẫn — Chết theo — Chết để giữ danh dự."
+            ],
+            "compound_words": {
+                "殉名": "tuẫn danh",
+                "殉國": "tuẫn quốc",
+                "殉葬": "tuẫn táng",
+                "殉節": "tuẫn tiết"
+            }
+        },
+        "tuận": {
+            "Từ điển Trần Văn Chánh": [
+                "Liều chết vì một mục đích: 殉利 Liều thân vì lợi; 殉名 Liều chết vì danh;",
+                "Chôn theo người chết, chết theo."
+            ]
+        }
+    }
+}

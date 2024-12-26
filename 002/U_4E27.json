@@ -1,0 +1,80 @@
+{
+    "character": "丧",
+    "details": {
+        "Âm Hán Việt": [
+            "tang",
+            "táng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhất 一 (+7 nét)",
+            "thập 十 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "一丨丶ノ一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "GCV (土金女)"
+        ],
+        "Unicode": [
+            "U+4E27"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sāng ㄙㄤ",
+            "sàng ㄙㄤˋ"
+        ],
+        "Âm Nôm": [
+            "tang"
+        ],
+        "Âm Quảng Đông": [
+            "song1",
+            "song3"
+        ]
+    },
+    "meanings": {
+        "tang": {
+            "Từ điển phổ thông": [
+                "việc tang, tang lễ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 喪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 喪"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tang 喪."
+            ],
+            "compound_words": {
+                "懊丧": "áo tang",
+                "丧钟": "tang chung"
+            }
+        },
+        "táng": {
+            "Từ điển phổ thông": [
+                "đánh mất, rơi mất, làm mất",
+                "lễ tang"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 喪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 喪"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Táng 喪 — Một âm là Tang. Xem Tang."
+            ]
+        }
+    }
+}

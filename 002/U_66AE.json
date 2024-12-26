@@ -1,0 +1,90 @@
+{
+    "character": "暮",
+    "details": {
+        "Âm Hán Việt": [
+            "mộ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhật 日 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱莫日"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一一ノ丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "TAKA (廿日大日)"
+        ],
+        "Unicode": [
+            "U+66AE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mù ㄇㄨˋ"
+        ],
+        "Âm Nôm": [
+            "mò",
+            "mộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボ (bo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "く.れる (ku.reru)",
+            "く.らす (ku.rasu)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mou6"
+        ]
+    },
+    "meanings": {
+        "mộ": {
+            "Từ điển phổ thông": [
+                "buổi chiều tối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chiều, lúc mặt trời sắp lặn. ◇Đỗ Phủ 杜甫: 'Mộ đầu Thạch Hào thôn, Hữu lại dạ tróc nhân' 暮投石壕村, 有吏夜捉人 (Thạch Hào lại 石壕吏) Buổi chiều đến xóm Thạch Hào, Có kẻ lại tới bắt người lúc tối.",
+                "(Tính) Vào buổi chiều. ◎Như: 'mộ yên' 暮煙 khói chiều, 'mộ sắc' 暮色 trời chiều, hoàng hôn. ◇Nguyễn Trãi 阮廌: 'Nhiễm nhiễm hàn giang khởi mộ yên' 冉冉寒江起暮煙 (Thần Phù hải khẩu 神苻海口) Trên sông lạnh khói chiều từ từ bốc lên.",
+                "(Tính) Muộn, cuối. ◎Như: 'mộ niên' 暮年 tuổi già, 'tuế mộ' 歲暮 cuối năm. ◇Cao Bá Quát 高伯适: 'Mộ niên tâm thượng tráng' 暮年心尚壯 (Bảo Xuyên ông 寶川翁) Tuổi già (nhưng) lòng còn mạnh mẽ.",
+                "(Tính) Suy đồi, tàn. ◎Như: 'mộ khí' 暮氣 hơi tàn (nói lúc ý khí đã suy kém)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tối, lúc mặt trời sắp lặn gọi là mộ.",
+                "Già, cuối, như mộ niên 暮年 tuổi già, tuế mộ 歲暮 cuối năm, mộ khí 暮氣 hơi tàn, v.v. (nói lúc ý khí đã suy kém)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trời sắp tối: 暮色 Mờ mờ tối, xâm xẩm tối;",
+                "(Thời gian) sắp hết, cuối, già: 暮年 Tuổi cuối đời; 歲暮 Cuối năm; 日暮鄉關何處是，煙波江上使人愁 Trời tối quê hương đâu tá nhỉ? Đầy sông khói sóng gợi niềm tây (Thôi Hiệu: Hoàng hạc lâu)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buổi chiều tối — Muộn. Gần hết thời gian — Già cả. Tuổi già."
+            ],
+            "compound_words": {
+                "薄暮": "bạc mộ",
+                "旦暮": "đán mộ",
+                "暮景": "mộ cảnh",
+                "暮年": "mộ niên",
+                "暮嵗": "mộ tuế",
+                "暮春": "mộ xuân",
+                "日暮": "nhật mộ",
+                "朝暮": "triêu mộ",
+                "晚暮": "vãn mộ"
+            }
+        }
+    }
+}

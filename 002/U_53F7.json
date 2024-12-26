@@ -1,0 +1,114 @@
+{
+    "character": "号",
+    "details": {
+        "Âm Hán Việt": [
+            "hiệu",
+            "hào"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱口丂"
+        ],
+        "Nét bút": [
+            "丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "RMVS (口一女尸)"
+        ],
+        "Unicode": [
+            "U+53F7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "háo ㄏㄠˊ",
+            "hào ㄏㄠˋ"
+        ],
+        "Âm Nôm": [
+            "hào",
+            "hiệu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴウ (gō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さけ.ぶ (sake.bu)",
+            "よびな (yobina)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "hou6"
+        ]
+    },
+    "meanings": {
+        "hiệu": {
+            "Từ điển phổ thông": [
+                "hiệu (phù hiệu, biển hiệu, ...)",
+                "làm hiệu, dấu hiệu"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như 'hiệu' 號.",
+                "Giản thể của chữ 號."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ hiệu 號."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiệu, tên, tên hiệu, danh hiệu: 國號 Quốc hiệu, tên nước; 記號 Kí hiệu, dấu hiệu; 暗號 Ám hiệu; 年號 Niên hiệu; 孔明是諸葛亮的號 Khổng Minh là hiệu của Gia Cát Lượng;",
+                "Cửa hàng, cửa hiệu, hiệu: 商號 Hiệu buôn, cửa hàng; 分號 Cửa hàng chi nhánh;",
+                "Dấu, dấu hiệu: 問號 Dấu hỏi; 擊掌爲號 Vỗ tay làm dấu hiệu;",
+                "Số: 第三號 Số thứ ba; 編號 Đánh số;",
+                "Cỡ, hạng: 大號 Cỡ lớn; 中號 Cỡ vừa;",
+                "Ngày, mồng: 五月一號是國際勞動節 Mồng 1 tháng 5 là ngày Quốc tế lao động;",
+                "Hiệu lệnh, tiếng kèn: 吹號 Thổi kèn; 沖鋒號 Tiếng kèn xung phong;",
+                "(văn) Ra hiệu lệnh. Xem 號 [háo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng kêu đau đớn. Viết tắt của chữ Hiệu 號."
+            ],
+            "compound_words": {
+                "暗号": "ám hiệu",
+                "拨号": "bát hiệu",
+                "编号": "biên hiệu",
+                "别号": "biệt hiệu",
+                "正号": "chính hiệu",
+                "徽号": "huy hiệu",
+                "口号": "khẩu hiệu",
+                "外号": "ngoại hiệu",
+                "分号": "phân hiệu",
+                "副号": "phó hiệu",
+                "符号": "phù hiệu",
+                "括号": "quát hiệu",
+                "商号": "thương hiệu",
+                "信号": "tín hiệu",
+                "帐号": "trướng hiệu"
+            }
+        },
+        "hào": {
+            "Từ điển phổ thông": [
+                "gào khóc, kêu gào"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như 'hiệu' 號.",
+                "Giản thể của chữ 號."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 號"
+            ]
+        }
+    }
+}

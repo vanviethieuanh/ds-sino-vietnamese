@@ -1,0 +1,86 @@
+{
+    "character": "騁",
+    "details": {
+        "Âm Hán Việt": [
+            "sính"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mã 馬 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬甹"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶丨フ一丨一一フ"
+        ],
+        "Thương Hiệt": [
+            "SFLWS (尸火中田尸)"
+        ],
+        "Unicode": [
+            "U+9A01"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chěng ㄔㄥˇ"
+        ],
+        "Âm Nôm": [
+            "sính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はせ.る (hase.ru)"
+        ],
+        "Âm Hàn": [
+            "빙"
+        ],
+        "Âm Quảng Đông": [
+            "cing2",
+            "ping3"
+        ]
+    },
+    "meanings": {
+        "sính": {
+            "Từ điển phổ thông": [
+                "phi, phóng miết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rong ruổi, phi, phóng, chạy nhanh. ◎Như: 'mã sính' 馬騁 ngựa phi. ◇Nguyễn Du 阮攸: 'Anh hùng tâm sự hoang trì sính' 英雄心事荒馳騁 (Xuân tiêu lữ thứ 春宵旅次) Tâm sự anh hùng không còn nghĩ đến chuyện rong ruổi.",
+                "(Động) Mở rộng, buông thả. ◎Như: 'sính chí' 騁志 phát dương ý chí, 'sính mục' 騁目 mở rộng tầm mắt, 'sính hoài' 騁懷 mở rộng cõi lòng. ◇Vương Hi Chi 王羲之: 'Du mục sính hoài, túc dĩ cực thị thính chi ngu, tín khả lạc dã' 游目騁懷, 足以極視聽之娛, 信可樂也 (Lan Đình thi tự 蘭亭詩序) Phóng tầm mắt, mở cõi lòng, đủ để hưởng hết cái thú của tai mắt, thực là vui vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thẳng dong, chạy thẳng miết một mạch, phi, phóng. Như mã sính 馬騁 ngựa phi.",
+                "Ý tứ văn tự trôi chảy cũng gọi là sính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chạy mau, thẳng dong, phi, phóng: 騁步 Bước mau; 馬騁 Ngựa chạy mau, ngựa phi; 汽車在公路上馳騁 Ô tô phóng trên đường cái;",
+                "Mở rộng ra.【騁目】sính mục [chângmù] (văn) Mở mắt nhìn về phía xa;",
+                "Làm cho nhanh thêm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngựa hay mau — Rất lắm — Buông thả theo ý mình, không gặp trở ngại."
+            ],
+            "compound_words": {
+                "騁步": "sính bộ",
+                "騁志": "sính chí",
+                "騁懷": "sính hoài",
+                "騁目": "sính mục",
+                "騁能": "sính năng",
+                "騁足": "sính túc",
+                "騁望": "sính vọng"
+            }
+        }
+    }
+}

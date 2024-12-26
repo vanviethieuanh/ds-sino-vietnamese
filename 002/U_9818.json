@@ -1,0 +1,166 @@
+{
+    "character": "領",
+    "details": {
+        "Âm Hán Việt": [
+            "lãnh",
+            "lĩnh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰令頁"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ丶一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OIMBC (人戈一月金)"
+        ],
+        "Unicode": [
+            "U+9818"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǐng ㄌㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "lãnh",
+            "lểnh",
+            "lính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えり (eri)"
+        ],
+        "Âm Hàn": [
+            "령",
+            "영"
+        ],
+        "Âm Quảng Đông": [
+            "leng5",
+            "ling5"
+        ]
+    },
+    "meanings": {
+        "lãnh": {
+            "Từ điển phổ thông": [
+                "cổ áo",
+                "lĩnh, nhận"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ. ◇Mạnh Tử 孟子: 'Tắc thiên hạ chi dân giai dẫn lĩnh nhi vọng chi hĩ' 則天下之民皆引領而望之矣 (Lương Huệ Vương thượng 梁惠王上) Thì dân trong thiên hạ đều nghển cổ mà trông mong vậy.",
+                "(Danh) Cổ áo. ◎Như: 'lĩnh tử' 領子 cổ áo, 'y lĩnh' 衣領 cổ áo, 'lĩnh đái' 領帶 cà-vạt (cravate).",
+                "(Danh) Đại cương, yếu điểm. ◎Như: 'yếu lĩnh' 要領 đại cương, những điểm trọng yếu.",
+                "(Danh) Lượng từ: (số) áo, bao, bị, chiếc, cái. ◎Như: 'thượng y nhất lĩnh' 上衣一領 một cái áo, 'tịch nhất lĩnh' 蓆一領 một cái chiếu. ◇Hán Thư 漢書: 'Tứ kim tiền, tăng nhứ, tú bị bách lĩnh, y ngũ thập khiếp' 賜金錢, 繒絮, 繡被百領, 衣五十篋 (Hoắc Quang truyện 霍光傳) Ban cho tiền vàng, tơ lụa, túi gấm trăm cái, áo năm mươi tráp.",
+                "(Động) Đốc suất hết thảy. ◎Như: 'suất lĩnh' 率領 thống suất.",
+                "(Động) Nhận lấy. ◎Như: 'lĩnh hướng' 領餉 lĩnh lương, 'lĩnh bằng' 領憑 nhận lấy bằng cấp.",
+                "(Động) Lí hội, hiểu biết. ◎Như: 'lĩnh lược' 領略 hiểu đại ý, 'lĩnh giáo' 領教 hiểu rõ được lời dạy bảo. ◇Hồng Lâu Mộng 紅樓夢: 'Khả lĩnh lược liễu ta tư vị một hữu?' 可領略了些滋味沒有? (Đệ tứ thập bát hồi) Đã hiểu được chút nào ý vị (của những bài thơ đó) hay chưa?",
+                "§ Cũng đọc là 'lãnh'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cổ: 領巾 Khăn quàng cổ; 則天下之民皆引領而望之矣 Thì dân trong thiên hạ đều nghển cổ mà trông mong vậy (Mạnh tử);",
+                "Bâu, cổ áo: 衣領 Bâu áo; 譯領兒 Cổ lật (bẻ); 圓領兒 Cổ tròn;",
+                "Đại cương, điểm thiết yếu, yếu điểm: 提綱挈領 Tóm tắt đại cương; 不得要領 Không đúng yếu điểm;",
+                "(văn) (loại) Chiếc, cái: 上衣一領 Một cái áo; 蓆一領 Một chiếc chiếu;",
+                "Đưa, dắt dẫn: 率領代表團 Dẫn đoàn đại biểu; 把客人領到餐廳去 Đưa khách đến nhà ăn;",
+                "Chiếm, lãnh: 占領 Chiếm lĩnh; 領土 Lãnh thổ;",
+                "Nhận lấy, lãnh: 招領 Thông báo nhận của đánh rơi; 領獎 Lãnh phần thưởng;",
+                "Tiếp thu giáo dục (sự chỉ bảo).【領教】lãnh giáo [lêngjiào] a. Hiểu rõ và cảm phục, thưởng thức: 老先生說得很對，領教領教！ Cụ nói rất đúng, xin cảm phục; 請你彈一個曲子，讓我們領教一下 Mời anh đàn qua một bài để chúng tôi được dịp thưởng thức; b. Xin chỉ bảo cho: 有點小事向您領教 Có một việc nhỏ xin bác chỉ bảo cho;",
+                "Hiểu biết: 領略 Hiểu được sơ sơ (đại ý);",
+                "Điều khiển, đốc suất mọi việc. 【領事】lãnh sự [lêngshì] Lãnh sự: 領事館 Lãnh sự quán; 總領事 Tổng lãnh sự."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Lĩnh. Xem Lĩnh."
+            ],
+            "compound_words": {
+                "本領": "bản lãnh",
+                "領導": "lãnh đạo",
+                "領袖": "lãnh tụ",
+                "將領": "tướng lãnh"
+            }
+        },
+        "lĩnh": {
+            "Từ điển phổ thông": [
+                "cổ áo",
+                "lĩnh, nhận"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ. ◇Mạnh Tử 孟子: 'Tắc thiên hạ chi dân giai dẫn lĩnh nhi vọng chi hĩ' 則天下之民皆引領而望之矣 (Lương Huệ Vương thượng 梁惠王上) Thì dân trong thiên hạ đều nghển cổ mà trông mong vậy.",
+                "(Danh) Cổ áo. ◎Như: 'lĩnh tử' 領子 cổ áo, 'y lĩnh' 衣領 cổ áo, 'lĩnh đái' 領帶 cà-vạt (cravate).",
+                "(Danh) Đại cương, yếu điểm. ◎Như: 'yếu lĩnh' 要領 đại cương, những điểm trọng yếu.",
+                "(Danh) Lượng từ: (số) áo, bao, bị, chiếc, cái. ◎Như: 'thượng y nhất lĩnh' 上衣一領 một cái áo, 'tịch nhất lĩnh' 蓆一領 một cái chiếu. ◇Hán Thư 漢書: 'Tứ kim tiền, tăng nhứ, tú bị bách lĩnh, y ngũ thập khiếp' 賜金錢, 繒絮, 繡被百領, 衣五十篋 (Hoắc Quang truyện 霍光傳) Ban cho tiền vàng, tơ lụa, túi gấm trăm cái, áo năm mươi tráp.",
+                "(Động) Đốc suất hết thảy. ◎Như: 'suất lĩnh' 率領 thống suất.",
+                "(Động) Nhận lấy. ◎Như: 'lĩnh hướng' 領餉 lĩnh lương, 'lĩnh bằng' 領憑 nhận lấy bằng cấp.",
+                "(Động) Lí hội, hiểu biết. ◎Như: 'lĩnh lược' 領略 hiểu đại ý, 'lĩnh giáo' 領教 hiểu rõ được lời dạy bảo. ◇Hồng Lâu Mộng 紅樓夢: 'Khả lĩnh lược liễu ta tư vị một hữu?' 可領略了些滋味沒有? (Đệ tứ thập bát hồi) Đã hiểu được chút nào ý vị (của những bài thơ đó) hay chưa?",
+                "§ Cũng đọc là 'lãnh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cổ. Như Mạnh Tử 孟子 nói: Tắc thiên hạ chi dân, giai dẫn lĩnh nhi vọng chi hĩ 則天下之民皆引領而望之矣 thì dân trong thiên hạ đều nghển cổ mà trông mong vậy.",
+                "Cái cổ áo, một cái áo cũng gọi là nhất lĩnh 一領. Xóc áo thì phải cầm cổ cầm tay thì áo mới sóng, vì thế nên người nào quản lí một bộ phận, một nhóm gọi là lĩnh tụ 領袖 (đầu sỏ).",
+                "Đốc xuất hết thẩy, người nào giữ cái chức đốc xuất tất cả công việc một khu đều gọi là lĩnh. Như lĩnh sự 領事 người giữ chức đốc xuất tất cả mọi việc ở nước ngoài. Ta thường gọi là lãnh sự.",
+                "Nhận lấy. Như lĩnh hướng 領餉 lĩnh lương, lĩnh bằng 領憑, v.v.",
+                "Lí hội, hiểu biết. Như lĩnh lược 領略 lí hội qua được đại ý, nghe rõ được lời người ta bàn luận gọi là lĩnh giáo 領教."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cổ: 領巾 Khăn quàng cổ; 則天下之民皆引領而望之矣 Thì dân trong thiên hạ đều nghển cổ mà trông mong vậy (Mạnh tử);",
+                "Bâu, cổ áo: 衣領 Bâu áo; 譯領兒 Cổ lật (bẻ); 圓領兒 Cổ tròn;",
+                "Đại cương, điểm thiết yếu, yếu điểm: 提綱挈領 Tóm tắt đại cương; 不得要領 Không đúng yếu điểm;",
+                "(văn) (loại) Chiếc, cái: 上衣一領 Một cái áo; 蓆一領 Một chiếc chiếu;",
+                "Đưa, dắt dẫn: 率領代表團 Dẫn đoàn đại biểu; 把客人領到餐廳去 Đưa khách đến nhà ăn;",
+                "Chiếm, lãnh: 占領 Chiếm lĩnh; 領土 Lãnh thổ;",
+                "Nhận lấy, lãnh: 招領 Thông báo nhận của đánh rơi; 領獎 Lãnh phần thưởng;",
+                "Tiếp thu giáo dục (sự chỉ bảo).【領教】lãnh giáo [lêngjiào] a. Hiểu rõ và cảm phục, thưởng thức: 老先生說得很對，領教領教！ Cụ nói rất đúng, xin cảm phục; 請你彈一個曲子，讓我們領教一下 Mời anh đàn qua một bài để chúng tôi được dịp thưởng thức; b. Xin chỉ bảo cho: 有點小事向您領教 Có một việc nhỏ xin bác chỉ bảo cho;",
+                "Hiểu biết: 領略 Hiểu được sơ sơ (đại ý);",
+                "Điều khiển, đốc suất mọi việc. 【領事】lãnh sự [lêngshì] Lãnh sự: 領事館 Lãnh sự quán; 總領事 Tổng lãnh sự."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cổ — Cái cổ áo — Đứng đầu — Nắm giữ việc chỉ huy — Nhận lấy — Hiểu thật rõ."
+            ],
+            "compound_words": {
+                "本領": "bổn lĩnh",
+                "保領": "bảo lĩnh",
+                "佔領": "chiếm lĩnh",
+                "占領": "chiếm lĩnh",
+                "綱領": "cương lĩnh",
+                "兼領": "kiêm lĩnh",
+                "領兵": "lĩnh binh",
+                "領耕": "lĩnh canh",
+                "領導": "lĩnh đạo",
+                "領地": "lĩnh địa",
+                "領教": "lĩnh giáo",
+                "領海": "lĩnh hải",
+                "領會": "lĩnh hội",
+                "領餉": "lĩnh hướng",
+                "領略": "lĩnh lược",
+                "領命": "lĩnh mệnh",
+                "領事": "lĩnh sự",
+                "領土": "lĩnh thổ",
+                "領袖": "lĩnh tụ",
+                "領域": "lĩnh vực",
+                "認領": "nhận lĩnh",
+                "副領兵": "phó lĩnh binh",
+                "率領": "suất lĩnh",
+                "暫領": "tạm lĩnh",
+                "心領": "tâm lĩnh",
+                "統領": "thống lĩnh",
+                "總領事": "tổng lĩnh sự",
+                "將領": "tướng lĩnh",
+                "要領": "yếu lĩnh"
+            }
+        }
+    }
+}

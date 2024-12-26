@@ -1,0 +1,105 @@
+{
+    "character": "郵",
+    "details": {
+        "Âm Hán Việt": [
+            "bưu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ấp 邑 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰垂⻏"
+        ],
+        "Nét bút": [
+            "ノ一丨一丨丨一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "HMNL (竹一弓中)"
+        ],
+        "Unicode": [
+            "U+90F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chuí ㄔㄨㄟˊ",
+            "yóu ㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "bươu",
+            "bưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユウ (yū)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jau4"
+        ]
+    },
+    "meanings": {
+        "bưu": {
+            "Từ điển phổ thông": [
+                "nhà trạm (truyền tin)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhà trạm. § Dùng ngựa truyền tin gọi là 'trí' 置, chạy bộ truyền tin gọi là 'bưu' 郵.",
+                "(Danh) Người đưa chuyển văn thư.",
+                "(Danh) Cơ quan nhận gửi và phân phát thư từ, gói, kiện... ◎Như: 'bưu chính cục' 郵政局 nhà bưu điện.",
+                "(Danh) Cái nhà làm bên đồng cho các quan chức coi về việc canh nông đốc xuất dân gian cày cấy gọi là 'bưu đình' 郵亭.",
+                "(Danh) Lầm lỗi. § Thông 'vưu' 尤. ◎Như: Ngày xưa có một chức quan gọi là 'đốc bưu' 督郵 chuyên việc xét các tội lỗi của các quan châu huyện dưới quyền mình. ◇Thi Kinh 詩經: 'Thị viết kí túy, Bất tri kì bưu' 是曰既醉, 不知其郵(Tiểu nhã 小雅, Tân chi sơ diên 賓之初筵) Ấy là đã say, Không biết lỗi lầm của mình nữa.",
+                "(Danh) Họ 'Bưu'.",
+                "(Động) Gửi, truyền đi, chuyển đạt. ◎Như: 'bưu kí' 郵寄 gửi đi, 'bưu đệ' 郵遞 chuyển đạt. ◇Uẩn Kính 惲敬: 'Vi bi văn bưu chi Triều Châu' 為碑文郵之潮州 (Triều Châu hàn văn công miếu bi văn 潮州韓文公廟碑文) Làm văn bia gửi đến Triều Châu.",
+                "(Động) Oán hận. § Thông 'vưu' 尤.",
+                "(Phó) Rất, càng. § Thông 'vưu' 尤. ◇Liệt Tử 列子: 'Lỗ chi quân tử, mê chi bưu giả, yên năng giải nhân chi mê tai' 魯之君子, 迷之郵者, 焉能解人之迷哉 (Chu Mục vương 周穆王) Người quân tử nước Lỗ mê lầm quá lắm, thì làm sao mà giải trừ mê lầm của người được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhà trạm. Dùng ngựa truyền tin gọi là trí 置, chạy bộ truyền tin gọi là bưu 郵. Các nhà dây thép dùng để thông tin tức chạy thơ từ khắp các nơi bây giờ gọi là bưu chính cục 郵政局.",
+                "Cái nhà làm bên đồng. Cái nhà làm bên đồng cho các quan chức coi về việc canh nông đốc xuất dân gian cày cấy gọi là bưu đình 郵亭.",
+                "Rất, càng.",
+                "Ngày xưa có một chức quan gọi là đốc bưu 督郵 chuyên việc xét các tội lỗi của các quan châu huyện dưới quyền mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gởi (qua bưu điện): 給家裡郵去二百元 Gởi 200 đồng vể nhà;",
+                "(Thuộc) bưu điện;",
+                "(cũ) Nhà trạm (để chuyển công văn, thư tín thời xưa);",
+                "(văn) Rất, càng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thư từ truyền theo đường bộ — Lầm lỗi."
+            ],
+            "compound_words": {
+                "郵政": "bưu chính",
+                "郵政局": "bưu chính cục",
+                "郵局": "bưu cục",
+                "郵驛": "bưu dịch",
+                "郵電": "bưu điện",
+                "郵亭": "bưu đình",
+                "郵華": "bưu hoa",
+                "郵匯": "bưu hối",
+                "郵區": "bưu khu",
+                "郵件": "bưu kiện",
+                "郵費": "bưu phí",
+                "郵票": "bưu phiếu",
+                "郵差": "bưu sai",
+                "郵船": "bưu thuyền",
+                "郵信": "bưu tín",
+                "電郵": "điện bưu",
+                "電子郵件": "điện tử bưu kiện",
+                "督郵": "đốc bưu"
+            }
+        }
+    }
+}

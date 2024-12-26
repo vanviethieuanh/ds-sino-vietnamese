@@ -1,0 +1,87 @@
+{
+    "character": "謗",
+    "details": {
+        "Âm Hán Việt": [
+            "báng"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "ngôn 言 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言旁"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "YRYBS (卜口卜月尸)"
+        ],
+        "Unicode": [
+            "U+8B17"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bàng ㄅㄤˋ"
+        ],
+        "Âm Nôm": [
+            "bang",
+            "bướng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そし.る (soshi.ru)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "pong3"
+        ]
+    },
+    "meanings": {
+        "báng": {
+            "Từ điển phổ thông": [
+                "nói xấu, bêu rếu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chê bai, mai mỉa, nói xấu, dị nghị. ◇Nguyễn Trãi 阮廌: 'Chúng báng cô trung tuyệt khả liên' 眾謗孤忠絕可憐 (Oan thán 冤嘆) Bao kẻ gièm pha, người trung cô lập, thực đáng thương.",
+                "(Động) Nguyền rủa, chửi rủa. ◎Như: 'thiểu tố khuyết đức sự, tiểu tâm bị nhân trớ chú' 少做缺德事, 小心被人詛咒 chớ làm chuyện ác đức, coi chừng bị người ta nguyền rủa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chê bai, báng bổ, thấy người làm việc trái mà mọi người cùng xúm lại chê bai mai mỉa gọi là báng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói xấu, chê bai, dị nghị, báng bổ: 誹謗 Phỉ báng, nói xấu, bôi nhọ; 厲王虐，國人謗王 Lệ vương tàn bạo, người trong nước dị nghị (Tả truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chế diễu. Nói điều xấu của người khác ra."
+            ],
+            "compound_words": {
+                "謗木": "báng mộc",
+                "謗書": "báng thư",
+                "謗鑠": "báng thược",
+                "鄙謗": "bỉ báng",
+                "毀謗": "huỷ báng",
+                "怨謗": "oán báng",
+                "誹謗": "phỉ báng",
+                "讒謗": "sàm báng",
+                "造謗": "tạo báng",
+                "誣謗": "vu báng"
+            }
+        }
+    }
+}

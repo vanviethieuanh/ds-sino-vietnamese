@@ -1,0 +1,110 @@
+{
+    "character": "幅",
+    "details": {
+        "Âm Hán Việt": [
+            "bức",
+            "phúc"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "cân 巾 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰巾畐"
+        ],
+        "Nét bút": [
+            "丨フ丨一丨フ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "LBMRW (中月一口田)"
+        ],
+        "Unicode": [
+            "U+5E45"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fú ㄈㄨˊ"
+        ],
+        "Âm Nôm": [
+            "bức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フク (fuku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はば (haba)"
+        ],
+        "Âm Hàn": [
+            "폭",
+            "복"
+        ],
+        "Âm Quảng Đông": [
+            "fuk1"
+        ]
+    },
+    "meanings": {
+        "bức": {
+            "Từ điển phổ thông": [
+                "khổ rộng của vải",
+                "bức, tấm (từ dùng để đếm số vải)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khổ (vải, lụa). ◎Như: 'khoan phúc' 寬幅 khổ rộng.",
+                "(Danh) Chiều ngang. ◎Như: 'phúc viên quảng khoát' 幅員廣闊 bề ngang và chu vi rộng lớn (chỉ đất đai rộng lớn).",
+                "(Danh) Viền mép vải, lụa. ◎Như: 'biên phúc' 邊幅 viềm mép.",
+                "(Danh) Lượng từ: bức (tranh vẽ). ◎Như: 'nhất phúc họa' 一幅畫 một bức tranh.",
+                "Một âm là 'bức'. (Động) Lấy vải hay lụa bó vào chân. ◇Tả truyện 左傳: 'Đái thường phúc tích' 帶裳幅舄 (Hi Công nhị niên 僖公二年) Thắt lưng quần bó giày.",
+                "§ Ghi chú: Ta quen đọc là 'bức' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bức, một tiếng dùng để đo vải lụa. Như kỉ phúc 幾幅 mấy bức?",
+                "Sửa sang, như tu sức biên phúc 修飾邊幅 sửa sang diêm dúa như tấm lụa phải chải chuốt hai bên mép.",
+                "Một âm là bức. Lấy lụa quần chéo từ chân đến gối như sa-cạp vậy. Ta quen đọc là chữ bức cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khổ (vải vóc): 單幅 Khổ đơn; 雙幅 Khổ kép; 寬幅 Khổ rộng;",
+                "Mức độ, diện tích, đất đai. 【幅員】bức viên [fuýuán] Diện tích, lãnh thổ: 幅員廣大 Đất đai rộng lớn;",
+                "(loại) Bức: 幾幅？ Mấy bức?; 一幅畫 Một bức tranh; 一幅壽幛 Một bức trướng mừng thọ;",
+                "Vải quấn đùi, xà cạp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bề rộng của khổ vải. — Ta còn hiểu là một tấm một cái, một chiếc."
+            ],
+            "compound_words": {
+                "不修边幅": "bất tu biên bức",
+                "不修邊幅": "bất tu biên bức",
+                "邊幅": "biên bức",
+                "幅度": "bức độ",
+                "幅員": "bức viên"
+            }
+        },
+        "phúc": {
+            "Từ điển trích dẫn": [
+                "(Danh) Khổ (vải, lụa). ◎Như: 'khoan phúc' 寬幅 khổ rộng.",
+                "(Danh) Chiều ngang. ◎Như: 'phúc viên quảng khoát' 幅員廣闊 bề ngang và chu vi rộng lớn (chỉ đất đai rộng lớn).",
+                "(Danh) Viền mép vải, lụa. ◎Như: 'biên phúc' 邊幅 viềm mép.",
+                "(Danh) Lượng từ: bức (tranh vẽ). ◎Như: 'nhất phúc họa' 一幅畫 một bức tranh.",
+                "Một âm là 'bức'. (Động) Lấy vải hay lụa bó vào chân. ◇Tả truyện 左傳: 'Đái thường phúc tích' 帶裳幅舄 (Hi Công nhị niên 僖公二年) Thắt lưng quần bó giày.",
+                "§ Ghi chú: Ta quen đọc là 'bức' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bức, một tiếng dùng để đo vải lụa. Như kỉ phúc 幾幅 mấy bức?",
+                "Sửa sang, như tu sức biên phúc 修飾邊幅 sửa sang diêm dúa như tấm lụa phải chải chuốt hai bên mép.",
+                "Một âm là bức. Lấy lụa quần chéo từ chân đến gối như sa-cạp vậy. Ta quen đọc là chữ bức cả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bề rộng của khổ vải — Một âm khác là Bức. Xem Bức."
+            ]
+        }
+    }
+}

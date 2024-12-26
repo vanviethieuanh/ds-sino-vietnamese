@@ -1,0 +1,62 @@
+{
+    "character": "练",
+    "details": {
+        "Âm Hán Việt": [
+            "luyện"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mịch 糸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "フフ一一フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMKVC (女一大女金)"
+        ],
+        "Unicode": [
+            "U+7EC3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "luyện"
+        ],
+        "Âm Quảng Đông": [
+            "lin6"
+        ]
+    },
+    "meanings": {
+        "luyện": {
+            "Từ điển phổ thông": [
+                "lụa trắng",
+                "rèn luyện"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 練."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 練"
+            ],
+            "compound_words": {
+                "教练": "giáo luyện",
+                "训练": "huấn luyện",
+                "历练": "lịch luyện",
+                "练习": "luyện tập",
+                "操练": "thao luyện"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "鶡",
+    "details": {
+        "Âm Hán Việt": [
+            "hạt"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰曷鳥"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフノ丶フノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "AVHAF (日女竹日火)"
+        ],
+        "Unicode": [
+            "U+9DA1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hé ㄏㄜˊ",
+            "jiè ㄐㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "hạt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "ガチ (gachi)",
+            "フン (fun)",
+            "カイ (kai)",
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やまどり (yamadori)"
+        ],
+        "Âm Hàn": [
+            "갈"
+        ],
+        "Âm Quảng Đông": [
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "hạt": {
+            "Từ điển phổ thông": [
+                "(xem: hạt kê 鶡雞,鹖鸡)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giống chim như trĩ mà to, lông xanh, đầu có lông mao, tính mạnh tợn.",
+                "(Danh) § Xem 'hạt quan' 鶡冠."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hạt kê 鶡雞 giống như con trĩ mà to, sắc lông đỏ kềnh kệch, đầu có lông mao, tính mạnh tợn, hay đánh nhau, chết không chịu lùi, vì thế mũ của các quan võ ngày xưa đều cắm lông nó gọi là hạt quan 鶡冠."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Một loại chim sơn ca;",
+                "Một loại gà lôi (giống chim như con trĩ hay chọi nhau, nói trong sách cổ, còn gọi là 鶡雞 [héji])."
+            ],
+            "compound_words": {
+                "鶡雞": "hạt kê",
+                "鶡冠": "hạt quan"
+            }
+        }
+    }
+}

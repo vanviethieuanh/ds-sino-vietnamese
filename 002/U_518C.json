@@ -1,0 +1,82 @@
+{
+    "character": "册",
+    "details": {
+        "Âm Hán Việt": [
+            "sách"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "quynh 冂 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノフノフ一"
+        ],
+        "Thương Hiệt": [
+            "BBM (月月一)"
+        ],
+        "Unicode": [
+            "U+518C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ"
+        ],
+        "Âm Nôm": [
+            "sách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)",
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふみ (fumi)"
+        ],
+        "Âm Hàn": [
+            "책"
+        ],
+        "Âm Quảng Đông": [
+            "caak3"
+        ]
+    },
+    "meanings": {
+        "sách": {
+            "Từ điển phổ thông": [
+                "quyển sách, sổ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là 冊."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bài văn sách mệnh. Như vua phong tước cho ai gọi là sách phong 册封.",
+                "Bản sách, một quyển sách gọi là sách, cũng có khi viết là 冊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sổ: 戶口册 Sổ hộ khẩu, hộ tịch;",
+                "Sách: 小册子 Cuốn sách nhỏ; 名册 Danh sách;",
+                "Cuốn, quyển: 全書共十册 Trọn bộ mười quyển;",
+                "Hiệu lệnh của vua để ban cho những tước cao quý: 册封 Phong tước."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thẻ tre viết chữ ( đời xưa chưa có giấy, phải viết vào thẻ tre ) — Giấy có chữ viết đóng thành tập. Ta cũng gọi là cuốn sách, truyện  Nhị độ mai  có câu: » Vui lòng đèn sách nghỉ tay văn bài « — Lệnh vua viết ra giấy."
+            ],
+            "compound_words": {
+                "名册": "danh sách",
+                "册立": "sách lập",
+                "册命": "sách mệnh",
+                "册封": "sách phong",
+                "册府": "sách phủ",
+                "册文": "sách văn"
+            }
+        }
+    }
+}

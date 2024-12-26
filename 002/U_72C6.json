@@ -1,0 +1,66 @@
+{
+    "character": "狆",
+    "details": {
+        "Âm Hán Việt": [
+            "trung",
+            "trọng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨中"
+        ],
+        "Nét bút": [
+            "ノフノ丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "KHL (大竹中)"
+        ],
+        "Unicode": [
+            "U+72C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhòng ㄓㄨㄥˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちん (chin)"
+        ],
+        "Âm Hàn": [
+            "중"
+        ],
+        "Âm Quảng Đông": [
+            "zung1"
+        ]
+    },
+    "meanings": {
+        "trung": {
+            "Từ điển phổ thông": [
+                "người Bắc Kinh"
+            ]
+        },
+        "trọng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Trọng Gia 狆家."
+            ],
+            "compound_words": {
+                "狆家": "trọng gia"
+            }
+        }
+    }
+}

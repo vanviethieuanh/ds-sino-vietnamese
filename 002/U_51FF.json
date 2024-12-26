@@ -1,0 +1,67 @@
+{
+    "character": "凿",
+    "details": {
+        "Âm Hán Việt": [
+            "tạc"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khảm 凵 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿶凵丵"
+        ],
+        "Nét bút": [
+            "丨丨丶ノ一丶ノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "TCTU (廿金廿山)"
+        ],
+        "Unicode": [
+            "U+51FF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "záo ㄗㄠˊ",
+            "zòu ㄗㄡˋ",
+            "zuò ㄗㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "tạc"
+        ],
+        "Âm Quảng Đông": [
+            "zok6"
+        ]
+    },
+    "meanings": {
+        "tạc": {
+            "Từ điển phổ thông": [
+                "đào, đục"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鑿."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鑿 [záo];",
+                "(văn) Rõ ràng, rõ rệt, rành rành, xác thực: 確鑿 Rõ ràng, rõ rệt; 言之鑿鑿 Nói ra rành rọt;",
+                "(văn) Giã gạo cho thật trắng;",
+                "Xuyên tạc (giải thích méo mó bài văn);",
+                "(văn) Cái lỗ đầu cột. Xem 鑿 [záo]."
+            ],
+            "compound_words": {
+                "枘凿": "nhuế tạc",
+                "穿凿": "xuyên tạc"
+            }
+        }
+    }
+}

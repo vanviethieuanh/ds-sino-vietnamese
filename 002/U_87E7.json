@@ -1,0 +1,55 @@
+{
+    "character": "蟧",
+    "details": {
+        "Âm Hán Việt": [
+            "lao",
+            "liêu"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "trùng 虫 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫勞"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶ノノ丶丶ノノ丶丶フフノ"
+        ],
+        "Thương Hiệt": [
+            "LIFFS (中戈火火尸)"
+        ],
+        "Unicode": [
+            "U+87E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lao": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cua nhỏ — Một âm khác là Liêu."
+            ],
+            "compound_words": {
+                "蝭蟧": "đề lao",
+                "虭蟧": "điêu lao"
+            }
+        },
+        "liêu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại ve sầu thật lớn — Dùng như chữ Liêu 蟟 — Một âm là Lao. Xem Lao."
+            ]
+        }
+    }
+}

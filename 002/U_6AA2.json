@@ -1,0 +1,106 @@
+{
+    "character": "檢",
+    "details": {
+        "Âm Hán Việt": [
+            "kiểm"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mộc 木 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木僉"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DOMO (木人一人)"
+        ],
+        "Unicode": [
+            "U+6AA2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "ghém",
+            "kiểm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しら.べる (shira.beru)"
+        ],
+        "Âm Hàn": [
+            "검"
+        ],
+        "Âm Quảng Đông": [
+            "gim2"
+        ]
+    },
+    "meanings": {
+        "kiểm": {
+            "Từ điển phổ thông": [
+                "kiểm tra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dấu đánh trên phong thư.",
+                "(Danh) Khuôn phép, pháp độ.",
+                "(Danh) Phẩm hạnh, tiết tháo.",
+                "(Danh) Họ 'Kiểm'.",
+                "(Động) Kiềm chế, ước thúc. ◎Như: 'bất kiểm' 不檢 hành động không có phép tắc.",
+                "(Động) Tra xét, lục xét. ◎Như: 'kiểm điểm' 檢點 xét nét, 'kiểm thu' 檢收 xét nhận.",
+                "(Động) Nêu ra, đưa lên. ◎Như: 'kiểm cử' 檢舉 nêu ra, tố cáo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðánh dấu, gắn xi (cire) lên phong thơ rồi đóng dấu vào gọi là kiểm.",
+                "Kiềm chế, hành động không có phép tắc gọi là bất kiểm 不檢.",
+                "Tra xét, lục xét, như kiểm điểm 檢點 xét nét, kiểm thu 檢收 xét nhận, v.v.",
+                "Khuôn phép."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tra, kiểm tra: 漢語檢字表 Bảng tra chữ Hán;",
+                "Kiềm chế (sự cẩn thận, chăm chú trong cử chỉ, lời nói, giao thiệp): 行爲失檢 Đi đứng mất ý tứ; 言語失檢 Ăn nói không kiềm chế;",
+                "Như 撿 (bộ 扌);",
+                "Kiểm điểm;",
+                "Hạn chế, điều tiết;",
+                "(văn) Khuôn mẫu;",
+                "[Jiăn] (Họ) Kiểm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem xét lại coi có đúng không — Cách thức."
+            ],
+            "compound_words": {
+                "勾檢": "câu kiểm",
+                "行檢": "hạnh kiểm",
+                "檢閱": "kiểm duyệt",
+                "檢閲": "kiểm duyệt",
+                "檢點": "kiểm điểm",
+                "檢稽": "kiểm kê",
+                "檢林": "kiểm lâm",
+                "檢驗": "kiểm nghiệm",
+                "檢察": "kiểm sát",
+                "檢討": "kiểm thảo",
+                "檢束": "kiểm thúc",
+                "檢查": "kiểm tra",
+                "檢測": "kiểm trắc",
+                "搜檢": "sưu kiểm",
+                "訊檢": "tấn kiểm",
+                "巡檢": "tuần kiểm"
+            }
+        }
+    }
+}

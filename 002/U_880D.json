@@ -1,0 +1,89 @@
+{
+    "character": "蠍",
+    "details": {
+        "Âm Hán Việt": [
+            "hiết",
+            "yết"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trùng 虫 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫歇"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一ノフノ丶フノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIAVO (中戈日女人)"
+        ],
+        "Unicode": [
+            "U+880D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xiē ㄒㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "hạt",
+            "yết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さそり (sasori)"
+        ],
+        "Âm Hàn": [
+            "갈"
+        ],
+        "Âm Quảng Đông": [
+            "hit3",
+            "kit3"
+        ]
+    },
+    "meanings": {
+        "hiết": {
+            "Từ điển phổ thông": [
+                "con hiết, con bọ cạp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Con bọ cạp. § Cũng gọi là “hiết tử” 蠍子. Tiếng Anh: scorpion."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con hiết, con bọ cạp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 蝎."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con bọ cạp."
+            ],
+            "compound_words": {
+                "蠍虎": "hiết hổ"
+            }
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "con hiết, con bọ cạp"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con bọ cạp. Cũng đọc Hiết."
+            ],
+            "compound_words": {
+                "蛇蠍": "xà yết"
+            }
+        }
+    }
+}

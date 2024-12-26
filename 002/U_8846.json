@@ -1,0 +1,78 @@
+{
+    "character": "衆",
+    "details": {
+        "Âm Hán Việt": [
+            "chúng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "huyết 血 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱血乑"
+        ],
+        "Nét bút": [
+            "ノ丨フ丨丨一ノ丨ノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "HTOHO (竹廿人竹人)"
+        ],
+        "Unicode": [
+            "U+8846"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhòng ㄓㄨㄥˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おお.い (ō.i)"
+        ],
+        "Âm Hàn": [
+            "중"
+        ],
+        "Âm Quảng Đông": [
+            "zung3"
+        ]
+    },
+    "meanings": {
+        "chúng": {
+            "Từ điển phổ thông": [
+                "nhiều, đông"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Một dạng viết của chữ 眾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như眾 (bộ 目)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Chúng 眾."
+            ],
+            "compound_words": {
+                "惑衆": "hoặc chúng",
+                "合衆": "hợp chúng",
+                "合衆國": "hợp chúng quốc",
+                "惱衆": "não chúng",
+                "梵衆": "phạn chúng",
+                "寡不敵衆": "quả bất địch chúng",
+                "羣衆": "quần chúng",
+                "山衆": "sơn chúng",
+                "僧衆": "tăng chúng"
+            }
+        }
+    }
+}

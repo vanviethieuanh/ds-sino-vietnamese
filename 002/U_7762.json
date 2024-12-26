@@ -1,0 +1,119 @@
+{
+    "character": "睢",
+    "details": {
+        "Âm Hán Việt": [
+            "huy",
+            "thư",
+            "tuy"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mục 目 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目隹"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "BUOG (月山人土)"
+        ],
+        "Unicode": [
+            "U+7762"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "huī ㄏㄨㄟ",
+            "suī ㄙㄨㄟ"
+        ],
+        "Âm Nôm": [
+            "tuy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "ケイ (kei)",
+            "ケ (ke)",
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みあ.げる (mia.geru)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "seoi1"
+        ]
+    },
+    "meanings": {
+        "huy": {
+            "Từ điển phổ thông": [
+                "trợn ngược mắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính 'Tuy tuy' 睢睢 dáng lườm mắt, nghênh mắt nhìn.",
+                "(Danh) Sông 'Tuy'.",
+                "(Danh) Tên huyện của một châu thời xưa.",
+                "(Danh) Họ 'Tuy'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tư tuy 恣睢 lườm hoài.",
+                "Sông Tuy.",
+                "Một âm là huy. Trợn mắt, ngước mắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trợn mắt, ngước mắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngước mặt lên mà nhìn — Một âm là Tuy."
+            ]
+        },
+        "thư": {
+            "Từ điển Trần Văn Chánh": [
+                "Một loài chim nước. 【睢鳩】thư cưu [jujiu] Chim thư cưu: 關關睢鳩，在河之州 Quan quan cái con thư cưu, con sống con mái cùng nhau bãi ngoài (Thi Kinh);",
+                "(văn) Do dự, ngập ngừng, tránh xa."
+            ],
+            "compound_words": {
+                "恣睢": "thư tuy"
+            }
+        },
+        "tuy": {
+            "Từ điển phổ thông": [
+                "sông Tuy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính 'Tuy tuy' 睢睢 dáng lườm mắt, nghênh mắt nhìn.",
+                "(Danh) Sông 'Tuy'.",
+                "(Danh) Tên huyện của một châu thời xưa.",
+                "(Danh) Họ 'Tuy'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tư tuy 恣睢 lườm hoài.",
+                "Sông Tuy.",
+                "Một âm là huy. Trợn mắt, ngước mắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lườm mắt;",
+                "[Sui] Sông Tuy;",
+                "[Sui] (Họ) Tuy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên sông, tức Tuy thuỷ, thuộc tỉnh Hà Nam Trung Hoa — Một âm là Huy, có nghĩa là nhìn lên, đưa mắt nhìn."
+            ],
+            "compound_words": {
+                "恣睢": "thư tuy"
+            }
+        }
+    }
+}

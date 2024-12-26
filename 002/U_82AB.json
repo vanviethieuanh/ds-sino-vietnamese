@@ -1,0 +1,81 @@
+{
+    "character": "芫",
+    "details": {
+        "Âm Hán Việt": [
+            "diêm",
+            "nguyên"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thảo 艸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹元"
+        ],
+        "Nét bút": [
+            "一丨丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "TMMU (廿一一山)"
+        ],
+        "Unicode": [
+            "U+82AB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ",
+            "yuán ㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "nguyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)",
+            "ガン (gan)"
+        ],
+        "Âm Hàn": [
+            "원"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "diêm": {
+            "Từ điển Trần Văn Chánh": [
+                "【芫荽】diêm tuy [yánsui] Rau mùi, rau ngò."
+            ]
+        },
+        "nguyên": {
+            "Từ điển phổ thông": [
+                "(xem: nguyên hoa 芫花)",
+                "cây thuốc cá (một loại cây độc còn gọi là ngư độc 魚毒,鱼毒, tên khoa học: daphne genkwa)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “nguyên hoa” 芫花."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cây nguyên hoa 芫花, lá độc, người đánh cá cứ giã nó ra ném xuống sông, cá chết nổi lên, vì thế lại gọi là ngư độc 魚毒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây thuốc cá (Daphne genkwa, một loại cây độc, còn gọi là 魚毒)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây có chất độc, người xưa thường dùng để đầu độc cá mà bắt cá, do đó còn có tên là Ngư độc."
+            ],
+            "compound_words": {
+                "芫花": "nguyên hoa"
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "character": "抬",
+    "details": {
+        "Âm Hán Việt": [
+            "si",
+            "sĩ",
+            "đài"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘台"
+        ],
+        "Nét bút": [
+            "一丨一フ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QIR (手戈口)"
+        ],
+        "Unicode": [
+            "U+62AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tái ㄊㄞˊ"
+        ],
+        "Âm Nôm": [
+            "đài"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もた.げる (mota.geru)"
+        ],
+        "Âm Hàn": [
+            "태",
+            "대"
+        ],
+        "Âm Quảng Đông": [
+            "toi4"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 笞 (bộ 竹)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh bằng roi — Một âm là Đài. Xem Đài."
+            ]
+        },
+        "sĩ": {
+            "Từ điển phổ thông": [
+                "ngẩng lên, ngóc lên",
+                "nhấc, nâng, khiêng",
+                "đánh đòn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðánh đòn. Tục đọc là chữ đài."
+            ],
+            "compound_words": {
+                "抬头": "sĩ đầu",
+                "抬頭": "sĩ đầu",
+                "抬起": "sĩ khởi"
+            }
+        },
+        "đài": {
+            "Từ điển phổ thông": [
+                "ngẩng lên, ngóc lên",
+                "nhấc, nâng, khiêng",
+                "đánh đòn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngẩng, nghểnh lên. ◎Như: 'đài đầu đĩnh hung' 抬頭挺胸 ngẩng đầu ưỡn ngực.",
+                "(Động) Khiêng. ◎Như: 'đài kiệu tử' 抬轎子 khiêng kiệu, 'đài đam giá' 抬擔架 khiêng cáng.",
+                "(Động) Nâng. ◎Như: 'đài cao giá' 抬高價 nâng cao giá.",
+                "(Động) Tranh cãi, đấu khẩu.",
+                "Cũng viết là 'đài' 擡."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðánh đòn. Tục đọc là chữ đài."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擡"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khiêng. Hai người cùng khiêng vật gì — Một âm khác là Si. Xem Si."
+            ]
+        }
+    }
+}

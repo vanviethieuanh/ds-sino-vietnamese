@@ -1,0 +1,94 @@
+{
+    "character": "鼠",
+    "details": {
+        "Âm Hán Việt": [
+            "thử"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thử 鼠 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一一フ丶丶フ丶丶フ"
+        ],
+        "Thương Hiệt": [
+            "HXVYV (竹重女卜女)"
+        ],
+        "Unicode": [
+            "U+9F20"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shǔ ㄕㄨˇ"
+        ],
+        "Âm Nôm": [
+            "thử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねずみ (nezumi)",
+            "ねず (nezu)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "syu2"
+        ]
+    },
+    "meanings": {
+        "thử": {
+            "Từ điển phổ thông": [
+                "con chuột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con chuột.",
+                "(Tính) Lo âu. ◎Như: 'thử tư' 鼠思 lo âu. ◇Thi Kinh 詩經: 'Thử tư khấp huyết, Vô ngôn bất tật' 鼠思泣血, 無言不疾 (Tiểu nhã 小雅, Vũ vô chánh 雨無正) Lo âu khóc nước mắt ra máu, Không lời nào mà không thống khổ, đau thương.",
+                "(Tính) 'Thủ thử' 首鼠 trù trừ, du di, do dự. § Cũng gọi là 'thủ thí' 首施."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con chuột.",
+                "Chuột hay truyền bệnh dịch hạch cho người, nên gọi chứng dịch hạch là thử dịch 鼠疫.",
+                "Người hay trù trừ, du di, ba phải gọi là thủ thử 首鼠. Cũng gọi là thủ thí 首施."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chuột: 鼠患貓 Chuột sợ mèo;",
+                "【首鼠】thủ thử [shôushư] Người ba phải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chuột. Loài chuột — Chỉ bọn tiểu nhân — Tên một bộ chữ Hán, bộ Thử."
+            ],
+            "compound_words": {
+                "隱鼠": "ẩn thử",
+                "冰鼠": "băng thử",
+                "窮鼠齧貍": "cùng thử niết li",
+                "袋鼠": "đại thử",
+                "投鼠忌器": "đầu thử kị khí",
+                "田鼠": "điền thử",
+                "栗鼠": "lật thử",
+                "銀鼠": "ngân thử",
+                "飛鼠": "phi thử",
+                "殺鼠": "sát thử",
+                "畜猫防鼠": "súc miêu phòng thử",
+                "鼫鼠": "thạch thử",
+                "鼠疫": "thử dịch",
+                "鼠竄": "thử thoán",
+                "松鼠": "tùng thử",
+                "社鼠": "xã thử"
+            }
+        }
+    }
+}

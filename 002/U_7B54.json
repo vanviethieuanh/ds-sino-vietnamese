@@ -1,0 +1,100 @@
+{
+    "character": "答",
+    "details": {
+        "Âm Hán Việt": [
+            "đáp"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮合"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丶一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HOMR (竹人一口)"
+        ],
+        "Unicode": [
+            "U+7B54"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dā ㄉㄚ",
+            "dá ㄉㄚˊ"
+        ],
+        "Âm Nôm": [
+            "đáp",
+            "đớp",
+            "hóp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こた.える (kota.eru)",
+            "こた.え (kota.e)"
+        ],
+        "Âm Hàn": [
+            "답"
+        ],
+        "Âm Quảng Đông": [
+            "daap3"
+        ]
+    },
+    "meanings": {
+        "đáp": {
+            "Từ điển phổ thông": [
+                "trả lời",
+                "báo đáp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Báo đền. ◎Như: 'báo đáp' 報答 báo đền.",
+                "(Động) Trả lời, ứng đối. ◎Như: 'tiếu nhi bất đáp' 笑而不答 cười mà không trả lời.",
+                "(Danh) Họ 'Đáp'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Báo đáp, đáp lại.",
+                "Trả lời lại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 答 [dá], thường dùng trong một số từ ghép như 答理, 答應. Xem 答 [dá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trở lại nói cho biết — Trả lời — Đền bù."
+            ],
+            "compound_words": {
+                "報答": "báo đáp",
+                "报答": "báo đáp",
+                "答答": "đáp đáp",
+                "答禮": "đáp lễ",
+                "答數": "đáp số",
+                "答辭": "đáp từ",
+                "答問": "đáp vấn",
+                "對答": "đối đáp",
+                "解答": "giải đáp",
+                "觧答": "giải đáp",
+                "回答": "hồi đáp",
+                "漁樵問答": "ngư tiều vấn đáp",
+                "批答": "phê đáp",
+                "覆答": "phúc đáp",
+                "裁答": "tài đáp",
+                "溼答答": "thấp đáp đáp",
+                "應答": "ứng đáp",
+                "問答": "vấn đáp"
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "礴",
+    "details": {
+        "Âm Hán Việt": [
+            "bạc"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "thạch 石 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石薄"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一丨丨丶丶一一丨フ一一丨丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "MRTEI (一口廿水戈)"
+        ],
+        "Unicode": [
+            "U+7934"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ま.じる (ma.jiru)"
+        ],
+        "Âm Quảng Đông": [
+            "bok3"
+        ]
+    },
+    "meanings": {
+        "bạc": {
+            "Từ điển phổ thông": [
+                "(xem: bàn bạc 磐礡)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) “Bàn bạc” 磐礡: (1) Rộng lớn mênh mông. (2) Đầy dẫy, sung mãn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bàng bạc 旁礡 rộng lớn mênh mông, đầy rẫy, lẫn lộn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bàng bạc 磅礴."
+            ],
+            "compound_words": {
+                "磐礴": "bàn bạc",
+                "旁礴": "bàng bạc",
+                "磅礴": "bàng bạc"
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "character": "筴",
+    "details": {
+        "Âm Hán Việt": [
+            "giáp",
+            "hiệp",
+            "kiệp",
+            "sách"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trúc 竹 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮夾"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一ノ丶ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HKOO (竹大人人)"
+        ],
+        "Unicode": [
+            "U+7B74"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "jiā ㄐㄧㄚ",
+            "jiá ㄐㄧㄚˊ"
+        ],
+        "Âm Nôm": [
+            "sách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "めどぎ (medogi)"
+        ],
+        "Âm Hàn": [
+            "협",
+            "책"
+        ],
+        "Âm Quảng Đông": [
+            "caak3",
+            "gaap3"
+        ]
+    },
+    "meanings": {
+        "giáp": {
+            "Từ điển phổ thông": [
+                "cây đũa",
+                "gắp bằng đũa"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'sách' 策.",
+                "Một âm là 'kiệp'. (Danh) Đồ để kẹp, đũa gắp.",
+                "(Động) Kiềm chế.",
+                "(Danh) Thích thú, khoái ý."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cỏ thi trong lúc đã gắp ra.",
+                "Mưu kế, cùng nghĩa với chữ sách 策.",
+                "Một âm là giáp. Ðũa.",
+                "Lại một âm là hiệp. Gắp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đũa;",
+                "Gắp."
+            ]
+        },
+        "hiệp": {
+            "Từ điển phổ thông": [
+                "cây đũa",
+                "gắp bằng đũa"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cỏ thi trong lúc đã gắp ra.",
+                "Mưu kế, cùng nghĩa với chữ sách 策.",
+                "Một âm là giáp. Ðũa.",
+                "Lại một âm là hiệp. Gắp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại đũa lớn bằng tre để làm bếp — Một âm là Sách. Xem Sách."
+            ]
+        },
+        "kiệp": {
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'sách' 策.",
+                "Một âm là 'kiệp'. (Danh) Đồ để kẹp, đũa gắp.",
+                "(Động) Kiềm chế.",
+                "(Danh) Thích thú, khoái ý."
+            ]
+        },
+        "sách": {
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'sách' 策.",
+                "Một âm là 'kiệp'. (Danh) Đồ để kẹp, đũa gắp.",
+                "(Động) Kiềm chế.",
+                "(Danh) Thích thú, khoái ý."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cỏ thi trong lúc đã gắp ra.",
+                "Mưu kế, cùng nghĩa với chữ sách 策.",
+                "Một âm là giáp. Ðũa.",
+                "Lại một âm là hiệp. Gắp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cỏ thi để bói (như 策);",
+                "Mưu lược (như 策)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giỏ tre nhỏ — Ghi chép. Viết ra — Mưu lược. Như chữ Sách 策 — Một âm khác là Hiệp. Xem Hiệp."
+            ]
+        }
+    }
+}

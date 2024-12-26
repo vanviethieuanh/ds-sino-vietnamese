@@ -1,0 +1,93 @@
+{
+    "character": "臾",
+    "details": {
+        "Âm Hán Việt": [
+            "du",
+            "dũng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "cữu 臼 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HXO (竹重人)"
+        ],
+        "Unicode": [
+            "U+81FE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "kuì ㄎㄨㄟˋ",
+            "yǒng ㄧㄨㄥˇ",
+            "yú ㄩˊ",
+            "yǔ ㄩˇ"
+        ],
+        "Âm Nôm": [
+            "du"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユ (yu)",
+            "ヨ (yo)",
+            "ヨウ (yō)"
+        ],
+        "Âm Hàn": [
+            "유",
+            "용",
+            "궤"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển phổ thông": [
+                "(xem: tu du 須臾)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'tu du' 須臾.",
+                "(Tính) Béo tốt, màu mỡ. § Sau viết là 'du' 腴.",
+                "Một âm là 'dũng'. (Động) § Cũng như 'dũng' 慂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tu du 須臾 chốc lát, giây lát.",
+                "Một âm là dũng. Cùng nghĩa với chữ dũng 慂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chốc lát: 他須臾即來 Chút nữa nó sẽ đến ngay. Xem 須臾 [xuyú];",
+                "[Yú] (Họ) Du."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghỉ một chút — Chốc lát, khoảnh khắc. Chẳng hạn Tu du 須臾 ( khoảnh khắc )."
+            ],
+            "compound_words": {
+                "須臾": "tu du",
+                "须臾": "tu du"
+            }
+        },
+        "dũng": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'tu du' 須臾.",
+                "(Tính) Béo tốt, màu mỡ. § Sau viết là 'du' 腴.",
+                "Một âm là 'dũng'. (Động) § Cũng như 'dũng' 慂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tu du 須臾 chốc lát, giây lát.",
+                "Một âm là dũng. Cùng nghĩa với chữ dũng 慂."
+            ]
+        }
+    }
+}

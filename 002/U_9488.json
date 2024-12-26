@@ -1,0 +1,72 @@
+{
+    "character": "针",
+    "details": {
+        "Âm Hán Việt": [
+            "châm",
+            "trâm"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "kim 金 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰钅十"
+        ],
+        "Nét bút": [
+            "ノ一一一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "XCJ (重金十)"
+        ],
+        "Unicode": [
+            "U+9488"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhēn ㄓㄣ"
+        ],
+        "Âm Nôm": [
+            "châm",
+            "trâm"
+        ],
+        "Âm Quảng Đông": [
+            "zam1"
+        ]
+    },
+    "meanings": {
+        "châm": {
+            "Từ điển phổ thông": [
+                "cái kim"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 針."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 針"
+            ],
+            "compound_words": {
+                "别针": "biệt châm",
+                "撞针": "chàng châm",
+                "打针": "đả châm",
+                "方针": "phương châm",
+                "扎针": "trát châm",
+                "避雷针": "tỵ lôi châm"
+            }
+        },
+        "trâm": {
+            "Từ điển phổ thông": [
+                "cái kim"
+            ]
+        }
+    }
+}

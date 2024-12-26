@@ -1,0 +1,89 @@
+{
+    "character": "喉",
+    "details": {
+        "Âm Hán Việt": [
+            "hầu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口侯"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨フ一ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RONK (口人弓大)"
+        ],
+        "Unicode": [
+            "U+5589"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hóu ㄏㄡˊ"
+        ],
+        "Âm Nôm": [
+            "hầu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のど (nodo)"
+        ],
+        "Âm Hàn": [
+            "후"
+        ],
+        "Âm Quảng Đông": [
+            "hau4"
+        ]
+    },
+    "meanings": {
+        "hầu": {
+            "Từ điển phổ thông": [
+                "hầu, họng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cuống họng. § Cũng gọi là “hầu đầu” 喉頭. ◎Như: “yết hầu” 咽喉 cổ họng, “hầu lung” 咽喉: (1) Tục chỉ yết hầu. (2) Tỉ dụ nơi hiểm yếu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cổ họng hơi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(giải) Họng, cổ họng, hầu, yết hầu. Cg. 喉頭 [hóutóu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cổ họng. chẳng hạn Hầu thống ( bệnh đau cổ họng )."
+            ],
+            "compound_words": {
+                "扼喉": "ách hầu",
+                "白喉": "bạch hầu",
+                "喉头": "hầu đầu",
+                "喉頭": "hầu đầu",
+                "喉結": "hầu kết",
+                "喉结": "hầu kết",
+                "喉鏡": "hầu kính",
+                "喉镜": "hầu kính",
+                "喉咙": "hầu lung",
+                "喉嚨": "hầu lung",
+                "喉痧": "hầu sa",
+                "喉炎": "hầu viêm",
+                "結喉": "kết hầu",
+                "露喉": "lộ hầu",
+                "咽喉": "yết hầu"
+            }
+        }
+    }
+}

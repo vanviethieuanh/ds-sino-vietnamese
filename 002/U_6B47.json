@@ -1,0 +1,113 @@
+{
+    "character": "歇",
+    "details": {
+        "Âm Hán Việt": [
+            "hiết",
+            "tiết",
+            "yết"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khiếm 欠 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰曷欠"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフノ丶フノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "AVNO (日女弓人)"
+        ],
+        "Unicode": [
+            "U+6B47"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiē ㄒㄧㄝ",
+            "yà ㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "hét",
+            "hết",
+            "hiết",
+            "hít",
+            "hớt",
+            "yết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)",
+            "カイ (kai)",
+            "カツ (katsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.める (ya.meru)"
+        ],
+        "Âm Hàn": [
+            "헐"
+        ],
+        "Âm Quảng Đông": [
+            "hit3"
+        ]
+    },
+    "meanings": {
+        "hiết": {
+            "Từ điển phổ thông": [
+                "nghỉ, thôi, hết",
+                "tiết ra, tháo tha, nhả ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghỉ, thôi. ◎Như: 'sảo hiết' 稍歇 nghỉ một chút (khi đang làm việc), 'hiết thủ' 歇手 nghỉ tay (xong việc). ◇Thủy hử truyện 水滸傳: 'Đương vãn các tự quyền hiết' 當晚各自權歇 (Đệ nhất hồi) Tối đó, mọi người tạm lui nghỉ.",
+                "(Động) Khí vị tiêu tan. ◎Như: 'phương phức hiết' 芳馥歇 hương thơm tiêu tan.",
+                "(Động) Hết, cạn sạch. ◇Lí Hạ 李賀: 'Đăng thanh lan cao hiết, Lạc chiếu phi nga vũ' 燈青蘭膏歇, 落照飛蛾舞 (Thương tâm hành 傷心行) Đèn xanh dầu thơm cạn, Chiếu rớt thiêu thân múa.",
+                "(Động) Tháo ra, tiết ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghỉ, thôi, tiêu tan. Ðang làm việc mà tạm nghỉ một chút gọi là sảo hiết 稍歇, làm xong gọi là hiết thủ 歇手.",
+                "Hết.",
+                "Tháo ra, tiết ra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thôi. Ngừng. Nghỉ ngơi — Hơi xì ra, phì ra."
+            ],
+            "compound_words": {
+                "安歇": "an hiết"
+            }
+        },
+        "tiết": {
+            "Từ điển phổ thông": [
+                "nghỉ, thôi, hết",
+                "tiết ra, tháo tha, nhả ra"
+            ]
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "nghỉ, thôi, hết",
+                "tiết ra, tháo tha, nhả ra"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghỉ, nghỉ ngơi: 坐 在路旁歇一會兒 Ngồi bên đường nghỉ một lát;",
+                "Thôi, ngừng, đình lại: 歇工 Ngừng việc; 歇業 Đình chỉ kinh doanh; 雨歇 Mưa tạnh;",
+                "(đph) Ngủ: 你歇了嗎？ Anh ngủ rồi à?;",
+                "(văn) Hết;",
+                "(văn) Tháo ra, tiết ra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hết — Cuối cùng."
+            ],
+            "compound_words": {
+                "歇後": "yết hậu"
+            }
+        }
+    }
+}

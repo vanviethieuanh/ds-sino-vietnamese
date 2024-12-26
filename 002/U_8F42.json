@@ -1,0 +1,82 @@
+{
+    "character": "轂",
+    "details": {
+        "Âm Hán Việt": [
+            "cốc"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "xa 車 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿹𣪊車"
+        ],
+        "Nét bút": [
+            "一丨一丶フ一一丨フ一一一丨ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "GJHNE (土十竹弓水)"
+        ],
+        "Unicode": [
+            "U+8F42"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ",
+            "gǔ ㄍㄨˇ"
+        ],
+        "Âm Nôm": [
+            "cốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コク (koku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こしき (koshiki)"
+        ],
+        "Âm Hàn": [
+            "곡"
+        ],
+        "Âm Quảng Đông": [
+            "guk1"
+        ]
+    },
+    "meanings": {
+        "cốc": {
+            "Từ điển phổ thông": [
+                "bầu xe (chỗ tụ hợp các nan hoa)",
+                "tụ họp đông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bầu giữa bánh xe, trục bánh xe. ◇Đạo Đức Kinh 道德經: 'Tam thập phúc cộng nhất cốc, đương kì vô, hữu xa chi dụng' 三十輻共一轂, 當其無, 有車之用 (Chương 11) Ba mươi tay hoa tụ vào một bầu, nhờ ở chỗ \"không\" của nó mới có cái dùng của xe.",
+                "(Danh) Mượn chỉ xe. ◇Văn tuyển 文選: 'Chu luân hoa cốc, ủng mao vạn lí, hà kì tráng dã' 朱輪華轂, 擁旄萬里, 何其壯也 (Khâu Trì 丘遲, Dữ Trần Bá chi thư 與陳伯之書) Bánh xe đỏ xe hoa, cắm cờ mao muôn dặm, hùng tráng biết bao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bầu giữa bánh xe. Cái bầu ấy quay thì xe đi, vì thề nên dìu dắt cho người tiến lên gọi là thôi cốc 推轂.",
+                "Tóm, tụ họp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đùm xe, trục bánh xe. 【轂轆】cốc lộc [gưlu] Bánh xe;",
+                "(văn) Tụ họp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầu trục bánh xe, lồi ra ở trung tâm bên ngoài bánh xe."
+            ],
+            "compound_words": {
+                "轉轂": "chuyển cốc",
+                "轂擊肩摩": "cốc kích kiên ma",
+                "推轂": "thôi cốc"
+            }
+        }
+    }
+}

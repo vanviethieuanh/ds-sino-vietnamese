@@ -1,0 +1,95 @@
+{
+    "character": "箭",
+    "details": {
+        "Âm Hán Việt": [
+            "tiến",
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trúc 竹 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮前"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丶ノ一丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "HTBN (竹廿月弓)"
+        ],
+        "Unicode": [
+            "U+7BAD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tên",
+            "tiễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や (ya)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin3"
+        ]
+    },
+    "meanings": {
+        "tiến": {
+            "Từ điển Thiều Chửu": [
+                "Cái tên.",
+                "Lậu tiến 漏箭 cái dùng trong cái hồ để tính thời khắc của đời xưa."
+            ]
+        },
+        "tiễn": {
+            "Từ điển phổ thông": [
+                "tên (bắn cung)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên một giống tre nhỏ mà cứng, có thể dùng làm cán tên.",
+                "(Danh) Mũi tên (bắn đi bằng cung). ◎Như: 'trường tiễn' 長箭 mũi tên dài. ◇Thủy hử truyện 水滸傳: 'Chu Thông chiết tiễn vi thệ' 周通折箭為誓 (Đệ ngũ hồi) Chu Thông bẻ mũi tên thề.",
+                "(Danh) 'Lậu tiễn' 漏箭 đồ dùng trong hồ để tính thời khắc ngày xưa.",
+                "(Danh) Một thứ thẻ để đánh bạc thời xưa.",
+                "(Danh) Lượng từ: khoảng cách một tầm tên. ◇Nho lâm ngoại sử 儒林外史: 'Bào liễu nhất tiễn đa lộ' 跑了一箭多路 (Đệ nhất hồi) Chạy được hơn một tầm tên đường.",
+                "(Danh) Lượng từ: một thân cây hoa lan gọi là 'nhất tiễn' 一箭. ◇Hứa Địa San 許地山: 'Ngã hồi đầu khán, kỉ tiễn lan hoa tại nhất cá Nhữ diêu bát thượng khai trước' 我回頭看, 幾箭蘭花在一個汝窯缽上開着 (Không san linh vũ 空山靈雨, Tiếu 笑) Tôi quay đầu nhìn, mấy cành hoa lan trên cái chén bằng sứ Nhữ Châu đã nở."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Mũi) tên: 像箭一般地飛馳 Nhanh như tên bắn;",
+                "Xem 漏箭 [lòujiàn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mũi tên, thứ vũ khí thời xưa, dùng cây cung mà bắn đi. Bản dịch  Chinh phụ ngâm khúc : » Đường rong ruổi cung đeo cung tiễn «."
+            ],
+            "compound_words": {
+                "暗箭": "ám tiễn",
+                "骲箭": "bão tiễn",
+                "擋箭牌": "đáng tiễn bài",
+                "髐箭": "hiêu tiễn",
+                "火箭": "hoả tiễn",
+                "冷箭": "lãnh tiễn",
+                "令箭": "lệnh tiễn",
+                "雙箭齊穿": "song tiễn tề xuyên",
+                "箭書": "tiễn thư",
+                "傳箭": "truyền tiễn"
+            }
+        }
+    }
+}

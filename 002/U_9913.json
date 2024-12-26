@@ -1,0 +1,86 @@
+{
+    "character": "餓",
+    "details": {
+        "Âm Hán Việt": [
+            "ngã",
+            "ngạ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thực 食 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠我"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶ノ一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OIHQI (人戈竹手戈)"
+        ],
+        "Unicode": [
+            "U+9913"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "è"
+        ],
+        "Âm Nôm": [
+            "nga"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.える (u.eru)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "ngo6"
+        ]
+    },
+    "meanings": {
+        "ngã": {
+            "Từ điển phổ thông": [
+                "đói quá"
+            ],
+            "compound_words": {
+                "餓死": "ngã tử"
+            }
+        },
+        "ngạ": {
+            "Từ điển trích dẫn": [
+                "(Động) Đói. § Đối lại với 'bão' 飽. ◇Nguyễn Trãi 阮廌: 'Thú Dương ngạ tử bất thực túc' 首陽餓死不食粟 (Côn sơn ca 崑山歌) (Bá Di 伯夷 và Thúc Tề 叔齊) ở núi Thú Dương chết đói, không chịu ăn thóc.",
+                "(Động) Để cho đói, bỏ đói. ◇Mạnh Tử 孟子: 'Thiên tương giáng đại nhậm ư thị nhân dã, tất tiên khổ kì tâm chí, lao kì cân cốt, ngạ kì thể phu' 天將降大任於是人也, 必先苦其心志, 勞其筋骨, 餓其體膚 (Cáo tử hạ 告子下) Trời định giao phó trọng trách cho người đó, thì trước hết làm khổ tâm chí, khiến cho nhọc gân cốt, để cho đói thân xác.",
+                "(Tính) Bị đói. ◇Quản Tử 管子: 'Đạo hữu ngạ dân' 道有餓民 (Quốc súc 國畜) Trên đường có dân bị đói."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Đói quá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đói: 餓者 Người đói; 挨餓 Bị đói; 那男孩看起來肚子餓的樣子 Đứa bé trai này trông có vẻ đói bụng;",
+                "Bỏ đói: 別餓着小雞 Đừng bắt gà con nhịn đói;",
+                "Thèm khát, thèm thuồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chết đói. Đói lắm."
+            ],
+            "compound_words": {
+                "飢餓": "cơ ngạ",
+                "餓鬼": "ngạ quỷ"
+            }
+        }
+    }
+}

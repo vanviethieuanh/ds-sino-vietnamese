@@ -1,0 +1,104 @@
+{
+    "character": "蔭",
+    "details": {
+        "Âm Hán Việt": [
+            "âm",
+            "ấm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹陰"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨ノ丶丶フ一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "TNLI (廿弓中戈)"
+        ],
+        "Unicode": [
+            "U+852D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yīn ㄧㄣ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ấm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かげ (kage)"
+        ],
+        "Âm Hàn": [
+            "음"
+        ],
+        "Âm Quảng Đông": [
+            "jam3"
+        ]
+    },
+    "meanings": {
+        "âm": {
+            "Từ điển phổ thông": [
+                "bóng râm",
+                "che chở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bóng cây, bóng rợp. ◇Tuân Tử 荀子: 'Thụ thành ấm nhi chúng điểu tức yên' 樹成蔭而衆鳥息焉 (Khuyến học 勸學) Cây thành bóng rợp nên đàn chim tới đậu nghỉ vậy.",
+                "(Danh) Bóng mặt trời, ngày tháng trôi qua. ◇Tả truyện 左傳: 'Triệu Mạnh thị ấm' 趙孟視蔭 (Chiêu nguyên niên 昭元年) Triệu Mạnh nhìn bóng ngày qua.",
+                "(Danh) Ân đức che chở. § Thông 廕. ◎Như: 'tổ ấm' 祖蔭 phúc trạch của tổ tiên để lại. § Phép ngày xưa cứ ông cha làm quan to, con cháu được tập ấm ra làm quan, gọi là 'ấm sinh' 蔭生, 'ấm tử' 蔭子, 'ấm tôn' 蔭孫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bóng cây, bóng rợp, bóng mát Xem 蔭 [yìn]."
+            ]
+        },
+        "ấm": {
+            "Từ điển phổ thông": [
+                "bóng râm",
+                "che chở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bóng cây, bóng rợp. ◇Tuân Tử 荀子: 'Thụ thành ấm nhi chúng điểu tức yên' 樹成蔭而衆鳥息焉 (Khuyến học 勸學) Cây thành bóng rợp nên đàn chim tới đậu nghỉ vậy.",
+                "(Danh) Bóng mặt trời, ngày tháng trôi qua. ◇Tả truyện 左傳: 'Triệu Mạnh thị ấm' 趙孟視蔭 (Chiêu nguyên niên 昭元年) Triệu Mạnh nhìn bóng ngày qua.",
+                "(Danh) Ân đức che chở. § Thông 廕. ◎Như: 'tổ ấm' 祖蔭 phúc trạch của tổ tiên để lại. § Phép ngày xưa cứ ông cha làm quan to, con cháu được tập ấm ra làm quan, gọi là 'ấm sinh' 蔭生, 'ấm tử' 蔭子, 'ấm tôn' 蔭孫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bóng cây, bóng rợp.",
+                "Phàm được nhờ ơn của người khác đều gọi là ấm. Như tổ ấm 祖蔭 nhờ phúc trạch của tổ tiên để lại. Phép ngày xưa cứ ông cha làm quan to, con cháu được tập ấm ra làm quan, gọi là ấm sinh 蔭生, ấm tử 蔭子, ấm tôn 蔭孫, v.v. Tục thường viết là 廕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Râm, râm mát;",
+                "Nhờ che chở: 祖蔭 Nhờ phúc của cha ông để lại; 蔭生 Người con được nhận chức quan (do có cha làm quan to) Xem 蔭 [yin]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bóng mát của cây cối — Chỉ bóng mặt trời — Che chở — Được hưởng đặc ân của triều đình nhờ ông cha có công lao với triều đình. Dùng như chữ Ấm 廕."
+            ],
+            "compound_words": {
+                "蔭補": "ấm bổ",
+                "蔭生": "ấm sinh",
+                "蔭授": "ấm thụ",
+                "蔭子": "ấm tử",
+                "樛蔭": "cù ấm",
+                "遺蔭": "di ấm",
+                "襲蔭": "tập ấm",
+                "樾蔭": "việt ấm"
+            }
+        }
+    }
+}

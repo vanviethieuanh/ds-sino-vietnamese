@@ -1,0 +1,87 @@
+{
+    "character": "濯",
+    "details": {
+        "Âm Hán Việt": [
+            "trạc",
+            "trạo"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡翟"
+        ],
+        "Nét bút": [
+            "丶丶一フ丶一フ丶一ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "ESMG (水尸一土)"
+        ],
+        "Unicode": [
+            "U+6FEF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shuò ㄕㄨㄛˋ",
+            "zhào ㄓㄠˋ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "trạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すす.ぐ (susu.gu)",
+            "ゆす.ぐ (yusu.gu)"
+        ],
+        "Âm Hàn": [
+            "탁"
+        ],
+        "Âm Quảng Đông": [
+            "zok6"
+        ]
+    },
+    "meanings": {
+        "trạc": {
+            "Từ điển phổ thông": [
+                "giặt giũ, rửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rửa, giặt. ◇Khuất Nguyên 屈原: 'Thương Lang chi thủy thanh hề, khả dĩ trạc ngã anh, Thương Lang chi thủy trọc hề, khả dĩ trạc ngã túc' 滄浪之水清兮, 可以濯我纓, 滄浪之水濁兮, 可以濯我足 (Ngư phủ 漁父) Nước sông Thương Lang trong hề, có thể giặt dải mũ của ta, Nước sông Thương Lang đục hề, có thể rửa chân ta.",
+                "(Tính) 'Trạc trạc' 濯濯: (1) Sáng tỏ. (2) Trong trẻo, mới mẻ. (3) Béo, mập mạp. (4) Trơ trụi, núi trọc không có cây."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rửa, giặt.",
+                "Trạc trạc 濯濯 sáng sủa, béo mập mạp, trơ trọi, núi trọc không có cây gọi là trạc trạc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Rửa, giặt: 濯足 Rửa chân;",
+                "【濯濯】trạc trạc [zhuózhuó] (văn) Trơ trọi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy nước rửa sạch — Trừ bỏ điều ác — To lớn."
+            ],
+            "compound_words": {
+                "濯濯": "trạc trạc"
+            }
+        },
+        "trạo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mái chèo — Chèo thuyền — Xem Trạc."
+            ]
+        }
+    }
+}

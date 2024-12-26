@@ -1,0 +1,76 @@
+{
+    "character": "鸚",
+    "details": {
+        "Âm Hán Việt": [
+            "anh"
+        ],
+        "Tổng nét": [
+            "28"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰嬰鳥"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶丨フ一一一ノ丶フノ一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "BVHAF (月女竹日火)"
+        ],
+        "Unicode": [
+            "U+9E1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yīng ㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "anh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "オウ (ō)",
+            "ヨウ (yō)"
+        ],
+        "Âm Hàn": [
+            "앵"
+        ],
+        "Âm Quảng Đông": [
+            "jing1"
+        ]
+    },
+    "meanings": {
+        "anh": {
+            "Từ điển phổ thông": [
+                "(xem: anh vũ 鸚鵡,鹦鹉)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'anh vũ' 鸚鵡.",
+                "(Danh) § Xem 'anh ca' 鸚哥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Anh vũ 鸚鵡 chim anh vũ, con vẹt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【鸚鵡】anh vũ [yingwư] (động) Con vẹt, chim anh vũ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con vẹt."
+            ],
+            "compound_words": {
+                "鸚哥": "anh ca",
+                "鸚鵡": "anh vũ"
+            }
+        }
+    }
+}

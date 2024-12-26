@@ -1,0 +1,84 @@
+{
+    "character": "俯",
+    "details": {
+        "Âm Hán Việt": [
+            "phủ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻府"
+        ],
+        "Nét bút": [
+            "ノ丨丶一ノノ丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "OIOI (人戈人戈)"
+        ],
+        "Unicode": [
+            "U+4FEF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fǔ ㄈㄨˇ"
+        ],
+        "Âm Nôm": [
+            "phủ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふ.す (fu.su)",
+            "うつむ.く (utsumu.ku)",
+            "ふ.せる (fu.seru)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu2"
+        ]
+    },
+    "meanings": {
+        "phủ": {
+            "Từ điển phổ thông": [
+                "cúi xuống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cúi. ◎Như: 'ngưỡng quan phủ sát' 仰觀俯察 ngửa xem cúi xét.",
+                "(Phó) Khiêm từ dùng trong công văn, thư tín ngày xưa, tỏ ý thỉnh cầu. ◎Như: 'phủ sát' 俯察 đoái xét, 'phủ duẫn' 俯允 rủ lòng ưng cho."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cúi, như ngưỡng quan phủ sát 仰觀俯察 ngửa xem cúi xét.",
+                "Lời kẻ dưới đối với người trên cũng gọi là phủ, như phủ sát 俯察 rủ lòng xét xuống, phủ duẫn 俯允 rủ lòng ưng cho, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cúi... xuống: 俯首 Cúi đầu; 俯視 Cúi nhìn;",
+                "Đoái, rủ lòng (thương kẻ dưới): 俯允 Rộng lòng cho phép; 俯念 Đoái thương; 俯察 Rủ lòng xét xuống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cúi thấp xuống."
+            ],
+            "compound_words": {
+                "仰事俯畜": "ngưỡng sự phủ súc",
+                "俯仰": "phủ ngưỡng",
+                "俯仰之間": "phủ ngưỡng chi gian",
+                "俯視": "phủ thị",
+                "俯视": "phủ thị"
+            }
+        }
+    }
+}

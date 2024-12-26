@@ -1,0 +1,95 @@
+{
+    "character": "撈",
+    "details": {
+        "Âm Hán Việt": [
+            "lao",
+            "liệu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘勞"
+        ],
+        "Nét bút": [
+            "一丨一丶ノノ丶丶ノノ丶丶フフノ"
+        ],
+        "Thương Hiệt": [
+            "QFFS (手火火尸)"
+        ],
+        "Unicode": [
+            "U+6488"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lāo ㄌㄠ"
+        ],
+        "Âm Nôm": [
+            "lao",
+            "lau",
+            "trau"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Hàn": [
+            "로"
+        ],
+        "Âm Quảng Đông": [
+            "laau4",
+            "lou1",
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lao": {
+            "Từ điển phổ thông": [
+                "mò, lặn bắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mò, vớt. ◎Như: 'lao ngư' 撈魚 mò cá, 'thủy trung lao nguyệt' 水中撈月 mò trăng đáy nước.",
+                "(Động) Vơ vét, kiếm chác (đoạt lấy một cách bất chính). ◎Như: 'lao du thủy' 撈油水 chiếm đoạt tiền của bằng thủ đoạn bất chính, 'tha sấn ki lao liễu nhất bút' 他趁機撈了一筆 hắn thừa cơ kiếm chác một món tiền.",
+                "§ Ghi chú: Cũng đọc là 'liệu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mò, lặn vào trong nước mà mò vật gì lên gọi là lao, như lao ngư 撈魚 mò cá, cũng đọc là chữ liệu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vớt, mò: 撈魚 Vớt cá, mò cá; 海底撈針 Đáy biển mò kim; 撈浮萍 Vớt bèo;",
+                "Vơ vét, kiếm chác: 趁機撈一把 Thừa cơ vơ một mẻ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cho tay xuống nước mà mò, tìm kiếm."
+            ],
+            "compound_words": {
+                "水底撈針": "thuỷ để lao châm"
+            }
+        },
+        "liệu": {
+            "Từ điển trích dẫn": [
+                "(Động) Mò, vớt. ◎Như: 'lao ngư' 撈魚 mò cá, 'thủy trung lao nguyệt' 水中撈月 mò trăng đáy nước.",
+                "(Động) Vơ vét, kiếm chác (đoạt lấy một cách bất chính). ◎Như: 'lao du thủy' 撈油水 chiếm đoạt tiền của bằng thủ đoạn bất chính, 'tha sấn ki lao liễu nhất bút' 他趁機撈了一筆 hắn thừa cơ kiếm chác một món tiền.",
+                "§ Ghi chú: Cũng đọc là 'liệu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mò, lặn vào trong nước mà mò vật gì lên gọi là lao, như lao ngư 撈魚 mò cá, cũng đọc là chữ liệu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vớt, mò: 撈魚 Vớt cá, mò cá; 海底撈針 Đáy biển mò kim; 撈浮萍 Vớt bèo;",
+                "Vơ vét, kiếm chác: 趁機撈一把 Thừa cơ vơ một mẻ."
+            ]
+        }
+    }
+}

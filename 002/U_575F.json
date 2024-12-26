@@ -1,0 +1,91 @@
+{
+    "character": "坟",
+    "details": {
+        "Âm Hán Việt": [
+            "bổn",
+            "phần",
+            "phẫn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土文"
+        ],
+        "Nét bút": [
+            "一丨一丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GYK (土卜大)"
+        ],
+        "Unicode": [
+            "U+575F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fén ㄈㄣˊ",
+            "fèn ㄈㄣˋ"
+        ],
+        "Âm Nôm": [
+            "phần",
+            "vun"
+        ],
+        "Âm Quảng Đông": [
+            "fan4"
+        ]
+    },
+    "meanings": {
+        "bổn": {
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'phần' 墳.",
+                "Giản thể của chữ 墳."
+            ]
+        },
+        "phần": {
+            "Từ điển phổ thông": [
+                "mồ mả"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'phần' 墳.",
+                "Giản thể của chữ 墳."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ phần 墳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gò đất;",
+                "Mồ mả;",
+                "Đất cao ven sông, đê lớn: 遵彼汝填 Đi dọc theo chỗ đất cao ven sông (Thi Kinh);",
+                "To lớn: 牂羊填首 Dê mẹ đầu to (Thi Kinh: Tiểu nhã, Thiều chi hoa);",
+                "【填典】phần điển [féndiăn] Sách vở cổ; 【三填】tam phần [sanfén] Sách của 3 vua Phục Hi, Thần Nông và Hoàng Đế (Trung Quốc cổ đại)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phần 墳."
+            ],
+            "compound_words": {
+                "坟墓": "phần mộ"
+            }
+        },
+        "phẫn": {
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'phần' 墳.",
+                "Giản thể của chữ 墳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Đất) rộm lên, cao lên: 公祭之地，地墳 Hiến công tế đất, đất nổi cao lên (Tả truyện: Hi công tứ niên);",
+                "Đất tốt."
+            ]
+        }
+    }
+}

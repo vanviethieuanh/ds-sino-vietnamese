@@ -1,0 +1,96 @@
+{
+    "character": "调",
+    "details": {
+        "Âm Hán Việt": [
+            "điều",
+            "điệu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠周"
+        ],
+        "Nét bút": [
+            "丶フノフ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "IVBGR (戈女月土口)"
+        ],
+        "Unicode": [
+            "U+8C03"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "diào ㄉㄧㄠˋ",
+            "tiáo ㄊㄧㄠˊ",
+            "tiào ㄊㄧㄠˋ",
+            "zhōu ㄓㄡ"
+        ],
+        "Âm Nôm": [
+            "điều"
+        ],
+        "Âm Quảng Đông": [
+            "diu6",
+            "tiu4"
+        ]
+    },
+    "meanings": {
+        "điều": {
+            "Từ điển phổ thông": [
+                "chuyển, thay đổi",
+                "điều chỉnh",
+                "lên dây (đàn)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 調."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Điều động, phân phối: 調幹部 Điều động cán bộ; 調兵遣將 Điều binh khiển tướng;",
+                "Giọng nói: 這人說話帶山東調兒 Người này nói giọng Sơn Đông; 南腔北調 Giọng Nam tiếng Bắc;",
+                "(nhạc) Nhịp, nhịp điệu: 這個調兒很好聽 Điệu (hát) này rất hay;",
+                "(ngôn) Âm điệu. Xem 調 [tiáo]."
+            ],
+            "compound_words": {
+                "调匀": "điều quân",
+                "调查": "điều tra",
+                "协调": "hiệp điều",
+                "查调": "tra điều"
+            }
+        },
+        "điệu": {
+            "Từ điển phổ thông": [
+                "điệu, khúc",
+                "nhử, dử (mồi)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 調."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Điều động, phân phối: 調幹部 Điều động cán bộ; 調兵遣將 Điều binh khiển tướng;",
+                "Giọng nói: 這人說話帶山東調兒 Người này nói giọng Sơn Đông; 南腔北調 Giọng Nam tiếng Bắc;",
+                "(nhạc) Nhịp, nhịp điệu: 這個調兒很好聽 Điệu (hát) này rất hay;",
+                "(ngôn) Âm điệu. Xem 調 [tiáo]."
+            ],
+            "compound_words": {
+                "音调": "âm điệu",
+                "步调": "bộ điệu",
+                "格调": "cách điệu",
+                "强调": "cường điệu",
+                "单调": "đơn điệu",
+                "失调": "thất điệu"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "character": "敺",
+    "details": {
+        "Âm Hán Việt": [
+            "khu",
+            "ẩu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "phác 攴 (+11 nét)"
+        ],
+        "Hình thái": [
+            "⿰區攴"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フ一丨フ一フ丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "SRYE (尸口卜水)"
+        ],
+        "Unicode": [
+            "U+657A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "khu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.ける (ka.keru)",
+            "か.る (ka.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "au2",
+            "keoi1"
+        ]
+    },
+    "meanings": {
+        "khu": {
+            "Từ điển phổ thông": [
+                "khua, lùa, đuổi",
+                "ruổi ngựa",
+                "chạy, bôn tẩu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Đuổi. § Cũng như “khu” 驅."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðuổi, tức là chữ khu 驅 cổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đuổi (như 驅, bộ 馬)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Khu 驅."
+            ]
+        },
+        "ẩu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh nhau. Như chữ Ẩu 毆."
+            ],
+            "compound_words": {
+                "敺打": "ẩu đả"
+            }
+        }
+    }
+}

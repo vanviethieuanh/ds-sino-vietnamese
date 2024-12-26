@@ -1,0 +1,101 @@
+{
+    "character": "笨",
+    "details": {
+        "Âm Hán Việt": [
+            "bát",
+            "bản",
+            "bổn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trúc 竹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮本"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "HDM (竹木一)"
+        ],
+        "Unicode": [
+            "U+7B28"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bèn ㄅㄣˋ"
+        ],
+        "Âm Nôm": [
+            "bát",
+            "bổn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホン (hon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あら.い (ara.i)"
+        ],
+        "Âm Hàn": [
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "ban6"
+        ]
+    },
+    "meanings": {
+        "bát": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ruột tre — Vẻ thô xấu — Dáng ngu đần. Cũng đọc Bổn."
+            ],
+            "compound_words": {
+                "呆笨": "ngai bát",
+                "蠢笨": "xuẩn bát"
+            }
+        },
+        "bản": {
+            "Từ điển Trần Văn Chánh": [
+                "Dốt, ngốc, đần độn, tối dạ: 愚笨 Khờ khạo, ngu dốt; 這孩子太笨 Đứa bé này đần quá;",
+                "Chậm chạp, vụng về: 嘴笨 Ăn vụng nói về;",
+                "Nặng, cồng kềnh, thô kệch, cục mịch, cục kịch: 箱子太笨 Cái rương cồng kềnh quá; 笨活 Việc nặng nhọc."
+            ]
+        },
+        "bổn": {
+            "Từ điển phổ thông": [
+                "đần, dốt, ngốc",
+                "chậm chạp, vụng về",
+                "cồng kềnh, cục kịch, nặng nề"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ngu dốt, đần độn, tối dạ. ◎Như: 'ngu bổn' 愚笨 ngu đần. ◇Cù Hựu 瞿佑: 'Ngã thân vi cùng thư sanh, thiên tính hựu ngu muội bổn chuyết' 我身為窮書生, 天性又愚昧笨拙 (Vĩnh Châu dã miếu kí 永州野廟記) Kẻ này vốn là học trò nghèo, tính tình lại ngu dốt vụng về.",
+                "(Tính) Chậm chạp, vụng về. ◎Như: 'bổn thủ bổn cước' 笨手笨腳 chân tay vụng về, chậm chạp.",
+                "(Tính) Nặng nề, cồng kềnh. ◎Như: 'tương tử thái bổn' 箱子太笨 cái rương cồng kềnh quá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sù sì, cục kịch, vật gì nặng nề gọi là bổn trọng 笨重. Tục gọi kẻ ngu dốt là bổn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dốt, ngốc, đần độn, tối dạ: 愚笨 Khờ khạo, ngu dốt; 這孩子太笨 Đứa bé này đần quá;",
+                "Chậm chạp, vụng về: 嘴笨 Ăn vụng nói về;",
+                "Nặng, cồng kềnh, thô kệch, cục mịch, cục kịch: 箱子太笨 Cái rương cồng kềnh quá; 笨活 Việc nặng nhọc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ruột tre — Vẻ thô xấu — Dáng ngu đần. Cũng đọc Bát."
+            ],
+            "compound_words": {
+                "呆笨": "ngai bổn",
+                "愚笨": "ngu bổn"
+            }
+        }
+    }
+}

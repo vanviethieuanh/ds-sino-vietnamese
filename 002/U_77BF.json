@@ -1,0 +1,113 @@
+{
+    "character": "瞿",
+    "details": {
+        "Âm Hán Việt": [
+            "cù",
+            "cụ",
+            "củ"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mục 目 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⿰目目隹"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨フ一一一ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "BUOG (月山人土)"
+        ],
+        "Unicode": [
+            "U+77BF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jí ㄐㄧˊ",
+            "jù ㄐㄩˋ",
+            "qū ㄑㄩ",
+            "qú ㄑㄩˊ"
+        ],
+        "Âm Nôm": [
+            "cò",
+            "cù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おそ.れる (oso.reru)",
+            "み.る (mi.ru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "geoi3",
+            "geoi6",
+            "keoi4"
+        ]
+    },
+    "meanings": {
+        "cù": {
+            "Từ điển phổ thông": [
+                "thấy mà giật mình, ngơ ngác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một binh khí thời xưa như cái kích.",
+                "(Danh) Chỉ rễ, lá cây mọc ngang ra.",
+                "(Danh) 'Cù Đàm thị' 瞿曇氏 nói tắt. § Cũng chỉ Phật giáo hoặc sự vật quan hệ với Phật giáo.",
+                "(Danh) Họ 'Cù'.",
+                "(Danh) § Thông 'cù' 衢.",
+                "Một âm là 'cụ'. (Động) Kinh sợ. § Thông 'cụ' 懼."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấy mà nao lòng, nhìn thấy mà giật mình (ngơ ngác).",
+                "Nhìn như vọ.",
+                "Một thứ đồ binh như cái kích. Cũng đọc là chữ củ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Nghe thấy mà) nao lòng, sợ hãi ngơ ngác, sửng sốt: 曾子聞之，瞿然曰：呼！ Tăng tử nghe qua, sợ hãi nói: Ôi! (Lễ kí: Đàn cung);",
+                "(văn) Nhìn như cú vọ;",
+                "Một thứ võ khí thời xưa (như cây kích);",
+                "[Qú] (Họ) Cù."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt chim ưng nhìn — Nhìn trừng trừng — Sợ hãi."
+            ],
+            "compound_words": {
+                "瞿昙": "cù đàm",
+                "瞿曇": "cù đàm",
+                "瞿然": "cù nhiên"
+            }
+        },
+        "cụ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một binh khí thời xưa như cái kích.",
+                "(Danh) Chỉ rễ, lá cây mọc ngang ra.",
+                "(Danh) 'Cù Đàm thị' 瞿曇氏 nói tắt. § Cũng chỉ Phật giáo hoặc sự vật quan hệ với Phật giáo.",
+                "(Danh) Họ 'Cù'.",
+                "(Danh) § Thông 'cù' 衢.",
+                "Một âm là 'cụ'. (Động) Kinh sợ. § Thông 'cụ' 懼."
+            ]
+        },
+        "củ": {
+            "Từ điển Thiều Chửu": [
+                "Thấy mà nao lòng, nhìn thấy mà giật mình (ngơ ngác).",
+                "Nhìn như vọ.",
+                "Một thứ đồ binh như cái kích. Cũng đọc là chữ củ."
+            ]
+        }
+    }
+}

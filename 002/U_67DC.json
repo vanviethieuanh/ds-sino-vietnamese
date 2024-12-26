@@ -1,0 +1,91 @@
+{
+    "character": "柜",
+    "details": {
+        "Âm Hán Việt": [
+            "cử",
+            "cự",
+            "quỹ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木巨"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "DSS (木尸尸)"
+        ],
+        "Unicode": [
+            "U+67DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guì ㄍㄨㄟˋ",
+            "jǔ ㄐㄩˇ"
+        ],
+        "Âm Nôm": [
+            "cự",
+            "quỹ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)",
+            "コ (ko)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あまだれ (amadare)"
+        ],
+        "Âm Quảng Đông": [
+            "geoi2"
+        ]
+    },
+    "meanings": {
+        "cử": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cây 'cử', một loài liễu lớn, gỗ dùng đóng tủ. § Cũng như 'cử' 櫸.",
+                "§ Giản thể của chữ 櫃."
+            ]
+        },
+        "cự": {
+            "Từ điển phổ thông": [
+                "cây cự (một loài liễu lớn)",
+                "cái quầy, cái tủ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây cự, một loài liễu lớn.",
+                "Cái quầy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Một giống liễu;",
+                "Quầy hàng. Xem 櫃 [guì]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái tủ ( tiếng địa phương vùng Giang Tô )."
+            ]
+        },
+        "quỹ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cây 'cử', một loài liễu lớn, gỗ dùng đóng tủ. § Cũng như 'cử' 櫸.",
+                "§ Giản thể của chữ 櫃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái tủ: 衣櫃 Tủ áo; 書櫃 Tủ sách;",
+                "Tủ hàng, quầy hàng, cửa hàng. em 柜 [jư]."
+            ]
+        }
+    }
+}

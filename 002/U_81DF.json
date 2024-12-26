@@ -1,0 +1,75 @@
+{
+    "character": "臟",
+    "details": {
+        "Âm Hán Việt": [
+            "tạng"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "nhục 肉 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰月藏"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨丨一ノフ一ノ一丨フ一丨フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "BTIS (月廿戈尸)"
+        ],
+        "Unicode": [
+            "U+81DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zàng ㄗㄤˋ"
+        ],
+        "Âm Nôm": [
+            "tạng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゾウ (zō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらわた (harawata)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zong6"
+        ]
+    },
+    "meanings": {
+        "tạng": {
+            "Từ điển phổ thông": [
+                "cơ quan nội tạng (ngũ tạng gồm có: 心 tâm; 肝 can; 脾 tỳ; 肺 phế; 腎 thận)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Gọi chung các khí quan ở trong bụng và lồng ngực. ◎Như: “tâm, can, tì, phế, thận” 心, 肝, 脾, 肺, 腎) tim, gan, lá lách, phổi, bầu dục; tức là “ngũ tạng” 五臟. § Xem “lục phủ” 六腑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tạng, một danh từ để gọi tóm các khí quan ở trong bụng. Tim, gan, lá lách, phổi, bầu dục: tâm, can, tì, phế, thận 心、肝、脾、肺、腎, gọi là ngũ tạng 五臟. Xem lục phủ 六腑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tạng (gọi chung các khí quan trong cơ thể như tim, gan, lá lách, phổi, thận): 内臟 Nội tạng, phủ tạng; 五臟 Ngũ tạng. Xem 髒 [zang]."
+            ],
+            "compound_words": {
+                "肝臟": "can tạng",
+                "五臟": "ngũ tạng",
+                "內臟": "nội tạng",
+                "肺臟": "phế tạng"
+            }
+        }
+    }
+}

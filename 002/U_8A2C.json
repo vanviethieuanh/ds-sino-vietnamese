@@ -1,0 +1,66 @@
+{
+    "character": "訬",
+    "details": {
+        "Âm Hán Việt": [
+            "miểu",
+            "sao"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言少"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "YRFH (卜口火竹)"
+        ],
+        "Unicode": [
+            "U+8A2C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chāo ㄔㄠ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みだ.れる (mida.reru)"
+        ],
+        "Âm Quảng Đông": [
+            "caau2",
+            "miu5"
+        ]
+    },
+    "meanings": {
+        "miểu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cao lớn — Một âm là Sao. Xem Sao."
+            ]
+        },
+        "sao": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quấy nhiễu, làm lộn xộn — Mạnh mẽ, mau lẹ — Một âm là Miểu. Xem Miểu."
+            ],
+            "compound_words": {
+                "訬輕": "sao khinh"
+            }
+        }
+    }
+}

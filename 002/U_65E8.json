@@ -1,0 +1,101 @@
+{
+    "character": "旨",
+    "details": {
+        "Âm Hán Việt": [
+            "chỉ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhật 日 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱匕日"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "PA (心日)"
+        ],
+        "Unicode": [
+            "U+65E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǐ ㄓˇ"
+        ],
+        "Âm Nôm": [
+            "chỉ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むね (mune)",
+            "うま.い (uma.i)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi2"
+        ]
+    },
+    "meanings": {
+        "chỉ": {
+            "Từ điển phổ thông": [
+                "ngon",
+                "ý chỉ, chỉ dụ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thức ăn ngon. ◇Luận Ngữ 論語: 'Thực chỉ bất cam, văn nhạc bất lạc' 食旨不甘, 聞樂不樂 (Dương Hóa 陽貨) Ăn món ngon không thấy ngon, nghe nhạc không thấy vui.",
+                "(Danh) Ý định, ý tứ. § Cũng như 恉. ◎Như: 'ý chỉ' 意旨 tâm ý, 'kì chỉ viễn' 其旨遠 ý sâu xa.",
+                "(Danh) Sắc dụ, mệnh lệnh vua ban hay của bề trên. ◎Như: 'thánh chỉ' 聖旨 sắc dụ của vua, 'mật chỉ' 密旨 mệnh lệnh bí mật. ◇Tây du kí 西遊記: 'Ngã nãi thiên sai thiên sứ, hữu thánh chỉ tại thử, thỉnh nhĩ đại vương thượng giới, khoái khoái báo tri' 我乃天差天使, 有聖旨在此, 請你大王上屆, 快快報知 (Đệ tam hồi) Ta là sứ giả nhà trời, có thánh chỉ ở đây, mời đại vương các ngươi lên trời. Mau mau thông báo.",
+                "(Tính) Ngon, tốt. ◎Như: 'chỉ tửu' 旨酒 rượu ngon, 'cam chỉ' 甘旨 ngon ngọt.",
+                "(Phó) Dùng như chữ 'chỉ' 只."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngon, như chỉ tửu 旨酒 rượu ngon, cam chỉ 甘旨 ngon ngọt, v.v.",
+                "Ý chỉ, như kì chỉ viễn 其旨遠 thửa ý xa, ý nói hàm có ý sâu xa.",
+                "Chỉ dụ, lời vua ban bảo tôi dân gọi là chỉ.",
+                "Dùng làm trợ từ như chữ chỉ 只."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ý, ý định, ý tứ, ý đồ, mục đích: 要旨 Ý chính, ý định chính; 主旨 Chủ ý, mục đích chính; 宗旨 Tôn chỉ; 其旨遠 Ý sâu xa;",
+                "(cũ) Thánh chỉ, chỉ dụ, lệnh của vua;",
+                "(văn) Ngon, ngọt: 旨酒 Rượu ngon."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tốt đẹp — Ngon ngọt — Ý chí — Ý vua. Tờ giấy chép rõ ý vua để quan dân cùng biết — Chỉ có. Như chữ."
+            ],
+            "compound_words": {
+                "本旨": "bổn chỉ",
+                "甘旨": "cam chỉ",
+                "旨酒": "chỉ tửu",
+                "旨意": "chỉ ý",
+                "詔旨": "chiếu chỉ",
+                "諭旨": "dụ chỉ",
+                "令旨": "lệnh chỉ",
+                "雅旨": "nhã chỉ",
+                "奉旨": "phụng chỉ",
+                "敕旨": "sắc chỉ",
+                "邪旨": "tà chỉ",
+                "宗旨": "tông chỉ",
+                "微旨": "vi chỉ",
+                "意旨": "ý chỉ",
+                "懿旨": "ý chỉ",
+                "要旨": "yếu chỉ"
+            }
+        }
+    }
+}

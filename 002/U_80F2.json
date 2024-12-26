@@ -1,0 +1,81 @@
+{
+    "character": "胲",
+    "details": {
+        "Âm Hán Việt": [
+            "cai",
+            "cải",
+            "hợi"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月亥"
+        ],
+        "Nét bút": [
+            "ノフ一一丶一フノノ丶"
+        ],
+        "Thương Hiệt": [
+            "BYVO (月卜女人)"
+        ],
+        "Unicode": [
+            "U+80F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gāi ㄍㄞ",
+            "gǎi ㄍㄞˇ",
+            "hǎi ㄏㄞˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おやゆび (oyayubi)"
+        ],
+        "Âm Quảng Đông": [
+            "goi2",
+            "hoi2"
+        ]
+    },
+    "meanings": {
+        "cai": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Lông ở trên ngón chân cái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lông ở trên ngón chân cái — Một âm khác là Cải."
+            ],
+            "compound_words": {
+                "膍胲": "tì cai"
+            }
+        },
+        "cải": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Lông ở trên ngón chân cái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thịt ở hai bên má — Một âm khác là Cai."
+            ]
+        },
+        "hợi": {
+            "Từ điển phổ thông": [
+                "hydroxylamin (hoá học)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Hyđrôxylamin."
+            ]
+        }
+    }
+}

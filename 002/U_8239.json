@@ -1,0 +1,91 @@
+{
+    "character": "船",
+    "details": {
+        "Âm Hán Việt": [
+            "thuyền"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "chu 舟 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟⿱几口"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HYCR (竹卜金口)"
+        ],
+        "Unicode": [
+            "U+8239"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuán ㄔㄨㄢˊ"
+        ],
+        "Âm Nôm": [
+            "thuyền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふね (fune)",
+            "ふな- (funa-)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "syun4"
+        ]
+    },
+    "meanings": {
+        "thuyền": {
+            "Từ điển phổ thông": [
+                "cái thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Thuyền, tàu, ghe, đò. ◇Nguyễn Trãi 阮廌: “Cố sơn tạc dạ triền thanh mộng, Nguyệt mãn Bình Than tửu mãn thuyền” 故山昨夜纏清夢, 月滿平灘酒滿船 (Mạn hứng 漫興) Núi cũ đêm qua vương vấn mộng, Trăng ngập đầy sông (Bình Than), rượu ngập thuyền."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái thuyền, chữ để gọi chung các thuyền. Nguyễn Trãi 阮廌: Cố sơn tạc dạ triền thanh mộng, nguyệt mãn Bình Than tửu mãn thuyền 故山昨夜纏清夢，月滿平灘酒滿船 Núi cũ đêm qua vương vấn mộng, Trăng ngập đầy sông (Bình Than), rượu ngập thuyền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền, tàu, ghe, đò: 帆船 Thuyền buồm, ghe buồm; 魚船Tàu đánh cá; 汽船 Ca nô; 宇宙飛船 Tàu vũ trụ; 渡船 Đò ngang."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dụng cụ để chở người và đồ đạc trên mặt nước.  Đoạn trường tân thanh : » Cùng người một hội một thuyền đâu xa «."
+            ],
+            "compound_words": {
+                "撥船": "bát thuyền",
+                "兵船": "binh thuyền",
+                "郵船": "bưu thuyền",
+                "戰船": "chiến thuyền",
+                "釣船": "điếu thuyền",
+                "躉船": "độn thuyền",
+                "航船": "hàng thuyền",
+                "帆船": "phàm thuyền",
+                "炮船": "pháo thuyền",
+                "飛船": "phi thuyền",
+                "趁船": "sấn thuyền",
+                "船脚": "thuyền cước",
+                "商船": "thương thuyền",
+                "茶船": "trà thuyền",
+                "晕船": "vựng thuyền",
+                "暈船": "vựng thuyền"
+            }
+        }
+    }
+}

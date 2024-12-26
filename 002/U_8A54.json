@@ -1,0 +1,95 @@
+{
+    "character": "詔",
+    "details": {
+        "Âm Hán Việt": [
+            "chiếu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言召"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRSHR (卜口尸竹口)"
+        ],
+        "Unicode": [
+            "U+8A54"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhāo ㄓㄠ",
+            "zhào ㄓㄠˋ"
+        ],
+        "Âm Nôm": [
+            "chiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みことのり (mikotonori)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "ziu3",
+            "ziu6"
+        ]
+    },
+    "meanings": {
+        "chiếu": {
+            "Từ điển phổ thông": [
+                "chiếu chỉ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bảo ban, dạy bảo, giáo đạo, cáo giới. ◇Trang Tử 莊子: 'Phù vi nhân phụ giả, tất năng chiếu kì tử' 夫為人父者, 必能詔其子 (Đạo Chích 盜跖) Phàm làm cha, tất dạy bảo được con mình.",
+                "(Danh) Mệnh lệnh của vua ban. § Từ nhà Tần, nhà Hán trở xuống thì chỉ vua được dùng 'chiếu'. ◎Như: 'chiếu thư' 詔書 tờ chiếu, 'ân chiếu' 恩詔 xuống chiếu ra ơn cho."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ban bảo, dẫn bảo. Ngày xưa người trên bảo kẻ dưới là chiếu, từ nhà Tần nhà Hán trở xuống thì chỉ vua được dùng thôi, như chiếu thư 詔書 tờ chiếu, ân chiếu 恩詔 xuống chiếu ra ơn cho, v. v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bảo, bảo ban (người dưới);",
+                "Chiếu, chiếu chỉ: 下詔 Ra chiếu chỉ, xuống chiếu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói cho biết. Người trên nói cho kẻ dưới biết — Lời của vua, lệnh của vua gửi xuống cho thần dân — Ông vua — Một âm là Thiệu."
+            ],
+            "compound_words": {
+                "哀詔": "ai chiếu",
+                "恩詔": "ân chiếu",
+                "板詔": "bản chiếu",
+                "憑詔": "bằng chiếu",
+                "制詔": "chế chiếu",
+                "詔旨": "chiếu chỉ",
+                "詔諭": "chiếu dụ",
+                "詔令": "chiếu lệnh",
+                "詔書": "chiếu thư",
+                "遺詔": "di chiếu",
+                "待詔": "đãi chiếu",
+                "丹詔": "đan chiếu",
+                "矯詔": "kiểu chiếu",
+                "奉詔": "phụng chiếu",
+                "芳詔": "phương chiếu",
+                "鳳詔": "phượng chiếu",
+                "敕詔": "sắc chiếu"
+            }
+        }
+    }
+}

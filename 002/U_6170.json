@@ -1,0 +1,107 @@
+{
+    "character": "慰",
+    "details": {
+        "Âm Hán Việt": [
+            "uý",
+            "uỷ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "tâm 心 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱尉心"
+        ],
+        "Nét bút": [
+            "フ一ノ一一丨ノ丶一丨丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "SIP (尸戈心)"
+        ],
+        "Unicode": [
+            "U+6170"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "ủi",
+            "uý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なぐさ.める (nagusa.meru)",
+            "なぐさ.む (nagusa.mu)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai3"
+        ]
+    },
+    "meanings": {
+        "uý": {
+            "Từ điển phổ thông": [
+                "an ủi",
+                "yên lòng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) An ủi, vỗ về. ◎Như: 'úy lạo' 慰勞 yên ủi. ◇Thi Kinh 詩經: 'Hữu tử thất nhân, Mạc úy mẫu tâm' 有子七人, 莫慰母心 (Bội phong 邶風 Khải phong 凱風) Có bảy người con, Lại không an ủi được lòng mẹ.",
+                "(Tính) Yên, yên lòng. ◎Như: 'hân úy' 欣慰 yên vui.",
+                "§ Ghi chú: Ta quen đọc là 'ủy'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "An ủi, thăm hỏi: 慰問病人 Thăm hỏi người bệnh;",
+                "Yên lòng, yên tâm: 知你安全到達，甚慰 Biết anh đã đến nơi an toàn, (tôi) rất yên lòng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vỗ về cho yên — An ủi — Ta thường đọc là uỷ — Như chữ uỷ 尉 — Ẩn ức trong lòng, không nói ra được — Xem thêm uỷ."
+            ],
+            "compound_words": {
+                "撫慰": "phủ uý",
+                "慰藉": "uý tạ",
+                "慰問": "uý vấn",
+                "慰问": "uý vấn"
+            }
+        },
+        "uỷ": {
+            "Từ điển phổ thông": [
+                "an ủi",
+                "yên lòng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) An ủi, vỗ về. ◎Như: 'úy lạo' 慰勞 yên ủi. ◇Thi Kinh 詩經: 'Hữu tử thất nhân, Mạc úy mẫu tâm' 有子七人, 莫慰母心 (Bội phong 邶風 Khải phong 凱風) Có bảy người con, Lại không an ủi được lòng mẹ.",
+                "(Tính) Yên, yên lòng. ◎Như: 'hân úy' 欣慰 yên vui.",
+                "§ Ghi chú: Ta quen đọc là 'ủy'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "An ủi, thăm hỏi: 慰問病人 Thăm hỏi người bệnh;",
+                "Yên lòng, yên tâm: 知你安全到達，甚慰 Biết anh đã đến nơi an toàn, (tôi) rất yên lòng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vỗ về cho yên. Đáng lẽ đọc Uý. Xem thêm Uý. Ta quen đọc uỷ. Td: An uỷ."
+            ],
+            "compound_words": {
+                "安慰": "an uỷ",
+                "自慰": "tự uỷ",
+                "慰諭": "uỷ dụ",
+                "慰勞": "uỷ lạo",
+                "慰問": "uỷ vấn"
+            }
+        }
+    }
+}

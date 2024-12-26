@@ -1,0 +1,61 @@
+{
+    "character": "鹅",
+    "details": {
+        "Âm Hán Việt": [
+            "nga"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰我鸟"
+        ],
+        "Nét bút": [
+            "ノ一丨一フノ丶ノフ丶フ一"
+        ],
+        "Thương Hiệt": [
+            "HIPYM (竹戈心卜一)"
+        ],
+        "Unicode": [
+            "U+9E45"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "é"
+        ],
+        "Âm Nôm": [
+            "nga"
+        ],
+        "Âm Quảng Đông": [
+            "ngo4"
+        ]
+    },
+    "meanings": {
+        "nga": {
+            "Từ điển phổ thông": [
+                "con ngỗng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鵝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鵝"
+            ],
+            "compound_words": {
+                "淘鹅": "đào nga",
+                "天鹅": "thiên nga"
+            }
+        }
+    }
+}

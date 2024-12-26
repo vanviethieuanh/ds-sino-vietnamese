@@ -1,0 +1,95 @@
+{
+    "character": "匪",
+    "details": {
+        "Âm Hán Việt": [
+            "phỉ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "phương 匚 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿷匚非"
+        ],
+        "Nét bút": [
+            "一丨一一一丨一一一フ"
+        ],
+        "Thương Hiệt": [
+            "SLMY (尸中一卜)"
+        ],
+        "Unicode": [
+            "U+532A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēi ㄈㄟ",
+            "fěi ㄈㄟˇ"
+        ],
+        "Âm Nôm": [
+            "phỉ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あら.ず (ara.zu)",
+            "かたみ (katami)"
+        ],
+        "Âm Hàn": [
+            "비",
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "fei2"
+        ]
+    },
+    "meanings": {
+        "phỉ": {
+            "Từ điển phổ thông": [
+                "không phải",
+                "phỉ, giặc, cướp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ dùng bằng tre, hình vuông, giống như cái tráp, cái sọt. § Nay viết là 'phỉ' 篚",
+                "(Danh) Quân cướp bóc địa phương. ◎Như: 'thổ phỉ' 土匪 giặc cỏ, 'đạo phỉ' 盜匪 giặc cướp.",
+                "(Tính) Văn vẻ. § Thông 'phỉ' 斐.",
+                "(Phó) Chẳng phải, không. ◇Thi Kinh 詩經: 'Ngã tâm phỉ thạch, Bất khả chuyển dã' 我心匪石, 不可轉也 (Bội phong 邶風, Bách chu 柏舟) Lòng em không như đá, (Đá có thể dời, nhưng lòng em) không thể dời chuyển."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chẳng phải.",
+                "Tập làm sự bất chính. Như thổ phỉ 土匪 giặc cỏ, phỉ loại 匪類 đồ bậy bạ, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kẻ cướp, thổ phỉ: 盜匪 Trộm cướp; 土匪 Thổ phỉ; 剿匪 Tiễu phỉ;",
+                "(văn) Chẳng phải (như 非 [fei]): 匪來貿絲 Chẳng phải đến để mua tơ (Thi Kinh); 匪貴前譽 Không coi trọng tiếng tốt lúc sinh tiền (Đào Uyên Minh: Tự tế văn); 獲益匪淺 Rất bổ ích;",
+                "(văn) Nó, người kia (dùng như 彼, bộ 彳): 匪風發兮 Gió kia thổi vi vu hề (Thi Kinh);",
+                "(văn) Không chỉ: 匪且匪且，匪今斯兮，振古如茲 Không chỉ hiện giờ có việc đó, không chỉ hôm nay có việc đó, từ xưa đến nay đã như thế rồi (Thi Kinh);",
+                "(văn) Cái sọt vuông (dùng như 筐, bộ 竹)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hộp lớn bằng tre, để đựng đồ vật — Không phải. Trái với. Giặc cướp."
+            ],
+            "compound_words": {
+                "匪頒": "phỉ ban",
+                "匪徒": "phỉ đồ",
+                "匪類": "phỉ loại",
+                "匪人": "phỉ nhân",
+                "匪賊": "phỉ tặc",
+                "匪伊朝夕": "phỉ y triêu tịch",
+                "拳匪": "quyền phỉ",
+                "賊匪": "tặc phỉ",
+                "土匪": "thổ phỉ"
+            }
+        }
+    }
+}

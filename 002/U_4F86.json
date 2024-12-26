@@ -1,0 +1,198 @@
+{
+    "character": "來",
+    "details": {
+        "Âm Hán Việt": [
+            "lai",
+            "lãi"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 人 (+6 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一ノ丶ノ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DOO (木人人)"
+        ],
+        "Unicode": [
+            "U+4F86"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lái ㄌㄞˊ",
+            "lài ㄌㄞˋ"
+        ],
+        "Âm Nôm": [
+            "lai",
+            "lay",
+            "lơi",
+            "ray",
+            "rơi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ライ (rai)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "く.る (ku.ru)",
+            "きた.る (kita.ru)",
+            "きた.す (kita.su)",
+            "き.たす (ki.tasu)",
+            "き.たる (ki.taru)"
+        ],
+        "Âm Hàn": [
+            "래",
+            "내"
+        ],
+        "Âm Quảng Đông": [
+            "lai4",
+            "loi4",
+            "loi6"
+        ]
+    },
+    "meanings": {
+        "lai": {
+            "Từ điển phổ thông": [
+                "đến nơi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đến. § Đối lại với 'khứ' 去, 'vãng' 往. ◎Như: 'xa lai liễu' 車來了 xe đến rồi. ◇Luận Ngữ 論語: 'Hữu bằng tự viễn phương lai, bất diệc lạc hồ?' 有朋自遠方來, 不亦樂乎 (Học nhi 學而) Có bạn từ nơi xa đến, cũng chẳng vui ư?",
+                "(Động) Tới nay. ◎Như: 'tự cổ dĩ lai, hồng nhan đa bạc mệnh' 自古以來, 紅顏多薄命 từ xưa đến nay, những kẻ má hồng thường bạc mệnh. ◇Mạnh Hạo Nhiên 孟浩然: 'Dạ lai phong vũ thanh, Hoa lạc tri đa thiểu' 夜來風雨聲, 花落知多少 (Xuân hiểu 春曉) Từ hồi đêm đến giờ (nghe) tiếng mưa gió, Hoa rụng không biết nhiều hay ít?",
+                "(Động) Xảy ra, đã đến. ◎Như: 'vấn đề lai liễu' 問題來了 xảy ra vấn đề rồi đấy.",
+                "(Động) Làm (dùng thay cho một số động từ để nói vắn tắt). ◎Như: 'lai nhất bàn kì' 來一盤棋 chơi một ván cờ, 'giá giản đan, nhượng ngã lai' 這簡單, 讓我來 cái đó dễ mà, để tôi làm cho.",
+                "(Tính) Sẽ đến, về sau. ◎Như: 'lai niên' 來年 sang năm, 'lai nhật' 來日 ngày sau, 'lai sanh' 來生 đời sau.",
+                "(Tính) Khoảng chừng (dùng với số lượng). ◎Như: 'tam thập lai tuế' 三十來歲 khoảng ba mươi tuổi, 'nhị thập lai cân' 二十來斤 chừng hai chục cân.",
+                "(Trợ) Đặt sau tính từ hoặc động từ, biểu thị: từ đó ... về sau. ◇Đỗ Phủ 杜甫: 'Tiểu lai tập tính lãn' 小來習性懶 (Tống Lí Hiệu Thư 送李校書) Từ nhỏ, tính vốn lười. ◇Bạch Cư Dị 白居易: 'Khứ lai giang khẩu thủ không thuyền, Nhiễu thuyền minh nguyệt giang thủy hàn' 去來江口守空船, 繞船明月江水寒 (Tì bà hành 琵琶行) Từ khi (người đó) đi đến nay, tôi ở cửa sông giữ con thuyền không, Quanh thuyền trăng sáng trải trên dòng sông lạnh.",
+                "(Trợ) Đặt trước động từ, biểu thị ý nguyện. ◎Như: 'nhĩ lai khán điếm' 你來看店 anh coi tiệm, 'đại gia lai tưởng tưởng biện pháp' 大家來想想辦法 mọi người sẽ nghĩ cách.",
+                "(Trợ) Đặt sau động từ: đến, để. ◎Như: 'tha hồi gia khán gia nương lai liễu' 他回家看爹娘來了 anh ấy về nhà để thăm cha mẹ.",
+                "(Trợ) Đi liền với 'đắc' 得, 'bất' 不, biểu thị \"có thể\" hay \"không thể\". ◎Như: 'giá sự ngã tố đắc lai' 這事我做得來 việc này tôi làm được, 'Anh ngữ ngã thuyết bất lai' 英語我說不來 tôi không biết nói tiếng Anh.",
+                "(Trợ) Dùng sau số từ, dùng để liệt kê: một là ..., hai là ..., v.v. ◇Thủy hử truyện 水滸傳: 'Trí Thâm nhất lai đỗ lí vô thực, nhị lai tẩu liễu hứa đa trình đồ, tam giả đương bất đắc tha lưỡng cá sanh lực, chỉ đắc mại cá phá trán, tha liễu thiền trượng tiện tẩu' 智深一來肚裏無食, 二來走了許多程途, 三者當不得他兩個生力, 只得賣個破綻, 拖了禪杖便走 (Đệ lục hồi) Lỗ Trí Thâm một là bụng đói, hai là đi đường xa, ba là không đương nổi hai người sung sức, nên đành chờ một miếng hở, gạt thiền trượng rồi chạy.",
+                "(Trợ) Đặt cuối câu, biểu thị thúc giục, khuyến nhủ. ◇Đào Uyên Minh 陶淵明: 'Quy khứ lai hề, điền viên tương vu, hồ bất quy' 歸去來兮,田園將蕪, 胡不歸 (Quy khứ lai từ 歸去來辭) Về đi thôi hề, ruộng vườn sắp hoang vu, sao không về.",
+                "(Trợ) Dùng làm chữ đệm trong câu. ◎Như: 'chánh nguyệt lí lai, đào hoa khai' 正月裡來, 桃花開 tháng giêng, hoa đào nở, 'bất sầu cật lai, bất sầu xuyên' 不愁吃來, 不愁穿 không lo ăn, chẳng lo mặc.",
+                "(Danh) Họ 'Lai'.",
+                "Một âm là 'lại'. (Động) Yên ủi, vỗ về. § Thông 徠."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lại.",
+                "Về sau, như tương lai 將來 về sau này.",
+                "Một âm là lãi. Yên ủi, vỗ về yên ủi kẻ đến với mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đến: 我來北京三年了 Tôi đến Bắc Kinh đã 3 năm rồi; 你來啦！ Anh đã đến đấy à!;",
+                "Xảy ra (sự việc, vấn đề), đã đến: 問題來了 Xảy ra vấn đề rồi đấy; 開春以後, 農忙來了 Sang xuân mùa màng bận rộn đã đến;",
+                "Làm, chơi, mở... hoặc dùng để thay thế cho một động từ cụ thể: 胡來 Làm bậy, làm bừa; 來一盤棋 Chơi một ván cờ; 來一個競賽 Mở một cuộc thi đua; 你歇歇, 讓我來 Anh nghỉ một tí, để tôi làm; 我們打球, 你來不來？ Chúng tôi chơi bóng, anh có tham gia (chơi) không?;",
+                "Đặt sau từ '得' hoặc '不' để biểu thị ý có thể hoặc không: 他們倆很談得來 Hai người này nói chuyện rất tâm đắc (ăn ý với nhau); 這個歌我唱不來 Bài này tôi không biết hát;",
+                "Đặt trước động từ để đề nghị sẽ làm một việc gì: 你來唸一遍 Mời anh đọc một lần; 大家來想辦法 Ai nấy đều nghĩ xem;",
+                "Đến... để...: 我們賀喜來了 Chúng tôi đến để chúc mừng; 他回家看爹娘來了 Anh ấy về nhà để thăm cha mẹ;",
+                "Để (mà)...: 你又能用什麼理由來說服他呢？ Anh lấy lí lẽ gì để thuyết phục hắn?;",
+                "Đấy, đâu (đặt sau câu để tỏ sự việc đã xảy ra): 這話我多會兒說來？ Tôi có bao giờ nói thế đâu?",
+                "Tương lai, sau này (hoặc các thời gian về sau): 來年 Sang năm; 來生 Đời sau;",
+                "Từ trước đến nay: 從來 Lâu nay; 二千年來 Hai nghìn năm nay; 春天以來 Từ mùa xuân đến giờ; 二十多年來他一直在農村工作 Hơn hai mươi năm nay anh ấy đều làm việc ở nông thôn. Xem 以來;",
+                "Trên, hơn, ngoài, trên dưới, khoảng chừng: 十來天 Hơn mười ngày; 五十來歲 Ngoài năm mươi tuổi; 三百來人 Trên ba trăm người; 二里來地 Hơn hai dặm đường;",
+                "Đặt sau số từ '一，二， 三' v.v.. để liệt kê các lí do mục đích: 他這次進城, 一來是匯報工作, 二來是修理機器, 三來是採圖書 Lần này anh ấy vào phố, một là để báo cáo công tác, hai là để sửa chữa máy móc, ba là để mua sách vở; 一來工作忙, 二來車子擠, 所以一直沒來看你 Một là bận việc, hai là kẹt xe, nên tôi vẫn không đến thăm anh được;",
+                "[Lái] (Họ) Lai;",
+                "Dùng làm từ đệm trong thơ ca, tục ngữ hoặc lời rao hàng: 正月裡來迎新春 Tháng giêng đón xuân sang; 不愁喫來不愁穿 Chẳng lo chuyện no cơm ấm áo; 磨剪子來搶菜刀！ Mài dao mài kéo đây!;",
+                "(văn) Trợ từ, dùng để nêu tân ngữ ra trước động từ (thường dùng trong Hán ngữ thượng cổ): 不念昔者, 伊余來墍 Chàng không nghĩ đến tình xưa mà giận ta (Thi Kinh: Bội phong, Cốc phong);",
+                "(văn) Trợ từ cuối câu, biểu thị sự cầu khiến, thúc giục (đôi khi dùng kèm với 乎, 兮): 盍歸乎來！ Sao chẳng về đi! (Mạnh tử: Li Lâu thượng); 歸去來兮！田 園將蕪, 胡不歸？ Về đi thôi hề! Ruộng vườn sắp hoang vu, sao chẳng về? (Đào Uyên Minh: Quy khứ lai hề)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đến. Lại. Tới — Mời gọi lại — Sắp tới. Về sau này."
+            ],
+            "compound_words": {
+                "舶來品": "bạc lai phẩm",
+                "本來": "bản lai",
+                "拔來報往": "bạt lai báo vãng",
+                "否極泰來": "bĩ cực thái lai",
+                "編來": "biên lai",
+                "本來面目": "bổn lai diện mục",
+                "近悅遠來": "cận duyệt viễn lai",
+                "近來": "cận lai",
+                "顧不過來": "cố bất quá lai",
+                "顧得過來": "cố đắc quá lai",
+                "古來": "cổ lai",
+                "夜來香": "dạ lai hương",
+                "以來": "dĩ lai",
+                "由來": "do lai",
+                "到來": "đáo lai",
+                "後來": "hậu lai",
+                "回來": "hồi lai",
+                "向來": "hướng lai",
+                "起來": "khởi lai",
+                "來稿": "lai cảo",
+                "來由": "lai do",
+                "來緣": "lai duyên",
+                "來到": "lai đáo",
+                "來囘": "lai hồi",
+                "來回": "lai hồi",
+                "來臨": "lai lâm",
+                "來歴": "lai lịch",
+                "來歷": "lai lịch",
+                "來源": "lai nguyên",
+                "來日": "lai nhật",
+                "來年": "lai niên",
+                "來訪": "lai phỏng",
+                "來生": "lai sinh",
+                "來世": "lai thế",
+                "來書": "lai thư",
+                "來著": "lai trước",
+                "來自": "lai tự",
+                "來往": "lai vãng",
+                "歷來": "lịch lai",
+                "亂鬨不過來": "loạn hống bất quá lai",
+                "馬來": "mã lai",
+                "慢慢來": "mạn mạn lai",
+                "忙不過來": "mang bất quá lai",
+                "眉來眼去": "mi lai nhãn khứ",
+                "外來": "ngoại lai",
+                "原來": "nguyên lai",
+                "如來": "như lai",
+                "福不重來": "phúc bất trùng lai",
+                "捲土重來": "quyển thổ trùng lai",
+                "再來": "tái lai",
+                "乘興而來": "thừa hứng nhi lai",
+                "從來": "tòng lai",
+                "重來": "trùng lai",
+                "自來水": "tự lai thuỷ",
+                "將來": "tương lai",
+                "往來": "vãng lai",
+                "未來": "vị lai",
+                "遠來": "viễn lai"
+            }
+        },
+        "lãi": {
+            "Từ điển trích dẫn": [
+                "(Động) Đến. § Đối lại với 'khứ' 去, 'vãng' 往. ◎Như: 'xa lai liễu' 車來了 xe đến rồi. ◇Luận Ngữ 論語: 'Hữu bằng tự viễn phương lai, bất diệc lạc hồ?' 有朋自遠方來, 不亦樂乎 (Học nhi 學而) Có bạn từ nơi xa đến, cũng chẳng vui ư?",
+                "(Động) Tới nay. ◎Như: 'tự cổ dĩ lai, hồng nhan đa bạc mệnh' 自古以來, 紅顏多薄命 từ xưa đến nay, những kẻ má hồng thường bạc mệnh. ◇Mạnh Hạo Nhiên 孟浩然: 'Dạ lai phong vũ thanh, Hoa lạc tri đa thiểu' 夜來風雨聲, 花落知多少 (Xuân hiểu 春曉) Từ hồi đêm đến giờ (nghe) tiếng mưa gió, Hoa rụng không biết nhiều hay ít?",
+                "(Động) Xảy ra, đã đến. ◎Như: 'vấn đề lai liễu' 問題來了 xảy ra vấn đề rồi đấy.",
+                "(Động) Làm (dùng thay cho một số động từ để nói vắn tắt). ◎Như: 'lai nhất bàn kì' 來一盤棋 chơi một ván cờ, 'giá giản đan, nhượng ngã lai' 這簡單, 讓我來 cái đó dễ mà, để tôi làm cho.",
+                "(Tính) Sẽ đến, về sau. ◎Như: 'lai niên' 來年 sang năm, 'lai nhật' 來日 ngày sau, 'lai sanh' 來生 đời sau.",
+                "(Tính) Khoảng chừng (dùng với số lượng). ◎Như: 'tam thập lai tuế' 三十來歲 khoảng ba mươi tuổi, 'nhị thập lai cân' 二十來斤 chừng hai chục cân.",
+                "(Trợ) Đặt sau tính từ hoặc động từ, biểu thị: từ đó ... về sau. ◇Đỗ Phủ 杜甫: 'Tiểu lai tập tính lãn' 小來習性懶 (Tống Lí Hiệu Thư 送李校書) Từ nhỏ, tính vốn lười. ◇Bạch Cư Dị 白居易: 'Khứ lai giang khẩu thủ không thuyền, Nhiễu thuyền minh nguyệt giang thủy hàn' 去來江口守空船, 繞船明月江水寒 (Tì bà hành 琵琶行) Từ khi (người đó) đi đến nay, tôi ở cửa sông giữ con thuyền không, Quanh thuyền trăng sáng trải trên dòng sông lạnh.",
+                "(Trợ) Đặt trước động từ, biểu thị ý nguyện. ◎Như: 'nhĩ lai khán điếm' 你來看店 anh coi tiệm, 'đại gia lai tưởng tưởng biện pháp' 大家來想想辦法 mọi người sẽ nghĩ cách.",
+                "(Trợ) Đặt sau động từ: đến, để. ◎Như: 'tha hồi gia khán gia nương lai liễu' 他回家看爹娘來了 anh ấy về nhà để thăm cha mẹ.",
+                "(Trợ) Đi liền với 'đắc' 得, 'bất' 不, biểu thị \"có thể\" hay \"không thể\". ◎Như: 'giá sự ngã tố đắc lai' 這事我做得來 việc này tôi làm được, 'Anh ngữ ngã thuyết bất lai' 英語我說不來 tôi không biết nói tiếng Anh.",
+                "(Trợ) Dùng sau số từ, dùng để liệt kê: một là ..., hai là ..., v.v. ◇Thủy hử truyện 水滸傳: 'Trí Thâm nhất lai đỗ lí vô thực, nhị lai tẩu liễu hứa đa trình đồ, tam giả đương bất đắc tha lưỡng cá sanh lực, chỉ đắc mại cá phá trán, tha liễu thiền trượng tiện tẩu' 智深一來肚裏無食, 二來走了許多程途, 三者當不得他兩個生力, 只得賣個破綻, 拖了禪杖便走 (Đệ lục hồi) Lỗ Trí Thâm một là bụng đói, hai là đi đường xa, ba là không đương nổi hai người sung sức, nên đành chờ một miếng hở, gạt thiền trượng rồi chạy.",
+                "(Trợ) Đặt cuối câu, biểu thị thúc giục, khuyến nhủ. ◇Đào Uyên Minh 陶淵明: 'Quy khứ lai hề, điền viên tương vu, hồ bất quy' 歸去來兮,田園將蕪, 胡不歸 (Quy khứ lai từ 歸去來辭) Về đi thôi hề, ruộng vườn sắp hoang vu, sao không về.",
+                "(Trợ) Dùng làm chữ đệm trong câu. ◎Như: 'chánh nguyệt lí lai, đào hoa khai' 正月裡來, 桃花開 tháng giêng, hoa đào nở, 'bất sầu cật lai, bất sầu xuyên' 不愁吃來, 不愁穿 không lo ăn, chẳng lo mặc.",
+                "(Danh) Họ 'Lai'.",
+                "Một âm là 'lại'. (Động) Yên ủi, vỗ về. § Thông 徠."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lại.",
+                "Về sau, như tương lai 將來 về sau này.",
+                "Một âm là lãi. Yên ủi, vỗ về yên ủi kẻ đến với mình."
+            ]
+        }
+    }
+}

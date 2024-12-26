@@ -1,0 +1,74 @@
+{
+    "character": "运",
+    "details": {
+        "Âm Hán Việt": [
+            "vận"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sước 辵 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶云"
+        ],
+        "Nét bút": [
+            "一一フ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YMMI (卜一一戈)"
+        ],
+        "Unicode": [
+            "U+8FD0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "vận"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウン (un)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はし.る (hashi.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "wan6"
+        ]
+    },
+    "meanings": {
+        "vận": {
+            "Từ điển phổ thông": [
+                "sự may mắn, vận may",
+                "sự chuyên trở"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 運."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 運"
+            ],
+            "compound_words": {
+                "奥运会": "áo vận hội",
+                "搬运": "bàn vận",
+                "幸运": "hạnh vận",
+                "好运": "hảo vận",
+                "命运": "mệnh vận",
+                "运动": "vận động",
+                "运载": "vận tải",
+                "运输": "vận thâu"
+            }
+        }
+    }
+}

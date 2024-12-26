@@ -1,0 +1,65 @@
+{
+    "character": "须",
+    "details": {
+        "Âm Hán Việt": [
+            "tu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "sam 彡 (+6 nét)",
+            "hiệt 頁 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰彡页"
+        ],
+        "Nét bút": [
+            "ノノノ一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HHMBO (竹竹一月人)"
+        ],
+        "Unicode": [
+            "U+987B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xū ㄒㄩ"
+        ],
+        "Âm Nôm": [
+            "tu"
+        ],
+        "Âm Quảng Đông": [
+            "seoi1"
+        ]
+    },
+    "meanings": {
+        "tu": {
+            "Từ điển phổ thông": [
+                "đợi",
+                "nên làm, cần thiết",
+                "chậm trễ"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 須.",
+                "Giản thể của chữ 鬚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 須"
+            ],
+            "compound_words": {
+                "必须": "tất tu",
+                "须臾": "tu du"
+            }
+        }
+    }
+}

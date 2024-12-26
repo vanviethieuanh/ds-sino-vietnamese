@@ -1,0 +1,70 @@
+{
+    "character": "冻",
+    "details": {
+        "Âm Hán Việt": [
+            "đông",
+            "đống"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "băng 冫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰冫东"
+        ],
+        "Nét bút": [
+            "丶一一フ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IMKD (戈一大木)"
+        ],
+        "Unicode": [
+            "U+51BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dòng ㄉㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đông"
+        ],
+        "Âm Quảng Đông": [
+            "dung1",
+            "dung3"
+        ]
+    },
+    "meanings": {
+        "đông": {
+            "Từ điển phổ thông": [
+                "đóng băng"
+            ]
+        },
+        "đống": {
+            "Từ điển phổ thông": [
+                "nước đá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 凍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đóng băng, đông lại: 凍肉 Thịt đông; 缸裡的水凍了 Nước trong chum đã đóng băng;",
+                "Lạnh cóng, rét cóng: 多穿些，別凍着了 Mặc thêm áo vào, kẻo bị lạnh; 手腳都凍僵了 Tay chân bị rét cóng;",
+                "(Một loại) đá mỏ trong suốt;",
+                "[Dòng] (Họ) Đống."
+            ],
+            "compound_words": {
+                "冰冻": "băng đống"
+            }
+        }
+    }
+}

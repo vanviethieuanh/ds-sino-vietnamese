@@ -1,0 +1,126 @@
+{
+    "character": "划",
+    "details": {
+        "Âm Hán Việt": [
+            "hoa",
+            "hoạ",
+            "hoạch",
+            "quả"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "đao 刀 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰戈⺉"
+        ],
+        "Nét bút": [
+            "一フノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "ILN (戈中弓)"
+        ],
+        "Unicode": [
+            "U+5212"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huá ㄏㄨㄚˊ",
+            "huà ㄏㄨㄚˋ",
+            "huāi ㄏㄨㄞ"
+        ],
+        "Âm Nôm": [
+            "hoa",
+            "quả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ゲ (ge)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さおさ.す (saosa.su)",
+            "かま (kama)",
+            "さ.く (sa.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "waa4"
+        ]
+    },
+    "meanings": {
+        "hoa": {
+            "Từ điển phổ thông": [
+                "chèo thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chèo (thuyền). ◎Như: 'hoa thuyền' 划船 chèo thuyền, 'hoa long chu' 划龍舟 chèo thuyền rồng.",
+                "(Động) Tính toán. ◎Như: 'hoa bất lai' 划不來 không đáng, không lợi.",
+                "(Danh) § Xem 'hoa tử' 划子."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trở thuyền, lấy sào trở thuyền gọi là hoa. Tục gọi thuyền nhỏ là hoa tử 划子."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chèo (thuyền): 划船 Chèo thuyền;",
+                "Đáng, thoả đáng, đáng giá, xứng: 划得來 Đáng, đáng giá đấy; 划不來 Không đáng, không xứng;",
+                "【划拳】hoa quyền [huáquán] Trò chơi đố số (khi uống rượu, hai người cùng giơ ngón tay ra rồi đoán số, ai nói đúng thì thắng, nói sai bị phạt uống rượu, cả hai đều sai thì hoà). Cv. 豁拳，搳拳. Xem 划 [huà], [huai]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chống, chèo cho thuyền đi. Cũng đọc Qua — Một âm là Quả. Xem Quả."
+            ],
+            "compound_words": {
+                "划拳": "hoa quyền",
+                "划算": "hoa toán",
+                "划子": "hoa tử"
+            }
+        },
+        "hoạ": {
+            "Từ điển trích dẫn": [
+                "(Động) Chèo (thuyền). ◎Như: 'hoa thuyền' 划船 chèo thuyền, 'hoa long chu' 划龍舟 chèo thuyền rồng.",
+                "(Động) Tính toán. ◎Như: 'hoa bất lai' 划不來 không đáng, không lợi.",
+                "(Danh) § Xem 'hoa tử' 划子."
+            ],
+            "compound_words": {
+                "勾划": "câu hoạch",
+                "划分": "hoạch phân",
+                "计划": "kế hoạch"
+            }
+        },
+        "hoạch": {
+            "Từ điển phổ thông": [
+                "dùng dao rạch ra",
+                "vạch ra, phân chia",
+                "nét ngang",
+                "bàn tính, hoạch định",
+                "chèo thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chèo (thuyền). ◎Như: 'hoa thuyền' 划船 chèo thuyền, 'hoa long chu' 划龍舟 chèo thuyền rồng.",
+                "(Động) Tính toán. ◎Như: 'hoa bất lai' 划不來 không đáng, không lợi.",
+                "(Danh) § Xem 'hoa tử' 划子."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sắp: 〖???〗劃 (đph) 1. Sắp xếp; 2. Sửa chữa. Xem 划 [huá], 劃 [huà]."
+            ],
+            "compound_words": {
+                "勾划": "câu hoạch",
+                "划分": "hoạch phân",
+                "计划": "kế hoạch"
+            }
+        },
+        "quả": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao cắt ra. Chia cắt — Một âm là Hoa. Xem Hoa."
+            ]
+        }
+    }
+}

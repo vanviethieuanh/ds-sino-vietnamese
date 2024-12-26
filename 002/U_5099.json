@@ -1,0 +1,117 @@
+{
+    "character": "備",
+    "details": {
+        "Âm Hán Việt": [
+            "bị"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhân 人 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "ノ丨一丨丨一ノ丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OTHB (人廿竹月)"
+        ],
+        "Unicode": [
+            "U+5099"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bẹ",
+            "bị",
+            "bợ",
+            "vựa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そな.える (sona.eru)",
+            "そな.わる (sona.waru)",
+            "つぶさ.に (tsubusa.ni)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei6"
+        ]
+    },
+    "meanings": {
+        "bị": {
+            "Từ điển phổ thông": [
+                "có đủ, hoàn toàn",
+                "sửa soạn, sắp sẵn",
+                "đề phòng, phòng trước",
+                "trang bị, thiết bị"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dự sẵn, xếp đặt trước. ◎Như: 'chuẩn bị' 準備, 'dự bị' 預備.",
+                "(Tính) Đầy đủ, chu đáo. ◇Sử Kí 史記: 'Ngô sở dĩ đãi Hầu Sanh giả bị hĩ, thiên hạ mạc bất văn' 吾所以待侯生者備矣, 天下莫不聞 (魏公子列傳) Ta đối đãi Hậu Sinh thật chu đáo, thiên hạ không ai không biết.",
+                "(Phó) Hết cả, hoàn toàn. ◇Lễ Kí 禮記: 'Nãi mệnh trủng tể, nông sự bị thu' 乃命冢宰, 農事備收 (Nguyệt lệnh 月令).",
+                "(Danh) Thiết trí. ◎Như: 'trang bị' 裝備."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðủ.",
+                "Dự sẵn, như dự bị 預備 dự sẵn cho đủ dùng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hoàn toàn, đầy đủ, chu đáo: 關懷備至 Săn sóc chu đáo; 農具都齊備了 Nông cụ đã đủ cả rồi;",
+                "Đề phòng, chuẩn bị, phòng bị, dự bị, sửa soạn, sẵn sàng: 有備無患 Phòng bị thì tránh được tai ương; 准備好了 Đã sẵn sàng;",
+                "Thiết bị: 裝備 Trang bị; 軍備 Quân bị, binh bị."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sắp đặt sẵn — Hoàn toàn đầy đủ — Thận trọng."
+            ],
+            "compound_words": {
+                "不備": "bất bị",
+                "備案": "bị án",
+                "備榜": "bị bảng",
+                "備註": "bị chú",
+                "備家": "bị gia",
+                "備考": "bị khảo",
+                "備件": "bị kiện",
+                "備料": "bị liệu",
+                "備數": "bị số",
+                "備位": "bị vị",
+                "備員": "bị viên",
+                "警備": "cảnh bị",
+                "求全責備": "cầu toàn trách bị",
+                "整備": "chỉnh bị",
+                "准備": "chuẩn bị",
+                "準備": "chuẩn bị",
+                "准備金": "chuẩn bị kim",
+                "具備": "cụ bị",
+                "預備": "dự bị",
+                "预備": "dự bị",
+                "戒備": "giới bị",
+                "後備": "hậu bị",
+                "完備": "hoàn bị",
+                "防備": "phòng bị",
+                "軍備": "quân bị",
+                "充備": "sung bị",
+                "全備": "toàn bị",
+                "責備": "trách bị",
+                "儲備": "trữ bị",
+                "四六備覽": "tứ lục bị lãm",
+                "越史備覽": "việt sử bị lãm",
+                "武備": "vũ bị"
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "character": "驅",
+    "details": {
+        "Âm Hán Việt": [
+            "khu"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "mã 馬 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬區"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶一丨フ一丨フ一丨フ一フ"
+        ],
+        "Thương Hiệt": [
+            "SFSRR (尸火尸口口)"
+        ],
+        "Unicode": [
+            "U+9A45"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "khu",
+            "xù",
+            "xúi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.ける (ka.keru)",
+            "か.る (ka.ru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "keoi1"
+        ]
+    },
+    "meanings": {
+        "khu": {
+            "Từ điển phổ thông": [
+                "khua, lùa, đuổi",
+                "ruổi ngựa",
+                "chạy, bôn tẩu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người đi đầu, tiền phong. ◎Như: 'tiên khu' 先驅 người đi trước, bậc tiền bối.",
+                "(Động) Ruổi ngựa, đánh roi cho chạy tới trước. ◇Thi Kinh 詩經: 'Tử hữu xa mã, Phất trì phất khu' 子有車馬, 弗馳弗驅 (Đường phong 唐風, San hữu xu 山有樞).",
+                "(Động) Lùa (súc vật). ◎Như: 'khu ngưu' 驅牛 lùa bò.",
+                "(Động) Chạy vạy, bôn tẩu. ◎Như: 'nguyện hiệu trì khu' 願效馳驅 gắng sức bôn tẩu, 'tịnh giá tề khu' 並駕齊驅 cùng nhau tiến lên.",
+                "(Động) Đuổi, xua. ◎Như: 'khu trừ' 驅除 xua đuổi. ◇An Nam Chí Lược 安南志畧: 'Thị tịch tăng đạo nhập nội khu na' 是夕僧道入內驅儺 (Phong tục 風俗) Đêm ấy đoàn thầy tu vào nội làm lễ \"khu na\" (nghĩa là đuổi tà ma quỷ mị).",
+                "(Động) Sai sử, chỉ huy, điều khiển. ◎Như: 'khu sách' 驅策 sai bảo, ra lệnh.",
+                "(Động) Theo đuổi, chạy theo. ◇Quy Hữu Quang 歸有光: 'Khoa cử chi học, khu nhất thế ư lợi lộc chi trung, nhi thành nhất phiên nhân tài thế đạo, kì tệ dĩ cực' 科舉之學, 驅一世于利祿之中, 而成一番人材世道, 其敝已極 (Dữ Phan Tử Thật thư 與潘子實書).",
+                "(Động) Bức bách. ◎Như: 'khu bách' 驅迫. ◇Đào Tiềm 陶潛: 'Cơ lai khu ngã khứ, Bất tri cánh hà chi' 飢來驅我去, 不知竟何之(Khất thực 乞食)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ruổi ngựa, đánh ngựa cho chạy nhanh.",
+                "Ðuổi. Như là khu trừ 驅除 xua đuổi.",
+                "Giá ngự. Như khu sách 驅策 đứng cầm nọc cho kẻ dưới cứ tuân lệnh mà làm.",
+                "Chạy vạy, bôn tẩu. Gắng sức vì người gọi là nguyện hiệu trì khu 願效馳驅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đi trước, tiến lên: 先驅者 Người đi trước, bậc tiền bối; 並駕齊驅 Cùng nhau tiến lên;",
+                "(văn) Ruổi ngựa, thúc ngựa, đánh ngựa (cho chạy nhanh): 涉單車驅上茂陵 Thiệp một mình lên xe ruổi thẳng lên Mậu Lăng (Hán thư);",
+                "(văn) Ra lệnh, chỉ huy, điều khiển;",
+                "(văn) Bôn ba, chạy vạy: 願效馳驅 Nguyện ra sức lo toan;",
+                "Đuổi, xua, lùa: 驅羊 Lùa dê; 驅逐侵略者 Đánh đuổi quân xâm lược."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh roi cho ngựa chạy — Đuổi đi — Ép buộc, bức bách."
+            ],
+            "compound_words": {
+                "飢驅": "cơ khu",
+                "驅役": "khu dịch",
+                "驅使": "khu sử",
+                "驅邪": "khu tà",
+                "驅馳": "khu trì",
+                "驅逐": "khu trục",
+                "驅除": "khu trừ",
+                "齊驅": "tề khu",
+                "先驅": "tiên khu",
+                "馳驅": "trì khu",
+                "長驅": "trường khu"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "秕",
+    "details": {
+        "Âm Hán Việt": [
+            "bỉ",
+            "tỷ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoà 禾 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾比"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶一フノフ"
+        ],
+        "Thương Hiệt": [
+            "HDPP (竹木心心)"
+        ],
+        "Unicode": [
+            "U+79D5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bǐ ㄅㄧˇ"
+        ],
+        "Âm Nôm": [
+            "bỉ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しいな (shiina)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei2"
+        ]
+    },
+    "meanings": {
+        "bỉ": {
+            "Từ điển phổ thông": [
+                "hạt lúa lép",
+                "làm nhơ bẩn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hạt cốc lép (lúa, mạch, đạo, v.v.), có vỏ mà rỗng ở trong. ◇Trang Tử 莊子: 'Trần cấu bỉ khang' 塵垢秕糠 (Tiêu dao du 逍遙遊) Bụi, bặm, lúa lép và trấu.",
+                "(Tính) Rỗng, lép (hạt cốc).",
+                "(Tính) Không tốt, hư hão. ◎Như: 'bỉ chánh' 秕政 chính trị thối nát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hạt lúa lép.",
+                "Chính trị không tốt gọi là bỉ chánh 秕政.",
+                "Làm nhơ bẩn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lúa lép, không có hạt — nhơ bẩn."
+            ],
+            "compound_words": {
+                "秕政": "bỉ chính"
+            }
+        },
+        "tỷ": {
+            "Từ điển Trần Văn Chánh": [
+                "Lép: 秕子 Hạt lép, hột lép, thóc lép, lúa lép;",
+                "(văn) Làm nhơ bẩn."
+            ]
+        }
+    }
+}

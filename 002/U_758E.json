@@ -1,0 +1,91 @@
+{
+    "character": "疎",
+    "details": {
+        "Âm Hán Việt": [
+            "sơ",
+            "sớ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sơ 疋 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺪束"
+        ],
+        "Nét bút": [
+            "フ丨一丨一一丨フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NMDL (弓一木中)"
+        ],
+        "Unicode": [
+            "U+758E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shū ㄕㄨ",
+            "shù ㄕㄨˋ"
+        ],
+        "Âm Nôm": [
+            "sơ",
+            "sưa",
+            "thư",
+            "thưa",
+            "xơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うと.い (uto.i)",
+            "うと.む (uto.mu)",
+            "まば.ら (maba.ra)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "so1"
+        ]
+    },
+    "meanings": {
+        "sơ": {
+            "Từ điển phổ thông": [
+                "thông suốt",
+                "không thân thiết, họ xa",
+                "sơ xuất, xao nhãng",
+                "thưa, ít",
+                "đục khoét, chạm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “sơ” 疏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ sơ 疏."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 疏."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Sơ 疏."
+            ],
+            "compound_words": {
+                "暗香疎影": "ám hương sơ ảnh",
+                "綺疎": "ỷ sơ"
+            }
+        },
+        "sớ": {
+            "Từ điển phổ thông": [
+                "tâu bày"
+            ]
+        }
+    }
+}

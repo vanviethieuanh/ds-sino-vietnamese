@@ -1,0 +1,64 @@
+{
+    "character": "襳",
+    "details": {
+        "Âm Hán Việt": [
+            "sâm",
+            "tiêm"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "y 衣 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤韱"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶ノ丶ノ丶一丨一一一丨一一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LOIM (中人戈一)"
+        ],
+        "Unicode": [
+            "U+8973"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "シン (shin)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "したぎ (shitagi)"
+        ],
+        "Âm Quảng Đông": [
+            "cim1",
+            "sam1",
+            "sim1"
+        ]
+    },
+    "meanings": {
+        "sâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Sâm 襂 — Một âm khác là Tiêm. Xem Tiêm."
+            ],
+            "compound_words": {
+                "襳䙰": "sâm li"
+            }
+        },
+        "tiêm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo lót mình."
+            ]
+        }
+    }
+}

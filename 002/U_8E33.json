@@ -1,0 +1,85 @@
+{
+    "character": "踳",
+    "details": {
+        "Âm Hán Việt": [
+            "suyễn",
+            "xuẩn"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "túc 足 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊春"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一一一一ノ丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "RMQKA (口一手大日)"
+        ],
+        "Unicode": [
+            "U+8E33"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chuǎn ㄔㄨㄢˇ",
+            "chǔn ㄔㄨㄣˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュン (shun)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そむ.く (somu.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "ceon2",
+            "cyun2"
+        ]
+    },
+    "meanings": {
+        "suyễn": {
+            "Từ điển phổ thông": [
+                "ngang trái",
+                "lẫn lộn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ngang trái. § Cũng như 'suyễn' 舛.",
+                "Một âm là 'xuẩn'. (Tính) 'Xuẩn bác' 踳駁 tạp loạn, lẫn lộn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 舛 (bộ 舛)."
+            ]
+        },
+        "xuẩn": {
+            "Từ điển phổ thông": [
+                "lộn xộn, lung tung"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ngang trái. § Cũng như 'suyễn' 舛.",
+                "Một âm là 'xuẩn'. (Tính) 'Xuẩn bác' 踳駁 tạp loạn, lẫn lộn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lộn xộn, lung tung;",
+                "【踳駁】xuẩn bác [chưnbó] a. Màu sắc pha tạp (không thuần); b. Sai sót lung tung."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Xuẩn bác 踳駁."
+            ],
+            "compound_words": {
+                "踳駁": "xuẩn bác"
+            }
+        }
+    }
+}

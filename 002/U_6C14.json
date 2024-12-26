@@ -1,0 +1,124 @@
+{
+    "character": "气",
+    "details": {
+        "Âm Hán Việt": [
+            "khí",
+            "khất"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "khí 气 (+0 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Hình thái": [
+            "⿳𠂉一乁"
+        ],
+        "Nét bút": [
+            "ノ一一フ"
+        ],
+        "Thương Hiệt": [
+            "OMN (人一弓)"
+        ],
+        "Unicode": [
+            "U+6C14"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Nôm": [
+            "khí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いき (iki)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "hei3"
+        ]
+    },
+    "meanings": {
+        "khí": {
+            "Từ điển phổ thông": [
+                "khí, hơi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hơi mây.",
+                "Một âm là 'khất'. (Động) Xin. § Nguyên là chữ 'khất' 乞.",
+                "Giản thể của chữ 氣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hơi, khí mây.",
+                "Một âm là khất. Xin, nguyên là chữ khất 乞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 氣"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hơi — Tên một trong các bộ chữ Trung Hoa — Một âm khác là Khất."
+            ],
+            "compound_words": {
+                "憋气": "biệt khí",
+                "屏气": "bình khí",
+                "景气": "cảnh khí",
+                "名气": "danh khí",
+                "勇气": "dũng khí",
+                "氧气": "dưỡng khí",
+                "大气": "đại khí",
+                "氮气": "đạm khí",
+                "吸气": "hấp khí",
+                "客气": "khách khí",
+                "口气": "khẩu khí",
+                "气球": "khí cầu",
+                "气质": "khí chất",
+                "气候": "khí hậu",
+                "气泡": "khí phao",
+                "气象": "khí tượng",
+                "气车": "khí xa",
+                "氢气": "khinh khí",
+                "岚气": "lam khí",
+                "傲气": "ngạo khí",
+                "废气": "phế khí",
+                "杀气": "sát khí",
+                "喘气": "suyễn khí",
+                "天气": "thiên khí",
+                "吐气": "thổ khí",
+                "暑气": "thử khí",
+                "小气": "tiểu khí",
+                "意气": "ý khí"
+            }
+        },
+        "khất": {
+            "Từ điển trích dẫn": [
+                "(Danh) Hơi mây.",
+                "Một âm là 'khất'. (Động) Xin. § Nguyên là chữ 'khất' 乞.",
+                "Giản thể của chữ 氣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hơi, khí mây.",
+                "Một âm là khất. Xin, nguyên là chữ khất 乞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xin (như 乞, bộ 乙)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ khất 乞 — Một âm khác là Khí."
+            ]
+        }
+    }
+}

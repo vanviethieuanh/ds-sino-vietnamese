@@ -1,0 +1,82 @@
+{
+    "character": "呻",
+    "details": {
+        "Âm Hán Việt": [
+            "hạp",
+            "thân"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口申"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "RLWL (口中田中)"
+        ],
+        "Unicode": [
+            "U+547B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shēn ㄕㄣ"
+        ],
+        "Âm Nôm": [
+            "thân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うめ.く (ume.ku)",
+            "うめき (umeki)"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "san1"
+        ]
+    },
+    "meanings": {
+        "hạp": {
+            "Từ điển phổ thông": [
+                "rên rỉ"
+            ],
+            "compound_words": {
+                "呻吟": "hạp ngâm"
+            }
+        },
+        "thân": {
+            "Từ điển trích dẫn": [
+                "1. (Động) Rên rỉ. ◇Liêu trai chí dị 聊齋志異: “Đãn bả túc thân ngôn chỉ cổ toan thống, sổ nhật thủy năng khởi” 但把足呻言趾股痠痛, 數日始能起 (Tiểu Tạ 小謝) Nhưng vẫn ôm chân rên rỉ rằng chân đùi đau buốt, mấy ngày sau mới dậy được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Rên rỉ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rên rỉ. 【呻吟】 thân ngâm [shenyín] Rên, rên rỉ, rên siết: 呻吟痛苦 Rên rỉ khổ đau; 無病呻吟 Không bệnh mà rên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hát lên, ngâm lên — Rên rỉ."
+            ],
+            "compound_words": {
+                "嚬呻": "tần thân"
+            }
+        }
+    }
+}

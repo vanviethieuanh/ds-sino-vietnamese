@@ -1,0 +1,66 @@
+{
+    "character": "军",
+    "details": {
+        "Âm Hán Việt": [
+            "quân"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mịch 冖 (+4 nét)",
+            "xa 車 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱冖车"
+        ],
+        "Nét bút": [
+            "丶フ一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "BKQ (月大手)"
+        ],
+        "Unicode": [
+            "U+519B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jūn ㄐㄩㄣ"
+        ],
+        "Âm Nôm": [
+            "quân"
+        ],
+        "Âm Quảng Đông": [
+            "gwan1"
+        ]
+    },
+    "meanings": {
+        "quân": {
+            "Từ điển phổ thông": [
+                "quân, binh lính"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 軍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 軍"
+            ],
+            "compound_words": {
+                "亚军": "á quân",
+                "海军": "hải quân",
+                "陆军": "lục quân",
+                "伪军": "nguỵ quân",
+                "冠军": "quán quân",
+                "将军": "tướng quân"
+            }
+        }
+    }
+}

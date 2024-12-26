@@ -1,0 +1,105 @@
+{
+    "character": "傭",
+    "details": {
+        "Âm Hán Việt": [
+            "dong",
+            "dung",
+            "dũng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhân 人 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻庸"
+        ],
+        "Nét bút": [
+            "ノ丨丶一ノフ一一丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OILB (人戈中月)"
+        ],
+        "Unicode": [
+            "U+50AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yōng ㄧㄨㄥ",
+            "yóng ㄧㄨㄥˊ",
+            "yòng ㄧㄨㄥˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やと.う (yato.u)",
+            "あた.い (ata.i)",
+            "ひと.しい (hito.shii)"
+        ],
+        "Âm Hàn": [
+            "용",
+            "충"
+        ],
+        "Âm Quảng Đông": [
+            "jung4"
+        ]
+    },
+    "meanings": {
+        "dong": {
+            "Từ điển phổ thông": [
+                "làm thuê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Làm thuê. ◇Pháp Hoa Kinh 法華經: 'Nhĩ thời cùng tử, dong nhẫm triển chuyển' 爾時窮子, 傭賃展轉 (Tín giải phẩm đệ tứ 信解品第四) Lúc bấy giờ người con nghèo khốn làm thuê làm mướn lần hồi.",
+                "(Động) Thuê người làm công. ◇Tiết Phúc Thành 薛福成: 'Truân hộ bất năng canh, nhi dong bình dân dĩ canh' 屯戶不能耕, 而傭平民以耕 (Ứng chiếu trần ngôn sớ 應詔陳言疏) Nhà khó khăn không cày cấy được, nên thuê người dân thường để cày cấy.",
+                "(Danh) Tiền trả công, tiền thuê.",
+                "(Danh) Người làm công.",
+                "(Tính) Dung tục, bình thường. ◎Như: 'dong sĩ' 傭士 người bình phàm.",
+                "Một âm là 'dũng'. (Tính) Đồng đều, công bình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Làm thuê."
+            ]
+        },
+        "dung": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 佣 (1);",
+                "Người làm thuê, người giúp việc nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kẻ làm thuê — Làm thuê cho người khác."
+            ],
+            "compound_words": {
+                "僱傭": "cố dung",
+                "傭保": "dung bảo",
+                "傭兵": "dung binh",
+                "傭耕": "dung canh",
+                "傭工": "dung công",
+                "傭錢": "dung tiền",
+                "乳傭": "nhũ dung",
+                "書傭": "thư dung"
+            }
+        },
+        "dũng": {
+            "Từ điển trích dẫn": [
+                "(Động) Làm thuê. ◇Pháp Hoa Kinh 法華經: 'Nhĩ thời cùng tử, dong nhẫm triển chuyển' 爾時窮子, 傭賃展轉 (Tín giải phẩm đệ tứ 信解品第四) Lúc bấy giờ người con nghèo khốn làm thuê làm mướn lần hồi.",
+                "(Động) Thuê người làm công. ◇Tiết Phúc Thành 薛福成: 'Truân hộ bất năng canh, nhi dong bình dân dĩ canh' 屯戶不能耕, 而傭平民以耕 (Ứng chiếu trần ngôn sớ 應詔陳言疏) Nhà khó khăn không cày cấy được, nên thuê người dân thường để cày cấy.",
+                "(Danh) Tiền trả công, tiền thuê.",
+                "(Danh) Người làm công.",
+                "(Tính) Dung tục, bình thường. ◎Như: 'dong sĩ' 傭士 người bình phàm.",
+                "Một âm là 'dũng'. (Tính) Đồng đều, công bình."
+            ]
+        }
+    }
+}

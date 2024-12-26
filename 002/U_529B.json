@@ -1,0 +1,191 @@
+{
+    "character": "力",
+    "details": {
+        "Âm Hán Việt": [
+            "lực"
+        ],
+        "Tổng nét": [
+            "2"
+        ],
+        "Bộ": [
+            "lực 力 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フノ"
+        ],
+        "Thương Hiệt": [
+            "KS (大尸)"
+        ],
+        "Unicode": [
+            "U+529B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "lực",
+            "sức",
+            "sựt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョク (ryoku)",
+            "リキ (riki)",
+            "リイ (rii)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちから (chikara)"
+        ],
+        "Âm Hàn": [
+            "력",
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "lik6"
+        ]
+    },
+    "meanings": {
+        "lực": {
+            "Từ điển phổ thông": [
+                "sức lực"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trong vật lí học, hiệu năng làm thay đổi trạng thái vận động của vật thể gọi là 'lực', đơn vị quốc tế của 'lực' là Newton. ◎Như: 'li tâm lực' 離心力 lực tác động theo chiều từ trung tâm ra ngoài, 'địa tâm dẫn lực' 地心引力 sức hút của trung tâm trái đất.",
+                "(Danh) Sức của vật thể. ◎Như: 'tí lực' 臂力 sức của cánh tay, 'thể lực' 體力 sức của cơ thể.",
+                "(Danh) Chỉ chung tác dụng hoặc hiệu năng của sự vật. ◎Như: 'hỏa lực' 火力, 'phong lực' 風力, 'thủy lực' 水力.",
+                "(Danh) Tài năng, khả năng. ◎Như: 'trí lực' 智力 tài trí, 'thật lực' 實力 khả năng sức mạnh có thật, 'lí giải lực' 理解力 khả năng giải thích, phân giải, 'lượng lực nhi vi' 量力而為 liệu theo khả năng mà làm.",
+                "(Danh) Quyền thế. ◎Như: 'quyền lực' 權力.",
+                "(Danh) Người làm đầy tớ cho người khác.",
+                "(Danh) Họ 'Lực'.",
+                "(Phó) Hết sức, hết mình. ◎Như: 'lực cầu tiết kiệm' 力求節儉 hết sức tiết kiệm, 'lực tranh thượng du' 力爭上游 hết mình cầu tiến, cố gắng vươn lên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sức, khoa học nghiên cứu về sức tự động của các vật và sức bị động của các vật khác là lực học 力學.",
+                "Phàm nơi nào tinh thần tới được đều gọi là lực, như mục lực 目力 sức mắt.",
+                "Cái tài sức làm việc của người, như thế lực 勢力, quyền lực 權力, v.v.",
+                "Cái của vật làm nên được cũng gọi là lực. Như bút lực 筆力 sức bút, mã lực 馬力 sức ngựa, v.v.",
+                "Chăm chỉ, như lực điền 力田 chăm chỉ làm ruộng.",
+                "Cốt, chăm, như lực cầu tiết kiệm 力求節儉 hết sức cầu tiết kiệm.",
+                "Làm đầy tớ người ta cũng gọi là lực."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(lí) Lực: 力的比例 Tỉ lệ lực; 離心力 Lực li tâm;",
+                "Sức, lực, khả năng đạt tới: 人力 Sức người, nhân lực; 物力 Sức của, vật lực; 理解力 Sức hiểu biết; 說服力 Sức thuyết phục; 目力 Khả năng nhìn thấy của mắt, sức nhìn; 筆力 Bút lực; 權力 Quyền lực;",
+                "(Sức) lực, khỏe, có sức mạnh: 大力士 Đại lực sĩ; 眞有力 Rất khỏe!; 用力推車 Ra sức đẩy xe; 力田 Người làm ruộng (có sức mạnh);",
+                "Cố gắng, tận lực, ra sức: 力爭上游 Cố gắng vươn lên hàng đầu; 維護甚力 Tận lực bảo vệ;",
+                "(văn) Làm đầy tớ cho người khác;",
+                "[Lì] (Họ) Lực."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sức mạnh — Lấy sức người ra mà làm việc — Cái sức để làm nên việc. Td: Hiệu lực — Tên một trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "握力": "ác lực",
+                "愛力": "ái lực",
+                "暗力": "ám lực",
+                "压力": "áp lực",
+                "壓力": "áp lực",
+                "薄力": "bạc lực",
+                "暴力": "bạo lực",
+                "不可抗力": "bất khả kháng lực",
+                "不力": "bất lực",
+                "兵力": "binh lực",
+                "筆力": "bút lực",
+                "筋力": "cân lực",
+                "主力": "chủ lực",
+                "功力": "công lực",
+                "極力": "cực lực",
+                "引力": "dẫn lực",
+                "勇力": "dũng lực",
+                "大力": "đại lực",
+                "彈力": "đàn lực",
+                "得力": "đắc lực",
+                "鬬力": "đấu lực",
+                "電力": "điện lực",
+                "动力": "động lực",
+                "動力": "động lực",
+                "同心協力": "đồng tâm hiệp lực",
+                "吸力": "hấp lực",
+                "协力": "hiệp lực",
+                "協力": "hiệp lực",
+                "合力": "hợp lực",
+                "效力": "hiệu lực",
+                "活力": "hoạt lực",
+                "學力": "học lực",
+                "血力": "huyết lực",
+                "有力": "hữu lực",
+                "氣力": "khí lực",
+                "記力": "kí lực",
+                "竭力": "kiệt lực",
+                "勍力": "kình lực",
+                "勞力": "lao lực",
+                "僇力": "lục lực",
+                "力田": "lực điền",
+                "力图": "lực đồ",
+                "力圖": "lực đồ",
+                "力行": "lực hành",
+                "力量": "lực lượng",
+                "力士": "lực sĩ",
+                "馬力": "mã lực",
+                "魔力": "ma lực",
+                "猛力": "mãnh lực",
+                "腦力": "não lực",
+                "能力": "năng lực",
+                "毅力": "nghị lực",
+                "業力": "nghiệp lực",
+                "原動力": "nguyên động lực",
+                "眼力": "nhãn lực",
+                "熱力": "nhiệt lực",
+                "努力": "nỗ lực",
+                "內力": "nội lực",
+                "法力": "pháp lực",
+                "奮力": "phấn lực",
+                "費力": "phí lực",
+                "風力": "phong lực",
+                "風力表": "phong lực biểu",
+                "負力": "phụ lực",
+                "国力": "quốc lực",
+                "國力": "quốc lực",
+                "权力": "quyền lực",
+                "權力": "quyền lực",
+                "畜力": "súc lực",
+                "才力": "tài lực",
+                "心力": "tâm lực",
+                "盡力": "tận lực",
+                "畢力": "tất lực",
+                "神力": "thần lực",
+                "势力": "thế lực",
+                "勢力": "thế lực",
+                "实力": "thực lực",
+                "實力": "thực lực",
+                "潛力": "tiềm lực",
+                "精力": "tinh lực",
+                "速力": "tốc lực",
+                "智力": "trí lực",
+                "致力": "trí lực",
+                "重力": "trọng lực",
+                "助力": "trợ lực",
+                "阻力": "trở lực",
+                "磁力": "từ lực",
+                "自力": "tự lực",
+                "自力更生": "tự lực cánh sinh",
+                "威力": "uy lực",
+                "应力": "ứng lực",
+                "應力": "ứng lực",
+                "物力": "vật lực",
+                "無力": "vô lực",
+                "武力": "vũ lực",
+                "巧克力": "xảo khắc lực",
+                "出力": "xuất lực"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "咐",
+    "details": {
+        "Âm Hán Việt": [
+            "phó",
+            "phù"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口付"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "RODI (口人木戈)"
+        ],
+        "Unicode": [
+            "U+5490"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fú ㄈㄨˊ",
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phó"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)",
+            "ホ (ho)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu3",
+            "fu6"
+        ]
+    },
+    "meanings": {
+        "phó": {
+            "Từ điển phổ thông": [
+                "(xem: phân phó 吩咐)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hà hơi.",
+                "Một âm là 'phó'. (Động) 'Phân phó' 吩咐 dặn bảo (thường chỉ bậc trên dặn dò kẻ dưới, mang ý truyền lệnh). ☆Tương tự: 'đinh ninh' 丁寧, 'đinh ninh' 叮嚀, 'đinh chúc' 叮囑, 'giao đại' 交代, 'chúc phó' 囑咐, 'chúc thác' 囑託, 'phái khiển' 派遣, 'đả phát' 打發."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hà hơi.",
+                "Một âm là phó. Phân phó 吩咐 dặn bảo kẻ dưới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bảo, dặn dò. Xem 吩咐 [fenfù], 囑咐 [zhưfù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phân phó 吩咐: Dặn dò — Một âm khác là Phù. Xem Phù."
+            ],
+            "compound_words": {
+                "吩咐": "phân phó"
+            }
+        },
+        "phù": {
+            "Từ điển trích dẫn": [
+                "(Động) Hà hơi.",
+                "Một âm là 'phó'. (Động) 'Phân phó' 吩咐 dặn bảo (thường chỉ bậc trên dặn dò kẻ dưới, mang ý truyền lệnh). ☆Tương tự: 'đinh ninh' 丁寧, 'đinh ninh' 叮嚀, 'đinh chúc' 叮囑, 'giao đại' 交代, 'chúc phó' 囑咐, 'chúc thác' 囑託, 'phái khiển' 派遣, 'đả phát' 打發."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hà hơi.",
+                "Một âm là phó. Phân phó 吩咐 dặn bảo kẻ dưới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hà hơi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nôn khan, oẹ khan — Thổi mạnh — Một âm là Phó. Xem Phó."
+            ]
+        }
+    }
+}

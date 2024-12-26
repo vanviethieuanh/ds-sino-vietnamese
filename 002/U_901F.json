@@ -1,0 +1,104 @@
+{
+    "character": "速",
+    "details": {
+        "Âm Hán Việt": [
+            "tốc"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sước 辵 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶束"
+        ],
+        "Nét bút": [
+            "一丨フ一丨ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YDL (卜木中)"
+        ],
+        "Unicode": [
+            "U+901F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sù ㄙㄨˋ"
+        ],
+        "Âm Nôm": [
+            "nhanh",
+            "rốc",
+            "tốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はや.い (haya.i)",
+            "はや- (haya-)",
+            "はや.める (haya.meru)",
+            "すみ.やか (sumi.yaka)"
+        ],
+        "Âm Hàn": [
+            "속"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1"
+        ]
+    },
+    "meanings": {
+        "tốc": {
+            "Từ điển phổ thông": [
+                "nhanh chóng",
+                "tốc độ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Nhanh, chóng. ◎Như: 'tốc thành' 速成 mau xong, 'tốc tả' 速寫 viết nhanh. ◇Luận Ngữ 論語: 'Dục tốc tắc bất đạt, kiến tiểu lợi tắc đại sự bất thành' 欲速則不達, 見小利則大事不成 (Tử Lộ 子路) Muốn mau thành thì không đạt mục đích, chỉ nhìn cái lợi nhỏ thì việc lớn không thành.",
+                "(Động) Mời, yêu thỉnh. ◇Dịch Kinh 易經: 'Hữu bất tốc chi khách tam nhân lai, kính nguyên chung cát' 有不速之客三人來, 敬元終吉 (Nhu quái 需卦) Có ba người khách không mời mà lại, biết kính trọng họ thì sau được tốt lành. § Nay trong danh thiếp thường viết 'thứ tốc' 恕速 xin thứ đừng để mời lần nữa.",
+                "(Động) Vời lại, đem lại, dẫn đến. ◇Quốc ngữ 國學: 'Thị chi bất tuất, nhi súc tụ bất yếm, kì tốc oán ư dân đa hĩ' 是之不恤, 而蓄聚不厭, 其速怨於民多矣 (Sở ngữ hạ 楚語下) Đó là không xót thương, bóc lột không chán, chỉ dẫn đến nhiều oán hận ở dân thôi.",
+                "(Danh) Tốc độ. ◎Như: 'quang tốc' 光速 tốc độ của ánh sáng.",
+                "(Danh) Vết chân hươu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhanh chóng.",
+                "Mời. Như bất tốc chi khách 不速之客 người khách không mời mà đến. Nay trong danh thiếp thường viết thứ tốc 恕速 xin thứ đừng để mời lần nữa.",
+                "Tốc độ. Như quang tốc 光速 tốc độ ánh sáng.",
+                "Vết chân hươu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhanh, chóng, mau: 加速進行 Tiến hành nhanh hơn nữa;",
+                "Mời: 不速之客 Khách không mời mà đến;",
+                "(văn) Vết chân hươu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dấu chân con hươu, nai — Gọi lại. Triệu tới — Mau lẹ. Mau chóng."
+            ],
+            "compound_words": {
+                "急速": "cấp tốc",
+                "加速": "gia tốc",
+                "火速": "hoả tốc",
+                "快速": "khoái tốc",
+                "迅速": "tấn tốc",
+                "疾速": "tật tốc",
+                "神速": "thần tốc",
+                "速辜": "tốc cô",
+                "速度": "tốc độ",
+                "速行": "tốc hành",
+                "速記": "tốc kí",
+                "速力": "tốc lực",
+                "速成": "tốc thành",
+                "即速": "tức tốc",
+                "卽速": "tức tốc"
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "character": "毎",
+    "details": {
+        "Âm Hán Việt": [
+            "mỗi"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "vô 毋 (+2 nét)"
+        ],
+        "Hình thái": [
+            "⿱𠂉毋"
+        ],
+        "Nét bút": [
+            "ノ一フフ丨一"
+        ],
+        "Thương Hiệt": [
+            "OWJ (人田十)"
+        ],
+        "Unicode": [
+            "U+6BCE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "měi ㄇㄟˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マイ (mai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ごと (goto)",
+            "-ごと.に (-goto.ni)"
+        ],
+        "Âm Hàn": [
+            "매"
+        ]
+    },
+    "meanings": {
+        "mỗi": {
+            "Từ điển phổ thông": [
+                "mỗi một"
+            ],
+            "compound_words": {
+                "毎隔": "mỗi cách",
+                "毎夜": "mỗi dạ",
+                "毎毎": "mỗi mỗi",
+                "毎人": "mỗi nhân",
+                "毎一": "mỗi nhất",
+                "毎日": "mỗi nhật",
+                "毎年": "mỗi niên",
+                "毎天": "mỗi thiên"
+            }
+        }
+    }
+}

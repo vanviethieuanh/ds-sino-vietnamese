@@ -1,0 +1,81 @@
+{
+    "character": "阡",
+    "details": {
+        "Âm Hán Việt": [
+            "thiên"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "phụ 阜 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖千"
+        ],
+        "Nét bút": [
+            "フ丨ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "NLHJ (弓中竹十)"
+        ],
+        "Unicode": [
+            "U+9621"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "thiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cin1"
+        ]
+    },
+    "meanings": {
+        "thiên": {
+            "Từ điển phổ thông": [
+                "bờ ruộng",
+                "đường đi trong bãi tha ma"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đường nhỏ trong ruộng theo hướng nam bắc. § Xem 'thiên mạch' 阡陌.",
+                "(Danh) Đường đi.",
+                "(Danh) Mượn chỉ khu ngoài thành, dã ngoại.",
+                "(Danh) Mượn chỉ ruộng đất, điền địa.",
+                "(Danh) Phần mộ, mả. ◎Như: 'tân thiên' 新阡 mả mới. ◇Đỗ Phủ 杜甫: 'Cộng thùy luận tích sự, Kỉ xứ hữu tân thiên' 共誰論昔事, 幾處有新阡 (Thu nhật Quỳ Phủ vịnh hoài nhất bách vận 秋日夔府詠懷一百韻).",
+                "(Danh) Họ 'Thiên'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thiên mạch 阡陌 bờ ruộng, bờ ruộng về mặt phía đông phía tây gọi là mạch, về mặt phía nam phía bắc gọi là thiên.",
+                "Đường lối trong bãi tha ma. Như tân thiên 新阡 mả mới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bờ ruộng;",
+                "Lối đi ra mộ, đường đi trong bãi tha ma: 新阡 Mả mới."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con đường chạy theo hướng nam bắc — Con đường trong nghĩa địa — Đường bờ ruộng."
+            ],
+            "compound_words": {
+                "新阡": "tân thiên",
+                "阡陌": "thiên mạch"
+            }
+        }
+    }
+}

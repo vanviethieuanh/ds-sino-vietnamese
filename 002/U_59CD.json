@@ -1,0 +1,94 @@
+{
+    "character": "姍",
+    "details": {
+        "Âm Hán Việt": [
+            "san",
+            "tiên"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nữ 女 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女冊"
+        ],
+        "Nét bút": [
+            "フノ一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "VBT (女月廿)"
+        ],
+        "Unicode": [
+            "U+59CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "セン (sen)",
+            "ハン (han)",
+            "サツ (satsu)",
+            "サチ (sachi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みめよ.い (mimeyo.i)",
+            "そし.る (soshi.ru)",
+            "みにく.い (miniku.i)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "saan1"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển phổ thông": [
+                "chê cười",
+                "dáng đi thướt tha"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phỉ báng, chê trách. ◎Như: 'san tiếu' 姍笑 chê cười.",
+                "Một âm là 'tiên'. (Tính) 'Tiên tiên' 姍姍: (1) Dáng con gái đi tha thướt. (2) Cao nhã, phiêu dật, sái thoát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "San tiếu 姍笑 chê cười.",
+                "Một âm là tiên. Tiên tiên 姍姍 dáng con gái đi tha thướt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【姍笑】san tiếu [shanxiào] (văn) Chê cười;",
+                "【姍姍】tiên tiên [shanshan] (Đi) chậm chậm, chậm rãi, tha thướt."
+            ],
+            "compound_words": {
+                "媻姍": "bàn san"
+            }
+        },
+        "tiên": {
+            "Từ điển trích dẫn": [
+                "(Động) Phỉ báng, chê trách. ◎Như: 'san tiếu' 姍笑 chê cười.",
+                "Một âm là 'tiên'. (Tính) 'Tiên tiên' 姍姍: (1) Dáng con gái đi tha thướt. (2) Cao nhã, phiêu dật, sái thoát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "San tiếu 姍笑 chê cười.",
+                "Một âm là tiên. Tiên tiên 姍姍 dáng con gái đi tha thướt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【姍笑】san tiếu [shanxiào] (văn) Chê cười;",
+                "【姍姍】tiên tiên [shanshan] (Đi) chậm chậm, chậm rãi, tha thướt."
+            ]
+        }
+    }
+}

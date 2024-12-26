@@ -1,0 +1,99 @@
+{
+    "character": "鹽",
+    "details": {
+        "Âm Hán Việt": [
+            "diêm",
+            "diễm"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "lỗ 鹵 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿰臣⿱𠂉鹵皿"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フノ一丨一丨フノ丶丶丶丶丶一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "SWBT (尸田月廿)"
+        ],
+        "Unicode": [
+            "U+9E7D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ",
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "diêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しお (shio)"
+        ],
+        "Âm Hàn": [
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "jim4"
+        ]
+    },
+    "meanings": {
+        "diêm": {
+            "Từ điển phổ thông": [
+                "muối ăn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Muối. ◎Như: 'hải diêm' 海鹽 muối gạn ở nước bể, 'quáng diêm' 礦鹽 muối mỏ.",
+                "Một âm là 'diễm'. (Động) Xát muối, ướp muối vào thức ăn.",
+                "(Động) Hâm mộ, ham chuộng. § Thông 'diễm' 豔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Muối, gạn ở nước bể ra. Lại có ruộng muối, mỏ muối nữa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Muối, muối ăn: 海鹽 Muối bể; 礦鹽 Muối mỏ;",
+                "(hoá) Clohyđric, bazơ, muối.【鹽酸】diêm toan [yán suan] Axit clohyđric."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Muối ăn — Chất muối háo học — Mặn — Một âm là Diễm."
+            ],
+            "compound_words": {
+                "鹽田": "diêm điền",
+                "鹽汗": "diêm hãn",
+                "鹽課": "diêm khoá",
+                "鹽生": "diêm sinh",
+                "鹽稅": "diêm thuế",
+                "鹽商": "diêm thương",
+                "鹽井": "diêm tỉnh",
+                "官鹽": "quan diêm",
+                "瀉鹽": "tả diêm",
+                "撮鹽入火": "toát diêm nhập hoả"
+            }
+        },
+        "diễm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Muối. ◎Như: 'hải diêm' 海鹽 muối gạn ở nước bể, 'quáng diêm' 礦鹽 muối mỏ.",
+                "Một âm là 'diễm'. (Động) Xát muối, ướp muối vào thức ăn.",
+                "(Động) Hâm mộ, ham chuộng. § Thông 'diễm' 豔."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy muối mà ướp. Chẳng hạn muối dưa, muối cá. Ta quen đọc là Diêm — Dùng như chữ Diễm là đẹp — Một âm là Diêm."
+            ]
+        }
+    }
+}

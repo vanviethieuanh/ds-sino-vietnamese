@@ -1,0 +1,79 @@
+{
+    "character": "氷",
+    "details": {
+        "Âm Hán Việt": [
+            "băng"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+1 nét)"
+        ],
+        "Hình thái": [
+            "⿱水丶"
+        ],
+        "Nét bút": [
+            "丶丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "IE (戈水)"
+        ],
+        "Unicode": [
+            "U+6C37"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bīng ㄅㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "băn",
+            "băng",
+            "phăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こおり (kōri)",
+            "ひ (hi)",
+            "こお.る (kō.ru)"
+        ],
+        "Âm Hàn": [
+            "빙"
+        ],
+        "Âm Quảng Đông": [
+            "bing1"
+        ]
+    },
+    "meanings": {
+        "băng": {
+            "Từ điển phổ thông": [
+                "nước đá, băng",
+                "lạnh, buốt",
+                "ướp lạnh",
+                "làm đau đớn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “băng” 冰."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ băng 冰."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 冰 (bộ 冫)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Băng 冰."
+            ],
+            "compound_words": {
+                "薄氷": "bạc băng"
+            }
+        }
+    }
+}

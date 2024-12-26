@@ -1,0 +1,152 @@
+{
+    "character": "軋",
+    "details": {
+        "Âm Hán Việt": [
+            "ca",
+            "loát",
+            "yết"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "xa 車 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車乚"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨フ"
+        ],
+        "Thương Hiệt": [
+            "JJU (十十山)"
+        ],
+        "Unicode": [
+            "U+8ECB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gá ㄍㄚˊ",
+            "yà ㄧㄚˋ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "ca",
+            "loát",
+            "yết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アツ (atsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きし.る (kishi.ru)",
+            "きし.む (kishi.mu)"
+        ],
+        "Âm Hàn": [
+            "알"
+        ],
+        "Âm Quảng Đông": [
+            "gaat3",
+            "zaat3"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển trích dẫn": [
+                "(Động) Cán, lăn, nghiến.",
+                "(Động) Đè bẹp, bài xích. ◎Như: 'khuynh yết' 傾軋 chèn ép, gạt đổ.",
+                "(Danh) Một thứ hình phạt ngày xưa, dùng bàn ép kẹp mắt cá chân.",
+                "(Trạng thanh) Sình sịch, cạch cạch (tiếng bánh xe quay, tiếng máy chạy, v.v.). ◎Như: 'xa thanh yết yết' 車聲軋軋 tiếng xe xình xịch.",
+                "Một âm là 'ca'. (Động) Làm nghẽn, chen chúc.",
+                "(Động) Kết giao. ◎Như: 'ca bằng hữu' 軋朋友 kết bạn.",
+                "§ Ta quen đọc là 'loát'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Chen chúc, chật chội;",
+                "Giao kết: 軋朋友 Kết bạn;",
+                "Soát, kiểm: 軋帳 Soát sổ. Xem 軋 [yà], [zhá]."
+            ]
+        },
+        "loát": {
+            "Từ điển phổ thông": [
+                "nghiến, nghiền, đè bẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cán, lăn, nghiến.",
+                "(Động) Đè bẹp, bài xích. ◎Như: 'khuynh yết' 傾軋 chèn ép, gạt đổ.",
+                "(Danh) Một thứ hình phạt ngày xưa, dùng bàn ép kẹp mắt cá chân.",
+                "(Trạng thanh) Sình sịch, cạch cạch (tiếng bánh xe quay, tiếng máy chạy, v.v.). ◎Như: 'xa thanh yết yết' 車聲軋軋 tiếng xe xình xịch.",
+                "Một âm là 'ca'. (Động) Làm nghẽn, chen chúc.",
+                "(Động) Kết giao. ◎Như: 'ca bằng hữu' 軋朋友 kết bạn.",
+                "§ Ta quen đọc là 'loát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghiến, phàm cái gì đã qua một vòng trục tròn nó lăn qua đều gọi là yết. Như gỡ bông có cái yết hoa khí 軋花器 tức là cái guồng bật bông vậy.",
+                "Gạt đổ, đè bẹp. Lấy thế lực mà đánh đổ người khác gọi là khuynh yết 傾軋.",
+                "Một thứ hình pháp ngày xưa, dùng bàn ép kẹp mắt cá chân.",
+                "Tiếng bánh xe quay chạm vào nhau.",
+                "Ta quen đọc là chữ loát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cán, lăn, nghiến: 軋棉花 Cán bông;",
+                "Bài xích, chèn ép, đè bẹp: 互相傾軋 Chèn ép lẫn nhau;",
+                "(đph) Chen chúc;",
+                "Hình phạt thời xưa dùng bàn ép kẹp mắt cá chân;",
+                "(văn) (thanh) Trẹo trẹo, kẽo kịt (tiếng bánh xe quay chạm vào nhau);",
+                "[Yà] (Họ) Loát. Xem 軋 [gá], [zhá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hai cái trục ép vào nhau mà quay để cán dẹp vật gì — Lật đổ người khác. Td: Khuynh loát ( làm nghiêng, lật đổ )."
+            ],
+            "compound_words": {
+                "傾軋": "khuynh loát"
+            }
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "nghiến, nghiền, đè bẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cán, lăn, nghiến.",
+                "(Động) Đè bẹp, bài xích. ◎Như: 'khuynh yết' 傾軋 chèn ép, gạt đổ.",
+                "(Danh) Một thứ hình phạt ngày xưa, dùng bàn ép kẹp mắt cá chân.",
+                "(Trạng thanh) Sình sịch, cạch cạch (tiếng bánh xe quay, tiếng máy chạy, v.v.). ◎Như: 'xa thanh yết yết' 車聲軋軋 tiếng xe xình xịch.",
+                "Một âm là 'ca'. (Động) Làm nghẽn, chen chúc.",
+                "(Động) Kết giao. ◎Như: 'ca bằng hữu' 軋朋友 kết bạn.",
+                "§ Ta quen đọc là 'loát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghiến, phàm cái gì đã qua một vòng trục tròn nó lăn qua đều gọi là yết. Như gỡ bông có cái yết hoa khí 軋花器 tức là cái guồng bật bông vậy.",
+                "Gạt đổ, đè bẹp. Lấy thế lực mà đánh đổ người khác gọi là khuynh yết 傾軋.",
+                "Một thứ hình pháp ngày xưa, dùng bàn ép kẹp mắt cá chân.",
+                "Tiếng bánh xe quay chạm vào nhau.",
+                "Ta quen đọc là chữ loát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cán, lăn, nghiến: 軋棉花 Cán bông;",
+                "Bài xích, chèn ép, đè bẹp: 互相傾軋 Chèn ép lẫn nhau;",
+                "(đph) Chen chúc;",
+                "Hình phạt thời xưa dùng bàn ép kẹp mắt cá chân;",
+                "(văn) (thanh) Trẹo trẹo, kẽo kịt (tiếng bánh xe quay chạm vào nhau);",
+                "[Yà] (Họ) Loát. Xem 軋 [gá], [zhá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái trục để ép, để nghiến đồ vật — Nghiến ép — Làm nghiêng đổ. Td: Khuynh yết ( ta quen đọc Khuynh loát ) — Một hình phạt thời xưa, cho kẹp, nghiến các ngón tay chân của tội nhân — Ta quen đọc Loát."
+            ],
+            "compound_words": {
+                "輣軋": "bành yết",
+                "咿軋": "y yết",
+                "軋忽": "yết hốt",
+                "軋軋": "yết yết"
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "character": "艿",
+    "details": {
+        "Âm Hán Việt": [
+            "nhứng",
+            "nãi"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thảo 艸 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹乃"
+        ],
+        "Nét bút": [
+            "一丨丨フノ"
+        ],
+        "Thương Hiệt": [
+            "TNHS (廿弓竹尸)"
+        ],
+        "Unicode": [
+            "U+827F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "nǎi ㄋㄞˇ"
+        ],
+        "Âm Nôm": [
+            "nãi",
+            "nảy",
+            "nẩy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "ニョウ (nyō)",
+            "ジ (ji)",
+            "ニ (ni)"
+        ],
+        "Âm Quảng Đông": [
+            "jing4",
+            "naai5"
+        ]
+    },
+    "meanings": {
+        "nhứng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ rậm."
+            ]
+        },
+        "nãi": {
+            "Từ điển phổ thông": [
+                "(xem: vu nãi 芋艿)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 芋艿 [yùnăi]."
+            ],
+            "compound_words": {
+                "芋艿": "vu nãi"
+            }
+        }
+    }
+}

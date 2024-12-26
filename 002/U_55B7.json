@@ -1,0 +1,69 @@
+{
+    "character": "喷",
+    "details": {
+        "Âm Hán Việt": [
+            "phôn",
+            "phún"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口贲"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一丨丨丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "RJTO (口十廿人)"
+        ],
+        "Unicode": [
+            "U+55B7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pēn ㄆㄣ",
+            "pèn ㄆㄣˋ"
+        ],
+        "Âm Nôm": [
+            "phún"
+        ],
+        "Âm Quảng Đông": [
+            "pan3"
+        ]
+    },
+    "meanings": {
+        "phôn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 噴."
+            ]
+        },
+        "phún": {
+            "Từ điển phổ thông": [
+                "phun, vọt",
+                "phì ra, xì ra"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 噴."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phun, phụt, vọt: 噴火 Phun lửa; 噴剎蟲葯 Phun thuốc trừ sâu; 水從管子噴出來 Nước ở trong ống vọt ra; 噴氣 Phụt hơi; 含血噴人 Ngậm máu phun người. Xem 噴 [pèn]."
+            ],
+            "compound_words": {
+                "喷泉": "phún tuyền",
+                "喷射": "phún xạ"
+            }
+        }
+    }
+}

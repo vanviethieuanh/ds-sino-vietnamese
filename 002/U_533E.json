@@ -1,0 +1,89 @@
+{
+    "character": "匾",
+    "details": {
+        "Âm Hán Việt": [
+            "biền",
+            "biển"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "hễ 匸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿷匚扁"
+        ],
+        "Nét bút": [
+            "一丶フ一ノ丨フ一丨丨フ"
+        ],
+        "Thương Hiệt": [
+            "SHSB (尸竹尸月)"
+        ],
+        "Unicode": [
+            "U+533E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "biǎn ㄅㄧㄢˇ",
+            "pián ㄆㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "biển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うす.い (usu.i)",
+            "ひら.たい (hira.tai)",
+            "がく (gaku)"
+        ],
+        "Âm Hàn": [
+            "편"
+        ],
+        "Âm Quảng Đông": [
+            "bin2"
+        ]
+    },
+    "meanings": {
+        "biền": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm bảng treo trước nhà — Tấm mỏng, phiến mỏng — Méo, không tròn."
+            ]
+        },
+        "biển": {
+            "Từ điển phổ thông": [
+                "tấm biển",
+                "bức hoành",
+                "băng vải",
+                "cái mành tre"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Giẹt, mỏng.",
+                "(Danh) Tấm biển (có chữ, treo lên cao). ◎Như: 'biển ngạch' 匾額 tấm biển. ◇Hồng Lâu Mộng 紅樓夢: 'Cá cá đô hảo. Chẩm ma tả đích giá môn hảo liễu, minh nhi dã thế ngã tả nhất cá biển' 個個都好. 怎麼寫的這們好了, 明兒也替我寫一個匾 (Đệ lục thập bát hồi) Chữ nào cũng đẹp cả. Sao mà viết giỏi thế! Ngày mai anh viết hộ em một cái biển nhé.",
+                "(Danh) Đồ dùng giống như cái sàng nhỏ, hình tròn, giẹt, thường làm bằng tre. ◎Như: 'trúc biển' 竹匾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðẹp. Cái gì chiều dọc bé, chiều ngang to đều gọi là biển.",
+                "Cái biển. Viết chữ vào tấm ván treo lên gọi là biển."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tấm biển, bức hoành phi: 金字紅匣 Bức hoành phi đỏ chữ vàng;",
+                "(đph) Nong, nia: 蠶匾 Nong tằm;",
+                "(văn) Dẹp."
+            ],
+            "compound_words": {
+                "匾額": "biển ngạch"
+            }
+        }
+    }
+}

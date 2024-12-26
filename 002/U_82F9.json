@@ -1,0 +1,113 @@
+{
+    "character": "苹",
+    "details": {
+        "Âm Hán Việt": [
+            "biền",
+            "bình",
+            "phanh",
+            "tần"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thảo 艸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹平"
+        ],
+        "Nét bút": [
+            "一丨丨一丶ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "TMFJ (廿一火十)"
+        ],
+        "Unicode": [
+            "U+82F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pēng ㄆㄥ",
+            "pín ㄆㄧㄣˊ",
+            "píng ㄆㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "tần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ビョウ (byō)",
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ (ho)"
+        ],
+        "Âm Hàn": [
+            "평"
+        ],
+        "Âm Quảng Đông": [
+            "ping4"
+        ]
+    },
+    "meanings": {
+        "biền": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Biền xa 苹車."
+            ],
+            "compound_words": {
+                "苹車": "biền xa"
+            }
+        },
+        "bình": {
+            "Từ điển phổ thông": [
+                "cây rau tần",
+                "bèo tấm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bèo, nổi trên mặt nước, không có rễ. § Cũng như chữ 萍.",
+                "(Danh) Một loài thanh hao trắng.",
+                "(Danh) Cũng như chữ 蘋.",
+                "(Danh) 'Bình quả' 苹果 trái táo (tiếng Anh: apple)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ bình, một loài thanh hao trắng.",
+                "Một âm là biền. Xe biền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 苹 nghĩa ③."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại rau, tương tự rau hao — Cây bèo."
+            ],
+            "compound_words": {
+                "苹苹": "bình bình"
+            }
+        },
+        "phanh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phanh oanh 苹縈: Lòng vòng. Xoay tròn — Các âm khác là Bình, Biền. Xem các âm này."
+            ],
+            "compound_words": {
+                "苹縈": "phanh oanh"
+            }
+        },
+        "tần": {
+            "Từ điển phổ thông": [
+                "cây rau tần",
+                "bèo tấm"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây tần, bèo tấm, rau bợ nước (Marsilia quadrifolia). Cg. 田字草 [tián zì căo];",
+                "Quả tần bà Xem 苹 [píng]."
+            ]
+        }
+    }
+}

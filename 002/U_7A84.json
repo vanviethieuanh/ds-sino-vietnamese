@@ -1,0 +1,82 @@
+{
+    "character": "窄",
+    "details": {
+        "Âm Hán Việt": [
+            "trách"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴乍"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶ノ一丨一一"
+        ],
+        "Thương Hiệt": [
+            "JCHS (十金竹尸)"
+        ],
+        "Unicode": [
+            "U+7A84"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zé ㄗㄜˊ",
+            "zhǎi ㄓㄞˇ"
+        ],
+        "Âm Nôm": [
+            "trách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すぼ.める (subo.meru)",
+            "つぼ.める (tsubo.meru)",
+            "せま.い (sema.i)"
+        ],
+        "Âm Hàn": [
+            "착"
+        ],
+        "Âm Quảng Đông": [
+            "zaak3"
+        ]
+    },
+    "meanings": {
+        "trách": {
+            "Từ điển phổ thông": [
+                "trật hẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Chật, hẹp. ◇Nguyễn Du 阮攸: “Trách trách tiểu chu nan quá Hạ” 窄窄小舟難過夏 (Thương Ngô mộ vũ 蒼梧暮雨) Chiếc thuyền nhỏ chật khó qua đất Hạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chật, hẹp. Trách trách tiểu chu nan quá Hạ 窄窄小舟難過夏 (Nguyễn Du 阮攸) chiếc thuyền nhỏ chật khó qua đất Hạ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hẹp, chật: 路太窄了 Đường hẹp quá;",
+                "Hẹp hòi: 他的心眼太窄了 Tính anh ấy hẹp hòi quá;",
+                "Chật vật: 生活太窄 Cuộc sống quá chật vật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chật hẹp."
+            ],
+            "compound_words": {
+                "迫窄": "bách trách",
+                "逼窄": "bức trách",
+                "狹窄": "hiệp trách"
+            }
+        }
+    }
+}

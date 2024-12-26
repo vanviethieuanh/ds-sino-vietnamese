@@ -1,0 +1,108 @@
+{
+    "character": "廟",
+    "details": {
+        "Âm Hán Việt": [
+            "miếu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸广朝"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨丨フ一一一丨ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "IJJB (戈十十月)"
+        ],
+        "Unicode": [
+            "U+5EDF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "miào ㄇㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "méo",
+            "miếu",
+            "mưỡu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たまや (tamaya)",
+            "みたまや (mitamaya)",
+            "やしろ (yashiro)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "miu6"
+        ]
+    },
+    "meanings": {
+        "miếu": {
+            "Từ điển phổ thông": [
+                "cái miếu thờ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ốc xá để tế lễ tổ tiên. ◎Như: 'thái miếu' 太廟, 'tổ miếu' 祖廟, 'gia miếu' 家廟.",
+                "(Danh) Đền thờ thần, Phật. ◎Như: 'văn miếu' 文廟 đền thờ đức Khổng Tử 孔子, 'thổ địa miếu' 土地廟 miếu thờ thần đất.",
+                "(Danh) Điện trước cung vua.",
+                "(Tính) Thuộc về vua, liên quan tới vua. ◎Như: 'miếu toán' 廟算 mưu tính của nhà vua. ◇Nguyễn Trãi 阮廌: 'Miếu toán tiên tri đại sự thành' 廟算先知大事成 (Hạ quy Lam Sơn 賀歸藍山) Sự suy tính nơi triều đình đã biết trước việc lớn sẽ thành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái miếu (để thờ cúng quỷ thần).",
+                "Cái điện trước cung vua, vì thế nên mọi sự cử động của vua đều gọi là miếu. Như miếu toán 廟算 mưu tính của nhà vua.",
+                "Chỗ làm việc ở trong nhà cũng gọi là miếu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Miếu, đền thờ: 土地廟 Miếu thổ địa; 龍王廟 Miếu long vương; 孔廟 Văn miếu, Khổng miếu; 山頂上有一座很大的廟 Trên đỉnh núi có một cái miếu rất to;",
+                "Phiên chợ đình chùa;",
+                "Điện trước cung vua. (Ngb) (Thuộc về) nhà vua: 廟算 Toan tính của nhà vua;",
+                "Chỗ làm việc trong nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà thờ tổ tiên của vua — Ngôi nhà phía trước của vua — Chỉ triều đình — Ngôi nhà để thờ cúng. Thơ Lê Thánh Tông có câu: » Nghi ngút đầu ghềnh tỏ khói hương, miếu ai như miếu vợ chàng Trương «."
+            ],
+            "compound_words": {
+                "家廟": "gia miếu",
+                "孔廟": "khổng miếu",
+                "廊廟": "lang miếu",
+                "陵廟": "lăng miếu",
+                "廟燭": "miếu chúc",
+                "廟祝": "miếu chúc",
+                "廟公": "miếu công",
+                "廟堂": "miếu đường",
+                "廟號": "miếu hiệu",
+                "廟宇": "miếu vũ",
+                "廟見": "miếu vũ",
+                "寑廟": "tẩm miếu",
+                "太廟": "thái miếu",
+                "聖廟": "thánh miếu",
+                "神廟": "thần miếu",
+                "祖廟": "tổ miếu",
+                "宗廟": "tông miếu",
+                "朝廟": "triều miếu",
+                "寺廟": "tự miếu",
+                "文廟": "văn miếu",
+                "園廟": "viên miếu"
+            }
+        }
+    }
+}

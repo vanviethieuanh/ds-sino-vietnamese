@@ -1,0 +1,92 @@
+{
+    "character": "湔",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên",
+            "tiền",
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡前"
+        ],
+        "Nét bút": [
+            "丶丶一丶ノ一丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "ETBN (水廿月弓)"
+        ],
+        "Unicode": [
+            "U+6E54"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "jiàn ㄐㄧㄢˋ",
+            "zàn ㄗㄢˋ",
+            "zhǎn ㄓㄢˇ"
+        ],
+        "Âm Nôm": [
+            "tiễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あら.う (ara.u)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "sông Tiên",
+                "gột rửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sông 'Tiên', ở tỉnh Tứ Xuyên.",
+                "(Động) Gột, rửa. ◎Như: 'tiên phất' 湔祓 rửa oan."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông Tiên.",
+                "Gột, rửa, như tiên phất 湔祓 rửa oan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Rửa;",
+                "[Jian] Sông Tiên (ở tỉnh Tứ Xuyên, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tiên 濺 — Một âm khác là Tiền. Xem Tiền."
+            ]
+        },
+        "tiền": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rửa cho sạch — Một âm là Tiên. Xem Tiên."
+            ]
+        },
+        "tiễn": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bắn tung tóe (như 濺)."
+            ]
+        }
+    }
+}

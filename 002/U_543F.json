@@ -1,0 +1,77 @@
+{
+    "character": "吿",
+    "details": {
+        "Âm Hán Việt": [
+            "cáo",
+            "cốc"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Hình thái": [
+            "⿱牛口"
+        ],
+        "Nét bút": [
+            "ノ一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "XHQR (重竹手口)"
+        ],
+        "Unicode": [
+            "U+543F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gào ㄍㄠˋ"
+        ],
+        "Âm Nôm": [
+            "cáo",
+            "cáu",
+            "kiếu"
+        ]
+    },
+    "meanings": {
+        "cáo": {
+            "Từ điển phổ thông": [
+                "bảo cho biết, báo cáo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Một dạng của chữ “cáo” 告."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bảo, bảo người trên gọi là cáo.",
+                "Cáo, như cáo lão 吿老 cáo rằng già yếu phải nghỉ, cáo bệnh 吿 cáo ốm, v.v.",
+                "Một âm là cốc. Trình, như xuất cốc phản diện 出吿反面 nghĩa là con thờ cha mẹ đi ra thì xin phép, về thì trình mặt vậy."
+            ],
+            "compound_words": {
+                "啟吿": "khải cáo",
+                "抗吿": "kháng cáo",
+                "泣吿": "khấp cáo",
+                "廣吿": "quảng cáo",
+                "直吿": "trực cáo",
+                "妄吿": "vọng cáo",
+                "無吿": "vô cáo",
+                "誣吿": "vu cáo",
+                "謁吿": "yết cáo"
+            }
+        },
+        "cốc": {
+            "Từ điển trích dẫn": [
+                "1. Một dạng của chữ “cáo” 告."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bảo, bảo người trên gọi là cáo.",
+                "Cáo, như cáo lão 吿老 cáo rằng già yếu phải nghỉ, cáo bệnh 吿 cáo ốm, v.v.",
+                "Một âm là cốc. Trình, như xuất cốc phản diện 出吿反面 nghĩa là con thờ cha mẹ đi ra thì xin phép, về thì trình mặt vậy."
+            ]
+        }
+    }
+}

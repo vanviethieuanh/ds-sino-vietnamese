@@ -1,0 +1,85 @@
+{
+    "character": "淀",
+    "details": {
+        "Âm Hán Việt": [
+            "điến",
+            "điện"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡定"
+        ],
+        "Nét bút": [
+            "丶丶一丶丶フ一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EJMO (水十一人)"
+        ],
+        "Unicode": [
+            "U+6DC0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "điện"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)",
+            "デン (den)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よど.む (yodo.mu)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "din6"
+        ]
+    },
+    "meanings": {
+        "điến": {
+            "Từ điển phổ thông": [
+                "nước nông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ nước cạn (hồ, ao nước nông).",
+                "§ Giản thể của chữ 澱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chỗ nước nông, như hồ ao, v.v.",
+                "Cùng nghĩa với chữ điện 甸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lắng: 沉淀 Lắng, lắng đọng;",
+                "Hồ (nông): 白洋淀 Hồ Bạch Dương;",
+                "(văn) Như 甸 (bộ 田)."
+            ]
+        },
+        "điện": {
+            "Từ điển Trần Văn Chánh": [
+                "Lắng: 沉淀 Lắng, lắng đọng;",
+                "Hồ (nông): 白洋淀 Hồ Bạch Dương;",
+                "(văn) Như 甸 (bộ 田)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Điện"
+            ]
+        }
+    }
+}

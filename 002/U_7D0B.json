@@ -1,0 +1,87 @@
+{
+    "character": "紋",
+    "details": {
+        "Âm Hán Việt": [
+            "văn",
+            "vấn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹文"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFYK (女火卜大)"
+        ],
+        "Unicode": [
+            "U+7D0B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wén ㄨㄣˊ",
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "văn",
+            "vân",
+            "vện"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モン (mon)"
+        ],
+        "Âm Hàn": [
+            "문"
+        ],
+        "Âm Quảng Đông": [
+            "man4"
+        ]
+    },
+    "meanings": {
+        "văn": {
+            "Từ điển phổ thông": [
+                "đường, vết, vằn",
+                "nếp nhăn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vân, vằn trên gấm vóc.",
+                "(Danh) Vằn, ngấn, nếp. ◎Như: 'ba văn' 波紋 vằn sóng, 'chỉ văn' 指紋 dấu vằn trên ngón tay, 'trứu văn' 皺紋 nếp nhăn.",
+                "(Động) Xâm vẽ vằn hình. ◎Như: 'văn thân' 紋身 xâm vẽ vằn trên mình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vân, vằn gấm vóc. Vật gì có vằn có ngấn cũng gọi là văn, như ba văn 波紋 vằn sóng.",
+                "Văn ngân 紋銀 bạc nén, bạc đúc thành thoi trên có hoa vằn gọi là văn ngân, gọi tắt là văn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vân, vằn: 紋石 Đá vân; 木上有紋 Gỗ có vân;",
+                "Nếp (nhăn): 皺紋 Nếp nhăn. Xem 紋 [wèn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nếp nhăn — Đường vân trên vải lụa — Vằn vện."
+            ],
+            "compound_words": {
+                "波紋": "ba văn",
+                "斑紋": "ban văn"
+            }
+        },
+        "vấn": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 璺 [wèn] (bộ 玉). Xem 紋 [wén]."
+            ]
+        }
+    }
+}

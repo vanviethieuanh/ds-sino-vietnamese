@@ -1,0 +1,93 @@
+{
+    "character": "淋",
+    "details": {
+        "Âm Hán Việt": [
+            "lâm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡林"
+        ],
+        "Nét bút": [
+            "丶丶一一丨ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EDD (水木木)"
+        ],
+        "Unicode": [
+            "U+6DCB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lín ㄌㄧㄣˊ",
+            "lìn ㄌㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "lâm",
+            "lem",
+            "rấm",
+            "rướm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リン (rin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さび.しい (sabi.shii)",
+            "さみ.しい (sami.shii)"
+        ],
+        "Âm Hàn": [
+            "림",
+            "임"
+        ],
+        "Âm Quảng Đông": [
+            "lam4"
+        ]
+    },
+    "meanings": {
+        "lâm": {
+            "Từ điển phổ thông": [
+                "ướt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngâm nước.",
+                "(Động) Tưới, rưới, dầm. ◎Như: 'lâm dục' 淋浴 tắm rửa, 'nhật sái vũ lâm' 日曬雨淋 dãi nắng dầm mưa.",
+                "(Động) Lọc. ◎Như: 'quá lâm' 過淋 gạn lọc.",
+                "(Tính) Ướt, ướt át. ◎Như: 'lâm li' 淋漓 đầm đìa, nhễ nhại. ◇Cù Hựu 瞿佑: 'Phùng Đại Dị hồn thân bị đả đắc tiên huyết lâm li' 馮大異渾身被打得鮮血淋漓 (Thái Hư Tư Pháp truyện 太虛司法傳) Phùng Đại Dị khắp mình bị đánh máu chảy đầm đìa.",
+                "(Danh) Bệnh lậu. § Thông 'lâm' 痳."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngâm nước.",
+                "Lâm li 淋漓 Lâm li thấm thía.",
+                "Bệnh lâm, cùng nghĩa với chữ lâm 痳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lọc: 過淋 Gạn lọc; 淋鹽 Muối lọc; 淋硝 Diêm clo; 把這藥用紗布淋一下 Lấy vải thưa lọc qua chén thuốc này;",
+                "【淋病】 lâm bệnh [lìnbìng] Bệnh lậu. Xem 淋 [lín]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy nước mà tưới ướt — Ướt sũng — Bệnh tiểu tiện khó — Bệnh lậu."
+            ],
+            "compound_words": {
+                "冰淇淋": "băng kì lâm",
+                "淋淋": "lâm lâm",
+                "淋漏": "lâm lậu",
+                "淋漓": "lâm li",
+                "淋漓盡致": "lâm li tận trí",
+                "淋瀝": "lâm lịch"
+            }
+        }
+    }
+}

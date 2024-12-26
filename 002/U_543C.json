@@ -1,0 +1,83 @@
+{
+    "character": "吼",
+    "details": {
+        "Âm Hán Việt": [
+            "hống"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口孔"
+        ],
+        "Nét bút": [
+            "丨フ一フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "RNDU (口弓木山)"
+        ],
+        "Unicode": [
+            "U+543C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hǒu ㄏㄡˇ"
+        ],
+        "Âm Nôm": [
+            "hống",
+            "khỏng",
+            "rống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ.える (ho.eru)"
+        ],
+        "Âm Hàn": [
+            "후"
+        ],
+        "Âm Quảng Đông": [
+            "haau1",
+            "hau3"
+        ]
+    },
+    "meanings": {
+        "hống": {
+            "Từ điển phổ thông": [
+                "rống, kêu to"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gầm, rống (mãnh thú). ◎Như: 'sư tử hống' 獅子吼 sư tử gầm.",
+                "(Động) Người nổi giận hoặc kích động kêu lớn tiếng. ◎Như: 'nhất thanh nộ hống' 一聲怒吼 nổi giận rống lên một tiếng. ◇Pháp Hoa Kinh 法華經: 'Kì Đa Bảo Phật, Tuy cửu diệt độ, Dĩ đại thệ nguyện, Nhi sư tử hống' 其多寶佛, 雖久滅度, 以大誓願, 而師子吼 (Pháp sư phẩm đệ thập 法師品第十) Như đức Phật Đa Bảo kia, dù diệt độ đã lâu, do lời thề nguyện vĩ đại, mà còn vang rền tiếng sư tử rống.",
+                "(Động) Hú, gào (hiện tượng thiên nhiên phát ra tiếng lớn mạnh). ◎Như: 'bắc phong nộ hống' 北風怒吼 gió bấc hú dữ dội."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Rống. Tiếng kêu các loài thú mạnh kêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gầm, gào, rống: 獅子吼 Sư tử gầm; 怒吼 Gào thét."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kêu ( nói về trâu bò ) — Gầm ( nói về mãnh thú ) — Quát lên, thét to."
+            ],
+            "compound_words": {
+                "吼怒": "hống nộ",
+                "怒吼": "nộ hống",
+                "獅子吼": "sư tử hống"
+            }
+        }
+    }
+}

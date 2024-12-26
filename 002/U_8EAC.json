@@ -1,0 +1,86 @@
+{
+    "character": "躬",
+    "details": {
+        "Âm Hán Việt": [
+            "cung"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thân 身 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰身弓"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一一ノフ一フ"
+        ],
+        "Thương Hiệt": [
+            "HHN (竹竹弓)"
+        ],
+        "Unicode": [
+            "U+8EAC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gōng ㄍㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "còng",
+            "cung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)",
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "み (mi)"
+        ],
+        "Âm Hàn": [
+            "궁"
+        ],
+        "Âm Quảng Đông": [
+            "gung1"
+        ]
+    },
+    "meanings": {
+        "cung": {
+            "Từ điển phổ thông": [
+                "thân thể, mình"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thân thể, thân mình. ◎Như: 'cúc cung' 鞠躬 cúi mình xuống vái.",
+                "(Phó) Tự mình làm, đích thân, thân hành. ◇Vương Bột 王勃: 'Đồng tử hà tri, cung phùng thắng tiễn' 童子何知, 躬逢勝餞 (Đằng Vương Các tự 滕王閣序) (Tôi là) trẻ con biết gì, đích thân được dự tiệc lớn.",
+                "(Động) Cúi, khom mình. ◎Như: 'cung thân vi lễ' 躬身為禮 cúi mình làm lễ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thân mình, cúi mình xuống vái gọi là cúc cung 鞠躬.",
+                "Thân làm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tự bản thân, đích thân, thân hành; 躬行實踐 Tự bản thân làm lấy; 躬自厚而薄責於人，則遠怨矣 Nếu mình tự trách mình nhiều và trách người ít hơn thì tránh được điều oán (Luận ngữ);",
+                "Cúi, khom (mình)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thân mình, ( không kể tứ chi )."
+            ],
+            "compound_words": {
+                "鞠躬": "cúc cung",
+                "鞠躬盡瘁": "cúc cung tận tuỵ",
+                "躬耕": "cung canh",
+                "躬行": "cung hành",
+                "躬桑": "cung tang",
+                "飭躬": "sức cung"
+            }
+        }
+    }
+}

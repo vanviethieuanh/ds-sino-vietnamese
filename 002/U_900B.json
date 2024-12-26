@@ -1,0 +1,86 @@
+{
+    "character": "逋",
+    "details": {
+        "Âm Hán Việt": [
+            "bô"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sước 辵 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶甫"
+        ],
+        "Nét bút": [
+            "一丨フ一一丨丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YIJB (卜戈十月)"
+        ],
+        "Unicode": [
+            "U+900B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bū ㄅㄨ"
+        ],
+        "Âm Nôm": [
+            "bo",
+            "bô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)",
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のが.れる (noga.reru)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bou1"
+        ]
+    },
+    "meanings": {
+        "bô": {
+            "Từ điển phổ thông": [
+                "chạy trốn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trốn chạy, đào tẩu, đào vong. ◎Như: 'bô đào' 逋逃 trốn tránh.",
+                "(Động) Thiếu không trả. ◎Như: 'bô tô' 逋租 thiếu thuế, 'bô trái' 逋債 thiếu nợ, 'nhất thanh túc bô' 一清宿逋 trả sạch nợ.",
+                "(Danh) Người Việt thời cổ gọi vua, cha, người đáng tôn kính là 'bô'. ◇Lĩnh Nam Chích Quái liệt truyện 嶺南摭怪列傳: 'Bô hồ hà tại?' 逋乎何在 (Hồng Bàng Thị truyện 鴻龐氏傳) Vua ở đâu?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trốn mất. Có tội đi trốn gọi là bô. Chỗ các kẻ có tội ẩn núp gọi là bô đào tẩu 逋逃藪.",
+                "Còn nợ của nhà nước mà trốn không trả cũng gọi là bô. Như quyên bô 蠲逋 tha cho, không đòi những thuế nợ còn mắc. Trả được sạch món nợ gọi là nhất thanh túc bô 一清宿逋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trốn, trốn nợ nhà nước: 逋逃 Chạy trốn, trốn tránh;",
+                "Bỏ mặc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trốn mất — Thiếu nợ — Chậm trễ."
+            ],
+            "compound_words": {
+                "逋蕩": "bô đãng",
+                "逋逃": "bô đào",
+                "逋客": "bô khách",
+                "逋慢": "bô mạn",
+                "逋遷": "bô thiên",
+                "逋亡": "bô vong"
+            }
+        }
+    }
+}

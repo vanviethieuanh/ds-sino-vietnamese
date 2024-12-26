@@ -1,0 +1,116 @@
+{
+    "character": "藩",
+    "details": {
+        "Âm Hán Việt": [
+            "phan",
+            "phiên"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thảo 艸 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹潘"
+        ],
+        "Nét bút": [
+            "一丨丨丶丶一ノ丶ノ一丨ノ丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "TEHW (廿水竹田)"
+        ],
+        "Unicode": [
+            "U+85E9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fān ㄈㄢ",
+            "fán ㄈㄢˊ"
+        ],
+        "Âm Nôm": [
+            "phen",
+            "phên",
+            "phiên",
+            "phồn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Hàn": [
+            "번"
+        ],
+        "Âm Quảng Đông": [
+            "faan4"
+        ]
+    },
+    "meanings": {
+        "phan": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bờ rào, giậu. ◎Như: 'phiên li' 藩籬 hàng rào.",
+                "(Danh) Thuộc địa hoặc thuộc quốc phong cho chư hầu ngày xưa. ◎Như: 'phiên quốc' 藩國. § Vua phong các bầy tôi, các con cháu ra trấn các nơi để làm phên che cho nhà vua gọi là 'phân phiên' 分藩, quan bố chánh là 'phiên ti' 藩司.",
+                "(Danh) Họ 'Phiên'.",
+                "(Động) Ngăn che, bảo vệ.",
+                "§ Ta quen đọc là 'phan'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bờ rào.",
+                "Phên che, bảo hộ. Vua phong các bầy tôi, các con cháu ra trấn các nơi để làm phên che cho nhà vua gọi là phân phiên 分藩, quan bố chánh là phiên ti 藩司. Ta quen đọc là chữ phan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rào, hàng rào, bờ rào: 藩篱 Hàng rào;",
+                "Vùng biên cương;",
+                "Phên che. (Ngr) Thuộc quốc hoặc thuộc địa: 藩國 Phiên quốc; 外藩 Ngoại phiên."
+            ]
+        },
+        "phiên": {
+            "Từ điển phổ thông": [
+                "bờ rào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bờ rào, giậu. ◎Như: 'phiên li' 藩籬 hàng rào.",
+                "(Danh) Thuộc địa hoặc thuộc quốc phong cho chư hầu ngày xưa. ◎Như: 'phiên quốc' 藩國. § Vua phong các bầy tôi, các con cháu ra trấn các nơi để làm phên che cho nhà vua gọi là 'phân phiên' 分藩, quan bố chánh là 'phiên ti' 藩司.",
+                "(Danh) Họ 'Phiên'.",
+                "(Động) Ngăn che, bảo vệ.",
+                "§ Ta quen đọc là 'phan'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bờ rào.",
+                "Phên che, bảo hộ. Vua phong các bầy tôi, các con cháu ra trấn các nơi để làm phên che cho nhà vua gọi là phân phiên 分藩, quan bố chánh là phiên ti 藩司. Ta quen đọc là chữ phan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rào, hàng rào, bờ rào: 藩篱 Hàng rào;",
+                "Vùng biên cương;",
+                "Phên che. (Ngr) Thuộc quốc hoặc thuộc địa: 藩國 Phiên quốc; 外藩 Ngoại phiên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hàng rào — Che xung quanh — Khu vực. Vùng đất."
+            ],
+            "compound_words": {
+                "外藩": "ngoại phiên",
+                "藩臺": "phiên đài",
+                "藩候": "phiên hầu",
+                "藩籬": "phiên li",
+                "藩牧": "phiên mục",
+                "藩封": "phiên phong",
+                "藩附": "phiên phụ",
+                "藩方": "phiên phương",
+                "藩國": "phiên quốc",
+                "藩使": "phiên sứ",
+                "藩臣": "phiên thần",
+                "藩屬": "phiên thuộc",
+                "藩鎮": "phiên trấn",
+                "藩司": "phiên ty",
+                "遠藩": "viễn phiên"
+            }
+        }
+    }
+}

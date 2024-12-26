@@ -1,0 +1,95 @@
+{
+    "character": "爬",
+    "details": {
+        "Âm Hán Việt": [
+            "ba",
+            "bà"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "trảo 爪 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺爪巴"
+        ],
+        "Nét bút": [
+            "ノノ丨丶フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "HOAU (竹人日山)"
+        ],
+        "Unicode": [
+            "U+722C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "pá ㄆㄚˊ"
+        ],
+        "Âm Nôm": [
+            "ba",
+            "bò"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.く (ka.ku)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "paa4"
+        ]
+    },
+    "meanings": {
+        "ba": {
+            "Từ điển phổ thông": [
+                "gãi, cào",
+                "bò, leo, trèo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bò. ◎Như: 'ba xuất môn ngoại' 爬出門外 bò ra ngoài cửa. ◇Thủy hử truyện 水滸傳: 'Na hậu sanh ba tương khởi lai' 那後生爬將起來 (Đệ nhị hồi) Chàng trẻ (lồm cồm) bò trở dậy.",
+                "(Động) Leo, trèo, vin. ◎Như: 'ba thụ' 爬樹 trèo cây, 'ba san' 爬山 leo núi.",
+                "(Động) Nép, nằm ép mình xuống. ◇Hồng Lâu Mộng 紅樓夢: 'Chỉ thặng hạ Tình Văn nhất nhân tại ngoại gian ốc nội ba trước' 只剩下晴雯一人在外間屋內爬着 (Đệ thất thập thất hồi) Chỉ  còn một mình Tình Văn nằm mọp trong nhà ở phòng ngoài.",
+                "(Động) Gãi, cào. ◎Như: 'ba dưỡng' 爬癢 gãi ngứa, 'ba bối' 爬背 gãi lưng .",
+                "(Động) Đào lên, móc ra, bới ra. ◇Liêu trai chí dị 聊齋志異: '(Nữ) hựu bạt đầu thượng trâm, thứ thổ sổ thập hạ, hựu viết: Ba chi. Sanh hựu tòng chi. Tắc úng khẩu dĩ hiện' (女)又拔頭上簪, 刺土數十下, 又曰: 爬之. 生又從之. 則甕口已見 (Cát Cân 葛巾) (Nàng) lại rút chiếc trâm trên đầu, chọc vài mươi nhát xuống đất, rồi lại bảo: Đào lên. Sinh làm theo. Thì thấy lộ ra một cái miệng vò.",
+                "(Động) (Dùng bừa, cào) cào đất, ban đất cho bằng.",
+                "(Danh) Cái cào, cái bừa (dụng cụ nhà nông)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gãi. Tục bảo bò cả chân cả tay là ba."
+            ],
+            "compound_words": {
+                "爬行": "ba hành",
+                "爬蟲類": "ba trùng loại"
+            }
+        },
+        "bà": {
+            "Từ điển Trần Văn Chánh": [
+                "Bò: 蟲在地下爬 Con sâu bò dưới đất;",
+                "Trèo, leo, ngoi lên, trèo lên: 爬樹 Trèo cây; 向上爬思想 Tư tưởng ngoi lên (địa vị cao); 爬雪山過草地 Leo núi tuyết vượt đồng lầy; 爬得高，跌得痛 Trèo cao té nặng;",
+                "(văn) Gãi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cào, gãi — Bò bằng hai tay hai chân."
+            ],
+            "compound_words": {
+                "爬羅": "bà la",
+                "爬沙": "bà sa",
+                "爬梳": "bà sơ",
+                "爬蟲類": "bà trùng loài"
+            }
+        }
+    }
+}

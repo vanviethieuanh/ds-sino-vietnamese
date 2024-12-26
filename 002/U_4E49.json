@@ -1,0 +1,72 @@
+{
+    "character": "义",
+    "details": {
+        "Âm Hán Việt": [
+            "nghĩa"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "chủ 丶 (+2 nét)",
+            "triệt 丿 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IK (戈大)"
+        ],
+        "Unicode": [
+            "U+4E49"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "nghĩa",
+            "xơ"
+        ],
+        "Âm Quảng Đông": [
+            "ji6"
+        ]
+    },
+    "meanings": {
+        "nghĩa": {
+            "Từ điển phổ thông": [
+                "nghĩa khí"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 義."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 義"
+            ],
+            "compound_words": {
+                "本义": "bản nghĩa",
+                "贬义": "biếm nghĩa",
+                "正义": "chính nghĩa",
+                "主义": "chủ nghĩa",
+                "名义": "danh nghĩa",
+                "定义": "định nghĩa",
+                "教义": "giáo nghĩa",
+                "含义": "hàm nghĩa",
+                "结义": "kết nghĩa",
+                "义大利": "nghĩa đại lợi",
+                "义母": "nghĩa mẫu",
+                "义父": "nghĩa phụ",
+                "义子": "nghĩa tử",
+                "意义": "ý nghĩa"
+            }
+        }
+    }
+}

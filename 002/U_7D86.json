@@ -1,0 +1,85 @@
+{
+    "character": "綆",
+    "details": {
+        "Âm Hán Việt": [
+            "bính",
+            "cảnh"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mịch 糸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹更"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一丨フ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFMLK (女火一中大)"
+        ],
+        "Unicode": [
+            "U+7D86"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bǐng ㄅㄧㄥˇ",
+            "gěng ㄍㄥˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "キョウ (kyō)",
+            "ヘイ (hei)",
+            "ヒョイ (hyoi)",
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つるべなわ (tsurubenawa)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "gang2"
+        ]
+    },
+    "meanings": {
+        "bính": {
+            "Từ điển trích dẫn": [
+                "(Danh) Dây kéo nước, dây buộc gàu múc nước.",
+                "(Danh) Dây xích, dây chuyền.",
+                "Một âm là 'bính'. (Danh) Bộ phận nhô ra gần trục bánh xe thời xưa."
+            ]
+        },
+        "cảnh": {
+            "Từ điển phổ thông": [
+                "dây kéo nước, dây gầu múc nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dây kéo nước, dây buộc gàu múc nước.",
+                "(Danh) Dây xích, dây chuyền.",
+                "Một âm là 'bính'. (Danh) Bộ phận nhô ra gần trục bánh xe thời xưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dây kéo nước, dây dong gáo xuống giếng múc nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sợi thừng dùng buộc gáo vục nước, dây kéo nước."
+            ],
+            "compound_words": {
+                "綆縻": "cảnh mi",
+                "汲深綆短": "cấp thâm cảnh đoản"
+            }
+        }
+    }
+}

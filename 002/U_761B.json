@@ -1,0 +1,90 @@
+{
+    "character": "瘛",
+    "details": {
+        "Âm Hán Việt": [
+            "khiết",
+            "xiết"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nạch 疒 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸疒恝"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一一一丨フノ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "KQHP (大手竹心)"
+        ],
+        "Unicode": [
+            "U+761B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ",
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Nôm": [
+            "xiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "セツ (setsu)",
+            "セチ (sechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひきつ.け (hikitsu.ke)"
+        ],
+        "Âm Quảng Đông": [
+            "kai3"
+        ]
+    },
+    "meanings": {
+        "khiết": {
+            "Từ điển phổ thông": [
+                "co quắp, co rút"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gân mạch co quắp. ◎Như: 'xiết túng' 瘛瘲 bệnh động kinh hay kinh phong (cũng phiếm chỉ chân tay co quắp), 'túng xiết' 瘲瘛 bệnh sài của trẻ con.",
+                "§ Cũng viết là 'xiết' 瘈. Tục đọc là 'khiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Co quắp, gân mạch co rút lại gọi là xiết.",
+                "Xiết túng 瘛瘲 bệnh sài trẻ con. Cũng viết là xiết 瘈. Tục đọc là khiết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chứng co quắp;",
+                "Bệnh sài (ở trẻ con)."
+            ]
+        },
+        "xiết": {
+            "Từ điển phổ thông": [
+                "co quắp, co rút"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gân mạch co quắp. ◎Như: 'xiết túng' 瘛瘲 bệnh động kinh hay kinh phong (cũng phiếm chỉ chân tay co quắp), 'túng xiết' 瘲瘛 bệnh sài của trẻ con.",
+                "§ Cũng viết là 'xiết' 瘈. Tục đọc là 'khiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Co quắp, gân mạch co rút lại gọi là xiết.",
+                "Xiết túng 瘛瘲 bệnh sài trẻ con. Cũng viết là xiết 瘈. Tục đọc là khiết."
+            ],
+            "compound_words": {
+                "瘛疭": "xiết túng",
+                "瘛瘲": "xiết túng"
+            }
+        }
+    }
+}

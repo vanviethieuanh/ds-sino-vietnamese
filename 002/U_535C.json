@@ -1,0 +1,111 @@
+{
+    "character": "卜",
+    "details": {
+        "Âm Hán Việt": [
+            "bặc",
+            "bốc"
+        ],
+        "Tổng nét": [
+            "2"
+        ],
+        "Bộ": [
+            "bốc 卜 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨丶"
+        ],
+        "Thương Hiệt": [
+            "Y (卜)"
+        ],
+        "Unicode": [
+            "U+535C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ",
+            "bo",
+            "bǔ ㄅㄨˇ"
+        ],
+        "Âm Nôm": [
+            "bặc",
+            "bóc",
+            "bốc",
+            "cốc",
+            "vốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボク (boku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うらな.う (urana.u)",
+            "うらない (uranai)"
+        ],
+        "Âm Hàn": [
+            "복"
+        ],
+        "Âm Quảng Đông": [
+            "buk1"
+        ]
+    },
+    "meanings": {
+        "bặc": {
+            "Từ điển trích dẫn": [
+                "(Động) Đốt mai rùa để bói xấu tốt. ◇Thư Kinh 書經: 'Mai bốc công thần, duy cát chi tòng' 枚卜功臣, 惟吉之從 (Đại Vũ mô 大禹謨) Nhất nhất bói xem các bầy tôi, ai là tốt hơn mà theo. § Đời sau dùng quan tể tướng gọi là 'mai bốc' 枚卜 là theo nghĩa ấy.",
+                "(Động) Dự liệu, đoán trước. ◎Như: 'định bốc' 定卜 đoán định, 'vị bốc' 未卜 chưa đoán biết. ◇Sử Kí: 史記 'Thí diên dĩ công chúa, Khởi hữu lưu tâm tắc tất thụ chi, vô lưu tâm tắc tất từ hĩ. Dĩ thử bốc chi' 試延以公主, 起有留心則必受之, 無留心則必辭矣. 以此卜之 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Xin thử (ướm lời) gả công chúa cho, nếu (Ngô) Khởi muốn ở lại thì sẽ nhận, bằng không thì tất từ chối. Do đó mà đoán được (ý ông ta).",
+                "(Động) Tuyển chọn. ◎Như: 'bốc cư' 卜居 chọn đường cư xử, 'bốc lân' 卜鄰 chọn láng giềng.",
+                "(Danh) Họ 'Bốc'.",
+                "§ Giản thể của chữ 蔔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蘿蔔;",
+                "Như 菔."
+            ]
+        },
+        "bốc": {
+            "Từ điển phổ thông": [
+                "bói xem tốt xấu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đốt mai rùa để bói xấu tốt. ◇Thư Kinh 書經: 'Mai bốc công thần, duy cát chi tòng' 枚卜功臣, 惟吉之從 (Đại Vũ mô 大禹謨) Nhất nhất bói xem các bầy tôi, ai là tốt hơn mà theo. § Đời sau dùng quan tể tướng gọi là 'mai bốc' 枚卜 là theo nghĩa ấy.",
+                "(Động) Dự liệu, đoán trước. ◎Như: 'định bốc' 定卜 đoán định, 'vị bốc' 未卜 chưa đoán biết. ◇Sử Kí: 史記 'Thí diên dĩ công chúa, Khởi hữu lưu tâm tắc tất thụ chi, vô lưu tâm tắc tất từ hĩ. Dĩ thử bốc chi' 試延以公主, 起有留心則必受之, 無留心則必辭矣. 以此卜之 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Xin thử (ướm lời) gả công chúa cho, nếu (Ngô) Khởi muốn ở lại thì sẽ nhận, bằng không thì tất từ chối. Do đó mà đoán được (ý ông ta).",
+                "(Động) Tuyển chọn. ◎Như: 'bốc cư' 卜居 chọn đường cư xử, 'bốc lân' 卜鄰 chọn láng giềng.",
+                "(Danh) Họ 'Bốc'.",
+                "§ Giản thể của chữ 蔔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bói rùa. Ðốt mai rùa để xem xấu tốt gọi là bốc. Như mai bốc công thần, duy cát chi tòng 枚卜公臣惟吉之從 bói xem các bầy tôi ai là tốt hơn. Ðời sau dùng quan tể tướng gọi là mai bốc 枚卜 là theo nghĩa ấy.",
+                "Bói thử, như xem chim sâu kêu mà đoán xem mưa nắng gọi là bốc. Bây giờ gọi sự đã dự kì (預期) là định bốc 定卜, gọi sự chưa biết (未知) là vị bốc 未卜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bói: 未卜先知 Chưa bói đã biết trước; 卜居 Bói đường cư xử;",
+                "Dự đoán, biết trước: 預卜 Đoán trước, biết trước; 未卜 Chưa biết trước;",
+                "[Bư] (Họ) Bốc. Xem 卜 [bo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bói toán để biết việc tương lai — Lựa chọn — Tên trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "甌卜": "âu bốc",
+                "卜居": "bốc cư",
+                "卜鄰": "bốc lân",
+                "卜筮": "bốc thệ",
+                "卜鳳": "bốc phượng",
+                "卜師": "bốc sư",
+                "卜辞": "bốc từ",
+                "卜辭": "bốc từ",
+                "卜相": "bốc tướng",
+                "卜問": "bốc vấn",
+                "占卜": "chiêm bốc",
+                "龜卜": "quy bốc"
+            }
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "character": "書",
+    "details": {
+        "Âm Hán Việt": [
+            "thư"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "viết 曰 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "フ一一一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "LGA (中土日)"
+        ],
+        "Unicode": [
+            "U+66F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shū ㄕㄨ"
+        ],
+        "Âm Nôm": [
+            "thư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.く (ka.ku)",
+            "-が.き (-ga.ki)",
+            "-がき (-gaki)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "syu1"
+        ]
+    },
+    "meanings": {
+        "thư": {
+            "Từ điển phổ thông": [
+                "sách",
+                "thư tín"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sách. ◎Như: 'giáo khoa thư' 教科書 sách giáo khoa, 'bách khoa toàn thư' 百科全書 sách từ điển bách khoa.",
+                "(Danh) Thư tín. ◎Như: 'gia thư' 家書 thư nhà. ◇Đỗ Phủ 杜甫: 'Nhất nam phụ thư chí, Nhị nam tân chiến tử' 一男附書至, 二男新戰死 (Thạch hào lại 石壕吏) Một đứa con trai gởi thư đến, (Báo tin) hai đứa con trai kia vừa tử trận.",
+                "(Danh) Lối chữ Hán. ◎Như: 'thảo thư' 草書 chữ thảo, 'khải thư' 楷書 chữ chân, 'lệ thư' 隸書 lối chữ lệ.",
+                "(Danh) Cách cấu tạo chữ Hán. § Xem 'lục thư' 六書.",
+                "(Danh) Đơn, giấy tờ, văn kiện. ◎Như: 'chứng thư' 證書 giấy chứng nhận, 'thân thỉnh thư' 申請書 đơn xin.",
+                "(Danh) Tên gọi tắt của kinh 'Thượng Thư' 尚書.",
+                "(Danh) Họ 'Thư'.",
+                "(Động) Viết. ◎Như: 'thỉnh dĩ Trung văn thư tả' 請以中文書寫 xin viết bằng Trung văn.",
+                "(Động) Ghi chép."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sách.",
+                "Ghi chép, viết.",
+                "Thư tín, như thướng thư 上書 dâng thơ.",
+                "Chữ, như thư pháp 書法 phép viết chữ, biết tinh tường các lối chữ gọi là thư gia 書家.",
+                "Kinh thư, gọi tắt tên kinh Thượng thư."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sách: 買幾本書 Mua mấy quyển sách;",
+                "Thư: 家書 Thư nhà; 上書 Viết thư trình lên;",
+                "Văn kiện, giấy tờ, giấy, đơn: 證明書 Chứng minh thư, giấy chứng nhận; 申請書 Đơn xin;",
+                "Viết: 書寫 Viết;",
+                "Chữ, kiểu chữ: 楷書 Kiểu chữ khải;",
+                "Kinh Thư (nói tắt)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Viết ra. Ghi chép — Sách vở — Tên một bộ sách trong Ngũ kinh của Trung Hoa, tức kinh Thư — Lá thơ trao đổi tin tức.  Đoạn trường tân thanh : » Gia đồng vào gửi thư nhà mới sang «."
+            ],
+            "compound_words": {
+                "案書": "án thư",
+                "映月讀書": "ánh nguyệt độc thư",
+                "映雪讀書": "ánh tuyết độc thư",
+                "簿書": "bộ thư",
+                "白面書生": "bạch diện thư sanh",
+                "百科全書": "bách khoa toàn thư",
+                "帛書": "bạch thư",
+                "旁行書": "bàng hành thư",
+                "謗書": "báng thư",
+                "寶書": "bảo thư",
+                "祕書": "bí thư",
+                "兵書": "binh thư",
+                "兵書要略": "binh thư yếu lược",
+                "揹書": "bội thư",
+                "琴棋書畫": "cầm kì thư hoạ",
+                "琴書": "cầm thư",
+                "禁書": "cấm thư",
+                "枕經藉書": "chẩm kinh tạ thư",
+                "戰書": "chiến thư",
+                "詔書": "chiếu thư",
+                "囑書": "chúc thư",
+                "證書": "chứng thư",
+                "攻書": "công thư",
+                "舊約全書": "cựu ước toàn thư",
+                "淫書": "dâm thư",
+                "逸書": "dật thư",
+                "遺書": "di thư",
+                "大越史記全書": "đại việt sử kí toàn thư",
+                "圖書": "đồ thư",
+                "圖書舘": "đồ thư quán",
+                "圖書館": "đồ thư quán",
+                "讀書": "độc thư",
+                "家書": "gia thư",
+                "覺書": "giác thư",
+                "河圖洛書": "hà đồ lạc thư",
+                "婚書": "hôn thư",
+                "休書": "hưu thư",
+                "楷書": "khải thư",
+                "抗書": "kháng thư",
+                "罄竹難書": "khánh trúc nan thư",
+                "券書": "khoán thư",
+                "來書": "lai thư",
+                "隸書": "lệ thư",
+                "曆書": "lịch thư",
+                "六書": "lục thư",
+                "密書": "mật thư",
+                "偽書": "nguỵ thư",
+                "唸書": "niệm thư",
+                "分書": "phân thư",
+                "焚書": "phần thư",
+                "焚書坑儒": "phần thư khanh nho",
+                "飛書": "phi thư",
+                "軍書": "quân thư",
+                "羣書考辦": "quần thư khảo biện",
+                "曬書": "sái thư",
+                "敕書": "sắc thư",
+                "藏書院": "tàng thư viện",
+                "詩書": "thi thư",
+                "書局": "thư cục",
+                "書面": "thư diện",
+                "書傭": "thư dung",
+                "書店": "thư điếm",
+                "書蠧": "thư đố",
+                "書童": "thư đồng",
+                "書筒": "thư đồng",
+                "書架": "thư giá",
+                "書函": "thư hàm",
+                "書軒": "thư hiên",
+                "書香": "thư hương",
+                "書香世家": "thư hương thế gia",
+                "書庫": "thư khố",
+                "書記": "thư ký",
+                "書劍": "thư kiếm",
+                "書吏": "thư lại",
+                "書法": "thư pháp",
+                "書封": "thư phong",
+                "書房": "thư phòng",
+                "書舘": "thư quán",
+                "書卷": "thư quyển",
+                "書生": "thư sinh",
+                "書窻": "thư song",
+                "書籍": "thư tịch",
+                "書信": "thư tín",
+                "書桌": "thư trác",
+                "書齋": "thư trai",
+                "書院": "thư viện",
+                "書社": "thư xã",
+                "尚書": "thượng thư",
+                "箭書": "tiễn thư",
+                "捷書": "tiệp thư",
+                "情書": "tình thư",
+                "叢書": "tùng thư",
+                "四書": "tứ thư",
+                "四說書約": "tứ thư thuyết ước",
+                "萬言書": "vạn ngôn thư",
+                "文書": "văn thư",
+                "緯書": "vĩ thư",
+                "赦書": "xá thư",
+                "妖書": "yêu thư"
+            }
+        }
+    }
+}

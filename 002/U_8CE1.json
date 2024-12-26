@@ -1,0 +1,87 @@
+{
+    "character": "賡",
+    "details": {
+        "Âm Hán Việt": [
+            "canh"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸庚貝"
+        ],
+        "Nét bút": [
+            "丶一ノフ一一ノ丶丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ILOC (戈中人金)"
+        ],
+        "Unicode": [
+            "U+8CE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gēng ㄍㄥ"
+        ],
+        "Âm Nôm": [
+            "canh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゾク (zoku)",
+            "ショク (shoku)",
+            "コウ (kō)",
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つづ.く (tsuzu.ku)",
+            "つづ.ける (tsuzu.keru)",
+            "つぐな.う (tsuguna.u)"
+        ],
+        "Âm Hàn": [
+            "갱"
+        ],
+        "Âm Quảng Đông": [
+            "gang1"
+        ]
+    },
+    "meanings": {
+        "canh": {
+            "Từ điển phổ thông": [
+                "tiếp tục, duy trì"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đền bù.",
+                "(Phó) Nối theo, liên tục. ◎Như: 'canh ca' 賡歌 hát nối, 'canh tục' 賡續 kế tục, tiếp tục."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nối theo, như canh ca 賡歌 hát nối, vì thế nên hoạ thơ gọi là canh tục 賡續.",
+                "Đền bù."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tiếp tục, nối theo: 賡續不斷 Tiếp tục mãi mãi; 賡歌 Hát nối;",
+                "(văn) Đền bù;",
+                "[Geng] (Họ) Canh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nối tiếp, liên tục. Cũng nói là Canh dương 賡揚 — Đền bù lại. Bồi thường."
+            ],
+            "compound_words": {
+                "賡歌": "canh ca",
+                "賡酬": "canh thù",
+                "賡續": "canh tục",
+                "賡韻": "canh vận"
+            }
+        }
+    }
+}

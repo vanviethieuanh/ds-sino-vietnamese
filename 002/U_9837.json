@@ -1,0 +1,89 @@
+{
+    "character": "頷",
+    "details": {
+        "Âm Hán Việt": [
+            "hàm",
+            "hạm"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰含頁"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ丨フ一一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ORMBC (人口一月金)"
+        ],
+        "Unicode": [
+            "U+9837"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nôm": [
+            "ham",
+            "hợm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガン (gan)",
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うなず.く (unazu.ku)",
+            "あご (ago)"
+        ],
+        "Âm Hàn": [
+            "암",
+            "함"
+        ],
+        "Âm Quảng Đông": [
+            "ham5"
+        ]
+    },
+    "meanings": {
+        "hàm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cằm — Phần dưới hai má. Ta cũng gọi là cái hàm."
+            ],
+            "compound_words": {
+                "燕頷": "yến hàm"
+            }
+        },
+        "hạm": {
+            "Từ điển phổ thông": [
+                "cái cằm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cằm. ◎Như: 'hổ đầu yến hạm' 虎頭燕頷 đầu hổ cằm yến (cổ nhân cho là tướng phong hầu).",
+                "(Động) Gật nhẹ đầu. § Biểu thị đồng ý, bằng lòng. ◎Như: 'hạm chi' 頷之 gật đầu, sẽ gật đầu đáp lễ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cằm. Chỗ cằm nở nang đầy đặn gọi là yến hạm 燕頷 (cằm yến), hổ đầu yến hạm 虎頭燕頷 đầu hổ cằm yến, cổ nhân cho là cái tướng phong hầu.",
+                "Hạm chi 頷之 gật đầu, sẽ gật đầu đáp lễ lại người gọi là hạm chi, lối chào của kẻ quyền quý."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cằm (càm): 燕頷 Cằm én;",
+                "Gật đầu. 【頷首】 hạm thủ [hànshôu] (văn) Gật đầu, gật: 頷首微笑 Gật đầu mỉm cười."
+            ],
+            "compound_words": {
+                "頷聯": "hạm liên",
+                "顑頷": "kham hạm"
+            }
+        }
+    }
+}

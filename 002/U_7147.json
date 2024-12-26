@@ -1,0 +1,102 @@
+{
+    "character": "煇",
+    "details": {
+        "Âm Hán Việt": [
+            "huy",
+            "huân",
+            "vận"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoả 火 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火軍"
+        ],
+        "Nét bút": [
+            "丶ノノ丶丶フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "FHSB (火竹尸月)"
+        ],
+        "Unicode": [
+            "U+7147"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "huī ㄏㄨㄟ",
+            "xūn ㄒㄩㄣ",
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "huy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "ケン (ken)",
+            "カン (kan)",
+            "クン (kun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひかり (hikari)"
+        ],
+        "Âm Hàn": [
+            "훈",
+            "휘"
+        ],
+        "Âm Quảng Đông": [
+            "fai1",
+            "wai1"
+        ]
+    },
+    "meanings": {
+        "huy": {
+            "Từ điển phổ thông": [
+                "ánh sáng",
+                "soi, chiếu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như chữ “huy” 輝."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ huy 輝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 輝 (bộ 車)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ánh sáng — Sáng rực."
+            ],
+            "compound_words": {
+                "煇湟": "huy hoàng"
+            }
+        },
+        "huân": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hun, xông (như 熏)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hơ, nướng trên lửa — Các âm khác là Huy, Vận."
+            ]
+        },
+        "vận": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Người làm trống da;",
+                "Quầng sáng quanh mặt trời hay mặt trăng (như 暈, bộ 日)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vừng ánh sáng xung quang mặt trời. Như chữ Vận 暈. Cũng đọc Vựng — Người thợ thuộc da để bị mặt trống — Xem các âm Huân, Huy."
+            ]
+        }
+    }
+}

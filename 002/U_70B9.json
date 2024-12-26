@@ -1,0 +1,119 @@
+{
+    "character": "点",
+    "details": {
+        "Âm Hán Việt": [
+            "điểm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoả 火 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱占灬"
+        ],
+        "Nét bút": [
+            "丨一丨フ一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "YRF (卜口火)"
+        ],
+        "Unicode": [
+            "U+70B9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "diǎn ㄉㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "bếp",
+            "chấm",
+            "điểm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.ける (tsu.keru)",
+            "つ.く (tsu.ku)",
+            "た.てる (ta.teru)",
+            "さ.す (sa.su)",
+            "とぼ.す (tobo.su)",
+            "とも.す (tomo.su)",
+            "ぼち (bochi)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "dim2"
+        ]
+    },
+    "meanings": {
+        "điểm": {
+            "Từ điển phổ thông": [
+                "điểm, chấm, nốt, giờ"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'điểm' 點.",
+                "Giản thể của chữ 點."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ điểm 點."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hạt, giọt: 雨點 Hạt mưa;",
+                "Chấm, vết: 墨點 Vết mực; 污點 Vết bẩn;",
+                "Nét chữ (trong chữ Hán '丶');",
+                "(toán) Điểm: 兩線的交點 Điểm giao nhau của hai đường chéo; 基準點 Điểm mốc;",
+                "Chấm, nét chấm, dấu chấm, điểm: 句點 Dấu chấm;",
+                "Chút ít, một ít, một tí: 吃一點點心 Ăn một ít bánh điểm tâm;",
+                "Điểm, điều, việc: 有兩點建議 Đề nghị hai điểm; 這一點，我們是不同意的 Chúng tôi không đồng ý điều đó;",
+                "Nơi, chỗ, điểm: 起點 Khởi điểm, chỗ bắt đầu; 沸點 Điểm sôi;",
+                "Phần, điểm, nét: 特點 Đặc điểm, nét riêng biệt;",
+                "Chấm, điểm: 點句 Chấm câu; 點一個點兒 Chấm một điểm nhỏ;",
+                "Gật (đầu): 他點了點頭 Anh ta gật gật đầu;",
+                "Nhỏ, tra: 點眼藥 Nhỏ thuốc đau mắt;",
+                "Trồng, tra: 點花生 Trồng lạc, trồng đậu phộng; 點玉米 Tra ngô;",
+                "Kiểm soát, xét, kiểm, đếm, điểm, gọi: 把錢點一點 Kiểm tiền, đếm tiền; 點名 Điểm danh, gọi tên;",
+                "Chọn ra, gọi, kêu: 點菜 Chọn thức ăn, gọi món ăn;",
+                "Bảo, dạy bảo: 他是聰明的人，一點就明白了 Anh ta là người sáng dạ, bảo một tí là hiểu ngay;",
+                "Châm, đốt, thắp, nhóm: 點燈 Thắp đèn, 點火 Nhóm lửa;",
+                "Giờ: 上午十點鐘 Mười giờ sáng; 現在幾點了？ Bây giờ đã mấy giờ rồi?;",
+                "Lúc, giờ: 到點了，開始吧 Đến giờ rồi, bắt đầu đi!;",
+                "(Bánh) điểm tâm, (bánh) ăn lót dạ: 糕點 Bánh điểm tâm; 早點 Bánh ăn lót dạ buổi sáng;",
+                "㉑ (in) Cỡ chữ in;",
+                "㉒ Nhằm vào, nói đến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết tắt của chữ Điểm 點."
+            ],
+            "compound_words": {
+                "半点": "bán điểm",
+                "斑点": "ban điểm",
+                "冰点": "băng điểm",
+                "质点": "chất điểm",
+                "特点": "đặc điểm",
+                "地点": "địa điểm",
+                "点心": "điểm tâm",
+                "缺点": "khuyết điểm",
+                "检点": "kiểm điểm",
+                "一点": "nhất điểm",
+                "弱点": "nhược điểm",
+                "节点": "tiết điểm",
+                "标点": "tiêu điểm",
+                "焦点": "tiêu điểm",
+                "优点": "ưu điểm"
+            }
+        }
+    }
+}

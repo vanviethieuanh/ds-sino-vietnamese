@@ -1,0 +1,80 @@
+{
+    "character": "肱",
+    "details": {
+        "Âm Hán Việt": [
+            "quăng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月厷"
+        ],
+        "Nét bút": [
+            "ノフ一一一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "BKI (月大戈)"
+        ],
+        "Unicode": [
+            "U+80B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gōng ㄍㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "quăn",
+            "quăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かいな (kaina)",
+            "ひじ (hiji)",
+            "まるい (marui)"
+        ],
+        "Âm Hàn": [
+            "굉"
+        ],
+        "Âm Quảng Đông": [
+            "gwang1"
+        ]
+    },
+    "meanings": {
+        "quăng": {
+            "Từ điển phổ thông": [
+                "cánh tay"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cánh tay. ◇Tả truyện 左傳: “Tam chiết quăng tri vi lương y” 三折肱知為良醫 (Định công thập tam niên 定公十三年) Ba lần bị gãy tay thì biết làm thầy thuốc giỏi (ý nói người từng trải mới lão luyện)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cánh tay (từ khuỷu tay đến bàn tay).",
+                "Bầy tôi chân tay gọi là cổ quăng 股肱. Thư Kinh 書經 có câu: Lương y tam chiết quăng 良醫三折肱 ý nói thầy thuốc trải nhiều bệnh khó rồi mới giỏi, nói ví như người có từng trải nhiều sự biến rồi mới lõi vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cánh tay trên, cánh tay: 曲肱而枕之 Xếp tay gối đầu; 股肱 Cánh tay đắc lực; 良醫三折肱 Thầy thuốc giỏi ba lần bị gãy tay (Thượng thư)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắp tay, phần từ cổ tay tới khuỷu tay."
+            ],
+            "compound_words": {
+                "股肱": "cổ quăng",
+                "肱骨": "quăng cốt"
+            }
+        }
+    }
+}

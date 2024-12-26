@@ -1,0 +1,103 @@
+{
+    "character": "瑁",
+    "details": {
+        "Âm Hán Việt": [
+            "mạo",
+            "mội"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩冒"
+        ],
+        "Nét bút": [
+            "一一丨一丨フ一一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "MGABU (一土日月山)"
+        ],
+        "Unicode": [
+            "U+7441"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mào ㄇㄠˋ",
+            "mèi ㄇㄟˋ"
+        ],
+        "Âm Nôm": [
+            "mao",
+            "mồi",
+            "mùi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マイ (mai)",
+            "バイ (bai)",
+            "ボウ (bō)",
+            "モウ (mō)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mou6",
+            "mui6"
+        ]
+    },
+    "meanings": {
+        "mạo": {
+            "Từ điển phổ thông": [
+                "ngọc mạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngọc 'mạo', thiên tử cầm để tiếp kiến chư hầu, thời xưa.",
+                "Một âm là 'mội'. (Danh) § Xem 'đại mội' 玳瑁."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngọc mạo, vua thiên tử cầm để hội họp chư hầu.",
+                "Một âm là mội. Ðại mội 玳瑁 con đồi mồi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngọc mạo (thiên tử cầm để họp các chư hầu thời xưa);",
+                "Xem 玳瑁 [dài mào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên loại ngọc mà thiên tử đeo thời trước — Một âm là Mội. Xem Mội."
+            ]
+        },
+        "mội": {
+            "Từ điển phổ thông": [
+                "(xem: đại mội 玳瑁)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngọc 'mạo', thiên tử cầm để tiếp kiến chư hầu, thời xưa.",
+                "Một âm là 'mội'. (Danh) § Xem 'đại mội' 玳瑁."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngọc mạo, vua thiên tử cầm để hội họp chư hầu.",
+                "Một âm là mội. Ðại mội 玳瑁 con đồi mồi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngọc mạo (thiên tử cầm để họp các chư hầu thời xưa);",
+                "Xem 玳瑁 [dài mào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Đại mội 玳瑁. Vần Đại."
+            ],
+            "compound_words": {
+                "玳瑁": "đại mội"
+            }
+        }
+    }
+}

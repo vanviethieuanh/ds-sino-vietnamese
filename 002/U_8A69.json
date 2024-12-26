@@ -1,0 +1,144 @@
+{
+    "character": "詩",
+    "details": {
+        "Âm Hán Việt": [
+            "thi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言寺"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "YRGDI (卜口土木戈)"
+        ],
+        "Unicode": [
+            "U+8A69"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shī ㄕ"
+        ],
+        "Âm Nôm": [
+            "thi",
+            "thơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うた (uta)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "thi": {
+            "Từ điển phổ thông": [
+                "thơ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thơ. ◇Hồng Lâu Mộng 紅樓夢: 'Bất tri tha môn khả học quá tác thi bất tằng?' 不知他們可學過作詩不曾? (Đệ tứ thập cửu hồi) Không biết họ đã từng học làm thơ chưa?",
+                "(Danh) 'Thi Kinh' 詩經 nói tắt. ◇Luận Ngữ 論語: 'Thi: khả dĩ hưng, khả dĩ quan, khả dĩ quần, khả dĩ oán. Nhĩ chi sự phụ, viễn chi sự quân, đa thức ư điểu, thú, thảo, mộc chi danh' 詩: 可以興, 可以觀, 可以群, 可以怨. 邇之事父, 遠之事君, 多識於鳥獸草木之名 (Dương Hóa 陽貨) Xem kinh Thi có thể phấn khởi, có thể xem xét sự việc, hòa hợp được với mọi người, tỏ được sầu oán. Gần thì biết đạo thờ cha, xa biết đạo thờ vua, lại biết được nhiều tên chim, muông, cỏ, cây.",
+                "(Động) Vịnh tụng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thơ, văn có vần gọi là thơ. Ngày xưa hay đặt mỗi câu bốn chữ, về sau hay dùng lối đặt năm chữ hay bảy chữ gọi là thơ ngũ ngôn, thơ thất ngôn.",
+                "Kinh thi.",
+                "Nâng, cầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thơ: 作詩 Làm thơ, sáng tác thơ; 五言詩 Thơ ngũ ngôn; 正格詩 Thơ đúng niêm luật; 散文詩 Thơ văn xuôi; 唐詩 Thơ Đường, Đường thi;",
+                "(văn) Kinh Thi (nói tắt): 不學詩，無以言 Không học Kinh Thi thì không lấy gì để ăn nói (Luận ngữ);",
+                "(văn) Nâng, cầm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bài thơ, tức bài văn có vần điệu, có thể ngâm hoặc hát lên được — Tên chỉ loại Đường luật — Tên một bộ trong Ngũ kinh, tức Kinh thi, chép những bài thơ thời Tam đại của Trung Hoa."
+            ],
+            "compound_words": {
+                "白雲國語詩": "bạch vân quốc ngữ thi",
+                "白雲詩": "bạch vân thi",
+                "北行詩集": "bắc hành thi tập",
+                "琴棋詩畫": "cầm kì thi hoạ",
+                "艮齋詩集": "cấn trai thi tập",
+                "周臣詩集": "chu thần thi tập",
+                "古體詩": "cổ thể thi",
+                "古詩": "cổ thi",
+                "宮怨詩": "cung oán thi",
+                "宮怨詩集": "cung oán thi tập",
+                "豔詩": "diễm thi",
+                "蔗園詩文集": "giá viên thi văn tập",
+                "介軒詩集": "giới hiên thi tập",
+                "皇越詩選": "hoàng việt thi tuyển",
+                "洪州國語詩集": "hồng châu quốc ngữ thi tập",
+                "洪徳國音詩集": "hồng đức quốc âm thi tập",
+                "洪徳詩集": "hồng đức thi tập",
+                "乾元詩集": "kiền nguyên thi tập",
+                "律詩": "luật thi",
+                "乂安詩集": "nghệ an thi tập",
+                "毅齋詩集": "nghị trai thi tập",
+                "卧遊巢詩文集": "ngoạ du sào thi văn tập",
+                "悟道詩集": "ngộ đạo thi tập",
+                "言隱詩集": "ngôn ẩn thi tập",
+                "御製北巡詩集": "ngự chế bắc tuần thi tập",
+                "御製名勝圖繪詩集": "ngự chế danh thắng đồ hội thi tập",
+                "御製剿平南圻賊寇詩集": "ngự chế tiễu bình nam kì tặc khấu thi tập",
+                "御製武功詩集": "ngự chế vũ công thi tập",
+                "馮公詩集": "phùng công thi tập",
+                "方亭詩集": "phương đình thi tập",
+                "桂堂詩集": "quế đuờng thi tập",
+                "桂山詩集": "quế sơn thi tập",
+                "愁詩": "sầu thi",
+                "使北國語詩集": "sứ bắc quốc ngữ thi tập",
+                "史詩": "sử thi",
+                "西湖詩集": "tây hồ thi tập",
+                "西浮詩草": "tây phù thi thảo",
+                "石農詩文集": "thạch nông thi văn tập",
+                "草堂詩集": "thảo đường thi tập",
+                "詩伯": "thi bá",
+                "詩歌": "thi ca",
+                "詩筒": "thi đồng",
+                "詩豪": "thi hào",
+                "詩興": "thi hứng",
+                "詩禮": "thi lễ",
+                "詩人": "thi nhân",
+                "詩士": "thi sĩ",
+                "詩書": "thi thư",
+                "詩思": "thi tứ",
+                "詩味": "thi vị",
+                "詩社": "thi xã",
+                "前後詩集": "tiền hậu thi tập",
+                "樵隱詩集": "tiều ẩn thi tập",
+                "全越詩錄": "toàn việt thi lục",
+                "摘艷詩集": "trích diễm thi tập",
+                "嗣徳聖製詩文": "tự đức thánh chế thi văn",
+                "四齋詩集": "tứ trai thi tập",
+                "抑齋詩集": "ức trai thi tập",
+                "文詩": "văn thi",
+                "越音詩集": "việt âm thi tập",
+                "越鑑詠史詩集": "việt giám vịnh sử thi tập",
+                "越南詩歌": "việt nam thi ca",
+                "燕軺詩草": "yên thiều thi thảo"
+            }
+        }
+    }
+}

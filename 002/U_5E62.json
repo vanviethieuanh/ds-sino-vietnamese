@@ -1,0 +1,87 @@
+{
+    "character": "幢",
+    "details": {
+        "Âm Hán Việt": [
+            "chàng",
+            "tràng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "cân 巾 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾童"
+        ],
+        "Nét bút": [
+            "丨フ丨丶一丶ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "LBYTG (中月卜廿土)"
+        ],
+        "Unicode": [
+            "U+5E62"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chuáng ㄔㄨㄤˊ",
+            "zhuàng ㄓㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "chàng",
+            "choàng",
+            "tràng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はた (hata)"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "cong4",
+            "tong4",
+            "zong6"
+        ]
+    },
+    "meanings": {
+        "chàng": {
+            "Từ điển phổ thông": [
+                "cái chàng (một loại cờ dùng làm nghi vệ, nhà Phật thường viết kinh vào đó)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chàng, một thứ cờ dùng làm nghi vệ. Nhà Phật viết kinh vào cờ ấy gọi là kinh chàng 經幢, khắc vào cột đá gọi là thạch chàng 石幢."
+            ]
+        },
+        "tràng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Màn che trên thuyền hoặc xe của các bà hậu phi ngày xưa.",
+                "(Danh) Cờ lọng dùng làm nghi vệ. ◎Như: Nhà Phật viết kinh vào cờ lọng gọi là 'kinh tràng' 經幢, khắc vào cột đá gọi là 'thạch tràng' 石幢.",
+                "(Danh) Lượng từ: đơn vị dùng cho phòng ốc. ◎Như 'nhất tràng phòng tử' 一幢房子 một căn phòng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một thứ cờ dùng làm nghi vệ;",
+                "Màn xe;",
+                "(đph) (loại) Toà, ngôi: 一幢樓 Một toà (ngôi) lầu; 一幢房子 Một ngôi nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá cờ — Một ngôi nhà, một căn phòng."
+            ],
+            "compound_words": {
+                "幢幡": "tràng phiên"
+            }
+        }
+    }
+}

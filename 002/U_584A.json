@@ -1,0 +1,93 @@
+{
+    "character": "塊",
+    "details": {
+        "Âm Hán Việt": [
+            "khối"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thổ 土 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土鬼"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨フ一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "GHI (土竹戈)"
+        ],
+        "Unicode": [
+            "U+584A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kuāi ㄎㄨㄞ",
+            "kuài ㄎㄨㄞˋ"
+        ],
+        "Âm Nôm": [
+            "cỏi",
+            "hòn",
+            "khói",
+            "khối"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かたまり (katamari)",
+            "つちくれ (tsuchikure)"
+        ],
+        "Âm Hàn": [
+            "괴"
+        ],
+        "Âm Quảng Đông": [
+            "faai3"
+        ]
+    },
+    "meanings": {
+        "khối": {
+            "Từ điển phổ thông": [
+                "hòn, khối, đống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hòn đất, khối đất. ◇Kỉ Quân 紀昀: 'Quyện nhi chẩm khối dĩ ngọa' 倦而枕塊以臥 (Duyệt vi thảo đường bút kí 閱微草堂筆記) Mệt thì gối lên hòn đất mà nằm.",
+                "(Danh) Hòn, tảng, cục, khoảnh. ◎Như: 'băng khối' 冰塊 tảng băng, 'nhục khối' 肉塊 cục thịt, 'đường khối' 糖塊 cục đường.",
+                "(Danh) Đồng bạc. ◎Như: 'ngũ khối' 五塊 năm đồng bạc.",
+                "(Danh) Lượng từ: cục, hòn, miếng, khoảnh. ◎Như: 'nhất khối nhục' 一塊肉 một miếng thịt, 'nhất khối địa' 一塊地 một khoảnh đất, 'nhất khối thạch đầu' 一塊石頭 một hòn đá. ◇Tây du kí 西遊記: 'Na tọa san, chánh đương đính thượng, hữu nhất khối tiên thạch' 那座山, 正當頂上, 有一塊仙石 (Đệ nhất hồi) Quả núi đó, ở ngay trên đỉnh, có một tảng đá tiên.",
+                "(Phó) Một lượt, một loạt. ◎Như: 'đại gia nhất khối nhi lai' 大家一塊兒來 mọi người cùng đến một lúc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hòn, phàm vật gì tích dần lại thành từng hòn gọi là khối. 2 Khối nhiên 塊然 lù vậy. Ðứng trơ trọi một mình không cầu chi gọi là khối nhiên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cục, hòn, miếng, khoảnh...: 把肉切成塊兒 Thái thịt ra từng miếng;",
+                "(loại) Cục, hòn, miếng, khoảnh...: 一塊肉 Một miếng thịt; 一塊地 Một khoảnh ruộng (đất); 一塊石頭 Một hòn đá;",
+                "Đồng bạc: 五塊錢 Năm đồng bạc;",
+                "(văn) Trơ trọi một mình: 塊然 Trơ trọi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đống đất — Tảng, hòn, cục."
+            ],
+            "compound_words": {
+                "痞塊": "bĩ khối",
+                "枕塊": "chẩm khối",
+                "大塊": "đại khối",
+                "塊磊": "khối lỗi",
+                "塊然": "khối nhiên",
+                "塊錢": "khối tiền"
+            }
+        }
+    }
+}

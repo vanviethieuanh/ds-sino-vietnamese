@@ -1,0 +1,83 @@
+{
+    "character": "島",
+    "details": {
+        "Âm Hán Việt": [
+            "đảo"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sơn 山 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一一フ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "HAYU (竹日卜山)"
+        ],
+        "Unicode": [
+            "U+5CF6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dǎo ㄉㄠˇ"
+        ],
+        "Âm Nôm": [
+            "đảo",
+            "láo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しま (shima)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou2"
+        ]
+    },
+    "meanings": {
+        "đảo": {
+            "Từ điển phổ thông": [
+                "hòn đảo, gò"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Đảo, cù lao (chỗ đất cạn có nước vây quanh, ở trong hồ hay trong biển)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bãi bể, cái cù lao, trong bể có chỗ đất cạn gọi là đảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đảo, cù lao: 富國島 Đảo Phú Quốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng đất nổi lên giữa biển."
+            ],
+            "compound_words": {
+                "半島": "bán đảo",
+                "冰島": "băng đảo",
+                "蓬島": "bồng đảo",
+                "崑島": "côn đảo",
+                "島國": "đảo quốc",
+                "島嶼": "đảo tự",
+                "海島": "hải đảo",
+                "溟島": "minh đảo",
+                "羣島": "quần đảo",
+                "三島": "tam đảo",
+                "新島": "tân đảo"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "瀑",
+    "details": {
+        "Âm Hán Việt": [
+            "bạo",
+            "bộc"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡暴"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一一丨丨一ノ丶丨丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EATE (水日廿水)"
+        ],
+        "Unicode": [
+            "U+7011"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bào ㄅㄠˋ",
+            "bó ㄅㄛˊ",
+            "pù ㄆㄨˋ"
+        ],
+        "Âm Nôm": [
+            "bộc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バク (baku)",
+            "ハク (haku)",
+            "ホウ (hō)",
+            "ボウ (bō)",
+            "ホク (hoku)",
+            "ボク (boku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たき (taki)",
+            "にわかあめ (niwakāme)"
+        ],
+        "Âm Hàn": [
+            "폭",
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "buk6"
+        ]
+    },
+    "meanings": {
+        "bạo": {
+            "Từ điển Trần Văn Chánh": [
+                "Mưa lũ;",
+                "[Bào] Tên sông: 瀑河 Sông Bạo (ở tỉnh Hà Bắc, Trung Quốc). Cv. 鮑河. Xem 瀑 [pù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước ứ lại mà chảy vọt lên — Một âm khác là Bộc."
+            ]
+        },
+        "bộc": {
+            "Từ điển phổ thông": [
+                "thác nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Nước dốc, thác nước. ◎Như: “bộc bố” 瀑布 nước chảy trên ghềnh xuống trông như tấm vải. ◇Nguyễn Trãi 阮廌: “Phi bộc phi phi lạc kính hàn” 飛瀑霏霏落鏡寒 (Mộng sơn trung 夢山中) Thác nước bay phơi phới như tấm gương lạnh rơi xuống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nước dốc, suối, nước chảy trên ghềnh xuống trông như tấm vải gọi là bộc bố 瀑布."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【瀑布】bộc bố [pùbù] Thác (nước)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước từ cao đổ xuống — Một âm khác là Bạo."
+            ],
+            "compound_words": {
+                "瀑布": "bộc bố"
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "character": "阴",
+    "details": {
+        "Âm Hán Việt": [
+            "âm",
+            "ấm"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "phụ 阜 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖月"
+        ],
+        "Nét bút": [
+            "フ丨ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "NLB (弓中月)"
+        ],
+        "Unicode": [
+            "U+9634"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ",
+            "yīn ㄧㄣ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "âm"
+        ],
+        "Âm Quảng Đông": [
+            "jam1"
+        ]
+    },
+    "meanings": {
+        "âm": {
+            "Từ điển phổ thông": [
+                "bóng mát",
+                "mặt trái, mặt sau",
+                "số âm",
+                "ngầm, bí mật"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 陰."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 陰"
+            ],
+            "compound_words": {
+                "阴暗": "âm ám",
+                "阴户": "âm hộ",
+                "阴谋": "âm mưu",
+                "阴精": "âm tinh"
+            }
+        },
+        "ấm": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 陰"
+            ]
+        }
+    }
+}

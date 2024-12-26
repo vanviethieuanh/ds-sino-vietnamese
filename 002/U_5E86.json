@@ -1,0 +1,73 @@
+{
+    "character": "庆",
+    "details": {
+        "Âm Hán Việt": [
+            "khanh",
+            "khánh",
+            "khương"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸广大"
+        ],
+        "Nét bút": [
+            "丶一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IK (戈大)"
+        ],
+        "Unicode": [
+            "U+5E86"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qìng ㄑㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "khánh"
+        ],
+        "Âm Quảng Đông": [
+            "hing3"
+        ]
+    },
+    "meanings": {
+        "khanh": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 慶."
+            ]
+        },
+        "khánh": {
+            "Từ điển phổ thông": [
+                "mừng, chúc mừng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 慶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 慶"
+            ],
+            "compound_words": {
+                "庆祝": "khánh chúc",
+                "庆贺": "khánh hạ"
+            }
+        },
+        "khương": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 慶."
+            ]
+        }
+    }
+}

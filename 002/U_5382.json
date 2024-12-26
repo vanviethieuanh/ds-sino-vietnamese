@@ -1,0 +1,99 @@
+{
+    "character": "厂",
+    "details": {
+        "Âm Hán Việt": [
+            "hán",
+            "xưởng"
+        ],
+        "Tổng nét": [
+            "2"
+        ],
+        "Bộ": [
+            "hán 厂 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一ノ"
+        ],
+        "Thương Hiệt": [
+            "MH (一竹)"
+        ],
+        "Unicode": [
+            "U+5382"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ",
+            "chǎng ㄔㄤˇ",
+            "hǎn ㄏㄢˇ",
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hán",
+            "xưởng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かりがね (karigane)"
+        ],
+        "Âm Hàn": [
+            "엄",
+            "한"
+        ],
+        "Âm Quảng Đông": [
+            "aa1",
+            "hon3"
+        ]
+    },
+    "meanings": {
+        "hán": {
+            "Từ điển phổ thông": [
+                "chỗ sườn núi có thể ở được"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hang động bên sườn núi, người ta có thể ở được.",
+                "§ Giản thể của chữ 'xưởng' 廠."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chỗ sườn núi người ta có thể ở được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỗ sườn núi người có thể ở được."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sườn núi — Cái bờ nước — Tên một trong các bộ chữ Trung Hoa."
+            ]
+        },
+        "xưởng": {
+            "Từ điển phổ thông": [
+                "cái xưởng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hang động bên sườn núi, người ta có thể ở được.",
+                "§ Giản thể của chữ 'xưởng' 廠."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 厰 (bộ 厂)."
+            ],
+            "compound_words": {
+                "工厂": "công xưởng",
+                "厂牌": "xưởng bài",
+                "厂主": "xưởng chủ",
+                "厂工": "xưởng công",
+                "厂房": "xưởng phòng",
+                "厂规": "xưởng quy",
+                "厂商": "xưởng thương",
+                "厂长": "xưởng trưởng"
+            }
+        }
+    }
+}

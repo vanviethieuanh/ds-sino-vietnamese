@@ -1,0 +1,80 @@
+{
+    "character": "謠",
+    "details": {
+        "Âm Hán Việt": [
+            "dao"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "ngôn 言 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノフ丶丶ノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "YRBOU (卜口月人山)"
+        ],
+        "Unicode": [
+            "U+8B20"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うた.う (uta.u)",
+            "うた (uta)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển phổ thông": [
+                "tin đồn, lời đồn đại",
+                "ca dao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bài hát lưu hành trong dân gian. ◎Như: 'dân dao' 民謠, 'ca dao' 歌謠, 'phong dao' 風謠, 'đồng dao' 童謠.",
+                "(Tính) Bịa đặt, không có căn cứ. ◎Như: 'dao ngôn' 謠言 lời nói bịa đặt. ◇Lỗ Tấn 魯迅: 'Nhiên nhi dao ngôn ngận vượng thịnh' 然而謠言很旺盛 (A Q chánh truyện 阿Q正傳) Nhưng mà lời đồn đãi vẫn lan rộng.",
+                "Cũng viết là 謡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ca dao: 民謠 Ca dao dân gian;",
+                "Tin nhảm, tin đồn, lời bịa đặt: 造謠 Phao tin nhảm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bài hát không thành chương khúc hẳn hoi — Lời đồn đại. Lời nói không căn cứ."
+            ],
+            "compound_words": {
+                "歌謠": "ca dao",
+                "謠言": "dao ngôn",
+                "謠傳": "dao truyền",
+                "謠俗": "dao tục",
+                "童謠": "đồng dao",
+                "風謠": "phong dao",
+                "造謠言": "tạo dao ngôn"
+            }
+        }
+    }
+}

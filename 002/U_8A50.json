@@ -1,0 +1,95 @@
+{
+    "character": "詐",
+    "details": {
+        "Âm Hán Việt": [
+            "trá"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言乍"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一丨一一"
+        ],
+        "Thương Hiệt": [
+            "YRHS (卜口竹尸)"
+        ],
+        "Unicode": [
+            "U+8A50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhà ㄓㄚˋ"
+        ],
+        "Âm Nôm": [
+            "cha",
+            "trá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いつわ.る (itsuwa.ru)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "zaa3"
+        ]
+    },
+    "meanings": {
+        "trá": {
+            "Từ điển phổ thông": [
+                "lừa dối, giả dối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lừa gạt. ◎Như: 'trá phiến' 詐騙 lừa bịp. ◇Tuân Tử 荀子: 'Thượng trá kì hạ, hạ trá kì thượng' 上詐其下, 下詐其上 (Vương bá 王霸) Trên lừa dưới, dưới lừa trên.",
+                "(Động) Ngụy trang, giả làm. ◎Như: 'trá hàng' 詐降 giả vờ đầu hàng. ◇Sử Kí 史記: 'Tướng quân Kỉ Tín nãi thừa vương giá, trá vi Hán vương, cuống Sở' 將軍紀信乃乘王駕, 詐為漢王, 誑楚 (Cao tổ bổn kỉ 高祖本紀) Tướng quân Kỉ Tín ngồi trên xe ngựa của nhà vua giả làm Hán Vương để lừa quân Sở.",
+                "(Động) Dùng lời nói để thăm dò người khác, dọa. ◇Hồng Lâu Mộng 紅樓夢: 'Thùy bất tri Lí Thập thái da thị năng sự, bả ngã nhất trá tựu hách mao liễu' 誰不知李十太爺是能事, 把我一詐就嚇毛了 (Đệ cửu thập cửu hồi) Ai chẳng biết ông Lí Thập là người biết việc, ông vừa dọa tôi một tiếng mà tôi đã khiếp run lên đấy.",
+                "(Tính) Giả dối, hư ngụy. ◎Như: 'gian trá' 奸詐 gian dối, 'giảo trá' 狡詐 gian xảo.",
+                "(Phó) Hốt nhiên, chợt. § Thông 'sạ' 乍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giả dối.",
+                "Tục gọi kẻ tạ cớ gì lấy của cải của người là trá (lừa)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giả vờ, trá: 詐死 Giả chết; 詐病 Vờ ốm; 詐降 Trá hàng;",
+                "Lòe, lừa, bịp: 你別詐我 Anh đừng lòe (bịp) tôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giả dối — Làm giả để lừa người khác."
+            ],
+            "compound_words": {
+                "兵不厭詐": "binh bất yếm trá",
+                "刁詐": "điêu trá",
+                "奸詐": "gian trá",
+                "欺詐": "khi trá",
+                "瞞詐": "man trá",
+                "爾虞我詐": "nhĩ ngu ngã trá",
+                "諂詐": "siểm trá",
+                "詐病": "trá bệnh",
+                "詐狂": "trá cuồng",
+                "詐降": "trá hàng",
+                "詐僞": "trá nguỵ",
+                "智詐": "trí trá",
+                "巧詐": "xảo trá",
+                "敲詐": "xao trá"
+            }
+        }
+    }
+}

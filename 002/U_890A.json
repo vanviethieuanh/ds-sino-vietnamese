@@ -1,0 +1,94 @@
+{
+    "character": "褊",
+    "details": {
+        "Âm Hán Việt": [
+            "biền",
+            "biển"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "y 衣 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤扁"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "LHSB (中竹尸月)"
+        ],
+        "Unicode": [
+            "U+890A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "biǎn ㄅㄧㄢˇ",
+            "piān ㄆㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "biển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せま.い (sema.i)"
+        ],
+        "Âm Hàn": [
+            "편"
+        ],
+        "Âm Quảng Đông": [
+            "bin2"
+        ]
+    },
+    "meanings": {
+        "biền": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Biền thiên 褊躚 — Một âm khác là Biển."
+            ],
+            "compound_words": {
+                "褊躚": "biền thiên"
+            }
+        },
+        "biển": {
+            "Từ điển phổ thông": [
+                "nhỏ, hẹp",
+                "nóng nảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Quần áo chật hẹp.",
+                "(Tính) Nhỏ, hẹp. ◎Như: 'biển hiệp' 褊狹 nhỏ hẹp.",
+                "(Tính) Nóng nảy, cấp táo. ◎Như: 'biển cấp' 褊急 độ lượng nhỏ nhen, tính tình nóng nảy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhỏ, hẹp.",
+                "Nóng nảy. Kinh Thi 詩經 có câu: Duy thị biển tâm 維是褊心 chỉ là lòng nóng nảy (bồn chồn, hấp tấp)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hẹp, chật: 土地褊小 Đất đai nhỏ hẹp;",
+                "Nóng nảy, bồn chồn, hấp tấp: 維 是褊心 Chỉ là lòng nóng nảy (Thi Kinh)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo nhỏ — Nhỏ hẹp. Chật hẹp — Gấp gáp — Một âm khác là Biền."
+            ],
+            "compound_words": {
+                "褊急": "biển cấp",
+                "褊狹": "biển hiệp",
+                "褊吝": "biển lận",
+                "褊心": "biển tâm",
+                "褊小": "biển tiểu"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "簸",
+    "details": {
+        "Âm Hán Việt": [
+            "bá"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trúc 竹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮𤿺"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨丨一一一ノ丶フノ丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "HTCE (竹廿金水)"
+        ],
+        "Unicode": [
+            "U+7C38"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bǒ ㄅㄛˇ",
+            "bò ㄅㄛˋ"
+        ],
+        "Âm Nôm": [
+            "pha"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.る (hi.ru)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "bo2",
+            "bo3"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển phổ thông": [
+                "cái sàng, cái nia"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sảy, rê, sàng (làm cho lúa gạo sạch trấu, cám). ◎Như: 'bá mễ' 簸米 sảy gạo.",
+                "(Động) Xóc, lắc. ◎Như: 'điên bá' 顛簸 lắc lư, xóc, 'giá điều lộ khi khu bất bình, tọa tại xa thượng, điên bá đắc ngận lệ hại' 這條路崎嶇不平, 坐在車上, 顛簸得很厲害 con đường này gồ ghề không bằng phẳng, ngồi trên xe, bị lắc lư thật là cực nhọc.",
+                "(Động) Tiêu, tốn phí. ◇Nho lâm ngoại sử 儒林外史: 'Bất quá yếu bá điệu ngã kỉ lượng ngân tử' 不過要簸掉我幾兩銀子 (Đệ tứ hồi) Chẳng qua ta chỉ cần tốn mất vài lạng bạc.",
+                "(Danh) 'Bá ki' 簸箕: (1) Nia, sàng, mẹt, mủng. ☆Tương tự: 'bổn ki' 畚箕, 'bổn đẩu' 畚斗. (2) Sọt rác, sọt để đựng bụi đất khi quét dọn.",
+                "(Danh) 'Bá la' 簸籮 rổ, rá, đồ làm bằng tre hay mây để đựng các thứ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dê, dê gạo cho sạch cám, gọi là bá. Cái nia để dê gọi là bá ki 簸箕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sảy, dê (rê): 簸米 Sảy gạo;",
+                "Xóc, lắc: 顛簸 Lắc lư, xóc. Xem 簸 [bò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dần gạo, để loại bỏ cám — Sàng, lắc qua lắc lại."
+            ],
+            "compound_words": {
+                "簸揚": "bá dương",
+                "簸箕": "bá ky",
+                "簸弄": "bá lộng"
+            }
+        }
+    }
+}

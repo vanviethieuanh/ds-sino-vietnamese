@@ -1,0 +1,100 @@
+{
+    "character": "襪",
+    "details": {
+        "Âm Hán Việt": [
+            "miệt",
+            "mạt",
+            "vạt"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "y 衣 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤蔑"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶一丨丨丨フ丨丨一一ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LTWI (中廿田戈)"
+        ],
+        "Unicode": [
+            "U+896A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wà ㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "miệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ベツ (betsu)",
+            "バツ (batsu)"
+        ],
+        "Âm Hàn": [
+            "말"
+        ],
+        "Âm Quảng Đông": [
+            "maat6",
+            "mat6"
+        ]
+    },
+    "meanings": {
+        "miệt": {
+            "Từ điển phổ thông": [
+                "cái tất (đi vào chân)",
+                "áo lót của đàn bà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vớ, bít tất. ◎Như: 'mao miệt' 毛襪 vớ len, 'xuyên miệt' 穿襪 đi vớ.",
+                "§ Cũng đọc là 'vạt'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái bí tất. Cũng đọc là chữ vạt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vớ, bít tất: 一隻長袜 Một đôi vớ dài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bít tất ( vớ ) Cũng đọc Vạt."
+            ]
+        },
+        "mạt": {
+            "Từ điển phổ thông": [
+                "cái tất (đi vào chân)",
+                "áo lót của đàn bà"
+            ]
+        },
+        "vạt": {
+            "Từ điển phổ thông": [
+                "cái tất (đi vào chân)",
+                "áo lót của đàn bà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vớ, bít tất. ◎Như: 'mao miệt' 毛襪 vớ len, 'xuyên miệt' 穿襪 đi vớ.",
+                "§ Cũng đọc là 'vạt'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái bí tất. Cũng đọc là chữ vạt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Vạt 袜. Ta có người đọc Miệt."
+            ],
+            "compound_words": {
+                "半襪": "bán vạt"
+            }
+        }
+    }
+}

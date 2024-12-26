@@ -1,0 +1,84 @@
+{
+    "character": "唇",
+    "details": {
+        "Âm Hán Việt": [
+            "chấn",
+            "thần"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khẩu 口 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸辰口"
+        ],
+        "Nét bút": [
+            "一ノ一一フノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "MVR (一女口)"
+        ],
+        "Unicode": [
+            "U+5507"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chún ㄔㄨㄣˊ"
+        ],
+        "Âm Nôm": [
+            "thần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くちびる (kuchibiru)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "seon4"
+        ]
+    },
+    "meanings": {
+        "chấn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hãi — Một âm khác là Thần."
+            ]
+        },
+        "thần": {
+            "Từ điển phổ thông": [
+                "môi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “thần” 脣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ thần 脣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Môi: 脣亡齒寒 Môi hở răng lạnh. Cg. 嘴唇 [zuêchún]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rung động sợ hãi — Cái môi ( phần ngoài miệng )."
+            ],
+            "compound_words": {
+                "櫻唇": "anh thần",
+                "陰唇": "âm thần",
+                "下唇": "hạ thần",
+                "上唇": "thượng thần"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "砧",
+    "details": {
+        "Âm Hán Việt": [
+            "châm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thạch 石 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石占"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "MRYR (一口卜口)"
+        ],
+        "Unicode": [
+            "U+7827"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhēn ㄓㄣ"
+        ],
+        "Âm Nôm": [
+            "châm",
+            "chiêm",
+            "chỉm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チン (chin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きぬた (kinuta)"
+        ],
+        "Âm Hàn": [
+            "침"
+        ],
+        "Âm Quảng Đông": [
+            "zam1"
+        ]
+    },
+    "meanings": {
+        "châm": {
+            "Từ điển phổ thông": [
+                "cái chày đá để giặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chày đá để giặt quần áo. ◇Nguyễn Du 阮攸: 'Tảo hàn dĩ giác vô y khổ, Hà xứ không khuê thôi mộ châm' 早寒已覺無衣苦, 何處空閨催暮砧 (Thu dạ 秋夜) Mới bắt đầu lạnh mà đã thấy khổ vì thiếu áo, Nơi đâu tiếng chày đập vải của người phòng không rộn bóng chiều. § Quách Tấn dịch thơ: Lạnh sơ đã khổ phần không áo, Đập vải nhà ai rộn bóng chiều.",
+                "(Danh) Cái thớt. ◎Như: 'nhục châm' 肉砧 thớt cắt thịt.",
+                "(Danh) § Xem 'châm chất' 砧鑕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chày đá để giặt áo. Tảo hàn dĩ giác vô y khổ, Hà xứ không khuê thôi mộ châm 早寒已覺無衣苦, 何處空閨催暮砧 (Nguyễn Du 阮攸) Lạnh sơ đã khổ phần không áo, Ðập vải nhà ai rộn bóng chiều."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) đe, thớt: 鐵砧 Cái đe, đe sắt;",
+                "(văn) (Cái) chày đá để đập (giặt) vải: 寒衣處處催刀尺，白帝城高急暮砧 Áo lạnh nơi nơi lo chuẩn bị, thành cao Bạch Đế tiếng chày khua (Đỗ Phủ: Thu hứng)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chầy đá dùng để giặt quần áo, đập quần áo cho sạch — Chày giã gạo."
+            ],
+            "compound_words": {
+                "砧鑕": "châm chất",
+                "砧杵": "châm xử"
+            }
+        }
+    }
+}

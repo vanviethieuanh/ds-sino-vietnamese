@@ -1,0 +1,64 @@
+{
+    "character": "专",
+    "details": {
+        "Âm Hán Việt": [
+            "chuyên"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhất 一 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "QNI (手弓戈)"
+        ],
+        "Unicode": [
+            "U+4E13"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhuān ㄓㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "chuyên"
+        ],
+        "Âm Quảng Đông": [
+            "zyun1"
+        ]
+    },
+    "meanings": {
+        "chuyên": {
+            "Từ điển phổ thông": [
+                "chú ý hết cả vào một việc",
+                "chỉ có một, duy nhất"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 專."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 專"
+            ],
+            "compound_words": {
+                "专政": "chuyên chính",
+                "专用": "chuyên dụng",
+                "专家": "chuyên gia",
+                "专门": "chuyên môn",
+                "专业": "chuyên nghiệp",
+                "专心": "chuyên tâm",
+                "专员": "chuyên viên"
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "character": "喝",
+    "details": {
+        "Âm Hán Việt": [
+            "hát",
+            "hạt",
+            "ái",
+            "ới"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口曷"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "RAPV (口日心女)"
+        ],
+        "Unicode": [
+            "U+559D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hē ㄏㄜ",
+            "hè ㄏㄜˋ",
+            "yè ㄜˋ"
+        ],
+        "Âm Nôm": [
+            "ạc",
+            "ặc",
+            "hát",
+            "hét",
+            "hết",
+            "hít",
+            "kệ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Hàn": [
+            "갈",
+            "애"
+        ],
+        "Âm Quảng Đông": [
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "hát": {
+            "Từ điển phổ thông": [
+                "quát mắng",
+                "uống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quát mắng. ◎Như: 'lệ thanh hát đạo' 厲聲喝道 quát lớn tiếng.",
+                "(Động) Hét, gào, kêu to. ◎Như: 'đại hát nhất thanh' 大喝一聲 kêu to một tiếng.",
+                "(Động) Uống, húp, ăn chất lỏng. ◎Như: 'hát tửu' 喝酒 uống rượu, 'hát hi phạn' 喝稀飯 húp cháo lỏng, 'hát bôi ca phê' 喝杯咖啡 uống tách cà phê.",
+                "(Thán) Biểu thị sự ngạc nhiên. ◎Như: 'hát! nhĩ cư nhiên dã lai liễu' 喝! 你居然也來了.",
+                "Một âm là 'ới'. (Trạng thanh) Tiếng thâm u tắc nghẹn. ◇Hán Thư 後漢書: 'Bị thỉ quán yết, thanh âm lưu ới' 被矢貫咽, 聲音流喝 (Trương Bô truyện 張酺傳)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quát mắng.",
+                "Uống, như hát tửu 喝酒 uống rượu.",
+                "Một âm là ới. Tiếng thâm u mà không rõ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Uống, húp: 喝水 Uống nước; 喝酒 Uống rượu; 喝粥 Húp cháo; 喝湯 Húp canh; 喝茶 Uống trà;",
+                "Uống rượu: 他能喝 Anh ấy uống được rượu. Xem 喝 [hè]."
+            ],
+            "compound_words": {
+                "喝叱": "hát sất",
+                "喝采": "hát thái",
+                "吆喝": "yêu hát",
+                "喓喝": "yêu hát",
+                "邀喝": "yêu hát"
+            }
+        },
+        "hạt": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "La to. Quát lớn — Uống từng ngụm một, nhấm nháp. ( dùng trong bạch thoại ) — Một âm là Ái. Xem Ái."
+            ]
+        },
+        "ái": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kêu lớn — Một âm khác là Hát."
+            ],
+            "compound_words": {
+                "喝采": "hát thái",
+                "陰喝": "ấm ái"
+            }
+        },
+        "ới": {
+            "Từ điển trích dẫn": [
+                "(Động) Quát mắng. ◎Như: 'lệ thanh hát đạo' 厲聲喝道 quát lớn tiếng.",
+                "(Động) Hét, gào, kêu to. ◎Như: 'đại hát nhất thanh' 大喝一聲 kêu to một tiếng.",
+                "(Động) Uống, húp, ăn chất lỏng. ◎Như: 'hát tửu' 喝酒 uống rượu, 'hát hi phạn' 喝稀飯 húp cháo lỏng, 'hát bôi ca phê' 喝杯咖啡 uống tách cà phê.",
+                "(Thán) Biểu thị sự ngạc nhiên. ◎Như: 'hát! nhĩ cư nhiên dã lai liễu' 喝! 你居然也來了.",
+                "Một âm là 'ới'. (Trạng thanh) Tiếng thâm u tắc nghẹn. ◇Hán Thư 後漢書: 'Bị thỉ quán yết, thanh âm lưu ới' 被矢貫咽, 聲音流喝 (Trương Bô truyện 張酺傳)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quát mắng.",
+                "Uống, như hát tửu 喝酒 uống rượu.",
+                "Một âm là ới. Tiếng thâm u mà không rõ."
+            ]
+        }
+    }
+}

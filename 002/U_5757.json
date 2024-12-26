@@ -1,0 +1,67 @@
+{
+    "character": "块",
+    "details": {
+        "Âm Hán Việt": [
+            "khối"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土夬"
+        ],
+        "Nét bút": [
+            "一丨一フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GDK (土木大)"
+        ],
+        "Unicode": [
+            "U+5757"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kuāi ㄎㄨㄞ",
+            "kuài ㄎㄨㄞˋ"
+        ],
+        "Âm Nôm": [
+            "khối"
+        ],
+        "Âm Quảng Đông": [
+            "faai3"
+        ]
+    },
+    "meanings": {
+        "khối": {
+            "Từ điển phổ thông": [
+                "hòn, khối, đống"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 塊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cục, hòn, miếng, khoảnh...: 把肉切成塊兒 Thái thịt ra từng miếng;",
+                "(loại) Cục, hòn, miếng, khoảnh...: 一塊肉 Một miếng thịt; 一塊地 Một khoảnh ruộng (đất); 一塊石頭 Một hòn đá;",
+                "Đồng bạc: 五塊錢 Năm đồng bạc;",
+                "(văn) Trơ trọi một mình: 塊然 Trơ trọi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như Khối 凷và Khối 塊."
+            ],
+            "compound_words": {
+                "块钱": "khối tiền"
+            }
+        }
+    }
+}

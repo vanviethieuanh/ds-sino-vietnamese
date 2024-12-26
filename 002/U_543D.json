@@ -1,0 +1,119 @@
+{
+    "character": "吽",
+    "details": {
+        "Âm Hán Việt": [
+            "hống",
+            "hồng",
+            "ngâu",
+            "ngầu",
+            "oanh",
+            "ẩu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰口牛"
+        ],
+        "Nét bút": [
+            "丨フ一ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "RHQ (口竹手)"
+        ],
+        "Unicode": [
+            "U+543D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hōng ㄏㄨㄥ",
+            "hǒu ㄏㄡˇ",
+            "ōu ㄛㄨ",
+            "óu ㄛㄨˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ウン (un)",
+            "イン (in)",
+            "オン (on)",
+            "グ (gu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほえ.る (hoe.ru)"
+        ],
+        "Âm Hàn": [
+            "후",
+            "음",
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "hung1",
+            "ngau6"
+        ]
+    },
+    "meanings": {
+        "hống": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trâu bò kêu."
+            ]
+        },
+        "hồng": {
+            "Từ điển phổ thông": [
+                "(tiếng thần chú trong tiếng Phạn)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trâu bò kêu.",
+                "(Động) Gầm, rống.",
+                "Một âm là 'hồng'. (Danh) Tiếng thần chú trong Phạn văn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiếng thần chú trong tiếng Phạm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chữ dùng trong câu chú của nhà Phật."
+            ]
+        },
+        "ngâu": {
+            "Từ điển trích dẫn": [
+                "(Động) Trâu bò kêu.",
+                "(Động) Gầm, rống.",
+                "Một âm là 'hồng'. (Danh) Tiếng thần chú trong Phạn văn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng trâu bò kêu — Một âm khác là Oanh. Xem Oanh."
+            ],
+            "compound_words": {
+                "吽呀": "ngâu nha",
+                "吽牙": "ngâu nha"
+            }
+        },
+        "ngầu": {
+            "Từ điển trích dẫn": [
+                "(Động) Trâu bò kêu.",
+                "(Động) Gầm, rống.",
+                "Một âm là 'hồng'. (Danh) Tiếng thần chú trong Phạn văn."
+            ]
+        },
+        "oanh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phiên âm tiến Phạn, là tiếng dùng trong lúc phấn khứa phù chú — Một âm là Ngâu ( Tiếng trâu bò kêu )."
+            ]
+        },
+        "ẩu": {
+            "Từ điển Trần Văn Chánh": [
+                "【吽牙】ẩu nha [óuyá] (văn) Tiếng chó cắn giành nhau."
+            ]
+        }
+    }
+}

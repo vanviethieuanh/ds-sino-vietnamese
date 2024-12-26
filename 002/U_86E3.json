@@ -1,0 +1,65 @@
+{
+    "character": "蛣",
+    "details": {
+        "Âm Hán Việt": [
+            "kiết"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫吉"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIGR (中戈土口)"
+        ],
+        "Unicode": [
+            "U+86E3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キツ (kitsu)",
+            "キチ (kichi)",
+            "ケツ (ketsu)",
+            "ケチ (kechi)",
+            "ケイ (kei)"
+        ],
+        "Âm Hàn": [
+            "길"
+        ],
+        "Âm Quảng Đông": [
+            "gat1",
+            "kit3"
+        ]
+    },
+    "meanings": {
+        "kiết": {
+            "Từ điển phổ thông": [
+                "(xem: kiết khương 蛣蜣)",
+                "(xem: kiết quyết 蛣蟩)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) 【蛣蜣】kiết khương [jiéqiang] Bọ hung;",
+                "【蛣蟩】kiết quyết [jiéjué] Con bọ gậy, con loăng quăng (ấu trùng của muỗi). Như 孑孓 [jiéjué] (bộ 子)."
+            ],
+            "compound_words": {
+                "蛣蜣": "kiết khương",
+                "蛣蟩": "kiết quyết"
+            }
+        }
+    }
+}

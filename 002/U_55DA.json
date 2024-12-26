@@ -1,0 +1,81 @@
+{
+    "character": "嗚",
+    "details": {
+        "Âm Hán Việt": [
+            "ô"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khẩu 口 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口烏"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨フ一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "RHRF (口竹口火)"
+        ],
+        "Unicode": [
+            "U+55DA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wū ㄨ"
+        ],
+        "Âm Nôm": [
+            "o",
+            "ô",
+            "u"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)",
+            "オ (o)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ああ (ā)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "wu1"
+        ]
+    },
+    "meanings": {
+        "ô": {
+            "Từ điển phổ thông": [
+                "(tiếng than)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Thán) 'Ô hô' 嗚呼: Biểu thị cảm thán. ◇Vương Bột 王勃: Ô hô! Thắng địa bất thường, thịnh diên nan tái 嗚呼! 勝地不常, 盛筵難再 (Đằng Vương các tự 滕王閣序) Than ôi! Chốn danh thắng không còn mãi, thịnh yến khó gặp lại.",
+                "(Thán) 'Ô hô' 嗚呼: Biểu thị khen ngợi, tán thán.",
+                "(Động) 'Ô hô' 嗚呼: Mượn chỉ chết. ◇Hồng Lâu Mộng 紅樓夢: 'Tự kỉ khí đích lão bệnh phát tác, tam ngũ nhật quang cảnh, ô hô tử liễu' 自己氣的老病發作, 三五日光景, 嗚呼死了 (Đệ thâp lục hồi) Vì tức giận quá, bệnh cũ tái phát, được ba bốn hôm trời, thì chết mất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ô hô 嗚呼 than ôi!",
+                "Ô ô 嗚嗚 tiếng hát ô ố."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng kêu, tỏ sự ngạc nhiên, hoặc than thở."
+            ],
+            "compound_words": {
+                "嗚唈": "ô ấp",
+                "嗚咽": "ô yết",
+                "嗚呼": "ô hô",
+                "噫嗚": "y ô"
+            }
+        }
+    }
+}

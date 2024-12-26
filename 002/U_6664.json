@@ -1,0 +1,83 @@
+{
+    "character": "晤",
+    "details": {
+        "Âm Hán Việt": [
+            "ngộ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhật 日 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日吾"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "AMMR (日一一口)"
+        ],
+        "Unicode": [
+            "U+6664"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "cữ",
+            "ngộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴ (go)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あきらか (akiraka)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ng6"
+        ]
+    },
+    "meanings": {
+        "ngộ": {
+            "Từ điển phổ thông": [
+                "gặp, đối mặt nhau",
+                "sáng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gặp, gặp mặt. ◎Như: 'ngộ diện' 晤面 gặp mặt, 'hội ngộ' 會晤 gặp gỡ. ◇Tam quốc diễn nghĩa 三國演義: 'Liên nhật bất ngộ quân nhan, hà kì quý thể bất an' 連日不晤君顏, 何期貴體不安 (Đệ tứ thập cửu hồi) Mấy hôm nay không đến hầu long nhan, ngờ đâu ngọc thể bất an.",
+                "(Tính) Thông minh, sáng suốt. ◇Tống sử 宋史: 'Tán viết: Chân tông anh ngộ chi chủ' 贊曰: 真宗英晤之主 (Chân Tông bổn kỉ 真宗本紀) Khen rằng: Chân Tông là bậc vua anh tài sáng suốt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gặp, đối, cùng gặp mặt nhau gọi là ngộ diện 晤面.",
+                "Sáng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gặp, gặp mặt: 有暇請來一晤 Lúc rỗi mời đến gặp nhau một tí;",
+                "Sáng suốt, khôn ngoan, tỏ ngộ, (được) giác ngộ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sáng sủa — Trước mặt nhau. Đối diện."
+            ],
+            "compound_words": {
+                "会晤": "hội ngộ",
+                "會晤": "hội ngộ",
+                "晤面": "ngộ diện",
+                "晤靣": "ngộ diện"
+            }
+        }
+    }
+}

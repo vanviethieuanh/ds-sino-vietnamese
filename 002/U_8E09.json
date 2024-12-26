@@ -1,0 +1,98 @@
+{
+    "character": "踉",
+    "details": {
+        "Âm Hán Việt": [
+            "lương",
+            "lượng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "túc 足 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊良"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "RMIAV (口一戈日女)"
+        ],
+        "Unicode": [
+            "U+8E09"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "láng ㄌㄤˊ",
+            "làng ㄌㄤˋ",
+            "liáng ㄌㄧㄤˊ",
+            "liàng ㄌㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "lương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Hàn": [
+            "량",
+            "랑"
+        ],
+        "Âm Quảng Đông": [
+            "loeng4",
+            "loeng6",
+            "long4"
+        ]
+    },
+    "meanings": {
+        "lương": {
+            "Từ điển phổ thông": [
+                "chân đi loăng quăng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) 'Khiêu lương' 跳踉 đi lăng quăng, múa may, động đậy.",
+                "Một âm là 'lượng'. (Phó) 'Lượng thương' 踉蹌 lảo đảo, loạng choạng. § Cũng viết là 'lượng thương' 踉蹡. ◇Tam quốc diễn nghĩa 三國演義: 'Hốt kiến Mi Phương diện đái sổ tiễn, lượng thương nhi lai' 忽見糜芳面帶數箭, 踉蹌而來 (Đệ tứ thập nhất hồi) Chợt thấy Mi Phương mặt còn cắm mấy mũi tên, loạng choạng đi đến."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khiêu lương 跳踉 chân đi lăng quăng.",
+                "Một âm là lượng. Lượng thương 踉蹡 đi tập tễnh, đi thất thểu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhảy: 跳踉 Đi lăng quăng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhảy lên — Dáng dợm chân muốn bước đi. Một âm khác là Lượng."
+            ],
+            "compound_words": {
+                "跳踉": "khiêu lương"
+            }
+        },
+        "lượng": {
+            "Từ điển trích dẫn": [
+                "(Phó) 'Khiêu lương' 跳踉 đi lăng quăng, múa may, động đậy.",
+                "Một âm là 'lượng'. (Phó) 'Lượng thương' 踉蹌 lảo đảo, loạng choạng. § Cũng viết là 'lượng thương' 踉蹡. ◇Tam quốc diễn nghĩa 三國演義: 'Hốt kiến Mi Phương diện đái sổ tiễn, lượng thương nhi lai' 忽見糜芳面帶數箭, 踉蹌而來 (Đệ tứ thập nhất hồi) Chợt thấy Mi Phương mặt còn cắm mấy mũi tên, loạng choạng đi đến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【踉蹌】 lượng thương [liàngqiàng] Đi loạng choạng, lảo đảo, thất thểu. Cv. 踉蹡."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng đi xiêu vẹo, nghiêng ngả — Một âm là Lương. Xem Lương."
+            ],
+            "compound_words": {
+                "踉踉蹌蹌": "lượng lượng thương thương",
+                "踉蹡": "lượng thương"
+            }
+        }
+    }
+}

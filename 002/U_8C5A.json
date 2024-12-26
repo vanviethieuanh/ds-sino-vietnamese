@@ -1,0 +1,91 @@
+{
+    "character": "豚",
+    "details": {
+        "Âm Hán Việt": [
+            "đồn",
+            "độn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thỉ 豕 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰月豕"
+        ],
+        "Nét bút": [
+            "ノフ一一一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "BMSO (月一尸人)"
+        ],
+        "Unicode": [
+            "U+8C5A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dūn ㄉㄨㄣ",
+            "tún ㄊㄨㄣˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トン (ton)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぶた (buta)"
+        ],
+        "Âm Hàn": [
+            "돈"
+        ],
+        "Âm Quảng Đông": [
+            "tyun4"
+        ]
+    },
+    "meanings": {
+        "đồn": {
+            "Từ điển phổ thông": [
+                "con lợn con"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lợn con, heo sữa. Phiếm chỉ heo, lợn. ◇Nguyễn Du 阮攸: 'Sổ huề canh đạo kê đồn ngoại' 數畦秔稻雞豚外 (Nhiếp Khẩu đạo trung 灄口道中) Vài thửa lúa tám còn thêm gà lợn.",
+                "Một âm là 'độn'. (Động) Đi kéo lê gót chân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con lợn con.",
+                "Một âm là độn. Ði kéo lê gót chân."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lợn (heo), lợn con (heo con), lợn sữa (heo sữa): 豚尾 Đuôi lợn; 豚蹄 Chân giò;",
+                "[Tún] (Họ) Đồn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con lợn con. Heo con."
+            ],
+            "compound_words": {
+                "豚犬": "đồn khuyển",
+                "豚兒": "đồn nhi"
+            }
+        },
+        "độn": {
+            "Từ điển phổ thông": [
+                "đi lê gót chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lợn con, heo sữa. Phiếm chỉ heo, lợn. ◇Nguyễn Du 阮攸: 'Sổ huề canh đạo kê đồn ngoại' 數畦秔稻雞豚外 (Nhiếp Khẩu đạo trung 灄口道中) Vài thửa lúa tám còn thêm gà lợn.",
+                "Một âm là 'độn'. (Động) Đi kéo lê gót chân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con lợn con.",
+                "Một âm là độn. Ði kéo lê gót chân."
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "捉",
+    "details": {
+        "Âm Hán Việt": [
+            "tróc"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘足"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QRYO (手口卜人)"
+        ],
+        "Unicode": [
+            "U+6349"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhuō ㄓㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "choắt",
+            "chộp",
+            "tróc",
+            "trốc",
+            "xóc",
+            "xốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)",
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とら.える (tora.eru)"
+        ],
+        "Âm Hàn": [
+            "착"
+        ],
+        "Âm Quảng Đông": [
+            "zuk1",
+            "zuk3"
+        ]
+    },
+    "meanings": {
+        "tróc": {
+            "Từ điển phổ thông": [
+                "bắt giữ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nắm chặt. ◇Pháp Hoa Kinh 法華經: 'Tróc cẩu lưỡng túc, phác linh thất thanh' 捉狗兩足, 撲令失聲 (Thí dụ phẩm đệ tam 譬喻品第三) Nắm hai chân con chó, đánh cho đau điếng (kêu không ra tiếng).",
+                "(Động) Bắt, bắt ép. ◎Như: 'tróc nã' 捉拿 tìm bắt. ◇Thủy hử truyện 水滸傳: 'Tùy tức sai nhân đáo Vương Tiến gia lai tróc nã Vương Tiến' 隨即差人到王進家來捉拿王進 (Đệ nhị hồi) Liền sai người đến nhà Vương Tiến tróc nã Vương Tiến."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nắm chặt.",
+                "Bắt, bắt ép."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt: 捉老鼠 Bắt chuột; 活捉 Bắt sống;",
+                "Cầm, nắm: 捉筆杆 Cầm bút; 捉不住要點 Không nắm được điểm trọng yếu; 捉住不放 Nắm chắc không buông ra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt lấy."
+            ],
+            "compound_words": {
+                "把捉": "bả tróc",
+                "捕捉": "bộ tróc",
+                "捉拿": "tróc nã",
+                "捉取": "tróc thủ"
+            }
+        }
+    }
+}

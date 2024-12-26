@@ -1,0 +1,97 @@
+{
+    "character": "碏",
+    "details": {
+        "Âm Hán Việt": [
+            "thác",
+            "thước",
+            "tích"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thạch 石 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石昔"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一丨丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MRTA (一口廿日)"
+        ],
+        "Unicode": [
+            "U+788F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cuò ㄘㄨㄛˋ",
+            "què ㄑㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "tách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャク (shaku)",
+            "サク (saku)",
+            "セキ (seki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつし.む (tsutsushi.mu)"
+        ],
+        "Âm Hàn": [
+            "작"
+        ],
+        "Âm Quảng Đông": [
+            "coek3",
+            "zoek3"
+        ]
+    },
+    "meanings": {
+        "thác": {
+            "Từ điển phổ thông": [
+                "(tên người, xem: thạch thác 石碏)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên người (như 石碏, đại phu nước Vệ thời Xuân thu)."
+            ],
+            "compound_words": {
+                "石碏": "thạch thác"
+            }
+        },
+        "thước": {
+            "Từ điển phổ thông": [
+                "cung kính",
+                "đá tạp sắc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Cung kính.",
+                "(Danh) Đá tạp sắc.",
+                "Một âm là 'tích'. (Danh) Trở ngại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cung kính;",
+                "Đá tạp sắc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại đá nhiều màu."
+            ]
+        },
+        "tích": {
+            "Từ điển trích dẫn": [
+                "(Tính) Cung kính.",
+                "(Danh) Đá tạp sắc.",
+                "Một âm là 'tích'. (Danh) Trở ngại."
+            ]
+        }
+    }
+}

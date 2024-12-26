@@ -1,0 +1,103 @@
+{
+    "character": "抽",
+    "details": {
+        "Âm Hán Việt": [
+            "trừu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘由"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "QLW (手中田)"
+        ],
+        "Unicode": [
+            "U+62BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chōu ㄔㄡ"
+        ],
+        "Âm Nôm": [
+            "ắp",
+            "ép",
+            "trìu",
+            "trừu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひき- (hiki-)"
+        ],
+        "Âm Hàn": [
+            "추"
+        ],
+        "Âm Quảng Đông": [
+            "cau1"
+        ]
+    },
+    "meanings": {
+        "trừu": {
+            "Từ điển phổ thông": [
+                "rút ra, rút lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rút ra. ◎Như: 'trừu tiêm' 抽殱 rút thẻ ra. ◇Lí Bạch 李白: 'Trừu đao đoạn thủy thủy cánh lưu' 抽刀斷水水更流 (Tuyên Châu Tạ Thiếu lâu 宣州謝眺樓) Rút đao chặt nước, nước càng trôi đi.",
+                "(Động) Đưa, dẫn. ◎Như: 'trừu đạo' 抽導 dẫn đạo, 'trừu ti' 抽絲 kéo tơ.",
+                "(Động) Kéo dài.",
+                "(Động) Hút, bơm. ◎Như: 'trừu thủy cơ khí' 抽水機器 máy bơm nước, 'trừu yên' 抽煙 hút thuốc.",
+                "(Động) Quật, vụt. ◎Như: 'trừu đà loa' 抽陀螺 quất con quay (con vụ), 'tiên tử nhất trừu' 鞭子一抽 quật cho một roi.",
+                "(Động) Nẩy ra, nhú ra. ◎Như: 'trừu nha' 抽芽 nẩy mầm.",
+                "(Động) Trích lấy, bỏ ra, lấy một phần trong cả bộ. ◎Như: 'trừu công phu' 抽功夫 bỏ thời giờ ra (để làm gì đó).",
+                "(Động) Co, co rút. ◎Như: 'giá chủng bố tài tẩy nhất thứ tựu trừu liễu nhất thốn' 這種布才洗一次就抽了一寸 vải này vừa giặt một lần đã co mất một tấc.",
+                "(Động) Tuôn ra, trào ra. ◎Như: 'trừu tứ' 抽思 tuôn trào ý tứ.",
+                "(Động) Nhổ, trừ bỏ. ◇Thi Kinh 詩經: 'Ngôn trừu kì cức' 言抽其棘 (Tiểu nhã 小雅, Sở tì 楚茨) Phải trừ bỏ gai góc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kéo ra, như trừu thuỷ cơ khí 押水機器 cái máy kéo nước.",
+                "Nẩy ra, như trừu nha 押芽 nẩy mầm.",
+                "Rút ra. Như trừu tiêm 押籤 rút thẻ ra.",
+                "Trích lấy, lấy một phần trong toàn cả bộ ra gọi là trừu.",
+                "Nhổ sạch."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rút, kéo, bắt, lấy, trích lấy (một phần): 抽簽 Rút thăm, bắt thăm: 抽樣 Lấy mẫu; 抽出些人員去幫忙 Rút một số nhân viên đi giúp việc;",
+                "Bơm, hút: 抽水 Bơm nước; 抽煙 Hút thuốc;",
+                "Co: 這種布才洗一次就抽了一寸 Vải này vừa giặt một lần đã co mất một tấc;",
+                "Quật, quất, vụt: 抽了他一鞭子 Quật (vụt) cho hắn một roi;",
+                "Mới mọc, nảy ra, trổ ra: 稻子已經抽穗 Lúa đã trổ bông;",
+                "(văn) Nhổ sạch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rút ra. Lấy ra. Kéo ra — Trừ bỏ đi — Đánh đập."
+            ],
+            "compound_words": {
+                "抽拔": "trừu bạt",
+                "抽囘": "trừu hồi",
+                "抽繭": "trừu kiển",
+                "抽像": "trừu tượng",
+                "抽象": "trừu tượng",
+                "抽出": "trừu xuất",
+                "抽烟": "trừu yên",
+                "抽煙": "trừu yên"
+            }
+        }
+    }
+}

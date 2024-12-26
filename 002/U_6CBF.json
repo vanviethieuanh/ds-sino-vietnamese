@@ -1,0 +1,95 @@
+{
+    "character": "沿",
+    "details": {
+        "Âm Hán Việt": [
+            "diên",
+            "duyên"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡⿱几口"
+        ],
+        "Nét bút": [
+            "丶丶一ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ECR (水金口)"
+        ],
+        "Unicode": [
+            "U+6CBF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ",
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "duyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そ.う (so.u)",
+            "-ぞ.い (-zo.i)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "diên": {
+            "Từ điển phổ thông": [
+                "ven, mép",
+                "đi men theo",
+                "noi theo"
+            ]
+        },
+        "duyên": {
+            "Từ điển phổ thông": [
+                "ven, mép",
+                "đi men theo",
+                "noi theo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Men theo sông. ◎Như: 'duyên thủy nhi hạ' 沿水而下 men theo sông mà xuống.",
+                "(Động) Men theo, đi theo. ◎Như: 'duyên đồ' 沿途 đi dọc theo đường, 'duyên nhai khiếu mại' 沿街叫賣 đi dọc phố rao bán. ◇Thủy hử truyện 水滸傳: 'Duyên hương lịch ấp, đạo điếm thôn phường, họa ảnh đồ hình, xuất tam thiên quán tín thưởng tiền tróc nã chánh phạm Lâm Xung' 沿鄉歷邑, 道店村坊, 畫影圖形, 出三千貫信賞錢捉拿正犯林沖 (Đệ thập nhất hồi) Dọc làng qua ấp, hàng quán thôn xóm, vẽ ảnh tô hình, ra giải thưởng ba ngàn quan tiền cho người nào bắt được chính phạm Lâm Xung.",
+                "(Động) Noi theo, dựa theo lối cũ. ◎Như 'tương duyên thành tập' 相沿成習 theo nhau thành quen.",
+                "(Động) Đi sát bên. ◎Như: 'duyên hải' 沿海 đi sát bờ biển, 'duyên ngạn' 沿岸 đi sát bờ.",
+                "(Động) May viền quần áo.",
+                "(Danh) Cạnh, ven. ◎Như: 'sàng duyên' 床沿 cạnh giường, 'giai duyên' 階沿 bên thềm, 'hà duyên' 河沿 ven sông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ven, như duyên thuỷ nhi hạ 沿水而下 ven nước mà xuống, ở bên bờ ven nước cũng gọi là duyên.",
+                "Noi, như tương duyên thành lệ 相沿成例 cùng noi thành lệ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bờ, bên: 河沿 Bên sông; 沿兒 Bờ rãnh. Xem 沿 [yán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Theo bờ nước mà đi — Đi theo. Noi theo — Vùng gần sông biển."
+            ],
+            "compound_words": {
+                "沿江": "duyên giang",
+                "沿河": "duyên hà",
+                "沿海": "duyên hải"
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "character": "鎊",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng",
+            "bảng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "kim 金 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金旁"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "CYBS (金卜月尸)"
+        ],
+        "Unicode": [
+            "U+938A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bàng ㄅㄤˋ",
+            "pāng ㄆㄤ"
+        ],
+        "Âm Nôm": [
+            "bàng",
+            "phạng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けず.る (kezu.ru)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "bong2",
+            "bong6"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển phổ thông": [
+                "cái nạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái nạo, dùng làm đồ xương sừng.",
+                "Một âm là 'bảng'. (Danh) Dịch âm \"pound\", đơn vị tiền tệ của nước Anh. § Cũng gọi là 'Anh bảng' 英鎊."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái nạo, một đồ dùng làm đồ xương sừng.",
+                "Một âm là bảng (pound) tên thứ tiền của nước Anh Cát Lợi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái nạo (dụng cụ để làm đồ xương, đồ sừng);",
+                "Nạo, cạo."
+            ]
+        },
+        "bảng": {
+            "Từ điển phổ thông": [
+                "đồng bảng Anh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái nạo, dùng làm đồ xương sừng.",
+                "Một âm là 'bảng'. (Danh) Dịch âm \"pound\", đơn vị tiền tệ của nước Anh. § Cũng gọi là 'Anh bảng' 英鎊."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái nạo, một đồ dùng làm đồ xương sừng.",
+                "Một âm là bảng (pound) tên thứ tiền của nước Anh Cát Lợi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đồng bảng Anh, đồng xteclinh (đơn vị tiền Anh): 英鎊浮動 Thả nổi đồng xteclinh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên phiên âm đơn vị tiền tệ của Anh quốc ( pound ), tức đồng bảng Anh."
+            ],
+            "compound_words": {
+                "英鎊": "anh bảng"
+            }
+        }
+    }
+}

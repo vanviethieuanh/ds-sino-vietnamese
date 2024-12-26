@@ -1,0 +1,103 @@
+{
+    "character": "胎",
+    "details": {
+        "Âm Hán Việt": [
+            "thai"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月台"
+        ],
+        "Nét bút": [
+            "ノフ一一フ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "BIR (月戈口)"
+        ],
+        "Unicode": [
+            "U+80CE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tāi ㄊㄞ"
+        ],
+        "Âm Nôm": [
+            "thai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Hàn": [
+            "태"
+        ],
+        "Âm Quảng Đông": [
+            "toi1"
+        ]
+    },
+    "meanings": {
+        "thai": {
+            "Từ điển phổ thông": [
+                "cái thai, bào thai",
+                "có thai, có mang, có chửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thể xác non, còn ở trong bụng mẹ (người hoặc động vật). ◎Như: 'hoài thai' 懷胎 mang thai, 'song bào thai' 雙胞胎 thai sinh đôi.",
+                "(Danh) Lượng từ: lần chửa, đẻ. ◎Như: 'đầu thai' 頭胎 đẻ lần đầu, 'đệ nhị thai' 第二胎 đẻ lần thứ hai.",
+                "(Danh) Đồ vật chưa làm xong. ◎Như: 'nê thai' 泥胎 đồ gốm mộc.",
+                "(Danh) Lớp lót, lớp đệm bên trong đồ vật (quần áo, chăn mền). ◎Như: 'miên hoa thai' 棉花胎 lớp đệm bông gòn, 'luân thai' 輪胎 bánh xe (vỏ và ruột bằng cao su).",
+                "(Danh) Mầm mống, căn nguyên. ◎Như: 'họa thai' 禍胎 mầm tai họa.",
+                "(Danh) Khuôn, cái cốt để chế tạo đồ vật. ◎Như: 'thai cụ' 胎具 cái khuôn để chế tạo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Có mang ba tháng gọi là thai. Lúc con còn ở trong bụng đều gọi là thai, như thai giáo 胎教 dạy từ lúc còn trong bụng.",
+                "Cái khuôn, cái cốt chế nên đồ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái thai: 懷胎 Có thai, có mang, chửa; 怪胎 Quái thai. (Ngr) Mầm mống (của một sự việc), căn nguyên: 禍胎 Mầm tai hoạ;",
+                "Chỉ bộ phận bên trong của đồ vật: 輪胎 Xăm lốp; 内胎 Xăm; 棉胎 Ruột chăn bông;",
+                "Mộc: 泥胎 Đồ gốm mộc;",
+                "(văn) Cái khuôn;",
+                "(văn) Mới, trước, thai nghén, phôi thai."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đàn bà có mang ba tháng — Có mang — Đứa trẻ còn nằm trong bụng mẹ."
+            ],
+            "compound_words": {
+                "安胎": "an thai",
+                "蚌胎": "bạng thai",
+                "胞胎": "bào thai",
+                "珠胎": "châu thai",
+                "投胎": "đầu thai",
+                "墮胎": "đoạ thai",
+                "禍胎": "hoạ thai",
+                "懷胎": "hoài thai",
+                "荒胎": "hoang thai",
+                "落胎": "lạc thai",
+                "肧胎": "phôi thai",
+                "胚胎": "phôi thai",
+                "鬼胎": "quỷ thai",
+                "雙胎": "song thai",
+                "胎盤": "thai bàn",
+                "胎教": "thai giáo",
+                "胎產": "thai sản",
+                "脫胎": "thoát thai",
+                "受胎": "thụ thai",
+                "墜胎": "truỵ thai",
+                "死胎": "tử thai"
+            }
+        }
+    }
+}

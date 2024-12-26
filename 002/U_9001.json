@@ -1,0 +1,115 @@
+{
+    "character": "送",
+    "details": {
+        "Âm Hán Việt": [
+            "tống"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "sước 辵 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶关"
+        ],
+        "Nét bút": [
+            "丶ノ一一ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YTK (卜廿大)"
+        ],
+        "Unicode": [
+            "U+9001"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sòng ㄙㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おく.る (oku.ru)"
+        ],
+        "Âm Hàn": [
+            "송"
+        ],
+        "Âm Quảng Đông": [
+            "sung3"
+        ]
+    },
+    "meanings": {
+        "tống": {
+            "Từ điển phổ thông": [
+                "đưa, cho, biếu",
+                "đưa tiễn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đưa đi, chở đi. ◎Như: 'vận tống' 運送 vận tải đi, 'tống hóa' 送貨 chở hàng hóa, 'tống tín' 送信 đưa thư.",
+                "(Động) Đưa tiễn. ◎Như: 'tống khách' 送客 tiễn khách. ◇Đỗ Phủ 杜甫: 'Gia nương thê tử tẩu tương tống, Trần ai bất kiến Hàm Dương kiều' 耶孃妻子走相送, 塵埃不見咸陽橋 (Binh xa hành 兵車行) Cha mẹ vợ con đưa tiễn, Cát bụi bay, không trông thấy cầu Hàm Dương.",
+                "(Động) Cáo biệt, từ bỏ. ◎Như: 'tống cựu nghênh tân' 送舊迎新 tiễn bỏ cái cũ đi, đón cái mới lại.",
+                "(Động) Đưa làm quà, biếu tặng. ◎Như: 'phụng tống' 奉送 kính đưa tặng, 'tha tống ngã nhất bổn thư' 他送我一本書 anh ấy tặng tôi một quyển sách.",
+                "(Động) Đưa chuyển. ◎Như: 'tống thu ba' 送秋波 đưa mắt (có tình ý, đầu mày cuối mắt).",
+                "(Động) Cung ứng, cung cấp. ◎Như: 'tống thủy' 送水 cung ứng nước, 'tống điện' 送電 cung ứng điện.",
+                "(Động) Bỏ mạng. ◎Như: 'tống tử' 送死 lao vào chỗ chết, 'tống mệnh' 送命 mất mạng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đưa đi. Như vận tống 運送 vận tải đi.",
+                "Tiễn đi. Như tống khách 送客 tiễn khách ra.",
+                "Đưa làm quà. Như phụng tống 奉送 kính đưa tặng.",
+                "Vận tải đi, áp tải."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đưa đi, chuyển đi, chở đi: 送信 Đưa thư; 时来風送滕王閣 Thời vận đến thì gió thổi đưa đi tới gác Đằng vương;",
+                "Tặng cho, biếu: 他送给我一枝钢笔 Anh ấy tặng cho tôi một cây bút máy;",
+                "Tiễn: 到车站送客 Ra ga tiễn khách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa đi — Đi theo. Td: Hộ tống — Tặng."
+            ],
+            "compound_words": {
+                "壓送": "áp tống",
+                "押送": "áp tống",
+                "播送": "bá tống",
+                "轉送": "chuyển tống",
+                "斷送": "đoạn tống",
+                "護送": "hộ tống",
+                "寄送": "ký tống",
+                "奉送": "phụng tống",
+                "抄送": "sao tống",
+                "葬送": "táng tống",
+                "輸送": "thâu tống",
+                "输送": "thâu tống",
+                "送別": "tống biệt",
+                "送終": "tống chung",
+                "送達": "tống đạt",
+                "送監": "tống giam",
+                "送去": "tống khứ",
+                "送獄": "tống ngục",
+                "送佛送到西天": "tống phật tống đáo tây thiên",
+                "送葬": "tống táng",
+                "送錢": "tống tiền",
+                "送餞": "tống tiễn",
+                "送情": "tống tình",
+                "送酒": "tống tửu",
+                "传送": "truyền tống",
+                "傳送": "truyền tống",
+                "晚送": "vãn tống",
+                "運送": "vận tống",
+                "衛送": "vệ tống"
+            }
+        }
+    }
+}

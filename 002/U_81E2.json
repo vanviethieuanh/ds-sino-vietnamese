@@ -1,0 +1,68 @@
+{
+    "character": "臢",
+    "details": {
+        "Âm Hán Việt": [
+            "châm",
+            "trâm"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "nhục 肉 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月贊"
+        ],
+        "Nét bút": [
+            "ノフ一一ノ一丨一ノフノ一丨一ノフ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BHUC (月竹山金)"
+        ],
+        "Unicode": [
+            "U+81E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zā ㄗㄚ",
+            "zān ㄗㄢ",
+            "zāng ㄗㄤ"
+        ],
+        "Âm Nôm": [
+            "toản"
+        ],
+        "Âm Quảng Đông": [
+            "zim1"
+        ]
+    },
+    "meanings": {
+        "châm": {
+            "Từ điển Thiều Chửu": [
+                "① Yên châm 腌臢 bẩn thỉu.肎"
+            ]
+        },
+        "trâm": {
+            "Từ điển phổ thông": [
+                "bẩn thỉu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) “Yên trâm” 腌臢: xem “yêm” 腌."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bẩn: 腌臢 Bẩn thỉu."
+            ],
+            "compound_words": {
+                "腌臢": "yêm trâm"
+            }
+        }
+    }
+}

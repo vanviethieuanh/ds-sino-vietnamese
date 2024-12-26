@@ -1,0 +1,98 @@
+{
+    "character": "裹",
+    "details": {
+        "Âm Hán Việt": [
+            "khoã",
+            "khoả",
+            "loã"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "y 衣 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴衣果"
+        ],
+        "Nét bút": [
+            "丶一丨フ一一一丨ノ丶ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "YWDV (卜田木女)"
+        ],
+        "Unicode": [
+            "U+88F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guǒ ㄍㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "khoả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつ.む (tsutsu.mu)"
+        ],
+        "Âm Hàn": [
+            "과"
+        ],
+        "Âm Quảng Đông": [
+            "gwo2"
+        ]
+    },
+    "meanings": {
+        "khoã": {
+            "Từ điển Thiều Chửu": [
+                "Bọc, gói. Như mã cách khoả thi 馬革裹屍 (Hán thư 漢書) da ngựa bọc thây, nói chết ở nơi chiến trận.",
+                "Cái bao, như dược khoả 藥裹 cái bao thuốc.",
+                "Vơ vét hết, như  khoả hiếp 裹脅 lấy cái thế đông mà bắt hiếp phải theo hết."
+            ]
+        },
+        "khoả": {
+            "Từ điển phổ thông": [
+                "bọc, gói",
+                "cái bao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bọc, gói, bó. ◎Như: 'khỏa thương khẩu' 裹傷口 băng bó vết thương. ◇Hậu Hán Thư 後漢書: 'Mã cách khỏa thi' 馬革裹屍 (Mã Viện truyện 馬援傳) Da ngựa bọc thây (ý nói chết ở nơi chiến trận).",
+                "(Động) Bao gồm, bao hàm, bao quát.",
+                "(Động) Bắt theo hết. ◎Như: 'khỏa hiếp' 裹脅 bắt hiếp phải theo hết.",
+                "(Danh) Cái bao, cái gói. ◎Như: 'dược khỏa' 藥裹 cái bao thuốc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bọc, buộc, băng bó: 裹傷 Băng bó vết thương; 用紙裹上 Lấy giấy bọc lại; 馬革裹屍 Da ngựa bọc thây;",
+                "(văn) Bao, gói: 藥裹 Gói thuốc;",
+                "Bắt đi theo: 土匪裹走了村裡幾個人 Bọn thổ phỉ đã bắt mấy người trong làng đi theo;",
+                "Trộn lẫn: 把次貨裹在好貨裡頭 Trộn hàng xấu vào hàng tốt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quấn quanh, bao ở ngoài — Vật bao ngoài — Chỉ của cải hàng hoá."
+            ],
+            "compound_words": {
+                "包裹": "bao khoả",
+                "裹足": "khoả túc"
+            }
+        },
+        "loã": {
+            "Từ điển Trần Văn Chánh": [
+                "Bọc, buộc, băng bó: 裹傷 Băng bó vết thương; 用紙裹上 Lấy giấy bọc lại; 馬革裹屍 Da ngựa bọc thây;",
+                "(văn) Bao, gói: 藥裹 Gói thuốc;",
+                "Bắt đi theo: 土匪裹走了村裡幾個人 Bọn thổ phỉ đã bắt mấy người trong làng đi theo;",
+                "Trộn lẫn: 把次貨裹在好貨裡頭 Trộn hàng xấu vào hàng tốt."
+            ]
+        }
+    }
+}

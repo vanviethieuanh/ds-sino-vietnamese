@@ -1,0 +1,97 @@
+{
+    "character": "唼",
+    "details": {
+        "Âm Hán Việt": [
+            "thiếp",
+            "xiếp",
+            "xiệp"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口妾"
+        ],
+        "Nét bút": [
+            "丨フ一丶一丶ノ一フノ一"
+        ],
+        "Thương Hiệt": [
+            "RYTV (口卜廿女)"
+        ],
+        "Unicode": [
+            "U+553C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qiè ㄑㄧㄝˋ",
+            "shǎ ㄕㄚˇ",
+            "shà ㄕㄚˋ",
+            "zā ㄗㄚ"
+        ],
+        "Âm Nôm": [
+            "thép"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くら.う (kura.u)",
+            "すす.る (susu.ru)",
+            "ついば.む (tsuiba.mu)",
+            "ふ.む (fu.mu)"
+        ],
+        "Âm Hàn": [
+            "삽"
+        ],
+        "Âm Quảng Đông": [
+            "cip3",
+            "saap3",
+            "zaap3"
+        ]
+    },
+    "meanings": {
+        "thiếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói quá cái phận của mình, vượt quyền của mình."
+            ]
+        },
+        "xiếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Xiếp điệp 唼喋."
+            ],
+            "compound_words": {
+                "唼喋": "xiếp điệp"
+            }
+        },
+        "xiệp": {
+            "Từ điển phổ thông": [
+                "mổ, đớp mồi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn.",
+                "(Động) Sâu bọ cắn, gặm. ◎Như: 'giá khỏa tử thụ căn mã nghĩ xiệp liễu' 這棵死樹根螞蟻唼了 kiến càng gặm nhấm rễ cây chết này rồi.",
+                "(Động) Cá, chim trong nước tìm mồi.",
+                "(Động) Đãi, gạn ◎Như: 'dụng si tử xiệp tế thổ' 用篩子唼細土 dùng sàng đãi gạn đất vụn.",
+                "(Động) Xì hơi. ◎Như: 'xiệp khí' 唼氣 (ruột bánh xe) xì hơi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Chim, cá) mổ, đớp (mồi).【唼喋】xiệp điệp [shàdié] (văn) Mổ, đớp (mồi). Xem 啑 [shà]."
+            ],
+            "compound_words": {
+                "唼喋": "xiệp điệp"
+            }
+        }
+    }
+}

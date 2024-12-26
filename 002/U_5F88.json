@@ -1,0 +1,114 @@
+{
+    "character": "很",
+    "details": {
+        "Âm Hán Việt": [
+            "hẫn",
+            "khấn",
+            "ngận"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "xích 彳 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰彳艮"
+        ],
+        "Nét bút": [
+            "ノノ丨フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HOAV (竹人日女)"
+        ],
+        "Unicode": [
+            "U+5F88"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hěn ㄏㄣˇ"
+        ],
+        "Âm Nôm": [
+            "hẩn",
+            "ngận"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)",
+            "コウ (kō)",
+            "ギン (gin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もと.る (moto.ru)"
+        ],
+        "Âm Hàn": [
+            "흔"
+        ],
+        "Âm Quảng Đông": [
+            "han2"
+        ]
+    },
+    "meanings": {
+        "hẫn": {
+            "Từ điển Trần Văn Chánh": [
+                "Rất, lắm, quá, hết sức: 很好 Rất tốt, tốt lắm; 好得很 Tốt quá, tốt hết sức; 很喜歡 Rất thích; 很歡迎 Hết sức hoan nghênh;",
+                "(văn) Ác: 凶很 Tàn ác;",
+                "(văn) Bướng bỉnh;",
+                "(văn) Tham lam: 心很 Lòng tham;",
+                "(văn) Tranh cãi, cãi nhau."
+            ]
+        },
+        "khấn": {
+            "Từ điển phổ thông": [
+                "bướng, ác",
+                "tham lam",
+                "rất, lắm"
+            ],
+            "compound_words": {
+                "很不": "khấn bất",
+                "很多": "khấn đa",
+                "很大": "khấn đại"
+            }
+        },
+        "ngận": {
+            "Từ điển phổ thông": [
+                "bướng, ác",
+                "tham lam",
+                "rất, lắm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Rất, lắm. ◎Như: 'ngận hảo' 很好 tốt lắm, 'tha ngận hỉ hoan khán thư' 他很喜歡看書 nó rất thích đọc sách.",
+                "(Tính) Tàn ác, hung bạo. § Cũng như 'ngận' 狠. ◎Như: 'hung ngận' 凶很 tàn ác.",
+                "(Danh) Tranh chấp, tranh tụng. ◇Lễ Kí 禮記: 'Ngận vô cầu thắng, phân vô cầu đa' 很毋求勝, 分毋求多 (Khúc lễ thượng 曲禮上) Tranh chấp không cầu được hơn, phân chia không đòi nhiều.",
+                "(Động) Làm trái."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bướng.",
+                "Ác. Như hung ngận 凶很 tàn ác.",
+                "Tham Như tâm ngận 心很 lòng tham.",
+                "Rất, lắm. Như ngận hảo 很好 tốt lắm.",
+                "Tranh kiện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rất, lắm, quá, hết sức: 很好 Rất tốt, tốt lắm; 好得很 Tốt quá, tốt hết sức; 很喜歡 Rất thích; 很歡迎 Hết sức hoan nghênh;",
+                "(văn) Ác: 凶很 Tàn ác;",
+                "(văn) Bướng bỉnh;",
+                "(văn) Tham lam: 心很 Lòng tham;",
+                "(văn) Tranh cãi, cãi nhau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rất, lắm. Td: Ngận hảo ( rất tốt, thường dùng trong Bạch thoại ) — Làm trái lại, không chịu nghe theo."
+            ],
+            "compound_words": {
+                "不很": "bất ngận"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "埃",
+    "details": {
+        "Âm Hán Việt": [
+            "ai"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thổ 土 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土矣"
+        ],
+        "Nét bút": [
+            "一丨一フ丶ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GIOK (土戈人大)"
+        ],
+        "Unicode": [
+            "U+57C3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "āi ㄚㄧ"
+        ],
+        "Âm Nôm": [
+            "ai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アイ (ai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほこり (hokori)",
+            "ちり (chiri)"
+        ],
+        "Âm Hàn": [
+            "애"
+        ],
+        "Âm Quảng Đông": [
+            "aai1",
+            "oi1"
+        ]
+    },
+    "meanings": {
+        "ai": {
+            "Từ điển phổ thông": [
+                "bụi do gió thổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bụi. ◎Như: 'ai trần' 埃塵 bụi bặm. § Cũng nói 'trần ai' 塵埃. ◇Nguyễn Du 阮攸: 'Vạn lí quan đạo đa phong ai' 萬里官道多風埃 (Lưu Linh mộ 劉伶墓) Đường quan muôn dặm nhiều gió bụi.",
+                "(Danh) Lượng từ: \"angstrom\" (đơn vị Vật lí học)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bụi, gió thổi cát bay gọi là ai."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bụi: 拂去塵埃 Phủi bụi;",
+                "Angstrôm (Angstrom – đơn vị đo lường cực nhỏ, kí hiệu A hoặc Å);",
+                "Tên nước ngoài nót tắt, như: 埃及 Ai Cập; 埃塞俄比亞 Ê-ti-ô-pi, v.v..."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bụi bặm. Cũng thường gọi chung là trần ai. Chỉ cuộc đời.  Đoạn trường tân thanh  có câu: » Khen cho con mắt tinh đời, Anh hùng đoán giữa trần ai mới già. « — Chỉ vật thật nhỏ, số thật nhỏ."
+            ],
+            "compound_words": {
+                "埃及": "ai cập",
+                "埃牢": "ai lao",
+                "埃牢使程": "ai lao sứ trình",
+                "埃墨": "ai mặc",
+                "埃塵": "ai trần",
+                "涓埃": "quyên ai",
+                "塵埃": "trần ai"
+            }
+        }
+    }
+}

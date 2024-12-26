@@ -1,0 +1,113 @@
+{
+    "character": "拍",
+    "details": {
+        "Âm Hán Việt": [
+            "bác",
+            "phách"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘白"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "QHA (手竹日)"
+        ],
+        "Unicode": [
+            "U+62CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ",
+            "pāi ㄆㄞ",
+            "pò ㄆㄛˋ"
+        ],
+        "Âm Nôm": [
+            "phách",
+            "phếch",
+            "vạch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "paak3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Bác 髆 Một âm khác là Phách."
+            ]
+        },
+        "phách": {
+            "Từ điển phổ thông": [
+                "vỗ, đập",
+                "tát, vả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vả, tát, vỗ, phủi. ◎Như: 'phách mã đề cương' 拍馬提韁 giật cương quất ngựa. ◇Nguyễn Trãi 阮廌: 'Độ đầu xuân thảo lục như yên, Xuân vũ thiêm lai thủy phách thiên' 渡頭春草綠如煙, 春雨添來水拍天 (Trại đầu xuân độ 寨頭春渡) Ở bến đò đầu trại, cỏ xuân xanh như khói, Lại thêm mưa xuân, nước vỗ vào nền trời.",
+                "(Động) Chụp hình. ◎Như: 'phách liễu nhất trương bán thân tướng' 拍了一張半身相 chụp một tấm hình bán thân.",
+                "(Động) Đánh, gửi đi. ◎Như: 'phách điện báo' 拍電報 đánh điện báo.",
+                "(Động) Nịnh hót, bợ đỡ.",
+                "(Danh) Đồ vật để đánh, đập, phủi. ◎Như: 'cầu phách' 球拍 vợt đánh bóng, 'thương dăng phách' 蒼蠅拍 đồ đập ruồi nhặng.",
+                "(Danh) Nhịp, cung bực, tiết tấu.",
+                "(Danh) Cái phách (dùng để đánh nhịp). ◎Như: 'phách bản' 拍板 nhạc khí bằng gỗ dùng để đánh nhịp.",
+                "(Danh) Lượng từ: đơn vị tiết tấu trong âm nhạc. ◎Như: 'bán phách' 半拍 nửa nhịp.",
+                "(Danh) Một thứ binh khí để giữ thành ngày xưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vả, tát, vỗ.",
+                "Dịp, cung bực (phím), mỗi một cung đàn gọi là một phách.",
+                "Cái phách, dùng để đánh nhịp mà hát.",
+                "Một thứ đồ để giữ thành."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vỗ, vả, tát, phủi: 拍胸膛 Vỗ ngực; 拍掉身上的土 Phủi bụi trên mình; 波浪拍擊著河岸 Sóng vỗ vào bờ sông;",
+                "Nhịp (dịp), phách, cung bậc: 這支歌每節四拍 Bài hát này nhịp bốn; 打拍子 Đánh nhịp, giữ nhịp;",
+                "Cái phách (để đánh nhịp);",
+                "(cũ) Một thứ đồ để giữ thành;",
+                "Chụp: 拍了一張半身相 Chụp một tấm ảnh nửa người; 慢拍 Chụp chậm;",
+                "Đánh: 拍電報 Đánh điện tín;",
+                "(khn) Nịnh hót, bợ đỡ: 能吹會拍 Tâng bốc nịnh hót (nọt)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vỗ tay — Nhịp đàn hát. Tiếng gỗ nhịp — Vỗ xuống. Gõ, đập xuống."
+            ],
+            "compound_words": {
+                "拍案": "phách án",
+                "拍板": "phách bản",
+                "拍照": "phách chiếu",
+                "拍掌": "phách chưởng",
+                "拍打": "phách đả",
+                "拍击": "phách kích",
+                "拍擊": "phách kích",
+                "拍卖": "phách mại",
+                "拍賣": "phách mại",
+                "拍摄": "phách nhiếp",
+                "拍攝": "phách nhiếp",
+                "拍手": "phách thủ",
+                "自拍": "tự phách"
+            }
+        }
+    }
+}

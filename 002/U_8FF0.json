@@ -1,0 +1,95 @@
+{
+    "character": "述",
+    "details": {
+        "Âm Hán Việt": [
+            "thuật"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "sước 辵 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶术"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YIJC (卜戈十金)"
+        ],
+        "Unicode": [
+            "U+8FF0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shù ㄕㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thuật"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュツ (jutsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "の.べる (no.beru)"
+        ],
+        "Âm Hàn": [
+            "술"
+        ],
+        "Âm Quảng Đông": [
+            "seot6"
+        ]
+    },
+    "meanings": {
+        "thuật": {
+            "Từ điển phổ thông": [
+                "thuật lại, kể lại",
+                "noi theo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Noi theo, tuân theo. ◇Hán Thư 漢書: 'Tổ thuật Nghiêu Thuấn' 祖述堯舜 (Nghệ văn chí 藝文志) Noi theo Nghiêu Thuấn.",
+                "(Động) Kế tục sự nghiệp hoặc làm sáng tỏ học thuyết của người khác. ◇Luận Ngữ 論語: 'Thuật nhi bất tác' 述而不作 (Thuật nhi 述而) Ta kế tục (đạo cổ nhân) mà không sáng tác.",
+                "(Động) Bày tỏ, trình bày, thuyết minh, kể. ◎Như: 'miêu thuật' 描述 miêu tả, 'khẩu thuật' 口述 kể miệng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bày ra, thuật ra. Chép các điều đã nghe từ trước ra gọi là thuật.",
+                "Noi theo. Như Trung Dung 中庸 Phụ tác chi, tử thuật chi 父作之子述之 cha làm ra, con noi theo. Lễ kí 禮記: Trọng Ni tổ thuật Nghiêu Thuấn 仲尼祖述堯舜 Trọng Ni noi theo Nghiêu, Thuấn.",
+                "Phàm làm cho trọn công việc của người đã gây ra hay biên chép được những lời của người đã nói ra đều gọi là thuật. Luận Ngữ 論語: Thuật nhi bất tác 述而不作 (Thuật nhi 述而) ta truyền thuật (đạo cổ nhân) mà không sáng tác.",
+                "Bày tỏ. Bày tỏ trước sau mánh thớ của một việc gì gọi là thuật. Như truyền thuật 傳述 dùng văn tự chép rõ để truyền cho người xem, khẩu thuật 口述 kể miệng, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói, kể, thuật lại: 口述 Kể; 重述 Kể lại;",
+                "(văn) Noi theo: 父作之，子述之 Cha làm ra, con noi theo (Trung dung); 仲尼祖述堯舜 Trọng Ni noi theo Nghiêu, Thuấn (Lễ kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kể lại. Thơ Tản Đà: » Cho con xuống thuật cùng đời hay « — Bày ra — Theo cũ mà làm."
+            ],
+            "compound_words": {
+                "編述": "biên thuật",
+                "供述": "cung thuật",
+                "引述": "dẫn thuật",
+                "概述": "khái thuật",
+                "紀述": "kỉ thuật",
+                "描述": "miêu thuật",
+                "撰述": "soạn thuật",
+                "上述": "thượng thuật",
+                "祖述": "tổ thuật",
+                "著述": "trứ thuật",
+                "叙述": "tự thuật",
+                "敍述": "tự thuật",
+                "敘述": "tự thuật",
+                "詳述": "tường thuật"
+            }
+        }
+    }
+}

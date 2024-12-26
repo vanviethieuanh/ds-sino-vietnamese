@@ -1,0 +1,167 @@
+{
+    "character": "養",
+    "details": {
+        "Âm Hán Việt": [
+            "dường",
+            "dưỡng",
+            "dượng",
+            "dạng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thực 食 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱𦍌食"
+        ],
+        "Nét bút": [
+            "丶ノ一一一ノ丶丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "TOIAV (廿人戈日女)"
+        ],
+        "Unicode": [
+            "U+990A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yǎng ㄧㄤˇ",
+            "yàng ㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "dẳng",
+            "dưỡng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やしな.う (yashina.u)"
+        ],
+        "Âm Hàn": [
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "joeng5",
+            "joeng6"
+        ]
+    },
+    "meanings": {
+        "dường": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dâng biếu (người trên), cấp dưỡng, phụng dưỡng: 奉養 Phụng dưỡng; 供養 Cúng dường."
+            ]
+        },
+        "dưỡng": {
+            "Từ điển phổ thông": [
+                "nuôi dưỡng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nuôi lớn. ◇Mạnh Tử 孟子: 'Cẩu đắc kì dưỡng vô vật bất trưởng' 苟得其養無物不長 (Cáo tử thượng 告子上) Nếu được nuôi tốt, không vật gì không lớn.",
+                "(Động) Sinh con.",
+                "(Động) Săn sóc, tu bổ. ◇Tam quốc diễn nghĩa 三國演義: 'Lão phu tình nguyện khất nhàn dưỡng bệnh' 老夫情願乞閒養病 (Đệ thập nhất hồi) Lão phu tình nguyện cáo nhàn dưỡng bệnh.",
+                "(Danh) Đầy tớ gọi là 'tư dưỡng' 廝養.",
+                "(Danh) Dưỡng khí, một nguyên chất trong hóa học (oxygen, O2).",
+                "(Danh) Họ 'Dưỡng'.",
+                "Một âm là 'dượng'. (Động) Dâng biếu. ◎Như: 'phụng dượng' 奉養 (ta nói là 'phụng dưỡng'), 'cung dượng' 供養 cúng dâng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nuôi lớn. Như ông Mạnh Tử 孟子 nói: Cẩu đắc kì dưỡng vô vật bất trưởng 苟得其養無物不長 nếu được nuôi tốt không vật gì không lớn.",
+                "Bồi bếp, đầy tớ cũng gọi là tư dưỡng 廝養.",
+                "Sinh con.",
+                "Dưỡng khí, chất dưỡng. Một nguyên chất trong hoá học (oxygène, O2), là một chất hơi không sắc không mùi, người ta nhờ có nó mới sống, lửa có nó mới cháy, là một phần kết thành ba loài động vật, thực vật, khoáng vật rất cần có vậy.",
+                "Một âm là dượng. Dưới dâng biếu người trên. Như phụng dượng 奉養 (ta nói là phụng dưỡng), cung dượng 供養 cúng dâng, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dâng biếu (người trên), cấp dưỡng, phụng dưỡng: 奉養 Phụng dưỡng; 供養 Cúng dường."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nuôi nấng — Sanh đẻ — Chữa trị."
+            ],
+            "compound_words": {
+                "安養": "an dưỡng",
+                "飲食療養": "ẩm thực liệu dưỡng",
+                "保養": "bảo dưỡng",
+                "抱養": "bão dưỡng",
+                "哺養": "bộ dưỡng",
+                "補養": "bổ dưỡng",
+                "培養": "bồi dưỡng",
+                "給養": "cấp dưỡng",
+                "終養": "chung dưỡng",
+                "供養": "cung dưỡng",
+                "頤養": "di dưỡng",
+                "營養": "doanh dưỡng",
+                "養病": "dưỡng bệnh",
+                "養育": "dưỡng dục",
+                "養禍": "dưỡng hoạ",
+                "養氣": "dưỡng khí",
+                "養老": "dưỡng lão",
+                "養廉": "dưỡng liêm",
+                "養母": "dưỡng mẫu",
+                "養女": "dưỡng nữ",
+                "養父": "dưỡng phụ",
+                "養生": "dưỡng sinh",
+                "養成": "dưỡng thành",
+                "養身": "dưỡng thân",
+                "養子": "dưỡng tử",
+                "調養": "điều dưỡng",
+                "涵養": "hàm dưỡng",
+                "休養": "hưu dưỡng",
+                "療養": "liệu dưỡng",
+                "蒙養": "mông dưỡng",
+                "扶養": "phù dưỡng",
+                "撫養": "phủ dưỡng",
+                "奉養": "phụng dưỡng",
+                "色養": "sắc dưỡng",
+                "生養": "sinh dưỡng",
+                "畜養": "súc dưỡng",
+                "收養": "thu dưỡng",
+                "修養": "tu dưỡng",
+                "恤養": "tuất dưỡng"
+            }
+        },
+        "dượng": {
+            "Từ điển phổ thông": [
+                "dâng biếu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nuôi lớn. ◇Mạnh Tử 孟子: 'Cẩu đắc kì dưỡng vô vật bất trưởng' 苟得其養無物不長 (Cáo tử thượng 告子上) Nếu được nuôi tốt, không vật gì không lớn.",
+                "(Động) Sinh con.",
+                "(Động) Săn sóc, tu bổ. ◇Tam quốc diễn nghĩa 三國演義: 'Lão phu tình nguyện khất nhàn dưỡng bệnh' 老夫情願乞閒養病 (Đệ thập nhất hồi) Lão phu tình nguyện cáo nhàn dưỡng bệnh.",
+                "(Danh) Đầy tớ gọi là 'tư dưỡng' 廝養.",
+                "(Danh) Dưỡng khí, một nguyên chất trong hóa học (oxygen, O2).",
+                "(Danh) Họ 'Dưỡng'.",
+                "Một âm là 'dượng'. (Động) Dâng biếu. ◎Như: 'phụng dượng' 奉養 (ta nói là 'phụng dưỡng'), 'cung dượng' 供養 cúng dâng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nuôi lớn. Như ông Mạnh Tử 孟子 nói: Cẩu đắc kì dưỡng vô vật bất trưởng 苟得其養無物不長 nếu được nuôi tốt không vật gì không lớn.",
+                "Bồi bếp, đầy tớ cũng gọi là tư dưỡng 廝養.",
+                "Sinh con.",
+                "Dưỡng khí, chất dưỡng. Một nguyên chất trong hoá học (oxygène, O2), là một chất hơi không sắc không mùi, người ta nhờ có nó mới sống, lửa có nó mới cháy, là một phần kết thành ba loài động vật, thực vật, khoáng vật rất cần có vậy.",
+                "Một âm là dượng. Dưới dâng biếu người trên. Như phụng dượng 奉養 (ta nói là phụng dưỡng), cung dượng 供養 cúng dâng, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dâng biếu (người trên), cấp dưỡng, phụng dưỡng: 奉養 Phụng dưỡng; 供養 Cúng dường."
+            ]
+        },
+        "dạng": {
+            "Từ điển phổ thông": [
+                "nuôi dưỡng"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dâng lên. Người dưới đem cho người trên. Ta quen đọc luôn là Dưỡng — Một âm là Dưỡng. Xem vần Dưỡng."
+            ]
+        }
+    }
+}

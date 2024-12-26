@@ -1,0 +1,81 @@
+{
+    "character": "橡",
+    "details": {
+        "Âm Hán Việt": [
+            "tượng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mộc 木 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木象"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノフ丨フ一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "DNAO (木弓日人)"
+        ],
+        "Unicode": [
+            "U+6A61"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiàng ㄒㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "tượng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ゾウ (zō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とち (tochi)",
+            "くぬぎ (kunugi)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng6"
+        ]
+    },
+    "meanings": {
+        "tượng": {
+            "Từ điển phổ thông": [
+                "cây hạt dẻ",
+                "cây cao su",
+                "cây sồi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây hạt dẻ, cây sồi.",
+                "(Danh) § Xem 'tượng bì' 橡皮."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây dẻ, hạt dẻ.",
+                "Cây cao-su, nguyên dịch là chữ tượng bì 像皮, tục hay viết nhầm là 橡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cây sồi;",
+                "Cây cao su."
+            ],
+            "compound_words": {
+                "橡皮": "tượng bì",
+                "橡胶": "tượng giao",
+                "橡膠": "tượng giao"
+            }
+        }
+    }
+}

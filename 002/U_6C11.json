@@ -1,0 +1,203 @@
+{
+    "character": "民",
+    "details": {
+        "Âm Hán Việt": [
+            "dân",
+            "miên"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thị 氏 (+1 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "フ一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "RVP (口女心)"
+        ],
+        "Unicode": [
+            "U+6C11"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mián ㄇㄧㄢˊ",
+            "mín ㄇㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "dân",
+            "rân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミン (min)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たみ (tami)"
+        ],
+        "Âm Hàn": [
+            "민"
+        ],
+        "Âm Quảng Đông": [
+            "man4"
+        ]
+    },
+    "meanings": {
+        "dân": {
+            "Từ điển phổ thông": [
+                "người dân, người, dân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người. Phiếm chỉ loài người. ◇Luận Ngữ 論語: 'Khốn nhi bất học, dân tư vi hạ hĩ' 困而不學, 民斯為下矣 (Quý thị 季氏) Khốn cùng mà vẫn không chịu học, đó là hạng người thấp kém nhất. ◇Tả truyện 左傳: 'Dân thụ thiên địa chi trung dĩ sanh' 民受天地之中以生 (Thành công thập tam niên 成公十三年).",
+                "(Danh) Bình dân, trăm họ. § Nói đối với vua, quan. ◇Dịch Kinh 易經: 'Thượng cổ kết thằng nhi trị, hậu thế thánh nhân dịch chi dĩ thư khế, bách quan dĩ trị, vạn dân dĩ sát' 上古結繩而治, 後世聖人易之以書契, 百官以治, 萬民以察 (Hệ từ hạ 繫辭下) Thời thượng cổ thắt nút dây (để ghi nhớ các việc) mà cai trị, đời sau thánh nhân thay đổi (cách thức), dùng văn tự, khế ước mà cai trị trăm quan, kiểm soát dân chúng.",
+                "(Danh) Chỉ bề tôi (thời thượng cổ). § Tức là 'thần' 臣 (người giữ chức quan). ◇Mặc Tử 墨子: 'Kim vương công đại nhân, diệc dục hiệu nhân, dĩ thượng hiền sử năng vi chánh, cao dữ chi tước nhi lộc bất tòng dã. Phù cao tước nhi vô lộc, dân bất tín dã' 今王公大人, 亦欲效人, 以尚賢使能為政, 高予之爵而祿不從也. 夫高爵而無祿, 民不信也 (Thượng hiền trung 尚賢中).",
+                "(Danh) Người của một tộc, một nước. ◎Như: 'Tạng dân' 藏民 người Tạng, 'Hồi dân' 回民 người Hồi.",
+                "(Danh) Người làm một nghề. ◎Như: 'nông dân' 農民 người làm ruộng, 'ngư dân' 漁民 người làm nghề đánh cá. ◇Cốc lương truyện 穀梁傳: 'Cổ giả hữu tứ dân: hữu sĩ dân, hữu thương dân, hữu nông dân, hữu công dân' 古者有四民: 有士民, 有商民, 有農民, 有工民 (Thành Công nguyên niên 成公元年).",
+                "(Danh) Chỉ lòng dân, dân tục. ◇Dịch Kinh 易經: 'Tượng truyện: Dĩ quý hạ tiện, đại đắc dân' 象傳: 以貴下賤, 大得民 (Truân quái 屯卦).",
+                "(Đại) Tôi. § Tiếng tự xưng.",
+                "(Tính) Thuộc về đại chúng. ◎Như: 'dân ca' 民歌 ca dao dân gian, 'dân ngạn' 民諺 ngạn ngữ dân gian, 'dân phong' 民風 phong tục dân gian, 'dân tình' 民情 tình cảnh dân chúng.",
+                "(Tính) Trong đó người dân giữ phần cơ bản, người dân là chủ thể. ◎Như: 'dân chủ' 民主 (chế độ) trong đó người dân có quyền tham gia trực tiếp hoặc bầu cử người thay mình làm việc chính trị, điều hành việc nước.",
+                "(Tính) Không phải quân sự, để dùng cho sinh hoạt dân chúng bình thường. ◎Như: 'dân phẩm' 民品 hàng hóa dân dụng, 'dân hàng' 民航 hàng không dân sự.",
+                "Một âm là 'miên'. § Xem 'miên miên' 民民.",
+                "(Động) § Thông 'miên' 眠. ◇Dương Phương 楊方: 'Tề bỉ cung cung thú, Cử động bất tương quyên. Sanh hữu đồng huyệt hảo, Tử thành tính quan miên' 齊彼蛩蛩獸, 舉動不相捐. 生有同穴好, 死成併棺民 (Hợp hoan thi 合歡詩)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Người, dân, loài người thuộc ở dưới quyền chính trị gọi là dân, như quốc dân 國民 dân nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dân: 爲民除害 Trừ mối hoạ cho dân; 欺天罔民，詭計蓋千萬狀 Dối trời lừa dân, quỷ kế thật trăm phương ngàn cách (Bình Ngô đại cáo);",
+                "Người (của một dân tộc): 藏民 Người Tạng; 回民 Người Hồi;",
+                "Người làm một nghề nghiệp: 農民 Nông dân; 漁民 Ngư dân; 牧民 Người chăn nuôi;",
+                "Dân gian: 民歌 Dân ca;",
+                "Phi quân sự, dân dụng: 民航公司 Công ti hàng không dân dụng; 民用機場 Sân bay dân dụng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người trong nước."
+            ],
+            "compound_words": {
+                "安民": "an dân",
+                "白民": "bạch dân",
+                "貧民": "bần dân",
+                "病民": "bệnh dân",
+                "病國殃民": "bệnh quốc ương dân",
+                "平民": "bình dân",
+                "眾民": "chúng dân",
+                "顓民": "chuyên dân",
+                "公民": "công dân",
+                "窮民": "cùng dân",
+                "居民": "cư dân",
+                "強姦民意": "cưỡng gian dân ý",
+                "鳩民": "cưu dân",
+                "野民": "dã dân",
+                "民隱": "dân ẩn",
+                "民表": "dân biểu",
+                "民歌": "dân ca",
+                "民政": "dân chính",
+                "民主": "dân chủ",
+                "民众": "dân chúng",
+                "民眾": "dân chúng",
+                "民工": "dân công",
+                "民居": "dân cư",
+                "民用": "dân dụng",
+                "民間": "dân gian",
+                "民间": "dân gian",
+                "民有": "dân hữu",
+                "民律": "dân luật",
+                "民願": "dân nguyện",
+                "民樂": "dân nhạc",
+                "民風": "dân phong",
+                "民夫": "dân phu",
+                "民國": "dân quốc",
+                "民權": "dân quyền",
+                "民生": "dân sinh",
+                "民數": "dân số",
+                "民事": "dân sự",
+                "民賊": "dân tặc",
+                "民心": "dân tâm",
+                "民情": "dân tình",
+                "民族": "dân tộc",
+                "民智": "dân trí",
+                "民治": "dân trị",
+                "民俗": "dân tục",
+                "民選": "dân tuyển",
+                "逸民": "dật dân",
+                "移民": "di dân",
+                "遺民": "di dân",
+                "游民": "du dân",
+                "弔民": "điếu dân",
+                "弔民伐罪": "điếu dân phạt tội",
+                "墮民": "đoạ dân",
+                "塗炭生民": "đồ thán sinh dân",
+                "教民": "giáo dân",
+                "化民": "hoá dân",
+                "僑民": "kiều dân",
+                "黎民": "lê dân",
+                "良民": "lương dân",
+                "流民": "lưu dân",
+                "媚民": "mị dân",
+                "牧民": "mục dân",
+                "戁民": "nạn dân",
+                "頑民": "ngoan dân",
+                "愚民": "ngu dân",
+                "人民": "nhân dân",
+                "農民": "nông dân",
+                "凡民": "phàm dân",
+                "番民": "phiên dân",
+                "撫民": "phủ dân",
+                "浮民": "phù dân",
+                "君民": "quân dân",
+                "国民": "quốc dân",
+                "國民": "quốc dân",
+                "國民黨": "quốc dân đảng",
+                "士民": "sĩ dân",
+                "生民": "sinh dân",
+                "初民": "sơ dân",
+                "山民": "sơn dân",
+                "使民": "sử dân",
+                "災民": "tai dân",
+                "新民": "tân dân",
+                "臣民": "thần dân",
+                "巿民": "thị dân",
+                "市民": "thị dân",
+                "土民": "thổ dân",
+                "村民": "thôn dân",
+                "庶民": "thứ dân",
+                "殖民": "thực dân",
+                "庇民": "tí dân",
+                "小民": "tiểu dân",
+                "全民": "toàn dân",
+                "全民公決": "toàn dân công quyết",
+                "住民": "trú dân",
+                "四民": "tứ dân",
+                "憂民": "ưu dân"
+            }
+        },
+        "miên": {
+            "Từ điển trích dẫn": [
+                "(Danh) Người. Phiếm chỉ loài người. ◇Luận Ngữ 論語: 'Khốn nhi bất học, dân tư vi hạ hĩ' 困而不學, 民斯為下矣 (Quý thị 季氏) Khốn cùng mà vẫn không chịu học, đó là hạng người thấp kém nhất. ◇Tả truyện 左傳: 'Dân thụ thiên địa chi trung dĩ sanh' 民受天地之中以生 (Thành công thập tam niên 成公十三年).",
+                "(Danh) Bình dân, trăm họ. § Nói đối với vua, quan. ◇Dịch Kinh 易經: 'Thượng cổ kết thằng nhi trị, hậu thế thánh nhân dịch chi dĩ thư khế, bách quan dĩ trị, vạn dân dĩ sát' 上古結繩而治, 後世聖人易之以書契, 百官以治, 萬民以察 (Hệ từ hạ 繫辭下) Thời thượng cổ thắt nút dây (để ghi nhớ các việc) mà cai trị, đời sau thánh nhân thay đổi (cách thức), dùng văn tự, khế ước mà cai trị trăm quan, kiểm soát dân chúng.",
+                "(Danh) Chỉ bề tôi (thời thượng cổ). § Tức là 'thần' 臣 (người giữ chức quan). ◇Mặc Tử 墨子: 'Kim vương công đại nhân, diệc dục hiệu nhân, dĩ thượng hiền sử năng vi chánh, cao dữ chi tước nhi lộc bất tòng dã. Phù cao tước nhi vô lộc, dân bất tín dã' 今王公大人, 亦欲效人, 以尚賢使能為政, 高予之爵而祿不從也. 夫高爵而無祿, 民不信也 (Thượng hiền trung 尚賢中).",
+                "(Danh) Người của một tộc, một nước. ◎Như: 'Tạng dân' 藏民 người Tạng, 'Hồi dân' 回民 người Hồi.",
+                "(Danh) Người làm một nghề. ◎Như: 'nông dân' 農民 người làm ruộng, 'ngư dân' 漁民 người làm nghề đánh cá. ◇Cốc lương truyện 穀梁傳: 'Cổ giả hữu tứ dân: hữu sĩ dân, hữu thương dân, hữu nông dân, hữu công dân' 古者有四民: 有士民, 有商民, 有農民, 有工民 (Thành Công nguyên niên 成公元年).",
+                "(Danh) Chỉ lòng dân, dân tục. ◇Dịch Kinh 易經: 'Tượng truyện: Dĩ quý hạ tiện, đại đắc dân' 象傳: 以貴下賤, 大得民 (Truân quái 屯卦).",
+                "(Đại) Tôi. § Tiếng tự xưng.",
+                "(Tính) Thuộc về đại chúng. ◎Như: 'dân ca' 民歌 ca dao dân gian, 'dân ngạn' 民諺 ngạn ngữ dân gian, 'dân phong' 民風 phong tục dân gian, 'dân tình' 民情 tình cảnh dân chúng.",
+                "(Tính) Trong đó người dân giữ phần cơ bản, người dân là chủ thể. ◎Như: 'dân chủ' 民主 (chế độ) trong đó người dân có quyền tham gia trực tiếp hoặc bầu cử người thay mình làm việc chính trị, điều hành việc nước.",
+                "(Tính) Không phải quân sự, để dùng cho sinh hoạt dân chúng bình thường. ◎Như: 'dân phẩm' 民品 hàng hóa dân dụng, 'dân hàng' 民航 hàng không dân sự.",
+                "Một âm là 'miên'. § Xem 'miên miên' 民民.",
+                "(Động) § Thông 'miên' 眠. ◇Dương Phương 楊方: 'Tề bỉ cung cung thú, Cử động bất tương quyên. Sanh hữu đồng huyệt hảo, Tử thành tính quan miên' 齊彼蛩蛩獸, 舉動不相捐. 生有同穴好, 死成併棺民 (Hợp hoan thi 合歡詩)."
+            ],
+            "compound_words": {
+                "民民": "miên miên"
+            }
+        }
+    }
+}

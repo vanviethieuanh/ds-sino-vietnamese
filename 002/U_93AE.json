@@ -1,0 +1,105 @@
+{
+    "character": "鎮",
+    "details": {
+        "Âm Hán Việt": [
+            "trấn"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "kim 金 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金真"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨丨フ一一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CJBC (金十月金)"
+        ],
+        "Unicode": [
+            "U+93AE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tián ㄊㄧㄢˊ",
+            "zhēn ㄓㄣ",
+            "zhèn ㄓㄣˋ"
+        ],
+        "Âm Nôm": [
+            "chắn",
+            "chận",
+            "dấn",
+            "giấn",
+            "sán",
+            "sấn",
+            "trấn",
+            "trớn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チン (chin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しず.める (shizu.meru)",
+            "しず.まる (shizu.maru)",
+            "おさえ (osae)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "zan3"
+        ]
+    },
+    "meanings": {
+        "trấn": {
+            "Từ điển phổ thông": [
+                "canh giữ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khí cụ dùng để đè, chặn. ◎Như: 'thư trấn' 書鎮 cái chặn trang sách, chặn giấy.",
+                "(Danh) Gốc rễ, nguồn gốc, căn bản làm cho quốc gia yên định. ◇Quốc ngữ 國語: 'Phù bất vong cung kính, xã tắc chi trấn dã' 夫不忘恭敬, 社稷之鎮也 (Tấn ngữ ngũ 晉語五) Không quên cung kính, (đó là) điều căn bản cho xã tắc yên định vậy.",
+                "(Danh) Chỗ chợ triền đông đúc. ◎Như: 'thành trấn' 城鎮, 'thôn trấn' 村鎮.",
+                "(Danh) Khu vực hành chánh, ở dưới huyện 縣. § Ghi chú: Ngày xưa, một khu đất đủ năm vạn người trở lên gọi là 'trấn'. Nhà Thanh 清 gọi quan Tổng binh là 'trấn'. Một cánh quân có đủ kị quân bộ, lính thợ, lính tải đồ, cộng 10562 người gọi là một 'trấn', hợp hai trấn gọi là một quân, bây giờ gọi là sư (21124 người).",
+                "(Danh) Núi lớn.",
+                "(Động) Áp chế, đàn áp, áp phục, canh giữ. ◎Như: 'trấn thủ' 鎮守 giữ gìn, canh giữ, 'trấn tà' 鎮邪 dùng pháp thuật áp phục tà ma, quỷ quái.",
+                "(Động) Làm cho yên, an định. ◎Như: 'trấn phủ' 鎮撫 vỗ yên.",
+                "(Động) Ướp lạnh. ◎Như: 'băng trấn tây qua' 冰鎮西瓜 ướp lạnh dưa hấu.",
+                "(Tính) Hết, cả. ◎Như: 'trấn nhật' 鎮日 cả ngày. ◇Nguyễn Trãi 阮廌: 'Cô chu trấn nhật các sa miên' 孤舟鎮日擱沙眠 (Trại đầu xuân độ 寨頭春渡) Thuyền đơn chiếc gác lên cát ngủ suốt ngày.",
+                "§ Cũng viết là 鎭."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đè nặng xuống — Giữ gìn cho yên — Nơi tụ họp buôn bán đông đảo. Td: Thị trấn."
+            ],
+            "compound_words": {
+                "協鎮": "hiệp trấn",
+                "藩鎮": "phiên trấn",
+                "方鎮": "phương trấn",
+                "集鎮": "tập trấn",
+                "城鎮": "thành trấn",
+                "市鎮": "thị trấn",
+                "鎮壓": "trấn áp",
+                "鎮邊": "trấn biên",
+                "鎮紙": "trấn chỉ",
+                "鎮據": "trấn cứ",
+                "鎮定": "trấn định",
+                "鎮禦": "trấn ngự",
+                "鎮日": "trấn nhật",
+                "鎮任": "trấn nhiệm",
+                "鎮守": "trấn thủ",
+                "鎮靜": "trấn tĩnh",
+                "鎮宅": "trấn trạch"
+            }
+        }
+    }
+}

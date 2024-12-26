@@ -1,0 +1,110 @@
+{
+    "character": "奓",
+    "details": {
+        "Âm Hán Việt": [
+            "tra",
+            "trá",
+            "xa",
+            "xỉ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "đại 大 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱大多"
+        ],
+        "Nét bút": [
+            "一ノ丶ノフ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "KNIN (大弓戈弓)"
+        ],
+        "Unicode": [
+            "U+5953"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chǐ ㄔˇ",
+            "shē ㄕㄜ",
+            "zhà ㄓㄚˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タ (ta)",
+            "シャ (sha)",
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.る (ha.ru)",
+            "おご.る (ogo.ru)",
+            "あ.ける (a.keru)"
+        ],
+        "Âm Hàn": [
+            "차"
+        ],
+        "Âm Quảng Đông": [
+            "ci2",
+            "se1",
+            "se2",
+            "zaa1",
+            "zaa3"
+        ]
+    },
+    "meanings": {
+        "tra": {
+            "Từ điển trích dẫn": [
+                "(Động) Mở, mở ra. ◇Phạm Thành Đại 范成大: 'Tra hộ khuyến chi khởi, Hoài bảo thiện tự trân' 奓戶勸之起, 懷寶善自珍 (Thu nhật tạp hứng 秋日雜興).",
+                "(Danh) Chữ dùng đặt tên đất. ◎Như: 'Tra Sơn' 奓山, 'Tra Hồ' 奓湖 (ở Hồ Bắc).",
+                "Một âm là 'xỉ'. (Tính) Hoang phí. § Cũng như 'xỉ' 侈.",
+                "(Động) Vượt quá.",
+                "Một âm là 'xa'. § Chữ 'xa' 奢 cổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên địa phương: 奓山Tra Sơn (ở tỉnh Hồ Bắc, Trung Quốc). Xem 奓 [zhà]."
+            ]
+        },
+        "trá": {
+            "Từ điển phổ thông": [
+                "xoã, xoè"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) (Tóc) xoã, (bàn tay) xòe: 奓着頭髮 Xoã tóc. Xem 奓 [Zha]."
+            ]
+        },
+        "xa": {
+            "Từ điển trích dẫn": [
+                "(Động) Mở, mở ra. ◇Phạm Thành Đại 范成大: 'Tra hộ khuyến chi khởi, Hoài bảo thiện tự trân' 奓戶勸之起, 懷寶善自珍 (Thu nhật tạp hứng 秋日雜興).",
+                "(Danh) Chữ dùng đặt tên đất. ◎Như: 'Tra Sơn' 奓山, 'Tra Hồ' 奓湖 (ở Hồ Bắc).",
+                "Một âm là 'xỉ'. (Tính) Hoang phí. § Cũng như 'xỉ' 侈.",
+                "(Động) Vượt quá.",
+                "Một âm là 'xa'. § Chữ 'xa' 奢 cổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Xa 奢."
+            ],
+            "compound_words": {
+                "奓戸": "xa hộ",
+                "奓闊": "xa khoát"
+            }
+        },
+        "xỉ": {
+            "Từ điển trích dẫn": [
+                "(Động) Mở, mở ra. ◇Phạm Thành Đại 范成大: 'Tra hộ khuyến chi khởi, Hoài bảo thiện tự trân' 奓戶勸之起, 懷寶善自珍 (Thu nhật tạp hứng 秋日雜興).",
+                "(Danh) Chữ dùng đặt tên đất. ◎Như: 'Tra Sơn' 奓山, 'Tra Hồ' 奓湖 (ở Hồ Bắc).",
+                "Một âm là 'xỉ'. (Tính) Hoang phí. § Cũng như 'xỉ' 侈.",
+                "(Động) Vượt quá.",
+                "Một âm là 'xa'. § Chữ 'xa' 奢 cổ."
+            ]
+        }
+    }
+}

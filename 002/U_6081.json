@@ -1,0 +1,110 @@
+{
+    "character": "悁",
+    "details": {
+        "Âm Hán Việt": [
+            "quyên",
+            "quyến"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖肙"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "PRB (心口月)"
+        ],
+        "Unicode": [
+            "U+6081"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "juān ㄐㄩㄢ",
+            "juàn ㄐㄩㄢˋ",
+            "yuān ㄩㄢ"
+        ],
+        "Âm Nôm": [
+            "quen",
+            "quên",
+            "quyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)",
+            "ケン (ken)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "gyun1",
+            "gyun3"
+        ]
+    },
+    "meanings": {
+        "quyên": {
+            "Từ điển phổ thông": [
+                "tức giận"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nóng nảy.",
+                "(Tính) Giận dữ, tức giận. ◇Lưu Hướng 劉向: 'Tràng phẫn quyên nhi hàm nộ hề' 腸憤悁而含怒兮 (Cửu thán 九歎, Phùng phân 逢紛) Ruột gan phẫn nộ mà ôm giận hề.",
+                "(Tính) Lo buồn, ưu uất. ◇Thi Kinh 詩經: 'Trung tâm quyên quyên' 中心悁悁 (Trần phong 陳風, Trạch bi 澤陂) Trong lòng đau đáu.",
+                "§ Cũng đọc là 'quyến'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tức giận.",
+                "Lo, như trung tâm quyên quyên 中心悁悁 trong lòng đau đáu, cũng đọc là chữ quyến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tức giận;",
+                "Lo buồn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lo lắng — Buồn giận — Một âm là Quyến. Xem Quyến."
+            ],
+            "compound_words": {
+                "悁邑": "quyên ấp",
+                "悁忿": "quyên phẫn",
+                "悁悁": "quyên quyên"
+            }
+        },
+        "quyến": {
+            "Từ điển phổ thông": [
+                "lo lắng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nóng nảy.",
+                "(Tính) Giận dữ, tức giận. ◇Lưu Hướng 劉向: 'Tràng phẫn quyên nhi hàm nộ hề' 腸憤悁而含怒兮 (Cửu thán 九歎, Phùng phân 逢紛) Ruột gan phẫn nộ mà ôm giận hề.",
+                "(Tính) Lo buồn, ưu uất. ◇Thi Kinh 詩經: 'Trung tâm quyên quyên' 中心悁悁 (Trần phong 陳風, Trạch bi 澤陂) Trong lòng đau đáu.",
+                "§ Cũng đọc là 'quyến'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tức giận.",
+                "Lo, như trung tâm quyên quyên 中心悁悁 trong lòng đau đáu, cũng đọc là chữ quyến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nôn nóng, dễ cáu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nóng nảy gấp rút — Một âm khác là Quyên. Xem Quyên."
+            ],
+            "compound_words": {
+                "悁急": "quyến cấp"
+            }
+        }
+    }
+}

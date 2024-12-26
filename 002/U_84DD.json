@@ -1,0 +1,68 @@
+{
+    "character": "蓝",
+    "details": {
+        "Âm Hán Việt": [
+            "lam"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹监"
+        ],
+        "Nét bút": [
+            "一丨丨丨丨ノ一丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "TLIT (廿中戈廿)"
+        ],
+        "Unicode": [
+            "U+84DD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lā ㄌㄚ",
+            "lán ㄌㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lam",
+            "trôm"
+        ],
+        "Âm Quảng Đông": [
+            "laam4"
+        ]
+    },
+    "meanings": {
+        "lam": {
+            "Từ điển phổ thông": [
+                "màu xanh lam",
+                "cây chàm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 藍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Màu lam, màu xanh da trời;",
+                "Cây chàm;",
+                "【伽藍】già lam [qiélán] Xem 伽 (2) (bộ 亻);",
+                "[Lán] (Họ) Lam Xem 藍 [la]."
+            ],
+            "compound_words": {
+                "宝蓝": "bảo lam",
+                "伽蓝": "già lam",
+                "苤蓝": "phiết lam"
+            }
+        }
+    }
+}

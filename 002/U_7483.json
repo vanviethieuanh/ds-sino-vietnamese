@@ -1,0 +1,97 @@
+{
+    "character": "璃",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly",
+            "lê"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩离"
+        ],
+        "Nét bút": [
+            "一一丨一丶一ノ丶フ丨丨フフ丶"
+        ],
+        "Thương Hiệt": [
+            "MGYUB (一土卜山月)"
+        ],
+        "Unicode": [
+            "U+7483"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lī ㄌㄧ",
+            "lí ㄌㄧˊ"
+        ],
+        "Âm Nôm": [
+            "lê",
+            "li",
+            "ly"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Hàn": [
+            "리"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Lưu li” 琉璃: xem “lưu” 琉."
+            ],
+            "compound_words": {
+                "琉璃": "lưu li"
+            }
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "(xem: pha ly 玻璃, lưu ly 琉璃)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lưu li 琉璃 một thứ ngọc quý ở Tây vực."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 玻璃 [bolí]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Lưu li 琉璃 — Cũng đọc Lê, xem Pha lê 玻璃."
+            ],
+            "compound_words": {
+                "琉璃": "lưu ly",
+                "玻璃": "pha ly"
+            }
+        },
+        "lê": {
+            "Từ điển phổ thông": [
+                "(xem: pha ly 玻璃, lưu ly 琉璃)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 玻璃 [bolí]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Pha lê 玻璃."
+            ],
+            "compound_words": {
+                "玻璃": "pha lê"
+            }
+        }
+    }
+}

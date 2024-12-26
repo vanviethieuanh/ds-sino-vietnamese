@@ -1,0 +1,95 @@
+{
+    "character": "蘄",
+    "details": {
+        "Âm Hán Việt": [
+            "cần",
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "thảo 艸 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹⿰單斤"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一丨フ一丨フ一一一丨ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "TRJL (廿口十中)"
+        ],
+        "Unicode": [
+            "U+8604"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "qí ㄑㄧˊ",
+            "qín ㄑㄧㄣˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "ケ (ke)",
+            "キン (kin)",
+            "ゴン (gon)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "cần": {
+            "Từ điển Trần Văn Chánh": [
+                "(dược) Đương quy, sơn cần."
+            ]
+        },
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Động) Mong cầu. § Thông 'kì' 祈. ◇Trang Tử 莊子: 'Trạch trĩ thập bộ nhất trác, bách bộ nhất ẩm, bất kì súc hồ phiền trung' 澤雉十步一啄, 百步一飲, 不蘄畜乎樊中 (Dưỡng sanh chủ 養生主) Con trĩ ở chầm mười bước một lần mổ, trăm bước một lần uống, không hề mong được nuôi ở trong lồng.",
+                "(Danh) Hàm thiết ngựa.",
+                "(Danh) Cỏ thơm. Có thuyết nói là một loại cỏ thuốc. § Xem 'kì chỉ' 蘄茝.",
+                "(Danh) Tên gọi tắt của đất 'Kì Xuân' 蘄春 (tỉnh Hồ Bắc).",
+                "(Danh) Họ 'Kì'."
+            ],
+            "compound_words": {
+                "蘄茝": "kì chỉ"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "(xem: kỳ chỉ 蘄茝,蕲茝)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kì chỉ 蔪茝. Xem chữ chỉ 茝.",
+                "Cầu.",
+                "Hàm thiết ngựa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cầu xin, khẩn cầu (như 祈, bộ 示);",
+                "Hàm thiếc ngựa;",
+                "【蘄茞】kì chỉ [qízhê] Một thứ cỏ thơm;",
+                "[Qí] Tên huyện (thuộc tỉnh Hồ Bắc, Trung Quốc): 蘄春縣 Huyện Kì Xuân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung các loài cỏ — Cái hàm ngựa — Mong mỏi. Dùng như chữ Kì 祈."
+            ],
+            "compound_words": {
+                "蘄茝": "kỳ chỉ"
+            }
+        }
+    }
+}

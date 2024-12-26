@@ -1,0 +1,92 @@
+{
+    "character": "訂",
+    "details": {
+        "Âm Hán Việt": [
+            "đính"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngôn 言 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言丁"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YRMN (卜口一弓)"
+        ],
+        "Unicode": [
+            "U+8A02"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dìng ㄉㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "dính",
+            "đính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "deng6",
+            "ding3",
+            "ding6"
+        ]
+    },
+    "meanings": {
+        "đính": {
+            "Từ điển phổ thông": [
+                "thoả thuận hai bên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bàn định, bàn luận. ◎Như: 'đính định' 訂定 bàn định.",
+                "(Động) Sửa cho đúng, cải chính. ◎Như: 'hiệu đính' 校訂 sửa chữa, tu chính.",
+                "(Động) Giao ước, kí kết. ◎Như: 'đính giao' 訂交 kết làm bạn, 'đính ước' 訂約 giao ước. ◇Cao Bá Quát 高伯适: 'Đế đính kí sơ tằng' 締訂記初曾 (Châu Long tự ức biệt 珠龍寺憶別) Nhớ trước đã từng cùng nhau kết làm bạn.",
+                "(Động) Đóng (sách). ◎Như: 'đính thư' 訂書 đóng sách."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hai bên bàn bạc với nhau cho kĩ rồi mới thoả thuận gọi là đính. Như đính giao 訂交 đính kết làm bạn, đính ước 訂約. Ðính chính lại sách vở cho đúng gọi là hiệu đính 校訂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kí kết: 訂合同 Kí hợp đồng;",
+                "Đặt hàng trước: 訂報 Đặt báo; 預訂 Đặt trước;",
+                "Sửa chữa: 訂正 Đính chính; 修訂 Sửa chữa lại;",
+                "Đóng (sách): 訂書機 Máy đóng sách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bàn bạc để quyết định — Thuế má — Đánh thuế — Sửa đổi lại. Chẳng hạn Hiệu đính — Định trước với nhau về vấn đề gì. Chẳng hạn Đính hôn."
+            ],
+            "compound_words": {
+                "改訂": "cải đính",
+                "預訂": "dự đính",
+                "訂正": "đính chính",
+                "訂交": "đính giao",
+                "訂婚": "đính hôn",
+                "訂日": "đính nhật",
+                "訂做": "đính tố",
+                "訂約": "đính ước",
+                "校訂": "hiệu đính",
+                "效訂": "hiệu đính",
+                "考訂": "khảo đính",
+                "修訂": "tu đính"
+            }
+        }
+    }
+}

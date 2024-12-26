@@ -1,0 +1,89 @@
+{
+    "character": "獰",
+    "details": {
+        "Âm Hán Việt": [
+            "nanh",
+            "ninh"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨寧"
+        ],
+        "Nét bút": [
+            "ノフノ丶丶フ丶フ丶丶丨フ丨丨一一丨"
+        ],
+        "Thương Hiệt": [
+            "KHJPN (大竹十心弓)"
+        ],
+        "Unicode": [
+            "U+7370"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "níng ㄋㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "nanh",
+            "ninh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)",
+            "ネイ (nei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わる.い (waru.i)"
+        ],
+        "Âm Hàn": [
+            "녕",
+            "영"
+        ],
+        "Âm Quảng Đông": [
+            "ning4"
+        ]
+    },
+    "meanings": {
+        "nanh": {
+            "Từ điển phổ thông": [
+                "(xem: tranh ninh, tranh nanh 猙獰)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Hung ác, hung dữ. ◎Như: 'diện mục tranh nanh' 面目猙獰 mặt mày hung ác.",
+                "(Tính) Mạnh, hung mãnh. ◇Quán Hưu 貫休: 'Túy lai bả bút nanh như hổ' 醉來把筆獰如虎 (Quan hoài tố thảo thư ca 觀懷素草書歌) Cơn say đến cầm bút mạnh như cọp.",
+                "(Động) Rống, gầm, thét. ◇Vi Trang 韋莊: 'Hồng bái phong xuy họa hổ nanh' 紅旆風吹畫虎獰 (Quan chiết tây tướng phủ điền du 觀浙西相府畋遊) Cờ hồng gió thổi vẽ hổ gầm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tranh nanh 猙獰 dữ tợn (mặt mũi dữ tợn)."
+            ],
+            "compound_words": {
+                "猙獰": "tranh nanh"
+            }
+        },
+        "ninh": {
+            "Từ điển phổ thông": [
+                "(xem: tranh ninh, tranh nanh 猙獰)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Bộ mặt) dữ tợn, hung ác, ghê tởm. Xem 猙獰 [zheng níng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ dữ dội độc ác. Cũng nói: Tranh ninh 猙獰."
+            ],
+            "compound_words": {
+                "猙獰": "tranh ninh"
+            }
+        }
+    }
+}

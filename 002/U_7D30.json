@@ -1,0 +1,107 @@
+{
+    "character": "細",
+    "details": {
+        "Âm Hán Việt": [
+            "tế"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mịch 糸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹田"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "VFW (女火田)"
+        ],
+        "Unicode": [
+            "U+7D30"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xì ㄒㄧˋ"
+        ],
+        "Âm Nôm": [
+            "té",
+            "tế",
+            "tí",
+            "tới"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほそ.い (hoso.i)",
+            "ほそ.る (hoso.ru)",
+            "こま.か (koma.ka)",
+            "こま.かい (koma.kai)"
+        ],
+        "Âm Hàn": [
+            "세"
+        ],
+        "Âm Quảng Đông": [
+            "sai3"
+        ]
+    },
+    "meanings": {
+        "tế": {
+            "Từ điển phổ thông": [
+                "nhỏ bé",
+                "tinh xảo",
+                "mịn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nhỏ, mịn. ◎Như: 'tế sa' 細沙 cát mịn, 'tế diêm' 細鹽 muối hạt nhỏ.",
+                "(Tính) Thon, mảnh mai. ◎Như: 'tế trúc' 細竹 trúc mảnh mai. ◇Hàn Phi Tử 韓非子: 'Sở Linh Vương hiếu tế yêu, nhi quốc trung đa ngạ nhân' 楚靈王好細腰, 而國中多餓人 (Nhị bính 二柄) Sở Linh Vương thích eo thon, nên trong nước nhiều người nhịn đói.",
+                "(Tính) Tỉ mỉ, tinh xảo. ◎Như: 'tế từ' 細瓷 đồ sứ tinh xảo, 'tế bố' 細布 vải mịn.",
+                "(Tính) Vụn vặt, nhỏ nhặt. ◎Như: 'tế tiết' 細節 tiểu tiết, 'tế cố' 細故 cớ vụn vặt, chuyện nhỏ nhặt.",
+                "(Phó) Kĩ càng, cặn kẽ. ◇Đỗ Phủ 杜甫: 'Tế khan vật lí tu hành lạc' 細看物理須行樂 (Khúc giang 曲江) Xem xét cặn kẽ các lí lẽ sự vật, thì nên vui chơi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhỏ, như tế cố 細故 cớ nhỏ, tế ngữ 細語 nói nhỏ.",
+                "Tinh tế, tế mật, trái lại với thô suất gọi là tế."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhỏ, bé, mịn, tinh vi: 一 條細鐵絲 Một sợi dây thép nhỏ; 磨得很細 Xay rất mịn; 細語 Nói nhỏ; 細故 Cớ nhỏ;",
+                "Kĩ càng, cặn kẽ, tỉ mỉ, tinh tế: 她問 得很細 Cô ta hỏi rất cặn kẽ; 深耕細作 Cày sâu bừa kĩ; 細看物理須行樂 Nghĩ kĩ việc đời thì nên vui chơi cũng phải (Đỗ Phủ: Khúc giang);",
+                "Tằn tiện: 他過日子很細 Ông ta sống rất tằn tiện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé. Nhỏ nhặt — Tinh xảo kĩ lưỡng."
+            ],
+            "compound_words": {
+                "亞細亞": "á tế á",
+                "薄物細故": "bạc vật tế cố",
+                "奸細": "gian tế",
+                "苛細": "hà tế",
+                "煩細": "phiền tế",
+                "細胞": "tế bào",
+                "細故": "tế cố",
+                "細目": "tế mục",
+                "細人": "tế nhân",
+                "細輭": "tế nhuyễn",
+                "細膩": "tế nị",
+                "細作": "tế tác",
+                "細細": "tế tế",
+                "細節": "tế tiết",
+                "細碎": "tế toái",
+                "細微": "tế vi",
+                "精細": "tinh tế",
+                "仔細": "tử tế"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "螞",
+    "details": {
+        "Âm Hán Việt": [
+            "mã"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trùng 虫 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫馬"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "LISQF (中戈尸手火)"
+        ],
+        "Unicode": [
+            "U+879E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ",
+            "mǎ ㄇㄚˇ",
+            "mà ㄇㄚˋ"
+        ],
+        "Âm Nôm": [
+            "mã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バ (ba)",
+            "メ (me)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "maa1",
+            "maa5",
+            "maa6"
+        ]
+    },
+    "meanings": {
+        "mã": {
+            "Từ điển phổ thông": [
+                "(xem: mã hoàng 螞蟥)",
+                "(xem: mã nghĩ 螞蟻)",
+                "con nhặng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Mã hoàng' 螞蟥 đỉa trâu.",
+                "(Danh) 'Mã nghĩ' 螞蟻 kiến càng.",
+                "(Danh) 'Mã lang' 螞螂 chuồn chuồn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một thứ đỉa lớn, tục gọi là mã hoàng 螞蟥.",
+                "Mã nghĩ 螞蟻 con kiến càng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【螞螂】mã lang [malang] (đph) Chuồn chuồn. Xem 螞 [mă], [mà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con kiến. Loài kiến. Cũng nói là Mã nghị 螞蟻."
+            ],
+            "compound_words": {
+                "螞蟥": "mã hoàng",
+                "螞蟻": "mã nghĩ"
+            }
+        }
+    }
+}

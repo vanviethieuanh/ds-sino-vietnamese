@@ -1,0 +1,80 @@
+{
+    "character": "蛋",
+    "details": {
+        "Âm Hán Việt": [
+            "đản"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱疋虫"
+        ],
+        "Nét bút": [
+            "フ丨一ノ丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NOLMI (弓人中一戈)"
+        ],
+        "Unicode": [
+            "U+86CB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đản"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daan2",
+            "daan6"
+        ]
+    },
+    "meanings": {
+        "đản": {
+            "Từ điển phổ thông": [
+                "quả trứng",
+                "một tộc Mán ở phương Nam (Trung Quốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trứng các loài chim, loài bò sát. § Tục dùng như chữ 'noãn' 卵. ◎Như: 'kê đản' 雞蛋 trứng gà, 'xà đản' 蛇蛋 trứng rắn, 'hạ đản' 下蛋 đẻ trứng.",
+                "(Danh) Lượng từ: cục, viên, hòn, vật gì có hình như trái trứng. ◎Như: 'thạch đản' 石蛋 hòn đá, 'lư phẩn đản' 驢糞蛋 cục phân lừa.",
+                "(Danh) Tiếng để nhục mạ, khinh chê. ◎Như: 'xuẩn đản' 蠢蛋 đồ ngu xuẩn, 'bổn đản' 笨蛋 đồ ngu, 'hồ đồ đản' 糊塗蛋 thứ hồ đồ.",
+                "(Danh) § Thông 'đản' 蜑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một giống mán ở phương nam. Xem chữ 蜑.",
+                "Tục dùng như chữ noãn 卵 trứng các loài chim."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trứng: 鴨蛋 Trứng vịt;",
+                "Cục, hòn: 石蛋 Hòn đá; 驢類蛋兒 (Cục) cứt lừa; 泥蛋兒 Hòn đất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trứng của loài chim gà. Chẳng hạn Kê đản ( trứng gà )."
+            ],
+            "compound_words": {
+                "蛋白": "đản bạch",
+                "蛋糕": "đản cao"
+            }
+        }
+    }
+}

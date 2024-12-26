@@ -1,0 +1,96 @@
+{
+    "character": "輿",
+    "details": {
+        "Âm Hán Việt": [
+            "dư"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "xa 車 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨一一一丨フ一一一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HXJC (竹重十金)"
+        ],
+        "Unicode": [
+            "U+8F3F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "dư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨ (yo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かご (kago)",
+            "こし (koshi)"
+        ],
+        "Âm Hàn": [
+            "여"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "dư": {
+            "Từ điển phổ thông": [
+                "xe chở đồ",
+                "trời đất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Xe. ◎Như: 'xả chu tựu dư' 舍舟就輿 bỏ thuyền đi xe. ◇Đạo Đức Kinh 道德經: 'Tuy hữu chu dư, vô sở thừa' 雖有舟輿, 無所乘之 Tuy có thuyền xe nhưng không ngồi.",
+                "(Danh) Kiệu. ◎Như: 'kiên dư' 肩輿 kiệu khiêng bằng đòn trên vai, 'thải dư' 彩輿 kiệu hoa.",
+                "(Danh) Đất, địa vực, cương vực. ◎Như: 'dư đồ' 輿圖 địa đồ, 'kham dư' 堪輿 (1) trời đất, (2) coi địa lí, xem phong thủy.",
+                "(Động) Khiêng, vác. ◇Hán Thư 漢書: 'Dư kiệu nhi du lĩnh, tha chu nhi nhập thủy' 輿轎而逾領, 舟而入水 (Nghiêm Trợ truyện 嚴助傳) Khiêng kiệu vượt núi, kéo thuyền xuống nước.",
+                "(Tính) Công chúng, số đông người. ◎Như: 'dư luận' 輿論 lời bàn, ý kiến công chúng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái xe tải đồ, cái kiệu khiêng bằng đòn gọi là kiên dư 肩輿.",
+                "Ðất rộng mà chở cả muôn vật, nên gọi đất là địa dư 地輿. Trời đất gọi là kham dư 堪輿 kham là nói về đạo trời, dư là nói về đạo đất, vì thế kẻ xem đất (thầy địa lí) cũng gọi là kham dư.",
+                "Số đông, lời bàn luận của số đông người gọi là dư luận 輿論."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xe, xe cộ: 舍輿登舟 Bỏ xe xuống thuyền;",
+                "Kiệu: 彩輿 Kiệu hoa;",
+                "Đất: 輿地 Địa dư; 輿圖 Địa đồ;",
+                "Công chúng, số đông người. 【輿論】dư luận [yúlùn] Dư luận: 社會輿論 Dư luận xã hội; 國際輿論 Dư luận quốc tế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái xe — Cái kiệu. Còn gọi là Kiên dư ( xe trên vai, tức kiệu khiên trên vai ) — Chuyên chở — Đám đông — Đất đai. Chẳng hạn Địa dư — Chức quan nhỏ."
+            ],
+            "compound_words": {
+                "板輿": "bản dư",
+                "平肩輿": "bình kiên dư",
+                "柩輿": "cữu dư",
+                "輿地志": "dư địa chí",
+                "輿丁": "dư đinh",
+                "輿圖": "dư đồ",
+                "輿論": "dư luận",
+                "輿車": "dư xa",
+                "大南輿地志約編": "đại nam dư địa chí ước biên",
+                "地輿": "địa dư",
+                "同慶輿地志略": "đồng khánh dư địa chí lược",
+                "鸞輿": "loan dư",
+                "箯輿": "tiên dư"
+            }
+        }
+    }
+}

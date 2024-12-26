@@ -1,0 +1,94 @@
+{
+    "character": "液",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡夜"
+        ],
+        "Nét bút": [
+            "丶丶一丶一ノ丨ノフ丶丶"
+        ],
+        "Thương Hiệt": [
+            "EYOK (水卜人大)"
+        ],
+        "Unicode": [
+            "U+6DB2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ",
+            "yè ㄜˋ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dịch",
+            "giá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エキ (eki)"
+        ],
+        "Âm Hàn": [
+            "액"
+        ],
+        "Âm Quảng Đông": [
+            "jat6",
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "chất lỏng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Chất lỏng. ◎Như: “thóa dịch” 唾液 nước bọt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước dãi, phàm những chất lỏng chảy đều gọi là dịch thể 液體.",
+                "Ngâm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chất lỏng, nước, dịch: 溶液 Dung dịch;",
+                "(văn) Ngâm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước. Chất lỏng — Nước trong cây cối hoặc trái cây — Ép nước, vắt nước."
+            ],
+            "compound_words": {
+                "液果": "dịch quả",
+                "液态": "dịch thái",
+                "液態": "dịch thái",
+                "液体": "dịch thể",
+                "液體": "dịch thể",
+                "溶液": "dung dịch",
+                "膽液": "đảm dịch",
+                "汗液": "hãn dịch",
+                "血液": "huyết dịch",
+                "玉液": "ngọc dịch",
+                "黏液": "niêm dịch",
+                "唾液": "thoá dịch",
+                "精液": "tinh dịch",
+                "酸液": "toan dịch",
+                "腸液": "trường dịch",
+                "雲液": "vân dịch",
+                "胃液": "vị dịch"
+            }
+        }
+    }
+}

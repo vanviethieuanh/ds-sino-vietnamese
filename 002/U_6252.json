@@ -1,0 +1,111 @@
+{
+    "character": "扒",
+    "details": {
+        "Âm Hán Việt": [
+            "bái",
+            "bát"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thủ 手 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘八"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QC (手金)"
+        ],
+        "Unicode": [
+            "U+6252"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bā ㄅㄚ",
+            "pā ㄆㄚ",
+            "pá ㄆㄚˊ"
+        ],
+        "Âm Nôm": [
+            "bái",
+            "bát",
+            "bắt",
+            "bít",
+            "bớt",
+            "vát",
+            "xẹp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)",
+            "ハツ (hatsu)",
+            "ハチ (hachi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬ.く (nu.ku)",
+            "さば.く (saba.ku)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "paa1",
+            "paa4"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển phổ thông": [
+                "vin, bíu, vịn",
+                "đào, cào, móc ra, bới ra",
+                "bóc, lột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bóc, lột. ◎Như: 'bả quất tử bái khai lai cật' 把橘子扒開來吃 bóc quýt ra ăn.",
+                "(Động) Cởi, tháo. ◎Như: 'bái y thường' 扒衣裳 cởi áo.",
+                "(Động) Đào. ◎Như: 'bái thổ' 扒土 đào đất, 'bái đê' 扒堤 đào đê.",
+                "(Động) Vịn, víu. ◎Như: 'bái trước lan can' 扒著欄杆 vịn lan can.",
+                "(Động) Móc ra, bới ra. ◎Như: 'bái đỗng' 扒洞 moi hang.",
+                "(Động) Lượm, thu thập. ◇Tây du kí 西遊記: 'Ngộ Không đạo: Nhĩ tiểu thì bất tằng tại ngã diện tiền bái sài?' 悟空道: 你小時不曾在我面前扒柴? (Đệ thập tứ hồi) (Tôn) Ngộ Không nói: Ông hồi nhỏ đã không từng lượm củi trước mặt ta sao?",
+                "(Động) Gãi, cào. ◎Như: 'bái dưỡng nhi' 扒癢兒 gãi ngứa.",
+                "(Động) Nép, nằm ép mình xuống.",
+                "(Động) Bò, trèo, leo. ◇Tam quốc diễn nghĩa 三國演義: 'Đỗng nội Mạnh Hoạch tông đảng, giai khí cung khuyết, bái san việt lĩnh nhi tẩu' 洞內孟獲宗黨, 皆棄宮闕, 扒山越嶺而走 (Đệ cửu thập hồi) Trong động bè bọn Mạnh Hoạch, đều bỏ cả cung điện, trèo non vượt núi chạy trốn.",
+                "(Động) Ninh (dùng lửa nhỏ nấu nhừ). ◎Như: 'bái bạch thái' 扒白菜 ninh cải trắng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Móc ra, bới ra.",
+                "Tục gọi kẻ trộm kẻ cắp là bái thủ 扒手."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cào: 扒稻草 Cào rơm;",
+                "Ninh: 扒羊肉 Ninh thịt dê (cừu). Xem 扒 [ba]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhổ lên — Một âm khác là Bát. Xem vần Bát."
+            ],
+            "compound_words": {
+                "扒拉": "bái lạp",
+                "扒手": "bái thủ"
+            }
+        },
+        "bát": {
+            "Từ điển phổ thông": [
+                "cào cỏ, cào rơm",
+                "ninh, hầm"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh. Đánh phá — Trừ đi. Diệt đi, Đẩy — Một âm khác là Bái."
+            ]
+        }
+    }
+}

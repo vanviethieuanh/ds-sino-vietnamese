@@ -1,0 +1,95 @@
+{
+    "character": "秧",
+    "details": {
+        "Âm Hán Việt": [
+            "ương",
+            "ưởng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoà 禾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾央"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDLBK (竹木中月大)"
+        ],
+        "Unicode": [
+            "U+79E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yāng ㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "ương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なえ (nae)"
+        ],
+        "Âm Hàn": [
+            "앙"
+        ],
+        "Âm Quảng Đông": [
+            "joeng1"
+        ]
+    },
+    "meanings": {
+        "ương": {
+            "Từ điển phổ thông": [
+                "gieo mạ",
+                "cây lúa non"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mạ, mầm lúa. ◎Như: 'sáp ương' 插秧 cắm mạ. ◇Lỗ Tấn 魯迅: 'Thôn ngoại đa thị thủy điền, mãn nhãn thị tân ương đích nộn lục' 村外多是水田, 滿眼是新秧的嫩綠 (A Q chánh truyện 阿Q正傳) Ngoài làng có nhiều ruộng nước, ngập mắt một màu xanh mướt của mạ non.",
+                "(Danh) Mầm non của thực vật. ◎Như: 'thụ ương' 樹秧 mầm cây, 'hoa ương' 花秧 mầm hoa.",
+                "(Danh) Giống của động vật, con vật mới sinh. ◎Như: 'ngư ương' 魚秧 cá giống, 'trư ương' 豬秧 heo giống.",
+                "(Danh) Dây, thân của một thực vật. ◎Như: 'đậu ương' 豆秧 dây đậu, 'qua ương' 瓜秧 thân cây dưa.",
+                "(Động) Nuôi giống, chăm bón. ◎Như: 'ương kỉ khỏa hoa' 秧幾棵花 gây giống vài cây hoa, 'ương nhất bồn ngư' 秧一盆魚 ương một bồn cá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mạ, gieo hạt thóc giống mọc mầm lên gọi là ương.",
+                "Phàm loài cây cỏ mới mọc, có thể san trồng đi chỗ khác được đều gọi là ương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây mạ, cây non, cây giống: 樹秧 Cây con; 插秧 Cấy mạ;",
+                "Dây: 白薯秧 Dây khoai;",
+                "Con giống v.v.: 魚秧 Cá con, cá giống;",
+                "Ương cây, gây giống: 秧幾棵樹 Ương mấy cây con; 秧了一池魚 Gây một ao cá giống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây mạ ( lúa mới sinh ) — Chỉ chung cây cối mới sinh — Cây con mới gây được, để đem trồng nơi khác — Cá con mới nở — Ta còn hiểu là trồng và giữ gìn các loại cây con."
+            ],
+            "compound_words": {
+                "拔秧": "bạt ương",
+                "魚秧": "ngư ương",
+                "秧穰": "ưởng nhương"
+            }
+        },
+        "ưởng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ưởng nhương 秧穰 — Một âm là Ương. Xem Ương."
+            ],
+            "compound_words": {
+                "秧穰": "ưởng nhương"
+            }
+        }
+    }
+}

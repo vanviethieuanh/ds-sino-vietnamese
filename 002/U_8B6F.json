@@ -1,0 +1,82 @@
+{
+    "character": "譯",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "ngôn 言 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言睪"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ丨丨一一丨一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YRWLJ (卜口田中十)"
+        ],
+        "Unicode": [
+            "U+8B6F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dịch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わけ (wake)"
+        ],
+        "Âm Hàn": [
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "thông dịch từ tiếng nước ngoài",
+                "diễn dịch kinh sách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chuyển hoán tiếng nước này sang tiếng nước khác. ◎Như: 'tự động phiên dịch cơ' 自動翻譯機 máy phiên dịch tự động.",
+                "(Động) Giải thích, diễn giải nghĩa kinh sách. ◎Như: 'tuyên dịch giới luật' 宣譯戒律 diễn giải giới luật."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phiên dịch, dịch: 把越文譯成中文 Dịch từ Việt văn sang Trung văn;",
+                "Diễn dịch (nghĩa kinh sách)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chuyển từ tiếng nước này sang tiếng nước khác mà vẫn giữ nguyên ý nghĩa."
+            ],
+            "compound_words": {
+                "迻譯": "di dịch",
+                "譯音": "dịch âm",
+                "譯本": "dịch bản",
+                "譯導": "dịch đạo",
+                "譯義": "dịch nghĩa",
+                "翻譯": "phiên dịch",
+                "通譯": "thông dịch",
+                "摘譯": "trích dịch"
+            }
+        }
+    }
+}

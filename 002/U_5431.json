@@ -1,0 +1,89 @@
+{
+    "character": "吱",
+    "details": {
+        "Âm Hán Việt": [
+            "chi",
+            "khi",
+            "tư"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口支"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "RJE (口十水)"
+        ],
+        "Unicode": [
+            "U+5431"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhī ㄓ",
+            "zī ㄗ"
+        ],
+        "Âm Nôm": [
+            "chê",
+            "chi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "キ (ki)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi1"
+        ]
+    },
+    "meanings": {
+        "chi": {
+            "Từ điển phổ thông": [
+                "tiếng kêu chiêm chiếp, chíu chít"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) Tiếng kêu của con vật nhỏ hoặc tiếng nhỏ mà sắc nhọn. ◎Như: “tiểu tùng thử tại thụ thượng chi chi đích khiếu” 小松鼠在樹上吱吱的叫 con sóc trên cây kêu chít chít."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chi chi  吱吱 tiếng kêu.",
+                "Tất chi 嗶吱 đồ dệt bằng lông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Két, kẹt (tiếng mở cửa) 門吱地一聲開了 Tiếng mở cửa kêu két một cái. Xem 嗞 [zi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Chi chi 吱吱."
+            ],
+            "compound_words": {
+                "吱吱": "chi chi",
+                "咯吱": "khách chi"
+            }
+        },
+        "khi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng khò khè do đàm kéo lên cổ — Một âm khác là Chi."
+            ]
+        },
+        "tư": {
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Chít, chít chít, chim chíp (chiêm chiếp): 老鼠嗞的一聲跑了 Chuột nhắt kêu chít một tiếng rồi chạy mất; 小鳥嗞地叫 Chim non kêu chiêm chiếp. Xem 吱 [zhi]."
+            ]
+        }
+    }
+}

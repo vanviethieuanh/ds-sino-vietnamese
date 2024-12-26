@@ -1,0 +1,96 @@
+{
+    "character": "唱",
+    "details": {
+        "Âm Hán Việt": [
+            "xướng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口昌"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "RAA (口日日)"
+        ],
+        "Unicode": [
+            "U+5531"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chàng ㄔㄤˋ"
+        ],
+        "Âm Nôm": [
+            "sướng",
+            "xang",
+            "xắng",
+            "xướng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とな.える (tona.eru)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "coeng3"
+        ]
+    },
+    "meanings": {
+        "xướng": {
+            "Từ điển phổ thông": [
+                "kêu lên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hát, ca. ◎Như: 'xướng ca' 唱歌 ca hát, 'hợp xướng' 合唱 hợp ca. ◇Nguyễn Trãi 阮廌: 'Ngư ca tam xướng yên hồ khoát' 漁歌三唱烟湖闊 (Chu trung ngẫu thành 舟中偶成) Chài ca mấy khúc, khói hồ rộng mênh mông.",
+                "(Động) Kêu, gọi to. ◎Như: 'xướng danh' 唱名 gọi tên.",
+                "(Động) Đề ra, phát khởi. § Thông 'xướng' 倡.",
+                "(Danh) Chỉ chung thi từ, ca khúc. ◎Như: 'tuyệt xướng' 絕唱, 'tiểu xướng' 小唱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hát.",
+                "Xướng, hát trước để cho người ta hoạ gọi là xướng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hát: 唱一支歌 Hát một bài; 跟著大家唱 Hát theo mọi người;",
+                "Hát trước, xướng lên trước, đề xướng;",
+                "Gọi, (gà) gáy: 唱名 Gọi tên, xướng danh; 雞唱三遍 Gà đã gáy ba đợt rồi;",
+                "[Chàng] (Họ) Xướng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Xướng 倡."
+            ],
+            "compound_words": {
+                "伴唱": "bạn xướng",
+                "歌唱": "ca xướng",
+                "高唱": "cao xướng",
+                "提唱": "đề xướng",
+                "合唱": "hợp xướng",
+                "起唱": "khởi xướng",
+                "騶唱": "sô xướng",
+                "酬唱": "thù xướng",
+                "首唱": "thủ xướng",
+                "唱歌": "xướng ca",
+                "唱喏": "xướng nhạ",
+                "唱籍": "xướng tịch"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "岛",
+    "details": {
+        "Âm Hán Việt": [
+            "đảo"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sơn 山 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノフ丶フ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "PYSU (心卜尸山)"
+        ],
+        "Unicode": [
+            "U+5C9B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dǎo ㄉㄠˇ"
+        ],
+        "Âm Nôm": [
+            "đảo"
+        ],
+        "Âm Quảng Đông": [
+            "dou2"
+        ]
+    },
+    "meanings": {
+        "đảo": {
+            "Từ điển phổ thông": [
+                "hòn đảo, gò"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'đảo' 島.",
+                "Giản thể của chữ 島."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ đảo 島."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 島"
+            ],
+            "compound_words": {
+                "半岛": "bán đảo",
+                "冰岛": "băng đảo",
+                "岛国": "đảo quốc",
+                "岛屿": "đảo tự"
+            }
+        }
+    }
+}

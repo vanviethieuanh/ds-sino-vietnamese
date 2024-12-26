@@ -1,0 +1,108 @@
+{
+    "character": "遞",
+    "details": {
+        "Âm Hán Việt": [
+            "đái",
+            "đãi",
+            "đệ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "sước 辵 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶虒"
+        ],
+        "Nét bút": [
+            "ノノ丨一フノ一フノフ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YHYU (卜竹卜山)"
+        ],
+        "Unicode": [
+            "U+905E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ",
+            "dì ㄉㄧˋ"
+        ],
+        "Âm Nôm": [
+            "đệ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわ.る (kawa.ru)",
+            "たがいに (tagaini)"
+        ],
+        "Âm Hàn": [
+            "체"
+        ],
+        "Âm Quảng Đông": [
+            "dai6"
+        ]
+    },
+    "meanings": {
+        "đái": {
+            "Từ điển trích dẫn": [
+                "(Động) Đưa, chuyển. ◎Như: 'truyền đệ' 傳遞 chuyển giao. ◇Thủy hử truyện 水滸傳: 'Lâm Xung hoài trung thủ thư đệ thượng' 林沖懷中取書遞上 (Đệ thập nhất hồi) Lâm Xung rút trong người bức thư đệ lên.",
+                "(Phó) Thay đổi, thay nhau. ◇Lã Thị Xuân Thu 呂氏春秋: 'Thử quốc sở dĩ đệ hưng đệ phế dã' 此國所以遞興廢遞也 Đó là cái khiến cho nước này (thay nhau) lúc hưng lúc phế.",
+                "(Phó) Lần lượt, theo thứ tự. ◎Như: 'đệ tiến' 遞進 lần lượt tiến lên.",
+                "Một âm là 'đái'. (Động) Xúm quanh, vây quanh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thay đổi, lần lượt.",
+                "Một âm là đái. Xúm quanh."
+            ]
+        },
+        "đãi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vây quanh. Vòng quanh — Một âm khác là Đệ. Xem Đệ."
+            ]
+        },
+        "đệ": {
+            "Từ điển phổ thông": [
+                "đưa, chuyển, giao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đưa, chuyển. ◎Như: 'truyền đệ' 傳遞 chuyển giao. ◇Thủy hử truyện 水滸傳: 'Lâm Xung hoài trung thủ thư đệ thượng' 林沖懷中取書遞上 (Đệ thập nhất hồi) Lâm Xung rút trong người bức thư đệ lên.",
+                "(Phó) Thay đổi, thay nhau. ◇Lã Thị Xuân Thu 呂氏春秋: 'Thử quốc sở dĩ đệ hưng đệ phế dã' 此國所以遞興廢遞也 Đó là cái khiến cho nước này (thay nhau) lúc hưng lúc phế.",
+                "(Phó) Lần lượt, theo thứ tự. ◎Như: 'đệ tiến' 遞進 lần lượt tiến lên.",
+                "Một âm là 'đái'. (Động) Xúm quanh, vây quanh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thay đổi, lần lượt.",
+                "Một âm là đái. Xúm quanh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đưa, chuyển: 請你把書遞給我 Anh đưa hộ quyển sách cho tôi; 傳遞 Chuyển giao;",
+                "Lần lượt, theo thứ tự: 遞進 Lần lượt tiến lên, tiến dần lên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thay đổi. Thay nhau. Luân phiên — Truyền đi. Đưa đi — Một âm là Đãi."
+            ],
+            "compound_words": {
+                "轉遞": "chuyển đệ",
+                "遞代": "đệ đại",
+                "遞交": "đệ giao",
+                "遞進": "đệ tiến",
+                "遞信": "đệ tín",
+                "迢遞": "điều đệ",
+                "呈遞": "trình đệ",
+                "傳遞": "truyền đệ"
+            }
+        }
+    }
+}

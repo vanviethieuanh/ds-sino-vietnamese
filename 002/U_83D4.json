@@ -1,0 +1,79 @@
+{
+    "character": "菔",
+    "details": {
+        "Âm Hán Việt": [
+            "bặc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹服"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ一一フ丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "TBSE (廿月尸水)"
+        ],
+        "Unicode": [
+            "U+83D4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ",
+            "fú ㄈㄨˊ"
+        ],
+        "Âm Nôm": [
+            "phục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホク (hoku)",
+            "フク (fuku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "だいこん (daikon)"
+        ],
+        "Âm Hàn": [
+            "복"
+        ],
+        "Âm Quảng Đông": [
+            "baak6",
+            "fuk6"
+        ]
+    },
+    "meanings": {
+        "bặc": {
+            "Từ điển phổ thông": [
+                "rau cải"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Lô bặc” 蘆菔, cũng viết là “la bặc” 蘿菔 hay 蘿蔔. Xem “la” 蘿."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lô bặc 蘆菔 rau cải. Có khi gọi là la bặc 蘿菔 hay 蘿蔔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 萊菔 [láifú]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Lai bặc 萊菔. Vần Lai."
+            ],
+            "compound_words": {
+                "蘿菔": "la bặc",
+                "萊菔": "lai bặc"
+            }
+        }
+    }
+}

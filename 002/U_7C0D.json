@@ -1,0 +1,86 @@
+{
+    "character": "簍",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "trúc 竹 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮婁"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "HLWV (竹中田女)"
+        ],
+        "Unicode": [
+            "U+7C0D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jù ㄐㄩˋ",
+            "lǒu ㄌㄡˇ",
+            "lǔ ㄌㄨˇ"
+        ],
+        "Âm Nôm": [
+            "lâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ル (ru)",
+            "ロウ (rō)"
+        ],
+        "Âm Hàn": [
+            "루"
+        ],
+        "Âm Quảng Đông": [
+            "lau5"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "cái sọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sọt, giỏ có lỗ, bện bằng tre hoặc cành kinh 荊. ◎Như: 'tự chỉ lâu' 字紙簍 sọt rác để vứt giấy (đã viết chữ rồi).",
+                "(Danh) Lượng từ: đơn vị dùng cho đồ vật đựng trong sọt. ◎Như: 'nhất lâu hương tiêu' 一簍香蕉 một sọt chuối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái sọt, có khi đọc là chữ lũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sọt, gùi: 字紙簍兒 Sọt rác, sọt đựng giấy loại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lồng đan bằng tre để đựng đồ vật hoặc gà, vịt, chim."
+            ]
+        },
+        "lũ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Sọt, giỏ có lỗ, bện bằng tre hoặc cành kinh 荊. ◎Như: 'tự chỉ lâu' 字紙簍 sọt rác để vứt giấy (đã viết chữ rồi).",
+                "(Danh) Lượng từ: đơn vị dùng cho đồ vật đựng trong sọt. ◎Như: 'nhất lâu hương tiêu' 一簍香蕉 một sọt chuối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái sọt, có khi đọc là chữ lũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sọt, gùi: 字紙簍兒 Sọt rác, sọt đựng giấy loại."
+            ]
+        }
+    }
+}

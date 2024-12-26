@@ -1,0 +1,80 @@
+{
+    "character": "舵",
+    "details": {
+        "Âm Hán Việt": [
+            "đà"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "chu 舟 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟它"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶丶丶フノフ"
+        ],
+        "Thương Hiệt": [
+            "HYJP (竹卜十心)"
+        ],
+        "Unicode": [
+            "U+8235"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "duò ㄉㄨㄛˋ",
+            "tuó ㄊㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "đà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)",
+            "タ (ta)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かじ (kaji)"
+        ],
+        "Âm Hàn": [
+            "타"
+        ],
+        "Âm Quảng Đông": [
+            "to4"
+        ]
+    },
+    "meanings": {
+        "đà": {
+            "Từ điển phổ thông": [
+                "bánh lái thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bánh lái (trên thuyền, máy bay...). § Cũng như 'đà' 柁. ◎Như: 'phương hướng đà' 方向舵 bộ phận lái phương hướng.",
+                "(Danh) Tỉ dụ phương châm hoặc dẫn đạo. ◎Như: 'bả ác trụ nhĩ nhân sanh chi đà' 把握住你人生之舵 lấy dùng làm kim chỉ nam cho đời anh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ đà 柁, cái bánh lái thuyền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bánh lái, tay lái;",
+                "Sự chỉ huy, sự điều khiển, sự lãnh đạo. Xem 柁 [tuó]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lái thuyền, bánh lái thuyền."
+            ],
+            "compound_words": {
+                "把舵": "bả đà",
+                "舵工": "đà công"
+            }
+        }
+    }
+}

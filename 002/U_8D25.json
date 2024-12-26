@@ -1,0 +1,81 @@
+{
+    "character": "败",
+    "details": {
+        "Âm Hán Việt": [
+            "bại"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰贝攵"
+        ],
+        "Nét bút": [
+            "丨フノ丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BOOK (月人人大)"
+        ],
+        "Unicode": [
+            "U+8D25"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ"
+        ],
+        "Âm Nôm": [
+            "bại"
+        ],
+        "Âm Quảng Đông": [
+            "baai6"
+        ]
+    },
+    "meanings": {
+        "bại": {
+            "Từ điển phổ thông": [
+                "hỏng, đổ nát",
+                "thua, thất bại",
+                "phá",
+                "ôi, thối, úa, héo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 敗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 敗"
+            ],
+            "compound_words": {
+                "败北": "bại bắc",
+                "败笔": "bại bút",
+                "败局": "bại cục",
+                "败坏": "bại hoại",
+                "败兴": "bại hứng",
+                "败落": "bại lạc",
+                "败类": "bại loại",
+                "败露": "bại lộ",
+                "败退": "bại thoái",
+                "败绩": "bại tích",
+                "败诉": "bại tố",
+                "败阵": "bại trận",
+                "败仗": "bại trượng",
+                "败胃": "bại vị",
+                "打败": "đả bại",
+                "颓败": "đồi bại",
+                "击败": "kích bại",
+                "失败": "thất bại",
+                "挫败": "toả bại"
+            }
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "character": "熱",
+    "details": {
+        "Âm Hán Việt": [
+            "nhiệt"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "hoả 火 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱埶灬"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶一丨一ノフ丶丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "GIF (土戈火)"
+        ],
+        "Unicode": [
+            "U+71B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "rè ㄖㄜˋ"
+        ],
+        "Âm Nôm": [
+            "nhét",
+            "nhiệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネツ (netsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.い (atsu.i)"
+        ],
+        "Âm Hàn": [
+            "열"
+        ],
+        "Âm Quảng Đông": [
+            "jit6"
+        ]
+    },
+    "meanings": {
+        "nhiệt": {
+            "Từ điển phổ thông": [
+                "nóng",
+                "bị sốt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Độ nóng, sức nóng. ◎Như: 'phát nhiệt' 發熱 phát ra sức nóng, 'lãnh nhiệt' 冷熱 lạnh và nóng.",
+                "(Danh) Khí nóng, hơi nóng. ◇Dương Hùng 揚雄: 'Địa tàng kì nhiệt' 地藏其熱 (Giải trào 解嘲) Đất cất giữ khí nóng.",
+                "(Danh) Phong trào, cơn sốt (cái gì đang được người ta hâm mộ, ham chuộng).",
+                "(Danh) Họ 'Nhiệt'.",
+                "(Tính) Nóng. ◎Như: 'nhiệt thiên' 熱天 trời mùa nóng, ngày hè, 'nhiệt thủy' 熱水 nước nóng, 'nhiệt khí' 熱氣 khí nóng.",
+                "(Tính) Nồng hậu, hăng hái, sốt sắng. ◎Như: 'nhiệt trúng' 熱中 dốc cầu danh lợi, 'nhiệt tâm' 熱心 lòng sốt sắng.",
+                "(Tính) Được ưa thích, được ham chuộng, hấp dẫn. ◎Như: 'nhiệt môn hóa' 熱門貨 mặt hàng hấp dẫn, 'nhiệt môn học' 熱門學 môn học lôi cuốn.",
+                "(Động) Hâm. ◎Như: 'bả giá oản thang nã khứ tái nhiệt nhất hạ' 把這碗湯拿去再熱一下 đem bát canh hâm nóng lại một chút.",
+                "(Phó) Mạnh mẽ, dữ dội, nồng nàn. ◎Như: 'nhiệt luyến' 熱戀 mê say, 'nhiệt ái' 熱愛 yêu nồng nàn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nóng.",
+                "Nóng, sốt, như nhiệt trúng 熱中 nóng sốt cầu danh lợi, nhiệt tâm 熱心 sốt sắng, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nóng, nhiệt, bức: 天熱 Trời bức; 熱飯 Cơm nóng; 熱電廠 Nhà máy nhiệt điện;",
+                "Nấu, đun, hâm: 把菜熱一熱 Hâm thức ăn lại;",
+                "Nhiệt tình, hăng hái, sốt sắng, dốc lòng, nóng lòng: 熱心腸 Lòng tốt, sốt sắng; 熱中 Dốc cầu ( danh lợi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nóng ( như lửa đốt ) — Tính nóng nảy."
+            ],
+            "compound_words": {
+                "白熱燈": "bạch nhiệt đăng",
+                "急熱": "cấp nhiệt",
+                "狂熱": "cuồng nhiệt",
+                "加熱": "gia nhiệt",
+                "解熱": "giải nhiệt",
+                "寒熱": "hàn nhiệt",
+                "悶熱": "muộn nhiệt",
+                "鬧熱": "náo nhiệt",
+                "熱病": "nhiệt bệnh",
+                "熱狂": "nhiệt cuồng",
+                "熱度": "nhiệt độ",
+                "熱帶": "nhiệt đới",
+                "熱學": "nhiệt học",
+                "熱血": "nhiệt huyết",
+                "熱烈": "nhiệt liệt",
+                "熱力": "nhiệt lực",
+                "熱量": "nhiệt lượng",
+                "熱閙": "nhiệt náo",
+                "熱心": "nhiệt tâm",
+                "熱誠": "nhiệt thành",
+                "熱天": "nhiệt thiên",
+                "熱手": "nhiệt thủ",
+                "熱性": "nhiệt tính",
+                "熱情": "nhiệt tình",
+                "熱膓": "nhiệt trường",
+                "熱綫電話": "nhiệt tuyến điện thoại",
+                "發熱": "phát nhiệt",
+                "散熱": "tán nhiệt",
+                "親熱": "thân nhiệt",
+                "溼熱": "thấp nhiệt",
+                "暑熱": "thử nhiệt",
+                "炎熱": "viêm nhiệt",
+                "熾熱": "xí nhiệt"
+            }
+        }
+    }
+}

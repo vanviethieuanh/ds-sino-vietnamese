@@ -1,0 +1,97 @@
+{
+    "character": "斧",
+    "details": {
+        "Âm Hán Việt": [
+            "phủ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "cân 斤 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱父斤"
+        ],
+        "Nét bút": [
+            "ノ丶ノ丶ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "CKHML (金大竹一中)"
+        ],
+        "Unicode": [
+            "U+65A7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fǔ ㄈㄨˇ"
+        ],
+        "Âm Nôm": [
+            "buá",
+            "phủ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おの (ono)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu2"
+        ]
+    },
+    "meanings": {
+        "phủ": {
+            "Từ điển phổ thông": [
+                "cái rìu, cái búa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái búa (công cụ dùng để chặt cây, chặt củi...).",
+                "(Danh) Cái búa (khí cụ để giết người hoặc dùng trong hình phạt thời xưa). ◇Ban Bưu 班彪: 'Ngộ chiết túc chi hung, phục phủ việt chi tru' 遇折足之凶, 伏斧鉞之誅 (Vương mệnh luận 王命論) Mắc phải họa chặt chân, chịu giết vì búa rìu.",
+                "(Danh) Của dùng, phí dụng. ◎Như: 'tư phủ' 資斧 đồ tiêu dùng, cũng như ta nói củi nước vậy.",
+                "(Động) Sửa lại, tu bổ. ◎Như: 'phủ chính' 斧政 sửa lại cho đúng.",
+                "(Động) Dùng búa chặt, phá. ◇Liêu trai chí dị 聊齋志異: 'Công nộ, phủ kì môn' 公怒, 斧其門 (Tiểu Thúy 小翠) Ông giận, lấy búa phá cửa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái búa.",
+                "Của dùng, như tư phủ 資斧 đồ ăn dùng, cũng như ta nói củi nước vậy.",
+                "Sửa lại, như phủ chính 斧政 sửa lại cho đúng, đem văn chương của mình nhờ người sửa lại cho gọi là phủ chính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái rìu;",
+                "(văn) Chặt bằng rìu: 斧冰持作糜 Chặt vỡ tảng băng đem nấu cháo (Tào Tháo: Khổ hàn hành);",
+                "Cái phủ (một loại binh khí thời xưa);",
+                "(văn) Của để dùng: 資斧 Đồ để ăn dùng, củi nước;",
+                "(văn) Sửa lại. 【斧正】phủ chính [fưzhèng] (khiêm) Nhờ người khác chữa hộ bài văn. Cv. 斧政."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái rìu chặt cây — Dùng rìu mà chặt."
+            ],
+            "compound_words": {
+                "班門弄斧": "ban môn lộng phủ",
+                "斤斧": "cân phủ",
+                "大刀闊斧": "đại đao khoát phủ",
+                "刀斧": "đao phủ",
+                "刀斧手": "đao phủ thủ",
+                "斧斤": "phủ cân",
+                "斧質": "phủ chất",
+                "斧正": "phủ chính",
+                "斧头": "phủ đầu",
+                "斧頭": "phủ đầu",
+                "斧柯": "phủ kha",
+                "斧鉞": "phủ việt"
+            }
+        }
+    }
+}

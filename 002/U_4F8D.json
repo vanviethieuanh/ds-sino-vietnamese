@@ -1,0 +1,98 @@
+{
+    "character": "侍",
+    "details": {
+        "Âm Hán Việt": [
+            "thị"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 人 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻寺"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "OGDI (人土木戈)"
+        ],
+        "Unicode": [
+            "U+4F8D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "thị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)",
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さむらい (samurai)",
+            "はべ.る (habe.ru)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "si6"
+        ]
+    },
+    "meanings": {
+        "thị": {
+            "Từ điển phổ thông": [
+                "thân cận, gần gũi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trông nom, săn sóc, dưỡng. ◎Như: 'phục thị bệnh nhân yêu hữu nại tâm' 服侍病人要有耐心 săn sóc người bệnh cần phải có lòng nhẫn nại. ◇Lã Thị Xuân Thu 呂氏春秋: 'Nhân nhân chi đắc di, dĩ dưỡng tật thị lão dã' 仁人之得飴, 以養疾侍老也 (Dị dụng 異用).",
+                "(Động) Hầu hạ, phục dịch. ◎Như: 'thị tọa' 侍坐 ngồi hầu. ◇Thủy hử truyện 水滸傳: 'Thượng chí trụ trì Chân Nhân, hạ cập đạo đồng thị tòng' 上至住持真人,下及道童侍從 (Đệ nhất hồi) Trên thì có Chân Nhân trụ trì, dưới thì có các đạo đồng theo hầu.",
+                "(Danh) Người hầu. ◎Như: 'nội thị' 內侍 kẻ hầu trong, 'nữ thị' 女侍 người hầu gái.",
+                "(Danh) Nói tắt của 'thị sanh' 侍生: (1) Tiếng nhún mình của kẻ dưới nói với bề trên. (2) Người vào viện Hàn Lâm sau người ba khoa tự xưng là 'thị sanh'.",
+                "(Danh) Họ 'Thị'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hầu, như thị toạ 侍坐 ngồi hầu.",
+                "Kẻ hầu, như nội thị 內侍 kẻ hầu trong.",
+                "Lời nói nhún mình của kẻ dưới nói với bề trên, như thị sinh 侍生 vào hàn lâm sau người ba khoa thì tự xưng là thị sinh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hầu hạ, săn sóc: 服侍病人 Săn sóc người bệnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kẻ dưới theo hầu người trên — Hầu hạ."
+            ],
+            "compound_words": {
+                "姬侍": "cơ thị",
+                "內侍": "nội thị",
+                "侍讀": "thị độc",
+                "侍者": "thị giả",
+                "侍講": "thị giảng",
+                "侍候": "thị hậu",
+                "侍郎": "thị lang",
+                "侍立": "thị lập",
+                "侍女": "thị nữ",
+                "侍臣": "thị thần",
+                "侍婢": "thị tì",
+                "侍從": "thị tòng",
+                "侍卫": "thị vệ",
+                "侍衛": "thị vệ",
+                "侍衞": "thị vệ",
+                "侍宴": "thị yến"
+            }
+        }
+    }
+}

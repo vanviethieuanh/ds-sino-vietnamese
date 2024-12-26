@@ -1,0 +1,70 @@
+{
+    "character": "问",
+    "details": {
+        "Âm Hán Việt": [
+            "vấn"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "môn 門 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵门口"
+        ],
+        "Nét bút": [
+            "丶丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LSR (中尸口)"
+        ],
+        "Unicode": [
+            "U+95EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "vấn"
+        ],
+        "Âm Quảng Đông": [
+            "man6"
+        ]
+    },
+    "meanings": {
+        "vấn": {
+            "Từ điển phổ thông": [
+                "hỏi",
+                "tra xét",
+                "hỏi thăm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 問."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 問"
+            ],
+            "compound_words": {
+                "不问": "bất vấn",
+                "学问": "học vấn",
+                "拷问": "khảo vấn",
+                "疑问": "nghi vấn",
+                "访问": "phỏng vấn",
+                "审问": "thẩm vấn",
+                "追问": "truy vấn",
+                "慰问": "uý vấn",
+                "问题": "vấn đề"
+            }
+        }
+    }
+}

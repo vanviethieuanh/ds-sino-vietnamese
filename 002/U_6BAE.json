@@ -1,0 +1,85 @@
+{
+    "character": "殮",
+    "details": {
+        "Âm Hán Việt": [
+            "liễm",
+            "liệm"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹僉"
+        ],
+        "Nét bút": [
+            "一ノフ丶ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MNOMO (一弓人一人)"
+        ],
+        "Unicode": [
+            "U+6BAE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "liễm",
+            "lịm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おさ.める (osa.meru)"
+        ],
+        "Âm Hàn": [
+            "렴",
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "lim6"
+        ]
+    },
+    "meanings": {
+        "liễm": {
+            "Từ điển phổ thông": [
+                "liệm xác"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Liệm xác. ◇Hồng Lâu Mộng 紅樓夢: “Mang mệnh nhân thịnh liễm, tống vãng thành ngoại mai táng” 忙命人治買棺木盛殮, 送往城外埋葬 (Đệ lục thập thất hồi) Liền sai người khâm liệm trọng thể, đưa ra ngoài thành chôn cất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Liệm xác."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bọc thây người chết lại mà cho vào áo quan. Như chữ Liễm 㱨."
+            ]
+        },
+        "liệm": {
+            "Từ điển Trần Văn Chánh": [
+                "Đặt người chết vào áo quan, liệm xác: 入殮 Nhập liệm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bọc thây người chết để cho vào áo quan. Cũng đọc Liễm."
+            ],
+            "compound_words": {
+                "衾殮": "khâm liệm",
+                "入殮": "nhập liệm",
+                "裝殮": "trang liệm"
+            }
+        }
+    }
+}

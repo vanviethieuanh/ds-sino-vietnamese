@@ -1,0 +1,64 @@
+{
+    "character": "伦",
+    "details": {
+        "Âm Hán Việt": [
+            "luân"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻仑"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "OOP (人人心)"
+        ],
+        "Unicode": [
+            "U+4F26"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lún ㄌㄨㄣˊ"
+        ],
+        "Âm Nôm": [
+            "luân"
+        ],
+        "Âm Quảng Đông": [
+            "leon4"
+        ]
+    },
+    "meanings": {
+        "luân": {
+            "Từ điển phổ thông": [
+                "luân thường, đạo lý",
+                "loài, bực"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 倫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 倫"
+            ],
+            "compound_words": {
+                "巴比伦": "ba tỷ luân",
+                "哥伦比亚": "ca luân tỷ á",
+                "伦敦": "luân đôn",
+                "伦理": "luân lý"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "旦",
+    "details": {
+        "Âm Hán Việt": [
+            "đán"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhật 日 (+1 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱日一"
+        ],
+        "Nét bút": [
+            "丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "AM (日一)"
+        ],
+        "Unicode": [
+            "U+65E6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đán",
+            "đắn",
+            "đến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "ダン (dan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あき.らか (aki.raka)",
+            "あきら (akira)",
+            "ただし (tadashi)",
+            "あさ (asa)",
+            "あした (ashita)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daan3"
+        ]
+    },
+    "meanings": {
+        "đán": {
+            "Từ điển phổ thông": [
+                "buổi sớm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sớm, buổi sáng. ◎Như: 'xuân đán' 春旦 buổi sáng mùa xuân.",
+                "(Danh) Ngày. ◎Như: 'nguyên đán' 元旦 ngày đầu năm.",
+                "(Danh) Ngày (nào đó). ◎Như: 'nhất đán địch chí' 一旦敵至 một mai giặc đến.",
+                "(Danh) Vai tuồng đóng đàn bà. ◎Như: 'lão đán' 老旦 vai bà già, 'hoa đán' 花旦 vai nữ, 'vũ đán' 武旦 vai đàn bà có võ nghệ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sớm, lúc trời mới sáng gọi là đán.",
+                "Nói sự thốt nhiên không lường được, như nhất đán địch chí 一旦敵至 một mai giặc đến.",
+                "Vai tuồng đóng đàn bà gọi là đán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sáng sớm: 坐以待旦 Ngồi chờ sáng; 旦暮從事于農 Sớm tối lo việc ruộng nương (Thương Quân thư);",
+                "Ngày: 元旦 Ngày đầu năm, Tết dương lịch; 一旦 Một ngày nào, một mai, một sớm;",
+                "(Vai) đào: 武旦 Đào võ; 花旦 Đào hoa; 老旦 Đào già."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buổi sáng sớm — Vai trò đàn bà con gái trên sân khấu — Tên người, tức Trần Nguyên Đán, danh sĩ đời Trần (1320-1390), hiệu là Băng Hồ, là bằng tôn của Trần Quang Khải và ngoại tổ của Nguyễn Trãi, làm quan đời Trần Phế Đế. Năm 1385, biết Hồ Quý Li sắp chiếm ngôi nhà Trần, ông cáo quan lui về Côn Sơn tỉnh Hải Dương, thường cùng vua Trần Nghệ Tông ngâm vịnh. tác phẩm có bài thơ bằng chữ Hán là Băng Hồ ngọc hác tập."
+            ],
+            "compound_words": {
+                "平旦": "bình đán",
+                "正旦": "chính đán",
+                "旦旦": "đán đán",
+                "旦暮": "đán mộ",
+                "旦日": "đán nhật",
+                "旦夕": "đán tịch",
+                "昧旦": "muội đán",
+                "元旦": "nguyên đán",
+                "月旦": "nguyệt đán",
+                "月旦評": "nguyệt đán bình",
+                "一旦": "nhất đán"
+            }
+        }
+    }
+}

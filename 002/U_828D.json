@@ -1,0 +1,80 @@
+{
+    "character": "芍",
+    "details": {
+        "Âm Hán Việt": [
+            "thược"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thảo 艸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹勺"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "TPI (廿心戈)"
+        ],
+        "Unicode": [
+            "U+828D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dì ㄉㄧˋ",
+            "Què ㄑㄩㄝˋ",
+            "sháo ㄕㄠˊ",
+            "shuò ㄕㄨㄛˋ",
+            "xiào ㄒㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "thược"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャク (shaku)"
+        ],
+        "Âm Hàn": [
+            "작",
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "coek3",
+            "zoek3"
+        ]
+    },
+    "meanings": {
+        "thược": {
+            "Từ điển phổ thông": [
+                "(xem: thược dược 芍药)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Thược dược” 芍葯 cây thược dược, hoa đẹp, củ làm thuốc. Thứ trắng gọi là “bạch thược” 白芍, thứ đỏ gọi là “xích thược” 赤芍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thược dược 芍葯 cây thược dược, hoa đẹp, củ làm thuốc. thứ trắng gọi là bạch thược 白芍, thứ đỏ gọi là xích thược 赤芍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【芍葯】thược dược [sháoyao] (thực) Cây (hoa) thược dược."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây nhỏ, có hoa đẹp, cũng gọi là Thược dược. Truyện  Hoa Tiên : » Giàn vi giá thược lần qua cẩm tường «."
+            ],
+            "compound_words": {
+                "白芍": "bạch thược",
+                "芍药": "thược dược",
+                "芍藥": "thược dược"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "character": "續",
+    "details": {
+        "Âm Hán Việt": [
+            "tục"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "mịch 糸 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹賣"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一丨一丨フ丨丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFGWC (女火土田金)"
+        ],
+        "Unicode": [
+            "U+7E8C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xù ㄒㄩˋ"
+        ],
+        "Âm Nôm": [
+            "tục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゾク (zoku)",
+            "ショク (shoku)",
+            "コウ (kō)",
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つづ.く (tsuzu.ku)",
+            "つづ.ける (tsuzu.keru)",
+            "つぐ.ない (tsugu.nai)"
+        ],
+        "Âm Hàn": [
+            "속"
+        ],
+        "Âm Quảng Đông": [
+            "zuk6"
+        ]
+    },
+    "meanings": {
+        "tục": {
+            "Từ điển phổ thông": [
+                "tiếp tục, tiếp theo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nối liền, tiếp theo. ◎Như: 'liên tục' 連續 nối liền, 'tiếp tục' 接續 tiếp theo, 'tục huyền' 續絃 nối dây đàn đã đứt (ý nói lấy vợ kế). ◇Pháp Hoa Kinh 法華經: 'Tương tục khổ bất đoạn' 相續苦不斷 (Phương tiện phẩm đệ nhị 方便品第二) Khổ đau nối tiếp nhau không đứt.",
+                "(Động) Nối dõi, kế thừa. ◎Như: 'tự tục' 嗣 續 nối dõi.",
+                "(Động) Thêm vào, bổ sung. ◎Như: 'lô tử cai tục môi liễu' 爐子該續煤了 lò cần thêm than vào.",
+                "(Danh) Thể lệ, thứ tự phải làm theo. ◎Như: 'thủ tục' 手續.",
+                "(Danh) Sự cũ lập lại, việc cũ tái diễn. ◇Sử Kí 史記: 'Nhi thính tế thuyết, dục tru hữu công chi nhân, thử vong Tần chi tục nhĩ' 而聽細說, 欲誅有功之人, 此亡秦之續耳 (Hạng Vũ bổn kỉ 項羽本紀) Nay lại nghe lời ton hót (của bọn tiểu nhân), định giết người có công. Như thế là noi theo con đường diệt vong của Tần.",
+                "(Danh) Họ 'Tục'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Liền nối, đứt rồi lại nối liền gọi là tục. Như liên tục 連續, tiếp tục 接續. Nay gọi lấy vợ kế là dao tục 膠續 hay tục huyền 續弦, nói ý như đàn đứt lại căng dây khác vậy.",
+                "Nối đời, như tự tục 嗣續 con cháu.",
+                "Người nổi lên sau gọi là tục."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiếp theo, nối liền, nối tiếp: 繼續 Tiếp tục; 連續 Liên tục;",
+                "(văn) Nối dõi, nối đời: 嗣續 Con cháu;",
+                "Thêm vào: 爐子該續煤了 Lò cần thêm than vào;",
+                "[Xù] (Họ) Tục."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nối lại — Nối tiếp."
+            ],
+            "compound_words": {
+                "賡續": "canh tục",
+                "狗尾續貂": "cẩu vĩ tục tiêu",
+                "延續": "duyên tục",
+                "大越史記本紀續編": "đại việt sử kí bản kỉ tục biên",
+                "大越史記續編": "đại việt sử kí tục biên",
+                "繼續": "kế tục",
+                "鏡海續吟": "kính hải tục ngâm",
+                "絡續": "lạc tục",
+                "連續": "liên tục",
+                "陸續": "lục tục",
+                "手續": "thủ tục",
+                "接續": "tiếp tục",
+                "持續": "trì tục",
+                "續本": "tục bản",
+                "續版": "tục bản",
+                "續編": "tục biên",
+                "續絃": "tục huyền",
+                "續傳奇": "tục truyền kì",
+                "嗣續": "tự tục",
+                "越史續編": "việt sử tục biên"
+            }
+        }
+    }
+}

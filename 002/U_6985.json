@@ -1,0 +1,74 @@
+{
+    "character": "榅",
+    "details": {
+        "Âm Hán Việt": [
+            "uấn",
+            "ôn",
+            "ốt"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mộc 木 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木昷"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "DABT (木日月廿)"
+        ],
+        "Unicode": [
+            "U+6985"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wēn ㄨㄣ",
+            "yún ㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "ốp"
+        ],
+        "Âm Quảng Đông": [
+            "wan1",
+            "wat1"
+        ]
+    },
+    "meanings": {
+        "uấn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ tươi tốt xum xuê của cây cối — Xem Ốt."
+            ]
+        },
+        "ôn": {
+            "Từ điển phổ thông": [
+                "(xem: ôn bột 榲桲,榅桲)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là 榲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 榲"
+            ],
+            "compound_words": {
+                "榅桲": "ôn bột"
+            }
+        },
+        "ốt": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rễ cây — Một âm là Uấn. Xem Uấn."
+            ]
+        }
+    }
+}

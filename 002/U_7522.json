@@ -1,0 +1,132 @@
+{
+    "character": "產",
+    "details": {
+        "Âm Hán Việt": [
+            "sản"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sinh 生 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱文⿸厂生"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一ノノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "YHHQM (卜竹竹手一)"
+        ],
+        "Unicode": [
+            "U+7522"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chǎn ㄔㄢˇ"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "caan2"
+        ]
+    },
+    "meanings": {
+        "sản": {
+            "Từ điển phổ thông": [
+                "sinh đẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vật phẩm do người làm ra hoặc từ thiên nhiên sinh ra. ◎Như: 'quáng sản' 礦產, 'thổ sản' 土產, 'hải sản' 海產, 'đặc sản' 特產.",
+                "(Danh) Của cải, nhà đất. ◎Như: 'tài sản' 財產 tiền của, 'bất động sản' 不動產 nhà cửa, ruộng nương, đất đai.",
+                "(Danh) Họ 'Sản'.",
+                "(Động) Sinh, đẻ. ◎Như: 'sản tử' 產子 sinh con, 'sản noãn' 產卵 đẻ trứng.",
+                "(Động) Tạo ra, làm ra (tự nhiên có hoặc do người trồng trọt). ◎Như: 'xuất sản' 出產 chế tạo ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sinh đẻ.",
+                "Chỗ sinh ra, như thổ sản 土產 vật ấy chỉ đất ấy mới có.",
+                "Của cải, như ruộng đất nhà cửa, đồ đạc để cho người ta nương đó mà sống đều gọi là sản nghiệp 產業.",
+                "Ðàn bà đẻ gọi là sản phụ 產婦, sau khi đẻ rồi mà ốm gọi là sản hậu 產後, v.v.",
+                "Một thứ âm nhạc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sinh đẻ: 早 產 Đẻ non; 魚產卵 Cá đẻ trứng;",
+                "Sản xuất: 沿海盛產魚蝦 Vùng ven biển sản xuất tôm cá;",
+                "Của cải: 財產 Tài sản; 家產 Gia tài;",
+                "Sản phẩm: 土產 Thổ sản; 特產 Đặc sản;",
+                "(văn) Một loại âm nhạc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đẻ con. Td: Sinh sản — Làm ra. Td: Sản xuất — Của cải. Thành ngữ: Khuynh gia bại sản ( cửa nhà nghiêng đổ của cải sạch không )."
+            ],
+            "compound_words": {
+                "安產": "an sản",
+                "敗產": "bại sản",
+                "半產": "bán sản",
+                "保產": "bảo sản",
+                "不動產": "bất động sản",
+                "公產": "công sản",
+                "共產": "cộng sản",
+                "遺產": "di sản",
+                "田產": "điền sản",
+                "動產": "động sản",
+                "家產": "gia sản",
+                "海產": "hải sản",
+                "恆產": "hằng sản",
+                "護產": "hộ sản",
+                "有產": "hữu sản",
+                "鑛產": "khoáng sản",
+                "傾家敗產": "khuynh gia bại sản",
+                "理產": "lí sản",
+                "流產": "lưu sản",
+                "難產": "nan sản",
+                "農產": "nông sản",
+                "破產": "phá sản",
+                "分產": "phân sản",
+                "副產品": "phó sản phẩm",
+                "官產": "quan sản",
+                "均產": "quân sản",
+                "軍產": "quân sản",
+                "國產": "quốc sản",
+                "產婆": "sản bà",
+                "產育": "sản dục",
+                "產後": "sản hậu",
+                "產科": "sản khoa",
+                "產母": "sản mẫu",
+                "產門": "sản môn",
+                "產額": "sản ngạch",
+                "產業": "sản nghiệp",
+                "產品": "sản phẩm",
+                "產婦": "sản phụ",
+                "產殖": "sản thực",
+                "產前": "sản tiền",
+                "產物": "sản vật",
+                "產出": "sản xuất",
+                "生產": "sinh sản",
+                "生產費": "sinh sản phí",
+                "畜產": "súc sản",
+                "財產": "tài sản",
+                "集產": "tập sản",
+                "胎產": "thai sản",
+                "土產": "thổ sản",
+                "水產": "thuỷ sản",
+                "小產": "tiểu sản",
+                "私產": "tư sản",
+                "資產": "tư sản",
+                "物產": "vật sản",
+                "無產": "vô sản"
+            }
+        }
+    }
+}

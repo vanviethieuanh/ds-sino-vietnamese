@@ -1,0 +1,89 @@
+{
+    "character": "僄",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "phiếu",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhân 人 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻票"
+        ],
+        "Nét bút": [
+            "ノ丨一丨フ丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OMWF (人一田火)"
+        ],
+        "Unicode": [
+            "U+50C4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "biāo ㄅㄧㄠ",
+            "piào ㄆㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "xiếu",
+            "xìu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かる.い (karu.i)",
+            "かろ.んずる (karo.n zuru)",
+            "すばや.い (subaya.i)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "piu3"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển phổ thông": [
+                "thân thể tráng kiện",
+                "dáng vẻ tươi tắn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Thân thể tráng kiện;",
+                "Dáng vẻ tươi tắn."
+            ]
+        },
+        "phiếu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhẹ nhàng — Mau lẹ."
+            ],
+            "compound_words": {
+                "僄輕": "phiếu khinh"
+            }
+        },
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "thân thể tráng kiện",
+                "dáng vẻ tươi tắn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Thân thể tráng kiện;",
+                "Dáng vẻ tươi tắn."
+            ]
+        }
+    }
+}

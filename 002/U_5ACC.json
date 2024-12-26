@@ -1,0 +1,91 @@
+{
+    "character": "嫌",
+    "details": {
+        "Âm Hán Việt": [
+            "hiềm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nữ 女 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女兼"
+        ],
+        "Nét bút": [
+            "フノ一丶ノ一フ一一丨丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VTXC (女廿重金)"
+        ],
+        "Unicode": [
+            "U+5ACC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xián ㄒㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "hem",
+            "hiềm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きら.う (kira.u)",
+            "きら.い (kira.i)",
+            "いや (iya)"
+        ],
+        "Âm Hàn": [
+            "혐"
+        ],
+        "Âm Quảng Đông": [
+            "jim4"
+        ]
+    },
+    "meanings": {
+        "hiềm": {
+            "Từ điển phổ thông": [
+                "sự nghi ngờ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngờ vực, nghi. ◎Như: 'hiềm nghi' 嫌疑 nghi ngờ.",
+                "(Động) Không bằng lòng, oán hận, chán ghét. ◎Như: 'hiềm bần ái phú' 嫌貧愛富 ghét nghèo ưa giàu.",
+                "(Động) Gần với, gần như. ◇Tuân Tử 荀子: 'Nhất triêu nhi táng kì nghiêm thân, nhi sở dĩ tống táng chi giả bất ai bất kính, tắc hiềm ư cầm thú hĩ' 一朝而喪其嚴親, 而所以送葬之者不哀不敬, 則嫌於禽獸矣 (Lễ luận 禮論) Một mai mất cha mất mẹ, mà mình tống táng không thương không kính, thì cũng gần như cầm thú vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngờ, cái gì hơi giống sự thực khiến cho người ngờ gọi là hiềm nghi 嫌疑.",
+                "Không được thích ý cũng gọi là hiềm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiềm nghi, nghi ngờ, ngờ vực: 避嫌 Tránh sự hiềm nghi;",
+                "Hiềm, hiềm thù, hiềm ghét, không thích ý: 清釋前嫌 Làm tiêu tan mọi hiềm oán trước kia; 這種布很結實，就嫌太厚了 Thứ vải này rất bền, chỉ hiềm cái dày quá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghi ngờ — Không vừa lòng — Ghét bỏ."
+            ],
+            "compound_words": {
+                "舊嫌": "cựu hiềm",
+                "嫌恶": "hiềm ác",
+                "嫌惡": "hiềm ác",
+                "嫌隙": "hiềm khích",
+                "嫌忌": "hiềm kị",
+                "嫌疑": "hiềm nghi",
+                "說好嫌歹": "thuyết hảo hiềm đãi",
+                "避嫌": "tị hiềm",
+                "私嫌": "tư hiềm"
+            }
+        }
+    }
+}

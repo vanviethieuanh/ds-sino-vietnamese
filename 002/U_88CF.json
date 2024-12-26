@@ -1,0 +1,91 @@
+{
+    "character": "裏",
+    "details": {
+        "Âm Hán Việt": [
+            "lí",
+            "lý"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "y 衣 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴衣里"
+        ],
+        "Nét bút": [
+            "丶一丨フ一一丨一一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "YWGV (卜田土女)"
+        ],
+        "Unicode": [
+            "U+88CF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǐ ㄌㄧˇ"
+        ],
+        "Âm Nôm": [
+            "lí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うら (ura)"
+        ],
+        "Âm Hàn": [
+            "리",
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "lei5",
+            "leoi5"
+        ]
+    },
+    "meanings": {
+        "lí": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng như “lí” 裡."
+            ],
+            "compound_words": {
+                "包裏": "bao lí",
+                "表裏": "biểu lí",
+                "心裏": "tâm lí"
+            }
+        },
+        "lý": {
+            "Từ điển phổ thông": [
+                "ở trong",
+                "lần lót áo"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lần lót áo.",
+                "Trong, cái gì ở trong đều gọi là lí."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lớp vải lót bên trong (áo, chăn), lớp lót, mặt trái của vải vóc: 被裏兒 Mặt trong vỏ chăn; 衣服裏兒 Vải lót quần áo; 這面是裏兒 Mặt này là trái;",
+                "Phía trong: 裏屋 Nhà trong; 裏圈 Vòng trong;",
+                "Trong: 手裏 Trong tay; 箱子裏 Trong hòm; 話裏有話 Nói bóng;",
+                "Nơi, bên, đằng, phía: 這裏 Nơi đây; 那裏 Bên kia; 頭裏 Đằng trước;",
+                "[Lê] (Họ) Lí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ở bên trong áo — Trong. Bên trong — Cái bào thai — Trong bạch thoại có nghĩa là nơi chốn, chỗ."
+            ],
+            "compound_words": {
+                "那裏": "na lý"
+            }
+        }
+    }
+}

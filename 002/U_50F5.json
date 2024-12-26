@@ -1,0 +1,89 @@
+{
+    "character": "僵",
+    "details": {
+        "Âm Hán Việt": [
+            "cương",
+            "thương"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nhân 人 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻畺"
+        ],
+        "Nét bút": [
+            "ノ丨一丨フ一丨一一丨フ一丨一一"
+        ],
+        "Thương Hiệt": [
+            "OMWM (人一田一)"
+        ],
+        "Unicode": [
+            "U+50F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiāng ㄐㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "cương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たお.れる (tao.reru)"
+        ],
+        "Âm Hàn": [
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "goeng1"
+        ]
+    },
+    "meanings": {
+        "cương": {
+            "Từ điển phổ thông": [
+                "ngã",
+                "cứng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngã nhào. ◇Sử Kí 史記: 'Dương cương nhi khí tửu' 佯僵而棄酒 (Tô Tần truyện 蘇秦傳) Giả vờ ngã mà đổ mất rượu.",
+                "(Động) Nghiêm sắc mặt. ◎Như: 'tha lão thị cương trước kiểm, nhượng nhân bất cảm thân cận' 他老是僵著臉, 讓人不敢親近 ông ta nghiêm mặt lại, làm cho người khác không dám thân gần.",
+                "(Phó) Cứng nhắc, cứng đờ, thiếu linh hoạt. ◎Như: 'đống cương' 凍僵 lạnh cóng, 'cương ngạnh' 僵硬 cứng nhắc.",
+                "(Phó) Căng thẳng, bế tắc, không hòa hợp. ◎Như: 'biệt bả sự tình lộng cương liễu' 別把事情弄僵了 đừng làm cho sự tình căng thẳng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngã.",
+                "Cứng, như đống cương 凍僵 giá rét cứng đờ ra, có khi viết là cương 殭."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chết cứng, chết khô."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhả xuống — Chết cứng — Không nhúc nhích."
+            ],
+            "compound_words": {
+                "僵局": "cương cục",
+                "僵立": "cương lập",
+                "僵硬": "cương ngạnh",
+                "僵臥": "cương ngoạ"
+            }
+        },
+        "thương": {
+            "Từ điển Trần Văn Chánh": [
+                "Chết cứng, chết khô."
+            ]
+        }
+    }
+}

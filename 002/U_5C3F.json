@@ -1,0 +1,92 @@
+{
+    "character": "尿",
+    "details": {
+        "Âm Hán Việt": [
+            "niếu",
+            "niệu",
+            "tuy"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thi 尸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸尸水"
+        ],
+        "Nét bút": [
+            "フ一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "SE (尸水)"
+        ],
+        "Unicode": [
+            "U+5C3F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "niào ㄋㄧㄠˋ",
+            "suī ㄙㄨㄟ"
+        ],
+        "Âm Nôm": [
+            "niệu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ニョウ (nyō)"
+        ],
+        "Âm Hàn": [
+            "뇨",
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "niu6",
+            "seoi1"
+        ]
+    },
+    "meanings": {
+        "niếu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiểu tiện ( đái ) — Nước tiểu — Cũng đọc Niệu."
+            ],
+            "compound_words": {
+                "糖尿": "đường niếu",
+                "尿白": "niếu bạch",
+                "尿道": "niếu đạo",
+                "尿管": "niếu quản",
+                "尿素": "niếu tố"
+            }
+        },
+        "niệu": {
+            "Từ điển phổ thông": [
+                "nước giải, nước đái"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nước đái (nước giải).",
+                "(Động) Đi đái, đi tiểu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nước đái (nước giải)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đi đái, đi tiểu. Như 尿 [niào] (bộ 尸)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Niếu. Xem Niếu."
+            ]
+        },
+        "tuy": {
+            "Từ điển Trần Văn Chánh": [
+                "Nước đái, nước tiểu. Xem 尿 [niào]."
+            ]
+        }
+    }
+}

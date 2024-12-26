@@ -1,0 +1,94 @@
+{
+    "character": "哑",
+    "details": {
+        "Âm Hán Việt": [
+            "a",
+            "nha",
+            "á",
+            "ách"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口亚"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "RMTC (口一廿金)"
+        ],
+        "Unicode": [
+            "U+54D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "è",
+            "yā ㄧㄚ",
+            "yǎ ㄧㄚˇ"
+        ],
+        "Âm Nôm": [
+            "á"
+        ],
+        "Âm Quảng Đông": [
+            "aa1",
+            "aa2"
+        ]
+    },
+    "meanings": {
+        "a": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 啞"
+            ],
+            "compound_words": {
+                "哑呕": "nha ẩu",
+                "哑哑": "nha nha"
+            }
+        },
+        "nha": {
+            "Từ điển phổ thông": [
+                "(xem: nha ẩu 啞嘔,哑呕)",
+                "(xem: nha nha 啞啞,哑哑)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 啞."
+            ],
+            "compound_words": {
+                "哑呕": "nha ẩu",
+                "哑哑": "nha nha"
+            }
+        },
+        "á": {
+            "Từ điển phổ thông": [
+                "câm",
+                "khàn, khản"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 啞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 啞"
+            ]
+        },
+        "ách": {
+            "Từ điển phổ thông": [
+                "tiếng cười sằng sặc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 啞."
+            ]
+        }
+    }
+}

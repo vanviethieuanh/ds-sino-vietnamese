@@ -1,0 +1,103 @@
+{
+    "character": "賤",
+    "details": {
+        "Âm Hán Việt": [
+            "tiện"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰貝戔"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一フノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BCII (月金戈戈)"
+        ],
+        "Unicode": [
+            "U+8CE4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tiện"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "ゼン (zen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いや.しい (iya.shii)",
+            "いや.しむ (iya.shimu)",
+            "しず (shizu)",
+            "やす.い (yasu.i)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "zin6"
+        ]
+    },
+    "meanings": {
+        "tiện": {
+            "Từ điển phổ thông": [
+                "rẻ mạt",
+                "nghèo hèn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Hèn, mọn. ◇Hậu Hán Thư 後漢書: 'Bần tiện chi tri bất khả vong' 貧賤之知不可忘 (Tống Hoằng truyện 宋弘傳) Bạn biết nhau thuở nghèo hèn không thể bỏ quên. ◇Tây du kí 西遊記: 'Dưỡng mã giả, nãi hậu sanh tiểu bối, hạ tiện chi dịch, khởi thị đãi ngã đích?' 養馬者, 乃後生小輩, 下賤之役, 豈是待我的? (Đệ tứ hồi) Nuôi ngựa là việc của bọn trẻ con, hèn hạ, sao lại đối xử với ta như thế?",
+                "(Tính) Rẻ. ◎Như: 'tiện giá' 賤價 giá rẻ.",
+                "(Tính) Lời nói nhún mình. ◎Như: 'tiện danh' 賤名 cái tên hèn mọn của tôi, 'tiện nội' 賤內 người vợ hèn mọn của tôi.",
+                "(Danh) Họ 'Tiện'.",
+                "(Động) Khinh rẻ. ◇Sử Kí 史記:: 'Hiền hiền tiện bất tiếu' 賢賢賤不肖 (Thái Sử Công tự tự 太史公自序) Tôn người hiền, khinh kẻ xấu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hèn.",
+                "Khinh rẻ.",
+                "Lời nói nhún mình, như tiện danh 賤名 cái tên hèn mọn của tôi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rẻ: 賤賣 Bán rẻ; 賤價 Giá rẻ;",
+                "Hèn, hèn hạ, thấp hèn, hèn mọn: 貧賤 Nghèo hèn; 甘心當奴才，眞賤！ Cam tâm làm nô lệ, thật là hèn hạ!;",
+                "Khinh bỉ, khinh rẻ, xem thường: 人皆賤之 Ai cũng khinh bỉ;",
+                "(cũ) Hèn mọn của tôi (lời tự khiêm): 賤女 Tiện nữ; 賤技 Tài nghề hèn mọn (của tôi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thấp hèn — Coi là thấp hèn — Tiếng khiêm xưng, khi nói về mình."
+            ],
+            "compound_words": {
+                "貧賤": "bần tiện",
+                "貧賤交": "bần tiện giao",
+                "孤賤": "cô tiện",
+                "低賤": "đê tiện",
+                "輕賤": "khinh tiện",
+                "犯賤": "phạm tiện",
+                "貴賤": "quý tiện",
+                "卑賤": "ty tiện",
+                "賤降": "tiện giáng",
+                "賤技": "tiện kĩ",
+                "賤隣": "tiện lân",
+                "賤業": "tiện nghiệp",
+                "賤内": "tiện nội",
+                "賤女": "tiện nữ",
+                "賤妾": "tiện thiếp"
+            }
+        }
+    }
+}

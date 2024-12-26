@@ -1,0 +1,85 @@
+{
+    "character": "溽",
+    "details": {
+        "Âm Hán Việt": [
+            "nhục"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡辱"
+        ],
+        "Nét bút": [
+            "丶丶一一ノ一一フノ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "EMVI (水一女戈)"
+        ],
+        "Unicode": [
+            "U+6EBD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "rù ㄖㄨˋ"
+        ],
+        "Âm Nôm": [
+            "nhục",
+            "nhuốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョク (hyoku)",
+            "ジョク (joku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むしあつ.い (mushiatsu.i)"
+        ],
+        "Âm Hàn": [
+            "욕"
+        ],
+        "Âm Quảng Đông": [
+            "juk6"
+        ]
+    },
+    "meanings": {
+        "nhục": {
+            "Từ điển phổ thông": [
+                "hơi nắng bốc lên",
+                "ướt",
+                "nồng đặc (đồ ăn ngon)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ướt, ẩm thấp.",
+                "(Tính) Nồng đặc.",
+                "(Danh) § Xem 'nhục thử' 溽暑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hơi nắng xông, hơi nắng bốc hơi nước lên gọi là nhục thử 溽暑.",
+                "Ướt.",
+                "Nồng đặc (đồ ăn ngon)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hơi nắng xông;",
+                "Ẩm, ẩm ướt, ẩm thấp;",
+                "(Mùi vị ngon) nồng nặc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ẩm ướt. Thấm ướt — Nồng hậu."
+            ],
+            "compound_words": {
+                "溽暑": "nhục thử"
+            }
+        }
+    }
+}

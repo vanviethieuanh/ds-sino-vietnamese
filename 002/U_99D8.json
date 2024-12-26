@@ -1,0 +1,102 @@
+{
+    "character": "駘",
+    "details": {
+        "Âm Hán Việt": [
+            "thai",
+            "đài",
+            "đãi"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬台"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶フ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "SFIR (尸火戈口)"
+        ],
+        "Unicode": [
+            "U+99D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ",
+            "tāi ㄊㄞ",
+            "tái ㄊㄞˊ",
+            "zhài ㄓㄞˋ"
+        ],
+        "Âm Nôm": [
+            "đài"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Hàn": [
+            "태"
+        ],
+        "Âm Quảng Đông": [
+            "toi4"
+        ]
+    },
+    "meanings": {
+        "thai": {
+            "Từ điển Thiều Chửu": [
+                "Con ngựa hèn. Người hèn dốt cũng gọi là nô đài 駕駘. Có khi đọc là thai.",
+                "Một âm là đãi. Ðãi đãng 駘蕩 quang đãng bao la."
+            ]
+        },
+        "đài": {
+            "Từ điển phổ thông": [
+                "ngựa hèn, ngựa xấu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa hèn, liệt mã.",
+                "(Danh) Ví dụ người tài năng kém cỏi.",
+                "(Động) Thoát lạc, rơi rụng.",
+                "Một âm là 'đãi'. (Tính, phó) § Xem 'đãi đãng' 駘蕩."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ngựa hèn. Người hèn dốt cũng gọi là nô đài 駕駘. Có khi đọc là thai.",
+                "Một âm là đãi. Ðãi đãng 駘蕩 quang đãng bao la."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngựa xấu, ngựa hèn: 駑駘 Ngựa xấu, (Ngb) Người bất tài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài ngựa dở, kém, xấu. Cũng gọi là Đài phong. Một âm khác là Đãi. Xem Đãi."
+            ]
+        },
+        "đãi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa hèn, liệt mã.",
+                "(Danh) Ví dụ người tài năng kém cỏi.",
+                "(Động) Thoát lạc, rơi rụng.",
+                "Một âm là 'đãi'. (Tính, phó) § Xem 'đãi đãng' 駘蕩."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ngựa hèn. Người hèn dốt cũng gọi là nô đài 駕駘. Có khi đọc là thai.",
+                "Một âm là đãi. Ðãi đãng 駘蕩 quang đãng bao la."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Đãi đãng 駘蕩."
+            ],
+            "compound_words": {
+                "駘蕩": "đãi đãng"
+            }
+        }
+    }
+}

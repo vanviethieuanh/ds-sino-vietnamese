@@ -1,0 +1,81 @@
+{
+    "character": "绷",
+    "details": {
+        "Âm Hán Việt": [
+            "banh",
+            "băng",
+            "bắng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟朋"
+        ],
+        "Nét bút": [
+            "フフ一ノフ一一ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "XVMBB (重女一月月)"
+        ],
+        "Unicode": [
+            "U+7EF7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bēng ㄅㄥ",
+            "běng ㄅㄥˇ",
+            "bèng ㄅㄥˋ"
+        ],
+        "Âm Nôm": [
+            "banh",
+            "băng"
+        ],
+        "Âm Quảng Đông": [
+            "bang1",
+            "mang1"
+        ]
+    },
+    "meanings": {
+        "banh": {
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 綳.",
+                "Giản thể của chữ 繃."
+            ]
+        },
+        "băng": {
+            "Từ điển phổ thông": [
+                "căng, trải ra",
+                "bó chặt",
+                "văng, bật ra, bung ra"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 綳.",
+                "Giản thể của chữ 繃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 綳"
+            ],
+            "compound_words": {
+                "绷带": "băng đới"
+            }
+        },
+        "bắng": {
+            "Từ điển Trần Văn Chánh": [
+                "(khn) Lầm lầm: 繃着臉 Mặt lầm lầm;",
+                "Nhịn, nín, nén: 他繃不住笑了 Anh ấy không nhịn (nín) được cười Xem 繃 [beng]."
+            ]
+        }
+    }
+}

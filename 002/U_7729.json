@@ -1,0 +1,96 @@
+{
+    "character": "眩",
+    "details": {
+        "Âm Hán Việt": [
+            "huyễn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mục 目 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰目玄"
+        ],
+        "Nét bút": [
+            "丨フ一一一丶一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "BUYVI (月山卜女戈)"
+        ],
+        "Unicode": [
+            "U+7729"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huàn ㄏㄨㄢˋ",
+            "juàn ㄐㄩㄢˋ",
+            "xuàn ㄒㄩㄢˋ"
+        ],
+        "Âm Nôm": [
+            "gioèn",
+            "huyễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)",
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "げん.す (gen .su)",
+            "くるめ.く (kurume.ku)",
+            "まぶ.しい (mabu.shii)",
+            "くら.む (kura.mu)",
+            "まど.う (mado.u)",
+            "めま.い (mema.i)",
+            "まばゆ.い (mabayu.i)",
+            "くれ.る (kure.ru)",
+            "ま.う (ma.u)"
+        ],
+        "Âm Hàn": [
+            "현",
+            "환"
+        ],
+        "Âm Quảng Đông": [
+            "jyun6"
+        ]
+    },
+    "meanings": {
+        "huyễn": {
+            "Từ điển phổ thông": [
+                "hoa mắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Hoa mắt. ◎Như: 'đầu vựng mục huyễn' 頭暈目眩 chóng mặt hoa mắt.",
+                "(Động) Mê hoặc. ◎Như: 'huyễn ư danh lợi' 眩於名利 mê hoặc vì danh lợi.",
+                "(Động) Chiếu sáng. § Thông 'huyễn' 炫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hoa mắt.",
+                "Những kẻ làm trò quỷ thuật gọi là huyễn nhân 眩人, cùng nghĩa với chữ huyễn 幻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hoa mắt, chóng;",
+                "Mê hoặc, rối loạn: 眩人 Người làm trò ảo thuật;",
+                "Như 幻 (bộ 幺)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ánh sáng mặt trời — Loá mắt, hoa mắt — Lừa dối. Như chữ Huyễn 幻."
+            ],
+            "compound_words": {
+                "眩惑": "huyễn hoặc",
+                "眩暈": "huyễn vựng",
+                "晕眩": "vựng huyễn",
+                "暈眩": "vựng huyễn"
+            }
+        }
+    }
+}

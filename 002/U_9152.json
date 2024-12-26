@@ -1,0 +1,137 @@
+{
+    "character": "酒",
+    "details": {
+        "Âm Hán Việt": [
+            "tửu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "dậu 酉 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡酉"
+        ],
+        "Nét bút": [
+            "丶丶一一丨フノフ一一"
+        ],
+        "Thương Hiệt": [
+            "EMCW (水一金田)"
+        ],
+        "Unicode": [
+            "U+9152"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiǔ ㄐㄧㄡˇ"
+        ],
+        "Âm Nôm": [
+            "giậu",
+            "rượu",
+            "tửu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さけ (sake)",
+            "さか- (saka-)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau2"
+        ]
+    },
+    "meanings": {
+        "tửu": {
+            "Từ điển phổ thông": [
+                "rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Rượu, chỉ chung các thứ uống có chất say. ◇Nguyễn Trãi 阮廌: 'Nhất hồ bạch tửu tiêu trần lự' 一壺白酒消塵慮 (Hạ nhật mạn thành 夏日漫成) Một bầu rượu trắng tiêu tan nỗi lo trần tục.",
+                "(Danh) Tiệc rượu, yến tiệc.",
+                "(Danh) Họ 'Tửu'.",
+                "(Động) Uống rượu. ◇Thượng Thư 尚書: 'Văn Vương cáo giáo tiểu tử, hữu chánh hữu sự, vô di tửu' 文王誥教小子, 有正有事, 無彝酒 (Tửu cáo 酒誥) Vua Văn Vương khuyến cáo các con cháu bách tính, làm quan từ bậc cao (đại phu) tới bậc thấp (quần lại), không nên thường uống rượu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Rượu, phàm các thứ dùng để uống mà có chất say đều gọi là tửu. Nguyễn Trãi 阮廌: nhất hồ bạch tửu tiêu trần lự 一壺白酒消塵慮 một bầu rượu trắng tiêu tan nỗi lo trần tục."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rượu: 斟酒 Rót rượu;",
+                "[Jiư] (Họ) Tửu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rượu. Tục ngữ: Tửu nhập ngôn xuất ( rượu vào lời ra )."
+            ],
+            "compound_words": {
+                "把酒": "bả tửu",
+                "柏葉酒": "bách diệp tửu",
+                "百花酒": "bách hoa tửu",
+                "柏酒": "bách tửu",
+                "砵酒": "bát tửu",
+                "啤酒": "ty tửu",
+                "被酒": "bị tửu",
+                "葡萄酒": "bồ đào tửu",
+                "高粱酒": "cao lương tửu",
+                "鴆酒": "chậm tửu",
+                "鸩酒": "chậm tửu",
+                "旨酒": "chỉ tửu",
+                "酌酒": "chước tửu",
+                "沽酒": "cô tửu",
+                "菊花酒": "cúc hoa tửu",
+                "藥酒": "dược tửu",
+                "頭酒": "đầu tửu",
+                "蔗酒": "giá tửu",
+                "缸面酒": "hang diện tửu",
+                "火酒": "hoả tửu",
+                "黃花酒": "hoàng hoa tửu",
+                "勸酒": "khuyến tửu",
+                "麥酒": "mạch tửu",
+                "卯酒": "mão tửu",
+                "美酒": "mĩ tửu",
+                "御酒": "ngự tửu",
+                "釀酒": "nhưỡng tửu",
+                "縹酒": "phiếu tửu",
+                "扶酒": "phù tửu",
+                "服酒": "phục tửu",
+                "果酒": "quả tửu",
+                "國子祭酒": "quốc tử tế tửu",
+                "縮酒": "súc tửu",
+                "殘酒": "tàn tửu",
+                "祭酒": "tế tửu",
+                "昔酒": "tích tửu",
+                "薦酒": "tiến tửu",
+                "送酒": "tống tửu",
+                "置酒": "trí tửu",
+                "中酒": "trúng tửu",
+                "醉酒": "tuý tửu",
+                "酒保": "tửu bảo",
+                "酒店": "tửu điếm",
+                "酒徒": "tửu đồ",
+                "酒肴": "tửu hào",
+                "酒令": "tửu lệnh",
+                "酒量": "tửu lượng",
+                "酒館": "tửu quán",
+                "酒鬼": "tửu quỷ",
+                "酒色": "tửu sắc",
+                "酒菜": "tửu thái",
+                "酒席": "tửu tịch",
+                "酒意": "tửu ý",
+                "尾酒": "vĩ tửu",
+                "煙酒": "yên tửu",
+                "煙酒稅": "yên tửu thuế"
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "橇",
+    "details": {
+        "Âm Hán Việt": [
+            "khiêu",
+            "tuyệt"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mộc 木 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木毳"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ一一フノ一一フノ一一フ"
+        ],
+        "Thương Hiệt": [
+            "DHUU (木竹山山)"
+        ],
+        "Unicode": [
+            "U+6A47"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cuì ㄘㄨㄟˋ",
+            "qiāo ㄑㄧㄠ",
+            "qiào ㄑㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "khiêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "ゼイ (zei)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そり (sori)",
+            "かんじき (kan jiki)"
+        ],
+        "Âm Hàn": [
+            "취",
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi3",
+            "hiu1"
+        ]
+    },
+    "meanings": {
+        "khiêu": {
+            "Từ điển phổ thông": [
+                "một thứ đồ đi trên bùn, hình như cái sọt, hai đầu vểnh lên, một chân quỳ vào trong, một chân đẩy đi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Vật dùng để đi hay trượt trong bùn, tuyết... ◎Như: “tuyết khiêu” 雪橇 xe trượt tuyết. ◇Sử Kí 史記: “Thủy hành thừa thuyền, nê hành thừa khiêu” 水行乘船, 泥行乘橇 (Hạ bổn kỉ 夏本紀) Đi trên nước đáp thuyền, đi trên bùn (đầm lầy) cỡi cái khiêu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Một thứ đồ đi trên bùn, hình như cái sọt, hai đầu vểnh lên, một chân quỳ vào trong, một chân đẩy đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xe quệt (đi trên đường bùn hay trên tuyết): 雪橇 Xe quệt đi trên tuyết."
+            ],
+            "compound_words": {
+                "冰橇": "băng khiêu"
+            }
+        },
+        "tuyệt": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một loại thuyền nan rất nhỏ và nhẹ, thời xưa dùng để đi trên bùn sình."
+            ]
+        }
+    }
+}

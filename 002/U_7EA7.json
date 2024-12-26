@@ -1,0 +1,65 @@
+{
+    "character": "级",
+    "details": {
+        "Âm Hán Việt": [
+            "cấp"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟及"
+        ],
+        "Nét bút": [
+            "フフ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "VMNHE (女一弓竹水)"
+        ],
+        "Unicode": [
+            "U+7EA7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cấp"
+        ],
+        "Âm Quảng Đông": [
+            "kap1"
+        ]
+    },
+    "meanings": {
+        "cấp": {
+            "Từ điển phổ thông": [
+                "cấp bậc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 級."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 級"
+            ],
+            "compound_words": {
+                "低级": "đê cấp",
+                "学级": "học cấp",
+                "初级": "sơ cấp",
+                "升级": "thăng cấp",
+                "首级": "thủ cấp",
+                "中级": "trung cấp"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "仗",
+    "details": {
+        "Âm Hán Việt": [
+            "trượng"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhân 人 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻丈"
+        ],
+        "Nét bút": [
+            "ノ丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OJK (人十大)"
+        ],
+        "Unicode": [
+            "U+4ED7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhàng ㄓㄤˋ"
+        ],
+        "Âm Nôm": [
+            "dượng",
+            "trượng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つえ (tsue)",
+            "つわもの (tsuwamono)",
+            "まわり (mawari)",
+            "よる (yoru)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng3",
+            "zoeng6"
+        ]
+    },
+    "meanings": {
+        "trượng": {
+            "Từ điển phổ thông": [
+                "đồ binh khí",
+                "dựa vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Binh khí. ◎Như: 'khai trượng' 開仗 đánh nhau, 'nghi trượng' 儀仗 đồ binh hộ vệ cho quan ra ngoài. ◇Tân Đường Thư 新唐書: 'Đại chiến, Vương Sư bất lợi, ủy trượng bôn' 大戰, 王師不利, 委仗奔 (Quách Tử Nghi truyện 郭子儀傳) Đánh lớn, Vương Sư bất lợi, quăng khí giới thua chạy.",
+                "(Danh) Trận đánh, chiến tranh, chiến sự. ◎Như: 'thắng trượng' 勝仗 thắng trận, 'bại trượng' 敗仗 thua trận.",
+                "(Động) Nhờ cậy, dựa vào. ◎Như: 'ỷ trượng' 倚仗 nhờ vả thế lực. ◇Nguyễn Du 阮攸: 'Nhất lộ hàn uy trượng tửu ôn' 一路寒威仗酒溫 (Quỷ Môn đạo trung 鬼門道中) Suốt con đường giá lạnh, nhờ rượu được ấm.",
+                "(Động) Cầm, nắm, chống, giơ. ◎Như: 'trượng kì' 仗旗 cầm cờ. ◇Tây du kí 西遊記: 'Nhất cá cá chấp kích huyền tiên, trì đao trượng kiếm' 一個個執戟懸鞭, 持刀仗劍 (Đệ tứ hồi) Người nào cũng dựng kích đeo roi, cầm đao nắm kiếm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Các thứ đồ binh khí. Hai bên đánh nhau gọi là khai trượng 開仗. quan sang ra ngoài có lính cầm đồ binh hộ vệ gọi là nghi trượng 儀仗.",
+                "Cậy, nhờ vả thế lực của người gọi là ỷ trượng 倚仗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Binh khí (nói chung);",
+                "Giở ra, cầm (binh khí): 仗劍 Giở kiếm;",
+                "Chiến tranh, trận: 打仗 Đánh nhau, chiến tranh; 打勝仗 Thắng trận; 敗仗 Thua trận, bại trận; 這一仗打得很漂亮 Trận này đánh rất hay;",
+                "Dựa vào, nhờ vào, cậy: 要仗着大家的力量 Cần dựa vào sức của mọi người; 這全仗你了 Cái đó hoàn toàn nhờ vào anh cả; 仗主人的勢 Cậy thế của chủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái gậy để chống — Nhờ cậy. Ỷ lại vào — Chỉ chung đồ binh khí — Trận đánh giữa quân đội hai bên. Td: Đả trượng ( đánh trận )."
+            ],
+            "compound_words": {
+                "敗仗": "bại trượng",
+                "败仗": "bại trượng",
+                "爆仗": "bộc trượng",
+                "打仗": "đả trượng",
+                "明火執仗": "minh hoả chấp trượng",
+                "儀仗": "nghi trượng",
+                "負氣仗義": "phụ khí trượng nghĩa",
+                "仗義": "trượng nghĩa",
+                "仗義疏財": "trượng nghĩa sơ tài",
+                "仗勢": "trượng thế",
+                "倚仗": "ỷ trượng"
+            }
+        }
+    }
+}

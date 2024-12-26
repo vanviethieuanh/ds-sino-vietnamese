@@ -1,0 +1,94 @@
+{
+    "character": "隙",
+    "details": {
+        "Âm Hán Việt": [
+            "khích"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "phụ 阜 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖𡭴"
+        ],
+        "Nét bút": [
+            "フ丨丨ノ丶丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NLFHF (弓中火竹火)"
+        ],
+        "Unicode": [
+            "U+9699"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xì ㄒㄧˋ"
+        ],
+        "Âm Nôm": [
+            "khích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲキ (geki)",
+            "キャク (kyaku)",
+            "ケキ (keki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すき (suki)",
+            "す.く (su.ku)",
+            "す.かす (su.kasu)",
+            "ひま (hima)"
+        ],
+        "Âm Hàn": [
+            "극"
+        ],
+        "Âm Quảng Đông": [
+            "gwik1"
+        ]
+    },
+    "meanings": {
+        "khích": {
+            "Từ điển phổ thông": [
+                "khe hở, khoảng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lỗ hổng, vết nứt, khe hở. ◎Như: 'môn khích' 門隙 khe cửa. ◇Thương quân thư 商君書: 'Đố chúng nhi mộc chiết, khích đại nhi tường hoại' 蠹眾而木折, 隙大而牆壞 (Tu quyền 修權) Mọt nhiều thì cây gãy, lỗ hổng lớn thì tường sập.",
+                "(Danh) Lúc nhàn hạ. ◎Như: 'nông khích' 農隙 thời gian rảnh rỗi của nhà nông.",
+                "(Danh) Thù oán, oán hận. ◎Như: 'hiềm khích' 嫌隙 oán hận. ◇Sử Kí 史記: 'Huệ Vương lập, dữ Nhạc Nghị hữu khích' 惠王立, 與樂毅有隙 (Điền Đan truyện 田單傳) Huệ Vương lên ngôi, có hiềm khích với Nhạc Nghị.",
+                "(Danh) Sơ hở, cơ hội. ◎Như: 'thừa khích nhi nhập' 乘隙而入 lợi dụng sơ hở mà vào.",
+                "(Tính) Trống, không. ◎Như: 'khích địa' 隙地 đất trống.",
+                "(Tính) Không đủ, không hoàn bị. ◇Tôn Tử 孫子: 'Phụ chu tắc quốc tất cường, phụ khích tắc quốc tất nhược' 輔周則國必強, 輔隙則國必弱 (Mưu công 謀攻) Giúp chu đáo thì nước ắt mạnh, giúp thiếu sót thì nước sẽ yếu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái lỗ hổng trên tường trên vách. Như sách Mạnh Tử 孟子 nói toàn huyệt khích tương khuy 鑽穴隙相窺 chọc lỗ tường cùng nhòm.",
+                "Lúc nhàn hạ. Như lúc công việc làm ruộng được rỗi gọi là nông khích 農隙.",
+                "Oán. Như hiềm khích 嫌隙 có điều oán hận hiềm thù."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 隙."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khe tường, khe cửa — Cái khe, chỗ hở — Lúc rảnh rang — Giận ghét. Td: Hiềm khích."
+            ],
+            "compound_words": {
+                "白駒過隙": "bạch câu quá khích",
+                "駒隙": "câu khích",
+                "仇隙": "cừu khích",
+                "嫌隙": "hiềm khích",
+                "隙孔": "khích khổng",
+                "農隙": "nông khích",
+                "怨隙": "oán khích",
+                "伺隙": "tí khích"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "character": "判",
+    "details": {
+        "Âm Hán Việt": [
+            "phán"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "đao 刀 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰半⺉"
+        ],
+        "Nét bút": [
+            "丶ノ一一ノ丨丨"
+        ],
+        "Thương Hiệt": [
+            "FQLN (火手中弓)"
+        ],
+        "Unicode": [
+            "U+5224"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "pàn ㄆㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)",
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わか.る (waka.ru)"
+        ],
+        "Âm Hàn": [
+            "판"
+        ],
+        "Âm Quảng Đông": [
+            "pun3"
+        ]
+    },
+    "meanings": {
+        "phán": {
+            "Từ điển phổ thông": [
+                "chia rẽ",
+                "phán quyết, sử kiện"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lìa rẽ, chia ra. ◎Như: 'phán duệ' 判袂 chia tay mỗi người một ngả. ◇Ôn Đình Quân 溫庭筠: 'Dạ văn mãnh vũ phán hoa tận' 夜聞猛雨判花盡 (Xuân nhật ngẫu tác 春日偶作) Đêm nghe mưa mạnh làm tan tác hết các hoa.",
+                "(Động) Xem xét, phân biệt. ◎Như: 'phán biệt thị phi' 判別是非 phân biệt phải trái.",
+                "(Động) Xử, xét xử. ◎Như: 'tài phán' 裁判 xử kiện, 'phán án' 判案 xử án.",
+                "(Động) Ngày xưa, quan lớn kiêm nhiệm thêm chức quan nhỏ hoặc chức quan địa phương gọi là 'phán'. ◎Như: 'Tể tướng phán Lục quân thập nhị vệ sự' 宰相判六軍十二衛事.",
+                "(Phó) Rõ ràng, rõ rệt. ◎Như: 'lưỡng cá thế giới phán nhiên bất đồng' 兩個世界判然不同 hai thế giới khác nhau rõ rệt.",
+                "(Danh) Văn thư tố tụng, án kiện.",
+                "(Danh) Lời đoán. ◇Hồng Lâu Mộng 紅樓夢: 'Hậu diện tiện thị nhất tọa cổ miếu, lí diện hữu nhất mĩ nhân tại nội độc tọa khán kinh. Kì phán vân: Khám phá tam xuân cảnh bất trường, Truy y đốn cải tích niên trang' 後面便是一座古廟, 裡面有一美人在內獨坐看經. 其判云: 勘破三春景不長, 緇衣頓改昔年妝 (Đệ ngũ hồi) Mặt sau lại vẽ một tòa miếu cổ, trong có một mĩ nhân ngồi xem kinh. Có mấy lời đoán rằng: Biết rõ ba xuân cảnh chóng già, Thời trang đổi lấy áo cà sa.",
+                "(Danh) Một thể văn ngày xưa, theo lối biện luận, giống như văn xử kiện."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lìa rẽ, như phán duệ 判袂 chia tay mỗi người một ngả.",
+                "Phán quyết, như tài phán 裁判 sử kiện, văn sử kiện gọi là phán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xét, phân biệt. 【判別】phán biệt [pànbié] Phân biệt: 判別是非 Phân biệt phải trái;",
+                "Rõ rệt, rõ ràng, hẳn: 兩個世界判然不同 Hai thế giới khác nhau rõ rệt (hẳn); 前後判若兩人 Trước sau khác hẳn như hai người;",
+                "Phê: 判卷子 Phê bài thi, chấm bài;",
+                "Xử, xét xử: 這個案子已判了 Vụ án này đã xử rồi; 依法判刑 Xử phạt theo luật pháp;",
+                "(văn) Lìa rẽ ra: 判袂 Chia tay mỗi người một ngả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao à cắt ra, chia ra. Chia cắt — Dứt khoát về việc gì — Tuyên bố sự quyết định về việc gì."
+            ],
+            "compound_words": {
+                "談判": "đàm phán",
+                "判正": "phán chính",
+                "判袂": "phán duệ",
+                "判定": "phán định",
+                "判断": "phán đoán",
+                "判斷": "phán đoán",
+                "判例": "phán lệ",
+                "判語": "phán ngữ",
+                "判决": "phán quyết",
+                "判決": "phán quyết",
+                "判事": "phán sự",
+                "判傳": "phán truyền",
+                "判处": "phán xử",
+                "判處": "phán xử",
+                "分首判袂": "phân thủ phán duệ",
+                "批判": "phê phán",
+                "裁判": "tài phán",
+                "审判": "thẩm phán",
+                "審判": "thẩm phán",
+                "通判": "thông phán",
+                "宣判": "tuyên phán"
+            }
+        }
+    }
+}

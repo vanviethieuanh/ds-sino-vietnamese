@@ -1,0 +1,74 @@
+{
+    "character": "寝",
+    "details": {
+        "Âm Hán Việt": [
+            "tẩm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "miên 宀 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱宀⿰丬⿳彐冖又"
+        ],
+        "Nét bút": [
+            "丶丶フ丶一丨フ一一丶フフ丶"
+        ],
+        "Thương Hiệt": [
+            "JLME (十中一水)"
+        ],
+        "Unicode": [
+            "U+5BDD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qǐn ㄑㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "tẩm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ね.る (ne.ru)",
+            "ね.かす (ne.kasu)",
+            "い.ぬ (i.nu)",
+            "みたまや (mitamaya)",
+            "や.める (ya.meru)"
+        ],
+        "Âm Hàn": [
+            "침"
+        ],
+        "Âm Quảng Đông": [
+            "cam2"
+        ]
+    },
+    "meanings": {
+        "tẩm": {
+            "Từ điển phổ thông": [
+                "ngủ",
+                "lăng mộ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 寢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 寢"
+            ],
+            "compound_words": {
+                "陵寝": "lăng tẩm"
+            }
+        }
+    }
+}

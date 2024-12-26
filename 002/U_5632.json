@@ -1,0 +1,88 @@
+{
+    "character": "嘲",
+    "details": {
+        "Âm Hán Việt": [
+            "trào"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口朝"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨フ一一一丨ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "RJJB (口十十月)"
+        ],
+        "Unicode": [
+            "U+5632"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cháo ㄔㄠˊ",
+            "zhāo ㄓㄠ"
+        ],
+        "Âm Nôm": [
+            "chào",
+            "nhào",
+            "ràu",
+            "rầu",
+            "thều",
+            "trào",
+            "trều"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あざけ.る (azake.ru)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zaau1"
+        ]
+    },
+    "meanings": {
+        "trào": {
+            "Từ điển phổ thông": [
+                "chế nhạo, cười nhạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giễu cợt. ◎Như: 'trào lộng' 嘲弄 đùa cợt, 'trào tiếu' 嘲笑 cười nhạo, 'trào phúng' 嘲諷 cười cợt chế nhạo.",
+                "(Động) Quyến rủ, lôi cuốn. ◇Kim Bình Mai 金瓶梅: '(Kim Liên) thường bả mi mục trào nhân, song tình truyền ý' (金蓮)常把眉目嘲人, 雙睛傳意 (Đệ nhất hồi) (Kim Liên) thường hay đầu mày cuối mắt quyến rủ người, hai con ngươi hàm truyền tình ý.",
+                "(Động) Ngâm vịnh. ◇Bạch Cư Dị 白居易: 'Trào phong tuyết, lộng hoa thảo' 嘲風雪, 弄花草 (Dữ Nguyên Cửu thư 與元九書) Ngâm vịnh gió tuyết, ngoạn thưởng cỏ hoa.",
+                "(Động) Chim kêu chíp chíp. ◎Như: 'lâm điểu trào trào' 林鳥嘲嘲 chim rừng chíp chíp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Riễu cợt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【嘲哳】 trào trách [zhaozha] Như 啁哳 [zhaozha]. Xem 嘲 [cháo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cười nhạo báng — Cười giỡn."
+            ],
+            "compound_words": {
+                "嘲弄": "trào lộng",
+                "嘲諷": "trào phúng",
+                "嘲笑": "trào tiếu"
+            }
+        }
+    }
+}

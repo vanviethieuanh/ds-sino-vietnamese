@@ -1,0 +1,64 @@
+{
+    "character": "队",
+    "details": {
+        "Âm Hán Việt": [
+            "đội"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "phụ 阜 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖人"
+        ],
+        "Nét bút": [
+            "フ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NLO (弓中人)"
+        ],
+        "Unicode": [
+            "U+961F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "duì ㄉㄨㄟˋ",
+            "suì ㄙㄨㄟˋ",
+            "zhuì ㄓㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "đội"
+        ],
+        "Âm Quảng Đông": [
+            "deoi6"
+        ]
+    },
+    "meanings": {
+        "đội": {
+            "Từ điển phổ thông": [
+                "đội quân",
+                "dàn thành hàng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 隊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 隊"
+            ],
+            "compound_words": {
+                "排队": "bài đội",
+                "团队": "đoàn đội"
+            }
+        }
+    }
+}

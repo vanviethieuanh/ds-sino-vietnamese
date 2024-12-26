@@ -1,0 +1,102 @@
+{
+    "character": "杷",
+    "details": {
+        "Âm Hán Việt": [
+            "ba",
+            "bà",
+            "bá"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木巴"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "DAU (木日山)"
+        ],
+        "Unicode": [
+            "U+6777"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bǎ ㄅㄚˇ",
+            "bà ㄅㄚˋ",
+            "pá ㄆㄚˊ"
+        ],
+        "Âm Nôm": [
+            "bà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つか (tsuka)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "paa4"
+        ]
+    },
+    "meanings": {
+        "ba": {
+            "Từ điển phổ thông": [
+                "cái bồ cào, cái cào cỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái bồ cào (đồ dùng nhà nông để cào ra hay gom lại thóc, lúa, v.v.). § Cũng như 'ba' 耙.",
+                "Một âm là 'bà'. (Danh) § Xem 'tì bà' 枇杷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bồ cào, cũng như chữ ba 耙.",
+                "Một âm là bà. Gọi tắt là cây tì bà 枇杷 một thứ cây quả ăn được, lá làm thuốc được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái bồ cào (như 耙, bộ 耒)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bồ cào của nhà nông — Một âm khác là Bả."
+            ]
+        },
+        "bà": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cái bồ cào (đồ dùng nhà nông để cào ra hay gom lại thóc, lúa, v.v.). § Cũng như 'ba' 耙.",
+                "Một âm là 'bà'. (Danh) § Xem 'tì bà' 枇杷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bồ cào, cũng như chữ ba 耙.",
+                "Một âm là bà. Gọi tắt là cây tì bà 枇杷 một thứ cây quả ăn được, lá làm thuốc được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 枇杷 [pípa]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Tì bà 枇杷 — Họ người — Các âm khác là Ba, Bá."
+            ],
+            "compound_words": {
+                "枇杷": "tì bà"
+            }
+        },
+        "bá": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái tay cầm. Cái chuôi. Cái cán — Các âm khác là Bà, Bả."
+            ]
+        }
+    }
+}

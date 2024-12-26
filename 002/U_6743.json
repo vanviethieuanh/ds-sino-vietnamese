@@ -1,0 +1,73 @@
+{
+    "character": "权",
+    "details": {
+        "Âm Hán Việt": [
+            "quyền"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mộc 木 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木又"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "DE (木水)"
+        ],
+        "Unicode": [
+            "U+6743"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "quán ㄑㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "quyền"
+        ],
+        "Âm Quảng Đông": [
+            "kyun4"
+        ]
+    },
+    "meanings": {
+        "quyền": {
+            "Từ điển phổ thông": [
+                "quả cân",
+                "quyền lợi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 權."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 權"
+            ],
+            "compound_words": {
+                "兵权": "binh quyền",
+                "掌权": "chưởng quyền",
+                "强权": "cường quyền",
+                "大权": "đại quyền",
+                "弃权": "khí quyền",
+                "人权": "nhân quyền",
+                "君权": "quân quyền",
+                "权柄": "quyền bính",
+                "权力": "quyền lực",
+                "权能": "quyền năng",
+                "权杖": "quyền trượng",
+                "权威": "quyền uy",
+                "授权": "thụ quyền"
+            }
+        }
+    }
+}

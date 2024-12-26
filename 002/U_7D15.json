@@ -1,0 +1,108 @@
+{
+    "character": "紕",
+    "details": {
+        "Âm Hán Việt": [
+            "bì",
+            "bỉ",
+            "phi"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹比"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一フノフ"
+        ],
+        "Thương Hiệt": [
+            "VFPP (女火心心)"
+        ],
+        "Unicode": [
+            "U+7D15"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bī ㄅㄧ",
+            "bǐ ㄅㄧˇ",
+            "bì ㄅㄧˋ",
+            "chǐ ㄔˇ",
+            "pī ㄆㄧ",
+            "pí ㄆㄧˊ"
+        ],
+        "Âm Nôm": [
+            "phi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Hàn": [
+            "비",
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "pei1",
+            "pei4"
+        ]
+    },
+    "meanings": {
+        "bì": {
+            "Từ điển phổ thông": [
+                "lỗi, bất cẩn",
+                "lụa dệt lỗi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Viền mép (mũ, áo, cờ xí).",
+                "Một âm là 'phi'. (Động) Làm lẫn, sơ hốt. ◎Như: 'phi mậu' 紕繆 lầm lẫn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trang sức.",
+                "Viền mép.",
+                "Một âm là phi. Phi mậu 紕繆 lầm lẫn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trang sức;",
+                "Viền mép."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khâu lại. May lại — Các âm khác là Bỉ, Phi."
+            ]
+        },
+        "bỉ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại hàng dệt bằng lông thú — Các âm khác là Bì, Phi."
+            ]
+        },
+        "phi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Viền mép (mũ, áo, cờ xí).",
+                "Một âm là 'phi'. (Động) Làm lẫn, sơ hốt. ◎Như: 'phi mậu' 紕繆 lầm lẫn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trang sức.",
+                "Viền mép.",
+                "Một âm là phi. Phi mậu 紕繆 lầm lẫn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【紕漏】phi lậu [pilòu] Sai sót: 出了紕漏 Xảy ra sai sót."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Phi lậu 紕漏 — Các âm khác là Bì, Bỉ. Xem các âm này."
+            ],
+            "compound_words": {
+                "紕漏": "phi lậu"
+            }
+        }
+    }
+}

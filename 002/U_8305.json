@@ -1,0 +1,92 @@
+{
+    "character": "茅",
+    "details": {
+        "Âm Hán Việt": [
+            "mao"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thảo 艸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹矛"
+        ],
+        "Nét bút": [
+            "一丨丨フ丶フ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "TNIH (廿弓戈竹)"
+        ],
+        "Unicode": [
+            "U+8305"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "máo ㄇㄠˊ"
+        ],
+        "Âm Nôm": [
+            "mao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かや (kaya)",
+            "ちがや (chigaya)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "maau4"
+        ]
+    },
+    "meanings": {
+        "mao": {
+            "Từ điển phổ thông": [
+                "cỏ lợp nhà, cỏ tranh",
+                "họ Mao",
+                "núi Mao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ tranh, lá dùng lợp nhà, rễ dùng làm thuốc và đánh dây. ◇Nguyễn Du 阮攸: 'Nhất đái mao tì dương liễu trung' 一帶茅茨楊柳中 (Nhiếp Khẩu đạo trung 灄口道中) Một dãy nhà tranh trong hàng dương liễu.",
+                "(Danh) Rơm rác, nói ví cảnh nhà quê. ◎Như: 'thảo mao hạ sĩ' 草茅下士 kẻ sĩ hèn ở nhà quê.",
+                "(Danh) Họ 'Mao'. ◎Như: Đời nhà Hán có 'Mao Doanh' 茅盈 và hai em là Chung, Cố tới ở núi Cú Khúc 句曲, gọi là 'tam mao quân' 三茅君. Vì thế núi này có tên là 'Mao sơn' 茅山."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ tranh, lá dùng lợp nhà, rễ dùng làm thuốc và đánh dây.",
+                "Rơm rác. Nói ví cảnh nhà quê. Như thảo mao hạ sĩ 草茅下士 kẻ sĩ hèn ở nhà quê.",
+                "Núi Mao 茅山. Ðời nhà Hán có Mao Doanh 茅盈 và hai em là Chung, Cố tới ở núi Cú Khúc 句曲山 gọi là tam mao quân 三茅君, vì thế mới gọi là núi Mao."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cỏ tranh;",
+                "[Máo] (Họ) Mao;",
+                "[Máo] Núi Mao."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ tranh, thường để lợp mái nhà."
+            ],
+            "compound_words": {
+                "白茅": "bạch mao",
+                "香茅": "hương mao",
+                "茅庵": "mao am",
+                "茅店": "mao điếm",
+                "茅廬": "mao lư",
+                "茅屋": "mao ốc",
+                "茅舍": "mao xá",
+                "藑茅": "quỳnh mao"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "懺",
+    "details": {
+        "Âm Hán Việt": [
+            "sám"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "tâm 心 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺖韱"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ丶ノ丶一丨一一一丨一一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "POIM (心人戈一)"
+        ],
+        "Unicode": [
+            "U+61FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chàn ㄔㄢˋ"
+        ],
+        "Âm Nôm": [
+            "sám",
+            "sắm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザン (zan)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くい.る (kui.ru)"
+        ],
+        "Âm Hàn": [
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "caam3"
+        ]
+    },
+    "meanings": {
+        "sám": {
+            "Từ điển phổ thông": [
+                "ăn năn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn năn, hối ngộ. ◎Như: 'sám hối' 懺悔 ăn năn.",
+                "(Danh) Kinh sám hối (nhà Phật). ◎Như: 'bái sám' 拜懺 làm lễ cầu cúng, 'sám pháp' 懺法 phép lễ sám hối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ăn năn, tự thú tội ra để xin sửa đổi gọi là sám hối 懺悔.",
+                "Kinh của nhà sư làm lễ cầu cũng gọi là sám, tục gọi là bái sám 拜懺. Phép lễ sám hối gọi là sám pháp 懺法."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ăn năn;",
+                "Lễ sám hối (theo đạo Phật);",
+                "Kinh sám hối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn năn về những lỗi lầm đã qua của mình, và thật lòng muốn sửa đổi."
+            ],
+            "compound_words": {
+                "懺悔": "sám hối",
+                "懺禮": "sám lễ",
+                "懺法": "sám pháp",
+                "懺罪": "sám tội"
+            }
+        }
+    }
+}

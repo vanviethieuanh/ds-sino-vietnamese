@@ -1,0 +1,104 @@
+{
+    "character": "万",
+    "details": {
+        "Âm Hán Việt": [
+            "mặc",
+            "vạn"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "nhất 一 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一フノ"
+        ],
+        "Thương Hiệt": [
+            "MS (一尸)"
+        ],
+        "Unicode": [
+            "U+4E07"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mò ㄇㄛˋ",
+            "wàn ㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "muôn",
+            "vàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マン (man)",
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よろず (yorozu)"
+        ],
+        "Âm Hàn": [
+            "만",
+            "묵"
+        ],
+        "Âm Quảng Đông": [
+            "maan6",
+            "mak6"
+        ]
+    },
+    "meanings": {
+        "mặc": {
+            "Từ điển phổ thông": [
+                "(tên riêng)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Muôn, một dạng của 'vạn' 萬.",
+                "Một âm là 'mặc'. (Danh) 'Mặc Kì' 万俟 họ Mặc Kì (phức tính 複姓 họ kép), vốn là tên của bộ lạc 'Tiên Ti' 鮮卑, sau lấy làm họ. Đời Bắc Tề có 'Mặc Sĩ Phổ Bạt' 万俟普拔.",
+                "Giản thể của chữ 萬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Muôn, cũng như chữ vạn 萬.",
+                "Một âm là Mặc. Như là Mặc Kì 万俟, họ Mặc Kì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【万俟】Mặc Kì [Mòqí] (Họ) Mặc Kì. Xem 萬 [wàn]."
+            ]
+        },
+        "vạn": {
+            "Từ điển phổ thông": [
+                "vạn, mười nghìn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Muôn, một dạng của 'vạn' 萬.",
+                "Một âm là 'mặc'. (Danh) 'Mặc Kì' 万俟 họ Mặc Kì (phức tính 複姓 họ kép), vốn là tên của bộ lạc 'Tiên Ti' 鮮卑, sau lấy làm họ. Đời Bắc Tề có 'Mặc Sĩ Phổ Bạt' 万俟普拔.",
+                "Giản thể của chữ 萬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Muôn, cũng như chữ vạn 萬.",
+                "Một âm là Mặc. Như là Mặc Kì 万俟, họ Mặc Kì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vạn, muôn, mười ngàn: 萬紫千紅 Muôn hồng nghìn tía;",
+                "Nhiều lắm: 千軍萬馬 Thiên binh vạn mã; 萬事起頭難 Vạn sự khởi đầu nan, mọi việc khởi đầu đều khó khăn;",
+                "Vô cùng, rất, tuyệt đối, quá lắm, hết sức: 萬難 Hết sức khó khăn; 萬萬不可 Tuyệt đối không thể (không nên); 萬不能行 Tuyệt đối không được làm;",
+                "[Wàn] (Họ) Vạn. Xem 万 [mò] (bộ 一)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Vạn 萬."
+            ],
+            "compound_words": {
+                "五万": "ngũ vạn",
+                "一万": "nhất vạn",
+                "三万": "tam vạn",
+                "万象": "vạn tượng"
+            }
+        }
+    }
+}

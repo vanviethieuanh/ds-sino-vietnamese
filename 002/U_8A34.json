@@ -1,0 +1,99 @@
+{
+    "character": "訴",
+    "details": {
+        "Âm Hán Việt": [
+            "tố"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言斥"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノノ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "YRHMY (卜口竹一卜)"
+        ],
+        "Unicode": [
+            "U+8A34"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sù ㄙㄨˋ"
+        ],
+        "Âm Nôm": [
+            "tò",
+            "tố",
+            "tuá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うった.える (u'ta.eru)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "tố": {
+            "Từ điển phổ thông": [
+                "kể, thuật",
+                "tố giác, mách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kể, kêu, bảo cho biết, trần thuật. ◎Như: 'tố oan' 訴冤 kêu oan. ◇Bạch Cư Dị 白居易: 'Huyền huyền yểm ức thanh thanh tứ, Tự tố bình sanh bất đắc ý' 弦弦掩抑聲聲思, 似訴平生不得意 (Tì bà hành 琵琶行) Từng dây đàn u uất, tiếng nào cũng chứa đựng những những ý tứ, Như kể lể nỗi niềm bất đắc chí thủa bình sinh. § Phan Huy Vịnh dịch thơ: Nghe não nuột mấy dây bứt rứt, Dường than niềm tấm tức bấy lâu.",
+                "(Động) Kiện cáo. ◎Như: 'khởi tố' 起訴 đưa ra kiện.",
+                "(Động) Gièm pha, chê bai. ◇Tả truyện 左傳: 'Tố công vu Tấn Hầu, Tấn Hầu bất kiến công' 乃掀公以出於淖 (Thành Công thập lục niên 成公十六年) Gièm pha ông với Tấn Hầu, Tấn Hầu không gặp mặt ông.",
+                "(Động) Dùng tới. ◎Như: 'tố chư vũ lực' 訴諸武力 dùng võ lực.",
+                "(Danh) Họ 'Tố'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cáo mách. Như tố oan 訴冤 kêu oan.",
+                "Gièm chê."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kể, nói, kêu: 告訴 Báo cho biết, nói, kể; 訴苦 Kể khổ; 訴冤 Kêu oan;",
+                "Kiện, tố: 起訴 Đưa ra kiện, khởi tố; 控訴 Lên án, tố cáo; 訴訟 Kiện cáo, kiện thưa, đưa ra toà; 訴諸武力 Dùng võ lực để giải quyết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói cho biết — Vạch tội người khác — Dèm pha, chê bai."
+            ],
+            "compound_words": {
+                "敗訴": "bại tố",
+                "告訴": "cáo tố",
+                "公訴": "công tố",
+                "控訴": "khống tố",
+                "起訴": "khởi tố",
+                "免訴": "miễn tố",
+                "冤訴": "oan tố",
+                "反訴": "phản tố",
+                "愁訴": "sầu tố",
+                "上訴": "thượng tố",
+                "訴告": "tố cáo",
+                "訴覺": "tố giác",
+                "訴冤": "tố oan",
+                "訴狀": "tố trạng",
+                "訴訟": "tố tụng",
+                "越訴": "việt tố"
+            }
+        }
+    }
+}

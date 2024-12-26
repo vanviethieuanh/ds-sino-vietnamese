@@ -1,0 +1,90 @@
+{
+    "character": "僅",
+    "details": {
+        "Âm Hán Việt": [
+            "cẩn",
+            "cận"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhân 人 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻堇"
+        ],
+        "Nét bút": [
+            "ノ丨一丨丨一丨フ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "OTLM (人廿中一)"
+        ],
+        "Unicode": [
+            "U+50C5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐn ㄐㄧㄣˇ",
+            "jìn ㄐㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "cẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)",
+            "ゴン (gon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わず.か (wazu.ka)"
+        ],
+        "Âm Hàn": [
+            "근"
+        ],
+        "Âm Quảng Đông": [
+            "gan2",
+            "gan6"
+        ]
+    },
+    "meanings": {
+        "cẩn": {
+            "Từ điển phổ thông": [
+                "chỉ, ít ỏi, vẻn vẹn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mới, chỉ, (không) những: 他僅用了五天的工夫就完成了工作 Chỉ trong 5 ngày anh ấy đã làm xong việc. 【僅僅】cẩn cẩn [jênjên] Chỉ, mới, chỉ mới: 僅僅夠吃 Chỉ đủ ăn thôi; 僅僅一個月 Chỉ mới một tháng. Xem 僅 [jìn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ có — Chẳng qua."
+            ]
+        },
+        "cận": {
+            "Từ điển phổ thông": [
+                "chỉ, ít ỏi, vẻn vẹn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Nừng, ít.",
+                "(Phó) Chỉ có, chỉ, chẳng qua. ◇Nguyễn Du 阮攸: 'Sở đắc đồng tiền cận ngũ lục' 所得銅錢僅五六 (Thái Bình mại ca giả 太平賣歌者) Chỉ kiếm được chừng năm sáu đồng tiền.",
+                "(Phó) Gần, gần như. ◇Tấn Thư 晉書: 'Chiến sở sát hại cận thập vạn nhân' 戰所殺害僅十萬人 (Triệu Vương Luân truyện 趙王倫傳) Đánh nhau giết hại gần mười vạn người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nừng, ít, chỉ có thế gọi là cận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngót: 士卒僅萬人 Ngót một vạn quân. Xem 僅 [jên]."
+            ],
+            "compound_words": {
+                "不僅": "bất cận",
+                "僅僅": "cận cận"
+            }
+        }
+    }
+}

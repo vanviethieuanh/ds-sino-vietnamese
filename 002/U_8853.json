@@ -1,0 +1,131 @@
+{
+    "character": "術",
+    "details": {
+        "Âm Hán Việt": [
+            "thuật",
+            "toại"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "hành 行 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿴行术"
+        ],
+        "Nét bút": [
+            "ノノ丨一丨ノ丶丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "HOICN (竹人戈金弓)"
+        ],
+        "Unicode": [
+            "U+8853"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shù ㄕㄨˋ",
+            "zhú ㄓㄨˊ"
+        ],
+        "Âm Nôm": [
+            "thuật"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュツ (jutsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すべ (sube)"
+        ],
+        "Âm Hàn": [
+            "술"
+        ],
+        "Âm Quảng Đông": [
+            "seot6"
+        ]
+    },
+    "meanings": {
+        "thuật": {
+            "Từ điển phổ thông": [
+                "kỹ thuật, học thuật, phương pháp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đường đi trong ấp.",
+                "(Danh) Nghề, kĩ thuật. ◎Như: 'thuật sĩ' 術士.",
+                "(Danh) Cách, phương pháp, sách lược. ◎Như: 'bất học vô thuật' 不學無術 không học thì không có phương pháp.",
+                "(Động) § Thông 'thuật' 述.",
+                "Một âm là 'toại'. (Danh) Khu vực hành chánh ngoài thành (thời xưa). § Thông 'toại' 遂. ◇Lễ Kí 禮記: 'Cổ chi giáo giả, gia hữu thục, đảng hữu tường, toại hữu tự, quốc hữu học' 古之教者, 家有塾, 黨有庠, 術有序, 國有學 (Học kí 學記) (Tổ chức) giáo dục thời xưa, nhà có \"thục\", làng xóm có \"tường\", khu vực ngoài thành có \"tự\", nước có \"trường học\"."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghề thuật, kẻ có nghề riêng đi các nơi kiếm tiền gọi là thuật sĩ 術士.",
+                "Phương pháp do đó mà suy ra, như bất học vô thuật 不學無術 không học không có phương pháp để làm.",
+                "Ðường đi trong ấp.",
+                "Cùng nghĩa với chữ thuật 述."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kĩ thuật, thuật, nghề: 武術 Võ, võ thuật; 藝術 Nghệ thuật;",
+                "Phương pháp, cách, thuật: 戰術 Chiến thuật; 游泳術 Cách bơi;",
+                "(văn) Đường đi trong ấp;",
+                "(văn) Như 述 (bộ 辶). Xem 術 [zhú] (bộ 木)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đường đi — Cách thức. Phương pháp — Cái tài khéo. Td: Nghệ thuật."
+            ],
+            "compound_words": {
+                "幻術": "huyễn thuật",
+                "印刷術": "ấn loát thuật",
+                "霸術": "bá thuật",
+                "不學無術": "bất học vô thuật",
+                "祕術": "bí thuật",
+                "戰術": "chiến thuật",
+                "學術": "học thuật",
+                "技術": "kỹ thuật",
+                "劍術": "kiếm thuật",
+                "魔術": "ma thuật",
+                "美術": "mỹ thuật",
+                "藝術": "nghệ thuật",
+                "儒術": "nho thuật",
+                "柔術": "nhu thuật",
+                "法術": "pháp thuật",
+                "房中術": "phòng trung thuật",
+                "方術": "phương thuật",
+                "國術": "quốc thuật",
+                "鬼術": "quỷ thuật",
+                "拳術": "quyền thuật",
+                "權術": "quyền thuật",
+                "數術": "số thuật",
+                "邪術": "tà thuật",
+                "心術": "tâm thuật",
+                "手術": "thủ thuật",
+                "術士": "thuật sĩ",
+                "術數": "thuật số",
+                "算術": "toán thuật",
+                "相術": "tướng thuật",
+                "武術": "vũ thuật",
+                "巫術": "vu thuật",
+                "醫術": "y thuật",
+                "妖術": "yêu thuật"
+            }
+        },
+        "toại": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đường đi trong ấp.",
+                "(Danh) Nghề, kĩ thuật. ◎Như: 'thuật sĩ' 術士.",
+                "(Danh) Cách, phương pháp, sách lược. ◎Như: 'bất học vô thuật' 不學無術 không học thì không có phương pháp.",
+                "(Động) § Thông 'thuật' 述.",
+                "Một âm là 'toại'. (Danh) Khu vực hành chánh ngoài thành (thời xưa). § Thông 'toại' 遂. ◇Lễ Kí 禮記: 'Cổ chi giáo giả, gia hữu thục, đảng hữu tường, toại hữu tự, quốc hữu học' 古之教者, 家有塾, 黨有庠, 術有序, 國有學 (Học kí 學記) (Tổ chức) giáo dục thời xưa, nhà có \"thục\", làng xóm có \"tường\", khu vực ngoài thành có \"tự\", nước có \"trường học\"."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng đất ở ngoài kinh thành — Một âm là Thuật. Xem Thuật."
+            ]
+        }
+    }
+}

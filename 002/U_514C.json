@@ -1,0 +1,138 @@
+{
+    "character": "兌",
+    "details": {
+        "Âm Hán Việt": [
+            "duyệt",
+            "duệ",
+            "nhuệ",
+            "đoài",
+            "đoái"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 儿 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱八兄"
+        ],
+        "Nét bút": [
+            "ノ丶丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "CRHU (金口竹山)"
+        ],
+        "Unicode": [
+            "U+514C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "duì ㄉㄨㄟˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)",
+            "エイ (ei)",
+            "エツ (etsu)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よろこ.ぶ (yoroko.bu)"
+        ],
+        "Âm Hàn": [
+            "태",
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "deoi3",
+            "deoi6"
+        ]
+    },
+    "meanings": {
+        "duyệt": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vui vẻ (như 悅, bộ 忄)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Duyệt mệnh — Tên một thiên trong kinh Thư — Các âm khác là Duệ, Đoái, Đoài. Xem các âm này."
+            ]
+        },
+        "duệ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhọn. Nhỏ lại ở đầu — Các âm khác là Duyệt, Đoái, Đoài. Xem các âm này."
+            ]
+        },
+        "nhuệ": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhọn (như 銳, bộ 金)."
+            ]
+        },
+        "đoài": {
+            "Từ điển phổ thông": [
+                "quẻ Đoài (thượng khuyết) trong Kinh Dịch (chỉ có vạch trên đứt, tượng Trạch (đầm), tượng trưng cho con gái út, hành Kim và Thuỷ, tuổi Dậu, hướng Tây)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đổi, đoái: 匯兌 Hối đoái, đổi tiền nước ngoài;",
+                "Pha: 這酒是兌了水的 Rượu này đã pha nước;",
+                "Quẻ đoài (trong bát quái);",
+                "(văn) Hướng tây;",
+                "(văn) Qua lại được: 行道兌矣 Đường đi qua lại được (Thi Kinh: Đãi nhã, Miên);",
+                "(văn) Hang động: 塞其兌，閉其門 Lấp hang đóng cửa lại (Lão tử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên quẻ trong kinh Dịch, chỉ về ao hồ, hoặc người thiếu nữ — Chỉ phương tây, hướng mặt trời lặn. Ca dao có câu: » Xuống đông đông tĩnh, lên đoài đoài tan « — Các âm khác là Đoái, Duệ, Duyệt. Xem các âm này."
+            ]
+        },
+        "đoái": {
+            "Từ điển phổ thông": [
+                "đổi",
+                "chi, trả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đổi, trao đổi, giao hoán. ◎Như: 'đoái hoán' 兌換 đổi tiền.",
+                "(Động) Nhận tiền, lĩnh tiền (căn cứ theo ngân phiếu, ...). ◎Như: 'đoái hiện' 兌現 lĩnh tiền mặt, 'hối đoái' 匯兌 gửi và nhận tiền qua trung gian bưu điện, điện báo, ngân hàng, v.v.",
+                "(Động) Pha, hỗn hợp. ◎Như: 'giá thủy thái nãng liễu, đoái điểm lãnh thủy tiến khứ' 這水太燙了, 兌點冷水進去 nước này nóng quá, pha thêm chút nước lạnh vào.",
+                "(Động) Cân vàng bạc.",
+                "(Danh) Quẻ 'Đoái', một quẻ trong 'bát quái' 八卦.",
+                "(Danh) Một quẻ trong 64 quẻ.",
+                "(Danh) Hướng tây. ◎Như: 'đoái ngung' 兌隅.",
+                "(Danh) Huyệt khiếu. ◇Hoài Nam Tử 淮南子: 'Vương nhược dục cửu trì chi, tắc tắc dân ư đoài' 王若欲久持之, 則塞民於兌 (Đạo ứng 道應) Nếu như quân vương muốn giữ thiên hạ lâu dài, thì hãy bịt kín huyệt khiếu (tai, mắt, mũi, miệng) của dân.",
+                "(Tính) Thẳng. ◎Như: 'tùng bách tư đoái' 松柏斯兌 cây tùng cây bách ấy thẳng.",
+                "(Tính) Qua lại được, thông đạt. ◇Thi Kinh 詩經: 'Hành đạo đoái hĩ' 行道兌矣 (Đại nhã 大雅, Miên 綿) Đường đi qua lại được.",
+                "§ Thông 'duyệt' 說.",
+                "§ Thông 'duyệt' 悅.",
+                "§ Thông 'duệ' 銳."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quẻ đoái, một quẻ trong tám quẻ (bát quái).",
+                "Ðổi, như đoái hoán 兌換 đổi tiền.",
+                "Thẳng, như tùng bách tư đoái 松柏斯兌 cây tùng cây bách ấy thẳng.",
+                "Suốt, như hành đạo đoái hĩ 行道兌矣 làm đạo được suốt vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đổi, đoái: 匯兌 Hối đoái, đổi tiền nước ngoài;",
+                "Pha: 這酒是兌了水的 Rượu này đã pha nước;",
+                "Quẻ đoài (trong bát quái);",
+                "(văn) Hướng tây;",
+                "(văn) Qua lại được: 行道兌矣 Đường đi qua lại được (Thi Kinh: Đãi nhã, Miên);",
+                "(văn) Hang động: 塞其兌，閉其門 Lấp hang đóng cửa lại (Lão tử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một quẻ trong kinh Dịch, chỉ về ao hồ, hoặc về người thiếu nữ — Thẳng. Không cong vậy — Trao đổi. Chẳng hạn Hối đoái ( đổi tiền ở ngân hàng ) — Các âm khác là Duệ, Duyệt. Xem các âm này."
+            ],
+            "compound_words": {
+                "兌換": "đoái hoán",
+                "匯兌": "hối đoái"
+            }
+        }
+    }
+}

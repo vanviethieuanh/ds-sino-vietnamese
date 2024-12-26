@@ -1,0 +1,111 @@
+{
+    "character": "沸",
+    "details": {
+        "Âm Hán Việt": [
+            "phí",
+            "phất"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡弗"
+        ],
+        "Nét bút": [
+            "丶丶一フ一フノ丨"
+        ],
+        "Thương Hiệt": [
+            "ELLN (水中中弓)"
+        ],
+        "Unicode": [
+            "U+6CB8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fèi ㄈㄟˋ",
+            "fú ㄈㄨˊ"
+        ],
+        "Âm Nôm": [
+            "phất",
+            "phí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フツ (futsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わ.く (wa.ku)",
+            "わ.かす (wa.kasu)"
+        ],
+        "Âm Hàn": [
+            "비",
+            "불"
+        ],
+        "Âm Quảng Đông": [
+            "faak1",
+            "fai3"
+        ]
+    },
+    "meanings": {
+        "phí": {
+            "Từ điển phổ thông": [
+                "sôi (nước)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sôi. ◎Như: 'cổn phí' 滾沸 sôi sục.",
+                "(Động) Vọt ra, tuôn trào. ◇Tam quốc diễn nghĩa 三國演義: 'Dương thang chỉ phí, bất như khứ tân' 揚湯止沸, 不如去薪 (Đệ tam hồi) (Muốn cho) nước sôi thôi trào ra ngoài, không chi bằng rút bớt củi ra.",
+                "(Động) Náo động, huyên náo. ◇Lục Du 陸游: 'Cổ xúy liên thiên phí ngũ môn, Đăng san vạn cự động hoàng hôn' 鼓吹連天沸五門, 燈山萬炬動黃昏 (Đinh Dậu thượng nguyên 丁酉上元) Trống nổi liền trời náo động năm cổng, Lên núi muôn đuốc kinh động hoàng hôn.",
+                "(Tính) Sôi. ◎Như: 'phí thủy' 沸水 nước sôi.",
+                "(Tính) Ồn ào, rầm rĩ.",
+                "Một âm là 'phất'. (Phó) 'Phất phất' 滾沸 trào vọt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sôi, như phí thuỷ 沸水 nước sôi.",
+                "Một âm là phất. Vọt ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sôi: 沸水 Nước sôi; 沸油 Dầu sôi; 數沸後便緩火微煎 Sau khi sôi lên vài lần thì để lửa nhỏ cho hơi sắc lại (Tề dân yếu thuật);",
+                "(văn) Vọt ra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước vọt lên — Nước sôi sùng sục."
+            ],
+            "compound_words": {
+                "救火揚沸": "cứu hoả dương phí",
+                "沸沸": "phí phí",
+                "沸水": "phí thuỷ"
+            }
+        },
+        "phất": {
+            "Từ điển trích dẫn": [
+                "(Động) Sôi. ◎Như: 'cổn phí' 滾沸 sôi sục.",
+                "(Động) Vọt ra, tuôn trào. ◇Tam quốc diễn nghĩa 三國演義: 'Dương thang chỉ phí, bất như khứ tân' 揚湯止沸, 不如去薪 (Đệ tam hồi) (Muốn cho) nước sôi thôi trào ra ngoài, không chi bằng rút bớt củi ra.",
+                "(Động) Náo động, huyên náo. ◇Lục Du 陸游: 'Cổ xúy liên thiên phí ngũ môn, Đăng san vạn cự động hoàng hôn' 鼓吹連天沸五門, 燈山萬炬動黃昏 (Đinh Dậu thượng nguyên 丁酉上元) Trống nổi liền trời náo động năm cổng, Lên núi muôn đuốc kinh động hoàng hôn.",
+                "(Tính) Sôi. ◎Như: 'phí thủy' 沸水 nước sôi.",
+                "(Tính) Ồn ào, rầm rĩ.",
+                "Một âm là 'phất'. (Phó) 'Phất phất' 滾沸 trào vọt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sôi, như phí thuỷ 沸水 nước sôi.",
+                "Một âm là phất. Vọt ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sôi: 沸水 Nước sôi; 沸油 Dầu sôi; 數沸後便緩火微煎 Sau khi sôi lên vài lần thì để lửa nhỏ cho hơi sắc lại (Tề dân yếu thuật);",
+                "(văn) Vọt ra."
+            ],
+            "compound_words": {
+                "沸沸": "phất phất"
+            }
+        }
+    }
+}

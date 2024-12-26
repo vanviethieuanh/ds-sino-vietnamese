@@ -1,0 +1,82 @@
+{
+    "character": "舶",
+    "details": {
+        "Âm Hán Việt": [
+            "bạc",
+            "bạch"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "chu 舟 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟白"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "HYHA (竹卜竹日)"
+        ],
+        "Unicode": [
+            "U+8236"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "baak3",
+            "bok6",
+            "paak3"
+        ]
+    },
+    "meanings": {
+        "bạc": {
+            "Từ điển phổ thông": [
+                "thuyền lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Thuyền lớn. § Hàng hóa ở nước khác chở đến gọi là “bạc lai phẩm” 舶來品. ☆Tương tự: “lai lộ hóa” 來路貨, “thủy hóa” 水貨, “ngoại quốc hóa” 外國貨. ★Tương phản: “bổn địa hóa” 本地貨, “thổ sản” 土產."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tàu buồm, thuyền lớn đi bể.",
+                "Hàng hoá ở xứ khác chở đến xứ mình gọi là bạc lai phẩm 舶來品."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền lớn: 船舶 Thuyền bè, tàu bè; 海舶 Thuyền đi biển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chiếc thuyền thật lớn để đi biển."
+            ],
+            "compound_words": {
+                "舶來品": "bạc lai phẩm",
+                "舶趠風": "bạc trác phong"
+            }
+        },
+        "bạch": {
+            "Từ điển phổ thông": [
+                "thuyền lớn"
+            ]
+        }
+    }
+}

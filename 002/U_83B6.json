@@ -1,0 +1,68 @@
+{
+    "character": "莶",
+    "details": {
+        "Âm Hán Việt": [
+            "hiêm",
+            "thiêm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹佥"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶一丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "XTOMM (重廿人一一)"
+        ],
+        "Unicode": [
+            "U+83B6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ",
+            "liǎn ㄌㄧㄢˇ",
+            "xiān ㄒㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "hiên"
+        ],
+        "Âm Quảng Đông": [
+            "cim1"
+        ]
+    },
+    "meanings": {
+        "hiêm": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 薟."
+            ],
+            "compound_words": {
+                "豨莶": "hy thiêm"
+            }
+        },
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "(xem: hy hiêm 豨薟,豨莶)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 薟"
+            ],
+            "compound_words": {
+                "豨莶": "hy thiêm"
+            }
+        }
+    }
+}

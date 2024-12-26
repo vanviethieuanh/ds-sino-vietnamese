@@ -1,0 +1,74 @@
+{
+    "character": "蚦",
+    "details": {
+        "Âm Hán Việt": [
+            "nhiêm",
+            "thiệm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trùng 虫 (+4 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫冄"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "LIBMM (中戈月一一)"
+        ],
+        "Unicode": [
+            "U+86A6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "rán ㄖㄢˊ",
+            "tiàn ㄊㄧㄢˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゼン (zen)",
+            "ネン (nen)",
+            "ザン (zan)",
+            "ナン (nan)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にしきへび (nishikihebi)"
+        ]
+    },
+    "meanings": {
+        "nhiêm": {
+            "Từ điển phổ thông": [
+                "con trăn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Cũng như “nhiêm” 蚺."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con trăn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con trăn. 【蚦蛇】nhiêm xà [ránshé] Con trăn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài rắn không độc, thịt ăn ngon — Một âm là Thiệm. Xem Thiệm."
+            ]
+        },
+        "thiệm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Thiệm đàm 蚦䗊."
+            ],
+            "compound_words": {
+                "蚦䗊": "thiệm đàm"
+            }
+        }
+    }
+}

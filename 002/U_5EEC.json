@@ -1,0 +1,95 @@
+{
+    "character": "廬",
+    "details": {
+        "Âm Hán Việt": [
+            "lư",
+            "lữ"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广盧"
+        ],
+        "Nét bút": [
+            "丶一ノ丨一フノ一フ丨フ一丨一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "IYPT (戈卜心廿)"
+        ],
+        "Unicode": [
+            "U+5EEC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)",
+            "リョ (ryo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いお (io)",
+            "いおり (iori)",
+            "いえ (ie)"
+        ],
+        "Âm Hàn": [
+            "려",
+            "여"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lư": {
+            "Từ điển phổ thông": [
+                "nhà tranh, lều ở ngoài đồng",
+                "lều gác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Căn nhà đơn sơ, giản lậu. ◎Như: 'mao lư' 茅廬 lều tranh, 'tam cố thảo lư' 三顧草廬 ba lần đến ngôi nhà cỏ (điển cố: Lưu Bị ba lần đến thảo lư để cầu Khổng Minh ra giúp).",
+                "(Danh) Họ 'Lư'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhà tranh, lều, nhà ở ngoài đồng gọi là lư. Nói nhún chỗ mình ở gọi là tệ lư 敝廬 nhà tranh nát của tôi.",
+                "Cái nhà túc trực."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà tranh, lều: 茅廬 Lều tranh;",
+                "[Lú] Lư Châu (tên phủ cũ, nay ở Hợp Phì tỉnh An Huy, Trung Quốc);",
+                "[Lú] (Họ) Lư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngôi nhà nhỏ — Nhà ở — Nhà trọ — Một âm là Lữ. Xem Lữ."
+            ],
+            "compound_words": {
+                "蓬廬": "bồng lư",
+                "蘧廬": "cừ lư",
+                "廬其居": "lư kì cư",
+                "廬墓": "lư mộ",
+                "茅廬": "mao lư",
+                "蝸廬": "oa lư"
+            }
+        },
+        "lữ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cán của cây kích, một thứ binh khí thời xưa — Một âm là Lư. Xem Lư."
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "叶",
+    "details": {
+        "Âm Hán Việt": [
+            "diệp",
+            "hiệp"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰口十"
+        ],
+        "Nét bút": [
+            "丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "RJ (口十)"
+        ],
+        "Unicode": [
+            "U+53F6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shè ㄕㄜˋ",
+            "xié ㄒㄧㄝˊ",
+            "yè ㄜˋ"
+        ],
+        "Âm Nôm": [
+            "diệp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かな.える (kana.eru)",
+            "かな.う (kana.u)"
+        ],
+        "Âm Hàn": [
+            "협"
+        ],
+        "Âm Quảng Đông": [
+            "hip6"
+        ]
+    },
+    "meanings": {
+        "diệp": {
+            "Từ điển phổ thông": [
+                "lá cây"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cổ văn là chữ 'hiệp' 協. § Vần cổ lầm lạc, người nhà Tống sửa lại các chữ không hợp vần gọi là 'hiệp vận' 叶韻.",
+                "§ Giản thể của chữ 葉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lá: 竹葉 Lá tre;",
+                "Thời kì, đời: 十八世紀末葉 Thời kì cuối thế kỉ 18; 黎朝末葉 Cuối triều Lê;",
+                "Tờ (như 頁 [yè], bộ 頁);",
+                "[Yè] (Họ) Diệp Xem叶 [xié] (bộ 口)."
+            ],
+            "compound_words": {
+                "刀叶": "đao diệp",
+                "树叶": "thụ diệp"
+            }
+        },
+        "hiệp": {
+            "Từ điển trích dẫn": [
+                "(Động) Cổ văn là chữ 'hiệp' 協. § Vần cổ lầm lạc, người nhà Tống sửa lại các chữ không hợp vần gọi là 'hiệp vận' 叶韻.",
+                "§ Giản thể của chữ 葉."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cổ văn là chữ 協. Vần cổ lầm lạc, người nhà Tống sửa lại các chữ không hợp vần gọi là hiệp vận 叶韻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hài hoà, hoà hợp, ăn khớp. Xem 叶 [yè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Hiệp 協."
+            ]
+        }
+    }
+}

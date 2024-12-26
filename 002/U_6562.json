@@ -1,0 +1,88 @@
+{
+    "character": "敢",
+    "details": {
+        "Âm Hán Việt": [
+            "cảm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phác 攴 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "フ一丨丨一一一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MJOK (一十人大)"
+        ],
+        "Unicode": [
+            "U+6562"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gǎn ㄍㄢˇ"
+        ],
+        "Âm Nôm": [
+            "cám",
+            "dám"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ.えて (a.ete)",
+            "あ.えない (a.enai)",
+            "あ.えず (a.ezu)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "gam2"
+        ]
+    },
+    "meanings": {
+        "cảm": {
+            "Từ điển phổ thông": [
+                "gan dạ, dám, bạo dạn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Gan dạ, không sợ hãi. ◎Như: 'dũng cảm' 勇敢 gan dạ.",
+                "(Phó) Bạo dạn, dám. ◎Như: 'cảm tác cảm đương' 敢作敢當 dám làm dám chịu.",
+                "(Phó) Xin, mạo muội (khiêm từ). ◎Như: 'cảm vấn' 敢問 xin hỏi, 'cảm thỉnh giới thiệu' 敢請介紹 xin mạo muội giới thiệu.",
+                "(Phó) Há, sao. § Dùng như 'khởi' 豈. ◇Tả truyện 左傳: 'Nhược đắc tòng quân nhi quy, cố thần chi nguyện dã. Cảm hữu dị tâm' 若得從君而歸, 固臣之願也, 敢有異心 (Chiêu Công tam thập niên 昭公三十年) Nếu được theo quân mà về, vốn là niềm mong ước của thần. Há đâu lại có lòng khác.",
+                "(Phó) Có lẽ, chắc là. ◇Thủy hử truyện 水滸傳: 'Bất thị ngã, nhĩ cảm thác nhận liễu' 不是我, 你敢錯認了 (Đệ ngũ thập tam hồi) Không phải tôi, có lẽ ông nhìn lầm rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tiến lên, như dũng cảm 勇敢 mạnh bạo tiến lên.",
+                "Bạo dạn, như cảm tác cảm vi 敢作敢為 bạo dạn mà làm không e sợ chi.",
+                "Dám, như yên cảm cố từ 焉敢固辭 sao dám cố từ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dũng cảm, can đảm, cả gan;",
+                "Dám: 敢想，敢幹 Dám nghĩ, dám làm;",
+                "(đph) Có lẽ, hay là: 敢是他來了 Có lẽ anh ấy đến đấy;",
+                "(văn) Xin, dám (lời nói khiêm) : 敢問 Xin hỏi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dám. Dám làm, không sợ gì — Cũng là tiếng nhún nhường khi nói về sự mạo muội của mình."
+            ],
+            "compound_words": {
+                "不敢": "bất cảm",
+                "敢死": "cảm tử",
+                "勇敢": "dũng cảm",
+                "多敢": "đa cảm",
+                "果敢": "quả cảm"
+            }
+        }
+    }
+}

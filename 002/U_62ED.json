@@ -1,0 +1,81 @@
+{
+    "character": "拭",
+    "details": {
+        "Âm Hán Việt": [
+            "thức"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘式"
+        ],
+        "Nét bút": [
+            "一丨一一一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "QIPM (手戈心一)"
+        ],
+        "Unicode": [
+            "U+62ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "rị",
+            "thức",
+            "xức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)",
+            "シキ (shiki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬぐ.う (nugu.u)",
+            "ふ.く (fu.ku)"
+        ],
+        "Âm Hàn": [
+            "식"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "thức": {
+            "Từ điển phổ thông": [
+                "lau chùi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Lau, chùi. ◎Như: “phất thức” 拂拭 lau quét, “thức lệ” 拭淚 lau nước mắt. ◇Tam quốc diễn nghĩa 三國演義: “Điêu Thuyền cố túc song mi, tố ưu sầu bất lạc chi thái, phục dĩ hương la tần thức nhãn lệ” 貂蟬故蹙雙眉, 做憂愁不樂之態, 復以香羅頻拭眼淚 (Đệ bát hồi) Điêu Thuyền cố ý chau đôi mày, làm ra dáng buồn bã không vui, lại lấy khăn là nhiều lần lau nước mắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lau, như phất thức 拂拭 lau quét, thức lệ 拭淭 lau nước mắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lau, chùi: 拭淚 Lau nước mắt; 拂拭 Lau quét; 拭桌椅 Lau bàn ghế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phủi cho sạch — Quét. Lau chùi."
+            ],
+            "compound_words": {
+                "拂拭": "phất thức",
+                "擦拭": "sát thức",
+                "拭淚": "thức lệ"
+            }
+        }
+    }
+}

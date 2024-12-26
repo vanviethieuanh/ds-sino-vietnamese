@@ -1,0 +1,74 @@
+{
+    "character": "厕",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc",
+            "xí"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hán 厂 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厂则"
+        ],
+        "Nét bút": [
+            "一ノ丨フノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "MBON (一月人弓)"
+        ],
+        "Unicode": [
+            "U+5395"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "sī ㄙ",
+            "sì ㄙˋ"
+        ],
+        "Âm Nôm": [
+            "sí",
+            "xí"
+        ],
+        "Âm Quảng Đông": [
+            "ci3"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "bên cạnh",
+                "ghé vào"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 廁."
+            ]
+        },
+        "xí": {
+            "Từ điển phổ thông": [
+                "nhà xí, nhà tiêu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 廁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà xí: 茅廁 Nhà xí. Xem 厠，廁 [cè]."
+            ],
+            "compound_words": {
+                "厕坑": "xí khanh",
+                "厕所": "xí sở"
+            }
+        }
+    }
+}

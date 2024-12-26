@@ -1,0 +1,89 @@
+{
+    "character": "侮",
+    "details": {
+        "Âm Hán Việt": [
+            "hối",
+            "vũ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhân 人 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻每"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一フフ丶一丶"
+        ],
+        "Thương Hiệt": [
+            "OOWY (人人田卜)"
+        ],
+        "Unicode": [
+            "U+4FAE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wǔ ㄨˇ"
+        ],
+        "Âm Nôm": [
+            "vũ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ブ (bu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あなど.る (anado.ru)",
+            "あなず.る (anazu.ru)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mou5"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khinh lờn — Tiếng chỉ người thấp hèn — Cũng đọc Vũ."
+            ]
+        },
+        "vũ": {
+            "Từ điển phổ thông": [
+                "khinh nhờn",
+                "kẻ lấn áp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hà hiếp, lấn áp. ◎Như: 'khi vũ' 欺侮 lừa gạt hà hiếp. ◇Nguyễn Du 阮攸: 'Nại hà vũ quả nhi khi cô' 奈何侮寡而欺孤 (Cựu Hứa đô 舊許都) Sao lại áp bức vợ góa lừa dối con côi người ta (nói về Tào Tháo 曹操)?",
+                "(Động) Khinh mạn, coi thường. ◇Sử Kí 史記: 'Diễn phế tiên vương minh đức, vũ miệt thần kì bất tự' 殄廢先王明德, 侮蔑神祇不祀 (Chu bổn kỉ周本紀) Dứt bỏ đức sáng của vua trước, khinh miệt thần thánh không tế lễ.",
+                "(Động) Đùa cợt, hí lộng.",
+                "(Danh) Kẻ lấn áp. ◎Như: 'ngự vũ' 禦侮 chống lại kẻ đến lấn áp mình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khinh nhờn, như khi vũ 欺侮 lừa gạt hà hiếp.",
+                "Kẻ lấn áp, như ngự vũ 禦侮 chống kẻ đến lấn áp mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khinh nhờn, khinh miệt, hà hiếp, lấn áp, doạ nạt: 夫人必自侮, 然後人侮之 Người ta tất tự khinh mình, rồi sau người khác mới khinh mình được (Mạnh tử); 不可侮 Không doạ nạt được;",
+                "(văn) Kẻ lấn áp: 禦侮 Chống kẻ lấn áp mình."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Coi thường — Khinh lờn."
+            ],
+            "compound_words": {
+                "欺侮": "khi vũ",
+                "侮辱": "vũ nhục"
+            }
+        }
+    }
+}

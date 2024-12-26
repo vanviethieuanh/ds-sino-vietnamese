@@ -1,0 +1,93 @@
+{
+    "character": "麼",
+    "details": {
+        "Âm Hán Việt": [
+            "ma"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ma 麻 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸麻幺"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨ノ丶一丨ノ丶フフ丶"
+        ],
+        "Thương Hiệt": [
+            "IDVI (戈木女戈)"
+        ],
+        "Unicode": [
+            "U+9EBC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ",
+            "má ㄇㄚˊ",
+            "ma",
+            "mē ㄇㄜ",
+            "mé ㄇㄜˊ",
+            "me",
+            "mō ㄇㄛ",
+            "mó ㄇㄛˊ",
+            "mǒ ㄇㄛˇ"
+        ],
+        "Âm Nôm": [
+            "ma"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)",
+            "ミ (mi)",
+            "バ (ba)",
+            "マ (ma)",
+            "モ (mo)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "maa1",
+            "mo1"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "bé nhỏ",
+                "vậy (trợ ngữ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) § Xem 'yêu ma' 么麼.",
+                "(Trợ) Biểu thị nghi vấn. ◎Như: 'thập ma' 什麼 cái gì vậy?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Yêu ma 么麼 bé nhỏ, nhỏ xíu.",
+                "Tục dùng làm trợ ngữ. Như thập ma 什麼 cái gì vậy?"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bé nhỏ: 幺麼 Nhỏ, nhỏ mọn, nhỏ nhen. Xem 麼 [me], [mó]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé. thấp bé — Tiếng trợ ngữ dùng cuối câu hỏi ( nghi vấn trợ ngữ từ ). Dùng trong bạch thoại."
+            ],
+            "compound_words": {
+                "怎麼": "trẩm ma",
+                "多麼": "đa ma",
+                "那麼": "na ma",
+                "什麼": "thập ma",
+                "甚麼": "thậm ma",
+                "么麼": "yêu ma"
+            }
+        }
+    }
+}

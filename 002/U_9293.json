@@ -1,0 +1,82 @@
+{
+    "character": "銓",
+    "details": {
+        "Âm Hán Việt": [
+            "thuyên"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "kim 金 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金全"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丶一一丨一"
+        ],
+        "Thương Hiệt": [
+            "COMG (金人一土)"
+        ],
+        "Unicode": [
+            "U+9293"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "quán ㄑㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "thoen",
+            "thuyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はか.る (haka.ru)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "cyun4"
+        ]
+    },
+    "meanings": {
+        "thuyên": {
+            "Từ điển phổ thông": [
+                "cân nhắc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cân.",
+                "(Danh) Loại văn tự nghị luận, bình giải trong sách sử ngày xưa.",
+                "(Động) Cân nhắc.",
+                "(Động) Tuyển chọn kẻ hiền bổ vào làm quan. ◎Như: 'thuyên chuyển' 銓轉 bổ và đổi quan chức từ chỗ này qua chỗ khác.",
+                "(Động) Nép, nằm phục. § Thông 'thuyên' 跧."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cân nhắc.",
+                "Chọn kẻ hiền bổ vào làm quan gọi là thuyên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cân nhắc nặng nhẹ;",
+                "Xét phẩm chất để tuyển chọn quan lại: 銓選 Chọn nhân tài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chọn người tài ra làm quan — Cân nhắc."
+            ],
+            "compound_words": {
+                "銓轉": "thuyên chuyển"
+            }
+        }
+    }
+}

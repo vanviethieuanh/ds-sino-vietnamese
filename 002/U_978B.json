@@ -1,0 +1,86 @@
+{
+    "character": "鞋",
+    "details": {
+        "Âm Hán Việt": [
+            "hài"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "cách 革 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰革圭"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一丨一丨一一丨一"
+        ],
+        "Thương Hiệt": [
+            "TJGG (廿十土土)"
+        ],
+        "Unicode": [
+            "U+978B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wā ㄨㄚ",
+            "xié ㄒㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "giày",
+            "hài"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アイ (ai)",
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わらじ (waraji)",
+            "くつ (kutsu)"
+        ],
+        "Âm Hàn": [
+            "혜",
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "haai4"
+        ]
+    },
+    "meanings": {
+        "hài": {
+            "Từ điển phổ thông": [
+                "giày, dép"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Giày, dép. ◎Như: “bì hài” 皮鞋 giày da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giày (thứ giày buộc dây)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giày, dép: 一雙皮鞋 Một đôi giày da; 草鞋 Dép cói; 拖鞋 Dép lê."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dép để đi, mang ở chân. Cũng chỉ giày guốc. Chẳng hạn mộc hài ( guốc ). Cách hài ( giày da )."
+            ],
+            "compound_words": {
+                "冰鞋": "băng hài",
+                "布鞋": "bố hài",
+                "弓鞋": "cung hài",
+                "鳳頭鞋": "phượng đầu hài",
+                "拖鞋": "tha hài",
+                "便鞋": "tiện hài",
+                "文鞋": "văn hài"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "character": "晴",
+    "details": {
+        "Âm Hán Việt": [
+            "tình"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhật 日 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日青"
+        ],
+        "Nét bút": [
+            "丨フ一一一一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "AQMB (日手一月)"
+        ],
+        "Unicode": [
+            "U+6674"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qíng ㄑㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "tành",
+            "thanh",
+            "tình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.れる (ha.reru)",
+            "は.れ (ha.re)",
+            "は.れ- (ha.re-)",
+            "-ば.れ (-ba.re)",
+            "は.らす (ha.rasu)"
+        ],
+        "Âm Hàn": [
+            "청"
+        ],
+        "Âm Quảng Đông": [
+            "ceng4",
+            "cing4"
+        ]
+    },
+    "meanings": {
+        "tình": {
+            "Từ điển phổ thông": [
+                "tạnh (trời không mưa)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tạnh, mưa hoặc tuyết ngừng rơi. ◇Thủy hử truyện 水滸傳: 'Thử thì tàn tuyết sơ tình' 此時殘雪初晴 (Đệ thập nhị hồi) Lúc đó tuyết tàn vừa mới tạnh.",
+                "(Danh) Trời trong sáng, không mây. ◇Tô Thức 蘇軾: 'Nguyệt hữu âm tình viên khuyết' 月有陰晴圓缺 (Thủy điệu ca đầu 水調歌頭) Trăng có đầy vơi mờ tỏ.",
+                "(Tính) Trong sáng, tạnh ráo, quang đãng. ◎Như: 'tình không vạn lí' 晴空萬里 bầu trời quang đãng muôn dặm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tạnh, lúc không mưa gọi là tình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Trời) quang, tạnh: 天已放晴 Trời đã quang; 雨過天晴 Trời quang mưa tạnh; 晴川 Sông tạnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tạnh mưa — Trời quang đảng, không mây."
+            ],
+            "compound_words": {
+                "陰晴": "âm tình",
+                "晴空": "tình không",
+                "晴朗": "tình lãng",
+                "晴天": "tình thiên"
+            }
+        }
+    }
+}

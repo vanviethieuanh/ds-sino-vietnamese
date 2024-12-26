@@ -1,0 +1,62 @@
+{
+    "character": "腲",
+    "details": {
+        "Âm Hán Việt": [
+            "uỷ",
+            "ổi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhục 肉 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿰月畏"
+        ],
+        "Nét bút": [
+            "ノフ一一丨フ一丨一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BWMV (月田一女)"
+        ],
+        "Unicode": [
+            "U+8172"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wěi ㄨㄟˇ"
+        ],
+        "Âm Quảng Đông": [
+            "wai2"
+        ]
+    },
+    "meanings": {
+        "uỷ": {
+            "Từ điển phổ thông": [
+                "(xem: uỷ nỗi 腲腇)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xem 主;",
+                "【腲腇】uỷ nỗi [wâinâi] a. Chậm rãi; b. Chậm chạp; c. Mập mạp."
+            ],
+            "compound_words": {
+                "腲腇": "uỷ nỗi"
+            }
+        },
+        "ổi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Béo tốt mập mạp. Cũng gọi là Ổi thối 腲骽, Ổi nỗi 腲腇."
+            ],
+            "compound_words": {
+                "腲腇": "ổi nỗi",
+                "腲骽": "ổi thối"
+            }
+        }
+    }
+}

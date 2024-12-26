@@ -1,0 +1,110 @@
+{
+    "character": "泉",
+    "details": {
+        "Âm Hán Việt": [
+            "toàn",
+            "tuyền"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình & hội ý"
+        ],
+        "Hình thái": [
+            "⿱白水"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HAE (竹日水)"
+        ],
+        "Unicode": [
+            "U+6CC9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "quán ㄑㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "tuyền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いずみ (izumi)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cyun4"
+        ]
+    },
+    "meanings": {
+        "toàn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Suối, nguồn. ◎Như: 'lâm tuyền' 林泉 rừng và suối, chỉ nơi ở ẩn, 'tuyền đài' 泉臺 nơi có suối, cũng như 'hoàng tuyền' 黃泉 suối vàng, đều chỉ cõi chết. ◇Âu Dương Tu 歐陽修: 'Phong hồi lộ chuyển, hữu đình dực nhiên lâm ư tuyền thượng giả, Túy Ông đình dã' 峰回路轉, 有亭翼然臨於泉上者, 醉翁亭也 (Túy Ông đình kí 醉翁亭記) Núi quanh co, đường uốn khúc, có ngôi đình như giương cánh trên bờ suối, đó là đình Ông Lão Say.",
+                "(Danh) Tiền. § Ngày xưa gọi đồng tiền là 'tuyền' 泉.",
+                "§ Ghi chú: Có khi đọc là 'toàn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Suối, nguồn.",
+                "Tiền, ngày xưa gọi đồng tiền là tuyền, có khi đọc là toàn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Tuyền."
+            ]
+        },
+        "tuyền": {
+            "Từ điển phổ thông": [
+                "dòng suối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Suối, nguồn. ◎Như: 'lâm tuyền' 林泉 rừng và suối, chỉ nơi ở ẩn, 'tuyền đài' 泉臺 nơi có suối, cũng như 'hoàng tuyền' 黃泉 suối vàng, đều chỉ cõi chết. ◇Âu Dương Tu 歐陽修: 'Phong hồi lộ chuyển, hữu đình dực nhiên lâm ư tuyền thượng giả, Túy Ông đình dã' 峰回路轉, 有亭翼然臨於泉上者, 醉翁亭也 (Túy Ông đình kí 醉翁亭記) Núi quanh co, đường uốn khúc, có ngôi đình như giương cánh trên bờ suối, đó là đình Ông Lão Say.",
+                "(Danh) Tiền. § Ngày xưa gọi đồng tiền là 'tuyền' 泉.",
+                "§ Ghi chú: Có khi đọc là 'toàn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Suối, nguồn.",
+                "Tiền, ngày xưa gọi đồng tiền là tuyền, có khi đọc là toàn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Suối: 溫泉 Suối nước nóng; 淚如泉涌 Nước mắt trào ra như suối; 崑山有泉 Núi Côn sơn có suối (Nguyễn Trãi: Côn Sơn ca);",
+                "(văn) Tiền, đồng tiền;",
+                "[Quán] (Họ) Tuyền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dòng suối. Cũng đọc Toàn — Chỉ tiền bạc."
+            ],
+            "compound_words": {
+                "碧落黃泉": "bích lạc hoàng tuyền",
+                "甘泉": "cam tuyền",
+                "窮泉": "cùng tuyền",
+                "九泉": "cửu tuyền",
+                "涌泉": "dũng tuyền",
+                "黃泉": "hoàng tuyền",
+                "鑛泉": "khoáng tuyền",
+                "林泉": "lâm tuyền",
+                "巖泉": "nham tuyền",
+                "溫泉": "ôn tuyền",
+                "飛泉": "phi tuyền",
+                "喷泉": "phún tuyền",
+                "噴泉": "phún tuyền",
+                "沙泉": "sa tuyền",
+                "泉臺": "tuyền đài",
+                "泉石": "tuyền thạch"
+            }
+        }
+    }
+}

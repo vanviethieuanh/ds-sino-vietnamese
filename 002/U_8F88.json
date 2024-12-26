@@ -1,0 +1,66 @@
+{
+    "character": "辈",
+    "details": {
+        "Âm Hán Việt": [
+            "bối"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "xa 車 (+8 nét)",
+            "phi 非 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱非车"
+        ],
+        "Nét bút": [
+            "丨一一一丨一一一一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "LYKQ (中卜大手)"
+        ],
+        "Unicode": [
+            "U+8F88"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bối"
+        ],
+        "Âm Quảng Đông": [
+            "bui3"
+        ]
+    },
+    "meanings": {
+        "bối": {
+            "Từ điển phổ thông": [
+                "lũ, bọn, chúng",
+                "hàng xe, dãy xe",
+                "ví, so sánh",
+                "thế hệ, lớp người",
+                "hạng, lớp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 輩."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 輩"
+            ],
+            "compound_words": {
+                "同辈": "đồng bối",
+                "前辈": "tiền bối"
+            }
+        }
+    }
+}

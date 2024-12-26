@@ -1,0 +1,89 @@
+{
+    "character": "悼",
+    "details": {
+        "Âm Hán Việt": [
+            "nạo",
+            "điệu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖卓"
+        ],
+        "Nét bút": [
+            "丶丶丨丨一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "PYAJ (心卜日十)"
+        ],
+        "Unicode": [
+            "U+60BC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dào ㄉㄠˋ"
+        ],
+        "Âm Nôm": [
+            "điệu",
+            "xịu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いた.む (ita.mu)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou6"
+        ]
+    },
+    "meanings": {
+        "nạo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hãi — Thương tổn — Yêu mến — Ta quen đọc là Điệu. Td: Truy điệu ( xót thương người chết )."
+            ]
+        },
+        "điệu": {
+            "Từ điển phổ thông": [
+                "thương tiếc",
+                "viếng người chết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thương cảm, đau buồn. ◇Thi Kinh 詩經: 'Tĩnh ngôn tư chi, Cung tự điệu hĩ' 靜言思之, 躬自悼矣 (Vệ phong 衛風, Manh 氓) Lặng lẽ em nghĩ về tình cảnh đó, Tự mình thương cảm cho thân em mà thôi.",
+                "(Động) Thương tiếc. ◎Như: 'truy điệu' 追悼 nhớ lại và thương tiếc, 'ta điệu' 嗟悼 than tiếc.",
+                "(Động) Sợ hãi. ◇Trang Tử 莊子: 'Cập kì đắc chá cức chỉ cẩu chi gian dã, nguy hành trắc thị, chấn động điệu lật' 及其得柘棘枳枸之間也, 危行側視, 振動悼慄 (San mộc 山木) Đến khi vào trong đám cây chá, gai, chỉ, cẩu kỉ thì đi rón rén, nhìn lấm lét, rúng động run sợ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thương.",
+                "Thương tiếc, phàm viếng kẻ đã qua đời đều gọi là điệu. Như truy điệu 追悼 chết rồi mới làm lễ viếng theo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thương, thương tiếc, thương nhớ, (truy) điệu: 哀悼 Thương xót; 追悼 Truy điệu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thương xót. Chẳng hạn Truy điệu ( đuổi theo mà xót thương, tức xót thương người chết )."
+            ],
+            "compound_words": {
+                "哀悼": "ai điệu",
+                "悲悼": "bi điệu",
+                "軫悼": "chẩn điệu",
+                "追悼": "truy điệu"
+            }
+        }
+    }
+}

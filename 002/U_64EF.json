@@ -1,0 +1,95 @@
+{
+    "character": "擯",
+    "details": {
+        "Âm Hán Việt": [
+            "bấn",
+            "thấn",
+            "tấn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thủ 手 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘賓"
+        ],
+        "Nét bút": [
+            "一丨一丶丶フ一丨ノノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QJMC (手十一金)"
+        ],
+        "Unicode": [
+            "U+64EF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bìn ㄅㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒン (hin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しりぞ.ける (shirizo.keru)"
+        ],
+        "Âm Hàn": [
+            "빈"
+        ],
+        "Âm Quảng Đông": [
+            "ban3"
+        ]
+    },
+    "meanings": {
+        "bấn": {
+            "Từ điển phổ thông": [
+                "ruồng đuổi"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ruồng đuổi.",
+                "Một âm là thấn. Người giúp lễ cho chủ gọi là thấn 擯, người giúp lễ cho khách gọi là giới 介."
+            ],
+            "compound_words": {
+                "擯棄": "bấn khí",
+                "擯除": "bấn trừ",
+                "擯斥": "bấn xích"
+            }
+        },
+        "thấn": {
+            "Từ điển Thiều Chửu": [
+                "Ruồng đuổi.",
+                "Một âm là thấn. Người giúp lễ cho chủ gọi là thấn 擯, người giúp lễ cho khách gọi là giới 介."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đuổi, bỏ, loại, gạt, bài bác: 擯諸門外 Đuổi ra khỏi nhà; 擯而不用 Vứt bỏ không dùng;",
+                "(văn) Người giúp lễ cho chủ nhà."
+            ]
+        },
+        "tấn": {
+            "Từ điển trích dẫn": [
+                "(Động) Ruồng đuổi, gạt bỏ. ◎Như: 'tấn nhi bất dụng' 擯而不用 vứt bỏ không dùng. ◇Tô Mạn Thù 蘇曼殊: 'Tức tấn ngã quy' 即擯我歸 (Đoạn hồng linh nhạn kí 斷鴻零雁記) Tức thì đuổi tôi về.",
+                "(Động) Tiếp đãi, nghênh đón. § Thông 'tấn' 儐. ◇Chu Lễ 周禮: 'Phàm tứ phương chi sứ giả, đại khách tắc bấn' 凡四方之使者, 大客則擯 (Thu quan 秋官, Tiểu hành nhân 小行人) Phàm sứ giả từ bốn phương đến, khách quan trọng thì tiếp rước.",
+                "(Danh) Người giúp lễ cho chủ gọi là 'tấn' 擯, người giúp lễ cho khách gọi là 'giới' 介."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đuổi, bỏ, loại, gạt, bài bác: 擯諸門外 Đuổi ra khỏi nhà; 擯而不用 Vứt bỏ không dùng;",
+                "(văn) Người giúp lễ cho chủ nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chê bai. Bỏ đi — Ruồng đuổi."
+            ]
+        }
+    }
+}

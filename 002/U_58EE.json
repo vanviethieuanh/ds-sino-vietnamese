@@ -1,0 +1,87 @@
+{
+    "character": "壮",
+    "details": {
+        "Âm Hán Việt": [
+            "trang",
+            "tráng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "sĩ 士 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰丬士"
+        ],
+        "Nét bút": [
+            "丶一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "LMG (中一土)"
+        ],
+        "Unicode": [
+            "U+58EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhuàng ㄓㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "tráng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さかん (sakan)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zong3"
+        ]
+    },
+    "meanings": {
+        "trang": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trang 壯."
+            ]
+        },
+        "tráng": {
+            "Từ điển phổ thông": [
+                "mạnh mẽ",
+                "người đến 30 tuổi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 壯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khỏe, mạnh mẽ, cường tráng: 他身體很壯 Anh ấy khỏe lắm; 強壯 Khỏe mạnh, vạm vỡ;",
+                "Tăng, làm cho mạnh thêm: 以壯聲勢 Để tăng thêm thanh thế;",
+                "Lúc thanh xuân, thời trai tráng;",
+                "Lớn;",
+                "(Tên gọi khác của) tháng Tám âm lịch;",
+                "Một mồi thuốc cứu (để đốt chữa bệnh);",
+                "[Zhuàng] (Dân tộc) Choang."
+            ],
+            "compound_words": {
+                "悲壮": "bi tráng",
+                "宏壮": "hoành tráng",
+                "雄壮": "hùng tráng",
+                "壮大": "tráng đại",
+                "壮丽": "tráng lệ",
+                "壮观": "tráng quan"
+            }
+        }
+    }
+}

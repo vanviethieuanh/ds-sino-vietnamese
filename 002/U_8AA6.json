@@ -1,0 +1,99 @@
+{
+    "character": "誦",
+    "details": {
+        "Âm Hán Việt": [
+            "tụng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言甬"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ丶丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YRNIB (卜口弓戈月)"
+        ],
+        "Unicode": [
+            "U+8AA6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sòng ㄙㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tọng",
+            "tộng",
+            "tụng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ジュ (ju)",
+            "ズ (zu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とな.える (tona.eru)",
+            "よ.む (yo.mu)"
+        ],
+        "Âm Hàn": [
+            "송"
+        ],
+        "Âm Quảng Đông": [
+            "zung6"
+        ]
+    },
+    "meanings": {
+        "tụng": {
+            "Từ điển phổ thông": [
+                "đọc to và rõ",
+                "tụng kinh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngâm, đọc. ◎Như: 'lãng tụng' 朗誦 đọc rành rọt.",
+                "(Động) Khen ngợi. § Thông 'tụng' 頌. ◎Như: 'xưng tụng' 稱誦 ca ngợi.",
+                "(Động) Kể, thuật, nói lại. ◇Mạnh Tử 孟子: 'Tụng Nghiêu chi ngôn' 誦堯之言 (Cáo tử hạ 告子下) Thuật lại lời của vua Nghiêu.",
+                "(Động) Thuộc lòng. ◎Như: 'bội tụng' 背誦 đọc thuộc lòng. ◇Đỗ Phủ 杜甫: 'Quần thư vạn quyển thường ám tụng' 詩群書萬卷常暗誦 (Khả thán 可歎) Hàng vạn cuốn sách thường thầm đọc thuộc lòng.",
+                "(Động) Oán trách.",
+                "(Danh) Bài tụng, thơ văn. ◇Thi Kinh 詩經: 'Gia Phụ tác tụng' 家父作誦 (Tiểu nhã 小雅, Tiết nam san 節南山) (Đại phu) Gia Phụ làm thơ văn.",
+                "(Phó) Công khai. § Thông 'tụng' 頌. ◎Như: 'tụng ngôn' 誦言 nói công khai. § Cũng như 'công ngôn' 公言."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tụng rành rọt, đọc sách lên giọng cho rành rọt gọi là tụng.",
+                "Khen ngợi, như xưng tụng 稱誦",
+                "Bài tụng, như bài thơ.",
+                "Oán trách."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đọc, ngâm: 誦詩 Ngâm thơ, đọc thơ; 朗誦詩歌 Bình thơ;",
+                "Kể, nói lại;",
+                "(văn) Khen ngợi: 稱誦 Xưng tụng, ca ngợi;",
+                "(văn) Bài tụng;",
+                "(văn) Oán trách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đọc lớn tiếng."
+            ],
+            "compound_words": {
+                "背誦": "bối tụng",
+                "歌誦": "ca tụng",
+                "記誦": "ký tụng",
+                "嘆誦": "thán tụng",
+                "誦經": "tụng kinh",
+                "誦念": "tụng niệm"
+            }
+        }
+    }
+}

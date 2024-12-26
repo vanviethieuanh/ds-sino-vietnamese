@@ -1,0 +1,93 @@
+{
+    "character": "蝸",
+    "details": {
+        "Âm Hán Việt": [
+            "oa",
+            "qua"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫咼"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フフ丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIBBR (中戈月月口)"
+        ],
+        "Unicode": [
+            "U+8778"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "guā ㄍㄨㄚ",
+            "guǒ ㄍㄨㄛˇ",
+            "luó ㄌㄨㄛˊ",
+            "wō ㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "oa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かたつむり (katatsumuri)"
+        ],
+        "Âm Hàn": [
+            "와",
+            "왜"
+        ],
+        "Âm Quảng Đông": [
+            "wo1"
+        ]
+    },
+    "meanings": {
+        "oa": {
+            "Từ điển phổ thông": [
+                "con ốc sên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Oa ngưu' 蝸牛 con sên. § Còn gọi là: 'triện sầu quân' 篆愁君, 'thủy ngưu nhi' 水牛兒.",
+                "(Tính) Tỉ dụ cái gì hẹp hòi, nhỏ bé. ◎Như: 'oa giác vi danh' 蝸角微名 chỗ danh nhỏ xíu, 'oa cư' 蝸居 chỗ ở hẹp hòi, 'oa lư' 蝸廬 cái lều cỏn con."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Oa ngưu 蝸牛 con sên, một tên là khoát du 蛞蝓. Trang Tử 莊子 có câu: Man Xúc nhị thị, quốc ư oa chi giác nhi tranh 蠻觸二氏國於蝸之角而爭 nghĩa là hai họ Man Xúc chiếm từng góc mà tranh nhau, ý nói khí cục nhỏ bé lắm. Như nói oa giác vi danh 蝸角微名 chỗ danh nhỏ xíu, oa cư 蝸居 chỗ ở hẹp hòi, oa lư 蝸廬 cái lều cỏn con, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蝸牛】oa ngưu [woniú] Con ốc sên. Cg. 蛞蝓 [kuòyú]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ốc sên."
+            ],
+            "compound_words": {
+                "蝸角": "oa giác",
+                "蝸廬": "oa lư",
+                "蝸舍": "oa xá"
+            }
+        },
+        "qua": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Oa. Xem các từ ngữ 蝸角, 蝸牛, 蝸舍."
+            ],
+            "compound_words": {
+                "蝸角": "qua giác",
+                "蝸牛": "qua ngưu",
+                "蝸舍": "qua xá"
+            }
+        }
+    }
+}

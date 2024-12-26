@@ -1,0 +1,93 @@
+{
+    "character": "姁",
+    "details": {
+        "Âm Hán Việt": [
+            "hu",
+            "hú",
+            "hủ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nữ 女 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女句"
+        ],
+        "Nét bút": [
+            "フノ一ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "VPR (女心口)"
+        ],
+        "Unicode": [
+            "U+59C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xū ㄒㄩ",
+            "xǔ ㄒㄩˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はは (haha)",
+            "たの.しむ (tano.shimu)",
+            "つま (tsuma)",
+            "うつく.しい (utsuku.shii)"
+        ],
+        "Âm Hàn": [
+            "후"
+        ],
+        "Âm Quảng Đông": [
+            "heoi1",
+            "heoi2"
+        ]
+    },
+    "meanings": {
+        "hu": {
+            "Từ điển phổ thông": [
+                "(xem: hu du 姁媮)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【姁媮】hu du [xuyú] (văn) Đẹp;",
+                "Vui hoà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vui vẻ. Cũng nói là Hu du 姁媮 — Một âm khác là Hú."
+            ],
+            "compound_words": {
+                "姁媮": "hu du"
+            }
+        },
+        "hú": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bà già — Một âm là Hu."
+            ]
+        },
+        "hủ": {
+            "Từ điển phổ thông": [
+                "yên vui",
+                "ôn hoà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Yên vui, vui vẻ.",
+                "(Tính) Ôn hòa. ◇Cổ huấn 古訓 'Hủ chi ẩu chi, xuân hạ sở dĩ sanh dục dã, sương chi tuyết chi, thu đông sở dĩ thành thục dã' 姁之嫗之, 春夏所以生育也, 霜之雪之, 秋冬所以成熟也 Nhờ tươi nhờ tốt, xuân hạ do đó nuôi sống vậy, nhờ tuyết nhờ sương, thu đông do đó mà chín muồi vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Yên vui;",
+                "Ôn hoà."
+            ]
+        }
+    }
+}

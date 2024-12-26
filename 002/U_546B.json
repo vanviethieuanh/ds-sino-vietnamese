@@ -1,0 +1,121 @@
+{
+    "character": "呫",
+    "details": {
+        "Âm Hán Việt": [
+            "chiếp",
+            "thiếp",
+            "triệp",
+            "triệt",
+            "xiếp"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口占"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RYR (口卜口)"
+        ],
+        "Unicode": [
+            "U+546B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chè ㄔㄜˋ",
+            "tiē ㄊㄧㄝ",
+            "tiè ㄊㄧㄝˋ",
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nôm": [
+            "chễm",
+            "chiêm",
+            "chím",
+            "chòm",
+            "chùm",
+            "dụm",
+            "giụm",
+            "nhóm",
+            "xúm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "ショウ (shō)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な.める (na.meru)",
+            "ささや.く (sasaya.ku)",
+            "しゃべ.る (shabe.ru)"
+        ],
+        "Âm Hàn": [
+            "첩"
+        ],
+        "Âm Quảng Đông": [
+            "cip3",
+            "tip3"
+        ]
+    },
+    "meanings": {
+        "chiếp": {
+            "Từ điển trích dẫn": [
+                "(Động) Nếm, uống. ◎Như: 'chiếp huyết chi minh' 呫血之盟 uống máu ăn thề.",
+                "(Động) Nhấm, mút (nhắp vào miệng một số lượng nhỏ).",
+                "(Trạng thanh) 'Chiếp chiếp' 呫呫 tụng đọc thì thầm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chiếp chiếp 呫呫 thì thầm."
+            ],
+            "compound_words": {
+                "呫呫": "chiếp chiếp",
+                "呫囁": "chiếp chiếp",
+                "呫嚅": "chiếp nhu"
+            }
+        },
+        "thiếp": {
+            "Từ điển phổ thông": [
+                "nếm, uống"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nếm, uống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nếm thử xem mùi vị thế nào."
+            ]
+        },
+        "triệp": {
+            "Từ điển phổ thông": [
+                "nói thầm, thì thầm"
+            ]
+        },
+        "triệt": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thì thầm: 呫囁 Thì thầm bên tai; 呫呫 Lem lém nói mãi."
+            ]
+        },
+        "xiếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Xiếp nhu 呫嚅, Xiếp nhiếp 呫囁, Xiếp xiếp 呫呫."
+            ],
+            "compound_words": {
+                "呫囁": "xiếp nhiếp",
+                "呫嚅": "xiếp nhu",
+                "呫呫": "xiếp xiếp"
+            }
+        }
+    }
+}

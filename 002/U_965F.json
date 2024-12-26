@@ -1,0 +1,89 @@
+{
+    "character": "陟",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "phụ 阜 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖步"
+        ],
+        "Nét bút": [
+            "フ丨丨一丨一丨ノノ"
+        ],
+        "Thương Hiệt": [
+            "NLYLH (弓中卜中竹)"
+        ],
+        "Unicode": [
+            "U+965F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dé ㄉㄜˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "trắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョク (choku)",
+            "トク (toku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すす.む (susu.mu)",
+            "のぼ.る (nobo.ru)"
+        ],
+        "Âm Hàn": [
+            "척"
+        ],
+        "Âm Quảng Đông": [
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "trèo lên",
+                "cất nhắc, thăng chức"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trèo, lên cao. ◎Như: 'trắc bỉ nam sơn' 陟彼南山 trèo lên núi nam kia.",
+                "(Động) Cất lên, thăng lên (quan, chức). Tiến dụng gọi là 'trắc' 陟, bãi chức gọi là 'truất' 黜. ◎Như: 'truất trắc' 黜陟 cách chức và thăng quan.",
+                "(Tính) Cao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trèo lên. Như trắc bỉ nam sơn 陟彼南山 trèo lên núi nam kia.",
+                "Cất lên, tiến lên dùng gọi là trắc 陟, phải cách tuột gọi là truất 黜. Như truất trắc 黜陟 cách chức và thăng quan.",
+                "Cao.",
+                "Được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trèo, lên (cao): 陟彼南山Trèo lên núi nam (Thi Kinh);",
+                "Cất lên, thăng lên (chức vụ): 黜陟 Giáng và thăng chức;",
+                "(Vua) băng hà;",
+                "Cao;",
+                "Được."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cao — Lên cao — Cất lên."
+            ],
+            "compound_words": {
+                "陟屺": "trắc dĩ",
+                "陟岵": "trắc hỗ"
+            }
+        }
+    }
+}

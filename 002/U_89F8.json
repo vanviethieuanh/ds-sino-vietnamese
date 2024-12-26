@@ -1,0 +1,106 @@
+{
+    "character": "觸",
+    "details": {
+        "Âm Hán Việt": [
+            "xúc"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "giác 角 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰角蜀"
+        ],
+        "Nét bút": [
+            "ノフノフ一一丨丨フ丨丨一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NBWLI (弓月田中戈)"
+        ],
+        "Unicode": [
+            "U+89F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chù ㄔㄨˋ"
+        ],
+        "Âm Nôm": [
+            "húc",
+            "xóc",
+            "xốc",
+            "xúc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふ.れる (fu.reru)",
+            "さわ.る (sawa.ru)"
+        ],
+        "Âm Hàn": [
+            "촉"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1",
+            "zuk1"
+        ]
+    },
+    "meanings": {
+        "xúc": {
+            "Từ điển phổ thông": [
+                "húc, đâm",
+                "chạm vào, sờ vào",
+                "cảm động",
+                "xúc phạm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Húc, đâm. ◇Dịch Kinh 易經: 'Đê dương xúc phiên, luy kì giác' 羝羊觸藩, 羸其角 (Đại tráng quái 大壯卦) Con cừu đực húc rào, mắc kẹt sừng vào đó.",
+                "(Động) Chạm biết, đụng chạm. ◎Như: 'tiếp xúc ư nhĩ mục' 接觸於耳目 tai nghe thấy, mắt trông thấy, 'xúc cảnh sanh tình' 觸景生情 thấy cảnh vật mà phát sinh tình cảm, 'xúc điện' 觸電 điện giật.",
+                "(Động) Cảm động, động đến tâm. ◎Như: 'cảm xúc' 感觸 cảm động.",
+                "(Động) Can phạm, mạo phạm. ◎Như: 'xúc húy' 觸諱 xúc phạm chỗ kiêng, 'xúc phạm trưởng thượng' 觸犯長上 xúc phạm người trên.",
+                "(Tính) Khắp. ◎Như: 'xúc xứ giai thị' 觸處皆是 đâu đâu cũng thế.",
+                "(Danh) Họ 'Xúc'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Húc, đâm.",
+                "Tiếp xúc, chạm biết. Phàm sự vật gì chạm sát nhau đều gọi là xúc. Như tiếp xúc ư nhĩ mục 接觸於耳目 tai nghe thấy, mắt trông thấy.",
+                "Lại sự vật gì nhiều lắm đều gọi là xúc. Như xúc xứ giai thị 觸處皆是 đâu đâu cũng thế.",
+                "Cảm xúc, nhân cớ đó mà động đến tâm mình đều gọi là xúc. Như xúc phát 觸發 cảm xúc phát ra.",
+                "Can phạm, như xúc huý 觸諱 xúc phạm chỗ kiêng, nói với làm trái nhau đều gọi là để xúc 抵觸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chạm, đụng, tiếp xúc, xúc phạm, phạm đến, tiếp với: 接觸 Tiếp xúc;",
+                "Húc, đâm, mắc phải: 羝羊觸藩 Dê đực húc rào;",
+                "Cảm động, xúc động, xúc cảm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói về loài vật dùng sừng húc nhau — Đụng chạm — Phạm vào. Lấn vào. Td: Xúc phạm — Rung động. Td: Cảm xúc."
+            ],
+            "compound_words": {
+                "感觸": "cảm xúc",
+                "接觸": "tiếp xúc",
+                "棖觸": "tranh xúc",
+                "觸感": "xúc cảm",
+                "觸動": "xúc động",
+                "觸覺": "xúc giác",
+                "觸目": "xúc mục",
+                "觸言": "xúc ngôn",
+                "觸語": "xúc ngữ",
+                "觸怒": "xúc nộ",
+                "觸犯": "xúc phạm",
+                "觸官": "xúc quan",
+                "觸手": "xúc thủ"
+            }
+        }
+    }
+}

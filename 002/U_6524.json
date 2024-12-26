@@ -1,0 +1,88 @@
+{
+    "character": "攤",
+    "details": {
+        "Âm Hán Việt": [
+            "than"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "thủ 手 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘難"
+        ],
+        "Nét bút": [
+            "一丨一一丨丨一丨フ一一一ノ丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "QTOG (手廿人土)"
+        ],
+        "Unicode": [
+            "U+6524"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tān ㄊㄢ"
+        ],
+        "Âm Nôm": [
+            "nắn",
+            "than"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひら.く (hira.ku)"
+        ],
+        "Âm Hàn": [
+            "탄",
+            "난"
+        ],
+        "Âm Quảng Đông": [
+            "taan1"
+        ]
+    },
+    "meanings": {
+        "than": {
+            "Từ điển phổ thông": [
+                "hàng quán"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bày, rải, trải. ◇Thủy hử truyện 水滸傳: 'Địa thượng than trước thập sổ cá cao dược' 地上攤著十數個膏藥 (Đệ tam hồi) Dưới đất bày mười mấy thứ thuốc cao.",
+                "(Động) Công khai, không che dấu.",
+                "(Động) Chia, phân phối. ◎Như: 'than tiền' 攤錢 chia tiền, 'quân than nhậm vụ' 均攤任務 phân chia đồng đều nhiệm vụ.",
+                "(Động) Tráng (cách nấu ăn làm thành phiến mỏng). ◎Như: 'than kê đản' 攤雞蛋 tráng trứng gà, 'than tiên bính' 攤煎餅 tráng bánh.",
+                "(Động) Gặp phải, đụng phải (việc bất như ý). ◎Như: 'than đáo ma phiền' 攤到麻煩 gặp phải chuyện phiền phức.",
+                "(Danh) Sạp, chỗ bày hàng. ◎Như: 'hóa than' 貨攤 sạp hàng. ◇Lão tàn du kí 老殘遊記: 'Lưỡng biên bãi địa than, thụ mại nông gia khí cụ' 兩邊擺地攤, 售賣農家器具 (Đệ thập hồi) Hai bên bày sạp trên đất, bán dụng cụ nhà nông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vuốt ra, lấy tay vuốt ra.",
+                "Bày ra, bày hàng đem ra bán các nơi.",
+                "Chia đều, chia các số lớn ra các phần nhỏ đều nhau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mở ra, bày ra, rải ra (đồ vật hoặc hàng bán): 攤場 Rải thóc (lúa...) ra phơi;",
+                "Tráng (trứng, bánh...): 攤雞蛋 Tráng trứng gà; 攤煎餅 Tráng bánh;",
+                "Vuốt ra, tuốt ra (bằng tay);",
+                "Chia đều, bổ: 每人攤五元 Mỗi người đóng góp 5 đồng; 攤派 Chia, bổ;",
+                "Sạp, quán hàng: 水果攤兒 Sạp bán hoa quả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mở ra. Mở mang — Phân phối đồng đều — Bày trải ra trên đất."
+            ],
+            "compound_words": {
+                "報攤": "báo than"
+            }
+        }
+    }
+}

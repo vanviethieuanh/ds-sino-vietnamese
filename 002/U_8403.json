@@ -1,0 +1,106 @@
+{
+    "character": "萃",
+    "details": {
+        "Âm Hán Việt": [
+            "thuý",
+            "tuý",
+            "tuỵ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹卒"
+        ],
+        "Nét bút": [
+            "一丨丨丶一ノ丶ノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "TYOJ (廿卜人十)"
+        ],
+        "Unicode": [
+            "U+8403"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cuì ㄘㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "tuỵ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)",
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.まる (atsu.maru)"
+        ],
+        "Âm Hàn": [
+            "췌"
+        ],
+        "Âm Quảng Đông": [
+            "seoi6"
+        ]
+    },
+    "meanings": {
+        "thuý": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thuý thái 萃蔡: Tiếng quần áo loạt xoạt — Xem Tuỵ."
+            ],
+            "compound_words": {
+                "萃蔡": "thuý thái"
+            }
+        },
+        "tuý": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mầu cỏ xanh."
+            ]
+        },
+        "tuỵ": {
+            "Từ điển phổ thông": [
+                "họp",
+                "đàn, nhóm",
+                "sắc cỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Cỏ mọc um tùm.",
+                "(Tính) Khốn khổ, hốc hác. § Thông 'tụy' 顇, 'tụy' 悴.",
+                "(Động) Đậu, nghỉ. ◇Thi Kinh 詩經: 'Mộ môn hữu mai, Hữu hào tụy chỉ' 墓門有梅, 有鴞萃止 (Trần phong 陳風, Mộ môn 墓門) Cửa mộ có cây mai, Con vọ đậu nghỉ (ở trên).",
+                "(Động) Họp, tụ tập. ◇Khuất Nguyên 屈原: 'Thương điểu quần phi, Thục sử tụy chi?' 蒼鳥群飛, 孰使萃之 (Thiên vấn 天問) Chim ưng bay thành đàn, Ai khiến chúng nó tụ tập như vậy?",
+                "(Danh) Đàn, chúng, bọn. ◎Như: 'xuất loại bạt tụy' 出類拔萃 vượt trội hơn cả mọi người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Họp.",
+                "Ðàn.",
+                "Cùng nghĩa với chữ tuỵ 悴.",
+                "Sắc cỏ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cỏ mọc um tùm. (Ngr) Tụ họp: 薈萃 Tụ họp, tụ tập;",
+                "Bầy, đàn, chúng, tụi, bọn: 出類拔萃 Tài ba (giỏi giang) hơn người;",
+                "(văn) Như 悴 (bộ 忄);",
+                "[Cuì] (Họ) Tuỵ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một quẻ trong kinh Dịch, dưới quẻ Khôn, trên quẻ Đoài, chỉ về sự tụ tập lại — Tụ lại. Gom nhóm lại — Một âm là Thuý. Xem Thuý."
+            ],
+            "compound_words": {
+                "拔萃": "bạt tuỵ",
+                "頓萃": "đốn tuỵ",
+                "攢萃": "toàn tuỵ",
+                "出類拔萃": "xuất loại bạt tuỵ"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "character": "拨",
+    "details": {
+        "Âm Hán Việt": [
+            "bát"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘发"
+        ],
+        "Nét bút": [
+            "一丨一フノフ丶丶"
+        ],
+        "Thương Hiệt": [
+            "QIVE (手戈女水)"
+        ],
+        "Unicode": [
+            "U+62E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ",
+            "fá ㄈㄚˊ"
+        ],
+        "Âm Nôm": [
+            "bát",
+            "bặt"
+        ],
+        "Âm Quảng Đông": [
+            "but6"
+        ]
+    },
+    "meanings": {
+        "bát": {
+            "Từ điển phổ thông": [
+                "đẩy, cậy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 撥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 撥"
+            ],
+            "compound_words": {
+                "拨号": "bát hiệu",
+                "拨款": "bát khoản",
+                "拨弄": "bát lộng",
+                "拨付": "bát phó",
+                "拨奏": "bát tấu",
+                "拨刾": "bát thích"
+            }
+        }
+    }
+}

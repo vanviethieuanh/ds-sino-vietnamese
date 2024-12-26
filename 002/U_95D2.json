@@ -1,0 +1,84 @@
+{
+    "character": "闒",
+    "details": {
+        "Âm Hán Việt": [
+            "tháp",
+            "đạp"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "môn 門 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門𦐇"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丨フ一一フ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "ANASM (日弓日尸一)"
+        ],
+        "Unicode": [
+            "U+95D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tà ㄊㄚˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むら (mura)"
+        ],
+        "Âm Quảng Đông": [
+            "taap3"
+        ]
+    },
+    "meanings": {
+        "tháp": {
+            "Từ điển phổ thông": [
+                "cửa trên gác (tầng trên)",
+                "tiếng chuông trống",
+                "thấp kém, hèn hạ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cửa nhỏ trên lầu.",
+                "(Danh) Xà ngang trên cửa.",
+                "(Danh) Giường thấp. § Cũng như 'tháp' 榻.",
+                "(Tính) Xòa, dáng rủ xuống. ◇Tôn Dữu 孫柚: 'Trâm nhi thùy, vân tấn tháp' 簪兒垂, 雲鬢闒 (Cầm tâm kí 琴心記, Dạ vong thành đô 夜亡成都) Trâm rủ xuống, tóc mây xòa.",
+                "(Tính) 'Tháp nhũng' 闒茸: (1) Nhỏ nhen, hèn hạ. ◇Tư Mã Thiên 司馬遷: 'Kim dĩ khuy hình vi tảo trừ chi lệ, tại tháp nhũng chi trung, nãi dục ngang thủ tín mi, luận liệt thị phi, bất diệc khinh triều đình, tu đương thế chi sĩ da' 今已虧形為掃除之隸, 在闒茸之中, 乃欲卬首信眉, 論列是非, 不亦輕朝廷, 羞當世之士邪 (Báo Nhiệm An thư 報任安書) Nay thân thể tôi đã thiếu thốn, làm tên tôi tớ quét tước, ở trong địa vị hèn hạ mà còn muốn ngửng đầu lên, tỏ mày tỏ mặt, bàn lẽ thị phi, thì chẳng phải là khinh triều đình, làm nhục những bậc sĩ đương thời ư. (2) Ngu độn, thấp kém."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tháp nhũng 闒茸 hèn hạ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cửa trên gác (tầng trên);",
+                "Tiếng chuông trống;",
+                "Thấp kém: 闒茸 Hèn hạ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng trống đánh — Xem Đạp."
+            ],
+            "compound_words": {
+                "闒茸": "tháp nhũng"
+            }
+        },
+        "đạp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cửa ở trên lầu — Làng xóm — Một âm là Tháp. Xem Tháp."
+            ]
+        }
+    }
+}

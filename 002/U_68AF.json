@@ -1,0 +1,80 @@
+{
+    "character": "梯",
+    "details": {
+        "Âm Hán Việt": [
+            "thê"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木弟"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶ノフ一フ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "DCNH (木金弓竹)"
+        ],
+        "Unicode": [
+            "U+68AF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tī ㄊㄧ",
+            "tí ㄊㄧˊ"
+        ],
+        "Âm Nôm": [
+            "thang",
+            "thê"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はしご (hashigo)"
+        ],
+        "Âm Hàn": [
+            "제"
+        ],
+        "Âm Quảng Đông": [
+            "tai1"
+        ]
+    },
+    "meanings": {
+        "thê": {
+            "Từ điển phổ thông": [
+                "cái thang"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái thang. ◎Như: 'lâu thê' 樓梯 thang lầu, 'trúc thê' 竹梯 thang tre, 'điện thê' 電梯 thang máy.",
+                "(Tính) Có dạng như cái thang. ◎Như: ' thê điền' 梯田 ruộng bậc thang.",
+                "(Động) Trèo, leo. ◎Như: 'thê sơn hàng hải' 梯山航海 trèo non vượt bể, ý nói đi đường xa xôi khó khăn cực khổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thang: 樓梯 Cầu thang, thang gác; 軟梯 Thang dây;",
+                "Vật hình thang: 梯形 Hình thang; 梯田 Ruộng bậc thang;",
+                "(văn) Nhờ cậy người để làm nên: 梯榮 Nhờ người khác mà được vẻ vang."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thang."
+            ],
+            "compound_words": {
+                "楼梯": "lâu thê",
+                "樓梯": "lâu thê"
+            }
+        }
+    }
+}

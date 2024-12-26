@@ -1,0 +1,148 @@
+{
+    "character": "父",
+    "details": {
+        "Âm Hán Việt": [
+            "phụ",
+            "phủ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "phụ 父 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CK (金大)"
+        ],
+        "Unicode": [
+            "U+7236"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fǔ ㄈㄨˇ",
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちち (chichi)"
+        ],
+        "Âm Hàn": [
+            "부",
+            "보"
+        ],
+        "Âm Quảng Đông": [
+            "fu2",
+            "fu6"
+        ]
+    },
+    "meanings": {
+        "phụ": {
+            "Từ điển phổ thông": [
+                "cha, bố"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng xưng hô: (1) Cha, bố. ◎Như: 'phụ thân' 父親 cha, 'dưỡng phụ' 養父 cha nuôi, 'kế phụ' 繼父 cha kế. ◇Thi Kinh 詩經: 'Phụ hề sanh ngã, Mẫu hề cúc ngã' 父兮生我, 母兮鞠我 (Tiểu nhã 小雅, Lục nga 蓼莪) Cha sinh ra ta, Mẹ nuôi nấng ta. (2) Tôn xưng bậc trưởng bối đàn ông trong dòng họ. ◎Như: 'bá phụ' 伯父 bác, 'thúc phụ' 叔父 chú, 'cữu phụ' 舅父 cậu hoặc bác (anh em với mẹ), 'tổ phụ' 祖父 ông.",
+                "Một âm là 'phủ'. (Danh) Tiếng gọi tôn các người có tuổi hoặc già. ◎Như: 'điền phủ' 田父 ông già làm ruộng, 'ngư phủ' 漁父 ông già đánh cá.",
+                "(Danh) Tiếng mĩ xưng đối với đàn ông. § Cũng như 'phủ' 甫. ◎Như: 'thượng phủ' 尚父 ông Thái Công, 'Ni phủ' 尼父 đức Khổng Tử."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cha, bố.",
+                "Phụ lão 父老 tiếng gọi tôn các người già.",
+                "Một âm là phủ. Cùng nghĩa với chữ phủ 甫. Tiếng gọi lịch sự của đàn ông, như ông Thái Công gọi là thượng phủ 尚父, đức Khổng Tử gọi là Ny phủ 尼父, v.v.",
+                "Người già, như điền phủ 田父 ông già làm ruộng, ngư phủ 漁父 ông già đánh cá, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cha, bố: 父子 Cha con, bố con; 老父 Cha già. Xem 父 [fư]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người cha — Tiếng tôn kính để gọi người đáng bậc cha mình — Tên một bộ chữ Trung Hoa tức bộ Phụ — Một âm là Phủ. Xem Phủ."
+            ],
+            "compound_words": {
+                "恩父": "ân phụ",
+                "伯父": "bá phụ",
+                "主父": "chủ phụ",
+                "諸父": "chư phụ",
+                "舅父": "cữu phụ",
+                "姨父": "di phụ",
+                "異父": "dị phụ",
+                "養父": "dưỡng phụ",
+                "嫡父": "đích phụ",
+                "假父": "giả phụ",
+                "家父": "gia phụ",
+                "教父": "giáo phụ",
+                "繼父": "kế phụ",
+                "继父": "kế phụ",
+                "老父": "lão phụ",
+                "义父": "nghĩa phụ",
+                "義父": "nghĩa phụ",
+                "嚴父": "nghiêm phụ",
+                "岳父": "nhạc phụ",
+                "粉父": "phấn phụ",
+                "父執": "phụ chấp",
+                "父兄": "phụ huynh",
+                "父老": "phụ lão",
+                "父母": "phụ mẫu",
+                "父亲": "phụ thân",
+                "父親": "phụ thân",
+                "父子": "phụ tử",
+                "君師父": "quân sư phụ",
+                "國父": "quốc phụ",
+                "季父": "quý phụ",
+                "傖父": "sanh phụ",
+                "師父": "sư phụ",
+                "親父": "thân phụ",
+                "世父": "thế phụ",
+                "叔父": "thúc phụ",
+                "先父": "tiên phụ",
+                "從父": "tòng phụ",
+                "祖父": "tổ phụ",
+                "慈父": "từ phụ",
+                "無父": "vô phụ",
+                "王父": "vương phụ"
+            }
+        },
+        "phủ": {
+            "Từ điển phổ thông": [
+                "cha, bố"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng xưng hô: (1) Cha, bố. ◎Như: 'phụ thân' 父親 cha, 'dưỡng phụ' 養父 cha nuôi, 'kế phụ' 繼父 cha kế. ◇Thi Kinh 詩經: 'Phụ hề sanh ngã, Mẫu hề cúc ngã' 父兮生我, 母兮鞠我 (Tiểu nhã 小雅, Lục nga 蓼莪) Cha sinh ra ta, Mẹ nuôi nấng ta. (2) Tôn xưng bậc trưởng bối đàn ông trong dòng họ. ◎Như: 'bá phụ' 伯父 bác, 'thúc phụ' 叔父 chú, 'cữu phụ' 舅父 cậu hoặc bác (anh em với mẹ), 'tổ phụ' 祖父 ông.",
+                "Một âm là 'phủ'. (Danh) Tiếng gọi tôn các người có tuổi hoặc già. ◎Như: 'điền phủ' 田父 ông già làm ruộng, 'ngư phủ' 漁父 ông già đánh cá.",
+                "(Danh) Tiếng mĩ xưng đối với đàn ông. § Cũng như 'phủ' 甫. ◎Như: 'thượng phủ' 尚父 ông Thái Công, 'Ni phủ' 尼父 đức Khổng Tử."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cha, bố.",
+                "Phụ lão 父老 tiếng gọi tôn các người già.",
+                "Một âm là phủ. Cùng nghĩa với chữ phủ 甫. Tiếng gọi lịch sự của đàn ông, như ông Thái Công gọi là thượng phủ 尚父, đức Khổng Tử gọi là Ny phủ 尼父, v.v.",
+                "Người già, như điền phủ 田父 ông già làm ruộng, ngư phủ 漁父 ông già đánh cá, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ông (tôn xưng những người có tuổi hoặc người già): 漁父 Ông chài; 田父 Ông già làm ruộng;",
+                "Như 甫, nghĩa (bộ 用). Xem 父 [fù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng thanh nhã, chỉ người đàn ông — Tiếng gọi ông già, với sự tôn kính — Một âm là Phụ. Xem phụ."
+            ],
+            "compound_words": {
+                "巢父": "sào phủ",
+                "尚父": "thượng phủ"
+            }
+        }
+    }
+}

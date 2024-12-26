@@ -1,0 +1,89 @@
+{
+    "character": "愴",
+    "details": {
+        "Âm Hán Việt": [
+            "sang",
+            "sảng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "tâm 心 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖倉"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ丶丶フ一一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "POIR (心人戈口)"
+        ],
+        "Unicode": [
+            "U+6134"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuǎng ㄔㄨㄤˇ",
+            "chuàng ㄔㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "sảng",
+            "thương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いたま.しい (itama.shii)",
+            "いた.む (ita.mu)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "cong3"
+        ]
+    },
+    "meanings": {
+        "sang": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buồn thương — Một âm là Sảng. Xem Sảng."
+            ],
+            "compound_words": {
+                "愴恨": "sang hận",
+                "愴惻": "sang trắc"
+            }
+        },
+        "sảng": {
+            "Từ điển phổ thông": [
+                "thương xót"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Thương xót. ◇Trần Tử Ngang 陳子昂: “Độc sảng nhiên nhi thế hạ” 獨愴然而涕下 (Đăng U Châu đài ca 登幽州臺歌) Một mình đau thương mà rơi nước mắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thương xót."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xót thương: 獨愴然而涕下 Một mình xót thương mà rơi lệ (Trần Tử Ngang)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thối chí, nản lòng — Một âm khác là Sang. Xem Sang."
+            ],
+            "compound_words": {
+                "愴怳": "sảng hoảng",
+                "愴然": "sảng nhiên"
+            }
+        }
+    }
+}

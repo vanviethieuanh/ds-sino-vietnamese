@@ -1,0 +1,63 @@
+{
+    "character": "订",
+    "details": {
+        "Âm Hán Việt": [
+            "đính"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "ngôn 言 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠丁"
+        ],
+        "Nét bút": [
+            "丶フ一丨"
+        ],
+        "Thương Hiệt": [
+            "IVMN (戈女一弓)"
+        ],
+        "Unicode": [
+            "U+8BA2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dìng ㄉㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đính"
+        ],
+        "Âm Quảng Đông": [
+            "ding3",
+            "ding6"
+        ]
+    },
+    "meanings": {
+        "đính": {
+            "Từ điển phổ thông": [
+                "thoả thuận hai bên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 訂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 訂"
+            ],
+            "compound_words": {
+                "订约": "đính ước",
+                "校订": "hiệu đính",
+                "修订": "tu đính"
+            }
+        }
+    }
+}

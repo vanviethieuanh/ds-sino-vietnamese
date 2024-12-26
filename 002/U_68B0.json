@@ -1,0 +1,90 @@
+{
+    "character": "械",
+    "details": {
+        "Âm Hán Việt": [
+            "giới"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木戒"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "DIT (木戈廿)"
+        ],
+        "Unicode": [
+            "U+68B0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiè ㄐㄧㄝˋ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "giới"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かせ (kase)"
+        ],
+        "Âm Hàn": [
+            "계"
+        ],
+        "Âm Quảng Đông": [
+            "haai6"
+        ]
+    },
+    "meanings": {
+        "giới": {
+            "Từ điển phổ thông": [
+                "đồ khí giới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Binh khí, vũ khí. ◎Như: 'binh giới' 兵械 đồ binh.",
+                "(Danh) Gông, cùm.",
+                "(Danh) Thuật khéo, xảo trá. ◎Như: 'ki giới bách xuất' 機械白出 dối trá trăm điều.",
+                "(Danh) Đồ dùng, dụng cụ. ◎Như: 'khí giới' 器械 khí cụ, 'cơ giới' 機械 máy móc. ◇Trang Tử 莊子: 'Hữu giới ư thử, nhất nhật tẩm bách huề, dụng lực thậm quả, nhi kiến công đa, phu tử bất dục hồ?' 有械於此, 一日浸百畦, 用力甚寡, 而見功多, 夫子不欲乎 (Thiên địa 天地) Có cái máy ở đó, mỗi ngày tưới hàng trăm thửa ruộng, dùng sức rất ít, mà thấy công nhiều, cụ không muốn thế sao?",
+                "(Động) Bó buộc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðồ khí giới, như binh giới 兵械 đồ binh.",
+                "Cái cùm chân tay.",
+                "Thuật khéo, người hay dối dá gọi là ki giới bách xuất 機械白出 dối trá trăm điều.",
+                "Bó buộc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cơ giới, khí cụ: 機械 Máy móc, cơ giới;",
+                "Khí giới: 繳械 Tước khí giới;",
+                "(cũ) Gông xiềng, cái cùm (chân tay);",
+                "Xảo trá, dối trá: 機械百出 Dối trá trăm chiều;",
+                "(văn) Bó buộc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cùm bằng gỗ để cùm tay chân tội nhân thời cổ — Đồ dùng — Vật dịng bằng máy móc — Binh khí. Chẳng hạn Giới đấu ( dùng võ khí mà đánh nhau )."
+            ],
+            "compound_words": {
+                "机械": "cơ giới",
+                "機械": "cơ giới",
+                "器械": "khí giới",
+                "軍械": "quân giới"
+            }
+        }
+    }
+}

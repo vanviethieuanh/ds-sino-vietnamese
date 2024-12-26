@@ -1,0 +1,105 @@
+{
+    "character": "荐",
+    "details": {
+        "Âm Hán Việt": [
+            "tiến",
+            "trãi",
+            "tấn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹存"
+        ],
+        "Nét bút": [
+            "一丨丨一ノ丨フ丨一"
+        ],
+        "Thương Hiệt": [
+            "TKLD (廿大中木)"
+        ],
+        "Unicode": [
+            "U+8350"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tiến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しきりに (shikirini)"
+        ],
+        "Âm Hàn": [
+            "천",
+            "건"
+        ],
+        "Âm Quảng Đông": [
+            "zin3"
+        ]
+    },
+    "meanings": {
+        "tiến": {
+            "Từ điển phổ thông": [
+                "hai lần",
+                "tiến cử",
+                "cỏ cho súc vật",
+                "chiếu cói"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chiếu cỏ.",
+                "(Phó) Nhiều lần. ◎Như: 'tiến cơ' 荐饑 đói luôn nhiều năm.",
+                "(Động) Tiến cử. § Cũng như 'tiến' 薦. ◎Như: 'thôi tiến' 推荐 thôi cử.",
+                "§ Giản thể của chữ 薦."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hai lần. Ðói luôn hai ba năm gọi là tiến cơ 荐饑.",
+                "Tiến cử. Cùng nghĩa với chữ tiến 薦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giới thiệu, tiến cử: 我給您薦個人 Tôi giới thiệu với ông một người; 薦賢 Tiến cử người hiền tài;",
+                "(văn) Cỏ;",
+                "(văn) (Chiếc) chiếu;",
+                "(văn) Dâng 薦新 Dâng cúng của mới;",
+                "(văn) Lặp đi lặp lại, nhiều lần."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ khô mềm — Lót cỏ xuống dưới chiếu cho ấm và êm — Nhiều lần. Nhiều lớp."
+            ],
+            "compound_words": {
+                "推荐": "thôi tiến"
+            }
+        },
+        "trãi": {
+            "Từ điển phổ thông": [
+                "hai lần",
+                "tiến cử",
+                "cỏ cho súc vật",
+                "chiếu cói"
+            ]
+        },
+        "tấn": {
+            "Từ điển phổ thông": [
+                "hai lần",
+                "tiến cử",
+                "cỏ cho súc vật",
+                "chiếu cói"
+            ]
+        }
+    }
+}

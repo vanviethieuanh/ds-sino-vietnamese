@@ -1,0 +1,92 @@
+{
+    "character": "匕",
+    "details": {
+        "Âm Hán Việt": [
+            "chuỷ",
+            "truỷ",
+            "tỷ"
+        ],
+        "Tổng nét": [
+            "2"
+        ],
+        "Bộ": [
+            "tỷ 匕 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノフ"
+        ],
+        "Thương Hiệt": [
+            "UH (山竹)"
+        ],
+        "Unicode": [
+            "U+5315"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bī ㄅㄧ",
+            "bǐ ㄅㄧˇ"
+        ],
+        "Âm Nôm": [
+            "chuỷ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さじ (saji)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei2",
+            "bei6"
+        ]
+    },
+    "meanings": {
+        "chuỷ": {
+            "Từ điển phổ thông": [
+                "cái thìa, cái muôi",
+                "dao găm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thìa, muỗng. ◎Như: 'chủy xưởng bất kinh' 匕鬯不驚 nghi lễ cúng bái phồn tạp nhưng rượu thìa không hề thiếu sót, sau chỉ kỉ luật quân đội nghiêm minh, không làm phiền nhiễu dân chúng. § Cũng như nói 'thu hào vô phạm' 秋毫無犯.",
+                "(Danh) 'Chủy thủ' 匕首 một thứ gươm, đầu như cái thìa, ngắn mà tiện dùng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái thìa, cái muỗng, cái môi, cái muôi;",
+                "Mũi tên;",
+                "【匕首】chuỷ thủ [bêshôu] Dao găm, đoản kiếm, gươm ngắn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thìa múc canh — Tên một bộ trong các bộ chữ Trung Hoa. Cũng đọc Truỷ."
+            ],
+            "compound_words": {
+                "匕首": "chuỷ thủ"
+            }
+        },
+        "truỷ": {
+            "Từ điển Thiều Chửu": [
+                "Cái thìa, như nói cuộc đời yên lặng thì gọi là truỷ xưởng bất kinh 匕鬯不驚 nghĩa là vẫn được vô sự mà ăn uống yên lành.",
+                "Truỷ thủ 匕首 một thứ gươm, đầu như cái thìa, ngắn mà tiện dùng, cho nên gọi là truỷ thủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thìa, cái muỗng — Đầu nhọn của mũi tên — Tên một bộ chữ Hán, tức bộ Truỷ."
+            ]
+        },
+        "tỷ": {
+            "Từ điển phổ thông": [
+                "cái thìa, cái muôi",
+                "dao găm"
+            ]
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "綮",
+    "details": {
+        "Âm Hán Việt": [
+            "khính",
+            "khể"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱𢼄糹"
+        ],
+        "Nét bút": [
+            "丶フ一ノノ一ノ丶フフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HKVIF (竹大女戈火)"
+        ],
+        "Unicode": [
+            "U+7DAE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qǐ ㄑㄧˇ",
+            "qìng ㄑㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "khể"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Hàn": [
+            "계",
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "hing3",
+            "kai2"
+        ]
+    },
+    "meanings": {
+        "khính": {
+            "Từ điển phổ thông": [
+                "(xem: khẳng khính 肯綮)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lụa mịn.",
+                "(Danh) Bao đựng kích, ngoài bọc lụa đỏ, ngày xưa quan lại xuất hành dùng làm nghi trượng. § Thông 'khể' 棨. ◎Như: 'khể kích' 綮戟.",
+                "Một âm là 'khính'. (Danh) Chỗ gân và xương kết hợp. ◇Trang Tử 莊子: 'Kĩ kinh khải khính chi vị thường, nhi huống đại cô hồ!' 技經肯綮之未嘗, 而況大軱乎 (Dưỡng sanh chủ 養生主) Lách (dao) qua chỗ gân và xương tiếp giáp nhau còn chưa từng làm, huống chi là khúc xương lớn!"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bao đựng kích, khể kích 綮戟.",
+                "Một âm là khính. Khẳng khính 肯綮 đầu gân, nơi ách yếu của sự gì lẽ gì cũng gọi là khẳng khính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "肯綮 [kânqìng] (văn) Đầu gân, (Ngr) Chỗ ách yếu, điểm chính, ý chính."
+            ],
+            "compound_words": {
+                "肯綮": "khẳng khính"
+            }
+        },
+        "khể": {
+            "Từ điển phổ thông": [
+                "(xem: khể kích 綮戟)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lụa mịn.",
+                "(Danh) Bao đựng kích, ngoài bọc lụa đỏ, ngày xưa quan lại xuất hành dùng làm nghi trượng. § Thông 'khể' 棨. ◎Như: 'khể kích' 綮戟.",
+                "Một âm là 'khính'. (Danh) Chỗ gân và xương kết hợp. ◇Trang Tử 莊子: 'Kĩ kinh khải khính chi vị thường, nhi huống đại cô hồ!' 技經肯綮之未嘗, 而況大軱乎 (Dưỡng sanh chủ 養生主) Lách (dao) qua chỗ gân và xương tiếp giáp nhau còn chưa từng làm, huống chi là khúc xương lớn!"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bao đựng kích, khể kích 綮戟.",
+                "Một âm là khính. Khẳng khính 肯綮 đầu gân, nơi ách yếu của sự gì lẽ gì cũng gọi là khẳng khính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bao đựng kích."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bao đựng cây kích."
+            ],
+            "compound_words": {
+                "綮戟": "khể kích"
+            }
+        }
+    }
+}

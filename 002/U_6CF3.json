@@ -1,0 +1,80 @@
+{
+    "character": "泳",
+    "details": {
+        "Âm Hán Việt": [
+            "vịnh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡永"
+        ],
+        "Nét bút": [
+            "丶丶一丶フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "EINE (水戈弓水)"
+        ],
+        "Unicode": [
+            "U+6CF3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yǒng ㄧㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "vạnh",
+            "vịnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エイ (ei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "およ.ぐ (oyo.gu)"
+        ],
+        "Âm Hàn": [
+            "영"
+        ],
+        "Âm Quảng Đông": [
+            "wing6"
+        ]
+    },
+    "meanings": {
+        "vịnh": {
+            "Từ điển phổ thông": [
+                "lặn dưới nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Lặn, đi ngầm dưới nước. ◎Như: “du vịnh” 游泳 bơi lội."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lặn, đi ngầm dưới đáy nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bơi, lặn: 游泳 Bơi lội; 仰泳 Bơi ngửa; 蛙泳 Bơi ếch (nhái); 蝶泳 Bơi bướm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bơi lội."
+            ],
+            "compound_words": {
+                "游泳": "du vịnh",
+                "泳游": "vịnh du",
+                "泳裤": "vịnh khố",
+                "泳褲": "vịnh khố",
+                "泳衣": "vịnh y"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "character": "每",
+    "details": {
+        "Âm Hán Việt": [
+            "mai",
+            "môi",
+            "mỗi"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "vô 毋 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱𠂉母"
+        ],
+        "Nét bút": [
+            "ノ一フフ丶一丶"
+        ],
+        "Thương Hiệt": [
+            "OWYI (人田卜戈)"
+        ],
+        "Unicode": [
+            "U+6BCF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "měi ㄇㄟˇ",
+            "mèi ㄇㄟˋ"
+        ],
+        "Âm Nôm": [
+            "mọi",
+            "mỗi",
+            "mủi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マイ (mai)",
+            "バイ (bai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つね (tsune)"
+        ],
+        "Âm Hàn": [
+            "매"
+        ],
+        "Âm Quảng Đông": [
+            "mui5"
+        ]
+    },
+    "meanings": {
+        "mai": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mai mai 每 每: Vẻ béo tốt đẹp đẽ — Rắc rối lôi thôi — Một âm là Mỗi. Xem Mỗi."
+            ]
+        },
+        "môi": {
+            "Từ điển trích dẫn": [
+                "(Phó) Thường, luôn. ◎Như: 'mỗi mỗi như thử' 每每如此 thường thường như thế. ◇Tây du kí 西遊記: 'Phong đầu thì thính cẩm kê minh, Thạch quật mỗi quan long xuất nhập' 峰頭時聽錦雞鳴, 石窟每觀龍出入 (Đệ nhất hồi) Đầu núi thường nghe gà gấm gáy, Hang đá thường thấy rồng ra vào.",
+                "(Phó) Cứ, hễ, mỗi lần. ◇Vương Duy 王維: 'Độc tại dị hương vi dị khách, Mỗi phùng giai tiết bội tư thân' 獨在異鄉為異客, 每逢佳節倍思親 (Cửu nguyệt cửu nhật ức San Đông huynh đệ 九月九日憶山東兄弟) Một mình ở quê người làm khách lạ, Mỗi lần gặp tiết trời đẹp càng thêm nhớ người thân.",
+                "(Đại) Các, mỗi. ◎Như: 'mỗi nhân' 每人 mỗi người, 'mỗi nhật' 每日 mỗi ngày.",
+                "(Danh) Họ 'Mỗi'.",
+                "Một âm là 'môi'. (Tính) 'Môi môi' 每每 mù mịt, hỗn độn. ◇Trang Tử 莊子: 'Cố thiên hạ môi môi đại loạn, tội tại ư hiếu trí' 故天下每每大亂, 罪在於好知 (Khư khiếp 胠篋) Cho nên thiên hạ hỗn độn đại loạn, tội ở chỗ thích trí khôn (ham cơ trí)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thường, như mỗi mỗi như thử 每每如此 thường thường như thế.",
+                "Các, mỗi, như mỗi nhân 每人 mỗi người, mỗi nhật 每日 mỗi ngày, v.v.",
+                "Một âm là môi. Như môi môi 每每 ruộng ngon, ruột tốt."
+            ]
+        },
+        "mỗi": {
+            "Từ điển phổ thông": [
+                "mỗi một"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Thường, luôn. ◎Như: 'mỗi mỗi như thử' 每每如此 thường thường như thế. ◇Tây du kí 西遊記: 'Phong đầu thì thính cẩm kê minh, Thạch quật mỗi quan long xuất nhập' 峰頭時聽錦雞鳴, 石窟每觀龍出入 (Đệ nhất hồi) Đầu núi thường nghe gà gấm gáy, Hang đá thường thấy rồng ra vào.",
+                "(Phó) Cứ, hễ, mỗi lần. ◇Vương Duy 王維: 'Độc tại dị hương vi dị khách, Mỗi phùng giai tiết bội tư thân' 獨在異鄉為異客, 每逢佳節倍思親 (Cửu nguyệt cửu nhật ức San Đông huynh đệ 九月九日憶山東兄弟) Một mình ở quê người làm khách lạ, Mỗi lần gặp tiết trời đẹp càng thêm nhớ người thân.",
+                "(Đại) Các, mỗi. ◎Như: 'mỗi nhân' 每人 mỗi người, 'mỗi nhật' 每日 mỗi ngày.",
+                "(Danh) Họ 'Mỗi'.",
+                "Một âm là 'môi'. (Tính) 'Môi môi' 每每 mù mịt, hỗn độn. ◇Trang Tử 莊子: 'Cố thiên hạ môi môi đại loạn, tội tại ư hiếu trí' 故天下每每大亂, 罪在於好知 (Khư khiếp 胠篋) Cho nên thiên hạ hỗn độn đại loạn, tội ở chỗ thích trí khôn (ham cơ trí)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thường, như mỗi mỗi như thử 每每如此 thường thường như thế.",
+                "Các, mỗi, như mỗi nhân 每人 mỗi người, mỗi nhật 每日 mỗi ngày, v.v.",
+                "Một âm là môi. Như môi môi 每每 ruộng ngon, ruột tốt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mỗi, mỗi một, từng, mọi: 節約每一分錢 Tiết kiệm mỗi một (từng) đồng xu; 每四小時服一次 Cách bốn tiếng đồng hồ uống một lần (thuốc); 每人一把鐵鍬 Mỗi người một cái xẻng; 每時一刻 Mỗi giờ mỗi phút; 入太廟，每事問 Vào thái miếu, mọi việc đều hỏi (Luận ngữ);",
+                "(văn) Mỗi lần: 王每見之必泣 Nhà vua mỗi lần gặp (ông ta) thì đều khóc (Tả truyện);",
+                "Thường, luôn: 每作郊遊 Thường đi chơi vùng ngoại ô; 每每如此 Thường thường như thế; 中興初，郭璞每自爲卦，知其凶終 Đầu thời trung hưng, Quách Phác thường tự bói cho mình, biết mình sẽ chết bất đắc kì tử (Sưu thần hậu kí). 【每每】mỗi mỗi [mâi mâi] Thường, thường thường: 他們常在一起，每每一談就是半天 Họ thường gặp nhau, và thường chuyện trò suốt buổi; 値歡無復 娛，每每多憂慮 Gặp khi hoan lạc thì không vui nữa, mà thường hay lo nghĩ (Đào Uyên Minh: Tạp thi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Từng cái một — Thường thường — Tuy rằng."
+            ],
+            "compound_words": {
+                "每隔": "mỗi cách",
+                "每夜": "mỗi dạ",
+                "每每": "mỗi mỗi",
+                "每人": "mỗi nhân",
+                "每一": "mỗi nhất",
+                "每日": "mỗi nhật",
+                "每年": "mỗi niên",
+                "每天": "mỗi thiên"
+            }
+        }
+    }
+}

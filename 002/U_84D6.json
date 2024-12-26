@@ -1,0 +1,79 @@
+{
+    "character": "蓖",
+    "details": {
+        "Âm Hán Việt": [
+            "bế",
+            "bề",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿳艹囟比"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨フノ丶一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "THWP (廿竹田心)"
+        ],
+        "Unicode": [
+            "U+84D6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "xế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)",
+            "ヘイ (hei)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei6"
+        ]
+    },
+    "meanings": {
+        "bế": {
+            "Từ điển Trần Văn Chánh": [
+                "【蓖麻】bế ma [bìmá] Thầu dầu, đu đủ tía."
+            ]
+        },
+        "bề": {
+            "Từ điển Trần Văn Chánh": [
+                "【蓖麻】bế ma [bìmá] Thầu dầu, đu đủ tía."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bề ma 蓖麻."
+            ],
+            "compound_words": {
+                "蓖麻": "bề ma"
+            }
+        },
+        "tỳ": {
+            "Từ điển phổ thông": [
+                "(xem: tỳ ma 蓖麻)"
+            ],
+            "compound_words": {
+                "蓖麻": "tỳ ma"
+            }
+        }
+    }
+}

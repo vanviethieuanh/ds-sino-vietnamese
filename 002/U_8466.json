@@ -1,0 +1,85 @@
+{
+    "character": "葦",
+    "details": {
+        "Âm Hán Việt": [
+            "vy",
+            "vĩ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹韋"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨一丨フ一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "TDMQ (廿木一手)"
+        ],
+        "Unicode": [
+            "U+8466"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wěi ㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しお.れる (shio.reru)",
+            "しな.びる (shina.biru)",
+            "しぼ.む (shibo.mu)",
+            "な.える (na.eru)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai5"
+        ]
+    },
+    "meanings": {
+        "vy": {
+            "Từ điển phổ thông": [
+                "cây sậy, cây lau"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cỏ lau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lau, sậy. Xem 蘆葦 [lúwâi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây lau."
+            ]
+        },
+        "vĩ": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'lô vĩ' 蘆葦.",
+                "(Danh) Một loại thuyền thân hẹp mà dài như hình lá cỏ. ◇Tô Thức 蘇軾: 'Túng nhất vĩ chi sở như' 縱一葦之所如 (Tiền Xích Bích phú 前赤壁賦) Tha hồ cho một chiếc thuyền nhỏ đi đâu thì đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lau, sậy. Xem 蘆葦 [lúwâi]."
+            ],
+            "compound_words": {
+                "蘆葦": "lô vĩ"
+            }
+        }
+    }
+}

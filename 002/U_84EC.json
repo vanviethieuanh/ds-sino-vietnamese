@@ -1,0 +1,123 @@
+{
+    "character": "蓬",
+    "details": {
+        "Âm Hán Việt": [
+            "bồng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹逢"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ丶一一一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "TYHJ (廿卜竹十)"
+        ],
+        "Unicode": [
+            "U+84EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "péng ㄆㄥˊ",
+            "pèng ㄆㄥˋ"
+        ],
+        "Âm Nôm": [
+            "bầng",
+            "bong",
+            "bồng",
+            "bùng",
+            "buồng",
+            "bừng",
+            "phồng",
+            "phùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ブ (bu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よもぎ (yomogi)"
+        ],
+        "Âm Hàn": [
+            "봉"
+        ],
+        "Âm Quảng Đông": [
+            "fung4",
+            "pung4"
+        ]
+    },
+    "meanings": {
+        "bồng": {
+            "Từ điển phổ thông": [
+                "cỏ bồng",
+                "bù xù"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ bồng. § Mùa thu cỏ bồng chết khô, gió thổi bay tung, nên cũng gọi là 'phi bồng' 飛蓬. ◎Như: 'tất môn bồng hộ' 篳門蓬戶 lều tranh cửa cỏ (chỉ nhà của kẻ nghèo).",
+                "(Danh) Tên gọi tắt của 'Bồng Lai' 蓬萊. § Tương truyền bể đông có một quả núi có tiên ở gọi là 'Bồng Lai' 蓬萊. Còn gọi là 'Bồng Doanh' 蓬瀛 hay 'Bồng Đảo' 蓬島. ◇Lí Thương Ẩn 李商隱: 'Bồng Lai thử khứ vô đa lộ, Thanh điểu ân cần vị thám khan' 蓬萊此去無多路, 青鳥殷勤為探看 (Vô đề kì tứ 無題其四) Từ đây tới Bồng Lai không có nhiều lối, Nhờ chim xanh vì ta mà ân cần thăm dò.",
+                "(Danh) Họ 'Bồng'.",
+                "(Tính) Rối bong, bù xù, tán loạn. ◎Như: 'bồng đầu cấu diện' 蓬頭垢面 đầu bù mặt bửa, đầu bù tóc rối, mặt mũi nhem nhuốc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ bồng. Mùa thu thì chết khô, gió thổi bay tung gọi là phi bồng 飛蓬.",
+                "Rối bong. Như bồng đầu cấu diện 蓬頭垢面 đầu bù mặt bửa.",
+                "Lều tranh. Như tất môn bồng hộ 篳門蓬戶 lều tranh cửa cỏ, nói cái nhà của kẻ nghèo ở.",
+                "Bồng lai tương truyền trong bể đông có một quả núi có các tiên ở gọi là bồng lai 蓬萊 hay bồng doanh 蓬瀛, bồng đảo 蓬島."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cỏ bồng;",
+                "Bù, rối: 蓬首Bù đầu; 毛髮蓬亂 Đầu bù tóc rối;",
+                "Thịnh vượng, phát đạt;",
+                "[Péng] (Họ) Bồng;",
+                "[Péng] Tên núi.【蓬萊】Bồng Lai [Pénglái] Núi Bồng Lai: 蓬萊仙山Non Bồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cỏ — Vẻ tuơi tốt xum xuê."
+            ],
+            "compound_words": {
+                "萍蓬": "bình bồng",
+                "蓬薄": "bồng bạc",
+                "蓬葆": "bồng bảo",
+                "蓬蓬": "bồng bồng",
+                "蓬蓬勃勃": "bồng bồng bột bột",
+                "蓬勃": "bồng bột",
+                "蓬島": "bồng đảo",
+                "蓬頭垢面": "bồng đầu cấu diện",
+                "蓬头历齿": "bồng đầu lịch xỉ",
+                "蓬頭厤齒": "bồng đầu lịch xỉ",
+                "蓬頭歷齒": "bồng đầu lịch xỉ",
+                "蓬壺": "bồng hồ",
+                "蓬戶": "bồng hộ",
+                "蓬莱": "bồng lai",
+                "蓬萊": "bồng lai",
+                "蓬廬": "bồng lư",
+                "蓬門": "bồng môn",
+                "蓬茸": "bồng nhĩ",
+                "蓬髮": "bồng phát",
+                "蓬山": "bồng sơn",
+                "蓬心": "bồng tâm",
+                "蓬蓽": "bồng tất",
+                "蓬矢": "bồng thỉ",
+                "蓬首": "bồng thủ",
+                "蓬舍": "bồng xá",
+                "桑蓬": "tang bồng",
+                "桑弧蓬矢": "tang hồ bồng thỉ",
+                "帳蓬": "trướng bồng"
+            }
+        }
+    }
+}

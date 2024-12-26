@@ -1,0 +1,129 @@
+{
+    "character": "泡",
+    "details": {
+        "Âm Hán Việt": [
+            "bào",
+            "phao",
+            "pháo"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡包"
+        ],
+        "Nét bút": [
+            "丶丶一ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "EPRU (水心口山)"
+        ],
+        "Unicode": [
+            "U+6CE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pāo ㄆㄠ",
+            "páo ㄆㄠˊ",
+            "pào ㄆㄠˋ"
+        ],
+        "Âm Nôm": [
+            "bào",
+            "bàu",
+            "bầu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あわ (awa)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "paau1",
+            "paau3",
+            "pou5"
+        ]
+    },
+    "meanings": {
+        "bào": {
+            "Từ điển phổ thông": [
+                "ngâm nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bọt. ◎Như: 'thủy phao' 水泡 bọt nước, 'phì tạo phao' 肥皂泡 bọt xà bông.",
+                "(Danh) Chỉ vật gì có hình như bọt nước. ◎Như: 'thủ thượng khởi liễu phao' 手上起了泡 tay bị bỏng rộp, 'phao đăng' 泡燈 bóng đèn.",
+                "(Danh) Lượng từ: bãi (nước tiểu, phân, nước mắt, nước mũi, v.v.). ◎Như: 'nhất phao thỉ' 一泡屎 một bãi phân.",
+                "(Tính) Xốp, bở. ◎Như: 'phao táo' 泡棗 táo bở, 'giá khối mộc liệu phát phao' 這塊木料發泡 miếng gỗ này đã bị mục.",
+                "(Động) Ngâm nước. ◎Như: 'phao tại thủy lí' 泡在水裏 ngâm trong nước.",
+                "(Động) Pha (dùng nước nóng). ◎Như: 'phao ca phê' 泡咖啡 pha cà phê, 'phao trà' 泡茶 pha trà.",
+                "(Động) Dềnh dàng, rề rà, kéo dài mất thời giờ. ◎Như: 'phao bệnh hào' 泡病號 giả vờ bị bệnh (để dềnh dàng trốn việc).",
+                "§ Ghi chú: Ta quen đọc là 'bào'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bọt nước.",
+                "Ngâm nước. Ta quen đọc là chữ bào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phồng: 豆腐泡兒 Đậu phụ rán phồng;",
+                "Mềm xốp: 這塊木料發泡 Tấm gỗ này đã mềm xốp;",
+                "Bãi: 一泡尿 Một bãi phân. Xem 泡 [pào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bọt nước — Thịnh, nhiều — Một âm khác là Pháo."
+            ],
+            "compound_words": {
+                "泡影": "bào ảnh",
+                "泡泡": "bào bào",
+                "泡製": "bào chế",
+                "泡溲": "bào sưu",
+                "浮泡": "phù bào"
+            }
+        },
+        "phao": {
+            "Từ điển phổ thông": [
+                "bọt nước, bong bóng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bọt. ◎Như: 'thủy phao' 水泡 bọt nước, 'phì tạo phao' 肥皂泡 bọt xà bông.",
+                "(Danh) Chỉ vật gì có hình như bọt nước. ◎Như: 'thủ thượng khởi liễu phao' 手上起了泡 tay bị bỏng rộp, 'phao đăng' 泡燈 bóng đèn.",
+                "(Danh) Lượng từ: bãi (nước tiểu, phân, nước mắt, nước mũi, v.v.). ◎Như: 'nhất phao thỉ' 一泡屎 một bãi phân.",
+                "(Tính) Xốp, bở. ◎Như: 'phao táo' 泡棗 táo bở, 'giá khối mộc liệu phát phao' 這塊木料發泡 miếng gỗ này đã bị mục.",
+                "(Động) Ngâm nước. ◎Như: 'phao tại thủy lí' 泡在水裏 ngâm trong nước.",
+                "(Động) Pha (dùng nước nóng). ◎Như: 'phao ca phê' 泡咖啡 pha cà phê, 'phao trà' 泡茶 pha trà.",
+                "(Động) Dềnh dàng, rề rà, kéo dài mất thời giờ. ◎Như: 'phao bệnh hào' 泡病號 giả vờ bị bệnh (để dềnh dàng trốn việc).",
+                "§ Ghi chú: Ta quen đọc là 'bào'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bọt nước.",
+                "Ngâm nước. Ta quen đọc là chữ bào."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhiều. Thịnh — Các âm khác là Bào, Pháo. Xem các âm này."
+            ],
+            "compound_words": {
+                "气泡": "khí phao",
+                "氣泡": "khí phao",
+                "泡麵": "phao miến"
+            }
+        },
+        "pháo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy nước nóng mà dội lên. Trụng nước sôi— Các âm khác là Bào, Phao. Xem các âm này."
+            ]
+        }
+    }
+}

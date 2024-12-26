@@ -1,0 +1,66 @@
+{
+    "character": "柠",
+    "details": {
+        "Âm Hán Việt": [
+            "ninh",
+            "nịnh"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木宁"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶丶フ一丨"
+        ],
+        "Thương Hiệt": [
+            "DJMN (木十一弓)"
+        ],
+        "Unicode": [
+            "U+67E0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "níng ㄋㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "nịnh"
+        ],
+        "Âm Quảng Đông": [
+            "ning4"
+        ]
+    },
+    "meanings": {
+        "ninh": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 檸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 檸"
+            ]
+        },
+        "nịnh": {
+            "Từ điển phổ thông": [
+                "(xem: nịnh mông 檸檬,柠檬)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 檸."
+            ],
+            "compound_words": {
+                "柠檬": "nịnh mông"
+            }
+        }
+    }
+}

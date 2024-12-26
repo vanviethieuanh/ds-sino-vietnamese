@@ -1,0 +1,118 @@
+{
+    "character": "游",
+    "details": {
+        "Âm Hán Việt": [
+            "du"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡斿"
+        ],
+        "Nét bút": [
+            "丶丶一丶一フノノ一フ丨一"
+        ],
+        "Thương Hiệt": [
+            "EYSD (水卜尸木)"
+        ],
+        "Unicode": [
+            "U+6E38"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "liú ㄌㄧㄡˊ",
+            "yóu ㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "du"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユウ (yū)",
+            "リュウ (ryū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あそ.び (aso.bi)",
+            "あそ.ぶ (aso.bu)",
+            "およ.ぐ (oyo.gu)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jau4"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển phổ thông": [
+                "bơi dưới nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bơi. ◎Như: 'du vịnh' 游泳 bơi lội.",
+                "(Động) Đi chơi, ngao du. § Thông 'du' 遊.",
+                "(Động) Đi qua lại, lang bang. § Thông 'du' 遊.",
+                "(Tính) Hay di động, không ở chỗ nhất định. ◎Như: 'du dân' 游民 dân ở nay đây mai đó, không nghề nghiệp nhất định.",
+                "(Danh) Đoạn, khúc sông. ◎Như: 'thượng du' 上游 phần sông ở gần nguồn, 'hạ du' 下游 phần sông ở thấp, xa nguồn nhất.",
+                "(Danh) Họ 'Du'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bơi.",
+                "Dòng nước trên gọi là thượng du 上游, dòng nước dưới gọi là hạ du 下游.",
+                "Không có căn cứ mà hay đổi dời gọi là du, như du dy 游移 ý nói không có ý hướng nhất định.",
+                "Ngắm xem cho thích tâm tình gọi là du, như du ư nghệ 游於藝 (Luận Ngữ 論語) lấy nghề làm món tiêu khiển.",
+                "Nhàn tản, tản mát. Dân không có nghề nghiệp thường gọi là du dân 游民.",
+                "Ưu du 優游 nhàn nhã tự lấy làm thích. Nay thông dụng chữ du 遊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bơi: 魚在水裡游 Cá bơi dưới nước;",
+                "Đi chơi, du lịch: 周游天下 Chu du thiên hạ; 游山玩水 Đi chơi núi chơi sông;",
+                "Phần sông, du: 上游 Thượng du; 中游 Trung du; 下游 Hạ du;",
+                "Du (mục), du (dân), du (kích);",
+                "Thay đổi, không đứng yên một chỗ, lưu động.【游資】du tư [yóuzi] Vốn nổi, vốn lưu động;",
+                "[Yóu] (Họ) Du."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nổi trên mặt nước mà đi — Bơi — Không hợp sự thật. Lông bông — Cũng dùng như chữ Du 遊."
+            ],
+            "compound_words": {
+                "周游": "chu du",
+                "游民": "du dân",
+                "游移": "du di",
+                "游蕩": "du đãng",
+                "游艇": "du đĩnh",
+                "游幸": "du hạnh",
+                "游俠": "du hiệp",
+                "游騎": "du kỵ",
+                "游龍": "du long",
+                "游言": "du ngôn",
+                "游日": "du nhật",
+                "游女": "du nữ",
+                "游土": "du thổ",
+                "游說": "du thuyết",
+                "游食": "du thực",
+                "游子": "du tử",
+                "游泳": "du vịnh",
+                "下游": "hạ du",
+                "旅游": "lữ du",
+                "敖游": "ngao du",
+                "浮游": "phù du",
+                "上游": "thượng du",
+                "中游": "trung du",
+                "泳游": "vịnh du",
+                "宴游": "yến du"
+            }
+        }
+    }
+}

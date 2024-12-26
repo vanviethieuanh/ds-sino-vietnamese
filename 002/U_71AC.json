@@ -1,0 +1,81 @@
+{
+    "character": "熬",
+    "details": {
+        "Âm Hán Việt": [
+            "ngao"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "hoả 火 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱敖灬"
+        ],
+        "Nét bút": [
+            "一一丨一フノノ一ノ丶丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "GKF (土大火)"
+        ],
+        "Unicode": [
+            "U+71AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "āo ㄚㄛ",
+            "áo ㄚㄛˊ"
+        ],
+        "Âm Nôm": [
+            "ngao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴウ (gō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.る (i.ru)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ngou4"
+        ]
+    },
+    "meanings": {
+        "ngao": {
+            "Từ điển phổ thông": [
+                "nấu, ninh, sắc, rang khô"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nấu, hầm. ◎Như: 'ngao bạch thái' 熬白菜 nấu cải, 'ngao đậu hủ' 熬豆腐 nấu đậu phụ.",
+                "(Động) Rang khô (để lửa riu riu). ◎Như: 'ngao dược' 熬藥 rang thuốc.",
+                "(Động) Cố nhịn, chịu đựng, nhẫn nại. ◎Như: 'ngao hình' 熬刑 cố chịu hình phạt, 'ngao dạ' 熬夜 thức thâu đêm. ◇Tam quốc diễn nghĩa 三國演義: 'Khuy đắc na mã thị Đại Uyên lương mã, ngao đắc thống, tẩu đắc khoái' 虧得那馬是大宛良馬, 熬得痛, 走得快 (Đệ thập lục hồi) May nhờ có con ngựa tốt, ngựa Đại Uyên, chịu được đau, chạy được nhanh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rang khô.",
+                "Cố nhịn, như ngao hình 熬刑 cố chịu hình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nấu: 熬菜 Nấu thức ăn. Xem 熬 [áo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đun cho cạn. Làm cạn — Chịu đựng."
+            ],
+            "compound_words": {
+                "打熬": "đả ngao",
+                "熬熬": "ngao ngao",
+                "熬熬煎煎": "ngao ngao tiên tiên"
+            }
+        }
+    }
+}

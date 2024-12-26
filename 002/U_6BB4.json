@@ -1,0 +1,76 @@
+{
+    "character": "殴",
+    "details": {
+        "Âm Hán Việt": [
+            "ấu",
+            "ẩu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thù 殳 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰区殳"
+        ],
+        "Nét bút": [
+            "一ノ丶フノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "SKHNE (尸大竹弓水)"
+        ],
+        "Unicode": [
+            "U+6BB4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ōu ㄛㄨ"
+        ],
+        "Âm Nôm": [
+            "ẩu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なぐ.る (nagu.ru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "au2"
+        ]
+    },
+    "meanings": {
+        "ấu": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 毆"
+            ]
+        },
+        "ẩu": {
+            "Từ điển phổ thông": [
+                "đánh nhau bằng gậy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 毆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 毆"
+            ],
+            "compound_words": {
+                "殴打": "ẩu đả",
+                "殴吐": "ẩu thổ"
+            }
+        }
+    }
+}

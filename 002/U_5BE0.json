@@ -1,0 +1,78 @@
+{
+    "character": "寠",
+    "details": {
+        "Âm Hán Việt": [
+            "cũ",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "miên 宀 (+11 nét)"
+        ],
+        "Hình thái": [
+            "⿱宀婁"
+        ],
+        "Nét bút": [
+            "丶丶フ丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "JLWV (十中田女)"
+        ],
+        "Unicode": [
+            "U+5BE0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jù ㄐㄩˋ",
+            "lóu ㄌㄡˊ"
+        ],
+        "Âm Nôm": [
+            "cũ",
+            "lũ",
+            "rủ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)",
+            "ル (ru)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まず.しい (mazu.shii)",
+            "やつ.れる (yatsu.reru)",
+            "ちいさ.い (chiisa.i)"
+        ],
+        "Âm Quảng Đông": [
+            "geoi6",
+            "lau4",
+            "leoi6"
+        ]
+    },
+    "meanings": {
+        "cũ": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng như 窶. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: “Gia cực bần cũ, sự thân chí hiếu” 家極貧寠, 事親至孝 (Quyển thập ngũ) Nhà hết sức nghèo túng, nuôi nấng thờ phụng cha mẹ vô cùng hiếu thảo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Cũ lũ 寠蔞."
+            ],
+            "compound_words": {
+                "寠蔞": "cũ lũ"
+            }
+        },
+        "lũ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngèo khổ. Đáng lẽ đọc Cũ."
+            ],
+            "compound_words": {
+                "寠蔞": "cũ lũ"
+            }
+        }
+    }
+}

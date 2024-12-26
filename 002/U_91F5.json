@@ -1,0 +1,92 @@
+{
+    "character": "釵",
+    "details": {
+        "Âm Hán Việt": [
+            "sai",
+            "thoa"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "kim 金 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金叉"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "CEI (金水戈)"
+        ],
+        "Unicode": [
+            "U+91F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chā ㄔㄚ",
+            "chāi ㄔㄞ"
+        ],
+        "Âm Nôm": [
+            "soa",
+            "thoa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かざし (kazashi)",
+            "かんざし (kan zashi)"
+        ],
+        "Âm Hàn": [
+            "채",
+            "차"
+        ],
+        "Âm Quảng Đông": [
+            "caa1",
+            "caai1"
+        ]
+    },
+    "meanings": {
+        "sai": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái thoa cài đầu của đàn bà, cái trâm. § Ta quen đọc là “thoa”. ◎Như: “kim thoa” 金釵 trâm vàng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái thoa cài đầu của đàn bà, cái trâm. Ta quen đọc là chữ thoa. Như kim thoa 金釵 trâm vàng."
+            ]
+        },
+        "thoa": {
+            "Từ điển phổ thông": [
+                "thoa, trâm cài đầu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái thoa cài đầu của đàn bà, cái trâm. § Ta quen đọc là “thoa”. ◎Như: “kim thoa” 金釵 trâm vàng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái thoa cài đầu của đàn bà, cái trâm. Ta quen đọc là chữ thoa. Như kim thoa 金釵 trâm vàng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trâm (cài đầu): 金釵 Cây trâm vàng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây kim lớn dùng để cài tóc của đàn bà thời xưa. Truyện  Nhị độ mai : » Cành thoa xin tặng để làm của tin «."
+            ],
+            "compound_words": {
+                "金釵": "kim thoa",
+                "荊釵布裙": "kinh thoa bố quần",
+                "裙釵": "quần thoa"
+            }
+        }
+    }
+}

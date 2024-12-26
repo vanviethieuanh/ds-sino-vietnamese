@@ -1,0 +1,81 @@
+{
+    "character": "磯",
+    "details": {
+        "Âm Hán Việt": [
+            "ki",
+            "ky"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thạch 石 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石幾"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一フフ丶フフ丶一ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "MRVII (一口女戈戈)"
+        ],
+        "Unicode": [
+            "U+78EF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "cơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いそ (iso)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei1"
+        ]
+    },
+    "meanings": {
+        "ki": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ghềnh đá, vách đá bên bờ nước. ◇Trương Húc 張旭: 'Thạch ki tây bạn vấn ngư thuyền' 石磯西畔問漁船 (Đào hoa khê 桃花谿) Ghềnh đá bờ tây hỏi thuyền đánh cá.",
+                "(Động) Nước đập vào đá, đá ngăn chận làm tức nước."
+            ],
+            "compound_words": {
+                "洛杉磯": "lạc sam ki"
+            }
+        },
+        "ky": {
+            "Từ điển phổ thông": [
+                "hòn đá ngăn nước"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðống cát đá nổi trong nước.",
+                "Hòn đá ngăn giữa nước, đá làm tức nước gọi là ki (ngăn trở)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vách đá cạnh bờ nước, đá bao quanh nước;",
+                "(Những) hòn đá ngăn giữa dòng nước."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ nước có đá — Nước đập vào đá."
+            ]
+        }
+    }
+}

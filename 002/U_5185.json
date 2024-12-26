@@ -1,0 +1,90 @@
+{
+    "character": "内",
+    "details": {
+        "Âm Hán Việt": [
+            "nạp",
+            "nội"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhập 入 (+2 nét)",
+            "quynh 冂 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "XOB (重人月)"
+        ],
+        "Unicode": [
+            "U+5185"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nèi ㄋㄟˋ"
+        ],
+        "Âm Nôm": [
+            "nòi",
+            "nồi",
+            "nụi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ナイ (nai)",
+            "ダイ (dai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うち (uchi)"
+        ],
+        "Âm Hàn": [
+            "내",
+            "납"
+        ],
+        "Âm Quảng Đông": [
+            "noi6"
+        ]
+    },
+    "meanings": {
+        "nạp": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 內."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thu nhận, thu nạp, dung nạp (dùng như 納，bộ 糸): 向使四君却客而不内 Nếu bốn ông vua đó ruồng đuổi khách xa mà không dung nạp (Lí Tư: Gián trục khách thư);",
+                "Nộp, giao nộp (dùng như 納，bộ 糸): 百姓内粟千石，拜爵一級 Trong dân ai nộp một ngàn thạch thóc thì ban tước cấp một (Sử kí: Tần Thuỷ hoàng bản kỉ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vào trong. Đem vào trong. Dùng như chữ Nạp 納 — Một âm là Nội. Xem Nội."
+            ]
+        },
+        "nội": {
+            "Từ điển phổ thông": [
+                "bên trong"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 內."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trong, bên trong, nội: 房子内外都很乾淨 Trong nhà ngoài sân đều rất sạch sẽ; 在三日内 Nội trong 3 ngày; 國内形勢很好 Tình hình trong nước rất tốt;",
+                "Vợ: 内子 (hoặc 内人, 賤内): Vợ tôi; 内親 Họ hàng bên vợ;",
+                "Những người thân của bên vợ: 内兄弟 Anh em vợ."
+            ],
+            "compound_words": {
+                "河内": "hà nội",
+                "賢内": "hiền nội",
+                "國内": "quốc nội",
+                "殺内": "sát nội",
+                "賤内": "tiện nội"
+            }
+        }
+    }
+}

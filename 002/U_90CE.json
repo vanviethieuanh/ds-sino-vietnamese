@@ -1,0 +1,92 @@
+{
+    "character": "郎",
+    "details": {
+        "Âm Hán Việt": [
+            "lang"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ấp 邑 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "丶フ一一フ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "IINL (戈戈弓中)"
+        ],
+        "Unicode": [
+            "U+90CE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "láng ㄌㄤˊ",
+            "làng ㄌㄤˋ"
+        ],
+        "Âm Nôm": [
+            "lang",
+            "loang",
+            "loen",
+            "sang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おとこ (otoko)"
+        ],
+        "Âm Hàn": [
+            "랑"
+        ],
+        "Âm Quảng Đông": [
+            "long4"
+        ]
+    },
+    "meanings": {
+        "lang": {
+            "Từ điển phổ thông": [
+                "chàng trai",
+                "một chức quan"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chức quan. § Về đời nhà Tần 秦, nhà Hán 漢 thì các quan về hạng 'lang' đều là sung vào quan túc vệ. Về đời sau mới dùng để gọi các quan ngoài, như 'thượng thư lang' 尚書郎, 'thị lang' 侍郎. Ở bên ta thì các quan cai trị thổ mán đều gọi đều gọi là 'quan lang'.",
+                "(Danh) Mĩ xưng dùng cho đàn ông. ◎Như: 'Chu lang' 周郎 chàng Chu, 'thiếu niên lang' 少年郎 chàng tuổi trẻ.",
+                "(Danh) Gọi phụ nữ cũng dùng chữ 'lang'. ◇Liêu trai chí dị 聊齋志異: 'Thái Nguyên Vương sanh, tảo hành, ngộ nhất nữ lang, bão bộc độc bôn, thậm gian ư bộ' 太原王生, 早行, 遇一女郎, 抱襆獨奔, 甚艱於步 (Họa bì 畫皮) Vương sinh người ở Thái Nguyên, sáng sớm đi đường, gặp một người con gái ôm khăn gói đi một mình, bước đi có vẻ rất khó nhọc.",
+                "(Danh) Tiếng phụ nữ gọi chồng hoặc tình nhân. ◇Lí Bạch 李白: 'Lang kị trúc mã lai, Nhiễu sàng lộng thanh mai' 郎騎竹馬來, 繞床弄青梅 (Trường Can hành 長干行) Chàng cưỡi ngựa tre lại, Vòng quanh giường nghịch mai xanh.",
+                "(Danh) Tiếng xưng hô của đầy tớ đối với chủ.",
+                "(Danh) Họ 'Lang'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 屎殼郎 [shêkelàng]. Xem 郎 [láng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên đất thời Xuân Thu, nay là địa phận tỉnh Sơn Đông — Tên một chức quan — Tiếng gọi người trai trẻ, có nghĩa như Chàng. Td: Kim lang ( chàng họ Kim ).  Đoạn trường tân thanh  có câu: » Ôi Kim lang, hỡi Kim lang. Thôi thôi thiếp đã phụ chàng từ đây « — Tiếng vợ gọi chồng. Xem Lang quân 郎君— tiếng người đày tớ gọi chủ."
+            ],
+            "compound_words": {
+                "伴郎": "bạn lang",
+                "妙齡女郎": "diệu linh nữ lang",
+                "檀郎": "đàn lang",
+                "郎君": "lang quân",
+                "令郎": "lệnh lang",
+                "牛郎": "ngưu lang",
+                "女郎": "nữ lang",
+                "官郎": "quan lang",
+                "新郎": "tân lang",
+                "侍郎": "thị lang",
+                "情郎": "tình lang",
+                "星郎": "tinh lang",
+                "文郎": "văn lang"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "character": "旗",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "phương 方 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰方⿱𠂉其"
+        ],
+        "Nét bút": [
+            "丶一フノノ一一丨丨一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YSOTC (卜尸人廿金)"
+        ],
+        "Unicode": [
+            "U+65D7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cờ",
+            "kì",
+            "kỳ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はた (hata)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cờ. ◎Như: 'kì xí' 旗幟 cờ xí, 'quốc kì' 國旗 cờ hiệu của một nước.",
+                "(Danh) Người 'Mãn Thanh' 滿清 gọi là 'Kì nhân' 旗人.",
+                "(Danh) Thời nhà Thanh Mông Cổ, khu vực hành chánh tương đương với 'huyện' 縣.",
+                "(Danh) Ngày xưa cho vẽ hình gấu hổ lên lụa gọi là 'kì'.",
+                "(Danh) Họ 'Kì'."
+            ],
+            "compound_words": {
+                "降旗": "hàng kì",
+                "號旗": "hiệu kì",
+                "花旗": "hoa kì",
+                "旗鼓相當": "kì cổ tương đương",
+                "旗幟": "kì xí",
+                "鳳旗": "phượng kì",
+                "軍旗": "quân kì",
+                "國旗": "quốc kì",
+                "帥旗": "suý kì",
+                "旌旗": "tinh kì",
+                "掩旗": "yểm kì",
+                "偃旗": "yển kì",
+                "偃旗息鼓": "yển kì tức cổ"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "lá cờ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cờ, dùng vải hay lụa buộc lên cái cán để làm dấu hiệu gọi là kỉ.",
+                "Người Mãn Thanh gọi là kì nhân 旗人.",
+                "Ngày xưa cho vẽ hình gấu hổ lên lụa gọi là kì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cờ: 升旗 Kéo cờ; 偃旗息鼓 Cờ im trống lặng;",
+                "Cấp hành chính ngang với cấp huyện ở Khu tự trị Nội Mông Cổ, Trung Quốc: 鄂倫春自治旗 Huyện tự trị Ơ-luân-xuân;",
+                "Huy hiệu;",
+                "Người Mãn Thanh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá cờ — Tên khu vực hành chánh tại các vùng Mông Cổ và Thanh Hải."
+            ],
+            "compound_words": {
+                "八旗": "bát kỳ",
+                "旗帜": "kỳ xí",
+                "旗幟": "kỳ xí",
+                "国旗": "quốc kỳ",
+                "國旗": "quốc kỳ",
+                "旌旗": "tinh kỳ"
+            }
+        }
+    }
+}

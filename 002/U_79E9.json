@@ -1,0 +1,114 @@
+{
+    "character": "秩",
+    "details": {
+        "Âm Hán Việt": [
+            "dật",
+            "trật"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoà 禾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾失"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDHQO (竹木竹手人)"
+        ],
+        "Unicode": [
+            "U+79E9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chặt",
+            "chật",
+            "chợt",
+            "dựt",
+            "đột",
+            "giật",
+            "giựt",
+            "mất",
+            "rặt",
+            "trặc",
+            "trắt",
+            "trật"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チツ (chitsu)"
+        ],
+        "Âm Hàn": [
+            "질"
+        ],
+        "Âm Quảng Đông": [
+            "dit6"
+        ]
+    },
+    "meanings": {
+        "dật": {
+            "Từ điển phổ thông": [
+                "thứ tự",
+                "trật (10 năm)"
+            ]
+        },
+        "trật": {
+            "Từ điển phổ thông": [
+                "thứ tự",
+                "trật (10 năm)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thứ tự. ◎Như: 'trật tự' 秩序 thứ hạng trên dưới trước sau.",
+                "(Danh) Cấp bậc, phẩm cấp, chức vị của quan lại. ◎Như: 'thăng trật' 升秩 lên cấp trên. ◇Sử Kí 史記: 'Toại phục tam nhân quan trật như cố, dũ ích hậu chi' 遂復三人官秩如故, 愈益厚之 (Tần bổn kỉ 秦本紀) Bèn phục chức vị cho ba người như trước, lại càng thêm coi trọng.",
+                "(Danh) Bổng lộc. ◇Hàn Dũ 韓愈: 'Vấn kì lộc, tắc viết hạ đại phu chi trật dã' 問其祿, 則曰下大夫之秩也 (Tránh thần luận 爭臣論) Hỏi bổng lộc ông, ông đáp là bổng lộc của hạ đại phu.",
+                "(Danh) Mười năm gọi là một 'trật'. ◎Như: 'thất trật' 七秩 bảy mươi tuổi, 'bát trật' 八秩 tám mươi tuổi. ◇Bạch Cư Dị 白居易: 'Dĩ khai đệ thất trật, Bão thực nhưng an miên' 已開第七秩, 飽食仍安眠 (Nguyên nhật 元日) Đã lên bảy mươi tuổi, Vẫn ăn no ngủ yên.",
+                "(Tính) Ngăn nắp, có thứ tự. ◎Như: 'trật tự tỉnh nhiên' 秩序井然 ngăn nắp thứ tự, đâu vào đấy.",
+                "(Tính) Thường, bình thường. ◇Thi Kinh 詩經: 'Thị viết kí túy, Bất tri kì trật' 是曰既醉, 不知其秩 (Tiểu nhã 小雅, Tân chi sơ diên 賓之初筵) Ấy là đã say, Chẳng biết lễ thường nữa.",
+                "(Động) Thụ chức.",
+                "(Động) Tế tự. ◇Ngụy thư 魏書: 'Mậu Dần, đế dĩ cửu hạn, hàm trật quần thần' 戊寅, 帝以久旱, 咸秩群神 (Cao Tổ kỉ 高祖紀).",
+                "§ Thông 'điệt' 迭."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trật tự, thứ tự.",
+                "Phẩm trật, một tên riêng để định phẩm hàm quan to quan nhỏ.",
+                "Cung kính.",
+                "Mười năm gọi là một trật, bảy mươi tuổi gọi là thất trật 七秩, tám mươi tuổi gọi là bát trật 八秩, v.v.",
+                "Lộc.",
+                "Thường."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【秩序】trật tự [zhìxù] Trật tự: 社會秩序 Trật tự xã hội;",
+                "(văn) Mười tuổi (năm): 七秩壽辰 Mừng thọ 70 tuổi;",
+                "(văn) Phẩm trật;",
+                "(văn) Cung kính;",
+                "(văn) Lộc;",
+                "(văn) Thường."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ tự trên dưới trước sau — Thứ bậc. Hạng."
+            ],
+            "compound_words": {
+                "降秩": "giáng trật",
+                "品秩": "phẩm trật",
+                "官秩": "quan trật",
+                "增秩": "tăng trật",
+                "升秩": "thăng trật",
+                "秩序": "trật tự"
+            }
+        }
+    }
+}

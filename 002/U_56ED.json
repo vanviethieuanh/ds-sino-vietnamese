@@ -1,0 +1,82 @@
+{
+    "character": "园",
+    "details": {
+        "Âm Hán Việt": [
+            "ngoan",
+            "viên"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "vi 囗 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴囗元"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフ一"
+        ],
+        "Thương Hiệt": [
+            "WMMU (田一一山)"
+        ],
+        "Unicode": [
+            "U+56ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yuán ㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "viên",
+            "vườn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バン (ban)",
+            "ガン (gan)",
+            "タン (tan)",
+            "エン (en)"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "ngoan": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mất đi. Mai một đi."
+            ]
+        },
+        "viên": {
+            "Từ điển phổ thông": [
+                "cái vườn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 園."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 園"
+            ],
+            "compound_words": {
+                "公园": "công viên",
+                "桃园": "đào viên",
+                "庭园": "đình viên",
+                "家园": "gia viên",
+                "校园": "hiệu viên",
+                "乐园": "lạc viên",
+                "果园": "quả viên",
+                "园丁": "viên đinh",
+                "园林": "viên lâm",
+                "园艺": "viên nghệ"
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "character": "接",
+    "details": {
+        "Âm Hán Việt": [
+            "tiếp"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘妾"
+        ],
+        "Nét bút": [
+            "一丨一丶一丶ノ一フノ一"
+        ],
+        "Thương Hiệt": [
+            "QYTV (手卜廿女)"
+        ],
+        "Unicode": [
+            "U+63A5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiē ㄐㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "tiếp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.ぐ (tsu.gu)"
+        ],
+        "Âm Hàn": [
+            "접"
+        ],
+        "Âm Quảng Đông": [
+            "zip3"
+        ]
+    },
+    "meanings": {
+        "tiếp": {
+            "Từ điển phổ thông": [
+                "tiếp tục, nối tiếp, tiếp theo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Liền, hai đầu liền nhau. ◎Như: 'giao đầu tiếp nhĩ' 交頭接耳 kề đầu sát tai (ghé đầu nói thì thầm).",
+                "(Động) Gặp gỡ, qua lại, hội họp, chiêu đãi. ◎Như: 'tiếp hợp' 接洽 hội họp thương lượng. ◇Sử Kí 史記: 'Nhập tắc dữ vương đồ nghị quốc sự, dĩ xuất hiệu lệnh; xuất tắc tiếp ngộ tân khách, ứng đối chư hầu' 入則與王圖議國事, 以出號令; 出則接遇賓客, 應對諸侯 (Khuất Nguyên Giả Sanh truyện 屈原賈生傳) Vào triều thì cùng vua bàn tính việc nước, ban hành các hiệu lệnh; ra thì tiếp đãi tân khách, ứng đối với chư hầu.",
+                "(Động) Nối theo, liên tục. ◎Như: 'tiếp thủ' 接手 nối tay làm, 'tiếp biện' 接辦 nối sau liệu biện, 'tiếp chủng nhi chí' 接踵而至 nối gót mà đến.",
+                "(Động) Đón, đón rước. ◇Tam quốc diễn nghĩa 三國演義: 'Lưu Yên thân tự nghênh tiếp, thưởng lao quân sĩ' 劉焉親自迎接, 賞勞軍士 (Đệ nhất hồi 第一回) Lưu Yên thân ra đón tiếp, khao thưởng quân sĩ.",
+                "(Động) Đương lấy, đỡ lấy. ◇Tam quốc diễn nghĩa 三國演義: 'Toại tự hạ mã tiếp thổ điền khanh' 遂自下馬接土填坑 (Đệ thập thất hồi) Rồi tự xuống ngựa đỡ lấy đất để lấp hố.",
+                "(Động) Thu nhận. ◎Như: 'tiếp thư' 接書 nhận thư.",
+                "(Động) Ở gần. ◎Như: 'tiếp cận' 接近 gần gũi.",
+                "(Tính) Nhanh nhẹn. § Thông 'tiệp' 捷. ◇Tuân Tử 荀子: 'Tiên sự lự sự vị chi tiếp' 先事慮事謂之接 (Đại lược 大略) Lo liệu sự việc trước khi sự việc xảy ra, thế gọi là nhanh nhẹn.",
+                "(Danh) Họ 'Tiếp'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Liền, hai đầu liền nhau gọi là tiếp.",
+                "Hội họp, như tiếp hợp 接洽 hội họp chuyện trò, trực tiếp 直接 thẳng tiếp với người nghĩa là mình đến tận mặt tận nơi mà giao tiếp, gián tiếp 間接 xen tiếp, nghĩa là lại cách một từng nữa mới tiếp được ý kiến nhau.",
+                "Nối tiếp, như tiếp thủ 接手 nối tay làm, tiếp biện 接辦 nối sau liệu biện. Công việc nhiều quá, không thể làm kiêm được cả gọi là ứng tiếp bất hạ 應接不下 ứng tiếp chẳng rồi.",
+                "Liền noi, như tiếp chủng nhi chí 接踵而至 nối gót mà đến.",
+                "Tiếp đãi, như nghênh tiếp 迎接.",
+                "Thấy.",
+                "Gần.",
+                "Nhận được.",
+                "Trói tay.",
+                "Chóng vội."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Ở) gần, cạnh, bên cạnh, giáp nhau: 接近 Gần gũi;",
+                "Nối, nối tiếp, nối liền, ghép, chắp: 接紗頭 Nối sợi; 接手 Nối tay nhau; 接踵而至 Nối gót mà đến; 把兩塊木板接起來 Ghép hai tấm ván;",
+                "Đỡ lấy, nhận, hứng: 接住這本書 Đỡ lấy quyển sách này; 接球 Nhận bóng; 接雨水 Hứng nước mưa;",
+                "Nhận, tiếp nhận: 接到信 Nhận được thư;",
+                "Đón, đón tiếp: 到車站接人 Đến nhà ga đón khách;",
+                "Tiếp (theo), tiếp tục: 他接著說 Anh ấy nói tiếp;",
+                "Thay: 誰接你的班？ Ai thay ca cho anh?;",
+                "(văn) Nhanh nhẹn (dùng như 捷): 先事慮事謂之接 Nghĩ ngợi sự việc trước khi sự việc xảy ra gọi là nhanh nhạy (Tuân tử: Đại lược);",
+                "[Jie] (Họ) Tiếp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giáp liền. Td: Tiếp giáp — Nối liền. Td: Tiếp tục — Đón nhận. Td: Tiếp thư — Hội họp."
+            ],
+            "compound_words": {
+                "近接": "cận tiếp",
+                "踵接": "chủng tiếp",
+                "移花接木": "di hoa tiếp mộc",
+                "間接": "gián tiếp",
+                "间接": "gián tiếp",
+                "交接": "giao tiếp",
+                "繼接": "kế tiếp",
+                "款接": "khoản tiếp",
+                "桥接": "kiều tiếp",
+                "橋接": "kiều tiếp",
+                "连接": "liên tiếp",
+                "連接": "liên tiếp",
+                "迎接": "nghênh tiếp",
+                "酬接": "thù tiếp",
+                "乘接": "thừa tiếp",
+                "承接": "thừa tiếp",
+                "接旁": "tiếp bàng",
+                "接近": "tiếp cận",
+                "接枝": "tiếp chi",
+                "接戰": "tiếp chiến",
+                "接踵": "tiếp chủng",
+                "接骨": "tiếp cốt",
+                "接救": "tiếp cứu",
+                "接引": "tiếp dẫn",
+                "接待": "tiếp đãi",
+                "接夾": "tiếp giáp",
+                "接界": "tiếp giới",
+                "接合": "tiếp hợp",
+                "接客": "tiếp khách",
+                "接口": "tiếp khẩu",
+                "接見": "tiếp kiến",
+                "接连": "tiếp liên",
+                "接連": "tiếp liên",
+                "接木": "tiếp mộc",
+                "接納": "tiếp nạp",
+                "接纳": "tiếp nạp",
+                "接人": "tiếp nhân",
+                "接縫": "tiếp phùng",
+                "接缝": "tiếp phùng",
+                "接管": "tiếp quản",
+                "接生": "tiếp sinh",
+                "接濟": "tiếp tế",
+                "接替": "tiếp thế",
+                "接通": "tiếp thông",
+                "接受": "tiếp thụ",
+                "接收": "tiếp thu",
+                "接續": "tiếp tục",
+                "接應": "tiếp ứng",
+                "接吻": "tiếp vẫn",
+                "接触": "tiếp xúc",
+                "接觸": "tiếp xúc",
+                "總接": "tổng tiếp",
+                "直接": "trực tiếp",
+                "應接": "ứng tiếp",
+                "應接不暇": "ứng tiếp bất hạ"
+            }
+        }
+    }
+}

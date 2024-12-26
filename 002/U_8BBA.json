@@ -1,0 +1,78 @@
+{
+    "character": "论",
+    "details": {
+        "Âm Hán Việt": [
+            "luân",
+            "luận"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠⿱人匕"
+        ],
+        "Nét bút": [
+            "丶フノ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "IVOP (戈女人心)"
+        ],
+        "Unicode": [
+            "U+8BBA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lún ㄌㄨㄣˊ",
+            "lùn ㄌㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "luận"
+        ],
+        "Âm Quảng Đông": [
+            "leon6"
+        ]
+    },
+    "meanings": {
+        "luân": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 論."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【論語】Luận ngữ [Lúnyư] Sách Luận ngữ (một sách căn bản trong bộ Tứ thư của Nho giáo);",
+                "(văn) Điều lí, thứ tự (như 倫, bộ 亻): 論而法 Có điều lí mà hợp với pháp độ (Tuân tử: Tính ác). Xem 論 [lùn]."
+            ]
+        },
+        "luận": {
+            "Từ điển phổ thông": [
+                "bàn bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 論."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【論語】Luận ngữ [Lúnyư] Sách Luận ngữ (một sách căn bản trong bộ Tứ thư của Nho giáo);",
+                "(văn) Điều lí, thứ tự (như 倫, bộ 亻): 論而法 Có điều lí mà hợp với pháp độ (Tuân tử: Tính ác). Xem 論 [lùn]."
+            ],
+            "compound_words": {
+                "不论": "bất luận",
+                "辩论": "biện luận",
+                "舆论": "dư luận",
+                "理论": "lý luận",
+                "泛论": "phiếm luận",
+                "推论": "suy luận",
+                "讨论": "thảo luận"
+            }
+        }
+    }
+}

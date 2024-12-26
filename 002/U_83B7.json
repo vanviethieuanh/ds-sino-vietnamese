@@ -1,0 +1,72 @@
+{
+    "character": "获",
+    "details": {
+        "Âm Hán Việt": [
+            "hoạch",
+            "địch"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹犾"
+        ],
+        "Nét bút": [
+            "一丨丨ノフノ一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "TKHK (廿大竹大)"
+        ],
+        "Unicode": [
+            "U+83B7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huò ㄏㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "hoạch"
+        ],
+        "Âm Quảng Đông": [
+            "wok6"
+        ]
+    },
+    "meanings": {
+        "hoạch": {
+            "Từ điển phổ thông": [
+                "bắt được, có được",
+                "gặt hái",
+                "đầy tớ, nô tỳ"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 獲.",
+                "Giản thể của chữ 穫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 穫"
+            ],
+            "compound_words": {
+                "捕获": "bộ hoạch",
+                "抄获": "sao hoạch",
+                "收获": "thu hoạch",
+                "荣获": "vinh hoạch"
+            }
+        },
+        "địch": {
+            "Từ điển phổ thông": [
+                "cây sậy"
+            ]
+        }
+    }
+}

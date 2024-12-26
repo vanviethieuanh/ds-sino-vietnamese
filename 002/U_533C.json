@@ -1,0 +1,78 @@
+{
+    "character": "匼",
+    "details": {
+        "Âm Hán Việt": [
+            "hạp",
+            "ảm"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hễ 匸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿷匚合"
+        ],
+        "Nét bút": [
+            "一ノ丶一丨フ一フ"
+        ],
+        "Thương Hiệt": [
+            "SOMR (尸人一口)"
+        ],
+        "Unicode": [
+            "U+533C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "kè ㄎㄜˋ"
+        ],
+        "Âm Nôm": [
+            "hạp",
+            "hộp",
+            "kháp",
+            "khập",
+            "tráp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アン (an)",
+            "オン (on)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こびへつら.う (kobihetsura.u)",
+            "めぐ.る (megu.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "hap1",
+            "o1"
+        ]
+    },
+    "meanings": {
+        "hạp": {
+            "Từ điển phổ thông": [
+                "vây quanh một vòng, bao vòng quanh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vây quanh một vòng, bao vòng quanh."
+            ]
+        },
+        "ảm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghênh đón, chào đón."
+            ],
+            "compound_words": {
+                "阿匼": "a ảm",
+                "匼匼": "ảm ảm"
+            }
+        }
+    }
+}

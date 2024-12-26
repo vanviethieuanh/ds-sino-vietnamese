@@ -1,0 +1,93 @@
+{
+    "character": "忙",
+    "details": {
+        "Âm Hán Việt": [
+            "mang"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "tâm 心 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺖亡"
+        ],
+        "Nét bút": [
+            "丶丶丨丶一フ"
+        ],
+        "Thương Hiệt": [
+            "PYV (心卜女)"
+        ],
+        "Unicode": [
+            "U+5FD9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "máng ㄇㄤˊ"
+        ],
+        "Âm Nôm": [
+            "mang",
+            "mường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いそが.しい (isoga.shii)",
+            "せわ.しい (sewa.shii)",
+            "おそ.れる (oso.reru)",
+            "うれえるさま (ureerusama)"
+        ],
+        "Âm Hàn": [
+            "망"
+        ],
+        "Âm Quảng Đông": [
+            "mong4"
+        ]
+    },
+    "meanings": {
+        "mang": {
+            "Từ điển phổ thông": [
+                "bận rộn, bề bộn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Vội gấp, cấp bách. ◎Như: 'cấp mang' 急忙 vội vàng, 'thủ mang cước loạn' 手忙腳亂 túi bụi chân tay.",
+                "(Tính) Bận rộn, không được thư nhàn. ◇Nguyễn Du 阮攸: 'Tiếu ngã bạch đầu mang bất liễu' 笑我白頭忙不了 (Đông A sơn lộ hành 東阿山路行) Cười ta đầu bạc chộn rộn chưa xong việc.",
+                "(Phó) Vội vàng.",
+                "(Danh) Họ 'Mang'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bộn rộn, trong lòng vội gấp.",
+                "Công việc bề bộn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bận: 繁忙 Bận rộn; 這幾天很忙 Mấy hôm nay bận quá;",
+                "Vội, gấp: 你忙什麼，再坐一會吧 Anh vội gì, ngồi chơi tí nữa đi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vội vã gấp rút — Bận rộn lắm."
+            ],
+            "compound_words": {
+                "幫忙": "bang mang",
+                "不忙": "bất mang",
+                "急忙": "cấp mang",
+                "窮忙": "cùng mang",
+                "多忙": "đa mang",
+                "慌忙": "hoang mang",
+                "忙不過來": "mang bất quá lai",
+                "忙碌": "mang lục",
+                "匆忙": "thông mang"
+            }
+        }
+    }
+}

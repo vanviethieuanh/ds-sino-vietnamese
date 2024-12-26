@@ -1,0 +1,101 @@
+{
+    "character": "丞",
+    "details": {
+        "Âm Hán Việt": [
+            "chưng",
+            "chửng",
+            "thừa"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhất 一 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱氶一"
+        ],
+        "Nét bút": [
+            "フ丨フノ丶一"
+        ],
+        "Thương Hiệt": [
+            "NEM (弓水一)"
+        ],
+        "Unicode": [
+            "U+4E1E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chéng ㄔㄥˊ",
+            "zhěng ㄓㄥˇ"
+        ],
+        "Âm Nôm": [
+            "chẳng",
+            "thừa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すく.う (suku.u)",
+            "たす.ける (tasu.keru)"
+        ],
+        "Âm Hàn": [
+            "승"
+        ],
+        "Âm Quảng Đông": [
+            "sing4"
+        ]
+    },
+    "meanings": {
+        "chưng": {
+            "Từ điển trích dẫn": [
+                "(Động) Giúp đỡ, phụ tá, phụ trợ.",
+                "(Danh) Thời xưa, chỉ quan phụ giúp vua hoặc quan giúp việc cho viên quan chính. ◎Như: 'thừa tướng' 丞相, 'phủ thừa' 府丞, 'huyện thừa' 縣丞.",
+                "§ Nguyên đọc là 'chưng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giúp đỡ, như thừa tướng 丞相 chức quan giúp vua. Các nha có đặt người giúp việc cũng gọi là thừa, như phủ thừa 府丞 huyện thừa 縣丞 v.v. Nguyên âm là chưng."
+            ]
+        },
+        "chửng": {
+            "Từ điển Trần Văn Chánh": [
+                "Cứu vớt (dùng như 拯): 丞民乎農桑 Cứu dân ở việc nông tang (Dương Hùng: Vũ lạp phú)."
+            ]
+        },
+        "thừa": {
+            "Từ điển phổ thông": [
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giúp đỡ, phụ tá, phụ trợ.",
+                "(Danh) Thời xưa, chỉ quan phụ giúp vua hoặc quan giúp việc cho viên quan chính. ◎Như: 'thừa tướng' 丞相, 'phủ thừa' 府丞, 'huyện thừa' 縣丞.",
+                "§ Nguyên đọc là 'chưng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giúp đỡ, như thừa tướng 丞相 chức quan giúp vua. Các nha có đặt người giúp việc cũng gọi là thừa, như phủ thừa 府丞 huyện thừa 縣丞 v.v. Nguyên âm là chưng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phụ giúp, giúp đỡ. 【丞相】 thừa tướng [chéngxiàng] Thừa tướng (chức quan giúp vua);",
+                "Các chức phó của quan đứng đầu các cấp từ đời Tần, Hán về sau cũng gọi là 'thừa', như 縣丞，府丞;",
+                "Vâng theo (dùng như 承, bộ 手): 于是丞上指 Do vậy vâng theo ý chỉ của nhà vua (Sử kí)."
+            ],
+            "compound_words": {
+                "稟丞": "bẩm thừa",
+                "恭丞": "cung thừa",
+                "縣丞": "huyện thừa",
+                "府丞": "phủ thừa",
+                "丞相": "thừa tướng"
+            }
+        }
+    }
+}

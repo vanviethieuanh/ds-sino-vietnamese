@@ -1,0 +1,117 @@
+{
+    "character": "潮",
+    "details": {
+        "Âm Hán Việt": [
+            "triều",
+            "trào"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡朝"
+        ],
+        "Nét bút": [
+            "丶丶一一丨丨フ一一一丨ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "EJJB (水十十月)"
+        ],
+        "Unicode": [
+            "U+6F6E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cháo ㄔㄠˊ"
+        ],
+        "Âm Nôm": [
+            "rều",
+            "trào",
+            "triều",
+            "xèo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しお (shio)",
+            "うしお (ushio)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "ciu4"
+        ]
+    },
+    "meanings": {
+        "triều": {
+            "Từ điển phổ thông": [
+                "thuỷ triều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con nước, thủy triều. ◎Như: 'triều tịch' 潮汐 thủy triều sáng và tối.",
+                "(Danh) Trào lưu, phong trào (hình thế bùng lên như thủy triều). ◎Như: 'tư triều' 思潮, 'học triều' 學潮.",
+                "(Tính) Ẩm, ướt. ◇Hồng Lâu Mộng 紅樓夢: 'Đại thanh tảo khởi, tại giá cá triều địa phương trạm liễu bán nhật, dã cai hồi khứ hiết tức hiết tức liễu' 大清早起, 在這個潮地方站了半日, 也該回去歇息歇息了 (Đệ tam thập ngũ hồi) Sáng sớm dậy, (mà) đứng lâu ở chỗ ẩm thấp, hãy nên về nghỉ đi.",
+                "(Tính) Thấp, kém. ◎Như: 'tha đích thủ nghệ triều' 他的手藝潮 tay nghề của anh ta còn kém."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước thuỷ triều.",
+                "Ướt át.",
+                "Ðúng giờ phát lên gọi là triều, như chứng sốt cứ đến trưa nổi cơn gọi là triều nhiệt 潮熱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuỷ triều, con nước: 漲潮 Thuỷ triều dâng, nước lên;",
+                "Trào lưu, phong trào, làn sóng: 革命高潮 Cao trào cách mạng; 怒潮 Làn sóng căm phẫn;",
+                "Phát lên đúng giờ, có cơn: 潮熱 Sốt có cơn (vào buổi trưa);",
+                "Ẩm, ướt: 受潮 Bị ẩm; 防潮 Phòng ẩm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước sông biển lên xuống theo sức hút của mặt trăng. Ta thường gọi là Thuỷ triều.  Đoạn trường tân thanh  có câu: » Triều dâng hôm sớm mây hồng trước sau « — Ta cũng đọc Trào."
+            ],
+            "compound_words": {
+                "暗潮": "ám triều",
+                "海潮": "hải triều",
+                "紅潮": "hồng triều",
+                "逆潮": "nghịch triều",
+                "風潮": "phong triều",
+                "早潮": "tảo triều",
+                "心潮": "tâm triều",
+                "水潮": "thuỷ triều",
+                "潮流": "triều lưu"
+            }
+        },
+        "trào": {
+            "Từ điển phổ thông": [
+                "thuỷ triều"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuỷ triều, con nước: 漲潮 Thuỷ triều dâng, nước lên;",
+                "Trào lưu, phong trào, làn sóng: 革命高潮 Cao trào cách mạng; 怒潮 Làn sóng căm phẫn;",
+                "Phát lên đúng giờ, có cơn: 潮熱 Sốt có cơn (vào buổi trưa);",
+                "Ẩm, ướt: 受潮 Bị ẩm; 防潮 Phòng ẩm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước lên xuống theo sức hút của mặt trăng. Ta thường gọi là Thuỷ triều. Bản dịch  Chinh phụ ngâm khúc : » Bãi hôm tuôn đẩy nước trào mênh mông « — Xem thêm Triều."
+            ],
+            "compound_words": {
+                "風潮": "phong trào",
+                "风潮": "phong trào",
+                "新潮": "tân trào",
+                "退潮": "thoái trào",
+                "思潮": "tư trào"
+            }
+        }
+    }
+}

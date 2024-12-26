@@ -1,0 +1,103 @@
+{
+    "character": "柘",
+    "details": {
+        "Âm Hán Việt": [
+            "chá",
+            "chạ",
+            "giá"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木石"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "DMR (木一口)"
+        ],
+        "Unicode": [
+            "U+67D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhè ㄓㄜˋ"
+        ],
+        "Âm Nôm": [
+            "giá",
+            "rú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)",
+            "ジャク (jaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そ (so)",
+            "つげ (tsuge)",
+            "やまぐわ (yamaguwa)"
+        ],
+        "Âm Hàn": [
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "ze3"
+        ]
+    },
+    "meanings": {
+        "chá": {
+            "Từ điển phổ thông": [
+                "cây gai, cây chá (một loài giống cây dâu tằm)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây chá, một thứ cây giống như cây dâu dùng chăn tằm được. ◇Nguyễn Du 阮攸: 'Tang chá gia gia cận cổ phong' 桑柘家家近古風 (Đông A sơn lộ hành 東阿山路行) Nhà nhà trồng các loại dâu chá gần với lề lối xưa.",
+                "(Danh) 'Chá chi' 柘枝 tên một điệu múa. ◇Lưu Vũ Tích 劉禹錫: 'Thể khinh tự vô cốt, Quan giả giai tủng thần' 體輕似無骨, 觀者皆聳神 (Quan chá chi vũ 觀柘枝舞) Thân mình giống như là không có xương, Người xem (múa chá chi) đều lấy làm kinh dị.",
+                "§ Cũng đọc là 'giá'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây chá, một thứ cây giống như cây dâu dùng chăn tằm được.",
+                "Chá chi 柘枝 tên một khúc hát múa, cũng đọc là chữ giá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây chá (Cudrania tricuspidata, một loại cây tương tự cây dâu, dùng để nuôi tằm được);",
+                "Cây mía."
+            ]
+        },
+        "chạ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây tương tự cây dâu. Vỏ cây đem giã vắt nước, dùng làm thuốc nhuộm màu vàng — Cũng có nghĩa là cây mía. Như chữ Giá. Trong ngôn ngữ Trung Hoa, các âm Chạ, Giá đọc như nhau."
+            ],
+            "compound_words": {
+                "柘袍": "chạ bào",
+                "柘弓": "chạ cung",
+                "柘醬": "chạ tương"
+            }
+        },
+        "giá": {
+            "Từ điển phổ thông": [
+                "cây gai, cây chá (một loài giống cây dâu tằm)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây chá, một thứ cây giống như cây dâu dùng chăn tằm được. ◇Nguyễn Du 阮攸: 'Tang chá gia gia cận cổ phong' 桑柘家家近古風 (Đông A sơn lộ hành 東阿山路行) Nhà nhà trồng các loại dâu chá gần với lề lối xưa.",
+                "(Danh) 'Chá chi' 柘枝 tên một điệu múa. ◇Lưu Vũ Tích 劉禹錫: 'Thể khinh tự vô cốt, Quan giả giai tủng thần' 體輕似無骨, 觀者皆聳神 (Quan chá chi vũ 觀柘枝舞) Thân mình giống như là không có xương, Người xem (múa chá chi) đều lấy làm kinh dị.",
+                "§ Cũng đọc là 'giá'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây chá, một thứ cây giống như cây dâu dùng chăn tằm được.",
+                "Chá chi 柘枝 tên một khúc hát múa, cũng đọc là chữ giá."
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "襂",
+    "details": {
+        "Âm Hán Việt": [
+            "sam",
+            "sâm"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "y 衣 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤參"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶フ丶フ丶フ丶ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "LIIH (中戈戈竹)"
+        ],
+        "Unicode": [
+            "U+8942"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "sēn ㄙㄣ",
+            "shān ㄕㄢ",
+            "shēn ㄕㄣ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)",
+            "サン (san)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひとえ (hitoe)"
+        ],
+        "Âm Quảng Đông": [
+            "sam1"
+        ]
+    },
+    "meanings": {
+        "sam": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cũng như “sam” 縿."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo đơn, áo may một lần vải — Mặc một lần áo."
+            ]
+        },
+        "sâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng quần áo dài lượt thượt — Một âm là Sam. Xem Sam."
+            ],
+            "compound_words": {
+                "襂纚": "sâm li",
+                "襂褷": "sâm si"
+            }
+        }
+    }
+}

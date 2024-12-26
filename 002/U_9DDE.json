@@ -1,0 +1,77 @@
+{
+    "character": "鷞",
+    "details": {
+        "Âm Hán Việt": [
+            "sương",
+            "sảng"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰爽鳥"
+        ],
+        "Nét bút": [
+            "一ノ丶ノ丶ノ丶ノ丶ノ丶ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "KKHAF (大大竹日火)"
+        ],
+        "Unicode": [
+            "U+9DDE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shuāng ㄕㄨㄤ",
+            "shuǎng ㄕㄨㄤˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たか (taka)"
+        ],
+        "Âm Quảng Đông": [
+            "soeng1",
+            "song2"
+        ]
+    },
+    "meanings": {
+        "sương": {
+            "Từ điển phổ thông": [
+                "(xem: sương cưu 鷞鳩,鹴鸠; túc sương 鷫鷞,鹔鹴)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Sương cưu' 鷞鳩: (1) Tức là chim cắt (chim ưng). (2) Chức quan, như chức 'tư khấu' 司寇 thời xưa, lo về việc trộm cướp đạo tặc.",
+                "(Danh) 'Túc sương' 鷫鷞: xem 'túc' 鷫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sương cưu 鷞鳩 tức là con cắt. Có khi đọc là sảng. Túc sương 鷫鷞 một giống chim sắc xanh cổ dài, giống như con nhạn."
+            ],
+            "compound_words": {
+                "鷞鳩": "sương cưu",
+                "鷫鷞": "túc sương"
+            }
+        },
+        "sảng": {
+            "Từ điển Thiều Chửu": [
+                "① Sương cưu 鷞鳩 tức là con cắt. Có khi đọc là sảng. Túc sương 鷫鷞 một giống chim sắc xanh cổ dài, giống như con nhạn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【鷞鳩】 sảng cưu [shuăngjiu] Chim cắt."
+            ]
+        }
+    }
+}

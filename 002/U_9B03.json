@@ -1,0 +1,80 @@
+{
+    "character": "鬃",
+    "details": {
+        "Âm Hán Việt": [
+            "tông",
+            "tùng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "tiêu 髟 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱髟宗"
+        ],
+        "Nét bút": [
+            "一丨一一一フ丶ノノノ丶丶フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SHJMF (尸竹十一火)"
+        ],
+        "Unicode": [
+            "U+9B03"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sōng ㄙㄨㄥ",
+            "zōng ㄗㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "tông",
+            "tung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ズ (zu)",
+            "ゾウ (zō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たてがみ (tategami)"
+        ],
+        "Âm Quảng Đông": [
+            "zung1"
+        ]
+    },
+    "meanings": {
+        "tông": {
+            "Từ điển trích dẫn": [
+                "(Danh) Búi tóc cao.",
+                "(Danh) Bờm. ◎Như: 'mã tông' 馬鬃 bờm ngựa.",
+                "§ Cũng viết là 'tông' 鬉."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ tông 鬉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bờm, lông: 那匹 馬鬃稀 Con ngựa này có bờm thưa; 馬鬃 Bờm ngựa; 豬鬃 Lông gáy lợn; 鬃刷 Bàn chải lông (làm bằng lông gáy lợn);",
+                "Búi tóc trong kiểu tóc thiếu nữ."
+            ],
+            "compound_words": {
+                "放鬃": "phóng tông"
+            }
+        },
+        "tùng": {
+            "Từ điển phổ thông": [
+                "tóc rối bù",
+                "bờm cổ"
+            ]
+        }
+    }
+}

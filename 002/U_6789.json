@@ -1,0 +1,95 @@
+{
+    "character": "枉",
+    "details": {
+        "Âm Hán Việt": [
+            "uổng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木王"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一一丨一"
+        ],
+        "Thương Hiệt": [
+            "DMG (木一土)"
+        ],
+        "Unicode": [
+            "U+6789"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wǎng ㄨㄤˇ"
+        ],
+        "Âm Nôm": [
+            "uổng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ま.げる (ma.geru)",
+            "ま.がる (ma.garu)",
+            "ま.げて (ma.gete)"
+        ],
+        "Âm Hàn": [
+            "왕"
+        ],
+        "Âm Quảng Đông": [
+            "wong2"
+        ]
+    },
+    "meanings": {
+        "uổng": {
+            "Từ điển phổ thông": [
+                "tà, cong",
+                "oan uổng",
+                "uổng phí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tà, cong, gian ác. ◎Như: 'uổng đạo' 枉道 đạo tà ác. ◇Luận Ngữ 論語: 'Cử trực, thố chư uổng, tắc dân phục' 舉直錯諸枉, 則民服 (Vi chính 為政) Đề cử người ngay thẳng, bỏ hết những người cong queo thì dân phục tùng.",
+                "(Động) Làm sai trái. ◎Như: 'uổng pháp' 枉法 làm trái pháp luật. ◇Liêu trai chí dị 聊齋志異: 'Tể dĩ uổng pháp nghĩ lưu' 宰以枉法擬流 (Thành tiên 成仙) Quan tể bị phạt đi đày vì tội bẻ queo pháp luật.",
+                "(Động) Làm cho bị oan ức. ◇Nguyễn Du 阮攸: 'Uổng giao thiên cổ tội khuynh thành' 枉敎千古罪傾城 (Dương Phi cố lí 楊妃故里) Để nghìn năm đổ oan cho (người đẹp) tội nghiêng thành.",
+                "(Động) Uốn mình tới, hạ mình (khiêm từ). ◎Như: 'uổng cố' 枉顧 đoái tới, hạ mình đến. ◇Sử Kí 史記: 'Thần hữu khách tại thị đồ trung, nguyện uổng xa kị quá chi' 臣有客在市屠中, 願枉車騎過之 (Ngụy Công Tử liệt truyện 魏公子列傳) Tôi có người khách làm nghề hàng thịt ở ngoài chợ, xin ngài chịu khó cho xe ngựa đến để ghé thăm ông ta.",
+                "(Phó) Phí công, vô ích. ◎Như: 'uổng phí tinh thần' 枉費精神 nhọc tinh thần vô ích."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tà, cong, như uổng đạo 枉道 đạo tà.",
+                "Oan uổng.",
+                "Uốn mình tới, như uổng cố 枉顧 cố tình đoái tới, hạ mình đoái đến.",
+                "Uổng, như uổng phí tinh thần 枉費精神 uổng phí tinh thần, nhọc mà không có ích gì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cong, sai lệch: 矯枉過正 Uốn cái cong cho thẳng nhưng lại quá mức;",
+                "Làm sai lệch đi. 【枉法】uổng pháp [wăngfă] Làm trái pháp luật, trái luật: 貪贓枉法 Ăn hối lộ và làm trái pháp luật;",
+                "Oan, oan uổng: 冤枉 Bị oan, oan ức, oan uổng; 柱論無辜 Luận xử oan uổng kẻ vô tội (Tam quốc chí);",
+                "Toi công, phí công, uổng: 枉費心機 Lo toan vô ích;",
+                "(văn) Uốn mình tới, hạ mình: 枉顧 Hạ mình chiếu cố."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cành cây cong — Cong vạy. Bị bẻ cong — Mệt nhọc mất công mà không ích lợi gì. Ca dao: » Uổng công thục nữ sánh cùng thất phu «."
+            ],
+            "compound_words": {
+                "冤枉": "oan uổng",
+                "枉命": "uổng mạng",
+                "枉法": "uổng pháp",
+                "枉費": "uổng phí",
+                "枉费": "uổng phí",
+                "枉死": "uổng tử"
+            }
+        }
+    }
+}

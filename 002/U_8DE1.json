@@ -1,0 +1,101 @@
+{
+    "character": "跡",
+    "details": {
+        "Âm Hán Việt": [
+            "tích"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "túc 足 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊亦"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶一ノ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RMYLC (口一卜中金)"
+        ],
+        "Unicode": [
+            "U+8DE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セキ (seki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あと (ato)"
+        ],
+        "Âm Hàn": [
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "zek3",
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "tích": {
+            "Từ điển phổ thông": [
+                "dấu vết, dấu tích"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vết chân. ◎Như: 'túc tích' 足跡 dấu chân, 'tung tích' 蹤跡 vết chân. ◇Vi Ứng Vật 韋應物: 'Lạc diệp mãn không san, Hà xứ tầm hành tích?' 落葉滿空山, 何處尋行跡 (Kí toàn Tiêu san trung đạo sĩ 寄全椒山中道士) Lá rụng đầy núi trống, Biết đâu tìm dấu chân đi?",
+                "(Danh) Ngấn, dấu vết. ◎Như: 'ngân tích' 痕跡 ngấn vết, 'bút tích' 筆跡 chữ viết hoặc thư họa để lại, 'mặc tích' 墨跡 vết mực (chỉ bản gốc viết tay hoặc thư họa nguyên bổn). ◇Nguyễn Trãi 阮廌: 'Tâm như dã hạc phi thiên tế, Tích tự chinh hồng đạp tuyết sa' 心如野鶴飛天際, 跡似征鴻踏雪沙 (Họa hữu nhân yên hà ngụ hứng 和友人煙霞寓興) Lòng như hạc nội bay giữa trời, Dấu vết tựa như cánh chim hồng giẫm trên bãi tuyết.",
+                "(Danh) Sự vật, công nghiệp tiền nhân lưu lại. ◇Đào Uyên Minh 陶淵明: 'Thánh hiền lưu dư tích' 聖賢留餘跡 (Tặng Dương Trường Sử 贈羊長史) Thánh hiền để lại công nghiệp.",
+                "(Động) Khảo sát, tham cứu. ◇Hán Thư 漢書: 'Thần thiết tích tiền sự, đại để cường giả tiên phản' 臣竊跡前事, 大抵彊者先反 (Giả Nghị truyện 賈誼傳) Thần riêng khảo sát việc trước, thường thì kẻ mạnh phản lại đầu tiên.",
+                "(Động) Mô phỏng, làm theo. ◎Như: 'nghĩ tích' 擬跡 phỏng theo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Vết chân. Như tung tích 蹤跡 dấu vết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vết, dấu vết, vết chân (như 跡, bộ 辶)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dấu chân. Vết chân — Việc đời xưa. Dấu vết đời xưa để lại. Td: Cổ tích."
+            ],
+            "compound_words": {
+                "印跡": "ấn tích",
+                "筆跡": "bút tích",
+                "真跡": "chân tích",
+                "腳跡": "cước tích",
+                "遗跡": "di tích",
+                "遺跡": "di tích",
+                "滅跡": "diệt tích",
+                "形跡": "hình tích",
+                "奇跡": "kỳ tích",
+                "墨跡": "mặc tích",
+                "發跡": "phát tích",
+                "奮跡": "phấn tích",
+                "事跡": "sự tích",
+                "史跡": "sử tích",
+                "勝跡": "thắng tích",
+                "手跡": "thủ tích",
+                "疵跡": "tì tích",
+                "跡象": "tích tượng",
+                "踪跡": "tung tích",
+                "蹤跡": "tung tích",
+                "字跡": "tự tích"
+            }
+        }
+    }
+}

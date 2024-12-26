@@ -1,0 +1,108 @@
+{
+    "character": "貧",
+    "details": {
+        "Âm Hán Việt": [
+            "bần"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱分貝"
+        ],
+        "Nét bút": [
+            "ノ丶フノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CSHC (金尸竹金)"
+        ],
+        "Unicode": [
+            "U+8CA7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "pín ㄆㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "bần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒン (hin)",
+            "ビン (bin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まず.しい (mazu.shii)"
+        ],
+        "Âm Hàn": [
+            "빈"
+        ],
+        "Âm Quảng Đông": [
+            "pan4"
+        ]
+    },
+    "meanings": {
+        "bần": {
+            "Từ điển phổ thông": [
+                "nghèo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nghèo. ◎Như: 'bần sĩ' 貧士 học trò nghèo.",
+                "(Tính) Thiếu. ◎Như: 'bần huyết bệnh' 貧血病 bệnh thiếu máu.",
+                "(Tính) Lời nói nhún mình. ◎Như: 'bần tăng' 貧僧 kẻ tu hành hèn dốt này.",
+                "(Tính) Lắm điều, lắm lời. ◎Như: 'bần chủy' 貧嘴 lắm mồm.",
+                "(Động) Làm cho nghèo khó, thiếu thốn. ◇Tuân Tử 荀子: 'Tắc thiên bất năng bần' 則天不能貧 (Thiên luận 天論) Thì trời không thể để cho nghèo khó.",
+                "(Danh) Hoàn cảnh nghèo khó, thiếu thốn. ◇Luận Ngữ 論語: 'Quân tử ưu đạo bất ưu bần' 君子憂道不憂貧 (Vệ Linh Công 衛靈公) Người quân tử lo không đạt đạo, chứ không lo nghèo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghèo, như bần sĩ 貧士 học trò nghèo.",
+                "Thiếu, như bần huyết bệnh 貧血病 bệnh thiếu máu.",
+                "Lời nói nhún mình, như bần tăng 貧僧 kẻ tu hành hèn dốt này."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghèo, bần, thiếu, túng: 貧戶 Nhà nghèo; 貧富 不均 Bần phú bất quân; 貧血 Thiếu máu;",
+                "Lắm điều, lắm mồm, lắm lời: 他的嘴太貧了 Anh ấy lắm mồm quá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thiếu tiền bạc của cải. Nghèo nàn — Thiếu thốn. Có ít."
+            ],
+            "compound_words": {
+                "安貧": "an bần",
+                "安貧樂道": "an bần lạc đạo",
+                "貧白": "bần bạch",
+                "貧窮": "bần cùng",
+                "貧民": "bần dân",
+                "貧道": "bần đạo",
+                "貧寒": "bần hàn",
+                "貧禍": "bần hoạ",
+                "貧血": "bần huyết",
+                "貧困": "bần khốn",
+                "貧乏": "bần phạp",
+                "貧富不均": "bần phú bất quân",
+                "貧士": "bần sĩ",
+                "貧賤": "bần tiện",
+                "貧賤交": "bần tiện giao",
+                "貧於一字": "bần ư nhất tự",
+                "賑貧": "chẩn bần",
+                "救貧": "cứu bần",
+                "饋貧糧": "quỹ bần lương",
+                "濟貧": "tế bần",
+                "清貧": "thanh bần",
+                "逐貧": "trục bần",
+                "恤貧": "tuất bần",
+                "忘貧": "vong bần",
+                "赤貧": "xích bần"
+            }
+        }
+    }
+}

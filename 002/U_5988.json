@@ -1,0 +1,80 @@
+{
+    "character": "妈",
+    "details": {
+        "Âm Hán Việt": [
+            "ma",
+            "mụ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nữ 女 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女马"
+        ],
+        "Nét bút": [
+            "フノ一フフ一"
+        ],
+        "Thương Hiệt": [
+            "VNVM (女弓女一)"
+        ],
+        "Unicode": [
+            "U+5988"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ"
+        ],
+        "Âm Nôm": [
+            "ma",
+            "mụ"
+        ],
+        "Âm Quảng Đông": [
+            "maa1"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "mẹ đẻ",
+                "chỉ người phụ nữ đứng tuổi hoặc chị em của cha mẹ",
+                "vú già"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 媽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 媽"
+            ],
+            "compound_words": {
+                "姨妈": "di ma",
+                "妈妈": "ma ma",
+                "妈咪": "ma mễ",
+                "奶妈": "nãi ma"
+            }
+        },
+        "mụ": {
+            "Từ điển phổ thông": [
+                "mẹ đẻ",
+                "chỉ người phụ nữ đứng tuổi hoặc chị em của cha mẹ",
+                "vú già"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 媽"
+            ],
+            "compound_words": {
+                "姑妈": "cô mụ"
+            }
+        }
+    }
+}

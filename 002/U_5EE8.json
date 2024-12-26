@@ -1,0 +1,86 @@
+{
+    "character": "廨",
+    "details": {
+        "Âm Hán Việt": [
+            "giải",
+            "giới"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广解"
+        ],
+        "Nét bút": [
+            "丶一ノノフ丨フ一一丨フノノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "INBQ (戈弓月手)"
+        ],
+        "Unicode": [
+            "U+5EE8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiè ㄐㄧㄝˋ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やくしょ (yakusho)"
+        ],
+        "Âm Hàn": [
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "gaai3",
+            "haai6"
+        ]
+    },
+    "meanings": {
+        "giải": {
+            "Từ điển phổ thông": [
+                "sở công, dinh quan"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sở công, dinh quan, quan thự. ◇Liêu trai chí dị 聊齋志異: 'Tịch tòng Nhị Lang chí nhất quan giải' 席從二郎至一官廨 (Tịch Phương Bình 席方平) Tịch theo Nhị Lang đến một dinh thự.",
+                "§ Cũng đọc là 'giới'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sở công, dinh quan ở. Cũng đọc là chữ giới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sở công, công sở, dinh quan."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà để quan tới lo việc công. Dinh quan làm việc."
+            ],
+            "compound_words": {
+                "廨宇": "giải vũ"
+            }
+        },
+        "giới": {
+            "Từ điển trích dẫn": [
+                "(Danh) Sở công, dinh quan, quan thự. ◇Liêu trai chí dị 聊齋志異: 'Tịch tòng Nhị Lang chí nhất quan giải' 席從二郎至一官廨 (Tịch Phương Bình 席方平) Tịch theo Nhị Lang đến một dinh thự.",
+                "§ Cũng đọc là 'giới'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sở công, dinh quan ở. Cũng đọc là chữ giới."
+            ]
+        }
+    }
+}

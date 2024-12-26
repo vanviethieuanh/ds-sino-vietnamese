@@ -1,0 +1,141 @@
+{
+    "character": "当",
+    "details": {
+        "Âm Hán Việt": [
+            "đang",
+            "đáng",
+            "đương"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "tiểu 小 (+3 nét)",
+            "kệ 彐 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺌彐"
+        ],
+        "Nét bút": [
+            "丨丶ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "FSM (火尸一)"
+        ],
+        "Unicode": [
+            "U+5F53"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dāng ㄉㄤ",
+            "dàng ㄉㄤˋ"
+        ],
+        "Âm Nôm": [
+            "đáng",
+            "đương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ.たる (a.taru)",
+            "あ.たり (a.tari)",
+            "あ.てる (a.teru)",
+            "あ.て (a.te)",
+            "まさ.に (masa.ni)",
+            "まさ.にべし (masa.nibeshi)"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "dong1"
+        ]
+    },
+    "meanings": {
+        "đang": {
+            "Từ điển phổ thông": [
+                "xứng nhau, ngang nhau, tương đương, tương ứng",
+                "nên, đáng",
+                "thẳng, trực tiếp",
+                "đang, đương lúc, khi, hiện thời",
+                "chống giữ",
+                "đảm đương, gánh vác, làm, lo liệu",
+                "hầu",
+                "ngăn cản, cản trở",
+                "giữ chức, đương chức",
+                "chịu trách nhiệm",
+                "tiếng kêu leng keng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 當."
+            ]
+        },
+        "đáng": {
+            "Từ điển phổ thông": [
+                "đúng, thích đáng, thoả đáng, phù hợp",
+                "tương đương, bằng",
+                "coi như, coi là",
+                "cho rằng, tưởng rằng",
+                "cầm, đợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 當."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 當"
+            ],
+            "compound_words": {
+                "正当": "chính đáng",
+                "允当": "duẫn đáng",
+                "恰当": "kháp đáng",
+                "便当": "tiện đáng"
+            }
+        },
+        "đương": {
+            "Từ điển phổ thông": [
+                "xứng nhau, ngang nhau, tương đương, tương ứng",
+                "nên, đáng",
+                "thẳng, trực tiếp",
+                "đang, đương lúc, khi, hiện thời",
+                "chống giữ",
+                "đảm đương, gánh vác, làm, lo liệu",
+                "hầu",
+                "ngăn cản, cản trở",
+                "giữ chức, đương chức",
+                "chịu trách nhiệm",
+                "tiếng kêu leng keng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 當."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 當"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết tắt của chữ Đương 當."
+            ],
+            "compound_words": {
+                "担当": "đảm đương",
+                "得当": "đắc đương",
+                "当靣": "đương diện",
+                "当代": "đương đại",
+                "当然": "đương nhiên",
+                "当初": "đương sơ",
+                "当时": "đương thời",
+                "当即": "đương tức",
+                "门当户对": "môn đương hộ đối",
+                "相当": "tương đương",
+                "应当": "ưng đương"
+            }
+        }
+    }
+}

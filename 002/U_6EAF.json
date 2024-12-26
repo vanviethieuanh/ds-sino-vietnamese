@@ -1,0 +1,80 @@
+{
+    "character": "溯",
+    "details": {
+        "Âm Hán Việt": [
+            "tố"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡朔"
+        ],
+        "Nét bút": [
+            "丶丶一丶ノ一フ丨ノノフ一一"
+        ],
+        "Thương Hiệt": [
+            "ETUB (水廿山月)"
+        ],
+        "Unicode": [
+            "U+6EAF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shuò ㄕㄨㄛˋ",
+            "sù ㄙㄨˋ"
+        ],
+        "Âm Nôm": [
+            "tố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さかのぼ.る (sakanobo.ru)"
+        ],
+        "Âm Hàn": [
+            "소",
+            "삭"
+        ],
+        "Âm Quảng Đông": [
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "tố": {
+            "Từ điển phổ thông": [
+                "ngoi lên, bơi ngược dòng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đi ngược dòng. ◎Như: 'tố giang nhi thướng' 溯江而上 ngược dòng sông mà lên.",
+                "(Động) Nhớ lại sự đã qua, hồi tưởng. ◎Như: 'truy tố vãng sự' 追溯往事 nhớ lại chuyện cũ, 'bất tố kí vãng' 不溯既往 không nhắc lại những việc đã qua."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngoi lên.",
+                "Nhớ lại sự đã qua gọi là truy tố 追溯 hay hồi tố 回溯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 溯 (bộ 氵)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngược lại — Ngược về việc lúc trước. Td: Hồi tố."
+            ],
+            "compound_words": {
+                "溯洄": "tố hồi"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "蹢",
+    "details": {
+        "Âm Hán Việt": [
+            "trịch",
+            "đích"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "túc 足 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊啇"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶一丶ノ丨フ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RMYCB (口一卜金月)"
+        ],
+        "Unicode": [
+            "U+8E62"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dí ㄉㄧˊ",
+            "dì ㄉㄧˋ",
+            "zhí ㄓˊ"
+        ],
+        "Âm Nôm": [
+            "nhích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テキ (teki)",
+            "ジャク (jaku)",
+            "タク (taku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たたず.む (tatazu.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "dik1",
+            "zaak6"
+        ]
+    },
+    "meanings": {
+        "trịch": {
+            "Từ điển phổ thông": [
+                "chùn bước, trù trừ, do dự"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'trịch' 躑. § Xem 'trịch trục' 躑躅.",
+                "Một âm là 'đích'. (Danh) Móng chân thú."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trịch trục 蹢躅 đi luẩn quẩn, quanh co, do dự, không bước lên được.",
+                "Một âm là đích. Móng chân giống vật."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chùn bước, do dự: 蹢躅 Do dự, trù trừ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngừng chân. Đặt chân — Như hai chữ Trịch 擲, 擿."
+            ],
+            "compound_words": {
+                "蹢躅": "trịch trục"
+            }
+        },
+        "đích": {
+            "Từ điển phổ thông": [
+                "móng chân loài vật"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'trịch' 躑. § Xem 'trịch trục' 躑躅.",
+                "Một âm là 'đích'. (Danh) Móng chân thú."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trịch trục 蹢躅 đi luẩn quẩn, quanh co, do dự, không bước lên được.",
+                "Một âm là đích. Móng chân giống vật."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Móng chân loài vật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chân của loài vật — Một âm là Trịch."
+            ]
+        }
+    }
+}

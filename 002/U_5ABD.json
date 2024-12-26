@@ -1,0 +1,111 @@
+{
+    "character": "媽",
+    "details": {
+        "Âm Hán Việt": [
+            "ma",
+            "mụ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nữ 女 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女馬"
+        ],
+        "Nét bút": [
+            "フノ一一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "VSQF (女尸手火)"
+        ],
+        "Unicode": [
+            "U+5ABD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ"
+        ],
+        "Âm Nôm": [
+            "ma",
+            "mợ",
+            "mụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボ (bo)",
+            "モ (mo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はは (haha)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "maa1",
+            "maa2",
+            "maa5"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "mẹ đẻ",
+                "chỉ người phụ nữ đứng tuổi hoặc chị em của cha mẹ",
+                "vú già"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Từ xưng hô: (1) Tiếng gọi mẹ của mình. § Thường gọi là “ma ma” 媽媽. (2) Tiếng gọi bậc trưởng bối phụ nữ ngang hàng với mẹ. ◎Như: “di ma” 姨媽 dì, “cô ma” 姑媽 cô. (3) Người phương bắc (Trung Quốc) gọi bà đầy tớ (có tuổi) là “ma” 媽. ◎Như: “Trương ma” 張媽 u Trương, “nãi ma” 奶媽 bà vú. (4) Tiếng tôn xưng bậc niên trưởng phụ nữ. ◎Như: “đại ma” 大媽 bác (gái)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mẹ, tục gọi mẹ là ma ma.",
+                "Tục gọi vú già là mụ, và quen đọc là ma."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(khn) Mẹ, má, me, đẻ;",
+                "(Từ xưng hô những) người phụ nữ đứng tuổi hoặc chị em của cha mẹ: 姑媽 Cô; 姨媽 Dì; 大媽 Bác gái;",
+                "Người đầy tớ gái đã có tuổi (thời xưa): 陳媽 U Trần; 李媽 U Lí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng gọi mẹ — Tiếng gọi người vú già — Tiếng gọi người đàn bà lớn tuổi nghèo nàn."
+            ],
+            "compound_words": {
+                "阿媽": "a ma",
+                "姨媽": "di ma",
+                "媽媽": "ma ma",
+                "媽咪": "ma mễ",
+                "奶媽": "nãi ma",
+                "嬭媽": "nãi ma",
+                "他媽的": "tha ma để"
+            }
+        },
+        "mụ": {
+            "Từ điển phổ thông": [
+                "mẹ đẻ",
+                "chỉ người phụ nữ đứng tuổi hoặc chị em của cha mẹ",
+                "vú già"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mẹ, tục gọi mẹ là ma ma.",
+                "Tục gọi vú già là mụ, và quen đọc là ma."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(khn) Mẹ, má, me, đẻ;",
+                "(Từ xưng hô những) người phụ nữ đứng tuổi hoặc chị em của cha mẹ: 姑媽 Cô; 姨媽 Dì; 大媽 Bác gái;",
+                "Người đầy tớ gái đã có tuổi (thời xưa): 陳媽 U Trần; 李媽 U Lí."
+            ],
+            "compound_words": {
+                "姑媽": "cô mụ"
+            }
+        }
+    }
+}

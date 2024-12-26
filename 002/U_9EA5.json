@@ -1,0 +1,79 @@
+{
+    "character": "麥",
+    "details": {
+        "Âm Hán Việt": [
+            "mạch"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mạch 麥 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丶ノ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "JONI (十人弓戈)"
+        ],
+        "Unicode": [
+            "U+9EA5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mài ㄇㄞˋ"
+        ],
+        "Âm Nôm": [
+            "mạch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バク (baku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むぎ (mugi)"
+        ],
+        "Âm Hàn": [
+            "맥"
+        ],
+        "Âm Quảng Đông": [
+            "maak6",
+            "mak6"
+        ]
+    },
+    "meanings": {
+        "mạch": {
+            "Từ điển phổ thông": [
+                "lúa tẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lúa tẻ. § Thông thường chia ra hai thứ: (1) 'tiểu mạch' 小麥 hột không có tua, nhiều phấn, hột dùng để làm miến, làm bánh, làm tương, (2) 'đại mạch' 大麥 hột có tua dài, chuyên để thổi cơm ăn, thân nó dùng để đan mũ. ◎Như: 'mạch tửu' 麥酒 rượu làm bằng lúa mạch.",
+                "(Danh) § Xem 'Đan Mạch' 丹麥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lúa tẻ.Thông thường chia ra hai thứ (1) tiểu mạch 小麥 hột không có tua, nhiều phấn, hột dùng để làm miến, làm bánh, làm tương, (2) đại mạch 大麥 hột có tua dài, chuyên để thổi cơm ăn, thân nó dùng để đan mũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lúa mạch, lúa mì;",
+                "[Mài] (Họ) Mạch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lúa mì. Bài  Tụng tây hồ phú  của Nguyễn Huy Lượng có câu: » Nơi mạch kia dân tựa lấy làm giời, hang chuột ấn há còn «."
+            ],
+            "compound_words": {
+                "蘧麥": "cử mạch",
+                "大麥": "đại mạch",
+                "丹麥": "đan mạch",
+                "麥芽": "mạch nha",
+                "麥酒": "mạch tửu"
+            }
+        }
+    }
+}

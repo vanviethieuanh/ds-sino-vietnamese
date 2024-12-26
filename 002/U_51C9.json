@@ -1,0 +1,101 @@
+{
+    "character": "凉",
+    "details": {
+        "Âm Hán Việt": [
+            "lương",
+            "lượng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "băng 冫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰冫京"
+        ],
+        "Nét bút": [
+            "丶一丶一丨フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IMYRF (戈一卜口火)"
+        ],
+        "Unicode": [
+            "U+51C9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "liáng ㄌㄧㄤˊ",
+            "liàng ㄌㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "lương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すず.しい (suzu.shii)",
+            "すず.む (suzu.mu)",
+            "すず.やか (suzu.yaka)",
+            "うす.い (usu.i)",
+            "ひや.す (hiya.su)",
+            "まことに (makotoni)"
+        ],
+        "Âm Hàn": [
+            "량",
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "loeng4"
+        ]
+    },
+    "meanings": {
+        "lương": {
+            "Từ điển phổ thông": [
+                "mát mẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ 涼."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ 涼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lạnh, mát, nguội: 涼風 Gió mát; 過了秋分天就涼了 Sau tiết Thu phân trời sẽ mát mẻ; 飯涼了，快吃吧！Cơm nguội rồi, ăn nhanh lên!;",
+                "Chán nản, thất vọng: 聽到這消息，他心裡就涼了 Nghe tin ấy, nó chán nản ngay; 爹這麼一說，我就涼了半截兒 Cha nói như vậy, con thấy hơi thất vọng;",
+                "(văn) Hóng gió;",
+                "(văn) Mỏng, bạc, ít: 涼德 Đức mỏng (đức bạc, ít đức);",
+                "(văn) Chất uống;",
+                "[Liáng] Châu Lương;",
+                "[Liáng] Nước Lương (một trong 16 nước đời Đông Tấn ở Trung Quốc);",
+                "[Liáng] (Họ) Lương. Xem 涼 [liàng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mát mẻ — Hơi lạnh một chút — Đồ uống mát, lạnh — Phơi ra gió cho khô — Mỏng ( trái với dày )."
+            ],
+            "compound_words": {
+                "凉友": "lương hữu",
+                "凄凉": "thê lương"
+            }
+        },
+        "lượng": {
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ 涼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Để nguội: 把開水涼一涼再喝 Nước sôi để nguội một lát sẽ uống;",
+                "(văn) Tin;",
+                "(văn) Giúp. Xem 涼 [liáng]."
+            ]
+        }
+    }
+}

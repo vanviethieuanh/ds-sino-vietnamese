@@ -1,0 +1,105 @@
+{
+    "character": "脈",
+    "details": {
+        "Âm Hán Việt": [
+            "mạch"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰月𠂢"
+        ],
+        "Nét bút": [
+            "ノフ一一ノノノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "BHHV (月竹竹女)"
+        ],
+        "Unicode": [
+            "U+8108"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mài ㄇㄞˋ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mạch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミャク (myaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すじ (suji)"
+        ],
+        "Âm Hàn": [
+            "맥"
+        ],
+        "Âm Quảng Đông": [
+            "mak6"
+        ]
+    },
+    "meanings": {
+        "mạch": {
+            "Từ điển phổ thông": [
+                "mạch máu",
+                "mạch, thớ, gân",
+                "liền nhau",
+                "nhìn đăm đắm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Huyết quản, đường máu chảy. ◎Như: 'động mạch' 動脈 mạch máu đỏ, 'tĩnh mạch' 靜脈 mạch máu đen. § Ngày xưa viết là 衇. Tục viết là 脉.",
+                "(Danh) Dòng nước chảy dưới mặt đất. ◇Hoàng Phủ Nhiễm 皇甫冉: 'Thổ cao mạch động tri xuân tảo, Ôi úc âm thâm trường đài thảo' 土膏脈動知春早, 隈隩陰深長苔草 (Tạp ngôn Vô Tích Huệ san tự lưu tuyền ca 雜言無錫惠山寺流泉歌).",
+                "(Danh) Phàm vật gì có ngánh thớ mà liền với nhau đều gọi là 'mạch'. ◎Như: 'sơn mạch' 山脈 mạch núi, 'toàn mạch' 泉脈 mạch nước, 'diệp mạch' 葉脈 gân lá.",
+                "(Danh) Sự liên hệ huyết thống. ◎Như: 'nhất mạch tương truyền' 一脈相傳 cùng một huyết thống truyền lại.",
+                "(Danh) Nhịp đập của mạch máu. ◎Như: 'mạch chẩn' 脈診 chẩn mạch, 'bả mạch' 把脈 bắt mạch. ◇Vương Phù 王符: 'Phàm trị bệnh giả tất tiên tri mạch chi hư thật' 凡治病者必先知脈之虛實 (Tiềm phu luận 潛夫論) Phàm người trị bệnh, thì trước hết phải biết mạch hư thật.",
+                "(Danh) Lá cây, cánh côn trùng có đường ngấn giống như huyết quản, cũng gọi là 'mạch'. ◎Như: 'diệp mạch' 葉脈 thớ lá, gân lá.",
+                "(Động) Bắt mạch (để khám bệnh).",
+                "(Động) Nhìn, xem xét, quan sát. § Thông 'mạch' 眽.",
+                "(Phó) 'Mạch mạch' 脈脈 trông nhau đăm đắm. ◇Cổ thi 古詩: 'Doanh doanh nhất thủy gian, Mạch mạch bất đắc ngữ' 盈盈一水間, 脈脈不得語 (Điều điều khiên ngưu tinh 迢迢牽牛星) Tràn trề một dòng sông, Đăm đăm nhìn không nói. § Cũng viết là 'mạch mạch' 眽眽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mạch máu, mạch máu đỏ gọi là động mạch 動脈, mạch máu đen gọi là tĩnh mạch 靜脈. Ngày xưa viết là 衇. Tục viết là 脉.",
+                "Phàm vật gì có ngánh thớ mà liền với nhau đều gọi là mạch. Như sơn mạch 山脈 mạch núi, toàn mạch 泉脈 mạch nước, v.v.",
+                "Mạch, thầy thuốc xem mạch động ở vệ cổ tay để phân biệt chứng bệnh.",
+                "Xương lá, các đường gân trên lá cây gọi là diệp mạch 葉脈.",
+                "Mạch mạch 脈脈 trông nhau đăm đắm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 脉."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ống dẫn máu trong cơ thể. Tức mạch máu — Đường đi, đường nước chảy, đường chạy dài của núi.  Hoa Tiên  có câu: » Là điều thuận miệng vắng đây, mạch rừng bưng bít cho hay mới là «."
+            ],
+            "compound_words": {
+                "按脈": "án mạch",
+                "八脈": "bát mạch",
+                "診脈": "chẩn mạch",
+                "葉脈": "diệp mạch",
+                "大動脈": "đại động mạch",
+                "大靜脈": "đại tĩnh mạch",
+                "動脈": "động mạch",
+                "血脈": "huyết mạch",
+                "經脈": "kinh mạch",
+                "龍脈": "long mạch",
+                "脈絡": "mạch lạc",
+                "命脈": "mệnh mạch",
+                "門脈": "môn mạch",
+                "弱脈": "nhược mạch",
+                "山脈": "sơn mạch"
+            }
+        }
+    }
+}

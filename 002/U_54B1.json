@@ -1,0 +1,107 @@
+{
+    "character": "咱",
+    "details": {
+        "Âm Hán Việt": [
+            "cha",
+            "gia",
+            "ta"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口自"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "RHBU (口竹月山)"
+        ],
+        "Unicode": [
+            "U+54B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zá ㄗㄚˊ",
+            "zán ㄗㄢˊ"
+        ],
+        "Âm Nôm": [
+            "ta",
+            "thánh",
+            "thính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)",
+            "サチ (sachi)",
+            "サ (sa)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "われ (ware)"
+        ],
+        "Âm Quảng Đông": [
+            "zaa1"
+        ]
+    },
+    "meanings": {
+        "cha": {
+            "Từ điển phổ thông": [
+                "ta, tôi, mình"
+            ],
+            "Từ điển trích dẫn": [
+                "(Đại) Tục tự xưng mình ('ngã' 我 ta, tôi, 'ngã môn' 我們 chúng ta, chúng tôi) là 'cha' 咱. ◇Hồng Lâu Mộng 紅樓夢: 'Cha môn cân liễu khứ, khán tha hữu ta ý tứ một hữu?' 咱們跟了去, 看他有些意思沒有 (Đệ tứ thập bát hồi) Chúng ta đi theo sang đó, xem (thơ của) chị ta có gì hay không?",
+                "(Danh) Hợp âm của 'tảo vãn' 早晚. Chỉ thời gian. ◇Kim Bình Mai 金瓶梅: 'Bất tri đa cha lai, chỉ phạ đẳng bất đắc tha' 不知多咱來, 只怕等不得他 (Đệ tam thập ngũ hồi) Không biết bao lâu anh ấy sẽ đến, chỉ sợ không đợi được.",
+                "Một âm là 'gia'. (Ngữ khí từ) Biểu thị trần thuật: nào, nha, nhé... ◇Mã Trí Viễn 馬致遠: 'Trương nhị ca, tàm tiến khứ gia' 張二哥, 喒進去咱 (Thanh sam lệ 青衫淚) Trương nhị ca, chúng ta vào nhé.",
+                "(Trợ) Làm sao, gì vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục tự xưng mình là cha. Cũng đọc là gia."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tôi, ta, mình: 咱不想去看雜技了 Tôi không muốn đi xem xiếc đâu;",
+                "Chúng ta, chúng mình: 咱都是勞動者 Chúng ta đều là những người lao động. 【咱們】cha môn [zán men] a. Chúng ta, chúng mình, ta; b. Tôi, tao, cậu, mày. Xem 咱 [zá]."
+            ],
+            "compound_words": {
+                "咱家": "cha gia",
+                "咱们": "cha môn",
+                "咱們": "cha môn"
+            }
+        },
+        "gia": {
+            "Từ điển trích dẫn": [
+                "(Đại) Tục tự xưng mình ('ngã' 我 ta, tôi, 'ngã môn' 我們 chúng ta, chúng tôi) là 'cha' 咱. ◇Hồng Lâu Mộng 紅樓夢: 'Cha môn cân liễu khứ, khán tha hữu ta ý tứ một hữu?' 咱們跟了去, 看他有些意思沒有 (Đệ tứ thập bát hồi) Chúng ta đi theo sang đó, xem (thơ của) chị ta có gì hay không?",
+                "(Danh) Hợp âm của 'tảo vãn' 早晚. Chỉ thời gian. ◇Kim Bình Mai 金瓶梅: 'Bất tri đa cha lai, chỉ phạ đẳng bất đắc tha' 不知多咱來, 只怕等不得他 (Đệ tam thập ngũ hồi) Không biết bao lâu anh ấy sẽ đến, chỉ sợ không đợi được.",
+                "Một âm là 'gia'. (Ngữ khí từ) Biểu thị trần thuật: nào, nha, nhé... ◇Mã Trí Viễn 馬致遠: 'Trương nhị ca, tàm tiến khứ gia' 張二哥, 喒進去咱 (Thanh sam lệ 青衫淚) Trương nhị ca, chúng ta vào nhé.",
+                "(Trợ) Làm sao, gì vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tôi, ta, mình: 咱不想去看雜技了 Tôi không muốn đi xem xiếc đâu;",
+                "Chúng ta, chúng mình: 咱都是勞動者 Chúng ta đều là những người lao động. 【咱們】cha môn [zán men] a. Chúng ta, chúng mình, ta; b. Tôi, tao, cậu, mày. Xem 咱 [zá]."
+            ],
+            "compound_words": {
+                "咱家": "cha gia"
+            }
+        },
+        "ta": {
+            "Từ điển Trần Văn Chánh": [
+                "Tôi, ta, mình: 咱不想去看雜技了 Tôi không muốn đi xem xiếc đâu;",
+                "Chúng ta, chúng mình: 咱都是勞動者 Chúng ta đều là những người lao động. 【咱們】cha môn [zán men] a. Chúng ta, chúng mình, ta; b. Tôi, tao, cậu, mày. Xem 咱 [zá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tôi. Tiếng tự xưng. Người Việt Nam cũng tự xưng là Ta — Tiếng trợ từ cuối câu, người Việt Nam cũng dùng. Td: Đâu ta. Quá ta."
+            ]
+        }
+    }
+}

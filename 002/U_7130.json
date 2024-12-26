@@ -1,0 +1,84 @@
+{
+    "character": "焰",
+    "details": {
+        "Âm Hán Việt": [
+            "diễm",
+            "diệm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hoả 火 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火臽"
+        ],
+        "Nét bút": [
+            "丶ノノ丶ノフノ丨一フ一一"
+        ],
+        "Thương Hiệt": [
+            "FNHX (火弓竹重)"
+        ],
+        "Unicode": [
+            "U+7130"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "diêm",
+            "dim"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほのお (honō)"
+        ],
+        "Âm Hàn": [
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "jim4",
+            "jim6"
+        ]
+    },
+    "meanings": {
+        "diễm": {
+            "Từ điển phổ thông": [
+                "ngọn lửa, ánh lửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngọn lửa, ánh lửa. ◎Như: 'hỏa diễm' 火焰 ngọn lửa, 'xích diễm' 赤焰 ánh lửa đỏ. ◇Thẩm Thuyên Kì 沈佺期: 'Phổ thiên giai diệt diễm, Táp địa tận tàng yên' 普天皆滅焰, 匝地盡藏煙 (Hàn thực 寒食) Khắp trời đều tắt mọi ánh lửa, Suốt cả mặt đất không còn khói ẩn giấu đâu nữa.",
+                "(Danh) Khí thế, uy thế. ◎Như: 'khí diễm bức nhân' 氣焰逼人 uy thế bức bách người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngọn lửa, ánh lửa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngọn lửa: 火焰 Ngọn lửa.【焰火】diễm hoả [yànhuô] (đph) Khói lửa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa cháy sáng. Cũng đọc Diệm."
+            ]
+        },
+        "diệm": {
+            "Từ điển phổ thông": [
+                "ngọn lửa, ánh lửa"
+            ],
+            "compound_words": {
+                "火焰山": "hoả diệm sơn"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "character": "坷",
+    "details": {
+        "Âm Hán Việt": [
+            "kha",
+            "khả"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thổ 土 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土可"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "GMNR (土一弓口)"
+        ],
+        "Unicode": [
+            "U+5777"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "kē ㄎㄜ",
+            "kě ㄎㄜˇ"
+        ],
+        "Âm Nôm": [
+            "kha",
+            "khú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "ho1",
+            "ho2"
+        ]
+    },
+    "meanings": {
+        "kha": {
+            "Từ điển trích dẫn": [
+                "1. (Tính) § Xem “khảm khả” 坎坷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 坎坷 [kănkâ]. Xem 坷 [ke]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Khảm kha 坎坷."
+            ],
+            "compound_words": {
+                "坎坷": "khảm kha"
+            }
+        },
+        "khả": {
+            "Từ điển phổ thông": [
+                "(xem: khảm khả 坎坷)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) § Xem “khảm khả” 坎坷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khảm khả 坎坷 gập ghềnh, nói bóng là sự làm không được trôi chảy. Ta quen đọc là khảm kha."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 坎坷 [kănkâ]. Xem 坷 [ke]."
+            ],
+            "compound_words": {
+                "坎坷": "khảm khả"
+            }
+        }
+    }
+}

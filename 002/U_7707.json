@@ -1,0 +1,101 @@
+{
+    "character": "眇",
+    "details": {
+        "Âm Hán Việt": [
+            "diệu",
+            "miểu",
+            "miễu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mục 目 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰目少"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "BUFH (月山火竹)"
+        ],
+        "Unicode": [
+            "U+7707"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "miǎo ㄇㄧㄠˇ",
+            "miào ㄇㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "dáo",
+            "dẻo",
+            "díu",
+            "giáo",
+            "miếu",
+            "xỉu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "びょう.たる (byō.taru)",
+            "すがめ (sugame)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "miu5"
+        ]
+    },
+    "meanings": {
+        "diệu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tinh vi, nhỏ nhặt. Như chữ Diệu 妙 — Một âm khác là Miểu."
+            ],
+            "compound_words": {
+                "眇忽": "diệu hốt",
+                "眇風": "diệu phong",
+                "眇小": "diệu tiểu"
+            }
+        },
+        "miểu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt to mắt bé. Mắt lác ( lé ) — Nhìn kĩ — Nhỏ bé — Xa xôi — Hết. Cùng tận — Ta quen đọc Diểu — Một âm là Diệu."
+            ]
+        },
+        "miễu": {
+            "Từ điển phổ thông": [
+                "chột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Chột, mù một mắt. ◎Như: 'miễu mục tọa lậu' 眇目矬陋 mắt chột lùn xấu.",
+                "(Tính) Nhỏ bé, nhỏ mọn (tiếng dùng nói nhún mình). ◇Trang Tử 莊子: 'Miễu hồ tiểu tai, sở dĩ thuộc ư nhân dã' 眇乎小哉, 所以屬於人也 (Đức sung phù 德充符) Tủn mủn nhỏ bé thay, đó là vì thuộc về người. ◇Hán Thư 漢書: 'Trẫm dĩ miễu thân hoạch bảo tông miếu' 朕以眇身獲保宗廟 (Chiêu đế kỉ 昭帝紀) Trẫm đem tấm thân nhỏ mọn giữ gìn tông miếu.",
+                "(Tính) Cao xa, xa xăm, u viễn. ◇Khuất Nguyên 屈原: 'Miễu bất tri kì sở chích' 眇不知其所蹠 (Cửu chương 九章, Ai Dĩnh 哀郢) Xa xăm không biết đặt chân ở đâu.",
+                "(Động) Nhìn chăm chú."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chột, mù một mắt gọi là miễu.",
+                "Nhỏ mọn, tiếng dùng nói nhún mình.",
+                "Tinh vi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mù một mắt, chột;",
+                "Nhỏ mọn;",
+                "Tinh vi."
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "character": "窃",
+    "details": {
+        "Âm Hán Việt": [
+            "thiết"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴切"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶一フフノ"
+        ],
+        "Thương Hiệt": [
+            "JCPSH (十金心尸竹)"
+        ],
+        "Unicode": [
+            "U+7A83"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiè ㄑㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬす.む (nusu.mu)",
+            "ひそ.か (hiso.ka)"
+        ],
+        "Âm Hàn": [
+            "절"
+        ],
+        "Âm Quảng Đông": [
+            "sit3"
+        ]
+    },
+    "meanings": {
+        "thiết": {
+            "Từ điển phổ thông": [
+                "ăn cắp, ăn trộm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 竊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 竊"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Thiết 竊."
+            ],
+            "compound_words": {
+                "剽窃": "phiếu thiết",
+                "偷窃": "thâu thiết"
+            }
+        }
+    }
+}

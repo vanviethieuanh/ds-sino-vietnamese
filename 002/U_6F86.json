@@ -1,0 +1,101 @@
+{
+    "character": "澆",
+    "details": {
+        "Âm Hán Việt": [
+            "kiêu",
+            "nghiêu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡堯"
+        ],
+        "Nét bút": [
+            "丶丶一一丨一一丨一一丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "EGGU (水土土山)"
+        ],
+        "Unicode": [
+            "U+6F86"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "ào ㄚㄛˋ",
+            "jiāo ㄐㄧㄠ",
+            "nào ㄋㄠˋ"
+        ],
+        "Âm Nôm": [
+            "kiêu",
+            "nhão"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギョウ (gyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そそ.ぐ (soso.gu)"
+        ],
+        "Âm Hàn": [
+            "요",
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "giu1",
+            "hiu1"
+        ]
+    },
+    "meanings": {
+        "kiêu": {
+            "Từ điển phổ thông": [
+                "bạc, mỏng",
+                "tưới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nhẹ, mỏng, thiển bạc. ◎Như: 'kiêu bạc' 澆薄 khinh bạc.",
+                "(Động) Tưới, rưới. ◎Như: 'kiêu hoa' 澆花 tưới hoa. ◇Nguyễn Du 阮攸: 'Sinh tiền bất tận tôn trung tửu, Tử hậu thùy kiêu mộ thượng bôi' 生前不盡樽中酒, 死後誰澆墓上杯 (Đối tửu 對酒) Lúc sống không uống cạn rượu trong bầu, Thì chết rồi ai rưới chén rượu trên mồ?",
+                "§ Ghi chú: Còn đọc là 'nghiêu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bạc.",
+                "Tưới. Có nơi đọc là nghiêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tưới, dội, đổ: 澆花 Tưới hoa; 澆園 Tưới vườn; 澆版 Bản đúc (làm bản in);",
+                "(văn) Khe khắt, khắc bạc, ác nghiệt: 澆薄 Khe khắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xối nước. Tưới nước — Mỏng manh. Khinh bạc. Như chữ Kiêu"
+            ],
+            "compound_words": {
+                "澆漓": "kiêu li"
+            }
+        },
+        "nghiêu": {
+            "Từ điển trích dẫn": [
+                "(Tính) Nhẹ, mỏng, thiển bạc. ◎Như: 'kiêu bạc' 澆薄 khinh bạc.",
+                "(Động) Tưới, rưới. ◎Như: 'kiêu hoa' 澆花 tưới hoa. ◇Nguyễn Du 阮攸: 'Sinh tiền bất tận tôn trung tửu, Tử hậu thùy kiêu mộ thượng bôi' 生前不盡樽中酒, 死後誰澆墓上杯 (Đối tửu 對酒) Lúc sống không uống cạn rượu trong bầu, Thì chết rồi ai rưới chén rượu trên mồ?",
+                "§ Ghi chú: Còn đọc là 'nghiêu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bạc.",
+                "Tưới. Có nơi đọc là nghiêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tưới, dội, đổ: 澆花 Tưới hoa; 澆園 Tưới vườn; 澆版 Bản đúc (làm bản in);",
+                "(văn) Khe khắt, khắc bạc, ác nghiệt: 澆薄 Khe khắt."
+            ]
+        }
+    }
+}

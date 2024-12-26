@@ -1,0 +1,65 @@
+{
+    "character": "猵",
+    "details": {
+        "Âm Hán Việt": [
+            "biên",
+            "biển"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨扁"
+        ],
+        "Nét bút": [
+            "ノフノ丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "KHHSB (大竹竹尸月)"
+        ],
+        "Unicode": [
+            "U+7335"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "biān ㄅㄧㄢ",
+            "piàn ㄆㄧㄢˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)",
+            "ヒン (hin)"
+        ],
+        "Âm Quảng Đông": [
+            "bin1"
+        ]
+    },
+    "meanings": {
+        "biên": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Biên thư” 猵狙 dã thú giống như loài khỉ vượn (theo truyền thuyết)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con rái cá."
+            ]
+        },
+        "biển": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Biển thư 猵狙 — Một âm khác là Biên."
+            ],
+            "compound_words": {
+                "猵狙": "biển thư"
+            }
+        }
+    }
+}

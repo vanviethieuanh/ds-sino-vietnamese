@@ -1,0 +1,100 @@
+{
+    "character": "崩",
+    "details": {
+        "Âm Hán Việt": [
+            "băng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sơn 山 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱山朋"
+        ],
+        "Nét bút": [
+            "丨フ丨ノフ一一ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "UBB (山月月)"
+        ],
+        "Unicode": [
+            "U+5D29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bēng ㄅㄥ"
+        ],
+        "Âm Nôm": [
+            "băng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くず.れる (kuzu.reru)",
+            "-くず.れ (-kuzu.re)",
+            "くず.す (kuzu.su)"
+        ],
+        "Âm Hàn": [
+            "붕"
+        ],
+        "Âm Quảng Đông": [
+            "bang1"
+        ]
+    },
+    "meanings": {
+        "băng": {
+            "Từ điển phổ thông": [
+                "núi lở",
+                "đổ, vỡ, gãy",
+                "vua chết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lở, sạt, sụp. ◇Nguyễn Du 阮攸: 'Băng nhai quái thạch nộ tương hướng' 崩崖怪石怒相向 (Chu hành tức sự 舟行即事) Bờ núi lở, đá hình quái dị giận dữ nhìn nhau.",
+                "(Động) Hủy hoại. ◇Pháp Hoa Kinh 法華經: 'Tường bích băng đảo' 牆壁崩倒 (Thí dụ phẩm đệ tam 譬喻品第三) Tường vách đổ nát.",
+                "(Động) Mất, diệt vong. ◇Sử Kí 史記: 'Phi binh bất cường, phi đức bất xương, Hoàng đế, Thang, Vũ dĩ hưng, Kiệt, Trụ, Nhị Thế dĩ băng, khả bất thận dư?' 非兵不彊, 非德不昌, 黃帝, 湯, 武以興, 桀, 紂, 二世以崩, 可不慎歟 (Thái sử công tự tự 太史公自序) Không có quân không mạnh, không có đức không sáng, Hoàng đế, Thang, Vũ lấy đó mà hưng thịnh, Kiệt, Trụ, Nhị Thế vì vậy mà diệt vong, có thể nào không thận trọng ư?",
+                "(Động) Chết (thiên tử). ◇Lễ Kí 禮記: 'Thiên tử tử viết băng, chư hầu viết hoăng' 天子死曰崩, 諸侯曰薨 (Khúc lễ hạ 曲禮下) Vua thiên tử chết gọi là \"băng\", vua chư hầu chết gọi là \"hoăng\"."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lở, núi sạt gọi là băng.",
+                "Hỏng, mất.",
+                "Vua thiên tử chết cũng gọi là băng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đổ, lở, sạt: 山崩地裂 Núi lở đất sụp;",
+                "Sứt mẻ, sứt, mẻ, vỡ, hỏng: 把氣球吹崩了 Thổi vỡ chiếc bong bóng; 刨子崩了 Bào bị mẻ rồi;",
+                "Bắn phải, nổ phải: 放爆竹崩了手 Pháo nổ bỏng tay;",
+                "Băng huyết.【崩症】băng chứng [bengzhèng] Băng huyết. Cg. 血崩 [xuèbeng];",
+                "(khn) Bắn chết, bắn bỏ;",
+                "(Vua) chết: 崩遐 Băng hà, vua băng (vua chết)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Núi lở — Sự việc hư hỏng hoặc vật gì hư nát — Vua chết gọi là Băng — Một bệnh của đàn bà. Xem Băng huyết 崩血."
+            ],
+            "compound_words": {
+                "暴崩": "bạo băng",
+                "崩遐": "băng hà",
+                "崩壞": "băng hoại",
+                "崩溃": "băng hội",
+                "崩潰": "băng hội",
+                "崩血": "băng huyết",
+                "崩漏": "băng lậu",
+                "崩裂": "băng liệt",
+                "崩塌": "băng tháp",
+                "崩逝": "băng thệ",
+                "血崩": "huyết băng",
+                "分崩離析": "phân băng li tích"
+            }
+        }
+    }
+}

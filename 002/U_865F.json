@@ -1,0 +1,203 @@
+{
+    "character": "號",
+    "details": {
+        "Âm Hán Việt": [
+            "hiệu",
+            "hào",
+            "hạo"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hô 虍 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰号虎"
+        ],
+        "Nét bút": [
+            "丨フ一一フ丨一フノ一フノフ"
+        ],
+        "Thương Hiệt": [
+            "RSYPU (口尸卜心山)"
+        ],
+        "Unicode": [
+            "U+865F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "háo ㄏㄠˊ",
+            "hào ㄏㄠˋ"
+        ],
+        "Âm Nôm": [
+            "hào",
+            "hiệu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さけ.ぶ (sake.bu)",
+            "よびな (yobina)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "hou4",
+            "hou6"
+        ]
+    },
+    "meanings": {
+        "hiệu": {
+            "Từ điển phổ thông": [
+                "hiệu (phù hiệu, biển hiệu, ...)",
+                "làm hiệu, dấu hiệu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gào, thét, kêu to. ◎Như: 'hào khiếu' 號叫 gào thét.",
+                "(Động) Khóc lớn, gào khóc. ◎Như: 'hào khấp' 號泣 khóc rống. ◇Trang Tử 莊子: 'Lão Đam tử, Tần Thất điếu chi, tam hào nhi xuất' 老聃死, 秦失弔之, 三號而出 (Dưỡng sanh chủ 養生主) Lão Đam chết, Tần Thất đến viếng, khóc to ba tiếng rồi ra.",
+                "(Động) Gió thổi mạnh phát ra tiếng lớn. ◇Nguyễn Du 阮攸: 'Phong vũ dạ dạ do hào hô' 風雨夜夜猶號呼 (Cựu Hứa đô 舊許都) Đêm đêm mưa gió còn kêu gào.",
+                "Một âm là 'hiệu'. (Danh) Tên riêng, tên gọi, danh xưng. ◎Như: 'biệt hiệu' 別號 tên gọi riêng, 'đế hiệu' 帝號 tên gọi vua, 'quốc hiệu' 國號 tên gọi nước. ◇Đào Uyên Minh 陶淵明: 'Trạch biên hữu ngũ liễu thụ, nhân dĩ vi hiệu yên' 宅邊有五柳樹, 因以為號焉 (Ngũ liễu tiên sanh truyện 五柳先生傳) Bên nhà có năm cây liễu, nhân đó lấy làm tên gọi.",
+                "(Danh) Mệnh lệnh. ◇Thủy hử truyện 水滸傳: 'Truyền hạ hiệu lệnh, giáo quân chánh ti cáo thị đại tiểu chư tướng nhân viên lai nhật đô yếu xuất Đông Quách môn giáo tràng trung khứ diễn vũ thí nghệ' 傳下號令, 教軍政司告示大小諸將人員來日都要出東郭門教場中去演武試藝 (Đệ thập nhị hồi) Truyền mệnh lệnh cho ti quân chính thông tri cho các nhân viên chư tướng lớn nhỏ ngày mai đều phải ra diễn võ tỉ thí ở giáo trường ở ngoài cửa Đông Quách.",
+                "(Danh) Tiệm, cửa hàng. ◎Như: 'thương hiệu' 商號 tiệm buôn, cửa hàng.",
+                "(Danh) Dấu, dấu hiệu, tiêu chí. ◎Như: 'kí hiệu' 記號 dấu dùng để ghi, 'ám hiệu' 暗號 mật hiệu, 'vấn hiệu' 問號 dấu hỏi.",
+                "(Danh) Số thứ tự. ◎Như: 'tọa hiệu' 座號 số chỗ ngồi, 'biên hiệu' 編號 số thứ tự ghi trên lề sách.",
+                "(Danh) Cỡ, hạng, cấp (nói về vật phẩm). ◎Như: 'đặc đại hiệu' 特大號 cấp đặc biệt, 'trung hiệu' 中號 cỡ trung, 'ngũ hiệu tự' 五號字 năm cỡ chữ.",
+                "(Danh) Chủng, loại.",
+                "(Danh) Lượng từ: người, lượt, chuyến. ◎Như: 'y sanh kim thiên dĩ khán liễu tam thập hiệu bệnh nhân' 醫生今天已看了三十號病人 bác sĩ hôm nay đã khám được ba chục người bệnh.",
+                "(Danh) Kèn, trống làm hiệu trong quân. ◎Như: 'xung phong hiệu' 衝鋒號 kèn xung phong.",
+                "(Động) Hô hào, kêu gọi. ◎Như: 'hiệu triệu' 號召 kêu gọi, triệu tập.",
+                "(Động) Ra mệnh lệnh. ◇Trang Tử 莊子: 'Hà bất hiệu ư quốc trung viết: Vô thử đạo nhi vi thử phục giả, kì tội tử' 何不號於國中曰: 無此道而為此服者, 其罪死 (Điền Tử Phương 田子方) Sao không ra lệnh trong nước rằng: Không có có đạo ấy mà mặc lối áo ấy (theo cách phục sức của nhà nho) thì sẽ phải tội chết.",
+                "(Động) Xưng hô, xưng vị. ◇Hán Thư 漢書: 'Thắng nãi lập vi vương, hiệu Trương Sở' 勝乃立為王, 號張楚 (Trần Thắng, Hạng Tịch truyện 陳勝, 項籍傳) (Trần) Thắng bèn lập làm vua, xưng hiệu là Trương Sở.",
+                "(Động) Khoa trương, huênh hoang. ◇Hán Thư 漢書: 'Thị thì, Vũ binh tứ thập vạn, hiệu bách vạn' 是時, 羽兵四十萬, 號百萬 (Cao Đế kỉ thượng 高帝紀上) Lúc đó, quân của (Hạng) Vũ có bốn chục vạn, huênh hoang là có một trăm vạn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kêu gào, gào khóc.",
+                "Một âm là hiệu. Tên hiệu, danh hiệu, niên hiệu.",
+                "Hiệu lệnh.",
+                "Dấu hiệu.",
+                "Ra hiệu lệnh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiệu, tên, tên hiệu, danh hiệu: 國號 Quốc hiệu, tên nước; 記號 Kí hiệu, dấu hiệu; 暗號 Ám hiệu; 年號 Niên hiệu; 孔明是諸葛亮的號 Khổng Minh là hiệu của Gia Cát Lượng;",
+                "Cửa hàng, cửa hiệu, hiệu: 商號 Hiệu buôn, cửa hàng; 分號 Cửa hàng chi nhánh;",
+                "Dấu, dấu hiệu: 問號 Dấu hỏi; 擊掌爲號 Vỗ tay làm dấu hiệu;",
+                "Số: 第三號 Số thứ ba; 編號 Đánh số;",
+                "Cỡ, hạng: 大號 Cỡ lớn; 中號 Cỡ vừa;",
+                "Ngày, mồng: 五月一號是國際勞動節 Mồng 1 tháng 5 là ngày Quốc tế lao động;",
+                "Hiệu lệnh, tiếng kèn: 吹號 Thổi kèn; 沖鋒號 Tiếng kèn xung phong;",
+                "(văn) Ra hiệu lệnh. Xem 號 [háo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lệnh ban ra — Cài tên dùng ở ngoài đời, không phải là tên thật — Cửa hàng, tiệm buôn. Ta cũng gọi là cửa hiệu — Số. Số nhà — Một âm là Hào. Xem Hào."
+            ],
+            "compound_words": {
+                "暗號": "ám hiệu",
+                "牌號": "bài hiệu",
+                "報號": "báo hiệu",
+                "撥號": "bát hiệu",
+                "編號": "biên hiệu",
+                "別號": "biệt hiệu",
+                "表號": "biểu hiệu",
+                "筆號": "bút hiệu",
+                "正號": "chính hiệu",
+                "名號": "danh hiệu",
+                "燈號": "đăng hiệu",
+                "帝號": "đế hiệu",
+                "號燈": "hiệu đăng",
+                "號旗": "hiệu kì",
+                "號令": "hiệu lệnh",
+                "號碼": "hiệu mã",
+                "號召": "hiệu triệu",
+                "徽號": "huy hiệu",
+                "口號": "khẩu hiệu",
+                "美號": "mĩ hiệu",
+                "廟號": "miếu hiệu",
+                "外號": "ngoại hiệu",
+                "年號": "niên hiệu",
+                "炮號": "pháo hiệu",
+                "法號": "pháp hiệu",
+                "發號": "phát hiệu",
+                "分號": "phân hiệu",
+                "副號": "phó hiệu",
+                "符號": "phù hiệu",
+                "括號": "quát hiệu",
+                "軍號": "quân hiệu",
+                "國號": "quốc hiệu",
+                "數號": "số hiệu",
+                "商號": "thương hiệu",
+                "僭號": "tiếm hiệu",
+                "信號": "tín hiệu",
+                "帳號": "trướng hiệu",
+                "位號": "vị hiệu",
+                "稱號": "xưng hiệu"
+            }
+        },
+        "hào": {
+            "Từ điển phổ thông": [
+                "gào khóc, kêu gào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gào, thét, kêu to. ◎Như: 'hào khiếu' 號叫 gào thét.",
+                "(Động) Khóc lớn, gào khóc. ◎Như: 'hào khấp' 號泣 khóc rống. ◇Trang Tử 莊子: 'Lão Đam tử, Tần Thất điếu chi, tam hào nhi xuất' 老聃死, 秦失弔之, 三號而出 (Dưỡng sanh chủ 養生主) Lão Đam chết, Tần Thất đến viếng, khóc to ba tiếng rồi ra.",
+                "(Động) Gió thổi mạnh phát ra tiếng lớn. ◇Nguyễn Du 阮攸: 'Phong vũ dạ dạ do hào hô' 風雨夜夜猶號呼 (Cựu Hứa đô 舊許都) Đêm đêm mưa gió còn kêu gào.",
+                "Một âm là 'hiệu'. (Danh) Tên riêng, tên gọi, danh xưng. ◎Như: 'biệt hiệu' 別號 tên gọi riêng, 'đế hiệu' 帝號 tên gọi vua, 'quốc hiệu' 國號 tên gọi nước. ◇Đào Uyên Minh 陶淵明: 'Trạch biên hữu ngũ liễu thụ, nhân dĩ vi hiệu yên' 宅邊有五柳樹, 因以為號焉 (Ngũ liễu tiên sanh truyện 五柳先生傳) Bên nhà có năm cây liễu, nhân đó lấy làm tên gọi.",
+                "(Danh) Mệnh lệnh. ◇Thủy hử truyện 水滸傳: 'Truyền hạ hiệu lệnh, giáo quân chánh ti cáo thị đại tiểu chư tướng nhân viên lai nhật đô yếu xuất Đông Quách môn giáo tràng trung khứ diễn vũ thí nghệ' 傳下號令, 教軍政司告示大小諸將人員來日都要出東郭門教場中去演武試藝 (Đệ thập nhị hồi) Truyền mệnh lệnh cho ti quân chính thông tri cho các nhân viên chư tướng lớn nhỏ ngày mai đều phải ra diễn võ tỉ thí ở giáo trường ở ngoài cửa Đông Quách.",
+                "(Danh) Tiệm, cửa hàng. ◎Như: 'thương hiệu' 商號 tiệm buôn, cửa hàng.",
+                "(Danh) Dấu, dấu hiệu, tiêu chí. ◎Như: 'kí hiệu' 記號 dấu dùng để ghi, 'ám hiệu' 暗號 mật hiệu, 'vấn hiệu' 問號 dấu hỏi.",
+                "(Danh) Số thứ tự. ◎Như: 'tọa hiệu' 座號 số chỗ ngồi, 'biên hiệu' 編號 số thứ tự ghi trên lề sách.",
+                "(Danh) Cỡ, hạng, cấp (nói về vật phẩm). ◎Như: 'đặc đại hiệu' 特大號 cấp đặc biệt, 'trung hiệu' 中號 cỡ trung, 'ngũ hiệu tự' 五號字 năm cỡ chữ.",
+                "(Danh) Chủng, loại.",
+                "(Danh) Lượng từ: người, lượt, chuyến. ◎Như: 'y sanh kim thiên dĩ khán liễu tam thập hiệu bệnh nhân' 醫生今天已看了三十號病人 bác sĩ hôm nay đã khám được ba chục người bệnh.",
+                "(Danh) Kèn, trống làm hiệu trong quân. ◎Như: 'xung phong hiệu' 衝鋒號 kèn xung phong.",
+                "(Động) Hô hào, kêu gọi. ◎Như: 'hiệu triệu' 號召 kêu gọi, triệu tập.",
+                "(Động) Ra mệnh lệnh. ◇Trang Tử 莊子: 'Hà bất hiệu ư quốc trung viết: Vô thử đạo nhi vi thử phục giả, kì tội tử' 何不號於國中曰: 無此道而為此服者, 其罪死 (Điền Tử Phương 田子方) Sao không ra lệnh trong nước rằng: Không có có đạo ấy mà mặc lối áo ấy (theo cách phục sức của nhà nho) thì sẽ phải tội chết.",
+                "(Động) Xưng hô, xưng vị. ◇Hán Thư 漢書: 'Thắng nãi lập vi vương, hiệu Trương Sở' 勝乃立為王, 號張楚 (Trần Thắng, Hạng Tịch truyện 陳勝, 項籍傳) (Trần) Thắng bèn lập làm vua, xưng hiệu là Trương Sở.",
+                "(Động) Khoa trương, huênh hoang. ◇Hán Thư 漢書: 'Thị thì, Vũ binh tứ thập vạn, hiệu bách vạn' 是時, 羽兵四十萬, 號百萬 (Cao Đế kỉ thượng 高帝紀上) Lúc đó, quân của (Hạng) Vũ có bốn chục vạn, huênh hoang là có một trăm vạn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kêu gào, gào khóc.",
+                "Một âm là hiệu. Tên hiệu, danh hiệu, niên hiệu.",
+                "Hiệu lệnh.",
+                "Dấu hiệu.",
+                "Ra hiệu lệnh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hét, thét, gào, gào thét, gào khóc, kêu to: 呼號 Hò hét, kêu gào;",
+                "Khóc gào, gào khóc: 哀號 Khóc gào thê thảm. Xem 號 [hào]."
+            ],
+            "compound_words": {
+                "呼號": "hô hào"
+            }
+        },
+        "hạo": {
+            "Từ điển trích dẫn": [
+                "(Động) Gào, thét, kêu to. ◎Như: 'hào khiếu' 號叫 gào thét.",
+                "(Động) Khóc lớn, gào khóc. ◎Như: 'hào khấp' 號泣 khóc rống. ◇Trang Tử 莊子: 'Lão Đam tử, Tần Thất điếu chi, tam hào nhi xuất' 老聃死, 秦失弔之, 三號而出 (Dưỡng sanh chủ 養生主) Lão Đam chết, Tần Thất đến viếng, khóc to ba tiếng rồi ra.",
+                "(Động) Gió thổi mạnh phát ra tiếng lớn. ◇Nguyễn Du 阮攸: 'Phong vũ dạ dạ do hào hô' 風雨夜夜猶號呼 (Cựu Hứa đô 舊許都) Đêm đêm mưa gió còn kêu gào.",
+                "Một âm là 'hiệu'. (Danh) Tên riêng, tên gọi, danh xưng. ◎Như: 'biệt hiệu' 別號 tên gọi riêng, 'đế hiệu' 帝號 tên gọi vua, 'quốc hiệu' 國號 tên gọi nước. ◇Đào Uyên Minh 陶淵明: 'Trạch biên hữu ngũ liễu thụ, nhân dĩ vi hiệu yên' 宅邊有五柳樹, 因以為號焉 (Ngũ liễu tiên sanh truyện 五柳先生傳) Bên nhà có năm cây liễu, nhân đó lấy làm tên gọi.",
+                "(Danh) Mệnh lệnh. ◇Thủy hử truyện 水滸傳: 'Truyền hạ hiệu lệnh, giáo quân chánh ti cáo thị đại tiểu chư tướng nhân viên lai nhật đô yếu xuất Đông Quách môn giáo tràng trung khứ diễn vũ thí nghệ' 傳下號令, 教軍政司告示大小諸將人員來日都要出東郭門教場中去演武試藝 (Đệ thập nhị hồi) Truyền mệnh lệnh cho ti quân chính thông tri cho các nhân viên chư tướng lớn nhỏ ngày mai đều phải ra diễn võ tỉ thí ở giáo trường ở ngoài cửa Đông Quách.",
+                "(Danh) Tiệm, cửa hàng. ◎Như: 'thương hiệu' 商號 tiệm buôn, cửa hàng.",
+                "(Danh) Dấu, dấu hiệu, tiêu chí. ◎Như: 'kí hiệu' 記號 dấu dùng để ghi, 'ám hiệu' 暗號 mật hiệu, 'vấn hiệu' 問號 dấu hỏi.",
+                "(Danh) Số thứ tự. ◎Như: 'tọa hiệu' 座號 số chỗ ngồi, 'biên hiệu' 編號 số thứ tự ghi trên lề sách.",
+                "(Danh) Cỡ, hạng, cấp (nói về vật phẩm). ◎Như: 'đặc đại hiệu' 特大號 cấp đặc biệt, 'trung hiệu' 中號 cỡ trung, 'ngũ hiệu tự' 五號字 năm cỡ chữ.",
+                "(Danh) Chủng, loại.",
+                "(Danh) Lượng từ: người, lượt, chuyến. ◎Như: 'y sanh kim thiên dĩ khán liễu tam thập hiệu bệnh nhân' 醫生今天已看了三十號病人 bác sĩ hôm nay đã khám được ba chục người bệnh.",
+                "(Danh) Kèn, trống làm hiệu trong quân. ◎Như: 'xung phong hiệu' 衝鋒號 kèn xung phong.",
+                "(Động) Hô hào, kêu gọi. ◎Như: 'hiệu triệu' 號召 kêu gọi, triệu tập.",
+                "(Động) Ra mệnh lệnh. ◇Trang Tử 莊子: 'Hà bất hiệu ư quốc trung viết: Vô thử đạo nhi vi thử phục giả, kì tội tử' 何不號於國中曰: 無此道而為此服者, 其罪死 (Điền Tử Phương 田子方) Sao không ra lệnh trong nước rằng: Không có có đạo ấy mà mặc lối áo ấy (theo cách phục sức của nhà nho) thì sẽ phải tội chết.",
+                "(Động) Xưng hô, xưng vị. ◇Hán Thư 漢書: 'Thắng nãi lập vi vương, hiệu Trương Sở' 勝乃立為王, 號張楚 (Trần Thắng, Hạng Tịch truyện 陳勝, 項籍傳) (Trần) Thắng bèn lập làm vua, xưng hiệu là Trương Sở.",
+                "(Động) Khoa trương, huênh hoang. ◇Hán Thư 漢書: 'Thị thì, Vũ binh tứ thập vạn, hiệu bách vạn' 是時, 羽兵四十萬, 號百萬 (Cao Đế kỉ thượng 高帝紀上) Lúc đó, quân của (Hạng) Vũ có bốn chục vạn, huênh hoang là có một trăm vạn."
+            ]
+        }
+    }
+}

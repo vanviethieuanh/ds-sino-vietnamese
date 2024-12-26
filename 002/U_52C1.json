@@ -1,0 +1,99 @@
+{
+    "character": "勁",
+    "details": {
+        "Âm Hán Việt": [
+            "kình",
+            "kính"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "lực 力 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巠力"
+        ],
+        "Nét bút": [
+            "一フフフ一丨一フノ"
+        ],
+        "Thương Hiệt": [
+            "MMKS (一一大尸)"
+        ],
+        "Unicode": [
+            "U+52C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jìn ㄐㄧㄣˋ",
+            "jìng ㄐㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "cánh",
+            "cứng",
+            "kình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つよ.い (tsuyo.i)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "ging3",
+            "ging6"
+        ]
+    },
+    "meanings": {
+        "kình": {
+            "Từ điển phổ thông": [
+                "sức mạnh",
+                "cứng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cứng mạnh: 勁兵 Binh mạnh; 勁草 Cỏ cứng. Xem 勁 [jìn]."
+            ],
+            "compound_words": {
+                "剛勁": "cương kình",
+                "強勁": "cường kình"
+            }
+        },
+        "kính": {
+            "Từ điển trích dẫn": [
+                "(Tính) Cứng, mạnh. ◎Như: 'kính binh' 勁兵 binh mạnh, 'kính thảo' 勁草 cỏ cứng. ◇Thiền Uyển Tập Anh 禪苑集英: 'Cao ngạn tật phong tri kính thảo, Bang gia bản đãng thức trung lương' 髙岸疾風知勁草邦家版蕩識忠良 (Viên Chiếu Thiền sư 圓照禪師) Gió lộng bờ cao hay cỏ cứng, Nhà tan nước mất biết trung lương.",
+                "(Tính) Cứng cỏi, ngay thẳng. ◎Như: 'kính tiết' 勁節 khí tiết chánh trực.",
+                "(Danh) Sức mạnh, lực lượng. ◎Như: 'hữu kính' 有勁 có sức mạnh, 'dụng kính' 用勁 dùng sức.",
+                "(Danh) Tinh thần, lòng hăng hái. ◎Như: 'giá cá nhân xướng ca chân đái kính' 這個人唱歌真帶勁 người đó ca hát thật có tinh thần hăng hái.",
+                "(Danh) Hứng thú, thú vị. ◎Như: 'hạ kì một kính, bất như đả cầu khứ' 下棋沒勁, 不如打球去 đánh cờ không thú bằng chơi bóng.",
+                "(Danh) Bộ dạng, thái độ. ◎Như: 'thân nhiệt kính' 親熱勁 thái độ thân thiết nồng nhiệt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cứng, mạnh. Như kính binh 勁兵 binh mạnh, kính thảo 勁草 cỏ cứng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khỏe, mạnh: 他的胳膊勁大 Cánh tay anh ấy rất khỏe; 用勁揑 Bóp mạnh;",
+                "Hăng, hăng say, hăng hái, mải: 他幹得很起勁 Anh ấy làm hăng lắm;",
+                "Bộ, bộ dạng: 你看他那傲慢勁 Trông bộ dạng anh ta rất ngạo mạn; 看他那個弱勁，一定幹不了 Trông bộ dạng anh ta yếu thế, chắc không làm nổi đâu;",
+                "Thú: 下棋沒勁，不如打球去Chơi cờ không thú bằng chơi bóng. Xem 勁 [jìng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cứng rắn — Sức lực — Đẹp — Ta quen đọc Kình."
+            ],
+            "compound_words": {
+                "不對勁": "bất đối kính",
+                "沒勁": "một kính"
+            }
+        }
+    }
+}

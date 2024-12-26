@@ -1,0 +1,97 @@
+{
+    "character": "虺",
+    "details": {
+        "Âm Hán Việt": [
+            "huỷ",
+            "hôi"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "trùng 虫 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺兀虫"
+        ],
+        "Nét bút": [
+            "一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "MULMI (一山中一戈)"
+        ],
+        "Unicode": [
+            "U+867A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "huī ㄏㄨㄟ",
+            "huǐ ㄏㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "huỷ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)",
+            "カイ (kai)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まむし (mamushi)"
+        ],
+        "Âm Hàn": [
+            "훼"
+        ],
+        "Âm Quảng Đông": [
+            "fui1",
+            "wai2"
+        ]
+    },
+    "meanings": {
+        "huỷ": {
+            "Từ điển phổ thông": [
+                "rắn hổ mang"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một loại rắn độc.",
+                "Một âm là 'hôi'. (Tính) § Xem 'hôi đồi' 虺隤."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con rắn hổ mang.",
+                "Con rắn con.",
+                "Một âm là hôi. Hôi đồi 虺隤 ốm, mỏi mệt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một loại rắn độc (nói trong sách cổ);",
+                "(văn) Rắn con."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rắn hổ mang."
+            ]
+        },
+        "hôi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một loại rắn độc.",
+                "Một âm là 'hôi'. (Tính) § Xem 'hôi đồi' 虺隤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh;",
+                "Chán nản. 【虺隤】hôi đồi [huitúi] (văn) a. Mắc bệnh, đau ốm; b. Chán nản; c. Mệt mỏi: 陟彼崔嵬，我馬虺隤 Leo lên ngọn núi đất có lẫn đá kia, ngựa ta mệt mỏi (Thi Kinh: Chu Nam, Quyền nhĩ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hôi đôi 虺隤: Bệnh tật. Bệnh hoạn — Một âm là Huỷ. Xem Huỷ."
+            ],
+            "compound_words": {
+                "虺隤": "hôi đôi"
+            }
+        }
+    }
+}

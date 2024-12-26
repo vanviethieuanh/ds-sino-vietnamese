@@ -1,0 +1,82 @@
+{
+    "character": "觥",
+    "details": {
+        "Âm Hán Việt": [
+            "quang",
+            "quăng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "giác 角 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰角光"
+        ],
+        "Nét bút": [
+            "ノフノフ一一丨丨丶ノ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "NBFMU (弓月火一山)"
+        ],
+        "Unicode": [
+            "U+89E5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gōng ㄍㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "quang",
+            "quanh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つのさかずき (tsunosakazuki)"
+        ],
+        "Âm Hàn": [
+            "굉"
+        ],
+        "Âm Quảng Đông": [
+            "gwang1"
+        ]
+    },
+    "meanings": {
+        "quang": {
+            "Từ điển phổ thông": [
+                "chén rượu bằng sừng trâu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chén uống rượu bằng sừng trâu, sừng tê. ◇Âu Dương Tu 歐陽修: 'Quang trù giao thác' 觥籌交錯 (Túy Ông đình kí 醉翁亭記) Chén rượu, thẻ phạt rượu mời uống qua lại với nhau.",
+                "(Tính) To lớn, thịnh đại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chén uống rượu bằng sừng trâu.",
+                "Quang quang 觥觥 cứng cỏi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái sừng trâu, dùng để đong rượu thời xưa — Dùng như chữ Quang 侊."
+            ],
+            "compound_words": {
+                "觥觥": "quang quang"
+            }
+        },
+        "quăng": {
+            "Từ điển Trần Văn Chánh": [
+                "Chén tống, chén uống rượu bằng sừng: 舉觥 Nâng cốc;",
+                "【觥觥】quăng quăng [gonggong] (văn) Cứng cỏi."
+            ]
+        }
+    }
+}

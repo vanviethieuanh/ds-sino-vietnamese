@@ -1,0 +1,100 @@
+{
+    "character": "貼",
+    "details": {
+        "Âm Hán Việt": [
+            "thiếp"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "bối 貝 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰貝占"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "BCYR (月金卜口)"
+        ],
+        "Unicode": [
+            "U+8CBC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tiē ㄊㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "thiếp",
+            "thiệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.る (ha.ru)",
+            "つ.く (tsu.ku)"
+        ],
+        "Âm Hàn": [
+            "첩"
+        ],
+        "Âm Quảng Đông": [
+            "tip3"
+        ]
+    },
+    "meanings": {
+        "thiếp": {
+            "Từ điển phổ thông": [
+                "dán",
+                "áp sát, men theo",
+                "cho thêm, trợ cấp, bù thêm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dán. ◎Như: 'thiếp bưu phiếu' 貼郵票 dán tem, 'thiếp bố cáo' 貼佈告 dán yết thị.",
+                "(Động) Áp sát, gần sát, men theo. ◎Như: 'thiếp thân y phục' 貼身衣服 quần áo bó sát người, quần áo lót, 'thiếp cận' 貼近 gần gũi.",
+                "(Động) Thuận phục, phục tòng. ◎Như: 'bộ thuộc môn đối tha thập phân phục thiếp' 部屬們對他十分服貼 những người thuộc quyền đối với ông đều hoàn toàn phục tòng.",
+                "(Động) Phụ thêm, bù. ◎Như: 'bổ thiếp' 補貼 phụ giúp, 'tân thiếp' 津貼 giúp thêm, 'mỗi nguyệt thiếp tha ngũ thập nguyên' 每月貼他五十元 mỗi tháng giúp anh ta thêm năm chục quan.",
+                "(Động) Cầm, đợ. ◎Như: 'điển thiềp' 典貼 cầm đợ người (tục nhà Đường).",
+                "(Động) Hao hụt, lỗ lã.",
+                "(Động) Dán. § Thuật ngữ điện toán, dịch nghĩa tiếng Anh \"paste\".",
+                "(Tính) Thỏa đáng, ổn thỏa. ◎Như: 'thỏa thiếp' 妥貼 thỏa đáng.",
+                "(Danh) Vai phụ trong hí kịch. § Cũng nói là 'thiếp đán' 貼旦.",
+                "(Danh) Món ăn nướng hoặc chiên cháy mặt dưới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phụ thêm bù thêm vào chỗ thiếu gọi là thiếp, như tân thiếp 津貼 thấm thêm, giúp thêm.",
+                "Dán, để đó, như yết thiếp 揭貼 dán cái giấy yết thị.",
+                "Thu xếp cho yên ổn, như thoả thiếp 妥貼 yên ổn thoả đáng.",
+                "Bén sát, như sự gì cùng liền khít với nhau gọi là thiếp thiết 貼切.",
+                "Cầm, đợ, đời nhà Ðường có tục xin vào làm tôi tớ người ta để lấy tiền gọi là điển thiềp 典貼 cầm người.",
+                "Tên phụ trò, ngoài một vai đóng trò chính ra lại thêm một người khác phụ vào gọi là thiếp, tiếng dùng trong các tấn tuồng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dán: 貼"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa đồ vật làm của tin — Dán vào — Yên ổn. Sắp xếp thoả đáng."
+            ],
+            "compound_words": {
+                "典貼": "điển thiếp",
+                "寧貼": "ninh thiếp",
+                "體貼": "thể thiếp",
+                "貼心": "thiếp tâm",
+                "妥貼": "thoả thiếp",
+                "熨貼": "uý thiếp",
+                "揭貼": "yết thiếp"
+            }
+        }
+    }
+}

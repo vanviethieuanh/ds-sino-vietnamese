@@ -1,0 +1,84 @@
+{
+    "character": "蔗",
+    "details": {
+        "Âm Hán Việt": [
+            "giá"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thảo 艸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹庶"
+        ],
+        "Nét bút": [
+            "一丨丨丶一ノ一丨丨一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TITF (廿戈廿火)"
+        ],
+        "Unicode": [
+            "U+8517"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhè ㄓㄜˋ"
+        ],
+        "Âm Nôm": [
+            "giá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さとうきび (satōkibi)"
+        ],
+        "Âm Hàn": [
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "ze3"
+        ]
+    },
+    "meanings": {
+        "giá": {
+            "Từ điển phổ thông": [
+                "cây mía"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây mía, tục gọi là 'cam giá' 甘蔗.",
+                "(Tính) Ngon ngọt. § Xem 'tiệm chí giai cảnh' 漸至佳境."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây mía, tục gọi là cam giá 甘蔗.",
+                "Ngon ngọt. Ông Cố Khải Chi mỗi khi ăn mía thì ăn từ ngọn tới gốc và nói rằng dần dần vào cảnh thú (tiệm chí giai cảnh 漸至佳境). Vì thế nên sự gì bởi khổ mà đến sướng gọi là giá cảnh 蔗境."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mía: 甘蔗 Cây mía ngọt;",
+                "(văn) Ngon ngọt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây mía."
+            ],
+            "compound_words": {
+                "甘蔗": "cam giá",
+                "干蔗": "can giá",
+                "諸蔗": "chư giá",
+                "蔗漿": "giá tương",
+                "蔗酒": "giá tửu",
+                "蔗園詩文集": "giá viên thi văn tập"
+            }
+        }
+    }
+}

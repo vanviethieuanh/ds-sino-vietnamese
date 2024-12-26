@@ -1,0 +1,101 @@
+{
+    "character": "緇",
+    "details": {
+        "Âm Hán Việt": [
+            "chuy",
+            "tri",
+            "truy"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹甾"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶フフフ丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "VFVVW (女火女女田)"
+        ],
+        "Unicode": [
+            "U+7DC7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zī ㄗ"
+        ],
+        "Âm Nôm": [
+            "tri",
+            "truy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くろ (kuro)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "zi1"
+        ]
+    },
+    "meanings": {
+        "chuy": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ lụa đen."
+            ],
+            "compound_words": {
+                "緇黄": "chuy hoàng",
+                "緇流": "chuy lưu",
+                "緇素": "chuy tố",
+                "緇塵": "chuy trần",
+                "緇衣": "chuy y"
+            }
+        },
+        "tri": {
+            "Từ điển phổ thông": [
+                "lụa thâm",
+                "màu đen"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Màu đen. ◇Vương Sung 王充: 'Bạch sa nhập tri, bất nhiễm tự hắc' 白紗入緇, 不染自黑 (Luận hành 論衡, Trình tài 程材) Lụa trắng vào chỗ màu đen, không nhuộm cũng tự thành đen.",
+                "(Danh) Áo nhà sư. ◎Như: 'phi truy' 披緇 khoác áo nhà sư (đi tu). ◇Nho lâm ngoại sử 儒林外史: 'Tự thử canh cải tính danh, tước phát phi tri khứ liễu' 自此更改姓名, 削髮披緇去了 (Đệ bát hồi) Từ nay thay đổi họ tên, cạo tóc mặc áo sư đi tu.",
+                "(Danh) Chỉ các sư, tăng lữ. ◎Như: 'tri lưu' 緇流 tăng lữ.",
+                "(Động) Nhuộm đen. ◇Luận Ngữ 論語: 'Bất viết kiên hồ, ma nhi bất lân; bất viết bạch hồ, niết nhi bất tri' 不曰堅乎, 磨而不磷; 不曰白乎, 涅而不緇 (Dương Hóa 陽貨) Đã chẳng nói cái gì (thực) cứng dắn thì mài cũng không mòn sao? Đã chẳng nói cái gì (thực) trắng thì nhuộm cũng không thành đen sao?",
+                "(Tính) Đen, thâm. ◇Thi Kinh 詩經: 'Tri y chi tịch hề, Tệ dư hựu cải tác hề' 緇衣之蓆兮, 敝予又改作兮 (Trịnh phong 鄭風, Tri y 緇衣) Áo đen rộng lớn hề, (Hễ) rách thì chúng tôi đổi cho hề."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lụa thâm;",
+                "(Màu) đen: 緇衣 Áo đen; 緇流Những người mặc áo đen (chỉ các nhà sư); 披緇 Khoác áo đen (cắt tóc đi tu)."
+            ]
+        },
+        "truy": {
+            "Từ điển phổ thông": [
+                "lụa thâm",
+                "màu đen"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lụa thâm.",
+                "Nhà chùa hay mặc áo đen nên gọi các sư là truy lưu 緇流, cắt tóc đi tu gọi là phi truy 披緇."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lụa thâm;",
+                "(Màu) đen: 緇衣 Áo đen; 緇流Những người mặc áo đen (chỉ các nhà sư); 披緇 Khoác áo đen (cắt tóc đi tu)."
+            ]
+        }
+    }
+}

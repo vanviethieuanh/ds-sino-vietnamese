@@ -1,0 +1,102 @@
+{
+    "character": "譏",
+    "details": {
+        "Âm Hán Việt": [
+            "cơ",
+            "ki",
+            "ky",
+            "kỵ"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "ngôn 言 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言幾"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フフ丶フフ丶一ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRVII (卜口女戈戈)"
+        ],
+        "Unicode": [
+            "U+8B4F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "cơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そし.る (soshi.ru)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei1"
+        ]
+    },
+    "meanings": {
+        "cơ": {
+            "Từ điển phổ thông": [
+                "quở trách, chê",
+                "hỏi vặn, kiểm tra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giễu cợt, chê cười, mỉa mai, phúng thích. ◇Ban Cố 班固: 'Vi văn thứ ki, biếm tổn đương thế' 微文刺譏, 貶損當世 (Điển dẫn 典引) Văn kín đáo nhẹ nhàng châm chích chê bai, giễu cợt mỉa mai đương thời.",
+                "(Động) Hỏi vặn, kiểm tra, xem xét. ◇Mạnh Tử 孟子: 'Quan thị ki nhi bất chinh' 關市譏而不征 (Lương Huệ Vương hạ 梁惠王下) Ở cửa thành chỉ xét hỏi mà không đánh thuế.",
+                "§ Cũng đọc là 'cơ'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giễu cợt, chê cười, mỉa mai: 冷譏熱嘲 Mỉa mai giễu cợt; 譏笑 Chê cười, chế giễu;",
+                "(văn) Xem xét, kiểm tra: 關譏而不征 Các cửa ô chỉ xét hỏi mà không đánh thuế (Mạnh tử)."
+            ],
+            "compound_words": {
+                "譏諷": "cơ phúng"
+            }
+        },
+        "ki": {
+            "Từ điển trích dẫn": [
+                "(Động) Giễu cợt, chê cười, mỉa mai, phúng thích. ◇Ban Cố 班固: 'Vi văn thứ ki, biếm tổn đương thế' 微文刺譏, 貶損當世 (Điển dẫn 典引) Văn kín đáo nhẹ nhàng châm chích chê bai, giễu cợt mỉa mai đương thời.",
+                "(Động) Hỏi vặn, kiểm tra, xem xét. ◇Mạnh Tử 孟子: 'Quan thị ki nhi bất chinh' 關市譏而不征 (Lương Huệ Vương hạ 梁惠王下) Ở cửa thành chỉ xét hỏi mà không đánh thuế.",
+                "§ Cũng đọc là 'cơ'."
+            ]
+        },
+        "ky": {
+            "Từ điển phổ thông": [
+                "quở trách, chê",
+                "hỏi vặn, kiểm tra"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quở trách, chê, thấy người lầm lỗi mà hơi lộ ý chê gọi là ki.",
+                "Hỏi vặn, kiểm tra, xem xét. Sách Mạnh Tử 孟子 nói quan ki nhi bất chính 關譏而不征 các cửa ô chỉ xét hỏi mà không đánh thuế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chê bai bài bác — Vặn hỏi — Khuyên can."
+            ]
+        },
+        "kỵ": {
+            "Từ điển Trần Văn Chánh": [
+                "Giễu cợt, chê cười, mỉa mai: 冷譏熱嘲 Mỉa mai giễu cợt; 譏笑 Chê cười, chế giễu;",
+                "(văn) Xem xét, kiểm tra: 關譏而不征 Các cửa ô chỉ xét hỏi mà không đánh thuế (Mạnh tử)."
+            ]
+        }
+    }
+}

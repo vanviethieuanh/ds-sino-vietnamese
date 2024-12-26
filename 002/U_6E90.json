@@ -1,0 +1,105 @@
+{
+    "character": "源",
+    "details": {
+        "Âm Hán Việt": [
+            "nguyên"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡原"
+        ],
+        "Nét bút": [
+            "丶丶一一ノノ丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EMHF (水一竹火)"
+        ],
+        "Unicode": [
+            "U+6E90"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yuán ㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "ngùn",
+            "nguồn",
+            "nguyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みなもと (minamoto)"
+        ],
+        "Âm Hàn": [
+            "원"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "nguyên": {
+            "Từ điển phổ thông": [
+                "nguồn (nước)",
+                "nguồn gốc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nguồn. ◎Như: 'ẩm thủy tư nguyên' 飲水思源 uống nước nhớ nguồn.",
+                "(Danh) Gốc, căn bổn. ◇Tam quốc diễn nghĩa 三國演義: 'Tiên sanh dĩ tri ngã bệnh nguyên, tương dụng hà dược trị chi?' 先生已知我病源, 將用何藥治之? (Đệ tứ thập cửu hồi) Tiên sinh biết gốc bệnh của tôi, vậy phải dùng thuốc gì trị được?",
+                "(Danh) Họ 'Nguyên'.",
+                "(Phó) 'Nguyên nguyên' 源源 cuồn cuộn không ngừng, nối tiếp không dứt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nguồn nước.",
+                "Nguyên nguyên 源源 cuồn cuộn, liên tiếp không lúc nào dứt gọi là nguyên nguyên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nguồn, ngọn, ngọn nguồn: 飲水思源 Uống nước nhớ nguồn;",
+                "Nguyên lai, nguồn, luồng: 貨源 Nguồn hàng; 肥源 Nguồn phân;",
+                "【源源】nguyên nguyên [yuányuán] Ùn ùn, thao thao, nối tiếp nhau, liên tiếp, lũ lượt: 源源不斷流 Chảy ùn ùn không ngớt; 源源不絕 Nối tiếp nhau không dứt; 源源而來 Nối tiếp nhau đến, lũ lượt kéo tới;",
+                "[Yuán] (Họ) Nguyên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nguồn nước — Nguồn gốc — Cũng dùng như chữ Nguyên 元 và Nguyên 原."
+            ],
+            "compound_words": {
+                "飲水思源": "ẩm thuỷ tư nguyên",
+                "本源": "bổn nguyên",
+                "病源": "bệnh nguyên",
+                "兵源": "binh nguyên",
+                "根源": "căn nguyên",
+                "桃源": "đào nguyên",
+                "起源": "khởi nguyên",
+                "來源": "lai nguyên",
+                "来源": "lai nguyên",
+                "利源": "lợi nguyên",
+                "能源": "năng nguyên",
+                "源源本本": "nguyên nguyên bổn bổn",
+                "源委": "nguyên uỷ",
+                "發源": "phát nguyên",
+                "富源": "phú nguyên",
+                "光源": "quang nguyên",
+                "財源": "tài nguyên",
+                "追源": "truy nguyên",
+                "辞源": "từ nguyên",
+                "辭源": "từ nguyên",
+                "淵源": "uyên nguyên"
+            }
+        }
+    }
+}

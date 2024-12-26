@@ -1,0 +1,94 @@
+{
+    "character": "碑",
+    "details": {
+        "Âm Hán Việt": [
+            "bi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thạch 石 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰石卑"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一ノ丨フ一一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "MRHHJ (一口竹竹十)"
+        ],
+        "Unicode": [
+            "U+7891"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bēi ㄅㄟ"
+        ],
+        "Âm Nôm": [
+            "bây",
+            "bi",
+            "bia"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いしぶみ (ishibumi)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei1"
+        ]
+    },
+    "meanings": {
+        "bi": {
+            "Từ điển phổ thông": [
+                "cái bia, đài bia",
+                "cột mốc",
+                "ca tụng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khối đá hoặc cột gỗ, ngày xưa dùng để coi bóng mặt trời, buộc muông sinh để cúng bái, dẫn quan tài hạ huyệt, v.v.",
+                "(Danh) Bia đá hoặc cột dùng làm mốc hoặc đài kỉ niệm. ◎Như: 'kỉ niệm bi' 紀念碑 đài kỉ niệm. ◇Nguyễn Du 阮攸: 'Thiên thu bi kiệt hiển tam liệt' 千秋碑碣顯三烈 (Tam liệt miếu 三烈廟) Bia kệ nghìn năm tôn thờ ba người tiết liệt.",
+                "(Danh) Tên một thể văn, văn từ khắc trên đá để ca tụng công đức, hành trạng người chết.",
+                "(Danh) Bút tích thư pháp rập từ bia đá. ◎Như: 'lễ khí bi' 禮器碑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bia."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đài, bia, mốc, cột. (Ngb) Truyền tụng: 紀念碑 Đài kỉ niệm; 石碑 Bia đá; 里程碑 Cột mốc kilômet, cột mốc; 有口皆碑 Người người truyền tụng, bia miệng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm bia đá."
+            ],
+            "compound_words": {
+                "碑陰": "bi âm",
+                "碑誌": "bi chí",
+                "碑亭": "bi đình",
+                "碑碣": "bi kiệt",
+                "碑記": "bi kí",
+                "碑銘": "bi minh",
+                "碑額": "bi ngạch",
+                "碑文": "bi văn",
+                "口碑": "khẩu bi",
+                "墓碑": "mộ bi",
+                "關嚴寺碑文": "quan nghiêm tự bi văn",
+                "崇碑": "sùng bi",
+                "殘碑": "tàn bi"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "傘",
+    "details": {
+        "Âm Hán Việt": [
+            "tán",
+            "tản"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhân 人 (+10 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱人⿻⿰⿱人人⿱人人十"
+        ],
+        "Nét bút": [
+            "ノ丶ノ丶ノ丶ノ丶ノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "OOOJ (人人人十)"
+        ],
+        "Unicode": [
+            "U+5098"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sǎn ㄙㄢˇ"
+        ],
+        "Âm Nôm": [
+            "tàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かさ (kasa)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "saan3"
+        ]
+    },
+    "meanings": {
+        "tán": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ô, dù (để che mưa, nắng). ◎Như: 'vũ tán' 雨傘 dù che mưa.",
+                "(Danh) Vật có hình giống cái dù. ◎Như: 'giáng lạc tán' 降落傘 dù nhảy."
+            ],
+            "compound_words": {
+                "菌傘": "khuẩn tán"
+            }
+        },
+        "tản": {
+            "Từ điển phổ thông": [
+                "cái tán",
+                "(tên núi)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ô, dù (để che mưa, nắng). ◎Như: 'vũ tán' 雨傘 dù che mưa.",
+                "(Danh) Vật có hình giống cái dù. ◎Như: 'giáng lạc tán' 降落傘 dù nhảy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái tán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ô, dù: 雨傘 Chiếc ô che mưa; 陽傘 Chiếc ô che nắng; 降落傘 Chiếc dù nhảy; 跳傘 Nhảy dù;",
+                "[Săn] (Họ) Tản."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lọng thời xưa – Cáo ô ( dù ) để che mưa."
+            ],
+            "compound_words": {
+                "傘圓": "tản viên"
+            }
+        }
+    }
+}

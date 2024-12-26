@@ -1,0 +1,63 @@
+{
+    "character": "驰",
+    "details": {
+        "Âm Hán Việt": [
+            "trì"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mã 馬 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰马也"
+        ],
+        "Nét bút": [
+            "フフ一フ丨フ"
+        ],
+        "Thương Hiệt": [
+            "NMPD (弓一心木)"
+        ],
+        "Unicode": [
+            "U+9A70"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ"
+        ],
+        "Âm Nôm": [
+            "trì"
+        ],
+        "Âm Quảng Đông": [
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "trì": {
+            "Từ điển phổ thông": [
+                "chạy mau, phóng nhanh",
+                "đuổi",
+                "truyền đi, vang khắp (tên tuổi)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 馳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 馳"
+            ],
+            "compound_words": {
+                "奔驰": "bôn trì",
+                "驱驰": "khu trì"
+            }
+        }
+    }
+}

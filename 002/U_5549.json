@@ -1,0 +1,80 @@
+{
+    "character": "啉",
+    "details": {
+        "Âm Hán Việt": [
+            "lam",
+            "lâm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口林"
+        ],
+        "Nét bút": [
+            "丨フ一一丨ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RDD (口木木)"
+        ],
+        "Unicode": [
+            "U+5549"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lín ㄌㄧㄣˊ",
+            "lìn ㄌㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "lảm",
+            "lăm",
+            "lâm",
+            "lùm",
+            "rắm",
+            "rầm",
+            "rởm",
+            "trăm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かまびす.しい (kamabisu.shii)",
+            "むさぼ.る (musabo.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "lam1"
+        ]
+    },
+    "meanings": {
+        "lam": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ngày xưa gọi tuần rượu là 'lam' 啉.",
+                "(Danh) Tiếng dùng để dịch âm.",
+                "(Tính) Ngu xuẩn."
+            ]
+        },
+        "lâm": {
+            "Từ điển phổ thông": [
+                "(xem: khuê lâm 喹啉)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 喹啉 [kuílín]."
+            ],
+            "compound_words": {
+                "喹啉": "khuê lâm"
+            }
+        }
+    }
+}

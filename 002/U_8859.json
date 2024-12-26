@@ -1,0 +1,93 @@
+{
+    "character": "衙",
+    "details": {
+        "Âm Hán Việt": [
+            "ngữ",
+            "nha"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hành 行 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴行吾"
+        ],
+        "Nét bút": [
+            "ノノ丨一丨フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "HOMRN (竹人一口弓)"
+        ],
+        "Unicode": [
+            "U+8859"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yá ㄧㄚˊ",
+            "yú ㄩˊ",
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "nha"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)",
+            "ギョ (gyo)",
+            "ゴ (go)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "ngaa4"
+        ]
+    },
+    "meanings": {
+        "ngữ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi. Từ nơi này tới nơi khác — Một âm là Nha."
+            ]
+        },
+        "nha": {
+            "Từ điển phổ thông": [
+                "sở quan"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sở quan, chỗ quan lại làm việc ngày xưa. § Xem 'nha môn' 牙門.",
+                "(Danh) Thời nhà Đường, trước điện thiên tử gọi là 'nha'. ◇Cựu Đường Thư 舊唐書: 'Quần thần thủy triều ư Tuyên Chánh nha' 群臣始朝於宣政衙 (Mục tông bổn kỉ 穆宗本紀) Các quan bắt đầu chầu vua ở nha Tuyên Chánh.",
+                "(Danh) Sự vật bày thành hàng lối. ◎Như: 'liễu nha' 柳衙 hàng liễu. ◇Trình Cai 程垓: 'Xuân tận nan bằng yến ngữ, Nhật trường duy hữu phong nha' 春盡難憑燕語, 日長惟有蜂衙 (Ô dạ đề 烏夜啼) Xuân hết khó nhờ tiếng én, Ngày dài chỉ có hàng ong.",
+                "(Danh) Họ 'Nha'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sở quan, ta gọi là quan nha 官衙 hay là nha môn 衙門 vì ngày xưa trước quân trường đều cắm lá cờ có tua như cái răng lớn, nên gọi là nha môn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sở quan, nha môn, quan nha, nha. 【衙門】nha môn [yámén] (cũ) Cửa quan, nha môn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ quan làm việc — Một âm là Ngữ. Xem Ngữ."
+            ],
+            "compound_words": {
+                "排衙": "bài nha",
+                "報衙": "báo nha",
+                "衙役": "nha dịch",
+                "衙吏": "nha lại",
+                "衙門": "nha môn",
+                "衙將": "nha tướng",
+                "官衙": "quan nha",
+                "差衙": "sai nha"
+            }
+        }
+    }
+}

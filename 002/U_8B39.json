@@ -1,0 +1,88 @@
+{
+    "character": "謹",
+    "details": {
+        "Âm Hán Việt": [
+            "cẩn"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "ngôn 言 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言堇"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨丨一丨フ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "YRTLM (卜口廿中一)"
+        ],
+        "Unicode": [
+            "U+8B39"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jǐn ㄐㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "cẩn",
+            "kín",
+            "ngẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつし.む (tsutsushi.mu)"
+        ],
+        "Âm Hàn": [
+            "근"
+        ],
+        "Âm Quảng Đông": [
+            "gan2"
+        ]
+    },
+    "meanings": {
+        "cẩn": {
+            "Từ điển phổ thông": [
+                "cẩn thận, không sơ suất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Cẩn thận, thận trọng. ◇Liễu Tông Nguyên 柳宗元: 'Cẩn tự chi, thì nhi hiến yên' 謹食之, 時而獻焉 (Bộ xà giả thuyết 捕蛇者說) Cẩn thận nuôi nó (con rắn), đợi lúc dâng lên vua.",
+                "(Phó) Kính, xin. ◎Như: 'cẩn bạch' 謹白 kính bạch, 'cẩn trí tạ ý' 謹致謝意 xin nhận sự cám ơn chân thành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cẩn thận, cẩn trọng, nghĩa là làm việc để ý kĩ lưỡng không dám coi thường.",
+                "Kính. Như cẩn bạch 謹白 kính bạch."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cẩn thận, thận trọng, chú ý: 謹防小偷 Chú ý đề phòng kẻ cắp;",
+                "Xin, kính: 我謹代表 Tôi xin thay mặt...; 謹白 Kính bạch; 謹致謝意 Xin nhận sự cám ơn chân thành của tôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thận trọng giữ gìn — Kính trọng — Nghiêm cấm."
+            ],
+            "compound_words": {
+                "不謹": "bất cẩn",
+                "謹密": "cẩn mật",
+                "謹飭": "cẩn sức",
+                "謹則無憂": "cẩn tắc vô ưu",
+                "謹慎": "cẩn thận",
+                "謹守": "cẩn thủ",
+                "謹重": "cẩn trọng",
+                "謹肅": "cẩn túc",
+                "恭謹": "cung cẩn"
+            }
+        }
+    }
+}

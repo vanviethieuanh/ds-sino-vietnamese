@@ -1,0 +1,106 @@
+{
+    "character": "阨",
+    "details": {
+        "Âm Hán Việt": [
+            "ách",
+            "ải"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "phụ 阜 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖厄"
+        ],
+        "Nét bút": [
+            "フ丨一ノフフ"
+        ],
+        "Thương Hiệt": [
+            "NLMSU (弓中一尸山)"
+        ],
+        "Unicode": [
+            "U+9628"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ài ㄚㄧˋ",
+            "è"
+        ],
+        "Âm Nôm": [
+            "ách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)",
+            "アイ (ai)",
+            "アク (aku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せま.い (sema.i)",
+            "ふさが.る (fusaga.ru)",
+            "せま.る (sema.ru)"
+        ],
+        "Âm Hàn": [
+            "액",
+            "애"
+        ],
+        "Âm Quảng Đông": [
+            "ak1",
+            "ngak1"
+        ]
+    },
+    "meanings": {
+        "ách": {
+            "Từ điển phổ thông": [
+                "khốn ách",
+                "hẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nơi hiểm yếu.",
+                "(Tính) Cùng khốn. § Thông 'ách' 厄. ◎Như: 'khốn ách' 困阨 khốn khổ, gian nan. ◇Mạnh Tử 孟子: 'Di dật nhi bất oán, ách cùng nhi bất mẫn' 遺佚而不怨, 阨窮而不憫 (Công Tôn Sửu thượng 公孫丑上) Mất mà không oán trách, cùng khốn mà không lo buồn.",
+                "(Động) Cứ thủ.",
+                "Một âm là 'ải'. (Tính) Chật, hẹp. § Thông 'ải' 隘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đất hiểm.",
+                "Cảnh ngộ khốn nạn, vận ách. Cùng nghĩa với chữ ách 厄, chữ ách 阸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nơi hiểm yếu (vị trí chiến lược);",
+                "Tình thế hiểm nghèo, tình cảnh khốn khó, khốn ách, vận ách (như 厄, bộ 厂);",
+                "Gây trở ngại, cản trở;",
+                "Nghèo túng, cơ cực, khó khăn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ đất hiểm yếu — Khốn cùng — Một âm khác là ô Ải."
+            ],
+            "compound_words": {
+                "阨窮": "ách cùng",
+                "阨難": "ách nạn",
+                "阨塞": "ách tắc",
+                "阨僻": "ách tịch",
+                "要阨": "yếu ách"
+            }
+        },
+        "ải": {
+            "Từ điển trích dẫn": [
+                "(Danh) Nơi hiểm yếu.",
+                "(Tính) Cùng khốn. § Thông 'ách' 厄. ◎Như: 'khốn ách' 困阨 khốn khổ, gian nan. ◇Mạnh Tử 孟子: 'Di dật nhi bất oán, ách cùng nhi bất mẫn' 遺佚而不怨, 阨窮而不憫 (Công Tôn Sửu thượng 公孫丑上) Mất mà không oán trách, cùng khốn mà không lo buồn.",
+                "(Động) Cứ thủ.",
+                "Một âm là 'ải'. (Tính) Chật, hẹp. § Thông 'ải' 隘."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé — Chỗ đất hiểm yếu — Một âm khác là Ách."
+            ]
+        }
+    }
+}

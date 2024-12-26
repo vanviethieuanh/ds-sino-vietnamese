@@ -1,0 +1,90 @@
+{
+    "character": "川",
+    "details": {
+        "Âm Hán Việt": [
+            "xuyên"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "xuyên 巛 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình & hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨丨"
+        ],
+        "Thương Hiệt": [
+            "LLL (中中中)"
+        ],
+        "Unicode": [
+            "U+5DDD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuān ㄔㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "xiên",
+            "xuyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわ (kawa)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cyun1"
+        ]
+    },
+    "meanings": {
+        "xuyên": {
+            "Từ điển phổ thông": [
+                "dòng nước, sông",
+                "cánh đồng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sông. ◎Như: 'cao sơn đại xuyên' 高山大川 núi cao sông rộng. ◇Luận Ngữ 論語: 'Tử tại xuyên thượng viết: Thệ giả như tư phù, bất xả trú dạ' 子在川上曰: 逝者如斯夫, 不舍晝夜 (Tử Hãn 子罕) (Khổng) Tử đứng trên bờ sông nói: Chảy đi hoài như thế kia, ngày đêm không ngừng!",
+                "(Danh) Tỉnh 'Tứ Xuyên' 四川 gọi tắt.",
+                "(Danh) Đất bằng phẳng, đồng bằng gọi là 'bình xuyên' 平川.",
+                "(Động) Nấu chín tới (phương pháp nấu ăn, bỏ thực vật vào nước sôi, vừa chín tới là vớt ra ngay). ◎Như: 'xuyên nhục phiến' 川肉片 thịt luộc chín tới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dòng nước, nước ở trong núi dũa đất chảy ra gọi là xuyên, bây giờ đều gọi xuyên là sông cả.",
+                "Nước chảy không lúc nào ngừng là thường xuyên 常川.",
+                "Tỉnh Tứ-xuyên 四川 thường gọi tắt là tỉnh xuyên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sông: 高山大川 Núi cao sông rộng;",
+                "Đồng bằng: 平川 Bình nguyên, vùng đồng bằng; 米糧川 Vựa lúa, vựa thóc, xứ cả cơm giàu cá;",
+                "[Chuan] (Tên gọi tắt của) tỉnh Tứ Xuyên: 川劇 Kịch Tứ Xuyên;",
+                "Xem 常川."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dòng sông. Td: Sơn xuyên ( núi sông ) — Tên tắt gọi tỉnh Tứ Xuyên của Trung Hoa. Xem Xuyên khung — Tên người, tức Lí Tế Xuyên, không rõ tiểu truyện, chỉ biết ông là danh sĩ đời Trần, làm tới chức Thủ thư tàng thư, Hoả chính chưởng, Trung phẩm phụng ngự, An tiêm lộ Chuyển vận sứ. Tác phẩm chữ Hán có Việt điện u linh tập, chép về các danh nhân thần thánh Việt Nam."
+            ],
+            "compound_words": {
+                "冰川": "băng xuyên",
+                "山川": "sơn xuyên",
+                "鑿川": "tạc xuyên",
+                "常川": "thường xuyên",
+                "四川": "tứ xuyên",
+                "洧川": "vị xuyên",
+                "川芎": "xuyên khung",
+                "川普": "xuyên phổ",
+                "伊川": "y xuyên"
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "卧",
+    "details": {
+        "Âm Hán Việt": [
+            "ngoạ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bốc 卜 (+6 nét)",
+            "thần 臣 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰臣卜"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フ丨丶"
+        ],
+        "Thương Hiệt": [
+            "SLY (尸中卜)"
+        ],
+        "Unicode": [
+            "U+5367"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wò ㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "ngoạ"
+        ],
+        "Âm Quảng Đông": [
+            "ngo6"
+        ]
+    },
+    "meanings": {
+        "ngoạ": {
+            "Từ điển phổ thông": [
+                "nằm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 臥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 臥"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nằm ra. Nằm xuống — Chỉ vật nằm ngang."
+            ],
+            "compound_words": {
+                "卧病": "ngoạ bệnh",
+                "卧遊巢詩文集": "ngoạ du sào thi văn tập",
+                "卧見": "ngoạ kiến",
+                "卧龍": "ngoạ long",
+                "卧薪嘗膽": "ngoạ tân thưởng đảm",
+                "卧朝": "ngoạ triều",
+                "醉卧": "tuý ngoạ",
+                "偃卧": "yển ngoạ"
+            }
+        }
+    }
+}

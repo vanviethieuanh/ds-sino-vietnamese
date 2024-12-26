@@ -1,0 +1,83 @@
+{
+    "character": "帽",
+    "details": {
+        "Âm Hán Việt": [
+            "mạo"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "cân 巾 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾冒"
+        ],
+        "Nét bút": [
+            "丨フ丨丨フ一一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "LBABU (中月日月山)"
+        ],
+        "Unicode": [
+            "U+5E3D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mào ㄇㄠˋ"
+        ],
+        "Âm Nôm": [
+            "mão",
+            "mũ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ずきん (zukin)",
+            "おお.う (ō.u)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "mou6"
+        ]
+    },
+    "meanings": {
+        "mạo": {
+            "Từ điển phổ thông": [
+                "nón, mũ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Mũ, các thứ dùng để đội đầu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái mũ, các thứ dùng để đội đầu đều gọi là mạo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mũ, nón: 呢帽 Mũ dạ, mũ phớt; 草帽 Mũ cói, mũ lác;",
+                "Nắp, đai: 筆帽 Nắp bút; 螺絲 Đai ốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái khăn bịt đầu — cái mũ."
+            ],
+            "compound_words": {
+                "高帽": "cao mạo",
+                "戴高帽": "đái cao mạo",
+                "兜帽": "đâu mạo",
+                "紗帽": "sa mạo",
+                "便帽": "tiện mạo"
+            }
+        }
+    }
+}

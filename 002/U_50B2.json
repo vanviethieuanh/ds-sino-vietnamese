@@ -1,0 +1,90 @@
+{
+    "character": "傲",
+    "details": {
+        "Âm Hán Việt": [
+            "ngạo"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhân 人 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻敖"
+        ],
+        "Nét bút": [
+            "ノ丨一一丨一フノノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OGSK (人土尸大)"
+        ],
+        "Unicode": [
+            "U+50B2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "ào ㄚㄛˋ"
+        ],
+        "Âm Nôm": [
+            "ngáo",
+            "nghệu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴウ (gō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おご.る (ogo.ru)",
+            "あなど.る (anado.ru)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ngou6"
+        ]
+    },
+    "meanings": {
+        "ngạo": {
+            "Từ điển phổ thông": [
+                "kiêu ngạo, ngạo nghễ",
+                "hỗn láo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Kiêu căng, cao ngạo. ◎Như: 'kiêu ngạo' 驕傲 kiêu căng, 'ngạo mạn' 傲慢 tự cao tự đại.",
+                "(Tính) Không chịu khuất phục. ◎Như: 'ngạo cốt' 傲骨 bản chất cứng cỏi, không chịu khuất phục, 'ngạo khí' 傲氣 tính tình bất khuất.",
+                "(Động) Coi thường, không tôn kính, khinh thị. ◎Như: 'khinh thế ngạo vật' 輕世傲物 khinh đời, coi rẻ mọi người, mọi vật.",
+                "(Động) Cưỡng lại, làm trái.",
+                "(Danh) Tính nóng vội, cấp táo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Láo xấc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kiêu ngạo, kiêu căng, xấc láo, tự cao tự đại, khinh người: 驕傲 Kiêu ngạo, làm phách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kiêu căng, tự cho mình là cao — Khinh rẻ."
+            ],
+            "compound_words": {
+                "倨傲": "cứ ngạo",
+                "驕傲": "kiêu ngạo",
+                "傲气": "ngạo khí",
+                "傲氣": "ngạo khí",
+                "傲慢": "ngạo mạn",
+                "傲岸": "ngạo ngạn",
+                "傲然": "ngạo nhiên",
+                "傲物": "ngạo vật",
+                "笑傲": "tiếu ngạo"
+            }
+        }
+    }
+}

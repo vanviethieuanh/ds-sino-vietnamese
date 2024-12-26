@@ -1,0 +1,122 @@
+{
+    "character": "例",
+    "details": {
+        "Âm Hán Việt": [
+            "lệ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 人 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻列"
+        ],
+        "Nét bút": [
+            "ノ丨一ノフ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "OMNN (人一弓弓)"
+        ],
+        "Unicode": [
+            "U+4F8B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "lề"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レイ (rei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たと.える (tato.eru)"
+        ],
+        "Âm Hàn": [
+            "례",
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "lai6"
+        ]
+    },
+    "meanings": {
+        "lệ": {
+            "Từ điển phổ thông": [
+                "lệ thường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiêu chuẩn để chiếu theo hoặc so sánh. ◎Như: 'lệ đề' 例題 thí dụ chứng minh, 'cử lệ' 舉例 đưa ra thí dụ, 'lệ cú' 例句 câu thí dụ, 'lệ như' 例如 thí dụ.",
+                "(Danh) Quy định, lề lối. ◎Như: 'thể lệ' 體例, 'điều lệ' 詞例, 'luật lệ' 律例.",
+                "(Danh) Trường hợp (ứng hợp theo một số điều kiện nào đó với những sự tình đã xảy ra, căn cứ vào điều tra hoặc thống kê). ◎Như: 'bệnh lệ' 病例 trường hợp bệnh, 'án lệ' 案例 trường hợp xử án (tương tự) đã xảy ra.",
+                "(Tính) Thường lệ, theo thói quen, đã quy định. ◎Như: 'lệ hội' 例會 phiên họp thường lệ, 'lệ giả' 例假 nghỉ phép (theo quy định).",
+                "(Động) So sánh. ◎Như: 'dĩ cổ lệ kim' 以古例今 lấy xưa sánh với nay, 'dĩ thử lệ bỉ' 以此例彼 lấy cái này bì với cái kia.",
+                "(Phó) Như đã quy định, chiếu theo cách thức quen thuộc, rập theo khuôn khổ. ◎Như: 'lệ hành công sự' 例行公事 cứ theo quy định mà làm việc, làm theo cách thức bình thường. 'cật phạn, thụy giác thị mỗi nhật đích lệ hành công sự' 吃飯, 睡覺是每日的例行公事 ăn cơm, đi ngủ rập theo thói quen hằng ngày."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lệ, ví. Lấy cái này làm mẫu mực cho cái kia gọi là lệ, như thể lệ 體例, điều lệ 調例, luật lệ 律例, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thí dụ: 舉例 Nêu thí dụ;",
+                "Lệ, tiền lệ, thói quen: 援例 Dẫn chứng tiền lệ; 破例 Phá thói quen;",
+                "Ca, trường hợp: 病例 Ca bệnh, trường hợp bệnh (của những người đã mắc trước);",
+                "Thể lệ, quy tắc, ước lệ: 條例 Điều lệ; 發凡起例 Giới thiệu ý chính và thể lệ biên soạn (một bộ sách);",
+                "Thường lệ, lệ thường, theo lệ thường.【例會】lệ hội [lìhuì] Hội nghị thường lệ (thường kì);【例行公事】lệ hành công sự [lìxíng gongshì] a. Làm việc công theo thường lệ; b. Lối làm việc theo hình thức;",
+                "(văn) Đều, thảy đều, tất cả đều, toàn bộ: 其兵總飲河水, 例聞水中有酒氣味 Binh của ông ta đều uống nước sông, tất cả đều nghe trong nước có mùi rượu (Ngũ Tử Tư biến văn). 【例皆】 lệ giai [lìjie] (văn) Đều, thảy đều;【例總】lệ tổng [lìzông] (văn) Như 例皆."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "So sánh. Td: Tỉ lệ ( lấy hai cái mà so sánh với nhau mà có kết quả so sánh ) — Sự vật tiêu biểu, có thể so sánh mà biết được các sự vật cùng loại — Cách thức quen làm từ trước. Td: Tục lệ."
+            ],
+            "compound_words": {
+                "邦交典例": "bang giao điển lệ",
+                "不合例": "bất hợp lệ",
+                "禁例": "cấm lệ",
+                "照例": "chiếu lệ",
+                "古例": "cổ lệ",
+                "公例": "công lệ",
+                "舊例": "cựu lệ",
+                "大南會典事例": "đại nam hội điển sự lệ",
+                "条例": "điều lệ",
+                "條例": "điều lệ",
+                "合例": "hợp lệ",
+                "例證": "lệ chứng",
+                "例证": "lệ chứng",
+                "例句": "lệ cú",
+                "例題": "lệ đề",
+                "例题": "lệ đề",
+                "例行": "lệ hành",
+                "例外": "lệ ngoại",
+                "例言": "lệ ngôn",
+                "例如": "lệ như",
+                "律例": "luật lệ",
+                "破例": "phá lệ",
+                "凡例": "phàm lệ",
+                "判例": "phán lệ",
+                "法例": "pháp lệ",
+                "惯例": "quán lệ",
+                "慣例": "quán lệ",
+                "捐例": "quyên lệ",
+                "則例": "tắc lệ",
+                "體例": "thể lệ",
+                "通例": "thông lệ",
+                "常例": "thường lệ",
+                "比例": "tỷ lệ",
+                "先例": "tiên lệ",
+                "前例": "tiền lệ",
+                "俗例": "tục lệ",
+                "援例": "viện lệ"
+            }
+        }
+    }
+}

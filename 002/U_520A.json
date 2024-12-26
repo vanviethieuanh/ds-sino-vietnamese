@@ -1,0 +1,123 @@
+{
+    "character": "刊",
+    "details": {
+        "Âm Hán Việt": [
+            "khan",
+            "san"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "đao 刀 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰干⺉"
+        ],
+        "Nét bút": [
+            "一一丨丨丨"
+        ],
+        "Thương Hiệt": [
+            "MJLN (一十中弓)"
+        ],
+        "Unicode": [
+            "U+520A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kān ㄎㄢ"
+        ],
+        "Âm Nôm": [
+            "khan",
+            "san"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "hon1",
+            "hon2"
+        ]
+    },
+    "meanings": {
+        "khan": {
+            "Từ điển phổ thông": [
+                "chặt",
+                "chạm khắc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chặt. ◎Như: 'khan mộc' 刊木 chặt cây.",
+                "(Động) Tước bỏ. ◎Như: 'danh luận bất khan' 名論不刊 lời bàn hay không bao giờ bỏ được.",
+                "(Động) Sửa chữa, cải chính. ◎Như: 'khan ngộ' 刊誤 đính chính, 'khan định' 刊定 hiệu đính.",
+                "(Động) Khắc. ◎Như: 'khan bản' 刊本 khắc bản in, 'khan thạch' 刊石 khắc chữ vào đá.",
+                "(Động) Đăng tải, xuất bản. ◎Như: 'khan tái' 刊載 đăng tải.",
+                "(Danh) Sách báo xuất bản theo định kì. ◎Như: 'phó khan' 副刊 phụ trang, 'chu khan' 週刊 tuần báo, 'nguyệt khan' 月刊 nguyệt san, 'chuyên khan' 專刊 tập san định kì chuyên môn.",
+                "§ Ghi chú: Tục quen đọc là 'san'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chặt, như khan mộc 刊木 chặt cây.",
+                "Khắc, như khan bản 刊本 khắc bản in.",
+                "Tước bỏ, như danh luận bất khan 名論不刊 lời bàn hay không bao giờ bỏ được. Tục quen gọi là san."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chẻ ra. Bửa ra — Khắc vào — Bóc ra. Lột ra."
+            ],
+            "compound_words": {
+                "副刊": "phó khan"
+            }
+        },
+        "san": {
+            "Từ điển phổ thông": [
+                "xuất bản, in ấn",
+                "báo, tạp chí",
+                "hao mòn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chặt. ◎Như: 'khan mộc' 刊木 chặt cây.",
+                "(Động) Tước bỏ. ◎Như: 'danh luận bất khan' 名論不刊 lời bàn hay không bao giờ bỏ được.",
+                "(Động) Sửa chữa, cải chính. ◎Như: 'khan ngộ' 刊誤 đính chính, 'khan định' 刊定 hiệu đính.",
+                "(Động) Khắc. ◎Như: 'khan bản' 刊本 khắc bản in, 'khan thạch' 刊石 khắc chữ vào đá.",
+                "(Động) Đăng tải, xuất bản. ◎Như: 'khan tái' 刊載 đăng tải.",
+                "(Danh) Sách báo xuất bản theo định kì. ◎Như: 'phó khan' 副刊 phụ trang, 'chu khan' 週刊 tuần báo, 'nguyệt khan' 月刊 nguyệt san, 'chuyên khan' 專刊 tập san định kì chuyên môn.",
+                "§ Ghi chú: Tục quen đọc là 'san'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chặt, như khan mộc 刊木 chặt cây.",
+                "Khắc, như khan bản 刊本 khắc bản in.",
+                "Tước bỏ, như danh luận bất khan 名論不刊 lời bàn hay không bao giờ bỏ được. Tục quen gọi là san."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khắc, in: 刊石 Khắc chữ vào đá; 刊印 In;",
+                "(Xuất bản báo chí, như) san, báo, bản, số: 周刊 Tuần báo, tuần san, báo chí ra hàng thần; 月刊 Nguyệt san, tạp chí (tập san) ra hàng tháng; 内刊 Nội san, tập san nội bộ; 停刊 (Báo chí) đình bản; 特刊 Số đặc biệt; 副刊 Số phụ, trang phụ;",
+                "Bớt bỏ, tước bỏ, sửa chữa: 刊正 Đính chính; 刊誤表 Bảng đính chính;",
+                "(văn) Chặt: 刊木 Chặt cây."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gọt đẽo cho đẹp. Sửa sang — In sách báo — sách báo in ra. Td: Nguyệt san ( sách báo in ra mỗi tháng )."
+            ],
+            "compound_words": {
+                "報刊": "báo san",
+                "报刊": "báo san",
+                "不刊": "bất san",
+                "期刊": "kỳ san",
+                "月刊": "nguyệt san",
+                "發刊": "phát san",
+                "季刊": "quý san",
+                "刊登": "san đăng",
+                "刊行": "san hành",
+                "叢刊": "tùng san"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "character": "蛺",
+    "details": {
+        "Âm Hán Việt": [
+            "giáp",
+            "hiệp",
+            "kiệp"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trùng 虫 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫夾"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一ノ丶ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIKOO (中戈大人人)"
+        ],
+        "Unicode": [
+            "U+86FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jiá ㄐㄧㄚˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "コウ (kō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちょう (chō)"
+        ],
+        "Âm Quảng Đông": [
+            "gaap3"
+        ]
+    },
+    "meanings": {
+        "giáp": {
+            "Từ điển phổ thông": [
+                "con bươm bướm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “kiệp điệp” 蛺蝶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蛺 蝶】hiệp điệp [jiádié] Một giống bướm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài bướm. Cũng gọi là Giáp điệp."
+            ]
+        },
+        "hiệp": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “kiệp điệp” 蛺蝶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kiệp điệp 蛺蝶. Xem chữ điệp 蝶. Cũng đọc là chữ hiệp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蛺 蝶】hiệp điệp [jiádié] Một giống bướm."
+            ]
+        },
+        "kiệp": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “kiệp điệp” 蛺蝶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kiệp điệp 蛺蝶. Xem chữ điệp 蝶. Cũng đọc là chữ hiệp."
+            ],
+            "compound_words": {
+                "蛺蝶": "kiệp điệp"
+            }
+        }
+    }
+}

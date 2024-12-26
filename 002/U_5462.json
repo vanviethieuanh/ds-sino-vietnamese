@@ -1,0 +1,104 @@
+{
+    "character": "呢",
+    "details": {
+        "Âm Hán Việt": [
+            "ni",
+            "nỉ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口尼"
+        ],
+        "Nét bút": [
+            "丨フ一フ一ノノフ"
+        ],
+        "Thương Hiệt": [
+            "RSP (口尸心)"
+        ],
+        "Unicode": [
+            "U+5462"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nē ㄋㄜ",
+            "né ㄋㄜˊ",
+            "ne",
+            "ní ㄋㄧˊ"
+        ],
+        "Âm Nôm": [
+            "nài",
+            "này",
+            "nấy",
+            "nê",
+            "ni"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)",
+            "ニ (ni)"
+        ],
+        "Âm Hàn": [
+            "니"
+        ],
+        "Âm Quảng Đông": [
+            "ne1",
+            "nei1",
+            "nei4",
+            "ni1"
+        ]
+    },
+    "meanings": {
+        "ni": {
+            "Từ điển phổ thông": [
+                "rì rầm (tiếng chim kêu)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) § Xem 'ni nam' 呢喃.",
+                "(Danh) Dạ, nỉ (dệt bằng lông). ◎Như: 'ni nhung' 呢絨 dạ nhung.",
+                "(Trợ) Biểu thị nghi vấn: nhỉ, hả, giờ. ◎Như: 'chẩm ma bạn ni?' 怎麼辦呢 làm sao bây giờ?",
+                "(Trợ) Biểu thị nhấn mạnh, tăng cường ngữ khí: đấy, cơ, cho coi. ◎Như: 'sanh bả tán, ngoại diện chánh hạ trứ vũ ni' 撐把傘, 外面正下著雨呢 giương dù lên, bên ngoài đang mưa đấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ni nam 呢喃 rì rầm, tiếng chim yến kêu.",
+                "Một thứ dệt bằng lông giống như giạ. Ta gọi là nỉ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dạ, nỉ: 毛呢 Len dạ;",
+                "(văn) Tiếng rì rầm, tiếng thì thào, tiếng chút chít. Xem 呢 [ne]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng rì rầm, xì xào — Trợ từ cuối câu."
+            ],
+            "compound_words": {
+                "呢喃": "ni nam"
+            }
+        },
+        "nỉ": {
+            "Từ điển phổ thông": [
+                "một thứ dệt bằng lông giống như giạ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) § Xem 'ni nam' 呢喃.",
+                "(Danh) Dạ, nỉ (dệt bằng lông). ◎Như: 'ni nhung' 呢絨 dạ nhung.",
+                "(Trợ) Biểu thị nghi vấn: nhỉ, hả, giờ. ◎Như: 'chẩm ma bạn ni?' 怎麼辦呢 làm sao bây giờ?",
+                "(Trợ) Biểu thị nhấn mạnh, tăng cường ngữ khí: đấy, cơ, cho coi. ◎Như: 'sanh bả tán, ngoại diện chánh hạ trứ vũ ni' 撐把傘, 外面正下著雨呢 giương dù lên, bên ngoài đang mưa đấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ni nam 呢喃 rì rầm, tiếng chim yến kêu.",
+                "Một thứ dệt bằng lông giống như giạ. Ta gọi là nỉ."
+            ]
+        }
+    }
+}

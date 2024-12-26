@@ -1,0 +1,71 @@
+{
+    "character": "悪",
+    "details": {
+        "Âm Hán Việt": [
+            "ác"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿱亜心"
+        ],
+        "Nét bút": [
+            "一丨フ一丨丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "XMMP (重一一心)"
+        ],
+        "Unicode": [
+            "U+60AA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "è"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アク (aku)",
+            "オ (o)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わる.い (waru.i)",
+            "わる- (waru-)",
+            "あ.し (a.shi)",
+            "にく.い (niku.i)",
+            "-にく.い (-niku.i)",
+            "ああ (ā)",
+            "いずくに (izukuni)",
+            "いずくんぞ (izukun zo)",
+            "にく.む (niku.mu)"
+        ],
+        "Âm Hàn": [
+            "악",
+            "오"
+        ]
+    },
+    "meanings": {
+        "ác": {
+            "Từ điển phổ thông": [
+                "ác độc",
+                "xấu xí"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Một dạng của chữ “ác” 惡."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Ác 惡."
+            ],
+            "compound_words": {
+                "凶悪": "hung ác"
+            }
+        }
+    }
+}

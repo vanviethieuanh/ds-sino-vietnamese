@@ -1,0 +1,82 @@
+{
+    "character": "攫",
+    "details": {
+        "Âm Hán Việt": [
+            "quắc",
+            "quặc"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "thủ 手 (+20 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘矍"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一丨フ一一一ノ丨丶一一一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "QBUE (手月山水)"
+        ],
+        "Unicode": [
+            "U+652B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "quắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さら.う (sara.u)",
+            "つか.む (tsuka.mu)"
+        ],
+        "Âm Hàn": [
+            "확"
+        ],
+        "Âm Quảng Đông": [
+            "fok3"
+        ]
+    },
+    "meanings": {
+        "quắc": {
+            "Từ điển Trần Văn Chánh": [
+                "Quắp, chộp lấy, vồ lấy, bắt lấy;",
+                "Cướp, chiếm: 攫爲己有 Chiếm làm của mình."
+            ]
+        },
+        "quặc": {
+            "Từ điển phổ thông": [
+                "vồ lấy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quắp, vồ. ◎Như: 'lão ưng quặc kê' 老鷹攫雞 chim ưng quắp lấy gà, 'ngạ hổ quặc dương' 餓虎攫羊 cọp đói vồ cừu.",
+                "(Động) Chiếm lấy, đoạt lấy. ◎Như: 'quặc vi kỉ hữu' 攫為己有 chiếm làm của mình.",
+                "(Động) Chịu, tao thụ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chộp lấy, vồ lấy, bắt lấy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy — Dùng tay chân mà móc lấy, ngoắc lấy."
+            ],
+            "compound_words": {
+                "攫捕": "quặc bổ"
+            }
+        }
+    }
+}

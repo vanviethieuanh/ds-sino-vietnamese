@@ -1,0 +1,99 @@
+{
+    "character": "愒",
+    "details": {
+        "Âm Hán Việt": [
+            "khái",
+            "khế"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖曷"
+        ],
+        "Nét bút": [
+            "丶丶丨丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "PAPV (心日心女)"
+        ],
+        "Unicode": [
+            "U+6112"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "kài ㄎㄞˋ",
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)",
+            "ケツ (ketsu)",
+            "ケチ (kechi)",
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いこ.う (iko.u)"
+        ],
+        "Âm Quảng Đông": [
+            "kai3",
+            "koi3"
+        ]
+    },
+    "meanings": {
+        "khái": {
+            "Từ điển phổ thông": [
+                "mong muốn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghỉ ngơi, hưu tức. § Cũng như 'khế' 憩.",
+                "Một âm là 'khái'. (Động) Tham."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghỉ.",
+                "Một âm là khái. Tham.",
+                "Kíp, vội."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghỉ, ở không để lãng phí thời gian. Xem 忨;",
+                "Tham;",
+                "Kíp, vội."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tham lam — Cấp rút, nóng nảy — Một âm là Khế."
+            ],
+            "compound_words": {
+                "忨愒": "uyển khái"
+            }
+        },
+        "khế": {
+            "Từ điển trích dẫn": [
+                "(Động) Nghỉ ngơi, hưu tức. § Cũng như 'khế' 憩.",
+                "Một âm là 'khái'. (Động) Tham."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghỉ.",
+                "Một âm là khái. Tham.",
+                "Kíp, vội."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghỉ, ở không để lãng phí thời gian. Xem 忨;",
+                "Tham;",
+                "Kíp, vội."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngừng. Thôi — Nghỉ ngơi — Một âm khác là Khái."
+            ]
+        }
+    }
+}

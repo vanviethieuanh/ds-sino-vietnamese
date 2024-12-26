@@ -1,0 +1,98 @@
+{
+    "character": "怖",
+    "details": {
+        "Âm Hán Việt": [
+            "bố",
+            "phố"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖布"
+        ],
+        "Nét bút": [
+            "丶丶丨一ノ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "PKLB (心大中月)"
+        ],
+        "Unicode": [
+            "U+6016"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bù ㄅㄨˋ"
+        ],
+        "Âm Nôm": [
+            "(phố)",
+            "bố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)",
+            "ホ (ho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こわ.い (kowa.i)",
+            "こわ.がる (kowa.garu)",
+            "お.じる (o.jiru)",
+            "おそ.れる (oso.reru)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bou3"
+        ]
+    },
+    "meanings": {
+        "bố": {
+            "Từ điển phổ thông": [
+                "sợ hãi",
+                "doạ nạt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sợ hãi, khiếp. ◎Như: 'khủng phố' 恐怖 sợ hãi. ◇Vạn Hạnh 萬行: 'Thân như điện ảnh hữu hoàn vô, Vạn mộc xuân vinh thu hựu khô. Nhậm vận thịnh suy vô phố úy, Thịnh suy như lộ thảo đầu phô' 身如電影有還無, 萬木春榮秋又枯, 任運盛衰無怖畏, 盛衰如露草頭鋪 Thân như bóng chớp có rồi không, Cây cỏ xuân tươi, thu lại khô héo, Mặc cuộc thịnh suy không sợ hãi, Thịnh suy như sương đọng trên ngọn cỏ.",
+                "(Động) Dọa nạt. ◇Pháp Hoa Kinh 法華經: 'Dĩ cước gia cảnh, phố cẩu tự lạc' 以腳加頸, 怖狗自樂 (Thí dụ phẩm đệ tam 譬喻品第三) Lấy chân chặn cổ, dọa nạt chó mà chơi.",
+                "§ Ta quen đọc là 'bố'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sợ, sợ hãi, khiếp: 可 怖 Đáng sợ; 白色恐怖 Khủng bố trắng;",
+                "Doạ nạt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kinh hoàng, sợ hãi."
+            ],
+            "compound_words": {
+                "恐怖": "khủng bố",
+                "恐怖戰爭": "khủng bố chiến tranh"
+            }
+        },
+        "phố": {
+            "Từ điển phổ thông": [
+                "sợ hãi",
+                "doạ nạt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sợ hãi, khiếp. ◎Như: 'khủng phố' 恐怖 sợ hãi. ◇Vạn Hạnh 萬行: 'Thân như điện ảnh hữu hoàn vô, Vạn mộc xuân vinh thu hựu khô. Nhậm vận thịnh suy vô phố úy, Thịnh suy như lộ thảo đầu phô' 身如電影有還無, 萬木春榮秋又枯, 任運盛衰無怖畏, 盛衰如露草頭鋪 Thân như bóng chớp có rồi không, Cây cỏ xuân tươi, thu lại khô héo, Mặc cuộc thịnh suy không sợ hãi, Thịnh suy như sương đọng trên ngọn cỏ.",
+                "(Động) Dọa nạt. ◇Pháp Hoa Kinh 法華經: 'Dĩ cước gia cảnh, phố cẩu tự lạc' 以腳加頸, 怖狗自樂 (Thí dụ phẩm đệ tam 譬喻品第三) Lấy chân chặn cổ, dọa nạt chó mà chơi.",
+                "§ Ta quen đọc là 'bố'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hãi. Sợ hãi cuống quýt lên gọi là khủng phố 恐怖.",
+                "Doạ nạt."
+            ]
+        }
+    }
+}

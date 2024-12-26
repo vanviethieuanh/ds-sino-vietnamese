@@ -1,0 +1,64 @@
+{
+    "character": "氫",
+    "details": {
+        "Âm Hán Việt": [
+            "khinh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khí 气 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿹气巠"
+        ],
+        "Nét bút": [
+            "ノ一一フ一フフフ一丨一"
+        ],
+        "Thương Hiệt": [
+            "ONMVM (人弓一女一)"
+        ],
+        "Unicode": [
+            "U+6C2B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qīng ㄑㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "khinh"
+        ],
+        "Âm Quảng Đông": [
+            "hing1"
+        ]
+    },
+    "meanings": {
+        "khinh": {
+            "Từ điển phổ thông": [
+                "khinh khí, khí hidro"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Nguyên tố hóa học hydrogen, tức khinh khí (hydrogen, kí hiệu H)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Khinh khí, hydro (Hydrogenium, kí hiệu H)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chất Hydrogen, tức Khinh khí."
+            ],
+            "compound_words": {
+                "氫氣": "khinh khí",
+                "重氫": "trọng khinh"
+            }
+        }
+    }
+}

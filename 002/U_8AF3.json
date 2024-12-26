@@ -1,0 +1,85 @@
+{
+    "character": "諳",
+    "details": {
+        "Âm Hán Việt": [
+            "am"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言音"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶一丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "YRYTA (卜口卜廿日)"
+        ],
+        "Unicode": [
+            "U+8AF3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ",
+            "tǒu ㄊㄡˇ"
+        ],
+        "Âm Nôm": [
+            "am"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アン (an)",
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そら.んじる (sora.n jiru)"
+        ],
+        "Âm Hàn": [
+            "암"
+        ],
+        "Âm Quảng Đông": [
+            "am1",
+            "am2"
+        ]
+    },
+    "meanings": {
+        "am": {
+            "Từ điển phổ thông": [
+                "am tường, thấu hiểu",
+                "thành thạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Biết rõ, thành thạo. ◎Như: 'am luyện' 諳練 thành thuộc, lão luyện, 'am sự' 諳事 hiểu việc.",
+                "(Động) Nhớ. ◎Như: 'am tụng' 諳誦 đọc thuộc lòng, 'nhất lãm tiện am' 一覽便諳 xem một lần là nhớ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quen, am tường, nghe đã kĩ mà hiểu đã thấu gọi là am. Như am luyện 諳練 thành thuộc, lão luyện.",
+                "Nói mặt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Quen thuộc, am tường, sành, thạo, rành rẽ: 這男孩素諳水性 Đứa bé trai này vốn thạo bơi lội; 諳事 Hiểu việc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hiểu rõ — Nhớ rõ, thuộc lòng."
+            ],
+            "compound_words": {
+                "諳曉": "am hiểu",
+                "諳練": "am luyện",
+                "諳熟": "am thục",
+                "諳詳": "am tường",
+                "稍諳": "sảo am"
+            }
+        }
+    }
+}

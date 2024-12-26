@@ -1,0 +1,128 @@
+{
+    "character": "歐",
+    "details": {
+        "Âm Hán Việt": [
+            "âu",
+            "ẩu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khiếm 欠 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰區欠"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フ一丨フ一フノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "SRNO (尸口弓人)"
+        ],
+        "Unicode": [
+            "U+6B50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ōu ㄛㄨ",
+            "ǒu ㄛㄨˇ"
+        ],
+        "Âm Nôm": [
+            "âu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うた.う (uta.u)",
+            "は.く (ha.ku)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "au1",
+            "au2",
+            "ngau1"
+        ]
+    },
+    "meanings": {
+        "âu": {
+            "Từ điển phổ thông": [
+                "châu Âu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Châu 'Âu' gọi tắt. ◎Như: 'Âu Mĩ quốc gia' 歐美國家.",
+                "(Danh) Họ 'Âu'.",
+                "(Danh) 'Âu Mỗ' 歐姆: (1) Ohm, nhà Vật lí học người Đức (1787-1854). (2) Lượng từ, ohm: đơn vị điện trở.",
+                "(Động) Ca vịnh. § Cũng như 'âu' 謳.",
+                "Một âm là là 'ẩu'. (Động) Nôn mửa. § Cũng như 'ẩu' 嘔.",
+                "(Động) Đánh. § Thông 'ẩu' 毆."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Châu Âu.",
+                "Cùng nghĩa với chữ âu 謳.",
+                "Một âm là là ẩu. Nôn mửa.",
+                "Ðánh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đánh (dùng như 毆, bộ 殳): 良愕然，慾歐之 Trương Lương Kinh ngạc, định đánh ông ta (Hán thư);",
+                "[Ou] (Họ) Âu;",
+                "[Ou] Châu Âu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ca hát. Như chữ Âu 謳 — Tên một châu trên thế giới. Xem Âu châu 歐洲 — Họ người — Một âm khác là Ẩu."
+            ],
+            "compound_words": {
+                "歐歐": "âu âu",
+                "歐洲": "âu châu",
+                "歐樣": "âu dạng",
+                "歐陽": "âu dương",
+                "歐刀": "âu đao",
+                "歐化": "âu hoá",
+                "歐羅巴": "âu la ba",
+                "歐母": "âu mẫu",
+                "歐美": "âu mĩ",
+                "歐盟": "âu minh",
+                "歐風美雨": "âu phong mĩ vũ",
+                "歐服": "âu phục",
+                "歐西": "âu tây",
+                "歐式": "âu thức",
+                "歐裝": "âu trang",
+                "僕歐": "bộc âu",
+                "中歐": "trung âu"
+            }
+        },
+        "ẩu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Châu 'Âu' gọi tắt. ◎Như: 'Âu Mĩ quốc gia' 歐美國家.",
+                "(Danh) Họ 'Âu'.",
+                "(Danh) 'Âu Mỗ' 歐姆: (1) Ohm, nhà Vật lí học người Đức (1787-1854). (2) Lượng từ, ohm: đơn vị điện trở.",
+                "(Động) Ca vịnh. § Cũng như 'âu' 謳.",
+                "Một âm là là 'ẩu'. (Động) Nôn mửa. § Cũng như 'ẩu' 嘔.",
+                "(Động) Đánh. § Thông 'ẩu' 毆."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Châu Âu.",
+                "Cùng nghĩa với chữ âu 謳.",
+                "Một âm là là ẩu. Nôn mửa.",
+                "Ðánh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nôn mửa, ói (dùng như 嘔, bộ 口): 醉歐丞相車上 Uống rượu say ói mửa trên xe của thừa tướng (Hán thư)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nôn mửa. Như chữ Ẩu 嘔 — Đánh nhau. Như chữ Ẩu 毆."
+            ]
+        }
+    }
+}

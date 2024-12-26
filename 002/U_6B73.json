@@ -1,0 +1,65 @@
+{
+    "character": "歳",
+    "details": {
+        "Âm Hán Việt": [
+            "tuế"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "chỉ 止 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱止⿵戌小"
+        ],
+        "Nét bút": [
+            "丨一丨一一ノ一丨ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YMIHF (卜一戈竹火)"
+        ],
+        "Unicode": [
+            "U+6B73"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "suì ㄙㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "tuế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とし (toshi)",
+            "とせ (tose)",
+            "よわい (yowai)"
+        ],
+        "Âm Hàn": [
+            "세"
+        ]
+    },
+    "meanings": {
+        "tuế": {
+            "Từ điển phổ thông": [
+                "năm",
+                "tuổi"
+            ],
+            "compound_words": {
+                "迎歳": "nghênh tuế",
+                "寧歳": "ninh tuế"
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "character": "鯫",
+    "details": {
+        "Âm Hán Việt": [
+            "tưu",
+            "tẩu",
+            "xu"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "ngư 魚 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰魚取"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一丶丶丶丶一丨丨一一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "NFSJE (弓火尸十水)"
+        ],
+        "Unicode": [
+            "U+9BEB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zōu ㄗㄡ"
+        ],
+        "Âm Nôm": [
+            "trâu",
+            "tưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ス (su)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みごい (migoi)"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "tưu": {
+            "Từ điển phổ thông": [
+                "con cá tép"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một loại cá trắng.",
+                "(Danh) Một loại cá nhỏ.",
+                "(Danh) § Xem 'tưu sanh' 鯫生.",
+                "(Tính) Nhỏ, mọn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cá tép.",
+                "Một âm là tẩu. Tả cái dáng mặt kẻ tiểu nhân. Người bây thường tự nói nhún mình là tẩu sinh ý nói mình là kẻ hèn mọn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cá con;",
+                "Bé tí tẹo, nhỏ xíu, hèn mọn, nhỏ nhen."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con cá con — Loài cá nhỏ lẫn lộn."
+            ],
+            "compound_words": {
+                "鯫生": "tưu sanh"
+            }
+        },
+        "tẩu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một loại cá trắng.",
+                "(Danh) Một loại cá nhỏ.",
+                "(Danh) § Xem 'tưu sanh' 鯫生.",
+                "(Tính) Nhỏ, mọn."
+            ]
+        },
+        "xu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài cá tạp nhạp nhỏ bé — Chỉ sự nhỏ bé thấp kém — Cũng đọc Tưu."
+            ],
+            "compound_words": {
+                "鯫生": "xu sinh"
+            }
+        }
+    }
+}

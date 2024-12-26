@@ -1,0 +1,96 @@
+{
+    "character": "撏",
+    "details": {
+        "Âm Hán Việt": [
+            "triêm",
+            "trâm",
+            "tầm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘尋"
+        ],
+        "Nét bút": [
+            "一丨一フ一一一丨一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "QSMI (手尸一戈)"
+        ],
+        "Unicode": [
+            "U+648F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xián ㄒㄧㄢˊ",
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "dầm",
+            "triêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.る (to.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "cam4"
+        ]
+    },
+    "meanings": {
+        "triêm": {
+            "Từ điển phổ thông": [
+                "kéo, bứt, nhổ, vặt",
+                "lấy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Nhổ, bứt, vặt. ◎Như: “triêm mao” 撏毛 vặt lông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhổ, vặt, như triêm mao 撏毛 vặt lông.",
+                "Một âm là tầm. Lấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kéo, bứt, nhổ, vặt (lông, tóc): 撏雞毛 Nhổ lông gà;",
+                "(văn) Lấy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy ra, rút ra. Cũng đọc Trâm."
+            ]
+        },
+        "trâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng ngón tay mà nhón lấy."
+            ]
+        },
+        "tầm": {
+            "Từ điển phổ thông": [
+                "kéo, bứt, nhổ, vặt",
+                "lấy"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhổ, vặt, như triêm mao 撏毛 vặt lông.",
+                "Một âm là tầm. Lấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kéo, bứt, nhổ, vặt (lông, tóc): 撏雞毛 Nhổ lông gà;",
+                "(văn) Lấy."
+            ]
+        }
+    }
+}

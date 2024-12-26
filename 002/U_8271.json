@@ -1,0 +1,85 @@
+{
+    "character": "艱",
+    "details": {
+        "Âm Hán Việt": [
+            "gian"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "cấn 艮 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一一ノ丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "TOAV (廿人日女)"
+        ],
+        "Unicode": [
+            "U+8271"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "gian"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なや.む (naya.mu)",
+            "かた.い (kata.i)",
+            "なや.み (naya.mi)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "gaan1"
+        ]
+    },
+    "meanings": {
+        "gian": {
+            "Từ điển phổ thông": [
+                "khó khăn",
+                "hiểm ác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Khó khăn. ◎Như: 'sanh hoạt gian khổ' 生活艱苦 đời sống khó khăn, khổ sở.",
+                "(Tính) Hiểm trở. ◎Như: 'gian hiểm' 艱險 hiểm trở, nguy hiểm.",
+                "(Danh) Tang cha mẹ. ◎Như: 'đinh gian' 丁艱 (cũng như 'đinh ưu' 丁憂) có tang cha mẹ. ◇Vương Kiệm 王儉: 'Hựu dĩ cư mẫu gian khứ quan' 又以居母艱去官 (Trữ Uyên bi văn 褚淵碑文) Lại vì có tang mẹ, bỏ quan về."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khó khăn, sự gì bị ngăn trở khó làm cho được gọi là gian 艱, làm việc thấy khó lòng trôi chảy gọi là nan 難.",
+                "Lo. Lúc có tang cha mẹ gọi là đinh ưu 丁憂 hay đinh gian 丁艱.",
+                "Hiểm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khó, khó khăn, gian nan: 艱苦 Khó khăn, gian khổ;",
+                "(văn) Tang cha mẹ: 丁難 Có tang cha mẹ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khó khăn, vất vả — Có tang cha mẹ. Cũng gọi là Đinh gian 丁艱."
+            ],
+            "compound_words": {
+                "艱苦": "gian khổ",
+                "艱難": "gian nan",
+                "艱危": "gian nguy",
+                "艱辛": "gian tân",
+                "艱屯": "gian truân"
+            }
+        }
+    }
+}

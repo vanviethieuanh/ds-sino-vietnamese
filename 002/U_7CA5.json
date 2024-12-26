@@ -1,0 +1,111 @@
+{
+    "character": "粥",
+    "details": {
+        "Âm Hán Việt": [
+            "chúc",
+            "dục"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mễ 米 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿲弓米弓"
+        ],
+        "Nét bút": [
+            "フ一フ丶ノ一丨ノ丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "NFDN (弓火木弓)"
+        ],
+        "Unicode": [
+            "U+7CA5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ",
+            "zhōu ㄓㄡ",
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "cháo",
+            "chúc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イク (iku)",
+            "シュク (shuku)",
+            "ジュク (juku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かゆ (kayu)",
+            "かい (kai)",
+            "ひさ.ぐ (hisa.gu)"
+        ],
+        "Âm Hàn": [
+            "죽",
+            "육",
+            "국"
+        ],
+        "Âm Quảng Đông": [
+            "zuk1"
+        ]
+    },
+    "meanings": {
+        "chúc": {
+            "Từ điển phổ thông": [
+                "cháo loãng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cháo. ◎Như: 'đậu chúc' 豆粥 cháo đậu.",
+                "Một âm là 'dục'. (Động) Bán. § Cùng nghĩa với 'dục' 鬻. ◇Lễ Kí 禮記: 'Quân tử tuy bần, bất chúc tế khí' 君子雖貧, 不粥祭器 (Khúc lễ hạ 曲禮下) Người quân tử tuy nghèo, không bán đồ tế lễ.",
+                "(Động) Nuôi dưỡng.",
+                "(Động)  Lấy chồng, giá xuất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cháo.",
+                "Chúc chúc 粥粥 nhút nhát, rụt rè, tả cái dáng hèn yếu.",
+                "Một âm là dục. Bán, cùng nghĩa với chữ dục 鬻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cháo: 煮粥 Nấu cháo; 稀粥 Cháo lỏng; 小米粥 Cháo kê."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cháo loãng — Một âm là Dục."
+            ],
+            "compound_words": {
+                "粥粥": "chúc chúc",
+                "粥飯僧": "chúc phạn tăng",
+                "一鍋粥": "nhất oa chúc"
+            }
+        },
+        "dục": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cháo. ◎Như: 'đậu chúc' 豆粥 cháo đậu.",
+                "Một âm là 'dục'. (Động) Bán. § Cùng nghĩa với 'dục' 鬻. ◇Lễ Kí 禮記: 'Quân tử tuy bần, bất chúc tế khí' 君子雖貧, 不粥祭器 (Khúc lễ hạ 曲禮下) Người quân tử tuy nghèo, không bán đồ tế lễ.",
+                "(Động) Nuôi dưỡng.",
+                "(Động)  Lấy chồng, giá xuất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cháo.",
+                "Chúc chúc 粥粥 nhút nhát, rụt rè, tả cái dáng hèn yếu.",
+                "Một âm là dục. Bán, cùng nghĩa với chữ dục 鬻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bán (dùng như 鬻): 君子雖貧，不粥祭器 Người quân tử dù nghèo cũng không bán những đồ đựng vật tế (Lễ kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bán lấy tiền nuôi nấng — Một âm khác là Chúc. Xem Chúc."
+            ]
+        }
+    }
+}

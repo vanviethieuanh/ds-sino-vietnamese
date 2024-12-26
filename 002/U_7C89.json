@@ -1,0 +1,106 @@
+{
+    "character": "粉",
+    "details": {
+        "Âm Hán Việt": [
+            "phấn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mễ 米 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰米分"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶ノ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "FDCSH (火木金尸竹)"
+        ],
+        "Unicode": [
+            "U+7C89"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fěn ㄈㄣˇ"
+        ],
+        "Âm Nôm": [
+            "phấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フン (fun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "デシメートル (deshimētoru)",
+            "こ (ko)",
+            "こな (kona)"
+        ],
+        "Âm Hàn": [
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "fan2"
+        ]
+    },
+    "meanings": {
+        "phấn": {
+            "Từ điển phổ thông": [
+                "bột, phấn",
+                "son phấn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bột xoa mặt, đàn bà dùng để trang sức. ◎Như: 'phấn hương' 粉香 bột thoa mặt và dầu thơm, 'chi phấn' 脂粉 phấn sáp.",
+                "(Danh) Bột, vật tán nhỏ. ◎Như: 'hoa phấn' 花粉 phấn hoa, 'miến phấn' 麵粉 bột mì, 'hồ tiêu phấn' 胡椒粉 bột tiêu, 'tẩy y phấn' 洗衣粉 bột giặt quần áo.",
+                "(Danh) Bún, miến, ... ◎Như: 'nhục mạt sao phấn' 肉末炒粉 thịt băm xào miến.",
+                "(Động) Bôi, xoa, sức. ◎Như: 'phấn loát' 粉刷 quét vôi, 'phấn sức' 粉飾 tô điểm bề ngoài (nghĩa bóng: che đậy, giấu giếm).",
+                "(Động) Tan vụn. ◎Như: 'phấn thân toái cốt' 粉身碎骨 nát thịt tan xương.",
+                "(Tính) Trắng. ◎Như: 'phấn điệp nhi' 粉蝶兒 bướm trắng.",
+                "(Tính) Bỉ ổi, dâm ô (tiếng địa phương, bắc Trung Quốc). ◎Như: 'phấn khúc' 粉曲 bài hát dâm uế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bột gạo, phấn gạo. Phàm vật gì tán nhỏ đều gọi là phấn cả.",
+                "Tan nhỏ, như phấn cốt 粉骨 tan xương.",
+                "Phấn xoa, đàn bà dùng để trang sức.",
+                "Phấn sức, làm sự gì không cần sự thực mà chỉ vụ về bề ngoài gọi là phấn sức 粉飾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bột:麵粉 Bột mì; 奶粉 Sữa bột; 花粉 Phấn hoa;",
+                "Phấn: 脂粉 Phấn sáp;脂涂抹粉 Đánh phấn tô son;",
+                "(đph) Quét vôi: 墻剛粉過 Tường mới quét vôi;",
+                "Màu trắng: 粉蝶 Bươm bướm trắng;",
+                "粉色 Màu hồng; 粉牡丹 Hoa mẫu đơn hồng; 這塊綢子是粉的 Tấm lụa này màu hồng;",
+                "Bún, bánh phở, miến: 肉末炒粉 Thịt băm xào miến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chất bột, tức vật nghiền thật nhỏ — Thứ bột trắng, hoặc có các màu khác, dùng để thoa lên mặt cho đẹp.  Đoạn trường tân thanh  có câu: » Chung lưng mở một ngôi hàng, quanh năm buôn phấn bán hương đã lề « — Thoa phấn. Đánh phấn ( công việc trang điểm của đàn bà  ) — Nghiền thành bột — Kí hiệu độ dài, tức một Décimètre(  1/10 thước tây )."
+            ],
+            "compound_words": {
+                "白粉": "bạch phấn",
+                "蛤粉": "cáp phấn",
+                "脂粉": "chi phấn",
+                "香粉": "hương phấn",
+                "牙粉": "nha phấn",
+                "粉筆": "phấn bút",
+                "粉骨碎身": "phấn cốt toái thân",
+                "粉黛": "phấn đại",
+                "粉香": "phấn hương",
+                "粉墨": "phấn mặc",
+                "粉父": "phấn phụ",
+                "粉色": "phấn sắc",
+                "粉飾": "phấn sức",
+                "粉碎": "phấn toái",
+                "授粉": "thụ phấn"
+            }
+        }
+    }
+}

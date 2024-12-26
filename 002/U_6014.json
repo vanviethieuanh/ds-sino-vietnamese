@@ -1,0 +1,79 @@
+{
+    "character": "怔",
+    "details": {
+        "Âm Hán Việt": [
+            "chinh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖正"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "PMYM (心一卜一)"
+        ],
+        "Unicode": [
+            "U+6014"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhēng ㄓㄥ",
+            "zhèng ㄓㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おそれあわ.てる (osoreawa.teru)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "chinh": {
+            "Từ điển phổ thông": [
+                "sợ run"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Run sợ. ◎Như: “chinh doanh” 怔營 hãi sợ, kinh hoảng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sợ run.",
+                "Chinh xung 怔忡 bệnh sợ, trong lòng nao nao như người sắp bị bắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sợ run. 【怔忡】chinh xung [zhengchong] Sợ, nao nao trong lòng;",
+                "(y) Đánh trống ngực."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hãi. Cũng nói là Chinh chung 怔忪, hoặc Chinh doanh 怔營."
+            ],
+            "compound_words": {
+                "怔忡": "chinh xung"
+            }
+        }
+    }
+}

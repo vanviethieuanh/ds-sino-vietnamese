@@ -1,0 +1,102 @@
+{
+    "character": "認",
+    "details": {
+        "Âm Hán Việt": [
+            "nhận"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言忍"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フノ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "YRSIP (卜口尸戈心)"
+        ],
+        "Unicode": [
+            "U+8A8D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "rèn ㄖㄣˋ"
+        ],
+        "Âm Nôm": [
+            "nhận"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ニン (nin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みと.める (mito.meru)",
+            "したた.める (shitata.meru)"
+        ],
+        "Âm Hàn": [
+            "인"
+        ],
+        "Âm Quảng Đông": [
+            "jan6",
+            "jing6"
+        ]
+    },
+    "meanings": {
+        "nhận": {
+            "Từ điển phổ thông": [
+                "nhận ra, nhận biết",
+                "chấp thuận, nhận, bằng lòng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Biện rõ, phân biệt, biết. ◎Như: 'nhận minh' 認明 biết rõ, 'nhận lộ' 認路 biết đường. ◇Thủy hử truyện 水滸傳: 'Na quan nhân hướng tiền lai khán thì, nhận đắc thị Lâm Xung' 那官人向前來看時, 認得是林沖 (Đệ thập nhất hồi) Vị quan nhân đó bước ra nhìn, nhận ra là Lâm Xung.",
+                "(Động) Bằng lòng, đồng ý, chịu thuận. ◎Như: 'thừa nhận' 承認 thuận cho là được, 'công nhận' 公認 tất cả đều đồng ý. ◇Tam quốc diễn nghĩa 三國演義: 'Tháo tuy tâm tri trúng kế, khước bất khẳng nhận thác' 操雖心知中計, 卻不肯認錯 (Đệ tứ thập ngũ hồi) (Tào) Tháo trong bụng biết mình đã mắc mưu, nhưng vẫn không chịu nhận lỗi.",
+                "(Động) Lấy làm. ◇Lưu Khắc Trang 劉克莊: 'Mộng hồi tàn nguyệt tại, Thác nhận thị thiên minh' 夢回殘月在, 錯認是天明 (Đáp phụ huynh Lâm Công Ngộ 答婦兄林公遇) Tỉnh mộng trăng tàn còn ở đó, Lầm tưởng là trời đã sáng.",
+                "(Động) Không cùng huyết thống mà kết thành thân thuộc. ◎Như: 'nhận can đa' 認乾爹 nhận cha nuôi, 'nhận tặc tác phụ' 認賊作父 kết giặc làm cha."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Biện rõ, nhận biết. Như nhận minh 認明 nhận rõ ràng.",
+                "Ừ cho, bằng lòng cho. Như thừa nhận 承認 vâng cho là được, công nhận 公認 mọi người đều cho là được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Biết, nhận rõ: 自己的東西，自己來認 Đồ của ai thì người đó đến nhận; 認字 Biết chữ; 認不出 Nhận không ra; 認親 Nhận họ hàng; 認臉 Nhận mặt;",
+                "Bằng lòng, công nhận, đồng ý: 認可 Cho là được, bằng lòng; 認錯 Nhận sai lầm; 公認 Công nhận; 否認 Không công nhận, phủ nhận; 認爲 Cho là, cho rằng, nhận rằng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Biết rõ, phân biệt được cái này với cái khác — Tiếp đón vào — Bằng lòng."
+            ],
+            "compound_words": {
+                "執認": "chấp nhận",
+                "准認": "chuẩn nhận",
+                "公認": "công nhận",
+                "記認": "kí nhận",
+                "冒認": "mạo nhận",
+                "誤認": "ngộ nhận",
+                "認真": "nhận chân",
+                "認證": "nhận chứng",
+                "認面": "nhận diện",
+                "認可": "nhận khả",
+                "認領": "nhận lĩnh",
+                "認實": "nhận thực",
+                "認識": "nhận thức",
+                "認罪": "nhận tội",
+                "否認": "phủ nhận",
+                "首認": "thú nhận",
+                "乘認": "thừa nhận",
+                "承認": "thừa nhận",
+                "無承認": "vô thừa nhận",
+                "確認": "xác nhận"
+            }
+        }
+    }
+}

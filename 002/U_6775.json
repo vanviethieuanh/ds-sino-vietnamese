@@ -1,0 +1,90 @@
+{
+    "character": "杵",
+    "details": {
+        "Âm Hán Việt": [
+            "chử",
+            "xử"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木午"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "DOJ (木人十)"
+        ],
+        "Unicode": [
+            "U+6775"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chǔ ㄔㄨˇ"
+        ],
+        "Âm Nôm": [
+            "chày",
+            "chử",
+            "ngỏ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)",
+            "ソ (so)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きね (kine)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "cyu5"
+        ]
+    },
+    "meanings": {
+        "chử": {
+            "Từ điển phổ thông": [
+                "cái chầy, cái chày"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) chày, vồ: 杵 臼 Chày cối; 砧杵 Chày tán thuốc;",
+                "(đph) Chọc, cù: 用手指頭杵他一下 Lấy ngón tay cù nó một cái."
+            ]
+        },
+        "xử": {
+            "Từ điển phổ thông": [
+                "cái chầy, cái chày"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái chày. ◇Dịch Kinh 易經: 'Đoạn mộc vi xử, quật địa vi cữu' 斷木為杵, 掘地為臼 (Hệ từ hạ 繫辭下) Bửa gỗ làm chày, đào đất làm cối. § 'Xử cữu giao' 杵臼交 bạn bè giao hảo không phân biệt sang hèn.",
+                "(Danh) Một thứ binh khí, hình như cái chày.",
+                "(Động) Chọc, xỉa. ◎Như: 'nã chỉ đầu xử tha nhất hạ' 拿指頭杵他一下 lấy ngón tay chọc nó một cái.",
+                "(Động) Đứng ngẩn ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chầy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chày để giã — Cái chày để giặt quần áo thời xưa."
+            ],
+            "compound_words": {
+                "砧杵": "châm xử",
+                "錐杵囊中": "chuỳ xử nang trung",
+                "臼杵": "cữu xử"
+            }
+        }
+    }
+}

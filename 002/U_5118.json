@@ -1,0 +1,105 @@
+{
+    "character": "儘",
+    "details": {
+        "Âm Hán Việt": [
+            "tần",
+            "tẫn",
+            "tận"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nhân 人 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻盡"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一丨一丶丶丶丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "OLMT (人中一廿)"
+        ],
+        "Unicode": [
+            "U+5118"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐn ㄐㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "tận"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジン (jin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まま (mama)",
+            "ことごとく (kotogotoku)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "zeon2"
+        ]
+    },
+    "meanings": {
+        "tần": {
+            "Từ điển phổ thông": [
+                "hết",
+                "nhất, lớn nhất, to nhất"
+            ],
+            "compound_words": {
+                "儘快": "tần khoái",
+                "儘量": "tần lượng",
+                "儘管": "tần quản",
+                "儘早": "tần tảo"
+            }
+        },
+        "tẫn": {
+            "Từ điển phổ thông": [
+                "hết",
+                "nhất, lớn nhất, to nhất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Liên) Mặc dù, dù cho. ◎Như: 'tẫn đại phong khởi , thuyền nhưng li ngạn' 儘大風起, 船仍離岸 mặc dù gió lớn nổi lên, thuyền vẫn rời bến.",
+                "(Phó) Hết tiệt, cùng cực. ◎Như: 'tẫn số' 儘數 hết cả số, 'tẫn khả năng' 儘可能 hết sức mình.",
+                "(Phó) Cứ, cứ việc. ◎Như: 'nhĩ tẫn quản tố, bất yếu phạ' 你儘管做, 不要怕 anh cứ việc làm, đừng sợ.",
+                "(Phó) Tùy ý, mặc ý, không hạn chế. ◇Dương Vạn Lí 楊萬里: 'Tác hàn tác thử vô xứ tị, Hoa lạc hoa khai tẫn tha ý' 作寒作暑無處避, 花落花開儘他意 (Dạ văn phong thanh 夜聞風聲) Làm lạnh làm nóng không chỗ tránh, Hoa rụng hoa nở, gió tha hồ mặc ý.",
+                "(Phó) Cả, đều, tất cả, toàn. ◎Như: 'tẫn trước' 儘著 tính đủ cách. ◇Nguyễn Du 阮攸: 'Tẫn hữu du vi ưu tướng tướng' 儘有猷爲優將相 (Bùi Tấn Công mộ 裴晉公墓) Có thừa mưu lược làm tướng văn tướng võ. ◇Tây du kí 西遊記: 'Quả độc tự đăng phiệt, tẫn lực sanh khai' 果獨自登筏, 儘力撐開 (Đệ nhất hồi) Rồi một mình lên bè, ra sức đẩy sào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hết tiệt.",
+                "Hết cữ, như tẫn số 儘數 hết số, tẫn trước 儘著 tính hết nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tận, hết, hết sức, cố gắng: 儘力幫助你們 Hết sức giúp đỡ các anh; 我們儘快做吧 Chúng ta cố làm cho thật nhanh; 儘數Hết số; 儘著 Tính hết nước;",
+                "Trong vòng, dưới mức: 儘着三天做 Làm trong vòng 3 ngày;",
+                "Nhường... trước;",
+                "Mãi... cùng, tít... cùng: 坐在儘前邊 Ngồi ở tít trên cùng; 儘低下 Ở mãi dưới cùng; 儘裡邊 Mãi tận trong cùng;",
+                "(đph) Mãi: 儘責備他也不對 Cứ trách anh ấy mãi cũng không ổn. Xem 盡 [jìn]."
+            ],
+            "compound_words": {
+                "儘教": "tẫn giáo"
+            }
+        },
+        "tận": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cùng cực. Tới chỗ cùng."
+            ],
+            "compound_words": {
+                "儘教": "tận giáo"
+            }
+        }
+    }
+}

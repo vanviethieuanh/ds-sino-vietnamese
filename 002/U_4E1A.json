@@ -1,0 +1,72 @@
+{
+    "character": "业",
+    "details": {
+        "Âm Hán Việt": [
+            "nghiệp"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhất 一 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "TC (廿金)"
+        ],
+        "Unicode": [
+            "U+4E1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yè ㄜˋ"
+        ],
+        "Âm Nôm": [
+            "nghiệp"
+        ],
+        "Âm Quảng Đông": [
+            "jip6"
+        ]
+    },
+    "meanings": {
+        "nghiệp": {
+            "Từ điển phổ thông": [
+                "nghề nghiệp, sự nghiệp"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'nghiệp' 業.",
+                "Giản thể của chữ 業."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 業"
+            ],
+            "compound_words": {
+                "专业": "chuyên nghiệp",
+                "工业": "công nghiệp",
+                "大业": "đại nghiệp",
+                "业余": "nghiệp dư",
+                "业经": "nghiệp kinh",
+                "业绩": "nghiệp tích",
+                "业务": "nghiệp vụ",
+                "事业": "sự nghiệp",
+                "作业": "tác nghiệp",
+                "畢业": "tất nghiệp",
+                "失业": "thất nghiệp",
+                "商业": "thương nghiệp",
+                "就业": "tựu nghiệp",
+                "伟业": "vĩ nghiệp",
+                "企业": "xí nghiệp"
+            }
+        }
+    }
+}

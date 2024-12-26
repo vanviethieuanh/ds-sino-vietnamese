@@ -1,0 +1,79 @@
+{
+    "character": "怀",
+    "details": {
+        "Âm Hán Việt": [
+            "hoài",
+            "phó",
+            "phụ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "tâm 心 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖不"
+        ],
+        "Nét bút": [
+            "丶丶丨一ノ丨丶"
+        ],
+        "Thương Hiệt": [
+            "PMF (心一火)"
+        ],
+        "Unicode": [
+            "U+6000"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huái ㄏㄨㄞˊ"
+        ],
+        "Âm Nôm": [
+            "hoài"
+        ],
+        "Âm Quảng Đông": [
+            "waai4"
+        ]
+    },
+    "meanings": {
+        "hoài": {
+            "Từ điển phổ thông": [
+                "nhớ nhung",
+                "ôm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 懷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 懷"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết giản của chữ Hoài 懷."
+            ],
+            "compound_words": {
+                "怀抱": "hoài bão",
+                "怀孕": "hoài dựng",
+                "怀疑": "hoài nghi",
+                "怀念": "hoài niệm"
+            }
+        },
+        "phó": {
+            "Từ điển Thiều Chửu": [
+                "① Gian tục mượn làm chữ 懷."
+            ]
+        },
+        "phụ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giận dữ — Một âm là Hoài. Xem Hoài."
+            ]
+        }
+    }
+}

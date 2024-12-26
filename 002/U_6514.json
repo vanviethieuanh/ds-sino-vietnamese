@@ -1,0 +1,86 @@
+{
+    "character": "攔",
+    "details": {
+        "Âm Hán Việt": [
+            "lan",
+            "lạn"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thủ 手 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘闌"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一丨フ一一一丨フ丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QANW (手日弓田)"
+        ],
+        "Unicode": [
+            "U+6514"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lán ㄌㄢˊ"
+        ],
+        "Âm Nôm": [
+            "dan",
+            "dang",
+            "đan",
+            "lan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さえぎ.る (saegi.ru)"
+        ],
+        "Âm Hàn": [
+            "란"
+        ],
+        "Âm Quảng Đông": [
+            "laan4"
+        ]
+    },
+    "meanings": {
+        "lan": {
+            "Từ điển trích dẫn": [
+                "(Động) Ngăn, cản, chặn. ◎Như: 'lan trở' 攔阻 cản trở. ◇Nguyễn Trãi 阮廌: 'Trúc hữu thiên can lan tục khách' 竹有千竿攔俗客 (Họa hữu nhân yên hà ngụ hứng 和友人煙霞寓興) Trúc có nghìn cây ngăn khách tục.",
+                "(Giới) Vào, ngay vào. ◇Hồng Lâu Mộng 紅樓夢: 'Đảo tượng bối địa lí hữu nhân bả ngã lan đầu nhất côn, đông đích nhãn tình tiền đầu tất hắc' 倒像背地裡有人把我攔頭一棍, 疼的眼睛前頭漆黑 (Đệ bát thập nhất hồi) Hình như có người lẻn đến nện vào đầu một gậy, đau tối sầm cả mắt lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngăn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngăn, ngăn cản, chặn: 前面有一道河攔住了去路 Phía trước có một con sông chắn ngang đường đi; 攔住他 Ngăn nó lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngăn lại. Chặn lại. Cản trở."
+            ],
+            "compound_words": {
+                "遮攔": "già lan",
+                "口沒遮攔": "khẩu một già lan"
+            }
+        },
+        "lạn": {
+            "Từ điển phổ thông": [
+                "chặn lại, ngăn lại"
+            ],
+            "compound_words": {
+                "攔住": "lạn trụ"
+            }
+        }
+    }
+}

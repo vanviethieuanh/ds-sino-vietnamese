@@ -1,0 +1,101 @@
+{
+    "character": "頌",
+    "details": {
+        "Âm Hán Việt": [
+            "dung",
+            "tụng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰公頁"
+        ],
+        "Nét bút": [
+            "ノ丶フ丶一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CIMBC (金戈一月金)"
+        ],
+        "Unicode": [
+            "U+980C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "róng ㄖㄨㄥˊ",
+            "sòng ㄙㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tụng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ジュ (ju)",
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かたち (katachi)",
+            "たた.える (tata.eru)",
+            "ほめ.る (home.ru)"
+        ],
+        "Âm Hàn": [
+            "송",
+            "용"
+        ],
+        "Âm Quảng Đông": [
+            "zung6"
+        ]
+    },
+    "meanings": {
+        "dung": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Dung 容 — Một âm là Tụng. Xem Tụng."
+            ]
+        },
+        "tụng": {
+            "Từ điển phổ thông": [
+                "khen ngợi, ca tụng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một trong sáu nghĩa của 'Thi Kinh' 詩經, gồm những bài văn ca ngợi công đức thần linh, vua chúa, tổ tiên. ◎Như: 'Chu tụng' 周頌, 'Lỗ tụng' 魯頌.",
+                "(Danh) Một thể văn để tán dương, khen ngợi. ◎Như: 'Tửu đức tụng' 酒德頌 của 'Lưu Linh' 劉伶.",
+                "(Danh) Lối văn kệ của nhà Phật.",
+                "(Động) Khen ngợi, xưng tán. ◎Như: 'ca công tụng đức' 歌功頌德.",
+                "(Động) Cầu chúc (thường dùng trong thư từ). ◎Như: 'kính tụng cận an' 敬頌近安.",
+                "(Động) Ngâm đọc, đọc rõ ràng. § Thông 'tụng' 誦. ◇Mạnh Tử 孟子: 'Tụng kì thi, độc kì thư, bất tri kì nhân khả hồ?' 頌其詩, 讀其書, 不知其人可乎 (Vạn Chương hạ 萬章下) (Đã) ngâm thơ ca (của người xưa), đọc sách truyện (của người xưa), (lẽ nào) mình chẳng biết (về sự tích của) người xưa sao?",
+                "Một âm là 'dung'. (Danh) Dung nghi. § Thông 'dong' 容. ◎Như: Ngày xưa viết 'dong mạo' 頌貌, ngày nay viết 容貌.",
+                "(Tính) Khoan dung, bao dung. § Thông 'dong' 容."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khen, ca tụng. Như ca công tụng đức 歌功頌德. Như Kinh Thi 詩經 có những thiên Chu tụng 周頌, Lỗ tụng 魯頌 đều là thơ ca tụng công đức cả. Những bài văn ca ngợi công đức cũng gọi là tụng. Lối văn kệ của nhà Phật, Tàu cũng dịch là tụng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khen, ca ngợi, ca tụng, chúc tụng: 歌頌 Ca tụng, ca ngợi; 頌聲載道 Đâu đâu cũng khen ngợi; 歌功頌德 Ca tụng công đức;",
+                "Bài ca tụng: 英雄頌 Bài ca anh hùng;",
+                "(tôn) Bài tụng, bài kệ (trong kinh sách Phật giáo)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chúc mừng. Td: Chúc tụng — Khen ngợi. Td: Ca tụng."
+            ],
+            "compound_words": {
+                "歌頌": "ca tụng",
+                "讚頌": "tán tụng",
+                "贊頌": "tán tụng",
+                "傳頌": "truyền tụng",
+                "頌西湖賦": "tụng tây hồ phú",
+                "稱頌": "xưng tụng"
+            }
+        }
+    }
+}

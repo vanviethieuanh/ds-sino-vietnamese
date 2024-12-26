@@ -1,0 +1,117 @@
+{
+    "character": "詞",
+    "details": {
+        "Âm Hán Việt": [
+            "từ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言司"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRSMR (卜口尸一口)"
+        ],
+        "Unicode": [
+            "U+8A5E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cí ㄘˊ"
+        ],
+        "Âm Nôm": [
+            "tờ",
+            "từ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "từ": {
+            "Từ điển phổ thông": [
+                "lời văn",
+                "từ khúc, bài từ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đơn vị ngôn ngữ có khái niệm hoàn chỉnh, có thể sử dụng một cách độc lập trong câu nói hay viết.",
+                "(Danh) Lời nói hoặc câu viết, biểu thị một quan niệm ý nghĩa hoàn chỉnh. ◎Như: 'ngôn từ' 言詞 lời nói, 'thố từ' 措詞 đặt câu, dùng chữ.",
+                "(Danh) Bài, đoạn nói hay viết có thứ tự mạch lạc. ◎Như: 'ca từ' 歌詞 bài ca, 'diễn giảng từ' 演講詞 bài diễn văn.",
+                "(Danh) Một thể văn, có từ đời Đường, hưng thịnh thời nhà Tống, biến thể từ nhạc phủ xưa, câu dài ngắn không nhất định. Còn gọi là 'trường đoản cú' 長短句, 'thi dư' 詩餘. ◎Như: 'Đường thi Tống từ' 唐詩宋詞.",
+                "(Danh) Lời biện tụng. § Thông 'từ' 辭."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lời văn.",
+                "Một lối văn để hát. Như từ khúc 詞曲.",
+                "Các chữ dùng để giúp lời văn đều gọi là từ. Như những chữ hề, ta, chỉ, tư 兮, 些, 只, 斯, v.v.",
+                "Bảo, nói."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Từ, tiếng: 動詞 Động từ; 複音詞 Từ đa âm, từ ghép;",
+                "Lời, bài: 歌詞 Lời ca; 義正嚴詞 Lời nghiêm nghĩa chính; 演講詞 Bài diễn thuyết;",
+                "Bài từ (một thể văn vần): 詩詞 Thơ và từ;",
+                "(văn) Bảo, nói."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lời nói. Lời thơ. Lời văn — Nhiều tiếng đi chung để thành một nghĩa."
+            ],
+            "compound_words": {
+                "哀詞": "ai từ",
+                "案詞": "án từ",
+                "博學宏詞": "bác học hoành từ",
+                "駁詞": "bác từ",
+                "貶詞": "biếm từ",
+                "歌詞": "ca từ",
+                "主詞": "chủ từ",
+                "祝詞": "chúc từ",
+                "眾口一詞": "chúng khẩu nhất từ",
+                "宮詞": "cung từ",
+                "名詞": "danh từ",
+                "代詞": "đại từ",
+                "動詞": "động từ",
+                "介詞": "giới từ",
+                "宏詞": "hoành từ",
+                "訓詞": "huấn từ",
+                "連詞": "liên từ",
+                "媚詞": "mị từ",
+                "言詞": "ngôn từ",
+                "分詞": "phân từ",
+                "副詞": "phó từ",
+                "冠詞": "quan từ",
+                "軍中詞命集": "quân trung từ mệnh tập",
+                "生詞": "sinh từ",
+                "疏詞": "sớ từ",
+                "藉詞": "tạ từ",
+                "托詞": "thác từ",
+                "嘆詞": "thán từ",
+                "助詞": "trợ từ",
+                "詞章": "từ chương",
+                "詞翰": "từ hàn",
+                "詞札": "từ trát",
+                "詞訟": "từ tụng",
+                "文詞": "văn từ"
+            }
+        }
+    }
+}

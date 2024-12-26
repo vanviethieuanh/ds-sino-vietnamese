@@ -1,0 +1,60 @@
+{
+    "character": "驼",
+    "details": {
+        "Âm Hán Việt": [
+            "đà"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰马它"
+        ],
+        "Nét bút": [
+            "フフ一丶丶フノフ"
+        ],
+        "Thương Hiệt": [
+            "NMJP (弓一十心)"
+        ],
+        "Unicode": [
+            "U+9A7C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tuó ㄊㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "đà"
+        ],
+        "Âm Quảng Đông": [
+            "to4"
+        ]
+    },
+    "meanings": {
+        "đà": {
+            "Từ điển phổ thông": [
+                "(xem: lạc đà 駱駝,骆驼)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 駝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 駝"
+            ],
+            "compound_words": {
+                "骆驼": "lạc đà"
+            }
+        }
+    }
+}

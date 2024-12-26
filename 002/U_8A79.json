@@ -1,0 +1,97 @@
+{
+    "character": "詹",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêm",
+            "đạm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ一ノノ丶丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "NCYMR (弓金卜一口)"
+        ],
+        "Unicode": [
+            "U+8A79"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "shàn ㄕㄢˋ",
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nôm": [
+            "chiêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "첨"
+        ],
+        "Âm Quảng Đông": [
+            "zim1"
+        ]
+    },
+    "meanings": {
+        "chiêm": {
+            "Từ điển phổ thông": [
+                "giúp",
+                "nói nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nói nhiều. ◇Thuyết văn giải tự 說文解字: 'Chiêm, đa ngôn dã' 詹, 多言也.",
+                "(Động) Đến, đạt tới. § Thông 'chí' 至.",
+                "(Động) Trông, nhìn. § Thông 'chiêm' 瞻.",
+                "(Động) Coi sóc, quản lí.",
+                "(Động) Chọn, lựa, tuyển định.",
+                "(Danh) Họ 'Chiêm'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xét, cấp giúp. Phép quan ngày xưa có một chức là chiêm sự phủ 詹事府 là một chức quan cung cấp mọi việc cho Thái tử.",
+                "Nói nhiều.",
+                "Đến.",
+                "Một âm là đạm. Ðủ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nói nhiều;",
+                "Đạt tới, đến;",
+                "Chiêm đoán;",
+                "Nhìn, xem (dùng như 瞻, bộ 目);",
+                "[Zhan] (Họ) Chiêm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhiều lời. Lắm miệng — Ngẩng lên mà trông. Dùng như chữ Chiêm 瞻 — Một âm là Đạm."
+            ],
+            "compound_words": {
+                "詹詹": "chiêm chiêm"
+            }
+        },
+        "đạm": {
+            "Từ điển Thiều Chửu": [
+                "Xét, cấp giúp. Phép quan ngày xưa có một chức là chiêm sự phủ 詹事府 là một chức quan cung cấp mọi việc cho Thái tử.",
+                "Nói nhiều.",
+                "Đến.",
+                "Một âm là đạm. Ðủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầy đủ — Một âm là Chiêm."
+            ]
+        }
+    }
+}

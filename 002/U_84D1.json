@@ -1,0 +1,128 @@
+{
+    "character": "蓑",
+    "details": {
+        "Âm Hán Việt": [
+            "soa",
+            "tai",
+            "thoa",
+            "toa",
+            "tuy",
+            "xoa"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹衰"
+        ],
+        "Nét bút": [
+            "一丨丨丶一丨フ一一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "TYWV (廿卜田女)"
+        ],
+        "Unicode": [
+            "U+84D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "sāi ㄙㄞ",
+            "suī ㄙㄨㄟ",
+            "suō ㄙㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "soa",
+            "thoa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みの (mino)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "so1"
+        ]
+    },
+    "meanings": {
+        "soa": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo tơi để che mưa thời xưa, làm bằng lá."
+            ],
+            "compound_words": {
+                "蓑衣": "soa y"
+            }
+        },
+        "tai": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tai tai 蓑蓑: Dáng bông hoa rủ xuống — Một âm là Soa. Xem Soa."
+            ]
+        },
+        "thoa": {
+            "Từ điển phổ thông": [
+                "áo tơi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo tơi. § Cũng đọc là 'toa'. ◇Liễu Tông Nguyên 柳宗元: 'Cô chu thoa lạp ông, Độc điếu hàn giang tuyết' 孤舟蓑笠翁, 獨釣寒江雪 (Giang tuyết 江雪) Thuyền trơ trọi, ông già nón lá áo tơi, Một mình thả câu trong tuyết trên sông lạnh.",
+                "(Động) Dùng cỏ che phủ, che phủ. ◇Công Dương truyện 公羊傳: 'Trọng Cơ chi tội hà? Bất thoa thành dã' 仲幾之罪何? 不蓑城也 (Định Công nguyên niên 定公元年) Trọng Cơ bị tội gì? Không che phủ thành.",
+                "Một âm là 'tuy'. (Tính) § Xem 'tuy tuy' 蓑蓑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo tơi. Cũng đọc là toa. Liễu Tông Nguyên 柳宗元: Cô chu thoa lạp ông, Ðộc điếu hàn giang tuyết 孤舟蓑笠翁，獨釣寒江雪 (Giang tuyết 江雪).",
+                "Che phủ.",
+                "Một âm là tuy. Tuy tuy 蓑蓑 hoa lá rủ xuống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Áo tơi: 蓑衣 Áo tơi; 蓑笠 Nón lá áo tơi;",
+                "Lợp cỏ."
+            ]
+        },
+        "toa": {
+            "Từ điển trích dẫn": [
+                "(Danh) Áo tơi. § Cũng đọc là 'toa'. ◇Liễu Tông Nguyên 柳宗元: 'Cô chu thoa lạp ông, Độc điếu hàn giang tuyết' 孤舟蓑笠翁, 獨釣寒江雪 (Giang tuyết 江雪) Thuyền trơ trọi, ông già nón lá áo tơi, Một mình thả câu trong tuyết trên sông lạnh.",
+                "(Động) Dùng cỏ che phủ, che phủ. ◇Công Dương truyện 公羊傳: 'Trọng Cơ chi tội hà? Bất thoa thành dã' 仲幾之罪何? 不蓑城也 (Định Công nguyên niên 定公元年) Trọng Cơ bị tội gì? Không che phủ thành.",
+                "Một âm là 'tuy'. (Tính) § Xem 'tuy tuy' 蓑蓑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo tơi. Cũng đọc là toa. Liễu Tông Nguyên 柳宗元: Cô chu thoa lạp ông, Ðộc điếu hàn giang tuyết 孤舟蓑笠翁，獨釣寒江雪 (Giang tuyết 江雪).",
+                "Che phủ.",
+                "Một âm là tuy. Tuy tuy 蓑蓑 hoa lá rủ xuống."
+            ]
+        },
+        "tuy": {
+            "Từ điển trích dẫn": [
+                "(Danh) Áo tơi. § Cũng đọc là 'toa'. ◇Liễu Tông Nguyên 柳宗元: 'Cô chu thoa lạp ông, Độc điếu hàn giang tuyết' 孤舟蓑笠翁, 獨釣寒江雪 (Giang tuyết 江雪) Thuyền trơ trọi, ông già nón lá áo tơi, Một mình thả câu trong tuyết trên sông lạnh.",
+                "(Động) Dùng cỏ che phủ, che phủ. ◇Công Dương truyện 公羊傳: 'Trọng Cơ chi tội hà? Bất thoa thành dã' 仲幾之罪何? 不蓑城也 (Định Công nguyên niên 定公元年) Trọng Cơ bị tội gì? Không che phủ thành.",
+                "Một âm là 'tuy'. (Tính) § Xem 'tuy tuy' 蓑蓑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo tơi. Cũng đọc là toa. Liễu Tông Nguyên 柳宗元: Cô chu thoa lạp ông, Ðộc điếu hàn giang tuyết 孤舟蓑笠翁，獨釣寒江雪 (Giang tuyết 江雪).",
+                "Che phủ.",
+                "Một âm là tuy. Tuy tuy 蓑蓑 hoa lá rủ xuống."
+            ],
+            "compound_words": {
+                "蓑蓑": "tuy tuy"
+            }
+        },
+        "xoa": {
+            "Từ điển phổ thông": [
+                "áo tơi"
+            ]
+        }
+    }
+}

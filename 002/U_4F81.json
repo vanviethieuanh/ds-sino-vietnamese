@@ -1,0 +1,88 @@
+{
+    "character": "侁",
+    "details": {
+        "Âm Hán Việt": [
+            "sân",
+            "thân",
+            "tân"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 人 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻先"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一丨一ノフ"
+        ],
+        "Thương Hiệt": [
+            "OHGU (人竹土山)"
+        ],
+        "Unicode": [
+            "U+4F81"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shēn ㄕㄣ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.く (i.ku)",
+            "つか.い (tsuka.i)"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "san1"
+        ]
+    },
+    "meanings": {
+        "sân": {
+            "Từ điển trích dẫn": [
+                "(Tính) Đông đảo, nhiều người.",
+                "(Tính) Dáng chạy đi.",
+                "§ Ghi chú: Cũng đọc là 'tân'."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi thành bầy, thành đoàn, chen nhau mà đi — Đáng lẽ dọc Tân."
+            ],
+            "compound_words": {
+                "侁侁": "sân sân"
+            }
+        },
+        "thân": {
+            "Từ điển phổ thông": [
+                "nước Thân",
+                "đông đúc, đông đảo"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên nước đời cổ;",
+                "【侁侁】thân thân [shenshen] (văn) Đông đảo."
+            ]
+        },
+        "tân": {
+            "Từ điển trích dẫn": [
+                "(Tính) Đông đảo, nhiều người.",
+                "(Tính) Dáng chạy đi.",
+                "§ Ghi chú: Cũng đọc là 'tân'."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bước tới trước."
+            ]
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "確",
+    "details": {
+        "Âm Hán Việt": [
+            "xác"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thạch 石 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石隺"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丶フノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "MROBG (一口人月土)"
+        ],
+        "Unicode": [
+            "U+78BA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "què ㄑㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "xác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たし.か (tashi.ka)",
+            "たし.かめる (tashi.kameru)"
+        ],
+        "Âm Hàn": [
+            "확"
+        ],
+        "Âm Quảng Đông": [
+            "kok3"
+        ]
+    },
+    "meanings": {
+        "xác": {
+            "Từ điển phổ thông": [
+                "bền lâu",
+                "đúng, trúng, chính xác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Thật, đúng. ◎Như: 'chính xác' 正確 đúng thật, 'thiên chân vạn xác' 千真萬確 vô cùng xác thực.",
+                "(Tính) Bền, chắc.",
+                "(Phó) Thật là. ◎Như: 'xác hữu cao kiến' 確有高見 thật là cao kiến.",
+                "(Phó) Chắc chắn, kiên quyết. ◇Liễu Tông Nguyên 柳宗元: 'Xác cố tự thủ, súc lực bỉnh chí' 確固自守, 蓄力秉志 (Dữ cố thập lang văn 與顧十郎文) Kiên quyết tự thủ, hết lòng hết sức.",
+                "Cũng viết là 确."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bền.",
+                "Ðích xác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 确."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cứng như đá — Thật. Đúng — Chắc chắn đúng."
+            ],
+            "compound_words": {
+                "正確": "chính xác",
+                "真確": "chân xác",
+                "準確": "chuẩn xác",
+                "的確": "đích xác",
+                "明確": "minh xác",
+                "確據": "xác cứ",
+                "確當": "xác đáng",
+                "確定": "xác định",
+                "確認": "xác nhận",
+                "確然": "xác nhiên",
+                "確實": "xác thực"
+            }
+        }
+    }
+}

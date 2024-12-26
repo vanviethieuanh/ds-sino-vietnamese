@@ -1,0 +1,88 @@
+{
+    "character": "黏",
+    "details": {
+        "Âm Hán Việt": [
+            "niêm"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thử 黍 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰黍占"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶ノ丶丨丶一ノ丶丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HEYR (竹水卜口)"
+        ],
+        "Unicode": [
+            "U+9ECF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "niān ㄋㄧㄢ",
+            "nián ㄋㄧㄢˊ",
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nôm": [
+            "niêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネン (nen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねば.り (neba.ri)",
+            "ねば.る (neba.ru)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "nim1",
+            "nim4",
+            "zim1"
+        ]
+    },
+    "meanings": {
+        "niêm": {
+            "Từ điển phổ thông": [
+                "chất dính",
+                "dán vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chất keo, chất dính.",
+                "(Động) Dính, dán vào. ◇Liêu trai chí dị 聊齋志異: 'Phụ tại thì, tằng thư \"Khuyến học thiên\" niêm kì tọa hữu, lang nhật phúng tụng' 父在時, 曾書勸學篇黏其座右, 郎日諷誦 (Thư si 書癡) Lúc cha còn, đã từng viết bài \"Khuyến học thiên\", dán bên phải chỗ ngồi, chàng hằng ngày tụng đọc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dính, vật gì ướt mà có chất dính gọi là niêm 黏.",
+                "Dán vào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dính, sánh: 這漿糊不黏 Hồ này không dính;",
+                "Dán vào, dính vào: 蒼蠅黏於捕蠅紙上 Ruồi dính trên giấy bắt ruồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dính vào — Vật dính, dùng để dán cho dính."
+            ],
+            "compound_words": {
+                "黏液": "niêm dịch",
+                "黏律": "niêm luật",
+                "黏封": "niêm phong",
+                "黏土": "niêm thổ",
+                "黏揭": "niêm yết"
+            }
+        }
+    }
+}

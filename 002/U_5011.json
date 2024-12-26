@@ -1,0 +1,84 @@
+{
+    "character": "們",
+    "details": {
+        "Âm Hán Việt": [
+            "môn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻門"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "OAN (人日弓)"
+        ],
+        "Unicode": [
+            "U+5011"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mēn ㄇㄣ",
+            "mén ㄇㄣˊ",
+            "men"
+        ],
+        "Âm Nôm": [
+            "mon",
+            "môn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モン (mon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ともがら (tomogara)"
+        ],
+        "Âm Hàn": [
+            "문"
+        ],
+        "Âm Quảng Đông": [
+            "mun4"
+        ]
+    },
+    "meanings": {
+        "môn": {
+            "Từ điển phổ thông": [
+                "bọn, các, chúng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Tiếng dùng phụ sau danh từ hoặc nhân danh đại danh từ để chỉ số nhiều: bọn, chúng, họ ... ◎Như: “ngã môn” 我們 bọn ta, “bằng hữu môn” 朋友們 bạn bè."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bọn, như ngã môn 我們 bọn ta."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chúng, bọn (gia từ đặt sau một đại từ hay một danh từ để chỉ số nhiều): 我們 Chúng ta, chúng tôi; 你們 Các anh; 咱們 Chúng ta, chúng mình; 人們 Người ta; 姑娘們 Các cô; 孩子們 Các em;",
+                "Từ xưng hô: 哥兒們 Anh em ta; 姐兒們 Chị em ta; 鄉親們 Bà con cô bác."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bọn. Đám người. Td: Ngã môn ( chúng ta ), tha môn ( bọn nó chúng nó )."
+            ],
+            "compound_words": {
+                "咱們": "cha môn",
+                "人們": "nhân môn",
+                "一們": "nhất môn",
+                "你們": "nhĩ môn",
+                "他們": "tha môn",
+                "它們": "tha môn"
+            }
+        }
+    }
+}

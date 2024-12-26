@@ -1,0 +1,70 @@
+{
+    "character": "珲",
+    "details": {
+        "Âm Hán Việt": [
+            "huy",
+            "hồn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩军"
+        ],
+        "Nét bút": [
+            "一一丨一丶フ一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "MGBKQ (一土月大手)"
+        ],
+        "Unicode": [
+            "U+73F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "huī ㄏㄨㄟ",
+            "hún ㄏㄨㄣˊ"
+        ],
+        "Âm Quảng Đông": [
+            "wan4"
+        ]
+    },
+    "meanings": {
+        "huy": {
+            "Từ điển phổ thông": [
+                "(xem: ái huy 璦琿,瑷珲)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 琿"
+            ],
+            "compound_words": {
+                "瑷珲": "ái huy"
+            }
+        },
+        "hồn": {
+            "Từ điển phổ thông": [
+                "một loại ngọc đẹp và quý"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 琿."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 琿"
+            ],
+            "compound_words": {
+                "珲春": "hồn xuân"
+            }
+        }
+    }
+}

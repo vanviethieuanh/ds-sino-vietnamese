@@ -1,0 +1,124 @@
+{
+    "character": "訑",
+    "details": {
+        "Âm Hán Việt": [
+            "di",
+            "nãn",
+            "tha",
+            "đà",
+            "đản"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言也"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ丨フ"
+        ],
+        "Thương Hiệt": [
+            "YRPD (卜口心木)"
+        ],
+        "Unicode": [
+            "U+8A11"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "yí ㄧˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "イ (i)",
+            "タ (ta)",
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "ji4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển phổ thông": [
+                "(xem: di di 訑訑)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tự đắc.",
+                "(Động) Bài tiết. § Cũng như 'di' 遺. ◎Như: 'di niệu' 訑尿 đi tiểu.",
+                "Một âm là 'đản'. (Tính) Ngông láo, xằng bậy. § Thông 'đản' 誕.",
+                "Lại một âm là 'đà'. (Động) Dối lừa, dối trá. ◇Chiến quốc sách 戰國策: 'Quả nhân thậm bất hỉ đà giả ngôn dã' 寡人甚不喜訑者言也 (Yên sách nhất 燕策一) Quả nhân thật là không thích lời của những người dối gạt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Di di 訑訑 nhơn nhơn tự đắc.",
+                "Một âm là tha. Lừa dối.",
+                "Lại một âm là nãn. Phóng túng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhơn nhơn tự đắc: 訑訑 Kiêu căng, ngạo mạn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tự cho mình là biết đầy đủ, không cần nghe lời nói phải nữa. Cũng nói là Di di — Một âm là Tha."
+            ],
+            "compound_words": {
+                "訑訑": "di di"
+            }
+        },
+        "nãn": {
+            "Từ điển phổ thông": [
+                "phóng túng"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Di di 訑訑 nhơn nhơn tự đắc.",
+                "Một âm là tha. Lừa dối.",
+                "Lại một âm là nãn. Phóng túng."
+            ]
+        },
+        "tha": {
+            "Từ điển phổ thông": [
+                "lừa dối"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Di di 訑訑 nhơn nhơn tự đắc.",
+                "Một âm là tha. Lừa dối.",
+                "Lại một âm là nãn. Phóng túng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lừa, lừa dối, lừa đảo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khinh lờn. Coi rẻ — Xem Di."
+            ]
+        },
+        "đà": {
+            "Từ điển trích dẫn": [
+                "(Tính) Tự đắc.",
+                "(Động) Bài tiết. § Cũng như 'di' 遺. ◎Như: 'di niệu' 訑尿 đi tiểu.",
+                "Một âm là 'đản'. (Tính) Ngông láo, xằng bậy. § Thông 'đản' 誕.",
+                "Lại một âm là 'đà'. (Động) Dối lừa, dối trá. ◇Chiến quốc sách 戰國策: 'Quả nhân thậm bất hỉ đà giả ngôn dã' 寡人甚不喜訑者言也 (Yên sách nhất 燕策一) Quả nhân thật là không thích lời của những người dối gạt."
+            ]
+        },
+        "đản": {
+            "Từ điển trích dẫn": [
+                "(Tính) Tự đắc.",
+                "(Động) Bài tiết. § Cũng như 'di' 遺. ◎Như: 'di niệu' 訑尿 đi tiểu.",
+                "Một âm là 'đản'. (Tính) Ngông láo, xằng bậy. § Thông 'đản' 誕.",
+                "Lại một âm là 'đà'. (Động) Dối lừa, dối trá. ◇Chiến quốc sách 戰國策: 'Quả nhân thậm bất hỉ đà giả ngôn dã' 寡人甚不喜訑者言也 (Yên sách nhất 燕策一) Quả nhân thật là không thích lời của những người dối gạt."
+            ]
+        }
+    }
+}

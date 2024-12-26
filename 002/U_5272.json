@@ -1,0 +1,107 @@
+{
+    "character": "割",
+    "details": {
+        "Âm Hán Việt": [
+            "cát"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "đao 刀 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰害⺉"
+        ],
+        "Nét bút": [
+            "丶丶フ一一一丨丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "JRLN (十口中弓)"
+        ],
+        "Unicode": [
+            "U+5272"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gē ㄍㄜ"
+        ],
+        "Âm Nôm": [
+            "cát",
+            "cắt",
+            "xắt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わ.る (wa.ru)",
+            "わり (wari)",
+            "わ.り (wa.ri)",
+            "わ.れる (wa.reru)",
+            "さ.く (sa.ku)"
+        ],
+        "Âm Hàn": [
+            "할"
+        ],
+        "Âm Quảng Đông": [
+            "got3"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển phổ thông": [
+                "cắt đứt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cắt, gặt, xẻo. ◎Như: 'cát mạch tử' 割麥子 gặt lúa mạch, 'tâm như đao cát' 心如刀割 lòng như dao cắt.",
+                "(Động) Chia, phân. ◇Đỗ Phủ 杜甫: 'Âm dương cát hôn hiểu' 陰陽割昏曉 (Vọng nhạc 望嶽) Âm dương phân chia sớm tối.",
+                "(Động) Dứt bỏ, đoạn tuyệt. ◎Như: 'cát ái' 割愛 đoạn tình, dứt bỏ điều mình yêu thích.",
+                "(Động) Tổn hại. ◎Như: 'thang thang hồng thủy phương cát' 湯湯洪水方割 mông mênh nước lụt làm hại.",
+                "(Danh) Tai họa. ◇Thư Kinh 書經: 'Thiên giáng cát vu ngã gia' 天降割于我家 (Đại cáo 大誥) Trời gieo tai họa xuống nhà ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cắt đứt.",
+                "Chia, như âm dương cát hôn hiểu 陰陽割昏曉 âm dương chia sớm tối.",
+                "Tổn hại, như thang thang hồng thuỷ phương cát 湯湯洪水方割 mông mênh nước lụt đang làm hại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cắt, gặt, dứt, xẻo, bỏ: 割盲腸 Cắt ruột thừa; 割麥子 Gặt lúa mì; 難割難捨 Khó bỏ (dứt) nhau;",
+                "(văn) Chia, phân ra: 陰陽割昏曉 Âm dương phân ra (chia ra) sớm tối;",
+                "(văn) Tổn hại, gây hại, làm hại: 湯湯洪水方割 Nước lụt mênh mông đang gây hại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy dao mà cắt ra — Chia cắt — Tai hại."
+            ],
+            "compound_words": {
+                "割愛": "cát ái",
+                "割恩": "cát ân",
+                "割據": "cát cứ",
+                "割地": "cát địa",
+                "割雞": "cát kê",
+                "割雞焉用牛刀": "cát kê yên dụng ngưu đao",
+                "割禮": "cát lễ",
+                "割裂": "cát liệt",
+                "割讓": "cát nhượng",
+                "割勢": "cát thế",
+                "割席": "cát tịch",
+                "割情": "cát tình",
+                "割線": "cát tuyến",
+                "割捨": "cát xả",
+                "犗割": "giới cát",
+                "烹割": "phanh cát",
+                "分割": "phân cát",
+                "宰割": "tể cát",
+                "收割": "thu cát"
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "character": "夠",
+    "details": {
+        "Âm Hán Việt": [
+            "câu",
+            "cú",
+            "cấu",
+            "hú"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tịch 夕 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰多句"
+        ],
+        "Nét bút": [
+            "ノフ丶ノフ丶ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "NNPR (弓弓心口)"
+        ],
+        "Unicode": [
+            "U+5920"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gòu ㄍㄡˋ"
+        ],
+        "Âm Nôm": [
+            "cấu"
+        ],
+        "Âm Quảng Đông": [
+            "gau3"
+        ]
+    },
+    "meanings": {
+        "câu": {
+            "Từ điển phổ thông": [
+                "nhiều, đầy đủ",
+                "với tay"
+            ]
+        },
+        "cú": {
+            "Từ điển phổ thông": [
+                "nhiều, đầy đủ",
+                "với tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Đủ (số lượng). ◎Như: 'giá điểm tiền bất cú mãi kiện y phục' 這點錢不夠買件衣服 số tiền đó không đủ mua bộ quần áo, 'giá bình ẩm liệu chỉ cú nhất cá nhân hát' 這瓶飲料只夠一個人喝 cái bình đồ uống đó chỉ đủ một người uống.",
+                "(Phó) Đủ, đạt tới (trình độ). ◎Như: 'cú khoái' 夠快 đủ nhanh, 'cú hảo' 夠好 đủ tốt, 'thái cú bất cú hàm?' 菜夠不夠鹹 món ăn đủ mặn chưa? ◇Bá Dương 柏楊: 'Đáo na nhất đại tài năng cú hảo khởi lai?' 到哪一代才能夠好起來 (Xú lậu đích Trung Quốc nhân 醜陋的中國人) Ðến đời nào thì mới thật khá lên được?",
+                "(Phó) Nhàm chán, ngán, ngấy. ◎Như: 'đại ngư đại nhục ngã dĩ kinh cật cú liễu' 大魚大肉我已經吃夠了 món ngon vật béo tôi đã ăn chán ngán cả rồi, 'giá chủng thoại ngã thính cú liễu' 這種話我聽夠了 những lời nói như thế tôi đã chán nghe lắm rồi.",
+                "§ Ta quen đọc là 'hú'.",
+                "§ Cũng viết là 够."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đủ, chán, nhàm: 這些錢夠不夠？ Số tiền này có đủ không?; 這些話我聽夠了 Tôi đã nghe chán những lời nói ấy rồi;",
+                "Với, với tới, với lấy: 你夠得着那樹枝嗎？ Anh có với được cành cây ấy không?; 太高了，我夠不着 Cao quá, tôi với không tới;",
+                "Khá: 這兒的土夠肥的 Đất nơi đây khá màu mỡ. Cv. 夠."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhiều — Đầy đủ — Cũng viết là 够."
+            ],
+            "compound_words": {
+                "不夠": "bất cú"
+            }
+        },
+        "cấu": {
+            "Từ điển Trần Văn Chánh": [
+                "Đủ, chán, nhàm: 這些錢夠不夠？ Số tiền này có đủ không?; 這些話我聽夠了 Tôi đã nghe chán những lời nói ấy rồi;",
+                "Với, với tới, với lấy: 你夠得着那樹枝嗎？ Anh có với được cành cây ấy không?; 太高了，我夠不着 Cao quá, tôi với không tới;",
+                "Khá: 這兒的土夠肥的 Đất nơi đây khá màu mỡ. Cv. 夠."
+            ]
+        },
+        "hú": {
+            "Từ điển phổ thông": [
+                "nhiều, đầy đủ",
+                "với tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Đủ (số lượng). ◎Như: 'giá điểm tiền bất cú mãi kiện y phục' 這點錢不夠買件衣服 số tiền đó không đủ mua bộ quần áo, 'giá bình ẩm liệu chỉ cú nhất cá nhân hát' 這瓶飲料只夠一個人喝 cái bình đồ uống đó chỉ đủ một người uống.",
+                "(Phó) Đủ, đạt tới (trình độ). ◎Như: 'cú khoái' 夠快 đủ nhanh, 'cú hảo' 夠好 đủ tốt, 'thái cú bất cú hàm?' 菜夠不夠鹹 món ăn đủ mặn chưa? ◇Bá Dương 柏楊: 'Đáo na nhất đại tài năng cú hảo khởi lai?' 到哪一代才能夠好起來 (Xú lậu đích Trung Quốc nhân 醜陋的中國人) Ðến đời nào thì mới thật khá lên được?",
+                "(Phó) Nhàm chán, ngán, ngấy. ◎Như: 'đại ngư đại nhục ngã dĩ kinh cật cú liễu' 大魚大肉我已經吃夠了 món ngon vật béo tôi đã ăn chán ngán cả rồi, 'giá chủng thoại ngã thính cú liễu' 這種話我聽夠了 những lời nói như thế tôi đã chán nghe lắm rồi.",
+                "§ Ta quen đọc là 'hú'.",
+                "§ Cũng viết là 够."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đủ, chán, nhàm: 這些錢夠不夠？ Số tiền này có đủ không?; 這些話我聽夠了 Tôi đã nghe chán những lời nói ấy rồi;",
+                "Với, với tới, với lấy: 你夠得着那樹枝嗎？ Anh có với được cành cây ấy không?; 太高了，我夠不着 Cao quá, tôi với không tới;",
+                "Khá: 這兒的土夠肥的 Đất nơi đây khá màu mỡ. Cv. 夠."
+            ]
+        }
+    }
+}

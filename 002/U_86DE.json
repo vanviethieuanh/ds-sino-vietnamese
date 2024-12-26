@@ -1,0 +1,83 @@
+{
+    "character": "蛞",
+    "details": {
+        "Âm Hán Việt": [
+            "khoát",
+            "quát"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫舌"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIHJR (中戈竹十口)"
+        ],
+        "Unicode": [
+            "U+86DE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "kuò ㄎㄨㄛˋ",
+            "shé ㄕㄜˊ"
+        ],
+        "Âm Nôm": [
+            "khoạt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)"
+        ],
+        "Âm Hàn": [
+            "활"
+        ],
+        "Âm Quảng Đông": [
+            "fut3",
+            "kut3"
+        ]
+    },
+    "meanings": {
+        "khoát": {
+            "Từ điển phổ thông": [
+                "(xem: khoát du 蛞蝓)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Khoát du” 蛞蝓 con sên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khoát du 蛞蝓 con sên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蛞蝓】khoát du [kuòyú] (Một loại) ốc sên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khoát du 蛞蝓: Con sên — Một âm là Quát."
+            ],
+            "compound_words": {
+                "蛞蝓": "khoát du"
+            }
+        },
+        "quát": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quát lâu 蛞螻: Con ve sầu — Một âm là Khoát. Xem Khoát."
+            ],
+            "compound_words": {
+                "蛞螻": "quát lâu"
+            }
+        }
+    }
+}

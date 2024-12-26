@@ -1,0 +1,101 @@
+{
+    "character": "託",
+    "details": {
+        "Âm Hán Việt": [
+            "thác"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言乇"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一フ"
+        ],
+        "Thương Hiệt": [
+            "YRHP (卜口竹心)"
+        ],
+        "Unicode": [
+            "U+8A17"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tuō ㄊㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "thác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かこつ.ける (kakotsu.keru)",
+            "かこ.つ (kako.tsu)",
+            "かこ.つける (kako.tsukeru)"
+        ],
+        "Âm Hàn": [
+            "탁"
+        ],
+        "Âm Quảng Đông": [
+            "tok3"
+        ]
+    },
+    "meanings": {
+        "thác": {
+            "Từ điển phổ thông": [
+                "nhờ cậy, phó thác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gởi. ◇Đỗ Phủ 杜甫: 'An đắc như điểu hữu vũ sí, Thác thân bạch vân hoàn cố hương' 安得如鳥有羽翅, 託身白雲還故鄉 (Đại mạch hành 大麥行) Sao được như chim có lông cánh, Gởi thân mây trắng về cố hương.",
+                "(Động) Giao cho, giao phó, ủy nhậm. ◎Như: 'thác phó' 託付 giao cho. ◇Luận Ngữ 論語: 'Khả dĩ thác lục xích chi cô, khả dĩ kí bách lí chi mệnh' 可以託六尺之孤, 可以寄百里之命 (Thái Bá 泰伯) Có thể giao phó đứa con côi cao sáu thước, có thể giao cho vận mệnh một nước rộng trăm dặm.",
+                "(Động) Thỉnh cầu, yêu cầu. ◎Như: 'tha thác ngã mãi thư' 他託我買書 nó yêu cầu tôi mua sách giùm.",
+                "(Động) Mượn. ◎Như: 'thác danh' 託名: mạo danh, 'thác phúng' 託諷 mượn việc khác để bày tỏ ý mình.",
+                "(Động) Nhờ, dựa vào. ◎Như: 'thác phúc' 託福 nhờ ơn. ◇Tam quốc diễn nghĩa 三國演義: 'Thần thác bệ hạ hồng phúc, tất cầm Công Tôn Uyên dĩ hiến bệ hạ' 臣託陛下洪福, 必擒公孫淵以獻陛下 (Hồi 106) Thần nhờ hồng phúc của bệ hạ, tất bắt được Công Tôn Uyên đem nộp cho bệ hạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhờ, gửi hình tích mình ở bên ngoài gọi là thác túc 託足.",
+                "Thỉnh cầu, phó thác, nghĩa là nhờ người khác trông nom hộ, là uỷ thác cho người khác làm hộ.",
+                "Thác ra, mượn cớ. Như giả thác 假託 mượn cớ mà từ chối, thác phúng 託諷 lấy cái khác mà nói giễu người."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhờ: 託福 Nhờ ơn;",
+                "Ủy thác;",
+                "Thỉnh cầu, yêu cầu: 他託我買書 Nó yêu cầu tôi mua sách cho nó;",
+                "Gởi;",
+                "Vin, thác, mượn cớ;",
+                "(Người chết) hiện về (trong mộng);",
+                "Gởi gián tiếp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gửi gấm. Gửi tạm — Chỉ sự chết.  Đoạn trường tân thanh : » Hại thay thác xuống làm ma không chồng « — Nhờ cậy. Nhờ làm giùm. Td: uỷ thác — Giả làm. Mượn làm."
+            ],
+            "compound_words": {
+                "拜託": "bái thác",
+                "囑託": "chúc thác",
+                "詒託": "di thác",
+                "寄託": "kí thác",
+                "付託": "phó thác",
+                "推託": "suy thác",
+                "託言": "thác ngôn",
+                "託食": "thác thực",
+                "託足": "thác túc",
+                "託醉": "thác tuý",
+                "退託": "thoái thác",
+                "委託": "uỷ thác",
+                "誣託": "vu thác"
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "character": "兑",
+    "details": {
+        "Âm Hán Việt": [
+            "đoài",
+            "đoái"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 儿 (+5 nét)",
+            "bát 八 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丷兄"
+        ],
+        "Nét bút": [
+            "丶ノ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "XCRHU (重金口竹山)"
+        ],
+        "Unicode": [
+            "U+5151"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "duì ㄉㄨㄟˋ",
+            "ruì ㄖㄨㄟˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "đoài"
+        ],
+        "Âm Quảng Đông": [
+            "deoi3"
+        ]
+    },
+    "meanings": {
+        "đoài": {
+            "Từ điển phổ thông": [
+                "quẻ Đoài (thượng khuyết) trong Kinh Dịch (chỉ có vạch trên đứt, tượng Trạch (đầm), tượng trưng cho con gái út, hành Kim và Thuỷ, tuổi Dậu, hướng Tây)"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một cách viết của chữ Đoài 兌."
+            ]
+        },
+        "đoái": {
+            "Từ điển phổ thông": [
+                "đổi",
+                "chi, trả"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 兌."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một cách viết của chữ Đoái 兌."
+            ],
+            "compound_words": {
+                "兑换": "đoái hoán"
+            }
+        }
+    }
+}

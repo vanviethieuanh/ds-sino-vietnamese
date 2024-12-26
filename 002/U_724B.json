@@ -1,0 +1,75 @@
+{
+    "character": "牋",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "phiến 片 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰片戔"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一フノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LLII (中中戈戈)"
+        ],
+        "Unicode": [
+            "U+724B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "tiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "nêu, mốc",
+                "giấy viết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên một thể văn dùng để tâu lên vua. § Cũng như 'tiên' 箋.",
+                "(Danh) Thư từ, công văn. § Cũng như 'tiên' 箋."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nêu, mốc.",
+                "Xem chữ tiên 箋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nêu, mốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tiên 箋."
+            ],
+            "compound_words": {
+                "錦牋": "cẩm tiên"
+            }
+        }
+    }
+}

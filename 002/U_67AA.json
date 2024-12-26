@@ -1,0 +1,86 @@
+{
+    "character": "枪",
+    "details": {
+        "Âm Hán Việt": [
+            "sang",
+            "sanh",
+            "thương"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱木仓"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丶フフ"
+        ],
+        "Thương Hiệt": [
+            "DOSU (木人尸山)"
+        ],
+        "Unicode": [
+            "U+67AA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chēng ㄔㄥ",
+            "qiāng ㄑㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "sang",
+            "thương"
+        ],
+        "Âm Quảng Đông": [
+            "coeng1"
+        ]
+    },
+    "meanings": {
+        "sang": {
+            "Từ điển phổ thông": [
+                "cái thương (binh khí)",
+                "khẩu súng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vạc ba chân (vạc để nấu thời xưa)."
+            ],
+            "compound_words": {
+                "标枪": "tiêu sang"
+            }
+        },
+        "sanh": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 槍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vạc ba chân (vạc để nấu thời xưa)."
+            ]
+        },
+        "thương": {
+            "Từ điển phổ thông": [
+                "cái thương (binh khí)",
+                "khẩu súng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 槍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 槍"
+            ],
+            "compound_words": {
+                "手枪": "thủ thương",
+                "标枪": "tiêu thương"
+            }
+        }
+    }
+}

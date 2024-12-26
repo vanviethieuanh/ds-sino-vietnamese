@@ -1,0 +1,95 @@
+{
+    "character": "糧",
+    "details": {
+        "Âm Hán Việt": [
+            "lương"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mễ 米 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米量"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶丨フ一一一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "FDAMG (火木日一土)"
+        ],
+        "Unicode": [
+            "U+7CE7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "liáng ㄌㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "lương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かて (kate)"
+        ],
+        "Âm Hàn": [
+            "량",
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "loeng4"
+        ]
+    },
+    "meanings": {
+        "lương": {
+            "Từ điển phổ thông": [
+                "cơm, lương thực"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thức ăn thuộc loại ngũ cốc, lương ăn. ◎Như: 'can lương' 乾糧 lương khô.",
+                "(Danh) Các vật dùng trong quân. ◇Tam quốc diễn nghĩa 三國演義: 'Ngô đệ Viên Thuật tổng đốc lương thảo, ứng phó chư doanh, vô sử hữu khuyết' 吾弟袁術總督糧草, 應付諸營, 無使有缺 (Đệ ngũ hồi) Em ta là Viên Thuật, coi việc lương thảo, ứng cấp các trại không được thiếu thốn.",
+                "(Danh) Thuế ruộng. § Tục viết là 粮. ◎Như: 'nạp lương' 納糧 thu thuế ruộng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thức ăn, lương ăn. Thức ăn lúc đi đường gọi là lương 糧, lúc ở ngay nhà gọi là thực 食. Nay gọi các vật dùng trong quân là lương.",
+                "Thuế ruộng, tục viết là 粮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lương, lương thực, thức ăn: 乾糧 Lương khô; 餘糧 Lương thực thừa;",
+                "Thuế ruộng, thuế nông nghiệp (bằng lương thực): 交公糧 Đóng thuế nông nghiệp, làm nghĩa vụ lương thực."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung các loại lúa gạo để ăn — Cũng chỉ thuế ruộng — Lúa gạo cấp cho quan lại, binh lính."
+            ],
+            "compound_words": {
+                "兵糧": "binh lương",
+                "給糧": "cấp lương",
+                "屯糧": "đồn lương",
+                "口糧": "khẩu lương",
+                "糧俸": "lương bổng",
+                "糧餉": "lương hướng",
+                "糧草": "lương thảo",
+                "糧食": "lương thực",
+                "月糧": "nguyệt lương",
+                "饋貧糧": "quỹ bần lương",
+                "芻糧": "sô lương",
+                "載糧": "tải lương",
+                "貯糧": "trữ lương",
+                "絶糧": "tuyệt lương",
+                "運糧": "vận lương"
+            }
+        }
+    }
+}

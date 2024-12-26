@@ -1,0 +1,78 @@
+{
+    "character": "垃",
+    "details": {
+        "Âm Hán Việt": [
+            "lạp",
+            "lập"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thổ 土 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土立"
+        ],
+        "Nét bút": [
+            "一丨一丶一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "GYT (土卜廿)"
+        ],
+        "Unicode": [
+            "U+5783"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lā ㄌㄚ"
+        ],
+        "Âm Nôm": [
+            "lạp",
+            "lắp",
+            "lấp",
+            "lọp",
+            "lớp",
+            "rập"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラツ (ratsu)"
+        ],
+        "Âm Quảng Đông": [
+            "laap6"
+        ]
+    },
+    "meanings": {
+        "lạp": {
+            "Từ điển phổ thông": [
+                "rác rưởi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “lạp sắc” 垃圾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xem chữ ngập 圾 ở trên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rác rến, rác rưởi. 【垃圾】lạp ngập [laji] Bụi bặm chồng chất;",
+                "Rác, rác rưởi: 焚化垃圾 Đốt rác."
+            ],
+            "compound_words": {
+                "垃圾": "lạp sắc"
+            }
+        },
+        "lập": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái rãnh không lối thoát."
+            ]
+        }
+    }
+}

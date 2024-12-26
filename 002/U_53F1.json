@@ -1,0 +1,86 @@
+{
+    "character": "叱",
+    "details": {
+        "Âm Hán Việt": [
+            "sất"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口𠤎"
+        ],
+        "Nét bút": [
+            "丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "RP (口心)"
+        ],
+        "Unicode": [
+            "U+53F1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ"
+        ],
+        "Âm Nôm": [
+            "sất",
+            "sớt",
+            "sứt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)",
+            "シチ (shichi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しか.る (shika.ru)"
+        ],
+        "Âm Hàn": [
+            "질"
+        ],
+        "Âm Quảng Đông": [
+            "cik1"
+        ]
+    },
+    "meanings": {
+        "sất": {
+            "Từ điển phổ thông": [
+                "quát, thét"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quát. ◎Như: 'sất trá' 叱吒 quát thét. ◇Nguyễn Du 阮攸: 'Phong vũ do văn sất trá thanh' 風雨猶聞叱吒聲 (Sở Bá Vương mộ 楚霸王墓) Trong mưa gió còn nghe tiếng thét gào.",
+                "(Động) Kêu lên. ◎Như: 'sất danh thỉnh an' 叱名請安 kêu tên mình lên mà hỏi thăm người trên (trong thư từ thường dùng)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quát.",
+                "Kêu lên. Như sất danh thỉnh an 叱名請安 kêu tên mình lên mà hỏi thăm người trên (trong thư từ thường dùng)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "La, hét, quát mắng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "La lớn. Hét lên."
+            ],
+            "compound_words": {
+                "喑啞叱咤": "ấm á sất sá",
+                "喝叱": "hát sất",
+                "叱咤": "sất sá",
+                "叱叱": "sất sất",
+                "叱吒": "sất trá",
+                "叱責": "sất trách",
+                "叱责": "sất trách"
+            }
+        }
+    }
+}

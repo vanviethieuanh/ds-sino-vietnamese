@@ -1,0 +1,85 @@
+{
+    "character": "渐",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêm",
+            "tiềm",
+            "tiệm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿲⺡车斤"
+        ],
+        "Nét bút": [
+            "丶丶一一フ丨一ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "EKQL (水大手中)"
+        ],
+        "Unicode": [
+            "U+6E10"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ",
+            "jiān ㄐㄧㄢ",
+            "jiàn ㄐㄧㄢˋ",
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "tiêm"
+        ],
+        "Âm Quảng Đông": [
+            "zim1",
+            "zim6"
+        ]
+    },
+    "meanings": {
+        "tiêm": {
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 漸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 漸"
+            ]
+        },
+        "tiềm": {
+            "Từ điển phổ thông": [
+                "nhúng vào nước",
+                "thấm, tẩm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 漸."
+            ]
+        },
+        "tiệm": {
+            "Từ điển phổ thông": [
+                "dần dần",
+                "sông Tiệm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 漸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 漸"
+            ],
+            "compound_words": {
+                "日渐": "nhật tiệm",
+                "渐进": "tiệm tiến"
+            }
+        }
+    }
+}

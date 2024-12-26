@@ -1,0 +1,130 @@
+{
+    "character": "参",
+    "details": {
+        "Âm Hán Việt": [
+            "sam",
+            "sâm",
+            "tam",
+            "tham",
+            "xam"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khư 厶 (+6 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình & hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿱厶大彡"
+        ],
+        "Nét bút": [
+            "フ丶一ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "IKHHH (戈大竹竹竹)"
+        ],
+        "Unicode": [
+            "U+53C2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cān ㄘㄢ",
+            "cēn ㄘㄣ",
+            "dēn ㄉㄣ",
+            "sān ㄙㄢ",
+            "sǎn ㄙㄢˇ",
+            "shān ㄕㄢ",
+            "shēn ㄕㄣ"
+        ],
+        "Âm Nôm": [
+            "khươm",
+            "sâm",
+            "tham"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まい.る (mai.ru)",
+            "まい- (mai-)",
+            "まじわる (majiwaru)",
+            "みつ (mitsu)"
+        ],
+        "Âm Hàn": [
+            "삼",
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "caam1",
+            "sam1"
+        ]
+    },
+    "meanings": {
+        "sam": {
+            "Từ điển phổ thông": [
+                "tua cờ"
+            ]
+        },
+        "sâm": {
+            "Từ điển phổ thông": [
+                "cỏ sâm (thứ cỏ quý, lá như bàn tay, hoa trắng, dùng làm thuốc)",
+                "sao Sâm (một trong Nhị thập bát tú)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 參."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sao Sâm: 參商 Sao Sâm và sao Thương (hễ sao này mọc thì sao kia lặn, không bao giờ thấy nhau). (Ngr) Xa cách không bao giờ gặp nhau;",
+                "Nhân sâm (nói tắt). Xem 參 [can], [cen]."
+            ],
+            "compound_words": {
+                "人参": "nhân sâm",
+                "参差": "sâm si"
+            }
+        },
+        "tam": {
+            "Từ điển phổ thông": [
+                "ba, 3"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 叁."
+            ]
+        },
+        "tham": {
+            "Từ điển phổ thông": [
+                "can dự, tham gia"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 參."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tham gia, gia nhập, xen vào, dự: 參加工會 Gia nhập công đoàn; 參加會議 Dự hội nghị;",
+                "Yết kiến, vào hầu: 參見 Yết kiến;",
+                "Tham khảo, xem: 參看 Tham khảo, xem thêm... Xem 參 [cen], [shen]."
+            ],
+            "compound_words": {
+                "参与": "tham dữ",
+                "参预": "tham dự",
+                "参加": "tham gia",
+                "参考": "tham khảo",
+                "参谋": "tham mưu",
+                "参观": "tham quan",
+                "参赞": "tham tán"
+            }
+        },
+        "xam": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 參."
+            ]
+        }
+    }
+}

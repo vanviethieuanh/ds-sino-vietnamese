@@ -1,0 +1,66 @@
+{
+    "character": "护",
+    "details": {
+        "Âm Hán Việt": [
+            "hộ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘户"
+        ],
+        "Nét bút": [
+            "一丨一丶フ一ノ"
+        ],
+        "Thương Hiệt": [
+            "QIS (手戈尸)"
+        ],
+        "Unicode": [
+            "U+62A4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hù ㄏㄨˋ"
+        ],
+        "Âm Nôm": [
+            "hộ"
+        ],
+        "Âm Quảng Đông": [
+            "wu6"
+        ]
+    },
+    "meanings": {
+        "hộ": {
+            "Từ điển phổ thông": [
+                "che chở, bảo vệ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 護."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 護"
+            ],
+            "compound_words": {
+                "爱护": "ái hộ",
+                "保护": "bảo hộ",
+                "辩护": "biện hộ",
+                "护照": "hộ chiếu",
+                "护卫": "hộ vệ",
+                "庇护": "tý hộ",
+                "拥护": "ủng hộ"
+            }
+        }
+    }
+}

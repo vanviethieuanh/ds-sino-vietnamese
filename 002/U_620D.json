@@ -1,0 +1,86 @@
+{
+    "character": "戍",
+    "details": {
+        "Âm Hán Việt": [
+            "thú"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "qua 戈 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵戊丶"
+        ],
+        "Nét bút": [
+            "一ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "IHI (戈竹戈)"
+        ],
+        "Unicode": [
+            "U+620D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shù ㄕㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まもり (mamori)",
+            "まも.る (mamo.ru)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "syu3"
+        ]
+    },
+    "meanings": {
+        "thú": {
+            "Từ điển phổ thông": [
+                "lính thú"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phòng thủ, đóng giữ (ngoài biên cương). ◇Đỗ Phủ 杜甫: 'Tam nam Nghiệp thành thú' 三男鄴城戍 (Thạch Hào lại 石壕吏) Ba con trai đi đóng thú ở Nghiệp thành.",
+                "(Danh) Lính phải ra đóng canh phòng ngoài biên ải. ◎Như: 'trích thú' 讁戍 có tội bị đày ra ngoài biên làm lính thú.",
+                "(Danh) Lính bảo vệ, người thủ vệ.",
+                "(Danh) Tên một đơn vị quân doanh dưới thời nhà Đường. ◇Vương Phổ 王溥: 'Phàm thiên hạ quân hữu tứ thập, phủ hữu lục bách tam thập tứ, trấn hữu tứ bách ngũ thập, thú ngũ bách cửu thập' 凡天下軍有四十, 府有六百三十四, 鎮有四百五十, 戍五百九十 (Đường hội yếu 唐會要, Châu huyện phân vọng đạo 州縣分望道) Phàm thiên hạ quân có bốn mươi, phủ có sáu trăm ba mươi bốn, trấn có bốn trăm năm mươi, thú có năm trăm chín mươi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðóng thú, lính phải ra đóng canh phòng ngoài biên gọi là lính thú. Có tội bị đầy ra ngoài biên làm lính thú gọi là trích thú 謫戍.",
+                "Ở, nhà ở."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phòng giữ, đóng thú (đóng quân canh phòng ngoài biên ải): 戍邊 Phòng giữ (bảo vệ) biên cương; 衛戍 Bảo vệ, cảnh vệ; 三男鄴城戍 Ba con trai đều đi đóng thú ở Nghiệp Thành (Đỗ Phủ: Thạch Hào lại)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đóng binh ở biên giới — Người lính đóng ở biên giới, ta cũng gọi là Lính thú."
+            ],
+            "compound_words": {
+                "边戍": "biên thú",
+                "邊戍": "biên thú",
+                "征戍": "chinh thú",
+                "屯戍": "đồn thú",
+                "遣戍": "khiển thú",
+                "謫戍": "trích thú"
+            }
+        }
+    }
+}

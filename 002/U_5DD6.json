@@ -1,0 +1,101 @@
+{
+    "character": "巖",
+    "details": {
+        "Âm Hán Việt": [
+            "nham"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "sơn 山 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱山嚴"
+        ],
+        "Nét bút": [
+            "丨フ丨丨フ一丨フ一一ノフ一丨丨一一一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "URRK (山口口大)"
+        ],
+        "Unicode": [
+            "U+5DD6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "ngồm",
+            "nham",
+            "nhem",
+            "nhom"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガン (gan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いわ (iwa)",
+            "いわお (iwao)",
+            "けわ.しい (kewa.shii)"
+        ],
+        "Âm Hàn": [
+            "암",
+            "엄"
+        ],
+        "Âm Quảng Đông": [
+            "ngaam4"
+        ]
+    },
+    "meanings": {
+        "nham": {
+            "Từ điển phổ thông": [
+                "núi cao ngất",
+                "nơi hiểm yếu",
+                "hang núi",
+                "thạch đá, đá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Núi cao ngất.",
+                "(Danh) Hang núi, động. ◇Âu Dương Tu 歐陽修: 'Nhược phù nhật xuất nhi lâm phi khai, vân quy nhi nham huyệt minh' 若夫日出而林霏開, 雲歸而巖穴暝 (Túy Ông đình kí 醉翁亭記) Mặt trời mọc mà màn sương rừng hé mở, mây bay về mà hang hóa sâu tối.",
+                "(Tính) Hiểm yếu. ◎Như: 'nham ấp' 巖邑 ấp hiểm yếu.",
+                "(Tính) Cao mà hiểm yếu. ◎Như: 'nham tường' 巖牆 tường cao ngất. ◇Mạnh Tử 孟子: 'Thị cố tri mệnh giả, bất lập hồ nham tường chi hạ' 是故知命者, 不立乎巖牆之下 (Tận tâm thượng 盡心上) Cho nên người biết mệnh, không đứng dưới tường cao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Núi cao ngất trời gọi là nham.",
+                "Chỗ đất hiểm yếu gọi là nham ấp 巖邑.",
+                "Nham lang 巖廊 mái hiên cao. Dưới mái hiên gọi là nham hạ 巖下.",
+                "Hang núi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vách núi: 七星巖 Vách núi Thất Tinh (ở Quảng Đông, Trung Quốc);",
+                "Đá: 花崗巖 Đá hoa cương, đá granit. Cv. 巗，巌，岢，喦."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đá núi — Sườn núi — Khó khăn hiểm trở.» Hẹn cùng ta Lũng tây nham ấy « ( Chinh phụ )."
+            ],
+            "compound_words": {
+                "巖居": "nham cư",
+                "巖野": "nham dã",
+                "巖磴": "nham đặng",
+                "巖洞": "nham động",
+                "巖險": "nham hiểm",
+                "巖穴": "nham huyệt",
+                "巖石": "nham thạch",
+                "巖泉": "nham tuyền",
+                "巖牆": "nham tường",
+                "儳巖": "sàm nham",
+                "巉巖": "sàm nham"
+            }
+        }
+    }
+}

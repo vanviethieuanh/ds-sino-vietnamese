@@ -1,0 +1,49 @@
+{
+    "character": "蚇",
+    "details": {
+        "Âm Hán Việt": [
+            "xích"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trùng 虫 (+4 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫尺"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LISO (中戈尸人)"
+        ],
+        "Unicode": [
+            "U+8687"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chǐ ㄔˇ"
+        ]
+    },
+    "meanings": {
+        "xích": {
+            "Từ điển phổ thông": [
+                "(xem: xích hoạch 蚇蠖)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蚇蠖】xích hoạch [chêhuò] (động) Sâu đo. Cv. 尺蠖;",
+                "Co duỗi."
+            ],
+            "compound_words": {
+                "蚇蠖": "xích hoạch"
+            }
+        }
+    }
+}

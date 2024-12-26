@@ -1,0 +1,76 @@
+{
+    "character": "鶬",
+    "details": {
+        "Âm Hán Việt": [
+            "thương"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰倉鳥"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一ノ丨フ一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "ORHAF (人口竹日火)"
+        ],
+        "Unicode": [
+            "U+9DAC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cāng ㄘㄤ",
+            "qiāng ㄑㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "thương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まなづる (manazuru)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "cong1"
+        ]
+    },
+    "meanings": {
+        "thương": {
+            "Từ điển phổ thông": [
+                "(xem: thương quát 鶬鴰,鸧鸹)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Thương canh' 鶬鶊 tên riêng của chim 'hoàng oanh' 黃鶯.",
+                "(Danh) 'Thương quát' 鶬鴰 loại chim giống như hạc, mỏ và cánh rất dài, từ cổ trở lên màu trắng, phần lông cánh còn lại màu tro hoặc tro thẫm, chung quanh mắt màu đỏ. § Còn gọi là 'bạch đính hạc' 白頂鶴."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thương quát 鶬鴰 con dang. Xem chữ quát 鴰."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim vàng anh. Cg. 鶬鶊 [canggeng]."
+            ],
+            "compound_words": {
+                "鶬鶊": "thương canh",
+                "鶬鴰": "thương quát"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "曀",
+    "details": {
+        "Âm Hán Việt": [
+            "ê",
+            "ý",
+            "ế"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nhật 日 (+12 nét)"
+        ],
+        "Hình thái": [
+            "⿰日壹"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨一丶フ一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "AGBT (日土月廿)"
+        ],
+        "Unicode": [
+            "U+66C0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ế",
+            "nhợt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エイ (ei)",
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くも.る (kumo.ru)"
+        ],
+        "Âm Hàn": [
+            "에"
+        ],
+        "Âm Quảng Đông": [
+            "ai3",
+            "ngai3"
+        ]
+    },
+    "meanings": {
+        "ê": {
+            "Từ điển phổ thông": [
+                "trời râm, mặt trời khuất mây"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Âm u (tiết trời).",
+                "(Tính) Hôn ám, không rõ ràng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trời âm thầm mà có gió."
+            ],
+            "compound_words": {
+                "陰曀": "âm ê"
+            }
+        },
+        "ý": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trời u ám. Cũng đọc Ế."
+            ],
+            "compound_words": {
+                "曀曀": "ý ý"
+            }
+        },
+        "ế": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Trời) âm u và có gió."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trời u ám. Cũng đọc Ý."
+            ]
+        }
+    }
+}

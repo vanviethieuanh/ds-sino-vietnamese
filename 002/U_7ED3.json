@@ -1,0 +1,78 @@
+{
+    "character": "结",
+    "details": {
+        "Âm Hán Việt": [
+            "kết"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mịch 糸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟吉"
+        ],
+        "Nét bút": [
+            "フフ一一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "VMGR (女一土口)"
+        ],
+        "Unicode": [
+            "U+7ED3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ",
+            "jiē ㄐㄧㄝ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "kết"
+        ],
+        "Âm Quảng Đông": [
+            "git3"
+        ]
+    },
+    "meanings": {
+        "kết": {
+            "Từ điển phổ thông": [
+                "thắt nút",
+                "kết, bó",
+                "liên kết",
+                "kết hợp",
+                "ra quả, kết quả"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 結."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kết quả, ra trái, có quả. Xem 結 [jié]."
+            ],
+            "compound_words": {
+                "巴结": "ba kết",
+                "甘结": "cam kết",
+                "打结": "đả kết",
+                "团结": "đoàn kết",
+                "喉结": "hầu kết",
+                "结构": "kết cấu",
+                "结义": "kết nghĩa",
+                "结果": "kết quả",
+                "结亲": "kết thân",
+                "结束": "kết thúc",
+                "联结": "liên kết",
+                "小结": "tiểu kết",
+                "总结": "tổng kết"
+            }
+        }
+    }
+}

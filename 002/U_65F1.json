@@ -1,0 +1,87 @@
+{
+    "character": "旱",
+    "details": {
+        "Âm Hán Việt": [
+            "hạn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhật 日 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱日干"
+        ],
+        "Nét bút": [
+            "丨フ一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "AMJ (日一十)"
+        ],
+        "Unicode": [
+            "U+65F1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hạn",
+            "khan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひでり (hideri)"
+        ],
+        "Âm Hàn": [
+            "한"
+        ],
+        "Âm Quảng Đông": [
+            "hon5"
+        ]
+    },
+    "meanings": {
+        "hạn": {
+            "Từ điển phổ thông": [
+                "nắng",
+                "hạn hán, cạn khô"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nắng mãi không mưa. ◇Nguyễn Du 阮攸: 'Ngô văn nội cố tần niên khổ hoang hạn' 吾聞內顧頻年苦荒旱 (Trở binh hành 阻兵行) Ta nghe dân trong vùng nhiều năm khổ đại hạn.",
+                "(Tính) Khô, cạn. ◎Như 'khí hậu can hạn' 氣候乾旱 thời tiết khô cạn.",
+                "(Tính) Thuộc về đường bộ. ◎Như: 'hạn lộ' 旱路 đường bộ. ◇Thủy hử truyện 水滸傳: 'Thử gian yêu khứ Lương san bạc tuy chỉ sổ lí, khước thị thủy lộ, toàn vô hạn lộ' 此間要去梁山泊雖只數里, 卻是水路, 全無旱路 (Đệ thập nhất hồi) Từ đây đến Lương Sơn Bạc tuy chỉ có vài dặm, nhưng đều là đường thủy, hoàn toàn không có đường bộ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðại hạn, nắng mãi không mưa gọi là hạn.",
+                "Cạn, như hạn lộ 旱路 đường cạn, đường bộ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hạn, hạn hán (nắng lâu không có mưa): 防旱 Chống hạn; 天旱 Trời hạn; 旱澇保收 Đảm bảo thu hoạch dù hạn hay lụt;",
+                "Khô, cạn.【旱田】hạn điền [hàntián] Ruộng khô, ruộng nương, ruộng cạn, đất nương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nắng lâu không mưa. Chẳng hạn Đại hạn — Trên bờ, trên cạn ( trái với dưới nước )."
+            ],
+            "compound_words": {
+                "久旱逢甘雨": "cửu hạn phùng cam vũ",
+                "大旱": "đại hạn",
+                "大旱望雲霓": "đại hạn vọng vân nghê",
+                "旱海": "hạn hải",
+                "旱石": "hạn thạch",
+                "亢旱": "kháng hạn",
+                "乾旱": "kiền hạn"
+            }
+        }
+    }
+}

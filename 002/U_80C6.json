@@ -1,0 +1,85 @@
+{
+    "character": "胆",
+    "details": {
+        "Âm Hán Việt": [
+            "đàn",
+            "đảm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月旦"
+        ],
+        "Nét bút": [
+            "ノフ一一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "BAM (月日一)"
+        ],
+        "Unicode": [
+            "U+80C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dá ㄉㄚˊ",
+            "dǎn ㄉㄢˇ",
+            "tán ㄊㄢˊ",
+            "tǎn ㄊㄢˇ"
+        ],
+        "Âm Nôm": [
+            "đảm",
+            "đưỡn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きも (kimo)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daam2"
+        ]
+    },
+    "meanings": {
+        "đàn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước miếng — Một âm là Đảm, tức trái mật, viết tắt của chữ Đảm 膽."
+            ]
+        },
+        "đảm": {
+            "Từ điển phổ thông": [
+                "quả mật"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'đảm' 膽.",
+                "Giản thể của chữ 膽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ đảm 膽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 膽"
+            ],
+            "compound_words": {
+                "肝胆": "can đảm",
+                "大胆": "đại đảm",
+                "胆矾": "đảm phàn"
+            }
+        }
+    }
+}

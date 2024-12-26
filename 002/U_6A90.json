@@ -1,0 +1,106 @@
+{
+    "character": "檐",
+    "details": {
+        "Âm Hán Việt": [
+            "diêm",
+            "thiềm"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mộc 木 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木詹"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノフ一ノノ丶丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "DNCR (木弓金口)"
+        ],
+        "Unicode": [
+            "U+6A90"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dān ㄉㄢ",
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "diêm",
+            "thềm",
+            "thiềm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)",
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のき (noki)",
+            "ひさし (hisashi)"
+        ],
+        "Âm Hàn": [
+            "첨"
+        ],
+        "Âm Quảng Đông": [
+            "gim2",
+            "jam4",
+            "jim4"
+        ]
+    },
+    "meanings": {
+        "diêm": {
+            "Từ điển phổ thông": [
+                "mái hiên, mái nhà",
+                "vành mũ, diềm mũ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng như chữ 簷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mái tranh, giọt tranh.",
+                "Vành mũ, ta quen đọc là chữ thiềm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mái (nhà), hiên, mái hiên: 在屋檐下 Dưới mái hiên;",
+                "Vành (nón...)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái mái hiên chìa ra — Phàm cái gì che vật khác, trông như cái mái nhà đều gọi là Diêm — Cái hành lang."
+            ]
+        },
+        "thiềm": {
+            "Từ điển phổ thông": [
+                "mái hiên, mái nhà",
+                "vành mũ, diềm mũ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng như chữ 簷."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mái tranh, giọt tranh.",
+                "Vành mũ, ta quen đọc là chữ thiềm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mái (nhà), hiên, mái hiên: 在屋檐下 Dưới mái hiên;",
+                "Vành (nón...)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mái hiên nhà."
+            ],
+            "compound_words": {
+                "屋檐": "ốc thiềm"
+            }
+        }
+    }
+}

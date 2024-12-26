@@ -1,0 +1,72 @@
+{
+    "character": "厅",
+    "details": {
+        "Âm Hán Việt": [
+            "sảnh",
+            "thính"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "hán 厂 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厂丁"
+        ],
+        "Nét bút": [
+            "一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "MMN (一一弓)"
+        ],
+        "Unicode": [
+            "U+5385"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tīng ㄊㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "sảnh"
+        ],
+        "Âm Quảng Đông": [
+            "teng1"
+        ]
+    },
+    "meanings": {
+        "sảnh": {
+            "Từ điển phổ thông": [
+                "phòng khách",
+                "chỗ quan ngồi làm việc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 廳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 廳"
+            ],
+            "compound_words": {
+                "大厅": "đại sảnh",
+                "客厅": "khách sảnh"
+            }
+        },
+        "thính": {
+            "Từ điển phổ thông": [
+                "phòng khách",
+                "chỗ quan ngồi làm việc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 廳."
+            ]
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "塌",
+    "details": {
+        "Âm Hán Việt": [
+            "tháp"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thổ 土 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土𦐇"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一フ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "GASM (土日尸一)"
+        ],
+        "Unicode": [
+            "U+584C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tā ㄊㄚ"
+        ],
+        "Âm Nôm": [
+            "tháp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Hàn": [
+            "탑"
+        ],
+        "Âm Quảng Đông": [
+            "taap3"
+        ]
+    },
+    "meanings": {
+        "tháp": {
+            "Từ điển phổ thông": [
+                "đất trũng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đổ, sụp, sập, vỡ lở. ◎Như: 'đảo tháp' 倒塌 đổ sập, 'tường tháp liễu' 墻塌了 tường đổ rồi. ◇Tam quốc diễn nghĩa 三國演義: 'Chúng chư hầu thính đắc quan ngoại cổ thanh đại chấn, hảm thanh đại cử, như thiên tồi địa tháp' 眾諸侯聽得關外鼓聲大振, 喊聲大舉, 如天摧地塌 (Đệ ngũ hồi) Các chư hầu nghe thấy ngoài cửa quan tiếng trống rung chuyển, tiếng la hét ầm ĩ, như trời long đất lở.",
+                "(Động) Hóp, hõm, lõm. ◎Như: 'sấu đắc lưỡng nhãn đô tháp tiến khứ liễu' 瘦得兩眼都塌進去了 gầy đến nỗi hai mắt hõm cả vào trong.",
+                "(Động) Suy yếu, suy kém. ◎Như: 'lô tử lí cửu bất thiêm thán, hỏa tháp liễu' 爐子裡久不添炭, 火塌了 trong lò lâu không thêm than, lửa cháy yếu rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðất trũng.",
+                "Xã ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đổ, sụp, sụt: 墻塌了 Tường đổ rồi;",
+                "Đất trũng;",
+                "Hóp, lõm, rủ, rũ, cụp, thòng xuống: 兩腮都塌下去了 Hóp cả hai má; 垂頭塌翼 Rủ đầu cụp cánh;",
+                "Yên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rơi xuống — Ở dưới đất."
+            ],
+            "compound_words": {
+                "崩塌": "băng tháp",
+                "倒塌": "đảo tháp",
+                "塌下": "tháp hạ",
+                "死心塌地": "tử tâm tháp địa"
+            }
+        }
+    }
+}

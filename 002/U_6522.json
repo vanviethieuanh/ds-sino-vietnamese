@@ -1,0 +1,107 @@
+{
+    "character": "攢",
+    "details": {
+        "Âm Hán Việt": [
+            "toàn",
+            "toản"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "thủ 手 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘贊"
+        ],
+        "Nét bút": [
+            "一丨一ノ一丨一ノフノ一丨一ノフ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QHUC (手竹山金)"
+        ],
+        "Unicode": [
+            "U+6522"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cuán ㄘㄨㄢˊ",
+            "zǎn ㄗㄢˇ",
+            "zuān ㄗㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "quần",
+            "toản"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.まる (atsu.maru)"
+        ],
+        "Âm Hàn": [
+            "찬"
+        ],
+        "Âm Quảng Đông": [
+            "cyun4",
+            "zaan2"
+        ]
+    },
+    "meanings": {
+        "toàn": {
+            "Từ điển phổ thông": [
+                "họp lại, tích góp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tập họp, tụ tập, gom góp. ◎Như: 'toàn tích' 攢積 tích tụ, 'toàn tiền' 攢錢 gom góp tiền, 'toàn nga' 攢蛾 cau mày. ◇Tây du kí 西遊記: 'Ngã tiền nhật tằng văn đắc Sa Tăng thuyết, tha toàn liễu ta tư phòng, bất tri khả hữu phủ' 我前日曾聞得沙僧說, 他攢了些私房, 不知可有否 (Đệ thất thập lục hồi) Ta trước đây từng nghe Sa Tăng nói, y hay góp nhặt dành dụm vốn riêng, không biết có hay không.",
+                "(Động) Kết toán. ◎Như: 'toàn trướng' 攢賬 tổng kết sổ sách.",
+                "(Động) Ráp nối. ◎Như: 'tự kỉ toàn nhất lượng tự hành xa' 自己攢一輛自行車 tự mình ráp nối thành một chiếc xe đạp.",
+                "(Động) Cầm, nắm. ◎Như: 'toàn trước' 攢著 nắm giữ, 'toàn định' 攢定 liệu định.",
+                "(Danh) Lượng từ: đôi, bó, nắm, xấp. ◎Như: 'hoa nhất toàn cẩm nhất thốc' 花一攢錦一簇 hoa một bó gấm một xấp.",
+                "Một âm là 'toản'. (Động) Khoét, đục. Cũng như 'toản' 鑽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Họp lại, tích góp.",
+                "Một âm là toản. cũng như chữ toản 鑽 khoét."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gom góp, chắp vá, họp lại: 攢錢 Góp tiền; 買些另件攢成一輛自行車 Mua phụ tùng về chắp vá (lắp ráp) thành chiếc xe đạp. Xem 攢 [zăn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom nhặt. Lượm lặt. Td: Toàn tập ( thu nhặt )."
+            ],
+            "compound_words": {
+                "攢萃": "toàn tuỵ"
+            }
+        },
+        "toản": {
+            "Từ điển trích dẫn": [
+                "(Động) Tập họp, tụ tập, gom góp. ◎Như: 'toàn tích' 攢積 tích tụ, 'toàn tiền' 攢錢 gom góp tiền, 'toàn nga' 攢蛾 cau mày. ◇Tây du kí 西遊記: 'Ngã tiền nhật tằng văn đắc Sa Tăng thuyết, tha toàn liễu ta tư phòng, bất tri khả hữu phủ' 我前日曾聞得沙僧說, 他攢了些私房, 不知可有否 (Đệ thất thập lục hồi) Ta trước đây từng nghe Sa Tăng nói, y hay góp nhặt dành dụm vốn riêng, không biết có hay không.",
+                "(Động) Kết toán. ◎Như: 'toàn trướng' 攢賬 tổng kết sổ sách.",
+                "(Động) Ráp nối. ◎Như: 'tự kỉ toàn nhất lượng tự hành xa' 自己攢一輛自行車 tự mình ráp nối thành một chiếc xe đạp.",
+                "(Động) Cầm, nắm. ◎Như: 'toàn trước' 攢著 nắm giữ, 'toàn định' 攢定 liệu định.",
+                "(Danh) Lượng từ: đôi, bó, nắm, xấp. ◎Như: 'hoa nhất toàn cẩm nhất thốc' 花一攢錦一簇 hoa một bó gấm một xấp.",
+                "Một âm là 'toản'. (Động) Khoét, đục. Cũng như 'toản' 鑽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Họp lại, tích góp.",
+                "Một âm là toản. cũng như chữ toản 鑽 khoét."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trữ, để dành: 攢糞 Trữ phân; 攢錢 Để dành tiền;",
+                "(văn) Khoét (như 鑽, bộ 金). Xem 攢 [cuán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giùi lỗ — Một âm là Toàn. Xem Toàn."
+            ]
+        }
+    }
+}

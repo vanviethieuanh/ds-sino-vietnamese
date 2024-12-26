@@ -1,0 +1,83 @@
+{
+    "character": "媳",
+    "details": {
+        "Âm Hán Việt": [
+            "tức"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nữ 女 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女息"
+        ],
+        "Nét bút": [
+            "フノ一ノ丨フ一一一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "VHUP (女竹山心)"
+        ],
+        "Unicode": [
+            "U+5AB3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xí ㄒㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セキ (seki)",
+            "シャク (shaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よめ (yome)"
+        ],
+        "Âm Hàn": [
+            "식"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "tức": {
+            "Từ điển phổ thông": [
+                "con dâu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) (1) Con dâu (tiếng gọi vợ của con trai mình). ◎Như: “tức phụ” 媳婦 con dâu. (2) Phiếm chỉ vợ của em hoặc của người bậc dưới. ◇Hồng Lâu Mộng 紅樓夢: “Đại khái điểm liễu nhất điểm sổ mục đan sách, vấn liễu Lai Thăng tức phụ kỉ cú thoại, tiện tọa xa hồi gia” 大概點了一點數目單冊, 問了來昇媳婦幾句話, 便坐車回家 (Đệ thập tứ hồi) (Phượng Thư) kiểm điểm sơ qua sổ sách xong, hỏi vợ Lai Thăng mấy câu, rồi lên xe về nhà."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con dâu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con dâu, nàng dâu: 婆媳和睦 Mẹ chồng nàng dâu sống hoà thuận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con dâu ( vợ của con trai ). Cũng gọi là Tức phụ."
+            ],
+            "compound_words": {
+                "弟媳": "đệ tức",
+                "賢媳": "hiền tức",
+                "儿媳": "nhi tức",
+                "兒媳": "nhi tức",
+                "長媳": "trưởng tức",
+                "子媳": "tử tức",
+                "媳妇": "tức phụ",
+                "媳婦": "tức phụ"
+            }
+        }
+    }
+}

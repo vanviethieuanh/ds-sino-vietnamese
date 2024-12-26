@@ -1,0 +1,101 @@
+{
+    "character": "嫗",
+    "details": {
+        "Âm Hán Việt": [
+            "ẩu",
+            "ủ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nữ 女 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰女區"
+        ],
+        "Nét bút": [
+            "フノ一一丨フ一丨フ一丨フ一フ"
+        ],
+        "Thương Hiệt": [
+            "VSRR (女尸口口)"
+        ],
+        "Unicode": [
+            "U+5AD7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ẩu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)",
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あたた.める (atata.meru)",
+            "おうな (ōna)"
+        ],
+        "Âm Hàn": [
+            "구",
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu2"
+        ]
+    },
+    "meanings": {
+        "ẩu": {
+            "Từ điển phổ thông": [
+                "mẹ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mẹ, mẫu thân.",
+                "(Danh) Thông xưng đàn bà, con gái là 'ẩu'. ◎Như: 'lão ẩu' 老嫗 bà già. ◇Liêu trai chí dị 聊齋志異: 'Gia trung chỉ nhất lão ẩu lưu thủ môn hộ' 家中止一老嫗留守門戶 (Phong Tam nương 封三娘) Trong nhà chỉ có một bà già giữ cửa nẻo. ◇Nam sử 南史: 'Thần tiên Ngụy phu nhân hốt lai lâm giáng, thừa vân nhi chí, tòng thiểu ẩu tam thập (...), niên giai khả thập thất bát hử' 神仙魏夫人忽來臨降, 乘雲而至, 從少嫗三十(...), 年皆可十七八許 (Ẩn dật truyện hạ 隱逸傳下) Thần tiên Ngụy phu nhân chợt giáng xuống, cưỡi mây mà đến, theo sau ba mươi cô gái trẻ (...), tuổi đều khoảng chừng mười bảy mười tám.",
+                "Một âm là 'ủ'. (Động) 'Hú ủ' 喣嫗. § Xem từ này."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mẹ, tiếng gọi chung của các bà già.",
+                "Một âm là ủ. Hú ủ 喣嫗 ôm ấp âu yếm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bà già: 翁嫗 Ông già bà cả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng gọi người đàn bà đứng tuổi — Tiếng gọi người thiếu nữ — Một âm khác là Ủ."
+            ],
+            "compound_words": {
+                "老嫗": "lão ẩu",
+                "乳嫗": "nhũ ẩu"
+            }
+        },
+        "ủ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Mẹ, mẫu thân.",
+                "(Danh) Thông xưng đàn bà, con gái là 'ẩu'. ◎Như: 'lão ẩu' 老嫗 bà già. ◇Liêu trai chí dị 聊齋志異: 'Gia trung chỉ nhất lão ẩu lưu thủ môn hộ' 家中止一老嫗留守門戶 (Phong Tam nương 封三娘) Trong nhà chỉ có một bà già giữ cửa nẻo. ◇Nam sử 南史: 'Thần tiên Ngụy phu nhân hốt lai lâm giáng, thừa vân nhi chí, tòng thiểu ẩu tam thập (...), niên giai khả thập thất bát hử' 神仙魏夫人忽來臨降, 乘雲而至, 從少嫗三十(...), 年皆可十七八許 (Ẩn dật truyện hạ 隱逸傳下) Thần tiên Ngụy phu nhân chợt giáng xuống, cưỡi mây mà đến, theo sau ba mươi cô gái trẻ (...), tuổi đều khoảng chừng mười bảy mười tám.",
+                "Một âm là 'ủ'. (Động) 'Hú ủ' 喣嫗. § Xem từ này."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mẹ, tiếng gọi chung của các bà già.",
+                "Một âm là ủ. Hú ủ 喣嫗 ôm ấp âu yếm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gà, chim ấp trứng. Cũng nói: Ủ phục 嫗伏 — Xem Ẩu."
+            ],
+            "compound_words": {
+                "煦嫗": "hú ủ"
+            }
+        }
+    }
+}

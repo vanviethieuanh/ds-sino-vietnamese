@@ -1,0 +1,100 @@
+{
+    "character": "製",
+    "details": {
+        "Âm Hán Việt": [
+            "chế"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "y 衣 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱制衣"
+        ],
+        "Nét bút": [
+            "ノ一一丨フ丨丨丨丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "HNYHV (竹弓卜竹女)"
+        ],
+        "Unicode": [
+            "U+88FD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chẽ",
+            "chế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)"
+        ],
+        "Âm Hàn": [
+            "제"
+        ],
+        "Âm Quảng Đông": [
+            "zai3"
+        ]
+    },
+    "meanings": {
+        "chế": {
+            "Từ điển phổ thông": [
+                "làm, chế tạo",
+                "chế độ",
+                "hạn chế, ngăn cấm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cắt may (làm thành quần áo). ◇Hậu Hán thư 後漢書: 'Hiếu ngũ sắc y phục, chế tài giai hữu vĩ hình' 好五色衣服, 製裁皆有尾形 (Nam man truyện 南蠻傳) Ưa thích quần áo nhiều màu, cắt may đều có hình đuôi.",
+                "(Động) Làm ra, tạo ra. ◇Tân Đường Thư 新唐書: 'Cấm tư chế giả' 禁私製者 (Liễu Công Xước truyện 柳公綽傳) Cấm tư nhân chế tạo vật dụng.",
+                "(Danh) Thơ văn, tác phẩm. ◎Như: 'ngự chế' 御製 thơ văn do vua làm.",
+                "(Danh) Khuôn phép, dạng thức. ◎Như: 'thể chế' 體製 cách thức. ◇Hán Thư 漢書: 'Phục đoản y, Sở chế. Hán vương hỉ' 服短衣, 楚製. 漢王喜 (Thúc Tôn Thông truyện 叔孫通傳) Mặc áo ngắn kiểu nước Sở. Vua Hán vui thích."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cắt thành áo mặc. Không học mà làm quan gọi là học chế mĩ cẩm 學製美錦.",
+                "Chế tạo, chế tạo nên các đồ dùng. Sao tẩm các vị thuốc gọi là bào chế 泡製.",
+                "Làm ra văn chương. Ngày xưa gọi các văn chương của vua làm ra là ngự chế thi văn 御製詩文.",
+                "Khuôn phép, như thể chế 體製 mẫu mực cứ thế mà làm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cắt thành áo, may áo;",
+                "Chế, chế tạo, sản xuất, làm ra, vẽ: 這種商品是越南製造的 Mặt hàng này do Việt Nam chế tạo (sản xuất); 製一張地圖 Vẽ một bản đồ; 製氧機 Máy chế ô-xy;",
+                "(văn) Làm ra văn chương: 禦製詩文 Thơ văn do vua chúa làm ra;",
+                "(văn) Khuôn phép: 體製 Thể chế, cách thức. Xem 制 [zhì] (bộ 刂)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắt may thành áo — Làm ra — Kiểu áo. Lề lối."
+            ],
+            "compound_words": {
+                "泡製": "bào chế",
+                "炮製": "bào chế",
+                "製作": "chế tác",
+                "製裁": "chế tài",
+                "製造": "chế tạo",
+                "製造局": "chế tạo cục",
+                "機製": "cơ chế",
+                "打製": "đả chế",
+                "御製": "ngự chế",
+                "御製北巡詩集": "ngự chế bắc tuần thi tập",
+                "御製名勝圖繪詩集": "ngự chế danh thắng đồ hội thi tập",
+                "御製剿平南圻賊寇詩集": "ngự chế tiễu bình nam kì tặc khấu thi tập",
+                "御製越史總詠集": "ngự chế việt sử tổng vịnh tập",
+                "御製武功詩集": "ngự chế vũ công thi tập",
+                "炒製": "sao chế",
+                "新製": "tân chế",
+                "嗣徳聖製詩文": "tự đức thánh chế thi văn"
+            }
+        }
+    }
+}

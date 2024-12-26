@@ -1,0 +1,48 @@
+{
+    "character": "洝",
+    "details": {
+        "Âm Hán Việt": [
+            "án",
+            "át"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺡安"
+        ],
+        "Nét bút": [
+            "丶丶一丶丶フフノ一"
+        ],
+        "Thương Hiệt": [
+            "EJV (水十女)"
+        ],
+        "Unicode": [
+            "U+6D1D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ]
+    },
+    "meanings": {
+        "án": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên sông."
+            ]
+        },
+        "át": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ô át 窏洝."
+            ],
+            "compound_words": {
+                "窏洝": "ô át"
+            }
+        }
+    }
+}

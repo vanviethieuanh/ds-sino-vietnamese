@@ -1,0 +1,74 @@
+{
+    "character": "癲",
+    "details": {
+        "Âm Hán Việt": [
+            "điên"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "nạch 疒 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒顛"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨丨フ一一一一ノ丶一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KJCC (大十金金)"
+        ],
+        "Unicode": [
+            "U+7672"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "diān ㄉㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "điên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "din1"
+        ]
+    },
+    "meanings": {
+        "điên": {
+            "Từ điển phổ thông": [
+                "điên, rồ, dại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tinh thần thác loạn, lời nói cử chỉ bất thường.",
+                "(Danh) 'Điên giản' 癲癇 bệnh động kinh. ☆Tương tự: 'giản chứng' 癇症, 'dương điên phong' 羊癲瘋, 'dương giác phong' 羊角風, 'dương giản phong' 羊癇瘋, 'dương huyễn' 羊眩, 'dương nhi phong' 羊兒風."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðiên, mừng giận bất thường điên đảo hỗn độn gọi là điên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Điên, điên rồ, điên dại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Điên 瘨."
+            ],
+            "compound_words": {
+                "狂癲": "cuồng điên",
+                "瘋癲": "phong điên"
+            }
+        }
+    }
+}

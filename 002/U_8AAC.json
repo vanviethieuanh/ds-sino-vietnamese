@@ -1,0 +1,89 @@
+{
+    "character": "説",
+    "details": {
+        "Âm Hán Việt": [
+            "duyệt",
+            "thuyết",
+            "thuế"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言兑"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶ノ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "YRCRU (卜口金口山)"
+        ],
+        "Unicode": [
+            "U+8AAC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shuì ㄕㄨㄟˋ",
+            "shuō ㄕㄨㄛ",
+            "tuō ㄊㄨㄛ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thót",
+            "thốt",
+            "thuyết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)",
+            "ゼイ (zei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.く (to.ku)"
+        ],
+        "Âm Hàn": [
+            "설",
+            "세",
+            "열"
+        ],
+        "Âm Quảng Đông": [
+            "syut3"
+        ]
+    },
+    "meanings": {
+        "duyệt": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng như 說."
+            ]
+        },
+        "thuyết": {
+            "Từ điển phổ thông": [
+                "nói, giảng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng như 說."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ 說."
+            ],
+            "compound_words": {
+                "卻説": "khước thuyết"
+            }
+        },
+        "thuế": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng như 說."
+            ]
+        }
+    }
+}

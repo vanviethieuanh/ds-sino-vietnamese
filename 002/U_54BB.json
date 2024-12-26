@@ -1,0 +1,107 @@
+{
+    "character": "咻",
+    "details": {
+        "Âm Hán Việt": [
+            "hú",
+            "hưu",
+            "hủ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口休"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ROD (口人木)"
+        ],
+        "Unicode": [
+            "U+54BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xiū ㄒㄧㄡ",
+            "xǔ ㄒㄩˇ"
+        ],
+        "Âm Nôm": [
+            "hiu",
+            "hưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ク (ku)",
+            "キョウ (kyō)",
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "휴"
+        ],
+        "Âm Quảng Đông": [
+            "heoi2",
+            "jau1"
+        ]
+    },
+    "meanings": {
+        "hú": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khí hậu ấm áp — Các âm khác là Hủ, Hưu."
+            ]
+        },
+        "hưu": {
+            "Từ điển phổ thông": [
+                "giễu cợt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Làm ồn ào, gây huyên náo.",
+                "(Trạng thanh) Tiếng ho hen hoặc động vật kêu.",
+                "(Trạng thanh) Tiếng tên hoặc pháo tre bắn vụt đi.",
+                "Một âm là 'hủ'. (Động) § Xem 'ủ hủ' 噢咻."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nói rầm rầm.",
+                "Một âm là hủ. Ủ hủ 噢咻 yên ủi một cách thiết tha sót xa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nói ồn lên, làm ồn, gây huyên náo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kêu gào. La ó — Tiếng hít hà xuýt xoa vì có bệnh đau ở miệng — Một âm là Hú."
+            ],
+            "compound_words": {
+                "噢咻": "ẩu hưu",
+                "咆咻": "bào hưu"
+            }
+        },
+        "hủ": {
+            "Từ điển trích dẫn": [
+                "(Động) Làm ồn ào, gây huyên náo.",
+                "(Trạng thanh) Tiếng ho hen hoặc động vật kêu.",
+                "(Trạng thanh) Tiếng tên hoặc pháo tre bắn vụt đi.",
+                "Một âm là 'hủ'. (Động) § Xem 'ủ hủ' 噢咻."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nói rầm rầm.",
+                "Một âm là hủ. Ủ hủ 噢咻 yên ủi một cách thiết tha sót xa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng kêu đau đớn. Cũng nói là Ẩu hủ 噢咻."
+            ],
+            "compound_words": {
+                "噢咻": "ủ hủ"
+            }
+        }
+    }
+}

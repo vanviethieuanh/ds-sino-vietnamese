@@ -1,0 +1,88 @@
+{
+    "character": "蒿",
+    "details": {
+        "Âm Hán Việt": [
+            "hao"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹高"
+        ],
+        "Nét bút": [
+            "一丨丨丶一丨フ一丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TYRB (廿卜口月)"
+        ],
+        "Unicode": [
+            "U+84BF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gǎo ㄍㄠˇ",
+            "hāo ㄏㄠ"
+        ],
+        "Âm Nôm": [
+            "khao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よもぎ (yomogi)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "hou1"
+        ]
+    },
+    "meanings": {
+        "hao": {
+            "Từ điển phổ thông": [
+                "(xem: đồng hao 茼蒿)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ cỏ ngải. § Có nhiều loại như: 'thanh hao' 青蒿, 'mẫu hao' 牡蒿, 'bạch hao' 白蒿 (Artemisia capillaris Thunb), 'nhân trần hao' 茵陳蒿, đều dùng làm thuốc được cả.",
+                "(Động) Tiêu tan, tiêu mất. § Thông 'hao' 耗.",
+                "(Động) Nhìn ra xa. ◎Như: 'hao mục' 蒿目 trông xa, 'hao mục thì gian' 蒿目時艱 âu lo thế cuộc.",
+                "(Tính) Nghi ngút (hơi bốc lên)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây chổi, một thứ cỏ ngải. Có nhiều thứ như: thanh hao 青蒿, mẫu hao 牡蒿, bạch hao 白蒿, nhân trần hao 茵陳蒿, v.v. mấy thứ này đều dùng làm thuốc cả.",
+                "Trông xa. Như hao mục 蒿目 trông xa mà lo trước, hao dị thê trần 蒿易棲塵 ý nói như người vào đời cứu đời thấy bụi trần mờ mịt cả mắt.",
+                "Tiêu tan.",
+                "Hơi lên nghi ngút."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蒿子】hao tử [haozi] (thực) Ngải (Artemisia), cây ngải apxin, cây ngải tây;",
+                "(văn) Trông xa.【蒿目】hao mục [haomù] a. Trông xa; b. Nhắm mắt và lo nghĩ việc đời;",
+                "(văn) Tiêu tan;",
+                "(văn) Hơi bốc lên nghi ngút."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại rau, còn gọi là Thanh hao."
+            ],
+            "compound_words": {
+                "皤蒿": "bà hao",
+                "白蒿": "bạch hao",
+                "茼蒿": "đồng hao",
+                "藾蒿": "lại hao"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "character": "敌",
+    "details": {
+        "Âm Hán Việt": [
+            "địch"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "phác 攴 (+6 nét)",
+            "thiệt 舌 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舌攵"
+        ],
+        "Nét bút": [
+            "ノ一丨丨フ一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "XHROK (重竹口人大)"
+        ],
+        "Unicode": [
+            "U+654C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dí ㄉㄧˊ"
+        ],
+        "Âm Nôm": [
+            "địch"
+        ],
+        "Âm Quảng Đông": [
+            "dik6"
+        ]
+    },
+    "meanings": {
+        "địch": {
+            "Từ điển phổ thông": [
+                "kẻ thù, giặc",
+                "ngang nhau",
+                "chống cự"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 敵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 敵"
+            ],
+            "compound_words": {
+                "仇敌": "cừu địch",
+                "敌人": "địch nhân",
+                "敌手": "địch thủ",
+                "敌意": "địch ý"
+            }
+        }
+    }
+}

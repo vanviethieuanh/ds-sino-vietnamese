@@ -1,0 +1,106 @@
+{
+    "character": "膀",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng",
+            "báng",
+            "bảng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhục 肉 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月旁"
+        ],
+        "Nét bút": [
+            "ノフ一一丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "BYBS (月卜月尸)"
+        ],
+        "Unicode": [
+            "U+8180"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bǎng ㄅㄤˇ",
+            "bàng ㄅㄤˋ",
+            "pāng ㄆㄤ",
+            "páng ㄆㄤˊ",
+            "pǎng ㄆㄤˇ"
+        ],
+        "Âm Nôm": [
+            "bàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ホウ (hō)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "bong2",
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển phổ thông": [
+                "phình ra",
+                "(xem: bàng quang 膀胱)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cánh tay. ◎Như: 'kiên bàng' 肩膀 bắp vai.",
+                "(Danh) Hai cánh chim. ◎Như: 'sí bàng' 翅膀 lông cánh (chim, côn trùng).",
+                "(Danh) § Xem 'bàng quang' 膀胱.",
+                "(Danh) § Xem 'bàng tử' 膀子.",
+                "(Tính) Xưng, phù thũng. ◎Như: 'nhãn bì nhi khốc đắc bàng bàng đích' 眼皮兒哭得膀膀的 mí mắt khóc xưng phù.",
+                "(Động) § Xem 'điếu bàng tử' 弔膀子."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bàng quang 膀胱 bong bóng, bọng đái.",
+                "Tục gọi bắp vai là kiên bàng 肩膀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 胮."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mạng sườn — Xem Bàng quang 膀胱."
+            ],
+            "compound_words": {
+                "膀胱": "bàng quang",
+                "膀胱結石": "bàng quang kết thạch",
+                "膀胱炎": "bàng quang viêm",
+                "膀子": "bàng tử",
+                "弔膀子": "điếu bàng tử"
+            }
+        },
+        "báng": {
+            "Từ điển Trần Văn Chánh": [
+                "Tán tỉnh, gạ gẫm. Xem 膀 [băng], [páng]."
+            ]
+        },
+        "bảng": {
+            "Từ điển phổ thông": [
+                "vai, bả vai",
+                "cánh (chim)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cánh tay: 他的兩膀眞有勁 Hai cánh tay anh ấy rất khỏe;",
+                "Cánh (chim hay gà vịt...). Xem 膀, 胮 [pang], 膀 [bàng], [páng]."
+            ]
+        }
+    }
+}

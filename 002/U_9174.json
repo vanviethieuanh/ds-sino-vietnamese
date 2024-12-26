@@ -1,0 +1,80 @@
+{
+    "character": "酴",
+    "details": {
+        "Âm Hán Việt": [
+            "đồ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "dậu 酉 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰酉余"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一ノ丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MWOMD (一田人一木)"
+        ],
+        "Unicode": [
+            "U+9174"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tú ㄊㄨˊ"
+        ],
+        "Âm Nôm": [
+            "đồ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ト (to)",
+            "ズ (zu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さけのもと (sakenomoto)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "tou4"
+        ]
+    },
+    "meanings": {
+        "đồ": {
+            "Từ điển phổ thông": [
+                "men rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Men rượu. § Nay gọi là 'diếu mẫu' 酵母.",
+                "(Danh) § Xem 'đồ mi' 酴醾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Men rượu.",
+                "Ðồ mi 酴醾 rượu đồ mi, rượu cồ lại, rượu cất lại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rượu: 酴醾 Rượu cất lại; 酴酥 Một loại rượu thuốc (Cv. 屠酥)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Men để gây rượu. Cái rượu."
+            ],
+            "compound_words": {
+                "酴醾": "đồ my",
+                "酴釄": "đồ my",
+                "酴酥": "đồ tô"
+            }
+        }
+    }
+}

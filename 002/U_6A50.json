@@ -1,0 +1,84 @@
+{
+    "character": "橐",
+    "details": {
+        "Âm Hán Việt": [
+            "thác"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mộc 木 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨フ一丨丶フ一ノ丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "JBMRD (十月一口木)"
+        ],
+        "Unicode": [
+            "U+6A50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dù ㄉㄨˋ",
+            "luò ㄌㄨㄛˋ",
+            "tuó ㄊㄨㄛˊ",
+            "tuò ㄊㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "thác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふくろ (fukuro)",
+            "ふいご (fuigo)"
+        ],
+        "Âm Hàn": [
+            "탁"
+        ],
+        "Âm Quảng Đông": [
+            "tok3"
+        ]
+    },
+    "meanings": {
+        "thác": {
+            "Từ điển phổ thông": [
+                "cái túi không có đáy",
+                "đồ rèn đúc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Túi, bao, đẫy. ◇Chiến quốc sách 戰國策: 'Phụ thư đam thác, hình dong khô cảo, diện mục lê hắc, trạng hữu quý sắc' 負書擔橐, 形容枯槁, 面目黧黑, 狀有愧色 (Tần sách nhất 秦策一) Đội sách đeo đẫy, hình dung tiều tụy, mặt mày đen xạm, có vẻ xấu hổ.",
+                "(Danh) Ống bễ quạt lò, tức 'phong tương' 風箱. ◇Hoài Nam Tử 淮南子: 'Cổ thác xuy đóa, dĩ tiêu đồng thiết' 鼓橐吹埵, 以銷銅鐵 (Bổn kinh 本經) Quạt bễ thổi ống, để nấu chảy đồng và sắt.",
+                "(Danh) § Xem 'thác đà' 橐駝.",
+                "(Động) Đựng trong bị, giữ trong bao. ◇Từ Kha 徐珂: 'Quật chi, đắc nhất đồng khí, ... nãi thác dĩ nhập thành' 掘之, 得一銅器...乃橐以入城 (Hứa tứ san tàng nhũ di 許四山藏乳彝) Đào lên, được một đồ bằng đồng, ... bèn đựng vô bị, đi vào thành.",
+                "(Trạng thanh) § Xem 'thác thác' 橐橐."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái túi không có đáy. Con lạc đà 駱駝 có túi đựng nước lại có bướu để đồ tiện, cho nên cũng gọi là con thác đà 橐駝.",
+                "Ðồ rèn đúc, như thác thược 橐籥 cái bễ thợ rào.",
+                "Thác thác 橐橐 tiếng chày giã chan chát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Túi không có đáy;",
+                "(văn) Đồ rèn đúc: 橐籥 Cái bễ thợ rèn;",
+                "(thanh) Côm cốp, lộp cộp, chan chát...: 橐橐的皮鞋韾 Tiếng giày da đi nghe lộp cộp."
+            ],
+            "compound_words": {
+                "橐駝": "thác đà",
+                "橐橐": "thác thác"
+            }
+        }
+    }
+}

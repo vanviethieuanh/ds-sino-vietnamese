@@ -1,0 +1,80 @@
+{
+    "character": "蛄",
+    "details": {
+        "Âm Hán Việt": [
+            "cô"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫古"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LIJR (中戈十口)"
+        ],
+        "Unicode": [
+            "U+86C4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ",
+            "gǔ ㄍㄨˇ"
+        ],
+        "Âm Nôm": [
+            "chem",
+            "cô",
+            "cua",
+            "linh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu1"
+        ]
+    },
+    "meanings": {
+        "cô": {
+            "Từ điển phổ thông": [
+                "(xem: lâu cô 螻蛄,蝼蛄; huệ cô 蟪蛄)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'lâu cô' 螻蛄.",
+                "(Danh) § Xem  'huệ cô' 蟪蛄."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lâu cô 螻蛄 con dế, một thứ sâu ở lỗ giống như con dế mèn làm hại lúa và nho.",
+                "Huệ cô 蟪蛄 một loại ve sầu nhỏ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 螻蛄[lóugu], 蟪蛄[huigu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Huệ cô 蟪蛄, Lâu cô 螻蛄 ở các vần Huệ và Câu."
+            ],
+            "compound_words": {
+                "蟪蛄": "huệ cô",
+                "蝼蛄": "lâu cô",
+                "螻蛄": "lâu cô"
+            }
+        }
+    }
+}

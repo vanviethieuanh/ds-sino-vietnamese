@@ -1,0 +1,63 @@
+{
+    "character": "拦",
+    "details": {
+        "Âm Hán Việt": [
+            "lan",
+            "lạn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘兰"
+        ],
+        "Nét bút": [
+            "一丨一丶ノ一一一"
+        ],
+        "Thương Hiệt": [
+            "QTMM (手廿一一)"
+        ],
+        "Unicode": [
+            "U+62E6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lán ㄌㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lan"
+        ],
+        "Âm Quảng Đông": [
+            "laan4"
+        ]
+    },
+    "meanings": {
+        "lan": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 攔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 攔"
+            ]
+        },
+        "lạn": {
+            "Từ điển phổ thông": [
+                "chặn lại, ngăn lại"
+            ],
+            "compound_words": {
+                "拦住": "lạn trụ"
+            }
+        }
+    }
+}

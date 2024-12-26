@@ -1,0 +1,93 @@
+{
+    "character": "昂",
+    "details": {
+        "Âm Hán Việt": [
+            "ngang"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhật 日 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱日卬"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフフ丨"
+        ],
+        "Thương Hiệt": [
+            "AHVL (日竹女中)"
+        ],
+        "Unicode": [
+            "U+6602"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "áng"
+        ],
+        "Âm Nôm": [
+            "ngang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ゴウ (gō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ.がる (a.garu)",
+            "たか.い (taka.i)",
+            "たか.ぶる (taka.buru)"
+        ],
+        "Âm Hàn": [
+            "앙"
+        ],
+        "Âm Quảng Đông": [
+            "ngong4",
+            "ngong5"
+        ]
+    },
+    "meanings": {
+        "ngang": {
+            "Từ điển phổ thông": [
+                "ngẩng cao đầu",
+                "giơ cao",
+                "giá cao, đắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giơ cao, ngẩng lên. ◎Như: 'ngang thủ' 昂首 nghển đầu, 'đê ngang' 低昂 cúi ngửa.",
+                "(Động) Tăng cao, lên giá. ◇Nguyễn Du 阮攸: 'Mễ giá bất thậm ngang' 米價不甚昂 (Sở kiến hành 所見行) Giá gạo không lên cao quá.",
+                "(Tính) Tinh thần phấn chấn, hăng hái. ◎Như: 'khí vũ hiên ngang' 氣宇軒昂 phong cách phấn chấn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giơ cao, như ngang thủ 昂首 nghển đầu, đê ngang 低昂 cúi ngửa. Thái độ cao cả gọi là hiên ngang 軒昂 hay ngang tàng 昂藏, ý khí phấn phát gọi là kích ngang 激昂, v.v.",
+                "Giá cao, giá đắt. Nguyễn Du 阮攸: Mễ giá bất thậm ngang 米價不甚昂 giá gạo không cao quá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cất, ngẩng, ngửng: 昂首 Ngửng đầu;",
+                "Đắt, đắt đỏ, cao: 價昂 Giá đắt, giá cao."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa cao lên. Ngẩng cao — Cao cả, vượt xung quanh — Khích lệ, làm phấn khởi — Giá cả tăng lên. Td: Dũng ngang 踴昂 ( đắt vọt lên )."
+            ],
+            "compound_words": {
+                "軒昂": "hiên ngang",
+                "昂扬": "ngang dương",
+                "昂揚": "ngang dương",
+                "昂昂": "ngang ngang",
+                "昂然": "ngang nhiên",
+                "昂貴": "ngang quý",
+                "昂贵": "ngang quý",
+                "昂藏": "ngang tàng",
+                "昂首": "ngang thủ"
+            }
+        }
+    }
+}

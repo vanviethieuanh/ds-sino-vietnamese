@@ -1,0 +1,72 @@
+{
+    "character": "鵷",
+    "details": {
+        "Âm Hán Việt": [
+            "uyên"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰宛鳥"
+        ],
+        "Nét bút": [
+            "丶丶フノフ丶フフノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "JUHAF (十山竹日火)"
+        ],
+        "Unicode": [
+            "U+9D77"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yuān ㄩㄢ"
+        ],
+        "Âm Nôm": [
+            "oan",
+            "uyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)",
+            "オン (on)"
+        ],
+        "Âm Hàn": [
+            "원"
+        ],
+        "Âm Quảng Đông": [
+            "jyun1"
+        ]
+    },
+    "meanings": {
+        "uyên": {
+            "Từ điển phổ thông": [
+                "con vịt đực"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Uyên sồ” 鵷鶵 một loài chim phượng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Uyên sồ 鵷雛 một loài chim phượng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【鵷雛】 uyên sồ [yuanchú] Một loài chim giống như phượng."
+            ],
+            "compound_words": {
+                "鵷雛": "uyên sồ",
+                "鵷鴦": "uyên ương"
+            }
+        }
+    }
+}

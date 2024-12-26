@@ -1,0 +1,83 @@
+{
+    "character": "騏",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mã 馬 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬其"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶一丨丨一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SFTMC (尸火廿一金)"
+        ],
+        "Unicode": [
+            "U+9A0F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa xám.",
+                "(Danh) Ngựa tốt. ◎Như: 'kì kí' 騏驥 ngựa tốt, ngựa giỏi, tuấn mã. ◇Khuất Nguyên 屈原: 'Thừa kì kí dĩ trì sính hề, Lai ngô đạo phù tiên lộ' 乘騏驥以馳騁兮, 來吾道夫先路 (Li Tao 離騷) Hãy cưỡi ngựa kì kí mà rong ruổi, Lại đây, ta hướng dẫn trên con đường phía trước.",
+                "(Danh) Họ 'Kì'."
+            ],
+            "compound_words": {
+                "騏驎": "kì lân"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "ngựa xám"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngựa xám.",
+                "Ngựa tốt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngựa xám;",
+                "(văn) Ngựa tốt;",
+                "(văn) Màu xanh thẫm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài ngựa tốt, lông màu xanh đen — tên một giống ngựa tốt."
+            ],
+            "compound_words": {
+                "騏驎": "kỳ lân"
+            }
+        }
+    }
+}

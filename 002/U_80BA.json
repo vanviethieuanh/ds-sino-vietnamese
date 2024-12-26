@@ -1,0 +1,96 @@
+{
+    "character": "肺",
+    "details": {
+        "Âm Hán Việt": [
+            "bái",
+            "phế"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月巿"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "BJB (月十月)"
+        ],
+        "Unicode": [
+            "U+80BA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fèi ㄈㄟˋ",
+            "pèi ㄆㄟˋ"
+        ],
+        "Âm Nôm": [
+            "chị",
+            "phế",
+            "phổi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Hàn": [
+            "폐",
+            "패"
+        ],
+        "Âm Quảng Đông": [
+            "fai3"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bái bái 肺肺 — Một âm khác là Phế."
+            ],
+            "compound_words": {
+                "肺肺": "bái bái"
+            }
+        },
+        "phế": {
+            "Từ điển phổ thông": [
+                "lá phổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phổi, ở hai bên ngực, bên tả hai lá, bên hữu ba lá. Cũng gọi là 'phế tạng' 肺臟.",
+                "(Danh) Nay gọi tấm lòng là 'phế phủ' 肺腑. ◇Tam quốc diễn nghĩa 三國演義: 'Dong thiếp thân phế phủ chi ngôn' 容妾伸肺腑之言 (Đệ bát hồi) Xin cho con bày tỏ nỗi lòng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phổi, ở hai bên ngực, bên tả hai lá, bên hữu ba lá. Nay gọi tấm lòng là phế phủ 肺腑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phổi: 肺癌 Ung thư phổi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá phổi ( cơ quan để thở ) — Một âm khác là Bái. Xem Bái."
+            ],
+            "compound_words": {
+                "肝肺": "can phế",
+                "潤肺": "nhuận phế",
+                "肺肝": "phế can",
+                "肺懷": "phế hoài",
+                "肺痨": "phế lao",
+                "肺癆": "phế lao",
+                "肺膜": "phế mạc",
+                "肺腑": "phế phủ",
+                "肺臟": "phế tạng",
+                "肺脹": "phế trướng",
+                "肺炎": "phế viêm"
+            }
+        }
+    }
+}

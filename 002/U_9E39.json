@@ -1,0 +1,74 @@
+{
+    "character": "鸹",
+    "details": {
+        "Âm Hán Việt": [
+            "cốc",
+            "hộc",
+            "quát"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舌鸟"
+        ],
+        "Nét bút": [
+            "ノ一丨丨フ一ノフ丶フ一"
+        ],
+        "Thương Hiệt": [
+            "XHRPY (重竹口心卜)"
+        ],
+        "Unicode": [
+            "U+9E39"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "guā ㄍㄨㄚ",
+            "hú ㄏㄨˊ"
+        ],
+        "Âm Nôm": [
+            "quật"
+        ],
+        "Âm Quảng Đông": [
+            "kut3"
+        ]
+    },
+    "meanings": {
+        "cốc": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đích (để tập bắn). Xem 鴰 [hú]."
+            ]
+        },
+        "hộc": {
+            "Từ điển Trần Văn Chánh": [
+                "(động) Thiên nga, ngỗng trời, ngan trời, chim hộc;",
+                "Đứng thẳng. Xem 鴰 [gư]."
+            ]
+        },
+        "quát": {
+            "Từ điển phổ thông": [
+                "(xem: thương quát 鶬鴰,鸧鸹)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鴰."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鴰"
+            ],
+            "compound_words": {
+                "鸧鸹": "thương quát"
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "character": "阅",
+    "details": {
+        "Âm Hán Việt": [
+            "duyệt"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "môn 門 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵门兑"
+        ],
+        "Nét bút": [
+            "丶丨フ丶ノ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "LSCRU (中尸金口山)"
+        ],
+        "Unicode": [
+            "U+9605"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "duyệt"
+        ],
+        "Âm Quảng Đông": [
+            "jyut6"
+        ]
+    },
+    "meanings": {
+        "duyệt": {
+            "Từ điển phổ thông": [
+                "xem xét",
+                "từng trải",
+                "tờ ghi công trạng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 閱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 閱"
+            ],
+            "compound_words": {
+                "检阅": "kiểm duyệt"
+            }
+        }
+    }
+}

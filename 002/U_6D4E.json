@@ -1,0 +1,76 @@
+{
+    "character": "济",
+    "details": {
+        "Âm Hán Việt": [
+            "tế",
+            "tể"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡齐"
+        ],
+        "Nét bút": [
+            "丶丶一丶一ノ丶ノ丨"
+        ],
+        "Thương Hiệt": [
+            "EYKL (水卜大中)"
+        ],
+        "Unicode": [
+            "U+6D4E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐ ㄐㄧˇ",
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tế"
+        ],
+        "Âm Quảng Đông": [
+            "zai2",
+            "zai3"
+        ]
+    },
+    "meanings": {
+        "tế": {
+            "Từ điển phổ thông": [
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 濟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【濟濟】 tế tế [jêjê] Đông đúc, sẵn có: 人才濟濟 Nhân tài đông đúc; 濟濟一堂 Sum họp đông đủ tại một nơi;",
+                "[Jê] Sông Tể (thuộc tỉnh Sơn Đông, Trung Quốc ngày nay). Xem 濟 [jì]."
+            ],
+            "compound_words": {
+                "经济": "kinh tế"
+            }
+        },
+        "tể": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 濟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【濟濟】 tế tế [jêjê] Đông đúc, sẵn có: 人才濟濟 Nhân tài đông đúc; 濟濟一堂 Sum họp đông đủ tại một nơi;",
+                "[Jê] Sông Tể (thuộc tỉnh Sơn Đông, Trung Quốc ngày nay). Xem 濟 [jì]."
+            ],
+            "compound_words": {
+                "不济": "bất tể"
+            }
+        }
+    }
+}

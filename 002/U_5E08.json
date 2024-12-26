@@ -1,0 +1,71 @@
+{
+    "character": "师",
+    "details": {
+        "Âm Hán Việt": [
+            "sư"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "cân 巾 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨ノ一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "LLMB (中中一月)"
+        ],
+        "Unicode": [
+            "U+5E08"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shī ㄕ"
+        ],
+        "Âm Nôm": [
+            "sư"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "sư": {
+            "Từ điển phổ thông": [
+                "nhiều, đông đúc",
+                "sư (gồm 2500 lính)",
+                "thầy giáo",
+                "sư sãi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 師."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 師"
+            ],
+            "compound_words": {
+                "拜师": "bái sư",
+                "工程师": "công trình sư",
+                "大师": "đại sư",
+                "教师": "giáo sư",
+                "京师": "kinh sư",
+                "律师": "luật sư",
+                "士师": "sĩ sư",
+                "帅师": "suất sư",
+                "师范": "sư phạm",
+                "师傅": "sư phó",
+                "太师": "thái sư",
+                "厨师": "trù sư"
+            }
+        }
+    }
+}

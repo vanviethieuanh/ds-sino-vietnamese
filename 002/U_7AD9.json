@@ -1,0 +1,91 @@
+{
+    "character": "站",
+    "details": {
+        "Âm Hán Việt": [
+            "trạm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "lập 立 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰立占"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YTYR (卜廿卜口)"
+        ],
+        "Unicode": [
+            "U+7AD9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhān ㄓㄢ",
+            "zhàn ㄓㄢˋ"
+        ],
+        "Âm Nôm": [
+            "trạm",
+            "trậm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "zaam6"
+        ]
+    },
+    "meanings": {
+        "trạm": {
+            "Từ điển phổ thông": [
+                "đứng lâu",
+                "nhà trạm, chỗ trú",
+                "chặng đường, đoạn đường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đứng. ◎Như: 'trạm tại nhất phiến đại bình dã thượng' 站在一片大平野上 đứng nơi đồng không mông quạnh. ◇Hồng Lâu Mộng 紅樓夢: 'Nhị môn khẩu cai ban tiểu tư môn kiến liễu Bình Nhi xuất lai, đô trạm khởi lai' 二門口該班小廝們見了平兒出來, 都站起來 (Đệ tam thập cửu hồi) Bọn đầy tớ nhỏ giữ cửa ngoài, thấy Bình Nhi đến, đều đứng dậy.",
+                "(Danh) Chỗ giữa đường tạm trú hoặc chỗ hoán chuyển giao thông. ◎Như: 'dịch trạm' 驛站 nhà trạm, 'lữ trạm' 旅站 quán trọ, 'xa trạm' 車站 trạm xe.",
+                "(Danh) Cơ quan tổ chức dùng để liên lạc, đơn vị nhỏ đặt ra cho một dịch vụ nào đó. ◎Như: 'gia du trạm' 加油站 trạm dầu xăng, 'y liệu trạm' 醫療站 trạm y tế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðứng lâu.",
+                "Nhà trạm, chỗ giữa đường tạm trú, như dịch trạm 驛站 nhà trạm, lữ trạm 旅站 quán trọ, v.v. Tục gọi một cung đường là nhất trạm 一站."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đứng: 站了一個早晨 Đứng suốt buổi sáng; 站起來 Đứng dậy, đứng lên;",
+                "Vùng (lên): 非洲人民站起來了 Nhân dân châu Phi đã vùng lên;",
+                "Ga, nhà trạm, trạm: 驛站 Nhà trạm (phụ trách việc chuyển thư tín và công văn thời xưa); 旅站 Quán trọ; 火車站 Ga xe lửa; 醫療站 Trạm y tế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đứng lâu. Đứng thẳng — Chỗ tạm nghỉ ngơi dừng chân trên đường xa. Td: Bưu trạm."
+            ],
+            "compound_words": {
+                "兵站": "binh trạm",
+                "驛站": "dịch trạm",
+                "驿站": "dịch trạm",
+                "多站": "đa trạm",
+                "台站": "đài trạm",
+                "地鐵站": "địa thiết trạm",
+                "加油站": "gia du trạm",
+                "旅站": "lữ trạm",
+                "國際太空站": "quốc tế thái không trạm",
+                "站住": "trạm trú",
+                "車站": "xa trạm"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "character": "順",
+    "details": {
+        "Âm Hán Việt": [
+            "thuận"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰川頁"
+        ],
+        "Nét bút": [
+            "ノ丨丨一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LLLC (中中中金)"
+        ],
+        "Unicode": [
+            "U+9806"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shùn ㄕㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "thộn",
+            "thuận"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "seon6"
+        ]
+    },
+    "meanings": {
+        "thuận": {
+            "Từ điển phổ thông": [
+                "suôn sẻ",
+                "thuận theo, hàng phục",
+                "thuận, xuôi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Theo. ◎Như: 'thuận tự' 順序 theo thứ tự.",
+                "(Động) Noi theo, nương theo. ◇Dịch Kinh 易經: 'Tích giả thánh nhân chi tác dịch dã, tương dĩ thuận tính mệnh chi lí' 昔者聖人之作易也, 將以順性命之理 (Thuyết quái truyện 說卦傳) Ngày xưa thánh nhân làm ra (kinh) Dịch là nương theo lẽ của tính mệnh.",
+                "(Động) Men theo, xuôi theo (cùng một phương hướng). ◎Như: 'thuận phong' 順風 theo chiều gió, 'thuận thủy' 順水 xuôi theo dòng nước, 'thuận lưu' 順流 xuôi chảy theo dòng.",
+                "(Động) Quy phục. ◇Thi Kinh 詩經: 'Tứ quốc thuận chi' 四國順之 (Đại nhã 大雅, Ức 抑) Bốn phương các nước đều quy phục.",
+                "(Động) Thích hợp. ◎Như: 'thuận tâm' 順心 hợp ý, vừa lòng, 'thuận nhãn' 順眼 hợp mắt.",
+                "(Động) Sửa sang. ◎Như: 'bả đầu phát thuận nhất thuận' 把頭髮順一順 sửa tóc lại.",
+                "(Động) Tiện thể, nhân tiện. ◎Như: 'thuận tiện' 順便 tiện thể.",
+                "(Tính) Điều hòa. ◎Như: 'phong điều vũ thuận' 風調雨順 gió mưa điều hòa.",
+                "(Tính) Trôi chảy, xuông xẻ, thông sướng. ◎Như: 'thông thuận' 通順 thuận lợi, thông sướng.",
+                "(Phó) Theo thứ tự. ◇Tả truyện 左傳: 'Đông thập nguyệt, thuận tự tiên công nhi kì yên' 冬十月, 順祀先公而祈焉 (Định Công bát niên 定公八年) Mùa đông tháng mười, theo thứ tự tổ phụ mà cúng bái."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Theo. Bé nghe lớn chỉ bảo không dám trái một tí gì gọi là thuận.",
+                "Thuận, noi theo lẽ phải gọi là thuận. Như vua nghĩa tôi trung, cha lành con hiếu, anh yêu em kính gọi là lục thuận 六順.",
+                "Yên vui. Như sách Trung Dung 中庸 nói phụ mẫu kì thuận hĩ hồ 父母其順矣呼 cha mẹ được yên vui lắm thay.",
+                "Hàng phục. Như Kinh Thi 詩經 nói tứ quốc thuận chi 四國順之 các nước bốn phương đều hàng phục cả.",
+                "Đợi, phàm sự gì được thông đồng tiện lợi đều gọi là thuận. Như thuận lợi 順利, thuận tiện 順便, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xuôi, thuận: 順水 Xuôi dòng; 順耳 Êm tai; 順心 Vừa lòng, hài lòng; 順利 Thuận lợi;",
+                "Men theo, dọc theo: 順河邊走 Đi men theo bờ sông. 【順着】thuận trước [shùnzhe] a. Men theo, dọc theo: 順着大路往東 Men theo đường lớn về phía đông; b. Theo, chiếu theo: 我順着他指點的方向看去 Tôi nhìn theo hướng anh ta chỉ;",
+                "Tiện thể, nhân tiện, thuận: 順手關門 Tiện tay đóng cửa; 順口說出來 Thuận miệng nói ra.【順便】thuận tiện [shùnbiàn] Nhân tiện, tiện thể: 順便說一句 Nhân tiện nói một câu;",
+                "Sửa sang lại: 順一順頭髮 Sửa lại tóc; 文章太亂，得順一順 Bài viết rườm quá, cần phải sửa lại;",
+                "Phục tùng, nghe theo, noi theo, hàng phục, quy phục, tuân theo: 順從 Nghe theo; 四國順之 Các nước bốn phương đều quy phục;",
+                "Trôi chảy, thuận lợi: 事情辦得很順 Công việc tiến hành rất thuận lợi;",
+                "(văn) Yên vui: 父母其順矣乎！ Cha mẹ được yên vui lắm thay! (Trung dung)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Theo. Nghe theo. Đi theo. Truyện  Hoa Tiên : » Lại xem thuận lối dần dà « — Xuôi theo, không trái nghịch. Thành ngữ: » Thuận bườm xuôi gió «."
+            ],
+            "compound_words": {
+                "平順": "bình thuận",
+                "恭順": "cung thuận",
+                "孝順": "hiếu thuận",
+                "和順": "hoà thuận",
+                "耳順": "nhĩ thuận",
+                "柔順": "nhu thuận",
+                "溫順": "ôn thuận",
+                "歸順": "quy thuận",
+                "順化": "thuận hoá",
+                "順和": "thuận hoà",
+                "順口": "thuận khẩu",
+                "順利": "thuận lợi",
+                "順風": "thuận phong",
+                "順便": "thuận tiện",
+                "順情": "thuận tình",
+                "順序": "thuận tự",
+                "貞順": "trinh thuận",
+                "應順": "ưng thuận"
+            }
+        }
+    }
+}

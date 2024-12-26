@@ -1,0 +1,96 @@
+{
+    "character": "競",
+    "details": {
+        "Âm Hán Việt": [
+            "cạnh"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "lập 立 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一丨フ一ノフ丶一丶ノ一丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "YUYTU (卜山卜廿山)"
+        ],
+        "Unicode": [
+            "U+7AF6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jìng ㄐㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "cạnh",
+            "ganh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きそ.う (kiso.u)",
+            "せ.る (se.ru)",
+            "くら.べる (kura.beru)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "ging3",
+            "ging6"
+        ]
+    },
+    "meanings": {
+        "cạnh": {
+            "Từ điển phổ thông": [
+                "mạnh, khỏe",
+                "ganh đua"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tranh luận. ◇Nhan Chi Thôi 顏之推: 'Tiền tại Tu văn lệnh tào, hữu San Đông học sĩ dữ Quan Trung thái sử cạnh lịch' 前在修文令曹, 有山東學士與關中太史競歷 (Tỉnh sự 省事) Trước ở bộ quan Tu văn, có Sơn Đông học sĩ cùng với Quan Trung thái sử tranh luận về lịch.",
+                "(Động) Tranh đua. ◎Như: 'cạnh tranh' 競爭 tranh đua. ◇Ngô Thì Nhậm 吳時任: 'Quế lan tất hạ cạnh phu phân' 桂蘭膝下競敷芬 (Tân niên cung hạ nghiêm thân 新年恭賀嚴親) Cây quế hoa lan dưới gối đua nở thơm tho.",
+                "(Danh) Lòng muốn tranh mạnh cầu thắng. ◇Thi Kinh 詩經: 'Bỉnh tâm vô cạnh' 秉心無競 (Đại nhã 大雅, Tang nhu 桑柔) Giữ lòng không có ý đua tranh.",
+                "(Tính) Mạnh, cường thịnh. ◎Như: 'hùng tâm cạnh khí' 雄心競氣 tâm khí hùng mạnh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mạnh, như hùng tâm cạnh khí 雄心競氣 tâm khí hùng mạnh.",
+                "Ganh, như cạnh tranh 競爭 ganh đua."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đua, ganh đua, cạnh tranh: 競爭 Đua tranh, cạnh tranh;",
+                "(văn) Mạnh: 雄心競氣 Tâm khí hùng mạnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đua tranh, dành giựt — Mạnh mẽ."
+            ],
+            "compound_words": {
+                "奔競": "bôn cạnh",
+                "筆競": "bút cạnh",
+                "競病": "cạnh bệnh",
+                "競奔": "cạnh bôn",
+                "競渡": "cạnh độ",
+                "競馬場": "cạnh mã trường",
+                "競賣": "cạnh mại",
+                "競爽": "cạnh sảng",
+                "競走": "cạnh tẩu",
+                "競進": "cạnh tiến",
+                "競存": "cạnh tồn",
+                "競爭": "cạnh tranh",
+                "生存競爭": "sinh tồn cạnh tranh",
+                "物競": "vật cạnh"
+            }
+        }
+    }
+}

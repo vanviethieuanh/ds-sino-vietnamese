@@ -1,0 +1,169 @@
+{
+    "character": "聞",
+    "details": {
+        "Âm Hán Việt": [
+            "văn",
+            "vấn",
+            "vặn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhĩ 耳 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門耳"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "ANSJ (日弓尸十)"
+        ],
+        "Unicode": [
+            "U+805E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wén ㄨㄣˊ",
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "văn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ブン (bun)",
+            "モン (mon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.く (ki.ku)",
+            "き.こえる (ki.koeru)"
+        ],
+        "Âm Hàn": [
+            "문"
+        ],
+        "Âm Quảng Đông": [
+            "man4",
+            "man6"
+        ]
+    },
+    "meanings": {
+        "văn": {
+            "Từ điển phổ thông": [
+                "nghe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghe thấy. ◎Như: 'phong văn' 風聞 mảng nghe, 'truyền văn' 傳聞 nghe đồn, 'dự văn' 預聞 thân tới tận nơi để nghe, 'bách văn bất như nhất kiến' 百聞不如一見 nghe trăm lần (bằng tai) không bằng thấy một lần (tận mắt).",
+                "(Động) Truyền đạt. ◎Như: 'phụng văn' 奉聞 kính bảo cho biết, 'đặc văn' 特聞 đặc cách báo cho hay. ◇Lã Thị Xuân Thu 呂氏春秋: 'Mưu vị phát nhi văn kì quốc' 謀未發而聞其國 (Trọng ngôn 重言) Mưu kế chưa thi hành mà đã truyền khắp nước.",
+                "(Động) Nổi danh, nổi tiếng. ◇Lí Bạch 李白: 'Ngô ái Mạnh phu tử, Phong lưu thiên hạ văn' 吾愛孟夫子, 風流天下聞 (Tặng Mạnh Hạo Nhiên 贈孟浩然) Ta yêu quý Mạnh phu tử, Phong lưu nổi tiếng trong thiên hạ.",
+                "(Động) Ngửi thấy. ◇Nguyễn Du 阮攸: 'Hiếu tu nhân khứ nhị thiên tải, Thử địa do văn lan chỉ hương' 好修人去二千載, 此地猶聞蘭芷香 (Tương Đàm điếu Tam Lư Đại Phu 湘潭吊三閭大夫) Người hiếu tu đi đã hai nghìn năm, Đất này còn nghe mùi hương của cỏ lan cỏ chỉ.",
+                "(Danh) Trí thức, hiểu biết. ◎Như: 'bác học đa văn' 博學多聞 nghe nhiều học rộng, 'bác văn cường chí' 博聞強識 nghe rộng nhớ dai, 'cô lậu quả văn' 孤陋寡聞 hẹp hòi nghe ít.",
+                "(Danh) Tin tức, âm tấn. ◎Như: 'tân văn' 新聞 tin tức (mới), 'cựu văn' 舊聞 truyền văn, điều xưa tích cũ nghe kể lại. ◇Tư Mã Thiên 司馬遷: 'Võng la thiên hạ phóng thất cựu văn, lược khảo kì hành sự, tống kì chung thủy' 僕懷欲陳之而未有路 (Báo Nhậm Thiếu Khanh thư 報任少卿書) (Thu nhặt) những chuyện xưa tích cũ bỏ sót trong thiên hạ, xét qua việc làm, tóm lại trước sau.",
+                "(Danh) Họ 'Văn'.",
+                "Một âm là 'vấn'. (Động) Tiếng động tới. ◎Như: 'thanh vấn vu thiên' 聲聞于天 tiếng động đến trời.",
+                "(Danh) Tiếng tăm, danh dự, danh vọng. ◎Như: 'lệnh vấn' 令聞 tiếng khen tốt.",
+                "(Tính) Có tiếng tăm, danh vọng. ◎Như: 'vấn nhân' 聞人 người có tiếng tăm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghe thấy, như phong văn 風聞 mảng nghe, truyền văn 傳聞 nghe đồn, v.v. Thân tới tận nơi để nghe gọi là dự văn 預聞.",
+                "Trí thức. Phàm học thức duyệt lịch đều nhờ tai mắt mới biết, cho nên gọi người nghe nhiều học rộng là bác học đa văn 博學多聞, là bác văn cường chí 博聞強識. Gọi người hẹp hòi nghe ít là cô lậu quả văn 孤陋寡聞.",
+                "Truyền đạt, như phụng văn 奉聞 kính bảo cho biết, đặc văn 特聞 đặc cách báo cho hay.",
+                "Ngửi thấy.",
+                "Một âm là vấn. Tiếng động tới, như thanh vấn vu thiên 聲聞于天 tiếng động đến trời.",
+                "Danh dự, như lệnh vấn 令聞 tiếng khen tốt. Ta quen đọc là vặn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghe, nghe nói, nghe theo: 耳聞不如一見 Tai nghe không bằng mắt thấy; 大王嘗 聞布衣之怒乎？ Đại vương có từng nghe nói đến tình trạng nổi giận của kẻ áo vải bao giờ chưa? (Chiến quốc sách); 敬聞命矣 Tôi xin kính nghe theo ý của ông (Lí Triều Uy: Liễu Nghị truyện);",
+                "Tin (tức): 要聞 Tin quan trọng; 奇聞 Tin lạ;",
+                "Hiểu biết, điều nghe biết, kiến văn, học thức: 博學多聞 Học nhiều biết rộng; 孤陋寡聞 Hẹp hòi nghe ít;",
+                "(văn) Tiếng tăm, danh vọng: 不求聞達于諸侯 Chẳng cần tiếng tăm truyền đến các nước chư hầu (Gia Cát Lượng: Xuất sư biểu);",
+                "(văn) Truyền thuyết, truyền văn: 網羅天下放失舊聞 Thu tập hết những truyền thuyết đã bị tản lạc trong khắp thiên hạ (Tư Mã Thiên: Báo Nhiệm Thiếu Khanh thư);",
+                "(văn) Làm cho vua chúa hoặc cấp trên nghe biết đến mình;",
+                "(văn) Truyền ra: 公子喜士，名聞天下 Công tử yêu quý kẻ sĩ, danh truyền khắp thiên hạ (Sử kí);",
+                "(văn) Nổi danh, nổi tiếng: 以勇氣聞于諸侯 Nhờ có dũng khí mà nổi tiếng ở các nước chư hầu (Sử kí);",
+                "(văn) Hiểu: 生乎吾前，其聞道也，固先乎吾 Những người sinh ra trước ta cố nhiên là hiểu đạo trước ta (Hàn Dũ: Sư thuyết);",
+                "(văn) Truyền đạt đi, báo cáo lên người trên: 奉聞 Kính báo cho biết; 特聞 Riêng báo cho hay; 燕王拜送 于庭，使使以聞大王 Vua nước Yên tự mình đến lạy dâng lễ cống ở sân, sai sứ giả báo lên cho đại vương biết (Chiến quốc sách);",
+                "Ngửi thấy: 我聞見香味了 Tôi đã ngửi thấy mùi thơm;",
+                "(văn) Tiếng động tới: 聲聞于天 Tiếng động tới trời;",
+                "Danh dự: 令聞 Tiếng khen tốt;",
+                "[Wén] (Họ) Văn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghe bằng tai — Nghe biết. Chỉ sự hiểu biết. Td: Kiến văn — Ngửi thấy bằng mũi."
+            ],
+            "compound_words": {
+                "博聞": "bác văn",
+                "百聞不如一見": "bách văn bất như nhất kiến",
+                "報聞": "báo văn",
+                "孤陋寡聞": "cô lậu quả văn",
+                "舊聞": "cựu văn",
+                "異聞": "dị văn",
+                "多聞": "đa văn",
+                "奇聞": "kỳ văn",
+                "目擊耳聞": "mục kích nhĩ văn",
+                "難聞": "nan văn",
+                "訃聞": "phó văn",
+                "風聞": "phong văn",
+                "新聞": "tân văn",
+                "奏聞": "tấu văn",
+                "謏聞": "tẩu văn",
+                "趣聞": "thú văn",
+                "側聞": "trắc văn",
+                "傳聞": "truyền văn",
+                "飫聞": "ứ văn",
+                "聞名": "văn danh",
+                "聞名於世": "văn danh ư thế",
+                "聞人": "văn nhân",
+                "聞問": "văn vấn",
+                "醜聞": "xú văn"
+            }
+        },
+        "vấn": {
+            "Từ điển phổ thông": [
+                "tiếng động tới, tiếng truyền tới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghe thấy. ◎Như: 'phong văn' 風聞 mảng nghe, 'truyền văn' 傳聞 nghe đồn, 'dự văn' 預聞 thân tới tận nơi để nghe, 'bách văn bất như nhất kiến' 百聞不如一見 nghe trăm lần (bằng tai) không bằng thấy một lần (tận mắt).",
+                "(Động) Truyền đạt. ◎Như: 'phụng văn' 奉聞 kính bảo cho biết, 'đặc văn' 特聞 đặc cách báo cho hay. ◇Lã Thị Xuân Thu 呂氏春秋: 'Mưu vị phát nhi văn kì quốc' 謀未發而聞其國 (Trọng ngôn 重言) Mưu kế chưa thi hành mà đã truyền khắp nước.",
+                "(Động) Nổi danh, nổi tiếng. ◇Lí Bạch 李白: 'Ngô ái Mạnh phu tử, Phong lưu thiên hạ văn' 吾愛孟夫子, 風流天下聞 (Tặng Mạnh Hạo Nhiên 贈孟浩然) Ta yêu quý Mạnh phu tử, Phong lưu nổi tiếng trong thiên hạ.",
+                "(Động) Ngửi thấy. ◇Nguyễn Du 阮攸: 'Hiếu tu nhân khứ nhị thiên tải, Thử địa do văn lan chỉ hương' 好修人去二千載, 此地猶聞蘭芷香 (Tương Đàm điếu Tam Lư Đại Phu 湘潭吊三閭大夫) Người hiếu tu đi đã hai nghìn năm, Đất này còn nghe mùi hương của cỏ lan cỏ chỉ.",
+                "(Danh) Trí thức, hiểu biết. ◎Như: 'bác học đa văn' 博學多聞 nghe nhiều học rộng, 'bác văn cường chí' 博聞強識 nghe rộng nhớ dai, 'cô lậu quả văn' 孤陋寡聞 hẹp hòi nghe ít.",
+                "(Danh) Tin tức, âm tấn. ◎Như: 'tân văn' 新聞 tin tức (mới), 'cựu văn' 舊聞 truyền văn, điều xưa tích cũ nghe kể lại. ◇Tư Mã Thiên 司馬遷: 'Võng la thiên hạ phóng thất cựu văn, lược khảo kì hành sự, tống kì chung thủy' 僕懷欲陳之而未有路 (Báo Nhậm Thiếu Khanh thư 報任少卿書) (Thu nhặt) những chuyện xưa tích cũ bỏ sót trong thiên hạ, xét qua việc làm, tóm lại trước sau.",
+                "(Danh) Họ 'Văn'.",
+                "Một âm là 'vấn'. (Động) Tiếng động tới. ◎Như: 'thanh vấn vu thiên' 聲聞于天 tiếng động đến trời.",
+                "(Danh) Tiếng tăm, danh dự, danh vọng. ◎Như: 'lệnh vấn' 令聞 tiếng khen tốt.",
+                "(Tính) Có tiếng tăm, danh vọng. ◎Như: 'vấn nhân' 聞人 người có tiếng tăm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghe thấy, như phong văn 風聞 mảng nghe, truyền văn 傳聞 nghe đồn, v.v. Thân tới tận nơi để nghe gọi là dự văn 預聞.",
+                "Trí thức. Phàm học thức duyệt lịch đều nhờ tai mắt mới biết, cho nên gọi người nghe nhiều học rộng là bác học đa văn 博學多聞, là bác văn cường chí 博聞強識. Gọi người hẹp hòi nghe ít là cô lậu quả văn 孤陋寡聞.",
+                "Truyền đạt, như phụng văn 奉聞 kính bảo cho biết, đặc văn 特聞 đặc cách báo cho hay.",
+                "Ngửi thấy.",
+                "Một âm là vấn. Tiếng động tới, như thanh vấn vu thiên 聲聞于天 tiếng động đến trời.",
+                "Danh dự, như lệnh vấn 令聞 tiếng khen tốt. Ta quen đọc là vặn."
+            ],
+            "compound_words": {
+                "聞問": "văn vấn"
+            }
+        },
+        "vặn": {
+            "Từ điển Thiều Chửu": [
+                "Nghe thấy, như phong văn 風聞 mảng nghe, truyền văn 傳聞 nghe đồn, v.v. Thân tới tận nơi để nghe gọi là dự văn 預聞.",
+                "Trí thức. Phàm học thức duyệt lịch đều nhờ tai mắt mới biết, cho nên gọi người nghe nhiều học rộng là bác học đa văn 博學多聞, là bác văn cường chí 博聞強識. Gọi người hẹp hòi nghe ít là cô lậu quả văn 孤陋寡聞.",
+                "Truyền đạt, như phụng văn 奉聞 kính bảo cho biết, đặc văn 特聞 đặc cách báo cho hay.",
+                "Ngửi thấy.",
+                "Một âm là vấn. Tiếng động tới, như thanh vấn vu thiên 聲聞于天 tiếng động đến trời.",
+                "Danh dự, như lệnh vấn 令聞 tiếng khen tốt. Ta quen đọc là vặn."
+            ]
+        }
+    }
+}

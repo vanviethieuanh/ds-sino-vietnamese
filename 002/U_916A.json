@@ -1,0 +1,82 @@
+{
+    "character": "酪",
+    "details": {
+        "Âm Hán Việt": [
+            "lạc"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "dậu 酉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰酉各"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一ノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "MWHER (一田竹水口)"
+        ],
+        "Unicode": [
+            "U+916A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lào ㄌㄠˋ",
+            "lù ㄌㄨˋ",
+            "luò ㄌㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "lộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラク (raku)"
+        ],
+        "Âm Hàn": [
+            "락",
+            "낙"
+        ],
+        "Âm Quảng Đông": [
+            "lok3",
+            "lou6"
+        ]
+    },
+    "meanings": {
+        "lạc": {
+            "Từ điển phổ thông": [
+                "cô đặc sữa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sữa nấu đông.",
+                "(Danh) Cao, mứt (thực phẩm nấu cô lại). ◎Như: 'hạnh lạc' 杏酪 mứt hạnh đào, 'quất lạc' 橘酪 mứt quýt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cao sữa, cách làm dùng nửa gáo sữa cho vào nồi đun qua cho hơi sem sém, rồi lại cho sữa khác vào, đun sôi dần dần mà quấy luôn thấy đặc rồi thì bắc ra, chờ nguội rồi vớt lấy váng mỏng ở trên gọi là tô 酥 còn lại cho một ít dầu sữa cũ vào, lấy giấy mịn kín, thành ra lạc 酪. Vì thế nên dân miền bắc đều gọi sữa bò sữa ngựa là lạc.",
+                "Các thứ đem đun cho nhừ như tương cũng gọi là lạc. Như hạnh lạc 杏酪 cao hạnh, quất lạc 橘酪 cao quýt, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sữa đông;",
+                "Nước hoa quả đông: 山渣酪 Nước táo gai đông; 橘酪 Nước quýt đông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước sữa, đun lên cho đặc lại — Sữa — Chất nước đặc sệt — Mứt trái cây ( nghiền nát trái cây, đun lên cho đặc sệt lại thành mứt )."
+            ],
+            "compound_words": {
+                "奶酪": "nãi lạc",
+                "牛酪": "ngưu lạc",
+                "乳酪": "nhũ lạc",
+                "酥酪": "tô lạc"
+            }
+        }
+    }
+}

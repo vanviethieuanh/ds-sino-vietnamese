@@ -1,0 +1,84 @@
+{
+    "character": "飮",
+    "details": {
+        "Âm Hán Việt": [
+            "ấm",
+            "ẩm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thực 食 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻞欠"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ一一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "OSNO (人尸弓人)"
+        ],
+        "Unicode": [
+            "U+98EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yǐn ㄧㄣˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "の.む (no.mu)"
+        ],
+        "Âm Hàn": [
+            "음"
+        ]
+    },
+    "meanings": {
+        "ấm": {
+            "Từ điển Thiều Chửu": [
+                "Đồ uống. Như rượu, tương gọi là ẩm.",
+                "Uống. Như ẩm tửu 飲酒 uống rượu, ẩm thuỷ 飲水 uống nước, v.v.",
+                "Ngậm nuốt. Như ẩm hận 飲恨 nuốt giận, nghĩa là mang mối hận âm thầm ở trong không lộ ra ngoài.",
+                "Một âm là ấm. Cho uống. Như ấm chi dĩ tửu 飲之以酒 cho uống rượu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Ấm 飲."
+            ]
+        },
+        "ẩm": {
+            "Từ điển phổ thông": [
+                "uống",
+                "nước uống",
+                "thuốc nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Xem chữ “ẩm” 飲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đồ uống. Như rượu, tương gọi là ẩm.",
+                "Uống. Như ẩm tửu 飲酒 uống rượu, ẩm thuỷ 飲水 uống nước, v.v.",
+                "Ngậm nuốt. Như ẩm hận 飲恨 nuốt giận, nghĩa là mang mối hận âm thầm ở trong không lộ ra ngoài.",
+                "Một âm là ấm. Cho uống. Như ấm chi dĩ tửu 飲之以酒 cho uống rượu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Ẩm 飲."
+            ],
+            "compound_words": {
+                "鄉飮": "hương ẩm"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "character": "汛",
+    "details": {
+        "Âm Hán Việt": [
+            "tấn"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡卂"
+        ],
+        "Nét bút": [
+            "丶丶一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "ENJ (水弓十)"
+        ],
+        "Unicode": [
+            "U+6C5B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "phiếm",
+            "tấn",
+            "vàm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)",
+            "サン (san)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そそ.ぐ (soso.gu)"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "seon3"
+        ]
+    },
+    "meanings": {
+        "tấn": {
+            "Từ điển phổ thông": [
+                "nước tràn",
+                "vẩy nước, té nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vẩy nước, tưới, rưới.",
+                "(Danh) Nước tràn định kì, mùa nước dâng cao. ◎Như: 'đào hoa tấn' 桃花汛 nước dâng cao mùa xuân hoa đào nở (trên sông Hoàng Hà, v.v.).",
+                "(Danh) Kinh nguyệt phụ nữ. ◎Như: 'thiên quý tấn' 天癸汛.",
+                "(Danh) Chỗ chia đồn đóng quân (thời nhà Minh, nhà Thanh) gọi là 'tấn địa' 汛地."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước tràn.",
+                "Chỗ chia đồn trấn thủ gọi là tấn địa 汛地.",
+                "Vẩy nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Mùa) nước to, nước tràn, nước lên (trên sông);",
+                "(văn) Vẩy nước, tưới nước;",
+                "Sự thấy kinh, kinh nguyệt;",
+                "【汛地】tấn địa [xùndì] Chỗ chia đồn trấn thủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẩy nước cho ướt — Nước dâng lớn — Đóng."
+            ],
+            "compound_words": {
+                "汛地": "tấn địa",
+                "汛掃": "tấn tảo"
+            }
+        }
+    }
+}

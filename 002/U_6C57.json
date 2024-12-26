@@ -1,0 +1,144 @@
+{
+    "character": "汗",
+    "details": {
+        "Âm Hán Việt": [
+            "hàn",
+            "hãn",
+            "hạn"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡干"
+        ],
+        "Nét bút": [
+            "丶丶一一一丨"
+        ],
+        "Thương Hiệt": [
+            "EMJ (水一十)"
+        ],
+        "Unicode": [
+            "U+6C57"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ",
+            "hán ㄏㄢˊ",
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nôm": [
+            "cạn",
+            "hãn",
+            "khan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あせ (ase)"
+        ],
+        "Âm Hàn": [
+            "한"
+        ],
+        "Âm Quảng Đông": [
+            "hon4",
+            "hon6",
+            "hong6"
+        ]
+    },
+    "meanings": {
+        "hàn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Mồ hôi. ◎Như: 'lãnh hãn' 冷汗 mồ hôi lạnh (không nóng mà đổ mồ hôi: vì bệnh, vì sợ). ◇Thủy hử truyện 水滸傳: 'Tống Giang thính liễu, hách đắc nhất thân lãnh hãn' 宋江聽了, 嚇得一身冷汗 (Đệ tứ thập nhị hồi) Tống Giang nghe xong, kinh hãi cả người toát mồ hôi lạnh.",
+                "(Danh) Họ 'Hãn'.",
+                "(Động) Đổ mồ hôi, chảy mồ hôi. ◇Hán Thư 漢書: 'Hung suyễn phu hãn, nhân cực mã quyện' 匈喘膚汗, 人極馬倦 (Vương Bao truyện 王襃傳) Ngực thở hổn hển, da đổ mồ hôi, người và ngựa mệt mỏi.",
+                "(Động) Tan lở. ◎Như: 'hoán hãn' 渙汗 hiệu lệnh đã ra, không thu về được nữa (như mồ hôi đã ra không thu lại được).",
+                "Một âm là 'hàn'. (Danh) Vua rợ Đột Quyết gọi là 'Khả Hàn' 可汗."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mồ hôi.",
+                "Tan lở, ví dụ như cái gì đã ra không trở lại được nữa. Hiệu lệnh đã ra, không thu về được nữa gọi là hoán hãn 渙汗.",
+                "Một âm là hàn. Vua rợ Ðột Quyết gọi là khả hàn 可汗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 可汗 [kè hán]. Xem 汗 [hàn]."
+            ],
+            "compound_words": {
+                "可汗": "khả hàn"
+            }
+        },
+        "hãn": {
+            "Từ điển phổ thông": [
+                "mồ hôi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mồ hôi. ◎Như: 'lãnh hãn' 冷汗 mồ hôi lạnh (không nóng mà đổ mồ hôi: vì bệnh, vì sợ). ◇Thủy hử truyện 水滸傳: 'Tống Giang thính liễu, hách đắc nhất thân lãnh hãn' 宋江聽了, 嚇得一身冷汗 (Đệ tứ thập nhị hồi) Tống Giang nghe xong, kinh hãi cả người toát mồ hôi lạnh.",
+                "(Danh) Họ 'Hãn'.",
+                "(Động) Đổ mồ hôi, chảy mồ hôi. ◇Hán Thư 漢書: 'Hung suyễn phu hãn, nhân cực mã quyện' 匈喘膚汗, 人極馬倦 (Vương Bao truyện 王襃傳) Ngực thở hổn hển, da đổ mồ hôi, người và ngựa mệt mỏi.",
+                "(Động) Tan lở. ◎Như: 'hoán hãn' 渙汗 hiệu lệnh đã ra, không thu về được nữa (như mồ hôi đã ra không thu lại được).",
+                "Một âm là 'hàn'. (Danh) Vua rợ Đột Quyết gọi là 'Khả Hàn' 可汗."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mồ hôi.",
+                "Tan lở, ví dụ như cái gì đã ra không trở lại được nữa. Hiệu lệnh đã ra, không thu về được nữa gọi là hoán hãn 渙汗.",
+                "Một âm là hàn. Vua rợ Ðột Quyết gọi là khả hàn 可汗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mồ hôi, bồ hôi: 出汗 Ra (toát, chảy) mồ hôi;",
+                "(văn) Tan lở. Xem 汗 [hán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mồ hôi — Đi mà không trở lại."
+            ],
+            "compound_words": {
+                "阿富汗": "a phú hãn",
+                "震汗": "chấn hãn",
+                "鹽汗": "diêm hãn",
+                "盜汗": "đạo hãn",
+                "駭汗": "hãi hãn",
+                "汗珠": "hãn châu",
+                "汗液": "hãn dịch",
+                "汗簡": "hãn giản",
+                "汗下": "hãn hạ",
+                "汗血": "hãn huyết",
+                "汗馬": "hãn mã",
+                "汗漫": "hãn mạn",
+                "汗牛充棟": "hãn ngưu sung đống",
+                "汗顏": "hãn nhan",
+                "汗襦": "hãn nhu",
+                "汗管": "hãn quản",
+                "汗衫": "hãn sam",
+                "汗青": "hãn thanh",
+                "汗腺": "hãn tuyến",
+                "汗衣": "hãn y",
+                "澔汗": "hạo hãn",
+                "血汗": "huyết hãn",
+                "可汗": "khả hãn",
+                "瀾汗": "lan hãn",
+                "泮汗": "phán hãn",
+                "發汗": "phát hãn",
+                "愧汗": "quý hãn",
+                "充棟汗牛": "sung đống hãn ngưu",
+                "慙汗": "tàm hãn",
+                "弇汗": "yểm hãn"
+            }
+        },
+        "hạn": {
+            "Từ điển phổ thông": [
+                "mồ hôi"
+            ]
+        }
+    }
+}

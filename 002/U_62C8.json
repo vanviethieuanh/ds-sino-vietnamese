@@ -1,0 +1,86 @@
+{
+    "character": "拈",
+    "details": {
+        "Âm Hán Việt": [
+            "niêm"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘占"
+        ],
+        "Nét bút": [
+            "一丨一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QYR (手卜口)"
+        ],
+        "Unicode": [
+            "U+62C8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "diān ㄉㄧㄢ",
+            "niān ㄋㄧㄢ",
+            "nián ㄋㄧㄢˊ",
+            "niǎn ㄋㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "chêm",
+            "chiêm",
+            "chớm",
+            "niêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネン (nen)",
+            "セン (sen)",
+            "デン (den)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひね.る (hine.ru)"
+        ],
+        "Âm Hàn": [
+            "념"
+        ],
+        "Âm Quảng Đông": [
+            "nim1",
+            "nin2"
+        ]
+    },
+    "meanings": {
+        "niêm": {
+            "Từ điển phổ thông": [
+                "nhón lấy (dùng ngón tay lấy đồ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhón, rút, dùng ngón tay cầm lấy. ◎Như: 'niêm hoa vi tiếu' 拈花微笑 cầm hoa mỉm cười, 'niêm cưu nhi' 拈鬮兒 bắt thăm.",
+                "(Động) Xoắn, xe. § Thông 'niệp' 捻.◎Như: 'niêm tuyến' 拈線 xoắn dây, 'niêm đăng tâm' 拈燈心 xe tim đèn.",
+                "(Động) Cầm vật trong tay để cân nhắc nặng nhẹ. § Thông 'điêm' 掂. ◎Như: 'tha niêm liễu niêm tiểu thạch khối' 他拈了拈小石塊 nó nhắc nhắc trên tay hòn đá nhỏ để xem nặng nhẹ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gión lấy, nhắc lấy, dùng ngón tay lấy vật gì gọi là niêm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt, rút, lấy (bằng tay): 拈鬮兒 Bắt thăm, rút thăm; 從罐子裡拈出一塊糖 Lấy một miếng kẹo từ trong lọ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhón lấy ( dùng các ngón tay mà bốc lấy )."
+            ],
+            "compound_words": {
+                "拈香": "niêm hương"
+            }
+        }
+    }
+}

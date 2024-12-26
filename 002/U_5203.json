@@ -1,0 +1,88 @@
+{
+    "character": "刃",
+    "details": {
+        "Âm Hán Việt": [
+            "nhẫn",
+            "nhận"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "đao 刀 (+1 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Hình thái": [
+            "⿹刀丶"
+        ],
+        "Nét bút": [
+            "フノ丶"
+        ],
+        "Thương Hiệt": [
+            "SHI (尸竹戈)"
+        ],
+        "Unicode": [
+            "U+5203"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "rèn ㄖㄣˋ"
+        ],
+        "Âm Nôm": [
+            "nhấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジン (jin)",
+            "ニン (nin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は (ha)",
+            "やいば (yaiba)",
+            "き.る (ki.ru)"
+        ],
+        "Âm Hàn": [
+            "인"
+        ],
+        "Âm Quảng Đông": [
+            "jan6"
+        ]
+    },
+    "meanings": {
+        "nhẫn": {
+            "Từ điển phổ thông": [
+                "mũi nhọn"
+            ]
+        },
+        "nhận": {
+            "Từ điển phổ thông": [
+                "mũi nhọn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lưỡi đao, bộ phận sắc nhọn của binh khí. ◎Như: 'đao nhận' 刀刃 lưỡi đao.",
+                "(Danh) Phiếm chỉ vũ khí có mũi nhọn. ◇Liễu Tông Nguyên 柳宗元: 'Nhân thủ nhận sát chi' 因取刃殺之 (Đồng Khu Kí truyện 童區寄傳) Do đó cầm mũi nhọn giết chết.",
+                "(Động) Giết. ◎Như: 'thủ nhận' 手刃 cầm dao giết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mũi nhọn. ② Chém giết, như thủ nhận 手刃 tự tay mình giết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 刃."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mũi nhọn của gươm dao — Chỉ chung các loại vũ khí bén nhọn — Giết bằng vũ khí bén nhọn."
+            ],
+            "compound_words": {
+                "白刃": "bạch nhận",
+                "兵不血刃": "binh bất huyết nhận",
+                "霜刃": "sương nhận"
+            }
+        }
+    }
+}

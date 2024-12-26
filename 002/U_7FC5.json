@@ -1,0 +1,84 @@
+{
+    "character": "翅",
+    "details": {
+        "Âm Hán Việt": [
+            "sí"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "vũ 羽 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺支羽"
+        ],
+        "Nét bút": [
+            "一丨フ丶フ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "JESMM (十水尸一一)"
+        ],
+        "Unicode": [
+            "U+7FC5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ"
+        ],
+        "Âm Nôm": [
+            "sí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はね (hane)",
+            "つばさ (tsubasa)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "ci3"
+        ]
+    },
+    "meanings": {
+        "sí": {
+            "Từ điển phổ thông": [
+                "cánh chim, cánh côn trùng",
+                "vây cá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cánh (loài chim, loài sâu). ◎Như: 'đại bằng triển sí' 大鵬展翅 chim đại bằng duỗi cánh.",
+                "(Danh) Vây cá. ◎Như: 'ngư sí' 魚翅 vây cá.",
+                "(Phó) Chỉ. § Cũng như 'thí' 啻. ◇Mạnh Tử 孟子: 'Hề sí thực trọng' 奚翅食重 (Cáo tử hạ 告子下) Sao chỉ lấy cái ăn làm trọng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cánh, cánh của các loài chim loài sâu đều gọi là sí.",
+                "Vây cá, ngư sí 魚翅.",
+                "Cùng nghĩa với chữ thí 啻. Như hề sí thực trọng 奚翅食重 sao những lấy ăn làm trọng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cánh (chim): 雁翅 Cánh nhạn;",
+                "Vây: 魚翅 Vây cá;",
+                "(văn) Chỉ (dùng như 啻, bộ 口): 奚翅食重 Sao chỉ lấy sự ăn uống làm trọng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cánh chim — Cánh loài côn trùng."
+            ],
+            "compound_words": {
+                "雙翅": "song sí",
+                "鼻翅": "tỵ sí"
+            }
+        }
+    }
+}

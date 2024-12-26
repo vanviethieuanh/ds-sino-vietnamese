@@ -1,0 +1,77 @@
+{
+    "character": "肠",
+    "details": {
+        "Âm Hán Việt": [
+            "tràng",
+            "trường"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhục 肉 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月𠃓"
+        ],
+        "Nét bút": [
+            "ノフ一一フノノ"
+        ],
+        "Thương Hiệt": [
+            "BNSH (月弓尸竹)"
+        ],
+        "Unicode": [
+            "U+80A0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tràng",
+            "trướng"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tràng": {
+            "Từ điển phổ thông": [
+                "ruột"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 腸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 腸"
+            ],
+            "compound_words": {
+                "大肠": "đại tràng"
+            }
+        },
+        "trường": {
+            "Từ điển phổ thông": [
+                "ruột"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 腸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 腸"
+            ],
+            "compound_words": {
+                "大肠": "đại trường",
+                "盲肠": "manh trường"
+            }
+        }
+    }
+}

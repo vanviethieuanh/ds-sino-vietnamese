@@ -1,0 +1,76 @@
+{
+    "character": "籙",
+    "details": {
+        "Âm Hán Việt": [
+            "lục"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "trúc 竹 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮録"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丶一一丨丶ノ一フ一一丨丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HCVE (竹金女水)"
+        ],
+        "Unicode": [
+            "U+7C59"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lù ㄌㄨˋ"
+        ],
+        "Âm Nôm": [
+            "lục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョク (ryoku)",
+            "ロク (roku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほんばこ (hon bako)"
+        ],
+        "Âm Quảng Đông": [
+            "luk6"
+        ]
+    },
+    "meanings": {
+        "lục": {
+            "Từ điển phổ thông": [
+                "(xem: đồ lục 圖籙,图箓)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ thư, sách tịch. ◎Như: 'đồ lục' 圖籙 một loại thư tịch về sấm bùa mệnh, 'ưng đồ thụ lục' 膺圖受籙 (cũng viết là 應圖受籙) đế vương nhận phù mệnh làm chủ thiên hạ.",
+                "(Danh) Phù chú của đạo gia. ◎Như: 'phù lục' 符籙 một thứ văn tự thần bí của đạo gia dùng để sai khiến quỷ thần."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðồ lục 圖籙 sách mệnh của thiên thần cho. Vua được làm chủ cả thiên hạ gọi là ưng đồ thụ lục 膺圖受籙. Cũng viết là 應圖受籙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bùa: 符籙 Bùa chú;",
+                "Sổ sách: 圖籙 Sách mệnh của thiên thần cho; 膺圖受籙 Vua được làm chủ cả thiên hạ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "chỉ chung sách vở."
+            ],
+            "compound_words": {
+                "圖籙": "đồ lục",
+                "符籙": "phù lục"
+            }
+        }
+    }
+}

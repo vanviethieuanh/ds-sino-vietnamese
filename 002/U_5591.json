@@ -1,0 +1,114 @@
+{
+    "character": "喑",
+    "details": {
+        "Âm Hán Việt": [
+            "âm",
+            "ấm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口音"
+        ],
+        "Nét bút": [
+            "丨フ一丶一丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "RYTA (口卜廿日)"
+        ],
+        "Unicode": [
+            "U+5591"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yīn ㄧㄣ",
+            "yín ㄧㄣˊ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "âm",
+            "hăm",
+            "om",
+            "ồm",
+            "ỡm",
+            "um",
+            "vòi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "オン (on)",
+            "アン (an)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おし (oshi)",
+            "さけ.ぶ (sake.bu)"
+        ],
+        "Âm Hàn": [
+            "음"
+        ],
+        "Âm Quảng Đông": [
+            "jam1"
+        ]
+    },
+    "meanings": {
+        "âm": {
+            "Từ điển phổ thông": [
+                "bị câm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Câm, mất tiếng. ◇Hậu Hán Thư 後漢書: 'Âm bất năng ngôn' 喑不能言 (Viên Hoành truyện 袁閎傳) Câm không nói được.",
+                "Một âm là 'ấm'. (Động) Khóc không thôi.",
+                "(Động) Kêu to giận dữ. ◎Như: 'ấm á sất trá' 喑啞叱吒 gầm thét giận dữ.",
+                "(Động) Im lặng không nói. ◎Như: 'ấm khí' 喑氣 im bặt, im không nói, 'ấm úy' 喑畏 im thin thít, sợ quá không dám nói.",
+                "(Động) Nghẹn ngào (bi thương quá độ khóc không ra tiếng). ◎Như: 'ấm yết' 喑咽 nghẹn ngào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Câm, mất tiếng.",
+                "Một âm là ấm cất tiếng gọi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mất tiếng, câm;",
+                "Im lặng (không nói)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khóc mãi không nín, nói về trẻ con khóc dai — Im lặng — Câm, không nói được. Một âm khác là Ấm."
+            ]
+        },
+        "ấm": {
+            "Từ điển trích dẫn": [
+                "(Tính) Câm, mất tiếng. ◇Hậu Hán Thư 後漢書: 'Âm bất năng ngôn' 喑不能言 (Viên Hoành truyện 袁閎傳) Câm không nói được.",
+                "Một âm là 'ấm'. (Động) Khóc không thôi.",
+                "(Động) Kêu to giận dữ. ◎Như: 'ấm á sất trá' 喑啞叱吒 gầm thét giận dữ.",
+                "(Động) Im lặng không nói. ◎Như: 'ấm khí' 喑氣 im bặt, im không nói, 'ấm úy' 喑畏 im thin thít, sợ quá không dám nói.",
+                "(Động) Nghẹn ngào (bi thương quá độ khóc không ra tiếng). ◎Như: 'ấm yết' 喑咽 nghẹn ngào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Câm, mất tiếng.",
+                "Một âm là ấm cất tiếng gọi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cất tiếng gọi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ấm á 喑啞 — Một âm khác là Âm."
+            ],
+            "compound_words": {
+                "喑啞": "ấm á",
+                "喑啞叱咤": "ấm á sất sá",
+                "聾喑": "lung ấm"
+            }
+        }
+    }
+}

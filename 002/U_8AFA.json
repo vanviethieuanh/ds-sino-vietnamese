@@ -1,0 +1,84 @@
+{
+    "character": "諺",
+    "details": {
+        "Âm Hán Việt": [
+            "ngạn"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言産"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶一丶ノ一ノノノノ"
+        ],
+        "Thương Hiệt": [
+            "YRYHH (卜口卜竹竹)"
+        ],
+        "Unicode": [
+            "U+8AFA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "ngạn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ことわざ (kotowaza)"
+        ],
+        "Âm Hàn": [
+            "언",
+            "안"
+        ],
+        "Âm Quảng Đông": [
+            "jin6"
+        ]
+    },
+    "meanings": {
+        "ngạn": {
+            "Từ điển phổ thông": [
+                "ngạn ngữ, phương ngôn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tục ngữ (lời lưu truyền trong dân gian, có ý nghĩa, thường mang dụng ý khuyên nhủ). ◎Như: 'ngạn ngôn' 諺言, 'ngạn ngữ' 諺語.",
+                "(Động) Viếng, thăm hỏi nhà có tang. § Thông 'ngạn' 唁."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lời tục ngữ.",
+                "Viếng thăm.",
+                "Thô tục."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tục ngữ, ngạn ngữ, cách ngôn: 古諺 Tục ngữ xưa;",
+                "Thô tục, thô lỗ, không cung kính;",
+                "Viếng thăm gia đình người chết (như 唁, bộ 口)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Câu nói có từ lâu đời, được lưu truyền trong vùng, trong nước."
+            ],
+            "compound_words": {
+                "鄙諺": "bỉ ngạn",
+                "野諺": "dã ngạn",
+                "諺言": "ngạn ngôn",
+                "諺語": "ngạn ngữ"
+            }
+        }
+    }
+}

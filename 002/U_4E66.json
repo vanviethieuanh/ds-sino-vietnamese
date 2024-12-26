@@ -1,0 +1,72 @@
+{
+    "character": "书",
+    "details": {
+        "Âm Hán Việt": [
+            "thư"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "cổn 丨 (+3 nét)",
+            "ất 乙 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "フフ丨丶"
+        ],
+        "Thương Hiệt": [
+            "IDS (戈木尸)"
+        ],
+        "Unicode": [
+            "U+4E66"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shū ㄕㄨ"
+        ],
+        "Âm Nôm": [
+            "thư"
+        ],
+        "Âm Quảng Đông": [
+            "syu1"
+        ]
+    },
+    "meanings": {
+        "thư": {
+            "Từ điển phổ thông": [
+                "sách",
+                "thư tín"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 書."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 書"
+            ],
+            "compound_words": {
+                "百科全书": "bách khoa toàn thư",
+                "祕书": "bí thư",
+                "兵书": "binh thư",
+                "背书": "bội thư",
+                "图书馆": "đồ thư quán",
+                "书靣": "thư diện",
+                "书店": "thư điếm",
+                "书架": "thư giá",
+                "书记": "thư ký",
+                "书法": "thư pháp",
+                "书房": "thư phòng",
+                "书信": "thư tín",
+                "书桌": "thư trác",
+                "尚书": "thượng thư"
+            }
+        }
+    }
+}

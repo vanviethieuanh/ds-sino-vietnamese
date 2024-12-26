@@ -1,0 +1,68 @@
+{
+    "character": "负",
+    "details": {
+        "Âm Hán Việt": [
+            "phụ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "bối 貝 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺈贝"
+        ],
+        "Nét bút": [
+            "ノフ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "NBO (弓月人)"
+        ],
+        "Unicode": [
+            "U+8D1F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phụ"
+        ],
+        "Âm Quảng Đông": [
+            "fu6"
+        ]
+    },
+    "meanings": {
+        "phụ": {
+            "Từ điển phổ thông": [
+                "cậy thế, ỷ thế người khác",
+                "vác, cõng",
+                "làm trái ngược",
+                "thua"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 負."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 負"
+            ],
+            "compound_words": {
+                "抱负": "bão phụ",
+                "不分胜负": "bất phân thắng phụ",
+                "背负": "bội phụ",
+                "欺负": "khi phụ",
+                "负责": "phụ trách",
+                "自负": "tự phụ"
+            }
+        }
+    }
+}

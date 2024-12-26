@@ -1,0 +1,100 @@
+{
+    "character": "风",
+    "details": {
+        "Âm Hán Việt": [
+            "phong",
+            "phóng",
+            "phúng"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "phong 風 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "HNK (竹弓大)"
+        ],
+        "Unicode": [
+            "U+98CE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ",
+            "fěng ㄈㄥˇ",
+            "fèng ㄈㄥˋ"
+        ],
+        "Âm Nôm": [
+            "phong"
+        ],
+        "Âm Quảng Đông": [
+            "fung1"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "gió",
+                "tục, thói quen",
+                "bệnh phong"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 風."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 風"
+            ],
+            "compound_words": {
+                "把风": "bả phong",
+                "屏风": "bình phong",
+                "古风": "cổ phong",
+                "强风": "cường phong",
+                "和风": "hoà phong",
+                "有风": "hữu phong",
+                "风格": "phong cách",
+                "风景": "phong cảnh",
+                "风度": "phong độ",
+                "风流": "phong lưu",
+                "风光": "phong quang",
+                "风筝": "phong tranh",
+                "风潮": "phong trào",
+                "风尘": "phong trần",
+                "风传": "phong truyền",
+                "风俗": "phong tục",
+                "风姿": "phong tư",
+                "朔风": "sóc phong",
+                "采风": "thái phong",
+                "淳风": "thuần phong",
+                "伤风": "thương phong",
+                "旋风": "toàn phong",
+                "中风": "trúng phong",
+                "妖风": "yêu phong"
+            }
+        },
+        "phóng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Báo tin, cho biết;",
+                "Châm biếm (như 諷, bộ 言);",
+                "(Gió) thổi."
+            ]
+        },
+        "phúng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Báo tin, cho biết;",
+                "Châm biếm (như 諷, bộ 言);",
+                "(Gió) thổi."
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "礁",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêu",
+            "tiều"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thạch 石 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石焦"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一ノ丨丶一一一丨一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "MROGF (一口人土火)"
+        ],
+        "Unicode": [
+            "U+7901"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiāo ㄐㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "tiêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Hàn": [
+            "초"
+        ],
+        "Âm Quảng Đông": [
+            "ziu1"
+        ]
+    },
+    "meanings": {
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "đá ngầm",
+                "san hô"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đá ngầm: 輪船觸礁 Tàu thuỷ đâm vào đá ngầm."
+            ],
+            "compound_words": {
+                "暗礁": "ám tiêu"
+            }
+        },
+        "tiều": {
+            "Từ điển phổ thông": [
+                "đá ngầm",
+                "san hô"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đá ngầm, ở dưới sông hoặc trong lòng biển.",
+                "(Danh) Chất giống như quặng đá do xác san hô chết chồng chất lại thành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðá ngầm, đá mọc ngầm trong nước trong bể, thuyền tầu nhỡ va phải là vỡ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đá ngầm ngoài biển."
+            ],
+            "compound_words": {
+                "暗礁": "ám tiều"
+            }
+        }
+    }
+}

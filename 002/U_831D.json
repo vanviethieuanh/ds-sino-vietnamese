@@ -1,0 +1,83 @@
+{
+    "character": "茝",
+    "details": {
+        "Âm Hán Việt": [
+            "chỉ",
+            "sải"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹𦣞"
+        ],
+        "Nét bút": [
+            "一丨丨一丨丨フ一丨フ"
+        ],
+        "Thương Hiệt": [
+            "TSLL (廿尸中中)"
+        ],
+        "Unicode": [
+            "U+831D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chǎi ㄔㄞˇ",
+            "zhǐ ㄓˇ"
+        ],
+        "Âm Nôm": [
+            "chỉ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "セイ (sei)",
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よろいぐさ (yoroigusa)"
+        ],
+        "Âm Hàn": [
+            "채"
+        ],
+        "Âm Quảng Đông": [
+            "coi2",
+            "zi2"
+        ]
+    },
+    "meanings": {
+        "chỉ": {
+            "Từ điển phổ thông": [
+                "(xem: kỳ chỉ 蘄茝,蕲茝)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Một giống cỏ thơm (theo cổ thư). § Xem “kì chỉ” 蘄茝."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kì chỉ 蘄茝 một thứ cỏ thơm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (thực) Bạch chỉ."
+            ],
+            "compound_words": {
+                "蘄茝": "kỳ chỉ",
+                "蕲茝": "kỳ chỉ"
+            }
+        },
+        "sải": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Một loại cỏ thơm."
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "character": "郊",
+    "details": {
+        "Âm Hán Việt": [
+            "giao"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ấp 邑 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰交⻏"
+        ],
+        "Nét bút": [
+            "丶一ノ丶ノ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "YKNL (卜大弓中)"
+        ],
+        "Unicode": [
+            "U+90CA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiāo ㄐㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "giao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "gaau1"
+        ]
+    },
+    "meanings": {
+        "giao": {
+            "Từ điển phổ thông": [
+                "ngoại thành, ngoại ô"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngày xưa, chỗ cách xa nước một trăm dặm. Nay gọi ngoài thành là 'giao' 郊. ◎Như: 'cận giao' 近郊 khu gần thành. ◇Đỗ Phủ 杜甫: 'Khóa mã xuất giao thì cực mục, Bất kham nhân sự nhật tiêu điều' 跨馬出郊時極目, 不堪人事日蕭條 (Dã vọng 野望) Cưỡi ngựa ra ngoài thành nhìn mút mắt, Đau lòng vì cảnh đời ngày một suy đồi, rách nát.",
+                "(Danh) Tế 'giao'. § Ngày đông chí tế trời ở cõi phía nam ngoài thành gọi là tế 'nam giao' 南郊 hay 'giao thiên' 郊天.",
+                "(Danh) Tên đất, thời Xuân Thu thuộc nước Tấn, nay ở vào khoảng tỉnh Sơn Tây."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chỗ cách xa nước một trăm dặm. Nay thường gọi ngoài thành là cận giao 近郊 cõi gần thành.",
+                "Tế giao. Ngày đông chí tế trời ở cõi phía nam ngoài thành gọi là tế nam giao 南郊 hay giao thiên 郊天."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngoại ô, vùng ngoài thành, ngoại thành: 近郊 Vùng gần thành;",
+                "(văn) Tế giao (lễ tế trời đất)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng ở kinh đô — Lễ tế trời."
+            ],
+            "compound_words": {
+                "北郊": "bắc giao",
+                "近郊": "cận giao",
+                "南郊": "nam giao",
+                "城郊": "thành giao"
+            }
+        }
+    }
+}

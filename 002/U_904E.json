@@ -1,0 +1,230 @@
+{
+    "character": "過",
+    "details": {
+        "Âm Hán Việt": [
+            "qua",
+            "quá"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sước 辵 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶咼"
+        ],
+        "Nét bút": [
+            "丨フフ丨フ丨フ一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YBBR (卜月月口)"
+        ],
+        "Unicode": [
+            "U+904E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guō ㄍㄨㄛ",
+            "guò ㄍㄨㄛˋ",
+            "guo",
+            "huò ㄏㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "goá",
+            "qua",
+            "quớ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.ぎる (su.giru)",
+            "-す.ぎる (-su.giru)",
+            "-す.ぎ (-su.gi)",
+            "す.ごす (su.gosu)",
+            "あやま.つ (ayama.tsu)",
+            "あやま.ち (ayama.chi)",
+            "よ.ぎる (yo.giru)"
+        ],
+        "Âm Hàn": [
+            "과"
+        ],
+        "Âm Quảng Đông": [
+            "gwo1",
+            "gwo3"
+        ]
+    },
+    "meanings": {
+        "qua": {
+            "Từ điển phổ thông": [
+                "qua, vượt",
+                "hơn, quá",
+                "đã từng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trải qua, sống qua. ◇Hàn Ác 韓偓: 'Liệu đắc tha hương quá giai tiết, Diệc ưng hoài bão ám thê nhiên' 料得他鄉過佳節, 亦應懷抱暗淒然 (Hàn thực nhật trùng du lí thị viên đình hữu cảm 寒食日重游李氏園亭有感).",
+                "(Động) Quá, trên. ◎Như: 'quá liễu thì gian' 過了時間 đã quá giờ, quá hạn rồi.",
+                "(Động) Sang, nhượng. ◎Như: 'quá hộ' 過戶 sang tên.",
+                "(Động) Đưa, chuyển. ◇Vương Kiến 王建: 'Thiên tử hạ liêm thân khảo thí, Cung nhân thủ lí quá trà thang' 天子下簾親考試, 宮人手裏過茶湯 (Cung từ 宮詞, Chi thất).",
+                "(Động) Ăn với để giúp cho dễ nuốt xuống. ◇Kim Bình Mai 金瓶梅: 'Ngô Điển Ân hựu tiếp thủ châm nhất đại oản tửu lai liễu, hoảng đắc na Bá Tước liễu bất đích, nhượng đạo: Bất hảo liễu, ẩu xuất lai liễu, nã ta tiểu thái ngã quá quá tiện hảo' 吳典恩又接手斟一大碗酒來了, 慌得那伯爵了不的, 嚷道: 不好了, 嘔出來了, 拿些小菜我過過便好 (Đệ ngũ tứ hồi).",
+                "(Động) Tẩy, rửa. ◇Hồng Lâu Mộng 紅樓夢: 'Nhiên hậu tài hướng trà dũng thượng thủ liễu trà oản, tiên dụng ôn thủy quá liễu, hướng noãn hồ trung đảo liễu bán oản trà, đệ cấp Bảo Ngọc cật liễu' 然後纔向茶桶上取了茶碗, 先用溫水過了, 向暖壺中倒了半碗茶, 遞給寶玉吃了 (Đệ ngũ nhất hồi).",
+                "(Động) Vượt, hơn. ◎Như: 'quá độ' 過度 vượt hơn mức độ thường. ◇Sử Kí 史記: 'Khởi tham nhi hiếu sắc, nhiên dụng binh Tư Mã Nhương Tư bất năng quá dã' 起貪而好色, 然用兵司馬穰苴不能過也 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) (Ngô) Khởi (là con người) tham và hiếu sắc, nhưng cầm quân (thì đến) Tư Mã Nhương Tư cũng không hơn được.",
+                "(Động) Chết, khứ thế. ◎Như: 'quá thế' 過世 qua đời. ◇Nhị thập niên mục đổ chi quái hiện trạng 二十年目睹之怪現狀: 'Thuyết thị Lưu lão da tử tiếp liễu gia báo, lão thái thái quá liễu' 說是劉老爺子接了家報, 老太太過了 (Đệ ngũ hồi).",
+                "(Động) Bái phỏng, lại thăm. ◇Sử Kí 史記: 'Thần hữu khách tại thị đồ trung, nguyện uổng xa kị quá chi' 臣有客在市屠中, 願枉車騎過之 (Ngụy Công Tử liệt truyện 魏公子列傳) Tôi có người khách làm nghề hàng thịt ở ngoài chợ, xin ngài hạ cố cho xe ghé thăm ông ta.",
+                "(Động) Qua lại, giao vãng. ◇Nhị khắc phách án kinh kì 二刻拍案驚奇: 'Tam nhân tựu tượng nhất gia huynh đệ nhất bàn, cực thị quá đắc hảo, tương ước liễu đồng tại học trung nhất cá trai xá lí độc thư' 三人就像一家兄弟一般, 極是過得好, 相約了同在學中一個齋舍裏讀書 (Quyển thập thất).",
+                "(Động) Bàn chuyện với nhau, giao đàm. ◇Lão Xá 老舍: 'Tha hiểu đắc, giả nhược tha hòa tổ phụ quá nhất cú thoại, tha tiện tái dã mại bất khai bộ' 他曉得, 假若他和祖父過一句話, 他便再也邁不開步 (Tứ thế đồng đường 四世同堂, Tứ lục 四六).",
+                "(Động) Đi tới, đạt tới. ◇Hàn Dũ 韓愈: 'Yển Thành từ bãi quá Tương Thành, Toánh thủy Tung San quát nhãn minh' 郾城辭罷過襄城, 潁水嵩山刮眼明 (Quá Tương Thành 過襄城).",
+                "(Động) Mất đi, thất khứ. ◇Quốc ngữ 國學: 'Phù thiên địa chi khí, bất thất kì tự; nhược quá kì tự, dân loạn chi dã' 夫天地之氣, 不失其序; 若過其序, 民亂之也 (Chu ngữ thượng 周語上).",
+                "(Động) Lây sang, truyền nhiễm. ◇Hồng Lâu Mộng 紅樓夢: 'Lão ma ma môn dĩ kinh thuyết quá, bất khiếu tha tại giá ốc lí, phạ quá liễu bệnh khí' 老媽媽們已經說過, 不叫他在這屋裏, 怕過了病氣 (Đệ ngũ nhị hồi).",
+                "(Động) Chịu đựng, nhẫn thụ. ◎Như: 'nan quá' 難過 khó chịu đựng được.",
+                "(Danh) Lỗi, việc làm trái lẽ. ◎Như: 'cải quá' 改過 sửa lỗi, 'văn quá' 文過 có lỗi lại còn nói che lấp đi mà cãi rằng phải, 'tri quá năng cải' 知過能改 biết lỗi thì có thể sửa.",
+                "(Danh) Lượng từ: lần. ◎Như: 'tẩy liễu hảo kỉ quá liễu' 洗了好幾過兒了 giặt mấy lần rồi.",
+                "(Danh) Họ 'Quá'.",
+                "(Trợ) Dùng sau động từ: đã, rồi, từng. ◎Như: 'khán quá' 看過 xem rồi, 'thính quá' 聽過 nghe rồi, 'cật quá vãn xan' 吃過晚餐 ăn bữa chiều rồi.",
+                "(Trợ) Đi đôi với 'lai' 來, 'khứ' 去: biểu thị xu hướng, thúc giục. ◎Như: 'tẩu quá lai' 走過來 chạy đi, 'khiêu quá khứ' 跳過去 nhảy đi.",
+                "(Phó) Đã qua. ◎Như: 'quá khứ' 過去 đã qua.",
+                "(Phó) Nhiều quá, lậm. ◎Như: 'quá tưởng' 過獎 quá khen. ◇Hồng Lâu Mộng 紅樓夢: 'Giá thị lão thái thái quá khiêm liễu' 這是老太太過謙了 (Đệ ngũ thập lục hồi) Đó là Lão thái thái quá khiêm nhường thôi.",
+                "(Phó) Hết sức, vô cùng, cực. ◇Tấn Thư 晉書: 'Viên trung mao tích hạ đắc nhất bạch ngư, chất trạng thù thường, dĩ tác trả, quá mĩ, cố dĩ tương hiến' 園中茅積下得一白魚, 質狀殊常, 以作鮓, 過美, 故以相獻 (Trương Hoa truyện 張華傳).",
+                "Một âm là 'qua'.",
+                "(Động) Qua, đi qua. ◎Như: 'qua hà' 過河 qua sông. ◇Mạnh Tử 孟子: '(Đại Vũ trị thủy) tam qua môn bất nhập' (大禹治水)三過家門而不入 (Đằng Văn Công thượng 滕文公上) (Vua Đại Vũ lo trị thủy cho dân) ba lần đi qua nhà mình mà không vào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vượt. Hơn. Như quá độ 過度 quá cái độ thường.",
+                "Lỗi, làm việc trái lẽ gọi là quá. Như cải quá 改過 đổi lỗi. Văn quá 文過 có lỗi lại còn nói che lấp đi mà cãi rằng phải.",
+                "Đã qua. Như quá khứ 過去 sự đã qua, đời đã qua.",
+                "Trách.",
+                "Một âm là qua. Từng qua. Như qua môn bất nhập 過門不入 từng đi qua cửa mà không vào."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một nước chư hầu đời nhà Hạ, thuộc tỉnh Sơn Đông ngày nay — Một âm là Quá. Xem Quá."
+            ],
+            "compound_words": {
+                "過關": "quá quan"
+            }
+        },
+        "quá": {
+            "Từ điển phổ thông": [
+                "qua, vượt",
+                "hơn, quá",
+                "đã từng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trải qua, sống qua. ◇Hàn Ác 韓偓: 'Liệu đắc tha hương quá giai tiết, Diệc ưng hoài bão ám thê nhiên' 料得他鄉過佳節, 亦應懷抱暗淒然 (Hàn thực nhật trùng du lí thị viên đình hữu cảm 寒食日重游李氏園亭有感).",
+                "(Động) Quá, trên. ◎Như: 'quá liễu thì gian' 過了時間 đã quá giờ, quá hạn rồi.",
+                "(Động) Sang, nhượng. ◎Như: 'quá hộ' 過戶 sang tên.",
+                "(Động) Đưa, chuyển. ◇Vương Kiến 王建: 'Thiên tử hạ liêm thân khảo thí, Cung nhân thủ lí quá trà thang' 天子下簾親考試, 宮人手裏過茶湯 (Cung từ 宮詞, Chi thất).",
+                "(Động) Ăn với để giúp cho dễ nuốt xuống. ◇Kim Bình Mai 金瓶梅: 'Ngô Điển Ân hựu tiếp thủ châm nhất đại oản tửu lai liễu, hoảng đắc na Bá Tước liễu bất đích, nhượng đạo: Bất hảo liễu, ẩu xuất lai liễu, nã ta tiểu thái ngã quá quá tiện hảo' 吳典恩又接手斟一大碗酒來了, 慌得那伯爵了不的, 嚷道: 不好了, 嘔出來了, 拿些小菜我過過便好 (Đệ ngũ tứ hồi).",
+                "(Động) Tẩy, rửa. ◇Hồng Lâu Mộng 紅樓夢: 'Nhiên hậu tài hướng trà dũng thượng thủ liễu trà oản, tiên dụng ôn thủy quá liễu, hướng noãn hồ trung đảo liễu bán oản trà, đệ cấp Bảo Ngọc cật liễu' 然後纔向茶桶上取了茶碗, 先用溫水過了, 向暖壺中倒了半碗茶, 遞給寶玉吃了 (Đệ ngũ nhất hồi).",
+                "(Động) Vượt, hơn. ◎Như: 'quá độ' 過度 vượt hơn mức độ thường. ◇Sử Kí 史記: 'Khởi tham nhi hiếu sắc, nhiên dụng binh Tư Mã Nhương Tư bất năng quá dã' 起貪而好色, 然用兵司馬穰苴不能過也 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) (Ngô) Khởi (là con người) tham và hiếu sắc, nhưng cầm quân (thì đến) Tư Mã Nhương Tư cũng không hơn được.",
+                "(Động) Chết, khứ thế. ◎Như: 'quá thế' 過世 qua đời. ◇Nhị thập niên mục đổ chi quái hiện trạng 二十年目睹之怪現狀: 'Thuyết thị Lưu lão da tử tiếp liễu gia báo, lão thái thái quá liễu' 說是劉老爺子接了家報, 老太太過了 (Đệ ngũ hồi).",
+                "(Động) Bái phỏng, lại thăm. ◇Sử Kí 史記: 'Thần hữu khách tại thị đồ trung, nguyện uổng xa kị quá chi' 臣有客在市屠中, 願枉車騎過之 (Ngụy Công Tử liệt truyện 魏公子列傳) Tôi có người khách làm nghề hàng thịt ở ngoài chợ, xin ngài hạ cố cho xe ghé thăm ông ta.",
+                "(Động) Qua lại, giao vãng. ◇Nhị khắc phách án kinh kì 二刻拍案驚奇: 'Tam nhân tựu tượng nhất gia huynh đệ nhất bàn, cực thị quá đắc hảo, tương ước liễu đồng tại học trung nhất cá trai xá lí độc thư' 三人就像一家兄弟一般, 極是過得好, 相約了同在學中一個齋舍裏讀書 (Quyển thập thất).",
+                "(Động) Bàn chuyện với nhau, giao đàm. ◇Lão Xá 老舍: 'Tha hiểu đắc, giả nhược tha hòa tổ phụ quá nhất cú thoại, tha tiện tái dã mại bất khai bộ' 他曉得, 假若他和祖父過一句話, 他便再也邁不開步 (Tứ thế đồng đường 四世同堂, Tứ lục 四六).",
+                "(Động) Đi tới, đạt tới. ◇Hàn Dũ 韓愈: 'Yển Thành từ bãi quá Tương Thành, Toánh thủy Tung San quát nhãn minh' 郾城辭罷過襄城, 潁水嵩山刮眼明 (Quá Tương Thành 過襄城).",
+                "(Động) Mất đi, thất khứ. ◇Quốc ngữ 國學: 'Phù thiên địa chi khí, bất thất kì tự; nhược quá kì tự, dân loạn chi dã' 夫天地之氣, 不失其序; 若過其序, 民亂之也 (Chu ngữ thượng 周語上).",
+                "(Động) Lây sang, truyền nhiễm. ◇Hồng Lâu Mộng 紅樓夢: 'Lão ma ma môn dĩ kinh thuyết quá, bất khiếu tha tại giá ốc lí, phạ quá liễu bệnh khí' 老媽媽們已經說過, 不叫他在這屋裏, 怕過了病氣 (Đệ ngũ nhị hồi).",
+                "(Động) Chịu đựng, nhẫn thụ. ◎Như: 'nan quá' 難過 khó chịu đựng được.",
+                "(Danh) Lỗi, việc làm trái lẽ. ◎Như: 'cải quá' 改過 sửa lỗi, 'văn quá' 文過 có lỗi lại còn nói che lấp đi mà cãi rằng phải, 'tri quá năng cải' 知過能改 biết lỗi thì có thể sửa.",
+                "(Danh) Lượng từ: lần. ◎Như: 'tẩy liễu hảo kỉ quá liễu' 洗了好幾過兒了 giặt mấy lần rồi.",
+                "(Danh) Họ 'Quá'.",
+                "(Trợ) Dùng sau động từ: đã, rồi, từng. ◎Như: 'khán quá' 看過 xem rồi, 'thính quá' 聽過 nghe rồi, 'cật quá vãn xan' 吃過晚餐 ăn bữa chiều rồi.",
+                "(Trợ) Đi đôi với 'lai' 來, 'khứ' 去: biểu thị xu hướng, thúc giục. ◎Như: 'tẩu quá lai' 走過來 chạy đi, 'khiêu quá khứ' 跳過去 nhảy đi.",
+                "(Phó) Đã qua. ◎Như: 'quá khứ' 過去 đã qua.",
+                "(Phó) Nhiều quá, lậm. ◎Như: 'quá tưởng' 過獎 quá khen. ◇Hồng Lâu Mộng 紅樓夢: 'Giá thị lão thái thái quá khiêm liễu' 這是老太太過謙了 (Đệ ngũ thập lục hồi) Đó là Lão thái thái quá khiêm nhường thôi.",
+                "(Phó) Hết sức, vô cùng, cực. ◇Tấn Thư 晉書: 'Viên trung mao tích hạ đắc nhất bạch ngư, chất trạng thù thường, dĩ tác trả, quá mĩ, cố dĩ tương hiến' 園中茅積下得一白魚, 質狀殊常, 以作鮓, 過美, 故以相獻 (Trương Hoa truyện 張華傳).",
+                "Một âm là 'qua'.",
+                "(Động) Qua, đi qua. ◎Như: 'qua hà' 過河 qua sông. ◇Mạnh Tử 孟子: '(Đại Vũ trị thủy) tam qua môn bất nhập' (大禹治水)三過家門而不入 (Đằng Văn Công thượng 滕文公上) (Vua Đại Vũ lo trị thủy cho dân) ba lần đi qua nhà mình mà không vào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vượt. Hơn. Như quá độ 過度 quá cái độ thường.",
+                "Lỗi, làm việc trái lẽ gọi là quá. Như cải quá 改過 đổi lỗi. Văn quá 文過 có lỗi lại còn nói che lấp đi mà cãi rằng phải.",
+                "Đã qua. Như quá khứ 過去 sự đã qua, đời đã qua.",
+                "Trách.",
+                "Một âm là qua. Từng qua. Như qua môn bất nhập 過門不入 từng đi qua cửa mà không vào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quá, thái quá: 太過分了 Quá lắm, quá mức, quá quắt;",
+                "[Guo] (Họ) Quá. Xem 過 [guò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Qua đi. Đã qua. Xem Quá vãng — Vượt qua. Vượt hơn mức bình thường.  Đoạn trường tân thanh  có câu: » Tin tôi nên quá nghe lời, đem thân bách chiến làm tôi triều đình « — Lỗi lầm. Tục ngữ có câu: » Đa ngôn đa quá « ( nói nhiều thì gặp nhiều lỗi )."
+            ],
+            "compound_words": {
+                "白駒過隙": "bạch câu quá khích",
+                "不過": "bất quá",
+                "補過": "bổ quá",
+                "改過": "cải quá",
+                "求過於供": "cầu quá ư cung",
+                "顧不過來": "cố bất quá lai",
+                "顧得過來": "cố đắc quá lai",
+                "橫過": "hoành quá",
+                "悔過": "hối quá",
+                "經過": "kinh quá",
+                "亂鬨不過來": "loạn hống bất quá lai",
+                "掠過": "lược quá",
+                "忙不過來": "mang bất quá lai",
+                "過半": "quá bán",
+                "過步": "quá bộ",
+                "過倍": "quá bội",
+                "過故": "quá cố",
+                "過譽": "quá dự",
+                "過當": "quá đáng",
+                "過頭": "quá đầu",
+                "過度": "quá độ",
+                "過渡": "quá độ",
+                "過江": "quá giang",
+                "過限": "quá hạn",
+                "過活": "quá hoạt",
+                "過繼": "quá kế",
+                "過計": "quá kế",
+                "過客": "quá khách",
+                "過刻": "quá khắc",
+                "過激": "quá khích",
+                "過去": "quá khứ",
+                "過期": "quá kì",
+                "過橋": "quá kiều",
+                "過慮": "quá lự",
+                "過量": "quá lượng",
+                "過門": "quá môn",
+                "過目": "quá mục",
+                "過泥": "quá nệ",
+                "過年": "quá niên",
+                "過犯": "quá phạm",
+                "過分": "quá phận",
+                "過房": "quá phòng",
+                "過房子": "quá phòng tử",
+                "過關": "quá quan",
+                "過山礮": "quá sơn pháo",
+                "過剩": "quá thặng",
+                "過失": "quá thất",
+                "過世": "quá thế",
+                "過手": "quá thủ",
+                "過程": "quá trình",
+                "過奬": "quá tưởng",
+                "過於": "quá ư",
+                "過往": "quá vãng",
+                "過問": "quá vấn",
+                "過稱": "quá xưng",
+                "過意不去": "quá ý bất khứ",
+                "超過": "siêu quá",
+                "事過": "sự quá",
+                "事過境遷": "sự quá cảnh thiên",
+                "謝過": "tạ quá",
+                "太過": "thái quá",
+                "勝過": "thắng quá",
+                "說得過去": "thuyết đắc quá khứ",
+                "知過": "tri quá",
+                "赦過": "xá quá"
+            }
+        }
+    }
+}

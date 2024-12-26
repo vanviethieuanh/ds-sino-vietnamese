@@ -1,0 +1,116 @@
+{
+    "character": "停",
+    "details": {
+        "Âm Hán Việt": [
+            "đình"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻亭"
+        ],
+        "Nét bút": [
+            "ノ丨丶一丨フ一丶フ一丨"
+        ],
+        "Thương Hiệt": [
+            "OYRN (人卜口弓)"
+        ],
+        "Unicode": [
+            "U+505C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tíng ㄊㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dành",
+            "dừng",
+            "đành",
+            "đình",
+            "đừng",
+            "rành"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.める (to.meru)",
+            "と.まる (to.maru)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "ting4"
+        ]
+    },
+    "meanings": {
+        "đình": {
+            "Từ điển phổ thông": [
+                "dừng lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dừng, nửa chừng ngừng lại. ◎Như: 'đình bạn' 停辦 ngừng làm việc, 'đình chỉ' 停止 dừng lại, 'vũ đình liễu' 雨停了 mưa tạnh rồi.",
+                "(Động) Đỗ lại, đậu, ở tạm. ◎Như: 'đình lưu' 停留 ở lại, 'đình bạc' 停泊 đỗ lại bên bờ (thuyền). ◇Tam quốc diễn nghĩa 三國演義: 'Vũ thủy bất trụ, doanh trung nê nính, quân bất khả đình, thỉnh di ư tiền diện san thượng' 雨水不住, 營中泥濘, 軍不可停, 請移於前面山上 (Đệ nhất bách lục hồi) Mưa mãi không tạnh, trong trại lầy lội, quân không sao ở được, xin cho dời trại đến trên núi trước mặt.",
+                "(Động) Đặt, để. ◇Nho lâm ngoại sử 儒林外史: 'Bả quan tài tựu đình tại phòng tử trung gian' 把棺材就停在房子中間 (Đệ nhị thập lục hồi) Đem quan tài đặt ở trong phòng.",
+                "(Phó) Thỏa đáng, ổn thỏa. ◇Tây du kí 西遊記: 'Ngộ Không tương kim quan, kim giáp, vân lí đô xuyên đái đình đáng' 悟空將金冠, 金甲, 雲履都穿戴停當 (Đệ tam hồi) (Tôn) Ngộ Không đội mũ vàng, mặc áo giáp, đi ủng đâu đấy xong xuôi.",
+                "(Danh) Phần. ◇Hồng Lâu Mộng 紅樓夢: 'Yết sa khán thì, thập đình phương hữu liễu tam đình' 揭紗看時, 十停方有了三停 (Đệ tứ thập bát hồi) Mở the (phủ trên bức tranh) ra xem, thấy mười phần mới xong được ba phần."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðứng, nửa chừng đứng lại gọi là đình, như đình lưu 停留 dừng ở lại, đình bạc 停泊 đỗ thuyền lại, v.v.",
+                "Cư đình 居停 khách trọ.",
+                "Tục cho số người đã có định là đình, như thập đình trung khứ liễu cửu đình 十停中去了九停 trong mười đình mất chín đình rồi (cũng như ta nói một nhóm một tốp vậy)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dừng, ngừng: 一輛汽車停在門口 Một chiếc xe hơi dừng trước cửa; 不停 Không ngừng;",
+                "Tạnh, im, đứng, ngưng chạy: 雨停了 Mưa tạnh rồi; 風停了 Im gió rồi; 鐘停了 Đồng hồ chết rồi;",
+                "(khn) Phần: 十停兒中去了九停兒 Trong 10 phần đã trừ đi 9."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngừng lại. Thôi — Trong Bạch thoại còn chỉ các thành phần của một đoàn thể. Chẳng hạn Thập đình khử liễu cửu đình ( mười phần bỏ đi chín phần )."
+            ],
+            "compound_words": {
+                "不停": "bất đình",
+                "居停": "cư đình",
+                "居停主人": "cư đình chủ nhân",
+                "調停": "điều đình",
+                "停案": "đình án",
+                "停泊": "đình bạc",
+                "停版": "đình bản",
+                "停止": "đình chỉ",
+                "停戰": "đình chiến",
+                "停職": "đình chức",
+                "停工": "đình công",
+                "停當": "đình đáng",
+                "停頓": "đình đốn",
+                "停顿": "đình đốn",
+                "停火": "đình hoả",
+                "停緩": "đình hoãn",
+                "停學": "đình học",
+                "停留": "đình lưu",
+                "停水": "đình thuỷ",
+                "停食": "đình thực",
+                "停滞": "đình trệ",
+                "停滯": "đình trệ",
+                "停車": "đình xa",
+                "停车": "đình xa",
+                "暂停": "tạm đình",
+                "暫停": "tạm đình",
+                "暫停板": "tạm đình bản",
+                "消停": "tiêu đình"
+            }
+        }
+    }
+}

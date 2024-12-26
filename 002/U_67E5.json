@@ -1,0 +1,100 @@
+{
+    "character": "查",
+    "details": {
+        "Âm Hán Việt": [
+            "tra"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱木旦"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "DAM (木日一)"
+        ],
+        "Unicode": [
+            "U+67E5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chá ㄔㄚˊ",
+            "zhā ㄓㄚ"
+        ],
+        "Âm Nôm": [
+            "già",
+            "tra"
+        ],
+        "Âm Quảng Đông": [
+            "caa4",
+            "zaa1"
+        ]
+    },
+    "meanings": {
+        "tra": {
+            "Từ điển phổ thông": [
+                "cái bè",
+                "soát, xét, kiểm tra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tra xét. ◎Như: 'tường tra' 詳查 tra xét minh bạch. ◇Lão Xá 老舍: 'Lai trừu tra; nhân khẩu bất phù, khả đắc thụ phạt' 來抽查; 人口不符, 可得受罰 (Tứ thế đồng đường 四世同堂, Nhị bát 二八) Lại tra xét; (nếu) số người trong nhà không đúng sẽ bị phạt.",
+                "(Động) Tìm tòi. ◎Như: 'tra tự điển' 查字典, 'tra địa đồ' 查地圖.",
+                "(Danh) Cái bè lớn. § Thông 槎. ◇Vương Gia 王嘉: 'Nghiêu đăng vị tam thập niên, hữu cự tra phù ư tây hải' 堯登位三十年, 有巨查浮於西海 (Thập di kí 拾遺記, Đế Nghiêu 帝堯) Vua Nghiêu lên ngôi năm ba mươi, có bè lớn thả ở biển tây.",
+                "(Danh) Cây 'tra', quả dùng làm thuốc tiêu, gọi là 'sơn tra' 山查."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bè.",
+                "Tra xét.",
+                "Quả tra, dùng làm thuốc tiêu, gọi là sơn tra 山查."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 楂 [zha];",
+                "(văn) Cái bè;",
+                "[Zha] (Họ) Tra. Xem 柤 [chá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bè gỗ để đi trên mặt nước — Xem xét. Td: Kiểm tra — Tìm biết. Xét hỏi.  Đoạn trường tân thanh : » Chiếu danh tầm nã bắt về hỏi tra «."
+            ],
+            "compound_words": {
+                "盤查": "bàn tra",
+                "調查": "điều tra",
+                "调查": "điều tra",
+                "核查": "hạch tra",
+                "拷查": "khảo tra",
+                "检查": "kiểm tra",
+                "檢查": "kiểm tra",
+                "嚴查": "nghiêm tra",
+                "山查子": "sơn tra tử",
+                "搜查": "sưu tra",
+                "聲查": "thanh tra",
+                "审查": "thẩm tra",
+                "審查": "thẩm tra",
+                "催查": "thôi tra",
+                "查究": "tra cứu",
+                "查調": "tra điều",
+                "查调": "tra điều",
+                "查考": "tra khảo",
+                "查明": "tra minh",
+                "查訊": "tra tấn",
+                "查詢": "tra tuân",
+                "查询": "tra tuân",
+                "查問": "tra vấn",
+                "巡查": "tuần tra"
+            }
+        }
+    }
+}

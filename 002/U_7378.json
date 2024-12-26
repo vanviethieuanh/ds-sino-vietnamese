@@ -1,0 +1,88 @@
+{
+    "character": "獸",
+    "details": {
+        "Âm Hán Việt": [
+            "thú"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰嘼犬"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一丨フ一丨一一丨フ一一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "RRIK (口口戈大)"
+        ],
+        "Unicode": [
+            "U+7378"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shòu ㄕㄡˋ"
+        ],
+        "Âm Nôm": [
+            "thú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュウ (jū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けもの (kemono)",
+            "けだもの (kedamono)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau3"
+        ]
+    },
+    "meanings": {
+        "thú": {
+            "Từ điển phổ thông": [
+                "con thú, thú vật, súc vật"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Súc vật, muông (có bốn chân). ◎Như: 'dã thú' 野獸 thú rừng, 'cầm thú' 禽獸 chim chóc và súc vật.",
+                "(Tính) Dã man, không đúng lễ phép. ◎Như: 'nhân diện thú tâm' 人面獸心 mặt người dạ thú."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giống muông (giống có bốn chân)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thú vật, súc vật, (con) thú: 野獸 Thú rừng; 人面獸心 Mặt người dạ thú."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài động vật bốn chân.  Cung oán ngâm khúc : » Kìa điểu thú là loài vạn vật «."
+            ],
+            "compound_words": {
+                "惡獸": "ác thú",
+                "百獸": "bách thú",
+                "禽獸": "cầm thú",
+                "野獸": "dã thú",
+                "猛獸": "mãnh thú",
+                "人面獸心": "nhân diện thú tâm",
+                "肉食獸": "nhục thực thú",
+                "膃肭獸": "ột nạp thú",
+                "獸性": "thú tính",
+                "獸物": "thú vật",
+                "獸醫": "thú y",
+                "衣冠禽獸": "y quan cầm thú"
+            }
+        }
+    }
+}

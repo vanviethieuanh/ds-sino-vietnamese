@@ -1,0 +1,92 @@
+{
+    "character": "吝",
+    "details": {
+        "Âm Hán Việt": [
+            "lận"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱文口"
+        ],
+        "Nét bút": [
+            "丶一ノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YKR (卜大口)"
+        ],
+        "Unicode": [
+            "U+541D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lìn ㄌㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "lân",
+            "liền",
+            "lớn",
+            "rằn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リン (rin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しわ.い (shiwa.i)",
+            "やぶさ.かな (yabusa.kana)",
+            "おし.む (oshi.mu)"
+        ],
+        "Âm Hàn": [
+            "린",
+            "인"
+        ],
+        "Âm Quảng Đông": [
+            "leon6"
+        ]
+    },
+    "meanings": {
+        "lận": {
+            "Từ điển phổ thông": [
+                "tiếc rẻ, keo kiệt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hối tiếc. ◎Như: 'hối lận' 悔吝 hối tiếc, ăn năn.",
+                "(Động) Tham luyến. ◎Như: 'bất lận quyền' 不吝權 không tham quyền.",
+                "(Tính) Hẹp hòi, bủn xỉn. ◎Như: 'lận sắc' 吝嗇 bủn xỉn. ◇Luận Ngữ 論語: 'Như hữu Chu Công chi tài chi mĩ, sử kiêu thả lận, kì dư bất túc quan dã dĩ' 如有周公之才之美, 使驕且吝, 其餘不足觀也已 (Thái Bá 泰伯) Như có tài năng tốt đẹp của Chu Công, nếu mà kiêu ngạo, hẹp hòi thì những tài đức gì khác cũng không xét nữa.",
+                "§ Tục viết là 恡."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tiếc (sẻn). Tiếc không cho người là lận. Như khan lận 慳吝 keo cú, lận sắc 吝嗇 cò kè. Bỉ lận 鄙吝, v.v.",
+                "Hối lận 悔吝 lời bói toán, cũng như hối hận vậy. Tục viết là 恡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bủn xỉn, keo kiệt, dè sẻn: 吝惜 Bủn xỉn; 慳吝 Keo cú;",
+                "(văn) Không nỡ: 惟予之公書與張氏之吝書若不相類 Chỉ có việc ta cho người mượn sách và việc họ Trương không nỡ cho người mượn sách là không giống nhau (Viên Mai: Hoàng sinh tá thư thuyết);",
+                "(văn) Thẹn: 得之不休，不獲不吝 Được cũng không cho là hay mà không được cũng không cảm thấy thẹn (Hậu Hán thư: Trương Hoành liệt truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếc giận — Xấu hổ — Tham lam keo kiệt. Td: Biển lận ( keo kiệt bủn xỉn ). Các cách viết khác: 悋,"
+            ],
+            "compound_words": {
+                "不吝": "bất lận",
+                "鄙吝": "bỉ lận",
+                "褊吝": "biển lận",
+                "奸吝": "gian lận",
+                "吝啬": "lận sắc",
+                "吝嗇": "lận sắc"
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "character": "沆",
+    "details": {
+        "Âm Hán Việt": [
+            "hàng",
+            "hãng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡亢"
+        ],
+        "Nét bút": [
+            "丶丶一丶一ノフ"
+        ],
+        "Thương Hiệt": [
+            "EYHN (水卜竹弓)"
+        ],
+        "Unicode": [
+            "U+6C86"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "háng ㄏㄤˊ",
+            "hàng ㄏㄤˋ",
+            "kàng ㄎㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひろ.い (hiro.i)"
+        ],
+        "Âm Hàn": [
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "hong4"
+        ]
+    },
+    "meanings": {
+        "hàng": {
+            "Từ điển phổ thông": [
+                "nước lũ",
+                "chở qua"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'hãng giới' 沆瀣.",
+                "Một âm là 'hàng'. (Động) Đi qua (bằng đường thủy), độ thủy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hãng dới 沆瀣 hơi móc (hơi sương móc), chí khí hai người hợp nhau gọi là hãng dới nhất khí 沆瀣一氣.",
+                "Nước mông mênh.",
+                "Một âm là hàng. Chở qua."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chở qua."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vượt sông — Một âm là Hãng. Xem Hãng."
+            ],
+            "compound_words": {
+                "漭沆": "mãng hàng"
+            }
+        },
+        "hãng": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'hãng giới' 沆瀣.",
+                "Một âm là 'hàng'. (Động) Đi qua (bằng đường thủy), độ thủy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hãng dới 沆瀣 hơi móc (hơi sương móc), chí khí hai người hợp nhau gọi là hãng dới nhất khí 沆瀣一氣.",
+                "Nước mông mênh.",
+                "Một âm là hàng. Chở qua."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nước lũ, nước mênh mông;",
+                "【沆瀣】 hãng giới [hàngxiè] Sương, sương mù, sương muối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước lớn mênh mông — Một âm khác là Hàng. Xem Hàng."
+            ],
+            "compound_words": {
+                "沆瀣": "hãng giới"
+            }
+        }
+    }
+}

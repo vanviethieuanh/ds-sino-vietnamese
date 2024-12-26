@@ -1,0 +1,84 @@
+{
+    "character": "餾",
+    "details": {
+        "Âm Hán Việt": [
+            "lưu",
+            "lựu"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thực 食 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰飠留"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶ノフ丶フノ丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "OIHHW (人戈竹竹田)"
+        ],
+        "Unicode": [
+            "U+993E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "liú ㄌㄧㄡˊ",
+            "liù ㄌㄧㄡˋ"
+        ],
+        "Âm Nôm": [
+            "lưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リュウ (ryū)"
+        ],
+        "Âm Hàn": [
+            "류"
+        ],
+        "Âm Quảng Đông": [
+            "lau4",
+            "lau6"
+        ]
+    },
+    "meanings": {
+        "lưu": {
+            "Từ điển Trần Văn Chánh": [
+                "Cất, đã chưng cất: 蒸餾水 Nước cất. Xem 餾 [liù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cơm nguội."
+            ],
+            "compound_words": {
+                "蒸餾": "chưng lưu"
+            }
+        },
+        "lựu": {
+            "Từ điển phổ thông": [
+                "cơm đã chín"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hâm, nấu lại lần nữa (đem thức ăn chín nửa chừng nấu cho chín, hoặc hâm nóng lại thức ăn đã chín).",
+                "(Động) Luyện lọc (phương pháp dùng nhiệt phân giải vật chất)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hơi cơm bốc lên, cơm đã chín gọi là lựu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hâm, hấp: 菜涼了，把它餾一餾再吃 Món ăn đã nguội, đem hâm lại mới ăn. Xem 餾 [liú]."
+            ],
+            "compound_words": {
+                "蒸餾": "chưng lựu"
+            }
+        }
+    }
+}

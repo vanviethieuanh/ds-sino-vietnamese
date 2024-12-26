@@ -1,0 +1,88 @@
+{
+    "character": "驃",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "phiếu"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "mã 馬 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬票"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶一丨フ丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SFMWF (尸火一田火)"
+        ],
+        "Unicode": [
+            "U+9A43"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "biāo ㄅㄧㄠ",
+            "piào ㄆㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "phiêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "piu3"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển phổ thông": [
+                "ngựa vàng lang trắng",
+                "khoẻ mạnh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngựa vàng có đốm trắng. Xem 驃 [piào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giống ngựa lông vàng điểm trắng — Dáng ngựa chạy mau."
+            ],
+            "compound_words": {
+                "驃騎": "phiêu kị"
+            }
+        },
+        "phiếu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa vàng đốm trắng.",
+                "(Tính) Mạnh mẽ, dũng mãnh. ◎Như: 'phiếu hãn' 驃悍 dũng mãnh. § Nhà Hán có chức quan võ 'phiếu kị tướng quân' 驃騎將軍, gọi tắt là 'phiếu kị' 驃騎.",
+                "(Tính) Dáng ngựa chạy nhanh. ◇Thủy hử truyện 水滸傳: 'Tẩu phiếu kị văn hương tu trụ mã, Sử phong phàm tri vị dã đình chu' 走驃騎聞香須住馬, 使風帆知味也停舟 (Đệ tam thập nhị hồi) Phi ngựa chạy nhanh, nghe hương thơm nên dừng ngựa, Đưa buồm thuận gió, biết mùi ngon hãy đỗ thuyền."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ngựa vàng lang trắng.",
+                "Khoẻ mạnh. Nhà Hán 漢 có chức quan võ gọi là phiếu kị tướng quân 驃騎將軍.",
+                "Dáng ngựa chạy nhanh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngựa phi;",
+                "Dũng mãnh: 驃騎將軍 Phiếu kị tướng quân (chức quan võ đời Hán, Trung Quốc). Xem 驃 [biao]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngựa chạy nhanh — Một âm khác là Phiêu. Xem Phiêu."
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "character": "娘",
+    "details": {
+        "Âm Hán Việt": [
+            "nương"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nữ 女 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女良"
+        ],
+        "Nét bút": [
+            "フノ一丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "VIAV (女戈日女)"
+        ],
+        "Unicode": [
+            "U+5A18"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "niáng ㄋㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "nàng",
+            "nương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むすめ (musume)",
+            "こ (ko)"
+        ],
+        "Âm Hàn": [
+            "낭"
+        ],
+        "Âm Quảng Đông": [
+            "noeng4"
+        ]
+    },
+    "meanings": {
+        "nương": {
+            "Từ điển phổ thông": [
+                "cô, chị",
+                "mẹ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thiếu nữ. ◎Như: 'cô nương' 姑娘 cô con gái.",
+                "(Danh) Tiếng gọi mẹ. § Thông 'nương' 嬢. ◇Thủy hử truyện 水滸傳: 'Ngã chỉ hữu nhất cá lão nương tại gia lí. Ngã đích ca ca hựu tại biệt nhân gia tố trường công, như hà dưỡng đắc ngã nương khoái lạc?' 我只有一個老娘在家裏. 我的哥哥又在別人家做長工, 如何養得我娘快樂 (Đệ tứ thập nhị hồi) Tôi chỉ có một mẹ già ở nhà. Anh tôi lại đi làm công lâu năm cho người ta, làm sao phụng dưỡng mẹ tôi cho vui sướng được?",
+                "(Danh) Vợ. ◎Như: 'nương tử' 娘子 vợ, 'lão bản nương' 老闆娘 vợ ông chủ.",
+                "(Danh) Tiếng tôn xưng đàn bà bậc trên hoặc phụ nữ đã có chồng. ◎Như: 'đại nương' 大娘 bà, 'di nương' 姨娘 dì, 'nương nương' 娘娘 lệnh bà (tôn xưng hoàng hậu, quý phi).",
+                "(Danh) Tiếng kính xưng của nô bộc đối với bà chủ.",
+                "(Danh) Tiếng dùng để chửi rủa, mang ý vị than trách hoặc oán hận. ◇Thủy hử truyện 水滸傳: 'Trực nương tặc! Nhĩ lưỡng cá yếu đả tửu gia, yêm tiện hòa nhĩ tư đả' 直娘賊! 你兩個要打酒家, 俺便和你廝打 (Đệ ngũ hồi) Mẹ đồ giặc! Hai chúng mày muốn đánh tao, thì tao đánh nhau với chúng mày chơi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nàng, con gái trẻ tuổi gọi là nương tử 娘子 hay cô nương 姑娘 cô nàng.",
+                "Mẹ cũng gọi là nương, nguyên là chữ nương 孃.",
+                "Tiếng gọi tôn các bà, như các cung phi gọi hoàng hậu là nương nương 娘娘. Tục thường gọi đàn bà là đại nương 大娘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mẹ, má, mạ, u, bầm, đẻ, me: 爹娘 Bố mẹ;",
+                "Bác gái, mẹ, má: 王大娘 Má Vương;",
+                "Cô, nàng (con gái trẻ tuổi): 娘子 Cô gái trẻ; 姑娘 Cô nàng; 大娘 Đàn bà; 新娘 Cô dâu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nàng. Cô nàng. Tiếng gọi người con gái. Td: Cô nương — Tiếng gọi mẹ — Tiếng gọi người đàn bà quyền quý."
+            ],
+            "compound_words": {
+                "婆娘": "bà nương",
+                "伴娘": "bạn nương",
+                "潑婆娘": "bát bà nương",
+                "歌娘": "ca nương",
+                "乾娘": "can nương",
+                "姑娘": "cô nương",
+                "公娘": "công nương",
+                "姨娘": "di nương",
+                "大娘": "đại nương",
+                "花娘": "hoa nương",
+                "嬌娘": "kiều nương",
+                "媚娘": "mị nương",
+                "奶娘": "nãi nương",
+                "娘娘": "nương nương",
+                "娘子": "nương tử",
+                "貴娘": "quý nương",
+                "蠶娘": "tàm nương",
+                "新娘": "tân nương",
+                "情娘": "tình nương"
+            }
+        }
+    }
+}

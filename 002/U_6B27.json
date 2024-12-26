@@ -1,0 +1,81 @@
+{
+    "character": "欧",
+    "details": {
+        "Âm Hán Việt": [
+            "âu",
+            "ẩu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khiếm 欠 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰区欠"
+        ],
+        "Nét bút": [
+            "一ノ丶フノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "SKNO (尸大弓人)"
+        ],
+        "Unicode": [
+            "U+6B27"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ōu ㄛㄨ",
+            "ǒu ㄛㄨˇ"
+        ],
+        "Âm Nôm": [
+            "âu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うた.う (uta.u)",
+            "は.く (ha.ku)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "au1",
+            "ngau1"
+        ]
+    },
+    "meanings": {
+        "âu": {
+            "Từ điển phổ thông": [
+                "châu Âu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 歐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 歐"
+            ],
+            "compound_words": {
+                "欧洲": "âu châu"
+            }
+        },
+        "ẩu": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 歐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 歐"
+            ]
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "character": "临",
+    "details": {
+        "Âm Hán Việt": [
+            "lâm",
+            "lấm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "cổn 丨 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨丨ノ一丶丨フ丨一"
+        ],
+        "Thương Hiệt": [
+            "LLOA (中中人日)"
+        ],
+        "Unicode": [
+            "U+4E34"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lín ㄌㄧㄣˊ",
+            "lìn ㄌㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "lâm"
+        ],
+        "Âm Quảng Đông": [
+            "lam4"
+        ]
+    },
+    "meanings": {
+        "lâm": {
+            "Từ điển phổ thông": [
+                "ở trên soi xuống",
+                "sát, gần kề",
+                "kịp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 臨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 臨"
+            ],
+            "compound_words": {
+                "来临": "lai lâm",
+                "临行": "lâm hành"
+            }
+        },
+        "lấm": {
+            "Từ điển phổ thông": [
+                "mọi người cùng khóc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 臨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 臨"
+            ]
+        }
+    }
+}

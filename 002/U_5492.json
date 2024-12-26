@@ -1,0 +1,86 @@
+{
+    "character": "咒",
+    "details": {
+        "Âm Hán Việt": [
+            "chú"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱吅几"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "RRHN (口口竹弓)"
+        ],
+        "Unicode": [
+            "U+5492"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhòu ㄓㄡˋ"
+        ],
+        "Âm Nôm": [
+            "chú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)",
+            "シュ (shu)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まじな.う (majina.u)",
+            "のろ.い (noro.i)",
+            "まじない (majinai)",
+            "のろ.う (noro.u)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau3"
+        ]
+    },
+    "meanings": {
+        "chú": {
+            "Từ điển phổ thông": [
+                "nguyền rủa",
+                "thần chú"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Câu nói dùng pháp thuật để trừ tà ma, bệnh tật hoặc thi triển khả năng siêu nhiên. ◇Hồng Lâu Mộng 紅樓夢: 'Na tăng tiện niệm chú thư phù, đại triển huyễn thuật' 那僧便念咒書符, 大展幻術 (Đệ nhất hồi) Nhà sư đó liền niệm chú viết bùa, thi triển hết phép thuật ra.",
+                "(Danh) Bài kệ, lời chúc nguyện (trong kinh Phật). ◎Như: 'Đại bi chú' 大悲咒.",
+                "(Động) Nguyền rủa, chửi rủa. ◎Như: 'trớ chú' 詛咒 chửi rủa.",
+                "(Động) Thề, phát thệ. ◎Như: 'đổ chú' 賭咒 thề."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Thần chú: 唸咒 Niệm thần chú;",
+                "Rủa, nguyền rủa. 【咒罵】chú mạ [zhòumà] Rủa, nguyền rủa, chửi, chửi rủa;",
+                "(tôn) Chúc nguyện (theo nghĩa kinh Phật). Cv. 呪."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Chú 呪."
+            ],
+            "compound_words": {
+                "咒語": "chú ngữ",
+                "賭咒": "đổ chú",
+                "符咒": "phù chú",
+                "詛咒": "trớ chú"
+            }
+        }
+    }
+}

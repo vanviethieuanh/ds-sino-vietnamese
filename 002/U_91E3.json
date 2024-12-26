@@ -1,0 +1,84 @@
+{
+    "character": "釣",
+    "details": {
+        "Âm Hán Việt": [
+            "điếu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "kim 金 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金勺"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "CPI (金心戈)"
+        ],
+        "Unicode": [
+            "U+91E3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "diào ㄉㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "điếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.る (tsu.ru)",
+            "つ.り (tsu.ri)",
+            "つ.り- (tsu.ri-)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "diu3"
+        ]
+    },
+    "meanings": {
+        "điếu": {
+            "Từ điển phổ thông": [
+                "câu cá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Câu cá, câu. ◇Nguyễn Trãi 阮廌: 'Bản thị canh nhàn điếu tịch nhân' 本是耕閒釣寂人 (Đề Từ Trọng Phủ canh ẩn đường 題徐仲甫耕隱堂) Ta vốn là kẻ cày nhàn, câu tịch.",
+                "(Động) Dùng mánh lới, cách quỷ quyệt để lấy được. ◎Như: 'cô danh điếu dự' 沽名釣譽 mua danh chuộc tiếng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Câu cá. Nguyễn Trãi 阮廌: Bản thị canh nhàn điếu tịch nhân 本是耕閒釣寂人 ta vốn là kẻ cày nhàn, câu tịch.",
+                "Phàm cái gì dùng cách quỷ quyệt mà dỗ lấy được đều gọi là điếu. Như cô danh điếu dự 沽名釣譽 mua danh chuộc tiếng khen."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Câu: 釣魚 Câu cá;",
+                "Tìm mọi cách để mưu danh lợi: 沽名釣譽 Mua danh chuốc tiếng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Câu cá — Câu lấy, tìm kiếm để có."
+            ],
+            "compound_words": {
+                "沽名釣譽": "cô danh điếu dự",
+                "釣竿": "điếu can",
+                "釣名": "điếu danh",
+                "釣利": "điếu lợi",
+                "釣船": "điếu thuyền"
+            }
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "character": "砥",
+    "details": {
+        "Âm Hán Việt": [
+            "chỉ",
+            "để"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thạch 石 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石氐"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一ノフ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "MRHPM (一口竹心一)"
+        ],
+        "Unicode": [
+            "U+7825"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dǐ ㄉㄧˇ",
+            "zhǐ ㄓˇ"
+        ],
+        "Âm Nôm": [
+            "chỉ",
+            "đe",
+            "để"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "テイ (tei)",
+            "キイ (kii)",
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と (to)",
+            "といし (toishi)",
+            "と.ぐ (to.gu)",
+            "みが.く (miga.ku)",
+            "たいら.にする (taira.nisuru)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "dai1",
+            "dai2",
+            "zi2"
+        ]
+    },
+    "meanings": {
+        "chỉ": {
+            "Từ điển phổ thông": [
+                "hòn đá mài",
+                "dùi mài"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đá mài. Đá to gọi là 'lệ' 礪, đá nhỏ gọi là 'chỉ' 砥. ◎Như: 'chỉ thạch' 砥石 đá mài dao. ◇Hoài Nam Tử 淮南子: 'Kiếm đãi chỉ nhi hậu năng lợi' 劍待砥而後能利 (Tu vụ huấn 脩務訓) Kiếm chờ đá mài rồi mới sắc bén.",
+                "(Động) Giùi mài, luyện tập, ma luyện. ◎Như: 'chỉ nhận' 砥刃 mài giũa binh khí cho sắc bén, 'hỗ tương chỉ lệ' 互相砥礪 cùng nhau luyện tập, gắng gỏi.",
+                "(Động) Bình định, làm cho yên ổn. ◎Như: 'chỉ định' 砥定 bình định, 'chỉ thuộc' 砥屬 thiên hạ bình yên, bốn phương quy phụ.",
+                "(Động) Làm trở ngại. ◎Như: 'chỉ trệ' 砥滯 trì trệ, không lưu thông.",
+                "(Tính) Bằng, đều. ◎Như: 'chỉ trực' 砥直 công bình chính trực, 'chỉ lộ' 砥路 đường bằng phẳng.",
+                "§ Ta quen đọc là 'để' 砥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðá mài, đá to gọi là lệ 礪, nhỏ gọi là chỉ 砥.",
+                "Dùi mài, nghĩa bóng là cái công học vấn khắc khổ, như hỗ tương chỉ lệ 互相砥礪 cùng mài giũa nhau gắng gỏi nhau. Ta quen đọc là để lệ 砥礪.",
+                "Bằng, đều."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đá mài dao, đá mầu;",
+                "Dùi mài, giồi mài, trau giồi (học hành): 互相砥礪 Cùng trau giồi cho nhau;",
+                "(văn) Bằng, đều."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hòn đá mài, dùng để mài dao."
+            ],
+            "compound_words": {
+                "砥礪": "chỉ lệ"
+            }
+        },
+        "để": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đá mài dao, đá mầu;",
+                "Dùi mài, giồi mài, trau giồi (học hành): 互相砥礪 Cùng trau giồi cho nhau;",
+                "(văn) Bằng, đều."
+            ]
+        }
+    }
+}

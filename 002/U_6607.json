@@ -1,0 +1,90 @@
+{
+    "character": "昇",
+    "details": {
+        "Âm Hán Việt": [
+            "thăng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhật 日 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱日升"
+        ],
+        "Nét bút": [
+            "丨フ一一ノ一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "AHT (日竹廿)"
+        ],
+        "Unicode": [
+            "U+6607"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "shēng ㄕㄥ"
+        ],
+        "Âm Nôm": [
+            "thăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のぼ.る (nobo.ru)"
+        ],
+        "Âm Hàn": [
+            "승"
+        ],
+        "Âm Quảng Đông": [
+            "sing1"
+        ]
+    },
+    "meanings": {
+        "thăng": {
+            "Từ điển phổ thông": [
+                "bay lên",
+                "cái thưng",
+                "thưng, thăng (đơn vị đo)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lên, lên cao. ◇Giang Yêm 江淹: 'Nhật chiếu thủy nhi đông thăng, San xuất ba nhi ẩn một' 日照水而東昇, 山出波而隱沒 (Thạch kiếp phú 石劫賦) Mặt trời chiếu nước mà mọc lên phía đông, Núi ra khỏi sóng mà ẩn mất.",
+                "(Động) Tiến lên, lên cấp. ◎Như: 'trạc thăng tể tướng' 擢昇宰相 đề cử thăng cấp làm tể tướng.",
+                "(Danh) Họ 'Thăng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mặt trời mới mọc.",
+                "Lên, cùng nghĩa như chữ thăng 升.",
+                "Tiến lên, thăng chức."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mặt trời mới mọc (mới lên);",
+                "Lên, tiến lên, thăng chức. Xem 升 (bộ 十)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mặt trời lên cao — Lên cao — Tốt đẹp hơn — Dùng như chữ Thăng 升."
+            ],
+            "compound_words": {
+                "提昇": "đề thăng",
+                "毫昇": "hào thăng",
+                "攀昇": "phan thăng",
+                "昇平": "thăng bình",
+                "昇起": "thăng khởi",
+                "昇龍": "thăng long",
+                "昇值": "thăng trị",
+                "上昇": "thượng thăng",
+                "直昇飛機": "trực thăng phi cơ"
+            }
+        }
+    }
+}

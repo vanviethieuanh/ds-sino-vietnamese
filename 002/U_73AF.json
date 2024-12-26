@@ -1,0 +1,65 @@
+{
+    "character": "环",
+    "details": {
+        "Âm Hán Việt": [
+            "hoàn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩不"
+        ],
+        "Nét bút": [
+            "一一丨一一ノ丨丶"
+        ],
+        "Thương Hiệt": [
+            "MGMF (一土一火)"
+        ],
+        "Unicode": [
+            "U+73AF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huán ㄏㄨㄢˊ"
+        ],
+        "Âm Nôm": [
+            "hoàn"
+        ],
+        "Âm Quảng Đông": [
+            "waan4"
+        ]
+    },
+    "meanings": {
+        "hoàn": {
+            "Từ điển phổ thông": [
+                "cái vòng ngọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 環."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 環"
+            ],
+            "compound_words": {
+                "环境": "hoàn cảnh",
+                "嫏环": "lang hoàn",
+                "连环": "liên hoàn",
+                "玉京嫏环": "ngọc kinh lang hoàn",
+                "丫环": "nha hoàn",
+                "循环": "tuần hoàn"
+            }
+        }
+    }
+}

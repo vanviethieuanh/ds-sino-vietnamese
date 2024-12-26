@@ -1,0 +1,86 @@
+{
+    "character": "糖",
+    "details": {
+        "Âm Hán Việt": [
+            "đường"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mễ 米 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米唐"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶丶一ノフ一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "FDILR (火木戈中口)"
+        ],
+        "Unicode": [
+            "U+7CD6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "táng ㄊㄤˊ"
+        ],
+        "Âm Nôm": [
+            "đường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Hàn": [
+            "당",
+            "탕"
+        ],
+        "Âm Quảng Đông": [
+            "tong2",
+            "tong4"
+        ]
+    },
+    "meanings": {
+        "đường": {
+            "Từ điển phổ thông": [
+                "đường ăn, chất ngọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chất ngọt chế bằng lúa, mía, củ cải, v.v. ◎Như: 'giá đường' 蔗糖 đường mía.",
+                "(Danh) Kẹo. ◎Như: 'hoa sanh đường' 花生糖 kẹo lạc.",
+                "(Tính) Làm bằng đường. ◎Như: 'đường thủy' 糖水 nước đường, 'đường y' 糖衣 lớp bọc đường.",
+                "(Tính) Ngọt. ◎Như: 'đường vị' 糖味 vị ngọt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðường, ngày xưa dùng lúa chế ra đường tức là kẹo mạ. Ðến đời Ðường mới học được cách cầm mía làm đường, bên Âu châu dùng củ cải làm đường."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đường: 冰糖 Đường phèn;",
+                "Kẹo: 小孩愛吃糖 Trẻ em thích ăn kẹo;",
+                "(hoá) Chất đường."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại thực phẩm vị ngọt, chế bằng nước mía. Ta cũng gọi là đường."
+            ],
+            "compound_words": {
+                "白糖": "bạch đường",
+                "冰糖": "băng đường",
+                "棒糖": "bổng đường",
+                "糖尿": "đường niếu",
+                "糖汁": "đường trấp",
+                "乳糖": "nhũ đường",
+                "方糖": "phương đường",
+                "砂糖": "sa đường"
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "character": "騰",
+    "details": {
+        "Âm Hán Việt": [
+            "đằng"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "mã 馬 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸⿰月龹馬"
+        ],
+        "Nét bút": [
+            "ノフ一一丶ノ一一ノ丶一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "BFQF (月火手火)"
+        ],
+        "Unicode": [
+            "U+9A30"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "téng ㄊㄥˊ"
+        ],
+        "Âm Nôm": [
+            "đằng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あが.る (aga.ru)",
+            "のぼ.る (nobo.ru)"
+        ],
+        "Âm Hàn": [
+            "등"
+        ],
+        "Âm Quảng Đông": [
+            "tang4"
+        ]
+    },
+    "meanings": {
+        "đằng": {
+            "Từ điển phổ thông": [
+                "ngựa nhảy chồm lên",
+                "bốc lên",
+                "chạy, nhảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chạy mau, nhảy lên, rong ruổi. ◎Như: 'vạn mã bôn đằng' 萬馬奔騰 muôn ngựa rong ruổi.",
+                "(Động) Bốc lên cao, vọt lên. ◎Như: 'hóa khí thượng đằng' 火氣上騰 hơi lửa bốc lên, 'đằng quý' 騰貴 vật giá đắt lên.",
+                "(Động) Bốc hơi. ◇Tây du kí 西遊記: 'Ngã hữu ta nhi hàn thấp khí đích bệnh, yếu tha đằng đằng' 我有些兒寒濕氣的病, 要他騰騰 (Đệ thất thập thất hồi) Ta có chút bệnh phong thấp, nên muốn nó bốc hơi nóng.",
+                "(Động) Cưỡi. ◎Như: 'đằng vân' 騰雲 đi trên mây, cưỡi mây mà đi.",
+                "(Động) Dành ra, bớt ra. ◎Như: 'giá kỉ thiên ngã đắc đằng xuất thì gian lai khán thư' 這幾天我得騰出時間來看書 mấy hôm nay tôi bớt ra được thời giờ lại đọc sách, 'ma ma yếu ngã đằng xuất nhất gian ốc tử lai đôi thư' 媽媽要我騰出一間屋子來堆書 má muốn tôi dành một căn phòng để chứa sách.",
+                "(Danh) Họ 'Đằng'.",
+                "§ Xem 'đằng đằng' 騰騰."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngựa nhảy chồm.",
+                "Bốc lên. Phàm cái gì nó bốc lên đều gọi là đằng. Như hoá khí thượng đằng 化氣上騰 hoá hơi bốc lên. Giá đồ vật gì bỗng đắt vọt lên gọi là đằng quý 騰貴.",
+                "Nhảy.",
+                "Cưỡi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhảy chồm lên, nhảy, chạy nhanh: 奔騰 Chạy nhanh; 歡騰 Vui mừng nhảy nhót;",
+                "Vọt lên cao, bốc lên cao, bay lên cao: 騰空 Vọt lên không; 飛騰 Bay bổng lên; 上騰 Bốc lên trên;",
+                "Dọn ra, dành ra: 騰出兩間房來 Dành ra hai căn nhà; 騰不出時間來 Không sao dành ra được thời gian;",
+                "(văn) Giao, chuyển giao;",
+                "(văn) Cưỡi, cỡi;",
+                "[Téng] (Họ) Đằng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Truyền đi. Tới. Đến — Ngựa chạy mau — Nhảy cao lên. Vọt cao lên."
+            ],
+            "compound_words": {
+                "騰踊": "đằng dũng",
+                "騰躍": "đằng dược",
+                "騰騰": "đằng đằng",
+                "騰馬": "đằng mã",
+                "騰貴": "đằng quý",
+                "騰雲": "đằng vân",
+                "騰蛇": "đằng xà",
+                "歡騰": "hoan đằng",
+                "翻騰": "phiên đằng"
+            }
+        }
+    }
+}

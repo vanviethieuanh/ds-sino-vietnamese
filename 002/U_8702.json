@@ -1,0 +1,95 @@
+{
+    "character": "蜂",
+    "details": {
+        "Âm Hán Việt": [
+            "phong"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trùng 虫 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫夆"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノフ丶一一一丨"
+        ],
+        "Thương Hiệt": [
+            "LIHEJ (中戈竹水十)"
+        ],
+        "Unicode": [
+            "U+8702"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ"
+        ],
+        "Âm Nôm": [
+            "ong",
+            "phong"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はち (hachi)"
+        ],
+        "Âm Hàn": [
+            "봉"
+        ],
+        "Âm Quảng Đông": [
+            "fung1"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "con ong",
+                "đông, nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con ong.",
+                "(Danh) Tướng mạo hung ác. ◎Như: 'phong mục sài thanh' 蜂目豺聲 mặt ong tiếng chó sói, hình dung kẻ độc ác.",
+                "(Phó) Đông, nhiều, từng đàn, từng bầy (như ong). ◇Tam quốc diễn nghĩa 三國演義: 'Triều chánh nhật phi, dĩ trí thiên hạ nhân tâm tư loạn, đạo tặc phong khởi' 朝政日非, 以致天下人心思亂, 盜賊蜂起 (Đệ nhất hồi 第一回) Chính sự trong triều ngày càng hư hỏng, khiến cho lòng người náo loạn, giặc cướp nổi lên như ong."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ong.",
+                "Tướng mạo hung ác. Như phong mục sài thanh 蜂目豺聲 mặt ong tiếng chó sói, hình dung kẻ độc ác.",
+                "Đông. Nhiều. Như đạo tặc phong khởi 盜賊蜂起 trộm giặc nổi như ong."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Con ong: 養蜂 Nuôi ong; 蜜蜂 Mật ong;",
+                "(Ví) từng đàn, từng đám, từng bầy, đông nhiều (như ong) nổi lên như ong: 蜂擁而至 Cả đám kéo đến, ùn ùn kéo đến; 盜賊蜂起 Trộm nổi lên như ong",
+                "(Ví) tướng mạo hung ác: 蜂目豺聲 Mặt ong tướng chó, kẻ hung ác."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ong."
+            ],
+            "compound_words": {
+                "奔蜂": "bôn phong",
+                "蜜蜂": "mật phong",
+                "蜂準": "phong chuẩn",
+                "蜂起": "phong khởi",
+                "蜂蠟": "phong lạp",
+                "蜂蜜": "phong mật",
+                "蜂蟻": "phong nghị",
+                "蜂房": "phong phòng",
+                "蜂聚": "phong tụ",
+                "蜂擁": "phong ủng",
+                "蜂王": "phong vương",
+                "蜂出": "phong xuất",
+                "蜂腰": "phong yêu"
+            }
+        }
+    }
+}

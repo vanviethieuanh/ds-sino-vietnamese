@@ -1,0 +1,101 @@
+{
+    "character": "隆",
+    "details": {
+        "Âm Hán Việt": [
+            "long"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phụ 阜 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "フ丨ノフ丶一ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "NLHEM (弓中竹水一)"
+        ],
+        "Unicode": [
+            "U+9686"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lōng ㄌㄨㄥ",
+            "lóng ㄌㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "long",
+            "lung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リュウ (ryū)"
+        ],
+        "Âm Hàn": [
+            "륭",
+            "융"
+        ],
+        "Âm Quảng Đông": [
+            "lung4"
+        ]
+    },
+    "meanings": {
+        "long": {
+            "Từ điển phổ thông": [
+                "long trọng",
+                "hưng thịnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Đầy, nhiều, dày. ◎Như: 'long trọng' 隆重 trọng thể, 'đức long vọng trọng' 德隆望重 đức dày giá trọng.",
+                "(Tính) Hưng thịnh, hưng khởi. ◎Như: 'hưng long' 興隆, 'long thịnh' 隆盛.",
+                "(Tính) Sâu, thắm thiết. ◎Như: 'long tình hậu nghị' 隆情厚誼 tình nghĩa thắm thiết.",
+                "(Tính, phó) Cao, gồ lên. ◎Như: 'long khởi' 隆起 nhô lên, 'long chuẩn' 隆準 sống mũi cao.",
+                "(Động) Làm cho cao thêm. ◎Như: 'long tị' 隆鼻 sửa mũi cho cao lên. ◇Chiến quốc sách 戰國策: 'Tuy long Tiết chi thành đáo ư thiên, do chi vô ích dã' 雖隆薛之城到於天, 猶之無益也 (Tề sách nhất 齊策一) Tuy có nâng cao thành Tiết tới đụng trời, cũng vô ích.",
+                "(Động) Tôn sùng. ◎Như: 'long sư' 隆師 tôn kính thầy.",
+                "(Danh) Họ 'Long'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðầy ùn, đầy tù ụ, đầy đặn lại lớn lao. Vì thế nên cái gì lồi lên trội lên gọi là long khởi 隆起.",
+                "Thịnh, dày. Như đức long vọng trọng 德隆望重 đức thịnh giá trọng.",
+                "Hậu. Như chí nghị long tình 摯誼隆情 nghĩa thiết tình hậu.",
+                "Long long 隆隆 ù ù, tiếng sấm động.",
+                "Tôn quý, cao nhất.",
+                "Lớn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trọng thể, trọng hậu: 隆重 Long trọng;",
+                "Hưng thịnh: 興隆 Hưng thịnh; 隆盛 Thịnh vượng;",
+                "Sâu, hậu, thắm thiết: 隆情厚誼 Tình nghĩa thắm thiết, nghĩa thiết tình hậu;",
+                "Gồ lên, lồi lên, u lên: 他碰得前額隆起一個大包 Trán anh ấy va u lên một cục to;",
+                "(văn) Cao quý, tôn quý, nổi tiếng, vẻ vang;",
+                "(văn) Lớn;",
+                "【隆隆】long long [lóng lóng] (thanh) Ầm ầm: 雷聲隆隆 Sấm sét ầm ầm;",
+                "[Lóng] (Họ) Long."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tốt đẹp. Hưng thịnh — Phong phú, đầy đặn — To lớn — Ngọn núi nhỏ cao lên."
+            ],
+            "compound_words": {
+                "馮隆": "bằng long",
+                "嘉隆": "gia long",
+                "兴隆": "hưng long",
+                "興隆": "hưng long",
+                "隆恩": "long ân",
+                "隆隆": "long long",
+                "隆鼻": "long tị",
+                "隆重": "long trọng",
+                "隆運": "long vận",
+                "永隆": "vĩnh long",
+                "昌隆": "xương long"
+            }
+        }
+    }
+}

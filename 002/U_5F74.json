@@ -1,0 +1,65 @@
+{
+    "character": "彴",
+    "details": {
+        "Âm Hán Việt": [
+            "bột",
+            "chước"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "xích 彳 (+3 nét)"
+        ],
+        "Hình thái": [
+            "⿰彳勺"
+        ],
+        "Nét bút": [
+            "ノノ丨ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "HOPI (竹人心戈)"
+        ],
+        "Unicode": [
+            "U+5F74"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "シャク (shaku)",
+            "チャク (chaku)",
+            "テキ (teki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まるきばし (marukibashi)"
+        ]
+    },
+    "meanings": {
+        "bột": {
+            "Từ điển phổ thông": [
+                "(xem: bột ước 彴約)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【彴約】bột ước [bóyue] (văn) Sao băng."
+            ],
+            "compound_words": {
+                "彴約": "bột ước",
+                "彴约": "bột ước"
+            }
+        },
+        "chước": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cầu khỉ."
+            ]
+        }
+    }
+}

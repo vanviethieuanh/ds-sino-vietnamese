@@ -1,0 +1,98 @@
+{
+    "character": "膻",
+    "details": {
+        "Âm Hán Việt": [
+            "chiên",
+            "thiên",
+            "đán",
+            "đãn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nhục 肉 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月亶"
+        ],
+        "Nét bút": [
+            "ノフ一一丶一丨フ丨フ一一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "BYWM (月卜田一)"
+        ],
+        "Unicode": [
+            "U+81BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "shān ㄕㄢ",
+            "tǎn ㄊㄢˇ"
+        ],
+        "Âm Nôm": [
+            "thiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きも (kimo)"
+        ],
+        "Âm Quảng Đông": [
+            "saan1",
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "chiên": {
+            "Từ điển phổ thông": [
+                "mùi tanh hôi của dê hay cừu"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mùi hôi của loài dê cừu."
+            ],
+            "compound_words": {
+                "胜膻": "tinh chiên"
+            }
+        },
+        "thiên": {
+            "Từ điển phổ thông": [
+                "mùi tanh hôi của dê hay cừu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cũng như 'thiên' 羶.",
+                "Một âm là 'đãn'. (Danh) 'Đãn trung' 膻中 (1) Phần ngực ở giữa hai vú. (2) Huyệt đạo ở ngực, giữ hai đầu vú. Thường dùng để trị ho, suyễn (đông y)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mùi hôi của cừu hoặc hươu, nai (như 羶, bộ 羊) ."
+            ]
+        },
+        "đán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Đán trung 膻中."
+            ],
+            "compound_words": {
+                "膻中": "đán trung"
+            }
+        },
+        "đãn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cũng như 'thiên' 羶.",
+                "Một âm là 'đãn'. (Danh) 'Đãn trung' 膻中 (1) Phần ngực ở giữa hai vú. (2) Huyệt đạo ở ngực, giữ hai đầu vú. Thường dùng để trị ho, suyễn (đông y)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【膻中】đãn trung [dànzhong] (y) Tâm bào lạc (ở giữa hai vú)."
+            ]
+        }
+    }
+}

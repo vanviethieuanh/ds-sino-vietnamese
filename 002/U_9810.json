@@ -1,0 +1,101 @@
+{
+    "character": "預",
+    "details": {
+        "Âm Hán Việt": [
+            "dự"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰予頁"
+        ],
+        "Nét bút": [
+            "フ丶フ丨一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NNMBC (弓弓一月金)"
+        ],
+        "Unicode": [
+            "U+9810"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "dự",
+            "dứa",
+            "nhứ",
+            "rợ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨ (yo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あず.ける (azu.keru)",
+            "あず.かる (azu.karu)"
+        ],
+        "Âm Hàn": [
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "dự": {
+            "Từ điển phổ thông": [
+                "sẵn, có trước, làm trước",
+                "tham gia, dự"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Sẵn, trước. § Cùng nghĩa với 'dự' 豫. ◎Như: 'dự bị' 預備 sắp sẵn, 'dự ước' 預約 hẹn trước. ◇Liêu trai chí dị 聊齋志異: 'Thiếp diệc tri kì hữu số, bất đắc bất dự cáo nhĩ' 妾亦知其有數, 不得不預告耳 (Thư si 書癡) Em cũng biết việc nào có số cả, nhưng không thể không báo trước đấy thôi.",
+                "(Động) Cùng với, tham gia. § Thông 'dự' 與. ◎Như: 'can dự' 干預 can thiệp, có liên quan đến, 'tham dự' 參預 xen dự vào. ◇Tam quốc diễn nghĩa 三國演義: 'Cộng dự triều chánh' 共預朝政 (Đệ nhị hồi) Cùng tham dự việc triều chính."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sẵn, cùng nghĩa với chữ dự 豫. Như dự bị 預備 phòng bị sẵn.",
+                "Dự vào. Như can dự 干預 cũng dự vào, can thiệp vào, tham dự 參預 xen dự vào, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trước, sẵn (như 豫, bộ 豕): 預測 Đoán trước; 預金成功 Chúc thành công; 吾預知當爾 Ta biết trước sự việc hẳn sẽ như thế (Tam quốc chí).【預先】 dự tiên [yùxian] Trước, sẵn: 預先布置 Bố trí sẵn; 預先通知 Thông báo trước;",
+                "Chuẩn bị, dự bị;",
+                "Dự vào: 參預（參與）Tham dự."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vui vẻ — Tham gia vào — Trước khi việc xẩy ra — Như chữ Dự 豫."
+            ],
+            "compound_words": {
+                "干預": "can dự",
+                "預案": "dự án",
+                "預報": "dự báo",
+                "預備": "dự bị",
+                "預告": "dự cáo",
+                "預定": "dự định",
+                "預訂": "dự đính",
+                "預斷": "dự đoán",
+                "預計": "dự kế",
+                "預見": "dự kiến",
+                "預料": "dự liệu",
+                "預謀": "dự mưu",
+                "預防": "dự phòng",
+                "預討": "dự thảo",
+                "預審": "dự thẩm",
+                "預試": "dự thí",
+                "預聽": "dự thính",
+                "參預": "tham dự"
+            }
+        }
+    }
+}

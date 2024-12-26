@@ -1,0 +1,104 @@
+{
+    "character": "銷",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金肖"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨丶ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "CFB (金火月)"
+        ],
+        "Unicode": [
+            "U+92B7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiāo ㄒㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "tiêu",
+            "tiu",
+            "toẻ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "け.す (ke.su)",
+            "と.ける (to.keru)",
+            "かわ.す (kawa.su)",
+            "とろ.かす (toro.kasu)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "siu1"
+        ]
+    },
+    "meanings": {
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "tan, nóng chảy",
+                "tiêu trừ",
+                "tiêu thụ, bán"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nung chảy kim loại.",
+                "(Động) Mất, tan hết, hủy hoại. ◇Sử Kí 史記: 'Chúng khẩu thước kim, tích hủy tiêu cốt dã' 眾口鑠金, 積毀銷骨也 (Trương Nghi truyện 張儀傳) Miệng người ta nung chảy kim loại, lời gièm pha làm tan xương (nát thịt).",
+                "(Động) Hao phí, hao mòn. ◎Như: 'tiêu háo' 銷耗 hao mòn. ◇Trang Tử 莊子: 'Kì thanh tiêu, kì chí vô cùng' 其聲銷, 其志無窮 (Tắc dương 則陽) Tiếng tăm họ tiêu mòn, chí họ vô cùng.",
+                "(Động) Trừ khử, bỏ đi. ◎Như: 'chú tiêu' 註銷 xóa bỏ, 'tiêu diệt' 銷滅 trừ mất hẳn đi.",
+                "(Động) Bài khiển, trữ phát. ◇Vương Xán 王粲: 'Liêu hạ nhật dĩ tiêu ưu' 聊暇日以銷憂 (Đăng lâu phú 登樓賦) Ngày nhàn tản để giải sầu.",
+                "(Động) Bán (hàng hóa). ◎Như: 'trệ tiêu' 滯銷 bán ế, 'sướng tiêu' 暢銷 bán chạy, 'tiêu thụ' 銷售 bán ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tiêu tan. Cho các loài kim vào lửa nung cho chảy ra gọi là tiêu.",
+                "Mòn hết. Như tiêu háo 銷耗 hao mòn, tiêu diệt 銷滅, v.v.",
+                "Bán chạy tay, hàng họ bán được gọi là tiêu.",
+                "Tiêu trừ đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nung chảy, tan (kim loại);",
+                "Bỏ đi, loại bỏ, tiêu trừ, tiêu tan, tiêu mất, hao mòn: 撒銷 Loại bỏ, trừ bỏ; 其聲銷 Tiếng tăm của ông ta tiêu mất (Trang tử);",
+                "Bán (hàng): 貨銷不暢Hàng bán không chạy;",
+                "Chi tiêu: 開銷很大 Chi tiêu rất lớn;",
+                "Cài chốt;",
+                "(văn) Gang;",
+                "(văn) Một loại dao: 羊頭之銷 Dao đầu dê (Hoài Nam tử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nấu chảy kim loại ra — Giảm đi. Mất đi."
+            ],
+            "compound_words": {
+                "包銷": "bao tiêu",
+                "勾銷": "câu tiêu",
+                "支銷": "chi tiêu",
+                "插銷": "sáp tiêu",
+                "推銷": "thôi tiêu",
+                "銷售": "tiêu thụ",
+                "撤銷": "triệt tiêu",
+                "促銷": "xúc tiêu"
+            }
+        }
+    }
+}

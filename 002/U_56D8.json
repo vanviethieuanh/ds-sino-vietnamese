@@ -1,0 +1,102 @@
+{
+    "character": "囘",
+    "details": {
+        "Âm Hán Việt": [
+            "hối",
+            "hồi"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "quynh 冂 (+3 nét)",
+            "vi 囗 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿵冂巳"
+        ],
+        "Nét bút": [
+            "丨フフ一フ"
+        ],
+        "Thương Hiệt": [
+            "BRU (月口山)"
+        ],
+        "Unicode": [
+            "U+56D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "huí ㄏㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "hòi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "エ (e)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まわ.る (mawa.ru)",
+            "まわ.す (mawa.su)",
+            "もとお.る (motō.ru)",
+            "か.える (ka.eru)"
+        ],
+        "Âm Hàn": [
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "wui4"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cong. Vòng quanh — Một âm là Hồi. Xem Hồi."
+            ]
+        },
+        "hồi": {
+            "Từ điển phổ thông": [
+                "về",
+                "đạo Hồi, Hồi giáo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Như chữ “hồi” 回."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 回 (bộ 囗)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hồi 回."
+            ],
+            "compound_words": {
+                "招囘": "chiêu hồi",
+                "彈囘": "đàn hồi",
+                "下囘": "hạ hồi",
+                "去囘": "khứ hồi",
+                "來囘": "lai hồi",
+                "反囘": "phản hồi",
+                "發囘": "phát hồi",
+                "復囘": "phục hồi",
+                "覆囘": "phúc hồi",
+                "軍囘毋令": "quân hồi vô lệnh",
+                "歸囘": "quy hồi",
+                "再囘": "tái hồi",
+                "汰囘": "thải hồi",
+                "收囘": "thu hồi",
+                "贖囘": "thục hồi",
+                "遲囘": "trì hồi",
+                "抽囘": "trừu hồi",
+                "挽囘": "vãn hồi",
+                "衣錦囘鄉": "ý cẩm hồi hương"
+            }
+        }
+    }
+}

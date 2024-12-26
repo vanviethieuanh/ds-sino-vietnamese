@@ -1,0 +1,80 @@
+{
+    "character": "膓",
+    "details": {
+        "Âm Hán Việt": [
+            "tràng",
+            "trường"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nhục 肉 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月⿱𠂉昜"
+        ],
+        "Nét bút": [
+            "ノフ一一ノ一丨フ一一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "BOAH (月人日竹)"
+        ],
+        "Unicode": [
+            "U+8193"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらわた (harawata)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tràng": {
+            "Từ điển phổ thông": [
+                "ruột"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “tràng” 腸."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ tràng 腸."
+            ]
+        },
+        "trường": {
+            "Từ điển phổ thông": [
+                "ruột"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 腸."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trường 腸."
+            ],
+            "compound_words": {
+                "羊膓": "dương trường",
+                "大膓": "đại trường",
+                "熱膓": "nhiệt trường"
+            }
+        }
+    }
+}

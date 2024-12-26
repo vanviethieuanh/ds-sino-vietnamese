@@ -1,0 +1,72 @@
+{
+    "character": "膍",
+    "details": {
+        "Âm Hán Việt": [
+            "bì",
+            "tì",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhục 肉 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月𣬉"
+        ],
+        "Nét bút": [
+            "ノフ一一ノ丨フノ丶一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "BHWP (月竹田心)"
+        ],
+        "Unicode": [
+            "U+818D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pí ㄆㄧˊ"
+        ],
+        "Âm Quảng Đông": [
+            "fu4",
+            "pei4"
+        ]
+    },
+    "meanings": {
+        "bì": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dạ dày của loài nhai lại — Dày ( trái với mỏng )."
+            ],
+            "compound_words": {
+                "膍胵": "bì si"
+            }
+        },
+        "tì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Dạ dày bò.",
+                "(Tính) Dày, hậu. ◇Vương An Thạch 王安石: 'Phúc lí tì hậu' 福履膍厚 (Thượng điền chánh ngôn khải 上田正言啟) Phúc lộc dồi dào."
+            ],
+            "compound_words": {
+                "膍胲": "tì cai"
+            }
+        },
+        "tỳ": {
+            "Từ điển phổ thông": [
+                "dạ dày trâu"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dạ dày trâu;",
+                "【膍胵】tì si [píchi] a. (đph) Dạ dày loài chim; b. (văn) Lá sách, dạ dày trâu."
+            ]
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "甥",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "sinh"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sinh 生 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰生男"
+        ],
+        "Nét bút": [
+            "ノ一一丨一丨フ一丨一フノ"
+        ],
+        "Thương Hiệt": [
+            "HMWKS (竹一田大尸)"
+        ],
+        "Unicode": [
+            "U+7525"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shēng ㄕㄥ"
+        ],
+        "Âm Nôm": [
+            "sinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おい (oi)",
+            "むこ (muko)"
+        ],
+        "Âm Hàn": [
+            "생"
+        ],
+        "Âm Quảng Đông": [
+            "saang1",
+            "sang1"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển phổ thông": [
+                "cháu ngoại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cháu ngoại. ◇Liêu trai chí dị 聊齋志異: 'Ảo kinh viết: Thị ngô sanh dã! Tôn đường, ngã muội tử' 媼驚曰: 是吾甥也! 尊堂, 我妹子 (Anh Ninh 嬰寧) Bà cụ kinh ngạc nói: (Cậu) đúng là cháu ngoại của ta rồi! Mẹ cậu, là em gái ta.",
+                "(Danh) Cháu gọi bằng cậu.",
+                "(Danh) Chàng rể."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cháu ngoại, cháu gọi bằng cậu cũng gọi là sanh.",
+                "Chàng rể."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cháu ngoại, cháu gọi bằng cậu, con của chị em vợ. Cg. 外甥 [wàisheng];",
+                "(văn) Chàng rể: 舜尚見帝，帝館甥于貳室 Ông Thuấn từng đến bái kiến vua Nghiêu, vua Nghiêu cho chàng rể Thuấn ở trong căn nhà phụ (Mạnh tử: Vạn Chương hạ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cháu gọi bằng cậu — Cháu về phía ngoại — Cũng chỉ chàng rể. Xem Sanh quán 甥館."
+            ],
+            "compound_words": {
+                "舅甥": "cữu sanh",
+                "姨甥": "di sanh",
+                "館甥": "quán sanh",
+                "甥館": "sanh quán"
+            }
+        },
+        "sinh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Sanh. Xem Sanh."
+            ],
+            "compound_words": {
+                "外甥": "cháu sinh"
+            }
+        }
+    }
+}

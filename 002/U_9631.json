@@ -1,0 +1,82 @@
+{
+    "character": "阱",
+    "details": {
+        "Âm Hán Việt": [
+            "tỉnh",
+            "tịnh"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "phụ 阜 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖井"
+        ],
+        "Nét bút": [
+            "フ丨一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "NLTT (弓中廿廿)"
+        ],
+        "Unicode": [
+            "U+9631"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jǐng ㄐㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "tỉnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あな (ana)"
+        ],
+        "Âm Quảng Đông": [
+            "zing6"
+        ]
+    },
+    "meanings": {
+        "tỉnh": {
+            "Từ điển phổ thông": [
+                "hố làm bẫy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hố để ngăn ngừa hoặc săn bắt muông thú hoặc giam cầm người. ◎Như: 'hãm tỉnh' 陷阱 cạm bẫy.",
+                "(Danh) Tỉ dụ vực sâu chôn sống người.",
+                "(Danh) Chỉ nhà tù ở dưới đất.",
+                "§ Còn viết là 穽."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tỉnh 穽."
+            ],
+            "compound_words": {
+                "陷阱": "hãm tỉnh"
+            }
+        },
+        "tịnh": {
+            "Từ điển phổ thông": [
+                "hố làm bẫy"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái hố. Ngày xưa săn giống muông thường đào hố, lừa nó ngã xuống rồi bắt gọi là tịnh. Như hãm tịnh 陷阱 cạm bẫy. Có khi viết là 穽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hố, cạm, bẫy: 陷阱 Cạm bẫy. Cv. 穽."
+            ]
+        }
+    }
+}

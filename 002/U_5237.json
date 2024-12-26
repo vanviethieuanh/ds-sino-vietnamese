@@ -1,0 +1,120 @@
+{
+    "character": "刷",
+    "details": {
+        "Âm Hán Việt": [
+            "loát",
+            "xoát"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "đao 刀 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰𡰯⺉"
+        ],
+        "Nét bút": [
+            "フ一ノ丨フ丨丨丨"
+        ],
+        "Thương Hiệt": [
+            "SBLN (尸月中弓)"
+        ],
+        "Unicode": [
+            "U+5237"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shuā ㄕㄨㄚ",
+            "shuà ㄕㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "loát",
+            "loét",
+            "nhoét",
+            "soát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.る (su.ru)",
+            "-ず.り (-zu.ri)",
+            "-ずり (-zuri)",
+            "は.く (ha.ku)"
+        ],
+        "Âm Hàn": [
+            "쇄"
+        ],
+        "Âm Quảng Đông": [
+            "caat3",
+            "saat3"
+        ]
+    },
+    "meanings": {
+        "loát": {
+            "Từ điển phổ thông": [
+                "tẩy sạch",
+                "cái bàn chải"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tẩy sạch, lau, chùi, đánh (cho sạch). ◎Như: 'xoát nha' 刷牙 đánh răng, 'xoát hài' 刷鞋 đánh giày.",
+                "(Động) Rửa oan. ◎Như: 'tẩy xoát oan tình' 洗刷冤情 rửa sạch oan tình.",
+                "(Động) Bôi, xoa. ◎Như: 'xoát tường' 鞋刷 trát tường, 'xoát du tất' 油漆刷 bôi sơn dầu.",
+                "(Động) Loại bỏ, đào thải. ◎Như: 'tha tại quyết tái trung bị xoát điệu liễu' 他在決賽中被刷掉了 anh ta đã bị loại khỏi cuộc tranh đua.",
+                "(Danh) Bàn chải. ◎Như: 'nha xoát' 牙刷 bàn chải đánh răng, 'hài xoát' 鞋刷 bàn chải giày.",
+                "(Trạng thanh) Xoàn xoạt. ◎Như: 'xoát xoát tác hưởng' 刷刷作響 tiếng vang xoạt xoạt.",
+                "§ Tục thường đọc là 'loát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tẩy xạch.",
+                "Cái bàn chải, nhà in dùng cái bàn chải, chải cho đẹp chữ, nên gọi sự in là ấn xoát 印刷. Tục thường đọc là chữ loát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bàn chải: 牙刷 Bàn chải đánh răng;",
+                "Chải, lau, rửa, tẩy sạch: 刷鞋 Chải giầy, đánh giầy; 刷鍋 Lau chảo, cọ nồi;",
+                "Như 唰 [shuà]. Xem 刷 [shuà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cạo sạch đi — Chải. Td: Loát xỉ ( chải răng, đánh răng ) — Đáng lẽ đọc Xoát mới đúng."
+            ],
+            "compound_words": {
+                "印刷": "ấn loát",
+                "印刷機": "ấn loát cơ",
+                "印刷品": "ấn loát phẩm",
+                "印刷術": "ấn loát thuật",
+                "板刷": "bản loát",
+                "振刷": "chấn loát"
+            }
+        },
+        "xoát": {
+            "Từ điển trích dẫn": [
+                "(Động) Tẩy sạch, lau, chùi, đánh (cho sạch). ◎Như: 'xoát nha' 刷牙 đánh răng, 'xoát hài' 刷鞋 đánh giày.",
+                "(Động) Rửa oan. ◎Như: 'tẩy xoát oan tình' 洗刷冤情 rửa sạch oan tình.",
+                "(Động) Bôi, xoa. ◎Như: 'xoát tường' 鞋刷 trát tường, 'xoát du tất' 油漆刷 bôi sơn dầu.",
+                "(Động) Loại bỏ, đào thải. ◎Như: 'tha tại quyết tái trung bị xoát điệu liễu' 他在決賽中被刷掉了 anh ta đã bị loại khỏi cuộc tranh đua.",
+                "(Danh) Bàn chải. ◎Như: 'nha xoát' 牙刷 bàn chải đánh răng, 'hài xoát' 鞋刷 bàn chải giày.",
+                "(Trạng thanh) Xoàn xoạt. ◎Như: 'xoát xoát tác hưởng' 刷刷作響 tiếng vang xoạt xoạt.",
+                "§ Tục thường đọc là 'loát'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tẩy xạch.",
+                "Cái bàn chải, nhà in dùng cái bàn chải, chải cho đẹp chữ, nên gọi sự in là ấn xoát 印刷. Tục thường đọc là chữ loát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chải sạch — Ta quen đọc Loát. Xem thêm Loát — Dụng cụ để chải, tức cái bàn chải. Td: Hài xoát ( bàn chải đánh giầy )."
+            ],
+            "compound_words": {
+                "刷子": "xoát tử"
+            }
+        }
+    }
+}

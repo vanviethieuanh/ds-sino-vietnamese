@@ -1,0 +1,80 @@
+{
+    "character": "侥",
+    "details": {
+        "Âm Hán Việt": [
+            "kiểu",
+            "nghiêu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 人 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻尧"
+        ],
+        "Nét bút": [
+            "ノ丨一フノ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "OJPU (人十心山)"
+        ],
+        "Unicode": [
+            "U+4FA5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǎo ㄐㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "khiếu",
+            "kiểu"
+        ],
+        "Âm Quảng Đông": [
+            "giu1",
+            "hiu1"
+        ]
+    },
+    "meanings": {
+        "kiểu": {
+            "Từ điển phổ thông": [
+                "(xem: tiêu nghiêu 僬僥,僬侥)",
+                "(xem: nghiêu hãnh 僥倖,侥倖)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 僥"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 僥"
+            ],
+            "compound_words": {
+                "侥倖": "kiểu hãnh"
+            }
+        },
+        "nghiêu": {
+            "Từ điển phổ thông": [
+                "(xem: tiêu nghiêu 僬僥,僬侥)",
+                "(xem: nghiêu hãnh 僥倖,侥倖)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 僥"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 僬僥."
+            ],
+            "compound_words": {
+                "侥倖": "nghiêu hãnh",
+                "僬侥": "tiêu nghiêu"
+            }
+        }
+    }
+}

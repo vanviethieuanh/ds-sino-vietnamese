@@ -1,0 +1,98 @@
+{
+    "character": "筮",
+    "details": {
+        "Âm Hán Việt": [
+            "phệ",
+            "thệ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trúc 竹 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮巫"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨ノ丶ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "HMOO (竹一人人)"
+        ],
+        "Unicode": [
+            "U+7B6E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "phệ",
+            "vầu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゼイ (zei)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うらな.う (urana.u)",
+            "めどぎ (medogi)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "sai6"
+        ]
+    },
+    "meanings": {
+        "phệ": {
+            "Từ điển phổ thông": [
+                "bói cỏ thi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bói cỏ thi. ◎Như: 'bốc thệ' 卜筮 bói xấu tốt (dùng mai rùa gọi là 'bốc', dùng cỏ thi gọi là 'thệ').",
+                "Ta quen đọc là 'phệ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bói cỏ thi, tới nhậm chức quan gọi là thệ sĩ 筮仕. Ta quen đọc là chữ phệ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bói cỏ thi: 筮人 Thầy bói;",
+                "【筮仕】phệ sĩ [shìshì] Đến nhận chức quan."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng cỏ thi để bói điều tốt xấu — Chỉ chung việc bói toán. Td: Bóc phệ ( nói toán )."
+            ],
+            "compound_words": {
+                "卜筮": "bốc phệ",
+                "卦筮": "quái phệ"
+            }
+        },
+        "thệ": {
+            "Từ điển phổ thông": [
+                "bói cỏ thi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bói cỏ thi. ◎Như: 'bốc thệ' 卜筮 bói xấu tốt (dùng mai rùa gọi là 'bốc', dùng cỏ thi gọi là 'thệ').",
+                "Ta quen đọc là 'phệ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bói cỏ thi, tới nhậm chức quan gọi là thệ sĩ 筮仕. Ta quen đọc là chữ phệ."
+            ],
+            "compound_words": {
+                "卜筮": "bốc thệ",
+                "筮仕": "thệ sĩ"
+            }
+        }
+    }
+}

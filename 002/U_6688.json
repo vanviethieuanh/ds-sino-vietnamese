@@ -1,0 +1,100 @@
+{
+    "character": "暈",
+    "details": {
+        "Âm Hán Việt": [
+            "vận",
+            "vựng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhật 日 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱日軍"
+        ],
+        "Nét bút": [
+            "丨フ一一丶フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "ABJJ (日月十十)"
+        ],
+        "Unicode": [
+            "U+6688"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yūn ㄩㄣ",
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "quầng",
+            "vầng",
+            "vừng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウン (un)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぼか.す (boka.su)",
+            "ぼか.る (boka.ru)",
+            "かさ (kasa)",
+            "くま (kuma)",
+            "ぼかし (bokashi)",
+            "めまい (memai)"
+        ],
+        "Âm Hàn": [
+            "훈",
+            "운"
+        ],
+        "Âm Quảng Đông": [
+            "wan4",
+            "wan6"
+        ]
+    },
+    "meanings": {
+        "vận": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ta quen đọc Vựng. Xem Vựng."
+            ]
+        },
+        "vựng": {
+            "Từ điển phổ thông": [
+                "vầng sáng của mặt trời, mặt trăng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hôn mê, bất tỉnh. ◎Như: 'vựng đảo' 暈倒 hôn mê, 'vựng quyết' 暈厥 ngất đi.",
+                "(Động) Cảm thấy choáng váng, chóng mặt, say sóng (khi đi xe, đi thuyền, ...). ◎Như: 'vựng cơ' 暈機 cảm giác choáng váng khi đi máy bay, 'vựng xa' 暈車 say xe. ◇Liêu trai chí dị 聊齋志異: 'Nhân huyễn vựng bất năng lập, tọa địa thượng' 人眩暈不能立, 坐地上 (Địa chấn 地震) Người choáng váng không đứng vững được, phải ngồi xuống đất.",
+                "(Tính) Choáng váng, xây xẩm. ◎Như: 'đầu vựng nhãn hoa' 頭暈眼花 đầu váng mắt hoa.",
+                "(Danh) Quầng, vừng sáng của mặt trời mặt trăng. ◎Như: 'nguyệt vựng' 月暈 quầng trăng.",
+                "(Danh) Vầng ánh sáng lù mù. ◇Hàn Dũ 韓愈: 'Mộng giác đăng sanh vựng, Tiêu tàn vũ tống lương' 夢覺燈生暈, 宵殘雨送涼 (Túc long cung than 宿龍宮灘) Mộng tỉnh đèn lù mù, Đềm tàn mưa tiễn lạnh.",
+                "(Danh) Vầng hồng trên mặt. ◎Như: 'tửu vựng' 酒暈 vầng mặt đỏ hồng vì uống rượu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vừng sáng của mặt trời mặt trăng.",
+                "Mê, quáng, như đầu vựng 頭暈 đầu váng, ngồi lên thấy cảnh vật đều quay tít, mục vựng 目暈 mắt quáng. Ðang ngồi đứng dậy sầm tối mặt lại ngã ra cũng gọi là vựng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Choáng, chóng mặt: 頭暈 Choáng đầu;",
+                "Ngất, sốc. Xem 暈 [yùn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vầng sáng xung quanh mặt trời, mặt trăng — Vầng sáng xung quanh ngọn đèn — Quáng mắt. Loá mắt — Mê man choáng váng. Td: Hôn vựng — Đáng lẽ đọc Vận. Ta quen đọc Vựng."
+            ],
+            "compound_words": {
+                "眩暈": "huyễn vựng",
+                "暈眩": "vựng huyễn",
+                "暈船": "vựng thuyền"
+            }
+        }
+    }
+}

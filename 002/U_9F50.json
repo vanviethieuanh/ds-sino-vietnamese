@@ -1,0 +1,91 @@
+{
+    "character": "齐",
+    "details": {
+        "Âm Hán Việt": [
+            "trai",
+            "tê",
+            "tư",
+            "tế",
+            "tề"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "tề 齊 (+0 nét)"
+        ],
+        "Nét bút": [
+            "丶一ノ丶ノ丨"
+        ],
+        "Thương Hiệt": [
+            "YKLL (卜大中中)"
+        ],
+        "Unicode": [
+            "U+9F50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jì ㄐㄧˋ",
+            "jiǎn ㄐㄧㄢˇ",
+            "qí ㄑㄧˊ",
+            "zhāi ㄓㄞ",
+            "zī ㄗ"
+        ],
+        "Âm Nôm": [
+            "chay",
+            "tày",
+            "tè",
+            "tề"
+        ],
+        "Âm Quảng Đông": [
+            "cai4"
+        ]
+    },
+    "meanings": {
+        "trai": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 齊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 齋 nghĩa ③."
+            ]
+        },
+        "tê": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 躋 (bộ 足): 地氣上齊，天氣下降 Khí đất bay lên, khí trời giáng xuống (Lễ kí)."
+            ]
+        },
+        "tư": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 齊."
+            ]
+        },
+        "tế": {
+            "Từ điển Trần Văn Chánh": [
+                "Bào chế thuốc (như 劑, bộ 刂): 醫者齊藥也 Thầy thuốc là người bào chế thuốc (Hàn Phi tử)."
+            ]
+        },
+        "tề": {
+            "Từ điển phổ thông": [
+                "đều, không so le",
+                "nước Tề, đất Tề"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 齊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 齊"
+            ],
+            "compound_words": {
+                "北齐": "bắc tề",
+                "整齐": "chỉnh tề"
+            }
+        }
+    }
+}

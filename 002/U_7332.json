@@ -1,0 +1,83 @@
+{
+    "character": "猲",
+    "details": {
+        "Âm Hán Việt": [
+            "cát",
+            "hiết",
+            "hạt",
+            "yết"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨曷"
+        ],
+        "Nét bút": [
+            "ノフノ丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "KHAPV (大竹日心女)"
+        ],
+        "Unicode": [
+            "U+7332"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hè ㄏㄜˋ",
+            "xiē ㄒㄧㄝ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "カチ (kachi)",
+            "リョウ (ryō)",
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおかみ (ōkami)"
+        ],
+        "Âm Quảng Đông": [
+            "hit3",
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem chữ Cát 獦."
+            ]
+        },
+        "hiết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài chó mõm ngắn — Bức bách người khác."
+            ]
+        },
+        "hạt": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Doạ nạt, bắt nạt, uy hiếp."
+            ]
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "(xem: yết kiêu 猲獢)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【猲獢】yết kiêu [xiexiao] (văn) Một loài chó săn mõm ngắn."
+            ],
+            "compound_words": {
+                "猲獢": "yết kiêu"
+            }
+        }
+    }
+}

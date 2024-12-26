@@ -1,0 +1,95 @@
+{
+    "character": "森",
+    "details": {
+        "Âm Hán Việt": [
+            "sâm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱木林"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DDD (木木木)"
+        ],
+        "Unicode": [
+            "U+68EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sēn ㄙㄣ"
+        ],
+        "Âm Nôm": [
+            "chùm",
+            "dâm",
+            "dúm",
+            "râm",
+            "sâm",
+            "sum",
+            "xum"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もり (mori)"
+        ],
+        "Âm Hàn": [
+            "삼"
+        ],
+        "Âm Quảng Đông": [
+            "sam1"
+        ]
+    },
+    "meanings": {
+        "sâm": {
+            "Từ điển phổ thông": [
+                "sum suê, rậm rạp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Rậm rạp. ◎Như: 'sâm lâm' 森林 rừng rậm.",
+                "(Tính) Đông đúc. ◎Như: 'sâm lập' 森立 đứng san sát.",
+                "(Tính) § Xem 'tiêu sâm' 蕭森."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rậm rạp, như sâm lâm 森林 rừng rậm, khí tượng ảm đạm gọi là tiêu sâm 蕭森 nghĩa là mờ mịt như ở trong rừng rậm không trông thấy bóng mặt trời vậy.",
+                "Ðông đúc, như sâm lập 森立 đứng san sát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rừng.【森林】 sâm lâm [senlín] Rừng: 原始森林 Rừng nguyên thuỷ; 森林工業 Công nghiệp khai thác rừng (và gia công đồ gỗ);",
+                "Rậm, tốt: 林木森然Cây cối um tùm (rậm rạp);",
+                "(văn) Đông đúc: 森立 Đứng san sát;",
+                "Tối tăm, lạnh lẽo: 陰森森的 Thâm u, tối tăm, lạnh lẽo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cối rậm rạp — Tối tăm rậm rạp, thiếu ánh sáng — Đông, nhiều, dùng như chữ Sâm 摻 — Nghiêm ngặt, khó khăn — Tên người, tức Trịnh Sâm, 1734 – 1872 tức Tĩnh Đô Vương, tác phẩm có Tâm thanh tồn duỵ tập."
+            ],
+            "compound_words": {
+                "陰森": "âm sâm",
+                "柏格森": "bá cách sâm",
+                "森河": "sâm hà",
+                "森林": "sâm lâm",
+                "森林學": "sâm lâm học",
+                "森嚴": "sâm nghiêm",
+                "森森": "sâm sâm",
+                "三木成森": "tam mộc thành sâm",
+                "蕭森": "tiêu sâm"
+            }
+        }
+    }
+}

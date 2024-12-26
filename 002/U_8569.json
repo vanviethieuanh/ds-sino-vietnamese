@@ -1,0 +1,176 @@
+{
+    "character": "蕩",
+    "details": {
+        "Âm Hán Việt": [
+            "đãng",
+            "đảng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thảo 艸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹湯"
+        ],
+        "Nét bút": [
+            "一丨丨丶丶一丨フ一一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "TEAH (廿水日竹)"
+        ],
+        "Unicode": [
+            "U+8569"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dàng ㄉㄤˋ",
+            "tāng ㄊㄤ",
+            "tàng ㄊㄤˋ"
+        ],
+        "Âm Nôm": [
+            "dãng",
+            "đãng",
+            "đẵng",
+            "thững",
+            "vảng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とろ.かす (toro.kasu)",
+            "とろ.ける (toro.keru)",
+            "うご.く (ugo.ku)"
+        ],
+        "Âm Hàn": [
+            "탕"
+        ],
+        "Âm Quảng Đông": [
+            "dong6"
+        ]
+    },
+    "meanings": {
+        "đãng": {
+            "Từ điển phổ thông": [
+                "đu đưa, đánh đu",
+                "chèo thuyền",
+                "rửa, súc",
+                "làm hết sạch"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Quẫy động, lay động. ◎Như: 'đãng tưởng' 蕩槳 quẫy mái chèo. ◇Tiêu Tử Vân 蕭子云: 'Xuân phong đãng la trướng, Dư hoa lạc kính liêm' 春風蕩羅帳, 餘花落鏡奩 (Xuân tứ 春思).",
+                "(Động) Dao động. ◇Tả truyện 左傳: 'Nhập, cáo phu nhân Đặng Mạn viết: Dư tâm đãng' 入, 告夫人鄧曼曰: 余心蕩 (Trang Công tứ niên 莊公四年) (Sở Vũ Vương) vào, nói với phu nhân Đặng Mạn: Lòng ta dao động.",
+                "(Động) Nhú mầm, bắt đầu phát sinh, manh động. ◇Lễ Kí 禮記: '(Trọng đông chi nguyệt) thị nguyệt dã, nhật đoản chí, âm dương tranh, chư sanh đãng' 仲冬之月是月也, 日短至, 陰陽爭, 諸生蕩 (Nguyệt lệnh 月令) Vào tháng trọng đông, ngày ngắn đến, âm dương tương tranh, các vật bắt đầu phát sinh.",
+                "(Động) Làm loạn, gây ra xáo trộn. ◇Tuân Tử 荀子: 'Thị cố quyền lợi bất năng khuynh dã, quần chúng bất năng di dã, thiên hạ bất năng đãng dã' 是故權利不能傾也, 群眾不能移也, 天下不能蕩也 (Khuyến học 勸學) Cho nên quyền lợi không thể nghiêng ngửa, dân chúng không dời đổi, thiên hạ không tao loạn.",
+                "(Động) Quét sạch, rửa sạch, dẹp yên. ◎Như: 'tảo đãng' 掃蕩 quét sạch, 'đãng bình' 蕩平 dẹp yên.",
+                "(Động) Lêu lổng, phóng túng. ◎Như: 'du đãng' 遊蕩 phóng túng lêu lổng, 'nhất cá nhân tại nhai thượng đãng lai đãng khứ' 一個人在街上蕩來蕩去 một người trên đường lêu lổng qua lại.",
+                "(Động) Mê hoặc, dụ hoặc. ◇Tuân Duyệt 荀悅: 'Thính ngôn trách sự, cử danh sát thật, vô hoặc trá ngụy, dĩ đãng chúng tâm' 聽言責事, 舉名察實,  無或詐偽, 以蕩眾心 (Thân giám 申鑒, Chánh thể 政體).",
+                "(Động) Làm tiêu tán, làm tan hoang. ◎Như: 'khuynh gia đãng sản' 傾家蕩產 phá gia bại sản.",
+                "(Động) Hủy hoại, làm hư hỏng. ◎Như: 'kỉ cương đãng nhiên' 紀綱蕩然 giường mối hỏng hết. § Ghi chú: Thi Kinh 詩經 có hai thiên 'bản đãng' 板蕩 là thơ cảm thán nhà Chu 周 suy đồi. Cho nên nay gọi đời loạn là 'trung nguyên bản đãng' 中原板蕩.",
+                "(Động) Khoan thứ.",
+                "(Tính) Mông mênh, bát ngát. ◇Lí Bạch 李白: 'Hạo đãng bất kiến để' 浩蕩不見底 (Mộng du thiên 夢遊天) Mênh mông không thấy đáy.",
+                "(Tính) Xa tít, mù mịt. ◇Tuân Tử 荀子: 'Đạo quá Tam Đại vị chi đãng' 道過三代謂之蕩 (Nho hiệu 儒效) Đạo trước thời Tam Đại quá xa xôi. § Việc quá xa xưa mù mịt khó tin.",
+                "(Tính) Bình dị, thanh thản, thảnh thơi. ◎Như: 'thản đãng' 坦蕩 thanh thản. ◇Luận Ngữ 論語: 'Quân tử thản đãng đãng, tiểu nhân trường thích thích' 君子坦蕩蕩, 小人長戚戚 (Thuật nhi 述而) Người quân tử thì thanh thản thư thái, kẻ tiểu nhân thì thường lo lắng u sầu.",
+                "(Tính) Bình đẳng, ngang hàng. ◇Lỗ Tấn 魯迅: 'Sử thiên hạ nhân nhân quy ư nhất trí, xã hội chi nội, đãng vô cao ti, thử kì vi lí tưởng thành mĩ hĩ' 使天下人人歸於一致, 社會之內, 蕩無高卑, 此其為理想誠美矣 (Phần 墳, Văn hóa thiên chí luận 文化偏至論).",
+                "(Tính) Phóng túng, không biết giữ gìn. ◎Như: 'đãng tử' 蕩子 kẻ không có nghề gì, chỉ chơi lu bù, 'đãng phụ' 蕩婦 đàn bà dâm dật bất chính.",
+                "(Danh) Chằm nước, hồ, ao. ◎Như: 'ngư đãng' 魚蕩 hồ cá, 'lô hoa đãng' 蘆花蕩 chằm hoa lau.",
+                "(Danh) Bệnh tâm thần hoảng hốt.",
+                "(Danh) Họ 'Đãng'.",
+                "Một âm là 'đảng'. (Động) Khơi, tháo. ◇Chu Lễ 周禮: 'Dĩ phòng chỉ thủy, dĩ câu đảng thủy' 以防止水, 以溝蕩水 (Địa quan 地官, Đạo nhân 稻人) Lấy đê ngăn chặn nước, lấy ngòi khơi dẫn nước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mông mênh, bát ngát.",
+                "Bình dị, than thán, thảnh thơi. Luận ngữ 論語: Quân tử thản đãng đãng, tiểu nhân trường thích thích 君子坦蕩蕩，小人長戚戚 (Thuật nhi 述而) người quân tử thì thản nhiên thư thái, kẻ tiểu nhân thì thường lo lắng u sầu.",
+                "Quẫy động. Như đãng tưởng 蕩槳 quẫy mái chèo, tâm đãng 心蕩 động lòng.",
+                "Phóng đãng, phóng túng, không biết giữ gìn gọi là đãng. Như kẻ không có nghề gì, chỉ chơi lu bù gọi là đãng tử 蕩子, đàn bà dâm dật bất chính gọi là đãng phụ 蕩婦.",
+                "Quét sạch, rửa sạch, dẹp yên giặc giã gọi là tảo đãng 掃蕩 quét sạch hay đãng bình 蕩平 dẹp yên.",
+                "Hỏng hết. Như kỉ cương đãng nhiên 紀綱蕩然 giềng mối hỏng hết. Kinh Thi 詩經 có hai thiên bản đãng 板蕩 là thơ cảm thán nhà Chu 周 suy đồi mà làm. Cho nên nay gọi gọi đời loạn là trung nguyên bản đãng 中原板蕩.",
+                "Chằm nước, hồ ao nào có lợi cá nước đều gọi là đãng.",
+                "Một âm là đảng. Khơi, tháo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đu đưa, giạt: 蕩秋千 Đánh đu; 漂蕩 Trôi giạt;",
+                "Lêu lổng: 游蕩 Chơi bời lêu lổng;",
+                "Rửa, súc: 蕩口 Súc miệng;",
+                "Càn, dẹp sạch, diệt sạch, làm hết sạch: 掃蕩 Càn quét, quét sạch; 傾家蕩產 Hết sạch gia tài;",
+                "Phóng túng, (phóng) đãng: 放蕩 Phóng đãng; 蕩婦 Người đàn bà phóng đãng;",
+                "Hồ: 蘆花蕩 Hồ Lư Hoa;",
+                "(văn) Mênh mông, bát ngát;",
+                "(văn) Bình dị, thảnh thơi, thanh thản: 君子坦蕩蕩 Người quân tử bằng phẳng thảnh thơi (Luận ngữ);",
+                "(văn) Quẫy, quơ động: 蕩漿 Quơ mái chèo; 心蕩 Động lòng;",
+                "(văn) Hết sạch, hỏng hết: 紀綱蕩然 Giềng mối hỏng hết;",
+                "Chằm nước."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lay động — Buông thả, không kềm giữ — Rửa sạch — Bình dị — Trừ đi. Tẩy sạch."
+            ],
+            "compound_words": {
+                "播蕩": "bá đãng",
+                "板蕩": "bản đãng",
+                "逋蕩": "bô đãng",
+                "狂蕩": "cuồng đãng",
+                "淫蕩": "dâm đãng",
+                "軼蕩": "dật đãng",
+                "游蕩": "du đãng",
+                "遊蕩": "du đãng",
+                "駘蕩": "đãi đãng",
+                "蕩蕩": "đãng đãng",
+                "蕩寇": "đãng khấu",
+                "蕩婦": "đãng phụ",
+                "蕩子": "đãng tử",
+                "動蕩": "động đãng",
+                "荒蕩": "hoang đãng",
+                "蘆花蕩": "lô hoa đãng",
+                "漂蕩": "phiêu đãng",
+                "飄蕩": "phiêu đãng",
+                "放蕩": "phóng đãng",
+                "光蕩": "quang đãng",
+                "坦蕩": "thản đãng",
+                "神魂飄蕩": "thần hồn phiêu đãng"
+            }
+        },
+        "đảng": {
+            "Từ điển trích dẫn": [
+                "(Động) Quẫy động, lay động. ◎Như: 'đãng tưởng' 蕩槳 quẫy mái chèo. ◇Tiêu Tử Vân 蕭子云: 'Xuân phong đãng la trướng, Dư hoa lạc kính liêm' 春風蕩羅帳, 餘花落鏡奩 (Xuân tứ 春思).",
+                "(Động) Dao động. ◇Tả truyện 左傳: 'Nhập, cáo phu nhân Đặng Mạn viết: Dư tâm đãng' 入, 告夫人鄧曼曰: 余心蕩 (Trang Công tứ niên 莊公四年) (Sở Vũ Vương) vào, nói với phu nhân Đặng Mạn: Lòng ta dao động.",
+                "(Động) Nhú mầm, bắt đầu phát sinh, manh động. ◇Lễ Kí 禮記: '(Trọng đông chi nguyệt) thị nguyệt dã, nhật đoản chí, âm dương tranh, chư sanh đãng' 仲冬之月是月也, 日短至, 陰陽爭, 諸生蕩 (Nguyệt lệnh 月令) Vào tháng trọng đông, ngày ngắn đến, âm dương tương tranh, các vật bắt đầu phát sinh.",
+                "(Động) Làm loạn, gây ra xáo trộn. ◇Tuân Tử 荀子: 'Thị cố quyền lợi bất năng khuynh dã, quần chúng bất năng di dã, thiên hạ bất năng đãng dã' 是故權利不能傾也, 群眾不能移也, 天下不能蕩也 (Khuyến học 勸學) Cho nên quyền lợi không thể nghiêng ngửa, dân chúng không dời đổi, thiên hạ không tao loạn.",
+                "(Động) Quét sạch, rửa sạch, dẹp yên. ◎Như: 'tảo đãng' 掃蕩 quét sạch, 'đãng bình' 蕩平 dẹp yên.",
+                "(Động) Lêu lổng, phóng túng. ◎Như: 'du đãng' 遊蕩 phóng túng lêu lổng, 'nhất cá nhân tại nhai thượng đãng lai đãng khứ' 一個人在街上蕩來蕩去 một người trên đường lêu lổng qua lại.",
+                "(Động) Mê hoặc, dụ hoặc. ◇Tuân Duyệt 荀悅: 'Thính ngôn trách sự, cử danh sát thật, vô hoặc trá ngụy, dĩ đãng chúng tâm' 聽言責事, 舉名察實,  無或詐偽, 以蕩眾心 (Thân giám 申鑒, Chánh thể 政體).",
+                "(Động) Làm tiêu tán, làm tan hoang. ◎Như: 'khuynh gia đãng sản' 傾家蕩產 phá gia bại sản.",
+                "(Động) Hủy hoại, làm hư hỏng. ◎Như: 'kỉ cương đãng nhiên' 紀綱蕩然 giường mối hỏng hết. § Ghi chú: Thi Kinh 詩經 có hai thiên 'bản đãng' 板蕩 là thơ cảm thán nhà Chu 周 suy đồi. Cho nên nay gọi đời loạn là 'trung nguyên bản đãng' 中原板蕩.",
+                "(Động) Khoan thứ.",
+                "(Tính) Mông mênh, bát ngát. ◇Lí Bạch 李白: 'Hạo đãng bất kiến để' 浩蕩不見底 (Mộng du thiên 夢遊天) Mênh mông không thấy đáy.",
+                "(Tính) Xa tít, mù mịt. ◇Tuân Tử 荀子: 'Đạo quá Tam Đại vị chi đãng' 道過三代謂之蕩 (Nho hiệu 儒效) Đạo trước thời Tam Đại quá xa xôi. § Việc quá xa xưa mù mịt khó tin.",
+                "(Tính) Bình dị, thanh thản, thảnh thơi. ◎Như: 'thản đãng' 坦蕩 thanh thản. ◇Luận Ngữ 論語: 'Quân tử thản đãng đãng, tiểu nhân trường thích thích' 君子坦蕩蕩, 小人長戚戚 (Thuật nhi 述而) Người quân tử thì thanh thản thư thái, kẻ tiểu nhân thì thường lo lắng u sầu.",
+                "(Tính) Bình đẳng, ngang hàng. ◇Lỗ Tấn 魯迅: 'Sử thiên hạ nhân nhân quy ư nhất trí, xã hội chi nội, đãng vô cao ti, thử kì vi lí tưởng thành mĩ hĩ' 使天下人人歸於一致, 社會之內, 蕩無高卑, 此其為理想誠美矣 (Phần 墳, Văn hóa thiên chí luận 文化偏至論).",
+                "(Tính) Phóng túng, không biết giữ gìn. ◎Như: 'đãng tử' 蕩子 kẻ không có nghề gì, chỉ chơi lu bù, 'đãng phụ' 蕩婦 đàn bà dâm dật bất chính.",
+                "(Danh) Chằm nước, hồ, ao. ◎Như: 'ngư đãng' 魚蕩 hồ cá, 'lô hoa đãng' 蘆花蕩 chằm hoa lau.",
+                "(Danh) Bệnh tâm thần hoảng hốt.",
+                "(Danh) Họ 'Đãng'.",
+                "Một âm là 'đảng'. (Động) Khơi, tháo. ◇Chu Lễ 周禮: 'Dĩ phòng chỉ thủy, dĩ câu đảng thủy' 以防止水, 以溝蕩水 (Địa quan 地官, Đạo nhân 稻人) Lấy đê ngăn chặn nước, lấy ngòi khơi dẫn nước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mông mênh, bát ngát.",
+                "Bình dị, than thán, thảnh thơi. Luận ngữ 論語: Quân tử thản đãng đãng, tiểu nhân trường thích thích 君子坦蕩蕩，小人長戚戚 (Thuật nhi 述而) người quân tử thì thản nhiên thư thái, kẻ tiểu nhân thì thường lo lắng u sầu.",
+                "Quẫy động. Như đãng tưởng 蕩槳 quẫy mái chèo, tâm đãng 心蕩 động lòng.",
+                "Phóng đãng, phóng túng, không biết giữ gìn gọi là đãng. Như kẻ không có nghề gì, chỉ chơi lu bù gọi là đãng tử 蕩子, đàn bà dâm dật bất chính gọi là đãng phụ 蕩婦.",
+                "Quét sạch, rửa sạch, dẹp yên giặc giã gọi là tảo đãng 掃蕩 quét sạch hay đãng bình 蕩平 dẹp yên.",
+                "Hỏng hết. Như kỉ cương đãng nhiên 紀綱蕩然 giềng mối hỏng hết. Kinh Thi 詩經 có hai thiên bản đãng 板蕩 là thơ cảm thán nhà Chu 周 suy đồi mà làm. Cho nên nay gọi gọi đời loạn là trung nguyên bản đãng 中原板蕩.",
+                "Chằm nước, hồ ao nào có lợi cá nước đều gọi là đãng.",
+                "Một âm là đảng. Khơi, tháo."
+            ]
+        }
+    }
+}

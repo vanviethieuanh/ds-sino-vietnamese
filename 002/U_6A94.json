@@ -1,0 +1,120 @@
+{
+    "character": "檔",
+    "details": {
+        "Âm Hán Việt": [
+            "đáng",
+            "đương"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "mộc 木 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木當"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨丶ノ丶フ丨フ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "DFBW (木火月田)"
+        ],
+        "Unicode": [
+            "U+6A94"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dǎng ㄉㄤˇ",
+            "dàng ㄉㄤˋ"
+        ],
+        "Âm Nôm": [
+            "đang"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "dong2",
+            "dong3"
+        ]
+    },
+    "meanings": {
+        "đáng": {
+            "Từ điển phổ thông": [
+                "tấm phản",
+                "bản bằng gỗ mỏng để viết văn tự vào",
+                "tệp, file (tin học)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Then ngang ở chân ghế, chân bàn.",
+                "Một âm là 'đáng'. (Danh) Tủ, giá đựng hồ sơ. ◎Như: 'quy đáng' 歸檔 cất vào tủ hồ sơ.",
+                "(Danh) Hồ sơ. ◎Như: 'tra đáng' 查檔 giở hồ sơ, tra cứu hồ sơ.",
+                "(Danh) Tiết đoạn điện ảnh hoặc hí kịch diễn xuất từng ngày.",
+                "(Danh) Tục gọi cần sang số (để đổi vận tốc) trong xe hơi là 'đáng' 檔. ◎Như: 'hoán đáng' 換檔 sang số xe.",
+                "(Danh) Hạng cấp của hàng hóa. ◎Như: 'cao đáng sản phẩm' 高檔產品 sản phẩm cao cấp.",
+                "(Danh) Tổ hợp đồng bạn.",
+                "(Danh) Lượng từ: (1) Đơn vị tiết mục diễn xuất ca nhạc. ◎Như: 'tác liễu tam đáng tú' 作了三檔秀 trình diễn xong ba màn (show). (2) Đơn vị chỉ sự việc, sự kiện. Tương đương với 'mã' 碼, 'kiện' 件. ◎Như: 'nhất đáng tử sự' 一檔子事 một việc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái phản.",
+                "Một âm là đáng. Bản án bằng gỗ mỏng viết văn tự vào đấy, khi nhiều thì xâu dây vào lỗ treo lên tường để lưu lại gọi là đáng án 檔案."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tủ đựng hồ sơ: 歸檔 Cất vào tủ hồ sơ;",
+                "Hồ sơ: 查檔 Soát lại hồ sơ;",
+                "【檔子】đáng tử [dàngzi] (đph) Việc: 一檔子事 Một việc. Cg. 檔兒 [dàngr];",
+                "(văn) Cái phản."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm gỗ bắc ngang để đỡ vật gì. Chẳng hạn Đáng án ( cái kệ, gồm những tấm gỗ kê ngang để đựng sách vở giấy tờ )."
+            ],
+            "compound_words": {
+                "高檔": "cao đáng",
+                "文檔": "văn đáng"
+            }
+        },
+        "đương": {
+            "Từ điển phổ thông": [
+                "tấm phản",
+                "bản bằng gỗ mỏng để viết văn tự vào",
+                "tệp, file (tin học)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Then ngang ở chân ghế, chân bàn.",
+                "Một âm là 'đáng'. (Danh) Tủ, giá đựng hồ sơ. ◎Như: 'quy đáng' 歸檔 cất vào tủ hồ sơ.",
+                "(Danh) Hồ sơ. ◎Như: 'tra đáng' 查檔 giở hồ sơ, tra cứu hồ sơ.",
+                "(Danh) Tiết đoạn điện ảnh hoặc hí kịch diễn xuất từng ngày.",
+                "(Danh) Tục gọi cần sang số (để đổi vận tốc) trong xe hơi là 'đáng' 檔. ◎Như: 'hoán đáng' 換檔 sang số xe.",
+                "(Danh) Hạng cấp của hàng hóa. ◎Như: 'cao đáng sản phẩm' 高檔產品 sản phẩm cao cấp.",
+                "(Danh) Tổ hợp đồng bạn.",
+                "(Danh) Lượng từ: (1) Đơn vị tiết mục diễn xuất ca nhạc. ◎Như: 'tác liễu tam đáng tú' 作了三檔秀 trình diễn xong ba màn (show). (2) Đơn vị chỉ sự việc, sự kiện. Tương đương với 'mã' 碼, 'kiện' 件. ◎Như: 'nhất đáng tử sự' 一檔子事 một việc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái phản.",
+                "Một âm là đáng. Bản án bằng gỗ mỏng viết văn tự vào đấy, khi nhiều thì xâu dây vào lỗ treo lên tường để lưu lại gọi là đáng án 檔案."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tủ đựng hồ sơ: 歸檔 Cất vào tủ hồ sơ;",
+                "Hồ sơ: 查檔 Soát lại hồ sơ;",
+                "【檔子】đáng tử [dàngzi] (đph) Việc: 一檔子事 Một việc. Cg. 檔兒 [dàngr];",
+                "(văn) Cái phản."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giường bằng gỗ — Một âm là Đáng. Xem Đáng."
+            ],
+            "compound_words": {
+                "檔案": "đương án",
+                "檔案分配區": "đương án phân phối khu"
+            }
+        }
+    }
+}

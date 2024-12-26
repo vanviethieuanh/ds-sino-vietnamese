@@ -1,0 +1,72 @@
+{
+    "character": "编",
+    "details": {
+        "Âm Hán Việt": [
+            "biên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mịch 糸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰纟扁"
+        ],
+        "Nét bút": [
+            "フフ一丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "VMISB (女一戈尸月)"
+        ],
+        "Unicode": [
+            "U+7F16"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "biān ㄅㄧㄢ",
+            "biàn ㄅㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "biên"
+        ],
+        "Âm Quảng Đông": [
+            "pin1"
+        ]
+    },
+    "meanings": {
+        "biên": {
+            "Từ điển phổ thông": [
+                "đan, bện, tết",
+                "sắp xếp, tổ chức",
+                "biên soạn, biên tập",
+                "đặt ra, bịa ra",
+                "sách, quyển, tập",
+                "phần (của một bộ sách)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 編."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 編"
+            ],
+            "compound_words": {
+                "编号": "biên hiệu",
+                "编写": "biên tả",
+                "编织": "biên thức",
+                "改编": "cải biên",
+                "主编": "chủ biên",
+                "龙编": "long biên",
+                "汇编": "vị biên"
+            }
+        }
+    }
+}

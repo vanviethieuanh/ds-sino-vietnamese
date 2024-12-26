@@ -1,0 +1,85 @@
+{
+    "character": "爪",
+    "details": {
+        "Âm Hán Việt": [
+            "trảo"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "trảo 爪 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノノ丨丶"
+        ],
+        "Thương Hiệt": [
+            "HLO (竹中人)"
+        ],
+        "Unicode": [
+            "U+722A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǎo ㄓㄠˇ",
+            "zhuǎ ㄓㄨㄚˇ"
+        ],
+        "Âm Nôm": [
+            "trảo",
+            "trảu",
+            "trẩu",
+            "vuốt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つめ (tsume)",
+            "つま- (tsuma-)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zaau2"
+        ]
+    },
+    "meanings": {
+        "trảo": {
+            "Từ điển phổ thông": [
+                "móng chân thú"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Móng chân, móng tay. ◎Như: 'chỉ trảo' 指爪 móng tay, 'trảo nha' 爪牙 móng vuốt, nghĩa bóng chỉ các kẻ hộ vệ, tay sai.",
+                "(Danh) Chân các giống động vật. ◎Như: 'kê trảo' 雞爪 chân gà, 'áp trảo' 鴨爪 chân vịt.",
+                "(Danh) Ngọn, cuối, chân đồ vật. ◎Như: 'giá bàn tử hữu tam cá trảo' 這盤子有三個爪 cái mâm này có ba chân.",
+                "(Danh) 'Trảo tử' 爪子 móng, vuốt của động vật. ◎Như: 'hổ trảo tử' 虎爪子 vuốt cọp, 'kê trảo tử' 雞爪子 móng chân gà. § Cũng gọi là 'trảo nhi' 爪兒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Móng chân, móng tay.",
+                "Trảo nha 爪牙 móng vuốt, nói bóng là các kẻ hộ vệ.",
+                "Chân các giống động vật.",
+                "Ngọn, cuối của một đồ vật gì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vuốt, móng vuốt, (của động vật);",
+                "Chân (của một đồ vật): 這個鍋有三個爪 Cái chảo này có ba chân. Xem 爪 [zhăo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Móng của thú vật — Móng tay chân của người — Tên một bộ chữ Hán, tức bộ Trảo. Cũng viết 爫."
+            ],
+            "compound_words": {
+                "龜爪": "quy trảo",
+                "鷹爪": "ưng trảo"
+            }
+        }
+    }
+}

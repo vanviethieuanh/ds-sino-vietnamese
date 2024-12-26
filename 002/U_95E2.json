@@ -1,0 +1,96 @@
+{
+    "character": "闢",
+    "details": {
+        "Âm Hán Việt": [
+            "phách",
+            "tịch"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "môn 門 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門辟"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一フ一ノ丨フ一丶一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "ANSRJ (日弓尸口十)"
+        ],
+        "Unicode": [
+            "U+95E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pì ㄆㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tịch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘキ (heki)",
+            "ビャク (byaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひら.く (hira.ku)"
+        ],
+        "Âm Hàn": [
+            "벽"
+        ],
+        "Âm Quảng Đông": [
+            "pik1"
+        ]
+    },
+    "meanings": {
+        "phách": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chảy thông, lưu thông — Bác bỏ, chê bai — Một âm là Tịch. Xem Tịch."
+            ],
+            "compound_words": {
+                "闢邪": "phách tà"
+            }
+        },
+        "tịch": {
+            "Từ điển phổ thông": [
+                "mở mang",
+                "khai hoang"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mở, mở cửa.",
+                "(Động) Mở mang. ◇Thi Kinh 詩經: 'Nhật tịch quốc bách lí' 日闢國百里 (Đại nhã 大雅, Đãng chi thập 蕩之什) Ngày mở rộng đất nước trăm dặm.",
+                "(Động) Khai khẩn. ◇Tư Mã Tương Như 司馬相如: 'Địa khả khẩn tịch' 地可墾闢 (Thượng lâm phú 上林賦) Đất có thể khai khẩn được.",
+                "(Động) Bài bác, bài trừ. ◎Như: 'tịch tà thuyết' 闢邪說 bác bỏ tà thuyết. ◇Tuân Tử 荀子: 'Thị dĩ tịch nhĩ mục chi dục' 是以闢耳目之欲 (Giải tế 解蔽) Đó là trừ bỏ cái tham muốn của tai mắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mở, mở cửa.",
+                "Mở mang. Như nhật tịch quốc bách lí 日闢國百里 ngày mở rộng đất nước trăm dặm.",
+                "Khai khẩn, đất hoang vỡ ra làm ruộng cấy gọi là tịch.",
+                "Bài bác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mở ra, mở mang, vỡ ra, khai khẩn: 闢一塊地種菜 Vỡ miếng đất để trồng rau;",
+                "Thấu đáo, thấu triệt, sâu xa: 對這篇文章理解透闢 Hiểu thấu đáo bài (viết) này; 精闢的理論 Lí luận sâu xa;",
+                "Bác lại, bẻ lại, cải chính, bác bỏ: 闢邪說 Bác bỏ tà thuyết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mở mang. Khai khẩn — Trừ bỏ đi — Tránh đi."
+            ],
+            "compound_words": {
+                "墾闢": "khẩn tịch",
+                "闢荒": "tịch hoang",
+                "闢墾": "tịch khẩn"
+            }
+        }
+    }
+}

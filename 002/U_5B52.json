@@ -1,0 +1,75 @@
+{
+    "character": "孒",
+    "details": {
+        "Âm Hán Việt": [
+            "củng",
+            "quyết"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "tử 子 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フ丨一"
+        ],
+        "Thương Hiệt": [
+            "XNNM (重弓弓一)"
+        ],
+        "Unicode": [
+            "U+5B52"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ",
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "kiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)",
+            "カチ (kachi)",
+            "キョウ (kyō)",
+            "ク (ku)",
+            "クツ (kutsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひだりのうでがない (hidarinōdeganai)",
+            "みじか.い (mijika.i)"
+        ]
+    },
+    "meanings": {
+        "củng": {
+            "Từ điển phổ thông": [
+                "(xem: kiết củng 孑孒,孑孓)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Ngày xưa cũng như chữ “củng” 孓."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Kiết củng 孑孒, vần Kiết — Một âm khác là Quyết. Cũng viết 孓."
+            ],
+            "compound_words": {
+                "孑孒": "kiết củng"
+            }
+        },
+        "quyết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngắn — Một âm là Củng. Xem Củng. Cũng viết 孓."
+            ],
+            "compound_words": {
+                "孑孒": "kiết quyết"
+            }
+        }
+    }
+}

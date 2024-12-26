@@ -1,0 +1,66 @@
+{
+    "character": "预",
+    "details": {
+        "Âm Hán Việt": [
+            "dự"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰予页"
+        ],
+        "Nét bút": [
+            "フ丶フ丨一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "NNMBO (弓弓一月人)"
+        ],
+        "Unicode": [
+            "U+9884"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "dự"
+        ],
+        "Âm Quảng Đông": [
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "dự": {
+            "Từ điển phổ thông": [
+                "sẵn, có trước, làm trước",
+                "tham gia, dự"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 預."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 預"
+            ],
+            "compound_words": {
+                "干预": "can dự",
+                "预报": "dự báo",
+                "预備": "dự bị",
+                "预定": "dự định",
+                "预防": "dự phòng",
+                "参预": "tham dự"
+            }
+        }
+    }
+}

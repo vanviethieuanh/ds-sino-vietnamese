@@ -1,0 +1,109 @@
+{
+    "character": "巡",
+    "details": {
+        "Âm Hán Việt": [
+            "duyên",
+            "tuần"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "xuyên 巛 (+4 nét)",
+            "sước 辵 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶巛"
+        ],
+        "Nét bút": [
+            "フフフ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YVVV (卜女女女)"
+        ],
+        "Unicode": [
+            "U+5DE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tuần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "めぐ.る (megu.ru)",
+            "めぐ.り (megu.ri)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "ceon4"
+        ]
+    },
+    "meanings": {
+        "duyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Duyên 沿 — Một âm là Tuần. Xem Tuần."
+            ]
+        },
+        "tuần": {
+            "Từ điển phổ thông": [
+                "đi lại xem xét",
+                "đi hết một vòng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Qua lại xem xét. ◎Như: 'tuần thị' 巡視, 'tuần sát' 巡察.",
+                "(Danh) Lượng từ: lần rót rượu. ◎Như: 'nhất tuần' 一巡 một lượt rót rượu. ◇Tam quốc diễn nghĩa 三國演義: 'Tửu chí sổ tuần' 酒至數巡 (Đệ bát hồi) Rượu uống được vài tuần."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ði tuần, đi xem xét khu đất mình cai trị gọi là tuần.",
+                "Khắp cả, như đi khắp một vòng gọi là nhất tuần 一巡, rót rượu hết một lượt cũng gọi là một tuần.",
+                "Thuân tuần 逡巡 rụt rè, quanh co."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đi tuần, tuần tra;",
+                "Tuần, lượt, vòng (rót rượu): 酒過三巡 Sau ba tuần rượu;",
+                "Xem 逡巡."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi mà xem xét. Ta cũng nói là Đi tuần — Khắp cả. Đi khắp nơi."
+            ],
+            "compound_words": {
+                "南巡記程": "nam tuần kí trình",
+                "御製北巡詩集": "ngự chế bắc tuần thi tập",
+                "西巡記程": "tây tuần kí trình",
+                "逡巡": "thuân tuần",
+                "巡警": "tuần cảnh",
+                "巡弋": "tuần dặc",
+                "巡洋艦": "tuần dương hạm",
+                "巡店": "tuần điếm",
+                "巡航": "tuần hàng",
+                "巡行": "tuần hành",
+                "巡回": "tuần hồi",
+                "巡迴": "tuần hồi",
+                "巡檢": "tuần kiểm",
+                "巡防": "tuần phòng",
+                "巡撫": "tuần phủ",
+                "巡視": "tuần thị",
+                "巡守": "tuần thú",
+                "巡狩": "tuần thú",
+                "巡勦": "tuần tiễu",
+                "巡查": "tuần tra",
+                "夋巡": "xuân tuần"
+            }
+        }
+    }
+}

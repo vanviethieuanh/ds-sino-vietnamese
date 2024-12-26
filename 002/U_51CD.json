@@ -1,0 +1,102 @@
+{
+    "character": "凍",
+    "details": {
+        "Âm Hán Việt": [
+            "đông",
+            "đống"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "băng 冫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰冫東"
+        ],
+        "Nét bút": [
+            "丶一一丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IMDW (戈一木田)"
+        ],
+        "Unicode": [
+            "U+51CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dòng ㄉㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đóng",
+            "đông",
+            "gióng",
+            "rúng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こお.る (kō.ru)",
+            "こご.える (kogo.eru)",
+            "こご.る (kogo.ru)",
+            "い.てる (i.teru)",
+            "し.みる (shi.miru)"
+        ],
+        "Âm Hàn": [
+            "동"
+        ],
+        "Âm Quảng Đông": [
+            "dung1",
+            "dung3"
+        ]
+    },
+    "meanings": {
+        "đông": {
+            "Từ điển phổ thông": [
+                "đóng băng"
+            ]
+        },
+        "đống": {
+            "Từ điển phổ thông": [
+                "nước đá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thức ăn đông đặc. ◎Như: 'ngư đống' 魚凍 cá đông, 'nhục đống' 肉凍 thịt đông, 'quả đống' 果凍 trái cây nấu đông.",
+                "(Danh) Họ 'Đống'.",
+                "(Động) Đóng băng. ◎Như: 'thủy đống' 水凍 nước đóng băng. ◇Lí Hạ 李賀: 'Sài môn xa triệt đống, Nhật hạ du ảnh sấu' 柴門車轍凍, 日下榆影瘦 (Tặng Trần Thương 贈陳商) Cửa củi vết bánh xe đóng giá, Mặt trời lặn, bóng cây du gầy.",
+                "(Động) Lạnh cóng, rét cóng. ◎Như: 'đống đắc phát đẩu' 凍得發抖 lạnh run."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước đông, nước đá.",
+                "Phàm chất lỏng đông lại tục cũng gọi là đống.",
+                "Thường đá mỏ trong suốt cũng gọi là đống.",
+                "Rét, như đống nỗi 凍餒 đói rét."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đóng băng, đông lại: 凍肉 Thịt đông; 缸裡的水凍了 Nước trong chum đã đóng băng;",
+                "Lạnh cóng, rét cóng: 多穿些，別凍着了 Mặc thêm áo vào, kẻo bị lạnh; 手腳都凍僵了 Tay chân bị rét cóng;",
+                "(Một loại) đá mỏ trong suốt;",
+                "[Dòng] (Họ) Đống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước đóng lại thành băng — Rất lạnh — Mưa thật dữ dội."
+            ],
+            "compound_words": {
+                "冰凍": "băng đống",
+                "凍冷": "đống lãnh",
+                "凍餒": "đống nỗi",
+                "凍瘡": "đống sang",
+                "凍死": "đống tử"
+            }
+        }
+    }
+}

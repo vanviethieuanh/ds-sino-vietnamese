@@ -1,0 +1,96 @@
+{
+    "character": "研",
+    "details": {
+        "Âm Hán Việt": [
+            "nghiên",
+            "nghiễn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thạch 石 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石开"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "MRMT (一口一廿)"
+        ],
+        "Unicode": [
+            "U+7814"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xíng ㄒㄧㄥˊ",
+            "yán ㄧㄢˊ",
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "nghiên",
+            "tên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.ぐ (to.gu)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "jin4",
+            "jin6",
+            "ngaan4"
+        ]
+    },
+    "meanings": {
+        "nghiên": {
+            "Từ điển phổ thông": [
+                "nghiền, mài",
+                "tìm tòi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mài nhỏ, nghiền. ◎Như: 'nghiên mặc' 研墨 mài mực, 'nghiên thành phấn mạt' 研成粉末 nghiền thành bột. ◇Hồng Lâu Mộng 紅樓夢: 'Vãn thượng bả giá dược dụng tửu nghiên khai, thế tha phu thượng' 晚上把這藥用酒研開, 替他敷上 (Đệ tam thập tứ hồi) Chiều nay lấy thuốc này dùng rượu mài ra, bôi cho cậu ấy.",
+                "(Động) Tham cứu sâu xa. ◎Như: 'nghiên cứu' 研究.",
+                "Một âm là 'nghiễn'. (Danh) Nghiên mực (dụng cụ dùng để mài mực). § Cũng như 'nghiễn' 硯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghiền (nhỏ), mài: 研成粉末 Nghiền thành bột; 研墨 Mài mực;",
+                "Nghiên cứu, tìm tòi, nghiền ngẫm: 鑽研 Nghiên cứu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mài ra. Nghiền nhỏ ra. Như chữ Nghiên 揅 — Tìm tòi đến cùng — Một âm là Nghiễn. Xem vần Nghiễn."
+            ],
+            "compound_words": {
+                "研究": "nghiên cứu",
+                "研計": "nghiên kê"
+            }
+        },
+        "nghiễn": {
+            "Từ điển trích dẫn": [
+                "(Động) Mài nhỏ, nghiền. ◎Như: 'nghiên mặc' 研墨 mài mực, 'nghiên thành phấn mạt' 研成粉末 nghiền thành bột. ◇Hồng Lâu Mộng 紅樓夢: 'Vãn thượng bả giá dược dụng tửu nghiên khai, thế tha phu thượng' 晚上把這藥用酒研開, 替他敷上 (Đệ tam thập tứ hồi) Chiều nay lấy thuốc này dùng rượu mài ra, bôi cho cậu ấy.",
+                "(Động) Tham cứu sâu xa. ◎Như: 'nghiên cứu' 研究.",
+                "Một âm là 'nghiễn'. (Danh) Nghiên mực (dụng cụ dùng để mài mực). § Cũng như 'nghiễn' 硯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái nghiên mài mực: 筆研 Bút nghiên, việc học hành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dụng cụ để mài mực thời xưa. Đồ đựng mực — Một âm là Nghiên. Xem Nghiên."
+            ]
+        }
+    }
+}

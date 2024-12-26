@@ -1,0 +1,69 @@
+{
+    "character": "连",
+    "details": {
+        "Âm Hán Việt": [
+            "liên"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sước 辵 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿺⻌车"
+        ],
+        "Nét bút": [
+            "一フ一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YKQ (卜大手)"
+        ],
+        "Unicode": [
+            "U+8FDE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "liên"
+        ],
+        "Âm Quảng Đông": [
+            "lin4"
+        ]
+    },
+    "meanings": {
+        "liên": {
+            "Từ điển phổ thông": [
+                "liền nối"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 連."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 連"
+            ],
+            "compound_words": {
+                "互连": "hỗ liên",
+                "连耞": "liên gia",
+                "连环": "liên hoàn",
+                "连累": "liên luỵ",
+                "连绵": "liên miên",
+                "连接": "liên tiếp",
+                "连续": "liên tục",
+                "连词": "liên từ",
+                "留连": "lưu liên",
+                "接连": "tiếp liên"
+            }
+        }
+    }
+}

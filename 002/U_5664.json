@@ -1,0 +1,86 @@
+{
+    "character": "噤",
+    "details": {
+        "Âm Hán Việt": [
+            "cấm"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口禁"
+        ],
+        "Nét bút": [
+            "丨フ一一丨ノ丶一丨ノ丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RDDF (口木木火)"
+        ],
+        "Unicode": [
+            "U+5664"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jìn ㄐㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "cấm",
+            "cúm",
+            "gặm",
+            "gẫm",
+            "ngẫm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つぐ.む (tsugu.mu)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "gam3",
+            "kam1"
+        ]
+    },
+    "meanings": {
+        "cấm": {
+            "Từ điển phổ thông": [
+                "khoá miệng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngậm miệng không phát ra tiếng nữa, im bặt đi. ◎Như: 'cấm khẩu bất ngữ' 噤口不語 ngậm miệng không nói.",
+                "(Danh) Hiện tượng cứng đờ vì kinh sợ hoặc cóng lạnh (làm cho nói không ra tiếng). ◎Như: 'đống cấm' 凍噤 lạnh cóng nói không ra tiếng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoá miệng, như chứng lị miệng không ăn uống được gọi là cấm khẩu lị 噤口痢.",
+                "Im bặt đi. Phàm cái gì im không lên tiếng được đều gọi là cấm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Câm, im bặt đi: 噤聲 Câm miệng, câm mồm;",
+                "Rét run: 寒噤 Rét run."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Miệng cắn chặt lại, không nói được — Đóng chặt lại."
+            ],
+            "compound_words": {
+                "噤戰": "cấm chiến",
+                "噤齘": "cấm giới",
+                "噤害": "cấm hại",
+                "噤口": "cấm khẩu"
+            }
+        }
+    }
+}

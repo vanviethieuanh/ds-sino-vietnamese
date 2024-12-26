@@ -1,0 +1,83 @@
+{
+    "character": "夹",
+    "details": {
+        "Âm Hán Việt": [
+            "giáp",
+            "kiếp"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhất 一 (+5 nét)",
+            "đại 大 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KT (大廿)"
+        ],
+        "Unicode": [
+            "U+5939"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiā ㄐㄧㄚ",
+            "jiá ㄐㄧㄚˊ",
+            "jià ㄐㄧㄚˋ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "giáp"
+        ],
+        "Âm Quảng Đông": [
+            "gaap3"
+        ]
+    },
+    "meanings": {
+        "giáp": {
+            "Từ điển phổ thông": [
+                "kép, giáp",
+                "gần",
+                "cái nhíp, cái díp",
+                "cái cặp đựng sách",
+                "bến đỗ thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 夾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ giáp 夾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kẹp, cặp: 書裡夾着一張紙 Có một tờ giấy kẹp ở giữa quyển sách;",
+                "Gắp: 用筷子夾菜 Gắp thức ăn bằng đũa;",
+                "Cắp: 夾書 (Nách) cắp sách;",
+                "Nằm ở giữa, xen vào: 兩座紅樓夾一座灰樓 Một ngôi nhà xám ở nằm (xen vào) giữa hai ngôi nhà đỏ; 夾在人群裡 Xen trong đám đông;",
+                "Cái cặp, cái ví: 皮夾兒 Cái ví da; 髮夾 Cái cặp tóc;",
+                "Cái nhíp (để gắp đồ);",
+                "(văn) Bến đỗ thuyền;",
+                "(văn) Gần, giáp, tiếp giáp. Xem 夹 [ga], [jiá]; 挟 [xié]."
+            ],
+            "compound_words": {
+                "夹肢窝": "giáp chi oa",
+                "夹克": "giáp khắc",
+                "夹钳": "giáp kiềm"
+            }
+        },
+        "kiếp": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cổ áo cong (cổ áo dài hoặc áo lễ thời xưa)."
+            ]
+        }
+    }
+}

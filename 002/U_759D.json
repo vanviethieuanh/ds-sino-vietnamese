@@ -1,0 +1,73 @@
+{
+    "character": "疝",
+    "details": {
+        "Âm Hán Việt": [
+            "sán"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nạch 疒 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒山"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "KU (大山)"
+        ],
+        "Unicode": [
+            "U+759D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shàn ㄕㄢˋ"
+        ],
+        "Âm Nôm": [
+            "sán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "サン (san)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "saan3"
+        ]
+    },
+    "meanings": {
+        "sán": {
+            "Từ điển phổ thông": [
+                "bệnh sán, sa đì"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Phàm chỗ rỗng trong thân thể bị trở ngại, làm cho gân thịt co rút, rồi phát ra đau đớn đều gọi là “sán” 疝."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chứng sán, phàm nhân vật gì trở ngại, làm cho gân thịt co rút luôn luôn rồi phát ra đau đớn dữ đều gọi là sán. Chứng sa đì cũng gọi là sán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chứng sán, bệnh sa đì: 疝氣 Bệnh sa đì, bệnh thoát vị bẹn, bệnh sưng hòn dái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh đau bàng quang, hoặc bệnh sưng hòn dái."
+            ],
+            "compound_words": {
+                "疝氣": "sán khí"
+            }
+        }
+    }
+}

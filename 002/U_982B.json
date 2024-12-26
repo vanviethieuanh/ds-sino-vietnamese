@@ -1,0 +1,101 @@
+{
+    "character": "頫",
+    "details": {
+        "Âm Hán Việt": [
+            "phủ",
+            "thiếu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰兆頁"
+        ],
+        "Nét bút": [
+            "ノ丶一フノ丶一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LMUOC (中一山人金)"
+        ],
+        "Unicode": [
+            "U+982B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "fǔ ㄈㄨˇ",
+            "tiào ㄊㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "phủ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)",
+            "バン (ban)",
+            "マン (man)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつむ.く (utsumu.ku)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu2"
+        ]
+    },
+    "meanings": {
+        "phủ": {
+            "Từ điển phổ thông": [
+                "cúi xuống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cúi đầu. § Nguyên là chữ cổ của 'phủ' 俯.",
+                "Một âm là 'thiếu'. (Danh) Lễ tương kiến các lân bang. § Theo lời chú trong Chu Lễ: Nhiều quan đại phu đến gặp mặt thì gọi là 'thiếu' 頫, mà ít thì gọi là 'sính' 聘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cúi đầu, nguyên là chữ phủ 俯.",
+                "Một âm là thiếu. Cái lễ tương kiến trong khi đi sính các nước lân bang. Nhiều quan đại phu lại gọi là thiếu, ít gọi là sính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Càm hạ xuống, cúi đầu (như 俯, bộ 亻)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cúi đầu xuống. Cũng như chữ Phủ 俯 — Một âm là thiếu. Xem Thiếu."
+            ],
+            "compound_words": {
+                "頫伏": "phủ phục"
+            }
+        },
+        "thiếu": {
+            "Từ điển phổ thông": [
+                "lễ tương kiến các nước lân bang"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cúi đầu. § Nguyên là chữ cổ của 'phủ' 俯.",
+                "Một âm là 'thiếu'. (Danh) Lễ tương kiến các lân bang. § Theo lời chú trong Chu Lễ: Nhiều quan đại phu đến gặp mặt thì gọi là 'thiếu' 頫, mà ít thì gọi là 'sính' 聘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cúi đầu, nguyên là chữ phủ 俯.",
+                "Một âm là thiếu. Cái lễ tương kiến trong khi đi sính các nước lân bang. Nhiều quan đại phu lại gọi là thiếu, ít gọi là sính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lễ tương kiến khi đi sính các nước lân bang;",
+                "Nhìn ra xa (như 眺, bộ 目, và 覜, bộ 見)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn ngó."
+            ]
+        }
+    }
+}

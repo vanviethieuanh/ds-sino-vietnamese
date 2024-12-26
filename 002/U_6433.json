@@ -1,0 +1,61 @@
+{
+    "character": "搳",
+    "details": {
+        "Âm Hán Việt": [
+            "hoa",
+            "hạt"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺘害"
+        ],
+        "Nét bút": [
+            "一丨一丶丶フ一一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QJQR (手十手口)"
+        ],
+        "Unicode": [
+            "U+6433"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "huá ㄏㄨㄚˊ"
+        ],
+        "Âm Nôm": [
+            "hớt"
+        ],
+        "Âm Quảng Đông": [
+            "hat6"
+        ]
+    },
+    "meanings": {
+        "hoa": {
+            "Từ điển phổ thông": [
+                "(xem: hoa quyền 搳拳)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【搳拳】hoa quyền [huáquán] Như 劃拳 [huáquán] (xem 劃 nghĩa",
+                ", bộ 刂) ."
+            ],
+            "compound_words": {
+                "搳拳": "hoa quyền"
+            }
+        },
+        "hạt": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gãi cho khỏi ngứa."
+            ]
+        }
+    }
+}

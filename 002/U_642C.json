@@ -1,0 +1,112 @@
+{
+    "character": "搬",
+    "details": {
+        "Âm Hán Việt": [
+            "ban",
+            "bàn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘般"
+        ],
+        "Nét bút": [
+            "一丨一ノノフ丶一丶ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "QHYE (手竹卜水)"
+        ],
+        "Unicode": [
+            "U+642C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bān ㄅㄢ"
+        ],
+        "Âm Nôm": [
+            "ban",
+            "bưng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Hàn": [
+            "반"
+        ],
+        "Âm Quảng Đông": [
+            "bun1"
+        ]
+    },
+    "meanings": {
+        "ban": {
+            "Từ điển phổ thông": [
+                "trừ hết, dọn sạch",
+                "chuyển đi, dời đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trừ hết, dọn sạch.",
+                "Một âm là 'ban'. (Động) Khuân, bưng. ◎Như: 'ban động' 搬動 vận chuyển. ◇Thủy hử truyện 水滸傳: 'Trang khách ban phạn lai, hựu khiết liễu' 莊客搬飯來, 又喫了 (Đệ ngũ hồi) Trang khách bưng cơm ra, lại ăn hết.",
+                "(Động) Dời đi. ◎Như: 'ban gia' 搬家 dọn nhà, 'ban di' 搬移 dời đi chỗ khác. ◇Tây sương kí 西廂記: 'Ban chí tự trung, chính cận tây sương cư chỉ' 搬至寺中, 正近西廂居址 (Đệ nhất bổn 第一本, Đệ tam chiết) Dọn vào chùa, được ở ngay dưới mái tây.",
+                "(Động) Diễn lại, rập theo. ◎Như: 'ban diễn cố sự' 搬演故事 diễn lại sự việc.",
+                "(Động) Xúi giục. ◎Như: 'ban lộng thị phi' 搬弄是非 xui nguyên giục bị."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trừ hết, dọn sạch.",
+                "Một âm là ban. Dời đi, khuân, như ban di 搬移 dọn dời đi chỗ khác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trừ hết, dọn sạch;",
+                "Dọn, dời: 他們早就搬走了 Họ đã dọn đi nơi khác từ lâu;",
+                "Mang, khuân: 把這塊石頭搬開 Khuân hòn đá này đi chỗ khác;",
+                "Rập (theo), bê: 生搬硬套 Rập khuôn, bê nguyên si."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Bàn."
+            ]
+        },
+        "bàn": {
+            "Từ điển phổ thông": [
+                "trừ hết, dọn sạch",
+                "chuyển đi, dời đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trừ hết, dọn sạch.",
+                "Một âm là 'ban'. (Động) Khuân, bưng. ◎Như: 'ban động' 搬動 vận chuyển. ◇Thủy hử truyện 水滸傳: 'Trang khách ban phạn lai, hựu khiết liễu' 莊客搬飯來, 又喫了 (Đệ ngũ hồi) Trang khách bưng cơm ra, lại ăn hết.",
+                "(Động) Dời đi. ◎Như: 'ban gia' 搬家 dọn nhà, 'ban di' 搬移 dời đi chỗ khác. ◇Tây sương kí 西廂記: 'Ban chí tự trung, chính cận tây sương cư chỉ' 搬至寺中, 正近西廂居址 (Đệ nhất bổn 第一本, Đệ tam chiết) Dọn vào chùa, được ở ngay dưới mái tây.",
+                "(Động) Diễn lại, rập theo. ◎Như: 'ban diễn cố sự' 搬演故事 diễn lại sự việc.",
+                "(Động) Xúi giục. ◎Như: 'ban lộng thị phi' 搬弄是非 xui nguyên giục bị."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trừ hết, dọn sạch.",
+                "Một âm là ban. Dời đi, khuân, như ban di 搬移 dọn dời đi chỗ khác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Trừ hết, dọn sạch;",
+                "Dọn, dời: 他們早就搬走了 Họ đã dọn đi nơi khác từ lâu;",
+                "Mang, khuân: 把這塊石頭搬開 Khuân hòn đá này đi chỗ khác;",
+                "Rập (theo), bê: 生搬硬套 Rập khuôn, bê nguyên si."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bỏ đi. Dời chỗ đi. Dọn nhà. Cũng đọc Ban."
+            ],
+            "compound_words": {
+                "搬家": "bàn gia",
+                "搬弄": "bàn lộng",
+                "搬运": "bàn vận",
+                "搬運": "bàn vận"
+            }
+        }
+    }
+}

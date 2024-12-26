@@ -1,0 +1,121 @@
+{
+    "character": "創",
+    "details": {
+        "Âm Hán Việt": [
+            "sang",
+            "sáng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "đao 刀 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰倉⺉"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "ORLN (人口中弓)"
+        ],
+        "Unicode": [
+            "U+5275"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuāng ㄔㄨㄤ",
+            "chuàng ㄔㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "sang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つく.る (tsuku.ru)",
+            "はじ.める (haji.meru)",
+            "きず (kizu)",
+            "けず.しける (kezu.shikeru)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "cong1",
+            "cong3"
+        ]
+    },
+    "meanings": {
+        "sang": {
+            "Từ điển phổ thông": [
+                "đau, bị thương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vết thương, chỗ bị thương. ◎Như: 'trọng sang' 重創 bị thương nặng.",
+                "(Danh) Mụt, nhọt. § Thông 'sang' 瘡.",
+                "Một âm là 'sáng'. (Động) Lập ra trước tiên, khai thủy, chế tạo. ◎Như: 'sáng tạo' 創造 làm nên cái mới, 'khai sáng' 開創 gây dựng lên.",
+                "(Tính) Riêng biệt, mới có. ◎Như: 'sáng kiến' 創見 ý kiến mới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bị thương đau, như trọng sang 重創 bị thương nặng.",
+                "Một âm là sáng. Mới, như sáng tạo 創造 mới làm nên, khai sáng 開創 mới mở mang gây dựng lên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vết thương (dùng như 瘡, bộ 疒): 予以重創 Làm bị thương nặng. Xem 創 [chuàng.]"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm bị thương. Như chữ Sang 刅 — Mụn nhọt. Nhu chữ Sang 瘡 — Một âm khác là Sáng. Xem Sáng."
+            ]
+        },
+        "sáng": {
+            "Từ điển phổ thông": [
+                "mới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vết thương, chỗ bị thương. ◎Như: 'trọng sang' 重創 bị thương nặng.",
+                "(Danh) Mụt, nhọt. § Thông 'sang' 瘡.",
+                "Một âm là 'sáng'. (Động) Lập ra trước tiên, khai thủy, chế tạo. ◎Như: 'sáng tạo' 創造 làm nên cái mới, 'khai sáng' 開創 gây dựng lên.",
+                "(Tính) Riêng biệt, mới có. ◎Như: 'sáng kiến' 創見 ý kiến mới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bị thương đau, như trọng sang 重創 bị thương nặng.",
+                "Một âm là sáng. Mới, như sáng tạo 創造 mới làm nên, khai sáng 開創 mới mở mang gây dựng lên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khởi đầu, khai sáng, mới dựng lên, mới lập ra: 創新紀錄 Lập kỉ lục mới; 首創 Mới lập ra, sáng lập đầu tiên. Xem 創 [chuang]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt đầu — Tạo dựng nên — Dùng vật bén nhọn làm người khác bị thương — Mụn nhọt — Vời hai nghĩa sau, cũng đọc Sang — Xem thêm Sang."
+            ],
+            "compound_words": {
+                "開創": "khai sáng",
+                "創制": "sáng chế",
+                "創基": "sáng cơ",
+                "創舉": "sáng cử",
+                "創起": "sáng khởi",
+                "創建": "sáng kiến",
+                "創見": "sáng kiến",
+                "創立": "sáng lập",
+                "創業": "sáng nghiệp",
+                "創業垂統": "sáng nghiệp thuỳ thống",
+                "創作": "sáng tác",
+                "創造": "sáng tạo",
+                "創世": "sáng thế",
+                "創世記": "sáng thế kí",
+                "創設": "sáng thiết"
+            }
+        }
+    }
+}

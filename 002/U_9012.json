@@ -1,0 +1,67 @@
+{
+    "character": "递",
+    "details": {
+        "Âm Hán Việt": [
+            "đái",
+            "đệ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sước 辵 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶弟"
+        ],
+        "Nét bút": [
+            "丶ノフ一フ丨ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YCNH (卜金弓竹)"
+        ],
+        "Unicode": [
+            "U+9012"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ",
+            "dì ㄉㄧˋ"
+        ],
+        "Âm Nôm": [
+            "đệ"
+        ],
+        "Âm Quảng Đông": [
+            "dai6"
+        ]
+    },
+    "meanings": {
+        "đái": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 遞."
+            ]
+        },
+        "đệ": {
+            "Từ điển phổ thông": [
+                "đưa, chuyển, giao"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 遞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 遞"
+            ],
+            "compound_words": {
+                "迢递": "điều đệ"
+            }
+        }
+    }
+}

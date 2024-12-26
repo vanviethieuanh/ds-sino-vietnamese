@@ -1,0 +1,78 @@
+{
+    "character": "噩",
+    "details": {
+        "Âm Hán Việt": [
+            "ngạc"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨丨フ一丨フ一一丨フ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MGRR (一土口口)"
+        ],
+        "Unicode": [
+            "U+5669"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "è"
+        ],
+        "Âm Nôm": [
+            "ngạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガク (gaku)",
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おごそ.か (ogoso.ka)",
+            "おどろ.く (odoro.ku)"
+        ],
+        "Âm Hàn": [
+            "악"
+        ],
+        "Âm Quảng Đông": [
+            "ngok6"
+        ]
+    },
+    "meanings": {
+        "ngạc": {
+            "Từ điển phổ thông": [
+                "kinh hãi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Kinh khủng, đáng sợ. ◎Như: 'ngạc mộng' 噩夢 ác mộng, chiêm bao thấy sự không lành, 'ngạc háo' 噩耗 tin xấu, tin buồn, hung tín.",
+                "(Tính) Nghiêm túc. ◎Như: 'ngạc ngạc' 噩噩 nghiêm túc, chính trực."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kinh hãi, như ngạc mộng 噩夢 chiêm bao thấy sự không lành, ngạc háo 噩耗 tin xấu.",
+                "Ngạc ngạc 噩噩 nghiêm túc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kinh tởm, sửng sốt;",
+                "【噩噩】ngạc ngạc [èè] Nghiêm túc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kinh sợ."
+            ],
+            "compound_words": {
+                "驚噩": "kinh ngạc",
+                "噩夢": "ngạc mộng"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "character": "举",
+    "details": {
+        "Âm Hán Việt": [
+            "cử"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "chủ 丶 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵⿳⺍一八扌"
+        ],
+        "Nét bút": [
+            "丶丶ノ一ノ丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "FCQ (火金手)"
+        ],
+        "Unicode": [
+            "U+4E3E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǔ ㄐㄩˇ"
+        ],
+        "Âm Nôm": [
+            "cử"
+        ],
+        "Âm Quảng Đông": [
+            "geoi2"
+        ]
+    },
+    "meanings": {
+        "cử": {
+            "Từ điển phổ thông": [
+                "ngẩng (đầu), nâng lên, nhấc lên",
+                "cử động"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 舉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擧"
+            ],
+            "compound_words": {
+                "举止": "cử chỉ",
+                "举动": "cử động",
+                "大举": "đại cử",
+                "列举": "liệt cử",
+                "推举": "thôi cử",
+                "并举": "tịnh cử"
+            }
+        }
+    }
+}

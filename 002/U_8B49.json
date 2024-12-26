@@ -1,0 +1,123 @@
+{
+    "character": "證",
+    "details": {
+        "Âm Hán Việt": [
+            "chứng"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "ngôn 言 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言登"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ丶ノノ丶一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "YRNOT (卜口弓人廿)"
+        ],
+        "Unicode": [
+            "U+8B49"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhèng ㄓㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chống",
+            "chứng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あかし (akashi)"
+        ],
+        "Âm Hàn": [
+            "증"
+        ],
+        "Âm Quảng Đông": [
+            "zing3"
+        ]
+    },
+    "meanings": {
+        "chứng": {
+            "Từ điển phổ thông": [
+                "bằng cứ",
+                "can gián"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tố cáo, cáo phát. ◇Luận Ngữ 論語: 'Kì phụ nhương dương, nhi tử chứng chi' 其父攘羊, 而子證之 (Tử Lộ 子路) Cha bắt trộm cừu, con đi tố cáo.",
+                "(Động) Nghiệm thực, làm chứng (dùng bằng cớ, sự thật làm cho sáng tỏ hay đoán định). ◎Như: 'chứng minh' 證明, 'chứng thật' 證實.",
+                "(Danh) Bằng cớ. ◎Như: 'kiến chứng' 見證, 'chứng cứ' 證據.",
+                "(Danh) Giấy tờ, thẻ để xác nhận. ◎Như: 'đình xa chứng' 停車證 giấy chứng đậu xe, 'tá thư chứng' 借書證 tờ chứng vay tiền.",
+                "(Danh) Chứng bệnh. § Thông 'chứng' 症."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chứng cớ, nghĩa là cứ lấy cái đã nghe đã thấy để xét nghiệm thực tình vậy. như kiến chứng 見證, chứng cứ 證據, v.v.",
+                "Chứng bệnh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chứng, chứng cứ (cớ): 作證 Làm chứng; 憑證 Bằng chứng;",
+                "Chứng minh, chứng tỏ: 證幾何題 Chứng minh đề hình học; 這足證他的話的眞假 Điều đó chứng tỏ anh ấy nói thật hay nói dối;",
+                "Chứng minh thư, giấy chứng, thẻ: 會員證 Giấy chứng nhận hội viên; 工作證 Thẻ công tác; 出入證 Thẻ ra vào; 存款證 Giấy chứng tiền gởi; 公司注册證 Giấy chứng đăng kí công ty; 土地所有證 Giấy chứng quyền sở hữu ruộng đất; 船舶國籍證 Giấy chứng quốc tịch tàu; 股票證 Giấy chứng cổ phiếu;",
+                "(văn) Chứng bệnh (dùng như 症, bộ 疒)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói cho biết — Can ngăn — Dấu hiệu bên ngoài của bệnh trạng. Như chữ Chứng 症 — Nhận thực — Bằng cớ — Làm bằng."
+            ],
+            "compound_words": {
+                "印證": "ấn chứng",
+                "保證": "bảo chứng",
+                "憑證": "bằng chứng",
+                "辨證": "biện chứng",
+                "辯證": "biện chứng",
+                "辯證論": "biện chứng luận",
+                "辨證法": "biện chứng pháp",
+                "辯證法": "biện chứng pháp",
+                "干證": "can chứng",
+                "質證": "chất chứng",
+                "證據": "chứng cứ",
+                "證引": "chứng dẫn",
+                "證候": "chứng hậu",
+                "證券": "chứng khoán",
+                "證見": "chứng kiến",
+                "證明": "chứng minh",
+                "證驗": "chứng nghiệm",
+                "證人": "chứng nhân",
+                "證果": "chứng quả",
+                "證佐": "chứng tá",
+                "證實": "chứng thực",
+                "證書": "chứng thư",
+                "證傷": "chứng thương",
+                "證迹": "chứng tích",
+                "證知": "chứng tri",
+                "公證": "công chứng",
+                "引證": "dẫn chứng",
+                "對證": "đối chứng",
+                "考證": "khảo chứng",
+                "例證": "lệ chứng",
+                "論證": "luận chứng",
+                "驗證": "nghiệm chứng",
+                "偽證": "nguỵ chứng",
+                "人證": "nhân chứng",
+                "認證": "nhận chứng",
+                "反證": "phản chứng",
+                "贓證": "tang chứng",
+                "援證": "viện chứng",
+                "要證": "yếu chứng"
+            }
+        }
+    }
+}

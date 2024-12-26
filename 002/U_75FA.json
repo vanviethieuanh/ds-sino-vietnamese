@@ -1,0 +1,92 @@
+{
+    "character": "痺",
+    "details": {
+        "Âm Hán Việt": [
+            "ty",
+            "tê",
+            "tí",
+            "tý"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nạch 疒 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒卑"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一ノ丨フ一一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "KHHJ (大竹竹十)"
+        ],
+        "Unicode": [
+            "U+75FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bēi ㄅㄟ",
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tê",
+            "tí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しび.れる (shibi.reru)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei3"
+        ]
+    },
+    "meanings": {
+        "ty": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dưới. Bên dưới."
+            ]
+        },
+        "tê": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh liệt, không cử động được."
+            ],
+            "compound_words": {
+                "痺迷": "tê mê",
+                "痺濕": "tê thấp"
+            }
+        },
+        "tí": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh bại, bệnh tê liệt.",
+                "(Động) Bại liệt, tê liệt, cảm giác trì độn.",
+                "§ Ngày xưa viết là 痹."
+            ]
+        },
+        "tý": {
+            "Từ điển phổ thông": [
+                "bị tê liệt"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ tí 痹."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bại, liệt, tê liệt: 麻痺症 Bệnh tê liệt, bệnh tê bại, bệnh bại liệt."
+            ]
+        }
+    }
+}

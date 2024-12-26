@@ -1,0 +1,74 @@
+{
+    "character": "闷",
+    "details": {
+        "Âm Hán Việt": [
+            "bí",
+            "muộn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "môn 門 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵门心"
+        ],
+        "Nét bút": [
+            "丶丨フ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "LSP (中尸心)"
+        ],
+        "Unicode": [
+            "U+95F7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ",
+            "mēn ㄇㄣ",
+            "mèn ㄇㄣˋ"
+        ],
+        "Âm Nôm": [
+            "mụn",
+            "muộn"
+        ],
+        "Âm Quảng Đông": [
+            "mun6"
+        ]
+    },
+    "meanings": {
+        "bí": {
+            "Từ điển phổ thông": [
+                "giấu kín",
+                "đóng cửa"
+            ]
+        },
+        "muộn": {
+            "Từ điển phổ thông": [
+                "bực bội, buồn bã"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 悶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Oi, khó thở: 悶熱 Oi bức; 這間房沒開 窗戶，太悶了 Gian phòng này không mở cửa sổ, ngạt thở quá;",
+                "Đậy kín cho ngấm: 茶剛泡上，悶一會兒再喝 Trà mới pha, đậy kín cho ngấm một lát hãy uống;",
+                "(đph) (Tiếng nói) ồ ồ: 他說話悶聲悶氣的 Anh ấy nói chuyện giọng ồ ồ;",
+                "Lẩn quẩn: 別老悶在屋裏 Đừng lẩn quẩn mãi ở nhà. Xem 悶 [mèn]."
+            ],
+            "compound_words": {
+                "憋闷": "biệt muộn",
+                "闷热": "muộn nhiệt"
+            }
+        }
+    }
+}

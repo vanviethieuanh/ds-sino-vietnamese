@@ -1,0 +1,81 @@
+{
+    "character": "衫",
+    "details": {
+        "Âm Hán Việt": [
+            "sam"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "y 衣 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤彡"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "LHHH (中竹竹竹)"
+        ],
+        "Unicode": [
+            "U+886B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "oam",
+            "sam",
+            "sờm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Hàn": [
+            "삼"
+        ],
+        "Âm Quảng Đông": [
+            "saam1"
+        ]
+    },
+    "meanings": {
+        "sam": {
+            "Từ điển phổ thông": [
+                "áo đơn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỉ chung quần áo. ◇Trần Nhân Tông 陳仁宗: 'Giá Chi vũ bãi thí xuân sam' 柘枝舞罷試春衫 (Tức sự 即事) Múa Giá Chi xong, thử áo xuân. § Ghi chú: Giá Chi là một điệu múa đời Đường.",
+                "(Danh) Áo đơn, áo mỏng. ◎Như: 'hãn sam' 汗衫 áo lót, áo nhẹ thấm được mồ hôi. ◇Tam quốc diễn nghĩa 三國演義: 'Phương thoát hạ long phượng hãn sam, giảo phá chỉ tiêm, tả liễu huyết chiếu, thụ dữ Trương Tập' 芳脫下龍鳳汗衫, 咬破指尖, 寫了血詔, 授與張緝 (Đệ bách cửu hồi) (Tào) Phương bèn cởi long bào lót mình, cắn vào đầu ngón tay, lấy máu viết chiếu trao cho Trương Tập."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Áo đơn, áo lót mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Áo, áo đơn, áo lót, áo cánh: 長衫兒 Áo dài;襯衫 Áo sơ-mi; 汗衫 Áo lót."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo ngắn. Áo cánh — Ngày nay chỉ là cái áo sơ mi — Giang châu Tư mã thanh sam thấp 江州司馬青衫濕 ( Tì bà hành"
+            ],
+            "compound_words": {
+                "白衫": "bạch sam",
+                "不衫不履": "bất sam bất lí",
+                "汗衫": "hãn sam",
+                "衫子": "sam tử",
+                "襯衫": "sấn sam",
+                "青衫": "thanh sam",
+                "上衫": "thượng sam"
+            }
+        }
+    }
+}

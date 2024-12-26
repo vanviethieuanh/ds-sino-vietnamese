@@ -1,0 +1,85 @@
+{
+    "character": "缅",
+    "details": {
+        "Âm Hán Việt": [
+            "diến",
+            "miến",
+            "miễn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mịch 糸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟面"
+        ],
+        "Nét bút": [
+            "フフ一一ノ丨フ丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "VMMWL (女一一田中)"
+        ],
+        "Unicode": [
+            "U+7F05"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "miǎn ㄇㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "diến",
+            "miến"
+        ],
+        "Âm Quảng Đông": [
+            "min5"
+        ]
+    },
+    "meanings": {
+        "diến": {
+            "Từ điển phổ thông": [
+                "xa tít",
+                "nghĩ triền miên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 緬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 緬"
+            ]
+        },
+        "miến": {
+            "Từ điển phổ thông": [
+                "xa tít",
+                "nghĩ triền miên"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 緬"
+            ],
+            "compound_words": {
+                "缅甸": "miến điện"
+            }
+        },
+        "miễn": {
+            "Từ điển phổ thông": [
+                "xa tít",
+                "nghĩ triền miên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 緬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 緬"
+            ]
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "character": "种",
+    "details": {
+        "Âm Hán Việt": [
+            "chúng",
+            "chủng",
+            "trùng",
+            "xung"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoà 禾 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾中"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "HDL (竹木中)"
+        ],
+        "Unicode": [
+            "U+79CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chóng ㄔㄨㄥˊ",
+            "zhǒng ㄓㄨㄥˇ",
+            "zhòng ㄓㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chủng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おさない (osanai)"
+        ],
+        "Âm Quảng Đông": [
+            "cung4",
+            "zung2"
+        ]
+    },
+    "meanings": {
+        "chúng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 種."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trồng, trồng trọt, cấy: 種花 Trồng hoa; 種果樹 Trồng cây ăn quả; 種了幾畝地 Cấy vài mẫu ruộng;",
+                "Chủng: 給小孩種牛痘 Chủng đậu cho trẻ em. Xem 种 [Chóng], 種 [zhông]."
+            ]
+        },
+        "chủng": {
+            "Từ điển phổ thông": [
+                "thóc giống",
+                "chủng loại, giống"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 種."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trồng, trồng trọt, cấy: 種花 Trồng hoa; 種果樹 Trồng cây ăn quả; 種了幾畝地 Cấy vài mẫu ruộng;",
+                "Chủng: 給小孩種牛痘 Chủng đậu cho trẻ em. Xem 种 [Chóng], 種 [zhông]."
+            ],
+            "compound_words": {
+                "播种": "bá chủng",
+                "兵种": "binh chủng",
+                "各种": "các chủng",
+                "种族": "chủng tộc",
+                "多种": "đa chủng",
+                "特种": "đặc chủng",
+                "拌种": "phan chủng",
+                "品种": "phẩm chủng",
+                "采种": "thái chủng"
+            }
+        },
+        "trùng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Họ người — Cũng đọc Xung."
+            ]
+        },
+        "xung": {
+            "Từ điển Trần Văn Chánh": [
+                "(Họ) Xung. Xem 種 [zhông], [zhòng]."
+            ]
+        }
+    }
+}

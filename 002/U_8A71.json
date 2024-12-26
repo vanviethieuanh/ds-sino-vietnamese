@@ -1,0 +1,106 @@
+{
+    "character": "話",
+    "details": {
+        "Âm Hán Việt": [
+            "thoại"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰言舌"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRHJR (卜口竹十口)"
+        ],
+        "Unicode": [
+            "U+8A71"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huà ㄏㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "thoại"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワ (wa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はな.す (hana.su)",
+            "はなし (hanashi)"
+        ],
+        "Âm Hàn": [
+            "화"
+        ],
+        "Âm Quảng Đông": [
+            "waa2",
+            "waa6"
+        ]
+    },
+    "meanings": {
+        "thoại": {
+            "Từ điển phổ thông": [
+                "nói"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lời nói, tiếng, ngôn ngữ. ◎Như: 'Bắc Kinh quan thoại' 北京官話 tiếng phổ thông Bắc Kinh. ◇Thi Kinh 詩經: 'Thận nhĩ xuất thoại, Kính nhĩ uy nghi' 慎爾出話, 敬爾威儀 (Đại nhã 大雅, Ức 抑) Phải thận trọng lời ngươi nói ra, Phải cung kính lấy uy nghi của ngươi.",
+                "(Danh) Chuyện, câu chuyện. ◇Cảnh thế thông ngôn 警世通言: 'Thoại trung thuyết Hàng Châu phủ hữu nhất tài tử, tính Lí Danh Hoành, tự Kính Chi' 話中說杭州府有一才子, 姓李名宏, 字敬之 (Tô tri huyện La Sam tái hợp 蘇知縣羅衫再合) Trong chuyện kể ở phủ Hàng Châu có một bậc tài hoa, họ Lí tên Hoành, tự là Kính Chi.",
+                "(Động) Nói chuyện, đàm luận. ◎Như: 'nhàn thoại gia thường' 閒話家常 nói chuyện phiếm, nói chuyện sinh hoạt thường ngày. ◇Lí Thương Ẩn 李商隱: 'Hà đương cộng tiễn tây song chúc, Khước thoại Ba San dạ vũ thì' 何當共剪西窗燭, 卻話巴山夜雨時 (Dạ vũ kí bắc 夜雨寄北) Bao giờ cùng cắt nến bên cửa sổ phía tây, Lại được nói chuyện lúc mưa đêm trên núi Ba Sơn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lời nói, phàm các lời nói tầm thường đều gọi là thoại. Như bạch thoại 白話 lời nói thông thường dễ hiểu. Một lối văn viết cho những người học ít xem dễ hiểu. Như nhàn thoại 閒話 câu chuyện thường.",
+                "Bảo.",
+                "Tốt, hay."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lời, chuyện, tiếng: 說話 Nói chuyện; 講 了幾句話 Nói vài lời; 中國話 Tiếng Trung Quốc;",
+                "Nói, kể: 話家常 Kể chuyện phiếm, tán gẫu;",
+                "Ngôn ngữ;",
+                "(văn) Bảo;",
+                "(văn) Tốt, hay;",
+                "Xem 的話 [dehuà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói chuyện. Td: Đàm thoại — Lời nói. Câu chuyện. Td: Thần thoại."
+            ],
+            "compound_words": {
+                "白話": "bạch thoại",
+                "白話文": "bạch thoại văn",
+                "不像話": "bất tượng thoại",
+                "評話": "bình thoại",
+                "談話": "đàm thoại",
+                "電話": "điện thoại",
+                "對話": "đối thoại",
+                "佳話": "giai thoại",
+                "講話": "giảng thoại",
+                "夢話": "mộng thoại",
+                "閒話": "nhàn thoại",
+                "熱綫電話": "nhiệt tuyến điện thoại",
+                "怪話": "quái thoại",
+                "官話": "quan thoại",
+                "鬼話": "quỷ thoại",
+                "石農叢話": "thạch nông tùng thoại",
+                "神話": "thần thoại",
+                "屁話": "thí thoại",
+                "聽話": "thính thoại",
+                "話說": "thoại thuyết",
+                "說話": "thuyết thoại"
+            }
+        }
+    }
+}

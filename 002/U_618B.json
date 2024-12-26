@@ -1,0 +1,81 @@
+{
+    "character": "憋",
+    "details": {
+        "Âm Hán Việt": [
+            "biết",
+            "biệt",
+            "miết"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "tâm 心 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱敝心"
+        ],
+        "Nét bút": [
+            "丶ノ丨フ丨ノ丶ノ一ノ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "FKP (火大心)"
+        ],
+        "Unicode": [
+            "U+618B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "biē ㄅㄧㄝ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘツ (hetsu)",
+            "ヘチ (hechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せっかち (se'kachi)"
+        ],
+        "Âm Quảng Đông": [
+            "bit3"
+        ]
+    },
+    "meanings": {
+        "biết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xấu xa."
+            ]
+        },
+        "biệt": {
+            "Từ điển phổ thông": [
+                "nhịn, nín, kiềm chế",
+                "bí, bế tắc",
+                "bực dọc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhịn, nín, nén, kìm lại. ◎Như: 'biệt khí' 憋氣 nhịn thở.",
+                "(Động) Buồn bực, bực dọc. ◎Như: 'tâm lí biệt đắc hoảng' 心裡憋得慌 trong lòng rất buồn bực.",
+                "(Động) Bí, tắc."
+            ],
+            "compound_words": {
+                "憋气": "biệt khí",
+                "憋氣": "biệt khí",
+                "憋悶": "biệt muộn",
+                "憋闷": "biệt muộn"
+            }
+        },
+        "miết": {
+            "Từ điển Trần Văn Chánh": [
+                "Bí, tức: 門窗全關 著，眞憋氣 Cửa rả đóng cả, bí hơi quá (tức thở quá);",
+                "Nhịn, nín: 把嘴一閉，憋足了氣 Mím mồm lại, nín thở."
+            ]
+        }
+    }
+}

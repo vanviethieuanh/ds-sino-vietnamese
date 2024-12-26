@@ -1,0 +1,115 @@
+{
+    "character": "境",
+    "details": {
+        "Âm Hán Việt": [
+            "cảnh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thổ 土 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土竟"
+        ],
+        "Nét bút": [
+            "一丨一丶一丶ノ一丨フ一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "GYTU (土卜廿山)"
+        ],
+        "Unicode": [
+            "U+5883"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jìng ㄐㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "cảnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さかい (sakai)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "ging2"
+        ]
+    },
+    "meanings": {
+        "cảnh": {
+            "Từ điển phổ thông": [
+                "biên giới, ranh giới",
+                "hoàn cảnh",
+                "cảnh trí"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Biên giới, cương giới. ◎Như: 'biên cảnh' 邊境 biên giới. ◇Mạnh Tử 孟子: 'Thần thủy chí ư cảnh, vấn quốc chi đại cấm, nhiên hậu cảm nhập' 臣始至於境, 問國之大禁, 然後敢入 (Lương Huệ vương hạ 梁惠王下) Thần lúc đầu đến biên giới, hỏi về những điều cấm kị quan trọng của nước, rồi sau mới dám vào.",
+                "(Danh) Nơi, chốn, địa phương, khu vực. ◎Như: 'tiên cảnh' 仙境 cõi tiên, 'thắng cảnh' 勝境 nơi đẹp. ◇Tam quốc diễn nghĩa 三國演義: 'Bố đông tây xung sát, như nhập vô nhân chi cảnh' 布東西衝殺, 如入無人之境 (Đệ ngũ hồi) (Lã) Bố đánh bên đông phạt bên tây, như vào chốn không người.",
+                "(Danh) Tình huống, tình trạng. ◎Như: 'thuận cảnh' 順境 cảnh thuận, 'nghịch cảnh' 逆境 cảnh nghịch, 'gia cảnh' 家境 tình huống trong nhà.",
+                "(Danh) Trình độ, hạn định. ◎Như: 'học vô chỉ cảnh' 學無止境 bể học mông mênh (việc học không có hạn định nào ngừng lại cả)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cõi.",
+                "Cảnh ngộ, như cảnh thuận, cảnh nghịch, v.v.",
+                "Cảnh trí, như thắng cảnh 勝境, giai cảnh 佳境, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cảnh, cõi, biên giới: 出境 Xuất cảnh; 入境 Nhập cảnh; 驅逐出境 Trục xuất ra khỏi biên giới;",
+                "Nơi, chỗ, chốn: 如入無人之境 Như vào chỗ không người;",
+                "Cảnh, hoàn cảnh, cảnh ngộ: 家境 Cảnh nhà; 處境 Hoàn cảnh;",
+                "Cảnh trí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ cõi — Vùng đất — Chỉ chung những thứ mình thấy xung quanh."
+            ],
+            "compound_words": {
+                "幻境": "huyễn cảnh",
+                "壓境": "áp cảnh",
+                "邊境": "biên cảnh",
+                "布境": "bố cảnh",
+                "境地": "cảnh địa",
+                "境界": "cảnh giới",
+                "境况": "cảnh huống",
+                "境況": "cảnh huống",
+                "境外": "cảnh ngoại",
+                "境遇": "cảnh ngộ",
+                "境內": "cảnh nội",
+                "境域": "cảnh vực",
+                "止境": "chỉ cảnh",
+                "異境": "dị cảnh",
+                "佳境": "giai cảnh",
+                "环境": "hoàn cảnh",
+                "環境": "hoàn cảnh",
+                "困境": "khốn cảnh",
+                "夢境": "mộng cảnh",
+                "梦境": "mộng cảnh",
+                "逆境": "nghịch cảnh",
+                "入境": "nhập cảnh",
+                "佛境": "phật cảnh",
+                "朔境": "sóc cảnh",
+                "事過境遷": "sự quá cảnh thiên",
+                "漸至佳境": "tiệm chí giai cảnh",
+                "仙境": "tiên cảnh",
+                "遠境": "viễn cảnh",
+                "越境": "việt cảnh",
+                "處境": "xử cảnh"
+            }
+        }
+    }
+}

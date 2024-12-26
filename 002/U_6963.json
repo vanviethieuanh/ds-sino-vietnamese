@@ -1,0 +1,83 @@
+{
+    "character": "楣",
+    "details": {
+        "Âm Hán Việt": [
+            "mi",
+            "my"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mộc 木 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木眉"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丨一ノ丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "DAHU (木日竹山)"
+        ],
+        "Unicode": [
+            "U+6963"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "méi ㄇㄟˊ"
+        ],
+        "Âm Nôm": [
+            "me",
+            "mi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)",
+            "ミ (mi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひさし (hisashi)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "mei4"
+        ]
+    },
+    "meanings": {
+        "mi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cái xà nhì. § Xà chính trong nhà gọi là 'đống' 棟, xà phụ là 'mi' 楣.",
+                "(Danh) Xà ngang gác trên cửa. § Vì thế nhà cửa bề thế gọi là 'môn mi' 門楣."
+            ],
+            "compound_words": {
+                "敗壞門楣": "bại hoại môn mi",
+                "倒楣": "đảo mi",
+                "門楣": "môn mi"
+            }
+        },
+        "my": {
+            "Từ điển phổ thông": [
+                "cái xà nhì (xà bắc ngang trên cửa)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái xà nhì. Nay gọi là cái xà ngang gác trên cửa, vì thế người ta gọi bề thế nhà là môn mi 門楣 nghĩa là coi cái cửa to nhỏ mà phân biệt cao thấp vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bậu cửa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thanh gỗ ngang ở trên thanh cửa. Xem Môn mi. Vần Môn — Cái rường nhà."
+            ]
+        }
+    }
+}

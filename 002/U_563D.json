@@ -1,0 +1,88 @@
+{
+    "character": "嘽",
+    "details": {
+        "Âm Hán Việt": [
+            "siển",
+            "than",
+            "xiển"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口單"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一丨フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "RRRJ (口口口十)"
+        ],
+        "Unicode": [
+            "U+563D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chǎn ㄔㄢˇ",
+            "tān ㄊㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "セン (sen)",
+            "タ (ta)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あえ.ぐ (ae.gu)",
+            "よろこ.ぶ (yoroko.bu)",
+            "おお.い (ō.i)",
+            "さかん (sakan)"
+        ],
+        "Âm Quảng Đông": [
+            "cin2",
+            "taan1",
+            "zin2"
+        ]
+    },
+    "meanings": {
+        "siển": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói chậm — Một âm là Than. Xem Than."
+            ],
+            "compound_words": {
+                "嘽緩": "siển hoãn"
+            }
+        },
+        "than": {
+            "Từ điển phổ thông": [
+                "thở phì phò, thở hổn hển",
+                "nhiều và mạnh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【嘽嘽】than than [tantan] (văn) (Gia súc) thở phì phò, thở hổn hển;",
+                "Nhiều và mạnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thở hổn hển, thở mạnh."
+            ]
+        },
+        "xiển": {
+            "Từ điển phổ thông": [
+                "thư thả"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thư thả."
+            ]
+        }
+    }
+}

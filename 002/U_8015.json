@@ -1,0 +1,99 @@
+{
+    "character": "耕",
+    "details": {
+        "Âm Hán Việt": [
+            "canh"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "lỗi 耒 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰耒井"
+        ],
+        "Nét bút": [
+            "一一一丨ノ丶一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "QDTT (手木廿廿)"
+        ],
+        "Unicode": [
+            "U+8015"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gēng ㄍㄥ"
+        ],
+        "Âm Nôm": [
+            "canh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たがや.す (tagaya.su)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "gaang1",
+            "gang1"
+        ]
+    },
+    "meanings": {
+        "canh": {
+            "Từ điển phổ thông": [
+                "cày ruộng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cày ruộng. ◎Như: 'canh tác' 耕作 cày cấy.",
+                "(Động) Phàm dùng sức làm một việc gì khó nhọc mới được miếng ăn đều gọi là 'canh'. ◎Như: 'thiệt canh' 舌耕 cày bằng lưỡi (tức dạy học), 'bút canh' 筆耕 viết thuê.",
+                "(Động) Gắng sức làm không mỏi mệt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cầy ruộng.",
+                "Phàm dùng sức làm một việc gì khó nhọc mới được miếng ăn đều gọi là canh. Như thiệt canh 舌耕 cầy bằng lưỡi (tức dạy học), bút canh 筆耕 viết thuê, v.v.",
+                "Gắng sức làm không mỏi cũng gọi là canh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cày ruộng, cày bừa, cày cấy: 深耕細作 Cày sâu bừa kĩ; 譯耕 Cày ải, cày lật, cày nỏ; 淺耕 Cày nông; 宋人有耕田者 Nước Tống có người cày ruộng (Hàn Phi tử);",
+                "Ra sức cày (gắng sức làm việc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cày ruộng — Gắng sức làm việc."
+            ],
+            "compound_words": {
+                "筆耕": "bút canh",
+                "耕種": "canh chủng",
+                "耕織": "canh chức",
+                "耕田": "canh điền",
+                "耕讀": "canh độc",
+                "耕牧": "canh mục",
+                "耕農": "canh nông",
+                "耕作": "canh tác",
+                "耕蠶": "canh tàm",
+                "耕徵": "canh trưng",
+                "耕耘": "canh vân",
+                "輟耕": "chuyết canh",
+                "躬耕": "cung canh",
+                "傭耕": "dung canh",
+                "領耕": "lĩnh canh",
+                "歸耕": "quy canh",
+                "鑿耕": "tạc canh",
+                "散耕": "tán canh",
+                "侵耕": "xâm canh"
+            }
+        }
+    }
+}

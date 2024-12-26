@@ -1,0 +1,81 @@
+{
+    "character": "診",
+    "details": {
+        "Âm Hán Việt": [
+            "chẩn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言㐱"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "YROHH (卜口人竹竹)"
+        ],
+        "Unicode": [
+            "U+8A3A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhěn ㄓㄣˇ"
+        ],
+        "Âm Nôm": [
+            "chẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "み.る (mi.ru)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "can2",
+            "zan2"
+        ]
+    },
+    "meanings": {
+        "chẩn": {
+            "Từ điển phổ thông": [
+                "xem xét"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Xem xét, khám nghiệm. ◎Như: “chẩn bệnh” 診病 xem bệnh, “chẩn mạch” 診脈 xem mạch. ◇Hồng Lâu Mộng 紅樓夢: “Na đại phu phương chẩn liễu nhất hồi mạch, khởi thân đáo ngoại gian, hướng ma ma môn thuyết đạo” 那大夫方診了一回脈, 起身到外間, 向嬤嬤們說道 (Đệ ngũ thập nhất hồi) (Lúc đó) thầy thuốc mới bắt mạch một lúc, rồi đứng dậy ra nhà ngoài, bảo bọn bà già."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xem xét. Như chẩn bệnh 診病 xem bệnh, chẩn mạch 診脉 xem mạch, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khám bệnh, xem bệnh, chẩn đoán bệnh: 出診 Đi khám bệnh; 會診 Hội chẩn; 門診病人 Người bệnh ngoại trú; 聽診 Khám bằng cách nghe."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn ngó — Xem xét — Đoán mộng."
+            ],
+            "compound_words": {
+                "診斷": "chẩn đoán",
+                "診脈": "chẩn mạch",
+                "診夢": "chẩn mộng",
+                "診所": "chẩn sở",
+                "診治": "chẩn trị",
+                "打診": "đả chẩn"
+            }
+        }
+    }
+}

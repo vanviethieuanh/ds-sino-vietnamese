@@ -1,0 +1,95 @@
+{
+    "character": "狸",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly",
+            "uất"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨里"
+        ],
+        "Nét bút": [
+            "ノフノ丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "KHWG (大竹田土)"
+        ],
+        "Unicode": [
+            "U+72F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "mái ㄇㄞˊ"
+        ],
+        "Âm Nôm": [
+            "li"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)",
+            "ライ (rai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たぬき (tanuki)"
+        ],
+        "Âm Hàn": [
+            "리"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "(Danh) Con 'li', một giống mèo rừng. § Còn gọi là 'li miêu' 狸貓, 'li tử' 狸子, 'san miêu' 山貓.",
+                "(Danh) Phiếm chỉ mèo. § Còn gọi là 'li nô' 狸奴. ◇Liêu trai chí dị 聊齋志異: 'Hữu cự li hàm anh vũ kinh tẩm môn quá' 有巨狸啣鸚鵡經寢門過 (A Anh 阿英) Có con mèo lớn ngoạm một con vẹt chạy qua cửa phòng ngủ.",
+                "(Danh) Một loài động vật, họ khuyển 犬, giỏi leo cây.",
+                "(Danh) Chỉ 'hồ li' 狐狸.",
+                "(Danh) Tên đất cổ của nước 'Yên' 燕.",
+                "(Danh) Họ 'Miêu'."
+            ],
+            "compound_words": {
+                "狐狸": "hồ li",
+                "香狸": "hương li"
+            }
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "con cáo, con chồn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con li, một loài như loài hồ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Con chồn, cáo: 海狸 Cáo biển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Li 貍."
+            ],
+            "compound_words": {
+                "海狸": "hải ly"
+            }
+        },
+        "uất": {
+            "Từ điển phổ thông": [
+                "mùi hôi thối"
+            ]
+        }
+    }
+}

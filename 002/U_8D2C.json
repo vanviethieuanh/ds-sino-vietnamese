@@ -1,0 +1,64 @@
+{
+    "character": "贬",
+    "details": {
+        "Âm Hán Việt": [
+            "biếm"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰贝乏"
+        ],
+        "Nét bút": [
+            "丨フノ丶ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "BOHIO (月人竹戈人)"
+        ],
+        "Unicode": [
+            "U+8D2C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "biǎn ㄅㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "biếm"
+        ],
+        "Âm Quảng Đông": [
+            "bin2"
+        ]
+    },
+    "meanings": {
+        "biếm": {
+            "Từ điển phổ thông": [
+                "biếm xuống, giảm xuống",
+                "giáng chức",
+                "chê bai"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 貶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 貶"
+            ],
+            "compound_words": {
+                "贬低": "biếm đê",
+                "贬义": "biếm nghĩa",
+                "贬值": "biếm trị"
+            }
+        }
+    }
+}

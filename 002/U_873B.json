@@ -1,0 +1,85 @@
+{
+    "character": "蜻",
+    "details": {
+        "Âm Hán Việt": [
+            "thanh",
+            "tinh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫青"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "LIQMB (中戈手一月)"
+        ],
+        "Unicode": [
+            "U+873B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ",
+            "qīng ㄑㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "thanh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)"
+        ],
+        "Âm Hàn": [
+            "청"
+        ],
+        "Âm Quảng Đông": [
+            "cing1"
+        ]
+    },
+    "meanings": {
+        "thanh": {
+            "Từ điển Trần Văn Chánh": [
+                "【蜻蜓】 tinh đình [qingtíng] Chuồn chuồn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thanh đình 蜻蜓: Con chuồn chuồn. Cũng đọc Tinh."
+            ]
+        },
+        "tinh": {
+            "Từ điển phổ thông": [
+                "(xem: tinh linh 蜻蛉, tinh đình 蜻蜓)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “tinh đình” 蜻蜓."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tinh đinh 蜻蜓 con chuồn chuồn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蜻蜓】 tinh đình [qingtíng] Chuồn chuồn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem các từ ngữ Tinh đình 蜻蜓, Tinh linh 蜻蛉."
+            ],
+            "compound_words": {
+                "蛉蜻": "linh tinh",
+                "蜻蜓": "tinh đình",
+                "蜻蜓點水": "tinh đình điểm thuỷ",
+                "蜻蛉": "tinh linh"
+            }
+        }
+    }
+}

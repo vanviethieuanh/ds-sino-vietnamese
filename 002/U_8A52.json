@@ -1,0 +1,87 @@
+{
+    "character": "詒",
+    "details": {
+        "Âm Hán Việt": [
+            "di",
+            "đãi"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言台"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRIR (卜口戈口)"
+        ],
+        "Unicode": [
+            "U+8A52"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ",
+            "tái ㄊㄞˊ",
+            "yí ㄧˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あざむ.く (azamu.ku)"
+        ],
+        "Âm Hàn": [
+            "이",
+            "태"
+        ],
+        "Âm Quảng Đông": [
+            "ji4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển phổ thông": [
+                "đưa tặng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Để lại, lưu truyền. ◇Liễu Tông Nguyên 柳宗元: 'Dĩ di hậu thế' 以詒後世 (Nhiêu nga bi 饒娥碑) Để lưu truyền lại đời sau.",
+                "(Động) Đưa tặng, biếu, cho. § Thông 'di' 貽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đưa tặng. Như di thư 詒書 đưa thơ cho.",
+                "Di truyền, để lại. Cùng nghĩa với chữ di 貽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 貽 (bộ貝)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Để lại, truyền lại cho người khác — Một âm khác là Đãi. Xem âm Đãi."
+            ],
+            "compound_words": {
+                "詒託": "di thác"
+            }
+        },
+        "đãi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dối trá. Khinh lờn. Như chữ Đãi 紿. Một âm khác là Di. Xem Di."
+            ],
+            "compound_words": {
+                "誒詒": "ai đãi"
+            }
+        }
+    }
+}

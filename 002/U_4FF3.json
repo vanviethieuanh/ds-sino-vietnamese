@@ -1,0 +1,90 @@
+{
+    "character": "俳",
+    "details": {
+        "Âm Hán Việt": [
+            "bài",
+            "bồi"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻非"
+        ],
+        "Nét bút": [
+            "ノ丨丨一一一丨一一一"
+        ],
+        "Thương Hiệt": [
+            "OLMY (人中一卜)"
+        ],
+        "Unicode": [
+            "U+4FF3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "pái ㄆㄞˊ"
+        ],
+        "Âm Nôm": [
+            "bài",
+            "bầy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "paai4"
+        ]
+    },
+    "meanings": {
+        "bài": {
+            "Từ điển phổ thông": [
+                "do dự, phân vân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hát chèo, hí kịch.",
+                "(Danh) Người diễn trò, người làm phường chèo. ◎Như: 'bài ưu' 俳優 phường chèo.",
+                "(Danh) Một thể văn rất chú trọng về âm luật, đối ngẫu.",
+                "(Tính) Hoạt kê, hài hước. ◎Như: 'bài hước' 俳謔 hài hước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bài ưu 俳優 phường chèo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cuộc biểu diễn nhiều môn, hài kịch;",
+                "Không thành thật;",
+                "Đi đi lại lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vui chơi."
+            ],
+            "compound_words": {
+                "俳諧": "bài hài",
+                "俳謔": "bài hước",
+                "俳體": "bài thể",
+                "俳優": "bài ưu"
+            }
+        },
+        "bồi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bồi hồi — Một âm khác là Bài."
+            ],
+            "compound_words": {
+                "俳佪": "bồi hồi"
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "character": "蕪",
+    "details": {
+        "Âm Hán Việt": [
+            "vu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thảo 艸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹無"
+        ],
+        "Nét bút": [
+            "一丨丨ノ一一丨丨丨丨一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TOTF (廿人廿火)"
+        ],
+        "Unicode": [
+            "U+856A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wú ㄨˊ",
+            "wǔ ㄨˇ"
+        ],
+        "Âm Nôm": [
+            "vu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ブ (bu)",
+            "ム (mu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぶ (kabu)",
+            "かぶら (kabura)",
+            "あれる (areru)"
+        ],
+        "Âm Hàn": [
+            "무"
+        ],
+        "Âm Quảng Đông": [
+            "mou4"
+        ]
+    },
+    "meanings": {
+        "vu": {
+            "Từ điển phổ thông": [
+                "bỏ hoang",
+                "tạp nhạp, lộn xộn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ um tùm. ◇Âu Dương Tu 歐陽修: 'Hà bạn thanh vu đê thượng liễu' 河畔青蕪堤上柳 (Thùy đạo nhàn tình 誰道閒情) Bờ sông cỏ xanh um tùm, liễu trên đê.",
+                "(Danh) § Xem 'vu tinh' 蕪菁.",
+                "(Danh) Tỉ dụ sự vật bừa bãi, lộn xộn. ◎Như: 'khử vu tồn tinh' 去蕪存菁 trừ bỏ tạp loạn, giữ lại tinh hoa.",
+                "(Tính) Tạp loạn, bừa bãi. ◎Như: 'vu thành' 蕪城 thành bỏ hoang, 'văn từ vu tạp' 文詞蕪雜 lời văn lộn xộn.",
+                "(Động) Ruộng vườn hoang phế, cỏ dại um tùm. ◇Đào Uyên Minh 陶淵明: 'Quy khứ lai hề, điền viên tương vu, hồ bất quy' 歸去來兮,田園將蕪, 胡不歸 (Quy khứ lai từ 歸去來辭) Về đi thôi hề, ruộng vườn sắp hoang vu, sao không về."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bỏ hoang, cỏ rác bừa bãi gọi là vu. Như vu thành 蕪城 thành bỏ hoang.",
+                "Tạp nhạp, lời văn lộn xộn gọi là văn từ vu tạp 文詞蕪雜.",
+                "Vu tinh 蕪菁. Xem chữ tinh 菁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cỏ rậm, bỏ hoang, hoang vu: 荒蕪 Hoang vu; 歸去來兮，田園將蕪 Về đi thôi hề, ruộng vườn sắp hoang vu (Đào Uyên Minh: Quy khứ lai từ);",
+                "Lộn xộn, rườm rà, tạp nhạp: 文詞蕪雜 Lời văn lộn xộn;",
+                "【蕪菁】vu tinh [wújing] (thực) a. Cây cải củ; b. Củ cải. Cg. 蔓菁 [mánjing] (Brassica rapa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ rậm. Cây cối um tùm — Rối loạn — Cây củ cải."
+            ],
+            "compound_words": {
+                "荒蕪": "hoang vu",
+                "蘼蕪": "my vu",
+                "蕪菁": "vu tinh"
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "character": "歹",
+    "details": {
+        "Âm Hán Việt": [
+            "ngạt",
+            "đãi"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "MNI (一弓戈)"
+        ],
+        "Unicode": [
+            "U+6B79"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dāi ㄉㄞ",
+            "dǎi ㄉㄞˇ",
+            "è"
+        ],
+        "Âm Nôm": [
+            "đãi",
+            "ngạt",
+            "ngặt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガツ (gatsu)",
+            "ガチ (gachi)",
+            "タイ (tai)"
+        ],
+        "Âm Hàn": [
+            "알",
+            "대"
+        ],
+        "Âm Quảng Đông": [
+            "aat3",
+            "daai2"
+        ]
+    },
+    "meanings": {
+        "ngạt": {
+            "Từ điển phổ thông": [
+                "xương tàn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Việc xấu, tồi, trái, bậy. ◎Như: 'vi phi tác đãi' 為非作歹 tác oai tác quái, làm xằng làm bậy. ◇Thủy hử truyện 水滸傳: 'Huống kiêm như kim thế thượng, đô thị na đại đầu cân lộng đắc đãi liễu' 況兼如今世上, 都是那大頭巾弄得歹了 (Đệ tam thập nhị hồi) Huống nữa như đời bây giờ, đều là bọn mũ cao áo dài phá phách thối tha cả.",
+                "(Tính) Xấu, không tốt. ◎Như: 'tha tịnh vô đãi ý' 他並無歹意 anh ấy hoàn toàn không có ý xấu.",
+                "Một âm là 'ngạt'. (Danh) Xương tàn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xương tàn.",
+                "Tục đọc là chữ đãi. Tồi, xấu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xương tàn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xương tàn, xương người chết lâu năm — Tên một bộ chữ Trung Hoa, tức bộ Ngạt."
+            ]
+        },
+        "đãi": {
+            "Từ điển phổ thông": [
+                "việc xấu, tồi, trái, bậy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Việc xấu, tồi, trái, bậy. ◎Như: 'vi phi tác đãi' 為非作歹 tác oai tác quái, làm xằng làm bậy. ◇Thủy hử truyện 水滸傳: 'Huống kiêm như kim thế thượng, đô thị na đại đầu cân lộng đắc đãi liễu' 況兼如今世上, 都是那大頭巾弄得歹了 (Đệ tam thập nhị hồi) Huống nữa như đời bây giờ, đều là bọn mũ cao áo dài phá phách thối tha cả.",
+                "(Tính) Xấu, không tốt. ◎Như: 'tha tịnh vô đãi ý' 他並無歹意 anh ấy hoàn toàn không có ý xấu.",
+                "Một âm là 'ngạt'. (Danh) Xương tàn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xương tàn.",
+                "Tục đọc là chữ đãi. Tồi, xấu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xấu, tồi, trái, bậy: 爲非作歹 Làm xằng làm bậy; 好歹 1. Phải trái, tốt xấu. 2. Dù sao."
+            ],
+            "compound_words": {
+                "好歹": "hảo đãi",
+                "說好嫌歹": "thuyết hảo hiềm đãi",
+                "說好說歹": "thuyết hảo thuyết đãi",
+                "为非作歹": "vi phi tác đãi",
+                "為非作歹": "vi phi tác đãi"
+            }
+        }
+    }
+}

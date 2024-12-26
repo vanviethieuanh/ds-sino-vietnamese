@@ -1,0 +1,90 @@
+{
+    "character": "茈",
+    "details": {
+        "Âm Hán Việt": [
+            "sài",
+            "tì",
+            "tử"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹此"
+        ],
+        "Nét bút": [
+            "一丨丨丨一丨一ノフ"
+        ],
+        "Thương Hiệt": [
+            "TYMP (廿卜一心)"
+        ],
+        "Unicode": [
+            "U+8308"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chái ㄔㄞˊ",
+            "cí ㄘˊ",
+            "cǐ ㄘˇ",
+            "zǐ ㄗˇ"
+        ],
+        "Âm Nôm": [
+            "tử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "サイ (sai)",
+            "ジュ (ju)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むらさき (murasaki)"
+        ],
+        "Âm Hàn": [
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "caai4",
+            "ci2",
+            "ci4",
+            "zi2"
+        ]
+    },
+    "meanings": {
+        "sài": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Sài hồ” 茈胡 tên cây, lá nhỏ và dài, tẽ ra hình kim, mùa hạ mùa thu nở hoa nhỏ vàng, rễ dùng làm thuốc. § Cũng viết là “sài hồ” 柴胡."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sài hồ 茈胡: Tên một vị thuốc bắc — Các âm khác là Tử, Tì, Thử. Xem các âm này."
+            ]
+        },
+        "tì": {
+            "Từ điển phổ thông": [
+                "xem: phù tì 鳧茈"
+            ],
+            "compound_words": {
+                "凫茈": "phù tì",
+                "鳧茈": "phù tì"
+            }
+        },
+        "tử": {
+            "Từ điển phổ thông": [
+                "tên một loại cỏ dùng làm thuốc, như: tử hồ 茈胡"
+            ],
+            "compound_words": {
+                "茈胡": "tử hồ"
+            }
+        }
+    }
+}

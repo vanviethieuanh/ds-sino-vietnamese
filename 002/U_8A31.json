@@ -1,0 +1,209 @@
+{
+    "character": "許",
+    "details": {
+        "Âm Hán Việt": [
+            "hổ",
+            "hứa",
+            "hử"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言午"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YROJ (卜口人十)"
+        ],
+        "Unicode": [
+            "U+8A31"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hǔ ㄏㄨˇ",
+            "xǔ ㄒㄩˇ"
+        ],
+        "Âm Nôm": [
+            "hớ",
+            "hử",
+            "hứa",
+            "ngỏ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ゆる.す (yuru.su)",
+            "もと (moto)"
+        ],
+        "Âm Hàn": [
+            "허",
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "heoi2"
+        ]
+    },
+    "meanings": {
+        "hổ": {
+            "Từ điển trích dẫn": [
+                "(Động) Cho phép, đồng ý. ◎Như: 'hứa khả' 許可 ừ, cho là được.",
+                "(Động) Phụng hiến, phụng sự. ◇Sử Kí 史記: 'Lão mẫu tại, Chánh thân vị cảm dĩ hứa nhân dã' 老母在, 政身未敢以許人也 (Thích khách liệt truyện 刺客列傳) Mẹ già còn, (Nhiếp) Chánh tôi chưa dám phụng hiến cho người. ◇Lục Du 陸游: 'Hứa quốc tuy kiên mấn dĩ ban' 許國雖堅鬢已斑 (Quan Trường An thành đồ 觀長安城圖) Phụng sự quốc gia, dù còn vững lòng, mái tóc đã loang lổ (muối tiêu).",
+                "(Động) Hứa hôn, hứa gả. ◎Như: 'hứa phối' 許配 hứa hôn, 'hứa giá' 許嫁 hứa gả. ◇Tam quốc diễn nghĩa 三國演義: 'Kì nữ thượng ấu, vị hứa tự nhân' 其女尚幼, 未許字人 (Đệ thất thập tam hồi) Con gái của ông còn nhỏ, chưa gả cho ai.",
+                "(Động) Khen, khen ngợi. ◎Như: 'xưng hứa' 稱許 khen ngợi, 'tán hứa' 讚許 tán thán.",
+                "(Động) Tin, tương tín. ◇Mạnh Tử 孟子: 'Minh túc dĩ sát thu hào chi mạt, nhi bất kiến dư tân, tắc vương hứa chi hồ?' 明足以察秋毫之末, 而不見輿薪, 則王許之乎? (Lương Huệ Vương thượng 梁惠王上) Mắt sáng nhìn rõ đàng cuối một sợi lông mùa thu, nhưng chẳng thấy cỗ xe chở củi. Vua có tin lời ấy hay không?",
+                "(Động) Trông chờ, kì vọng. ◇Mạnh Tử 孟子: 'Phu tử đương lộ ư Tề, Quản Trọng Yến Tử chi công khả phục hứa hồ?' 夫子當路於齊, 管仲晏子之功可復許乎? (Công Tôn Sửu thượng 公孫丑上) Thầy được quyền cao chức trọng ở nước Tề, thầy có mong phục hưng công nghiệp của Quản Trọng và Yến Tử chăng?",
+                "(Động) Hẹn, hứa hẹn. ◎Như: 'kì hứa' 期許 hẹn kì, 'tha hứa quá cấp ngã nhất bổn thư' 他許過給我一本書 anh ấy hứa cho tôi một cuốn sách.",
+                "(Danh) Nước 'Hứa'.",
+                "(Danh) Họ 'Hứa'.",
+                "Một âm là 'hử'. (Danh) Nơi, chốn. ◇Đào Uyên Minh 陶淵明: 'Tiên sanh bất tri hà hử nhân dã, diệc bất tường kì tính tự' 先生不知何許人也, 亦不詳其姓字 (Ngũ liễu tiên sanh truyện 五柳先生傳) Tiên sinh không biết là người xứ nào, cũng không rõ tên họ gì.",
+                "(Phó) Có thể là, hoặc là. ◎Như: 'hoặc hử' 或許 hoặc giả, 'dã hử' 也許 có lẽ, có thể là. ◇Lão Xá 老舍: 'Tha dã hử thị hôn quá khứ liễu ba?' 他也許是昏過去了吧? (Tứ thế đồng đường 四世同堂, Nhị bát 二八) Có lẽ hắn chỉ ngất đi mà thôi?",
+                "(Phó) Khoảng chừng, độ chừng. ◇Liễu Tông Nguyên 柳宗元: 'Đàm trung ngư khả bách hử đầu' 潭中魚可百許頭 (Chí tiểu khâu tây tiểu thạch đàm kí 至小邱西小石潭記) Trong đầm có chừng trăm con cá.",
+                "(Phó) Rất, lắm. ◎Như: 'hử đa' 許多 rất nhiều, 'hử cửu' 許久 rất lâu.",
+                "(Phó) Biểu thị nghi vấn. § Tương đương: 'hà' 何, 'thập ma' 什麼. ◇Đỗ Thẩm Ngôn 杜審言: 'Tri quân thư kí bổn phiên phiên, Vị hử tòng dong phó sóc biên?' 知君書記本翩翩, 為許從容赴朔邊 (Tặng Tô Oản thư kí 贈蘇綰書記).",
+                "(Trợ) ◎Như: 'kỉ hử' 幾許 bao nhiêu thế, 'như hử' 如許 như thế, chừng thế. ◇Hồng Lâu Mộng 紅樓夢: 'Vô tài khả khứ bổ thương thiên, Uổng nhập hồng trần nhược hử niên' 無材可去補蒼天, 枉入紅塵若許年 (Đệ nhất hồi) Không tài để được vá trời xanh, Uổng công vào cõi bụi hồng bấy nhiêu năm.",
+                "(Trợ) Dùng cuối câu, biểu thị cảm thán. ◇Hàn Dũ 韓愈: 'Tam bôi thủ túy bất phục luận, Nhất sanh trường hận nại hà hử' 三杯取醉不復論, 一生長恨奈何許 (Cảm xuân 感春) Ba chén say sưa khỏi bàn nữa, Một đời hận dài biết làm sao!",
+                "Một âm nữa là 'hổ'. § Xem 'hổ hổ' 許許."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghe theo, ừ cho. Như hứa khả 許可 ừ cho là được.",
+                "Hẹn được. Như hứa thân tắc tiết 許身稷契 tự hẹn mình làm được như các bậc danh thần như ông Tắc ông Tiết.",
+                "Nước Hứa.",
+                "Một âm là hử. Dùng làm tiếng trợ ngữ. Như kỉ hủ 幾許 bao nhiêu thế, như hử 如許 như thế, chừng thế, v.v.",
+                "Nơi, chốn.",
+                "Một âm nữa là hổ. Hổ hổ 許許 rầm rầm, tiếng mọi người cùng gắng sức."
+            ]
+        },
+        "hứa": {
+            "Từ điển phổ thông": [
+                "khen",
+                "hứa hẹn",
+                "rất, lắm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cho phép, đồng ý. ◎Như: 'hứa khả' 許可 ừ, cho là được.",
+                "(Động) Phụng hiến, phụng sự. ◇Sử Kí 史記: 'Lão mẫu tại, Chánh thân vị cảm dĩ hứa nhân dã' 老母在, 政身未敢以許人也 (Thích khách liệt truyện 刺客列傳) Mẹ già còn, (Nhiếp) Chánh tôi chưa dám phụng hiến cho người. ◇Lục Du 陸游: 'Hứa quốc tuy kiên mấn dĩ ban' 許國雖堅鬢已斑 (Quan Trường An thành đồ 觀長安城圖) Phụng sự quốc gia, dù còn vững lòng, mái tóc đã loang lổ (muối tiêu).",
+                "(Động) Hứa hôn, hứa gả. ◎Như: 'hứa phối' 許配 hứa hôn, 'hứa giá' 許嫁 hứa gả. ◇Tam quốc diễn nghĩa 三國演義: 'Kì nữ thượng ấu, vị hứa tự nhân' 其女尚幼, 未許字人 (Đệ thất thập tam hồi) Con gái của ông còn nhỏ, chưa gả cho ai.",
+                "(Động) Khen, khen ngợi. ◎Như: 'xưng hứa' 稱許 khen ngợi, 'tán hứa' 讚許 tán thán.",
+                "(Động) Tin, tương tín. ◇Mạnh Tử 孟子: 'Minh túc dĩ sát thu hào chi mạt, nhi bất kiến dư tân, tắc vương hứa chi hồ?' 明足以察秋毫之末, 而不見輿薪, 則王許之乎? (Lương Huệ Vương thượng 梁惠王上) Mắt sáng nhìn rõ đàng cuối một sợi lông mùa thu, nhưng chẳng thấy cỗ xe chở củi. Vua có tin lời ấy hay không?",
+                "(Động) Trông chờ, kì vọng. ◇Mạnh Tử 孟子: 'Phu tử đương lộ ư Tề, Quản Trọng Yến Tử chi công khả phục hứa hồ?' 夫子當路於齊, 管仲晏子之功可復許乎? (Công Tôn Sửu thượng 公孫丑上) Thầy được quyền cao chức trọng ở nước Tề, thầy có mong phục hưng công nghiệp của Quản Trọng và Yến Tử chăng?",
+                "(Động) Hẹn, hứa hẹn. ◎Như: 'kì hứa' 期許 hẹn kì, 'tha hứa quá cấp ngã nhất bổn thư' 他許過給我一本書 anh ấy hứa cho tôi một cuốn sách.",
+                "(Danh) Nước 'Hứa'.",
+                "(Danh) Họ 'Hứa'.",
+                "Một âm là 'hử'. (Danh) Nơi, chốn. ◇Đào Uyên Minh 陶淵明: 'Tiên sanh bất tri hà hử nhân dã, diệc bất tường kì tính tự' 先生不知何許人也, 亦不詳其姓字 (Ngũ liễu tiên sanh truyện 五柳先生傳) Tiên sinh không biết là người xứ nào, cũng không rõ tên họ gì.",
+                "(Phó) Có thể là, hoặc là. ◎Như: 'hoặc hử' 或許 hoặc giả, 'dã hử' 也許 có lẽ, có thể là. ◇Lão Xá 老舍: 'Tha dã hử thị hôn quá khứ liễu ba?' 他也許是昏過去了吧? (Tứ thế đồng đường 四世同堂, Nhị bát 二八) Có lẽ hắn chỉ ngất đi mà thôi?",
+                "(Phó) Khoảng chừng, độ chừng. ◇Liễu Tông Nguyên 柳宗元: 'Đàm trung ngư khả bách hử đầu' 潭中魚可百許頭 (Chí tiểu khâu tây tiểu thạch đàm kí 至小邱西小石潭記) Trong đầm có chừng trăm con cá.",
+                "(Phó) Rất, lắm. ◎Như: 'hử đa' 許多 rất nhiều, 'hử cửu' 許久 rất lâu.",
+                "(Phó) Biểu thị nghi vấn. § Tương đương: 'hà' 何, 'thập ma' 什麼. ◇Đỗ Thẩm Ngôn 杜審言: 'Tri quân thư kí bổn phiên phiên, Vị hử tòng dong phó sóc biên?' 知君書記本翩翩, 為許從容赴朔邊 (Tặng Tô Oản thư kí 贈蘇綰書記).",
+                "(Trợ) ◎Như: 'kỉ hử' 幾許 bao nhiêu thế, 'như hử' 如許 như thế, chừng thế. ◇Hồng Lâu Mộng 紅樓夢: 'Vô tài khả khứ bổ thương thiên, Uổng nhập hồng trần nhược hử niên' 無材可去補蒼天, 枉入紅塵若許年 (Đệ nhất hồi) Không tài để được vá trời xanh, Uổng công vào cõi bụi hồng bấy nhiêu năm.",
+                "(Trợ) Dùng cuối câu, biểu thị cảm thán. ◇Hàn Dũ 韓愈: 'Tam bôi thủ túy bất phục luận, Nhất sanh trường hận nại hà hử' 三杯取醉不復論, 一生長恨奈何許 (Cảm xuân 感春) Ba chén say sưa khỏi bàn nữa, Một đời hận dài biết làm sao!",
+                "Một âm nữa là 'hổ'. § Xem 'hổ hổ' 許許."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghe theo, ừ cho. Như hứa khả 許可 ừ cho là được.",
+                "Hẹn được. Như hứa thân tắc tiết 許身稷契 tự hẹn mình làm được như các bậc danh thần như ông Tắc ông Tiết.",
+                "Nước Hứa.",
+                "Một âm là hử. Dùng làm tiếng trợ ngữ. Như kỉ hủ 幾許 bao nhiêu thế, như hử 如許 như thế, chừng thế, v.v.",
+                "Nơi, chốn.",
+                "Một âm nữa là hổ. Hổ hổ 許許 rầm rầm, tiếng mọi người cùng gắng sức."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hứa, hẹn: 他許過給我一本書 Anh ấy hứa cho tôi một cuốn sách;",
+                "Cho phép, chuẩn y, được: 只許成功，不許失敗 Chỉ được thành công, không được thất bại;",
+                "Khen, khen ngợi: 大家都稱許她的演說 Mọi người đều khen bài nói chuyện của cô ấy; 許爲佳作 Khen là tác phẩm hay;",
+                "Có thể là, hoặc là: 或許 Hoặc giả, có thể là; 也許 Biết đâu chừng, có lẽ;",
+                "Rất, lắm: 許多 Rất nhiều; 許久 Rất lâu;",
+                "Hứa hôn, hứa gả: 她早已許了人 家 Nàng đã hứa hôn với người ta;",
+                "Nơi, chốn, xứ: 先生不知何許人也 Tiên sinh không biết là người xứ nào (Đào Uyên Minh: Ngũ Liễu tiên sinh truyện);",
+                "Mong đợi, trông mong: 你對她的期許太高了 Cô ấy trông mong ở anh rất nhiều;",
+                "Khoảng, độ chừng: 他年四十許 Anh ấy chừng bốn mươi tuổi;",
+                "Xem 幾許 [jêxư];",
+                "[Xư] (Họ) Hứa;",
+                "[Xư] Nước Hứa (tên nước thời cổ, thuộc phía đông huyện Hứa Xương tỉnh Hà Nam, Trung Quốc ngày nay)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cho — Cho phép. Bằng lòng — Hẹn trước."
+            ],
+            "compound_words": {
+                "不許": "bất hứa",
+                "准許": "chuẩn hứa",
+                "也許": "dã hứa",
+                "允許": "duẫn hứa",
+                "容許": "dung hứa",
+                "特許": "đặc hứa",
+                "或許": "hoặc hứa",
+                "許婚": "hứa hôn",
+                "許可": "hứa khả",
+                "許願": "hứa nguyện",
+                "幾許": "kỉ hứa",
+                "巢許": "sào hứa",
+                "些許": "ta hứa",
+                "讚許": "tán hứa",
+                "心許": "tâm hứa"
+            }
+        },
+        "hử": {
+            "Từ điển phổ thông": [
+                "như thế (tiếng dùng làm trợ ngữ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cho phép, đồng ý. ◎Như: 'hứa khả' 許可 ừ, cho là được.",
+                "(Động) Phụng hiến, phụng sự. ◇Sử Kí 史記: 'Lão mẫu tại, Chánh thân vị cảm dĩ hứa nhân dã' 老母在, 政身未敢以許人也 (Thích khách liệt truyện 刺客列傳) Mẹ già còn, (Nhiếp) Chánh tôi chưa dám phụng hiến cho người. ◇Lục Du 陸游: 'Hứa quốc tuy kiên mấn dĩ ban' 許國雖堅鬢已斑 (Quan Trường An thành đồ 觀長安城圖) Phụng sự quốc gia, dù còn vững lòng, mái tóc đã loang lổ (muối tiêu).",
+                "(Động) Hứa hôn, hứa gả. ◎Như: 'hứa phối' 許配 hứa hôn, 'hứa giá' 許嫁 hứa gả. ◇Tam quốc diễn nghĩa 三國演義: 'Kì nữ thượng ấu, vị hứa tự nhân' 其女尚幼, 未許字人 (Đệ thất thập tam hồi) Con gái của ông còn nhỏ, chưa gả cho ai.",
+                "(Động) Khen, khen ngợi. ◎Như: 'xưng hứa' 稱許 khen ngợi, 'tán hứa' 讚許 tán thán.",
+                "(Động) Tin, tương tín. ◇Mạnh Tử 孟子: 'Minh túc dĩ sát thu hào chi mạt, nhi bất kiến dư tân, tắc vương hứa chi hồ?' 明足以察秋毫之末, 而不見輿薪, 則王許之乎? (Lương Huệ Vương thượng 梁惠王上) Mắt sáng nhìn rõ đàng cuối một sợi lông mùa thu, nhưng chẳng thấy cỗ xe chở củi. Vua có tin lời ấy hay không?",
+                "(Động) Trông chờ, kì vọng. ◇Mạnh Tử 孟子: 'Phu tử đương lộ ư Tề, Quản Trọng Yến Tử chi công khả phục hứa hồ?' 夫子當路於齊, 管仲晏子之功可復許乎? (Công Tôn Sửu thượng 公孫丑上) Thầy được quyền cao chức trọng ở nước Tề, thầy có mong phục hưng công nghiệp của Quản Trọng và Yến Tử chăng?",
+                "(Động) Hẹn, hứa hẹn. ◎Như: 'kì hứa' 期許 hẹn kì, 'tha hứa quá cấp ngã nhất bổn thư' 他許過給我一本書 anh ấy hứa cho tôi một cuốn sách.",
+                "(Danh) Nước 'Hứa'.",
+                "(Danh) Họ 'Hứa'.",
+                "Một âm là 'hử'. (Danh) Nơi, chốn. ◇Đào Uyên Minh 陶淵明: 'Tiên sanh bất tri hà hử nhân dã, diệc bất tường kì tính tự' 先生不知何許人也, 亦不詳其姓字 (Ngũ liễu tiên sanh truyện 五柳先生傳) Tiên sinh không biết là người xứ nào, cũng không rõ tên họ gì.",
+                "(Phó) Có thể là, hoặc là. ◎Như: 'hoặc hử' 或許 hoặc giả, 'dã hử' 也許 có lẽ, có thể là. ◇Lão Xá 老舍: 'Tha dã hử thị hôn quá khứ liễu ba?' 他也許是昏過去了吧? (Tứ thế đồng đường 四世同堂, Nhị bát 二八) Có lẽ hắn chỉ ngất đi mà thôi?",
+                "(Phó) Khoảng chừng, độ chừng. ◇Liễu Tông Nguyên 柳宗元: 'Đàm trung ngư khả bách hử đầu' 潭中魚可百許頭 (Chí tiểu khâu tây tiểu thạch đàm kí 至小邱西小石潭記) Trong đầm có chừng trăm con cá.",
+                "(Phó) Rất, lắm. ◎Như: 'hử đa' 許多 rất nhiều, 'hử cửu' 許久 rất lâu.",
+                "(Phó) Biểu thị nghi vấn. § Tương đương: 'hà' 何, 'thập ma' 什麼. ◇Đỗ Thẩm Ngôn 杜審言: 'Tri quân thư kí bổn phiên phiên, Vị hử tòng dong phó sóc biên?' 知君書記本翩翩, 為許從容赴朔邊 (Tặng Tô Oản thư kí 贈蘇綰書記).",
+                "(Trợ) ◎Như: 'kỉ hử' 幾許 bao nhiêu thế, 'như hử' 如許 như thế, chừng thế. ◇Hồng Lâu Mộng 紅樓夢: 'Vô tài khả khứ bổ thương thiên, Uổng nhập hồng trần nhược hử niên' 無材可去補蒼天, 枉入紅塵若許年 (Đệ nhất hồi) Không tài để được vá trời xanh, Uổng công vào cõi bụi hồng bấy nhiêu năm.",
+                "(Trợ) Dùng cuối câu, biểu thị cảm thán. ◇Hàn Dũ 韓愈: 'Tam bôi thủ túy bất phục luận, Nhất sanh trường hận nại hà hử' 三杯取醉不復論, 一生長恨奈何許 (Cảm xuân 感春) Ba chén say sưa khỏi bàn nữa, Một đời hận dài biết làm sao!",
+                "Một âm nữa là 'hổ'. § Xem 'hổ hổ' 許許."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghe theo, ừ cho. Như hứa khả 許可 ừ cho là được.",
+                "Hẹn được. Như hứa thân tắc tiết 許身稷契 tự hẹn mình làm được như các bậc danh thần như ông Tắc ông Tiết.",
+                "Nước Hứa.",
+                "Một âm là hử. Dùng làm tiếng trợ ngữ. Như kỉ hủ 幾許 bao nhiêu thế, như hử 如許 như thế, chừng thế, v.v.",
+                "Nơi, chốn.",
+                "Một âm nữa là hổ. Hổ hổ 許許 rầm rầm, tiếng mọi người cùng gắng sức."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hứa, hẹn: 他許過給我一本書 Anh ấy hứa cho tôi một cuốn sách;",
+                "Cho phép, chuẩn y, được: 只許成功，不許失敗 Chỉ được thành công, không được thất bại;",
+                "Khen, khen ngợi: 大家都稱許她的演說 Mọi người đều khen bài nói chuyện của cô ấy; 許爲佳作 Khen là tác phẩm hay;",
+                "Có thể là, hoặc là: 或許 Hoặc giả, có thể là; 也許 Biết đâu chừng, có lẽ;",
+                "Rất, lắm: 許多 Rất nhiều; 許久 Rất lâu;",
+                "Hứa hôn, hứa gả: 她早已許了人 家 Nàng đã hứa hôn với người ta;",
+                "Nơi, chốn, xứ: 先生不知何許人也 Tiên sinh không biết là người xứ nào (Đào Uyên Minh: Ngũ Liễu tiên sinh truyện);",
+                "Mong đợi, trông mong: 你對她的期許太高了 Cô ấy trông mong ở anh rất nhiều;",
+                "Khoảng, độ chừng: 他年四十許 Anh ấy chừng bốn mươi tuổi;",
+                "Xem 幾許 [jêxư];",
+                "[Xư] (Họ) Hứa;",
+                "[Xư] Nước Hứa (tên nước thời cổ, thuộc phía đông huyện Hứa Xương tỉnh Hà Nam, Trung Quốc ngày nay)."
+            ],
+            "compound_words": {
+                "許許": "hử hử"
+            }
+        }
+    }
+}

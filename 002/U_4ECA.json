@@ -1,0 +1,103 @@
+{
+    "character": "今",
+    "details": {
+        "Âm Hán Việt": [
+            "kim"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhân 人 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱亽乛"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ"
+        ],
+        "Thương Hiệt": [
+            "OIN (人戈弓)"
+        ],
+        "Unicode": [
+            "U+4ECA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jīn ㄐㄧㄣ"
+        ],
+        "Âm Nôm": [
+            "kim"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)",
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いま (ima)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "gam1"
+        ]
+    },
+    "meanings": {
+        "kim": {
+            "Từ điển phổ thông": [
+                "nay, bây giờ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngày nay, hiện nay, thời nay. Đối lại với 'cổ' 古 ngày xưa. ◎Như: 'cổ kim' 古今 ngày xưa và ngày nay, 'kim phi tích tỉ' 今非昔比 nay không bằng xưa.",
+                "(Danh) Họ 'Kim'.",
+                "(Tính) Nay, bây giờ. ◎Như: 'kim thiên' 今天 hôm nay, 'kim niên' 今年 năm nay.",
+                "(Đại) Đây (dùng như 'thử' 此). ◇Quốc ngữ 國學: 'Vương viết: Kim thị hà thần dã' 上王曰: 今是何神也 (Chu ngữ thượng 周語上) Nhà vua hỏi: Đây là thần gì?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nay, hiện nay, bây giờ gọi là kim 今."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nay, hôm nay, hiện giờ, hiện tại: 當今 Ngày nay; 今世 Đời nay; 古往今來 Từ xưa đến nay, xưa nay; 今天 Hôm nay; 今晨 Sáng hôm nay; 今冬 Vụ đông năm nay; 今夜 Đêm nay;",
+                "(văn) Đây (dùng như 此): 王曰：今是何神也？ Nhà vua hỏi: Đây là thần gì? (Quốc ngữ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hiện nay, bây giờ."
+            ],
+            "compound_words": {
+                "博古通今": "bác cổ thông kim",
+                "震古爍今": "chấn cổ thước kim",
+                "震古鑠今": "chấn cổ thước kim",
+                "當今": "đương kim",
+                "今音": "kim âm",
+                "今古": "kim niên",
+                "今后": "kim hậu",
+                "今後": "kim hậu",
+                "今人": "kim nhân",
+                "今日": "kim nhật",
+                "今儿": "kim nhi",
+                "今兒": "kim nhi",
+                "今年": "kim niên",
+                "今生": "kim sinh",
+                "今晨": "kim thần",
+                "今世": "kim thế",
+                "今時": "kim thời",
+                "今天": "kim thiên",
+                "今上": "kim thượng",
+                "今昔": "kim tích",
+                "今朝": "kim triêu",
+                "今晚": "kim vãn",
+                "今文": "kim văn",
+                "如今": "như kim"
+            }
+        }
+    }
+}

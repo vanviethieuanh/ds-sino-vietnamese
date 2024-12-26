@@ -1,0 +1,82 @@
+{
+    "character": "偢",
+    "details": {
+        "Âm Hán Việt": [
+            "thiễu",
+            "thu",
+            "tiễu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻秋"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一丨ノ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "OHDF (人竹木火)"
+        ],
+        "Unicode": [
+            "U+5062"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chǒu ㄔㄡˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いつく.しまない (itsuku.shimanai)",
+            "うれ.える (ure.eru)"
+        ],
+        "Âm Hàn": [
+            "초"
+        ],
+        "Âm Quảng Đông": [
+            "cau1",
+            "ciu2"
+        ]
+    },
+    "meanings": {
+        "thiễu": {
+            "Từ điển phổ thông": [
+                "nhìn, trông thấy",
+                "(xem: thu thải 瞅睬)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 瞅 (bộ 目)."
+            ]
+        },
+        "thu": {
+            "Từ điển phổ thông": [
+                "nhìn, trông thấy",
+                "(xem: thu thải 瞅睬)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Đưa mắt nhìn, ngó tới. § Cũng như “thu” 瞅. Xem “thải” 睬. ◇Quan Hán Khanh 關漢卿: “Đoan đích cá hữu thùy vấn, hữu thùy thu?” 端的個有誰問, 有誰偢? (竇娥冤, Đệ nhất chiết)."
+            ],
+            "compound_words": {
+                "偢問": "thu vấn"
+            }
+        },
+        "tiễu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa mắt nhìn."
+            ]
+        }
+    }
+}

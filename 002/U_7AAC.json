@@ -1,0 +1,85 @@
+{
+    "character": "窬",
+    "details": {
+        "Âm Hán Việt": [
+            "du"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴俞"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶ノ丶一丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "JCOMN (十金人一弓)"
+        ],
+        "Unicode": [
+            "U+7AAC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dōu ㄉㄡ",
+            "dòu ㄉㄡˋ",
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "du"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユ (yu)",
+            "トウ (tō)",
+            "ズ (zu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くぐりど (kugurido)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển phổ thông": [
+                "đào tường, khoét tường",
+                "lỗ nhỏ trên cửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái lỗ nhỏ bên cửa.",
+                "(Động) Đào, khoét.",
+                "(Động) Chui qua, leo qua. § Thông 'du' 踰."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðào tường, khoét ngạch (ăn trộm).",
+                "Cái lỗ nhỏ bên cửa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đào tường, khoét ngạch (để ăn trộm);",
+                "Lỗ nhỏ bên cửa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lỗ nhỏ ở cửa để ngó ra ngoài."
+            ],
+            "compound_words": {
+                "窺窬": "khuy du",
+                "穿窬": "xuyên du"
+            }
+        }
+    }
+}

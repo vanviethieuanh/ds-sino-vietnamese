@@ -1,0 +1,116 @@
+{
+    "character": "閉",
+    "details": {
+        "Âm Hán Việt": [
+            "bế"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "môn 門 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵門才"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一一丨ノ"
+        ],
+        "Thương Hiệt": [
+            "ANDH (日弓木竹)"
+        ],
+        "Unicode": [
+            "U+9589"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "bấy",
+            "bé",
+            "bế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.じる (to.jiru)",
+            "と.ざす (to.zasu)",
+            "し.める (shi.meru)",
+            "し.まる (shi.maru)",
+            "た.てる (ta.teru)"
+        ],
+        "Âm Hàn": [
+            "폐"
+        ],
+        "Âm Quảng Đông": [
+            "bai3"
+        ]
+    },
+    "meanings": {
+        "bế": {
+            "Từ điển phổ thông": [
+                "đóng, khép (cửa)",
+                "nhắm (mắt)",
+                "ngậm",
+                "bế tắc, bí",
+                "che, đậy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đóng, khép, ngậm, nhắm. § Đối lại với 'khai' 開. ◎Như: 'bế môn' 閉門 đóng cửa, 'bế mục' 閉目 nhắm mắt. ◇Nguyễn Trãi 阮廌: 'Nhàn trung tận nhật bế thư trai' 閑中盡日閉書齋 (Mộ xuân tức sự 暮春即事) Trong lúc nhàn rỗi suốt ngày đóng cửa phòng văn.",
+                "(Động) Tắc, không thông. ◎Như: 'bế khí' 閉氣 (1) nhịn thở, (2) tắt thở (chết), 'bế tắc' 閉塞 trở tắc.",
+                "(Động) Ngừng, chấm dứt. ◎Như: 'bế hội' 閉會 kết thúc hội nghị, 'bế mạc' 閉幕 kết thúc, chấm dứt.",
+                "(Động) Cấm chỉ, cắt đứt.",
+                "(Danh) Cửa ngách (bên cạnh cửa lớn).",
+                "(Danh) Ngày lập thu, lập đông.",
+                "(Danh) Họ 'Bế'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðóng cửa. Trái lại với chữ khai 開 mở thông. Như không được khai thông gọi là bế tắc 閉塞, không mở mang ra gọi là bế tàng 閉藏, không đi lại gì với ai gọi là bế quan tự thủ 閉關自守. Nguyễn Trãi 阮廌: Nhàn trung tận nhật bế thư trai 閑中盡日閉書齋 (Mộ xuân tức sự 暮春即事) trong lúc nhàn rỗi suốt ngày đóng cửa phòng văn.",
+                "Cửa ngạch, các cửa nhỏ bên then cửa lớn.",
+                "Che đậy.",
+                "Lấp.",
+                "Ngày lập thu, lập đông gọi là bế.",
+                "Họ Bế."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đóng, khép, nhắm, ngậm: 閉門 Đóng cửa; 閉上眼睛 Nhắm mắt lại; 閉上嘴 Ngậm miệng lại;",
+                "Kết thúc, chấm dứt, đình chỉ, ngừng lại: 閉會 Hội nghị đã bế mạc;",
+                "Bí, tắc, tức: 閉氣 Tức thở; tắt thở, tắt hơi;",
+                "(văn) Cửa ngách (bên cạnh cửa lớn);",
+                "(văn) Ngày lập thu lập đông;",
+                "[Bì] (Họ) Bế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đóng cửa lại — Cái then cài cửa — Làm cho tắt nghẽn, không lưu thông được — Ngưng lại. Chấm dứt."
+            ],
+            "compound_words": {
+                "閉氣": "bế khí",
+                "閉經": "bế kinh",
+                "閉冪": "bế mạc",
+                "閉幕": "bế mạc",
+                "閉門": "bế môn",
+                "閉目": "bế mục",
+                "閉月羞花": "bế nguyệt tu hoa",
+                "閉關": "bế quan",
+                "閉關鎖國": "bế quan toả quốc",
+                "閉藏": "bế tàng",
+                "閉塞": "bế tắc",
+                "倒閉": "đảo bế",
+                "癃閉": "lung bế",
+                "封閉": "phong bế",
+                "藏閉": "tàng bế",
+                "壅閉": "úng bế"
+            }
+        }
+    }
+}

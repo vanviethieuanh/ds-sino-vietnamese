@@ -1,0 +1,102 @@
+{
+    "character": "穴",
+    "details": {
+        "Âm Hán Việt": [
+            "huyệt"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "JC (十金)"
+        ],
+        "Unicode": [
+            "U+7A74"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ",
+            "xué ㄒㄩㄝˊ",
+            "xuè ㄒㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "hoét",
+            "huyệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あな (ana)"
+        ],
+        "Âm Hàn": [
+            "혈"
+        ],
+        "Âm Quảng Đông": [
+            "jyut6"
+        ]
+    },
+    "meanings": {
+        "huyệt": {
+            "Từ điển phổ thông": [
+                "hang",
+                "lỗ",
+                "hố"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ đào trong đất cho người ở (thời xưa). ◇Thi Kinh 詩經: 'Đào phục đào huyệt, Vị hữu thất gia' 陶復陶穴, 未有室家 (Đại nhã 大雅, Miên 綿) Còn ở chỗ đào trong đất, Chưa có nhà cửa.",
+                "(Danh) Hang, hốc. ◎Như: 'nham huyệt' 穴居 hang núi. ◇Tống Ngọc 宋玉: 'Không huyệt lai phong' 空穴來風 (Phong phú 風賦) Hang trống gió lại.",
+                "(Danh) Phần mộ. ◎Như: 'mộ huyệt' 墓穴 mồ chôn. ◇Thi Kinh 詩經: 'Cốc tắc dị thất, Tử tắc đồng huyệt' 穀則異室, 死則同穴 (Vương phong王風, Đại xa 大車) (Lúc) Sống không cùng nhà, (Thì mong) Lúc chết chôn chung một mồ.",
+                "(Danh) Ổ, lỗ, tổ. ◎Như: 'bất nhập hổ huyệt, yên đắc hổ tử' 不入虎穴, 焉得虎子 không vào ổ cọp, sao bắt được cọp con.",
+                "(Danh) Chỗ quan hệ trên thân thể người nơi kinh mạch hội tụ (đông y). ◎Như: 'thái dương huyệt' 太陽穴 huyệt thái dương.",
+                "(Động) Đào, khoét. ◇Trang Tử 莊子: 'Huyệt thất xu hộ' 穴室樞戶 (Đạo Chích 盜跖) Khoét nhà bẻ cửa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hang, ngày xưa đào hang ở gọi là huyệt cư 穴居.",
+                "Cái lỗ, các chỗ quan hệ ở thân thể người cũng gọi là huyệt.",
+                "Huyệt, hố để mả. Ta gọi đào hố chôn xác là đào huyệt.",
+                "Ðào.",
+                "Bên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hang, hang hốc, hang động: 虎穴 Hang cọp (hổ); 穴居 Ở hang;",
+                "Huyệt, hố chôn (người);",
+                "Huyệt vị (châm cứu);",
+                "(văn) Đào;",
+                "(văn) Bên;",
+                "[Xué] (Họ) Huyệt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hang đào trong đất — Cái lỗ lớn — Chỗ ở của loài thú dữ. Td: Hổ huyệt ( hang cọp ) — Chỗ ẩn nấp của kẻ bất lương. Td: Sào huyệt — Lỗ đào để chôn người chết — Chỗ hiểm yếu trên cơ thể. Td: Điểm huyệt ( ấn vào chỗ hiểm ) — Tên một trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "不入虎穴焉得虎子": "bất nhập hổ huyệt yên đắc hổ tử",
+                "點穴": "điểm huyệt",
+                "同穴": "đồng huyệt",
+                "虎穴": "hổ huyệt",
+                "穴居": "huyệt cư",
+                "穴見": "huyệt kiến",
+                "開穴": "khai huyệt",
+                "孔穴": "khổng huyệt",
+                "龍穴": "long huyệt",
+                "巖穴": "nham huyệt",
+                "巢穴": "sào huyệt",
+                "鑿穴": "tạc huyệt"
+            }
+        }
+    }
+}

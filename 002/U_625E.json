@@ -1,0 +1,107 @@
+{
+    "character": "扞",
+    "details": {
+        "Âm Hán Việt": [
+            "cán",
+            "cản",
+            "hãn"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thủ 手 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘干"
+        ],
+        "Nét bút": [
+            "一丨一一一丨"
+        ],
+        "Thương Hiệt": [
+            "QMJ (手一十)"
+        ],
+        "Unicode": [
+            "U+625E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gǎn ㄍㄢˇ",
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nôm": [
+            "cản"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふせ.ぐ (fuse.gu)"
+        ],
+        "Âm Hàn": [
+            "한"
+        ],
+        "Âm Quảng Đông": [
+            "hon6"
+        ]
+    },
+    "meanings": {
+        "cán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chìa ra. Đưa ra — Một âm khác là Hãn."
+            ]
+        },
+        "cản": {
+            "Từ điển Trần Văn Chánh": [
+                "Chống đỡ, chống giữ, chống cự, phòng giữ. 【扞格】hãn cách [hàngé] (văn) Không ăn khớp, không hợp nhau: 扞格不入 Hoàn toàn không ăn khớp. Như 捍 [hàn];",
+                "Nắn ra, nặn: 扞麵 Nặn bột."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chống lại. Ngăn lại. Đáng lẽ đọc Hãn. Xem vần Hãn."
+            ],
+            "compound_words": {
+                "拒扞": "cự cản"
+            }
+        },
+        "hãn": {
+            "Từ điển phổ thông": [
+                "chống đỡ, chống giữ, chống cự",
+                "nắn ra, nặn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Che lấp.",
+                "(Động) Bảo vệ, bảo hộ. § Cũng như 'hãn' 捍. ◇Khổng An Quốc 孔安國: 'Hãn ngã ư gian nan' 扞我於艱難 (Truyện 傳) Bảo vệ ta trong lúc khó khăn.",
+                "(Động) Chống giữ, ngăn. § Cũng như 'hãn' 捍. ◎Như: 'hãn cách' 扞格 chống cự. ◇Lã Thị Xuân Thu 呂氏春秋: 'Phàm nhân chi tính, trảo nha bất túc dĩ tự thủ vệ, cơ phu bất túc dĩ hãn hàn thử' 凡人之性, 爪牙不足以自守衛, 肌膚不足以扞寒暑 (Thị quân lãm 恃君覽) Phàm tính người ta, móng vuốt không đủ tự vệ, da thịt không đủ ngăn nóng lạnh.",
+                "(Động) Vi phạm, làm trái. ◇Sử Kí 史記: 'Tuy thì hãn đương thế chi văn võng, nhiên kì tư nghĩa liêm khiết thối nhượng, hữu túc xưng giả' 雖時扞當世之文罔, 然其私義廉絜退讓, 有足稱者 (Du hiệp liệt truyện 游俠列傳) Tuy có lúc vi phạm lưới pháp luật đương thời, nhưng tư cách của họ nghĩa hiệp, liêm khiết, nhún nhường, cũng đủ đáng khen.",
+                "(Động) Vuốt dài ra, nắn ra. ◎Như: 'hãn miến' 扞麵 nặn bột.",
+                "(Danh) Bao da, ngày xưa dùng để che chở cánh tay người bắn cung."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chống giữ, cũng như chữ hãn 捍.",
+                "Chống cự, như hãn cách 扞格 chống cự.",
+                "Vuốt dài ra, nắn ra, như hãn miến 扞麵 nặn bột."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chống đỡ, chống giữ, chống cự, phòng giữ. 【扞格】hãn cách [hàngé] (văn) Không ăn khớp, không hợp nhau: 扞格不入 Hoàn toàn không ăn khớp. Như 捍 [hàn];",
+                "Nắn ra, nặn: 扞麵 Nặn bột."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngăn cản. Ta quen đọc Cản — Một âm khác là Cán. Xem Cán."
+            ],
+            "compound_words": {
+                "拒扞": "cự hãn",
+                "扞格": "hãn cách",
+                "扞拒": "hãn cự",
+                "扞衛": "hãn vệ"
+            }
+        }
+    }
+}

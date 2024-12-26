@@ -1,0 +1,97 @@
+{
+    "character": "醋",
+    "details": {
+        "Âm Hán Việt": [
+            "thố",
+            "tạc"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "dậu 酉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰酉昔"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一一丨丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MWTA (一田廿日)"
+        ],
+        "Unicode": [
+            "U+918B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cù ㄘㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サク (saku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す (su)"
+        ],
+        "Âm Hàn": [
+            "초",
+            "작"
+        ],
+        "Âm Quảng Đông": [
+            "cou3"
+        ]
+    },
+    "meanings": {
+        "thố": {
+            "Từ điển phổ thông": [
+                "giấm",
+                "ghen tuông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giấm. ◎Như: 'mễ thố' 米醋 giấm gạo.",
+                "(Danh) Lòng ghen ghét. ◎Như: 'thố ý' 醋意 lòng ganh ghét. § Sách Tục Văn Hiến Thông Khảo nói con sư tử mỗi ngày ăn hết một bình giấm, nói ví như đàn bà ghen, vì thế đời sau mới gọi đàn bà ghen là sư tử.",
+                "(Động) Sợ. ◇Tây du kí 西遊記: 'Tha kiến nã ngã bất trụ, tẫn hữu kỉ phân thố ngã' 他見拿我不住, 儘有幾分醋我 (Đệ nhị thập lục hồi) Ông ta thấy chèn ta không được, cũng có phần nể sợ ta.",
+                "(Động) Ghen ghét, đố kị. ◇Hồng Lâu Mộng 紅樓夢: 'Nhân thử Giả Thụy, Kim Vinh đẳng nhất can nhân, dã chánh thố đố tha lưỡng cá' 因此賈瑞, 金榮等一干人, 也正醋妒他兩個 (Đệ cửu hồi) Vì thế cả Giả Thụy lẫn Kim Vinh đều ghét sẵn hai đứa này.",
+                "Một âm là 'tạc'. (Động) § Thông 'tạc' 酢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giấm.",
+                "Tục gọi các sự ganh ghét là hữu thố ý 有醋意. Sách Tục Văn Hiến Thông Khảo nói con sư tử mỗi ngày ăn hết một bình giấm, nói ví như đàn bà ghen, vì thế đời sau mới gọi đàn bà ghen là sư tử."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giấm: 白醋 Giấm trắng, giấm thanh; 蒜醋 Giấm tỏi;",
+                "Ghen: 吃醋 Ghen, ghen tuông, hay ghen; 有醋Ghen ghét."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giấm, tức chất chua để làm đồ gia vị — Chỉ sự ghen tuông — Xem Tạc."
+            ],
+            "compound_words": {
+                "窮醋大": "cùng thố đại",
+                "吃醋": "ngật thố"
+            }
+        },
+        "tạc": {
+            "Từ điển trích dẫn": [
+                "(Danh) Giấm. ◎Như: 'mễ thố' 米醋 giấm gạo.",
+                "(Danh) Lòng ghen ghét. ◎Như: 'thố ý' 醋意 lòng ganh ghét. § Sách Tục Văn Hiến Thông Khảo nói con sư tử mỗi ngày ăn hết một bình giấm, nói ví như đàn bà ghen, vì thế đời sau mới gọi đàn bà ghen là sư tử.",
+                "(Động) Sợ. ◇Tây du kí 西遊記: 'Tha kiến nã ngã bất trụ, tẫn hữu kỉ phân thố ngã' 他見拿我不住, 儘有幾分醋我 (Đệ nhị thập lục hồi) Ông ta thấy chèn ta không được, cũng có phần nể sợ ta.",
+                "(Động) Ghen ghét, đố kị. ◇Hồng Lâu Mộng 紅樓夢: 'Nhân thử Giả Thụy, Kim Vinh đẳng nhất can nhân, dã chánh thố đố tha lưỡng cá' 因此賈瑞, 金榮等一干人, 也正醋妒他兩個 (Đệ cửu hồi) Vì thế cả Giả Thụy lẫn Kim Vinh đều ghét sẵn hai đứa này.",
+                "Một âm là 'tạc'. (Động) § Thông 'tạc' 酢."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tạc 酢 — Một âm khác là Thố."
+            ]
+        }
+    }
+}

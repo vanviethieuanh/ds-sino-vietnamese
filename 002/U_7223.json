@@ -1,0 +1,63 @@
+{
+    "character": "爣",
+    "details": {
+        "Âm Hán Việt": [
+            "lãng",
+            "thảng"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "hoả 火 (+20 nét)"
+        ],
+        "Hình thái": [
+            "⿰火黨"
+        ],
+        "Nét bút": [
+            "丶ノノ丶丨丶ノ丶フ丨フ一丨フ丶ノ一丨一一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "FFBF (火火月火)"
+        ],
+        "Unicode": [
+            "U+7223"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tǎng ㄊㄤˇ"
+        ],
+        "Âm Quảng Đông": [
+            "tong2"
+        ]
+    },
+    "meanings": {
+        "lãng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Lãng 烺."
+            ],
+            "compound_words": {
+                "爣烺": "thảng lãng"
+            }
+        },
+        "thảng": {
+            "Từ điển phổ thông": [
+                "(xem: thảng lãng 爣烺)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 烺."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa sáng rực."
+            ],
+            "compound_words": {
+                "爣烺": "thảng lãng"
+            }
+        }
+    }
+}

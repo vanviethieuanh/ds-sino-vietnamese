@@ -1,0 +1,62 @@
+{
+    "character": "唌",
+    "details": {
+        "Âm Hán Việt": [
+            "duyên",
+            "tiên"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口延"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "RNKM (口弓大一)"
+        ],
+        "Unicode": [
+            "U+550C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "タン (tan)",
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なげ.く (nage.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "jin4"
+        ]
+    },
+    "meanings": {
+        "duyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bọt nước — Nước miếng. Nước bọt — Đáng lẽ đọc Tiên."
+            ],
+            "compound_words": {
+                "唌唌": "duyên duyên"
+            }
+        },
+        "tiên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước bọt. Nước miếng. Nước dãi."
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "character": "寿",
+    "details": {
+        "Âm Hán Việt": [
+            "thọ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thốn 寸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "一一一ノ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "QKDI (手大木戈)"
+        ],
+        "Unicode": [
+            "U+5BFF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shòu ㄕㄡˋ"
+        ],
+        "Âm Nôm": [
+            "thọ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)",
+            "ス (su)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ことぶき (kotobuki)",
+            "ことぶ.く (kotobu.ku)",
+            "ことほ.ぐ (kotoho.gu)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau6"
+        ]
+    },
+    "meanings": {
+        "thọ": {
+            "Từ điển phổ thông": [
+                "thọ, sống lâu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 壽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 壽"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết giản dị của chữ Thọ 夀."
+            ],
+            "compound_words": {
+                "拜寿": "bái thọ",
+                "灵寿": "linh thọ",
+                "寿桃": "thọ đào",
+                "寿礼": "thọ lễ",
+                "寿材": "thọ tài",
+                "寿星": "thọ tinh",
+                "寿衣": "thọ y"
+            }
+        }
+    }
+}

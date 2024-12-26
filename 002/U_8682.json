@@ -1,0 +1,67 @@
+{
+    "character": "蚂",
+    "details": {
+        "Âm Hán Việt": [
+            "mã"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "trùng 虫 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫马"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶フフ一"
+        ],
+        "Thương Hiệt": [
+            "LINVM (中戈弓女一)"
+        ],
+        "Unicode": [
+            "U+8682"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ",
+            "mǎ ㄇㄚˇ",
+            "mà ㄇㄚˋ"
+        ],
+        "Âm Nôm": [
+            "mã"
+        ],
+        "Âm Quảng Đông": [
+            "maa1",
+            "maa5",
+            "maa6"
+        ]
+    },
+    "meanings": {
+        "mã": {
+            "Từ điển phổ thông": [
+                "(xem: mã hoàng 螞蟥)",
+                "(xem: mã nghĩ 螞蟻)",
+                "con nhặng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 螞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 螞"
+            ],
+            "compound_words": {
+                "蚂蟥": "mã hoàng",
+                "蚂蚁": "mã nghĩ"
+            }
+        }
+    }
+}

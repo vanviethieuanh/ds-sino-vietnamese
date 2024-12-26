@@ -1,0 +1,91 @@
+{
+    "character": "拯",
+    "details": {
+        "Âm Hán Việt": [
+            "chủng",
+            "chửng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘丞"
+        ],
+        "Nét bút": [
+            "一丨一フ丨フノ丶一"
+        ],
+        "Thương Hiệt": [
+            "QNEM (手弓水一)"
+        ],
+        "Unicode": [
+            "U+62EF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhěng ㄓㄥˇ"
+        ],
+        "Âm Nôm": [
+            "chặn",
+            "chẳng",
+            "chẩng",
+            "chửng",
+            "giẩng",
+            "xửng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すく.う (suku.u)"
+        ],
+        "Âm Hàn": [
+            "증"
+        ],
+        "Âm Quảng Đông": [
+            "cing2"
+        ]
+    },
+    "meanings": {
+        "chủng": {
+            "Từ điển phổ thông": [
+                "cứu vớt"
+            ],
+            "compound_words": {
+                "拯救": "chủng cứu"
+            }
+        },
+        "chửng": {
+            "Từ điển trích dẫn": [
+                "(Động) Cứu vớt, cứu trợ. ◇Vương Sung 王充: 'Tỉnh xuất thủy dĩ cứu khát, điền xuất cốc dĩ chửng cơ' 井出水以救渴, 田出穀以拯饑 (Luận hành 論衡) Giếng cho nước để cứu khát, ruộng cho thóc lúa để cứu đói.",
+                "(Động) Giơ lên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cứu vớt, lấy tay cứu vớt người bị chìm đắm lên gọi là chửng.",
+                "Giơ lên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cứu, cứu vớt: 拯民於水火之中 Cứu dân trong cảnh nước sôi lửa bỏng;",
+                "(văn) Giơ lên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nâng lên. Đưa lên — Giúp đỡ. Cứu giúp."
+            ],
+            "compound_words": {
+                "拯救": "chửng cứu",
+                "拯溺": "chửng nịch"
+            }
+        }
+    }
+}

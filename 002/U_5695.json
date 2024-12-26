@@ -1,0 +1,94 @@
+{
+    "character": "嚕",
+    "details": {
+        "Âm Hán Việt": [
+            "lỗ",
+            "rô"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "khẩu 口 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口魯"
+        ],
+        "Nét bút": [
+            "丨フ一ノフ丨フ一丨一丶丶丶丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "RNWA (口弓田日)"
+        ],
+        "Unicode": [
+            "U+5695"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lū ㄌㄨ"
+        ],
+        "Âm Nôm": [
+            "lỗ",
+            "ruả",
+            "sủa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かた.る (kata.ru)",
+            "へつら.う (hetsura.u)"
+        ],
+        "Âm Quảng Đông": [
+            "lou1"
+        ]
+    },
+    "meanings": {
+        "lỗ": {
+            "Từ điển phổ thông": [
+                "nói lắm, nói nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) § Xem 'lỗ tô' 嚕囌.",
+                "(Động) § Xem 'lí lỗ' 哩嚕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tục gọi người nói nhiều là lỗ tô 嚕囌.",
+                "Cũng đọc là chữ rô, trong thần chú tiếng Phạm hay có."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【嚕蘇】 lỗ tô [lusu] (đph) Lải nhải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói nhiều. Lắm lời. Cũng gọi là Lỗ tô 嚕囌."
+            ],
+            "compound_words": {
+                "咕嚕": "cô lỗ",
+                "嘰哩咕嚕": "ki lí cô lỗ",
+                "哩嚕": "lí lỗ",
+                "嚕囌": "lỗ tô",
+                "嚕蘇": "lỗ tô"
+            }
+        },
+        "rô": {
+            "Từ điển phổ thông": [
+                "(xem: tô rô 囌嚕)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tục gọi người nói nhiều là lỗ tô 嚕囌.",
+                "Cũng đọc là chữ rô, trong thần chú tiếng Phạm hay có."
+            ],
+            "compound_words": {
+                "囌嚕": "tô rô"
+            }
+        }
+    }
+}

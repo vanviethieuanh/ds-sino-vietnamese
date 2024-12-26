@@ -1,0 +1,92 @@
+{
+    "character": "咖",
+    "details": {
+        "Âm Hán Việt": [
+            "ca",
+            "gia",
+            "già"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口加"
+        ],
+        "Nét bút": [
+            "丨フ一フノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RKSR (口大尸口)"
+        ],
+        "Unicode": [
+            "U+5496"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gā ㄍㄚ",
+            "kā ㄎㄚ"
+        ],
+        "Âm Nôm": [
+            "cà",
+            "gia"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa1",
+            "gaa3",
+            "kaa1"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển Trần Văn Chánh": [
+                "【咖啡】ca phi [kafei] Cà phê. Xem 咖 [ga]."
+            ],
+            "compound_words": {
+                "咖啡": "ca phê"
+            }
+        },
+        "gia": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Gia phi 咖啡."
+            ],
+            "compound_words": {
+                "咖啡": "gia phi"
+            }
+        },
+        "già": {
+            "Từ điển phổ thông": [
+                "(xem: già phê 咖啡)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Ca phê” 咖啡 cà phê (tiếng Anh: coffee)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Già phê 咖啡 cây cà phê."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【咖啡】ca phi [kafei] Cà phê. Xem 咖 [ga]."
+            ],
+            "compound_words": {
+                "咖喱": "già ly",
+                "咖啡": "già phê"
+            }
+        }
+    }
+}

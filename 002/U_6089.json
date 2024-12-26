@@ -1,0 +1,95 @@
+{
+    "character": "悉",
+    "details": {
+        "Âm Hán Việt": [
+            "tất"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱釆心"
+        ],
+        "Nét bút": [
+            "ノ丶ノ一丨ノ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "HDP (竹木心)"
+        ],
+        "Unicode": [
+            "U+6089"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "dứt",
+            "tạt",
+            "tắt",
+            "tất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)",
+            "シチ (shichi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.きる (tsu.kiru)",
+            "ことごと (kotogoto)",
+            "ことごと.く (kotogoto.ku)",
+            "つ.くす (tsu.kusu)",
+            "つぶさ.に (tsubusa.ni)"
+        ],
+        "Âm Hàn": [
+            "실"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "tất": {
+            "Từ điển phổ thông": [
+                "hết cả, tất thảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tường tận, rõ ràng đầy đủ. ◎Như: 'tường tất' 詳悉 rõ ràng hết cả. ◇Liêu trai chí dị 聊齋志異: 'Ngôn nữ đại quy nhật, tái tiếu nhật cập sanh tử niên nguyệt, lịch lịch thậm tất' 言女大歸日, 再醮日及生子年月, 歷歷甚悉 (Nhạc Trọng 樂仲) Nói ngày con gái bị chồng ruồng bỏ, ngày tái giá cho tới năm tháng sinh của con, rành mạch rõ ràng.",
+                "(Phó) Đều, hết, hết thảy. ◎Như: 'tất dẫn binh độ hà' 悉引兵渡河 đều dẫn binh sang sông, 'giai tất cụ túc' 皆悉具足 thảy đều đầy đủ.",
+                "(Động) Tính hết, gồm tất cả. ◇Chiến quốc sách 戰國策: 'Liệu đại vương chi tốt, tất chi bất quá tam thập vạn' 料大王之卒, 悉之不過三十萬 (Hàn sách nhất 韓策一) Liệu quân của đại vương, tổng cộng không quá ba mươi vạn.",
+                "(Động) Biết, rõ, hiểu. ◎Như: 'đỗng tất' 洞悉 hiểu thấu, 'thục tất' 熟悉 quen biết.",
+                "(Danh) Họ 'Tất'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Biết hết, như tường tất 詳悉 tường hết.",
+                "Ðều, hết, như tất dẫn binh độ hà 悉引兵渡河 đều dẫn binh sang sông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Biết, rõ, hiểu: 得悉 一切 Được biết mọi việc; 熟悉此事 Am hiểu việc này;",
+                "(văn) Kể lại hết, biết hết: 書不能悉意 Thư không thể kể lại hết ý (Tư Mã Thiên: Báo Nhiệm Thiếu Khanh thư); 丞相亮其悉朕意 Thừa tướng Lượng có lẽ đã biết hết ý trẫm (Tam quốc chí);",
+                "Tất cả, đầy đủ, toàn bộ, hết thảy, hết: 齊悉複得其故城 Tề đã lấy lại được tất cả những thành cũ của mình (Sử kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Biết. Biết rõ — Gồm hết. Ta thường nói Tất cả — Đều, cùng."
+            ],
+            "compound_words": {
+                "周悉": "chu tất",
+                "据悉": "cứ tất",
+                "據悉": "cứ tất",
+                "悉尼": "tất ni",
+                "悉心": "tất tâm",
+                "熟悉": "thục tất"
+            }
+        }
+    }
+}

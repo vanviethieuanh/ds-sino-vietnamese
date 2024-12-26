@@ -1,0 +1,75 @@
+{
+    "character": "蒟",
+    "details": {
+        "Âm Hán Việt": [
+            "củ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹竘"
+        ],
+        "Nét bút": [
+            "一丨丨丶一丶ノ一ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TYTR (廿卜廿口)"
+        ],
+        "Unicode": [
+            "U+849F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jǔ ㄐㄩˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)",
+            "ク (ku)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "geoi2",
+            "lau1"
+        ]
+    },
+    "meanings": {
+        "củ": {
+            "Từ điển phổ thông": [
+                "(xem: củ tương 蒟醬,蒟酱)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Củ nhược' 蒟蒻 một thứ cỏ, rễ rất mềm, vứt vỏ đi, cho nước tro vào đun sôi năm sáu lượt, rót từng mảng như mỡ, dùng làm đồ ăn.",
+                "(Danh) 'Củ tương' 蒟醬 cây trầu không."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Củ nhược 蒟蒻 một thứ cỏ, rễ rất mềm, vứt vỏ đi, cho nước tro vào đun sôi năm sáu lượt, rót từng mảng như mỡ, dùng làm đồ ăn.",
+                "Củ tương 蒟醬 cây trầu không."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蒟醬】củ tương [jư jiàng] (thực) Cây trầu không."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Củ tương 蒟醬: Một loại cây có hạt cây, thuộc giống Hồ tiêu."
+            ],
+            "compound_words": {
+                "蒟蒻": "củ nhược",
+                "蒟酱": "củ tương",
+                "蒟醬": "củ tương"
+            }
+        }
+    }
+}

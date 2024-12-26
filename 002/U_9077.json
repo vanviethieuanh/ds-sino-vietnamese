@@ -1,0 +1,92 @@
+{
+    "character": "遷",
+    "details": {
+        "Âm Hán Việt": [
+            "thiên"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "sước 辵 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶⿳⻃大巳"
+        ],
+        "Nét bút": [
+            "一丨フ丨丨一一ノ丶フ一フ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YMWU (卜一田山)"
+        ],
+        "Unicode": [
+            "U+9077"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "thiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつ.る (utsu.ru)",
+            "うつ.す (utsu.su)",
+            "みやこがえ (miyakogae)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cin1"
+        ]
+    },
+    "meanings": {
+        "thiên": {
+            "Từ điển phổ thông": [
+                "thay đổi",
+                "di dời"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dời, chuyển. ◎Như: 'kiều thiên' 喬遷 dời nhà đi ở chỗ khác, 'thiên đô' 遷都 dời đô.",
+                "(Động) Đổi quan. ◎Như: 'tả thiên' 左遷 bị giáng chức.",
+                "(Động) Biến đổi. ◎Như: 'kiến dị tư thiên' 見異思遷 thấy lạ nghĩ đổi khác, 'thiên thiện' 遷善 đổi lỗi sửa lại nết hay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dời. Dời nhà đi ở chỗ khác gọi là kiều thiên 喬遷. Dời kinh đô đi chỗ khác gọi là thiên đô 遷都.",
+                "Ðổi quan, quan bị giáng chức xuống gọi là tả thiên 左遷.",
+                "Biến đổi. Như kiến dị tư thiên 見異思遷 thấy lạ nghĩ đổi khác. Đổi lỗi sửa lại nết hay gọi là thiên thiện 遷善."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dời (đi), dọn: 遷都 Dời đô;",
+                "Thay đổi, biến đổi: 時過境遷 Năm tháng trôi qua, hoàn cảnh thay đổi;",
+                "Đổi đi, thuyên chuyển (quan lại...)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dời chỗ — Thay đổi. Td: Biến thiên."
+            ],
+            "compound_words": {
+                "播遷": "bá thiên",
+                "變遷": "biến thiên",
+                "逋遷": "bô thiên",
+                "超遷": "siêu thiên",
+                "事過境遷": "sự quá cảnh thiên",
+                "三遷": "tam thiên",
+                "升遷": "thăng thiên",
+                "遷居": "thiên cư",
+                "遷都": "thiên đô"
+            }
+        }
+    }
+}

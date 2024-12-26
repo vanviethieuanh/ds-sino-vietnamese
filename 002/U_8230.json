@@ -1,0 +1,60 @@
+{
+    "character": "舰",
+    "details": {
+        "Âm Hán Việt": [
+            "hạm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "chu 舟 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟见"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "HYBHU (竹卜月竹山)"
+        ],
+        "Unicode": [
+            "U+8230"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hạm"
+        ],
+        "Âm Quảng Đông": [
+            "laam6"
+        ]
+    },
+    "meanings": {
+        "hạm": {
+            "Từ điển phổ thông": [
+                "tàu chiến"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 艦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 艦"
+            ],
+            "compound_words": {
+                "兵舰": "binh hạm"
+            }
+        }
+    }
+}

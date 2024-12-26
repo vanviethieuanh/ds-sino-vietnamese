@@ -1,0 +1,95 @@
+{
+    "character": "誇",
+    "details": {
+        "Âm Hán Việt": [
+            "khoa",
+            "khoả"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言夸"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一ノ丶一一フ"
+        ],
+        "Thương Hiệt": [
+            "YRKMS (卜口大一尸)"
+        ],
+        "Unicode": [
+            "U+8A87"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kuā ㄎㄨㄚ"
+        ],
+        "Âm Nôm": [
+            "khoa",
+            "khoe",
+            "sua",
+            "thua"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほこ.る (hoko.ru)"
+        ],
+        "Âm Hàn": [
+            "과"
+        ],
+        "Âm Quảng Đông": [
+            "kwaa1"
+        ]
+    },
+    "meanings": {
+        "khoa": {
+            "Từ điển phổ thông": [
+                "khoe khoang, nói khoác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khoe khoang. ◎Như: 'khoa đại' 誇大 huênh hoang.",
+                "(Động) Khen ngợi. ◎Như: 'khoa tưởng' 誇獎 khen thưởng.",
+                "(Tính) To, thô. ◇Hán Thư 漢書: 'Thiếp khoa bố phục, lệ thực' 妾誇布服, 糲食 (Hiếu Thành Hứa hoàng hậu truyện 孝成許皇后傳) Thiếp mặc quần áo vải thô, ăn gạo xấu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoe khoang.",
+                "Nói khoác.",
+                "To lớn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khoe khoang, khoác lác, phô trương;",
+                "To lớn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói láo, không đúng sự thật — Nói quá đi, khoe khoang — To lớn."
+            ],
+            "compound_words": {
+                "矜誇": "căng khoa",
+                "誇耀": "khoa diệu",
+                "誇詡": "khoa hủ",
+                "誇贊": "khoa tán",
+                "誇張": "khoa trương"
+            }
+        },
+        "khoả": {
+            "Từ điển trích dẫn": [
+                "(Động) Khoe khoang. ◎Như: 'khoa đại' 誇大 huênh hoang.",
+                "(Động) Khen ngợi. ◎Như: 'khoa tưởng' 誇獎 khen thưởng.",
+                "(Tính) To, thô. ◇Hán Thư 漢書: 'Thiếp khoa bố phục, lệ thực' 妾誇布服, 糲食 (Hiếu Thành Hứa hoàng hậu truyện 孝成許皇后傳) Thiếp mặc quần áo vải thô, ăn gạo xấu."
+            ]
+        }
+    }
+}

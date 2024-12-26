@@ -1,0 +1,95 @@
+{
+    "character": "弦",
+    "details": {
+        "Âm Hán Việt": [
+            "huyền"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "cung 弓 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰弓玄"
+        ],
+        "Nét bút": [
+            "フ一フ丶一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "NYVI (弓卜女戈)"
+        ],
+        "Unicode": [
+            "U+5F26"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xián ㄒㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "huyền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つる (tsuru)"
+        ],
+        "Âm Hàn": [
+            "현"
+        ],
+        "Âm Quảng Đông": [
+            "jin4",
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "huyền": {
+            "Từ điển phổ thông": [
+                "dây đàn, dây cung",
+                "trăng non"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dây cung. ◇Sử Kí 史記: 'Độ bất trúng bất phát, phát tức ứng huyền nhi đảo' 度不中不發, 發即應弦而倒 (Lí tướng quân truyện 李將軍傳) Liệu không trúng thì không bắn, (hễ đã) bắn tức thì ngay (lúc buông) dây cung là (giặc) té nhào.",
+                "(Danh) Dây đàn. ◎Như: 'tranh huyền' 箏弦 dây đàn tranh.",
+                "(Danh) Đàn (nhạc khí dùng dây tơ căng để gảy hay kéo cho kêu, nay thường dùng chữ 'huyền' 絃). ◎Như: 'huyền ca bất xuyết' 弦歌不輟 đàn ca không ngừng.",
+                "(Danh) Tuần huyền. § Lúc mặt trăng mới hiện nên nửa hình như cái cung nên gọi là 'huyền'. Lịch ta chia ngày 7, 8 là 'thượng huyền' 上弦, ngày 22, 23 là 'hạ huyền' 下弦.",
+                "(Danh) Cạnh huyền (trong một tam giác vuông, cạnh huyền đối diện với góc vuông).",
+                "(Danh) Cung. § Trong môn hình học, 'huyền' 弦 là một đoạn của vòng tròn.",
+                "(Danh) Mạch huyền. § Sách thuốc nói xem mạch thấy mạch chạy găng mà mau như thể dương cung gọi là mạch huyền.",
+                "(Danh) Chỉ người vợ. § Cổ nhân ví vợ chồng như đàn cầm, đàn sắt, cho nên góa vợ gọi là 'đoạn huyền' 斷弦, lấy vợ kế gọi là 'tục huyền' 續弦.",
+                "(Động) Gảy đàn. ◇Trang Tử 莊子: 'Thượng lậu hạ thấp, khuông tọa nhi huyền' 上漏下溼, 匡坐而弦 (Nhượng vương 讓王) Trên dột dưới ướt, ngồi ngay ngắn mà gảy đàn.",
+                "(Động) Uốn cong. ◇Dịch Kinh 易經: 'Huyền mộc vi hồ, diệm mộc vi thỉ' 弦木為弧, 剡木為矢 (Hệ từ hạ 繫辭下) Uốn gỗ làm cung, đẽo gỗ làm tên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dây cung.",
+                "Ðàn, một thứ âm nhạc lấy tơ căng để gảy hay kéo cho kêu, nay thường dùng chữ huyền 絃.",
+                "Tuần huyền, lúc mặt trăng mới hiện nên nửa hình như cái cung nên gọi là huyền. Lịch ta chia ngày 7, 8 là thượng huyền 上弦, ngày 22, 23 là hạ huyền 下弦",
+                "Mạch huyền. Sách thuốc nói xem mạch thấy mạch chạy găng mà mau như thể dương cung gọi là mạch huyền.",
+                "Cổ nhân ví vợ chồng như đàn cầm, đàn sắt, cho nên goá vợ gọi là đoạn huyền 斷弦, lấy vợ kế gọi là tục huyền 續弦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 弦 (bộ 弓)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dây cung — Dây đàn — Một cung, danh từ toán học, chỉ một đoạn của đường tròn."
+            ],
+            "compound_words": {
+                "改弦更張": "cải huyền cánh trương",
+                "更弦易轍": "canh huyền dịch triệt",
+                "下弦": "hạ huyền",
+                "初弦": "sơ huyền",
+                "上弦": "thượng huyền",
+                "韋弦": "vi huyền"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "character": "檸",
+    "details": {
+        "Âm Hán Việt": [
+            "ninh",
+            "nịnh"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mộc 木 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木寧"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶丶フ丶フ丶丶丨フ丨丨一一丨"
+        ],
+        "Thương Hiệt": [
+            "DJPN (木十心弓)"
+        ],
+        "Unicode": [
+            "U+6AB8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "níng ㄋㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "nịnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネイ (nei)",
+            "ドウ (dō)"
+        ],
+        "Âm Hàn": [
+            "녕"
+        ],
+        "Âm Quảng Đông": [
+            "ling4",
+            "ning4"
+        ]
+    },
+    "meanings": {
+        "ninh": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'nịnh mông' 檸檬.",
+                "(Danh) 'Nịnh đầu' 檸頭 đầu ngoàm, đầu mộng.",
+                "§ Còn đọc là 'ninh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ninh mông 檸檬 một loài cây như cây chanh, chế ra nước uống mát gọi là ninh mông thuỷ 檸檬水 nước chanh. Nịnh đầu 檸頭 đầu ngoàm, đầu mông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chanh. 【檸檬】ninh mông [níngméng] Quả chanh, cây chanh: 檸檬水 Nước chanh; 檸檬糖 Kẹo chanh; 檸檬酸 (hoá) Axít xitric."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ninh mông 檸檬: Cây chanh."
+            ]
+        },
+        "nịnh": {
+            "Từ điển phổ thông": [
+                "(xem: nịnh mông 檸檬,柠檬)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'nịnh mông' 檸檬.",
+                "(Danh) 'Nịnh đầu' 檸頭 đầu ngoàm, đầu mộng.",
+                "§ Còn đọc là 'ninh'."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Ninh. Xem Ninh ( Ninh mông )."
+            ],
+            "compound_words": {
+                "檸檬": "nịnh mông"
+            }
+        }
+    }
+}

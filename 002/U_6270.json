@@ -1,0 +1,67 @@
+{
+    "character": "扰",
+    "details": {
+        "Âm Hán Việt": [
+            "nhiễu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘尤"
+        ],
+        "Nét bút": [
+            "一丨一一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "QIKU (手戈大山)"
+        ],
+        "Unicode": [
+            "U+6270"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "rǎo ㄖㄠˇ",
+            "róu ㄖㄡˊ"
+        ],
+        "Âm Nôm": [
+            "nhiễu"
+        ],
+        "Âm Quảng Đông": [
+            "jiu2",
+            "jiu5"
+        ]
+    },
+    "meanings": {
+        "nhiễu": {
+            "Từ điển phổ thông": [
+                "làm phiền, quấy rầy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擾"
+            ],
+            "compound_words": {
+                "干扰": "can nhiễu",
+                "打扰": "đả nhiễu",
+                "搅扰": "giảo nhiễu",
+                "困扰": "khốn nhiễu",
+                "扰乱": "nhiễu loạn",
+                "侵扰": "xâm nhiễu"
+            }
+        }
+    }
+}

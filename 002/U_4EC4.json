@@ -1,0 +1,89 @@
+{
+    "character": "仄",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhân 人 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸厂人"
+        ],
+        "Nét bút": [
+            "一ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "MO (一人)"
+        ],
+        "Unicode": [
+            "U+4EC4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zè ㄗㄜˋ"
+        ],
+        "Âm Nôm": [
+            "trắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほの.か (hono.ka)",
+            "ほの- (hono-)",
+            "ほの.めかす (hono.mekasu)",
+            "ほの.めく (hono.meku)",
+            "かたむ.く (katamu.ku)"
+        ],
+        "Âm Hàn": [
+            "측"
+        ],
+        "Âm Quảng Đông": [
+            "zak1"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "nghiêng ngả",
+                "âm trắc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghiêng. § Thông 'trắc' 側. ◇Quản Tử 管子: 'Nhật cực tắc trắc, nguyệt mãn tắc khuy' 日極則仄, 月滿則虧 (Bạch tâm 白心) Mặt trời đến chỗ cực thì nghiêng, mặt trăng đầy thì vơi.",
+                "(Tính) Chật, hẹp. ◎Như: 'hiệp trắc' 狹仄 chật hẹp, 'trắc lộ' 仄路 đường hẹp. ◇Hán Thư 漢書: 'Hiểm đạo khuynh trắc, thả trì thả xạ' 險道傾仄, 且馳且射 (Trào Thác truyện 鼂錯傳) Đường hiểm trở nghiêng hẹp, vừa chạy vừa bắn.",
+                "(Tính) Áy náy, trong lòng không yên. ◇Hồng Lâu Mộng 紅樓夢: 'Trung hoài khiểm trắc, tự thán vô duyên' 衷懷歉仄, 自歎無緣 (Đệ cửu thập cửu hồi) Lòng dạ băn khoăn, tự than thở không có duyên (gặp gỡ).",
+                "(Danh) Tiếng 'trắc' 仄 (gồm ba thanh: 'thượng, khứ, nhập' 上, 去, 入). Đối lại với tiếng 'bình' 平 bằng. ◇Hồng Lâu Mộng 紅樓夢: 'Thập ma nan sự, dã trị đắc khứ học! Bất quá thị khởi, thừa, chuyển, hợp, đương trung thừa, chuyển thị lưỡng phó đối tử, bình thanh đối trắc thanh, hư đích đối hư đích, thật đích đối thật đích' 什麼難事, 也值得去學! 不過是起, 承, 轉, 合, 當中承, 轉是兩副對子, 平聲對仄聲, 虛的對虛的, 實的對實的 (Đệ tứ thập bát hồi) (Làm thơ) có gì khó mà phải học? Chẳng qua chỉ có khai, thừa, chuyển, hợp, trong đó thừa và chuyển đều là hai vế đối nhau, tiếng bằng đối với tiếng trắc, hư đối với hư, thực đối với thực."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghiêng, như phản trắc 反仄 nghiêng ngửa, tráo trở.",
+                "Tiếng trắc, đối lại với tiếng bằng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hẹp, chật, chật hẹp: 偏仄 Chật hẹp;",
+                "Nghiêng: 日極則仄, 月滿則虧 Mặt trời đến chỗ cực thì nghiêng, mặt trăng đầy thì vơi (Quản tử);",
+                "Trong lòng áy náy;",
+                "Bên (dùng như 側): 昆山之仄 Bên núi Côn Sơn (Hán thư);",
+                "【仄聲】trắc thanh [zèsheng] Tiếng trắc, âm trắc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghiêng, lệch qua một bên — Nhỏ hẹp. Chật — Một thanh trong tiếng Trung Hoa, gồm chung các thanh Thượng, Khứ, Nhạp — Một thanh trong tiếng Việt Nam, chỉ chung những chữ mang các dấu Sắc, Hỏi, Ngã, Nặng."
+            ],
+            "compound_words": {
+                "平仄": "bình trắc",
+                "反仄": "phản trắc"
+            }
+        }
+    }
+}

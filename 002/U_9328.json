@@ -1,0 +1,77 @@
+{
+    "character": "錨",
+    "details": {
+        "Âm Hán Việt": [
+            "miêu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金苗"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨丨丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "CTW (金廿田)"
+        ],
+        "Unicode": [
+            "U+9328"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "máo ㄇㄠˊ"
+        ],
+        "Âm Nôm": [
+            "miêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いかり (ikari)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "maau4",
+            "naau4"
+        ]
+    },
+    "meanings": {
+        "miêu": {
+            "Từ điển phổ thông": [
+                "cái mỏ neo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Mỏ neo (để cắm giữ thuyền, tàu)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái mỏ neo để cắm thuyền tàu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mỏ neo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái neo sắt, để ngừng thuyền."
+            ],
+            "compound_words": {
+                "拔錨": "bạt miêu"
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "character": "跶",
+    "details": {
+        "Âm Hán Việt": [
+            "thát",
+            "đáp"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "túc 足 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊达"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一一ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "RMYK (口一卜大)"
+        ],
+        "Unicode": [
+            "U+8DF6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dā ㄉㄚ"
+        ],
+        "Âm Quảng Đông": [
+            "taat3"
+        ]
+    },
+    "meanings": {
+        "thát": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 躂"
+            ]
+        },
+        "đáp": {
+            "Từ điển phổ thông": [
+                "(xem: bính đáp 蹦躂,蹦跶)",
+                "(xem: lựu đáp 蹓躂,蹓跶)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 躂"
+            ],
+            "compound_words": {
+                "蹦跶": "bính đáp",
+                "蹓跶": "lựu đáp"
+            }
+        }
+    }
+}

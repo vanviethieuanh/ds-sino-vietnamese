@@ -1,0 +1,119 @@
+{
+    "character": "刀",
+    "details": {
+        "Âm Hán Việt": [
+            "đao"
+        ],
+        "Tổng nét": [
+            "2"
+        ],
+        "Bộ": [
+            "đao 刀 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フノ"
+        ],
+        "Thương Hiệt": [
+            "SH (尸竹)"
+        ],
+        "Unicode": [
+            "U+5200"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dāo ㄉㄠ"
+        ],
+        "Âm Nôm": [
+            "dao",
+            "đao",
+            "đeo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かたな (katana)",
+            "そり (sori)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou1"
+        ]
+    },
+    "meanings": {
+        "đao": {
+            "Từ điển phổ thông": [
+                "con dao, cái đao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đao (vũ khí để chém giết). ◎Như: 'đại đao' 大刀, 'bảo đao' 寶刀.",
+                "(Danh) Dao, công cụ dùng để cắt, khắc, chặt, ... ◎Như: 'liêm đao' 鐮刀 cái liềm, 'tiễn đao' 剪刀 cái kéo.",
+                "(Danh) Tiền thời xưa. § Ngày xưa có thứ tiền hình như con dao nên gọi là 'đao'.",
+                "(Danh) Lượng từ: (1) Miếng cắt. ◎Như: 'lão đồ hộ tại na khối trư nhục thượng hoạch liễu kỉ đao' 老屠戶在那塊豬肉上劃了幾刀 ông đồ tể rạch khối thịt heo ra làm mấy miếng. (2) Thếp, tập, một trăm trang giấy là một 'đao'. ◎Như: 'nhất đao chỉ' 一刀紙 một thếp giấy.",
+                "(Danh) Chiếc thuyền con. § Thông 'đao' 舠. ◇Thi Kinh 詩經: 'Thùy vị Hà quảng, Tằng bất dong đao?' 誰謂河廣, 曾不容刀 (Vệ phong 衛風, Hà quảng 河廣) Ai bảo sông Hoàng Hà là rộng, Đã từng không chứa chiếc thuyền nhỏ?",
+                "(Danh) Họ 'Đao'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con dao.",
+                "Tiền, thứ tiền ngày xưa hình như con dao nên gọi là đao."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dao, đao: 一把刀 Một con dao;",
+                "Thếp, tập: 兩刀紙 Hai thếp giấy, hai tập giấy;",
+                "Tiền (tiền hình cây đao thời xưa);",
+                "[Dao] (Họ) Đao."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con dao — Tên một thứ binh khí thời xưa, giống con dao lớn, có cán ngắn hoặc dài — Tên một loại tiền thời cổ — Chiếc thuyền nhỏ ( hình dáng như lưỡi dao ) — Tên một bộ trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "歐刀": "âu đao",
+                "寶刀": "bảo đao",
+                "冰刀": "băng đao",
+                "佩刀": "bội đao",
+                "割雞焉用牛刀": "cát kê yên dụng ngưu đao",
+                "鼓刀": "cổ đao",
+                "舉刀": "cử đao",
+                "鉛刀": "duyên đao",
+                "拖刀": "đà đao",
+                "大刀": "đại đao",
+                "大刀闊斧": "đại đao khoát phủ",
+                "刀兵": "đao binh",
+                "刀錐": "đao truỳ",
+                "刀叶": "đao diệp",
+                "刀葉": "đao diệp",
+                "刀劍": "đao kiếm",
+                "刀斧": "đao phủ",
+                "刀斧手": "đao phủ thủ",
+                "刀傷": "đao thương",
+                "刀叉": "đao xoa",
+                "短刀": "đoản đao",
+                "快刀": "khoái đao",
+                "吃刀": "ngật đao",
+                "牛刀": "ngưu đao",
+                "朴刀": "phác đao",
+                "飛刀": "phi đao",
+                "決刀": "quyết đao",
+                "超刀": "siêu đao",
+                "雙刀": "song đao",
+                "劑刀": "tề đao",
+                "剃刀": "thế đao",
+                "韶刀": "thiều đao",
+                "剪刀": "tiễn đao",
+                "銼刀": "toà đao",
+                "偃月刀": "yển nguyệt đao",
+                "腰刀": "yêu đao"
+            }
+        }
+    }
+}

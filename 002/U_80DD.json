@@ -1,0 +1,101 @@
+{
+    "character": "胝",
+    "details": {
+        "Âm Hán Việt": [
+            "chi",
+            "tri",
+            "đê"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月氐"
+        ],
+        "Nét bút": [
+            "ノフ一一ノフ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "BHPM (月竹心一)"
+        ],
+        "Unicode": [
+            "U+80DD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chī ㄔ",
+            "dì ㄉㄧˋ",
+            "zhī ㄓ"
+        ],
+        "Âm Nôm": [
+            "chi",
+            "đì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あかぎれ (akagire)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "dai1",
+            "zi1"
+        ]
+    },
+    "meanings": {
+        "chi": {
+            "Từ điển phổ thông": [
+                "(xem: biền chi 胼胝)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Da chai cứng trên tay chân (vì bị mài xát). ◎Như: 'thủ túc biền chi' 手足腁胝 chân tay chai cứng.",
+                "§ Theo Khang Hi Tự Điển: 'trúc ni thiết' 竹尼切, âm 'tri'; 'chỉ nhi thiết' 旨而切, âm 'chi'. Ta quen đọc là 'đê'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Biền chi 胼胝 da dày, chai. Như thủ túc biền chi 手足胼胝 chân tay chai cộp, nghĩa là làm ăn vất vả da chân da tay thành chai ra. Ta quen đọc là chữ đê."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỗ bị chai trên tay hoặc chân. Xem 胼胝 [piánzhi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chai. Chỗ da dầy cứng lên ở tay chân."
+            ],
+            "compound_words": {
+                "胼胝": "biền chi",
+                "骿胝": "biền chi"
+            }
+        },
+        "tri": {
+            "Từ điển trích dẫn": [
+                "(Danh) Da chai cứng trên tay chân (vì bị mài xát). ◎Như: 'thủ túc biền chi' 手足腁胝 chân tay chai cứng.",
+                "§ Theo Khang Hi Tự Điển: 'trúc ni thiết' 竹尼切, âm 'tri'; 'chỉ nhi thiết' 旨而切, âm 'chi'. Ta quen đọc là 'đê'."
+            ]
+        },
+        "đê": {
+            "Từ điển trích dẫn": [
+                "(Danh) Da chai cứng trên tay chân (vì bị mài xát). ◎Như: 'thủ túc biền chi' 手足腁胝 chân tay chai cứng.",
+                "§ Theo Khang Hi Tự Điển: 'trúc ni thiết' 竹尼切, âm 'tri'; 'chỉ nhi thiết' 旨而切, âm 'chi'. Ta quen đọc là 'đê'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Biền chi 胼胝 da dày, chai. Như thủ túc biền chi 手足胼胝 chân tay chai cộp, nghĩa là làm ăn vất vả da chân da tay thành chai ra. Ta quen đọc là chữ đê."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỗ bị chai trên tay hoặc chân. Xem 胼胝 [piánzhi]."
+            ]
+        }
+    }
+}

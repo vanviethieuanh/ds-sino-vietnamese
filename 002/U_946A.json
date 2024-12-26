@@ -1,0 +1,84 @@
+{
+    "character": "鑪",
+    "details": {
+        "Âm Hán Việt": [
+            "lô",
+            "lư"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "kim 金 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金盧"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨一フノ一フ丨フ一丨一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "CYPT (金卜心廿)"
+        ],
+        "Unicode": [
+            "U+946A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lô",
+            "lư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いろり (irori)"
+        ],
+        "Âm Hàn": [
+            "로"
+        ],
+        "Âm Quảng Đông": [
+            "lou4",
+            "lou5"
+        ]
+    },
+    "meanings": {
+        "lô": {
+            "Từ điển phổ thông": [
+                "lò lửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lò lửa. § Thông 'lô' 爐.",
+                "(Danh) Đài rượu dựng ở trước tiệm bán rượu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái hoả lò, bếp lò. Có khi viết là lô 爐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 爐 (bộ 火)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lò đốt lửa, đốt than — Quán rượu."
+            ],
+            "compound_words": {
+                "鑪捶": "lô chuỷ"
+            }
+        },
+        "lư": {
+            "Từ điển phổ thông": [
+                "lò lửa"
+            ]
+        }
+    }
+}

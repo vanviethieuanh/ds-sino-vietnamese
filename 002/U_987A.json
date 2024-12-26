@@ -1,0 +1,66 @@
+{
+    "character": "顺",
+    "details": {
+        "Âm Hán Việt": [
+            "thuận"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰川页"
+        ],
+        "Nét bút": [
+            "ノ丨丨一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LLLO (中中中人)"
+        ],
+        "Unicode": [
+            "U+987A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shùn ㄕㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "thuận"
+        ],
+        "Âm Quảng Đông": [
+            "seon6"
+        ]
+    },
+    "meanings": {
+        "thuận": {
+            "Từ điển phổ thông": [
+                "suôn sẻ",
+                "thuận theo, hàng phục",
+                "thuận, xuôi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 順."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 順"
+            ],
+            "compound_words": {
+                "恭顺": "cung thuận",
+                "孝顺": "hiếu thuận",
+                "归顺": "quy thuận",
+                "顺利": "thuận lợi",
+                "顺便": "thuận tiện"
+            }
+        }
+    }
+}

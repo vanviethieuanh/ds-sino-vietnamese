@@ -1,0 +1,90 @@
+{
+    "character": "倦",
+    "details": {
+        "Âm Hán Việt": [
+            "quyện"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻卷"
+        ],
+        "Nét bút": [
+            "ノ丨丶ノ一一ノ丶フフ"
+        ],
+        "Thương Hiệt": [
+            "OFQU (人火手山)"
+        ],
+        "Unicode": [
+            "U+5026"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "juàn ㄐㄩㄢˋ"
+        ],
+        "Âm Nôm": [
+            "cuộn",
+            "quyện"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あき.る (aki.ru)",
+            "あぐ.む (agu.mu)",
+            "あぐ.ねる (agu.neru)",
+            "う.む (u.mu)",
+            "つか.れる (tsuka.reru)"
+        ],
+        "Âm Hàn": [
+            "권"
+        ],
+        "Âm Quảng Đông": [
+            "gyun6"
+        ]
+    },
+    "meanings": {
+        "quyện": {
+            "Từ điển phổ thông": [
+                "mệt mỏi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Mỏi mệt. ◎Như: 'quyện điểu quy sào' 倦鳥歸巢 chim mỏi bay về tổ. ◇Nguyễn Du 阮攸: 'Đồ trường tê quyện mã' 途長嘶倦馬 (Hà Nam đạo trung khốc thử 河南道中酷暑) Đường dài, ngựa mệt hí vang.",
+                "(Tính) Suy kém. ◇Tam quốc chí 三國志: 'Hành niên bát thập, chí khí suy quyện' 行年八十, 志氣衰倦 (Quản Ninh truyện 管寧傳).",
+                "(Động) Chán nản, chán ghét. ◇Dịch Kinh 易經: 'Thần Nông thị một, Hoàng Đế, Nghiêu, Thuấn thị tác, thông kì biến, sử dân bất quyện' 神農氏沒, 黃帝, 堯, 舜氏作, 通其變, 使民不倦 (Hệ từ hạ 繫辭下) Họ Thần Nông mất, các họ Hoàng Đế, Nghiêu, Thuấn nổi lên tiếp tục chuyển khắp các biến đổi, làm cho dân không chán nản.",
+                "(Động) Cuộn lại, cuốn lại. § Thông 捲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mỏi mệt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mệt, mỏi: 疲倦 Mệt mỏi; 誨人不倦 Dạy người không biết mỏi (Luận ngữ);",
+                "Chán: 壓倦 Chán nản."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mệt mỏi — Chán chường."
+            ],
+            "compound_words": {
+                "不倦": "bất quyện",
+                "疲倦": "bì quyện",
+                "倦勤": "quyện cần",
+                "倦遊": "quyện du",
+                "倦飛鳥": "quyện phi điểu",
+                "厌倦": "yếm quyện",
+                "厭倦": "yếm quyện"
+            }
+        }
+    }
+}

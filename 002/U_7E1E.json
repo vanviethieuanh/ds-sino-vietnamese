@@ -1,0 +1,75 @@
+{
+    "character": "縞",
+    "details": {
+        "Âm Hán Việt": [
+            "cảo"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mịch 糸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹高"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丶一丨フ一丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "VFYRB (女火卜口月)"
+        ],
+        "Unicode": [
+            "U+7E1E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gǎo ㄍㄠˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しま (shima)",
+            "しろぎぬ (shiroginu)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "gou2"
+        ]
+    },
+    "meanings": {
+        "cảo": {
+            "Từ điển phổ thông": [
+                "tre thuộc mỏng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) The, lụa mộc, đồ dệt trắng.",
+                "(Tính) Trắng. ◎Như: 'cảo tố' 縞素 tơ trắng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① The mộc mỏng, đơn sơ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "The mộc mỏng (một loại lụa trắng thời xưa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lụa sống màu trắng."
+            ],
+            "compound_words": {
+                "縞素": "cảo tố",
+                "縞衣": "cảo y"
+            }
+        }
+    }
+}

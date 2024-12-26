@@ -1,0 +1,75 @@
+{
+    "character": "随",
+    "details": {
+        "Âm Hán Việt": [
+            "tuỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phụ 阜 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖迶"
+        ],
+        "Nét bút": [
+            "フ丨一ノ丨フ一一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "NLYKB (弓中卜大月)"
+        ],
+        "Unicode": [
+            "U+968F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "suí ㄙㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "tuỳ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ズイ (zui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まにま.に (manima.ni)",
+            "したが.う (shitaga.u)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4"
+        ]
+    },
+    "meanings": {
+        "tuỳ": {
+            "Từ điển phổ thông": [
+                "tuỳ theo",
+                "đời nhà Tuỳ"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'tùy' 隨.",
+                "Giản thể của chữ 隨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ tùy 隨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 隨"
+            ],
+            "compound_words": {
+                "伴随": "bạn tuỳ"
+            }
+        }
+    }
+}

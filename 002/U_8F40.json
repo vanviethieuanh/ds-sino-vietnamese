@@ -1,0 +1,79 @@
+{
+    "character": "轀",
+    "details": {
+        "Âm Hán Việt": [
+            "uân",
+            "uẩn",
+            "ôn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "xa 車 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車𥁕"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨丨フノ丶一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "JJWOT (十十田人廿)"
+        ],
+        "Unicode": [
+            "U+8F40"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wēn ㄨㄣ",
+            "yūn ㄩㄣ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オン (on)",
+            "ウン (un)"
+        ],
+        "Âm Hàn": [
+            "온"
+        ],
+        "Âm Quảng Đông": [
+            "wan1"
+        ]
+    },
+    "meanings": {
+        "uân": {
+            "Từ điển phổ thông": [
+                "xe có màn che có thể nằm được",
+                "(xem: phần uân 轒轀)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【轒轀】phần uân [fényun] Xem 轒 nghĩa ②."
+            ],
+            "compound_words": {
+                "轒轀": "phần uân"
+            }
+        },
+        "uẩn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại xe có chỗ nằm."
+            ]
+        },
+        "ôn": {
+            "Từ điển phổ thông": [
+                "xe có màn che có thể nằm được",
+                "(xem: phần uân 轒轀)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xe có màn che có thể nằm được."
+            ]
+        }
+    }
+}

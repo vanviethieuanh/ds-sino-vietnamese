@@ -1,0 +1,87 @@
+{
+    "character": "厨",
+    "details": {
+        "Âm Hán Việt": [
+            "trù"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hán 厂 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厂⿰豆寸"
+        ],
+        "Nét bút": [
+            "一ノ一丨フ一丶ノ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "MMTI (一一廿戈)"
+        ],
+        "Unicode": [
+            "U+53A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chú ㄔㄨˊ"
+        ],
+        "Âm Nôm": [
+            "chù",
+            "chùa",
+            "sù",
+            "trù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)",
+            "ズ (zu)",
+            "チュ (chu)",
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くりや (kuriya)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4",
+            "cyu4"
+        ]
+    },
+    "meanings": {
+        "trù": {
+            "Từ điển phổ thông": [
+                "cái bếp",
+                "cái hòm"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'trù' 廚.",
+                "Giản thể của chữ 廚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ 廚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bếp: 帮廚 Giúp việc nhà bếp;",
+                "Rương, hòm: 書廚 Hòm sách; 衣廚 Hòm áo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Trù 廚."
+            ],
+            "compound_words": {
+                "厨房": "trù phòng",
+                "厨师": "trù sư",
+                "厨司": "trù ty"
+            }
+        }
+    }
+}

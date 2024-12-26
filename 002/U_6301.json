@@ -1,0 +1,120 @@
+{
+    "character": "持",
+    "details": {
+        "Âm Hán Việt": [
+            "trì"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘寺"
+        ],
+        "Nét bút": [
+            "一丨一一丨一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "QGDI (手土木戈)"
+        ],
+        "Unicode": [
+            "U+6301"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ"
+        ],
+        "Âm Nôm": [
+            "chày",
+            "chì",
+            "chiì",
+            "ghì",
+            "ghiì",
+            "giầy",
+            "nghỉ",
+            "trầy",
+            "trì",
+            "trờ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "も.つ (mo.tsu)",
+            "-も.ち (-mo.chi)",
+            "も.てる (mo.teru)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "trì": {
+            "Từ điển phổ thông": [
+                "cầm, giữ, nắm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cầm, nắm. ◎Như: 'trì thương' 持槍 cầm giáo, 'trì bút' 持筆 cầm bút.",
+                "(Động) Giữ gìn. ◎Như: 'bảo trì' 保持 giữ gìn, 'kiên trì' 堅持 giữ vững.",
+                "(Động) Chống giữ, đối kháng. ◎Như: 'cương trì' 僵持 chống giữ vững vàng, 'tương trì bất hạ' 相持不下 chống nhau nghiêng ngửa (sức ngang nhau).",
+                "(Động) Tì, chống. ◇Trang Tử 莊子: 'Tả thủ cứ tất, hữu thủ trì di dĩ thính' 左手據膝, 右手持頤以聽 (Ngư phủ 漁父) Tay trái vịn đầu gối, tay phải tì má để nghe.",
+                "(Động) Giúp đỡ, phù trợ. ◎Như: 'tương hỗ phù trì' 相互扶持 trợ giúp lẫn nhau.",
+                "(Động) Cai quản, lo liệu. ◎Như: 'chủ trì' 主持 quản lí, 'thao trì gia vụ' 操持家務 lo liệu việc nhà."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cầm, giữ, như trì tiết 持節 giữ tiết, thao trì 操持 giữ gìn, chủ trì 主持 chủ trương công cuộc gì. Ta gọi vị sư coi cả của chùa là trụ trì 住持 cũng là do nghĩa ấy cả. Phàm nói về chữ trì đều có ý chỉ về sự giữ chắc không rời cả. Như bảo trì 保持 giữ giàng, bả trì 把持 cầm giữ lấy, hiệp trì 挾持 cậy thế bắt buộc người phải theo mình, căng trì 矜持 cố đánh đổ cái tính xấu mà giữ lấy cái hay, bất tự trì 不自持 không có định kiến gì, phù trì 扶持 nâng đỡ, duy trì 維持 gìn giữ, chi trì 支持 chống chỏi, v.v. Hai bên ngang sức chống nhau gọi là tương trì bất hạ 相持不下."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cầm: 持筆 Cầm bút;",
+                "Giữ, giữ lấy: 保持 Giữ lấy;",
+                "Trông nom, trông coi, quản: 持家 Lo liệu việc nhà; 主持 Chủ trì;",
+                "Chống đối: 相持階段 Giai đoạn cầm cự."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nắm giữ. Xem Trì giới — Giúp đỡ. Td: Phù trì."
+            ],
+            "compound_words": {
+                "把持": "bả trì",
+                "蚌鷸相持": "bạng duật tương trì",
+                "保持": "bảo trì",
+                "各持己見": "các trì kỉ kiến",
+                "矜持": "căng trì",
+                "支持": "chi trì",
+                "主持": "chủ trì",
+                "維持": "duy trì",
+                "维持": "duy trì",
+                "度持": "độ trì",
+                "坚持": "kiên trì",
+                "堅持": "kiên trì",
+                "扶持": "phù trì",
+                "操持": "thao trì",
+                "受持": "thụ trì",
+                "持平": "trì bình",
+                "持久": "trì cửu",
+                "持家": "trì gia",
+                "持戒": "trì giới",
+                "持壺": "trì hồ",
+                "持有": "trì hữu",
+                "持身": "trì thân",
+                "持守": "trì thủ",
+                "持重": "trì trọng",
+                "持遵": "trì tuân",
+                "持續": "trì tục",
+                "持续": "trì tục"
+            }
+        }
+    }
+}

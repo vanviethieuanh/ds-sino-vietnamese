@@ -1,0 +1,101 @@
+{
+    "character": "輟",
+    "details": {
+        "Âm Hán Việt": [
+            "chuyết",
+            "xuyết"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "xa 車 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰車叕"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨フ丶フ丶フ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "JJEEE (十十水水水)"
+        ],
+        "Unicode": [
+            "U+8F1F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuò ㄔㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "chuyết",
+            "xoẹt",
+            "xuyết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テツ (tetsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.める (ya.meru)"
+        ],
+        "Âm Hàn": [
+            "철"
+        ],
+        "Âm Quảng Đông": [
+            "zyut3",
+            "zyut6"
+        ]
+    },
+    "meanings": {
+        "chuyết": {
+            "Từ điển phổ thông": [
+                "thôi, nghỉ, bỏ dở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thôi, nghỉ, dừng. ◎Như: 'trung xuyết' 中輟 bỏ dở nửa chừng. ◇Sử Kí 史記: 'Hán vương xuyết thực thổ bộ, mạ viết: Thụ nho, ki bại nhi công sự' 漢王輟食吐哺, 罵曰: 豎儒, 幾敗而公事 (Quyển ngũ thập ngũ, Lưu Hầu thế gia 留侯世家) Hán vương đang ăn ngừng lại, nhả cơm, mắng: Thằng nho sinh nhãi nhép, tí nữa làm hỏng việc của bố nó!",
+                "§ Ghi chú: Chính âm là 'chuyết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thôi, nghỉ. Làm việc nửa chừng bỏ dở gọi là trung xuyết 中輟. Chính âm là chuyết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dừng, ngừng, nghỉ, thôi: 輟演 Ngừng diễn; 中輟 Bỏ dở; 時作時輟 Lúc làm lúc nghỉ; 暫輟 Tạm dừng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngừng lại. Thôi. Chẳng hạn Chuyết canh 輟耕 ( nghỉ cày )."
+            ],
+            "compound_words": {
+                "輟耕": "chuyết canh"
+            }
+        },
+        "xuyết": {
+            "Từ điển phổ thông": [
+                "thôi, nghỉ, bỏ dở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thôi, nghỉ, dừng. ◎Như: 'trung xuyết' 中輟 bỏ dở nửa chừng. ◇Sử Kí 史記: 'Hán vương xuyết thực thổ bộ, mạ viết: Thụ nho, ki bại nhi công sự' 漢王輟食吐哺, 罵曰: 豎儒, 幾敗而公事 (Quyển ngũ thập ngũ, Lưu Hầu thế gia 留侯世家) Hán vương đang ăn ngừng lại, nhả cơm, mắng: Thằng nho sinh nhãi nhép, tí nữa làm hỏng việc của bố nó!",
+                "§ Ghi chú: Chính âm là 'chuyết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thôi, nghỉ. Làm việc nửa chừng bỏ dở gọi là trung xuyết 中輟. Chính âm là chuyết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dừng, ngừng, nghỉ, thôi: 輟演 Ngừng diễn; 中輟 Bỏ dở; 時作時輟 Lúc làm lúc nghỉ; 暫輟 Tạm dừng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thôi. Ngừng lại. Cũng đọc Chuyết."
+            ],
+            "compound_words": {
+                "不輟": "bất xuyết"
+            }
+        }
+    }
+}

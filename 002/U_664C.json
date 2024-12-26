@@ -1,0 +1,88 @@
+{
+    "character": "晌",
+    "details": {
+        "Âm Hán Việt": [
+            "hướng",
+            "thưởng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhật 日 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日向"
+        ],
+        "Nét bút": [
+            "丨フ一一ノ丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "AHBR (日竹月口)"
+        ],
+        "Unicode": [
+            "U+664C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shǎng ㄕㄤˇ"
+        ],
+        "Âm Nôm": [
+            "thưởng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まひる (mahiru)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "hoeng2"
+        ]
+    },
+    "meanings": {
+        "hướng": {
+            "Từ điển phổ thông": [
+                "ngày",
+                "buổi trưa"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lúc. Khoảng thời gian ngắn. Như chữ Hướng 饟."
+            ],
+            "compound_words": {
+                "晌午": "hướng ngọ"
+            }
+        },
+        "thưởng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Trưa, chính ngọ. ◎Như: 'thưởng ngọ' 晌午 lúc trưa. ◇Tam quốc diễn nghĩa 三國演義: 'Thứ nhật thưởng ngọ, Đổng Trác lai đáo' 次日晌午, 董卓來到 (Đệ bát hồi) Buổi trưa hôm sau, Đổng Trác đến.",
+                "(Danh) Một lát. ◎Như: 'bán thưởng' 半晌 một hồi, một lát. ◇Hồng Lâu Mộng 紅樓夢: 'Không Không đạo nhân thính như thử thuyết, tư thốn bán thưởng' 空空道人聽如此說, 思忖半晌 (Đệ nhất hồi) Không Không đạo nhân nghe nói như vậy, ngẫm nghĩ một lúc.",
+                "(Danh) Đơn vị đo diện tích đất. Về phía Đông Tam Tỉnh, nước Tàu, nói một 'thưởng' chừng độ 7 mẫu, hoặc bảo khoảng đất trồng hết một ngày mới khắp là một 'thưởng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trưa, tới trưa, sắp đến trưa hay quá trưa một chút gọi là thưởng ngọ 晌午.",
+                "Bán thưởng 半晌 một loáng, một nhát.",
+                "Thưởng, về phía Ðông Tam Tỉnh nước Tàu dùng làm tiếng để đo đất, một thưởng chừng độ 7 mẫu, hoặc bảo khoảng đất trồng hết một ngày mới khắp là một thưởng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một lúc, một hồi, chốc lát: 工作了半晌 Làm việc đã được một lúc lâu; 停了一晌 Đã nghỉ được một chốc;",
+                "Trưa, mặt trời đứng bóng: 睡晌覺 Ngủ trưa; 歇晌 Nghỉ trưa; 晌飯 Cơm trưa;",
+                "(cũ) Thưởng (đơn vị đo đất, bằng 7 mẫu, hoặc bằng khoảng đất phải trồng trọn một ngày mới khăëp)."
+            ],
+            "compound_words": {
+                "半晌": "bán thưởng"
+            }
+        }
+    }
+}

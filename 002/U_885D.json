@@ -1,0 +1,107 @@
+{
+    "character": "衝",
+    "details": {
+        "Âm Hán Việt": [
+            "xung"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "hành 行 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴行重"
+        ],
+        "Nét bút": [
+            "ノノ一ノ一丨フ一一丨一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "HOHGN (竹人竹土弓)"
+        ],
+        "Unicode": [
+            "U+885D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chōng ㄔㄨㄥ",
+            "chòng ㄔㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "giong",
+            "tông",
+            "xong",
+            "xông",
+            "xung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.く (tsu.ku)"
+        ],
+        "Âm Hàn": [
+            "충"
+        ],
+        "Âm Quảng Đông": [
+            "cung1",
+            "cung3"
+        ]
+    },
+    "meanings": {
+        "xung": {
+            "Từ điển phổ thông": [
+                "đường cái",
+                "dội, xối (nước)",
+                "bay lên",
+                "xung (điện)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đi thẳng tới phía trước. ◎Như: 'xung hướng tiền phương' 衝向前方 đi thẳng về phía trước.",
+                "(Động) Xông ra, không đoái gì nguy hiểm. ◎Như: 'xung phong' 衝鋒 xông vào nơi gươm giáo. ◇Tam quốc diễn nghĩa 三國演義: 'Hốt kiến thành ngoại nhất nhân đĩnh thương dược mã sát nhập tặc trận, tả xung hữu đột, như nhập vô nhân chi cảnh' 忽見城外一人挺鎗躍馬殺入賊陣, 左衝右突, 如入無人之境 (Đệ thập nhất hồi) Chợt thấy ngoài thành một người vác giáo nhảy lên ngựa xông vào đám giặc, tả xung hữu đột, như vào chỗ không người.",
+                "(Động) Dựng đứng, đâm thẳng lên. ◎Như: 'nộ phát xung quan' 怒髮衝冠 giận làm tóc dựng đứng đâm thẳng lên mũ.",
+                "(Động) Đụng chạm, va chạm.",
+                "(Động) Hướng về, đối. ◎Như: 'biệt xung trước nhân sọa tiếu' 別衝著人傻笑 đừng có hướng về người khác mà cười ngẩn ra.",
+                "(Tính) Hăng, nồng. ◎Như: 'giá yên thái xung' 這煙太衝 thuốc hút này hăng lắm.",
+                "(Tính) Mạnh. ◎Như: 'thủy lưu đắc ngận xung' 水流得很衝 nước chảy rất mạnh.",
+                "(Tính) Xấc xược, vô lễ. ◎Như: 'tha thuyết thoại ngận xung' 他說話很衝 nó nói năng xấc xược lắm.",
+                "(Danh) Đường cái giao thông trọng yếu. ◎Như: 'xung yếu' 衝要 chỗ giao thông quan trọng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con đường cái thông hành. Vì thế nên nơi nào là chỗ giao thông tấp nập gọi là xung yếu 衝要.",
+                "Xông ra, cứ sấn thẳng lên mà đi, không đoái gì nguy hiểm đông đúc gọi là xung. Như xung phong 衝鋒 cứ xông thẳng vào đám gươm giáo mà đi, xung đột 衝突 xông đột, v.v.",
+                "Xe binh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xông ra: 他們往前衝 Họ xông ra phía trước;",
+                "(văn) Con đường cái thông hành;",
+                "(văn) Xe binh. Xem 沖 [chong] (bộ 冫), 衝 [chòng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xông vào. Td: Xung đột — Bốc thẳng lên. Như chữ Xung 沖 — Hai hoặc nhiều con đường gặp nhau, tréo nhau — Trái ngược nhau. Thành ngữ: » Năm xung tháng hạn «."
+            ],
+            "compound_words": {
+                "折衝": "chiết xung",
+                "左衝右突": "tả xung hữu đột",
+                "衝動": "xung động",
+                "衝突": "xung đột",
+                "衝尅": "xung khắc",
+                "衝击": "xung kích",
+                "衝撃": "xung kích",
+                "衝擊": "xung kích",
+                "衝犯": "xung phạm",
+                "衝鋒": "xung phong",
+                "衝锋": "xung phong",
+                "衝要": "xung yếu"
+            }
+        }
+    }
+}

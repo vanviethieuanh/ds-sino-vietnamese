@@ -1,0 +1,66 @@
+{
+    "character": "袭",
+    "details": {
+        "Âm Hán Việt": [
+            "tập"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "y 衣 (+5 nét)",
+            "long 龍 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱龙衣"
+        ],
+        "Nét bút": [
+            "一ノフノ丶丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "IPYHV (戈心卜竹女)"
+        ],
+        "Unicode": [
+            "U+88AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xí ㄒㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tập"
+        ],
+        "Âm Quảng Đông": [
+            "zaap6"
+        ]
+    },
+    "meanings": {
+        "tập": {
+            "Từ điển phổ thông": [
+                "áo liệm người chết",
+                "tập kích, lẻn đánh, đánh úp",
+                "bắt chước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 襲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 襲"
+            ],
+            "compound_words": {
+                "奔袭": "bôn tập",
+                "抄袭": "sao tập",
+                "袭击": "tập kích",
+                "侵袭": "xâm tập"
+            }
+        }
+    }
+}

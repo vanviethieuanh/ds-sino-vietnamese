@@ -1,0 +1,95 @@
+{
+    "character": "潭",
+    "details": {
+        "Âm Hán Việt": [
+            "tầm",
+            "đàm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡覃"
+        ],
+        "Nét bút": [
+            "丶丶一一丨フ丨丨一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "EMWJ (水一田十)"
+        ],
+        "Unicode": [
+            "U+6F6D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "tán ㄊㄢˊ",
+            "xún ㄒㄩㄣˊ",
+            "yǐn ㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "đàm",
+            "đằm",
+            "đầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "ジン (jin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふち (fuchi)",
+            "ふか.い (fuka.i)"
+        ],
+        "Âm Hàn": [
+            "담"
+        ],
+        "Âm Quảng Đông": [
+            "taam4"
+        ]
+    },
+    "meanings": {
+        "tầm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ nước — Ngấm vào — Nước thấm vào — Một âm là Đàm. Xem Đàm."
+            ]
+        },
+        "đàm": {
+            "Từ điển phổ thông": [
+                "cái đầm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đầm, vực nước sâu. ◎Như: 'long đàm hổ huyệt' 龍潭虎穴 vực rồng hang cọp (nơi chốn hiểm hóc).",
+                "(Danh) Ven nước. ◇Bào Chiếu 鮑照: 'Khinh hồng hí giang đàm, Cô nhạn tập châu chỉ' 輕鴻戲江潭, 孤雁集洲沚 (Tặng phó đô tào biệt 贈傅都曹別) Chim hồng bay bổng đùa giỡn ven sông, Nhạn lẻ loi đậu ở cù lao bãi nước.",
+                "(Danh) Họ 'Đàm'.",
+                "(Tính) Sâu, thâm. ◇Lịch Đạo Nguyên 酈道元: 'Kim thành bắc hữu uyên, đàm nhi bất lưu' 今城北有淵, 潭而不流 (Thủy kinh chú 水經注, Tháp thủy 漯水)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái đầm, đầm nước sâu.",
+                "Ðàm đàm 潭潭 thăm thẳm, tả cái vẻ cung điện sâu thăm thẳm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái đầm: 泥潭 Đầm lầy;",
+                "Sâu: 潭淵 Vực sâu, vực thẳm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đầm, ao lớn và sâu — Vực nước sâu — Sâu thẳm — Một âm là Tầm."
+            ],
+            "compound_words": {
+                "潭沱": "đàm đà",
+                "潭潭": "đàm đàm",
+                "湘潭": "tương đàm"
+            }
+        }
+    }
+}

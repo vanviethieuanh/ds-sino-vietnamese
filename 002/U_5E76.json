@@ -1,0 +1,181 @@
+{
+    "character": "并",
+    "details": {
+        "Âm Hán Việt": [
+            "bình",
+            "bính",
+            "phanh",
+            "tinh",
+            "tính",
+            "tỉnh",
+            "tịnh"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "can 干 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丷开"
+        ],
+        "Nét bút": [
+            "丶ノ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "TT (廿廿)"
+        ],
+        "Unicode": [
+            "U+5E76"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bīng ㄅㄧㄥ",
+            "bìng ㄅㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あわ.せる (awa.seru)",
+            "なら.ぶ (nara.bu)"
+        ],
+        "Âm Hàn": [
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "bing1",
+            "bing3",
+            "bing6"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ cây, dùng để chế chổi. Xem Phanh, Tinh."
+            ]
+        },
+        "bính": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vứt bỏ (như 摒, bộ 扌): 國爵幷焉 Vứt bỏ những tước vị nhà nước ban cho (Trang tử);",
+                "Đều, cùng (một lúc): 天降禍于周，俾我兄弟幷有亂心 Trời giáng hoạ cho nhà Chu, khiến anh em ta đều rối lòng (Tả truyện: Chiêu công tam thập nhị niên); 德，刑不立，姦軌幷至 Khuôn mẫu đạo đức và điều luật về hình phạt không định ra thì hoạ loạn sẽ cùng lúc xảy tới (Tả truyện: Thành công thập thất niên) (軌=宄， nội loạn). 【幷皆】tịnh giai [bìngjie] (văn) Đều, tất cả đều: 秉之少孤，弟妹七人，幷皆幼稚 Bỉnh Chi mồ côi từ nhỏ, có bảy em cả trai lẫn gái, tất cả đều còn ấu thơ (Tống thư: Giang Bỉnh Chi truyện); 【幷悉】 tịnh tất [bìngxi] (văn) Như 幷皆;【幷總】 tịnh tổng [bìngzông] (văn) Như 幷皆;",
+                "(văn) Và, cùng với: 于是開革囊，取一人頭幷心肝 Rồi mở cái túi da, lấy ra một cái đầu người cùng với tim gan (Đỗ Quang Đình: Cầu nhiệm khách truyện)."
+            ]
+        },
+        "phanh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sai khiến. Như chữ Phanh 抨 — Một âm là Bình, tên một thứ cây, dùng để chế chổi."
+            ]
+        },
+        "tinh": {
+            "Từ điển phổ thông": [
+                "hợp, gồm",
+                "châu Tinh (Trung Quốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hợp, tụ hợp. § Thông 併. ◎Như: 'Ngô tịnh ư Việt' 吳并於越 nước Ngô hợp với nước Việt.",
+                "(Động) Bao gồm. ◎Như: 'hỉ cụ tham tịnh' 喜懼參并 vui mừng lo sợ gồm cả. ◇Tạ Linh Vận 謝靈運: 'Thiên hạ lương thần mĩ cảnh, thưởng tâm lạc sự, tứ giả nan tịnh' 天下良辰美景, 賞心樂事, 四者難并 (Nghĩ Ngụy Thái Tử Nghiệp trung tập thi tự 擬魏太子鄴中集詩序).",
+                "(Động) Thôn tính, chiếm nuốt. ◇Sử Kí 史記: 'Chiêu trí tân khách du sĩ, dục dĩ tịnh thiên hạ' 招致賓客游士, 欲以并天下 (Tần Thủy Hoàng bổn kỉ 秦始皇本紀).",
+                "(Phó) Cùng nhau, đều. § Thông 'tịnh' 並. ◇Chiến quốc sách 戰國策: '(Bạng duật) lưỡng giả bất khẳng tương xả, ngư giả đắc nhi tịnh cầm chi' (蚌鷸)兩者不肯相舍, 漁者得而并禽之 (Yên sách nhị 燕策二) (Trai cò) hai con không chịu buông thả cho nhau, mà ông chài bắt được cả hai.",
+                "(Phó) Dùng trước từ phủ định, làm tăng thêm ý phủ định: quyết (không), hoàn toàn (không). § Thông 'tịnh' 並. ◇Liêu trai chí dị 聊齋志異: 'Việt niên dư tịnh vô tung tự' 越年余并無蹤緒 (A Hà 阿霞) Qua hơn một năm vẫn tuyệt vô tăm tích.",
+                "(Liên) Ngay cả. § Thông 'tịnh' 並. ◇Liêu trai chí dị 聊齋志異: 'Tuần dư, trượng chí bách, lưỡng cổ gian nùng huyết lưu li, tịnh trùng bất năng hành tróc hĩ' 旬餘, 杖至百, 兩股間膿血流離, 并蟲不能行捉矣 (Xúc chức 促織) Hơn mười ngày, bị đánh tới một trăm gậy, giữa hai đùi máu mủ ra lênh láng, đến cả dế cũng không đi bắt được nữa.",
+                "(Danh) Bình phiên (屏藩). § Thông 'bình' 屏.",
+                "Một âm là 'tỉnh'. § Thông 'bình' 屏. (Động) Ruồng bỏ, vứt bỏ. § Cũng như 'bình khí' 屏棄. ◇Trang Tử 莊子: 'Chí quý, quốc tước tỉnh yên; chí phú, quốc tài tịnh yên' 至貴, 國爵并焉; 至富, 國財並焉 (Thiên vận 天運).",
+                "(Động) Đuổi lui ra, hô người tránh ra xa. § Cũng như 'bính thối' 屏退. ◇Sử Kí 史記: 'Thượng vấn viết: \"Kế an xuất?\" Áng (Viên Áng) đối viết: \"Nguyện tỉnh tả hữu.\" Thượng tỉnh nhân, độc Thác (Triều Thác) tại' 上問曰: \"計安出?\" 盎(袁盎)對曰: \"願并左右.\" 上屏人, 獨錯(晁錯)在 (Ngô Vương Tị truyện 吳王濞傳).",
+                "(Động) Ức chế, đè nén.",
+                "Một âm là 'tinh'. (Danh) Tên đất 'Tinh Châu' 并州.",
+                "(Danh) Tên riêng của thành phố 'Thái Nguyên' 太原, thuộc tỉnh 'Sơn Tây' 山西."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hợp, gồm.",
+                "Tên đất. Dao ở châu Tinh sắc có tiếng, nên sự gì làm được mau mắn nhanh chóng gọi là tinh tiễn 并剪.",
+                "Một âm là bính, cùng nghĩa như chữ bính 偋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Châu Tinh (Tinh Châu) (một châu thời xưa của Trung Quốc, gồm các phần của hai tỉnh Hà Bắc và Sơn Tây ngày nay);",
+                "(Tên riêng của) thành phố Thái Nguyên (tỉnh Sơn Tây, Trung Quốc). Xem 併, 並 [bìng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết nhanh gọn của chữ Tinh 幷."
+            ]
+        },
+        "tính": {
+            "Từ điển phổ thông": [
+                "hợp lại, gộp lại, dồn lại",
+                "chặt, ăn (cờ)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 併 (bộ 亻), 幷(bộ 干), 並 (bộ 一), 竝 (bộ 立). 【并且】tịnh thả [bìng qiâ] (lt) Mà còn;",
+                "【并不】tịnh bất [bìngbù] Không, chẳng, chả. Xem 並 nghĩa",
+                "(bộ 一)."
+            ],
+            "compound_words": {
+                "兼并": "kiêm tính",
+                "吞并": "thôn tính",
+                "并吞": "tính thôn"
+            }
+        },
+        "tỉnh": {
+            "Từ điển trích dẫn": [
+                "(Động) Hợp, tụ hợp. § Thông 併. ◎Như: 'Ngô tịnh ư Việt' 吳并於越 nước Ngô hợp với nước Việt.",
+                "(Động) Bao gồm. ◎Như: 'hỉ cụ tham tịnh' 喜懼參并 vui mừng lo sợ gồm cả. ◇Tạ Linh Vận 謝靈運: 'Thiên hạ lương thần mĩ cảnh, thưởng tâm lạc sự, tứ giả nan tịnh' 天下良辰美景, 賞心樂事, 四者難并 (Nghĩ Ngụy Thái Tử Nghiệp trung tập thi tự 擬魏太子鄴中集詩序).",
+                "(Động) Thôn tính, chiếm nuốt. ◇Sử Kí 史記: 'Chiêu trí tân khách du sĩ, dục dĩ tịnh thiên hạ' 招致賓客游士, 欲以并天下 (Tần Thủy Hoàng bổn kỉ 秦始皇本紀).",
+                "(Phó) Cùng nhau, đều. § Thông 'tịnh' 並. ◇Chiến quốc sách 戰國策: '(Bạng duật) lưỡng giả bất khẳng tương xả, ngư giả đắc nhi tịnh cầm chi' (蚌鷸)兩者不肯相舍, 漁者得而并禽之 (Yên sách nhị 燕策二) (Trai cò) hai con không chịu buông thả cho nhau, mà ông chài bắt được cả hai.",
+                "(Phó) Dùng trước từ phủ định, làm tăng thêm ý phủ định: quyết (không), hoàn toàn (không). § Thông 'tịnh' 並. ◇Liêu trai chí dị 聊齋志異: 'Việt niên dư tịnh vô tung tự' 越年余并無蹤緒 (A Hà 阿霞) Qua hơn một năm vẫn tuyệt vô tăm tích.",
+                "(Liên) Ngay cả. § Thông 'tịnh' 並. ◇Liêu trai chí dị 聊齋志異: 'Tuần dư, trượng chí bách, lưỡng cổ gian nùng huyết lưu li, tịnh trùng bất năng hành tróc hĩ' 旬餘, 杖至百, 兩股間膿血流離, 并蟲不能行捉矣 (Xúc chức 促織) Hơn mười ngày, bị đánh tới một trăm gậy, giữa hai đùi máu mủ ra lênh láng, đến cả dế cũng không đi bắt được nữa.",
+                "(Danh) Bình phiên (屏藩). § Thông 'bình' 屏.",
+                "Một âm là 'tỉnh'. § Thông 'bình' 屏. (Động) Ruồng bỏ, vứt bỏ. § Cũng như 'bình khí' 屏棄. ◇Trang Tử 莊子: 'Chí quý, quốc tước tỉnh yên; chí phú, quốc tài tịnh yên' 至貴, 國爵并焉; 至富, 國財並焉 (Thiên vận 天運).",
+                "(Động) Đuổi lui ra, hô người tránh ra xa. § Cũng như 'bính thối' 屏退. ◇Sử Kí 史記: 'Thượng vấn viết: \"Kế an xuất?\" Áng (Viên Áng) đối viết: \"Nguyện tỉnh tả hữu.\" Thượng tỉnh nhân, độc Thác (Triều Thác) tại' 上問曰: \"計安出?\" 盎(袁盎)對曰: \"願并左右.\" 上屏人, 獨錯(晁錯)在 (Ngô Vương Tị truyện 吳王濞傳).",
+                "(Động) Ức chế, đè nén.",
+                "Một âm là 'tinh'. (Danh) Tên đất 'Tinh Châu' 并州.",
+                "(Danh) Tên riêng của thành phố 'Thái Nguyên' 太原, thuộc tỉnh 'Sơn Tây' 山西."
+            ]
+        },
+        "tịnh": {
+            "Từ điển phổ thông": [
+                "bằng nhau, ngang nhau, đều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hợp, tụ hợp. § Thông 併. ◎Như: 'Ngô tịnh ư Việt' 吳并於越 nước Ngô hợp với nước Việt.",
+                "(Động) Bao gồm. ◎Như: 'hỉ cụ tham tịnh' 喜懼參并 vui mừng lo sợ gồm cả. ◇Tạ Linh Vận 謝靈運: 'Thiên hạ lương thần mĩ cảnh, thưởng tâm lạc sự, tứ giả nan tịnh' 天下良辰美景, 賞心樂事, 四者難并 (Nghĩ Ngụy Thái Tử Nghiệp trung tập thi tự 擬魏太子鄴中集詩序).",
+                "(Động) Thôn tính, chiếm nuốt. ◇Sử Kí 史記: 'Chiêu trí tân khách du sĩ, dục dĩ tịnh thiên hạ' 招致賓客游士, 欲以并天下 (Tần Thủy Hoàng bổn kỉ 秦始皇本紀).",
+                "(Phó) Cùng nhau, đều. § Thông 'tịnh' 並. ◇Chiến quốc sách 戰國策: '(Bạng duật) lưỡng giả bất khẳng tương xả, ngư giả đắc nhi tịnh cầm chi' (蚌鷸)兩者不肯相舍, 漁者得而并禽之 (Yên sách nhị 燕策二) (Trai cò) hai con không chịu buông thả cho nhau, mà ông chài bắt được cả hai.",
+                "(Phó) Dùng trước từ phủ định, làm tăng thêm ý phủ định: quyết (không), hoàn toàn (không). § Thông 'tịnh' 並. ◇Liêu trai chí dị 聊齋志異: 'Việt niên dư tịnh vô tung tự' 越年余并無蹤緒 (A Hà 阿霞) Qua hơn một năm vẫn tuyệt vô tăm tích.",
+                "(Liên) Ngay cả. § Thông 'tịnh' 並. ◇Liêu trai chí dị 聊齋志異: 'Tuần dư, trượng chí bách, lưỡng cổ gian nùng huyết lưu li, tịnh trùng bất năng hành tróc hĩ' 旬餘, 杖至百, 兩股間膿血流離, 并蟲不能行捉矣 (Xúc chức 促織) Hơn mười ngày, bị đánh tới một trăm gậy, giữa hai đùi máu mủ ra lênh láng, đến cả dế cũng không đi bắt được nữa.",
+                "(Danh) Bình phiên (屏藩). § Thông 'bình' 屏.",
+                "Một âm là 'tỉnh'. § Thông 'bình' 屏. (Động) Ruồng bỏ, vứt bỏ. § Cũng như 'bình khí' 屏棄. ◇Trang Tử 莊子: 'Chí quý, quốc tước tỉnh yên; chí phú, quốc tài tịnh yên' 至貴, 國爵并焉; 至富, 國財並焉 (Thiên vận 天運).",
+                "(Động) Đuổi lui ra, hô người tránh ra xa. § Cũng như 'bính thối' 屏退. ◇Sử Kí 史記: 'Thượng vấn viết: \"Kế an xuất?\" Áng (Viên Áng) đối viết: \"Nguyện tỉnh tả hữu.\" Thượng tỉnh nhân, độc Thác (Triều Thác) tại' 上問曰: \"計安出?\" 盎(袁盎)對曰: \"願并左右.\" 上屏人, 獨錯(晁錯)在 (Ngô Vương Tị truyện 吳王濞傳).",
+                "(Động) Ức chế, đè nén.",
+                "Một âm là 'tinh'. (Danh) Tên đất 'Tinh Châu' 并州.",
+                "(Danh) Tên riêng của thành phố 'Thái Nguyên' 太原, thuộc tỉnh 'Sơn Tây' 山西."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 併 (bộ 亻), 幷(bộ 干), 並 (bộ 一), 竝 (bộ 立). 【并且】tịnh thả [bìng qiâ] (lt) Mà còn;",
+                "【并不】tịnh bất [bìngbù] Không, chẳng, chả. Xem 並 nghĩa",
+                "(bộ 一)."
+            ],
+            "compound_words": {
+                "并排": "tịnh bài",
+                "并不": "tịnh bất",
+                "并举": "tịnh cử",
+                "并行": "tịnh hành",
+                "并立": "tịnh lập",
+                "并列": "tịnh liệt",
+                "并入": "tịnh nhập",
+                "并且": "tịnh thả"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "character": "捏",
+    "details": {
+        "Âm Hán Việt": [
+            "niết"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘圼"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "QHXM (手竹重一)"
+        ],
+        "Unicode": [
+            "U+634F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "niē ㄋㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "nát",
+            "nhét",
+            "niết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネツ (netsu)",
+            "テツ (tetsu)",
+            "ネチ (nechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こ.ねる (ko.neru)",
+            "ね.る (ne.ru)",
+            "つく.ねる (tsuku.neru)"
+        ],
+        "Âm Hàn": [
+            "날"
+        ],
+        "Âm Quảng Đông": [
+            "nip6"
+        ]
+    },
+    "meanings": {
+        "niết": {
+            "Từ điển phổ thông": [
+                "cấu, véo",
+                "nắm chặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nặn, nắn. ◎Như: 'niết giáo tử' 捏餃子 nắn bánh bột (sủi cảo), 'niết nê nhân nhi' 捏泥人兒 nặn hình người đất.",
+                "(Động) Cấu, véo, nhón. ◎Như: 'niết tị tử' 捏鼻子 nhéo mũi.",
+                "(Động) Toát ra. ◎Như: 'niết nhất bả lãnh hãn' 捏一把冷汗 toát mồ hôi lạnh (vì sợ hãi).",
+                "(Động) Cầm, nắm. ◇Trịnh Quang Tổ 鄭光祖: 'Yêm niết trụ giá ngọc bội, mạn mạn đích hành tương khứ' 俺捏住這玉佩, 慢慢的行將去 (Trâu Mai Hương 㑳梅香, Đệ nhất chiết) Ta cầm lấy cái vòng ngọc, thong thả đi ra.",
+                "(Động) Bịa đặt, co kéo phụ hội đặt điều, hư cấu. ◇Liêu trai chí dị 聊齋志異: 'Khủng thị phi chi khẩu niết tạo hắc bạch' 恐是非之口捏造黑白 (Cát Cân 葛巾) Sợ miệng thị phi đặt điều đen trắng.",
+                "Tục viết là 揑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nắm nặn, nắm đất gọi là niết.",
+                "Cùng co kéo phụ hội với nhau cũng gọi là niết. Tục viết là 揑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bóp, nắm;",
+                "Nặn, đắp: 捏泥人兒 Nặn hình người bằng đất;",
+                "Nặn, bịa đặt;",
+                "Co kéo phụ hội với nhau. Cv. 揑."
+            ],
+            "compound_words": {
+                "捏估": "niết cổ",
+                "捏造": "niết tạo",
+                "捏积": "niết tích",
+                "捏積": "niết tích"
+            }
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "character": "毽",
+    "details": {
+        "Âm Hán Việt": [
+            "kiến",
+            "kiện"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mao 毛 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺毛建"
+        ],
+        "Nét bút": [
+            "ノ一一フフ一一一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "HUNKQ (竹山弓大手)"
+        ],
+        "Unicode": [
+            "U+6BFD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "kiện"
+        ],
+        "Âm Quảng Đông": [
+            "gin3",
+            "jin2"
+        ]
+    },
+    "meanings": {
+        "kiến": {
+            "Từ điển phổ thông": [
+                "quả cầu"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kiến tử 毽子 quả cầu, đồ chơi đá bằng chân."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cầu, trái cầu (để đá): 踢毽子 Đá cầu; 毽子 (Quả) cầu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trái cầu bằng lông để đá giải trí."
+            ]
+        },
+        "kiện": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “kiện tử” 毽子."
+            ],
+            "compound_words": {
+                "毽子": "kiện tử"
+            }
+        }
+    }
+}

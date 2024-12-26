@@ -1,0 +1,91 @@
+{
+    "character": "圉",
+    "details": {
+        "Âm Hán Việt": [
+            "ngữ",
+            "ngự"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "vi 囗 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿴囗幸"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "WGTJ (田土廿十)"
+        ],
+        "Unicode": [
+            "U+5709"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yǔ ㄩˇ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ngữ",
+            "vũ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギョ (gyo)",
+            "ゴ (go)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うまか.い (umaka.i)",
+            "ひとや (hitoya)"
+        ],
+        "Âm Hàn": [
+            "어"
+        ],
+        "Âm Quảng Đông": [
+            "jyu5"
+        ]
+    },
+    "meanings": {
+        "ngữ": {
+            "Từ điển phổ thông": [
+                "tên bồi ngựa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhà tù, nhà giam.",
+                "(Danh) Người nuôi ngựa.",
+                "(Danh) Chuồng ngựa.",
+                "(Danh) Bờ cõi, biên giới, biên cảnh. ◎Như: 'liêu cố ngô ngữ' 聊固吾圉 gọi là giữ vững bờ cõi ta.",
+                "(Động) Cấm chỉ. § Thông 'ngữ' 圄.",
+                "(Động) Kháng cự, phòng ngự. § Thông 'ngự' 禦.",
+                "(Động) Nuôi dưỡng. ◎Như: 'ngữ mã' 圉馬 nuôi ngựa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Người bồi ngựa.",
+                "Bờ cõi, như liêu cố ngô ngữ 聊固吾圉 gọi là bền giữ bờ cõi ta."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nuôi (ngựa): 圉馬於成 Nuôi ngựa ở đất Thành (Tả truyện: Ai công thập tứ niên);",
+                "Người nuôi ngựa: 馬有圉，牛有牧 Ngựa có người nuôi, bò có người chăn (Tả truyện: Chiêu công thất niên);",
+                "Biên giới, bờ cõi: 聊固吾圉 Gọi là giữ vững bờ cõi ta."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cấm đoán. Như chữ Ngữ 圄 — Ranh giới đất nước — Chỗ nuôi ngựa."
+            ]
+        },
+        "ngự": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngăn trở (dùng như 禦, bộ 示): 其來不可圉 Khi nó đến thì không thể ngăn được (Trang tử: Thiện tính)."
+            ]
+        }
+    }
+}

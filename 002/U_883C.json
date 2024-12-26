@@ -1,0 +1,87 @@
+{
+    "character": "蠼",
+    "details": {
+        "Âm Hán Việt": [
+            "quắc",
+            "quặc"
+        ],
+        "Tổng nét": [
+            "26"
+        ],
+        "Bộ": [
+            "trùng 虫 (+20 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫矍"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一一丨フ一一一ノ丨丶一一一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "LIBUE (中戈月山水)"
+        ],
+        "Unicode": [
+            "U+883C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ",
+            "qú ㄑㄩˊ"
+        ],
+        "Âm Nôm": [
+            "cù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キャク (kyaku)",
+            "カク (kaku)",
+            "ケキ (keki)",
+            "ク (ku)",
+            "ワク (waku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおざる (ōzaru)"
+        ],
+        "Âm Quảng Đông": [
+            "fok3",
+            "keoi4"
+        ]
+    },
+    "meanings": {
+        "quắc": {
+            "Từ điển phổ thông": [
+                "(xem: quắc sưu 蠼螋)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蠼占】quắc sưu [qúsou] Một loài sâu đen có sáu chân, có thể phun ra chất độc để bảo vệ mình khi có người đến gần."
+            ],
+            "compound_words": {
+                "蠼螋": "quắc sưu"
+            }
+        },
+        "quặc": {
+            "Từ điển trích dẫn": [
+                "(Động) Nhảy.",
+                "(Danh) 'Quặc sưu' 蠼螋 một thứ sâu ở nơi ẩm thấp, mình đen chân vàng chạy rất nhanh, sáu chân, đầu đuôi tẽ ra, thấy người đến gần thì phun dãi độc ra để bảo hộ mình.",
+                "(Danh) Con khỉ cái. § Thông 'quặc' 玃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quặc sưu 蠼螋 một thứ sâu ở nơi ẩm thấp, mình đen chân vàng chạy rất nhanh, sáu chân, đầu đuôi tẽ ra, thấy người đến gần thì phun dãi độc ra để bảo hộ mình.",
+                "Con khỉ cái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Quặc 玃 — Có hình dáng của con rồng."
+            ],
+            "compound_words": {
+                "蠼螋": "quặc sưu"
+            }
+        }
+    }
+}

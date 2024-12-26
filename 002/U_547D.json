@@ -1,0 +1,188 @@
+{
+    "character": "命",
+    "details": {
+        "Âm Hán Việt": [
+            "mệnh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱亼叩"
+        ],
+        "Nét bút": [
+            "ノ丶一丨フ一フ丨"
+        ],
+        "Thương Hiệt": [
+            "OMRL (人一口中)"
+        ],
+        "Unicode": [
+            "U+547D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mìng ㄇㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "mạng",
+            "mạnh",
+            "mệnh",
+            "mình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メイ (mei)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いのち (inochi)"
+        ],
+        "Âm Hàn": [
+            "명"
+        ],
+        "Âm Quảng Đông": [
+            "meng6",
+            "ming6"
+        ]
+    },
+    "meanings": {
+        "mệnh": {
+            "Từ điển phổ thông": [
+                "mạng",
+                "lời sai khiến"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sai khiến, ra lệnh. ◎Như: 'mệnh nhân tống tín' 命人送信 sai người đưa tin.",
+                "(Động) Nhậm dụng quan chức, ủy nhậm.",
+                "(Động) Định đặt, chọn lấy, làm ra, vận dụng. ◎Như: 'mệnh danh' 命名 đặt tên, 'mệnh đề' 命題 chọn đề mục (thi cử, sáng tác văn chương). ◇Nam sử 南史: 'Quảng Đạt dĩ phẫn khái tốt. Thượng thư lệnh Giang Tổng phủ cữu đỗng khốc, nãi mệnh bút đề kì quan' 廣達以憤慨卒. 尚書令江總撫柩慟哭, 乃命筆題其棺 (Lỗ Quảng Đạt truyện 魯廣達傳).",
+                "(Động) Báo cho biết, phụng cáo. ◇Thư Kinh 書經: 'Tức mệnh viết, hữu đại gian ư tây thổ' 即命曰, 有大艱於西土 (Đại cáo 大誥).",
+                "(Động) Kêu gọi, triệu hoán. ◇Dật Danh 佚名: 'Xuân điểu phiên nam phi, Phiên phiên độc cao tường, Bi thanh mệnh trù thất, Ai minh thương ngã trường' 春鳥翻南飛, 翩翩獨翱翔, 悲聲命儔匹, 哀鳴傷我腸 (Nhạc phủ cổ từ 樂府古辭, Thương ca hành 傷歌行).",
+                "(Động) Chạy trốn, đào tẩu.",
+                "(Động) Coi như, cho là. ◎Như: 'tự mệnh bất phàm' 自命不凡 tự cho mình không phải tầm thường.",
+                "(Danh) Mạng sống. ◎Như: 'sanh mệnh' 生命, 'tính mệnh' 性命. ◇Nguyễn Trãi 阮廌: 'Li loạn như kim mệnh cẩu toàn' 離亂如今命苟全 (Hạ nhật mạn thành 夏日漫成) Li loạn đến nay mạng sống tạm được nguyên vẹn.",
+                "(Danh) Mệnh trời, vận số (cùng, thông, v.v.). ◇Luận Ngữ 論語: 'Tử sanh hữu mệnh, phú quý tại thiên' 死生有命, 富貴在天 (Nhan Uyên 顏淵) Sống chết có số, giàu sang do trời.",
+                "(Danh) Một loại công văn thời xưa.",
+                "(Danh) Lệnh, chánh lệnh, chỉ thị. ◎Như: 'tuân mệnh' 遵命 tuân theo chỉ thị, 'phụng mệnh' 奉命 vâng lệnh. ◇Liễu Tông Nguyên 柳宗元: 'Thái y dĩ vương mệnh tụ chi, tuế phú kì nhị' 太醫以王命聚之, 歲賦其二 (Bộ xà giả thuyết 捕蛇者說) Quan thái y theo lệnh vua cho gom bắt loài rắn đó, mỗi năm trưng thu hai lần.",
+                "(Danh) Lời dạy bảo, giáo hối. ◇Hàn Dũ 韓愈: 'Phụ mẫu chi mệnh hề, tử phụng dĩ hành' 父母之命兮, 子奉以行 (Âu Dương Sanh ai từ 歐陽生哀辭).",
+                "(Danh) Tuổi thọ, tuổi trời. ◇Luận Ngữ 論語: 'Hữu Nhan Hồi giả hiếu học, bất hạnh đoản mệnh tử hĩ' 有顏回者好學, 不幸短命死矣 (Tiên tiến 先進).",
+                "(Danh) Sinh sống làm ăn, sinh kế. ◇Lí Mật 李密: 'Mẫu tôn nhị nhân, canh tương vi mệnh' 母孫二人, 更相為命 (Trần tình biểu 陳情表) Bà cháu hai người cùng nhau làm ăn sinh sống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sai khiến.",
+                "Truyền mệnh. Truyền bảo sự lớn gọi là mệnh 命, truyền bảo sự nhỏ gọi là lệnh 令. Lời của chức Tổng-thống tuyên cáo cho quốc dân biết gọi là mệnh lệnh 命令.",
+                "Lời vua ban thưởng tước lộc gì gọi là cáo mệnh 誥命.",
+                "Mệnh trời. Phàm những sự cùng, thông, được, hỏng, hình như có cái gì chủ trương, sức người không sao làm được, gọi là mệnh.",
+                "Mạng, được chết lành gọi là khảo chung mệnh 考終命, không được chết lành gọi là tử ư phi mệnh 死於非命.",
+                "Tên, kẻ bỏ xứ sở mình trốn đi xứ khác gọi là vong mệnh 亡命 (mất tên trong sổ đinh).",
+                "Từ mệnh (lời văn hoa).",
+                "Ðạo, như duy thiên chi mệnh 維天之命 bui chưng đạo trời."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mạng: 一條人命 Một mạng người; 喪了命 Mất mạng, bỏ mạng; 考終命 Chết lành; 死於非命 Chết bất đắc kì tử;",
+                "Số phận, vận mệnh, mệnh trời: 命苦 Số phận cực khổ; 宿命論 Số kiếp; 算命 Bói toán;",
+                "Mệnh lệnh, chỉ thị, việc lớn, nhiệm vụ lớn: 奉命 Phụng mệnh, được lệnh; 待命 Đợi lệnh;",
+                "(văn) Tên: 亡命 Vong mệnh (mất tên trong sổ đinh);",
+                "Đặt tên, gọi là: 命名 Đặt tên, mệnh danh; 君命太子曰仇 Vua gọi thái tử là Cừu (Tả truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sai khiến. Ra lệnh — Lệnh truyền. Cũng nói là Mệnh lệnh 命令 — Điều do trời định sẵn, không thay đổi được — Chỉ cuộc đời do trời định sẵn.  Đoạn trường tân thanh  có câu: » Trăm năm trong cõi người ta, chữ tài chữ mệnh khéo là ghét nhau « — Cũng đọc là Mạng. Lấy số tử vi có cung » Mệnh « gọi là Bột tinh cũng được. Trong sách số có hai câu rằng: Mệnh cung, Bột tinh lâm tắc hữu nạn: Ở cung mệnh mà có sao bột chiếu vào thì có nạn. » Mệnh cung đang mắc nạn to « ( Kiều ) — Cổ lai tài mệnh lưỡng tương phương: 古來才命兩相妨 ( Minh thi ). Xưa nay tài mệnh không ưa nhau. » Chữ tài chữ mệnh khéo là ghét nhau « ( Kiều )."
+            ],
+            "compound_words": {
+                "安命": "an mệnh",
+                "恩命": "ân mệnh",
+                "薄命": "bạc mệnh",
+                "拜命": "bái mệnh",
+                "本命": "bản mệnh",
+                "報命": "báo mệnh",
+                "稟命": "bẩm mệnh",
+                "拼命": "bính mệnh",
+                "奔命": "bôn mệnh",
+                "革命": "cách mệnh",
+                "改命": "cải mệnh",
+                "乾命": "kiền mệnh",
+                "誥命": "cáo mệnh",
+                "苟全性命": "cẩu toàn tính mệnh",
+                "專命": "chuyên mệnh",
+                "救命": "cứu mệnh",
+                "救人一命勝造七級浮屠": "cứu nhân nhất mệnh thắng tạo thất cấp phù đồ",
+                "維他命": "duy tha mệnh",
+                "定命": "định mệnh",
+                "斷命": "đoạn mệnh",
+                "短命": "đoản mệnh",
+                "同命": "đồng mệnh",
+                "欽命": "khâm mệnh",
+                "乞命": "khất mệnh",
+                "領命": "lĩnh mệnh",
+                "命薄": "mệnh bạc",
+                "命終": "mệnh chung",
+                "命名": "mệnh danh",
+                "命題": "mệnh đề",
+                "命令": "mệnh lệnh",
+                "命脈": "mệnh mạch",
+                "命脉": "mệnh mạch",
+                "命門": "mệnh môn",
+                "命沒": "mệnh một",
+                "命婦": "mệnh phụ",
+                "命运": "mệnh vận",
+                "命運": "mệnh vận",
+                "明命": "minh mệnh",
+                "逆命": "nghịch mệnh",
+                "嚴命": "nghiêm mệnh",
+                "任命": "nhiệm mệnh",
+                "人命": "nhân mệnh",
+                "反命": "phản mệnh",
+                "分命": "phận mệnh",
+                "非命": "phi mệnh",
+                "放命": "phóng mệnh",
+                "復命": "phục mệnh",
+                "覆命": "phúc mệnh",
+                "奉命": "phụng mệnh",
+                "方命": "phương mệnh",
+                "軍中詞命集": "quân trung từ mệnh tập",
+                "國命": "quốc mệnh",
+                "捐命": "quyên mệnh",
+                "冊命": "sách mệnh",
+                "册命": "sách mệnh",
+                "敕命": "sắc mệnh",
+                "生命": "sinh mệnh",
+                "聘命": "sính mệnh",
+                "生命刑": "sinh mệnh hình",
+                "數命": "số mệnh",
+                "使命": "sứ mệnh",
+                "盡命": "tận mệnh",
+                "畢命": "tất mệnh",
+                "替命": "thế mệnh",
+                "天命": "thiên mệnh",
+                "請命": "thỉnh mệnh",
+                "授命": "thụ mệnh",
+                "贖命": "thục mệnh",
+                "性命": "tính mệnh",
+                "算命": "toán mệnh",
+                "知命": "tri mệnh",
+                "致命": "trí mệnh",
+                "朝命": "triều mệnh",
+                "長命": "trường mệnh",
+                "遵命": "tuân mệnh",
+                "絕命": "tuyệt mệnh",
+                "絶命": "tuyệt mệnh",
+                "運命": "vận mệnh",
+                "違命": "vi mệnh",
+                "亡命": "vong mệnh",
+                "王命": "vương mệnh",
+                "捨命": "xả mệnh",
+                "舍命": "xả mệnh",
+                "殀命": "yểu mệnh"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "券",
+    "details": {
+        "Âm Hán Việt": [
+            "khoán"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "đao 刀 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱龹刀"
+        ],
+        "Nét bút": [
+            "丶ノ一一ノ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "FQSH (火手尸竹)"
+        ],
+        "Unicode": [
+            "U+5238"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "quàn ㄑㄩㄢˋ"
+        ],
+        "Âm Nôm": [
+            "khoán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Hàn": [
+            "권"
+        ],
+        "Âm Quảng Đông": [
+            "gyun3",
+            "hyun3"
+        ]
+    },
+    "meanings": {
+        "khoán": {
+            "Từ điển phổ thông": [
+                "văn tự để làm tin"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khế ước, văn tự (thời xưa). ◎Như: 'mãi địa khoán' 買地券 khế ước mua đất.",
+                "(Danh) Tờ chứng có giá trị, có thể mua bán, chuyển nhượng. ◎Như: 'trái khoán' 債券 chứng thư nợ.",
+                "(Danh) Vé, phiếu, giấy (để làm bằng chứng). ◎Như: 'nhập tràng khoán' 入場券 vé vào cửa.",
+                "(Động) Tương hợp. ◇Trang Tử 莊子: 'Khoán nội giả, hành hồ vô danh' 券內者, 行乎無名 (Canh Tang Sở 庚桑楚) Người khế hợp với nội tâm, thì không cầu danh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoán, tức như cái giấy hợp đồng bây giờ, mỗi bên giữ một cái giấy để làm bằng cứ. Phàm văn tự để làm tin đều gọi là khoán.",
+                "Khoán là cái bằng cứ để lấy đồ, cho nên sự tính được tất thành gọi là thao khoán 操券 nghĩa là tất được vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vé, phiếu, giấy, khoán: 入場券 Vé vào cửa; 公債券 Phiếu công trái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tờ giấy làm bằng. Ta cũng gọi là Bằng khoán 憑券."
+            ],
+            "compound_words": {
+                "印券": "ấn khoán",
+                "寶券": "bảo khoán",
+                "證券": "chứng khoán",
+                "地券": "địa khoán",
+                "契券": "khế khoán",
+                "券契": "khoán khế",
+                "券書": "khoán thư",
+                "國庫券": "quốc khố khoán",
+                "宅券": "trạch khoán",
+                "債券": "trái khoán"
+            }
+        }
+    }
+}

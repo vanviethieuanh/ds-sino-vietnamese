@@ -1,0 +1,87 @@
+{
+    "character": "靶",
+    "details": {
+        "Âm Hán Việt": [
+            "bá",
+            "bả"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "cách 革 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰革巴"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一丨フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "TJAU (廿十日山)"
+        ],
+        "Unicode": [
+            "U+9776"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bǎ ㄅㄚˇ",
+            "bà ㄅㄚˋ"
+        ],
+        "Âm Nôm": [
+            "bà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たづな (tazuna)"
+        ],
+        "Âm Quảng Đông": [
+            "baa2"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển phổ thông": [
+                "dây cương ngựa",
+                "cái bia để bắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dây cương ngựa làm bằng da.",
+                "(Danh) Cái đích để bắn, mục tiêu, bia. ◎Như: 'đả bá' 打靶 bắn bia.",
+                "(Danh) Chuôi, cán. § Cũng như 'bả' 把. ◇Bắc Tề Thư 北齊書: 'Hựu hữu dĩ cốt vi đao tử bá giả' 又有以骨為刀子靶者 (Từ Chi Tài truyện 徐之才傳) Lại có người lấy xương làm chuôi đao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dây cương da.",
+                "Cái đích để bắn.",
+                "Chuôi, cán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái đích để bắn, mục tiêu, bia: 打靶 Bắn bia, tập bắn. Cg. 靶子 [băzi];",
+                "(văn) Da dây cương ngựa;",
+                "(văn) Chuôi, cán (dùng như 把, bộ 扌)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ tay cầm ở dây cương ngựa — Chỗ tay cầm ở cánh cung. Như chữ Bá 弝 hoặc Bá 把 — Cái đích để tập nhắm bắn. Cũng gọi là Bá tử."
+            ],
+            "compound_words": {
+                "靶子": "bá tử"
+            }
+        },
+        "bả": {
+            "Từ điển phổ thông": [
+                "dây cương ngựa",
+                "cái bia để bắn"
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "character": "禅",
+    "details": {
+        "Âm Hán Việt": [
+            "thiền",
+            "thiện"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kỳ 示 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿻⺭单"
+        ],
+        "Nét bút": [
+            "丶フ丨丶丶ノ丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "IFCWJ (戈火金田十)"
+        ],
+        "Unicode": [
+            "U+7985"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ",
+            "shàn ㄕㄢˋ"
+        ],
+        "Âm Nôm": [
+            "thiền",
+            "xèng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゼン (zen)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しずか (shizuka)",
+            "ゆず.る (yuzu.ru)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "sim3",
+            "sin4",
+            "sin6"
+        ]
+    },
+    "meanings": {
+        "thiền": {
+            "Từ điển phổ thông": [
+                "lặng nghĩ suy xét",
+                "thiền"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'thiền' 禪.",
+                "Giản thể của chữ 禪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 禪"
+            ]
+        },
+        "thiện": {
+            "Từ điển phổ thông": [
+                "quét đất để tế",
+                "trao cho, truyền cho"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'thiền' 禪.",
+                "Giản thể của chữ 禪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Thiên tử) nhường ngôi, truyền ngôi (cho người khác): 禪位 Nhường ngôi;",
+                "(văn) Quét đất để tế. Xem 禪 [chán]."
+            ],
+            "compound_words": {
+                "禅位": "thiện vị"
+            }
+        }
+    }
+}

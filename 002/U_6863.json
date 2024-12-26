@@ -1,0 +1,88 @@
+{
+    "character": "档",
+    "details": {
+        "Âm Hán Việt": [
+            "đáng",
+            "đương"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木当"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨丶ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "DFSM (木火尸一)"
+        ],
+        "Unicode": [
+            "U+6863"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dǎng ㄉㄤˇ",
+            "dàng ㄉㄤˋ"
+        ],
+        "Âm Nôm": [
+            "đang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "dong2",
+            "dong3"
+        ]
+    },
+    "meanings": {
+        "đáng": {
+            "Từ điển phổ thông": [
+                "tấm phản",
+                "bản bằng gỗ mỏng để viết văn tự vào",
+                "tệp, file (tin học)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 檔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 檔"
+            ],
+            "compound_words": {
+                "文档": "văn đáng"
+            }
+        },
+        "đương": {
+            "Từ điển phổ thông": [
+                "tấm phản",
+                "bản bằng gỗ mỏng để viết văn tự vào",
+                "tệp, file (tin học)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 檔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 檔"
+            ],
+            "compound_words": {
+                "档案": "đương án",
+                "档案分配区": "đương án phân phối khu"
+            }
+        }
+    }
+}

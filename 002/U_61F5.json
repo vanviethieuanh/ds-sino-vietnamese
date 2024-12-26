@@ -1,0 +1,90 @@
+{
+    "character": "懵",
+    "details": {
+        "Âm Hán Việt": [
+            "manh",
+            "mông",
+            "mặng",
+            "mộng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "tâm 心 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖瞢"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨丨丨フ丨丨一丶フ丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "PTWU (心廿田山)"
+        ],
+        "Unicode": [
+            "U+61F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "méng ㄇㄥˊ",
+            "měng ㄇㄥˇ"
+        ],
+        "Âm Nôm": [
+            "mộng"
+        ],
+        "Âm Quảng Đông": [
+            "mung2",
+            "mung4",
+            "mung5"
+        ]
+    },
+    "meanings": {
+        "manh": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngu muội không biết gì."
+            ]
+        },
+        "mông": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 蒙 (bộ 艸)."
+            ]
+        },
+        "mặng": {
+            "Từ điển trích dẫn": [
+                "(Tính) § Xem 'mộng đổng' 懵懂.",
+                "Một âm là 'mặng'. (Tính) Buồn."
+            ]
+        },
+        "mộng": {
+            "Từ điển phổ thông": [
+                "ngu muội",
+                "hồ đồ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) § Xem 'mộng đổng' 懵懂.",
+                "Một âm là 'mặng'. (Tính) Buồn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hiểu biết rõ ràng, như: nhất khán tựu đổng 一看就懂. Tục gọi người không hiểu biết rõ ràng là mộng đổng 懵懂, kẻ hiểu biết rõ ràng là đổng sự 懂事.."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hồ đồ: 懵然無知 Hồ đồ chả biết gì cả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Mộng 懜."
+            ],
+            "compound_words": {
+                "懵懂": "mộng đổng"
+            }
+        }
+    }
+}

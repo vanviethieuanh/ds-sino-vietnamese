@@ -1,0 +1,82 @@
+{
+    "character": "鴂",
+    "details": {
+        "Âm Hán Việt": [
+            "quyết",
+            "quých"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰夬鳥"
+        ],
+        "Nét bút": [
+            "フ一ノ丶ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "DKHAF (木大竹日火)"
+        ],
+        "Unicode": [
+            "U+9D02"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ",
+            "juè ㄐㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "quạch",
+            "quyết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)",
+            "ケチ (kechi)",
+            "ケイ (kei)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さざき (sazaki)"
+        ],
+        "Âm Quảng Đông": [
+            "kyut3"
+        ]
+    },
+    "meanings": {
+        "quyết": {
+            "Từ điển phổ thông": [
+                "chim bách thiệt (kêu được trăm thứ tiếng)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng viết là “quyết” 鴃, “quyết” 鵙."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ninh quyết 寧鴂 chim ninh quyết.",
+                "Một âm là quých. Cùng nghĩa với chữ quyết 鵙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim bách thanh, chim đồ tể. Cv. 鴃. Cg. 寧鴂"
+            ],
+            "compound_words": {
+                "鶗鴂": "đề quyết"
+            }
+        },
+        "quých": {
+            "Từ điển Thiều Chửu": [
+                "Ninh quyết 寧鴂 chim ninh quyết.",
+                "Một âm là quých. Cùng nghĩa với chữ quyết 鵙."
+            ]
+        }
+    }
+}

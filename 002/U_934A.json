@@ -1,0 +1,90 @@
+{
+    "character": "鍊",
+    "details": {
+        "Âm Hán Việt": [
+            "luyện"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "kim 金 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金柬"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨フ丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CDWF (金木田火)"
+        ],
+        "Unicode": [
+            "U+934A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "luyện",
+            "rèn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねる (neru)"
+        ],
+        "Âm Hàn": [
+            "련",
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "lin6"
+        ]
+    },
+    "meanings": {
+        "luyện": {
+            "Từ điển phổ thông": [
+                "luyện, đúc (làm nóng chảy kim loại rồi để đông lại)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rèn, đúc (dùng lửa hoặc nhiệt độ cao trừ khử tạp chất hoặc làm cho vật chất cứng dắn). § Thông 'luyện' 煉. ◇Hoàng Cực Kinh Thế Thư 皇極經世書: 'Kim bách liên nhiên hậu tinh' 金百鏈然後精 Vàng rèn đúc trăm lần sau mới tinh.",
+                "(Động) Ngao, rang, chế thuốc. § Thông 'luyện' 煉. ◎Như: 'luyện dược' 鍊藥 ngao thuốc.",
+                "(Động) Trau chuốt, gọt giũa câu chữ văn chương. ◎Như: 'luyện tự' 鍊字 gọt giũa chữ, trau chuốt văn tự.",
+                "(Động) Huấn luyện, tập luyện. ◇Bão Phác Tử 抱朴子: 'Luyện nhân thân thể' 鍊人身體 (Nội thiên 內篇, Kim đan 金丹) Tu luyện thân thể người.",
+                "(Danh) Dây xích. ◎Như: 'thiết luyện' 鐵鍊 dây xích sắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rèn đúc. Rèn đúc các loài kim cho đến tốt gọi là luyện.",
+                "Ðiêu luyện. Phàm cái gì đến cõi tinh đều gọi là luyện. Như luyện tự 鍊字 chữ dùng luyện lắm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rèn, đúc;",
+                "Điêu luyện, tinh luyện: 鍊字 Chữ dùng khéo (điêu luyện);",
+                "Làm cho tao nhã, trau chuốt: 他的文詞缺乏洗鍊 Lời nói của anh ta thiếu trau chuốt;",
+                "Dây xích (như 鏈)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nấu kim loại để bỏ đi chất dơ. Như chữ Luyện 煉 — Cái còng sắt để còng tay phạm nhân — Tập tành cho quen cho giỏi. Như chữ Luyện 練."
+            ],
+            "compound_words": {
+                "陶鍊": "đào luyện",
+                "鍛鍊": "đoán luyện",
+                "鍊兵": "luyện binh",
+                "鍊丹": "luyện đơn",
+                "鍊金": "luyện kim",
+                "鍊字": "luyện tự"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "宅",
+    "details": {
+        "Âm Hán Việt": [
+            "trạch"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "miên 宀 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱宀乇"
+        ],
+        "Nét bút": [
+            "丶丶フノ一フ"
+        ],
+        "Thương Hiệt": [
+            "JHP (十竹心)"
+        ],
+        "Unicode": [
+            "U+5B85"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhái ㄓㄞˊ"
+        ],
+        "Âm Nôm": [
+            "trạch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)"
+        ],
+        "Âm Hàn": [
+            "택",
+            "댁"
+        ],
+        "Âm Quảng Đông": [
+            "zaak6"
+        ]
+    },
+    "meanings": {
+        "trạch": {
+            "Từ điển phổ thông": [
+                "nhà ở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ ở, nhà. ◎Như: 'quốc dân trụ trạch' 國民住宅 nhà của nhà nước hay đoàn thể tư nhân đầu tư xây cất cho dân. ◇Pháp Hoa Kinh 法華經: 'Tài phú vô lượng, đa hữu điền trạch, cập chư đồng bộc' 財富無量, 多有田宅, 及諸僮僕 (Thí dụ phẩm đệ tam 譬喻品第三) Tiền của giàu có vô cùng, lắm ruộng nương nhà cửa và tôi tớ.",
+                "(Danh) Mồ mả. ◎Như: 'trạch triệu' 宅兆 phần mộ, mồ mả. ◇Lễ Kí 禮記: 'Đại phu bốc trạch dữ táng nhật' 大夫卜宅與葬日 (Tạp kí 雜記) Đại phu bói xem phần mộ và ngày chôn.",
+                "(Động) Ở, giữ. ◇Thư Kinh 書經: 'Trạch tâm tri huấn' 宅心知訓 (Khang cáo 康誥) Giữ lòng (ngay) và biết giáo huấn.",
+                "(Động) Yên định, an trụ. ◇Thư Kinh 書經: 'Diệc duy trợ vương trạch thiên mệnh' 亦惟助王宅天命 (Khang cáo 康誥) Cũng mưu giúp vua yên định mệnh trời."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhà ở, ở vào đấy cũng gọi là trạch.",
+                "Trạch triệu 宅兆 phần mộ (mồ mả). Nay gọi nhà ở là dương trạch 陽宅, mồ mả là âm trạch 陰宅 là noi ở nghĩa ấy.",
+                "Yên định."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà (lớn và rộng): 住宅 Nhà ở; 深宅大院 Nhà cao vườn rộng;",
+                "(văn) Ở vào nhà;",
+                "(văn) Yên định."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà ở — Ở — Mồ mã — Yên tĩnh."
+            ],
+            "compound_words": {
+                "安宅": "an trạch",
+                "陰宅": "âm trạch",
+                "本宅": "bản trạch",
+                "乾宅": "kiền trạch",
+                "居宅": "cư trạch",
+                "陽宅": "dương trạch",
+                "第宅": "đệ trạch",
+                "田宅": "điền trạch",
+                "家宅": "gia trạch",
+                "坤宅": "khôn trạch",
+                "土宅": "thổ trạch",
+                "宅券": "trạch khoán",
+                "宅憂": "trạch ưu",
+                "鎮宅": "trấn trạch",
+                "住宅": "trú trạch"
+            }
+        }
+    }
+}

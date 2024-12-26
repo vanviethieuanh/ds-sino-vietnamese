@@ -1,0 +1,76 @@
+{
+    "character": "创",
+    "details": {
+        "Âm Hán Việt": [
+            "sang",
+            "sáng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "đao 刀 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰仓⺉"
+        ],
+        "Nét bút": [
+            "ノ丶フフ丨丨"
+        ],
+        "Thương Hiệt": [
+            "OULN (人山中弓)"
+        ],
+        "Unicode": [
+            "U+521B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuāng ㄔㄨㄤ",
+            "chuàng ㄔㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "sang"
+        ],
+        "Âm Quảng Đông": [
+            "cong3"
+        ]
+    },
+    "meanings": {
+        "sang": {
+            "Từ điển phổ thông": [
+                "đau, bị thương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 創."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 創"
+            ]
+        },
+        "sáng": {
+            "Từ điển phổ thông": [
+                "mới"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 創."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 創"
+            ],
+            "compound_words": {
+                "创建": "sáng kiến",
+                "创立": "sáng lập",
+                "创作": "sáng tác",
+                "创造": "sáng tạo"
+            }
+        }
+    }
+}

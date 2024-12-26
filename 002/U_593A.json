@@ -1,0 +1,65 @@
+{
+    "character": "夺",
+    "details": {
+        "Âm Hán Việt": [
+            "đoạt"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "đại 大 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱大寸"
+        ],
+        "Nét bút": [
+            "一ノ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "KDI (大木戈)"
+        ],
+        "Unicode": [
+            "U+593A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "duó ㄉㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "đoạt"
+        ],
+        "Âm Quảng Đông": [
+            "dyut6"
+        ]
+    },
+    "meanings": {
+        "đoạt": {
+            "Từ điển phổ thông": [
+                "cướp lấy",
+                "quyết định",
+                "đường hẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 奪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 奪"
+            ],
+            "compound_words": {
+                "剥夺": "bác đoạt",
+                "夺取": "đoạt thủ",
+                "掠夺": "lược đoạt",
+                "截夺": "tiệt đoạt"
+            }
+        }
+    }
+}

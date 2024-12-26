@@ -1,0 +1,60 @@
+{
+    "character": "薬",
+    "details": {
+        "Âm Hán Việt": [
+            "dược"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹楽"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨フ一一丶一ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TIOD (廿戈人木)"
+        ],
+        "Unicode": [
+            "U+85AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yào ㄧㄠˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くすり (kusuri)"
+        ],
+        "Âm Hàn": [
+            "약"
+        ],
+        "Âm Quảng Đông": [
+            "joek3"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển phổ thông": [
+                "cây thuốc, thuốc chữa bệnh"
+            ],
+            "compound_words": {
+                "媚薬": "mị dược"
+            }
+        }
+    }
+}

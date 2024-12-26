@@ -1,0 +1,103 @@
+{
+    "character": "級",
+    "details": {
+        "Âm Hán Việt": [
+            "cấp"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹及"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "VFNHE (女火弓竹水)"
+        ],
+        "Unicode": [
+            "U+7D1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cấp",
+            "cóp",
+            "cụp",
+            "khởi",
+            "khớp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)"
+        ],
+        "Âm Hàn": [
+            "급"
+        ],
+        "Âm Quảng Đông": [
+            "kap1"
+        ]
+    },
+    "meanings": {
+        "cấp": {
+            "Từ điển phổ thông": [
+                "cấp bậc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thứ bậc. ◎Như: 'cao cấp' 高級 cấp bậc cao, 'đặc cấp' 特級 cấp bậc đặc biệt.",
+                "(Danh) Bậc học. ◎Như: 'nhị niên cấp' 二年級 bậc năm thứ hai.",
+                "(Danh) Bậc thềm. ◎Như: 'thập cấp' 拾級 lên thềm, 'thạch cấp' 石級 bậc đá.",
+                "(Danh) Lượng từ: (1) Đơn vị dùng cho bậc thềm, tầng lầu tháp. ◎Như: 'bách cấp thạch giai' 百級石階 bệ thềm đá một trăm bậc. (2) Đơn vị phân chia mức độ, thứ bậc của sự vật. ◎Như: 'tấn thăng tam cấp' 晉升三級 thăng lên ba bậc, 'địa chấn cường độ phân vi thất cấp' 地震強度分為七級 độ mạnh của động đất chia làm bảy mức.",
+                "(Danh) Đầu người. § Phép nhà Tần cứ chém được một đầu giặc được thăng một cấp, nên gọi cái đầu là 'thủ cấp' 首級. ◇Tam quốc diễn nghĩa 三國演義: 'Bố hướng tiền nhất đao khảm hạ Đinh Nguyên thủ cấp' 布向前一刀砍下丁原首級 (Đệ tam hồi) (Lã) Bố giơ đao tới trước chặt đứt đầu Đinh Nguyên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bậc, mỗi một bậc thềm gọi là một cấp, vì thế lên thềm gọi là thập cấp 拾級. Phàm sự gì có thứ bậc cũng gọi là cấp cả, như làm quan lên một bậc gọi là nhất cấp 一級.",
+                "Phép nhà Tần cứ chém được một đầu giặc được thăng một cấp, nên gọi cái đầu là thủ cấp 首級."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cấp: 上級 Cấp trên; 縣級 Cấp huyện; 一級運 動員 Vận động viên cấp một (cấp A);",
+                "Bậc, bực: 三級工 Công nhân bậc ba; 台階有三級 Thềm nhà có ba bực; 同級不同班 Cùng bậc (học) không cùng lớp;",
+                "Tầng, từng: 九級浮屠 Tháp chín tầng;",
+                "(văn) Đầu quân giặc, thủ cấp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bậc thềm — Thứ bậc."
+            ],
+            "compound_words": {
+                "高級": "cao cấp",
+                "級數": "cấp số",
+                "救人一命勝造七級浮屠": "cứu nhân nhất mệnh thắng tạo thất cấp phù đồ",
+                "等級": "đẳng cấp",
+                "低級": "đê cấp",
+                "加級": "gia cấp",
+                "階級": "giai cấp",
+                "降級": "giáng cấp",
+                "學級": "học cấp",
+                "畱級": "lưu cấp",
+                "品級": "phẩm cấp",
+                "超級": "siêu cấp",
+                "初級": "sơ cấp",
+                "三級": "tam cấp",
+                "升級": "thăng cấp",
+                "首級": "thủ cấp",
+                "上級": "thượng cấp",
+                "斬級": "trảm cấp",
+                "中級": "trung cấp",
+                "越級": "việt cấp"
+            }
+        }
+    }
+}

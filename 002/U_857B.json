@@ -1,0 +1,81 @@
+{
+    "character": "蕻",
+    "details": {
+        "Âm Hán Việt": [
+            "hống",
+            "hồng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹⿰镸共"
+        ],
+        "Nét bút": [
+            "一丨丨一丨一一一フ丶一丨丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TSIC (廿尸戈金)"
+        ],
+        "Unicode": [
+            "U+857B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hóng ㄏㄨㄥˊ",
+            "hòng ㄏㄨㄥˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しげ.る (shige.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "hung4",
+            "hung6"
+        ]
+    },
+    "meanings": {
+        "hống": {
+            "Từ điển phổ thông": [
+                "tươi tốt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tươi tốt, mậu thịnh.",
+                "(Danh) 'Tuyết lí hống' 雪裡蕻 một thứ rau, tuyết xuống vẫn xanh, thường dùng làm rau ướp muối（Brassica juncea）. § Còn gọi là 'tuyết lí hồng' 雪裡紅, 'xuân bất lão' 春不老."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tươi tốt.",
+                "Tuyết lí hống 雪裏蕻 một thứ rau, tuyết xuống vẫn xanh nên gọi là tuyết lí hống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sum sê, tươi tốt."
+            ]
+        },
+        "hồng": {
+            "Từ điển phổ thông": [
+                "(như: tuyết lý hồng 雪裡蕻)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một loại rau (còn gọi là tuyết lí hồng 雪裡蕻, vì vẫn xanh tươi khi có tuyết xuống)."
+            ],
+            "compound_words": {
+                "雪裡蕻": "tuyết lý hồng",
+                "雪里蕻": "tuyết lý hồng"
+            }
+        }
+    }
+}

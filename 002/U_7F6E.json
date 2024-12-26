@@ -1,0 +1,109 @@
+{
+    "character": "置",
+    "details": {
+        "Âm Hán Việt": [
+            "trí"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "võng 网 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺲直"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一一丨丨フ一一一一"
+        ],
+        "Thương Hiệt": [
+            "WLJBM (田中十月一)"
+        ],
+        "Unicode": [
+            "U+7F6E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "trí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "お.く (o.ku)",
+            "-お.き (-o.ki)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "zi3"
+        ]
+    },
+    "meanings": {
+        "trí": {
+            "Từ điển phổ thông": [
+                "đặt, để, bày"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tha cho, thả, phóng thích. ◇Quốc ngữ 國語: 'Vương toại trí chi' 王遂置之 (Trịnh ngữ 鄭語) Vương bèn tha cho.",
+                "(Động) Vứt bỏ. ◎Như: 'phế trí' 廢置 bỏ đi, 'các trí' 擱置 gác bỏ. ◇Quốc ngữ 國語: 'Thị dĩ tiểu oán trí đại đức dã' 是以小怨置大德也 (Chu ngữ trung 周語中) Đó là lấy oán nhỏ mà bỏ đức lớn vậy.",
+                "(Động) Đặt để, để yên. ◎Như: 'trí ư trác thượng' 置於桌上 đặt trên bàn, 'trí tửu thiết yến' 置酒設宴 bày tiệc.",
+                "(Động) Thiết lập, dựng nên. ◎Như: 'trí huyện' 置縣 đặt ra từng huyện, 'trí quan' 置官 đặt chức quan.",
+                "(Động) Mua, sắm. ◎Như: 'trí nhất ta gia cụ' 置一些家具 mua sắm ít đồ đạc trong nhà.",
+                "(Danh) Nhà trạm, dịch trạm. ◇Mạnh Tử 孟子: 'Đức chi lưu hành, tốc ư trí bưu nhi truyền mệnh' 德之流行, 速於置郵而傳命 (Công Tôn Sửu thượng 公孫丑上) Sự lan truyền của đức, còn nhanh chóng hơn là đặt nhà trạm mà truyền lệnh nữa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðể, cầm đồ gì để yên vào đâu đều gọi là trí.",
+                "Vứt bỏ, như phế trí 廢置 bỏ đi, các trí 擱置 gác bỏ.",
+                "Yên để, như thố trí 措置 đặt để, vị trí 位置 ngôi ở, nghĩa là đặt để ngôi nào vào chỗ ấy.",
+                "Ðặt dựng, như trí huyện 置縣 đặt ra từng huyện, trí quan 置官 đặt quan, v.v.",
+                "Nhà trạm, như Ðức chi lưu hành, tốc ư trí bưu nhi truyền mệnh 德之流行，速於置郵而傳命 (Mạnh Tử 孟子) sự lưu hành của đức, còn chóng hơn đặt trạm mà truyền tin tức."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bỏ, đặt, đặt ra, dựng ra, để, bày: 置于桌上 Bỏ (đặt) trên bàn; 安置 Sắp đặt; 廢置 Bỏ đi; 擱置 Gác bỏ; 措置 Đặt để; 漠然 置之 Thản nhiên không để bụng; 置酒設宴 Bày tiệc; 置縣 Đặt ra huyện (mới); 置官 Đặt ra chức quan (mới);",
+                "Lắp, lắp đặt, (thiết) bị: 裝置電話 Lắp điện thoại; 設置若幹哨所 Thiết lập một số trạm gác;",
+                "Sắm, mua: 置一些家具 Sắm một số bàn ghế; 置一身衣服 Mua (sắm) một bộ quần áo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đặt để. Sắp đặt. Td: Bài trí — Để ở yên. Td: An trí — Tha tội."
+            ],
+            "compound_words": {
+                "安置": "an trí",
+                "排置": "bài trí",
+                "不置": "bất trí",
+                "布置": "bố trí",
+                "廄置": "cứu trí",
+                "换置": "hoán trí",
+                "換置": "hoán trí",
+                "弃置": "khí trí",
+                "棄置": "khí trí",
+                "建置": "kiến trí",
+                "廢置": "phế trí",
+                "放置": "phóng trí",
+                "配置": "phối trí",
+                "散置": "tán trí",
+                "設置": "thiết trí",
+                "装置": "trang trí",
+                "裝置": "trang trí",
+                "置辦": "trí bạn",
+                "置身": "trí thân",
+                "置酒": "trí tửu",
+                "位置": "vị trí",
+                "處置": "xử trí"
+            }
+        }
+    }
+}

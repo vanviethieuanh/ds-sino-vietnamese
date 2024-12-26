@@ -1,0 +1,138 @@
+{
+    "character": "数",
+    "details": {
+        "Âm Hán Việt": [
+            "sác",
+            "số",
+            "sổ",
+            "xúc"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "phác 攴 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰娄攵"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶フノ一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "FVOK (火女人大)"
+        ],
+        "Unicode": [
+            "U+6570"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cù ㄘㄨˋ",
+            "shǔ ㄕㄨˇ",
+            "shù ㄕㄨˋ",
+            "shuò ㄕㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "số",
+            "xọ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スウ (sū)",
+            "ス (su)",
+            "サク (saku)",
+            "ソク (soku)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かず (kazu)",
+            "かぞ.える (kazo.eru)",
+            "しばしば (shibashiba)",
+            "せ.める (se.meru)",
+            "わずらわ.しい (wazurawa.shii)"
+        ],
+        "Âm Hàn": [
+            "수",
+            "촉"
+        ],
+        "Âm Quảng Đông": [
+            "sou2",
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "sác": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 數."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhiều lần, luôn luôn, thường: 幾死者數矣 Suýt chết đã mấy lần rồi (Liễu Tôn Nguyên: Bộ xà giả thuyết); 是時地數震裂，衆火頻降 Khi ấy đất thường động vỡ, nhiều trận hoả tai giáng xuống (Hậu Hán thư). 【數見不鮮】sác kiến bất tiên [shuò jiàn bùxian] Thường gặp chẳng mới mẻ gì (không có gì lạ). Xem 數 [cù], [shư], [shù]."
+            ]
+        },
+        "số": {
+            "Từ điển phổ thông": [
+                "số lượng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 數."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 數"
+            ],
+            "compound_words": {
+                "变数": "biến số",
+                "倍数": "bội số",
+                "指数": "chỉ số",
+                "多数": "đa số",
+                "代数": "đại số",
+                "吨数": "đốn số",
+                "单数": "đơn số",
+                "函数": "hàm số",
+                "奇数": "kỳ số",
+                "偶数": "ngẫu số",
+                "人数": "nhân số",
+                "分数": "phân số",
+                "非对称式数据用户线": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "数学": "số học",
+                "数量": "số lượng",
+                "数字": "số tự",
+                "数位": "số vị",
+                "少数": "thiểu số",
+                "次数": "thứ số",
+                "总数": "tổng số",
+                "岁数": "tuế số"
+            }
+        },
+        "sổ": {
+            "Từ điển phổ thông": [
+                "một vài",
+                "đếm",
+                "kể ra, nêu ra"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 數."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đếm: 數不清 Đếm không xuể;",
+                "Chỉ sự hơn: 我家就數他身子好 Nhà tôi chỉ có nó là khỏe hơn cả;",
+                "Kể: 不足數 Không đáng kể;",
+                "Kể tội, quở mắng: 數說 Quở trách, mắng. Xem 數 [cù], [shù], [shuò]."
+            ]
+        },
+        "xúc": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 數."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhặt: 數罟不入洿池Lưới nhặt không vào ao lớn (Mạnh tử: Lương Huệ vương thượng). Xem 數 [shư], [shù], [shuò]."
+            ]
+        }
+    }
+}

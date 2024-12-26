@@ -1,0 +1,92 @@
+{
+    "character": "鰥",
+    "details": {
+        "Âm Hán Việt": [
+            "côn",
+            "quan"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "ngư 魚 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰魚眔"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一丶丶丶丶丨フ丨丨一丨ノノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "NFWLE (弓火田中水)"
+        ],
+        "Unicode": [
+            "U+9C25"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "guān ㄍㄨㄢ",
+            "guàn ㄍㄨㄢˋ",
+            "gǔn ㄍㄨㄣˇ",
+            "kūn ㄎㄨㄣ",
+            "yín ㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "quan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やもめ (yamome)",
+            "やもお (yamō)"
+        ],
+        "Âm Hàn": [
+            "환"
+        ],
+        "Âm Quảng Đông": [
+            "gwaan1"
+        ]
+    },
+    "meanings": {
+        "côn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Côn 鯤 — Một âm khác là Quan."
+            ]
+        },
+        "quan": {
+            "Từ điển phổ thông": [
+                "cá lớn",
+                "người goá vợ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một loài cá lớn (theo sách xưa).",
+                "(Danh) Người góa vợ hoặc người lớn tuổi mà không có vợ. ◇Sử Kí 史記: 'Tuất quan quả, tồn cô độc' 恤鰥寡, 存孤獨 (Tư Mã Tương Như truyện 司馬相如傳) Giúp đỡ người góa bụa, chăm xóc kẻ già không có con cháu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cá lớn.",
+                "Người goá vợ, người lớn tuổi mà không có vợ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Người không vợ, người góa vợ, người chưa vợ;",
+                "(văn) Một loài cá khổng lồ ăn thịt sống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cá lớn — Con cá lớn — Người goá vợ, hoặc không lấy vợ."
+            ],
+            "compound_words": {
+                "鰥寡": "quan quả",
+                "鰥鰥": "quan quan"
+            }
+        }
+    }
+}

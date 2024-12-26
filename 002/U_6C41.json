@@ -1,0 +1,121 @@
+{
+    "character": "汁",
+    "details": {
+        "Âm Hán Việt": [
+            "chấp",
+            "hiệp",
+            "trấp"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡十"
+        ],
+        "Nét bút": [
+            "丶丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "EJ (水十)"
+        ],
+        "Unicode": [
+            "U+6C41"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shī ㄕ",
+            "xié ㄒㄧㄝˊ",
+            "zhī ㄓ"
+        ],
+        "Âm Nôm": [
+            "chấp",
+            "trấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュウ (jū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しる (shiru)",
+            "-しる (-shiru)",
+            "つゆ (tsuyu)"
+        ],
+        "Âm Hàn": [
+            "즙",
+            "집"
+        ],
+        "Âm Quảng Đông": [
+            "zap1"
+        ]
+    },
+    "meanings": {
+        "chấp": {
+            "Từ điển trích dẫn": [
+                "(Danh) Nhựa, chất lỏng. ◎Như: 'quả chấp' 果汁 nước trái cây, 'nhũ chấp' 乳汁 sữa.",
+                "(Danh) Vừa mưa vừa tuyết.",
+                "Một âm là 'hiệp'. (Động) Hòa. § Thông 'hiệp' 協."
+            ],
+            "compound_words": {
+                "乳汁": "nhũ chấp"
+            }
+        },
+        "hiệp": {
+            "Từ điển phổ thông": [
+                "hoà hợp",
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhựa, chất lỏng. ◎Như: 'quả chấp' 果汁 nước trái cây, 'nhũ chấp' 乳汁 sữa.",
+                "(Danh) Vừa mưa vừa tuyết.",
+                "Một âm là 'hiệp'. (Động) Hòa. § Thông 'hiệp' 協."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước, nhựa. Vật gì có nước lỏng chảy ra gọi là trấp.",
+                "Vừa mưa vừa sa tuyết.",
+                "Một âm là hiệp. Hoà, cùng nghĩa với chữ hiệp 協."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 協 (bộ 十)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Hiệp 協. Một âm là Trấp. Xem Trấp."
+            ]
+        },
+        "trấp": {
+            "Từ điển phổ thông": [
+                "nhựa, chất lỏng"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước, nhựa. Vật gì có nước lỏng chảy ra gọi là trấp.",
+                "Vừa mưa vừa sa tuyết.",
+                "Một âm là hiệp. Hoà, cùng nghĩa với chữ hiệp 協."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chất nước đặc, nhựa: 乳汁 Nước sữa; 豆汁 Sữa đậu; 桔子汁 Nước cam; 檸檬汁 Nước chanh;",
+                "(văn) Vừa mưa vừa có tuyết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước. Chất nước trong trái cây — Nước ép ra."
+            ],
+            "compound_words": {
+                "膽汁": "đảm trấp",
+                "糖汁": "đường trấp",
+                "灰汁": "hôi trấp",
+                "墨汁": "mặc trấp",
+                "蜜汁": "mật trấp",
+                "乳汁": "nhũ trấp",
+                "果汁": "quả trấp"
+            }
+        }
+    }
+}

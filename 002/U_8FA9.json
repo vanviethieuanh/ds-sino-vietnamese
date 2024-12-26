@@ -1,0 +1,63 @@
+{
+    "character": "辩",
+    "details": {
+        "Âm Hán Việt": [
+            "biện"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "tân 辛 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿴辡讠"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一一ノ丶フ丶一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YJIVJ (卜十戈女十)"
+        ],
+        "Unicode": [
+            "U+8FA9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "biàn ㄅㄧㄢˋ",
+            "pián ㄆㄧㄢˊ"
+        ],
+        "Âm Quảng Đông": [
+            "bin6"
+        ]
+    },
+    "meanings": {
+        "biện": {
+            "Từ điển phổ thông": [
+                "cãi, tranh luận",
+                "biện bác"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 辯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 辯"
+            ],
+            "compound_words": {
+                "辩证": "biện chứng",
+                "辩解": "biện giải",
+                "辩护": "biện hộ",
+                "辩论": "biện luận",
+                "爭辩": "tranh biện"
+            }
+        }
+    }
+}

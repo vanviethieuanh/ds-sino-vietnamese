@@ -1,0 +1,137 @@
+{
+    "character": "单",
+    "details": {
+        "Âm Hán Việt": [
+            "thiền",
+            "thiện",
+            "đan",
+            "đơn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bát 八 (+6 nét)",
+            "thập 十 (+6 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶ノ丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "CWJ (金田十)"
+        ],
+        "Unicode": [
+            "U+5355"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ",
+            "dān ㄉㄢ",
+            "Shàn ㄕㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đơn",
+            "thiền",
+            "thuyên"
+        ],
+        "Âm Quảng Đông": [
+            "daan1"
+        ]
+    },
+    "meanings": {
+        "thiền": {
+            "Từ điển phổ thông": [
+                "đơn chiếc, mỗi một"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 單."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 單"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vua nước Hung Nô."
+            ],
+            "compound_words": {
+                "单于": "thiền vu"
+            }
+        },
+        "thiện": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 單."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 單"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên huyện: 單縣 Huyện Thiện (ở tỉnh Sơn Đông, Trung Quốc);",
+                "(Họ) Thiện. Xem 單 [dan]."
+            ]
+        },
+        "đan": {
+            "Từ điển phổ thông": [
+                "đơn chiếc, mỗi một"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 單."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 單"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đơn (chiếc), một, (đơn) độc, cô đơn: 單扇門 Cửa một cánh; 單絲不成線，獨木不成林 Một sợi chẳng thành dây, một cây chẳng thành rừng; 形單影隻 Hình đơn bóng lẻ, chiếc bóng cô đơn;",
+                "Lẻ: 單數 Số lẻ;",
+                "Riêng (lẻ): 單放在一邊 Để riêng ra;",
+                "Chỉ: 不能單靠外援 Không thể chỉ dựa vào sự viện trợ của bên ngoài.【單單】đơn đơn [dandan] Chỉ: 工作量大，單單抽調他們幾個人恐怕太少 Lượng công tác lớn, nếu chỉ điều động họ có mấy người e là quá ít;",
+                "Đơn, chỉ có một: 單調 Đơn điệu, chỉ có một giọng;",
+                "Mỏng manh, yếu ớt, ít ỏi: 兵力太單 Quân lính ít ỏi;",
+                "Đơn, mỏng (chỉ có một lớp): 單衣 Áo đơn; 單褲 Quần mỏng;",
+                "Khăn: 床單 Khăn trải giường;",
+                "Đơn (giấy má), sách: 訂貨單 Đơn đặt hàng; 傳單 Truyền đơn; 名單 Danh sách. Xem 單 [Shàn]."
+            ],
+            "compound_words": {
+                "保单": "bảo đan",
+                "不单": "bất đan",
+                "名单": "danh đan"
+            }
+        },
+        "đơn": {
+            "Từ điển phổ thông": [
+                "đơn chiếc, mỗi một"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đơn (chiếc), một, (đơn) độc, cô đơn: 單扇門 Cửa một cánh; 單絲不成線，獨木不成林 Một sợi chẳng thành dây, một cây chẳng thành rừng; 形單影隻 Hình đơn bóng lẻ, chiếc bóng cô đơn;",
+                "Lẻ: 單數 Số lẻ;",
+                "Riêng (lẻ): 單放在一邊 Để riêng ra;",
+                "Chỉ: 不能單靠外援 Không thể chỉ dựa vào sự viện trợ của bên ngoài.【單單】đơn đơn [dandan] Chỉ: 工作量大，單單抽調他們幾個人恐怕太少 Lượng công tác lớn, nếu chỉ điều động họ có mấy người e là quá ít;",
+                "Đơn, chỉ có một: 單調 Đơn điệu, chỉ có một giọng;",
+                "Mỏng manh, yếu ớt, ít ỏi: 兵力太單 Quân lính ít ỏi;",
+                "Đơn, mỏng (chỉ có một lớp): 單衣 Áo đơn; 單褲 Quần mỏng;",
+                "Khăn: 床單 Khăn trải giường;",
+                "Đơn (giấy má), sách: 訂貨單 Đơn đặt hàng; 傳單 Truyền đơn; 名單 Danh sách. Xem 單 [Shàn]."
+            ],
+            "compound_words": {
+                "孤单": "cô đơn",
+                "名单": "danh đơn",
+                "单据": "đơn cứ",
+                "单调": "đơn điệu",
+                "单独": "đơn độc",
+                "单向": "đơn hướng",
+                "单一": "đơn nhất",
+                "单数": "đơn số",
+                "单字": "đơn tự",
+                "单位": "đơn vị",
+                "传单": "truyền đơn",
+                "帐单": "trướng đơn"
+            }
+        }
+    }
+}

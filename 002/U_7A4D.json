@@ -1,0 +1,122 @@
+{
+    "character": "積",
+    "details": {
+        "Âm Hán Việt": [
+            "tích",
+            "tý"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "hoà 禾 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾責"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶一一丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDQMC (竹木手一金)"
+        ],
+        "Unicode": [
+            "U+7A4D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "tích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セキ (seki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.む (tsu.mu)",
+            "-づ.み (-zu.mi)",
+            "つ.もる (tsu.moru)",
+            "つ.もり (tsu.mori)"
+        ],
+        "Âm Hàn": [
+            "적",
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "tích": {
+            "Từ điển phổ thông": [
+                "chứa chất, tích, dồn lại",
+                "tích (kết quả phép nhân)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chứa, trữ, gom góp. ◎Như: 'tích trữ' 積貯 cất giữ, 'tích hóa trục lợi' 積貨逐利 trữ hàng hóa để kiếm lời. ◇Liêu trai chí dị 聊齋志異: 'Cư quan liêm, đắc bổng bất trị sanh sản, tích thư doanh ốc' 居官廉, 得俸不治生產, 積書盈屋 (Thư si 書癡) Làm quan thanh liêm, có bổng lộc không vụ làm giàu, chỉ chứa sách đầy nhà.",
+                "(Động) Chồng chất, đọng. ◎Như: 'tích lũy' 積累 chất chứa mỗi ngày một nhiều hơn, 'nhật tích nguyệt lũy' 日積月累 ngày chồng tháng chất, kéo dài, 'ứ tích' 淤積 ứ đọng.",
+                "(Động) Nghẽn tắc, trở ngại không thông. ◇Trang Tử 莊子: 'Thiên đạo vận nhi vô sở tích, cố vạn vật thành' 天道運而無所積, 故萬物成 (Thiên đạo 天道) Đạo trời xoay chuyển mà không bế tắc, cho nên vạn vật sinh thành.",
+                "(Tính) Lâu ngày, lâu đời. ◎Như: 'tích niên' 積年 đã lâu năm, 'tích oán' 積怨 oán hận lâu ngày, 'tích tập' 積習 thói quen lâu ngày.",
+                "(Danh) Kết quả của phép tính nhân, số nhân được. ◎Như: 'tích số' 積數 số nhân được (thí dụ: 5 x 3 = 15, tích số là 15)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chứa góp.",
+                "Chồng chất.",
+                "Tích lâu, như tích niên 積年 đã lâu năm.",
+                "Cái số nhân được, như diện tích 面積 số đo bề mặt được bao nhiêu.",
+                "Một âm là tí. Chất đống, dành dụm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chất, xếp: 積土成山 Chất đất thành núi;",
+                "Tích lại, chứa, trữ: 積少成多 Tích ít thành nhiều; 積年累月 Năm này qua năm khác, lâu dài;",
+                "Lâu ngày, lưu cửu: 積弊 Thói tệ lâu đời; 積習 Thói quen đã lâu, thói cũ;",
+                "(y) Bệnh cam tích;",
+                "(toán) Số nhân được: 積數 Số nhân được, tích số."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom lại. Tụ lại, không tiêu tan đi được — Cất chứa. Cất giữ."
+            ],
+            "compound_words": {
+                "疳積": "cam tích",
+                "居積": "cư tích",
+                "面積": "diện tích",
+                "容積": "dung tích",
+                "堆積": "đôi tích",
+                "囤積": "độn tích",
+                "屯積": "đồn tích",
+                "累積": "luỹ tích",
+                "捏積": "niết tích",
+                "蓄積": "súc tích",
+                "體積": "thể tích",
+                "積極": "tích cực",
+                "積徳": "tích đức",
+                "積血": "tích huyết",
+                "積累": "tích luỹ",
+                "積蓄": "tích súc",
+                "積財": "tích tài",
+                "積習": "tích tập",
+                "積善": "tích thiện",
+                "積貯": "tích trữ",
+                "蘊積": "uẩn tích"
+            }
+        },
+        "tý": {
+            "Từ điển Thiều Chửu": [
+                "Chứa góp.",
+                "Chồng chất.",
+                "Tích lâu, như tích niên 積年 đã lâu năm.",
+                "Cái số nhân được, như diện tích 面積 số đo bề mặt được bao nhiêu.",
+                "Một âm là tí. Chất đống, dành dụm."
+            ]
+        }
+    }
+}

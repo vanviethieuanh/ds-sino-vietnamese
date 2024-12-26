@@ -1,0 +1,81 @@
+{
+    "character": "佈",
+    "details": {
+        "Âm Hán Việt": [
+            "bố"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻布"
+        ],
+        "Nét bút": [
+            "ノ丨一ノ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "OKLB (人大中月)"
+        ],
+        "Unicode": [
+            "U+4F48"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bù ㄅㄨˋ"
+        ],
+        "Âm Nôm": [
+            "bô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)",
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あまね.し (amane.shi)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bou3"
+        ]
+    },
+    "meanings": {
+        "bố": {
+            "Từ điển phổ thông": [
+                "công khai hoá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Thường dùng chữ “bố” 布."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khắp, bảo cho mọi người đều biết gọi là bố cáo 佈告. Thường dùng chữ bố 布 nhiều hơn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 布 (2), (3)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khắp nơi."
+            ],
+            "compound_words": {
+                "佈景": "bố cảnh",
+                "佈局": "bố cục",
+                "公佈": "công bố",
+                "分佈": "phân bố",
+                "散佈": "tán bố",
+                "宣佈": "tuyên bố"
+            }
+        }
+    }
+}

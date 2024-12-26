@@ -1,0 +1,60 @@
+{
+    "character": "邮",
+    "details": {
+        "Âm Hán Việt": [
+            "bưu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "ấp 邑 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰由⻏"
+        ],
+        "Nét bút": [
+            "丨フ一丨一フ丨"
+        ],
+        "Thương Hiệt": [
+            "LWNL (中田弓中)"
+        ],
+        "Unicode": [
+            "U+90AE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yóu ㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "bưu"
+        ],
+        "Âm Quảng Đông": [
+            "jau4"
+        ]
+    },
+    "meanings": {
+        "bưu": {
+            "Từ điển phổ thông": [
+                "nhà trạm (truyền tin)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 郵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 郵"
+            ],
+            "compound_words": {
+                "电邮": "điện bưu"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "症",
+    "details": {
+        "Âm Hán Việt": [
+            "chứng",
+            "trưng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nạch 疒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒正"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "KMYM (大一卜一)"
+        ],
+        "Unicode": [
+            "U+75C7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhēng ㄓㄥ",
+            "zhèng ㄓㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chứng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Hàn": [
+            "증"
+        ],
+        "Âm Quảng Đông": [
+            "zing1",
+            "zing3"
+        ]
+    },
+    "meanings": {
+        "chứng": {
+            "Từ điển phổ thông": [
+                "chứng bệnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh, chứng. ◎Như: 'đối chứng hạ dược' 對症下藥 tùy bệnh cho thuốc.",
+                "Giản thể của 癥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chứng bệnh (chứng nghiệm của bệnh, gốc bệnh)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh, chứng: 病症 Chứng bệnh; 對症下藥 Tùy (theo) bệnh cắt thuốc. Xem 症 [zheng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái trạng thái bệnh hoạn bày ra ở bên ngoài — Cũng chỉ bệnh hoạn. Chẳng hạn Bách chứng 百症 ( trăm thứ bệnh )."
+            ],
+            "compound_words": {
+                "病症": "bệnh chứng",
+                "急症": "cấp chứng",
+                "症病": "chứng bệnh",
+                "症狀": "chứng trạng",
+                "逆症": "nghịch chứng"
+            }
+        },
+        "trưng": {
+            "Từ điển phổ thông": [
+                "bệnh hòn (tích hòn rắn chắc trong bụng)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 癥"
+            ]
+        }
+    }
+}

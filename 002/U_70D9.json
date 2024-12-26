@@ -1,0 +1,83 @@
+{
+    "character": "烙",
+    "details": {
+        "Âm Hán Việt": [
+            "lạc"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoả 火 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火各"
+        ],
+        "Nét bút": [
+            "丶ノノ丶ノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "FHER (火竹水口)"
+        ],
+        "Unicode": [
+            "U+70D9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gé ㄍㄜˊ",
+            "lào ㄌㄠˋ",
+            "luò ㄌㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "lạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラク (raku)",
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.く (ya.ku)"
+        ],
+        "Âm Hàn": [
+            "락",
+            "낙"
+        ],
+        "Âm Quảng Đông": [
+            "lok3"
+        ]
+    },
+    "meanings": {
+        "lạc": {
+            "Từ điển phổ thông": [
+                "là (quần áo)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dùng lửa đốt nóng kim loại rồi áp lên mình bò, ngựa, đồ vật để làm dấu. ◎Như: 'lạc ấn' 烙印.",
+                "(Động) Là, ủi. ◎Như: 'lạc y phục' 烙衣服 ủi quần áo.",
+                "(Động) Nướng. ◎Như: 'lạc bính' 烙餅 nướng bánh.",
+                "(Danh) 'Pháo lạc' 炮烙 một hình phạt thời xưa, lấy lửa đỏ đốt thân thể tội phạm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Áp lửa, là. Cái bàn là gọi là lạc thiết 烙鐵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 烙 [lào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nướng trên lửa."
+            ],
+            "compound_words": {
+                "烙鐵": "lạc thiết",
+                "烙铁": "lạc thiết"
+            }
+        }
+    }
+}

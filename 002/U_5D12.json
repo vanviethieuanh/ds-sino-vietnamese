@@ -1,0 +1,91 @@
+{
+    "character": "崒",
+    "details": {
+        "Âm Hán Việt": [
+            "tuỵ",
+            "tốt",
+            "tột"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sơn 山 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱山卒"
+        ],
+        "Nét bút": [
+            "丨フ丨丶一ノ丶ノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "UYOJ (山卜人十)"
+        ],
+        "Unicode": [
+            "U+5D12"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cuì ㄘㄨㄟˋ",
+            "zú ㄗㄨˊ"
+        ],
+        "Âm Nôm": [
+            "chót",
+            "tốt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュツ (shutsu)",
+            "シュチ (shuchi)",
+            "ソツ (sotsu)",
+            "ゾチ (zochi)",
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けわ.しい (kewa.shii)"
+        ],
+        "Âm Quảng Đông": [
+            "zeot1",
+            "zyut3"
+        ]
+    },
+    "meanings": {
+        "tuỵ": {
+            "Từ điển phổ thông": [
+                "tụ tập",
+                "hiểm hóc, hiểm trở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Cao và hiểm (thế núi).",
+                "(Động) Tụ tập. § Thông 萃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tụ tập (như 萃, bộ 艹)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng có nhiều núi tụ tập — Tụ tập lại — Một âm là Tột. Xem Tột."
+            ]
+        },
+        "tốt": {
+            "Từ điển trích dẫn": [
+                "(Tính) Cao và hiểm (thế núi).",
+                "(Động) Tụ tập. § Thông 萃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hiểm hóc, (thế núi) cao và hiểm."
+            ]
+        },
+        "tột": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng núi cao — Cao ngất — Gom tụ lại."
+            ]
+        }
+    }
+}

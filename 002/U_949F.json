@@ -1,0 +1,65 @@
+{
+    "character": "钟",
+    "details": {
+        "Âm Hán Việt": [
+            "chung"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "kim 金 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅中"
+        ],
+        "Nét bút": [
+            "ノ一一一フ丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "OVL (人女中)"
+        ],
+        "Unicode": [
+            "U+949F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhōng ㄓㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "chung"
+        ],
+        "Âm Quảng Đông": [
+            "zung1"
+        ]
+    },
+    "meanings": {
+        "chung": {
+            "Từ điển phổ thông": [
+                "cái chuông",
+                "phút thời gian"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鐘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鐘"
+            ],
+            "compound_words": {
+                "摆钟": "bài chung",
+                "钟馗": "chung quỳ",
+                "钟情": "chung tình",
+                "分钟": "phân chung",
+                "丧钟": "tang chung"
+            }
+        }
+    }
+}

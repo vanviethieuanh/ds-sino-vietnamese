@@ -1,0 +1,90 @@
+{
+    "character": "竊",
+    "details": {
+        "Âm Hán Việt": [
+            "thiết"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶ノ丶ノ一丨ノ丶丨一丨フノ丶丨フフ丶"
+        ],
+        "Thương Hiệt": [
+            "JCHDB (十金竹木月)"
+        ],
+        "Unicode": [
+            "U+7ACA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiè ㄑㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬす.む (nusu.mu)",
+            "ひそ.かに (hiso.kani)"
+        ],
+        "Âm Hàn": [
+            "절"
+        ],
+        "Âm Quảng Đông": [
+            "sit3"
+        ]
+    },
+    "meanings": {
+        "thiết": {
+            "Từ điển phổ thông": [
+                "ăn cắp, ăn trộm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn cắp, ăn trộm. ◇Sử Kí 史記: 'Doanh văn Tấn Bỉ chi binh phù thường tại vương ngọa nội, nhi Như cơ tối hạnh, xuất nhập vương ngọa nội, lực năng thiết chi' 嬴聞晉鄙之兵符常在王臥內, 而如姬最幸, 出入王臥內, 力能竊之 (Ngụy Công Tử truyện 魏公子傳) Doanh tôi nghe binh phù của Tấn Bỉ thường để trong buồng ngủ của (Ngụy) vương, mà nàng Như cơ là người được vua yêu hơn hết, được ra vào buồng ngủ của vua, có thể lấy trộm (binh phù).",
+                "(Động) Chiếm cứ, chiếm giữ. ◎Như: 'thiết chiếm' 竊占 chiếm cứ.",
+                "(Danh) Kẻ cắp. ◎Như: 'tiểu thiết' 小竊 tên trộm cắp. § Cũng nói là 'tiểu thâu' 小偷.",
+                "(Phó) Khiêm từ: riêng. ◎Như: 'thiết tỉ' 竊比 riêng ví, 'thiết tưởng' 竊想 riêng tưởng. ◇Luận Ngữ 論語: 'Thuật nhi bất tác, tín nhi hảo cổ, thiết tỉ ư ngã Lão Bành' 述而不作, 信而好古, 竊比於我老彭 (Thuật nhi 述而) Ta truyền thuật mà không sáng tác, tin và hâm mộ (đạo lí) người xưa, ta trộm ví với ông Lão Bành của ta.",
+                "(Phó) Lén, ngầm, vụng, lặng lẽ. ◎Như: 'thiết thính' 竊聽 lén nghe, 'ám tự thiết tiếu' 暗自竊笑 lặng lẽ cười thầm. ◇Sử Kí 史記: 'Tề sứ dĩ vi kì, thiết tại dữ chi Tề' 齊使以為奇, 竊載與之齊 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Sứ Tề nhận thấy (Tôn Tẫn) là một kì tài, (bèn) lén chở cùng xe về Tề.",
+                "(Tính) Nông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ăn cắp, ăn trộm.",
+                "Kẻ cắp.",
+                "Riêng, như thiết tỉ 竊比 riêng ví, thiết tưởng 竊想 riêng tưởng (lời nói khiêm), v.v.",
+                "Chiếm cứ, không phải vật của mình được giữ mà cứ giữ.",
+                "Nông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trộm, cắp: 行竊 Ăn trộm, ăn cắp, đánh cắp;",
+                "Kẻ trộm, kẻ cắp;",
+                "(văn) Riêng: 竊比 Riêng ví;",
+                "(văn) Nông;",
+                "Tiếm đoạt, chiếm đoạt: 竊國大盜 Tên cướp đoạt quyền hành Nhà nước;",
+                "(văn) Tôi trộm (khiêm từ), thầm (một mình): 竊以爲 Tôi trộm cho là; 竊笑 Cười thầm; 子曰：述而不作，信而好古，竊比於我老彭 Khổng tử nói: Ta chỉ truyền thuật chứ không sáng tác, ta tin tưởng và ham thích việc xưa, ta trộm ví mình với ông Lão Bành của ta (Luận ngữ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn trộm — Riêng tư."
+            ],
+            "compound_words": {
+                "剽竊": "phiếu thiết",
+                "偷竊": "thâu thiết",
+                "竊竊": "thiết thiết",
+                "竊想": "thiết tưởng"
+            }
+        }
+    }
+}

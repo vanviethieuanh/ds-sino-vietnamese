@@ -1,0 +1,91 @@
+{
+    "character": "騙",
+    "details": {
+        "Âm Hán Việt": [
+            "biển",
+            "phiến"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mã 馬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬扁"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "SFHSB (尸火竹尸月)"
+        ],
+        "Unicode": [
+            "U+9A19"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "piàn ㄆㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "biền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かた.る (kata.ru)",
+            "だま.す (dama.su)"
+        ],
+        "Âm Hàn": [
+            "편"
+        ],
+        "Âm Quảng Đông": [
+            "pin3"
+        ]
+    },
+    "meanings": {
+        "biển": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 騙 nghĩa",
+                "."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lừa dối. Phỉnh gạt — Một âm khác là Phiến."
+            ],
+            "compound_words": {
+                "騙棍": "biển côn"
+            }
+        },
+        "phiến": {
+            "Từ điển phổ thông": [
+                "lừa đảo",
+                "nhảy tót lên lưng ngựa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lừa gạt, lừa đảo. ◎Như: 'khi phiến' 欺騙 lừa gạt, 'phiến tiền' 騙錢 lừa đảo tiền bạc. ◇Thủy hử truyện 水滸傳: 'Na phụ nhân hựu đạo: Ngã lão công bất thị hảo nhạ đích, nhĩ khước yếu phiến ngã. Thảng nhược tha đắc tri, khước bất nhiêu nhĩ' 那婦人又道: 我老公不是好惹的, 你卻要騙我. 倘若他得知, 卻不饒你 (Đệ tứ thập ngũ hồi) Người đàn bà đó lại nói: Lão chồng tôi, đừng có mà trêu vào, anh lừa tôi, nó mà biết được, thì nó chẳng tha anh đâu!",
+                "(Động) Cưỡi, nhảy lên lưng ngựa.",
+                "(Danh) Trò bịp, trò lường gạt.",
+                "(Tính) Trá, lừa. ◎Như: 'phiến thuật' 騙術 thuật lừa gạt, 'phiến cục' 騙局 trò bịp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lừa đảo. Như phiến tiền 騙錢 lừa đảo tiền bạc.",
+                "Nhảy tót lên lưng ngựa."
+            ],
+            "compound_words": {
+                "撞騙": "tràng phiến",
+                "欺騙": "khi phiến",
+                "騙棍": "phiến côn",
+                "騙子": "phiến tử"
+            }
+        }
+    }
+}

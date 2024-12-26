@@ -1,0 +1,92 @@
+{
+    "character": "誣",
+    "details": {
+        "Âm Hán Việt": [
+            "vu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言巫"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨ノ丶ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "YRMOO (卜口一人人)"
+        ],
+        "Unicode": [
+            "U+8AA3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wū ㄨ",
+            "wú ㄨˊ"
+        ],
+        "Âm Nôm": [
+            "vu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しい.る (shii.ru)",
+            "し.いる (shi.iru)",
+            "あざむ.く (azamu.ku)"
+        ],
+        "Âm Hàn": [
+            "무"
+        ],
+        "Âm Quảng Đông": [
+            "mou4"
+        ]
+    },
+    "meanings": {
+        "vu": {
+            "Từ điển phổ thông": [
+                "xằng bậy (không mà nói có)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lừa dối, không mà bảo là có. ◎Như: 'vu cáo' 誣告 vu oan, vu khống. ◇Liêu trai chí dị 聊齋志異: 'Âm lộ học sứ, vu dĩ hạnh giản, yêm cấm ngục trung' 陰賂學使, 誣以行簡, 淹禁獄中 (Tiểu Tạ 小謝) Ngầm đút lót quan học sứ, vu cho hạnh kiểm không tốt, đem giam vào ngục.",
+                "(Tính) Xằng bậy, hư vọng, không thật. ◇Hồng Lâu Mộng 紅樓夢: 'Tiểu ca nhi thập tam tuế đích nhân, tựu như thử, khả tri gia học uyên nguyên, chân bất vu hĩ' 小哥兒十三歲的人, 就如此, 可知家學淵源, 真不誣矣 (Đệ thất thập bát hồi) Cậu em mới có mười ba tuổi mà đã thế này, thế mới biết dòng dõi học nghiệp uyên thâm, thực là không ngoa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lừa dối, không mà bảo là có gọi là vu. Như vu cáo 誣告 cáo láo, như người ta nói vu oan, vu khống đều là nghĩa ấy cả.",
+                "Xằng bậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vu, vu khống, vu oan;",
+                "Xằng bậy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói điều không có. Bịa đặt — Nói dối."
+            ],
+            "compound_words": {
+                "辨誣": "biện vu",
+                "拋誣": "phao vu",
+                "讒誣": "sàm vu",
+                "誣謗": "vu báng",
+                "誣吿": "vu cáo",
+                "誣告": "vu cáo",
+                "誣陷": "vu hãm",
+                "誣惑": "vu hoặc",
+                "誣言": "vu ngôn",
+                "誣冤": "vu oan",
+                "誣殺": "vu sát",
+                "誣託": "vu thác"
+            }
+        }
+    }
+}

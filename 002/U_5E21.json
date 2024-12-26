@@ -1,0 +1,59 @@
+{
+    "character": "帡",
+    "details": {
+        "Âm Hán Việt": [
+            "bình"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "cân 巾 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾并"
+        ],
+        "Nét bút": [
+            "丨フ丨丶ノ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "LBTT (中月廿廿)"
+        ],
+        "Unicode": [
+            "U+5E21"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "píng ㄆㄧㄥˊ"
+        ],
+        "Âm Quảng Đông": [
+            "ping4"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển phổ thông": [
+                "phần che chung quanh của cái màn (xem: bình mông 帲幪,帡蒙)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Màn (che ở trên). 【帡幪】bình mông [píngméng] Màn dũng (màn che trên và xung quanh);",
+                "(văn) Che chở: 幸列帡幪 May được vào hàng che chở. Cv. 帡."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Che đi — Cái màn che."
+            ],
+            "compound_words": {
+                "帡幪": "bình mông",
+                "帡蒙": "bình mông"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "签",
+    "details": {
+        "Âm Hán Việt": [
+            "thiêm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trúc 竹 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮佥"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丶一丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "HOMM (竹人一一)"
+        ],
+        "Unicode": [
+            "U+7B7E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "kiểm",
+            "thiêm",
+            "tiêm"
+        ],
+        "Âm Quảng Đông": [
+            "cim1"
+        ]
+    },
+    "meanings": {
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "viết chữ lên thẻ tre làm dấu hiệu",
+                "đề tên, ký tên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 簽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 簽"
+            ],
+            "compound_words": {
+                "图签": "đồ thiêm",
+                "标签": "tiêu thiêm"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "裣",
+    "details": {
+        "Âm Hán Việt": [
+            "liêm",
+            "liễm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "y 衣 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤佥"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶ノ丶一丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "LOMM (中人一一)"
+        ],
+        "Unicode": [
+            "U+88E3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "liǎn ㄌㄧㄢˇ",
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Quảng Đông": [
+            "lim6"
+        ]
+    },
+    "meanings": {
+        "liêm": {
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 襝."
+            ]
+        },
+        "liễm": {
+            "Từ điển phổ thông": [
+                "(xem: liễm nhẫm 襝衽,裣衽)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 襝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 襝"
+            ],
+            "compound_words": {
+                "裣衽": "liễm nhẫm"
+            }
+        }
+    }
+}

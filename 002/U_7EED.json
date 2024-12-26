@@ -1,0 +1,65 @@
+{
+    "character": "续",
+    "details": {
+        "Âm Hán Việt": [
+            "tục"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟卖"
+        ],
+        "Nét bút": [
+            "フフ一一丨フ丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMJNK (女一十弓大)"
+        ],
+        "Unicode": [
+            "U+7EED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xù ㄒㄩˋ"
+        ],
+        "Âm Nôm": [
+            "tục"
+        ],
+        "Âm Quảng Đông": [
+            "zuk6"
+        ]
+    },
+    "meanings": {
+        "tục": {
+            "Từ điển phổ thông": [
+                "tiếp tục, tiếp theo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 續."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 續"
+            ],
+            "compound_words": {
+                "延续": "duyên tục",
+                "继续": "kế tục",
+                "连续": "liên tục",
+                "陆续": "lục tục",
+                "手续": "thủ tục",
+                "持续": "trì tục"
+            }
+        }
+    }
+}

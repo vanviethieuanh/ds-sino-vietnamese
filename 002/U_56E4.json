@@ -1,0 +1,84 @@
+{
+    "character": "囤",
+    "details": {
+        "Âm Hán Việt": [
+            "đồn",
+            "độn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "vi 囗 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴囗屯"
+        ],
+        "Nét bút": [
+            "丨フ一フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "WPU (田心山)"
+        ],
+        "Unicode": [
+            "U+56E4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dùn ㄉㄨㄣˋ",
+            "tún ㄊㄨㄣˊ"
+        ],
+        "Âm Nôm": [
+            "độn",
+            "đụn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トン (ton)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ざる (zaru)"
+        ],
+        "Âm Quảng Đông": [
+            "deon6",
+            "tyun4"
+        ]
+    },
+    "meanings": {
+        "đồn": {
+            "Từ điển Trần Văn Chánh": [
+                "① Tích trữ, trữ, vựa lại. Xem 囤 [dùn]."
+            ]
+        },
+        "độn": {
+            "Từ điển phổ thông": [
+                "cái vựa để đựng thóc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vựa, đồ bện bằng trúc, cành liễu, cỏ lúa, v.v. để chứa đựng thóc, lương... ◇Thủy hử truyện 水滸傳: 'Ngã môn dạ luân lưu khán mễ độn' 我們夜輪流看米囤 (Đệ thập hồi) Chúng tôi mỗi đêm thay phiên nhau canh vựa thóc.",
+                "(Động) Tích trữ, tồn chứa. ◎Như: 'độn hóa' 囤貨 tồn trữ hàng, 'độn tích cư kì' 囤積居奇 đầu cơ tích trữ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái vựa nhỏ đựng thóc.",
+                "Tục gọi sự để đồ đợi giá đắt mới bán là độn tích 囤積."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vựa thóc nhỏ, bồ, cót: 糧食囤 Bồ lương thực, cót thóc; 大囤滿，小囤流 Nhà nào nhà nấy lúa thóc đầy bồ đầy cót, cót lớn thì đầy, cót nhỏ thì tràn. Xem 囤 [tún]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái vựa quây bằng liếp tre để chứa thóc lúa — Tích chứa. Gom tụ — Cũng đọc Đồn."
+            ],
+            "compound_words": {
+                "囤积": "độn tích",
+                "囤積": "độn tích"
+            }
+        }
+    }
+}

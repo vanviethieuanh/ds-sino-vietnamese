@@ -1,0 +1,90 @@
+{
+    "character": "坑",
+    "details": {
+        "Âm Hán Việt": [
+            "khanh"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土亢"
+        ],
+        "Nét bút": [
+            "一丨一丶一ノフ"
+        ],
+        "Thương Hiệt": [
+            "GYHN (土卜竹弓)"
+        ],
+        "Unicode": [
+            "U+5751"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kēng ㄎㄥ"
+        ],
+        "Âm Nôm": [
+            "ganh",
+            "khanh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "갱"
+        ],
+        "Âm Quảng Đông": [
+            "haang1"
+        ]
+    },
+    "meanings": {
+        "khanh": {
+            "Từ điển phổ thông": [
+                "cái hố",
+                "đường hầm",
+                "hãm hại",
+                "chôn sống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hố, vũng. ◎Như: 'nê khanh' 泥坑 vũng bùn, 'đạn khanh' 彈坑 hố đạn, 'sa khanh' 沙坑 hố cát.",
+                "(Danh) Hầm. ◎Như: 'quáng khanh' 礦坑 hầm mỏ, 'khanh đạo' 坑道 đường hầm. ◇Nguyễn Trãi 阮廌: 'Hân thương sinh ư ngược diễm, hãm xích tử ư họa khanh' 焮蒼生於虐焰, 陷赤子於禍坑 (Bình Ngô đại cáo 平呉大誥) Nướng dân đen trên ngọn lửa hung tàn, vùi con đỏ xuống dưới hầm tai vạ.",
+                "(Danh) Tục gọi nhà xí là 'khanh'. ◎Như: 'phẩn khanh' 糞坑 hố cầu tiêu, 'đăng khanh' 登坑 đi cầu.",
+                "(Động) Chôn sống. ◎Như: 'khanh sát' 坑殺 chôn sống, 'phần thư khanh nho' 焚書坑儒 đốt sách và chôn sống nhà nho.",
+                "(Động) Hãm hại, lừa dối. ◎Như: 'khanh nhân' 坑人 hãm hại người, 'khanh hại' 坑害 hãm hại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hố.",
+                "Chôn chết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hố, lỗ: 炸彈坑 Hố bom;",
+                "Hầm: 礦坑 Hầm mỏ;",
+                "(cũ) Chôn sống: 坑殺 Chôn sống;",
+                "Hãm hại, gài bẫy, lừa dối, lừa bịp: 坑人 Hãm hại người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hố sâu — Chôn xuống hố — Giết hại."
+            ],
+            "compound_words": {
+                "坑坑窪窪": "khanh khanh oa oa",
+                "坑儒": "khanh nho",
+                "坑殺": "khanh sát",
+                "焚書坑儒": "phần thư khanh nho",
+                "厕坑": "xí khanh",
+                "厠坑": "xí khanh",
+                "廁坑": "xí khanh"
+            }
+        }
+    }
+}

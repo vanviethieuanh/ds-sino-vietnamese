@@ -1,0 +1,66 @@
+{
+    "character": "测",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡则"
+        ],
+        "Nét bút": [
+            "丶丶一丨フノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "EBON (水月人弓)"
+        ],
+        "Unicode": [
+            "U+6D4B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ"
+        ],
+        "Âm Nôm": [
+            "trắc"
+        ],
+        "Âm Quảng Đông": [
+            "cak1"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "lường trước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 測."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 測"
+            ],
+            "compound_words": {
+                "不测": "bất trắc",
+                "步测": "bộ trắc",
+                "勘测": "khám trắc",
+                "检测": "kiểm trắc",
+                "推测": "suy trắc",
+                "揣测": "suỷ trắc",
+                "探测": "thám trắc"
+            }
+        }
+    }
+}

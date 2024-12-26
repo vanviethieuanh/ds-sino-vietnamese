@@ -1,0 +1,65 @@
+{
+    "character": "侧",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 人 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻则"
+        ],
+        "Nét bút": [
+            "ノ丨丨フノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "OBON (人月人弓)"
+        ],
+        "Unicode": [
+            "U+4FA7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "zè ㄗㄜˋ",
+            "zhāi ㄓㄞ"
+        ],
+        "Âm Nôm": [
+            "trắc"
+        ],
+        "Âm Quảng Đông": [
+            "zak1"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "một bên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 側."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 側"
+            ],
+            "compound_words": {
+                "床侧": "sàng trắc",
+                "侧柏": "trắc bách",
+                "侧锋": "trắc phong",
+                "侧躺": "trắc thảng"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "蜊",
+    "details": {
+        "Âm Hán Việt": [
+            "ly",
+            "lị",
+            "lợi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trùng 虫 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫利"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ一丨ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "LIHDN (中戈竹木弓)"
+        ],
+        "Unicode": [
+            "U+870A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ"
+        ],
+        "Âm Nôm": [
+            "lợi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あさり (asari)"
+        ],
+        "Âm Hàn": [
+            "리"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "ly": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cáp li 蛤蜊: Con hào nhỏ, thuộc loái sò hến. Cũng đọc Lợi hoặc Lị."
+            ]
+        },
+        "lị": {
+            "Từ điển phổ thông": [
+                "(xem: cáp lị 蛤蜊)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Cáp lị” 蛤蜊: xem “cáp” 蛤."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xem chữ cáp 蛤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蛤蜊 [géli]. Cv. 仟."
+            ],
+            "compound_words": {
+                "蛤蜊": "cáp lị"
+            }
+        },
+        "lợi": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蛤蜊 [géli]. Cv. 仟."
+            ]
+        }
+    }
+}

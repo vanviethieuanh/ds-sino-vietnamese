@@ -1,0 +1,73 @@
+{
+    "character": "释",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch",
+            "thích"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "biện 釆 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰釆𠬤"
+        ],
+        "Nét bút": [
+            "ノ丶ノ一丨ノ丶フ丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "HDEQ (竹木水手)"
+        ],
+        "Unicode": [
+            "U+91CA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "thích"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 釋."
+            ]
+        },
+        "thích": {
+            "Từ điển phổ thông": [
+                "giảng cho rõ",
+                "buông ra, thả ra",
+                "bỏ, cởi ra",
+                "họ Thích trong nhà Phật"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 釋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 釋"
+            ],
+            "compound_words": {
+                "保释": "bảo thích",
+                "注释": "chú thích",
+                "解释": "giải thích",
+                "释迦": "thích ca"
+            }
+        }
+    }
+}

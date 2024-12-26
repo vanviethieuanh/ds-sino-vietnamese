@@ -1,0 +1,68 @@
+{
+    "character": "蔹",
+    "details": {
+        "Âm Hán Việt": [
+            "liêm",
+            "liễm"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thảo 艸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹敛"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶一丶丶ノ一ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TOMK (廿人一大)"
+        ],
+        "Unicode": [
+            "U+8539"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ",
+            "liǎn ㄌㄧㄢˇ",
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Quảng Đông": [
+            "lim4"
+        ]
+    },
+    "meanings": {
+        "liêm": {
+            "Từ điển phổ thông": [
+                "(xem: ô liêm mẫu 烏蘝母,乌蔹母)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 蘞."
+            ],
+            "compound_words": {
+                "乌蔹母": "ô liêm mẫu"
+            }
+        },
+        "liễm": {
+            "Từ điển phổ thông": [
+                "(xem: ô liêm mẫu 烏蘝母,乌蔹母)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 蘞"
+            ],
+            "compound_words": {
+                "乌蔹母": "ô liễm mẫu"
+            }
+        }
+    }
+}

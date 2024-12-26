@@ -1,0 +1,75 @@
+{
+    "character": "桥",
+    "details": {
+        "Âm Hán Việt": [
+            "cao",
+            "khiêu",
+            "kiều"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木乔"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ一ノ丶ノ丨"
+        ],
+        "Thương Hiệt": [
+            "DHKL (木竹大中)"
+        ],
+        "Unicode": [
+            "U+6865"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiáo ㄑㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "kiều"
+        ],
+        "Âm Quảng Đông": [
+            "kiu4"
+        ]
+    },
+    "meanings": {
+        "cao": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 橋."
+            ]
+        },
+        "khiêu": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 橋."
+            ]
+        },
+        "kiều": {
+            "Từ điển phổ thông": [
+                "cái cầu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 橋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 橋"
+            ],
+            "compound_words": {
+                "断桥": "đoạn kiều",
+                "桥本": "kiều bản",
+                "桥接": "kiều tiếp",
+                "便桥": "tiện kiều"
+            }
+        }
+    }
+}

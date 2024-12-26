@@ -1,0 +1,95 @@
+{
+    "character": "孑",
+    "details": {
+        "Âm Hán Việt": [
+            "kiết",
+            "quyết"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "tử 子 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フ丨一"
+        ],
+        "Thương Hiệt": [
+            "NNM (弓弓一)"
+        ],
+        "Unicode": [
+            "U+5B51"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ",
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "két"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひとり (hitori)"
+        ],
+        "Âm Hàn": [
+            "혈"
+        ],
+        "Âm Quảng Đông": [
+            "kit3"
+        ]
+    },
+    "meanings": {
+        "kiết": {
+            "Từ điển phổ thông": [
+                "đơn chiếc, lẻ loi, trơ chọi",
+                "vật thẳng mà ngắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Đơn chiếc, đơn độc. ◎Như: 'kiết thân' 孑身 một thân một mình.",
+                "(Phó) Trơ trọi. ◇Liêu trai chí dị 聊齋志異: 'Phụ mẫu kế một, kiết nhiên nhất thân, thụ đồng mông ư Lạc nhuế' 父母繼歿, 孑然一身, 受童蒙於洛汭 (Nhan Thị 顏氏) Cha mẹ theo nhau qua đời, (chàng) trơ trọi một mình, dạy trẻ học ở đất Lạc.",
+                "(Động) Sót lại, thừa lại, thặng dư. ◇Thi Kinh 詩經: 'Chu dư lê dân, Mĩ hữu kiết di' 周餘黎民, 靡有孑遺 (Đại nhã 大雅, Vân Hán 雲漢) Dân chúng nhà Chu, Chẳng một ai còn sót lại.",
+                "(Danh) 'Kiết củng' 孑孓 con bọ gậy, con lăng quăng (sau hóa ra con muỗi).",
+                "(Danh) Họ 'Kiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðơn chiếc, như mĩ hữu kiết di 靡有孑遺 chẳng còn một ai. Trơ trọi, như kiết nhiên độc lập 孑然獨立 trơ trọi đứng một mình.",
+                "Kiết củng 孑孒 con bọ gậy, sau hoá ra con muỗi.",
+                "Cái kích không có mũi nhọn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cô đơn, đơn chiếc, trơ trọi;",
+                "【孑孓】kiết củng [jiéjué] (động) Con bọ gậy;",
+                "Cây kích không có mũi nhọn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một mình — Ngắn ngủi — Thừa ra — Đừng lầm với chữ Tử 子."
+            ],
+            "compound_words": {
+                "孑孒": "kiết quyết",
+                "孑孓": "kiết quyết",
+                "孑立": "kiết lập"
+            }
+        },
+        "quyết": {
+            "Từ điển phổ thông": [
+                "đơn chiếc, lẻ loi, trơ chọi",
+                "vật thẳng mà ngắn"
+            ],
+            "compound_words": {
+                "孑孒": "kiết quyết",
+                "孑孓": "kiết quyết"
+            }
+        }
+    }
+}

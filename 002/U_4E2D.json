@@ -1,0 +1,279 @@
+{
+    "character": "中",
+    "details": {
+        "Âm Hán Việt": [
+            "trung",
+            "trúng"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "cổn 丨 (+3 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "L (中)"
+        ],
+        "Unicode": [
+            "U+4E2D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhōng ㄓㄨㄥ",
+            "zhòng ㄓㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đúng",
+            "trong",
+            "trung",
+            "truông"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なか (naka)",
+            "うち (uchi)",
+            "あた.る (ata.ru)"
+        ],
+        "Âm Hàn": [
+            "중"
+        ],
+        "Âm Quảng Đông": [
+            "zung1",
+            "zung3"
+        ]
+    },
+    "meanings": {
+        "trung": {
+            "Từ điển phổ thông": [
+                "ở giữa",
+                "ở bên trong"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ giữa. ◎Như: 'trung ương' 中央 chỗ giữa (ý nói quan trọng nhất), 'cư trung' 居中 ở giữa.",
+                "(Danh) Bên trong. ◎Như: 'thủy trung' 水中 trong (dưới) nước, 'mộng trung' 夢中 trong mộng, 'tâm trung' 心中 trong lòng.",
+                "(Danh) Trong khoảng, trong vòng (thời kì). ◎Như: 'nhất niên chi trung' 一年之中 trong khoảng một năm.",
+                "(Danh) Tên gọi tắt của 'Trung Quốc' 中國.",
+                "(Tính) Ở giữa làm môi giới, liên lạc. ◎Như: 'trung nhân' 中人 người làm trung gian.",
+                "(Tính) Vừa, thường, nhỡ (ở trong khoảng giữa cao và thấp, lớn và nhỏ, tốt và xấu). ◎Như: 'trung cấp' 中級 bậc trung, 'trung hình' 中型 cỡ vừa, 'trung đẳng' 中等 hạng vừa.",
+                "(Tính) Nửa. ◎Như: 'trung đồ' 中途 nửa đường, 'trung dạ' 中夜 nửa đêm.",
+                "(Phó) Đang. ◎Như: 'tại điều tra trung ' 在調查中 đang điều tra.",
+                "Một âm là 'trúng'. (Động) Đúng. ◎Như: 'xạ trúng' 射中 bắn trúng, 'ngôn trúng' 言中 nói đúng. ◇Luận Ngữ 論語: 'Hình phạt bất trúng, tắc dân vô sở thố thủ túc' 刑罰不中, 則民無所措手足 (Tử Lộ 子路) Hình phạt không đúng, thì dân không biết đặt tay chân vào đâu (không biết làm thế nào cho phải).",
+                "(Động) Bị, mắc. ◎Như: 'trúng phong' 中風 bị trúng gió, 'trúng thử' 中暑 bị trúng nắng, 'trúng độc' 中毒 ngộ độc.",
+                "(Động) Được. ◎Như: 'trúng tưởng' 中獎 được thưởng, 'trúng thiêm' 中籤 được trúng số.",
+                "(Động) Hợp, hợp cách. ◎Như: 'trúng thức' 中式 trúng cách, 'bất trúng dụng' 不中用 không dùng được.",
+                "(Động) Đậu, thi đỗ. ◎Như: 'khảo trúng' 考中 thi đậu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giữa, chỉ vào bộ vị trong vật thể, như trung ương 中央 chỗ giữa, trung tâm 中心 giữa ruột, v.v.",
+                "Trong, như đối với nước ngoài thì gọi nước mình là trung quốc 中國, đối với các tỉnh ngoài thì gọi chỗ kinh đô là trung ương 中央, v.v.",
+                "Ở khoảng giữa hai bên cũng gọi là trung, như thượng, trung, hạ 上中下 trên, giữa, dưới. Người đứng giữa giới thiệu cho hai người khác gọi là trung nhân 中人 cũng do một nghĩa ấy.",
+                "Ngay, không vẹo không lệch, không quá không thiếu, cũng gọi là trung, như trung dong 中庸 đạo phải, trung hành 中行 làm phải, trung đạo 中道 đạo chân chính không thiên bên nào v.v.",
+                "Nửa, như trung đồ 中途 nửa đường, trung dạ 中夜 nửa đêm, v.v.",
+                "Chỉ chung tất cả các chỗ, như Ngô trung 吳中 trong đất Ngô, Thục trung 蜀中 trong đất Thục, v.v.",
+                "Một âm là trúng. Tin, như bắn tin gọi là xạ trúng 射中, nói đúng gọi là ngôn trúng 言中, v.v.",
+                "Bị phải, như trúng phong 中風 bị phải gió, trúng thử 中暑 bị phải nắng, v.v.",
+                "Hợp cách, như thi cử lấy đỗ gọi là trúng thức 中式, đồ không dùng được gọi là bất trúng dụng 不中用, v.v.",
+                "Ðầy đủ, như chế trúng nhị thiên thạch 制中二天石 phép đủ hai nghìn thạch.",
+                "Cùng âm nghĩa như chữ trọng, như em thứ hai gọi là trọng đệ 仲第."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giữa: 居中 Ở giữa; 洛陽處天下之中 Đất Lạc Dương giữa trung tâm thiên hạ (Lí Cách Phi);",
+                "Trong, trên, dưới: 家中 Trong nhà; 隊伍中 Trong hàng ngũ; 空中 Trên không; 水中 Dưới nước;",
+                "Trong (thời gian, thời kì, khu vực...): 晉太元中，武陵人捕魚爲業 Trong niên hiệu Thái nguyên đời Tấn, có người ở Võ Lăng làm nghề bắt cá (Đào Uyên Minh: Đào hoa nguyên kí);",
+                "Thanh thiếu niên từ 16 đến 20 tuổi (thời xưa): 府帖昨夜中，次選中男行 Lệnh gọi trên phủ đêm qua gởi đến, mộ thêm những thanh niên từ 16 đến 20 tuổi đi lính (Đỗ Phủ: Tân An lại);",
+                "Giữa chừng: 會貶逐中輟，不克備究 Vừa lúc ta bị biếm trích, giữa chừng phải ngưng viết, nên chưa thể viết xong hẳn (Liễu Tôn Nguyên);",
+                "Đồ đựng thẻ đếm thời xưa, mâm thẻ: 司射奉中 Người phụ trách cuộc thi bắn tay bưng mâm thẻ (Lễ kí: Đầu hồ);",
+                "Nội tạng (trong cơ thể người): 陰陽之類，經脈之道，五中所主，何臟最貴？ Âm dương là đường tuần hoàn của kinh mạch, mỗi tạng trong ngũ tạng đều tự làm chủ chúng, tạng nào là quan trọng hơn cả? (Tố vấn: Âm dương loại luận thiên);",
+                "Vừa, hạng trung (bình): 狀貌不及中人 Dáng vẻ không bằng một người trung bình (Sử kí); 上書諫寡人者，受中賞 Người nào dâng thư can gián quả nhân, sẽ được thưởng hạng vừa (Chiến quốc sách);",
+                "Nửa, giữa: 若中道而歸，何異斷絲織者？Nếu nửa đường bỏ về, có khác nào như cắt đứt đồ dệt tơ? (Hậu Hán thư);",
+                "Ngay, không thiên lệch: 不偏之謂中 Không thiên lệch gọi là trung (Trung dung); 中道 Đạo chính (không thiên về bên nào)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ở giữa ( trái với xung quanh ) — Ở trong ( trái với ở ngoài ). Bên trong — Mức bình thường. ĐTTT: » Gia tư nghĩ cũng thường thường bậc trung « — Một âm là Trúng."
+            ],
+            "compound_words": {
+                "暗中": "âm trung",
+                "暗中摸索": "ám trung mô sách",
+                "不中": "bất trung",
+                "杯中物": "bôi trung vật",
+                "禁中": "cấm trung",
+                "溝中瘠": "câu trung tích",
+                "正中": "chính trung",
+                "執兩用中": "chấp lưỡng dụng trung",
+                "執中": "chấp trung",
+                "折中": "chiết trung",
+                "錐杵囊中": "chuỳ xử nang trung",
+                "錐處囊中": "chuỳ xử nang trung",
+                "居中": "cư trung",
+                "由中": "do trung",
+                "陽中": "dương trung",
+                "膻中": "đán trung",
+                "地中海": "địa trung hải",
+                "空中": "không trung",
+                "其中": "kỳ trung",
+                "黎朝帝王中興功業實錄": "lê triều đế vương trung hưng công nghiệp thực lục",
+                "旅中雜說": "lữ trung tạp thuyết",
+                "夢中": "mộng trung",
+                "難中之難": "nan trung chi nan",
+                "俄中": "nga trung",
+                "眼中刺": "nhãn trung thích",
+                "人中": "nhân trung",
+                "日中": "nhật trung",
+                "房中術": "phòng trung thuật",
+                "光中": "quang trung",
+                "軍中": "quân trung",
+                "軍中詞命集": "quân trung từ mệnh tập",
+                "桑中": "tang trung",
+                "桑中之樂": "tang trung chi lạc",
+                "集中": "tập trung",
+                "从中": "tòng trung",
+                "從中": "tòng trung",
+                "中亚": "trung á",
+                "中亞": "trung á",
+                "中歐": "trung âu",
+                "中平": "trung bình",
+                "中部": "trung bộ",
+                "中級": "trung cấp",
+                "中级": "trung cấp",
+                "中正": "trung chánh",
+                "中洲": "trung châu",
+                "中古": "trung cổ",
+                "中共": "trung cộng",
+                "中游": "trung du",
+                "中庸": "trung dung",
+                "中药": "trung dược",
+                "中藥": "trung dược",
+                "中庭": "trung đình",
+                "中断": "trung đoạn",
+                "中斷": "trung đoạn",
+                "中度": "trung độ",
+                "中途": "trung đồ",
+                "中東": "trung đông",
+                "中堂": "trung đường",
+                "中間": "trung gian",
+                "中间": "trung gian",
+                "中华": "trung hoa",
+                "中華": "trung hoa",
+                "中学": "trung học",
+                "中學": "trung học",
+                "中兴": "trung hưng",
+                "中興": "trung hưng",
+                "中立": "trung lập",
+                "中路": "trung lộ",
+                "中流": "trung lưu",
+                "中美": "trung mỹ",
+                "中南": "trung nam",
+                "中俄": "trung nga",
+                "中午": "trung ngọ",
+                "中元": "trung nguyên",
+                "中原": "trung nguyên",
+                "中元節": "trung nguyên tiết",
+                "中日": "trung nhật",
+                "中年": "trung niên",
+                "中孚": "trung phu",
+                "中軍": "trung quân",
+                "中国": "trung quốc",
+                "中國": "trung quốc",
+                "中饋": "trung quỹ",
+                "中士": "trung sĩ",
+                "中佐": "trung tá",
+                "中心": "trung tâm",
+                "中秋": "trung thu",
+                "中式": "trung thức",
+                "中便": "trung tiện",
+                "中性": "trung tính",
+                "中旬": "trung tuần",
+                "中子": "trung tử",
+                "中将": "trung tướng",
+                "中將": "trung tướng",
+                "中尉": "trung uý",
+                "中央": "trung ương",
+                "中文": "trung văn",
+                "中意": "trung ý",
+                "無形中": "vô hình trung",
+                "無中生有": "vô trung sinh hữu",
+                "意中": "ý trung",
+                "意中人": "ý trung nhân",
+                "淹中": "yêm trung"
+            }
+        },
+        "trúng": {
+            "Từ điển phổ thông": [
+                "đúng, trúng, tin",
+                "mắc phải, bị"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ giữa. ◎Như: 'trung ương' 中央 chỗ giữa (ý nói quan trọng nhất), 'cư trung' 居中 ở giữa.",
+                "(Danh) Bên trong. ◎Như: 'thủy trung' 水中 trong (dưới) nước, 'mộng trung' 夢中 trong mộng, 'tâm trung' 心中 trong lòng.",
+                "(Danh) Trong khoảng, trong vòng (thời kì). ◎Như: 'nhất niên chi trung' 一年之中 trong khoảng một năm.",
+                "(Danh) Tên gọi tắt của 'Trung Quốc' 中國.",
+                "(Tính) Ở giữa làm môi giới, liên lạc. ◎Như: 'trung nhân' 中人 người làm trung gian.",
+                "(Tính) Vừa, thường, nhỡ (ở trong khoảng giữa cao và thấp, lớn và nhỏ, tốt và xấu). ◎Như: 'trung cấp' 中級 bậc trung, 'trung hình' 中型 cỡ vừa, 'trung đẳng' 中等 hạng vừa.",
+                "(Tính) Nửa. ◎Như: 'trung đồ' 中途 nửa đường, 'trung dạ' 中夜 nửa đêm.",
+                "(Phó) Đang. ◎Như: 'tại điều tra trung ' 在調查中 đang điều tra.",
+                "Một âm là 'trúng'. (Động) Đúng. ◎Như: 'xạ trúng' 射中 bắn trúng, 'ngôn trúng' 言中 nói đúng. ◇Luận Ngữ 論語: 'Hình phạt bất trúng, tắc dân vô sở thố thủ túc' 刑罰不中, 則民無所措手足 (Tử Lộ 子路) Hình phạt không đúng, thì dân không biết đặt tay chân vào đâu (không biết làm thế nào cho phải).",
+                "(Động) Bị, mắc. ◎Như: 'trúng phong' 中風 bị trúng gió, 'trúng thử' 中暑 bị trúng nắng, 'trúng độc' 中毒 ngộ độc.",
+                "(Động) Được. ◎Như: 'trúng tưởng' 中獎 được thưởng, 'trúng thiêm' 中籤 được trúng số.",
+                "(Động) Hợp, hợp cách. ◎Như: 'trúng thức' 中式 trúng cách, 'bất trúng dụng' 不中用 không dùng được.",
+                "(Động) Đậu, thi đỗ. ◎Như: 'khảo trúng' 考中 thi đậu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giữa, chỉ vào bộ vị trong vật thể, như trung ương 中央 chỗ giữa, trung tâm 中心 giữa ruột, v.v.",
+                "Trong, như đối với nước ngoài thì gọi nước mình là trung quốc 中國, đối với các tỉnh ngoài thì gọi chỗ kinh đô là trung ương 中央, v.v.",
+                "Ở khoảng giữa hai bên cũng gọi là trung, như thượng, trung, hạ 上中下 trên, giữa, dưới. Người đứng giữa giới thiệu cho hai người khác gọi là trung nhân 中人 cũng do một nghĩa ấy.",
+                "Ngay, không vẹo không lệch, không quá không thiếu, cũng gọi là trung, như trung dong 中庸 đạo phải, trung hành 中行 làm phải, trung đạo 中道 đạo chân chính không thiên bên nào v.v.",
+                "Nửa, như trung đồ 中途 nửa đường, trung dạ 中夜 nửa đêm, v.v.",
+                "Chỉ chung tất cả các chỗ, như Ngô trung 吳中 trong đất Ngô, Thục trung 蜀中 trong đất Thục, v.v.",
+                "Một âm là trúng. Tin, như bắn tin gọi là xạ trúng 射中, nói đúng gọi là ngôn trúng 言中, v.v.",
+                "Bị phải, như trúng phong 中風 bị phải gió, trúng thử 中暑 bị phải nắng, v.v.",
+                "Hợp cách, như thi cử lấy đỗ gọi là trúng thức 中式, đồ không dùng được gọi là bất trúng dụng 不中用, v.v.",
+                "Ðầy đủ, như chế trúng nhị thiên thạch 制中二天石 phép đủ hai nghìn thạch.",
+                "Cùng âm nghĩa như chữ trọng, như em thứ hai gọi là trọng đệ 仲第."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trúng: 射 中 Bắn trúng; 打中了 Đánh trúng, bắn trúng; 擊中要害 Đánh trúng chỗ hiểm yếu; 見其發矢，十中八九 Trông thấy họ bắn tên, mười phát trúng hết tám, chín (Âu Dương Tu: Mại du ông);",
+                "Đúng: 我猜中了 Tôi đoán đúng rồi; 莫不中音 Không gì là không trúng (hợp với) âm luật (Trang tử: Dưỡng sinh chủ); 隱中胸懷 Ngầm hợp tâm ý (Liêu trai chí dị: Xúc chức); 圓者中 規，方者中矩 Cái tròn thì hợp với cái quy (để vẽ hình tròn), cái vuông thì hợp với cái củ (để vẽ hình vuông) (Tuân tử);",
+                "Bị, mắc phải: 中彈 Bị trúng đạn; 中計 Trúng mưu, trúng kế;",
+                "Vu khống, làm hại: 以事中允 Mượn cớ (gây ra việc rắc rối) để làm hại Vương Doãn (Hậu Hán thư: Vương Doãn liệt truyện); 顯怒，慾以吏事中商 Hiển giận, định lấy việc quan để hại Thương (Hán thư: Hà Võ truyện);",
+                "Đậu, đỗ: 考中了 Thi đậu rồi, đỗ rồi. Xem 中 [zhong]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đúng vào. Không trtật ra ngoài — Hợp với. Đúng với — Một âm khác là Trung."
+            ],
+            "compound_words": {
+                "百發百中": "bách phát bách trúng",
+                "不中": "bất trúng",
+                "不中用": "bất trúng dụng",
+                "中保": "trúng bảo",
+                "中格": "trúng cách",
+                "中舉": "trúng cử",
+                "中用": "trúng dụng",
+                "中的": "trúng đích",
+                "中毒": "trúng độc",
+                "中寒": "trúng hàn",
+                "中計": "trúng kế",
+                "中風": "trúng phong",
+                "中风": "trúng phong",
+                "中暑": "trúng thử",
+                "中式": "trúng thức",
+                "中食": "trúng thực",
+                "中傷": "trúng thương",
+                "中選": "trúng tuyển",
+                "中酒": "trúng tửu"
+            }
+        }
+    }
+}

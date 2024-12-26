@@ -1,0 +1,80 @@
+{
+    "character": "刨",
+    "details": {
+        "Âm Hán Việt": [
+            "bào"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "đao 刀 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰包⺉"
+        ],
+        "Nét bút": [
+            "ノフフ一フ丨丨"
+        ],
+        "Thương Hiệt": [
+            "PULN (心山中弓)"
+        ],
+        "Unicode": [
+            "U+5228"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bào ㄅㄠˋ",
+            "páo ㄆㄠˊ"
+        ],
+        "Âm Nôm": [
+            "bao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けず.る (kezu.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "paau4"
+        ]
+    },
+    "meanings": {
+        "bào": {
+            "Từ điển phổ thông": [
+                "đào, bới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đào, khoét. ◎Như: 'bào phần' 刨墳 giẫy mả, 'bào đỗng' 刨洞 đào hang.",
+                "(Động) Giảm bớt (tiếng địa phương bắc Trung Quốc).",
+                "(Động) Trừ khử. § Thông 'bào' 鉋.",
+                "(Động) Bào vụn, nạo vụn. § Thông 'bào' 鉋. ◎Như: 'bào bì' 刨皮 nạo da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giẫy, như bào phần 刨墳 giẫy mả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cuốc, bới, đào, cào, giẫy: 刨土 Cuốc đất; 刨坑 Đào hố; 刨出來看是什麼東西 Bới ra xem là cái gì; 刨填 Giẫy mả;",
+                "Trừ, ngoài: 十五天刨去五天，只剩下十天了 Mười lăm ngày trừ mất năm ngày, chỉ còn mười ngày thôi; 他們家刨去老人和孩子，只有三個勞動力 Ngoài người già và trẻ con, nhà anh ấy chỉ có ba sức lao động. Xem 刨 [bào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bóc ra, lột ra — Nắm lấy."
+            ],
+            "compound_words": {
+                "刨花": "bào hoa",
+                "刨齒": "bào xỉ",
+                "刨齿": "bào xỉ"
+            }
+        }
+    }
+}

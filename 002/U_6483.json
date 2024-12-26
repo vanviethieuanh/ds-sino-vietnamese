@@ -1,0 +1,62 @@
+{
+    "character": "撃",
+    "details": {
+        "Âm Hán Việt": [
+            "kích"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+11 nét)"
+        ],
+        "Hình thái": [
+            "⿰軗手"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨ノフフ丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "XJEQ (重十水手)"
+        ],
+        "Unicode": [
+            "U+6483"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲキ (geki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.つ (u.tsu)"
+        ],
+        "Âm Hàn": [
+            "격"
+        ]
+    },
+    "meanings": {
+        "kích": {
+            "Từ điển phổ thông": [
+                "đánh mạnh, gõ mạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Như chữ 擊."
+            ],
+            "compound_words": {
+                "襲撃": "tập kích",
+                "射撃": "xạ kích",
+                "射撃點": "xạ kích điểm",
+                "衝撃": "xung kích",
+                "要撃": "yêu kích"
+            }
+        }
+    }
+}

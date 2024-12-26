@@ -1,0 +1,75 @@
+{
+    "character": "钱",
+    "details": {
+        "Âm Hán Việt": [
+            "tiền",
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅戋"
+        ],
+        "Nét bút": [
+            "ノ一一一フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "CIJ (金戈十)"
+        ],
+        "Unicode": [
+            "U+94B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ",
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "tiền"
+        ],
+        "Âm Quảng Đông": [
+            "cin2",
+            "cin4"
+        ]
+    },
+    "meanings": {
+        "tiền": {
+            "Từ điển phổ thông": [
+                "tiền nong"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 錢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 錢"
+            ],
+            "compound_words": {
+                "本钱": "bản tiền",
+                "工钱": "công tiền",
+                "价钱": "giá tiền",
+                "块钱": "khối tiền",
+                "找钱": "trảo tiền"
+            }
+        },
+        "tiễn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 錢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 錢"
+            ]
+        }
+    }
+}

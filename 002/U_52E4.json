@@ -1,0 +1,107 @@
+{
+    "character": "勤",
+    "details": {
+        "Âm Hán Việt": [
+            "cần"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "lực 力 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰堇力"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一一丨一フノ"
+        ],
+        "Thương Hiệt": [
+            "TMKS (廿一大尸)"
+        ],
+        "Unicode": [
+            "U+52E4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qín ㄑㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "cần",
+            "cùn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)",
+            "ゴン (gon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つと.める (tsuto.meru)",
+            "-づと.め (-zuto.me)",
+            "つと.まる (tsuto.maru)",
+            "いそ.しむ (iso.shimu)"
+        ],
+        "Âm Hàn": [
+            "근"
+        ],
+        "Âm Quảng Đông": [
+            "kan4"
+        ]
+    },
+    "meanings": {
+        "cần": {
+            "Từ điển phổ thông": [
+                "cố hết sức, chăm chỉ, cần cù"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bắt làm việc hình dịch. ◎Như: 'cần bách tính' 勤百姓 bắt trăm họ làm hình dịch.",
+                "(Động) Siêng năng làm, chăm chỉ làm. ◇Luận Ngữ 論語: 'Tứ thể bất cần, ngũ cốc bất phân' 四體不勤, 五穀不分 (Vi Tử 衛子) Tay chân (tứ thể) không chăm làm, không biết phân biệt năm giống lúa.",
+                "(Động) Cứu giúp. ◎Như: 'cần vương' 勤王 giúp vua.",
+                "(Phó) Thường xuyên. ◎Như: 'cần hoán tẩy' 勤換洗 thay đổi giặt rửa thường xuyên.",
+                "(Phó) Hết lòng, hết sức. ◎Như: 'cần canh' 勤耕 hết sức cày bừa, 'cần học' 勤學 chăm chỉ học tập.",
+                "(Danh) Việc làm, công tác. ◎Như: 'nội cần' 内勤 việc làm trong cơ quan.",
+                "(Danh) Việc nhọc nhằn, vất vả. ◇Đào Uyên Minh 陶淵明: 'Phục cần tận tuế nguyệt' 服勤盡歲月 (Vịnh tam lương 詠三良) Công việc nhọc nhằn quanh năm suốt tháng.",
+                "(Danh) Họ 'Cần'.",
+                "(Tính) Thành khẩn, chu đáo. ◎Như: 'ân cần' 殷勤 quan tâm đến rất nhiều. § Cũng viết là 'ân cần' 慇懃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Siêng. ② Ân cần 殷勤 tiếp đãi thân thiết tỏ ý hậu đãi, cũng có khi dùng chữ ân cần 慇懃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chăm, chăm chỉ, siêng năng: 勤學 Chăm chỉ học tập;",
+                "Thường xuyên;",
+                "Làm việc: 内勤 Làm việc ở trong cơ quan; 外勤 Làm việc ở ngoài cơ quan; 後勤 (Công tác) hậu cần;",
+                "[Qín] (Họ) Cần."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mệt nhọc — Lo lắng — Cực khổ — Giúp đỡ — Chăm chỉ, chịu khó — Gấp rút."
+            ],
+            "compound_words": {
+                "恩勤": "ân cần",
+                "殷勤": "ân cần",
+                "勤幹": "cần cán",
+                "勤急": "cần cấp",
+                "勤劬": "cần cù",
+                "勤懇": "cần khẩn",
+                "勤苦": "cần khổ",
+                "勤儉": "cần kiệm",
+                "勤勞": "cần lao",
+                "勤敏": "cần mẫn",
+                "勤勉": "cần miễn",
+                "勤務": "cần vụ",
+                "勤王": "cần vương",
+                "專勤": "chuyên cần",
+                "後勤": "hậu cần",
+                "倦勤": "quyện cần",
+                "辛勤": "tân cần"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "貯",
+    "details": {
+        "Âm Hán Việt": [
+            "trữ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "bối 貝 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰貝宁"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶丶丶フ一丨"
+        ],
+        "Thương Hiệt": [
+            "BCJMN (月金十一弓)"
+        ],
+        "Unicode": [
+            "U+8CAF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǔ ㄓㄨˇ",
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "chứa",
+            "giữ",
+            "trữ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョ (cho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "た.める (ta.meru)",
+            "たくわ.える (takuwa.eru)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "cyu5"
+        ]
+    },
+    "meanings": {
+        "trữ": {
+            "Từ điển phổ thông": [
+                "chứa cất"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Tích chứa. ◎Như: “trữ tồn” 貯存. ◇Liêu trai chí dị 聊齋志異: “Thất ngung nhất anh trữ giai uấn” 室隅一罌貯佳醞 (Phiên Phiên 翩翩) Góc nhà có một cái bình chứa rượu ngon."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tích chứa. Như trữ tồn 貯存."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cất chứa, tích chứa, trữ: 缸裏貯滿了水 Trong vại chứa đầy nước; 貯糧備荒 Trữ lương thực để phòng thiên tai."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cất chứa. Td: Tích trữ."
+            ],
+            "compound_words": {
+                "延貯": "diên trữ",
+                "窩貯": "oa trữ",
+                "封貯": "phong trữ",
+                "藏貯": "tàng trữ",
+                "積貯": "tích trữ",
+                "貯金": "trữ kim",
+                "貯糧": "trữ lương",
+                "貯蓄": "trữ súc"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "药",
+    "details": {
+        "Âm Hán Việt": [
+            "dược",
+            "điếu",
+            "ước"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹约"
+        ],
+        "Nét bút": [
+            "一丨丨フフ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "TVMI (廿女一戈)"
+        ],
+        "Unicode": [
+            "U+836F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yào ㄧㄠˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "dược",
+            "ước"
+        ],
+        "Âm Quảng Đông": [
+            "joek1",
+            "joek6"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển phổ thông": [
+                "cây thuốc, thuốc chữa bệnh"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 藥.",
+                "Giản thể của chữ 葯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 葯"
+            ],
+            "compound_words": {
+                "弹药": "đạn dược",
+                "火药": "hoả dược",
+                "芍药": "thược dược",
+                "中药": "trung dược"
+            }
+        },
+        "điếu": {
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 藥.",
+                "Giản thể của chữ 葯."
+            ]
+        },
+        "ước": {
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 藥.",
+                "Giản thể của chữ 葯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây bạch chỉ."
+            ]
+        }
+    }
+}

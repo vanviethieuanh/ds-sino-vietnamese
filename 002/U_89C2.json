@@ -1,0 +1,84 @@
+{
+    "character": "观",
+    "details": {
+        "Âm Hán Việt": [
+            "quan",
+            "quán"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "kiến 見 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰又见"
+        ],
+        "Nét bút": [
+            "フ丶丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "EBHU (水月竹山)"
+        ],
+        "Unicode": [
+            "U+89C2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guān ㄍㄨㄢ",
+            "guàn ㄍㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "quan"
+        ],
+        "Âm Quảng Đông": [
+            "gun1"
+        ]
+    },
+    "meanings": {
+        "quan": {
+            "Từ điển phổ thông": [
+                "xem, quan sát"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 觀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem: 走馬觀花 Cưỡi ngựa xem hoa; 以觀後效 Chờ xem hiệu quả sau này ra sao;",
+                "Bộ mặt, hiện tượng, diện mạo, cảnh tượng: 外觀 Hiện tượng bên ngoài; 改觀 Thay đổi bộ mặt;",
+                "Quan niệm, quan điểm, quan; 人生觀 Nhân sinh quan, quan điểm về nhân sinh (đời sống); 世界觀 Thế giới quan. Xem 觀 [guàn]."
+            ],
+            "compound_words": {
+                "旁观": "bàng quan",
+                "悲观": "bi quan",
+                "主观": "chủ quan",
+                "可观": "khả quan",
+                "客观": "khách quan",
+                "奇观": "kỳ quan",
+                "乐观": "lạc quan",
+                "观音菩萨": "quan âm bồ tát",
+                "参观": "tham quan",
+                "壮观": "tráng quan"
+            }
+        },
+        "quán": {
+            "Từ điển phổ thông": [
+                "xem, quan sát"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 觀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 觀"
+            ]
+        }
+    }
+}

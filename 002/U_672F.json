@@ -1,0 +1,74 @@
+{
+    "character": "术",
+    "details": {
+        "Âm Hán Việt": [
+            "thuật",
+            "truật"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "mộc 木 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺木丶"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "ID (戈木)"
+        ],
+        "Unicode": [
+            "U+672F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shù ㄕㄨˋ",
+            "zhú ㄓㄨˊ",
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thuật",
+            "truật"
+        ],
+        "Âm Quảng Đông": [
+            "seot6"
+        ]
+    },
+    "meanings": {
+        "thuật": {
+            "Từ điển phổ thông": [
+                "kỹ thuật, học thuật, phương pháp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 術."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 術"
+            ],
+            "compound_words": {
+                "学术": "học thuật",
+                "剑术": "kiếm thuật",
+                "艺术": "nghệ thuật"
+            }
+        },
+        "truật": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một vị thuốc bắc, ũng gọi là Bạch Truật."
+            ],
+            "compound_words": {
+                "白术": "bạch truật"
+            }
+        }
+    }
+}

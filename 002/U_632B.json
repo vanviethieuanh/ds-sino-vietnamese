@@ -1,0 +1,89 @@
+{
+    "character": "挫",
+    "details": {
+        "Âm Hán Việt": [
+            "toả"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘坐"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶ノ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "QOOG (手人人土)"
+        ],
+        "Unicode": [
+            "U+632B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cuò ㄘㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "doá",
+            "toả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザ (za)",
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くじ.く (kuji.ku)",
+            "くじ.ける (kuji.keru)"
+        ],
+        "Âm Hàn": [
+            "좌"
+        ],
+        "Âm Quảng Đông": [
+            "co3"
+        ]
+    },
+    "meanings": {
+        "toả": {
+            "Từ điển phổ thông": [
+                "bẻ gãy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bẻ gãy, thất bại. ◎Như: 'tỏa chiết' 挫折 vấp ngã, thua thiệt. ◇Sử Kí 史記: 'Binh tỏa địa tước, vong kì lục quận' 兵挫地削, 亡其六郡 (Khuất Nguyên Giả Sanh truyện 屈原賈生傳) Thua trận hao đất, mất sáu quận.",
+                "(Động) Đè nén, ức chế. ◇Hậu Hán Thư 後漢書: 'Bật vi chánh đặc tỏa ức hào cường' 弼為政特挫抑豪強 (Sử Bật truyện 史弼傳) (Sử) Bật làm quan, chuyên đè nén bọn nhà giàu và có thế lực.",
+                "(Động) Chịu khuất nhục. ◇Hán Thư 漢書: 'Cửu tỏa ư đao bút chi tiền' 久挫於刀筆之前 (Trần Thang truyện 陳湯傳) Đã lâu chịu khuất nhục trước bọn thư lại (tầm thường)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bẻ.",
+                "Thất bại nhỏ gọi là toả.",
+                "Âm điệu rời rạc cũng gọi là toả.",
+                "Khuất nhục."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trắc trở, vấp váp: 受挫 Bị vấp váp; 事遭挫阻 Công việc gặp trắc trở;",
+                "(Xuống) thấp, trầm, (âm điệu) rời rạc, (làm) nhụt: 語音抑揚頓挫 Giọng nói lúc bổng lúc trầm; 挫敵人的銳氣 Làm nhụt tinh thần quân địch;",
+                "(văn) Khuất phục."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bẻ gẫy — Bị thất bại — Chịu nhục."
+            ],
+            "compound_words": {
+                "折挫": "chiết toả",
+                "挫敗": "toả bại",
+                "挫败": "toả bại",
+                "挫志": "toả chí",
+                "挫折": "toả chiết"
+            }
+        }
+    }
+}

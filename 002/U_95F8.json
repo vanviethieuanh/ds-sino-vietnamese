@@ -1,0 +1,66 @@
+{
+    "character": "闸",
+    "details": {
+        "Âm Hán Việt": [
+            "sạp",
+            "áp"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "môn 門 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵门甲"
+        ],
+        "Nét bút": [
+            "丶丨フ丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "LSWL (中尸田中)"
+        ],
+        "Unicode": [
+            "U+95F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Quảng Đông": [
+            "zaap6"
+        ]
+    },
+    "meanings": {
+        "sạp": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 閘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 閘"
+            ]
+        },
+        "áp": {
+            "Từ điển phổ thông": [
+                "cái đập ngăn nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 閘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 閘"
+            ],
+            "compound_words": {
+                "共同闸道介靣": "cộng đồng áp đạo giới diện"
+            }
+        }
+    }
+}

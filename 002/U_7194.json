@@ -1,0 +1,83 @@
+{
+    "character": "熔",
+    "details": {
+        "Âm Hán Việt": [
+            "dong",
+            "dung"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "hoả 火 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰火容"
+        ],
+        "Nét bút": [
+            "丶ノノ丶丶丶フノ丶ノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "FJCR (火十金口)"
+        ],
+        "Unicode": [
+            "U+7194"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "róng ㄖㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dong",
+            "dung",
+            "nung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.ける (to.keru)",
+            "と.かす (to.kasu)",
+            "いがた (igata)"
+        ],
+        "Âm Hàn": [
+            "용"
+        ],
+        "Âm Quảng Đông": [
+            "jung4"
+        ]
+    },
+    "meanings": {
+        "dong": {
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “dong” 鎔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ dong 鎔."
+            ]
+        },
+        "dung": {
+            "Từ điển phổ thông": [
+                "nóng chảy"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(lí) Nóng chảy, chảy (từ thể rắn ra thể lỏng). Như 鎔 (bộ 金)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nóng chảy. Cũng viết với bộ Kim."
+            ],
+            "compound_words": {
+                "熔解": "dung giải",
+                "熔岩": "dung nham"
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "蔔",
+    "details": {
+        "Âm Hán Việt": [
+            "bặc",
+            "bốc"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thảo 艸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹匐"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ一丨フ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "TPMW (廿心一田)"
+        ],
+        "Unicode": [
+            "U+8514"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ",
+            "bó ㄅㄛˊ",
+            "bo"
+        ],
+        "Âm Nôm": [
+            "bốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フク (fuku)",
+            "ホク (hoku)"
+        ],
+        "Âm Hàn": [
+            "복"
+        ],
+        "Âm Quảng Đông": [
+            "baak6"
+        ]
+    },
+    "meanings": {
+        "bặc": {
+            "Từ điển phổ thông": [
+                "(xem: đảm bặc 薝蔔)"
+            ],
+            "Từ điển trích dẫn": [
+                "Cùng nghĩa với chữ 'bặc' 菔.",
+                "§ Phồn thể của chữ 卜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cùng nghĩa với chữ bặc 菔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蘿蔔;",
+                "Như 菔."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Bặc 菔."
+            ],
+            "compound_words": {
+                "薝蔔": "đảm bặc",
+                "蘿蔔": "la bặc"
+            }
+        },
+        "bốc": {
+            "Từ điển trích dẫn": [
+                "Cùng nghĩa với chữ 'bặc' 菔.",
+                "§ Phồn thể của chữ 卜."
+            ]
+        }
+    }
+}

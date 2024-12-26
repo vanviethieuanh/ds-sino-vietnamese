@@ -1,0 +1,116 @@
+{
+    "character": "刑",
+    "details": {
+        "Âm Hán Việt": [
+            "hình"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "đao 刀 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰开⺉"
+        ],
+        "Nét bút": [
+            "一一ノ丨丨丨"
+        ],
+        "Thương Hiệt": [
+            "MTLN (一廿中弓)"
+        ],
+        "Unicode": [
+            "U+5211"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xíng ㄒㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "hình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Hàn": [
+            "형"
+        ],
+        "Âm Quảng Đông": [
+            "jing4"
+        ]
+    },
+    "meanings": {
+        "hình": {
+            "Từ điển phổ thông": [
+                "hình phạt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hình phạt. § Luật ngày xưa định năm hình là: 'tử, lưu, đồ, trượng, si' 死流徒杖笞.",
+                "(Danh) Phép thường, điển phạm, pháp luật. § Thông 'hình' 型. ◇Thi Kinh 詩經: 'Võng phu cầu tiên vương, Khắc cộng minh hình' 罔敷求先王, 克共明刑 (Đại nhã 大雅, Ức 抑) Suy cầu rộng khắp (theo đạo) vua trước, (Để có thể) nắm giữ được pháp luật sáng suốt.",
+                "(Động) Giết hại. ◇Sử Kí 史記: 'Kim nãi dĩ thiếp thượng tại chi cố, trọng tự hình dĩ tuyệt tung' 今乃以妾尚在之故, 重自刑以絕從 (Thích khách liệt truyện 刺客列傳) Nay chỉ vì thiếp vẫn còn sống cho nên (Nhiếp Chánh) mới cố tự hủy hoại thân thể để làm mất tung tích (để tránh cho thiếp tôi khỏi liên lụy).",
+                "(Động) Làm theo, mô phỏng. ◇Lễ Kí 禮記: 'Hình nhân giảng nhượng, thị dân hữu thường' 刑仁講讓, 示民有常 (Lễ vận 禮運) Theo đức nhân giảng dạy, chỉ bảo cho dân biết đạo thường.",
+                "(Động) Làm cho ngay chính. § Thông 'hình' 型. ◇Thi Kinh 詩經: 'Hình vu quả thê, Chí vu huynh đệ, Dĩ nhạ vu gia bang' 刑于寡妻, 至于兄弟, 以御于家邦 (Đại nhã 大雅, Tư trai 公思齊) Làm cho ngay chính vợ mình, Cho tới anh em, Để đón rước cả nước nhà (theo về)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hình phạt. Luật ngày xưa định xử tử lưu đồ trượng di 死流徒杖笞 là năm hình. Luật bây giờ chia ra hai thứ: về việc tiền của công nợ là dân sự phạm 民事犯, về việc trộm cướp đánh giết gọi là hình sự phạm 刑事犯.",
+                "Phép thường. Nay thông dụng dùng chữ hình 型."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hình phạt: 死刑 Tử hình;",
+                "Tra tấn: 受刑 Bị tra tấn;",
+                "(văn) Phép thường (như 型, bộ 土);",
+                "[Xíng] (Họ) Hình."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao mà chém. Giết bằng dao — Sự trừng phạt kẻ có tội — Phép tắc."
+            ],
+            "compound_words": {
+                "陰刑": "âm hình",
+                "八刑": "bát hình",
+                "本刑": "bổn hình",
+                "宮刑": "cung hình",
+                "極刑": "cực hình",
+                "大刑": "đại hình",
+                "提刑": "đề hình",
+                "典刑": "điển hình",
+                "徒刑": "đồ hình",
+                "加刑": "gia hình",
+                "減刑": "giảm hình",
+                "絞刑": "giảo hình",
+                "行刑": "hành hình",
+                "刑部": "hình bộ",
+                "刑律": "hình luật",
+                "刑法": "hình pháp",
+                "刑罰": "hình phạt",
+                "刑事": "hình sự",
+                "火刑": "hoả hình",
+                "緩刑": "hoãn hình",
+                "腐刑": "hủ hình",
+                "遣刑": "khiển hình",
+                "輕刑": "khinh hình",
+                "苦刑": "khổ hình",
+                "墨刑": "mặc hình",
+                "五刑": "ngũ hình",
+                "獄刑": "ngục hình",
+                "肉刑": "nhục hình",
+                "冤刑": "oan hình",
+                "附加刑": "phụ gia hình",
+                "伏刑": "phục hình",
+                "服刑": "phục hình",
+                "生命刑": "sinh mệnh hình",
+                "蠶刑": "tàm hình",
+                "上刑": "thượng hình",
+                "杖刑": "trượng hình",
+                "死刑": "tử hình"
+            }
+        }
+    }
+}

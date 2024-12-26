@@ -1,0 +1,84 @@
+{
+    "character": "怗",
+    "details": {
+        "Âm Hán Việt": [
+            "chiêm",
+            "siêm",
+            "thiếp"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺖占"
+        ],
+        "Nét bút": [
+            "丶丶丨丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "PYR (心卜口)"
+        ],
+        "Unicode": [
+            "U+6017"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tiē ㄊㄧㄝ",
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nôm": [
+            "điếm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "テン (ten)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おだ.やか (oda.yaka)",
+            "したが.う (shitaga.u)"
+        ],
+        "Âm Hàn": [
+            "첩"
+        ],
+        "Âm Quảng Đông": [
+            "tip3"
+        ]
+    },
+    "meanings": {
+        "chiêm": {
+            "Từ điển Trần Văn Chánh": [
+                "【怗懘】 chiêm sí [zhanchì] (văn) Thanh âm không hài hoà."
+            ]
+        },
+        "siêm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Siêm sế 怗懘 — Một âm khác là Thiếp. Xem Thiếp."
+            ],
+            "compound_words": {
+                "怗懘": "siêm sế"
+            }
+        },
+        "thiếp": {
+            "Từ điển phổ thông": [
+                "phục tùng, dẹp yên",
+                "yên ổn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Phục tùng, dẹp yên;",
+                "Yên ổn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Yên lặng — Thuận theo. Bằng lòng."
+            ]
+        }
+    }
+}

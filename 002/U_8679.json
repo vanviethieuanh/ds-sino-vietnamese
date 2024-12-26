@@ -1,0 +1,88 @@
+{
+    "character": "虹",
+    "details": {
+        "Âm Hán Việt": [
+            "hống",
+            "hồng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "trùng 虫 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫工"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIM (中戈一)"
+        ],
+        "Unicode": [
+            "U+8679"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gòng ㄍㄨㄥˋ",
+            "hóng ㄏㄨㄥˊ",
+            "hòng ㄏㄨㄥˋ",
+            "jiàng ㄐㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hồng",
+            "vồng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にじ (niji)"
+        ],
+        "Âm Hàn": [
+            "홍",
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "hung4"
+        ]
+    },
+    "meanings": {
+        "hống": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Hống 港, trong từ ngữ Hống động — Một âm là Hồng. Xem Hồng."
+            ]
+        },
+        "hồng": {
+            "Từ điển phổ thông": [
+                "cầu vồng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cầu vồng, mống. ◇Nguyễn Du 阮攸: “Bạch hồng quán nhật thiên man man” 白虹貫日天漫漫 (Kinh Kha cố lí 荊軻故里) Cầu vồng trắng vắt ngang mặt trời, bầu trời mênh mang."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái cầu vồng. Nguyễn Du 阮攸: Bạch hồng quán nhật thiên man man 白虹貫日天漫漫 (Kinh Kha cố lí 荊軻故里) cầu vồng trắng vắt ngang mặt trời, bầu trời mênh mang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thiên) Cầu vồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cầu vồng — Cái cầu — Một âm khác là Hống. Xem Hống."
+            ],
+            "compound_words": {
+                "霓虹": "nghê hồng",
+                "霓虹燈": "nghê hồng đăng",
+                "風虹": "phong hồng"
+            }
+        }
+    }
+}

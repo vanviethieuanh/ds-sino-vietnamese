@@ -1,0 +1,81 @@
+{
+    "character": "碻",
+    "details": {
+        "Âm Hán Việt": [
+            "nghiêu",
+            "xác"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thạch 石 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石高"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丶一丨フ一丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "MRYRB (一口卜口月)"
+        ],
+        "Unicode": [
+            "U+78BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qiāo ㄑㄧㄠ",
+            "què ㄑㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "xác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たし.かめる (tashi.kameru)"
+        ],
+        "Âm Hàn": [
+            "확"
+        ],
+        "Âm Quảng Đông": [
+            "kok3"
+        ]
+    },
+    "meanings": {
+        "nghiêu": {
+            "Từ điển phổ thông": [
+                "(xem: nghiêu ngao 碻磝)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【碻磝】 Nghiêu Ngao [Qiaoáo] Thành Nghiêu Ngao (tên một thành cổ, thuộc tỉnh Sơn Đông, Trung Quốc ngày nay)."
+            ],
+            "compound_words": {
+                "碻磝": "nghiêu ngao"
+            }
+        },
+        "xác": {
+            "Từ điển phổ thông": [
+                "bền lâu",
+                "đúng, trúng, chính xác"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 确."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Xác 確."
+            ]
+        }
+    }
+}

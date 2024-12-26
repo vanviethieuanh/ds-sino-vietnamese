@@ -1,0 +1,99 @@
+{
+    "character": "夥",
+    "details": {
+        "Âm Hán Việt": [
+            "hoả",
+            "khoã",
+            "khoả"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "tịch 夕 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰果多"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨ノ丶ノフ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "WDNIN (田木弓戈弓)"
+        ],
+        "Unicode": [
+            "U+5925"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "huǒ ㄏㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "hoả",
+            "loã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ワ (wa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おびただ.しい (obitada.shii)"
+        ],
+        "Âm Hàn": [
+            "과",
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "fo2"
+        ]
+    },
+    "meanings": {
+        "hoả": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhiều: 獲益甚夥 Thu được nhiều lợi ích;",
+                "Như 伙 [huô]."
+            ],
+            "compound_words": {
+                "夥伴": "khoả bạn",
+                "夥計": "khoả kế"
+            }
+        },
+        "khoã": {
+            "Từ điển Thiều Chửu": [
+                "Nhiều.",
+                "Tục gọi những người cùng giúp việc kiếm ăn với mình là khoã kế 夥計."
+            ]
+        },
+        "khoả": {
+            "Từ điển phổ thông": [
+                "nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nhiều. ◎Như: 'hoạch ích thậm khỏa' 獲益甚夥 thu được nhiều lợi ích.",
+                "(Danh) Đồng bạn, người cùng làm chung việc hoặc ở trong cùng một tổ chức. ◎Như: 'đồng khỏa' 同夥 đồng bạn.",
+                "(Danh) Bè đảng, nhóm đông người tụ tập. ◇Thủy hử truyện 水滸傳: 'Ngã kim tu nhất phong thư dữ huynh trưởng khứ đầu na lí nhập khỏa, như hà?' 我今修一封書與兄長去投那裏入夥, 如何 (Đệ thập nhất hồi) Nay tôi viết một phong thư gửi huynh trưởng đến đó nhập bọn, có được không?",
+                "(Danh) Ngày xưa, chỉ người làm công trong tiệm buôn. ◎Như: 'khỏa kế' 夥計 người làm thuê.",
+                "(Danh) Lượng từ: bọn, lũ, tốp, toán. ◎Như: 'lưỡng khỏa nhân' 兩夥人 hai tốp người."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhiều: 獲益甚夥 Thu được nhiều lợi ích;",
+                "Như 伙 [huô]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhiều."
+            ],
+            "compound_words": {
+                "夥伴": "khoả bạn",
+                "夥計": "khoả kế"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "蚯",
+    "details": {
+        "Âm Hán Việt": [
+            "khâu",
+            "khưu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫丘"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIOM (中戈人一)"
+        ],
+        "Unicode": [
+            "U+86AF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "qiū ㄑㄧㄡ"
+        ],
+        "Âm Nôm": [
+            "khâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みみず (mimizu)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "jau1"
+        ]
+    },
+    "meanings": {
+        "khâu": {
+            "Từ điển Thiều Chửu": [
+                "① Xem chữ dẫn 蚓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蚯蚓】 khâu dẫn [qiuyên] Con giun đất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khâu dẫn 蚯蚓: Con giun đất."
+            ]
+        },
+        "khưu": {
+            "Từ điển phổ thông": [
+                "(xem: khưu dẫn 蚯蚓)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Khưu dẫn” 蚯蚓 con giun đất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蚯蚓】 khâu dẫn [qiuyên] Con giun đất."
+            ],
+            "compound_words": {
+                "蚯蚓": "khưu dẫn"
+            }
+        }
+    }
+}

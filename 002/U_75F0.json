@@ -1,0 +1,73 @@
+{
+    "character": "痰",
+    "details": {
+        "Âm Hán Việt": [
+            "đàm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nạch 疒 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒炎"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丶ノノ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "KFF (大火火)"
+        ],
+        "Unicode": [
+            "U+75F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "tán ㄊㄢˊ"
+        ],
+        "Âm Nôm": [
+            "đàm",
+            "đờm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "담"
+        ],
+        "Âm Quảng Đông": [
+            "taam4"
+        ]
+    },
+    "meanings": {
+        "đàm": {
+            "Từ điển phổ thông": [
+                "đờm (trong họng)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Đờm. ◎Như: “thổ đàm” 吐痰 nhổ đờm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðờm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đờm, đàm: 咯痰 Khạc đờm (đàm)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đờm. Chất nước dơ, dính, do bệnh phổi mà sinh ra ở cổ."
+            ],
+            "compound_words": {
+                "痰喘": "đàm suyễn"
+            }
+        }
+    }
+}

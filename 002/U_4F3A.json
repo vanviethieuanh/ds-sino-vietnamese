@@ -1,0 +1,99 @@
+{
+    "character": "伺",
+    "details": {
+        "Âm Hán Việt": [
+            "tí",
+            "tý",
+            "tứ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻司"
+        ],
+        "Nét bút": [
+            "ノ丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OSMR (人尸一口)"
+        ],
+        "Unicode": [
+            "U+4F3A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cì ㄘˋ",
+            "sì ㄙˋ"
+        ],
+        "Âm Nôm": [
+            "tí",
+            "tứ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うかが.う (ukaga.u)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "zi6"
+        ]
+    },
+    "meanings": {
+        "tí": {
+            "Từ điển trích dẫn": [
+                "(Động) Dò xét, rình. ◇Liêu trai chí dị 聊齋志異: 'Toại ẩn thân tùng thụ trung, dĩ tí kì chí' 遂隱身叢樹中，以伺其至 (Hương Ngọc 香玉) Bèn nấp trong bụi cây, rình nàng đi đến.",
+                "(Động) Trông chờ.",
+                "§ Ta quen đọc là 'tứ'."
+            ],
+            "compound_words": {
+                "伺隙": "tí khích"
+            }
+        },
+        "tý": {
+            "Từ điển phổ thông": [
+                "chờ đợi"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dò xét, ta quen đọc là tứ."
+            ]
+        },
+        "tứ": {
+            "Từ điển phổ thông": [
+                "dò xét, thăm dò"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dò xét, rình. ◇Liêu trai chí dị 聊齋志異: 'Toại ẩn thân tùng thụ trung, dĩ tí kì chí' 遂隱身叢樹中，以伺其至 (Hương Ngọc 香玉) Bèn nấp trong bụi cây, rình nàng đi đến.",
+                "(Động) Trông chờ.",
+                "§ Ta quen đọc là 'tứ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dò xét, ta quen đọc là tứ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dò xét, quan sát, rình: 伺敵 Dò xét quân địch; 伺隙 Rình chỗ sơ hở. Xem 伺 [cì]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dò xét."
+            ],
+            "compound_words": {
+                "伺候": "tứ hậu"
+            }
+        }
+    }
+}

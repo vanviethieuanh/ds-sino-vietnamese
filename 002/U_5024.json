@@ -1,0 +1,100 @@
+{
+    "character": "値",
+    "details": {
+        "Âm Hán Việt": [
+            "trị",
+            "trực"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻直"
+        ],
+        "Nét bút": [
+            "ノ丨一丨丨フ一一一フ"
+        ],
+        "Thương Hiệt": [
+            "XOJBV (重人十月女)"
+        ],
+        "Unicode": [
+            "U+5024"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhí ㄓˊ"
+        ],
+        "Âm Nôm": [
+            "trị",
+            "trịa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ね (ne)",
+            "あたい (atai)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "zik6"
+        ]
+    },
+    "meanings": {
+        "trị": {
+            "Từ điển phổ thông": [
+                "trị giá, đáng giá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Một dạng của 值."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cầm, như trị kì lộ vũ 値其鷺羽 cầm thửa cánh cò.",
+                "Ðang, như trị niên 値年 đang năm, trị nhật 値日 đang ngày, nghĩa là phải làm mọi việc năm ấy, ngày ấy vậy.",
+                "Ðánh giá (giá tiền với đồ xứng đáng nhau).",
+                "Gặp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giá trị: 二物之値相等 Giá trị hai vật ngang nhau;",
+                "Giá, đáng giá, trị giá: 値多少錢 Đáng bao nhiêu tiền?; 分文不値 Không đáng một xu; 春宵一刻値千金 Đêm xuân một khắc đáng giá ngàn vàng (Tô Thức: Xuân dạ);",
+                "(toán) Trị, trị số, số: 定値 Trị số xác định; 化引値 Số suy dẫn; 近似値 Trị số gần đúng;",
+                "Gặp: 相値 Gặp nhau;",
+                "Nhân dịp, gặp lúc, giữa khi: 正値國慶 Nhân dịp Quốc khánh; 去拜訪他，正値他外出 Đến thăm anh ấy thì gặp lúc anh ấy đi vắng;",
+                "Trực, thường trực: 値日 Trực nhật, thường trực; 値夜 Trực đêm. Xem 値 [zhì]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đáng với. Vừa tới. Td: Giá trị ( cái giá đáng như vậy ) — Tên người, tức Phan Văn Trị, đậu Cử nhân năm 1849, niên hiệu Tự Đức thứ 2, nhưng không ra làm quan vì chủ trương bất hợp tác, người làng Hưng Thịnh huyện Bản An tỉnh Vĩnh long, không rõ năm sanh năm mất. Tác phẩm chữ Nôm gồm 10 bài hoạ 10 bài Tự thuật của Tôn Thọ Tường, và một số bài thơ khác như bài hoạ Từ Thứ quy Tào, Hát bội… Tất cả đều nói lên lòng yêu nước, chủ trương chống Pháp."
+            ],
+            "compound_words": {
+                "价値": "giá trị",
+                "币値": "tệ trị",
+                "升値": "thăng trị",
+                "値得": "trị đắc",
+                "値價": "trị giá"
+            }
+        },
+        "trực": {
+            "Từ điển Trần Văn Chánh": [
+                "Giá trị: 二物之値相等 Giá trị hai vật ngang nhau;",
+                "Giá, đáng giá, trị giá: 値多少錢 Đáng bao nhiêu tiền?; 分文不値 Không đáng một xu; 春宵一刻値千金 Đêm xuân một khắc đáng giá ngàn vàng (Tô Thức: Xuân dạ);",
+                "(toán) Trị, trị số, số: 定値 Trị số xác định; 化引値 Số suy dẫn; 近似値 Trị số gần đúng;",
+                "Gặp: 相値 Gặp nhau;",
+                "Nhân dịp, gặp lúc, giữa khi: 正値國慶 Nhân dịp Quốc khánh; 去拜訪他，正値他外出 Đến thăm anh ấy thì gặp lúc anh ấy đi vắng;",
+                "Trực, thường trực: 値日 Trực nhật, thường trực; 値夜 Trực đêm. Xem 値 [zhì]."
+            ]
+        }
+    }
+}

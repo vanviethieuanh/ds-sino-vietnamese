@@ -1,0 +1,90 @@
+{
+    "character": "鬨",
+    "details": {
+        "Âm Hán Việt": [
+            "hạng",
+            "hống"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "đấu 鬥 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵鬥共"
+        ],
+        "Nét bút": [
+            "一一丨一丨一一丨一丨一丨丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LNTC (中弓廿金)"
+        ],
+        "Unicode": [
+            "U+9B28"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hōng ㄏㄨㄥ",
+            "hǒng ㄏㄨㄥˇ",
+            "hòng ㄏㄨㄥˋ",
+            "xiàng ㄒㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "グ (gu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とき (toki)"
+        ],
+        "Âm Hàn": [
+            "홍",
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "hung6"
+        ]
+    },
+    "meanings": {
+        "hạng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hạng 巷."
+            ]
+        },
+        "hống": {
+            "Từ điển phổ thông": [
+                "đánh nhau ầm ĩ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhiều người cùng làm ồn ào, rầm rĩ. ◎Như: 'nhất hống nhi tán' 一鬨而散 làm ồn lên rồi tản đi.",
+                "(Động) Tranh giành, đánh nhau. ◇Mạnh Tử 孟子: 'Trâu dữ Lỗ hống' 鄒與魯鬨 (Lương Huệ Vương hạ 梁惠王下) Nước Trâu và nước Lỗ đánh nhau.",
+                "(Phó) Phồn thịnh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tiếng người rầm rĩ.",
+                "Tiếng đánh nhau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiếng (người) ầm ĩ;",
+                "(Sự) tranh cãi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh nhau ồn ào."
+            ],
+            "compound_words": {
+                "亂鬨不過來": "loạn hống bất quá lai"
+            }
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "character": "复",
+    "details": {
+        "Âm Hán Việt": [
+            "phú",
+            "phúc",
+            "phục",
+            "phức"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tuy 夊 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿳𠂉日夂"
+        ],
+        "Nét bút": [
+            "ノ一丨フ一一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "OAHE (人日竹水)"
+        ],
+        "Unicode": [
+            "U+590D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "hạ",
+            "hè",
+            "phục",
+            "phức"
+        ],
+        "Âm Quảng Đông": [
+            "fuk6"
+        ]
+    },
+    "meanings": {
+        "phú": {
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 復.",
+                "Giản thể của chữ 複.",
+                "Giản thể của chữ 覆."
+            ],
+            "compound_words": {
+                "复习": "phúc tập",
+                "复审": "phúc thẩm"
+            }
+        },
+        "phúc": {
+            "Từ điển phổ thông": [
+                "khôi phục, phục hồi",
+                "trở lại",
+                "làm lại, lặp lại"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 復.",
+                "Giản thể của chữ 複.",
+                "Giản thể của chữ 覆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trở đi trở lại: 反復無常 Phản phúc; 譯來復去 Trằn trọc;",
+                "Trả lời, đáp lại: 復信 Thư trả lời; 請即電復 Xin đánh điện trả lời ngay;",
+                "Khôi phục: 光復 Quang phục; 收復 Thu hồi; 復婚 Phục hôn;",
+                "Báo phục: 復仇 Trả thù, phục thù;",
+                "Trở lại, lại: 舊病復發 Bệnh cũ lại phát; 死灰復燃 Khơi lại đống tro tàn; 死而復蘇 Chết rồi sống lại; 一去不復返 Một đi không trở lại, việc đã qua rồi sẽ không trở lại nữa. Cv. 覆;",
+                "(văn) Miễn trừ thuế má và lao dịch: 沛幸得復 Đất Bái may được miễn trừ thuế má và lao dịch (Sử kí: Cao tổ bản kỉ);",
+                "(văn) Đôi, kép (dùng như 複, bộ 衣)."
+            ],
+            "compound_words": {
+                "复习": "phúc tập",
+                "复审": "phúc thẩm"
+            }
+        },
+        "phục": {
+            "Từ điển phổ thông": [
+                "khôi phục, phục hồi",
+                "trở lại",
+                "làm lại, lặp lại"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 復.",
+                "Giản thể của chữ 複.",
+                "Giản thể của chữ 覆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 復"
+            ],
+            "compound_words": {
+                "报复": "báo phục",
+                "恢复": "khôi phục",
+                "反复": "phản phục",
+                "复仇": "phục cừu",
+                "复活": "phục hoạt",
+                "复兴": "phục hưng",
+                "复元": "phục nguyên",
+                "复原": "phục nguyên",
+                "复甦": "phục tô",
+                "收复": "thu phục",
+                "修复": "tu phục"
+            }
+        },
+        "phức": {
+            "Từ điển phổ thông": [
+                "áo kép",
+                "kép, ghép, phức"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 復.",
+                "Giản thể của chữ 複.",
+                "Giản thể của chữ 覆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đôi, chồng lên;",
+                "Phức, phức tạp, kép, ghép;",
+                "Lặp lại;",
+                "(văn) Áo kép."
+            ]
+        }
+    }
+}

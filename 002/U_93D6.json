@@ -1,0 +1,82 @@
+{
+    "character": "鏖",
+    "details": {
+        "Âm Hán Việt": [
+            "ao"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "kim 金 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸鹿金"
+        ],
+        "Nét bút": [
+            "丶一ノフ丨丨一一フノフノ丶一一丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "IPC (戈心金)"
+        ],
+        "Unicode": [
+            "U+93D6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "áo ㄚㄛˊ",
+            "biāo ㄅㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "ao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みなごろ.し (minagoro.shi)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ngou4",
+            "ou1"
+        ]
+    },
+    "meanings": {
+        "ao": {
+            "Từ điển phổ thông": [
+                "trận đánh quyết liệt",
+                "rầm rĩ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh nhau quyết liệt. ◇Tam quốc diễn nghĩa 三國演義: 'Tam Giang thủy chiến, Xích Bích ao binh' 三江水戰, 赤壁鏖兵 (Đệ ngũ thập hồi) Thủy chiến ở Tam Giang, đánh nhau dữ dội ở Xích Bích.",
+                "(Động) Làm huyên náo, rầm rĩ. ◇Hoàng Đình Kiên 黃庭堅: 'Thị thanh ao ngọ chẩm' 市聲鏖午枕 (Bình Âm Trương Trừng cư sĩ ẩn xứ 平陰張澄居士隱處) Tiếng chợ búa huyên náo giấc ngủ trưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đánh khoẻ giết dữ. Như Xích Bích ao binh 赤壁鏖兵 trận đánh quyết liệt ở Xích Bích.",
+                "Rầm rĩ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trận chiến ác liệt, chiến đấu quyết liệt: 赤壁鏖兵 Trận Xích Bích ác liệt;",
+                "Ầm ĩ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chậu bằng đồng, cái thau đồng — Giết hại nhiều người."
+            ],
+            "compound_words": {
+                "鏖戰": "ao chiến",
+                "鏖糟": "ao tao"
+            }
+        }
+    }
+}

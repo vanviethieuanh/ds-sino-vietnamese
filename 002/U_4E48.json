@@ -1,0 +1,106 @@
+{
+    "character": "么",
+    "details": {
+        "Âm Hán Việt": [
+            "ma",
+            "yêu"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "triệt 丿 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱丿厶"
+        ],
+        "Nét bút": [
+            "ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "HI (竹戈)"
+        ],
+        "Unicode": [
+            "U+4E48"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ",
+            "má ㄇㄚˊ",
+            "ma",
+            "mē ㄇㄜ",
+            "mé ㄇㄜˊ",
+            "me",
+            "mō ㄇㄛ",
+            "mó ㄇㄛˊ",
+            "mǒ ㄇㄛˇ",
+            "yāo ㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "ma"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エウ (eu)"
+        ],
+        "Âm Quảng Đông": [
+            "jiu1",
+            "mo1"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "bé nhỏ",
+                "vậy (trợ ngữ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Bé.",
+                "(Tính) Nhỏ mọn.",
+                "§ Giản thể của chữ 麼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bé nhỏ: 幺麼 Nhỏ, nhỏ mọn, nhỏ nhen. Xem 麼 [me], [mó]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Ma 麼."
+            ],
+            "compound_words": {
+                "怎么": "chẩm ma",
+                "那么": "na ma",
+                "什么": "thập ma",
+                "么麼": "yêu ma"
+            }
+        },
+        "yêu": {
+            "Từ điển phổ thông": [
+                "nhỏ bé"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Bé.",
+                "(Tính) Nhỏ mọn.",
+                "§ Giản thể của chữ 麼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Út, bé: 幺兒 Con út;",
+                "Nhỏ bé, nhỏ nhoi;",
+                "(Số) một: Xem 一 [yi] nghĩa ;",
+                "Cô độc, cô đơn;",
+                "[Yao] (Họ) Yêu. Xem 麼 [me], 嗎 [ma]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết quen của chữ Yêu 幺."
+            ],
+            "compound_words": {
+                "么麼": "yêu ma"
+            }
+        }
+    }
+}

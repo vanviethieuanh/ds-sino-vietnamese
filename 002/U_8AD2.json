@@ -1,0 +1,103 @@
+{
+    "character": "諒",
+    "details": {
+        "Âm Hán Việt": [
+            "lượng",
+            "lạng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "ngôn 言 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言京"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶一丨フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRYRF (卜口卜口火)"
+        ],
+        "Unicode": [
+            "U+8AD2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "liáng ㄌㄧㄤˊ",
+            "liàng ㄌㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "lạng",
+            "lượng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あきら.か (akira.ka)",
+            "まことに (makotoni)"
+        ],
+        "Âm Hàn": [
+            "량",
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "loeng6"
+        ]
+    },
+    "meanings": {
+        "lượng": {
+            "Từ điển phổ thông": [
+                "tha thứ",
+                "ước đoán",
+                "(tên đất)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tin thực, thành tín. ◇Luận Ngữ 論語: 'Hữu trực, hữu lượng, hữu đa văn, ích hĩ' 友直, 友諒, 友多聞, 益矣 (Quý thị 季氏) Bạn chính trực, bạn thành tín, bạn có nhiều kiến thức, (là ba thứ bạn) có ích vậy.",
+                "(Phó) Chắc hẳn, ngỡ rằng, đoán chừng, thiết tưởng. ◎Như: 'lượng năng' 諒能 chắc hẳn làm được đấy, 'lượng khả' 諒可 đoán chừng có thể. ◇Nguyễn Trãi 阮廌: 'Hoạch lạc tri hà dụng, Tê trì lượng hữu dư' 濩落知何用, 棲遲諒有餘 (Tặng hữu nhân 贈友人) Rỗng tuếch (như hai ta) thì biết dùng làm gì, Nhưng chơi không thì chắc hẳn có thừa.",
+                "(Động) Khoan thứ, tha thứ, bao dung. ◎Như: 'kiến lượng' 見諒 khoan thứ cho, 'nguyên lượng' 原諒 truy nguyên tình cảnh mà khoan thứ, 'thể lượng' 體諒 thể tất.",
+                "(Động) Tin cho, tin nhau. ◇Thi Kinh 詩經: 'Mẫu dã thiên chỉ, Bất lượng nhân chỉ' 母也天只, 不諒人只 (Dung phong 鄘風, Bách chu 柏舟) Mẹ hỡi, trời ơi, Không tin được lòng ta sao?",
+                "(Động) Cố chấp.",
+                "(Danh) Họ 'Lượng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tin, thực.",
+                "Lường, xét. Như lượng năng 諒能 may hay làm được đấy, lượng khả 諒可 may có thể đấy. Dùng làm chữ suy nguyên đến tình, thăm dò tới ý.",
+                "Lượng thứ, tha thứ. Như kiến lượng 見諒 sẽ thấy lượng thứ cho.",
+                "Tin cho.",
+                "Cố chấp, giữ điều tin nhỏ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Bao) dung, (tha) thứ: 體諒 Bao dung, thể tất; 見諒 Khoan thứ;",
+                "Thiết nghĩ, thiết tưởng, tin, chắc: 諒他也不會這樣做的 Thiết nghĩ nó cũng không làm như thế đâu; 諒他不能來 Chắc nó không đến được."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tin tưởng — Đáng tin — Giúp đỡ — Xem xét mà tha thứ cho. Td: Lượng tình, Lượng thứ."
+            ],
+            "compound_words": {
+                "原諒": "nguyên lượng",
+                "體諒": "thể lượng"
+            }
+        },
+        "lạng": {
+            "Từ điển phổ thông": [
+                "tha thứ",
+                "ước đoán",
+                "(tên đất)"
+            ],
+            "compound_words": {
+                "諒山": "lạng sơn"
+            }
+        }
+    }
+}

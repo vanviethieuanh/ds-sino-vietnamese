@@ -1,0 +1,123 @@
+{
+    "character": "植",
+    "details": {
+        "Âm Hán Việt": [
+            "thực",
+            "trĩ",
+            "trị"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木直"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨丨フ一一一一"
+        ],
+        "Thương Hiệt": [
+            "DJBM (木十月一)"
+        ],
+        "Unicode": [
+            "U+690D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhí ㄓˊ"
+        ],
+        "Âm Nôm": [
+            "thực"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.える (u.eru)",
+            "う.わる (u.waru)"
+        ],
+        "Âm Hàn": [
+            "식",
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "zik6"
+        ]
+    },
+    "meanings": {
+        "thực": {
+            "Từ điển phổ thông": [
+                "thực vật"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỉ chung các loài cây cỏ. ◎Như: 'thực vật' 植物 cây cỏ.",
+                "(Danh) Cái dõi cửa.",
+                "(Động) Trồng trọt, chăm bón. ◎Như: 'chủng thực' 種植 trồng trọt, 'bồi thực' 培植 vun trồng.",
+                "(Động) Cắm, dựng. ◎Như: 'thực tinh' 植旌 dựng cờ.",
+                "(Động) Dựa vào. ◇Luận Ngữ 論語: 'Thực kì trượng nhi vân' 植其杖而芸 (Vi tử 微子) Dựa vào cây gậy rồi cào cỏ.",
+                "Một âm là 'trĩ'. (Danh) Cái cột treo né tằm.",
+                "(Danh) Chức quan coi xét."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Các loài có rễ, như thực vật 植物 các cây cỏ.",
+                "Giồng (trồng), như chủng thực 種植 giồng giọt (trồng tỉa).",
+                "Cắm, tựa, như thực kì trượng nhi vân 植其杖而芸 cắm thửa gậy mà làm cỏ ruộng.",
+                "Phù thực, vun giồng cho con em đông đúc khá giả gọi là bồi thực 培植.",
+                "Cái dõi cửa.",
+                "Một âm là trĩ. Cái cột treo né tằm.",
+                "Chức coi xét."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trồng, cấy: 植樹造林 Trồng cây gây rừng; 合理密植 Cấy dầy hợp lí;",
+                "Dựng, cắm: 植其杖于門側 Dựng chiếc gậy bên cửa;",
+                "Thực vật, cây trồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trồng cây. Xem Thực vật — Lớn lên. Td: Sinh thực — Dựng nên — Tên người, tức Phan Đình Thực, người huyện Thanh chương tỉnh Nghệ An, đậu Phó bảng năm 1851, niên hiệu Tự Đức thứ 4, làm quan tới chức Biện lí bộ Hình, ông viết ra Tam thanh thi văn tập, Kí trai thi văn tập, và nhuận sắc cuốn Đại Nam Quốc Sử diễn ca."
+            ],
+            "compound_words": {
+                "隱花植物": "ẩn hoa thực vật",
+                "播植": "bá thực",
+                "培植": "bồi thực",
+                "種植": "chủng thực",
+                "扶植": "phù thực",
+                "植物": "thực vật"
+            }
+        },
+        "trĩ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Chỉ chung các loài cây cỏ. ◎Như: 'thực vật' 植物 cây cỏ.",
+                "(Danh) Cái dõi cửa.",
+                "(Động) Trồng trọt, chăm bón. ◎Như: 'chủng thực' 種植 trồng trọt, 'bồi thực' 培植 vun trồng.",
+                "(Động) Cắm, dựng. ◎Như: 'thực tinh' 植旌 dựng cờ.",
+                "(Động) Dựa vào. ◇Luận Ngữ 論語: 'Thực kì trượng nhi vân' 植其杖而芸 (Vi tử 微子) Dựa vào cây gậy rồi cào cỏ.",
+                "Một âm là 'trĩ'. (Danh) Cái cột treo né tằm.",
+                "(Danh) Chức quan coi xét."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Các loài có rễ, như thực vật 植物 các cây cỏ.",
+                "Giồng (trồng), như chủng thực 種植 giồng giọt (trồng tỉa).",
+                "Cắm, tựa, như thực kì trượng nhi vân 植其杖而芸 cắm thửa gậy mà làm cỏ ruộng.",
+                "Phù thực, vun giồng cho con em đông đúc khá giả gọi là bồi thực 培植.",
+                "Cái dõi cửa.",
+                "Một âm là trĩ. Cái cột treo né tằm.",
+                "Chức coi xét."
+            ]
+        },
+        "trị": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giá gác nong tằm — Một âm là Thực."
+            ]
+        }
+    }
+}

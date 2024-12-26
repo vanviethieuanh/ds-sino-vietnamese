@@ -1,0 +1,81 @@
+{
+    "character": "洄",
+    "details": {
+        "Âm Hán Việt": [
+            "hồi"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡回"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "EWR (水田口)"
+        ],
+        "Unicode": [
+            "U+6D04"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "huí ㄏㄨㄟˊ",
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "hói",
+            "hồi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さかの.ぼる (sakano.boru)"
+        ],
+        "Âm Hàn": [
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "wui4"
+        ]
+    },
+    "meanings": {
+        "hồi": {
+            "Từ điển phổ thông": [
+                "nước chảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dòng nước chảy quanh.",
+                "(Phó) Chảy quanh trở lại. ◇Hậu Hán Thư 後漢書: 'Thập lí lập nhất thủy môn, lệnh cánh tương hồi chú, vô phục hội lậu chi hoạn' 十里立一水門, 令更相洄注, 無復潰漏之患 (Vương Cảnh truyện 宋弘傳) Mười dặm dựng một cửa sông, làm cho càng thêm nước chảy quanh đổ vào, (khiến cho) không còn nạn lụt tràn nữa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước chảy.",
+                "Tố hồi 溯洄 trèo lên dòng nước ngược.",
+                "Thơ Tố hồi là thơ nhớ người hiền, cho nên trong thư từ nói nhớ ai cũng gọi là tố hồi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dòng nước xoáy;",
+                "Đi ngược dòng lên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước chảy vòng trở lại — Ngược dòng nước mà đi."
+            ],
+            "compound_words": {
+                "溯洄": "tố hồi"
+            }
+        }
+    }
+}

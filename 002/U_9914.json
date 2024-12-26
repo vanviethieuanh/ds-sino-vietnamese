@@ -1,0 +1,97 @@
+{
+    "character": "餔",
+    "details": {
+        "Âm Hán Việt": [
+            "bô",
+            "bộ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thực 食 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠甫"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "OIIJB (人戈戈十月)"
+        ],
+        "Unicode": [
+            "U+9914"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bū ㄅㄨ",
+            "bǔ ㄅㄨˇ",
+            "bù ㄅㄨˋ"
+        ],
+        "Âm Nôm": [
+            "bô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)",
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "く.う (ku.u)",
+            "ゆうめし (yūmeshi)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bou1",
+            "bou3",
+            "bou6"
+        ]
+    },
+    "meanings": {
+        "bô": {
+            "Từ điển phổ thông": [
+                "bữa ăn quá trưa",
+                "xế chiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn bữa cơm chiều.",
+                "(Động) Ăn. ◇Trang Tử 莊子: 'Đạo Chích nãi phương hưu tốt đồ Thái San chi dương, quái nhân can nhi bô chi' 盜跖乃方休卒徒大山之陽, 膾人肝而餔之 (Đạo Chích 盜跖) Đạo Chích đương nghỉ với bộ hạ ở phía nam núi Thái Sơn, cắt gan người mà ăn.",
+                "(Động) Cho ăn, nuôi cho ăn.",
+                "(Danh) Giờ 'Thân' 申 (từ ba đến năm giờ chiều). Phiếm chỉ buổi chiều, hoàng hôn. § Thông 'bô' 晡.",
+                "(Danh) 'Bô tử' 餔子 thức ăn sền sệt của trẻ con."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bữa cơm quá trưa, ăn vào khoảng một hai giờ chiều gọi là bô.",
+                "Nhật bô 日餔 xế chiều.",
+                "Ăn, ăn uống tham lam gọi là bô xuyết 餔啜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ăn: 餔啜 Ăn uống tham lam;",
+                "Thời gian ăn tối;",
+                "Xế chiều: 日餔 Xế chiều."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn cơm chiều — Giờ ăn cơm chiều. Khoảng giữa Thân ( thời xưa ăn cơm chiều rất sớm ) — Một âm khác là Bộ."
+            ],
+            "compound_words": {
+                "餔時": "bô thời",
+                "餔啜": "bô xuyết"
+            }
+        },
+        "bộ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đen đồ ăn cho ăn — Một âm khác là Bô."
+            ]
+        }
+    }
+}

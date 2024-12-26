@@ -1,0 +1,95 @@
+{
+    "character": "覽",
+    "details": {
+        "Âm Hán Việt": [
+            "lãm"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "kiến 見 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フノ一丶丨フ丨丨一丨フ一一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "SWBUU (尸田月山山)"
+        ],
+        "Unicode": [
+            "U+89BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lǎn ㄌㄢˇ",
+            "làn ㄌㄢˋ"
+        ],
+        "Âm Nôm": [
+            "lãm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "み.る (mi.ru)"
+        ],
+        "Âm Hàn": [
+            "람"
+        ],
+        "Âm Quảng Đông": [
+            "laam5"
+        ]
+    },
+    "meanings": {
+        "lãm": {
+            "Từ điển phổ thông": [
+                "xem, ngắm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xem. ◎Như: 'nhất lãm vô dư' 一覽無餘 xem rõ hết thảy. ◇Nguyễn Trãi 阮廌: 'Lãm huy nghĩ học minh dương phượng' 覽輝擬學鳴陽鳳 (Họa hương nhân tiên sinh vận giản chư đồng chí 和鄉先生韻柬諸同志) Nhìn ánh sáng muốn học chim phượng gáy vừng đông.",
+                "(Động) Đọc duyệt. ◎Như: 'bác lãm quần thư' 博覽群書 đọc rộng các sách.",
+                "(Động) Chịu nhận, nghe theo. ◇Chiến quốc sách 戰國策: 'Đại Vương lãm kì thuyết, nhi bất sát kì chí thật' 大王覽其說, 而不察其至實 (Tề sách nhị, Trương Nghi vị Tần liên hoành 張儀為秦連橫) Đại Vương nghe lời đó mà không xét cái thực tại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xem. Như bác lãm 博覽 xem rộng, lên cao coi khắp bốn phía gọi là nhất lãm vô dư 一覽無餘 xem rõ hết thảy. Nguyễn Trãi 阮廌: Lãm huy nghĩ học minh dương phượng 覽輝擬學鳴陽鳳 nhìn ánh sáng muốn học chim phượng gáy vừng đông.",
+                "Chịu nhận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem, ngắm: 博覽 Xem rộng; 閱覽室 Phòng đọc sách; 一覽無餘 Nhìn thấy tất cả, xem khắp bốn phía; 覽物之情 Cái tình (sinh ra) khi nhìn ngắm cảnh vật;",
+                "(văn) Chịu nhận;",
+                "(Họ) Lãm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhìn xem. Coi.  Hoa Tiên  có câu: » Lãm qua chuẩn doãn lời tâu. Cờ sai gươm hộp mặc dầu tiện nghi «."
+            ],
+            "compound_words": {
+                "博覽": "bác lãm",
+                "博覽會": "bác lãm hội",
+                "遊覽": "du lãm",
+                "閱覽": "duyệt lãm",
+                "乾坤一覽": "kiền khôn nhất lãm",
+                "覽翠": "lãm thuý",
+                "歴覽": "lịch lãm",
+                "御覽": "ngự lãm",
+                "閒覽": "nhàn lãm",
+                "一覽": "nhất lãm",
+                "披覽": "phi lãm",
+                "泛覽": "phiếm lãm",
+                "婦箴便覽": "phụ châm tiện lãm",
+                "使程便覽曲": "sứ trình tiện lãm khúc",
+                "賞覽": "thưởng lãm",
+                "展覽": "triển lãm",
+                "四六備覽": "tứ lục bị lãm",
+                "越史備覽": "việt sử bị lãm"
+            }
+        }
+    }
+}

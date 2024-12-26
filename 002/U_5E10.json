@@ -1,0 +1,65 @@
+{
+    "character": "帐",
+    "details": {
+        "Âm Hán Việt": [
+            "trướng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "cân 巾 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰巾长"
+        ],
+        "Nét bút": [
+            "丨フ丨ノ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "LBPO (中月心人)"
+        ],
+        "Unicode": [
+            "U+5E10"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhàng ㄓㄤˋ"
+        ],
+        "Âm Nôm": [
+            "trương"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng3"
+        ]
+    },
+    "meanings": {
+        "trướng": {
+            "Từ điển phổ thông": [
+                "căng lên, dương lên",
+                "trướng (lều dựng tạm khi hành binh)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 帳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 帳"
+            ],
+            "compound_words": {
+                "帐篷": "trướng bồng",
+                "帐单": "trướng đơn",
+                "帐号": "trướng hiệu",
+                "帐户": "trướng hộ",
+                "帐帘": "trướng liêm"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "閏",
+    "details": {
+        "Âm Hán Việt": [
+            "nhuận"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "môn 門 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿵門王"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "ANMG (日弓一土)"
+        ],
+        "Unicode": [
+            "U+958F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "rùn ㄖㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "nhộn",
+            "nhuần",
+            "nhún"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うるう (urū)"
+        ],
+        "Âm Hàn": [
+            "륜",
+            "윤"
+        ],
+        "Âm Quảng Đông": [
+            "jeon6"
+        ]
+    },
+    "meanings": {
+        "nhuận": {
+            "Từ điển phổ thông": [
+                "xen vào giữa, thừa ra",
+                "nhuận (lịch)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) (1) Âm lịch theo vòng quả đất xoay quanh mặt trời mà tính năm, theo vòng mặt trăng xoay quanh quả đất mà tính tháng, theo vòng quả đất tự xoay mà tính ngày. Cứ hết mỗi vòng quả đất xoay quanh mặt trời thì mặt trăng đã xoay quanh quả đất được mười hai vòng và một phần ba vòng nữa. Cho nên mỗi năm lại thừa ra hơn mười ngày, tính gom số thừa ấy lại thì hai năm rưỡi lại thừa ra một tháng, tháng thừa ấy gọi là 'nhuận nguyệt' 閏月. (2) Dương lịch theo mặt trời tính năm. Cứ hết một vòng quả đất xoay chung quanh mặt trời thì quả đất nó tự xoay quanh nó được 365 vòng và lẻ một phần tư. Cho nên dồn bốn năm thì lại thừa một ngày gọi là 'nhuận nhật' 閏日. Năm nào có ngày nhuận, tức là 'nhuận niên' 閏年, thì tháng hai có 29 ngày.",
+                "(Danh) Vua tiếm vị gọi là 'nhuận thống' 閏統 hay 'nhuận vị' 閏位 (đối lại với 'chánh thống' 正統)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thừa. Lịch Tàu theo vòng quả đất xoay chung quanh mặt trời mà tính năm, theo vòng mặt trăng xoay chung quanh quả đất mà tính tháng, theo vòng quả đất tự xoay mà tính ngày, cứ hết mỗi một vòng quả đất xoay chung quanh mặt trời thì mặt trăng đã xoay chung quanh quả đất được mười hai vòng và một phần ba vòng nữa, cho nên mỗi năm lại thừa ra hơn mười ngày, tính số thừa ấy lại thì hai năm rưỡi lại thừa ra một tháng, tháng thừa ấy gọi là nhuận nguyệt 閏月 tháng thừa. Lịch tây theo mặt trời tính năm, cứ hết một vòng quả đất xoay chung quanh mặt trời thì quả đất nó tự xoay mình nó được 365 vòng và lẻ một phần tư, cho nên tích bốn năm thì lại thừa một ngày gọi là nhuận nhật 閏日 ngày thừa. Năm nào có ngày nhuận thì cho vào tháng hai là 29 ngày."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thừa, nhuận: 閏月 Tháng thừa; 閏日 Ngày thừa; 閏三月 Tháng 3 nhuận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thừa ra. Lẻ ra. Thêm ra — Phụ, không phải là chánh yếu."
+            ],
+            "compound_words": {
+                "閏音": "nhuận âm",
+                "閏月": "nhuận nguyệt",
+                "閏日": "nhuận nhật",
+                "閏年": "nhuận niên",
+                "閏位": "nhuận vị"
+            }
+        }
+    }
+}

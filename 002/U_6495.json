@@ -1,0 +1,120 @@
+{
+    "character": "撕",
+    "details": {
+        "Âm Hán Việt": [
+            "ti",
+            "ty",
+            "tê",
+            "tề",
+            "tỵ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘斯"
+        ],
+        "Nét bút": [
+            "一丨一一丨丨一一一ノ丶ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "QTCL (手廿金中)"
+        ],
+        "Unicode": [
+            "U+6495"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sī ㄙ",
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "tê",
+            "ti"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "シ (shi)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "ti": {
+            "Từ điển trích dẫn": [
+                "(Động) Xé, gỡ. ◎Như: 'tương chỉ ti thành lưỡng bán' 將紙撕成兩半 xé đôi tờ giấy.",
+                "Một âm là 'tê'. (Động) § Xem 'đề tê' 提撕."
+            ]
+        },
+        "ty": {
+            "Từ điển Thiều Chửu": [
+                "Nhắc nhỏm, tỉnh thức, nghĩa là nhắc cho biết mà tỉnh lại.",
+                "Một âm là ti. Xé, gỡ.",
+                "Xát, như ti ma 撕摩 xoa xát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xé, gỡ: 把布撕成兩塊 Xé đôi miếng vải ra; 撕破 Xé rách; 撕破面子 Không nể nang chút nào; 撕打 Đánh nhau; 撕碎 xé vụn ra;",
+                "Mua vải lẻ: 撕八尺布 Mua tám thước vải;",
+                "(văn) Xát: 撕摩 Xoa xát;",
+                "(văn) Nhắc nhỏm định thức dậy."
+            ]
+        },
+        "tê": {
+            "Từ điển phổ thông": [
+                "xé, gỡ",
+                "thức tỉnh",
+                "xoa xát"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xé, gỡ. ◎Như: 'tương chỉ ti thành lưỡng bán' 將紙撕成兩半 xé đôi tờ giấy.",
+                "Một âm là 'tê'. (Động) § Xem 'đề tê' 提撕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhắc nhỏm, tỉnh thức, nghĩa là nhắc cho biết mà tỉnh lại.",
+                "Một âm là ti. Xé, gỡ.",
+                "Xát, như ti ma 撕摩 xoa xát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xé, gỡ: 把布撕成兩塊 Xé đôi miếng vải ra; 撕破 Xé rách; 撕破面子 Không nể nang chút nào; 撕打 Đánh nhau; 撕碎 xé vụn ra;",
+                "Mua vải lẻ: 撕八尺布 Mua tám thước vải;",
+                "(văn) Xát: 撕摩 Xoa xát;",
+                "(văn) Nhắc nhỏm định thức dậy."
+            ],
+            "compound_words": {
+                "提撕": "đề tê",
+                "撕毀": "tê huỷ",
+                "撕毁": "tê huỷ",
+                "撕裂": "tê liệt",
+                "撕破": "tê phá"
+            }
+        },
+        "tề": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dọn dẹp, xếp đặt công việc. Cũng đọc Tê."
+            ]
+        },
+        "tỵ": {
+            "Từ điển Trần Văn Chánh": [
+                "Xé, gỡ: 把布撕成兩塊 Xé đôi miếng vải ra; 撕破 Xé rách; 撕破面子 Không nể nang chút nào; 撕打 Đánh nhau; 撕碎 xé vụn ra;",
+                "Mua vải lẻ: 撕八尺布 Mua tám thước vải;",
+                "(văn) Xát: 撕摩 Xoa xát;",
+                "(văn) Nhắc nhỏm định thức dậy."
+            ]
+        }
+    }
+}

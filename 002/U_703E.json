@@ -1,0 +1,86 @@
+{
+    "character": "瀾",
+    "details": {
+        "Âm Hán Việt": [
+            "lan"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡闌"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一丨フ一一一丨フ丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EANW (水日弓田)"
+        ],
+        "Unicode": [
+            "U+703E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lán ㄌㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lan",
+            "ràn",
+            "tràn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なみ (nami)"
+        ],
+        "Âm Hàn": [
+            "란"
+        ],
+        "Âm Quảng Đông": [
+            "laan4"
+        ]
+    },
+    "meanings": {
+        "lan": {
+            "Từ điển phổ thông": [
+                "sóng lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sóng lớn. ◎Như: 'cuồng lan' 狂瀾 sóng dữ.",
+                "(Danh) Nước vo gạo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sóng cả.",
+                "Nước gạo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sóng lớn, sóng cả: 狂瀾 Sóng dữ; 推波助瀾 Thúc đẩy, xúi giục;",
+                "(văn) Nước gạo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước vo gạo. Nước gạo — Sóng lớn. Td: Cuồng lan ( sóng dữ ). Hát nói của Nguyễn Công Trứ có câu: » Hồi cuồng lan nhi chướng bách xuyên «."
+            ],
+            "compound_words": {
+                "安瀾": "an lan",
+                "波瀾": "ba lan",
+                "狂瀾": "cuồng lan",
+                "瀾汗": "lan hãn",
+                "瀾漫": "lan mạn",
+                "層瀾": "tằng lan",
+                "漪瀾": "y lan"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "誡",
+    "details": {
+        "Âm Hán Việt": [
+            "giới"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言戒"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRIT (卜口戈廿)"
+        ],
+        "Unicode": [
+            "U+8AA1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiè ㄐㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "giới"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いまし.める (imashi.meru)"
+        ],
+        "Âm Hàn": [
+            "계"
+        ],
+        "Âm Quảng Đông": [
+            "gaai3"
+        ]
+    },
+    "meanings": {
+        "giới": {
+            "Từ điển phổ thông": [
+                "bài văn răn bảo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Răn, cảnh cáo, khuyên bảo. ◇Lễ Kí 禮記: 'Tiền xa phúc, hậu xa giới' 前車覆, 後車誡 (Đại đái 大戴) Xe trước lật, xe sau cảnh giác.",
+                "(Danh) Lời cảnh cáo. ◇Tuân Tử 荀子: 'Phát giới bố lệnh nhi địch thối' 發誡布令而敵退 (Cường quốc 彊國) Đưa ra lời cảnh cáo, truyền bá mệnh lệnh mà địch lui.",
+                "(Danh) Bài văn răn bảo. ◎Như: 'giới tử thư' 誡子書 thư răn bảo con."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bài văn răn bảo. Như giới tử thư 誡子書 thơ răn bảo con.",
+                "Trừng giới, dùng hình phạt nhẹ cho biết sợ.",
+                "Sai, bảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Răn, cảnh cáo, khuyên bảo: 告誡 Khuyên can;",
+                "(văn) Bài răn, điều răn, lời dạy bảo: 誡子書 Sách răn dạy con;",
+                "(văn) Sai bảo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Răn bảo — Sai khiến — Như chữ Giới 戒."
+            ],
+            "compound_words": {
+                "告誡": "cáo giới"
+            }
+        }
+    }
+}

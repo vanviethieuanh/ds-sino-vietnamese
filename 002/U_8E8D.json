@@ -1,0 +1,96 @@
+{
+    "character": "躍",
+    "details": {
+        "Âm Hán Việt": [
+            "dược",
+            "thích"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "túc 足 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊翟"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一フ丶一フ丶一ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "RMSMG (口一尸一土)"
+        ],
+        "Unicode": [
+            "U+8E8D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tì ㄊㄧˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "dược"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おど.る (odo.ru)"
+        ],
+        "Âm Hàn": [
+            "약",
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "joek3",
+            "joek6",
+            "tik1"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển phổ thông": [
+                "nhảy lên",
+                "háo hức, hăm hở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhảy lên. ◎Như: 'tước dược' 雀躍 mừng nhảy người lên. ◇Dịch Kinh 易經: 'Hoặc dược tại uyên' 或躍在淵 (Kiền quái 乾卦, Cửu tứ 九四) Hoặc nhảy ở vực.",
+                "(Động) Hăm hở, háo hức. ◎Như: 'dược dược dục thí' 躍躍慾試 háo hức muốn thử."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhảy lên. Mừng nhảy người lên gọi là tước dược 雀躍.",
+                "Xun xoe. Như dược dược dục thí 躍躍慾試 xun xoe muốn thử.",
+                "Kích động."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhảy lên, vọt: 跳躍 Nhảy vọt; 一躍上馬背 Nhảy thót lên lưng ngựa;",
+                "Háo hức, hăm hở.【躍躍慾試】dược dược dục thí [yuè yuèyùshì] Háo hức muốn làm thử, náo nức đòi thử."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhảy cao lên. Chẳng hạn Dũng dược ( nhảy nhót ) — Một âm là Thích. Xem Thích."
+            ],
+            "compound_words": {
+                "踊躍": "dũng dược",
+                "騰躍": "đằng dược",
+                "活躍": "hoạt dược"
+            }
+        },
+        "thích": {
+            "Từ điển trích dẫn": [
+                "(Động) Nhảy lên. ◎Như: 'tước dược' 雀躍 mừng nhảy người lên. ◇Dịch Kinh 易經: 'Hoặc dược tại uyên' 或躍在淵 (Kiền quái 乾卦, Cửu tứ 九四) Hoặc nhảy ở vực.",
+                "(Động) Hăm hở, háo hức. ◎Như: 'dược dược dục thí' 躍躍慾試 háo hức muốn thử."
+            ],
+            "compound_words": {
+                "躍躍": "thích thích"
+            }
+        }
+    }
+}

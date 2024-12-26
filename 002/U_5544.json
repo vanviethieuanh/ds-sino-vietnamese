@@ -1,0 +1,93 @@
+{
+    "character": "啄",
+    "details": {
+        "Âm Hán Việt": [
+            "trác",
+            "trụ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口豖"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフノノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RMSO (口一尸人)"
+        ],
+        "Unicode": [
+            "U+5544"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhòu ㄓㄡˋ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "chác",
+            "trác",
+            "trốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)",
+            "ツク (tsuku)",
+            "トク (toku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ついば.む (tsuiba.mu)",
+            "つつ.く (tsutsu.ku)"
+        ],
+        "Âm Hàn": [
+            "탁"
+        ],
+        "Âm Quảng Đông": [
+            "doek3",
+            "doeng1"
+        ]
+    },
+    "meanings": {
+        "trác": {
+            "Từ điển phổ thông": [
+                "mổ (chim)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mổ (chim dùng mỏ ăn. ◎Như: 'trác mễ' 啄米 mổ gạo. ◇Đỗ Phủ 杜甫: 'Hương đạo trác dư anh vũ lạp' 香稻啄餘鸚鵡粒 (Thu hứng 秋興) Chim anh vũ mổ ăn rồi, còn thừa những hạt lúa thơm.",
+                "(Danh) Mỏ chim.",
+                "(Danh) Nét phẩy ngắn, cầm bút nghiêng từ bên phải phất xuống bên trái (thư pháp)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mổ, chim ăn gọi là trác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mổ: 小雞啄米 Gà con mổ gạo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ mổ đồ ăn mà ăn — Một miếng ăn. Tục ngữ: » Nhất ẩm nhất trác giai do tiền định « ( một miếng uống một miệng ăn đều được định sẵn từ trước )."
+            ],
+            "compound_words": {
+                "飲啄": "ẩm trác",
+                "剝啄": "bác trác",
+                "剥啄": "bác trác",
+                "啄啄": "trác trác"
+            }
+        },
+        "trụ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái mỏ chim — Một âm là Trác."
+            ]
+        }
+    }
+}

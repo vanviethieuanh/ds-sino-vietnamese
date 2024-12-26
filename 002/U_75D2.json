@@ -1,0 +1,111 @@
+{
+    "character": "痒",
+    "details": {
+        "Âm Hán Việt": [
+            "dương",
+            "dưỡng",
+            "dạng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nạch 疒 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒羊"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "KTQ (大廿手)"
+        ],
+        "Unicode": [
+            "U+75D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáng ㄧㄤˊ",
+            "yǎng ㄧㄤˇ"
+        ],
+        "Âm Nôm": [
+            "dưỡng",
+            "ngưa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かゆ.がる (kayu.garu)",
+            "かさ (kasa)",
+            "かゆ.い (kayu.i)"
+        ],
+        "Âm Hàn": [
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "joeng5"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển phổ thông": [
+                "ốm",
+                "ngứa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lo buồn sinh bệnh. ◇Thi Kinh 詩經: 'Ai ngã tiểu tâm, Thử ưu dĩ dương' 哀我小心, 癙憂以痒 (Tiểu nhã 小雅, Chánh nguyệt 正月) Thương cho lòng cẩn thận của ta, Vì lo buồn mà sinh ra bệnh tật.",
+                "(Danh) (Danh) Nhọt, sảy, ung. § Cũng như 'dương' 瘍.",
+                "§ Giản thể của chữ 癢.",
+                "§ Một dạng viết khác của chữ 癢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ốm.",
+                "Ngứa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh;",
+                "Ngứa: 抓痒 Gãi ngứa; 搔到痒處 Gãi đúng chỗ ngứa. Xem 癢 [yăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh hoạn — Một âm là Dưỡng."
+            ]
+        },
+        "dưỡng": {
+            "Từ điển phổ thông": [
+                "ốm",
+                "ngứa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lo buồn sinh bệnh. ◇Thi Kinh 詩經: 'Ai ngã tiểu tâm, Thử ưu dĩ dương' 哀我小心, 癙憂以痒 (Tiểu nhã 小雅, Chánh nguyệt 正月) Thương cho lòng cẩn thận của ta, Vì lo buồn mà sinh ra bệnh tật.",
+                "(Danh) (Danh) Nhọt, sảy, ung. § Cũng như 'dương' 瘍.",
+                "§ Giản thể của chữ 癢.",
+                "§ Một dạng viết khác của chữ 癢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh;",
+                "Ngứa: 抓痒 Gãi ngứa; 搔到痒處 Gãi đúng chỗ ngứa. Xem 癢 [yăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngứa. Muốn gãi — Một âm là Dương."
+            ],
+            "compound_words": {
+                "搔痒": "tao dưỡng"
+            }
+        },
+        "dạng": {
+            "Từ điển Trần Văn Chánh": [
+                "Ngứa. Xem 癢 [yăng]."
+            ]
+        }
+    }
+}

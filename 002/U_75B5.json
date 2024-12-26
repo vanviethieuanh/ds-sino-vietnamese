@@ -1,0 +1,91 @@
+{
+    "character": "疵",
+    "details": {
+        "Âm Hán Việt": [
+            "tì",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nạch 疒 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒此"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨一丨一ノフ"
+        ],
+        "Thương Hiệt": [
+            "KYMP (大卜一心)"
+        ],
+        "Unicode": [
+            "U+75B5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cī ㄘ",
+            "jì ㄐㄧˋ",
+            "zhài ㄓㄞˋ",
+            "zī ㄗ"
+        ],
+        "Âm Nôm": [
+            "tì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きず (kizu)"
+        ],
+        "Âm Hàn": [
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "ci1",
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "tì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Vết, tật nhỏ, khuyết điểm. ◎Như: 'xuy mao cầu tì' 吹毛求疵 bới lông tìm vết.",
+                "(Động) Trách móc, chê trách khe khắt. ◇Tuân Tử 荀子: 'Chánh nghĩa trực chỉ, cử nhân chi quá, phi hủy tì dã' 正義直指, 舉人之過, 非毀疵也 (Bất cẩu 不苟) Ngay chính chỉ thẳng, nêu ra lỗi của người, mà không chê bai trách bị."
+            ],
+            "compound_words": {
+                "瑕疵": "hà tì",
+                "疵汙": "tì ố",
+                "疵跡": "tì tích",
+                "吹毛求疵": "xuy mao cầu tì"
+            }
+        },
+        "tỳ": {
+            "Từ điển phổ thông": [
+                "bệnh",
+                "lỗi lầm"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh.",
+                "Lầm lỗi, có ý khắc trách quá gọi là xuy mao cầu tì 吹毛求疵 bới lông tìm vết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vết, tật (nhỏ), khuyết điểm, lầm lỗi, gùn, gút: 吹毛求疵 Bới lông tìm vết; 大醇小疵 Nói chung thì tốt, chỉ có khuyết điểm nhỏ; 無疵布Vải không gùn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh tật — Vết bẩn, xấu — Lầm lỗi."
+            ],
+            "compound_words": {
+                "吹毛求疵": "xuy mao cầu tỳ"
+            }
+        }
+    }
+}

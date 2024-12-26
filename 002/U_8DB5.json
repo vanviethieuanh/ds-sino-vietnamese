@@ -1,0 +1,89 @@
+{
+    "character": "趵",
+    "details": {
+        "Âm Hán Việt": [
+            "bác",
+            "báo"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "túc 足 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊勺"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "RMPI (口一心戈)"
+        ],
+        "Unicode": [
+            "U+8DB5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bào ㄅㄠˋ",
+            "bō ㄅㄛ",
+            "páo ㄆㄠˊ",
+            "zhī ㄓ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ホウ (hō)",
+            "ヒョウ (hyō)",
+            "サク (saku)",
+            "シャク (shaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.つ (u.tsu)"
+        ],
+        "Âm Quảng Đông": [
+            "paau3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "giậm chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Thình thịch, bành bạch (tiếng giậm chân trên đất).",
+                "(Động) Giẫm, đạp chân.",
+                "Một âm là 'báo'. (Động) Nhảy lên."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giậm chân bành bạch.",
+                "Một âm là báo. Nhảy nhót."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tiếng giậm chân (đành đạch)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bác bác 趵趵 — Một âm khác là Báo."
+            ],
+            "compound_words": {
+                "趵趵": "bác bác"
+            }
+        },
+        "báo": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhảy nhót."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhẩy coa lên — Một âm khác là Bác."
+            ]
+        }
+    }
+}

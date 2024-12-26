@@ -1,0 +1,126 @@
+{
+    "character": "博",
+    "details": {
+        "Âm Hán Việt": [
+            "bác"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thập 十 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰十尃"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一丨丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "JIBI (十戈月戈)"
+        ],
+        "Unicode": [
+            "U+535A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "mác",
+            "vác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "バク (baku)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bok3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "rộng",
+                "thống suốt",
+                "đánh bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Rộng, lớn, nhiều, phong phú. ◎Như: 'địa đại vật bác' 地大物博 đất rộng của nhiều.",
+                "(Tính) Thông suốt, sâu rộng (kiến thức). ◎Như: 'uyên bác' 淵博 sâu rộng (kiến thức).",
+                "(Động) Đánh bạc. ◇Sử Kí 史記: 'Lỗ Câu Tiễn dữ Kinh Kha bác' 魯句踐與荊軻博 (Kinh Kha truyện 荊軻傳) Lỗ Câu Tiễn cùng với Kinh Kha đánh bạc.",
+                "(Động) Lấy, đổi lấy, giành được. ◎Như: 'dĩ bác nhất tiếu' 以博一笑 để lấy một tiếng cười, 'bác đắc đồng tình' 博得同情 được sự đồng tình. ◇Lí Chí 李贄: 'Yêu gian quả hữu thư hùng kiếm, Thả bác thiên kim mãi tiếu ca' 腰間果有雌雄劍, 且博千金買笑歌 (Họa vận 和韻) Trên lưng nếu như có gươm tài ngang ngửa, Thì hãy đổi nghìn vàng mua lấy tiếng hát cười.",
+                "(Động) § Thông 'bác' 搏.",
+                "(Danh) Trò chơi giải trí ngày xưa.",
+                "(Danh) Họ 'Bác'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rộng.",
+                "Thông suốt, như uyên bác 淵博 nghe thấy nhiều lắm.",
+                "Ðánh bạc.",
+                "Lấy, như dĩ bác nhất tiếu 以博一笑 để lấy một tiếng cười."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhiều, rộng, rộng khắp, phong phú, dồi dào: 知識淵博 Kiến thức sâu rộng; 中國地大物博 Trung Quốc đất rộng của nhiều; 博施 Thi hành ra rộng khắp; 君子博學于文 Người quân tử học rộng ở văn chương (Luận ngữ);",
+                "Biết nhiều: 博而不精 Biết nhiều nhưng không giỏi;",
+                "Đổi lấy, giành được, được: 博得同情 Được sự đồng tình;",
+                "Một lối chơi cờ hồi xưa (nay chỉ cờ bạc): 禁止賭博 Cấm cờ bạc, cấm đánh bạc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rộng lớn — Đánh bạc."
+            ],
+            "compound_words": {
+                "博愛": "bác ái",
+                "博爱": "bác ái",
+                "博古": "bác cổ",
+                "博古通今": "bác cổ thông kim",
+                "博局": "bác cục",
+                "博弈": "bác dịch",
+                "博大": "bác đại",
+                "博得": "bác đắc",
+                "博徒": "bác đồ",
+                "博学": "bác học",
+                "博學": "bác học",
+                "博學宏詞": "bác học hoành từ",
+                "博學鴻儒": "bác học hồng nho",
+                "博覽": "bác lãm",
+                "博览": "bác lãm",
+                "博覽會": "bác lãm hội",
+                "博勞": "bác lao",
+                "博雅": "bác nhã",
+                "博士": "bác sĩ",
+                "博士弟子": "bác sĩ đệ tử",
+                "博山香爐": "bác sơn hương lô",
+                "博施濟眾": "bác thi tế chúng",
+                "博聞": "bác văn",
+                "博文約禮": "bác văn ước lễ",
+                "博物": "bác vật",
+                "博物學": "bác vật học",
+                "博物館": "bác vật quán",
+                "博物馆": "bác vật quán",
+                "博物院": "bác vật viện",
+                "博依": "bác y",
+                "褒衣博帶": "bao y bác đái",
+                "該博": "cai bác",
+                "賭博": "đổ bác",
+                "普博": "phổ bác",
+                "广博": "quảng bác",
+                "廣博": "quảng bác",
+                "淵博": "uyên bác",
+                "渊博": "uyên bác"
+            }
+        }
+    }
+}

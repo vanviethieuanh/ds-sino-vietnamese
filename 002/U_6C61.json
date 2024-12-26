@@ -1,0 +1,79 @@
+{
+    "character": "污",
+    "details": {
+        "Âm Hán Việt": [
+            "ô",
+            "ố"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡亏"
+        ],
+        "Nét bút": [
+            "丶丶一一一フ"
+        ],
+        "Thương Hiệt": [
+            "EMMS (水一一尸)"
+        ],
+        "Unicode": [
+            "U+6C61"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wā ㄨㄚ",
+            "wū ㄨ",
+            "wù ㄨˋ",
+            "yū ㄩ"
+        ],
+        "Âm Nôm": [
+            "ô"
+        ],
+        "Âm Quảng Đông": [
+            "wu1"
+        ]
+    },
+    "meanings": {
+        "ô": {
+            "Từ điển phổ thông": [
+                "bẩn thỉu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng như “ô” 汙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 汙 (2)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Ô 汙."
+            ],
+            "compound_words": {
+                "淫污": "dâm ô",
+                "染污": "nhiễm ô",
+                "污染": "ô nhiễm",
+                "污秽": "ô uế",
+                "污穢": "ô uế",
+                "貪污": "tham ô",
+                "沾污": "triêm ô",
+                "卑污": "ty ô"
+            }
+        },
+        "ố": {
+            "Từ điển phổ thông": [
+                "bẩn thỉu"
+            ]
+        }
+    }
+}

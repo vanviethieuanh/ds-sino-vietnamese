@@ -1,0 +1,91 @@
+{
+    "character": "圩",
+    "details": {
+        "Âm Hán Việt": [
+            "vu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thổ 土 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土于"
+        ],
+        "Nét bút": [
+            "一丨一一一丨"
+        ],
+        "Thương Hiệt": [
+            "GMD (土一木)"
+        ],
+        "Unicode": [
+            "U+5729"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wéi ㄨㄟˊ",
+            "xū ㄒㄩ",
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "khư",
+            "vò",
+            "vu",
+            "vùa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)",
+            "オ (o)",
+            "イ (i)",
+            "キョ (kyo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつ.み (tsutsu.mi)",
+            "きし (kishi)",
+            "くぼ.む (kubo.mu)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "heoi1",
+            "jyu4",
+            "wai4"
+        ]
+    },
+    "meanings": {
+        "vu": {
+            "Từ điển phổ thông": [
+                "bờ đập, bờ đê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bờ đê ngăn nước.",
+                "(Danh) Vòng rào che chở chung quanh làng xóm thôn trang, đắp lên bằng đất đá hoặc trồng cây thật kín mà thành.",
+                "(Tính) Ở giữa thấp mà chung quanh cao. ◎Như: 'vu đính' 圩頂 đỉnh đầu lõm ở giữa mà cao ở chung quanh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bờ đập. Chỗ nước sông cao hơn mặt ruộng, phải đắp bờ để ngăn nước gọi là vu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bờ đập, bờ đê ngăn nước;",
+                "Những vùng có bờ ngăn lại;",
+                "Tường hay cây cối vây xung quanh thôn xóm: 土圩子 Tường đất. Xem 墟 [xu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ đất đắp lên để ngăn nước — Bờ đê. Con đê."
+            ],
+            "compound_words": {
+                "圩埝": "vu niệm"
+            }
+        }
+    }
+}

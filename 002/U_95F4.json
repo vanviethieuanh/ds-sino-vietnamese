@@ -1,0 +1,109 @@
+{
+    "character": "间",
+    "details": {
+        "Âm Hán Việt": [
+            "dản",
+            "gian",
+            "gián",
+            "nhàn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "môn 門 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵门日"
+        ],
+        "Nét bút": [
+            "丶丨フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "ISA (戈尸日)"
+        ],
+        "Unicode": [
+            "U+95F4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "jiàn ㄐㄧㄢˋ",
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "gian"
+        ],
+        "Âm Quảng Đông": [
+            "gaan1"
+        ]
+    },
+    "meanings": {
+        "dản": {
+            "Từ điển phổ thông": [
+                "cứng cỏi, dũng cảm"
+            ]
+        },
+        "gian": {
+            "Từ điển phổ thông": [
+                "khoảng không gian"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 間."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 間"
+            ],
+            "compound_words": {
+                "之间": "chi gian",
+                "夜间": "dạ gian",
+                "民间": "dân gian",
+                "人间": "nhân gian",
+                "世间": "thế gian",
+                "时间": "thời gian",
+                "中间": "trung gian",
+                "晩间": "vãn gian"
+            }
+        },
+        "gián": {
+            "Từ điển phổ thông": [
+                "kẽ hở, lỗ hổng",
+                "chia rẽ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 間."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kẽ hở, lỗ hổng, khoảng cách giữa: 乘間 Thừa chỗ hổng, nhân lúc sơ hở; 讀書得間 Đọc sách có chỗ hé (có thể hiểu được);",
+                "Cách quãng, khoảng cách giữa: 間周舉行會議 Họp cách tuần; 間隔 Khoảng cách ở giữa;",
+                "Li gián, tạo khoảng cách, phân cách, gây chia rẽ: 離間 Li gián; 反間計 Chống (âm mưu) li gián;",
+                "Tỉa, nhổ: 間苗 Tỉa cây con;",
+                "(văn) Xen vào giữa, xen lẫn: 疏不間親 Người sơ không xen lẫn với người chân được;",
+                "Ngăn ra, phân chia (một căn nhà...);",
+                "Thay đổi, thay thế;",
+                "Ngăn chặn;",
+                "(văn) (Bệnh) đỡ hơn, hơi bớt: 病間 Bệnh hơi bớt;",
+                "(văn) Thỉnh thoảng, thảng hoặc. 【間或】gián hoặc [jiànhuò] Hoạ hoằn, thỉnh thoảng, thảng hoặc: 間或有人來看看我 Hoạ hoằn (thỉnh thoảng) mới có người đến thăm; 大家聚精會神地聽着，間或有人笑一兩聲 Mọi người đều hết sức chú ý nghe, thỉnh thoảng có người cười khúc khích vài tiếng. Xem 間 [jian]."
+            ],
+            "compound_words": {
+                "间谍": "gián điệp",
+                "间断": "gián đoạn",
+                "间接": "gián tiếp",
+                "離间": "ly gián"
+            }
+        },
+        "nhàn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 間."
+            ]
+        }
+    }
+}

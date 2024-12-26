@@ -1,0 +1,87 @@
+{
+    "character": "筋",
+    "details": {
+        "Âm Hán Việt": [
+            "cân"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮肋"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノフ一一フノ"
+        ],
+        "Thương Hiệt": [
+            "HBKS (竹月大尸)"
+        ],
+        "Unicode": [
+            "U+7B4B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jīn ㄐㄧㄣ",
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "cân",
+            "gân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すじ (suji)"
+        ],
+        "Âm Hàn": [
+            "근"
+        ],
+        "Âm Quảng Đông": [
+            "gan1"
+        ]
+    },
+    "meanings": {
+        "cân": {
+            "Từ điển phổ thông": [
+                "gân (thớ thịt)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gân. § Ghi chú: Còn gọi là 'nhận đái' 韌帶. ◎Như: 'ngưu đề cân' 牛蹄筋 gân bò.",
+                "(Danh) Bắp thịt. ◎Như: 'cân cốt tựu suy' 筋骨就衰 thịt xương suy yếu. ◇Tân Đường Thư 新唐書: 'Sản lương mã, thủ tự thác đà, cân cách tráng đại, nhật trung trì sổ bách lí' 產良馬, 首似橐它, 筋骼壯大, 日中馳數百里 (Hồi Cốt truyện 回鶻傳) Sinh sản ngựa tốt, đầu giống lạc đà, thịt xương to mạnh, một ngày chạy được mấy trăm dặm.",
+                "(Danh) Gân (ống dẫn tĩnh mạch). ◎Như: 'thanh cân bộc lộ' 青筋暴露 gân xanh lòi ra.",
+                "(Danh) Vật thể hình dài, chắc, có tính co giãn. ◎Như: 'tượng bì cân' 橡皮筋 dây chun, dây cao su, 'cương cân' 鋼筋 cốt sắt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gân sức. Người già yếu ớt gọi là cân cốt tựu suy 筋骨就衰. Những thớ ở trong thịt giúp cho sức thịt co ruỗi mạnh mẽ đều gọi là cân cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(giải) Bắp thịt;",
+                "(khn) Gân: 青筋 Gân xanh;",
+                "Cốt: 鋼筋 Cốt sắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợi gân — Bắp thịt — Tên một loại tre to cao, rất cứng, thời xưa thường dùng làm cán dáo mác."
+            ],
+            "compound_words": {
+                "筋骨": "cân cốt",
+                "筋力": "cân lực",
+                "筋肉": "cân nhục",
+                "雞筋": "kê cân",
+                "腦筋": "não cân",
+                "腹筋": "phúc cân"
+            }
+        }
+    }
+}

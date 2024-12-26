@@ -1,0 +1,97 @@
+{
+    "character": "伙",
+    "details": {
+        "Âm Hán Việt": [
+            "hoả",
+            "khoả",
+            "loã"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻火"
+        ],
+        "Nét bút": [
+            "ノ丨丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "OF (人火)"
+        ],
+        "Unicode": [
+            "U+4F19"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huō ㄏㄨㄛ",
+            "huǒ ㄏㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "loã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ (hi)",
+            "ほ- (ho-)"
+        ],
+        "Âm Quảng Đông": [
+            "fo2"
+        ]
+    },
+    "meanings": {
+        "hoả": {
+            "Từ điển phổ thông": [
+                "người cộng tác, người cùng làm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bọn, nhóm (người cùng sinh hoạt hoặc làm việc một nơi). § Thông 'khỏa' 夥. ◎Như: 'đồng hỏa' 同伙 đồng bạn.",
+                "(Danh) Đồ linh tinh dùng trong nhà gọi là 'gia hỏa' 家伙.",
+                "(Danh) Tiếng gọi tắt của 'hỏa thực' 伙食 cơm nước hằng ngày. ◎Như: 'bao hỏa' 包伙 phụ trách việc ăn uống, 'đáp hỏa' 搭伙 ăn cơm thầu (cá nhân không nấu ăn riêng mà góp tiền cơm nước ăn chung với những người khác).",
+                "(Danh) Lượng từ: nhóm, bọn, tốp. ◎Như: 'nhất hỏa nhân' 一伙人 một nhóm người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trong đội quân cho mười người cùng ăn một mâm gọi là hoả bạn 伙伴 (cùng thổi mà ăn). Không cùng ở với nhau nữa gọi là tán hoả 散伙. Tục gọi các đồ thập vật là gia hoả 家伙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bọn, loã, lũ: 同伙 Đồng bọn, đồng loã; 他們一伙人 Lũ chúng nó; 這伙人 Bọn này;",
+                "(cũ) Người làm thuê, đánh thuê: 店伙 Người làm thuê, người đứng quầy;",
+                "Cùng, cùng chung, chung: 伙買 Chung tiền mua, mua chung; 伙着用 Dùng chung. Xem 夥 (bộ 夕)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Gia hoả. Vần Gia."
+            ],
+            "compound_words": {
+                "打伙": "đả hoả",
+                "傢伙": "gia hoả",
+                "伙伴": "hoả bạn"
+            }
+        },
+        "khoả": {
+            "Từ điển Trần Văn Chánh": [
+                "Bọn, loã, lũ: 同伙 Đồng bọn, đồng loã; 他們一伙人 Lũ chúng nó; 這伙人 Bọn này;",
+                "(cũ) Người làm thuê, đánh thuê: 店伙 Người làm thuê, người đứng quầy;",
+                "Cùng, cùng chung, chung: 伙買 Chung tiền mua, mua chung; 伙着用 Dùng chung. Xem 夥 (bộ 夕)."
+            ]
+        },
+        "loã": {
+            "Từ điển Trần Văn Chánh": [
+                "Bọn, loã, lũ: 同伙 Đồng bọn, đồng loã; 他們一伙人 Lũ chúng nó; 這伙人 Bọn này;",
+                "(cũ) Người làm thuê, đánh thuê: 店伙 Người làm thuê, người đứng quầy;",
+                "Cùng, cùng chung, chung: 伙買 Chung tiền mua, mua chung; 伙着用 Dùng chung. Xem 夥 (bộ 夕)."
+            ]
+        }
+    }
+}

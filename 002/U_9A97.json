@@ -1,0 +1,65 @@
+{
+    "character": "骗",
+    "details": {
+        "Âm Hán Việt": [
+            "biển",
+            "phiến"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mã 馬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰马扁"
+        ],
+        "Nét bút": [
+            "フフ一丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "NMISB (弓一戈尸月)"
+        ],
+        "Unicode": [
+            "U+9A97"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "piàn ㄆㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "biển"
+        ],
+        "Âm Quảng Đông": [
+            "pin3"
+        ]
+    },
+    "meanings": {
+        "biển": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 騙"
+            ]
+        },
+        "phiến": {
+            "Từ điển phổ thông": [
+                "lừa đảo",
+                "nhảy tót lên lưng ngựa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 騙."
+            ],
+            "compound_words": {
+                "撞骗": "chàng phiến",
+                "欺骗": "khi phiến"
+            }
+        }
+    }
+}

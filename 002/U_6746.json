@@ -1,0 +1,85 @@
+{
+    "character": "杆",
+    "details": {
+        "Âm Hán Việt": [
+            "can",
+            "hãn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mộc 木 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木干"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "DMJ (木一十)"
+        ],
+        "Unicode": [
+            "U+6746"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ",
+            "gǎn ㄍㄢˇ"
+        ],
+        "Âm Nôm": [
+            "can",
+            "cơn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "てこ (teko)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "gon1"
+        ]
+    },
+    "meanings": {
+        "can": {
+            "Từ điển phổ thông": [
+                "cái gậy gỗ, cái côn, cái mộc",
+                "chấn song cửa sổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gậy, côn, quản. ◎Như: 'bút can' 筆杆 quản bút, 'kì can' 旗杆 cán cờ, 'lan can' 欄杆 hàng rào, chấn song.",
+                "(Danh) Lượng từ: đơn vị dùng cho những vật hình dài như cái gậy: cây, cán, v.v. ◎Như: 'lưỡng can thương' 兩杆槍 hai cây súng, 'nhất can xứng' 一杆秤 một cán cân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái gậy gỗ, cái côn, cái mộc.",
+                "Tục gọi hàng chấn song ngăn ở trên cửa là lan can 欄杆."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cành cây — Cái gậy nhỏ. Ta cũng gọi là cái Can — Tấm lá chắn. Như chữ Can 干. Tay vịnh gỗ. Còn gọi là Lan can. Cũng viết là 桿."
+            ],
+            "compound_words": {
+                "贡杆": "cống can",
+                "欄杆": "lan can",
+                "欗杆": "lan can"
+            }
+        },
+        "hãn": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 桿"
+            ]
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "character": "责",
+    "details": {
+        "Âm Hán Việt": [
+            "trách",
+            "trái"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱龶贝"
+        ],
+        "Nét bút": [
+            "一一丨一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "QMBO (手一月人)"
+        ],
+        "Unicode": [
+            "U+8D23"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zé ㄗㄜˊ",
+            "zhài ㄓㄞˋ"
+        ],
+        "Âm Nôm": [
+            "trách"
+        ],
+        "Âm Quảng Đông": [
+            "zaak3"
+        ]
+    },
+    "meanings": {
+        "trách": {
+            "Từ điển phổ thông": [
+                "cầu xin",
+                "trách mắng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 責."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 責"
+            ],
+            "compound_words": {
+                "指责": "chỉ trách",
+                "谴责": "khiển trách",
+                "负责": "phụ trách",
+                "叱责": "sất trách",
+                "责任": "trách nhiệm",
+                "斥责": "xích trách"
+            }
+        },
+        "trái": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 責."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nợ (như 債, bộ 亻): 先生不羞，乃有 意欲為文收責于薛乎？ Tiên sinh không thẹn, mà còn có ý muốn đi thu nợ ở đất Tiết cho Văn này ư? (Chiến quốc sách: Tề sách)."
+            ]
+        }
+    }
+}

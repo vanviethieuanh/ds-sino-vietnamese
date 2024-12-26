@@ -1,0 +1,68 @@
+{
+    "character": "铲",
+    "details": {
+        "Âm Hán Việt": [
+            "sạn",
+            "sản"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "kim 金 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅产"
+        ],
+        "Nét bút": [
+            "ノ一一一フ丶一丶ノ一ノ"
+        ],
+        "Thương Hiệt": [
+            "CYTH (金卜廿竹)"
+        ],
+        "Unicode": [
+            "U+94F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chǎn ㄔㄢˇ"
+        ],
+        "Âm Nôm": [
+            "sản"
+        ],
+        "Âm Quảng Đông": [
+            "caan2"
+        ]
+    },
+    "meanings": {
+        "sạn": {
+            "Từ điển phổ thông": [
+                "cái nạo bằng sắt, cái xẻng",
+                "gọt, nạo, xúc, xới"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鏟."
+            ]
+        },
+        "sản": {
+            "Từ điển phổ thông": [
+                "lấy liềm phát cỏ"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái xẻng: 鐵鏟 Cái xẻng;",
+                "Xúc, xới, san: 鏟土 Xúc đất, xới đất; 把地鏟平 San bằng mặt đất."
+            ],
+            "compound_words": {
+                "铲除": "sản trừ"
+            }
+        }
+    }
+}

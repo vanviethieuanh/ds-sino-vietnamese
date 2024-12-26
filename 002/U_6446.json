@@ -1,0 +1,83 @@
+{
+    "character": "摆",
+    "details": {
+        "Âm Hán Việt": [
+            "bi",
+            "bài",
+            "bãi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘罢"
+        ],
+        "Nét bút": [
+            "一丨一丨フ丨丨一一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "QWLI (手田中戈)"
+        ],
+        "Unicode": [
+            "U+6446"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bǎi ㄅㄞˇ"
+        ],
+        "Âm Nôm": [
+            "bài",
+            "bẩy"
+        ],
+        "Âm Quảng Đông": [
+            "baai2"
+        ]
+    },
+    "meanings": {
+        "bi": {
+            "Từ điển phổ thông": [
+                "xiêm, đáy áo"
+            ]
+        },
+        "bài": {
+            "Từ điển phổ thông": [
+                "bày, xếp",
+                "trình bày",
+                "tỏ ra, phô ra, khoe ra"
+            ],
+            "compound_words": {
+                "摆布": "bài bố",
+                "摆钟": "bài chung",
+                "摆渡": "bài độ",
+                "摆动": "bài động",
+                "摆阔": "bài khoát",
+                "摆弄": "bài lộng",
+                "摆轮": "bài luân",
+                "摆设": "bài thiết",
+                "摇摆": "dao bài"
+            }
+        },
+        "bãi": {
+            "Từ điển phổ thông": [
+                "xiêm, đáy áo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擺"
+            ]
+        }
+    }
+}

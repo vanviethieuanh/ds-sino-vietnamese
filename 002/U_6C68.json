@@ -1,0 +1,109 @@
+{
+    "character": "汨",
+    "details": {
+        "Âm Hán Việt": [
+            "cốt",
+            "duật",
+            "mịch"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡日"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "EA (水日)"
+        ],
+        "Unicode": [
+            "U+6C68"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gǔ ㄍㄨˇ",
+            "mì ㄇㄧˋ"
+        ],
+        "Âm Nôm": [
+            "cốt",
+            "mịch",
+            "nhặt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コツ (kotsu)",
+            "イツ (itsu)",
+            "ベキ (beki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しず.む (shizu.mu)"
+        ],
+        "Âm Hàn": [
+            "멱",
+            "골"
+        ],
+        "Âm Quảng Đông": [
+            "jat6",
+            "mik6"
+        ]
+    },
+    "meanings": {
+        "cốt": {
+            "Từ điển phổ thông": [
+                "chìm xuống nước"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông Mịch. Hai con sông Mịch La 汨羅 cùng chảy một dòng nên gọi là sông Mịch La.",
+                "Một âm là cốt. Chìm mất, chìm lỉm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【汨汨】cốt cốt [gưgư] (Nước chảy) ồ ồ, ào ào: 河水汨汨地流入田裡 Nước sông chảy ồ ồ vào ruộng;",
+                "(văn) Chìm mất, chìm lỉm;",
+                "(văn) Khoi, nạo vét đường thuỷ;",
+                "(văn) Sửa trị;",
+                "(văn) Lộn xộn;",
+                "(văn) Khuấy, trộn;",
+                "Đục, vẩn đục."
+            ]
+        },
+        "duật": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhanh chóng."
+            ]
+        },
+        "mịch": {
+            "Từ điển phổ thông": [
+                "sông Mịch"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Sông “Mịch”. § Hai con sông “Mịch” 汨 và “La” 羅 cùng chảy một dòng nên gọi là sông “Mịch La” 汨羅."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông Mịch. Hai con sông Mịch La 汨羅 cùng chảy một dòng nên gọi là sông Mịch La.",
+                "Một âm là cốt. Chìm mất, chìm lỉm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên sông: 汨羅 Mịch La (sông bắt nguồn từ Giang Tây chảy vào Hồ Nam, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Mịch La 汨羅."
+            ],
+            "compound_words": {
+                "汨罗": "mịch la",
+                "汨羅": "mịch la"
+            }
+        }
+    }
+}

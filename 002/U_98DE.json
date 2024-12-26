@@ -1,0 +1,62 @@
+{
+    "character": "飞",
+    "details": {
+        "Âm Hán Việt": [
+            "phi"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "ất 乙 (+2 nét)",
+            "phi 飛 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フノ丶"
+        ],
+        "Thương Hiệt": [
+            "NO (弓人)"
+        ],
+        "Unicode": [
+            "U+98DE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fēi ㄈㄟ"
+        ],
+        "Âm Nôm": [
+            "phi"
+        ],
+        "Âm Quảng Đông": [
+            "fei1"
+        ]
+    },
+    "meanings": {
+        "phi": {
+            "Từ điển phổ thông": [
+                "bay"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 飛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 飛"
+            ],
+            "compound_words": {
+                "阿飞": "a phi",
+                "高飞远走": "cao phi viễn tẩu",
+                "龙飞凤舞": "long phi phượng vũ",
+                "飞机": "phi cơ",
+                "直升飞机": "trực thăng phi cơ"
+            }
+        }
+    }
+}

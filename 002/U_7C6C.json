@@ -1,0 +1,90 @@
+{
+    "character": "籬",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "trúc 竹 (+18 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮離"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丶一ノ丶フ丨丨フフ丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "HYBG (竹卜月土)"
+        ],
+        "Unicode": [
+            "U+7C6C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ"
+        ],
+        "Âm Nôm": [
+            "li"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まがき (magaki)",
+            "かき (kaki)"
+        ],
+        "Âm Hàn": [
+            "리"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bờ rào, bờ giậu. ◇Đào Uyên Minh 陶淵明: “Thải cúc đông li hạ, Du nhiên kiến nam sơn” 採菊東籬下, 悠然見南山 (Ẩm Tửu 飲酒) Hái cúc dưới bờ rào đông, Nhàn nhã nhìn núi nam."
+            ],
+            "compound_words": {
+                "巴籬": "ba li",
+                "笆籬": "ba li",
+                "芭籬": "ba li",
+                "藩籬": "phiên li",
+                "竹籬": "trúc li"
+            }
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "hàng rào, bờ giậu"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bờ rào, bờ giậu, đan tre chắn luỹ xung quanh gọi là li. Ðào Uyên Minh 陶淵明: Thải cúc đông li hạ, du nhiên kiến nam sơn 採菊東籬下，悠然見南山 hái cúc dưới bờ rào đông, nhàn nhã nhìn núi nam."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 笊篱 [zhàolí];",
+                "Bờ giậu, bờ rào, hàng rào: 竹籬茅舍 Nhà tranh giậu nứa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hàng rào đan, ghép bằng tre. Cũng gọi là Li ba 籬笆."
+            ],
+            "compound_words": {
+                "笆籬": "ba ly",
+                "籬笆": "ly ba",
+                "樹籬": "thụ ly",
+                "笊籬": "tráo ly"
+            }
+        }
+    }
+}

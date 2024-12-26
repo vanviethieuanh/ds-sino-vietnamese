@@ -1,0 +1,120 @@
+{
+    "character": "鼻",
+    "details": {
+        "Âm Hán Việt": [
+            "tì",
+            "tị",
+            "tỵ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "tỵ 鼻 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱自畀"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一一丨フ一丨一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "HUWML (竹山田一中)"
+        ],
+        "Unicode": [
+            "U+9F3B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bí ㄅㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はな (hana)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei6"
+        ]
+    },
+    "meanings": {
+        "tì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Mũi. ◇Phù sanh lục kí 浮生六記: 'Phương hinh thấu tị' 芳馨透鼻 (Khuê phòng kí lạc 閨房記樂) Mùi thơm xông vào mũi.",
+                "(Danh) Phần nổi cao như cái mũi của đồ vật. ◎Như: 'ấn tị' 印鼻 cái núm ấn.",
+                "(Danh) Lỗ, trôn. ◎Như: 'châm tị nhi' 針鼻兒 trôn kim.",
+                "(Động) Xỏ mũi. ◇Trương Hành 張衡: 'Tị xích tượng' 鼻赤象 (Tây kinh phú 西京賦) Xỏ mũi con voi to.",
+                "(Tính) Trước tiên, khởi thủy. ◎Như: 'tị tổ' 鼻祖 ông thủy tổ, 'tị tử' 鼻子 con trưởng.",
+                "Một âm là 'tì'. (Danh) 'A-tì ngục' 阿鼻獄 địa ngục A-tì (tiếng Phạn \"avīci\")."
+            ],
+            "compound_words": {
+                "阿鼻地獄": "a tì địa ngục"
+            }
+        },
+        "tị": {
+            "Từ điển trích dẫn": [
+                "(Danh) Mũi. ◇Phù sanh lục kí 浮生六記: 'Phương hinh thấu tị' 芳馨透鼻 (Khuê phòng kí lạc 閨房記樂) Mùi thơm xông vào mũi.",
+                "(Danh) Phần nổi cao như cái mũi của đồ vật. ◎Như: 'ấn tị' 印鼻 cái núm ấn.",
+                "(Danh) Lỗ, trôn. ◎Như: 'châm tị nhi' 針鼻兒 trôn kim.",
+                "(Động) Xỏ mũi. ◇Trương Hành 張衡: 'Tị xích tượng' 鼻赤象 (Tây kinh phú 西京賦) Xỏ mũi con voi to.",
+                "(Tính) Trước tiên, khởi thủy. ◎Như: 'tị tổ' 鼻祖 ông thủy tổ, 'tị tử' 鼻子 con trưởng.",
+                "Một âm là 'tì'. (Danh) 'A-tì ngục' 阿鼻獄 địa ngục A-tì (tiếng Phạn \"avīci\")."
+            ],
+            "compound_words": {
+                "巴鼻": "ba tị",
+                "把鼻": "bả tị",
+                "隆鼻": "long tị",
+                "鼻祖": "tị tổ",
+                "穿鼻": "xuyên tị",
+                "掩鼻": "yểm tị"
+            }
+        },
+        "tỵ": {
+            "Từ điển phổ thông": [
+                "cái mũi",
+                "khuyết, lỗ",
+                "núm",
+                "đầu tiên"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái mũi.",
+                "Trước tiên. Như ông thuỷ tổ gọi là tị tổ 鼻祖.",
+                "Xỏ mũi.",
+                "Cái chuôi ấm.",
+                "Cái núm ấn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mũi, vòi, núm: 剖之，如有煙撲口鼻 Bửa nó (quả cam) ra thì như có hơi khói hắt lên miệng mũi (Lưu Cơ: Mại cam giả ngôn); 象鼻子 Vòi voi; 印鼻 Núm con dấu;",
+                "(văn) Xỏ mũi (thú vật): 鼻赤象 Xỏ mũi voi đỏ (Trương Hoành: Tây kinh phú);",
+                "(văn) Ngửi thấy (mùi): 可鼻，則有荷葉之清香 Có thể ngửi, ngửi thì có mùi thơm mát của lá sen (Lí Ngư: Phù cừ);",
+                "Lỗ, trôn: 針鼻兒 Trôn kim; 釦鼻兒 Lỗ khuy; 針鼻細而穿空 Trôn kim nhỏ mà xuyên được vào khoảng trống (Canh Tín: Thất tịch phú);",
+                "Tổ, thuỷ tổ, trước tiên, đầu tiên: 鼻祖 Ông tổ đầu tiên, tị tổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái mũi — Bắt đầu — Tên một bộ chữ Hán."
+            ],
+            "compound_words": {
+                "鼻孔": "tỵ khổng",
+                "鼻翅": "tỵ sí",
+                "鼻青脸肿": "tỵ thanh kiểm thũng",
+                "鼻青臉腫": "tỵ thanh kiểm thũng",
+                "鼻祖": "tỵ tổ"
+            }
+        }
+    }
+}

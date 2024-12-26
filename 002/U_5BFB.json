@@ -1,0 +1,80 @@
+{
+    "character": "寻",
+    "details": {
+        "Âm Hán Việt": [
+            "tầm"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thốn 寸 (+3 nét)",
+            "kệ 彐 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱彐寸"
+        ],
+        "Nét bút": [
+            "フ一一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "SMDI (尸一木戈)"
+        ],
+        "Unicode": [
+            "U+5BFB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xín ㄒㄧㄣˊ",
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tầm",
+            "tìm"
+        ],
+        "Âm Quảng Đông": [
+            "cam4"
+        ]
+    },
+    "meanings": {
+        "tầm": {
+            "Từ điển phổ thông": [
+                "tìm kiếm",
+                "đơn vị đo độ dài (bằng 8 thước Tàu cũ)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 尋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tìm, kiếm: 尋人 Tìm người;",
+                "Xét tìm;",
+                "(văn) Dựa vào, vin vào: 蔓葛亦有尋 Dây sắn bò lan cũng có dựa vào (Lục Cơ: Bi chiến hành);",
+                "(văn) Dùng: 三年將尋師焉 Ba năm sau sẽ dùng quân vậy (Tả truyện: Hi công ngũ niên);",
+                "(văn) Hâm nóng lại (như 燖, bộ 火);",
+                "(văn) Chẳng bao lâu, rồi: 復爲郡西門亭長，尋轉功曹 Lại làm đình trưởng Tây Môn trong quận, rồi (chẳng bao lâu) đổi làm Công tào (Hậu Hán thư);",
+                "(văn) Sắp: 尋及 Sắp kịp; 白髮侵尋 Tóc đã bạc dần (sắp già);",
+                "(văn) Lại: 尋盟 Lại đính lời thề cũ;",
+                "(văn) Vẫn: 日尋干戈 Ngày ngày vẫn đánh nhau;",
+                "Tầm (một đơn vị đo chiều dài thời xưa, bằng 8 thước);",
+                "[Xun] (Họ) Tầm. Xem 尋 [xín]"
+            ],
+            "compound_words": {
+                "寻求": "tầm cầu",
+                "寻机": "tầm cơ",
+                "寻阳": "tầm dương",
+                "寻觅": "tầm mịch",
+                "寻访": "tầm phỏng",
+                "寻常": "tầm thường",
+                "寻找": "tầm trảo"
+            }
+        }
+    }
+}

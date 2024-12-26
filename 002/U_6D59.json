@@ -1,0 +1,81 @@
+{
+    "character": "浙",
+    "details": {
+        "Âm Hán Việt": [
+            "chiết",
+            "triết"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡折"
+        ],
+        "Nét bút": [
+            "丶丶一一丨一ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "EQHL (水手竹中)"
+        ],
+        "Unicode": [
+            "U+6D59"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhè ㄓㄜˋ"
+        ],
+        "Âm Nôm": [
+            "chiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)"
+        ],
+        "Âm Hàn": [
+            "절"
+        ],
+        "Âm Quảng Đông": [
+            "zit3"
+        ]
+    },
+    "meanings": {
+        "chiết": {
+            "Từ điển phổ thông": [
+                "sông Chiết Giang (tỉnh Chiết Giang)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sông 'Chiết Giang' 浙江.",
+                "(Danh) Tên một châu thời cổ, nay ở vào khoảng tỉnh 'Quý Châu' 貴州.",
+                "(Danh) Đời nhà Tống gọi tắt 'lưỡng chiết lộ' 兩浙路 là 'Chiết' 浙. Sau cũng là tên gọi tắt của tỉnh 'Chiết Giang' 浙江."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sông Chiết Giang, tỉnh Chiết Giang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sông Chiết Giang;",
+                "Tỉnh Chiết Giang (Trung Quốc)."
+            ],
+            "compound_words": {
+                "浙江": "chiết giang"
+            }
+        },
+        "triết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Triết giang 浙江. Cũng đọc Chiết."
+            ],
+            "compound_words": {
+                "浙江": "triết giang"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "character": "詫",
+    "details": {
+        "Âm Hán Việt": [
+            "sá"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言宅"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶丶フノ一フ"
+        ],
+        "Thương Hiệt": [
+            "YRJHP (卜口十竹心)"
+        ],
+        "Unicode": [
+            "U+8A6B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chà ㄔㄚˋ",
+            "dù ㄉㄨˋ"
+        ],
+        "Âm Nôm": [
+            "sá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タ (ta)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わび (wabi)",
+            "わび.しい (wabi.shii)",
+            "かこつ (kakotsu)",
+            "わ.びる (wa.biru)",
+            "わび.る (wabi.ru)"
+        ],
+        "Âm Hàn": [
+            "타"
+        ],
+        "Âm Quảng Đông": [
+            "caa3"
+        ]
+    },
+    "meanings": {
+        "sá": {
+            "Từ điển phổ thông": [
+                "khoe",
+                "lạ lùng",
+                "lừa dối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Báo cho biết.",
+                "(Động) Khoe khoang, khoa diệu. ◇Sử Kí 史記: 'Tử Hư quá sá Ô Hữu tiên sanh' 子虛過詫烏有先生 (Tư Mã Tương Như truyện 司馬相如傳) Tử Hư quá khoe khoang Ô Hữu tiên sinh.",
+                "(Động) Kinh ngạc. ◎Như: 'sá dị' 詫異 lấy làm lạ lùng. ◇Hồng Lâu Mộng 紅樓夢: 'Chỉ tại trì biên thụ hạ, hoặc tọa tại san thạch thượng xuất thần, hoặc tồn tại địa hạ khu thổ, lai vãng đích nhân đô sá dị' 只在池邊樹下, 或坐在山石上出神, 或蹲在地下摳土, 來往的人都詫異 (Đệ tứ thập bát hồi) Chỉ đến bờ ao gốc cây, khi ngồi thẫn thờ trên hòn đá, khi ngồi xổm vạch đất, những người qua lại đều lấy làm lạ.",
+                "(Động) Lừa dối. ◎Như: 'cam ngôn sá ngữ' 甘言詫語 nói lời ngon ngọt dối trá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoe.",
+                "Lạ lùng. Như sá dị 詫異 lấy làm lạ lùng.",
+                "Lừa dối."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kinh ngạc;",
+                "(văn) Khoe;",
+                "(văn) Lừa dối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói cho biết — Nói dối — Khoe khoang — Ngạc nhiên. Td: Kinh sá ( như Kinh ngạc )."
+            ],
+            "compound_words": {
+                "詫異": "sá dị"
+            }
+        }
+    }
+}

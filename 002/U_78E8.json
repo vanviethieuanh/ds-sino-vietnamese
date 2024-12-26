@@ -1,0 +1,123 @@
+{
+    "character": "磨",
+    "details": {
+        "Âm Hán Việt": [
+            "ma",
+            "má"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thạch 石 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸麻石"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨ノ丶一丨ノ丶一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "IDMR (戈木一口)"
+        ],
+        "Unicode": [
+            "U+78E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mó ㄇㄛˊ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "ma",
+            "mài"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マ (ma)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みが.く (miga.ku)",
+            "す.る (su.ru)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "mo4",
+            "mo6"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "mài",
+                "xay (gạo)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mài, cọ, xát. ◎Như: 'ma đao' 磨刀 mài dao, 'thiết tha trác ma' 切磋琢磨 mài giũa (nghiên cứu học vấn, sôi kinh nấu sử). ◇Tuân Tử 荀子: 'Nhân chi ư văn học dã, do ngọc chi ư trác ma dã' 人之於文學也, 猶玉之於琢磨也 (Đại lược 大略) Người học văn, cũng như ngọc phải giũa phải mài vậy.",
+                "(Động) Nghiền. ◎Như: 'ma tế' 磨細 nghiền nhỏ, 'ma phấn' 磨粉 nghiền bột, 'ma mặc' 磨墨 nghiền mực.",
+                "(Động) Tiêu diệt, mất đi. ◇Hậu Hán Thư 後漢書: 'Bách thế bất ma hĩ' 百世不磨矣 (Nam Hung Nô truyện 南匈奴傳) Muôn đời chẳng diệt.",
+                "(Động) Gặp trở ngại, bị giày vò. ◎Như: 'ma chiết' 磨折 làm cho khốn khổ, giày vò.",
+                "(Động) Quấy rầy.",
+                "(Danh) Gian nan, trở ngại. ◎Như: 'hảo sự đa ma' 好事多磨 việc tốt lành (gặp) nhiều gian nan, trở ngại.",
+                "Một âm là 'má'. (Danh) Cái cối xay. ◎Như: 'thạch má' 石磨 cối xay bằng đá.",
+                "(Động) Xay. ◎Như: 'má đậu hủ' 磨豆腐 xay đậu phụ.",
+                "(Động) Quay trở lại (thường dùng cho xe). ◎Như: 'hạng tử thái trách, một pháp tử má xa' 巷子太窄, 沒法子磨車 đường hẻm hẹp quá, không cách nào quay xe trở lại được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mài, xát. Nghiên cứu học vấn gọi là thiết tha trác ma 切磋琢磨. Tuân Tử 荀子: Nhân chi ư văn học dã, do ngọc chi ư trác ma dã 人之於文學也，猶玉之於琢磨也 người học văn, cũng như ngọc phải giũa phải mài vậy.",
+                "Gian nan hiểm trở, ra đời bị những cái thất bại nó làm cho mình đau đớn gọi là ma chiết 磨折.",
+                "Một âm là má. Cái cối xay bằng đá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cọ xát: 爬了幾天山，腳上磨了幾個大泡 Leo núi mấy hôm, chân bị cọ sát dộp cả lên; 沒關係，就磨破了點皮 Không hề gì, chỉ xát tí da thôi;",
+                "Mài: 磨墨 Mài mực; 鐵桿磨成針 Có công mài sắt có ngày nên kim;",
+                "Giày vò, gian nan: 他被這場病磨得不成樣子 Anh ấy đau một trận bị giày vò chẳng ra gì nữa;",
+                "Phai mờ, nhạt, tiêu diệt: 百世不磨 Đời đời bất diệt (không phai mờ);",
+                "Dây dưa: 磨洋工 Làm việc dây dưa. Xem 磨 [mò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mài đá cho thành đồ vật - Mất đi. Td: Tiêu ma — Gặp cảnh khốn cùng. Xem Ma chiết 磨折."
+            ],
+            "compound_words": {
+                "百折千磨": "bách chiết thiên ma",
+                "折磨": "chiết ma",
+                "磨折": "ma chiết",
+                "磨菇": "ma cô",
+                "消磨": "tiêu ma",
+                "琢磨": "trác ma"
+            }
+        },
+        "má": {
+            "Từ điển trích dẫn": [
+                "(Động) Mài, cọ, xát. ◎Như: 'ma đao' 磨刀 mài dao, 'thiết tha trác ma' 切磋琢磨 mài giũa (nghiên cứu học vấn, sôi kinh nấu sử). ◇Tuân Tử 荀子: 'Nhân chi ư văn học dã, do ngọc chi ư trác ma dã' 人之於文學也, 猶玉之於琢磨也 (Đại lược 大略) Người học văn, cũng như ngọc phải giũa phải mài vậy.",
+                "(Động) Nghiền. ◎Như: 'ma tế' 磨細 nghiền nhỏ, 'ma phấn' 磨粉 nghiền bột, 'ma mặc' 磨墨 nghiền mực.",
+                "(Động) Tiêu diệt, mất đi. ◇Hậu Hán Thư 後漢書: 'Bách thế bất ma hĩ' 百世不磨矣 (Nam Hung Nô truyện 南匈奴傳) Muôn đời chẳng diệt.",
+                "(Động) Gặp trở ngại, bị giày vò. ◎Như: 'ma chiết' 磨折 làm cho khốn khổ, giày vò.",
+                "(Động) Quấy rầy.",
+                "(Danh) Gian nan, trở ngại. ◎Như: 'hảo sự đa ma' 好事多磨 việc tốt lành (gặp) nhiều gian nan, trở ngại.",
+                "Một âm là 'má'. (Danh) Cái cối xay. ◎Như: 'thạch má' 石磨 cối xay bằng đá.",
+                "(Động) Xay. ◎Như: 'má đậu hủ' 磨豆腐 xay đậu phụ.",
+                "(Động) Quay trở lại (thường dùng cho xe). ◎Như: 'hạng tử thái trách, một pháp tử má xa' 巷子太窄, 沒法子磨車 đường hẻm hẹp quá, không cách nào quay xe trở lại được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mài, xát. Nghiên cứu học vấn gọi là thiết tha trác ma 切磋琢磨. Tuân Tử 荀子: Nhân chi ư văn học dã, do ngọc chi ư trác ma dã 人之於文學也，猶玉之於琢磨也 người học văn, cũng như ngọc phải giũa phải mài vậy.",
+                "Gian nan hiểm trở, ra đời bị những cái thất bại nó làm cho mình đau đớn gọi là ma chiết 磨折.",
+                "Một âm là má. Cái cối xay bằng đá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cối xay (bằng đá): 電磨 Cối xay bằng điện;",
+                "Xay (bằng cối): 磨麵 Xay bột;",
+                "Quay: 把汽車磨過來 Quay xe hơi trở lại. Xem 磨 [mó]."
+            ]
+        }
+    }
+}

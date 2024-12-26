@@ -1,0 +1,116 @@
+{
+    "character": "聯",
+    "details": {
+        "Âm Hán Việt": [
+            "liên",
+            "liễn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nhĩ 耳 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰耳⿱𢆶丱"
+        ],
+        "Nét bút": [
+            "一丨丨一一一フフ丶フフ丶フノ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "SJVIT (尸十女戈廿)"
+        ],
+        "Unicode": [
+            "U+806F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lén",
+            "liên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つら.なる (tsura.naru)",
+            "つら.ねる (tsura.neru)"
+        ],
+        "Âm Hàn": [
+            "련",
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "lyun4"
+        ]
+    },
+    "meanings": {
+        "liên": {
+            "Từ điển phổ thông": [
+                "liên minh, liên kết",
+                "câu đối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Liền nối, tiếp tục. § Thông 'liên' 連.",
+                "(Động) Họp, kết hợp. ◎Như: 'liên minh' 聯盟 kết hợp làm đồng minh hỗ trợ nhau, 'liên nhân' 聯姻 thông gia.",
+                "(Danh) Câu đối. ◎Như: 'doanh liên' 楹聯 câu đối dán cột. ◇Nguyễn Du 阮攸: 'Xuân liên đãi tuế trừ' 春聯待歲除 (Tây Hà dịch 西河驛) Câu đối xuân chờ hết năm cũ.",
+                "(Danh) Lượng từ: đơn vị phiếu khoán.",
+                "(Danh) Họ 'Liên'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Liền nối.",
+                "Họp, họp các nước nhỏ hay các khu vực nhỏ lại thành một nước lớn gọi là liên bang chế độ 聯邦制度 như nước Mĩ hay nước Ðức vậy.",
+                "Câu đối, như doanh liên 楹聯 câu đối dán cột. Văn thơ hai câu đối nhau gọi là nhất liên 一聯. Nguyễn Du 阮攸: Xuân liên đãi tuế trừ 春聯待歲除 câu đối xuân chờ hết năm cũ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Liên (kết), liền, nối liền: 聯盟 Liên minh; 聯貫 Nối liền, quán xuyến; 聯絡 Liên lạc; 聯名 Liên danh;",
+                "Câu đối, cặp câu đối nhau: 春聯 Câu đối tết; 挽聯 Câu đối viếng; 楹聯 Câu đối dán cột; 一聯 Một cặp câu đối nhau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Liền nhau — Hợp lại, nối liền lại."
+            ],
+            "compound_words": {
+                "珠聯璧合": "châu liên bích hợp",
+                "楹聯": "doanh liên",
+                "對聯": "đối liên",
+                "東南亞國家聯盟": "đông nam á quốc gia liên minh",
+                "頷聯": "hạm liên",
+                "互聯": "hỗ liên",
+                "聯邦": "liên bang",
+                "聯句": "liên cú",
+                "聯名": "liên danh",
+                "聯對": "liên đối",
+                "聯繫": "liên hệ",
+                "聯歡": "liên hoan",
+                "聯合": "liên hợp",
+                "聯結": "liên kết",
+                "聯盟": "liên minh",
+                "聯吟": "liên ngâm",
+                "聯翩": "liên phiên",
+                "聯軍": "liên quân",
+                "聯賽": "liên tái",
+                "聯想": "liên tưởng",
+                "南程聯詠集": "nam trình liên vịnh tập",
+                "關聯": "quan liên",
+                "蘇聯": "tô liên",
+                "挽聯": "vãn liên",
+                "春聯": "xuân liên"
+            }
+        },
+        "liễn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "liền nhau, cân đối với nhau. Td: Đối liễn ( câu đối ). Cũng đọc là Liên."
+            ]
+        }
+    }
+}

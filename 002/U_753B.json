@@ -1,0 +1,104 @@
+{
+    "character": "画",
+    "details": {
+        "Âm Hán Việt": [
+            "hoạ",
+            "hoạch"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "điền 田 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿴⿱一凵田"
+        ],
+        "Nét bút": [
+            "一丨フ一丨一フ丨"
+        ],
+        "Thương Hiệt": [
+            "MUW (一山田)"
+        ],
+        "Unicode": [
+            "U+753B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huà ㄏㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "dạch",
+            "hoạ",
+            "vạch",
+            "vệch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガ (ga)",
+            "カク (kaku)",
+            "エ (e)",
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えが.く (ega.ku)",
+            "かく.する (kaku.suru)",
+            "かぎ.る (kagi.ru)",
+            "はかりごと (hakarigoto)",
+            "はか.る (haka.ru)"
+        ],
+        "Âm Hàn": [
+            "화",
+            "획"
+        ],
+        "Âm Quảng Đông": [
+            "waa2",
+            "waak6"
+        ]
+    },
+    "meanings": {
+        "hoạ": {
+            "Từ điển phổ thông": [
+                "vẽ",
+                "bức tranh"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 畫.",
+                "Giản thể của chữ 畫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 畫 (bộ 田), 劃 (bộ 刂)."
+            ],
+            "compound_words": {
+                "壁画": "bích hoạ",
+                "图画": "đồ hoạ",
+                "绘画": "hội hoạ",
+                "描画": "miêu hoạ",
+                "摹画": "mô hoạ",
+                "如画": "như hoạ"
+            }
+        },
+        "hoạch": {
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 畫.",
+                "Giản thể của chữ 畫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ hoạch 畫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 畫 (bộ 田), 劃 (bộ 刂)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lói viết tắt của chữ Hoạch 畫."
+            ]
+        }
+    }
+}

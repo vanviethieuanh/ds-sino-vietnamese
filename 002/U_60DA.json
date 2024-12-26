@@ -1,0 +1,83 @@
+{
+    "character": "惚",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch",
+            "hốt"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺖忽"
+        ],
+        "Nét bút": [
+            "丶丶丨ノフノノ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "PPHP (心心竹心)"
+        ],
+        "Unicode": [
+            "U+60DA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bū ㄅㄨ",
+            "hū ㄏㄨ"
+        ],
+        "Âm Nôm": [
+            "ghen",
+            "hốt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コツ (kotsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほけ.る (hoke.ru)",
+            "ぼ.ける (bo.keru)",
+            "ほ.れる (ho.reru)"
+        ],
+        "Âm Hàn": [
+            "홀"
+        ],
+        "Âm Quảng Đông": [
+            "fat1"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "không rõ ràng, phảng phất"
+            ]
+        },
+        "hốt": {
+            "Từ điển trích dẫn": [
+                "1. (Phó) § Xem “hoảng hốt” 恍惚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hoảng hốt 恍惚 thấy không đích xác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 恍惚 [huănghu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hãi thình lình."
+            ],
+            "compound_words": {
+                "恍惚": "hoảng hốt",
+                "惚慌": "hốt hoảng"
+            }
+        }
+    }
+}

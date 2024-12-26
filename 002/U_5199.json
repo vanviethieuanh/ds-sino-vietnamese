@@ -1,0 +1,86 @@
+{
+    "character": "写",
+    "details": {
+        "Âm Hán Việt": [
+            "tả"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "mịch 冖 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱冖与"
+        ],
+        "Nét bút": [
+            "丶フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "BYSM (月卜尸一)"
+        ],
+        "Unicode": [
+            "U+5199"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiě ㄒㄧㄝˇ"
+        ],
+        "Âm Nôm": [
+            "tả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)",
+            "ジャ (ja)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつ.す (utsu.su)",
+            "うつ.る (utsu.ru)",
+            "うつ- (utsu-)",
+            "うつ.し (utsu.shi)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "se2"
+        ]
+    },
+    "meanings": {
+        "tả": {
+            "Từ điển phổ thông": [
+                "viết, chép",
+                "dốc hết ra, tháo ra",
+                "đúc tượng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 寫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 寫"
+            ],
+            "compound_words": {
+                "编写": "biên tả",
+                "大写": "đại tả",
+                "刻写": "khắc tả",
+                "乱写": "loạn tả",
+                "描写": "miêu tả",
+                "抄写": "sao tả",
+                "擦写": "sát tả",
+                "撰写": "soạn tả",
+                "写眞": "tả chân",
+                "写信": "tả tín",
+                "手写": "thủ tả",
+                "小写": "tiểu tả"
+            }
+        }
+    }
+}

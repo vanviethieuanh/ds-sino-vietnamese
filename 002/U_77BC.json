@@ -1,0 +1,75 @@
+{
+    "character": "瞼",
+    "details": {
+        "Âm Hán Việt": [
+            "kiểm"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mục 目 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目僉"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BUOMO (月山人一人)"
+        ],
+        "Unicode": [
+            "U+77BC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "kèm",
+            "kiểm",
+            "lim"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まぶた (mabuta)"
+        ],
+        "Âm Hàn": [
+            "검"
+        ],
+        "Âm Quảng Đông": [
+            "gim2",
+            "lim4"
+        ]
+    },
+    "meanings": {
+        "kiểm": {
+            "Từ điển phổ thông": [
+                "mí mắt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Mí mắt. ◎Như: “nhãn kiểm” 眼瞼 mí mắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mí mắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mi mắt. Mí mắt."
+            ],
+            "compound_words": {
+                "眼瞼": "nhãn kiểm"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "娿",
+    "details": {
+        "Âm Hán Việt": [
+            "a",
+            "ả"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nữ 女 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿱阿女"
+        ],
+        "Nét bút": [
+            "フ丨一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "NRV (弓口女)"
+        ],
+        "Unicode": [
+            "U+5A3F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ē"
+        ],
+        "Âm Hàn": [
+            "아"
+        ]
+    },
+    "meanings": {
+        "a": {
+            "Từ điển phổ thông": [
+                "(xem: a na 婀娜)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 婀."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một cách viết của chữ A 婀."
+            ],
+            "compound_words": {
+                "娿娜": "ả na",
+                "媕娿": "am a"
+            }
+        },
+        "ả": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ả na 娿娜."
+            ],
+            "compound_words": {
+                "娿娜": "ả na"
+            }
+        }
+    }
+}

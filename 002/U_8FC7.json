@@ -1,0 +1,87 @@
+{
+    "character": "过",
+    "details": {
+        "Âm Hán Việt": [
+            "qua",
+            "quá"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "sước 辵 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶寸"
+        ],
+        "Nét bút": [
+            "一丨丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YDI (卜木戈)"
+        ],
+        "Unicode": [
+            "U+8FC7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guō ㄍㄨㄛ",
+            "guò ㄍㄨㄛˋ",
+            "guo"
+        ],
+        "Âm Nôm": [
+            "quá"
+        ],
+        "Âm Quảng Đông": [
+            "gwo3"
+        ]
+    },
+    "meanings": {
+        "qua": {
+            "Từ điển phổ thông": [
+                "qua, vượt",
+                "hơn, quá",
+                "đã từng"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'quá' 過.",
+                "Giản thể của chữ 過."
+            ]
+        },
+        "quá": {
+            "Từ điển phổ thông": [
+                "qua, vượt",
+                "hơn, quá",
+                "đã từng"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'quá' 過.",
+                "Giản thể của chữ 過."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ quá 過."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quá, thái quá: 太過分了 Quá lắm, quá mức, quá quắt;",
+                "[Guo] (Họ) Quá. Xem 過 [guò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết giản dị của chữ Quá 過."
+            ],
+            "compound_words": {
+                "改过": "cải quá",
+                "横过": "hoành quá",
+                "掠过": "lược quá",
+                "胜过": "thắng quá"
+            }
+        }
+    }
+}

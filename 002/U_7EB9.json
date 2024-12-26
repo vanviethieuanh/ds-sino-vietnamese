@@ -1,0 +1,68 @@
+{
+    "character": "纹",
+    "details": {
+        "Âm Hán Việt": [
+            "văn",
+            "vấn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰纟文"
+        ],
+        "Nét bút": [
+            "フフ一丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMYK (女一卜大)"
+        ],
+        "Unicode": [
+            "U+7EB9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wén ㄨㄣˊ",
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "văn"
+        ],
+        "Âm Quảng Đông": [
+            "man4"
+        ]
+    },
+    "meanings": {
+        "văn": {
+            "Từ điển phổ thông": [
+                "đường, vết, vằn",
+                "nếp nhăn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 紋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 紋"
+            ],
+            "compound_words": {
+                "斑纹": "ban văn"
+            }
+        },
+        "vấn": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 紋"
+            ]
+        }
+    }
+}

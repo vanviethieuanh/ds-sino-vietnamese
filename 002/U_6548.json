@@ -1,0 +1,102 @@
+{
+    "character": "效",
+    "details": {
+        "Âm Hán Việt": [
+            "hiệu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "phác 攴 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰交攵"
+        ],
+        "Nét bút": [
+            "丶一ノ丶ノ丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YKOK (卜大人大)"
+        ],
+        "Unicode": [
+            "U+6548"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiào ㄒㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "hiệu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.く (ki.ku)",
+            "ききめ (kikime)",
+            "なら.う (nara.u)"
+        ],
+        "Âm Hàn": [
+            "효"
+        ],
+        "Âm Quảng Đông": [
+            "haau6"
+        ]
+    },
+    "meanings": {
+        "hiệu": {
+            "Từ điển phổ thông": [
+                "bắt chước",
+                "ví với",
+                "công hiệu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bắt chước, mô phỏng, theo. ◎Như: 'hiệu pháp' 效法 bắt chước phép gì của người, 'hiệu vưu' 效尤 noi lỗi lầm của người khác. ◇Vương Bột 王勃: 'Nguyễn Tịch xương cuồng, khởi hiệu cùng đồ chi khốc' 阮籍猖狂, 豈效窮途之哭 (Đằng vương các tự 滕王閣序) Nguyễn Tịch càn rở điên cuồng, há bắt chước ông mà khóc bước đường cùng?",
+                "(Động) Cống hiến, phụng hiến, hết sức làm. ◎Như: 'hiệu lực' 效力 cố sức, 'báo hiệu' 報效 hết sức báo đền. ◇Tư Mã Thiên 司馬遷: 'Thành dục hiệu kì khoản khoản chi ngu' 誠欲效其款款之愚 (Báo Nhậm Thiếu Khanh thư 報任少卿書) Lòng thành muốn gắng tỏ hết tấm ngu trung của mình.",
+                "(Danh) Hiệu quả. ◎Như: 'minh hiệu' 明效 hiệu nghiệm rõ ràng, 'thành hiệu' 成效 đã thành kết quả. ◇Hồng Lâu Mộng 紅樓夢: 'Kim nhật đầu huyễn đích lược hảo ta, biệt đích nhưng bất kiến chẩm ma dạng đại kiến hiệu' 今日頭眩得略好些, 別的仍不見怎麼樣大見效 (Đệ thập nhất hồi) Hôm nay chứng hoa mắt nhức đầu có đỡ một chút, còn các bệnh khác thì chưa thấy hiệu quả gì cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Học đòi, bắt chước, như hiệu pháp 效法 nghĩa là bắt chước phép gì của người, hiệu vưu 效尤 bắt chước sự lầm lẫn của người, v.v.",
+                "Ðến cùng, như hiệu lực 效力 có sức, báo hiệu 報效 hết sức báo đền, v.v.",
+                "Hiệu nghiệm, như minh hiệu 明效 hiệu nghiệm rõ ràng, thành hiệu 成效 đã thành hiệu rồi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiệu quả, hiệu nghiệm, hiệu lực: 有效 Có hiệu quả; 本協定簽署後即生效 Bản hiệp định này có hiệu lực ngay sau khi được kí kết;",
+                "Noi theo, bắt chước: 上行下效 Trên làm sao dưới theo vậy, trên làm dưới theo;",
+                "Ra sức đóng góp, phục vụ, góp sức, cống hiến: 效力 Ra sức; 報效 Hết sức báo đền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt chước — Đúng như thật, đúng như mong muốn."
+            ],
+            "compound_words": {
+                "報效": "báo hiệu",
+                "报效": "báo hiệu",
+                "功效": "công hiệu",
+                "效正": "hiệu chính",
+                "效用": "hiệu dụng",
+                "效訂": "hiệu đính",
+                "效益": "hiệu ích",
+                "效力": "hiệu lực",
+                "效能": "hiệu năng",
+                "效驗": "hiệu nghiệm",
+                "效果": "hiệu quả",
+                "效率": "hiệu suất",
+                "效应": "hiệu ứng",
+                "效應": "hiệu ứng",
+                "有效": "hữu hiệu",
+                "見效": "kiến hiệu",
+                "失效": "thất hiệu",
+                "無效": "vô hiệu"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "叟",
+    "details": {
+        "Âm Hán Việt": [
+            "sưu",
+            "tẩu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hựu 又 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱𦥔又"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "HXLE (竹重中水)"
+        ],
+        "Unicode": [
+            "U+53DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sǒu ㄙㄡˇ"
+        ],
+        "Âm Nôm": [
+            "tẩu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おきな (okina)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau2"
+        ]
+    },
+    "meanings": {
+        "sưu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Sưu sưu 叟叟— Một âm khác là Tẩu — Xem Tẩu."
+            ],
+            "compound_words": {
+                "叟叟": "sưu sưu"
+            }
+        },
+        "tẩu": {
+            "Từ điển phổ thông": [
+                "ông già"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người già. ◎Như: 'đồng tẩu vô khi' 童叟無欺 không lừa dối trẻ thơ và người già cả.",
+                "(Danh) Tiếng tôn xưng người đàn ông tuổi già. ◎Như: 'lão tẩu' 老叟 cụ già. ◇Liêu trai chí dị 聊齋志異: 'Tửu lan, nhất tẩu xướng ngôn viết' 酒闌, 一叟倡言曰 (Tiên nhân đảo 仙人島) Tan tiệc, một cụ già lên tiếng nói rằng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ông già."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ông già: 河曲智叟亡以應 Hà Khúc Trí tẩu không sao trả lời được (Liệt tử);",
+                "Cụ: 叟不遠千里而來 Cụ không ngại đường xa ngàn dặm mà đến đây (Mạnh tử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ông già. Như hai chữ Tẩu"
+            ],
+            "compound_words": {
+                "白叟": "bạch tẩu",
+                "舞叟": "vũ tẩu"
+            }
+        }
+    }
+}

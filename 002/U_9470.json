@@ -1,0 +1,91 @@
+{
+    "character": "鑰",
+    "details": {
+        "Âm Hán Việt": [
+            "dược",
+            "thược"
+        ],
+        "Tổng nét": [
+            "25"
+        ],
+        "Bộ": [
+            "kim 金 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金龠"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丶一丨フ一丨フ一丨フ一丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "COMB (金人一月)"
+        ],
+        "Unicode": [
+            "U+9470"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yào ㄧㄠˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぎ (kagi)"
+        ],
+        "Âm Hàn": [
+            "약"
+        ],
+        "Âm Quảng Đông": [
+            "joek6"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ổ khoá ở cửa — cái chìa khoá để mở ổ khoá — Chỗ quan trọng, then chốt."
+            ],
+            "compound_words": {
+                "鑰匙": "dược chuỷ",
+                "鑰鍉": "dược thi"
+            }
+        },
+        "thược": {
+            "Từ điển phổ thông": [
+                "cái khoá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái khóa. § Xem 'thược thi' 鑰匙.",
+                "(Danh) Phong kín, che lấp.",
+                "(Danh) Ví dụ sự vật, nơi chốn trọng yếu. ◇Thanh sử cảo 清史稿: 'Lâm Hoài vi nam bắc quản thược' (Viên Giáp Tam truyện 袁甲三傳) 臨淮為南北筦鑰 Lâm Hoài là nơi quan yếu từ nam tới bắc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chìa khoá.",
+                "Cái khoá.",
+                "Khoá.",
+                "Vào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) khóa: 南門鎖鑰 Thị trấn quan trọng ở miền nam. Xem 鑰 [yào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chìa khoá. Cũng đọc Dược."
+            ],
+            "compound_words": {
+                "鑰匙": "thược thi"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "篷",
+    "details": {
+        "Âm Hán Việt": [
+            "bồng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trúc 竹 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮逢"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノフ丶一一一丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "HYHJ (竹卜竹十)"
+        ],
+        "Unicode": [
+            "U+7BF7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "péng ㄆㄥˊ"
+        ],
+        "Âm Nôm": [
+            "bong",
+            "bồng",
+            "phồng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とま (toma)"
+        ],
+        "Âm Hàn": [
+            "봉"
+        ],
+        "Âm Quảng Đông": [
+            "pung4"
+        ]
+    },
+    "meanings": {
+        "bồng": {
+            "Từ điển phổ thông": [
+                "(xem: bồng bột 篷勃)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mui (đan bằng phên, tre, vải dầu để che chắn). ◎Như: 'xa bồng' 車篷 mui xe, 'thuyền bồng' 船篷 mui thuyền. ◇Nguyễn Du 阮攸: 'Ỷ bồng thiên lí vọng' 倚篷千里望 (Sơn Đường dạ bạc 山塘夜泊) Dựa mui thuyền trông ra xa nghìn dặm.",
+                "(Danh) Buồm. ◎Như: 'trương bồng' 張篷 giương buồm, 'lạc bồng' 落篷 cuốn buồm. ◇Tam quốc diễn nghĩa 三國演義: 'Na bồng đọa lạc hạ thủy, kì thuyền tiện hoành' 那篷墮落下水, 其船便橫 (Đệ tứ thập cửu hồi) Cánh buồm đó rơi xuống sông, chiếc thuyền liền quay ngang.",
+                "(Danh) Phiếm chỉ thuyền. ◇Bì Nhật Hưu 皮日休: 'Nhất bồng xung tuyết phùng Hoa Dương' 一篷衝雪逢華陽 (Kí Hoài Nam Dương Nhuận Khanh 寄懷南陽潤卿) Một thuyền xông tuyết đến Hoa Dương."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mái giắt lá. Ðan phên giắt lá để che mui thuyền gọi là bồng. Nguyễn Du 阮攸: Ỷ bồng thiên lí vọng 倚篷千里望 dựa mui thuyền trông ra xa nghìn dặm. Tục gọi bồng là cái buồm thuyền, như trương bồng 張篷 dương buồm, lạc bồng 落篷 cuốn buồm, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mui: 船篷 Mui thuyền; 車篷 Mui xe; 敝篷車 Xe mở (không) mui;",
+                "Buồm: 扯篷 Kéo buồm; 張篷 Gương buồm; 落篷 Cuốn buồm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái mui thuyền đan bằng tre — Cái mui xe — Cánh buồm ở trên thuyền — Rèm, liếp che nắng trong nhà."
+            ],
+            "compound_words": {
+                "篷勃": "bồng bột",
+                "斗篷": "đẩu bồng",
+                "帐篷": "trướng bồng",
+                "帳篷": "trướng bồng"
+            }
+        }
+    }
+}

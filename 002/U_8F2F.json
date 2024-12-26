@@ -1,0 +1,89 @@
+{
+    "character": "輯",
+    "details": {
+        "Âm Hán Việt": [
+            "tập"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "xa 車 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車咠"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨丨フ一一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "JJRSJ (十十口尸十)"
+        ],
+        "Unicode": [
+            "U+8F2F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "tập"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.める (atsu.meru)",
+            "やわ.らぐ (yawa.ragu)"
+        ],
+        "Âm Hàn": [
+            "집",
+            "즙"
+        ],
+        "Âm Quảng Đông": [
+            "cap1"
+        ]
+    },
+    "meanings": {
+        "tập": {
+            "Từ điển phổ thông": [
+                "ghép gỗ đóng xe",
+                "thu góp lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ghép gỗ đóng xe cho ăn khớp.",
+                "(Động) Thu thập rồi sửa cho đúng. ◎Như: 'biên tập' 編輯 biên soạn. ◇Hán Thư 漢書: 'Phu tử kí tốt, môn nhân tương dữ tập nhi luận soạn, cố vị chi Luận Ngữ' 夫子既卒, 門人相與輯而論篹, 故謂之論語 (Nghệ văn chí 藝文志) Phu tử mất rồi, môn đồ cùng nhau thu thập, bàn luận và biên chép, nên gọi là Luận Ngữ.",
+                "(Danh) Lượng từ: tập, quyển (sách). ◎Như: 'Từ Điển Học Tùng San tổng cộng hữu tam tập' 辭典學叢刊總共有三輯 bộ Từ Điển Học Tùng San gồm có ba tập."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ghép gỗ đóng xe, đều ăn khớp vào nhau gọi là tập. Vì thế cho nên chí hướng mọi người cùng hoà hợp nhau gọi là tập mục 輯睦, khiến cho được chốn ăn chốn ở yên ổn gọi là an tập 安輯.",
+                "Thu góp lại. Nhặt nhạnh các đoạn văn lại, góp thành quyển sách gọi là biên tập 編輯.",
+                "Vén, thu lại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Ghép gỗ đóng xe;",
+                "Tập hợp lại, thu góp, nhặt nhạnh: 編輯 Biên tập;",
+                "Tập sách: 叢書第一輯 Tập thứ nhất của tủ sách;",
+                "(văn) Thân mật, thân thiện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái xe thời xưa — Một chiếc, một cái ( nói về xe cộ ) — Hòa hợp — Thu góp lại. Td: Biên tập ( gom góp mà ghi chép ) — Tụ họp lại."
+            ],
+            "compound_words": {
+                "裒輯": "bầu tập",
+                "編輯": "biên tập",
+                "編輯員": "biên tập viên",
+                "邏輯": "la tập",
+                "輯註": "tập chú"
+            }
+        }
+    }
+}

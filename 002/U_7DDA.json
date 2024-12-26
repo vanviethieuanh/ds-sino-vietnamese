@@ -1,0 +1,112 @@
+{
+    "character": "線",
+    "details": {
+        "Âm Hán Việt": [
+            "tuyến"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mịch 糸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹泉"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶ノ丨フ一一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFHAE (女火竹日水)"
+        ],
+        "Unicode": [
+            "U+7DDA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tuyến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すじ (suji)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "sin3"
+        ]
+    },
+    "meanings": {
+        "tuyến": {
+            "Từ điển phổ thông": [
+                "đường, tia"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sợi, dây. ◎Như: 'mao tuyến' 毛線 sợi len, 'điện tuyến' 電線 dây điện.",
+                "(Danh) Vật có hình tượng dài và nhỏ như một đường dây. ◎Như: 'quang tuyến' 光線 tia sáng.",
+                "(Danh) Trong môn hình học, đường do một điểm di động vạch ra. ◎Như: 'trực tuyến' 直線 đường thẳng, 'khúc tuyến' 曲線 đường cong, 'chiết tuyến' 折線 đường gãy.",
+                "(Danh) Đường giao thông. ◎Như: 'lộ tuyến' 路線 đường bộ, 'hàng tuyến' 航線 đường bể, đường hàng không.",
+                "(Danh) Biên giới. ◎Như: 'tiền tuyến' 前線, 'phòng tuyến' 防線.",
+                "(Danh) Ranh giới. ◎Như: 'tử vong tuyến' 死亡線 ranh giới sống chết, 'sanh mệnh tuyến' 生命線 ranh giới sống còn.",
+                "(Danh) Đầu mối, đầu đuôi. ◎Như: 'tuyến sách' 線索 đầu mối, đầu đuôi, 'nội tuyến' 內線 người (làm đường dây) ngầm bên trong.",
+                "(Danh) Lượng từ, đơn vị chỉ sợi, dây, đường. ◎Như: 'ngũ tuyến điện thoại' 五線電話 năm đường dây diện thoại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chỉ khâu.",
+                "Chiều dài, phép tính đo chiều dài gọi là tuyến, như trực tuyến 直線 chiều thẳng, khúc tuyến 曲線 chiều cong. Phàm con đường từ chỗ này đến chỗ nọ tất phải qua mới tới được đều gọi là tuyến, như lộ tuyến 路線 đường bộ, hàng tuyền 航線 đường bể, v.v.",
+                "Suy cầu cái mạnh khỏe của sự bí mật gọi là tuyến sách, có khi gọi là tắt là tuyến. Lùng xét tung tích trộm cướp gọi là nhãn tuyến 眼線."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 綫;",
+                "[Xiàn] (Họ) Tuyến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợi dây. Sợi tơ — Sợi chỉ để khâu vá — Đường thẳng như sợi dây căng. Td: Trung tuyến ( đường thẳng đi qua điểm giữa ) — Đường đi. Td: Lộ tuyến."
+            ],
+            "compound_words": {
+                "割線": "cát tuyến",
+                "針線": "châm tuyến",
+                "佔線": "chiếm tuyến",
+                "戰線": "chiến tuyến",
+                "折線": "chiết tuyến",
+                "延線": "diên tuyến",
+                "導火線": "đạo hoả tuyến",
+                "底線": "để tuyến",
+                "電線": "điện tuyến",
+                "界線": "giới tuyến",
+                "航線": "hàng tuyến",
+                "火線": "hoả tuyến",
+                "有線": "hữu tuyến",
+                "曲線": "khúc tuyến",
+                "金線": "kim tuyến",
+                "金線蛙": "kim tuyến oa",
+                "經線": "kinh tuyến",
+                "路線": "lộ tuyến",
+                "眼線": "nhãn tuyến",
+                "非對稱式數據用戶線": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "光線": "quang tuyến",
+                "策線": "sách tuyến",
+                "陣線": "trận tuyến",
+                "直線": "trực tuyến",
+                "緯線": "vĩ tuyến",
+                "無線電": "vô tuyến điện",
+                "射線": "xạ tuyến",
+                "出線": "xuất tuyến"
+            }
+        }
+    }
+}

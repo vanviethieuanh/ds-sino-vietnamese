@@ -1,0 +1,65 @@
+{
+    "character": "检",
+    "details": {
+        "Âm Hán Việt": [
+            "kiểm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木佥"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丶一丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "DOMM (木人一一)"
+        ],
+        "Unicode": [
+            "U+68C0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "kiểm"
+        ],
+        "Âm Quảng Đông": [
+            "gim2"
+        ]
+    },
+    "meanings": {
+        "kiểm": {
+            "Từ điển phổ thông": [
+                "kiểm tra"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 檢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 檢"
+            ],
+            "compound_words": {
+                "检阅": "kiểm duyệt",
+                "检点": "kiểm điểm",
+                "检验": "kiểm nghiệm",
+                "检察": "kiểm sát",
+                "检查": "kiểm tra",
+                "检测": "kiểm trắc"
+            }
+        }
+    }
+}

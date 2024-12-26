@@ -1,0 +1,77 @@
+{
+    "character": "弾",
+    "details": {
+        "Âm Hán Việt": [
+            "đàn",
+            "đạn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "cung 弓 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰弓単"
+        ],
+        "Nét bút": [
+            "フ一フ丶丶ノ丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "NFWJ (弓火田十)"
+        ],
+        "Unicode": [
+            "U+5F3E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "tán ㄊㄢˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダン (dan)",
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)",
+            "-ひ.き (-hi.ki)",
+            "はず.む (hazu.mu)",
+            "たま (tama)",
+            "はじ.く (haji.ku)",
+            "はじ.ける (haji.keru)",
+            "ただ.す (tada.su)",
+            "はじ.きゆみ (haji.kiyumi)"
+        ],
+        "Âm Hàn": [
+            "탄"
+        ]
+    },
+    "meanings": {
+        "đàn": {
+            "Từ điển phổ thông": [
+                "đàn hồi",
+                "bật, búng, gảy",
+                "đánh đàn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 彈"
+            ]
+        },
+        "đạn": {
+            "Từ điển phổ thông": [
+                "viên đạn (của súng)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 彈"
+            ]
+        }
+    }
+}

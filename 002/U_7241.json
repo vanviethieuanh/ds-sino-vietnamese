@@ -1,0 +1,75 @@
+{
+    "character": "牁",
+    "details": {
+        "Âm Hán Việt": [
+            "ca"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tường 爿 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰爿可"
+        ],
+        "Nét bút": [
+            "フ丨一ノ一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "VMMNR (女一一弓口)"
+        ],
+        "Unicode": [
+            "U+7241"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gē ㄍㄜ",
+            "kē ㄎㄜ"
+        ],
+        "Âm Nôm": [
+            "kha"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くい (kui)"
+        ],
+        "Âm Quảng Đông": [
+            "go1",
+            "o1"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển phổ thông": [
+                "(tên đất)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tang Ca” 牂牁: xem “tang” 牂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tên đất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cọc có thể buộc thuyền;",
+                "[Ge] Tên đất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cọc đóng trên bờ để buộc thuyền."
+            ],
+            "compound_words": {
+                "牂牁": "tang ca"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "character": "蹕",
+    "details": {
+        "Âm Hán Việt": [
+            "tất"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "túc 足 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊畢"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丨フ一一一丨丨一一丨"
+        ],
+        "Thương Hiệt": [
+            "RMWTJ (口一田廿十)"
+        ],
+        "Unicode": [
+            "U+8E55"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒツ (hitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さきばらい (sakibarai)"
+        ],
+        "Âm Hàn": [
+            "필"
+        ],
+        "Âm Quảng Đông": [
+            "bat1"
+        ]
+    },
+    "meanings": {
+        "tất": {
+            "Từ điển phổ thông": [
+                "đường cấm để cho vua đi",
+                "đứng một chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cấm đường. § Ngày xưa, khi vua xuất hành, quản chế giao thông, không cho người ngựa xe đi, gọi là 'tất' 蹕.",
+                "(Động) Đứng không ngay ngắn. ◇Lưu Hướng 劉向: 'Cổ giả phụ nhân nhâm tử, tẩm bất trắc, tọa bất biên, lập bất tất' 古者婦人妊子, 寢不側, 坐不邊, 立不蹕 (Liệt nữ truyện 列女傳) Ngày xưa đàn bà mang thai, nằm không nghiêng, ngồi không bên mé, đứng không vẹo.",
+                "(Danh) Nơi vua dừng chân nghỉ ngơi khi xuất hành. ◎Như: 'trú tất' 駐蹕 vua tạm trú trên đường xuất hành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cấm đường, con đường vua đi cấm không cho ai đi gọi là tất lộ 蹕路.",
+                "Đứng một chân."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cấm đường (để dành đường cho vua đi): 蹕路 Cấm đường;",
+                "Xe ngựa của vua;",
+                "Đứng một chân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giẹp đường cho vua đi."
+            ],
+            "compound_words": {
+                "警蹕": "cảnh tất",
+                "蹕路": "tất lộ"
+            }
+        }
+    }
+}

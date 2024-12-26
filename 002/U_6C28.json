@@ -1,0 +1,61 @@
+{
+    "character": "氨",
+    "details": {
+        "Âm Hán Việt": [
+            "an"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khí 气 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿹气安"
+        ],
+        "Nét bút": [
+            "ノ一一フ丶丶フフノ一"
+        ],
+        "Thương Hiệt": [
+            "ONJV (人弓十女)"
+        ],
+        "Unicode": [
+            "U+6C28"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ"
+        ],
+        "Âm Nôm": [
+            "an"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アン (an)"
+        ],
+        "Âm Quảng Đông": [
+            "ngoi1",
+            "on1"
+        ]
+    },
+    "meanings": {
+        "an": {
+            "Từ điển phổ thông": [
+                "khí amôniac (công thức hoá học: NH3)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Amoniac (Ammoniac, công thức NH3). Cg. 阿摩尼亞 [amóníyà] hay 氨氣 [anqì]."
+            ],
+            "compound_words": {
+                "氨基": "an cơ"
+            }
+        }
+    }
+}

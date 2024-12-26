@@ -1,0 +1,265 @@
+{
+    "character": "解",
+    "details": {
+        "Âm Hán Việt": [
+            "giái",
+            "giải",
+            "giới"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "giác 角 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰角⿱刀牛"
+        ],
+        "Nét bút": [
+            "ノフノフ一一丨フノノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "NBSHQ (弓月尸竹手)"
+        ],
+        "Unicode": [
+            "U+89E3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiě ㄐㄧㄝˇ",
+            "jiè ㄐㄧㄝˋ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "giãi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "ゲ (ge)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.く (to.ku)",
+            "と.かす (to.kasu)",
+            "と.ける (to.keru)",
+            "ほど.く (hodo.ku)",
+            "ほど.ける (hodo.keru)",
+            "わか.る (waka.ru)",
+            "さと.る (sato.ru)"
+        ],
+        "Âm Hàn": [
+            "해",
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "gaai2",
+            "gaai3",
+            "haai6"
+        ]
+    },
+    "meanings": {
+        "giái": {
+            "Từ điển trích dẫn": [
+                "(Động) Bửa, mổ, xẻ. ◎Như: 'giải mộc' 解木 xẻ gỗ, 'giải phẩu' 解剖 mổ xẻ. ◇Trang Tử 莊子: 'Bào Đinh vị Văn Huệ Quân giải ngưu' 庖丁為文惠君解牛 (Dưỡng sanh chủ 養生主) Bào Đinh mổ bò cho Văn Huệ Quân.",
+                "(Động) Cởi, mở ra. ◎Như: 'giải khấu tử' 解扣子 mở nút ra, 'giải khai thằng tử' 解開繩子 cởi dây ra, 'giải y' 解衣 cởi áo, 'cố kết bất giải' 固結不解 quấn chặt không cởi ra được. ◇Nguyễn Du 阮攸: 'Thôi thực giải y nan bội đức' 推食解衣難背德 (Độ Hoài hữu cảm Hoài Âm Hầu 渡淮有感淮陰侯) Cái đức nhường cơm sẻ áo, khó mà làm phản được.",
+                "(Động) Tiêu trừ, làm cho hết. ◎Như: 'giải vi' 解圍 phá vòng vây, 'giải muộn' 解悶 làm cho hết buồn bực, 'giải khát' 解渴 làm cho hết khát.",
+                "(Động) Tan, vỡ, phân tán. ◎Như: 'giải thể' 解體 tan vỡ, sụp đổ, 'thổ băng ngõa giải' 土崩瓦解 đất lở ngói tan (ví dụ sự nhân tâm li tán).",
+                "(Động) Trình bày, phân tách, làm cho rõ, thuyết minh. ◎Như: 'giảng giải' 講解 giảng cho rõ, 'giải thích' 解釋 cắt nghĩa, 'biện giải' 辯解 biện minh.",
+                "(Động) Hiểu, nhận rõ được ý. ◎Như: 'liễu giải' 了解 hiểu rõ, 'đại hoặc bất giải' 大惑不解 hồ đồ, mê hoặc, chẳng hiểu gì cả.",
+                "(Động) Bài tiết (mồ hôi, đại tiện, tiểu tiện). ◎Như: 'tiểu giải' 小解 đi tiểu.",
+                "§ Ghi chú: Trong những nghĩa sau đây, nguyên đọc là 'giái', nhưng ta đều quen đọc là 'giải'.",
+                "(Động) Đưa đi, áp tống. ◎Như: 'áp giải tội phạm' 押解罪犯 áp tống tội phạm, 'giái hướng' 解餉 đem lương đi.",
+                "(Động) Thuê, mướn. ◇Cảnh thế thông ngôn 警世通言: 'Đương nhật thiên sắc vãn, kiến nhất sở khách điếm, tỉ muội lưỡng nhân giải liễu phòng, thảo ta phạn khiết liễu' 當日天色晚, 見一所客店, 姊妹兩人解了房, 討些飯喫了 (Vạn Tú Nương cừu báo 萬秀娘仇報) Hôm đó trời tối, thấy một khách điếm, chị em hai người thuê phòng, ăn uống qua loa một chút.",
+                "(Động) Cầm cố. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: 'Vãng điển phô trung giải liễu kỉ thập lạng ngân tử' 往典鋪中解了幾十兩銀子 (Quyển thập tam) Đến tiệm cầm đồ, đem cầm được mấy chục lạng bạc.",
+                "(Danh) Tên một thể văn biện luận.",
+                "(Danh) Lời giải đáp. ◎Như: 'bất đắc kì giải' 不得其解 không được lời giải đó.",
+                "(Danh) Kiến thức, sự hiểu biết. ◎Như: 'độc đáo đích kiến giải' 獨到的見解 quan điểm độc đáo.",
+                "(Danh) Thi hương trúng cách (đỗ) gọi là 'phát giải' 發解, đỗ đầu khoa hương gọi là 'giải nguyên' 解元.",
+                "(Danh) Quan thự, chỗ quan lại làm việc.",
+                "(Danh) Họ 'Giải'.",
+                "Một âm là 'giới'. (Danh) 'Giới trãi' 解廌 một con thú theo truyền thuyết, biết phân biệt phải trái. § Còn viết là 獬豸.",
+                "§ Ghi chú: Ta quen đọc là 'giải' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bửa ra, mổ ra. Dùng cưa xẻ gỗ ra gọi là giải mộc 解木. Mổ xẻ người để chữa bệnh gọi là giải phẩu 解剖.",
+                "Cổi ra. Như cố kết bất giải 固結不解 quấn chặt không cổi ra được. Tiêu tan mối thù oán cũng gọi là giải. Như khuyến giải 勸解 khuyên giải, hoà giải 和解 giải hoà, v.v.",
+                "Tan. Lòng người lìa tan gọi là giải thể 解體. Có khi gọi là thổ băng ngoã giải 土崩瓦解 đất lở ngói tan, nói ví dụ sự nhân tâm li tán như nhà đổ vậy.",
+                "Phân tách cho rõ lẽ rõ sự. Như tường giải 詳解 giải nghĩa tường tận, điều giải 條解 phân tách ra từng điều v.v.",
+                "Hiểu biết, nhận rõ được ý cũng gọi là giải. Vì thế ý thức gọi là kiến giải 見解.",
+                "Hết một khúc nhạc gọi là nhất giải 一解.",
+                "Nhà làm thuốc cho thuốc ra mồ hôi khỏi bệnh gọi là hãn giải 汗解. Tục gọi đi ỉa là đại giải 大解, đi đái là tiểu giải 小解.",
+                "Cổi ra, lột ra. Như giải y 解衣 cổi áo, lộc giác giải 鹿角解 hươu trút sừng. Nguyễn Du 阮攸: Thôi thực giải y nan bội đức 推食解衣難背徳 Cái đức nhường cơm sẻ áo, khó mà làm phản được.",
+                "Thông suốt.",
+                "Thôi, ngừng.",
+                "Cắt đất.",
+                "Một âm là giới. Giới trãi 解廌 một con thú giống như con hươu mà có một sừng, có khi viết là 獬豸.",
+                "Lại một âm là giái. Ðiệu đi, như giái phạm 解犯 giải tù đi, giái hướng 解餉 đem lương đi, v.v.",
+                "Thi hương trúng cách (đỗ) gọi là phát giái 發解, đỗ đầu khoa hương gọi là giái nguyên 解元. Ta quen đọc là chữ giải cả."
+            ]
+        },
+        "giải": {
+            "Từ điển phổ thông": [
+                "cởi (áo)",
+                "giải phóng, giải toả",
+                "giảng giải",
+                "giải đi, dẫn đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bửa, mổ, xẻ. ◎Như: 'giải mộc' 解木 xẻ gỗ, 'giải phẩu' 解剖 mổ xẻ. ◇Trang Tử 莊子: 'Bào Đinh vị Văn Huệ Quân giải ngưu' 庖丁為文惠君解牛 (Dưỡng sanh chủ 養生主) Bào Đinh mổ bò cho Văn Huệ Quân.",
+                "(Động) Cởi, mở ra. ◎Như: 'giải khấu tử' 解扣子 mở nút ra, 'giải khai thằng tử' 解開繩子 cởi dây ra, 'giải y' 解衣 cởi áo, 'cố kết bất giải' 固結不解 quấn chặt không cởi ra được. ◇Nguyễn Du 阮攸: 'Thôi thực giải y nan bội đức' 推食解衣難背德 (Độ Hoài hữu cảm Hoài Âm Hầu 渡淮有感淮陰侯) Cái đức nhường cơm sẻ áo, khó mà làm phản được.",
+                "(Động) Tiêu trừ, làm cho hết. ◎Như: 'giải vi' 解圍 phá vòng vây, 'giải muộn' 解悶 làm cho hết buồn bực, 'giải khát' 解渴 làm cho hết khát.",
+                "(Động) Tan, vỡ, phân tán. ◎Như: 'giải thể' 解體 tan vỡ, sụp đổ, 'thổ băng ngõa giải' 土崩瓦解 đất lở ngói tan (ví dụ sự nhân tâm li tán).",
+                "(Động) Trình bày, phân tách, làm cho rõ, thuyết minh. ◎Như: 'giảng giải' 講解 giảng cho rõ, 'giải thích' 解釋 cắt nghĩa, 'biện giải' 辯解 biện minh.",
+                "(Động) Hiểu, nhận rõ được ý. ◎Như: 'liễu giải' 了解 hiểu rõ, 'đại hoặc bất giải' 大惑不解 hồ đồ, mê hoặc, chẳng hiểu gì cả.",
+                "(Động) Bài tiết (mồ hôi, đại tiện, tiểu tiện). ◎Như: 'tiểu giải' 小解 đi tiểu.",
+                "§ Ghi chú: Trong những nghĩa sau đây, nguyên đọc là 'giái', nhưng ta đều quen đọc là 'giải'.",
+                "(Động) Đưa đi, áp tống. ◎Như: 'áp giải tội phạm' 押解罪犯 áp tống tội phạm, 'giái hướng' 解餉 đem lương đi.",
+                "(Động) Thuê, mướn. ◇Cảnh thế thông ngôn 警世通言: 'Đương nhật thiên sắc vãn, kiến nhất sở khách điếm, tỉ muội lưỡng nhân giải liễu phòng, thảo ta phạn khiết liễu' 當日天色晚, 見一所客店, 姊妹兩人解了房, 討些飯喫了 (Vạn Tú Nương cừu báo 萬秀娘仇報) Hôm đó trời tối, thấy một khách điếm, chị em hai người thuê phòng, ăn uống qua loa một chút.",
+                "(Động) Cầm cố. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: 'Vãng điển phô trung giải liễu kỉ thập lạng ngân tử' 往典鋪中解了幾十兩銀子 (Quyển thập tam) Đến tiệm cầm đồ, đem cầm được mấy chục lạng bạc.",
+                "(Danh) Tên một thể văn biện luận.",
+                "(Danh) Lời giải đáp. ◎Như: 'bất đắc kì giải' 不得其解 không được lời giải đó.",
+                "(Danh) Kiến thức, sự hiểu biết. ◎Như: 'độc đáo đích kiến giải' 獨到的見解 quan điểm độc đáo.",
+                "(Danh) Thi hương trúng cách (đỗ) gọi là 'phát giải' 發解, đỗ đầu khoa hương gọi là 'giải nguyên' 解元.",
+                "(Danh) Quan thự, chỗ quan lại làm việc.",
+                "(Danh) Họ 'Giải'.",
+                "Một âm là 'giới'. (Danh) 'Giới trãi' 解廌 một con thú theo truyền thuyết, biết phân biệt phải trái. § Còn viết là 獬豸.",
+                "§ Ghi chú: Ta quen đọc là 'giải' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bửa ra, mổ ra. Dùng cưa xẻ gỗ ra gọi là giải mộc 解木. Mổ xẻ người để chữa bệnh gọi là giải phẩu 解剖.",
+                "Cổi ra. Như cố kết bất giải 固結不解 quấn chặt không cổi ra được. Tiêu tan mối thù oán cũng gọi là giải. Như khuyến giải 勸解 khuyên giải, hoà giải 和解 giải hoà, v.v.",
+                "Tan. Lòng người lìa tan gọi là giải thể 解體. Có khi gọi là thổ băng ngoã giải 土崩瓦解 đất lở ngói tan, nói ví dụ sự nhân tâm li tán như nhà đổ vậy.",
+                "Phân tách cho rõ lẽ rõ sự. Như tường giải 詳解 giải nghĩa tường tận, điều giải 條解 phân tách ra từng điều v.v.",
+                "Hiểu biết, nhận rõ được ý cũng gọi là giải. Vì thế ý thức gọi là kiến giải 見解.",
+                "Hết một khúc nhạc gọi là nhất giải 一解.",
+                "Nhà làm thuốc cho thuốc ra mồ hôi khỏi bệnh gọi là hãn giải 汗解. Tục gọi đi ỉa là đại giải 大解, đi đái là tiểu giải 小解.",
+                "Cổi ra, lột ra. Như giải y 解衣 cổi áo, lộc giác giải 鹿角解 hươu trút sừng. Nguyễn Du 阮攸: Thôi thực giải y nan bội đức 推食解衣難背徳 Cái đức nhường cơm sẻ áo, khó mà làm phản được.",
+                "Thông suốt.",
+                "Thôi, ngừng.",
+                "Cắt đất.",
+                "Một âm là giới. Giới trãi 解廌 một con thú giống như con hươu mà có một sừng, có khi viết là 獬豸.",
+                "Lại một âm là giái. Ðiệu đi, như giái phạm 解犯 giải tù đi, giái hướng 解餉 đem lương đi, v.v.",
+                "Thi hương trúng cách (đỗ) gọi là phát giái 發解, đỗ đầu khoa hương gọi là giái nguyên 解元. Ta quen đọc là chữ giải cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(khn) Hiểu rõ: 解不開這個道理 Không sao hiểu rõ được lẽ đó;",
+                "[Xiè] (Họ) Giải. Xem 解 [jiâ], [jiè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắt xé ra — Làm chia lìa ra — Chảy thành nước. Chẳng hạn Dung giải — Thoát khỏi. Chẳng hạn Giải thoát — Cởi bỏ đi. Trừ đi — Đi tiểu tiện — Nói rõ ra."
+            ],
+            "compound_words": {
+                "壓解": "áp giải",
+                "押解": "áp giải",
+                "百解": "bách giải",
+                "排解": "bài giải",
+                "排難解紛": "bài nạn giải phân",
+                "拔解": "bạt giải",
+                "冰解": "băng giải",
+                "冰消瓦解": "băng tiêu ngoã giải",
+                "不解": "bất giải",
+                "辩解": "biện giải",
+                "辯解": "biện giải",
+                "兵解": "binh giải",
+                "求解": "cầu giải",
+                "支解": "chi giải",
+                "枝解": "chi giải",
+                "注解": "chú giải",
+                "演解": "diễn giải",
+                "溶解": "dung giải",
+                "熔解": "dung giải",
+                "電解": "điện giải",
+                "圖解": "đồ giải",
+                "解厄": "giải ách",
+                "解職": "giải chức",
+                "解答": "giải đáp",
+                "解和": "giải hoà",
+                "解渴": "giải khát",
+                "解悶": "giải muộn",
+                "解悟": "giải ngộ",
+                "解元": "giải nguyên",
+                "解熱": "giải nhiệt",
+                "解冤": "giải oan",
+                "解法": "giải pháp",
+                "解紛": "giải phân",
+                "解剖": "giải phẫu",
+                "解煩": "giải phiền",
+                "解放": "giải phóng",
+                "解決": "giải quyết",
+                "解散": "giải tán",
+                "解體": "giải thể",
+                "解释": "giải thích",
+                "解釋": "giải thích",
+                "解脫": "giải thoát",
+                "解析": "giải tích",
+                "解廌": "giải trĩ",
+                "解智": "giải trí",
+                "解除": "giải trừ",
+                "解圍": "giải vi",
+                "解衣": "giải y",
+                "講解": "giảng giải",
+                "和解": "hoà giải",
+                "勸解": "khuyến giải",
+                "見解": "kiến giải",
+                "經解": "kinh giải",
+                "理解": "lý giải",
+                "了解": "liễu giải",
+                "論解": "luận giải",
+                "明解": "minh giải",
+                "難解": "nan giải",
+                "瓦解": "ngoã giải",
+                "誤解": "ngộ giải",
+                "分解": "phân giải",
+                "剖解": "phẫu giải",
+                "推解": "suy giải",
+                "心解": "tâm giải"
+            }
+        },
+        "giới": {
+            "Từ điển trích dẫn": [
+                "(Động) Bửa, mổ, xẻ. ◎Như: 'giải mộc' 解木 xẻ gỗ, 'giải phẩu' 解剖 mổ xẻ. ◇Trang Tử 莊子: 'Bào Đinh vị Văn Huệ Quân giải ngưu' 庖丁為文惠君解牛 (Dưỡng sanh chủ 養生主) Bào Đinh mổ bò cho Văn Huệ Quân.",
+                "(Động) Cởi, mở ra. ◎Như: 'giải khấu tử' 解扣子 mở nút ra, 'giải khai thằng tử' 解開繩子 cởi dây ra, 'giải y' 解衣 cởi áo, 'cố kết bất giải' 固結不解 quấn chặt không cởi ra được. ◇Nguyễn Du 阮攸: 'Thôi thực giải y nan bội đức' 推食解衣難背德 (Độ Hoài hữu cảm Hoài Âm Hầu 渡淮有感淮陰侯) Cái đức nhường cơm sẻ áo, khó mà làm phản được.",
+                "(Động) Tiêu trừ, làm cho hết. ◎Như: 'giải vi' 解圍 phá vòng vây, 'giải muộn' 解悶 làm cho hết buồn bực, 'giải khát' 解渴 làm cho hết khát.",
+                "(Động) Tan, vỡ, phân tán. ◎Như: 'giải thể' 解體 tan vỡ, sụp đổ, 'thổ băng ngõa giải' 土崩瓦解 đất lở ngói tan (ví dụ sự nhân tâm li tán).",
+                "(Động) Trình bày, phân tách, làm cho rõ, thuyết minh. ◎Như: 'giảng giải' 講解 giảng cho rõ, 'giải thích' 解釋 cắt nghĩa, 'biện giải' 辯解 biện minh.",
+                "(Động) Hiểu, nhận rõ được ý. ◎Như: 'liễu giải' 了解 hiểu rõ, 'đại hoặc bất giải' 大惑不解 hồ đồ, mê hoặc, chẳng hiểu gì cả.",
+                "(Động) Bài tiết (mồ hôi, đại tiện, tiểu tiện). ◎Như: 'tiểu giải' 小解 đi tiểu.",
+                "§ Ghi chú: Trong những nghĩa sau đây, nguyên đọc là 'giái', nhưng ta đều quen đọc là 'giải'.",
+                "(Động) Đưa đi, áp tống. ◎Như: 'áp giải tội phạm' 押解罪犯 áp tống tội phạm, 'giái hướng' 解餉 đem lương đi.",
+                "(Động) Thuê, mướn. ◇Cảnh thế thông ngôn 警世通言: 'Đương nhật thiên sắc vãn, kiến nhất sở khách điếm, tỉ muội lưỡng nhân giải liễu phòng, thảo ta phạn khiết liễu' 當日天色晚, 見一所客店, 姊妹兩人解了房, 討些飯喫了 (Vạn Tú Nương cừu báo 萬秀娘仇報) Hôm đó trời tối, thấy một khách điếm, chị em hai người thuê phòng, ăn uống qua loa một chút.",
+                "(Động) Cầm cố. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: 'Vãng điển phô trung giải liễu kỉ thập lạng ngân tử' 往典鋪中解了幾十兩銀子 (Quyển thập tam) Đến tiệm cầm đồ, đem cầm được mấy chục lạng bạc.",
+                "(Danh) Tên một thể văn biện luận.",
+                "(Danh) Lời giải đáp. ◎Như: 'bất đắc kì giải' 不得其解 không được lời giải đó.",
+                "(Danh) Kiến thức, sự hiểu biết. ◎Như: 'độc đáo đích kiến giải' 獨到的見解 quan điểm độc đáo.",
+                "(Danh) Thi hương trúng cách (đỗ) gọi là 'phát giải' 發解, đỗ đầu khoa hương gọi là 'giải nguyên' 解元.",
+                "(Danh) Quan thự, chỗ quan lại làm việc.",
+                "(Danh) Họ 'Giải'.",
+                "Một âm là 'giới'. (Danh) 'Giới trãi' 解廌 một con thú theo truyền thuyết, biết phân biệt phải trái. § Còn viết là 獬豸.",
+                "§ Ghi chú: Ta quen đọc là 'giải' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bửa ra, mổ ra. Dùng cưa xẻ gỗ ra gọi là giải mộc 解木. Mổ xẻ người để chữa bệnh gọi là giải phẩu 解剖.",
+                "Cổi ra. Như cố kết bất giải 固結不解 quấn chặt không cổi ra được. Tiêu tan mối thù oán cũng gọi là giải. Như khuyến giải 勸解 khuyên giải, hoà giải 和解 giải hoà, v.v.",
+                "Tan. Lòng người lìa tan gọi là giải thể 解體. Có khi gọi là thổ băng ngoã giải 土崩瓦解 đất lở ngói tan, nói ví dụ sự nhân tâm li tán như nhà đổ vậy.",
+                "Phân tách cho rõ lẽ rõ sự. Như tường giải 詳解 giải nghĩa tường tận, điều giải 條解 phân tách ra từng điều v.v.",
+                "Hiểu biết, nhận rõ được ý cũng gọi là giải. Vì thế ý thức gọi là kiến giải 見解.",
+                "Hết một khúc nhạc gọi là nhất giải 一解.",
+                "Nhà làm thuốc cho thuốc ra mồ hôi khỏi bệnh gọi là hãn giải 汗解. Tục gọi đi ỉa là đại giải 大解, đi đái là tiểu giải 小解.",
+                "Cổi ra, lột ra. Như giải y 解衣 cổi áo, lộc giác giải 鹿角解 hươu trút sừng. Nguyễn Du 阮攸: Thôi thực giải y nan bội đức 推食解衣難背徳 Cái đức nhường cơm sẻ áo, khó mà làm phản được.",
+                "Thông suốt.",
+                "Thôi, ngừng.",
+                "Cắt đất.",
+                "Một âm là giới. Giới trãi 解廌 một con thú giống như con hươu mà có một sừng, có khi viết là 獬豸.",
+                "Lại một âm là giái. Ðiệu đi, như giái phạm 解犯 giải tù đi, giái hướng 解餉 đem lương đi, v.v.",
+                "Thi hương trúng cách (đỗ) gọi là phát giái 發解, đỗ đầu khoa hương gọi là giái nguyên 解元. Ta quen đọc là chữ giải cả."
+            ]
+        }
+    }
+}

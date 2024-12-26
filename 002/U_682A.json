@@ -1,0 +1,107 @@
+{
+    "character": "株",
+    "details": {
+        "Âm Hán Việt": [
+            "chu",
+            "châu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木朱"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DHJD (木竹十木)"
+        ],
+        "Unicode": [
+            "U+682A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhū ㄓㄨ"
+        ],
+        "Âm Nôm": [
+            "châu",
+            "chò"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぶ (kabu)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu1"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Gốc cây (phần ở trên mặt đất). § Phần ở dưới đất gọi là 'căn' 根. ◎Như: 'thủ chu đãi thỏ' 守株待兔 ôm gốc cây đợi thỏ. § Một nông dân nước Tống thấy thỏ chạy va vào gốc cây mà chết, cứ ôm gốc cây mà đợi được thêm thỏ khác. § Ý nói người khư khư không biết biến thông (Hàn Phi Tử 韓非子).",
+                "(Danh) Lượng từ: đơn vị số cây, cỏ, hoa. ◇Tây du kí 西遊記: 'Thiên chu lão bách, vạn tiết tu hoàng' 千株老柏, 萬節修篁 (Đệ nhất hồi) Nghìn gốc bách già, muôn đốt tre dài.",
+                "§ Ta quen đọc là 'châu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gốc cây (gốc cây ở trên đất). Tống Ðiền Phủ thấy con thỏ dập đầu vào gốc cây mà chết, mới nghỉ cầy canh giữ gốc cây mong lại được thỏ đến nữa, vì thế nên những kẻ giữ chết một ý kiến của mình gọi là thủ chu đãi thỏ 守株待兔.",
+                "Tính số cây, một cây gọi là nhất chu 一株.",
+                "Một người làm tội, vạ lây đến mọi người gọi là chu liên 株連. Ta quen đọc là chữ châu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gốc cây: 守株待兔 Ôm gốc cây đợi thỏ;",
+                "(loại) Cây: 一株桃樹 Một cây đào;",
+                "【株連】chu liên [zhulián] Dây dưa, liên luỵ: 受株連 Bị liên luỵ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gốc cây — Tiếng dùng đếm cây cối. Một gốc."
+            ],
+            "compound_words": {
+                "株守": "chu thủ",
+                "守株待兔": "thủ chu đãi thố"
+            }
+        },
+        "châu": {
+            "Từ điển phổ thông": [
+                "gốc cây",
+                "gốc (chữ dùng để đếm cây)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gốc cây (phần ở trên mặt đất). § Phần ở dưới đất gọi là 'căn' 根. ◎Như: 'thủ chu đãi thỏ' 守株待兔 ôm gốc cây đợi thỏ. § Một nông dân nước Tống thấy thỏ chạy va vào gốc cây mà chết, cứ ôm gốc cây mà đợi được thêm thỏ khác. § Ý nói người khư khư không biết biến thông (Hàn Phi Tử 韓非子).",
+                "(Danh) Lượng từ: đơn vị số cây, cỏ, hoa. ◇Tây du kí 西遊記: 'Thiên chu lão bách, vạn tiết tu hoàng' 千株老柏, 萬節修篁 (Đệ nhất hồi) Nghìn gốc bách già, muôn đốt tre dài.",
+                "§ Ta quen đọc là 'châu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gốc cây (gốc cây ở trên đất). Tống Ðiền Phủ thấy con thỏ dập đầu vào gốc cây mà chết, mới nghỉ cầy canh giữ gốc cây mong lại được thỏ đến nữa, vì thế nên những kẻ giữ chết một ý kiến của mình gọi là thủ chu đãi thỏ 守株待兔.",
+                "Tính số cây, một cây gọi là nhất chu 一株.",
+                "Một người làm tội, vạ lây đến mọi người gọi là chu liên 株連. Ta quen đọc là chữ châu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gốc cây: 守株待兔 Ôm gốc cây đợi thỏ;",
+                "(loại) Cây: 一株桃樹 Một cây đào;",
+                "【株連】chu liên [zhulián] Dây dưa, liên luỵ: 受株連 Bị liên luỵ."
+            ],
+            "compound_words": {
+                "株拘": "châu cù",
+                "残株": "tàn châu",
+                "殘株": "tàn châu"
+            }
+        }
+    }
+}

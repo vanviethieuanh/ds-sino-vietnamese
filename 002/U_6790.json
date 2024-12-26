@@ -1,0 +1,87 @@
+{
+    "character": "析",
+    "details": {
+        "Âm Hán Việt": [
+            "tích"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰木斤"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "DHML (木竹一中)"
+        ],
+        "Unicode": [
+            "U+6790"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "chiết",
+            "tích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セキ (seki)"
+        ],
+        "Âm Hàn": [
+            "석"
+        ],
+        "Âm Quảng Đông": [
+            "cik1",
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "tích": {
+            "Từ điển phổ thông": [
+                "gỡ, tách, tẽ, chẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bửa, chẻ. ◎Như: 'tích tân' 析薪 chẻ củi.",
+                "(Động) Chia ra, tách ra. ◎Như: 'phân băng li tích' 分崩離析 chia rẽ, tan rã.",
+                "(Động) Giải thích, biện giải. ◎Như: 'giải tích' 解析 phân tích, 'biện tích' 辨析 biện giải, 'tích nghi' 析疑 nói rõ mối ngờ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gỡ, tẽ ra, chia rẽ, như li tích 離析 chia ghẽ.",
+                "Chẻ, như tích tân 析薪 chẻ củi.",
+                "Tách bạch, như tích nghi 析疑 nói tách bạch mối ngờ ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phân tích, giải thích: 分析國際形勢 Phân tích tình hình quốc tế;",
+                "Tách ra: 分崩離析 Tan ra; 折疑 Nói tách bạch điều ngờ vực ra;",
+                "Chẻ: 折薪 Chẻ củi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xẻ gỗ ra. Bửa thân gỗ ra — Phân chia mổ xẻ. Td: Phân tích — Giải thích rõ lẽ. Td: Giải tích."
+            ],
+            "compound_words": {
+                "評析": "bình tích",
+                "解析": "giải tích",
+                "縷析": "lũ tích",
+                "分崩離析": "phân băng li tích",
+                "分析": "phân tích",
+                "剖析": "phẫu tích",
+                "析疑": "tích nghi",
+                "析出": "tích xuất"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "姓",
+    "details": {
+        "Âm Hán Việt": [
+            "tính"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nữ 女 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女生"
+        ],
+        "Nét bút": [
+            "フノ一ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "VHQM (女竹手一)"
+        ],
+        "Unicode": [
+            "U+59D3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xìng ㄒㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tính"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Hàn": [
+            "성"
+        ],
+        "Âm Quảng Đông": [
+            "seng3",
+            "sing3"
+        ]
+    },
+    "meanings": {
+        "tính": {
+            "Từ điển phổ thông": [
+                "họ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Họ. ◎Như: 'tính danh' 姓名 họ và tên. ◇Đỗ Phủ 杜甫: 'Vấn chi bất khẳng đạo tính danh, Đãn đạo khốn khổ khất vi nô' 問之不肯道姓名, 但道困苦乞為奴 (Ai vương tôn 哀王孫) Hỏi đến không chịu nói tên họ, Chỉ nói đang khốn khổ xin được làm nô bộc.",
+                "(Danh) Con cháu gọi là 'tử tính' 子姓, thứ dân gọi là 'bách tính' 百姓.",
+                "(Danh) Họ 'Tính'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Họ. Con cháu gọi là tử tính 子姓, thứ dân gọi là bách tính 百姓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Họ: 有名有姓 Có tên có họ; 你姓什麼？ Anh họ gì?; 他姓阮 Anh ấy họ Nguyễn; 子姓 Con cháu; 百姓 Trăm họ, dân chúng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Họ, tức tên gọi để phân biệt dòng họ này với dòng họ khác. Td: Bách tích ( trăm họ, chỉ toàn dân )."
+            ],
+            "compound_words": {
+                "百姓": "bách tính",
+                "更姓": "canh tính",
+                "異姓": "dị tính",
+                "複姓": "phức tính",
+                "國姓": "quốc tính",
+                "貴姓": "quý tính",
+                "姓名": "tính danh",
+                "姓氏": "tính thị",
+                "姓字": "tính tự"
+            }
+        }
+    }
+}

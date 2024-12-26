@@ -1,0 +1,85 @@
+{
+    "character": "螻",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "trùng 虫 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫婁"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "LILWV (中戈中田女)"
+        ],
+        "Unicode": [
+            "U+87BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lóu ㄌㄡˊ"
+        ],
+        "Âm Nôm": [
+            "lâu",
+            "sâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "ル (ru)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けら (kera)"
+        ],
+        "Âm Hàn": [
+            "루"
+        ],
+        "Âm Quảng Đông": [
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "(xem: lâu cô 螻蛄,蝼蛄)",
+                "(xem: lâu quắc 螻蟈,蝼蝈)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'lâu cô' 螻蛄.",
+                "(Danh) § Xem 'lâu quắc' 螻蟈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hôi thối.",
+                "Lâu cô 螻蛄. Xem chữ cô 蛄.",
+                "Lâu quắc 螻蟈 một tên riêng con ếch, con chẫu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Loài dế. 【螻蛄】lâu cô [lóugu] Dế nhũi (dũi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con dế trũi. Cũng gọi là Lâu cô 螻蛄 — Xấu xí."
+            ],
+            "compound_words": {
+                "螻蛄": "lâu cô",
+                "螻蟈": "lâu quắc",
+                "螻螲": "lâu trất",
+                "蛖螻": "mang lâu",
+                "蛞螻": "quát lâu"
+            }
+        }
+    }
+}

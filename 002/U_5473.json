@@ -1,0 +1,129 @@
+{
+    "character": "味",
+    "details": {
+        "Âm Hán Việt": [
+            "vị"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口未"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RJD (口十木)"
+        ],
+        "Unicode": [
+            "U+5473"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "mồi",
+            "mùi",
+            "vị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミ (mi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あじ (aji)",
+            "あじ.わう (aji.wau)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "mei6"
+        ]
+    },
+    "meanings": {
+        "vị": {
+            "Từ điển phổ thông": [
+                "mùi, hương vị"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vị (cảm giác nhận biết được nhờ đầu lưỡi). ◎Như: 'ngũ vị' 五味 năm vị gồm có: 'toan' 酸 chua, 'điềm' 甜 ngọt, 'khổ' 苦 đắng, 'lạt' 辣 cay, 'hàm' 鹹 mặn.",
+                "(Danh) Mùi (cảm giác nhận được biết nhờ mũi). ◎Như: 'hương vị' 香味 mùi thơm, 'quái vị' 怪味 mùi lạ, mùi khác thường, 'xú vị' 臭味 mùi thối.",
+                "(Danh) Ý nghĩa, hứng thú. ◎Như: 'hữu vị' 有味 có hứng thú, 'thiền vị' 禪味 mùi thiền, ý thú của đạo thiền. ◇Hồng Lâu Mộng 紅樓夢: 'Mãn chỉ hoang đường ngôn, Nhất bả tân toan lệ, Đô vân tác giả si, Thùy giải kì trung vị?' 滿紙荒唐言, 一把辛酸淚, 都云作者痴, 誰解其中味? (Đệ nhất hồi) Đầy những trang giấy chuyện hoang đường, Một vũng nước mắt chua cay, Đều bảo tác giả ngây, Ai giải được ý nghĩa ở trong đó?",
+                "(Danh) Lượng từ: đơn vị dùng cho thức ăn hoặc thuốc (đông y): món, vị. ◎Như: 'thái ngũ vị' 菜五味 năm món ăn, 'dược bát vị' 藥八味 tám vị thuốc.",
+                "(Danh) Món ăn. ◎Như: 'san trân hải vị' 山珍海味 món ăn quý hiếm trên núi dưới biển.",
+                "(Động) Nếm. ◇Tuân Tử 荀子: 'Phi khẩu bất năng vị dã' 非口不能味也 (Ai Công 哀公) Chẳng phải miệng thì không nếm được.",
+                "(Động) Nghiền ngẫm, thưởng thức, thấm thía. ◎Như: 'ngoạn vị' 玩味 thấm thía ý nghĩa, thưởng thức ý vị. ◇Tam quốc chí 三國志: 'Vị lãm điển văn' 味覽典文 (Dương Hí truyện 楊戲傳) Nghiên cứu xem xét điển văn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mùi, chua, đắng, ngọt, cay, mặn là năm mùi (ngũ vị 五味).",
+                "Nếm, xem vật ấy là mùi gì gọi là vị. Cái gì có hứng thú gọi là hữu vị 有味."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vị: 帶甜味兒 Có vị ngọt;",
+                "Mùi: 香味兒 Mùi thơm; 焦味兒 Mùi khét (khê);",
+                "Thú vị, ý nghĩa: 趣味 Thú vị; 意味深長 Ý nghĩa sâu xa;",
+                "Hiểu, thấm thía, ngấm: 細味其言 Thấm thía lời nói của anh ấy;",
+                "Vị (thuốc): 這個方子一共八味藥 Thang thuốc này gồm có 8 vị;",
+                "(văn) Nếm (cho biết vị)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nếm được, biết được bằng lưỡi — Điều vui thích, có ý nghĩ hay đẹp do sự vật mang lại. Td: Thú vị."
+            ],
+            "compound_words": {
+                "膏粱厚味": "cao lương hậu vị",
+                "膏粱美味": "cao lương mĩ vị",
+                "野味": "dã vị",
+                "道味": "đạo vị",
+                "加味": "gia vị",
+                "佳味": "giai vị",
+                "海味": "hải vị",
+                "寒儒風味賦": "hàn nho phong vị phú",
+                "厚味": "hậu vị",
+                "宦味": "hoạn vị",
+                "香味": "hương vị",
+                "口味": "khẩu vị",
+                "兼味": "kiêm vị",
+                "六味": "lục vị",
+                "美味": "mĩ vị",
+                "五味": "ngũ vị",
+                "五味子": "ngũ vị tử",
+                "一味": "nhất vị",
+                "渥味": "ốc vị",
+                "乏味": "phạp vị",
+                "法味": "pháp vị",
+                "品味": "phẩm vị",
+                "風味": "phong vị",
+                "芳味": "phương vị",
+                "怪味": "quái vị",
+                "世味": "thế vị",
+                "詩味": "thi vị",
+                "趣味": "thú vị",
+                "珍味": "trân vị",
+                "滋味": "tư vị",
+                "味覺": "vị giác",
+                "味覺器": "vị giác khí",
+                "味官": "vị quan",
+                "味精": "vị tinh",
+                "味素": "vị tố",
+                "遠味": "viễn vị",
+                "無味": "vô vị",
+                "臭味": "xú vị",
+                "臭味相投": "xú vị tương đầu",
+                "意味": "ý vị"
+            }
+        }
+    }
+}

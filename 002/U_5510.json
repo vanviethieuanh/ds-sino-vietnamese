@@ -1,0 +1,96 @@
+{
+    "character": "唐",
+    "details": {
+        "Âm Hán Việt": [
+            "đường"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khẩu 口 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丶一ノフ一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ILR (戈中口)"
+        ],
+        "Unicode": [
+            "U+5510"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "táng ㄊㄤˊ"
+        ],
+        "Âm Nôm": [
+            "đàng",
+            "đằng",
+            "đường",
+            "giềng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "から (kara)"
+        ],
+        "Âm Hàn": [
+            "당"
+        ],
+        "Âm Quảng Đông": [
+            "tong4"
+        ]
+    },
+    "meanings": {
+        "đường": {
+            "Từ điển phổ thông": [
+                "đời nhà Đường (Trung Quốc)",
+                "khoác, hoang đường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên triều đại. § Chỉ triều đại thời vua Nghiêu họ là 'Đào Đường' 陶唐氏 (2308 trước Tây lịch). 'Lí Uyên' 李淵 lấy nước của nhà Tùy lập ra triều đại cũng gọi là nhà 'Đường' (618-907).",
+                "(Danh) Chỉ Trung Quốc. ◎Như: 'Đường trang' 唐裝 lối phục sức của người Trung Quốc.",
+                "(Danh) Lối đi trong đình viện. ◇Thi Kinh 詩經: 'Trung đường hữu bích' 中唐有甓 (Trần phong 陳風, Phòng hữu thước sào 防有鵲巢) Trên lối đi trong đình viện có lót gạch.",
+                "(Danh) Tên cỏ. Tức 'thố ti tử' 菟絲子.",
+                "(Danh) Họ 'Đường' 唐.",
+                "(Tính) Rộng lớn.",
+                "(Tính) Không, hư. ◎Như: 'hoang đường' 荒唐: (1) khoác lác, huyênh hoang, (2) không thật.",
+                "(Tính) Xúc phạm, mạo phạm. ◎Như: 'đường đột' 唐突 mạo phạm, thất lễ.",
+                "(Phó) Uổng, vô ích. ◇Bách dụ kinh 百喻經: 'Đường sử kì phụ thụ đại thống khổ' 唐使其婦受大痛苦 (Vị phụ mậu tị dụ 為婦貿鼻喻) Uổng công làm cho vợ mình chịu đau đớn ê chề (vì bị chồng cắt cái mũi xấu để thay bằng cái mũi đẹp nhưng không thành công)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nói khoác, nói không có đầu mối gì gọi là hoang đường 荒唐, không chăm nghề nghiệp chính đính cũng gọi là hoang đường.",
+                "Họ Ðường. Vua Nghiêu họ là Ðào-Ðường, cách đây chừng 4250 năm, Lí Uyên lấy nước của nhà Tùy, cũng gọi là nhà Ðường, cách đây chừng 1330 năm.",
+                "Nước Ðường.",
+                "Nước Tầu, đời nhà Ðường đem binh đánh chận các nơi, nên người nước ngoài mới gọi nước tầu là nước Ðường, người tầu cũng vẫn tự xưng là người Ðường."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói khoác, nói vô căn cứ: 荒唐 Hoang đường;",
+                "[Táng] Đời Đường (Trung Quốc — 618-917): 唐詩 Thơ Đường;",
+                "[Táng] (Họ) Đường;",
+                "[Táng] Nước Đường;",
+                "[Táng] Nước Tàu (đời nhà Đường [Trung Quốc] đem binh đi đánh các nơi, nên người nước ngoài gọi nước Tàu thời đó là nước Đường, và người Tàu cũng tự xưng là người Đường)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "To lớn — Lời nói lớn lao. Nói quá — Tên một triều đại Trung Hoa, rất thịnh về thơ văn, kéo dài từ năm 618 tới năm 906."
+            ],
+            "compound_words": {
+                "頹唐": "đồi đường",
+                "唐突": "đường đột",
+                "唐棣": "đường lệ",
+                "唐山": "đường sơn",
+                "荒唐": "hoang đường",
+                "盛唐": "thịnh đường"
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "character": "嗻",
+    "details": {
+        "Âm Hán Việt": [
+            "cha",
+            "chạ",
+            "gia",
+            "già"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "khẩu 口 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口庶"
+        ],
+        "Nét bút": [
+            "丨フ一丶一ノ一丨丨一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "RITF (口戈廿火)"
+        ],
+        "Unicode": [
+            "U+55FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhē ㄓㄜ",
+            "zhè ㄓㄜˋ"
+        ],
+        "Âm Quảng Đông": [
+            "syu3",
+            "ze1"
+        ]
+    },
+    "meanings": {
+        "cha": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vị thần giữ cửa phía tây của tông miếu nhà vua. Cũng đọc Gia — Một âm khác là Chạ."
+            ]
+        },
+        "chạ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng đáp lời với ý ứng thuận. Cũng như tiếng ừ, vâng của ta. Cũng đọc Giá — Một âm khác là Cha. Còn có nghĩa là nhiều lời, lắm miệng."
+            ]
+        },
+        "gia": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vị thần giữ cửa phía tây của tông miếu nhà vua. Cũng đọc Cha."
+            ]
+        },
+        "già": {
+            "Từ điển trích dẫn": [
+                "§ Xem 'xa già' 唓嗻.",
+                "Một âm là 'giá'. (Tính) Nhiều lời."
+            ],
+            "compound_words": {
+                "唓嗻": "xa già"
+            }
+        }
+    }
+}

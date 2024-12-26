@@ -1,0 +1,82 @@
+{
+    "character": "剠",
+    "details": {
+        "Âm Hán Việt": [
+            "kinh",
+            "kình",
+            "lược"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "đao 刀 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰京⺉"
+        ],
+        "Nét bút": [
+            "丶一丨フ一丨ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "YFLN (卜火中弓)"
+        ],
+        "Unicode": [
+            "U+5260"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lüè",
+            "qíng ㄑㄧㄥˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)",
+            "ショウ (shō)",
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いれずみ (irezumi)",
+            "かすめと.る (kasumeto.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "king4",
+            "loek6"
+        ]
+    },
+    "meanings": {
+        "kinh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao nhọn thích chữ mực đen vào mặt, một hình phạt thời cổ. Cũng đọc Kình — Một âm là Lược."
+            ]
+        },
+        "kình": {
+            "Từ điển phổ thông": [
+                "thích vào, khắc vào"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 黥 (bộ 黑)."
+            ]
+        },
+        "lược": {
+            "Từ điển phổ thông": [
+                "cướp lấy, tước đoạt",
+                "nét phảy",
+                "đánh đòn"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tước đoạt (như 掠, bộ 扌)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cướp đoạt — Một âm là Kinh. Xem Kinh."
+            ]
+        }
+    }
+}

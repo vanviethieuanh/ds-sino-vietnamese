@@ -1,0 +1,229 @@
+{
+    "character": "發",
+    "details": {
+        "Âm Hán Việt": [
+            "bát",
+            "phát"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "bát 癶 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "フ丶ノノ丶フ一フノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "NONHE (弓人弓竹水)"
+        ],
+        "Unicode": [
+            "U+767C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ",
+            "fā ㄈㄚ",
+            "fà ㄈㄚˋ"
+        ],
+        "Âm Nôm": [
+            "phát",
+            "phắt",
+            "phết",
+            "phút"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハツ (hatsu)",
+            "ホツ (hotsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "た.つ (ta.tsu)",
+            "あば.く (aba.ku)",
+            "おこ.る (oko.ru)",
+            "つか.わす (tsuka.wasu)",
+            "はな.つ (hana.tsu)"
+        ],
+        "Âm Hàn": [
+            "발"
+        ],
+        "Âm Quảng Đông": [
+            "faat3"
+        ]
+    },
+    "meanings": {
+        "bát": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bát bát 發發 — Một âm khác là Phát."
+            ],
+            "compound_words": {
+                "發發": "bát bát"
+            }
+        },
+        "phát": {
+            "Từ điển phổ thông": [
+                "gửi đi",
+                "bắn",
+                "phất",
+                "phát ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bắn ra. ◎Như: 'bách phát bách trúng' 百發百中 bắn trăm lần trúng cả trăm, 'đạn vô hư phát' 彈無虛發 bắn không lần nào trật cả.",
+                "(Động) Sinh trưởng, sinh sản, mọc ra. ◎Như: 'phát nha' 發芽 nảy mầm. ◇Vương Duy 王維: 'Hồng đậu sanh nam quốc, Xuân lai phát kỉ chi' 紅豆生南國, 春來發幾枝 (Tương tư 相思) Đậu đỏ sinh ra ở xứ miền nam, Xuân đến mọc mấy cành.",
+                "(Động) Bắt đầu, mở đầu. ◎Như: 'phát động' 發動 khởi đầu, 'tiên phát chế nhân' 先發制人 mở đầu trước (chủ động) thì chế ngự được người.",
+                "(Động) Dấy lên, nổi lên, hưng khởi. ◇Mạnh Tử 孟子: 'Thuấn phát ư quyến mẫu chi trung' 舜發於畎畝之中 (Cáo tử hạ 告子下) Vua Thuấn nổi dậy từ chốn ruộng nương.",
+                "(Động) Sáng ra, khai mở. ◎Như: 'chấn lung phát hội' 振聾發聵 kêu lớn tiếng làm thức tỉnh người ngu tối. ◇Luận Ngữ 論語: 'Bất phấn bất khải, bất phỉ bất phát' 不憤不啟, 不悱不發 (Thuật nhi 述而) Không phát phẫn thì không hiểu ra, chẳng tức chẳng sáng ra.",
+                "(Động) Lên đường, khởi hành. ◎Như: 'xuất phát' 出發 lên đường. ◇Liêu trai chí dị 聊齋志異: 'Nhất gia giai di thập vật phó tân cư, nhi thiếp lưu thủ, minh nhật tức phát' 一家皆移什物赴新居, 而妾留守, 明日即發 (Thanh Phụng 青鳳) Cả nhà đều mang đồ đạc đến nhà mới, còn thiếp ở lại giữ nhà, ngày mai sẽ đi.",
+                "(Động) Hiện ra, lộ ra. ◇Chiến quốc sách 戰國策: 'Thử tam tử giả, giai bố y chi sĩ dã, hoài nộ vị phát' 此三子者, 皆布衣之士也, 懷怒未發 (Ngụy sách tứ 魏策四) Ba vị đó, đều là những kẻ sĩ áo vải, trong lòng nén giận chưa để lộ ra ngoài.",
+                "(Động) Hưng thịnh. ◎Như: 'phát tài' 發財 trở nên giàu có, 'phát phúc' 發福 trở nên mập mạp (cách nói khách sáo).",
+                "(Động) Thấy ra, tìm ra. ◎Như: 'phát minh' 發明 tìm ra được cái gì mới chưa ai biết, 'cáo phát' 告發 phát giác, cáo mách.",
+                "(Động) Đưa ra, phân bố. ◎Như: 'phát hướng' 發餉 phát lương, 'phát tiền' 發錢 chi tiền ra, 'tán phát truyền đơn' 散發傳單 phân phát truyền đơn.",
+                "(Động) Nở ra. ◎Như: 'phát hoa' 發花 nở hoa.",
+                "(Động) Bật ra ngoài, bùng ra, không thể kìm hãm được. ◎Như: 'phát phẫn' 發憤 phát tức.",
+                "(Động) Đào lên, bới ra. ◎Như: 'phát quật' 發掘 khai quật.",
+                "(Động) Khiến. ◎Như: 'phát nhân thâm tỉnh' 發人深省 làm cho người (ta) tỉnh ngộ.",
+                "(Động) Đi mừng tân gia (khánh thành nhà mới).",
+                "(Động) Tỉnh, không ngủ. ◇Yến tử xuân thu 晏子春秋: 'Cảnh Công ẩm tửu, trình, tam nhật nhi hậu phát' 晏景公飲酒, 酲, 三日而後發 (Nội thiên 內篇, Gián thượng 諫上) Cảnh Công uống rượu, say mèm, ba ngày sau mới tỉnh.",
+                "(Danh) Lượng từ: (1) Số viên đạn. ◎Như: 'tứ phát tử đạn' 四發子彈 bốn viên đạn. (2) Số lần bắn. ◎Như: 'xạ pháo thập nhị phát' 射炮十二發 bắn mười hai phát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bắn ra, như bách phát bách trúng 百發百中 bắn trăm phát tín cả trăm. Lúc mới ở trong mà phát ra ngoài cũng gọi là phát, phàm nhân có cái gì làm ra máy phát động mà phát ra ngay đều gọi là phát.",
+                "Hưng khởi, hưng thịnh, như phát tài 發射, phát phúc 發福, v.v.",
+                "Tốt lên, lớn lên, như phát dục 發育 lớn thêm, phát đạt 發達 nẩy nở thêm, v.v.",
+                "Mở ra, như phát minh 發明 tự tìm được cái gì mới chưa ai biết, cáo phát 告發 phát giác, cáo mách, v.v.",
+                "Bắt đầu đi, như triêu phát tịch chí 朝發夕至 sớm đi chiều đến.",
+                "Chi phát ra, như phát hướng 發餉 phát lương.",
+                "Phát huy ra, nở ra, như phát hoa 發花 nở hoa.",
+                "Phân bố ra ngoài, phân phát.",
+                "Phấn phát lên, tinh động ở trong phát bật ra ngoài không thể hãm được gọi là phát, như phát phẫn 發憤 phát tức.",
+                "Ðào lên, bới ra.",
+                "Khiến.",
+                "Ði mừng khánh thành nhà mới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phát ra, gởi đi: 發工資 Phát lương: 發信 Gởi thư đi;",
+                "Phát biểu, phát ngôn: 發表聲明 Ra bản tuyên bố;",
+                "Bắn: 二十門大炮齊發 20 khẩu pháo cùng bắn một loạt;",
+                "Phát (đạn): 一發子彈 Một viên đạn;",
+                "Phát huy, bốc hơi: 揮發油 Dầu bốc; 發揮智慧 Phát huy trí tuệ",
+                "Triển khai, mở rộng, nở ra: 發豆芽 Ngâm đậu làm giá; 麵發了 Bột mì đã lên men; 發展 Phát triển; 肌肉發達 Bắp thịt nở nang; 正處發育時期 Đang độ dậy thì;",
+                "Khai quật, bới ra, vạch trần: 發掘 Khai quật; 揭發陰謀 Vạch trần âm mưu;",
+                "Lộ ra (tình cảm): 發怒 Nổi giận: 發笑 Nực cười;",
+                "Biến chất: 這本書已發黃了 Cuốn sách này đã ngã màu: 衣服發潮 Quần áo đã ẩm;",
+                "Cảm thấy: 發麻 Cảm thấy tê tê;",
+                "Đi, lên đường: 朝發夕至 Sáng đi chiều đến;",
+                "Dấy lên, dẫn tới: 發起運動 Dấy lên phong trào;",
+                "(văn) Khiến;",
+                "(văn) Đi mừng tân gia (khánh thành nhà mới). Xem 髮 [fà] (bộ 髟)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắn ra — Khởi lên. Dựng lên — Mở ra — Tìm ra — Sáng sủa — Một âm là Bát. Xem Bát."
+            ],
+            "compound_words": {
+                "百發百中": "bách phát bách trúng",
+                "頒發": "ban phát",
+                "暴發": "bạo phát",
+                "辮發": "biện phát",
+                "爆發": "bộc phát",
+                "勃發": "bột phát",
+                "告發": "cáo phát",
+                "給發": "cấp phát",
+                "振發": "chấn phát",
+                "蒸發": "chưng phát",
+                "打發": "đả phát",
+                "啟發": "khởi phát",
+                "擊發": "kích phát",
+                "濫發": "lạm phát",
+                "偶發": "ngẫu phát",
+                "發音": "phát âm",
+                "發病": "phát bệnh",
+                "發表": "phát biểu",
+                "發兵": "phát binh",
+                "發布": "phát bố",
+                "發給": "phát cấp",
+                "發賑": "phát chẩn",
+                "發狂": "phát cuồng",
+                "發引": "phát dẫn",
+                "發育": "phát dục",
+                "發揚": "phát dương",
+                "發達": "phát đạt",
+                "發電": "phát điện",
+                "發端": "phát đoan",
+                "發動": "phát động",
+                "發覺": "phát giác",
+                "發酵": "phát giáo",
+                "發汗": "phát hãn",
+                "發行": "phát hành",
+                "發現": "phát hiện",
+                "發號": "phát hiệu",
+                "發火": "phát hoả",
+                "發還": "phát hoàn",
+                "發囘": "phát hồi",
+                "發昏": "phát hôn",
+                "發揮": "phát huy",
+                "發客": "phát khách",
+                "發怯": "phát khiếp",
+                "發起": "phát khởi",
+                "發見": "phát kiến",
+                "發冷": "phát lãnh",
+                "發露": "phát lộ",
+                "發流": "phát lưu",
+                "發賣": "phát mại",
+                "發明": "phát minh",
+                "發難": "phát nạn",
+                "發議": "phát nghị",
+                "發言": "phát ngôn",
+                "發言人": "phát ngôn nhân",
+                "發源": "phát nguyên",
+                "發願": "phát nguyện",
+                "發芽": "phát nha",
+                "發熱": "phát nhiệt",
+                "發怒": "phát nộ",
+                "發憤": "phát phẫn",
+                "發付": "phát phó",
+                "發放": "phát phóng",
+                "發配": "phát phối",
+                "發光": "phát quang",
+                "發掘": "phát quật",
+                "發差": "phát sai",
+                "發刊": "phát san",
+                "發愁": "phát sầu",
+                "發生": "phát sinh",
+                "發作": "phát tác",
+                "發財": "phát tài",
+                "發散": "phát tán",
+                "發喪": "phát tang",
+                "發誓": "phát thệ",
+                "發市": "phát thị",
+                "發售": "phát thụ",
+                "發始": "phát thuỷ",
+                "發跡": "phát tích",
+                "發迹": "phát tích",
+                "發泄": "phát tiết",
+                "發情": "phát tình",
+                "發摘": "phát trích",
+                "發展": "phát triển",
+                "發息": "phát tức",
+                "發祥": "phát tường",
+                "發威": "phát uy",
+                "發問": "phát vấn",
+                "分發": "phân phát",
+                "奮發": "phấn phát",
+                "批發": "phê phát",
+                "再發": "tái phát",
+                "齎發": "tê phát",
+                "自發": "tự phát",
+                "闡發": "xiển phát",
+                "出發": "xuất phát",
+                "揭發": "yết phát"
+            }
+        }
+    }
+}

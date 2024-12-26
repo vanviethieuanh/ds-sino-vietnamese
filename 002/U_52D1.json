@@ -1,0 +1,95 @@
+{
+    "character": "勑",
+    "details": {
+        "Âm Hán Việt": [
+            "lai",
+            "lại",
+            "sắc"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "lực 力 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰來力"
+        ],
+        "Nét bút": [
+            "一ノ丶ノ丶丨ノ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "DOKS (木人大尸)"
+        ],
+        "Unicode": [
+            "U+52D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ",
+            "lái ㄌㄞˊ",
+            "lài ㄌㄞˋ"
+        ],
+        "Âm Nôm": [
+            "sắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ライ (rai)",
+            "チャク (chaku)",
+            "チキ (chiki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いたわ.る (itawa.ru)",
+            "ただ.す (tada.su)",
+            "おさ.める (osa.meru)"
+        ],
+        "Âm Quảng Đông": [
+            "cik1",
+            "loi4"
+        ]
+    },
+    "meanings": {
+        "lai": {
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'lai' 徠.",
+                "§ Cũng như 'sắc' 敕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ 徠. Có khi mượn dùng như chữ 敕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 徠 (bộ 彳);",
+                "Mượn dùng thay cho chữ 敕 (bộ 攵) hoặc 勅 (bộ 力)."
+            ]
+        },
+        "lại": {
+            "Từ điển phổ thông": [
+                "an ủi"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mệt nhọc — Thưởng cho công lao mệt nhọc — Một âm là Sắc."
+            ]
+        },
+        "sắc": {
+            "Từ điển phổ thông": [
+                "sắc lệnh",
+                "răn bảo"
+            ],
+            "Từ điển trích dẫn": [
+                "§ Cũng như 'lai' 徠.",
+                "§ Cũng như 'sắc' 敕."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xếp đặt cho ngay thẳng — Dùng như chữ Sắc 敕."
+            ]
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "character": "妄",
+    "details": {
+        "Âm Hán Việt": [
+            "vong",
+            "vô",
+            "vọng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nữ 女 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱亡女"
+        ],
+        "Nét bút": [
+            "丶一フフノ一"
+        ],
+        "Thương Hiệt": [
+            "YVV (卜女女)"
+        ],
+        "Unicode": [
+            "U+5984"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wàng ㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "vòng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モウ (mō)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みだ.りに (mida.rini)"
+        ],
+        "Âm Hàn": [
+            "망"
+        ],
+        "Âm Quảng Đông": [
+            "mong5"
+        ]
+    },
+    "meanings": {
+        "vong": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Vong 亡 — Không. Không có — Một âm là Vọng. Xem Vọng."
+            ]
+        },
+        "vô": {
+            "Từ điển Trần Văn Chánh": [
+                "【妄其】vô kì [wúqí] (văn) Như 亡其 [wúqí]. Xem 亡 nghĩa",
+                "(bộ 亠)."
+            ]
+        },
+        "vọng": {
+            "Từ điển phổ thông": [
+                "viển vông, xa vời",
+                "ngông, lung tung, ẩu, sằng bậy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Xằng, càn, tùy tiện. ◎Như: 'vọng ngữ' 妄語 nói xằng. ◇Tam quốc diễn nghĩa 三國演義: 'Kiển Thạc thiết mưu hại ngã, khả tộc diệt kì gia, kì dư bất tất vọng gia tàn hại' 蹇碩設謀害我, 可族滅其家, 其餘不必妄加殘害 (Đệ nhị hồi) Kiển Thạc bày mưu hại ta, có thể diệt cả họ nhà hắn đi, còn những người khác đừng nên giết càn.",
+                "(Tính) Bất chính, không ngay thẳng. ◇Liêu trai chí dị 聊齋志異: 'Phủ năng an thân, tiện sinh vọng tưởng' 甫能安身, 便生妄想 (Phiên Phiên 翩翩) Vừa mới được yên thân, đã sinh ra mơ tưởng xằng bậy.",
+                "(Tính) Sai, không đúng sự thật. ◎Như: 'đại vọng ngữ' 大妄語 lời nói không thành thật, chưa đắc đạo mà nói đắc đạo (thuật ngữ Phật giáo).",
+                "(Tính) Tự cao tự đại, ngạo mạn. ◎Như: 'cuồng vọng bất ki' 狂妄不羈 ngông cuồng không biết kiềm chế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sằng, càn. Như vọng ngữ 妄語 nói sằng, trái lại với chữ chân 真."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngông: 狂妄 Ngông cuồng;",
+                "Bừa, liều, xằng, càn, bậy: 妄稱（妾語，妄言） Nói xằng; 妄動 Làm càn, làm xằng; 勿妄言，族矣！ Đừng nói bậy, chết cả họ đấy! (Sử kí: Hạng Vũ bản kỉ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rối loạn — Giả dối, bịa đặt — Bậy bạ, không theo phép tắc gì — Tầm thường, không đáng chú ý — Một âm là Vong. Xem Vong."
+            ],
+            "compound_words": {
+                "狂妄": "cuồng vọng",
+                "妄吿": "vọng cáo",
+                "妄求": "vọng cầu",
+                "妄用": "vọng dụng",
+                "妄對": "vọng đối",
+                "妄語": "vọng ngữ",
+                "妄念": "vọng niệm",
+                "妄心": "vọng tâm",
+                "妄想": "vọng tưởng"
+            }
+        }
+    }
+}

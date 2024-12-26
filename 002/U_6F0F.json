@@ -1,0 +1,132 @@
+{
+    "character": "漏",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu",
+            "lậu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡屚"
+        ],
+        "Nét bút": [
+            "丶丶一フ一ノ一丨フ丨丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "ESMB (水尸一月)"
+        ],
+        "Unicode": [
+            "U+6F0F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lóu ㄌㄡˊ",
+            "lòu ㄌㄡˋ"
+        ],
+        "Âm Nôm": [
+            "làu",
+            "lâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "も.る (mo.ru)",
+            "も.れる (mo.reru)",
+            "も.らす (mo.rasu)"
+        ],
+        "Âm Hàn": [
+            "루",
+            "누"
+        ],
+        "Âm Quảng Đông": [
+            "lau6"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xấu xí — Một âm là Lậu."
+            ],
+            "compound_words": {
+                "更漏": "canh lâu"
+            }
+        },
+        "lậu": {
+            "Từ điển phổ thông": [
+                "rò rỉ, dột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thấm, nhỏ, rỉ, dột. ◇Đỗ Phủ 杜甫: 'Sàng đầu ốc lậu vô can xứ' 床頭屋漏無乾處 (Mao ốc vi thu phong sở phá ca 茅屋為秋風所破歌) Đầu giường, nhà dột, không chỗ nào khô.",
+                "(Động) Để lộ. ◎Như: 'tiết lậu' 洩漏 tiết lộ, 'tẩu lậu tiêu tức' 走漏消息 tiết lộ tin tức. ◇Vương Thao 王韜: 'Kiến song khích do lậu đăng quang, tri quân vị miên' 見窗隙猶漏燈光, 知君未眠 (Yểu nương tái thế 窅娘再世) Thấy khe cửa sổ còn ánh đèn le lói, biết chàng chưa ngủ.",
+                "(Động) Bỏ sót. ◎Như: 'di lậu' 遺漏 để sót, 'giá nhất hàng lậu liễu lưỡng cá tự' 這一行漏了兩個字 dòng này sót mất hai chữ.",
+                "(Động) Trốn tránh. ◎Như: 'lậu thuế' 漏稅 trốn thuế.",
+                "(Danh) Đồng hồ nước. § Ghi chú: Ngày xưa dùng cái gáo dùi thủng một lỗ nhỏ, đổ nước vào, nhỏ giọt, mực nước dâng cao, cái thẻ khắc giờ nổi lên, xem phân số nhiều ít thì biết được thì giờ sớm hay muộn. ◇Nguyễn Trãi 阮廌: 'Kim môn mộng giác lậu thanh tàn' 金門夢覺漏聲殘 (Thứ vận Trần Thượng Thư đề Nguyễn Bố Chánh thảo đường 次韻陳尚書題阮布政草堂) Nơi kim môn tỉnh giấc mộng, đồng hồ đã điểm tàn canh.",
+                "(Danh) Canh (thời gian). ◇Liêu trai chí dị 聊齋志異: 'Tự thìn dĩ hất tứ lậu, kế các tận bách hồ' 自辰以迄四漏, 計各盡百壺 (Hoàng Anh 黃英) Từ giờ Thìn tới hết canh tư, tính ra mỗi người uống cạn một trăm hồ.",
+                "(Danh) Ô nhiễm, phiền não (thuật ngữ Phật giáo, tiếng Phạn \"āśrava\"). ◎Như: 'lậu tận' 漏盡 trừ sạch mọi phiền não.",
+                "(Danh) 'Ốc lậu' 屋漏 xó nhà. Xó nhà là chỗ vắng vẻ không có ai, nên nói bóng về việc người quân tử biết tu tỉnh cẩn thận từ lúc ở một mình gọi là 'thượng bất quý vu ốc lậu' 尚不愧于屋漏 (Thi Kinh 詩經).",
+                "(Danh) Chỗ hở, lỗ hổng.",
+                "(Danh) Bệnh đi đái rặn mãi mới ra từng giọt, có chất mủ rớt. Bệnh có chất lỏng rỉ ra.",
+                "(Danh) Họ 'Lậu'.",
+                "(Tính) Đổ nát, sơ sài, quê mùa. ◎Như: 'lậu bích' 漏壁 tường đổ nát. ◇Tuân Tử 荀子: 'Tuy ẩn ư cùng diêm lậu ốc, nhân mạc bất quý chi' 雖隱於窮閻漏屋, 人莫不貴之, 道誠存也 (Nho hiệu 儒效) Tuy ở ẩn nơi ngõ cùng nhà quê, không ai là không quý trọng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấm ra, nhỏ ra, rỉ.",
+                "Tiết lậu, để sự bí mật cho bên ngoài biết gọi là lậu.",
+                "Khắc lậu, ngày xưa dùng cái gáo dùi thủng một lỗ nhỏ, đổ nước vào lâu lâu lại nhỏ một giọt, nước đầy thì cái thẻ khắc giờ nổi lên xem phân số nhiều ít thì biết được thì giờ sớm hay muộn.",
+                "Ốc lậu 屋漏 xó nhà về phía tây bắc, xó nhà là chỗ vắng vẻ không có ai, nên nói bóng về việc người quân tử biết tu tỉnh cẩn thận từ lúc ở một mình gọi là bất quý ốc lậu 不愧屋漏 (Thi Kinh 詩經).",
+                "Bệnh lậu. Ði đái rặn mãi mới ra từng giọt mà hay đi ra chất mủ rớt gọi là bệnh lậu. Bệnh gì có chất lỏng rỉ ra đều gọi là lậu.",
+                "Thối."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chảy, rỉ: 壼裡的水漏光了 Nước trong ấm đã chảy sạch; 鍋漏了 Cái nồi bị rỉ;",
+                "Lậu hồ, khắc lậu, đồng hồ cát: 漏盡更深 Lậu tận canh tàn;",
+                "Tiết lộ: 走漏風聲 Tiết lộ bí mật;",
+                "Thiếu sót: 掛一漏萬 Nói một sót mười; 這一行漏了兩個字 Dòng này sót mất hai chữ;",
+                "(y) Bệnh lậu;",
+                "(văn) Xó: 屋漏 Xó nhà;",
+                "(văn) Thối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước rỉ ra. Nhỏ giọt — Làm lộ việc kín. » Cùng nhau lặn chẳng dám hô. Thầm toan mưu kế chẳng cho lậu tình « ( Lục Vân Tiên ). Xuyên thủng — Tên bệnh hoa liễu, làm chảy mũ tại cơ quan sinh dục. Ta cũng gọi là bệnh Lậu — Dụng cụ để đo thời giờ ngày xưa, cho nước nhỏ giọt rồi xem mực nước còn lại mà biết giờ giấc. Chỉ giờ giấc.  Đoạn trường tân thanh  có câu: » Đêm thu khắc lậu canh tàn. Gió tây trút lá trăng ngàn dặm sương «."
+            ],
+            "compound_words": {
+                "崩漏": "băng lậu",
+                "更漏": "canh lậu",
+                "轉漏": "chuyển lậu",
+                "夜漏": "dạ lậu",
+                "遺漏": "di lậu",
+                "刻漏": "khắc lậu",
+                "淋漏": "lâm lậu",
+                "漏鼓": "lậu cổ",
+                "漏斗": "lậu đẩu",
+                "漏壺": "lậu hồ",
+                "漏刻": "lậu khắc",
+                "漏脫": "lậu thoát",
+                "漏著": "lậu trước",
+                "耳漏": "nhĩ lậu",
+                "屋漏": "ốc lậu",
+                "紕漏": "phi lậu",
+                "沙漏": "sa lậu",
+                "滲漏": "sâm lậu",
+                "疏漏": "sơ lậu",
+                "泄漏": "tiết lậu",
+                "洩漏": "tiết lậu",
+                "痔漏": "trĩ lậu"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "伸",
+    "details": {
+        "Âm Hán Việt": [
+            "thân"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻申"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OLWL (人中田中)"
+        ],
+        "Unicode": [
+            "U+4F38"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shēn ㄕㄣ"
+        ],
+        "Âm Nôm": [
+            "thân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "の.びる (no.biru)",
+            "の.ばす (no.basu)",
+            "の.べる (no.beru)",
+            "の.す (no.su)"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "san1"
+        ]
+    },
+    "meanings": {
+        "thân": {
+            "Từ điển phổ thông": [
+                "duỗi ra",
+                "bày tỏ, kể rõ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Duỗi, thò, thè. ◎Như: 'dẫn thân' 引伸 kéo duỗi ra, 'thân thủ' 伸手 thò tay. ◇Tây du kí 西遊記: 'Nhất cá cá giảo chỉ thân thiệt' 一個個咬指伸舌 (Đệ tam hồi) Con nào con nấy cắn ngón tay thè lưỡi.",
+                "(Động) Bày tỏ, kể rõ ra. § Thông 'thân' 申. ◎Như: 'thân oan' 伸冤 minh oan. ◇Lí Bạch 李白: 'Bất hữu giai tác, hà thân nhã hoài?' 不有佳作, 何伸雅懷? (Xuân dạ yến tòng đệ đào lí viên tự 春夜宴從弟桃李園序) Nếu chẳng có văn hay, Sao diễn tả được lòng nhã?",
+                "(Động) Làm cho hết nghiêng lệch cong queo, làm cho ngay thẳng. ◇Tống sử 宋史: 'Tiểu sự thượng bất đắc thân, huống đại sự hồ?' 小事尚不得伸, 況大事乎 (Hàn Giáng truyện 韓絳傳) Việc nhỏ còn chưa làm cho ngay được, huống chi là chuyện lớn?",
+                "(Tính) Vui hòa.",
+                "(Danh) Họ 'Thân'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Duỗi, như dẫn thân 引伸 kéo duỗi ra.",
+                "Làm cho phải lẽ, như thân oan 伸冤 gỡ cho kẻ oan được tỏ lẽ thẳng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Duỗi, ruỗi, thò, xòe, le, thè: 伸舌頭 Le lưỡi; 伸腳 Duỗi chân; 伸手 Thò tay; 伸着巴掌 Xòe bàn tay ra;",
+                "Trình bày: 伸冤 Khiếu nại, minh oan;",
+                "Rửa hận. Như 申冤 [shenyuan]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Duỗi ra — Suy rộng ra — Làm cho rõ ra."
+            ],
+            "compound_words": {
+                "延伸": "duyên thân",
+                "伸开": "thân khai",
+                "伸開": "thân khai",
+                "伸冤": "thân oan",
+                "伸縮": "thân súc",
+                "伸缩": "thân súc",
+                "伸展": "thân triển",
+                "伸出": "thân xuất"
+            }
+        }
+    }
+}

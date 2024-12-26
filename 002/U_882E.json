@@ -1,0 +1,67 @@
+{
+    "character": "蠮",
+    "details": {
+        "Âm Hán Việt": [
+            "yết",
+            "ế"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "trùng 虫 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫翳"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一ノ一一ノ丶フノフフ丶フ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "LISEM (中戈尸水一)"
+        ],
+        "Unicode": [
+            "U+882E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yē ㄜ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エツ (etsu)",
+            "エチ (echi)"
+        ],
+        "Âm Quảng Đông": [
+            "jit6"
+        ]
+    },
+    "meanings": {
+        "yết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài ong."
+            ]
+        },
+        "ế": {
+            "Từ điển phổ thông": [
+                "(xem: ế ông 蠮螉)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Ong đất, làm tổ ở dưới đất. § Tục gọi là “tế yêu phong” 细腰蜂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蠮螉】ế ông [yeweng] Một loài ong có lưng nhỏ và dài (tục gọi là ong lưng nhỏ, mình đen, cánh vàng, làm tổ dưới đất)."
+            ],
+            "compound_words": {
+                "蠮螉": "ế ông"
+            }
+        }
+    }
+}

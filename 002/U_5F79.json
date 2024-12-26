@@ -1,0 +1,117 @@
+{
+    "character": "役",
+    "details": {
+        "Âm Hán Việt": [
+            "dịch"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "xích 彳 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰彳殳"
+        ],
+        "Nét bút": [
+            "ノノ丨ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "HOHNE (竹人竹弓水)"
+        ],
+        "Unicode": [
+            "U+5F79"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dịch",
+            "việc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)",
+            "エキ (eki)"
+        ],
+        "Âm Hàn": [
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "dịch": {
+            "Từ điển phổ thông": [
+                "đi thú ngoài biên thuỳ",
+                "việc quân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đi thú ngoài biên thùy. ◎Như: 'viễn dịch' 遠役 đi thú xa.",
+                "(Động) Sai khiến. ◎Như: 'dịch lệnh' 役令 sai bảo.",
+                "(Danh) Lao dịch, việc nặng nhọc. ◇Tam quốc chí 三國志: 'Binh cửu bất xuyết, dân khốn ư dịch' 兵久不輟, 民困於役 (Tôn Quyền truyện 孫權傳) Quân lâu không được nghỉ ngơi, dân khổ sở vì lao dịch.",
+                "(Danh) Sự việc, sự kiện.",
+                "(Danh) Chức trách, chức phận. ◇Lục Du 陸游: 'Vạn vật các hữu dịch' 萬物各有役 (Hiểu phú 曉賦) Muôn vật đều có phận sự của mình.",
+                "(Danh) Kẻ hầu hạ, tôi tớ, người để sai bảo. ◎Như: 'tư dịch' 厮役 kẻ hầu hạ.",
+                "(Danh) Môn sinh, đệ tử.",
+                "(Danh) Binh lính, quân hầu, quân làm phục dịch.",
+                "(Danh) Việc quân, chiến trận, chiến tranh, chiến dịch. ◎Như: Tả truyện 左傳 chép 'Thành Bộc chi dịch' 城濮之役 việc đánh nhau ở Thành Bộc.",
+                "(Danh) Hàng lối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ði thú ngoài biên thùy. Ði thú xa gọi là viễn dịch 遠役.",
+                "Việc quân cũng gọi là dịch. Như Tả truyện chép Thành-bộc chi dịch 城濮之役 việc đánh nhau ở Thành-bộc.",
+                "Sai khiến, kẻ hầu gọi là tư dịch 廝役.",
+                "Hàng lối."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đi thú ngoài biên ải: 遠役 Đi thú xa; 君子于役 Chàng đang làm lính thú (Thi Kinh);",
+                "Phục dịch: 兵役制 Chế độ quân dịch;",
+                "Sai khiến: 仆役Tôi tớ; 廝役 Người hầu;",
+                "Chiến dịch, trận đánh: 城"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Việc đóng quân giữ biên giới — Việc nhà binh — Việc nặng nhọc — Sai khiến — Kẻ bị sai khiến."
+            ],
+            "compound_words": {
+                "罷役": "bãi dịch",
+                "兵役": "binh dịch",
+                "捕役": "bổ dịch",
+                "拘役": "câu dịch",
+                "執役": "chấp dịch",
+                "戰役": "chiến dịch",
+                "職役": "chức dịch",
+                "役役": "dịch dịch",
+                "役夫": "dịch phu",
+                "役使": "dịch sử",
+                "苦役": "khổ dịch",
+                "驅役": "khu dịch",
+                "勞役": "lao dịch",
+                "里役": "lí dịch",
+                "免役": "miễn dịch",
+                "募役": "mộ dịch",
+                "衙役": "nha dịch",
+                "饒役": "nhiêu dịch",
+                "夫役": "phu dịch",
+                "賦役": "phú dịch",
+                "服役": "phục dịch",
+                "軍役": "quân dịch",
+                "差役": "sai dịch",
+                "使役": "sử dịch",
+                "蒐役": "sưu dịch",
+                "佐役": "tá dịch",
+                "雜役": "tạp dịch",
+                "遠役": "viễn dịch"
+            }
+        }
+    }
+}

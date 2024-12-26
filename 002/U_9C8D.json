@@ -1,0 +1,69 @@
+{
+    "character": "鲍",
+    "details": {
+        "Âm Hán Việt": [
+            "bào",
+            "bão",
+            "bảo"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngư 魚 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰鱼包"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一一ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "NMPRU (弓一心口山)"
+        ],
+        "Unicode": [
+            "U+9C8D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bào ㄅㄠˋ"
+        ],
+        "Âm Nôm": [
+            "bào"
+        ],
+        "Âm Quảng Đông": [
+            "baau6"
+        ]
+    },
+    "meanings": {
+        "bào": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鮑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鮑"
+            ]
+        },
+        "bão": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 鮑"
+            ]
+        },
+        "bảo": {
+            "Từ điển phổ thông": [
+                "cá đã ướp"
+            ],
+            "compound_words": {
+                "鲍鱼": "bảo ngư"
+            }
+        }
+    }
+}

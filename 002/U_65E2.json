@@ -1,0 +1,84 @@
+{
+    "character": "既",
+    "details": {
+        "Âm Hán Việt": [
+            "kí",
+            "ký"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "vô 无 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "フ一一フ丶一フノフ"
+        ],
+        "Thương Hiệt": [
+            "AIMVU (日戈一女山)"
+        ],
+        "Unicode": [
+            "U+65E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ",
+            "xì ㄒㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dĩ",
+            "kí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すで.に (sude.ni)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei3"
+        ]
+    },
+    "meanings": {
+        "kí": {
+            "Từ điển trích dẫn": [
+                "(Phó) Đã, rồi. ◇Tô Thức 蘇軾: 'Bất tri đông phương chi kí bạch' 不知東方之既白 (Tiền Xích Bích phú 前赤壁賦) Không biết phương đông đã sáng bạch.",
+                "(Phó) Hết, xong, toàn bộ. ◎Như: 'ngôn vị kí' 言未旣 nói chưa xong. ◇Quốc ngữ 國語: 'Cố thiên hạ tiểu quốc chư hầu kí hứa Hoàn Công, mạc chi cảm bối' 故天下小國諸侯既許桓公, 莫之敢背 (Tề ngữ 齊語) Cho nên các chư hầu nước nhỏ trong thiên hạ thuần phục Hoàn Công cả, không nước nào dám làm trái.",
+                "(Phó) Không lâu, chốc lát. ◇Tam quốc diễn nghĩa 三國演義: 'Kí nhi tịch tán' 既而席散 (Đệ lục hồi) Một chốc tiệc tan.",
+                "(Liên) Rồi, thì. § Thường dùng kèm theo 'tắc' 則, 'tựu' 就. ◇Luận Ngữ 論語: 'Kí lai chi, tắc an chi' 既來之, 則安之 (Quý thị 季氏) (Họ) đã đến (với mình) rồi, thì làm cho họ được yên ổn.",
+                "(Liên) Đã ... còn, vừa ... vừa ... § Thường dùng chung với 'thả' 且, 'hựu' 又, 'dã' 也. ◎Như: 'kí túy thả bão' 既醉且飽 đã no lại say.",
+                "(Danh) Họ 'Kí' 既.",
+                "§ Cũng viết là 'kí' 旣."
+            ],
+            "compound_words": {
+                "既得隴，復望蜀": "kí đắc lũng, phục vọng thục",
+                "既然": "kí nhiên"
+            }
+        },
+        "ký": {
+            "Từ điển phổ thông": [
+                "đã (đã ... lại còn ..., xem: vưu 尤)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 旣"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Kí 旣."
+            ],
+            "compound_words": {
+                "既然": "ký nhiên"
+            }
+        }
+    }
+}

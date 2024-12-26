@@ -1,0 +1,92 @@
+{
+    "character": "村",
+    "details": {
+        "Âm Hán Việt": [
+            "thôn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mộc 木 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木寸"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "DDI (木木戈)"
+        ],
+        "Unicode": [
+            "U+6751"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cūn ㄘㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "chon",
+            "chôn",
+            "thon",
+            "thôn",
+            "thun",
+            "thuôn",
+            "xóm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソン (son)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むら (mura)"
+        ],
+        "Âm Hàn": [
+            "촌"
+        ],
+        "Âm Quảng Đông": [
+            "cyun1"
+        ]
+    },
+    "meanings": {
+        "thôn": {
+            "Từ điển phổ thông": [
+                "thôn xóm, nhà quê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Làng, xóm. ◎Như: 'hương thôn' 鄉村, 'nông thôn' 農村. ◇Đào Uyên Minh 陶淵明: 'Thôn trung văn hữu thử nhân, hàm lai vấn tấn' 村中聞有此人, 咸來問訊 (Đào hoa nguyên kí 桃花源記) Người trong xóm nghe có người này, đều lại hỏi thăm.",
+                "(Tính) Quê mùa, chất phác, thô lỗ, tục tằn, ngu ngốc. ◎Như: 'thôn phu' 村夫 người nhà quê, 'thôn ngôn' 村言 lời thô tục, 'thôn tính' 村性 tính quê mùa, 'thôn ngu' 村愚 ngu xuẩn. ◇Thủy hử truyện 水滸傳: 'Nhĩ giá tư thôn nhân hảo một đạo lí!' 你這廝村人好沒道理 (Đệ ngũ hồi) Lũ chúng bay ngu ngốc không hiểu đạo lí chi cả!",
+                "(Động) Dùng lời để châm chọc, khiêu khích. ◇Thủy hử truyện 水滸傳: 'Tiểu quan nhân nhược thị bất đương thôn thì, giác lượng nhất bổng sái tử' 小官人若是不當村時, 較量一棒耍子 (Đệ nhị hồi) Nếu lệnh lang không sợ gì, hãy thử ra múa gậy thử tài cao thấp một trận chơi nào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làng, xóm.",
+                "Quê mùa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Làng, xóm, thôn, ấp, xã: 新村 Thôn mới; 戰略村 Ấp chiến lược; 村幹部 Cán bộ xã;",
+                "Tục (tằn), thô (lỗ), quê mùa: 村野 Thô lỗ, quê mùa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làng xóm nơi dân làm ruộng tụ tập cư ngụ — Một khu xóm trong làng. Truyện  Trê Cóc : » Có tên Lí Ngạnh thôn ngoài « — Chỉ nơi quê mùa."
+            ],
+            "compound_words": {
+                "孤村": "cô thôn",
+                "鄉村": "hương thôn",
+                "漁村": "ngư thôn",
+                "农村": "nông thôn",
+                "農村": "nông thôn",
+                "村民": "thôn dân",
+                "村塢": "thôn ổ",
+                "村莊": "thôn trang"
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "character": "坊",
+    "details": {
+        "Âm Hán Việt": [
+            "phòng",
+            "phường"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土方"
+        ],
+        "Nét bút": [
+            "一丨一丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "GYHS (土卜竹尸)"
+        ],
+        "Unicode": [
+            "U+574A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fāng ㄈㄤ",
+            "fáng ㄈㄤˊ"
+        ],
+        "Âm Nôm": [
+            "phương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ボッ (bo')"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "fong1",
+            "fong4"
+        ]
+    },
+    "meanings": {
+        "phòng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con đê. Bờ đất cao để ngăn nước — Ngăn cản — Một âm là Phường. Xem Phường."
+            ]
+        },
+        "phường": {
+            "Từ điển phổ thông": [
+                "phường hội",
+                "cái đê ngăn nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khu vực trong thành ấp. § Ghi chú: Ngày xưa phân chia thành ấp theo từng khu. Ở trong vòng thành quách, của 'kinh' 京 hoặc 'châu huyện' 州縣, gọi là 'phường' 坊, bên ngoài gọi là 'thôn' 村. ◇Thủy hử truyện 水滸傳: 'Khán khán ai bộ thậm khẩn, các xứ thôn phường giảng động liễu' 看看挨捕甚緊, 各處村坊講動了 (Đệ thập nhất hồi) Tình hình lùng bắt ráo riết, các xóm phường đều bàn tán xôn xao.",
+                "(Danh) Cửa tiệm. ◎Như: 'trà phường' 茶坊 tiệm trà, 'phường tứ' 坊肆 hiệu buôn.",
+                "(Danh) Nhà, tòa xây đắp để tiêu biểu các người hiền tài ở làng mạc. ◎Như: 'trung hiếu phường' 忠孝坊, 'tiết nghĩa phường' 節義坊.",
+                "(Danh) Trường sở, nhà dành riêng cho một hoạt động nào đó. ◎Như: 'tác phường' 作坊 sở chế tạo.",
+                "(Danh) Cũng như 'phòng' 防. ◇Chiến quốc sách 戰國策: 'Trường thành cự phường, túc dĩ vi tái' 長城鉅坊, 足以為塞 (Tần sách 秦策, 張儀說秦王) Trường thành và đê lũy lớn, đủ làm quan tái (để phòng thủ)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phường, tên gọi các ấp các làng.",
+                "Trong thành chia ra từng khu để cai trị cho dễ cũng gọi là phường.",
+                "Một vật gì xây đắp để tiêu-biểu các người hiền ở các làng mạc cũng gọi là phường. Như trung hiếu phường 忠孝坊, tiết nghĩa phường 節義坊, v.v.",
+                "Tràng sở, như tác phường 作坊 sở chế tạo các đồ.",
+                "Cái đê, cùng nghĩa như chữ phòng 防."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phố, phường: 和平坊 Phường Hoà Bình;",
+                "Toà nhà lưu niệm có khung vòm: 節義坊 Phường Tiết Nghĩa;",
+                "(văn) Đê (dùng như 防, bộ 阜). Xem 坊 [fáng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khu đất quy tụ những gia đình cùng làm một nghề. Chẳng hạn tác phẩm Nôm của Nguyễn Du có Thác lời trai phường nón ( Phường nón là nơi quy tụ các gia đình sống bằng nghề làm nón ) — Chỉ một bọn, một loại người giống nhau.  Đoạn trường tân thanh  có câu: » Tình cờ chẳng hẹn mà nên, mạt cưa mướp đắng đôi bên một phường «."
+            ],
+            "compound_words": {
+                "寶坊": "bảo phường",
+                "紺坊": "cám phường",
+                "敎坊": "giáo phường",
+                "教坊": "giáo phường",
+                "街坊": "nhai phường",
+                "街坊鄰舍": "nhai phường lân xá",
+                "鋪坊": "phố phường",
+                "坊鋪": "phường phố",
+                "坊廂": "phường sương",
+                "坊市": "phường thị",
+                "作坊": "tác phường",
+                "僧坊": "tăng phường",
+                "住坊": "trú phường"
+            }
+        }
+    }
+}

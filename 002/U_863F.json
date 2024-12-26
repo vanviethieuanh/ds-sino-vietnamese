@@ -1,0 +1,81 @@
+{
+    "character": "蘿",
+    "details": {
+        "Âm Hán Việt": [
+            "la"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "thảo 艸 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹羅"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ丨丨一フフ丶丶丶丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "TWLG (廿田中土)"
+        ],
+        "Unicode": [
+            "U+863F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "luó ㄌㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "la"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラ (ra)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つた (tsuta)"
+        ],
+        "Âm Hàn": [
+            "라",
+            "나"
+        ],
+        "Âm Quảng Đông": [
+            "lo4"
+        ]
+    },
+    "meanings": {
+        "la": {
+            "Từ điển phổ thông": [
+                "một loài nấm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Nữ la” 女蘿 một loài nấm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nữ la 女蘿 một loài nấm.",
+                "La bặc 蘿菔. Xem chữ bặc 菔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cây bò, dây leo: 藤蘿 Cây đậu tía."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "La bặc 蘿蔔: Củ cải. Chữ Bặc cũng viết là 菔."
+            ],
+            "compound_words": {
+                "蘿菔": "la bặc",
+                "蘿蔔": "la bặc",
+                "蘿藦": "la ma",
+                "女蘿": "nữ la",
+                "蒔蘿": "thì la"
+            }
+        }
+    }
+}

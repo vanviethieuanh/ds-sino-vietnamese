@@ -1,0 +1,91 @@
+{
+    "character": "桿",
+    "details": {
+        "Âm Hán Việt": [
+            "can",
+            "hãn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木旱"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "DAMJ (木日一十)"
+        ],
+        "Unicode": [
+            "U+687F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ",
+            "gǎn ㄍㄢˇ"
+        ],
+        "Âm Nôm": [
+            "cán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "てこ (teko)"
+        ],
+        "Âm Hàn": [
+            "한",
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "gon1",
+            "gon2",
+            "gon3"
+        ]
+    },
+    "meanings": {
+        "can": {
+            "Từ điển phổ thông": [
+                "cái gậy gỗ, cái côn, cái mộc",
+                "chấn song cửa sổ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cũng như “can” 杆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cột, trụ, gậy gỗ: 旗桿 Cột cờ; 電線桿 Cột điện, cột đèn;",
+                "Sào (đơn vị đo chiều dài của Anh, = 5, 5yards). Xem 桿 [găn]."
+            ],
+            "compound_words": {
+                "槓桿": "cống can",
+                "打槳桿": "đả tưởng can"
+            }
+        },
+        "hãn": {
+            "Từ điển Thiều Chửu": [
+                "Tục dùng như chữ 杆.",
+                "Phép đo nước Anh, nước Mĩ cứ 165 mã là một hãn.",
+                "Cống hãn 槓桿 cái kích để bẩy vật nặng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cán, quản, cây (dùng như 桿): 筆桿 Quản bút; 旗桿 Cán cờ; 槍桿兒 Cây súng. Xem 槓桿;",
+                "(loại) Khẩu, cây...: 一桿槍 Một khẩu súng; 一桿枰 Một cây cân;",
+                "Như 桿 [gan], nghĩa",
+                ";",
+                "Xem 槓桿 [gànggăn]. Xem 桿 [gan]."
+            ]
+        }
+    }
+}

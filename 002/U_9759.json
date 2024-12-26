@@ -1,0 +1,83 @@
+{
+    "character": "静",
+    "details": {
+        "Âm Hán Việt": [
+            "tĩnh",
+            "tịnh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thanh 青 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰青争"
+        ],
+        "Nét bút": [
+            "一一丨一丨フ一一ノフフ一一丨"
+        ],
+        "Thương Hiệt": [
+            "QBNSD (手月弓尸木)"
+        ],
+        "Unicode": [
+            "U+9759"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jìng ㄐㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tĩnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しず- (shizu-)",
+            "しず.か (shizu.ka)",
+            "しず.まる (shizu.maru)",
+            "しず.める (shizu.meru)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "zing6"
+        ]
+    },
+    "meanings": {
+        "tĩnh": {
+            "Từ điển phổ thông": [
+                "yên lặng",
+                "yên ổn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng như “tĩnh” 靜. ◇Nguyễn Du 阮攸: “Sài môn trú tĩnh sơn vân bế” 柴門晝静山雲閉 (Sơn cư mạn hứng 山居漫興) Ngày yên tĩnh, mây núi che kín cửa sài (cửa bằng củi)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 靜"
+            ],
+            "compound_words": {
+                "安静": "an tĩnh",
+                "平静": "bình tĩnh",
+                "宁静": "ninh tĩnh",
+                "寂静": "tịch tĩnh"
+            }
+        },
+        "tịnh": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 靜"
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "character": "飯",
+    "details": {
+        "Âm Hán Việt": [
+            "phãn",
+            "phạn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thực 食 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠反"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶ノノフ丶"
+        ],
+        "Thương Hiệt": [
+            "OIHE (人戈竹水)"
+        ],
+        "Unicode": [
+            "U+98EF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fàn ㄈㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phạn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "めし (meshi)"
+        ],
+        "Âm Hàn": [
+            "반"
+        ],
+        "Âm Quảng Đông": [
+            "faan6"
+        ]
+    },
+    "meanings": {
+        "phãn": {
+            "Từ điển phổ thông": [
+                "cơm",
+                "ăn cơm"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cơm.",
+                "Một âm là phãn. Ăn cơm.",
+                "Cho giống súc ăn.",
+                "Ngậm."
+            ]
+        },
+        "phạn": {
+            "Từ điển phổ thông": [
+                "cơm",
+                "ăn cơm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cơm. ◎Như: 'bạch mễ phạn' 白米飯 cơm gạo trắng, 'hi phạn' 稀飯 cháo.",
+                "(Danh) Bữa ăn chính định kì trong ngày. ◎Như: 'tảo phạn' 早飯 bữa sáng, 'vãn phạn' 晚飯 bữa tối.",
+                "(Động) Ăn. ◇Luận Ngữ 論語: 'Phạn sơ tự ẩm thủy, khúc quăng nhi chẩm chi' 飯疏食飲水, 曲肱而枕之 (Thuật nhi 述而) Ăn gạo thô, uống nước lã, co cánh tay mà gối đầu.",
+                "(Động) Cho ăn. ◇Sử Kí 史記: 'Tín điếu ư thành hạ, chư mẫu phiếu, hữu nhất mẫu kiến Tín cơ, phạn Tín' 信釣於城下, 諸母漂, 有一母見信飢, 飯信 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) (Hàn) Tín câu cá ở dưới thành, trong số những mụ giặt vải, có một mụ thấy Tín đói, cho Tín ăn.",
+                "(Động) Chăn nuôi. ◇Trang Tử 莊子: 'Bách Lí Hề tước lộc bất nhập ư tâm, cố phạn ngưu nhi ngưu phì' 百里奚爵祿不入於心, 故飯牛而牛肥之 (Điền Tử Phương 田子方) Bách Lí Hề, tước lộc không vào tới trong lòng (không hề bận tâm tới), cho nên chăn bò mà bò béo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cơm.",
+                "Một âm là phãn. Ăn cơm.",
+                "Cho giống súc ăn.",
+                "Ngậm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cơm: 江米飯 Cơm nếp, xôi; 小米飯 Cơm kê;",
+                "Bữa cơm: 午飯 (Bữa) cơm trưa; 一天三頓飯 Một ngày ba bữa cơm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cơm, tức gạo đã nấu chín thành hột dẻo để ăn — Ăn cơm. Dùng bữa — Đem cơm cho người khác ăn — Món ăn. Td: Trung Quốc phạn ( cơm Tàu, món ăn Tàu ) — Y giá phạn nang 衣架飯囊: Nghĩa là những đồ tầm thường, thân như cái giá để mắc áo, ruột như cái túi để đựng cơm » Những loài giá áo túi cơm sá gì « ( Kiều )."
+            ],
+            "compound_words": {
+                "粥飯僧": "chúc phạn tăng",
+                "煮飯": "chử phạn",
+                "電飯鍋": "điện phạn oa",
+                "稀飯": "hi phạn",
+                "吃飯": "ngật phạn",
+                "午飯": "ngọ phạn",
+                "飯店": "phạn điếm",
+                "飯銜": "phạn hàm",
+                "飯牛": "phạn ngưu",
+                "飯館": "phạn quán",
+                "飯菜": "phạn thái",
+                "飯碗": "phạn uyển",
+                "噴飯": "phún phạn",
+                "侊飯": "quang phạn",
+                "早飯": "tảo phạn",
+                "便飯": "tiện phạn",
+                "晚飯": "vãn phạn",
+                "餐飯": "xan phạn",
+                "吹飯": "xuy phạn"
+            }
+        }
+    }
+}

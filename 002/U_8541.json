@@ -1,0 +1,96 @@
+{
+    "character": "蕁",
+    "details": {
+        "Âm Hán Việt": [
+            "kiền",
+            "tầm",
+            "đàm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thảo 艸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹尋"
+        ],
+        "Nét bút": [
+            "一丨丨フ一一一丨一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "TSMI (廿尸一戈)"
+        ],
+        "Unicode": [
+            "U+8541"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "qián ㄑㄧㄢˊ",
+            "tán ㄊㄢˊ",
+            "xún ㄒㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tầm",
+            "tùm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジン (jin)",
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "담"
+        ],
+        "Âm Quảng Đông": [
+            "cam4"
+        ]
+    },
+    "meanings": {
+        "kiền": {
+            "Từ điển Trần Văn Chánh": [
+                "【蕁麻】 kiền ma [qiánmá] Loài cỏ sống lâu năm, thân và lá đều có lông nhỏ, xơ ở vỏ thân có thể dùng dệt vải hoặc bện dây."
+            ]
+        },
+        "tầm": {
+            "Từ điển phổ thông": [
+                "cây cỏ gai",
+                "lửa bốc lên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Tầm ma' 蕁麻 cỏ gai, vỏ dùng để dệt vải, lá non ăn được (tiếng Pháp: ortie; lat. Urtica). § Còn gọi là: 'thứ thảo' 刺草, 'giảo nhân miêu' 咬人貓.",
+                "Một âm là 'đàm'. (Động) Lửa bốc lên. ◇Hoài Nam Tử 淮南子: 'Hỏa thượng đàm, thủy hạ lưu' 火上蕁, 水下流 (Thiên văn 天文) Lửa bốc lên, nước chảy xuống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tầm ma 蕁麻 cỏ gai.",
+                "Lửa bốc lên. Như hoả thượng tầm, thuỷ hạ lưu 火上蕁，水下流 lửa bốc lên, nước chảy xuống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蕁麻疹】tầm ma chẩn [xúnmázhân] (y) Một loại bệnh của da."
+            ],
+            "compound_words": {
+                "蕁麻": "tầm ma"
+            }
+        },
+        "đàm": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Tầm ma' 蕁麻 cỏ gai, vỏ dùng để dệt vải, lá non ăn được (tiếng Pháp: ortie; lat. Urtica). § Còn gọi là: 'thứ thảo' 刺草, 'giảo nhân miêu' 咬人貓.",
+                "Một âm là 'đàm'. (Động) Lửa bốc lên. ◇Hoài Nam Tử 淮南子: 'Hỏa thượng đàm, thủy hạ lưu' 火上蕁, 水下流 (Thiên văn 天文) Lửa bốc lên, nước chảy xuống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cỏ tri mẫu;",
+                "Lửa cháy bốc lên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cỏ — Lửa cháy lên trên."
+            ]
+        }
+    }
+}

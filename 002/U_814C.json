@@ -1,0 +1,95 @@
+{
+    "character": "腌",
+    "details": {
+        "Âm Hán Việt": [
+            "khảng",
+            "yêm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhục 肉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月奄"
+        ],
+        "Nét bút": [
+            "ノフ一一一ノ丶丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "BKLU (月大中山)"
+        ],
+        "Unicode": [
+            "U+814C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ā",
+            "ān ㄚㄋ",
+            "āng",
+            "yān ㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "em",
+            "êm",
+            "yêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "オウ (ō)",
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しおづ.け (shiozu.ke)"
+        ],
+        "Âm Quảng Đông": [
+            "jim1"
+        ]
+    },
+    "meanings": {
+        "khảng": {
+            "Từ điển trích dẫn": [
+                "(Động) Ướp, ướp muối (để giữ thức ăn lâu khỏi hư thối). § Cũng như 'yêm' 醃.",
+                "(Động) (Mồ hôi, nước mắt... chảy thấm vào da thịt) làm cho xót, ngứa. ◇Lão Xá 老舍: 'Tha thân thượng lưu trước huyết hãn, hãn bả thương ngân yêm đắc cực thống, khả thị tha bất đình chỉ tiền tiến' 他身上流着血汗, 汗把傷痕腌得極痛, 可是他不停止前進 (Tứ thế đồng đường 四世同堂, Tam tứ 三四) Máu và mồ hôi chảy trên mình, mồ hôi thấm vào vết thương làm cho đau đớn cùng cực, nhưng anh vẫn tiếp tục  tiến tới.",
+                "§ Còn đọc là 'khảng'. (Tính) Bẩn, ô uế.",
+                "(Tính) Xấu xa.",
+                "(Tính) Nghèo khốn, khốn quẫn, chật vật. ◇Đổng Giải Nguyên 董解元: 'Bả Trương Quân Thụy tống đắc lai yêm thụ khổ' 把張君瑞送得來腌受苦 (Tây sương kí chư cung điệu 西廂記諸宮調, Quyển nhất)."
+            ]
+        },
+        "yêm": {
+            "Từ điển phổ thông": [
+                "ướp muối",
+                "mùi hôi thối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ướp, ướp muối (để giữ thức ăn lâu khỏi hư thối). § Cũng như 'yêm' 醃.",
+                "(Động) (Mồ hôi, nước mắt... chảy thấm vào da thịt) làm cho xót, ngứa. ◇Lão Xá 老舍: 'Tha thân thượng lưu trước huyết hãn, hãn bả thương ngân yêm đắc cực thống, khả thị tha bất đình chỉ tiền tiến' 他身上流着血汗, 汗把傷痕腌得極痛, 可是他不停止前進 (Tứ thế đồng đường 四世同堂, Tam tứ 三四) Máu và mồ hôi chảy trên mình, mồ hôi thấm vào vết thương làm cho đau đớn cùng cực, nhưng anh vẫn tiếp tục  tiến tới.",
+                "§ Còn đọc là 'khảng'. (Tính) Bẩn, ô uế.",
+                "(Tính) Xấu xa.",
+                "(Tính) Nghèo khốn, khốn quẫn, chật vật. ◇Đổng Giải Nguyên 董解元: 'Bả Trương Quân Thụy tống đắc lai yêm thụ khổ' 把張君瑞送得來腌受苦 (Tây sương kí chư cung điệu 西廂記諸宮調, Quyển nhất)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ướp, lấy muối ướp các thứ thịt cá cho khỏi thiu thối gọi là yêm.",
+                "Tục gọi mùi hôi thối không sạch là yêm châm 腌臢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Muối (thịt, dưa), ướp muối: 醃肉 Thịt muối. Xem 腌 [a]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ướp muối — Cho đồ ăn vào nước muối mà muối — Nhơ bẩn."
+            ],
+            "compound_words": {
+                "腌臢": "yêm trâm"
+            }
+        }
+    }
+}

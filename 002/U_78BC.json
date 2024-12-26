@@ -1,0 +1,97 @@
+{
+    "character": "碼",
+    "details": {
+        "Âm Hán Việt": [
+            "mã"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thạch 石 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石馬"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "MRSQF (一口尸手火)"
+        ],
+        "Unicode": [
+            "U+78BC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mǎ ㄇㄚˇ"
+        ],
+        "Âm Nôm": [
+            "mã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バ (ba)",
+            "メ (me)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やあど (yādo)",
+            "やある (yāru)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "maa5"
+        ]
+    },
+    "meanings": {
+        "mã": {
+            "Từ điển phổ thông": [
+                "mã hiệu",
+                "(xem: mã não 瑪瑙,碼碯)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Số, số hiệu. ◎Như: 'điện thoại hiệu mã' 電話號碼 số điện thoại, 'mật mã' 密碼 số hiệu mật, 'hiệt mã' 頁碼 số trang. § Ghi chú: mã Trung Quốc: 〡〢〣〤〥〦〧〨〩十, mã A-lạp-bá 1 2 3 4 5 6 7 8 9 10, mã La Mã: I II II IV V VI VII VIII IX X.",
+                "(Danh) Dụng cụ biểu thị số. ◎Như: 'kiếp mã' 砝碼 quả cân.",
+                "(Danh) Lượng từ: (1) Đơn vị chiều dài 'mã' 碼 (phiên âm tiếng Anh yard), bằng 0.914 m (m = công xích 公尺). (2) Đơn vị chỉ sự việc, sự tình. ◎Như: 'giá thị lưỡng mã sự' 這是兩碼事 đó là hai chuyện khác nhau. (3) Đơn vị lợi suất, bằng 0.25%.",
+                "(Danh) 'Mã não' 碼瑙 đá mã não, rất quý rất đẹp. § Cũng viết là 瑪瑙.",
+                "(Danh) 'Mã đầu' 碼頭: (1) Bến tàu, bến đò. § Cũng gọi là 'thuyền phụ' 船埠. (2) Thành phố tiện lợi giao thông. ◎Như: 'thủy lục mã đầu' 水陸碼頭 trên bến dưới thuyền, nơi thông thương thuận lợi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mã não 碼瑙 đá mã não, rất quý rất đẹp. Cũng viết là 瑪瑙.",
+                "Pháp mã 砝碼 cái cân thiên bình. Có khi viết là 法馬.",
+                "Mã hiệu, một thứ chữ riêng để biên số cho tiện, như sau này: chữ mã Tàu 〡〢〣〤〥〦〧〨〩十, chữ mã A-lạp-bá 1 2 3 4 5 6 7 8 9 10, chữ mã La Mã I II II IV V VI VII VIII IX X.",
+                "Bến tàu, bến đò, thường gọi là mã đầu 碼頭.",
+                "Thước mã (yard), thước đo của người Anh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Số: 號碼 Con số, số thứ tự; 頁碼 Số trang;",
+                "Dụng cụ biểu thị số: 籌碼 Cái thẻ dùng để đếm số; 砝碼 Quả cân;",
+                "Việc, chuyện: 一碼事 Cùng một việc; 這是兩碼事 Đó là hai chuyện (việc) khác nhau;",
+                "Chất, xếp đống: 把這些磚碼齊了 Xếp đống gạch này lại cho gọn;",
+                "Iat, thước (Anh và Mĩ, bằng 0, 914 mét);",
+                "Xem 碼頭."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dấu để ghi số, tức Số mã. Như chữ Mã 瑪 — Dấu hiệu nói lên ý nghĩa gì. Td: Mật mã ( dấu hiệu kín ) — Tên chỉ một đơn vị chiều dài của anh quốc, tức Yard."
+            ],
+            "compound_words": {
+                "暗碼": "ám mã",
+                "號碼": "hiệu mã",
+                "碼頭": "mã đầu",
+                "碼碯": "mã não",
+                "密碼": "mật mã",
+                "內碼": "nội mã",
+                "數碼": "số mã"
+            }
+        }
+    }
+}

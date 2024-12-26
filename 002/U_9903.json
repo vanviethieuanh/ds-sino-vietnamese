@@ -1,0 +1,89 @@
+{
+    "character": "餃",
+    "details": {
+        "Âm Hán Việt": [
+            "giáo",
+            "giảo",
+            "kiểu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thực 食 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠交"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶丶一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OIYCK (人戈卜金大)"
+        ],
+        "Unicode": [
+            "U+9903"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǎo ㄐㄧㄠˇ",
+            "jiào ㄐㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "giảo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギョウ (gyō)",
+            "キョウ (kyō)",
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "gaau2"
+        ]
+    },
+    "meanings": {
+        "giáo": {
+            "Từ điển phổ thông": [
+                "phấn bột"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bánh nhân bao bột. ◎Như: “chưng giảo” 蒸餃 bánh bột hấp, “thủy giảo” 水餃 sủi cảo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phấn bột."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chất ngọt, chất đường để làm bánh — Một âm là Kiểu. Xem Kiểu."
+            ]
+        },
+        "giảo": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bánh nhân bao bột. ◎Như: “chưng giảo” 蒸餃 bánh bột hấp, “thủy giảo” 水餃 sủi cảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bánh cheo (làm bằng bột mì nhân thịt, hấp hay luộc): 餃子 Bánh cheo; 煮餃 Luộc bánh cheo, bánh cheo luộc; 蒸餃 Bánh cheo hấp, hấp bánh cheo."
+            ],
+            "compound_words": {
+                "餃子": "giảo tử",
+                "蝦餃": "hà giảo",
+                "水餃": "thuỷ giảo"
+            }
+        },
+        "kiểu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bánh làm bằng bột gạo và đường, mật. Cũng gọi Kiểu nhị 餃餌— Một âm là Giáo."
+            ]
+        }
+    }
+}

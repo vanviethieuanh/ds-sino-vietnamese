@@ -1,0 +1,91 @@
+{
+    "character": "搓",
+    "details": {
+        "Âm Hán Việt": [
+            "sai",
+            "tha"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘差"
+        ],
+        "Nét bút": [
+            "一丨一丶ノ一一一ノ一丨一"
+        ],
+        "Thương Hiệt": [
+            "QTQM (手廿手一)"
+        ],
+        "Unicode": [
+            "U+6413"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cuō ㄘㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "sai",
+            "tha",
+            "thoa",
+            "xaay",
+            "xay",
+            "xây",
+            "xoay"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よ.る (yo.ru)"
+        ],
+        "Âm Hàn": [
+            "차"
+        ],
+        "Âm Quảng Đông": [
+            "caai1",
+            "co1"
+        ]
+    },
+    "meanings": {
+        "sai": {
+            "Từ điển trích dẫn": [
+                "(Động) Xoa, xát, xoắn, vò. ◎Như: 'tha thủ' 搓手 xoa tay, 'tha ma thằng' 搓麻繩 xoắn dây thừng.",
+                "§ Còn đọc là 'sai'."
+            ]
+        },
+        "tha": {
+            "Từ điển phổ thông": [
+                "xát tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xoa, xát, xoắn, vò. ◎Như: 'tha thủ' 搓手 xoa tay, 'tha ma thằng' 搓麻繩 xoắn dây thừng.",
+                "§ Còn đọc là 'sai'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xát tay."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xoa, thoa, xát, xoắn, vò, vê: 搓手 Xoa tay; 搓一條麻繩兒 Xoắn (đánh) một sợi thừng; 搓衣服 Vò quần áo; 搓一個紙撚兒 Vê một ngòi giấy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xoa — Chà xát."
+            ],
+            "compound_words": {
+                "搓揉": "tha nhu"
+            }
+        }
+    }
+}

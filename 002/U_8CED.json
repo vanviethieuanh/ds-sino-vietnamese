@@ -1,0 +1,86 @@
+{
+    "character": "賭",
+    "details": {
+        "Âm Hán Việt": [
+            "đổ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰貝者"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "BCJKA (月金十大日)"
+        ],
+        "Unicode": [
+            "U+8CED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dǔ ㄉㄨˇ"
+        ],
+        "Âm Nôm": [
+            "đổ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ト (to)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.ける (ka.keru)",
+            "かけ (kake)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou2"
+        ]
+    },
+    "meanings": {
+        "đổ": {
+            "Từ điển phổ thông": [
+                "đánh bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cờ bạc. ◎Như: 'đổ bác' 賭博 trò cờ bạc. ◇Liêu trai chí dị 聊齋志異: 'Thảng năng giới đổ, ngã vi nhữ phúc chi' 倘能戒賭, 我為汝覆之 (Đổ phù 賭符) Nếu mà anh chừa cờ bạc, tôi có thể lấy lại cho anh số tiền đã thua.",
+                "(Động) Tranh hơn thua, đánh cuộc, đánh cá, đánh bạc. ◎Như: 'đả đổ' 打賭 đánh cuộc. ◇Thủy hử truyện 水滸傳: 'Nhân vi liên nhật đổ tiền thâu liễu, khứ lâm tử lí tầm ta mãi mại' 因為連日賭錢輸了, 去林子裡尋些買賣 (Đệ tam thập nhất hồi) Vì mấy bữa nay đánh bạc thua nên vào rừng định kiếm chác.",
+                "(Động) Thu được, lấy được. ◇Sầm Tham 岑參: 'Tướng quân túng bác tràng tràng thắng, đổ đắc Thiền Vu điêu thử bào' 將軍縱博場場勝, 賭得單于貂鼠袍 (Triệu tướng quân ca 趙將軍歌).",
+                "(Động) Nhờ cậy, dựa vào. ◇Quan Hán Khanh 關漢卿: 'Yếu khán thập ma thiên hỉ đáo mệnh? Chỉ đổ bổn sự, tố đắc khứ tự khứ tố' 要看什麼天喜到命? 只賭本事, 做得去自去做 (Đậu nga oan 竇娥冤, Đệ nhị chiệp 第二摺)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Đánh bạc, (cờ bạc). Tục cho mình tự thề là đổ chú 賭咒, tức khí gọi là đổ khí 賭氣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đánh bạc, cờ bạc: 賭錢 Đánh bạc;",
+                "Đánh cá, đánh cuộc: 打賭 Đánh cuộc, đánh cá;",
+                "Đua tranh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh bạc."
+            ],
+            "compound_words": {
+                "打賭": "đả đổ",
+                "賭博": "đổ bác",
+                "賭咒": "đổ chú",
+                "賭氣": "đổ khí",
+                "賭誓": "đổ thệ",
+                "賭場": "đổ trường"
+            }
+        }
+    }
+}

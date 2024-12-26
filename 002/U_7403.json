@@ -1,0 +1,114 @@
+{
+    "character": "球",
+    "details": {
+        "Âm Hán Việt": [
+            "cầu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩求"
+        ],
+        "Nét bút": [
+            "一一丨一一丨丶一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "MGIJE (一土戈十水)"
+        ],
+        "Unicode": [
+            "U+7403"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiú ㄑㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "cầu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たま (tama)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "kau4"
+        ]
+    },
+    "meanings": {
+        "cầu": {
+            "Từ điển phổ thông": [
+                "quả cầu, quả bóng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ ngọc đẹp.",
+                "(Danh) Cái khánh ngọc (nhạc khí).",
+                "(Danh) Hình cầu (môn hình học). ◎Như: 'cầu thể' 球體 khối cầu.",
+                "(Danh) Vật thể hình khối tròn. ◎Như: 'địa cầu' 地球, 'hồng huyết cầu' 紅血球.",
+                "(Danh) Banh, bóng (thể thao). ◎Như: 'lam cầu' 籃球 bóng rổ, 'binh bàng cầu' 乒乓球 bóng bàn, bóng ping-pong.",
+                "(Danh) Lượng từ: đơn vị dùng cho vật hình cầu: cuộn, viên, cục, v.v. ◎Như: 'lưỡng cầu mao tuyến' 兩球毛線 hai cuộn len."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái khánh ngọc.",
+                "Quả tròn, như địa cầu 地球 quả đất, bì cầu 皮球 quả bóng, v.v.",
+                "Ngọc cầu, thứ ngọc đẹp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Các) vật hình cầu (tròn): 血球 Huyết cầu; 衛生球 (Hòn) băng phiến; 眼球 Nhãn cầu;",
+                "(Quả) bóng, cầu: 乒乓球 Bóng bàn;",
+                "Địa cầu, quả đất: 地球 Quả đất, trái đất; 北半球 Bắc bán cầu;",
+                "(văn) Cái khánh ngọc;",
+                "(văn) Ngọc cầu (một thứ ngọc đẹp)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngọc đẹp — Khối tròn."
+            ],
+            "compound_words": {
+                "白血球": "bạch huyết cầu",
+                "排球": "bài cầu",
+                "半球": "bán cầu",
+                "冰球": "băng cầu",
+                "乒乓球": "binh bàng cầu",
+                "棒球": "bổng cầu",
+                "球面": "cầu diện",
+                "球心": "cầu tâm",
+                "球體": "cầu thể",
+                "檯球": "đài cầu",
+                "地球": "địa cầu",
+                "東半球": "đông bán cầu",
+                "寰球": "hoàn cầu",
+                "紅血球": "hồng huyết cầu",
+                "血球": "huyết cầu",
+                "气球": "khí cầu",
+                "氣球": "khí cầu",
+                "籃球": "lam cầu",
+                "琉球": "lưu cầu",
+                "南半球": "nam bán cầu",
+                "月球": "nguyệt cầu",
+                "眼球": "nhãn cầu",
+                "星球": "tinh cầu",
+                "全球": "toàn cầu",
+                "桌球": "trác cầu",
+                "繡球": "tú cầu",
+                "足球": "túc cầu",
+                "圓球": "viên cầu",
+                "網球": "võng cầu"
+            }
+        }
+    }
+}

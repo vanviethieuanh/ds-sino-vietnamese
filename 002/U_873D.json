@@ -1,0 +1,60 @@
+{
+    "character": "蜽",
+    "details": {
+        "Âm Hán Việt": [
+            "lưỡng",
+            "lượng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫兩"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨フ丨ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIMLB (中戈一中月)"
+        ],
+        "Unicode": [
+            "U+873D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "liǎng ㄌㄧㄤˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こだま (kodama)"
+        ]
+    },
+    "meanings": {
+        "lưỡng": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 魎 (bộ 鬼)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Võng lưỡng 蝄蜽: Chỉ chung cho các tài nguyên của rừng núi, như gỗ, đá, v.v…."
+            ]
+        },
+        "lượng": {
+            "Từ điển phổ thông": [
+                "(xem: võng lượng 魍魎,魍魉,蝄蜽)"
+            ],
+            "compound_words": {
+                "蝄蜽": "võng lượng"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "character": "協",
+    "details": {
+        "Âm Hán Việt": [
+            "hiệp"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thập 十 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰十劦"
+        ],
+        "Nét bút": [
+            "一丨フノフノフノ"
+        ],
+        "Thương Hiệt": [
+            "JKSS (十大尸尸)"
+        ],
+        "Unicode": [
+            "U+5354"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xié ㄒㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "hiếp",
+            "híp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Hàn": [
+            "협"
+        ],
+        "Âm Quảng Đông": [
+            "hip3"
+        ]
+    },
+    "meanings": {
+        "hiệp": {
+            "Từ điển phổ thông": [
+                "hoà hợp",
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hòa hợp. ◇Tam quốc diễn nghĩa 三國演義: 'Ngã tam nhân kết vi huynh đệ, hiệp lực đồng tâm, nhiên hậu khả đồ đại sự' 我三人結為兄弟, 協力同心, 然後可圖大事 (Đệ nhất hồi 第一回) Ba chúng ta kết làm anh em, cùng lòng hợp sức, sau mới có thể tính được việc lớn.",
+                "(Động) Giúp đỡ, phụ trợ. ◎Như: 'hiệp trợ' 協助 trợ giúp.",
+                "(Động) Phục tòng.",
+                "(Phó) Cùng nhau, chung. ◎Như: 'hiệp nghị' 協議 cùng bàn bạc, 'hiệp thương' 協商 thương thảo cùng nhau."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hoà hợp, như đồng tâm hiệp lực 同心協力, hiệp thương 協商 cùng bàn để định lấy một phép nhất định.",
+                "Có ý nghĩa là giúp đỡ. Như lương thực của tỉnh khác đem đến giúp tỉnh mình gọi là hiệp hướng 協餉, giúp người chủ sự chi mọi việc gọi là hiệp lí 協理, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chung sức, cộng tác, cùng nhau: 同心協力 Chung sức chung lòng;",
+                "Trợ lực, giúp đỡ.【協助】hiệp trợ [xié zhù] Giúp đỡ, trợ giúp, trợ lực."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hoà hợp với nhau — Giúp đỡ nhau — Danh từ quân sự thời xưa, chỉ vị Phó tướng — Tên một đơn vị quân đội, trong chế độ cuối đời Thanh."
+            ],
+            "compound_words": {
+                "同心協力": "đồng tâm hiệp lực",
+                "協調": "hiệp điều",
+                "協定": "hiệp định",
+                "協同": "hiệp đồng",
+                "協和": "hiệp hoà",
+                "協會": "hiệp hội",
+                "協力": "hiệp lực",
+                "協議": "hiệp nghị",
+                "協作": "hiệp tác",
+                "協商": "hiệp thương",
+                "協鎮": "hiệp trấn",
+                "協助": "hiệp trợ",
+                "協約": "hiệp ước",
+                "妥協": "thoả hiệp"
+            }
+        }
+    }
+}

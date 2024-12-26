@@ -1,0 +1,88 @@
+{
+    "character": "矇",
+    "details": {
+        "Âm Hán Việt": [
+            "mông"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mục 目 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目蒙"
+        ],
+        "Nét bút": [
+            "丨フ一一一一丨丨丶フ一一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "BUTBO (月山廿月人)"
+        ],
+        "Unicode": [
+            "U+77C7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mēng ㄇㄥ",
+            "méng ㄇㄥˊ"
+        ],
+        "Âm Nôm": [
+            "mong",
+            "mông"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モウ (mō)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くら.い (kura.i)",
+            "めし.い (meshi.i)"
+        ],
+        "Âm Hàn": [
+            "몽"
+        ],
+        "Âm Quảng Đông": [
+            "mung4"
+        ]
+    },
+    "meanings": {
+        "mông": {
+            "Từ điển phổ thông": [
+                "loà (có con ngươi nhưng không trông nhìn được)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người lòa (có con ngươi mà không nhìn thấy).",
+                "(Danh) Chỉ viên quan về âm nhạc. § Ngày xưa dùng người mù làm nhạc quan.",
+                "(Tính) Hôn ám, mờ tối.",
+                "(Tính) U mê, ngu dốt. ◇Vương Sung 王充: 'Nhân vị học vấn viết mông. Mông giả, trúc mộc chi loại dã' 人未學問曰矇. 矇者, 竹木之類也 (Luận hành 論衡, Lượng tri 量知).",
+                "(Động) Lừa dối. ◎Như: 'biệt mông nhân' 別矇人 đừng lừa dối người ta.",
+                "(Động) Đoán sai, đoán bừa.",
+                "(Động) Xây xẩm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Loà. Có con ngươi mà không trông thấy gì gọi là mông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lừa bịp, dối trá, đánh lừa: 欺上矇上 Lừa trên dối dưới; 別矇人 Đừng có đánh lừa người ta;",
+                "Đoán bừa, đoán bậy: 別瞎矇 Đừng đoán bừa;",
+                "Xây xẩm: 眼發黑，頭發矇 Mắt đổ đom đóm, đầu xây xẩm. Xem 蒙 [méng], [mâng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt mù ( đui )."
+            ],
+            "compound_words": {
+                "矇矓": "mông lung",
+                "瞈矇": "ổng mông"
+            }
+        }
+    }
+}

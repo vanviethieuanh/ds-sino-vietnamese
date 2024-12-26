@@ -1,0 +1,90 @@
+{
+    "character": "紗",
+    "details": {
+        "Âm Hán Việt": [
+            "sa"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹少"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "VFFH (女火火竹)"
+        ],
+        "Unicode": [
+            "U+7D17"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "miǎo ㄇㄧㄠˇ",
+            "shā ㄕㄚ"
+        ],
+        "Âm Nôm": [
+            "sa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うすぎぬ (usuginu)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "saa1"
+        ]
+    },
+    "meanings": {
+        "sa": {
+            "Từ điển phổ thông": [
+                "sợi vải",
+                "lụa mỏng",
+                "the, rèm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) The, lụa mỏng và mịn. ◇Hồng Lâu Mộng 紅樓夢: 'Trù đoạn nhất bách tam thập quyển. Sa lăng nhất bách bát thập quyển' 綢緞一百三十卷. 紗綾一百八十卷 (Hồi 105) Đoạn tơ một trăm ba mươi cuộn. The lụa hoa một trăm tám mươi cuộn.",
+                "(Danh) Đồ dệt thành sợi dọc hoặc lưới có lỗ nhỏ. ◎Như: 'song sa' 窗紗 màn sợi dệt che cửa sổ, 'thiết sa' 鐵紗 lưới sắt mịn.",
+                "(Danh) Sợi vải nhỏ làm bằng bông hoặc gai. ◇Vương Duy 王維: 'Thùy liên Việt nữ nhan như ngọc, Bần tiện giang đầu tự hoán sa' 誰憐越女顏如玉, 貧賤江頭自浣紗 Ai thương cho cô gái Việt mặt đẹp như ngọc, Lại nghèo hèn tự mình giặt sợi gai ở đầu sông?",
+                "(Tính) Làm bằng sợi mỏng, lụa mỏng. ◎Như: 'sa mạo' 紗帽 mũ bằng sa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sa, lụa mỏng. Một thứ dệt bằng tơ mỏng mà thưa để làm mũ hay áo mặc mát gọi là sa, như ta nói sa Tàu, sa Tây vậy. Vương Duy 王維: Thùy liên Việt nữ nhan như ngọc, Bần tiện giang đầu tự hoán sa 誰憐越女顏如玉，貧賤江頭自浣紗 ai thương cho cô gái Việt mặt đẹp như ngọc, lại nghèo hèn tự mình giặt lụa ở đầu sông?",
+                "Sợi vải."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sợi: 紡紗 Kéo sợi;",
+                "Sa, lụa mỏng, vải sô, lưới mịn: 紗衣 Áo sa; 窗紗 Vải sô che cửa; 鐵紗 Lưới sắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ lụa thật mỏng, nhẹ.  Đoạn trường tân thanh  có câu: » Song sa vò võ phương trời, nay hoàng hôn đã lại mai hôn hoàng « ( Song sa là cửa sổ có che lụa lỏng, chỉ nơi ở của đàn bà con gái )."
+            ],
+            "compound_words": {
+                "紡紗": "phưởng sa",
+                "紗布": "sa bố",
+                "紗羅": "sa la",
+                "紗帽": "sa mạo",
+                "紗窗": "sa song",
+                "紗廠": "sa xưởng",
+                "窗紗": "song sa"
+            }
+        }
+    }
+}

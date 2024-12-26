@@ -1,0 +1,82 @@
+{
+    "character": "囑",
+    "details": {
+        "Âm Hán Việt": [
+            "chúc"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "khẩu 口 (+21 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口屬"
+        ],
+        "Nét bút": [
+            "丨フ一フ一ノ丨丶一ノ丶丨フ丨丨一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "RSYI (口尸卜戈)"
+        ],
+        "Unicode": [
+            "U+56D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǔ ㄓㄨˇ"
+        ],
+        "Âm Nôm": [
+            "chúc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しょく.する (shoku.suru)",
+            "たの.む (tano.mu)"
+        ],
+        "Âm Hàn": [
+            "촉"
+        ],
+        "Âm Quảng Đông": [
+            "zuk1"
+        ]
+    },
+    "meanings": {
+        "chúc": {
+            "Từ điển phổ thông": [
+                "dặn dò"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dặn bảo, ủy thác. ◇Tô Mạn Thù 蘇曼殊: 'Ngô chủ nhân đại bệnh tân sái, y giả chúc vật kiến khách' 吾主人大病新瘥, 醫者囑勿見客 (Đoạn hồng linh nhạn kí 斷鴻零雁記) Chủ nhân tôi bệnh nặng vừa mới khỏi, thầy thuốc dặn rằng không nên tiếp khách.",
+                "(Động) Mong cầu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dặn bảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dặn (dò), gởi, giao phó, (di) chúc: 叮囑 Căn dặn, dặn dò; 遺囑 Di chúc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dặn dò."
+            ],
+            "compound_words": {
+                "囑付": "chúc phó",
+                "囑使": "chúc sử",
+                "囑託": "chúc thác",
+                "囑書": "chúc thư",
+                "遺囑": "di chúc",
+                "叮囑": "đinh chúc"
+            }
+        }
+    }
+}

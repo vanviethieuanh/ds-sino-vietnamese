@@ -1,0 +1,102 @@
+{
+    "character": "肩",
+    "details": {
+        "Âm Hán Việt": [
+            "khiên",
+            "kiên"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸户月"
+        ],
+        "Nét bút": [
+            "丶フ一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "HSB (竹尸月)"
+        ],
+        "Unicode": [
+            "U+80A9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "xián ㄒㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "khiên",
+            "kiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かた (kata)"
+        ],
+        "Âm Hàn": [
+            "견"
+        ],
+        "Âm Quảng Đông": [
+            "gin1"
+        ]
+    },
+    "meanings": {
+        "khiên": {
+            "Từ điển phổ thông": [
+                "cái vai",
+                "gánh vác"
+            ]
+        },
+        "kiên": {
+            "Từ điển phổ thông": [
+                "cái vai",
+                "gánh vác"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vai. ◎Như: 'lưỡng kiên' 兩肩 hai vai, 'kiên tịnh kiên' 肩並肩 vai kề vai, sát cánh.",
+                "(Danh) Họ 'Kiên'.",
+                "(Động) Gánh vác. ◎Như: 'thân kiên trọng nhậm' 身肩重任 gánh vác trách nhiệm lớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vai.",
+                "Gánh vác, trút được hết trách nhiệm gọi là tức kiên 息肩.",
+                "Dùng.",
+                "Giống muông ba tuổi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vai: 兩肩 Hai vai; 肩并肩 Vai kề vai, sát cánh;",
+                "Gánh vác: 身肩大任 Gánh vác nhiệm vụ lớn;",
+                "(văn) Dùng;",
+                "(văn) Giống muông ba tuổi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái vai — Ghé vai gánh vác — Đảm nhiệm."
+            ],
+            "compound_words": {
+                "駢肩": "biền kiên",
+                "平肩輿": "bình kiên dư",
+                "轂擊肩摩": "cốc kích kiên ma",
+                "鳶肩": "diên kiên",
+                "肩肩": "kiên kiên",
+                "鴟肩": "si kiên",
+                "缷肩": "tá kiên",
+                "齊肩": "tề kiên",
+                "並肩": "tinh kiên",
+                "捨肩": "xả kiên"
+            }
+        }
+    }
+}

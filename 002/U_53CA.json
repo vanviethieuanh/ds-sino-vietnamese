@@ -1,0 +1,122 @@
+{
+    "character": "及",
+    "details": {
+        "Âm Hán Việt": [
+            "cập"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "hựu 又 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "NHE (弓竹水)"
+        ],
+        "Unicode": [
+            "U+53CA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cầm",
+            "cập",
+            "chắp",
+            "cúp",
+            "gặp",
+            "gấp",
+            "kíp",
+            "quắp",
+            "vập"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "およ.ぶ (oyo.bu)",
+            "およ.び (oyo.bi)",
+            "および (oyobi)",
+            "およ.ぼす (oyo.bosu)"
+        ],
+        "Âm Hàn": [
+            "급"
+        ],
+        "Âm Quảng Đông": [
+            "gap6",
+            "kap6"
+        ]
+    },
+    "meanings": {
+        "cập": {
+            "Từ điển phổ thông": [
+                "tới, đến, kịp",
+                "bằng",
+                "cùng với, và"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đến, đạt tới. ◎Như: 'cập chí' 及至 cho đến, 'cập đệ' 及第 thi đậu. ◇Tả truyện 左傳: 'Bất cập hoàng tuyền, vô tương kiến dã' 不及黃泉, 無相見也 (Ẩn Công nguyên niên 隱公元年) Không tới suối vàng thì không gặp nhau.",
+                "(Động) Kịp. ◎Như: 'cập thời' 及時 kịp thời, 'cập tảo' 及早 sớm cho kịp. ◇Liêu trai chí dị 聊齋志異: 'Ngã dĩ thất khẩu, hối vô cập' 我已失口, 悔無及 (Thâu đào 偷桃) Ta đã lỡ lời, hối chẳng kịp.",
+                "(Động) Bằng. ◎Như: 'bất cập nhân' 不及人 chẳng bằng người. ◇Lí Bạch 李白: 'Đào Hoa đàm thủy thâm thiên xích, Bất cập Uông Luân tống ngã tình' 桃花潭水深千尺, 不及汪倫送我情 (Tặng Uông Luân 贈汪倫) Nước đầm Đào Hoa sâu ngàn thước, Không bằng tình bạn Uông Luân lúc đưa tiễn ta.",
+                "(Động) Liên quan, liên lụy, dính líu. ◎Như: 'ba cập' 波及 liên lụy (như sóng tràn tới).",
+                "(Động) Kế tục. ◎Như: 'huynh chung đệ cập' 兄終弟及 anh chết em kế tục (chế độ ngày xưa truyền ngôi vua từ anh tới em).",
+                "(Động) Thừa lúc, thừa dịp. ◇Tả truyện 左傳: 'Cập kì vị kí tế dã, thỉnh kích chi' 及其未既濟也, 請擊之 (Hi Công nhị thập nhị niên 僖公二十二年) Thừa dịp họ chưa qua sông hết, xin hãy tấn công.",
+                "(Liên) Cùng, và. ◇Ngụy Hi 魏禧: 'Khấu kì hương cập tính tự, giai bất đáp' 扣其鄉及姓字, 皆不答 (Đại thiết truy truyện 大鐵椎傳) Hỏi quê quán và tên họ, đều không đáp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kịp, đến. Từ sau mà đến gọi là cập, như huynh chung đệ cập 兄終弟及 anh hết đến em, cập thời 及時 kịp thời, ba cập 波及 tràn tới, nghĩa bóng là sự ở nơi khác liên luỵ đế mình.",
+                "Bằng, như bất cập nhân 不及人 chẳng bằng người.",
+                "Cùng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đến, tới: 由表及裡 Từ ngoài đến trong; 將及十載 Sắp (đến) mười năm; 涉及 Liên quan tới; 自古及今，未嘗聞也 Từ xưa đến nay chưa từng nghe nói (Tuân tử);",
+                "Kịp: 現在去來不及了 Bây giờ đi không kịp nữa.【及時】cập thời [jíshí] Kịp thời, kịp lúc: 及時糾正錯誤 Uốn nắn sai lầm kịp thời; 【及早】cập tảo [jízăo] Sớm: 既有問題，就該及早解決 Đã có vấn đề thì nên giải quyết cho sớm; 【及至】cập chí [jízhì] Đến: 及至傍晚 Đến chiều;",
+                "Bằng: 柳木不及松木堅固 Gỗ liễu không chắc bằng gỗ thông; 我不及他 Tôi không bằng anh ấy; 君美甚，徐公何能及君也 Anh đẹp lắm, Từ Công sao đẹp bằng anh? (Chiến quốc sách);",
+                "Và, cùng với: 主要問題及次要問題 Vấn đề chủ yếu và thứ yếu; 釦其鄉及姓名，皆不答 Hỏi thăm quê quán và tên họ, đều không đáp (Nguỵ Hi: Đại Thiết Chùy truyện); 女心傷悲，殆及公子同歸 Lòng cô gái bi thương, lo sợ sẽ phải về cùng chàng công tử (Thi Kinh); 晉侯及楚子，鄭伯戰于鄢陵 Tấn hầu cùng với Sở tử, Trịnh Bá đánh nhau ở Yên Lăng (Xuân thu kinh: Thành công thập lục niên);",
+                "(văn) Kịp đến khi, đến lúc: 及敵槍再擊，寨中人又鶩伏焉 Đến khi quân địch dùng thương đánh tiếp thì người trong trại lại nằm phục xuống như con vịt trời (Thanh bại loại sao);",
+                "Đợi đến khi, nhân lúc, thừa dịp: 及其未既濟也，請擊之 Thừa dịp họ chưa qua sông hết, mau tấn công họ (Tả truyện: Hi công nhị thập nhị niên);",
+                "[Jí] (Họ) Cập."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đến. Tới — Kịp."
+            ],
+            "compound_words": {
+                "阿尔及利亚": "a nhĩ cập lợi á",
+                "阿爾及利亞": "a nhĩ cập lợi á",
+                "哀及": "ai cập",
+                "埃及": "ai cập",
+                "波及": "ba cập",
+                "不及": "bất cập",
+                "不及格": "bất cập cách",
+                "及格": "cập cách",
+                "及第": "cập đệ",
+                "及笄": "cập kê",
+                "及筓": "cập kê",
+                "及期": "cập kì",
+                "及門": "cập môn",
+                "及日": "cập nhật",
+                "及瓜": "cập qua",
+                "及时": "cập thời",
+                "及時": "cập thời",
+                "顧及": "cố cập",
+                "以及": "dĩ cập",
+                "提及": "đề cập",
+                "利不及害": "lợi bất cập hại",
+                "普及": "phổ cập",
+                "措手不及": "thố thủ bất cập"
+            }
+        }
+    }
+}

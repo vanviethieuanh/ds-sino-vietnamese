@@ -1,0 +1,126 @@
+{
+    "character": "讀",
+    "details": {
+        "Âm Hán Việt": [
+            "đậu",
+            "độc"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "ngôn 言 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言賣"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨一丨フ丨丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRGWC (卜口土田金)"
+        ],
+        "Unicode": [
+            "U+8B80"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dòu ㄉㄡˋ",
+            "dú ㄉㄨˊ"
+        ],
+        "Âm Nôm": [
+            "đặt",
+            "đậu",
+            "đọc",
+            "độc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドク (doku)",
+            "トク (toku)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よ.む (yo.mu)"
+        ],
+        "Âm Hàn": [
+            "독",
+            "두"
+        ],
+        "Âm Quảng Đông": [
+            "dau6",
+            "duk6"
+        ]
+    },
+    "meanings": {
+        "đậu": {
+            "Từ điển phổ thông": [
+                "dấu phảy câu, dấu ngắt câu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đọc, đọc cho ra tiếng từng câu từng chữ. ◎Như: 'tụng độc' 誦讀 tụng đọc, 'lãng độc' 朗讀 ngâm đọc (thơ văn), 'tuyên độc' 宣讀 tuyên đọc.",
+                "(Động) Xem. ◇Sử Kí 史記: 'Thái Sử Công viết: Dư độc Khổng thị thư, tưởng kiến kì vi nhân' 太史公曰: 余讀孔氏書, 想見其為人 (Khổng Tử thế gia 孔子世家) Thái Sử Công nói: Tôi xem sách của họ Khổng, tưởng như thấy người.",
+                "(Động) Học, nghiên cứu. ◎Như: 'tha độc hoàn liễu đại học' 他讀完了大學 anh ấy đã học xong bậc đại học.",
+                "Một âm là 'đậu'. (Danh) Câu đậu. § Trong bài văn cứ đến chỗ đứt mạch gọi là 'cú' 句, nửa câu gọi là 'đậu' 讀. Nghĩa là đến chỗ ấy tạm dừng một tí, chưa phải là đứt mạch hẳn, cũng như dấu phẩy vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đọc, đọc cho rành rọt từng câu từng chữ gọi là độc. Như thục độc 熟讀 đọc kĩ.",
+                "Một âm là đậu. Một câu đậu. Trong bài văn cứ đến chỗ đứt mạch gọi là cú 句, nửa câu gọi là đậu 讀. Nghĩa là đến chỗ ấy tạm dừng một tí, chưa phải là đứt mạch hẳn, cũng như dấu phẩy vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dấu ngắt giọng ở giữa câu sách (tương đương dấu phẩy): 明句讀 Phải rõ dấu chấm dấu phẩy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ ngừng lại trong câu văn, chỗ hết một ý văn, để chuyển sang ý khác — Một âm là Độc. Xem Độc."
+            ],
+            "compound_words": {
+                "句讀": "cú đậu"
+            }
+        },
+        "độc": {
+            "Từ điển phổ thông": [
+                "đọc",
+                "học"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đọc, đọc cho ra tiếng từng câu từng chữ. ◎Như: 'tụng độc' 誦讀 tụng đọc, 'lãng độc' 朗讀 ngâm đọc (thơ văn), 'tuyên độc' 宣讀 tuyên đọc.",
+                "(Động) Xem. ◇Sử Kí 史記: 'Thái Sử Công viết: Dư độc Khổng thị thư, tưởng kiến kì vi nhân' 太史公曰: 余讀孔氏書, 想見其為人 (Khổng Tử thế gia 孔子世家) Thái Sử Công nói: Tôi xem sách của họ Khổng, tưởng như thấy người.",
+                "(Động) Học, nghiên cứu. ◎Như: 'tha độc hoàn liễu đại học' 他讀完了大學 anh ấy đã học xong bậc đại học.",
+                "Một âm là 'đậu'. (Danh) Câu đậu. § Trong bài văn cứ đến chỗ đứt mạch gọi là 'cú' 句, nửa câu gọi là 'đậu' 讀. Nghĩa là đến chỗ ấy tạm dừng một tí, chưa phải là đứt mạch hẳn, cũng như dấu phẩy vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đọc, đọc cho rành rọt từng câu từng chữ gọi là độc. Như thục độc 熟讀 đọc kĩ.",
+                "Một âm là đậu. Một câu đậu. Trong bài văn cứ đến chỗ đứt mạch gọi là cú 句, nửa câu gọi là đậu 讀. Nghĩa là đến chỗ ấy tạm dừng một tí, chưa phải là đứt mạch hẳn, cũng như dấu phẩy vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đọc, độc, xem: 讀報 Đọc báo; 老師讀一句，同學們跟着讀一句 Thầy giáo đọc một câu, học sinh đọc theo; 讀者 Độc giả; 這本小說很値得一讀 Cuốn tiểu thuyết này rất nên đọc;",
+                "Đi học: 他讀完了高中 Anh ấy học xong cấp ba."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đọc chữ. Đọc sách — Một âm là Đậu. Xem Đậu."
+            ],
+            "compound_words": {
+                "暗讀": "ám độc",
+                "映月讀書": "ánh nguyệt độc thư",
+                "映雪讀書": "ánh tuyết độc thư",
+                "伴讀": "bạn độc",
+                "耕讀": "canh độc",
+                "轉讀": "chuyển độc",
+                "讀本": "độc bản",
+                "讀者": "độc giả",
+                "讀書": "độc thư",
+                "苦讀": "khổ độc",
+                "侍讀": "thị độc",
+                "熟讀": "thục độc",
+                "宣讀": "tuyên độc"
+            }
+        }
+    }
+}

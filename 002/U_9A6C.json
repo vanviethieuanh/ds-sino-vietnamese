@@ -1,0 +1,67 @@
+{
+    "character": "马",
+    "details": {
+        "Âm Hán Việt": [
+            "mã"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "mã 馬 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フフ一"
+        ],
+        "Thương Hiệt": [
+            "NVSM (弓女尸一)"
+        ],
+        "Unicode": [
+            "U+9A6C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mǎ ㄇㄚˇ"
+        ],
+        "Âm Nôm": [
+            "mã"
+        ],
+        "Âm Quảng Đông": [
+            "maa5"
+        ]
+    },
+    "meanings": {
+        "mã": {
+            "Từ điển phổ thông": [
+                "con ngựa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 馬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 馬"
+            ],
+            "compound_words": {
+                "亚拉巴马": "á lạp ba mã",
+                "阿拉巴马": "a lạp ba mã",
+                "奥克拉荷马": "áo khắc lạp hà mã",
+                "巴拿马": "ba nã mã",
+                "斑马": "ban mã",
+                "兵马": "binh mã",
+                "河马": "hà mã",
+                "马蹄": "mã đề",
+                "马蛭": "mã điệt",
+                "马蚿": "mã huyền",
+                "母马": "mẫu mã"
+            }
+        }
+    }
+}

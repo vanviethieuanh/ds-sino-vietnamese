@@ -1,0 +1,63 @@
+{
+    "character": "栏",
+    "details": {
+        "Âm Hán Việt": [
+            "lan"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木兰"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶ノ一一一"
+        ],
+        "Thương Hiệt": [
+            "DTMM (木廿一一)"
+        ],
+        "Unicode": [
+            "U+680F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lán ㄌㄢˊ",
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "lan"
+        ],
+        "Âm Quảng Đông": [
+            "laan4"
+        ]
+    },
+    "meanings": {
+        "lan": {
+            "Từ điển phổ thông": [
+                "lan can"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 欄."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 欄"
+            ],
+            "compound_words": {
+                "栏圈": "lan khuyên",
+                "栏栅": "lan sách",
+                "栏位": "lan vị"
+            }
+        }
+    }
+}

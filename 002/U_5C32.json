@@ -1,0 +1,76 @@
+{
+    "character": "尲",
+    "details": {
+        "Âm Hán Việt": [
+            "dam",
+            "giam"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "uông 尢 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺尢兼"
+        ],
+        "Nét bút": [
+            "一ノフ丶ノ一フ一一丨丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KUTXC (大山廿重金)"
+        ],
+        "Unicode": [
+            "U+5C32"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ"
+        ],
+        "Âm Nôm": [
+            "giám"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "ケン (ken)"
+        ],
+        "Âm Quảng Đông": [
+            "gaam3"
+        ]
+    },
+    "meanings": {
+        "dam": {
+            "Từ điển phổ thông": [
+                "(xem: dam giới 尷尬,尲尬,尴尬)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Dam giới 尲尬 đi khập khễnh. Sự gì sinh lắm cái lôi thôi khó biện cho rành lẽ được, tục gọi là dam giới."
+            ],
+            "compound_words": {
+                "尲尬": "dam giới"
+            }
+        },
+        "giam": {
+            "Từ điển trích dẫn": [
+                "1. § Cũng như 尷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 尷."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Giam giới 尲尬."
+            ],
+            "compound_words": {
+                "尲尬": "giam giới"
+            }
+        }
+    }
+}

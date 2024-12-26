@@ -1,0 +1,73 @@
+{
+    "character": "蛑",
+    "details": {
+        "Âm Hán Việt": [
+            "mâu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫牟"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶フ丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "LIIHQ (中戈戈竹手)"
+        ],
+        "Unicode": [
+            "U+86D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "móu ㄇㄡˊ"
+        ],
+        "Âm Nôm": [
+            "mâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ム (mu)",
+            "モウ (mō)"
+        ],
+        "Âm Quảng Đông": [
+            "mai4",
+            "mau4"
+        ]
+    },
+    "meanings": {
+        "mâu": {
+            "Từ điển phổ thông": [
+                "(xem: tưu mâu 蝤蛑)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tưu mâu” 蝤蛑: xem “tưu” 蝤."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tưu mâu 蝤蛑 cua gai, một loài cua bể."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蝤蛑 [jiumóu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tưu mâu 蝤蛑: Loài cua có gai, ở biển."
+            ],
+            "compound_words": {
+                "蝤蛑": "tưu mâu",
+                "侵蛑": "xâm mâu"
+            }
+        }
+    }
+}

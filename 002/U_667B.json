@@ -1,0 +1,95 @@
+{
+    "character": "晻",
+    "details": {
+        "Âm Hán Việt": [
+            "yểm",
+            "ám",
+            "ảm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhật 日 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日奄"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "AKLU (日大中山)"
+        ],
+        "Unicode": [
+            "U+667B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ǎn ㄚㄋˇ",
+            "àn ㄚㄋˋ",
+            "yǎn ㄧㄢˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アン (an)",
+            "オン (on)",
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くら.い (kura.i)"
+        ],
+        "Âm Hàn": [
+            "암"
+        ],
+        "Âm Quảng Đông": [
+            "am2"
+        ]
+    },
+    "meanings": {
+        "yểm": {
+            "Từ điển trích dẫn": [
+                "(Tính) Tối, không sáng. ◇Nhạc phủ thi tập 樂府詩集: 'Yểm yểm nhật dục minh' 晻晻日欲暝 (Tạp khúc ca từ thập tam 雜曲歌辭十三) Âm u ngày sắp tối.",
+                "(Tính) U ám, hôn ám. ◎Như: 'yểm thế' 晻世 thời hôn ám."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mặt trời không có ánh sáng."
+            ]
+        },
+        "ám": {
+            "Từ điển phổ thông": [
+                "tối, mờ, không rõ, không tỏ",
+                "thẫm, sẫm màu",
+                "ngầm, âm thầm, bí mật, mờ ám",
+                "nhật thực, nguyệt thực",
+                "đóng cửa"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 暗."
+            ]
+        },
+        "ảm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tối tăm, không sáng sủa — Mưa dầm, trời tối."
+            ],
+            "compound_words": {
+                "晻曖": "ảm ái",
+                "晻濭": "ảm ái",
+                "晻薆": "ảm ái",
+                "晻藹": "ảm ái",
+                "晻晻": "ảm ảm",
+                "晻翳": "ảm ế",
+                "晻昧": "ảm muội",
+                "晻世": "ảm thế",
+                "晻黮": "ảm trẩm"
+            }
+        }
+    }
+}

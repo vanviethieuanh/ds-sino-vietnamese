@@ -1,0 +1,77 @@
+{
+    "character": "带",
+    "details": {
+        "Âm Hán Việt": [
+            "đái",
+            "đới"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "cân 巾 (+6 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "一丨丨丨丶フ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "TJBLB (廿十月中月)"
+        ],
+        "Unicode": [
+            "U+5E26"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ"
+        ],
+        "Âm Nôm": [
+            "đái"
+        ],
+        "Âm Quảng Đông": [
+            "daai2",
+            "daai3"
+        ]
+    },
+    "meanings": {
+        "đái": {
+            "Từ điển phổ thông": [
+                "đều",
+                "đai, dây, dải, thắt lưng",
+                "mang, đeo"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 帶."
+            ],
+            "compound_words": {
+                "带动": "đái động",
+                "带扣": "đái khẩu",
+                "带宽": "đái khoan",
+                "地带": "địa đái",
+                "卷带": "quyển đái"
+            }
+        },
+        "đới": {
+            "Từ điển phổ thông": [
+                "đều",
+                "đai, dây, dải, thắt lưng",
+                "mang, đeo"
+            ],
+            "compound_words": {
+                "绷带": "băng đới",
+                "地带": "địa đới",
+                "带动": "đới động",
+                "带扣": "đới khẩu",
+                "带宽": "đới khoan",
+                "卷带": "quyển đới"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "弓",
+    "details": {
+        "Âm Hán Việt": [
+            "cung"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "cung 弓 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フ一フ"
+        ],
+        "Thương Hiệt": [
+            "N (弓)"
+        ],
+        "Unicode": [
+            "U+5F13"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gōng ㄍㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "cong",
+            "cung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ゆみ (yumi)"
+        ],
+        "Âm Hàn": [
+            "궁"
+        ],
+        "Âm Quảng Đông": [
+            "gung1"
+        ]
+    },
+    "meanings": {
+        "cung": {
+            "Từ điển phổ thông": [
+                "cong",
+                "cái cung",
+                "cung (đơn vị đo, bằng 10 xích)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cung. ◎Như: 'cung tiễn' 弓箭 cung tên. ◇Tam quốc diễn nghĩa 三國演義: 'Trương Phi đái trụ mã, niêm cung đáp tiễn, hồi xạ Mã Siêu' 張飛帶住馬, 拈弓搭箭, 回射馬超 (Đệ nhất hồi 第一回) Trương Phi dừng ngựa, lấy cung gắn tên, quay mình bắn Mã Siêu.",
+                "(Danh) Số đo đất, sáu 'xích' 尺 thước là một 'cung' 弓, tức là một 'bộ' 步, 360 bộ là một dặm, 240 bộ vuông là một 'mẫu'. ◎Như: 'bộ cung' 步弓 cái thước đo đất, 'cung thủ' 弓手 người đo đất.",
+                "(Danh) Họ 'Cung'.",
+                "(Động) Cong lại. ◎Như: 'cung yêu' 弓腰 cong lưng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cung.",
+                "Số đo đất, năm thước là một cung, tức là một bộ, 360 bộ là một dặm, 240 bộ vuông là một mẫu, vì thế nên cái thước đo đất gọi là bộ cung 步弓, người đo đất gọi là cung thủ 弓手.",
+                "Cong, vật gì hình cong như cái cung đều gọi là cung, như cung yêu 弓腰 lưng cong."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái cung: 弓箭 Cung tên;",
+                "Những dụng cụ có hình cung: 彈棉花的繃弓兒 Cái cần bật bông;",
+                "Cung (dụng cụ đo lường ruộng đất ngày xưa, bằng 5 thước): 步弓 Thước đo đất (thời xưa); 弓手 Người đo đất (thời xưa);",
+                "Cúi, khom, cong: 上山時要弓着腰，一步一步向上爬 Khi lên núi phải khom lưng leo lên từng bước; 弓腰 Lưng cong;",
+                "[Gong] (Họ) Cung."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một thứ võ khí thời xưa, dùng để bắn các mũi tên đi — Tên một bộ trong các bộ chữ trung Hoa."
+            ],
+            "compound_words": {
+                "盤馬彎弓": "bàn mã loan cung",
+                "杯弓蛇影": "bôi cung xà ảnh",
+                "柘弓": "chạ cung",
+                "弓裘": "cung cừu",
+                "弓鞋": "cung hài",
+                "弓形": "cung hình",
+                "弓人": "cung nhân",
+                "弓弩": "cung nỗ",
+                "弓矢": "cung thỉ",
+                "弓手": "cung thủ",
+                "弹弓": "đạn cung",
+                "彈弓": "đạn cung",
+                "劍弓": "kiếm cung",
+                "驚弓之鳥": "kinh cung chi điểu",
+                "良弓": "lương cung",
+                "蛇弓": "xà cung"
+            }
+        }
+    }
+}

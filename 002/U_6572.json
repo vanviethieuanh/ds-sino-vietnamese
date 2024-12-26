@@ -1,0 +1,85 @@
+{
+    "character": "敲",
+    "details": {
+        "Âm Hán Việt": [
+            "xao"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "phác 攴 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰高攴"
+        ],
+        "Nét bút": [
+            "丶一丨フ一丨フ丨フ一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "YBYE (卜月卜水)"
+        ],
+        "Unicode": [
+            "U+6572"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiāo ㄑㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "sao",
+            "xao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たた.く (tata.ku)"
+        ],
+        "Âm Hàn": [
+            "고",
+            "교"
+        ],
+        "Âm Quảng Đông": [
+            "haau1"
+        ]
+    },
+    "meanings": {
+        "xao": {
+            "Từ điển phổ thông": [
+                "đập, gõ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Đập, gõ. ◎Như: “xao môn” 敲門 gõ cửa. ◇Giả Đảo 賈島: “Tăng xao nguyệt hạ môn” 僧敲月下門 Sư gõ cửa dưới trăng. § Xem “thôi xao” 推敲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðập, gõ, như xao môn 敲門 gõ cửa. Giả Ðảo có câu thơ rằng: Tăng xao nguyệt hạ môn 僧敲月下門. Trước Giả Ðảo định dùng chữ thôi 推, đến khi hỏi ông Hàn Dũ bảo nên dùng chữ xao  敲 thì hơn. Nay ta nói làm việc gì phải châm chước, sự lí cho kĩ là thôi xao 推敲 là vì cớ ấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gõ, khỏ, đánh, đập, khua: 敲門 Gõ cửa, khua cửa; 敲鑼 Gõ thanh la, đánh thanh la;",
+                "Bắt bí, bóp chẹt: 敲詐勒索 Bóp nặn, bắt chẹt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh — Gõ. Đập — Cây gậy ngắn."
+            ],
+            "compound_words": {
+                "推敲": "thôi xao",
+                "敲鐘": "xao chung",
+                "敲鼓": "xao cổ",
+                "敲打": "xao đả",
+                "敲击": "xao kích",
+                "敲擊": "xao kích",
+                "敲門": "xao môn",
+                "敲詐": "xao trá"
+            }
+        }
+    }
+}

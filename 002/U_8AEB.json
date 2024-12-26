@@ -1,0 +1,84 @@
+{
+    "character": "諫",
+    "details": {
+        "Âm Hán Việt": [
+            "gián"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言柬"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨フ丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRDWF (卜口木田火)"
+        ],
+        "Unicode": [
+            "U+8AEB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "gián"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いさ.める (isa.meru)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "gaan3"
+        ]
+    },
+    "meanings": {
+        "gián": {
+            "Từ điển phổ thông": [
+                "can ngăn, can gián"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Can, ngăn, khuyến cáo người khác sửa chữa lỗi lầm. ◎Như: 'gián chức' 諫職 chức quan ngự sử để can vua. ◇Mạnh Tử 孟子: 'Quân hữu đại quá tắc gián' 君有大過則諫 (Vạn Chương hạ 萬章下) Vua có lỗi lầm lớn thì can gián.",
+                "(Động) Sửa chữa, canh cải. ◇Luận Ngữ 論語: 'Thành sự bất thuyết, toại sự bất gián, kí vãng bất cữu' 成事不說, 遂事不諫, 既往不咎 (Bát dật 八佾) Việc đã thành thì không nên nói nữa, việc đã xong thì không nên sửa đổi nữa, việc đã qua thì không nên trách nữa.",
+                "(Danh) Họ 'Gián'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Can, ngăn, can gián."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Can ngăn, can gián: 直言敢諫 Dám nói thẳng để can gián."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Can ngăn. Lấy lời phải mà ngăn điều trái."
+            ],
+            "compound_words": {
+                "兵諫": "binh gián",
+                "筆諫": "bút gián",
+                "箴諫": "châm gián",
+                "拒諫": "cự gián",
+                "扣馬而諫": "khấu mã nhi gián",
+                "諷諫": "phúng gián",
+                "愎諫": "phức gián",
+                "規諫": "quy gián"
+            }
+        }
+    }
+}

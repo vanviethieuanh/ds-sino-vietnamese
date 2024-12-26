@@ -1,0 +1,91 @@
+{
+    "character": "膊",
+    "details": {
+        "Âm Hán Việt": [
+            "bác",
+            "bạc"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhục 肉 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月尃"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨フ一一丨丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "BIBI (月戈月戈)"
+        ],
+        "Unicode": [
+            "U+818A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ",
+            "liè ㄌㄧㄝˋ",
+            "pò ㄆㄛˋ"
+        ],
+        "Âm Nôm": [
+            "bác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほじし (hojishi)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bok3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cánh tay. ◎Như: 'thượng bác' 上膊 phần cánh tay gần vai, 'hạ bác' 下膊 phần cánh tay ở dưới cùi chỏ.",
+                "(Danh) Phiếm chỉ phần trên thân người. ◎Như: 'đả xích bác' 打赤膊 để mình trần.",
+                "(Danh) Thịt khô. § Thông 'phủ' 脯.",
+                "(Động) Phanh thây xé xác. ◇Tả truyện 左傳: 'Phất thính, sát nhi bác chư thành thượng' 弗聽, 殺而膊諸城上 (Thành Công nhị niên 成公二年) Không nghe, giết rồi xé xác ở trên thành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bắp tay, phần tay gần vai gọi là thượng bác 上膊, phần tay ở dưới gọi là hạ bác 下膊.",
+                "Nem.",
+                "Phanh thây xé xác."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cánh tay: 赤膊 Cởi trần, mình trần;",
+                "(văn) Nem;",
+                "(văn) Phanh thây xé xác."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thịt khô làm nem — Bắp tay."
+            ],
+            "compound_words": {
+                "膊膊": "bác bác",
+                "胳膊": "cách bác",
+                "搭膊": "đáp bác"
+            }
+        },
+        "bạc": {
+            "Từ điển phổ thông": [
+                "bắp tay",
+                "nem",
+                "phanh thây"
+            ]
+        }
+    }
+}

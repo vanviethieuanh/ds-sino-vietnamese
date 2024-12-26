@@ -1,0 +1,66 @@
+{
+    "character": "阔",
+    "details": {
+        "Âm Hán Việt": [
+            "khoát"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "môn 門 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵门活"
+        ],
+        "Nét bút": [
+            "丶丨フ丶丶一ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "LSEHR (中尸水竹口)"
+        ],
+        "Unicode": [
+            "U+9614"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kuò ㄎㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "khoát",
+            "khoắt"
+        ],
+        "Âm Quảng Đông": [
+            "fut3"
+        ]
+    },
+    "meanings": {
+        "khoát": {
+            "Từ điển phổ thông": [
+                "rộng rãi",
+                "xa vắng",
+                "sơ suất"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 闊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 濶"
+            ],
+            "compound_words": {
+                "摆阔": "bài khoát",
+                "宽阔": "khoan khoát",
+                "阔别": "khoát biệt",
+                "广阔": "quảng khoát"
+            }
+        }
+    }
+}

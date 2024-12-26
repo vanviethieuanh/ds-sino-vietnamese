@@ -1,0 +1,111 @@
+{
+    "character": "鉤",
+    "details": {
+        "Âm Hán Việt": [
+            "câu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金句"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノフ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "CPR (金心口)"
+        ],
+        "Unicode": [
+            "U+9264"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gōu ㄍㄡ",
+            "gòu ㄍㄡˋ",
+            "qú ㄑㄩˊ"
+        ],
+        "Âm Nôm": [
+            "câu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぎ (kagi)",
+            "はり (hari)",
+            "ばり (bari)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "au1",
+            "gau1",
+            "ngau1"
+        ]
+    },
+    "meanings": {
+        "câu": {
+            "Từ điển phổ thông": [
+                "cái móc, lưỡi câu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái móc. ◎Như: 'điếu câu' 釣鉤 lưỡi câu.",
+                "(Danh) Một thứ binh khí thời xưa, giống như gươm mà cong.",
+                "(Danh) Lưỡi liềm, một loại nông cụ thời xưa.",
+                "(Danh) Nét móc trong chữ Hán.",
+                "(Danh) Họ 'Câu'.",
+                "(Động) Móc, moi.",
+                "(Động) Tìm tòi. ◇Dịch Kinh 易經: 'Câu thâm trí viễn' 鉤深致遠 (Hệ từ thượng 系辭上) Tìm xét tới lẽ rất sâu xa.",
+                "(Động) Sửa đổi, canh cải.",
+                "(Động) Dắt dẫn, móc nối. ◎Như: 'câu đảng' 鉤黨 dắt dẫn người vào đảng với mình.",
+                "(Động) Bắt giữ. ◇Hán Thư 漢書: 'Sử lại câu chỉ thừa tướng duyện sử' 使吏鉤止丞相掾史 (Bảo Tuyên truyện 鮑宣傳) Sai viên lại bắt giữ thuộc hạ của thừa tướng.",
+                "(Động) Vẽ, vạch, mô tả, phác họa. § Thông 'câu' 勾.",
+                "(Động) Khâu viền. ◎Như: 'câu vi cân' 鉤圍巾 may viền khăn.",
+                "(Tính) Cong. ◇Chiến quốc sách 戰國策: 'Thiểu yên khí lực quyện, cung bát thỉ câu, nhất phát bất trúng, tiền công tận hĩ' 少焉氣力倦, 弓撥矢鉤, 一發不中, 前功盡矣 (Tây Chu sách 西周策) Chẳng bao lâu khí lực suy, cung lật tên cong, một phát cũng không trúng, công lao trước kia tiêu tan hết.",
+                "(Phó) Đình trệ, lưu lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái móc.",
+                "Cái khoá thắt lưng.",
+                "Ngày xưa gọi cái liềm là ngải câu 刈鉤.",
+                "Cái lưỡi câu.",
+                "Phàm cái gì hình như cái móc đều gọi là câu.",
+                "Móc mói, móc mói lấy những cái khó khăn gọi là câu. Như Kinh Dịch 易經 nói câu thâm trí viễn 鉤深致遠 tìm xét tới lẽ rất sâu xa.",
+                "Dắt dẫn, dắt dẫn người vào đảng với mình gọi là câu đảng 鉤黨.",
+                "Lưu lại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鈎."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái móc. Dấu móc — Con dao lưỡi cong lại. Dao quắm — Cái lưỡi câu — Xem xét."
+            ],
+            "compound_words": {
+                "鉤指": "câu chỉ",
+                "鉤距": "câu cự",
+                "鉤校": "câu hiệu",
+                "鉤玄": "câu huyền",
+                "鉤鐮": "câu liêm",
+                "鉤餌": "câu nhĩ",
+                "鉤深": "câu thâm",
+                "鉤深致遠": "câu thâm trí viễn",
+                "掛鉤": "quải câu",
+                "斜鉤": "tà câu"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "蛀",
+    "details": {
+        "Âm Hán Việt": [
+            "chú"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫主"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶一一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIYG (中戈卜土)"
+        ],
+        "Unicode": [
+            "U+86C0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "chấu",
+            "chú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きくいむし (kikuimushi)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu3"
+        ]
+    },
+    "meanings": {
+        "chú": {
+            "Từ điển phổ thông": [
+                "con mọt",
+                "vật bị mọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con mọt gỗ.",
+                "(Động) Khoét mòn, ăn mục, ăn sâu. ◎Như: 'mộc bản bị trùng chú liễu nhất cá đại đỗng' 木板被蟲蛀了一個大洞 miếng gỗ bị mọt ăn mòn một lỗ to.",
+                "(Tính) Bị sâu, bị ăn mòn. ◎Như: 'chú nha' 蛀牙 răng sâu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con mọt khoét.",
+                "Vật gì bị sâu mọt cắn cũng gọi là chú."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Con) mọt.【蛀 蟲】chú trùng [zhùchóng] (Con) mọt;",
+                "(Mọt) ăn, nghiến: 這塊木板被蟲蛀了一個大窟窿 Miếng gỗ này bị mọt ăn một lỗ to."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con mọt gỗ — Bị mọt ăn."
+            ],
+            "compound_words": {
+                "蛀齒": "chú xỉ"
+            }
+        }
+    }
+}

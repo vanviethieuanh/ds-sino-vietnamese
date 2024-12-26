@@ -1,0 +1,146 @@
+{
+    "character": "室",
+    "details": {
+        "Âm Hán Việt": [
+            "thất"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "miên 宀 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱宀至"
+        ],
+        "Nét bút": [
+            "丶丶フ一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "JMIG (十一戈土)"
+        ],
+        "Unicode": [
+            "U+5BA4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "thất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むろ (muro)"
+        ],
+        "Âm Hàn": [
+            "실"
+        ],
+        "Âm Quảng Đông": [
+            "sat1"
+        ]
+    },
+    "meanings": {
+        "thất": {
+            "Từ điển phổ thông": [
+                "nhà",
+                "huyệt chôn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gian phòng chính. § Ngày xưa phòng ốc trong nhà, phía trước gọi là 'đường' 堂, sau 'đường' có tường ngăn cách, ở chính giữa phần sau gọi là 'thất' 室, hai bên 'thất' phía đông và tây gọi là 'phòng' 房. ◇Luận Ngữ 論語: 'Do dã thăng đường hĩ, vị nhập ư thất dã' 由也升堂矣, 未入於室也 (Tiên tiến 先進) (Học vấn) của anh Do vào hạng lên đến phòng chính rồi, mà chưa vào nội thất (nghĩa là đã khá lắm, chỉ chưa tinh vi thôi).",
+                "(Danh) Phòng. ◎Như: 'ngọa thất' 臥室 phòng ngủ.",
+                "(Danh) Nhà, gia. ◎Như: 'cự thất' 巨室 nhà lớn, chỉ gia đình quyền thế.",
+                "(Danh) Triều đình, triều đại, vương triều. ◎Như: 'vương thất' 王室 triều đình.",
+                "(Danh) Chồng. ◇Tiêu Cám 焦贛: 'Đồng nữ vô thất, vị hữu phối hợp, không tọa độc túc' 童女無室, 未有配合, 空坐獨宿 (Dịch lâm 易林, Minh di chi nhu 明夷之需).",
+                "(Danh) Vợ. ◎Như: 'thụ thất' 受室 lấy vợ. ◇Liêu trai chí dị 聊齋志異: 'Nương tử vi thùy? Đáp ngôn: Nam thôn Trịnh công tử kế thất' 娘子為誰? 答言: 南村鄭公子繼室 (A Hà 阿霞) Nương tử là ai? Trả lời: Chính là vợ kế của Trịnh công tử, ở Nam thôn.",
+                "(Danh) Gia tư, gia sản.",
+                "(Danh) Sao 'Thất', một ngôi sao trong thập nhị bát tú.",
+                "(Danh) Huyệt chôn, phần mộ. ◇Hàn Dũ 韓愈: 'Thị duy Tử Hậu chi thất, kí cố kí an, dĩ lợi kì tự nhân' 是惟子厚之室, 既固既安, 以利其嗣人 (Liễu Tử Hậu mộ chí minh 柳子厚墓誌銘) Đây là mộ của Tử Hậu, đã vững lại an, lợi cho con cháu.",
+                "(Danh) Túi dao. ◇Chiến quốc sách 戰國策: 'Bạt kiếm, kiếm trường, sảm kì thất' 拔劍, 劍長, 摻其室 (Yên sách tam 燕策三) (Vua Tần) tuốt kiếm ra, cây kiếm quá dài, (chỉ) nắm được cái vỏ.",
+                "(Danh) Đơn vị làm việc trong một tổ chức, cơ quan. ◎Như: 'nhân sự thất' 人事室 ban nhân viên.",
+                "(Danh) Tổ chim. ◇Thi Kinh 詩經: 'Si hào si hào, Kí thủ ngã tử, Vô hủy ngã thất' 鴟鴞鴟鴞, 既取我子, 無毀我室 (Bân phong 豳風, Si hào 鴟鴞) Cú vọ, cú vọ, Mày đã bắt chim con của ta rồi, Thì chớ phá cái tổ của ta.",
+                "(Danh) Lỗ tra trên cán cái mâu.",
+                "(Danh) Họ 'Thất'.",
+                "(Tính) (Con gái) chưa lấy chồng. ◎Như: 'thất nữ' 室女 con gái chưa xuất giá.",
+                "(Động) Lấy vợ, lập gia đình. ◇Hàn Phi Tử 韓非子: 'Trượng phu nhị thập nhi thất, phụ nữ thập ngũ nhi giá' 丈夫二十而室, 婦女十五而嫁 (Ngoại trữ thuyết hữu hạ 外儲說右下).",
+                "(Động) Gả con gái.",
+                "(Động) Nam nữ ăn nằm với nhau, giao cấu. ◇Liêu trai chí dị 聊齋志異: '(Vương Cửu Tư) vị nữ viết: Ngã bệnh thậm, khủng tương ủy câu hác, hoặc khuyến vật thất dã. Nữ viết: Mệnh đương thọ, thất diệc sanh; bất thọ, vật thất diệc tử dã' (王九思)謂女曰: 我病甚, 恐將委溝壑, 或勸勿室也. 女曰: 命當壽, 室亦生; 不壽, 勿室亦死也 (Đổng Sinh 董生) (Vương Cửu Tư) nói với cô gái: \"Ta bệnh nặng quá, sợ sắp bỏ mạng rồi, có người khuyên nên kiêng giao hợp.' Cô gái nói: 'Số được thọ thì ăn nằm với đàn bà cũng sống, số không thọ thì không gần đàn bà cũng chết.\"",
+                "(Động) Làm tổ. ◇Lục Quy Mông 陸龜蒙: 'Tả hữu lão mộc, toàn thực sâm củng, la điểu ế vu thượng, kiêu hào thất kì gian' 左右老木, 攢植森拱, 蘿蔦翳于上, 梟鴞室其間 (Dã miếu bi 野廟碑)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái nhà.",
+                "Vợ, con trai lấy vợ gọi là thụ thất 受室, con gái chưa chồng mà trinh khiết gọi là thất nữ 室女.",
+                "Sao thất, một ngôi sao trong thập nhị bát tú.",
+                "Huyệt chôn.",
+                "Túi dao."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà, buồng, phòng: 室内 Trong nhà, trong buồng; 室外 Ngoài trời; 教室 Phòng học, lớp học;",
+                "Phòng (đơn vị trong cơ quan): 人事室 Phòng nhân sự;",
+                "(văn) Gia thất, vợ: 授室 Lấy vợ; 室女 Con gái còn trinh (chưa chồng);",
+                "(văn) Huyệt chôn người chết;",
+                "(văn) Túi đựng dao;",
+                "Sao Thất (một ngôi sao trong nhị thập bát tú)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà ở. Td: Tư thất ( nhà riêng )."
+            ],
+            "compound_words": {
+                "堊室": "ác thất",
+                "暗室": "âm thất",
+                "飲冰室": "ẩm băng thất",
+                "飲冰室文集": "ẩm băng thất văn tập",
+                "陰室": "âm thất",
+                "別室": "biệt thất",
+                "正室": "chính thất",
+                "芝室": "chi thất",
+                "專室": "chuyên thất",
+                "公室": "công thất",
+                "宮室": "cung thất",
+                "居室": "cư thất",
+                "巨室": "cự thất",
+                "斗室": "đẩu thất",
+                "同室": "đồng thất",
+                "家室": "gia thất",
+                "教室": "giáo thất",
+                "後室": "hậu thất",
+                "香室": "hương thất",
+                "繼室": "kế thất",
+                "路室": "lộ thất",
+                "密室": "mật thất",
+                "腦室": "não thất",
+                "宜室宜家": "nghi thất nghi gia",
+                "獄室": "ngục thất",
+                "入室": "nhập thất",
+                "溫室": "ôn thất",
+                "簉室": "sứu thất",
+                "在室": "tại thất",
+                "蠶室": "tàm thất",
+                "寑室": "tẩm thất",
+                "心室": "tâm thất",
+                "室家": "thất gia",
+                "室友": "thất hữu",
+                "室內": "thất nội",
+                "庶室": "thứ thất",
+                "宗室": "tông thất",
+                "茶室": "trà thất",
+                "側室": "trắc thất",
+                "私室": "tư thất",
+                "王室": "vương thất",
+                "車寢室": "xa tẩm thất",
+                "綺室": "ỷ thất",
+                "宴室": "yến thất"
+            }
+        }
+    }
+}

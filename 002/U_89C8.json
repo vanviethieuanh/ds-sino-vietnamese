@@ -1,0 +1,58 @@
+{
+    "character": "览",
+    "details": {
+        "Âm Hán Việt": [
+            "lãm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "kiến 見 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "丨丨ノ一丶丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "LIBHU (中戈月竹山)"
+        ],
+        "Unicode": [
+            "U+89C8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lǎn ㄌㄢˇ"
+        ],
+        "Âm Nôm": [
+            "lãm"
+        ],
+        "Âm Quảng Đông": [
+            "laam5"
+        ]
+    },
+    "meanings": {
+        "lãm": {
+            "Từ điển phổ thông": [
+                "xem, ngắm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 覽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 覽"
+            ],
+            "compound_words": {
+                "博览": "bác lãm",
+                "展览": "triển lãm"
+            }
+        }
+    }
+}

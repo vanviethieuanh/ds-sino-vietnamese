@@ -1,0 +1,83 @@
+{
+    "character": "炒",
+    "details": {
+        "Âm Hán Việt": [
+            "sao"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hoả 火 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火少"
+        ],
+        "Nét bút": [
+            "丶ノノ丶丨ノ丶ノ"
+        ],
+        "Thương Hiệt": [
+            "FFH (火火竹)"
+        ],
+        "Unicode": [
+            "U+7092"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chǎo ㄔㄠˇ"
+        ],
+        "Âm Nôm": [
+            "sao",
+            "xào"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.る (i.ru)",
+            "いた.める (ita.meru)"
+        ],
+        "Âm Hàn": [
+            "초"
+        ],
+        "Âm Quảng Đông": [
+            "caau2"
+        ]
+    },
+    "meanings": {
+        "sao": {
+            "Từ điển phổ thông": [
+                "sào (rau), tráng (trứng), rang (cơm), sao (thuốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sao, rang, xào. ◎Như: 'sao nhục' 炒肉 xào thịt, 'sao hoa sinh' 炒花生 rang đậu phụng.",
+                "(Động) Cãi vã, làm ồn ào. § Thông 'sảo' 吵. ◎Như: 'sao náo' 炒鬧 tranh cãi ầm ĩ. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: 'Na gia đình gian mỗi mỗi bị giá đẳng nhân sao đắc thập thanh cửu trọc' 那家庭間每每被這等人炒得十清九濁 (Quyển nhị thập)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sao, rang.",
+                "Cãi vã."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xào, sao, rang: 炒肉 Xào thịt; 炒花生 Rang lạc;",
+                "(văn) Cải vã."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rang lên cho khô, chín — Tranh giành."
+            ],
+            "compound_words": {
+                "炒製": "sao chế",
+                "炒閙": "sao náo",
+                "炒浸": "sao tẩm"
+            }
+        }
+    }
+}

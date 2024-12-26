@@ -1,0 +1,82 @@
+{
+    "character": "鐲",
+    "details": {
+        "Âm Hán Việt": [
+            "trạc"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "kim 金 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金蜀"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨フ丨丨一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "CWLI (金田中戈)"
+        ],
+        "Unicode": [
+            "U+9432"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shǔ ㄕㄨˇ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "chạc",
+            "đọc",
+            "đúc",
+            "trọc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)",
+            "ショク (shoku)",
+            "ゾク (zoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふりがね (furigane)"
+        ],
+        "Âm Quảng Đông": [
+            "zuk6"
+        ]
+    },
+    "meanings": {
+        "trạc": {
+            "Từ điển phổ thông": [
+                "cái chiêng",
+                "cái vòng tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái chiêng, ngày xưa dùng để điều khiển đội ngũ khi hành quân.",
+                "(Danh) Vòng đeo tay (trang sức). Tục gọi là 'trạc tử' 鐲子. ◎Như: 'ngọc trạc' 玉鐲 vòng ngọc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chiêng. Hình như cái chuông nhỏ.",
+                "Tục gọi là cái vòng tay. Như ngọc trạc 玉鐲 vòng ngọc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vòng (đeo tay): 手鐲 Vòng đeo tay; 玉鐲 Vòng ngọc;",
+                "(văn) Cái chiêng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chiêng lớn."
+            ],
+            "compound_words": {
+                "手鐲": "thủ trạc"
+            }
+        }
+    }
+}

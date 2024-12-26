@@ -1,0 +1,87 @@
+{
+    "character": "柵",
+    "details": {
+        "Âm Hán Việt": [
+            "san",
+            "sách"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木冊"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "DBT (木月廿)"
+        ],
+        "Unicode": [
+            "U+67F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "shà ㄕㄚˋ",
+            "shān ㄕㄢ",
+            "zhà ㄓㄚˋ"
+        ],
+        "Âm Nôm": [
+            "sách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サク (saku)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しがら.む (shigara.mu)",
+            "しがらみ (shigarami)",
+            "とりで (toride)",
+            "やらい (yarai)"
+        ],
+        "Âm Hàn": [
+            "책"
+        ],
+        "Âm Quảng Đông": [
+            "caak3",
+            "saan1",
+            "saan3"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển Trần Văn Chánh": [
+                "【柵極】 san cực [shanjí] (điện) Lưới, cực lưới (trong bóng điện tử); 抑制柵極 Lưới triệt. Xem 柵 [zhà]."
+            ]
+        },
+        "sách": {
+            "Từ điển phổ thông": [
+                "hàng rào, rào chắn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Hàng rào, tre gỗ cắm để ngăn che. ◎Như: “sách môn” 柵門 cửa có chấn song. ◇Thủy hử truyện 水滸傳: “Bỉ thử gian hữu tọa san, hoán tố Đào Hoa san, cận lai san thượng hữu lưỡng cá đại vương trát liễu trại sách, tụ tập trứ ngũ thất bách nhân, đả gia kiếp xá” 被此間有座山, 喚做桃花山, 近來山上有兩個大王扎了寨柵, 聚集著五七百人, 打家劫舍 (Đệ ngũ hồi) Ở đây có một quả núi, gọi là núi Đào Hoa, gần đây trên núi có hai đại vương đến cắm rào trại, tụ tập năm bảy trăm quân, đi phá nhà cướp của."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hàng rào, cắm tre gỗ làm hàng rào để ngăn người đi gọi là sách."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hàng rào chấn song, vỉ, ghi (lò): 鐵柵欄 Hàng rào chấn song sắt; 爐柵 Vỉ lò, ghi lò. Xem 柵 [shan]."
+            ],
+            "compound_words": {
+                "欄柵": "lan sách"
+            }
+        }
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "character": "百",
+    "details": {
+        "Âm Hán Việt": [
+            "bá",
+            "bách",
+            "mạch"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "bạch 白 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱一白"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MA (一日)"
+        ],
+        "Unicode": [
+            "U+767E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bǎi ㄅㄞˇ",
+            "bó ㄅㄛˊ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "bá",
+            "bách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒャク (hyaku)",
+            "ビャク (byaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もも (momo)"
+        ],
+        "Âm Hàn": [
+            "백",
+            "맥"
+        ],
+        "Âm Quảng Đông": [
+            "baak3"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển trích dẫn": [
+                "(Danh) Trăm (số mục). ◇Trang Tử 莊子: 'Khách văn chi, thỉnh mãi kì phương bách kim' 客聞之, 請 買其方百金事 (Tiêu dao du 逍遙遊) Khách nghe chuyện, xin mua phương thuốc đó trăm lạng vàng.",
+                "(Danh) Họ 'Bách'.",
+                "(Tính) Nhiều. ◎Như: 'bách tính' 百姓 trăm họ, dân chúng.",
+                "(Tính) Gấp trăm lần.",
+                "§ Có khi đọc là 'bá'.",
+                "Một âm là 'mạch'. (Danh) Cố gắng, gắng sức. ◇Tả truyện 左傳: 'Cự dược tam mạch, khúc dũng tam mạch' 距躍三百, 曲踴三百 (Hi Công nhị thập bát niên 僖公二十八年) Nhảy ra xa, ba phen gắng sức, cong chân nhảy lên, ba phen gắng sức."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trăm.",
+                "Nhiều, như bách tính 百姓 trăm họ.",
+                "Gấp trăm lần. Có khi đọc là chữ bá.",
+                "Một âm là mạch. Cố gắng, như cự dược tam mạch 距躍三百 gắng nhảy ba bận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【百色】Bá Sắc [Bósè] Huyện Bá Sắc (thuộc Khu tự trị dân tộc Choang ở Quảng Tây, Trung Quốc). Xem 百 [băi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Bách. Xem vần Bách — Một âm khác là Mạch."
+            ],
+            "compound_words": {
+                "百多祿": "bá đa lộc",
+                "百官": "bách quan",
+                "百八鐘": "bách bát chung",
+                "百八煩惱": "bách bát phiền não",
+                "百變": "bách biến",
+                "百步": "bách bộ",
+                "百補": "bách bổ",
+                "百步穿楊": "bách bộ xuyên dương",
+                "百部穿楊": "bách bộ xuyên dương",
+                "百感": "bách cảm",
+                "百感交集": "bách cảm giao tập",
+                "百戰": "bách chiến",
+                "百戰百勝": "bách chiến bách thắng",
+                "百折": "bách chiết",
+                "百折不回": "bách chiết bất hồi",
+                "百折千回": "bách chiết thiên hồi",
+                "百折千磨": "bách chiết thiên ma",
+                "百穀": "bách cốc",
+                "百工": "bách công",
+                "百葉": "bách diệp",
+                "百葉窗": "bách diệp song",
+                "百代": "bách đại",
+                "百家": "bách gia",
+                "百解": "bách giải",
+                "百行": "bách hạnh",
+                "百貨": "bách hoá",
+                "百货": "bách hoá",
+                "百花蜜": "bách hoa mật",
+                "百花生日": "bách hoa sinh nhật",
+                "百花酒": "bách hoa tửu",
+                "百花王": "bách hoa vương",
+                "百戶": "bách hộ",
+                "百合": "bách hợp",
+                "百合科": "bách hợp khoa",
+                "百計": "bách kế",
+                "百結衣": "bách kết y",
+                "百科": "bách khoa",
+                "百科全书": "bách khoa toàn thư",
+                "百科全書": "bách khoa toàn thư",
+                "百科辭典": "bách khoa từ điển",
+                "百里": "bách lí",
+                "百里才": "bách lí tài",
+                "百靈": "bách linh",
+                "百靈鳥": "bách linh điểu",
+                "百兩": "bách lượng",
+                "百慕大": "bách mộ đại",
+                "百衲": "bách nạp",
+                "百納本": "bách nạp bản",
+                "百納衣": "bách nạp y",
+                "百藝": "bách nghệ",
+                "百眼莉": "bách nhãn lê",
+                "百忍": "bách nhẫn",
+                "百一": "bách nhất",
+                "百日": "bách nhật",
+                "百日紅": "bách nhật hồng",
+                "百日咳": "bách nhật khái",
+                "百年": "bách niên",
+                "百年偕老": "bách niên giai lão",
+                "百年好合": "bách niên hảo hợp",
+                "百發百中": "bách phát bách trúng",
+                "百分": "bách phân",
+                "百分法": "bách phân pháp",
+                "百分率": "bách phân suất",
+                "百芳": "bách phương",
+                "百疾": "bách tật",
+                "百聲鳥": "bách thanh điểu",
+                "百草": "bách thảo",
+                "百草霜": "bách thảo sương",
+                "百神": "bách thần",
+                "百世": "bách thế",
+                "百世師": "bách thế sư",
+                "百舌鳥": "bách thiệt điểu",
+                "百獸": "bách thú",
+                "百姓": "bách tính",
+                "百晬": "bách tối",
+                "百足": "bách túc",
+                "百歲": "bách tuế",
+                "百歲之後": "bách tuế chi hậu",
+                "百歲爲期": "bách tuế vi kì",
+                "百聞不如一見": "bách văn bất như nhất kiến",
+                "百越": "bách việt",
+                "百無禁忌": "bách vô cấm kị",
+                "百出": "bách xuất",
+                "五百": "ngũ bách",
+                "一百": "nhất bách",
+                "一百八十": "nhất bách bát thập độ",
+                "一呼百諾": "nhất hô bách nặc",
+                "二百": "nhị bách",
+                "三百": "tam bách",
+                "十年樹木，百年樹人": "thập niên thụ mộc, bách niên thụ nhân"
+            }
+        },
+        "bách": {
+            "Từ điển phổ thông": [
+                "trăm, 100",
+                "rất nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trăm (số mục). ◇Trang Tử 莊子: 'Khách văn chi, thỉnh mãi kì phương bách kim' 客聞之, 請 買其方百金事 (Tiêu dao du 逍遙遊) Khách nghe chuyện, xin mua phương thuốc đó trăm lạng vàng.",
+                "(Danh) Họ 'Bách'.",
+                "(Tính) Nhiều. ◎Như: 'bách tính' 百姓 trăm họ, dân chúng.",
+                "(Tính) Gấp trăm lần.",
+                "§ Có khi đọc là 'bá'.",
+                "Một âm là 'mạch'. (Danh) Cố gắng, gắng sức. ◇Tả truyện 左傳: 'Cự dược tam mạch, khúc dũng tam mạch' 距躍三百, 曲踴三百 (Hi Công nhị thập bát niên 僖公二十八年) Nhảy ra xa, ba phen gắng sức, cong chân nhảy lên, ba phen gắng sức."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trăm.",
+                "Nhiều, như bách tính 百姓 trăm họ.",
+                "Gấp trăm lần. Có khi đọc là chữ bá.",
+                "Một âm là mạch. Cố gắng, như cự dược tam mạch 距躍三百 gắng nhảy ba bận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【百色】Bá Sắc [Bósè] Huyện Bá Sắc (thuộc Khu tự trị dân tộc Choang ở Quảng Tây, Trung Quốc). Xem 百 [băi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một trăm. Cũng đọc Bá — Nhiều, đông đảo — Một âm khác là Mạch. Xem vần Mạch."
+            ],
+            "compound_words": {
+                "百八鐘": "bách bát chung",
+                "百八煩惱": "bách bát phiền não",
+                "百變": "bách biến",
+                "百步": "bách bộ",
+                "百補": "bách bổ",
+                "百步穿楊": "bách bộ xuyên dương",
+                "百部穿楊": "bách bộ xuyên dương",
+                "百感": "bách cảm",
+                "百感交集": "bách cảm giao tập",
+                "百戰": "bách chiến",
+                "百戰百勝": "bách chiến bách thắng",
+                "百折": "bách chiết",
+                "百折不回": "bách chiết bất hồi",
+                "百折千回": "bách chiết thiên hồi",
+                "百折千磨": "bách chiết thiên ma",
+                "百穀": "bách cốc",
+                "百工": "bách công",
+                "百葉": "bách diệp",
+                "百葉窗": "bách diệp song",
+                "百代": "bách đại",
+                "百家": "bách gia",
+                "百解": "bách giải",
+                "百行": "bách hạnh",
+                "百貨": "bách hoá",
+                "百货": "bách hoá",
+                "百花蜜": "bách hoa mật",
+                "百花生日": "bách hoa sinh nhật",
+                "百花酒": "bách hoa tửu",
+                "百花王": "bách hoa vương",
+                "百戶": "bách hộ",
+                "百合": "bách hợp",
+                "百合科": "bách hợp khoa",
+                "百計": "bách kế",
+                "百結衣": "bách kết y",
+                "百科": "bách khoa",
+                "百科全书": "bách khoa toàn thư",
+                "百科全書": "bách khoa toàn thư",
+                "百科辭典": "bách khoa từ điển",
+                "百里": "bách lí",
+                "百里才": "bách lí tài",
+                "百靈": "bách linh",
+                "百靈鳥": "bách linh điểu",
+                "百兩": "bách lượng",
+                "百慕大": "bách mộ đại",
+                "百衲": "bách nạp",
+                "百納本": "bách nạp bản",
+                "百納衣": "bách nạp y",
+                "百藝": "bách nghệ",
+                "百眼莉": "bách nhãn lê",
+                "百忍": "bách nhẫn",
+                "百一": "bách nhất",
+                "百日": "bách nhật",
+                "百日紅": "bách nhật hồng",
+                "百日咳": "bách nhật khái",
+                "百年": "bách niên",
+                "百年偕老": "bách niên giai lão",
+                "百年好合": "bách niên hảo hợp",
+                "百發百中": "bách phát bách trúng",
+                "百分": "bách phân",
+                "百分法": "bách phân pháp",
+                "百分率": "bách phân suất",
+                "百芳": "bách phương",
+                "百官": "bách quan",
+                "百疾": "bách tật",
+                "百聲鳥": "bách thanh điểu",
+                "百草": "bách thảo",
+                "百草霜": "bách thảo sương",
+                "百神": "bách thần",
+                "百世": "bách thế",
+                "百世師": "bách thế sư",
+                "百舌鳥": "bách thiệt điểu",
+                "百獸": "bách thú",
+                "百姓": "bách tính",
+                "百晬": "bách tối",
+                "百足": "bách túc",
+                "百歲": "bách tuế",
+                "百歲之後": "bách tuế chi hậu",
+                "百歲爲期": "bách tuế vi kì",
+                "百聞不如一見": "bách văn bất như nhất kiến",
+                "百越": "bách việt",
+                "百無禁忌": "bách vô cấm kị",
+                "百出": "bách xuất",
+                "五百": "ngũ bách",
+                "一百": "nhất bách",
+                "一百八十": "nhất bách bát thập độ",
+                "一呼百諾": "nhất hô bách nặc",
+                "二百": "nhị bách",
+                "三百": "tam bách",
+                "十年樹木，百年樹人": "thập niên thụ mộc, bách niên thụ nhân"
+            }
+        },
+        "mạch": {
+            "Từ điển trích dẫn": [
+                "(Danh) Trăm (số mục). ◇Trang Tử 莊子: 'Khách văn chi, thỉnh mãi kì phương bách kim' 客聞之, 請 買其方百金事 (Tiêu dao du 逍遙遊) Khách nghe chuyện, xin mua phương thuốc đó trăm lạng vàng.",
+                "(Danh) Họ 'Bách'.",
+                "(Tính) Nhiều. ◎Như: 'bách tính' 百姓 trăm họ, dân chúng.",
+                "(Tính) Gấp trăm lần.",
+                "§ Có khi đọc là 'bá'.",
+                "Một âm là 'mạch'. (Danh) Cố gắng, gắng sức. ◇Tả truyện 左傳: 'Cự dược tam mạch, khúc dũng tam mạch' 距躍三百, 曲踴三百 (Hi Công nhị thập bát niên 僖公二十八年) Nhảy ra xa, ba phen gắng sức, cong chân nhảy lên, ba phen gắng sức."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trăm.",
+                "Nhiều, như bách tính 百姓 trăm họ.",
+                "Gấp trăm lần. Có khi đọc là chữ bá.",
+                "Một âm là mạch. Cố gắng, như cự dược tam mạch 距躍三百 gắng nhảy ba bận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cố gắng. Gắng sức — Các âm khác là Bách, Bá. Xem các âm này."
+            ]
+        }
+    }
+}

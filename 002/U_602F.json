@@ -1,0 +1,89 @@
+{
+    "character": "怯",
+    "details": {
+        "Âm Hán Việt": [
+            "khiếp"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖去"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "PGI (心土戈)"
+        ],
+        "Unicode": [
+            "U+602F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qiè ㄑㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "khép",
+            "khiếp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひる.む (hiru.mu)",
+            "おびえ.る (obie.ru)",
+            "おじる (ojiru)",
+            "おび.える (obi.eru)",
+            "おそ.れる (oso.reru)"
+        ],
+        "Âm Hàn": [
+            "겁"
+        ],
+        "Âm Quảng Đông": [
+            "hip3"
+        ]
+    },
+    "meanings": {
+        "khiếp": {
+            "Từ điển phổ thông": [
+                "e sợ, khiếp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sợ, nhát sợ. ◇Sử Kí 史記: 'Ngã cố tri Tề quân khiếp, nhập ngô địa tam nhật, sĩ tốt vong giả quá bán hĩ' 我固知齊軍怯, 入吾地三日, 士卒亡者過半矣 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Ta biết chắc rằng quân Tề nhát sợ, vào đất ta mới ba ngày, sĩ tốt đã bỏ trốn quá nửa.",
+                "(Tính) E thẹn, mắc cỡ. ◎Như: 'kiều khiếp' 嬌怯 e thẹn, xấu hổ.",
+                "(Tính) Yếu đuối. ◎Như: 'khiếp nhược' 怯弱 yếu đuối, bạc nhược.",
+                "(Tính) Hèn yếu, nhút nhát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sợ khiếp (nhát). Tục gọi người hay ốm là khiếp nhược 怯弱, tả cái vẻ con gái lướt mướt gọi là kiều khiếp 嬌怯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sợ, nhát, khiếp đảm: 膽怯 Nhát gan, sợ sệt, khiếp sợ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hãi — Nhút nhát. Nhát gan."
+            ],
+            "compound_words": {
+                "怯弱": "khiếp nhược",
+                "怯惰": "khiếp noạ",
+                "怯夫": "khiếp phu",
+                "恐怯": "khủng khiếp",
+                "發怯": "phát khiếp",
+                "卑怯": "ty khiếp"
+            }
+        }
+    }
+}

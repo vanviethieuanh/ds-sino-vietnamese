@@ -1,0 +1,81 @@
+{
+    "character": "剩",
+    "details": {
+        "Âm Hán Việt": [
+            "thặng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "đao 刀 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰乘⺉"
+        ],
+        "Nét bút": [
+            "ノ一丨丨一一ノフノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "HPLN (竹心中弓)"
+        ],
+        "Unicode": [
+            "U+5269"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shèng ㄕㄥˋ"
+        ],
+        "Âm Nôm": [
+            "thặng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あまつさえ (amatsusae)",
+            "あま.り (ama.ri)",
+            "あま.る (ama.ru)"
+        ],
+        "Âm Hàn": [
+            "잉"
+        ],
+        "Âm Quảng Đông": [
+            "sing6",
+            "zing6"
+        ]
+    },
+    "meanings": {
+        "thặng": {
+            "Từ điển phổ thông": [
+                "còn, thừa ra",
+                "tặng thêm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Thừa, còn dư. ◎Như: 'thặng phạn' 剩飯 cơm thừa, 'thặng thái' 剩菜 thức ăn thừa.",
+                "(Động) Có thừa, dư lại, còn lại. ◎Như: 'chỉ thặng hạ tha nhất cá nhân' 只剩下他一個人 chỉ còn lại một mình nó. ◇Nguyễn Du 阮攸: 'Thặng hữu nhàn tâm vô quái ngại' 剩有閒心無罣礙 (Hoàng Hà trở lạo 黄河阻潦) Có thừa một tấm lòng an nhiên vô ngại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tăng thêm;",
+                "Dư, thừa (dùng như 剩, bộ 刂)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thừa ra. Dư ra. Td: Thặng dư."
+            ],
+            "compound_words": {
+                "餘剩": "dư thặng",
+                "過剩": "quá thặng",
+                "剩餘": "thặng dư",
+                "剩馀": "thặng dư"
+            }
+        }
+    }
+}

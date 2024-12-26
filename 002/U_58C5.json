@@ -1,0 +1,111 @@
+{
+    "character": "壅",
+    "details": {
+        "Âm Hán Việt": [
+            "ung",
+            "úng",
+            "Ủng",
+            "ủng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thổ 土 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱雍土"
+        ],
+        "Nét bút": [
+            "丶一フフノノ丨丶一一一丨一一丨一"
+        ],
+        "Thương Hiệt": [
+            "YVGG (卜女土土)"
+        ],
+        "Unicode": [
+            "U+58C5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yōng ㄧㄨㄥ",
+            "yǒng ㄧㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "ung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふさ.ぐ (fusa.gu)"
+        ],
+        "Âm Hàn": [
+            "옹"
+        ],
+        "Âm Quảng Đông": [
+            "jung1",
+            "jung2"
+        ]
+    },
+    "meanings": {
+        "ung": {
+            "Từ điển trích dẫn": [
+                "(Động) Bế tắc, nghẽn, không thông. ◎Như: 'ủng tắc' 壅塞 tắc nghẽn. ◇Quốc ngữ 國學: 'Xuyên ủng nhi hội, thương nhân tất đa, dân diệc như chi' 川壅而潰, 傷人必多, 民亦如之 (Chu ngữ thượng 周語上) Sông tắc nghẽ thì vỡ tràn, làm thương tổn người hẳn là nhiều, dân cũng như thế.",
+                "(Động) Che lấp, cản trở. ◎Như: 'ủng tế' 壅蔽 che lấp. ◇Sử Kí 史記: 'Chu đạo suy phế, Khổng Tử vi Lỗ ti khấu, chư hầu hại chi, đại phu ủng chi' 周道衰廢, 孔子為魯司寇, 諸侯害之, 大夫壅之 (Thái sử công tự tự 太史公自序) Đạo nhà Chu suy vi bị bỏ phế, Khổng Tử làm quan tư khấu nước Lỗ, bị các nước chư hầu hại ông, quan đại phu ngăn cản ông.",
+                "(Động) Vun đắp, bồi dưỡng. ◎Như: 'bồi ủng' 培壅 bồi đắp. ◇Vương Sung 王充: 'Vật hoàng, nhân tuy quán khái ủng dưỡng, chung bất năng thanh' 物黃, 人雖灌溉壅養, 終不能青 (Luận hành 論衡, Đạo hư 道虛) Cây héo vàng, dù người tưới rót bồi bổ, rốt cuộc cũng không xanh lại được.",
+                "§ Cũng đọc là 'ung'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lấp, nhân cớ gì mà làm cho trên dưới không rõ nhau gọi là ủng tế 壅蔽.",
+                "Ðắp, vun thêm đất cho cây gọi là bồi ủng 培壅.",
+                "Ủng trệ, cũng đọc là chữ ung."
+            ]
+        },
+        "úng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấp mất. Ngăn mất — Che lấp đi."
+            ],
+            "compound_words": {
+                "壅閉": "úng bế",
+                "壅塞": "úng tắc",
+                "壅蔽": "úng tế",
+                "壅水": "úng thuỷ"
+            }
+        },
+        "Ủng": {
+            "Từ điển Trần Văn Chánh": [
+                "Tắc nghẽn;",
+                "Vun, vun đắp: 壅土 Vun đất;",
+                "Lấp."
+            ]
+        },
+        "ủng": {
+            "Từ điển phổ thông": [
+                "vun xới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bế tắc, nghẽn, không thông. ◎Như: 'ủng tắc' 壅塞 tắc nghẽn. ◇Quốc ngữ 國學: 'Xuyên ủng nhi hội, thương nhân tất đa, dân diệc như chi' 川壅而潰, 傷人必多, 民亦如之 (Chu ngữ thượng 周語上) Sông tắc nghẽ thì vỡ tràn, làm thương tổn người hẳn là nhiều, dân cũng như thế.",
+                "(Động) Che lấp, cản trở. ◎Như: 'ủng tế' 壅蔽 che lấp. ◇Sử Kí 史記: 'Chu đạo suy phế, Khổng Tử vi Lỗ ti khấu, chư hầu hại chi, đại phu ủng chi' 周道衰廢, 孔子為魯司寇, 諸侯害之, 大夫壅之 (Thái sử công tự tự 太史公自序) Đạo nhà Chu suy vi bị bỏ phế, Khổng Tử làm quan tư khấu nước Lỗ, bị các nước chư hầu hại ông, quan đại phu ngăn cản ông.",
+                "(Động) Vun đắp, bồi dưỡng. ◎Như: 'bồi ủng' 培壅 bồi đắp. ◇Vương Sung 王充: 'Vật hoàng, nhân tuy quán khái ủng dưỡng, chung bất năng thanh' 物黃, 人雖灌溉壅養, 終不能青 (Luận hành 論衡, Đạo hư 道虛) Cây héo vàng, dù người tưới rót bồi bổ, rốt cuộc cũng không xanh lại được.",
+                "§ Cũng đọc là 'ung'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lấp, nhân cớ gì mà làm cho trên dưới không rõ nhau gọi là ủng tế 壅蔽.",
+                "Ðắp, vun thêm đất cho cây gọi là bồi ủng 培壅.",
+                "Ủng trệ, cũng đọc là chữ ung."
+            ],
+            "compound_words": {
+                "培壅": "bồi ủng",
+                "壅塞": "ủng tắc"
+            }
+        }
+    }
+}

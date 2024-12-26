@@ -1,0 +1,78 @@
+{
+    "character": "彳",
+    "details": {
+        "Âm Hán Việt": [
+            "sách",
+            "xích"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "xích 彳 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノノ丨"
+        ],
+        "Thương Hiệt": [
+            "HO (竹人)"
+        ],
+        "Unicode": [
+            "U+5F73"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ"
+        ],
+        "Âm Nôm": [
+            "sách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テキ (teki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たたず.む (tatazu.mu)"
+        ],
+        "Âm Hàn": [
+            "척"
+        ],
+        "Âm Quảng Đông": [
+            "cik1"
+        ]
+    },
+    "meanings": {
+        "sách": {
+            "Từ điển Thiều Chửu": [
+                "① Bước ngắn. Bước chân trái gọi là sách 彳, bước chân phải gọi là xúc 亍, hợp 彳 với 亍 lại thành ra chữ hành 行."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bước chân trái lên nửa bước — Bước ngắn — Tên một bộ chữ Trung Hoa, tức bộ Sách."
+            ],
+            "compound_words": {
+                "彳亍": "sách súc"
+            }
+        },
+        "xích": {
+            "Từ điển phổ thông": [
+                "bước chân trái"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bước ngắn. § Bước chân trái gọi là 'xích' 彳, bước chân phải gọi là 'xúc' 亍, hợp lại thành chữ 'hành' 行. ◎Như: 'xích xúc' 彳亍 bước đi chậm rãi.",
+                "§ Ghi chú: Có khi đọc là 'sách'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bước ngắn;",
+                "Bước chân trái. 【彳亍】xích xúc [chìchù] (văn) Đi tản bộ, đủng đa đủng đỉnh: 晚餐後她獨自在河邊彳亍 Sau bữa cơm chiều này đi tản bộ một mình bên bờ sông;",
+                "Kí hiệu chú âm của chữ Hán, tương đương với âm ch."
+            ]
+        }
+    }
+}

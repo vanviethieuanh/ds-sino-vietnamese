@@ -1,0 +1,86 @@
+{
+    "character": "莽",
+    "details": {
+        "Âm Hán Việt": [
+            "mãng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thảo 艸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý & hình thanh"
+        ],
+        "Hình thái": [
+            "⿳艹犬廾"
+        ],
+        "Nét bút": [
+            "一丨丨一ノ丶丶一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "TIKT (廿戈大廿)"
+        ],
+        "Unicode": [
+            "U+83BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "máng ㄇㄤˊ",
+            "mǎng ㄇㄤˇ"
+        ],
+        "Âm Nôm": [
+            "mãng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くさ (kusa)"
+        ],
+        "Âm Hàn": [
+            "망"
+        ],
+        "Âm Quảng Đông": [
+            "mong5"
+        ]
+    },
+    "meanings": {
+        "mãng": {
+            "Từ điển phổ thông": [
+                "cỏ mọc rậm, bụi cỏ",
+                "lớn, to",
+                "lỗ mãng, thô lỗ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ 'mãng'. ◎Như: 'mãng thảo' 莽草 một thứ cây mọc từng bụi, mùi hăng mà độc, dùng đánh bả chuột (lat. Llicium anisatum).",
+                "(Danh) Chỗ cây cỏ mọc um tùm. ◇Liêu trai chí dị 聊齋志異: 'Nhi bạc mộ tiềm nhập Hà thị viên, phục mãng trung, tương dĩ tham hồ sở tại' 兒薄暮潛入何氏園, 伏莽中, 將以探狐所在 (Cổ nhi 賈兒) Thằng bé xẩm tối lén đến vườn họ Hà, nấp trong bụi rậm, để dò xét chỗ ở của con hồ li.",
+                "(Tính) Thô lỗ, thô suất. ◎Như: 'lỗ mãng' 鹵莽 thô lỗ, 'mãng phu' 莽夫 người lỗ mãng.",
+                "(Tính) § Xem 'mãng mãng' 莽莽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cỏ rậm: 叢莽 Bụi rậm;",
+                "Thô lỗ: 莽撞 Lỗ mãng;",
+                "[Măng] (Họ) Mãng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ um tùm rậm rạp — Chỉ sự vụng về thô lỗ. Td: Lỗ mãng."
+            ],
+            "compound_words": {
+                "魯莽": "lỗ mãng",
+                "鲁莽": "lỗ mãng",
+                "鹵莽": "lỗ mãng",
+                "莽莽": "mãng mãng",
+                "莽蒼": "mãng thưởng",
+                "伏莽": "phục mãng"
+            }
+        }
+    }
+}

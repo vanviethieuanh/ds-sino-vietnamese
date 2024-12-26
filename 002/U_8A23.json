@@ -1,0 +1,87 @@
+{
+    "character": "訣",
+    "details": {
+        "Âm Hán Việt": [
+            "quyết"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言夬"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRDK (卜口木大)"
+        ],
+        "Unicode": [
+            "U+8A23"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "quyết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わかれ (wakare)",
+            "わかれ.る (wakare.ru)"
+        ],
+        "Âm Hàn": [
+            "결"
+        ],
+        "Âm Quảng Đông": [
+            "kyut3"
+        ]
+    },
+    "meanings": {
+        "quyết": {
+            "Từ điển phổ thông": [
+                "lời chăng chối (khi đi xa, khi chết)",
+                "phép bí truyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Từ biệt, cáo biệt, vĩnh biệt. ◎Như: 'vĩnh quyết' 永訣 lời nói của kẻ chết trối lại. ☆Tương tự: 'quyết biệt' 訣別, 'tử biệt' 死別, 'vĩnh biệt' 永別. ◇Sử Kí 史記: 'Dữ kì mẫu quyết, niết tí nhi minh viết: Khởi bất vi khanh tướng, bất phục nhập Vệ' 與其母訣, 齧臂而盟曰: 起不為卿相, 不復入衛 (Tôn Tử Ngô Khởi truyện 孫子吳起傳) Từ biệt mẹ, cắn vào cánh tay mà thề: Khởi này không làm khanh tướng thì không trở về nước Vệ nữa.",
+                "(Danh) Pháp thuật, phương pháp. ◎Như: 'trường sinh quyết' 長生訣 phép sống lâu.",
+                "(Danh) Câu nói dễ đọc tụng, dễ nhớ. ◎Như: 'khẩu quyết' 口訣 lời bí truyền dạy lại, dễ nhớ dễ tụng đọc, yếu chỉ truyền miệng (Phật giáo, Đạo giáo), 'ca quyết' 歌訣 yếu chỉ truyền lại, có vần hoặc không có vần, dễ nhớ và dễ tụng đọc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quyết biệt, sắp đi xa lâu mà tặng bằng lời gọi là quyết. Lời nói của kẻ chết trối lại gọi là lời vĩnh quyết 永訣.",
+                "Phép bí truyền. Như trường sinh quyết 長生訣 cái phép bí truyền làm cho sống lâu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kế, bí quyết, phép bí truyền: 妙訣 Diệu kế; 祕訣 Bí quyết; 長生訣 Bí quyết sống lâu;",
+                "Câu đọc dễ thuộc, lời có vần, vè: 口訣 Câu đọc dễ thuộc, bài vè;",
+                "Từ biệt, li biệt, quyết biệt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Riêng biệt ra — Giã từ người chết. Td: Vĩnh quyết — Phép thuật. Cách thức hay. Td: Bí quyết."
+            ],
+            "compound_words": {
+                "印訣": "ấn quyết",
+                "祕訣": "bí quyết",
+                "符訣": "phù quyết",
+                "訣要": "quyết yếu",
+                "永訣": "vĩnh quyết",
+                "要訣": "yếu quyết"
+            }
+        }
+    }
+}

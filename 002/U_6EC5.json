@@ -1,0 +1,119 @@
+{
+    "character": "滅",
+    "details": {
+        "Âm Hán Việt": [
+            "diệt"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡烕"
+        ],
+        "Nét bút": [
+            "丶丶一一ノ一丶ノノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "EIHF (水戈竹火)"
+        ],
+        "Unicode": [
+            "U+6EC5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "miè ㄇㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "diệt",
+            "dột",
+            "riết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メツ (metsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほろ.びる (horo.biru)",
+            "ほろ.ぶ (horo.bu)",
+            "ほろ.ぼす (horo.bosu)"
+        ],
+        "Âm Hàn": [
+            "멸"
+        ],
+        "Âm Quảng Đông": [
+            "mit6"
+        ]
+    },
+    "meanings": {
+        "diệt": {
+            "Từ điển phổ thông": [
+                "giết",
+                "dập tắt (lửa)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mất, tan mất. ◎Như: 'nhân diệt' 湮滅 chìm mất. ◇Liễu Tông Nguyên 柳宗元: 'Thiên san điểu phi tuyệt, Vạn kính nhân tung diệt' 千山鳥飛絕, 萬逕人蹤滅 (Giang tuyết 江雪) Nghìn núi, chim bay hết, Muôn lối đi, dấu chân người mất.",
+                "(Động) Dập tắt, tắt. ◎Như: 'diệt chúc' 滅燭 tắt nến, 'diệt hỏa' 滅火 tắt lửa, 'đăng diệt liễu' 燈滅了 đèn tắt rồi.",
+                "(Động) Hết, trừ tuyệt. ◎Như: 'tuyệt diệt' 絕滅 hết sạch, 'diệt độ' 滅度 diệt hết phiền não, qua bể sinh tử (chết).",
+                "(Động) Ngập, chìm. ◎Như: 'diệt đính' 滅頂 chết đuối, ngập lút đầu (gặp tai họa trầm trọng)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mất, tan mất.",
+                "Tắt, như diệt chúc 滅燭 tắt nến.",
+                "Hết, như tuyệt diệt 絕滅 hết nhẵn.",
+                "Lỗ mỗ diệt liệt 鹵莽滅裂 càn dở luộm thuộm, nói kẻ không biết xét kĩ, cứ cố làm liều đến nỗi mất cả căn bản.",
+                "Diệt độ 滅度 diệt hết phiền não qua bể sinh tử (chết)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tắt: 火滅了 Lửa tắt rồi; 燈滅了 Đèn tắt rồi;",
+                "Dập tắt: 滅燈 Tắt đèn; 滅火 Dập tắt lửa;",
+                "Ngập, lút: 滅頂 Lút đầu, chết đuối;",
+                "Xóa bỏ, diệt trừ: 滅蠅 Diệt ruồi; 滅跡 Xóa bỏ dấu vết; 滅盡天良 Táng tận lương tâm;",
+                "Mất, tan mất, hết: 絕滅 Hết trụi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lửa tắt — Hết — Mất đi."
+            ],
+            "compound_words": {
+                "遏滅": "át diệt",
+                "不滅": "bất diệt",
+                "種族滅絕": "chủng tộc diệt tuyệt",
+                "已滅": "dĩ diệt",
+                "滅種": "diệt chủng",
+                "滅度": "diệt độ",
+                "滅火器": "diệt hoả khí",
+                "滅口": "diệt khẩu",
+                "滅裂": "diệt liệt",
+                "滅沒": "diệt một",
+                "滅跡": "diệt tích",
+                "滅族": "diệt tộc",
+                "滅絕": "diệt tuyệt",
+                "滅亡": "diệt vong",
+                "毀滅": "huỷ diệt",
+                "灰滅": "khôi diệt",
+                "堙滅": "nhân diệt",
+                "入滅": "nhập diệt",
+                "破滅": "phá diệt",
+                "烹滅": "phanh diệt",
+                "仆滅": "phó diệt",
+                "殘滅": "tàn diệt",
+                "掃滅": "tảo diệt",
+                "寂滅": "tịch diệt",
+                "消滅": "tiêu diệt",
+                "除滅": "trừ diệt",
+                "絶滅": "tuyệt diệt",
+                "熄滅": "tức diệt",
+                "湮滅": "yên diệt"
+            }
+        }
+    }
+}

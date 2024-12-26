@@ -1,0 +1,90 @@
+{
+    "character": "趾",
+    "details": {
+        "Âm Hán Việt": [
+            "chỉ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "túc 足 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊止"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "RMYLM (口一卜中一)"
+        ],
+        "Unicode": [
+            "U+8DBE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhǐ ㄓˇ"
+        ],
+        "Âm Nôm": [
+            "chỉ",
+            "nhảy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あと (ato)",
+            "はや.い (haya.i)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi2"
+        ]
+    },
+    "meanings": {
+        "chỉ": {
+            "Từ điển phổ thông": [
+                "chân",
+                "ngón chân",
+                "dấu vết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chân. ◎Như: 'cử chỉ' 舉趾 cất chân lên. ◇Tô Mạn Thù 蘇曼殊: 'Hà cảm trọng phiền ngọc chỉ' 何敢重煩玉趾 (Đoạn hồng linh nhạn kí 斷鴻零雁記) Đâu dám phiền rầy gót ngọc.",
+                "(Danh) Ngón chân. ◎Như: 'túc chỉ' 足趾 ngón chân.",
+                "(Danh) Nền. § Thông 'chỉ' 址.",
+                "(Danh) Chân núi, sơn cước. ◇Nguyễn Tịch 阮籍: 'Khứ thượng tây san chỉ' 去上西山趾 (Vịnh hoài 詠懷) Đi lên chân núi tây.",
+                "(Danh) Dấu vết, tung tích."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chân. Như cử chỉ 舉趾 cất chân lên, nay thường gọi chỉ là ngón chân.",
+                "Nền, cùng nghĩa với chữ chỉ 址.",
+                "Dấu vết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngón chân: 五趾 Năm ngón chân;",
+                "Chân, chỉ: 趾行類 Loài đi bằng chân;",
+                "(văn) Nền (dùng như 址, bộ 土);",
+                "(văn) Dấu vết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngón chân — Cái chân — Vết tích."
+            ],
+            "compound_words": {
+                "基趾": "cơ chỉ",
+                "交趾": "giao chỉ",
+                "玉趾": "ngọc chỉ"
+            }
+        }
+    }
+}

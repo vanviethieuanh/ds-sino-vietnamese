@@ -1,0 +1,56 @@
+{
+    "character": "鷤",
+    "details": {
+        "Âm Hán Việt": [
+            "đàn",
+            "đề"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰單鳥"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一丨フ一一一丨ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "RJHAF (口十竹日火)"
+        ],
+        "Unicode": [
+            "U+9DE4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Quảng Đông": [
+            "dai6",
+            "taan5",
+            "tai4"
+        ]
+    },
+    "meanings": {
+        "đàn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chim trĩ con — Một âm là Đề."
+            ]
+        },
+        "đề": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Đề khuê 鷤䳏."
+            ],
+            "compound_words": {
+                "鷤䳏": "đề khuê"
+            }
+        }
+    }
+}

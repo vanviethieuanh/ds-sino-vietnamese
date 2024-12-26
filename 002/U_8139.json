@@ -1,0 +1,90 @@
+{
+    "character": "脹",
+    "details": {
+        "Âm Hán Việt": [
+            "trướng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhục 肉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月長"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BSMV (月尸一女)"
+        ],
+        "Unicode": [
+            "U+8139"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ",
+            "zhàng ㄓㄤˋ"
+        ],
+        "Âm Nôm": [
+            "chương",
+            "rướn",
+            "trướng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "は.れる (ha.reru)",
+            "ふく.らむ (fuku.ramu)",
+            "ふく.れる (fuku.reru)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng3"
+        ]
+    },
+    "meanings": {
+        "trướng": {
+            "Từ điển phổ thông": [
+                "phình ra, trương ra",
+                "tăng giá",
+                "nước dâng lên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) To lên, dãn ra, phình ra. ◎Như: 'bành trướng' 膨脹 mở căng ra, 'nhiệt trướng lãnh súc' 熱脹冷縮 nóng dãn lạnh co.",
+                "(Tính) Đầy, nặng bụng (vì ăn no quá có cảm giác khó chịu). ◎Như: 'phúc trướng' 腹脹 bụng đầy.",
+                "(Tính) Sưng, phù. ◎Như: 'thũng trướng' 腫脹 sưng phù. ◇Hồng Lâu Mộng 紅樓夢: 'Tập Nhân khởi lai, tiện giác thân thể phát trọng, đầu đông mục trướng, tứ chi hỏa nhiệt' 襲人起來, 便覺身體發重, 頭疼目脹, 四肢火熱 (Đệ thập cửu hồi) Tập Nhân dậy, thấy người khó chịu, đầu nhức, mắt húp, chân tay nóng bức."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trương. Bụng đầy rán lên gọi là phúc trướng 腹脹. Nề sưng gọi là thũng trướng 腫脹."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Bụng no) căng ra, trương lên: 腹脹 Bụng trường đầy; 腫脹 Sưng phù; 吃得太多，肚子脹了 Ăn nhiều quá căng bụng ra;",
+                "Đầy: 我覺得肚子有點發脹 Tôi thấy hơi đầy bụng;",
+                "Choáng, khó chịu: 頭昏腦脹 Chóng mặt choáng đầu;",
+                "Sưng, tấy: 手指頭發脹 Ngón tay sưng (tấy) lên;",
+                "Dãn: 熱脹冷"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bụng lớn ra. Bụng chương lên — Phình lớn lên."
+            ],
+            "compound_words": {
+                "膨脹": "bành trướng",
+                "肺脹": "phế trướng",
+                "腹脹": "phúc trướng"
+            }
+        }
+    }
+}

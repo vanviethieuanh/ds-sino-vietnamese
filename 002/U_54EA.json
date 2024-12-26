@@ -1,0 +1,94 @@
+{
+    "character": "哪",
+    "details": {
+        "Âm Hán Việt": [
+            "na",
+            "ná",
+            "nả"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口那"
+        ],
+        "Nét bút": [
+            "丨フ一フ一一ノフ丨"
+        ],
+        "Thương Hiệt": [
+            "RSQL (口尸手中)"
+        ],
+        "Unicode": [
+            "U+54EA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nā ㄋㄚ",
+            "nǎ ㄋㄚˇ",
+            "na",
+            "né ㄋㄜˊ",
+            "něi ㄋㄟˇ"
+        ],
+        "Âm Nôm": [
+            "na",
+            "nư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)",
+            "ナ (na)"
+        ],
+        "Âm Quảng Đông": [
+            "naa1",
+            "naa4",
+            "naa5"
+        ]
+    },
+    "meanings": {
+        "na": {
+            "Từ điển phổ thông": [
+                "gì, nào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Đại) Biểu thị nghi vấn: cái nào trong các sự vật đồng loại. ◎Như: 'tòng na nhất phương diện thuyết?' 從哪一方面說?",
+                "(Đại) Nói trống không, cái nào đó chưa xác định. ◎Như: 'na thiên hữu không ngã hoàn yếu trảo nhĩ đàm đàm' 哪天有空我還要找你談談.",
+                "(Đại) Chỉ bất cứ cái nào. ◎Như: 'bất luận khứ đáo na nhất thôn...' 不論去到哪一村...",
+                "(Phó) Biểu thị phản vấn. § Thường mang ý phủ định. ◎Như: 'na tri' 哪知 biết đâu, 'na năng' 哪能 sao có thể? ◇Lão Xá 老舍: 'Nhĩ đảo tưởng đắc hảo, khả na năng na ma dong dị?' 你倒想得好, 可哪能那麼容易? (Trà quán 茶館, Đệ tam mạc 第三幕).",
+                "Một âm là 'nả'. (Thán) Biểu thị không lấy làm đúng: đâu có, nào có. ◎Như: 'khán điện thị nả hữu hiện tràng đích khí phân nha!' 看電視哪有現場的氣氛呀!",
+                "(Từ ngữ khí) Biểu thị kêu gọi hoặc đình đốn. ◎Như: 'thiên nả' 天哪 trời ơi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng trợ ngữ cuối câu, với ý than thở, trách móc ( dùng trong Bạch thoại ) — Tiếng dùng để hỏi. Xem Na tri."
+            ],
+            "compound_words": {
+                "哪知": "na tri",
+                "在哪": "tại na"
+            }
+        },
+        "ná": {
+            "Từ điển Trần Văn Chánh": [
+                "(khn) Nào, mà, ấy, đó. Xem 哪 [nă], [na]."
+            ]
+        },
+        "nả": {
+            "Từ điển trích dẫn": [
+                "(Đại) Biểu thị nghi vấn: cái nào trong các sự vật đồng loại. ◎Như: 'tòng na nhất phương diện thuyết?' 從哪一方面說?",
+                "(Đại) Nói trống không, cái nào đó chưa xác định. ◎Như: 'na thiên hữu không ngã hoàn yếu trảo nhĩ đàm đàm' 哪天有空我還要找你談談.",
+                "(Đại) Chỉ bất cứ cái nào. ◎Như: 'bất luận khứ đáo na nhất thôn...' 不論去到哪一村...",
+                "(Phó) Biểu thị phản vấn. § Thường mang ý phủ định. ◎Như: 'na tri' 哪知 biết đâu, 'na năng' 哪能 sao có thể? ◇Lão Xá 老舍: 'Nhĩ đảo tưởng đắc hảo, khả na năng na ma dong dị?' 你倒想得好, 可哪能那麼容易? (Trà quán 茶館, Đệ tam mạc 第三幕).",
+                "Một âm là 'nả'. (Thán) Biểu thị không lấy làm đúng: đâu có, nào có. ◎Như: 'khán điện thị nả hữu hiện tràng đích khí phân nha!' 看電視哪有現場的氣氛呀!",
+                "(Từ ngữ khí) Biểu thị kêu gọi hoặc đình đốn. ◎Như: 'thiên nả' 天哪 trời ơi."
+            ]
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "character": "执",
+    "details": {
+        "Âm Hán Việt": [
+            "chấp"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thủ 手 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘丸"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "QKNI (手大弓戈)"
+        ],
+        "Unicode": [
+            "U+6267"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhí ㄓˊ"
+        ],
+        "Âm Nôm": [
+            "chắp",
+            "chấp",
+            "giập",
+            "xấp",
+            "xúp"
+        ],
+        "Âm Quảng Đông": [
+            "zap1"
+        ]
+    },
+    "meanings": {
+        "chấp": {
+            "Từ điển phổ thông": [
+                "cầm, giữ",
+                "thi hành, thực hiện"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 執."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 執"
+            ],
+            "compound_words": {
+                "执照": "chấp chiếu",
+                "执政": "chấp chính",
+                "执掌": "chấp chưởng",
+                "执行": "chấp hành",
+                "执法": "chấp pháp",
+                "执绋": "chấp phất",
+                "执事": "chấp sự",
+                "固执": "cố chấp"
+            }
+        }
+    }
+}

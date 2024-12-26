@@ -1,0 +1,85 @@
+{
+    "character": "达",
+    "details": {
+        "Âm Hán Việt": [
+            "thế",
+            "đạt"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "sước 辵 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶大"
+        ],
+        "Nét bút": [
+            "一ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YK (卜大)"
+        ],
+        "Unicode": [
+            "U+8FBE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dá ㄉㄚˊ",
+            "tà ㄊㄚˋ",
+            "tì ㄊㄧˋ"
+        ],
+        "Âm Nôm": [
+            "đạt",
+            "đặt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タツ (tatsu)",
+            "タチ (tachi)",
+            "テイ (tei)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なめ.らか (name.raka)",
+            "すべ.る (sube.ru)",
+            "たっす.る (ta'su.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "daat6"
+        ]
+    },
+    "meanings": {
+        "thế": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trơn trượt."
+            ]
+        },
+        "đạt": {
+            "Từ điển phổ thông": [
+                "qua, thông"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 達."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 達"
+            ],
+            "compound_words": {
+                "巴格达": "ba cách đạt",
+                "表达": "biểu đạt",
+                "到达": "đáo đạt",
+                "抵达": "để đạt",
+                "佛罗里达": "phật la lý đạt",
+                "传达": "truyền đạt"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "character": "瓣",
+    "details": {
+        "Âm Hán Việt": [
+            "biện"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "qua 瓜 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿲辛瓜辛"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一一ノノノフ丶丶丶一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YJHOJ (卜十竹人十)"
+        ],
+        "Unicode": [
+            "U+74E3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bàn ㄅㄢˋ"
+        ],
+        "Âm Nôm": [
+            "bẹ",
+            "biện"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ベン (ben)",
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わきま.える (wakima.eru)",
+            "わ.ける (wa.keru)",
+            "はなびら (hanabira)",
+            "あらそ.う (araso.u)"
+        ],
+        "Âm Hàn": [
+            "판"
+        ],
+        "Âm Quảng Đông": [
+            "baan6",
+            "faan6"
+        ]
+    },
+    "meanings": {
+        "biện": {
+            "Từ điển phổ thông": [
+                "cánh hoa",
+                "múi quả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hột giống dưa.",
+                "(Danh) Cánh hoa. ◇Hồng Lâu Mộng 紅樓夢: 'Dụng hoa biện, liễu chi biên thành kiệu mã' 用花瓣, 柳枝編成轎馬 (Đệ nhị thập thất hồi) Dùng cánh hoa, cành liễu bện thành kiệu ngựa.",
+                "(Danh) Gọi tắt của 'biện mô' 瓣膜. ◎Như: 'tam tiêm biện' 三尖瓣 bộ phận ba màng nhánh trong tim (tiếng Anh: aortic valve).",
+                "(Danh) Lượng từ: múi, nhánh, tép, miếng, phần. ◎Như: 'lưỡng biện nhi toán' 兩瓣兒蒜 hai nhánh tỏi, 'bả tây qua thiết thành tứ biện nhi' 把西瓜切成四瓣兒 bổ quả dưa hấu thành bốn miếng.",
+                "(Động) § Xem 'biện hương' 瓣香."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Những chỗ trong quả dưa có nhiều hạt nó châu lại với nhau gọi là biện.",
+                "Cánh hoa.",
+                "Múi quả.",
+                "Biện hương 瓣香 kính trọng, kính mộ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Múi (cam...), tép (tỏi...) ;",
+                "Cánh (hoa): 花瓣 Cánh hoa. Cv. 瓣兒 [bànr];",
+                "【瓣香】 biện hương [bànxiang] Kính trọng, kính mộ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hột của trái dưa — Tấm mỏng, phiến mỏng — Cánh hoa."
+            ],
+            "compound_words": {
+                "瓣香": "biện hương",
+                "一瓣香": "nhất biện hương"
+            }
+        }
+    }
+}

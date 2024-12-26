@@ -1,0 +1,76 @@
+{
+    "character": "积",
+    "details": {
+        "Âm Hán Việt": [
+            "tí",
+            "tích"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoà 禾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾只"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDRC (竹木口金)"
+        ],
+        "Unicode": [
+            "U+79EF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "tích"
+        ],
+        "Âm Quảng Đông": [
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "tí": {
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 積."
+            ],
+            "compound_words": {
+                "靣积": "diện tích",
+                "堆积": "đôi tích",
+                "囤积": "độn tích",
+                "捏积": "niết tích"
+            }
+        },
+        "tích": {
+            "Từ điển phổ thông": [
+                "chứa chất, tích, dồn lại",
+                "tích (kết quả phép nhân)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Giản thể của chữ 積."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 積"
+            ],
+            "compound_words": {
+                "靣积": "diện tích",
+                "堆积": "đôi tích",
+                "囤积": "độn tích",
+                "捏积": "niết tích"
+            }
+        }
+    }
+}

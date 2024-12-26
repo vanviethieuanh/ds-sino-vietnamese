@@ -1,0 +1,110 @@
+{
+    "character": "嬭",
+    "details": {
+        "Âm Hán Việt": [
+            "nãi",
+            "nễ"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nữ 女 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女爾"
+        ],
+        "Nét bút": [
+            "フノ一丨ノ丶丨フ丨ノ丶ノ丶ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMFB (女一火月)"
+        ],
+        "Unicode": [
+            "U+5B2D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "nǎi ㄋㄞˇ"
+        ],
+        "Âm Nôm": [
+            "nãi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダイ (dai)",
+            "ナイ (nai)",
+            "デイ (dei)",
+            "ジ (ji)",
+            "ネ (ne)",
+            "ニ (ni)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はは (haha)",
+            "はぐく.む (haguku.mu)",
+            "あね (ane)"
+        ],
+        "Âm Hàn": [
+            "내"
+        ],
+        "Âm Quảng Đông": [
+            "naai5"
+        ]
+    },
+    "meanings": {
+        "nãi": {
+            "Từ điển phổ thông": [
+                "đàn bà",
+                "vú",
+                "sữa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vú. § Thông 'nãi' 奶.",
+                "(Danh) Tiếng tôn xưng phụ nữ.",
+                "Một âm là 'nễ'. (Danh) Mẹ, mẫu thân. § Người nước Sở gọi mẹ là 'nễ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vú sữa.",
+                "Tiếng xưng tôn trọng của đàn bà.",
+                "Một âm là nễ. Người nước Sở gọi mẹ là nễ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 奶."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như hai chữ Nãi 妳, 奶."
+            ],
+            "compound_words": {
+                "阿嬭": "a nãi",
+                "嬭油": "nãi du",
+                "嬭媽": "nãi ma",
+                "嬭母": "nãi mẫu",
+                "嬭嬭": "nãi nãi",
+                "嬭牛": "nãi ngưu",
+                "嬭罩": "nãi trạo"
+            }
+        },
+        "nễ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Vú. § Thông 'nãi' 奶.",
+                "(Danh) Tiếng tôn xưng phụ nữ.",
+                "Một âm là 'nễ'. (Danh) Mẹ, mẫu thân. § Người nước Sở gọi mẹ là 'nễ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vú sữa.",
+                "Tiếng xưng tôn trọng của đàn bà.",
+                "Một âm là nễ. Người nước Sở gọi mẹ là nễ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Mẹ."
+            ]
+        }
+    }
+}

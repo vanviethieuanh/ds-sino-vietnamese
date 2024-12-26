@@ -1,0 +1,76 @@
+{
+    "character": "电",
+    "details": {
+        "Âm Hán Việt": [
+            "điện"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "viết 曰 (+1 nét)",
+            "điền 田 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "LWU (中田山)"
+        ],
+        "Unicode": [
+            "U+7535"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "điện"
+        ],
+        "Âm Quảng Đông": [
+            "din6"
+        ]
+    },
+    "meanings": {
+        "điện": {
+            "Từ điển phổ thông": [
+                "điện",
+                "chớp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 電."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 電"
+            ],
+            "compound_words": {
+                "电影": "điện ảnh",
+                "电邮": "điện bưu",
+                "电灯": "điện đăng",
+                "电流": "điện lưu",
+                "电脑": "điện não",
+                "电脑软件": "điện não nhuyễn kiện",
+                "电脑辅助设计": "điện não phụ trợ thiết kế",
+                "电脑网": "điện não võng",
+                "电脑网络": "điện não võng lạc",
+                "电脑网路": "điện não võng lộ",
+                "电视": "điện thị",
+                "电话": "điện thoại",
+                "电池": "điện trì",
+                "电线": "điện tuyến",
+                "电磁": "điện từ",
+                "核电": "hạch điện",
+                "函电": "hàm điện",
+                "光电": "quang điện"
+            }
+        }
+    }
+}

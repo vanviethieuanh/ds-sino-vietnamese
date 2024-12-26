@@ -1,0 +1,92 @@
+{
+    "character": "虚",
+    "details": {
+        "Âm Hán Việt": [
+            "hư",
+            "khư"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "hô 虍 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸虍业"
+        ],
+        "Nét bút": [
+            "丨一フノ一フ丨丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "YPTC (卜心廿金)"
+        ],
+        "Unicode": [
+            "U+865A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qū ㄑㄩ",
+            "xū ㄒㄩ"
+        ],
+        "Âm Nôm": [
+            "hơ",
+            "hư",
+            "hưa",
+            "khờ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)",
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むな.しい (muna.shii)",
+            "うつ.ろ (utsu.ro)"
+        ],
+        "Âm Hàn": [
+            "허"
+        ],
+        "Âm Quảng Đông": [
+            "heoi1"
+        ]
+    },
+    "meanings": {
+        "hư": {
+            "Từ điển phổ thông": [
+                "không có thực",
+                "trống rỗng"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'hư' 虛.",
+                "Giản thể của chữ 虛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 虛"
+            ],
+            "compound_words": {
+                "課虚錄": "khoá hư lục",
+                "空虚": "không hư",
+                "崇虚名": "sùng hư danh"
+            }
+        },
+        "khư": {
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'hư' 虛.",
+                "Giản thể của chữ 虛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái gò lớn (như 墟, bộ 土);",
+                "Thành cũ, chốn hoang tàn;",
+                "Chợ;",
+                "Chỗ ở."
+            ]
+        }
+    }
+}

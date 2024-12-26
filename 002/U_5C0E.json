@@ -1,0 +1,100 @@
+{
+    "character": "導",
+    "details": {
+        "Âm Hán Việt": [
+            "đạo"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thốn 寸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱道寸"
+        ],
+        "Nét bút": [
+            "丶ノ一ノ丨フ一一一丶フ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "YUDI (卜山木戈)"
+        ],
+        "Unicode": [
+            "U+5C0E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dǎo ㄉㄠˇ",
+            "dào ㄉㄠˋ"
+        ],
+        "Âm Nôm": [
+            "đạo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みちび.く (michibi.ku)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou6"
+        ]
+    },
+    "meanings": {
+        "đạo": {
+            "Từ điển phổ thông": [
+                "dẫn, đưa",
+                "chỉ đạo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dẫn đưa, dẫn đường. ◎Như: 'tiền đạo' 前導 đi trước dẫn đường. ◇Pháp Hoa Kinh 法華經: 'Dẫn đạo chúng sanh tâm' 引導眾生心 (Pháp sư công đức 法師功德) Dẫn dắt lòng chúng sinh.",
+                "(Động) Chỉ bảo, khai mở. ◎Như: 'khai đạo' 開導 mở lối, 'huấn đạo' 訓導 dạy bảo.",
+                "(Động) Truyền, dẫn. ◎Như: 'đạo điện' 導電 dẫn điện, 'đạo nhiệt' 導熱 dẫn nhiệt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dẫn đưa, đi trước đường gọi là tiền đạo 前導.",
+                "Chỉ dẫn, như khai đạo 開導 mở lối, huấn đạo 訓導 dạy bảo, v.v.",
+                "Ðạo sư 導師 ông thầy chỉ vẽ cho mình biết chỗ mê lầm mà đi về đường chính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đưa, dẫn đường: 導向正軌 Đưa vào nền nếp; 導師 Ông thầy dẫn đường;",
+                "Dẫn, truyền, đạo: 半導體 Bán dẫn, nửa dẫn điện;",
+                "Chỉ đạo, chỉ dẫn, chỉ bảo, hướng dẫn: 指導 Chỉ đạo; 輔導 Phụ đạo; 訓導 Dạy bảo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa đường. Dẫn đường — Chỉ dẫn. Dạy bảo — Thông suốt, không bị ngăn trở."
+            ],
+            "compound_words": {
+                "指導": "chỉ đạo",
+                "主導": "chủ đạo",
+                "引導": "dẫn đạo",
+                "譯導": "dịch đạo",
+                "導演": "đạo diễn",
+                "導彈": "đạo đạn",
+                "導航": "đạo hàng",
+                "導火線": "đạo hoả tuyến",
+                "教導": "giáo đạo",
+                "訓導": "huấn đạo",
+                "嚮導": "hướng đạo",
+                "勸導": "khuyến đạo",
+                "領導": "lĩnh đạo",
+                "因勢利導": "nhân thế lợi đạo",
+                "輔導": "phụ đạo",
+                "前導": "tiền đạo",
+                "傳導": "truyền đạo",
+                "倡導": "xướng đạo"
+            }
+        }
+    }
+}

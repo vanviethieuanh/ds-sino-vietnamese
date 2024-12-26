@@ -1,0 +1,80 @@
+{
+    "character": "騾",
+    "details": {
+        "Âm Hán Việt": [
+            "la",
+            "loa"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "mã 馬 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬累"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶丨フ一丨一フフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SFWVF (尸火田女火)"
+        ],
+        "Unicode": [
+            "U+9A3E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "luó ㄌㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "la",
+            "loa",
+            "lừa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラ (ra)"
+        ],
+        "Âm Hàn": [
+            "라"
+        ],
+        "Âm Quảng Đông": [
+            "lo4"
+        ]
+    },
+    "meanings": {
+        "la": {
+            "Từ điển phổ thông": [
+                "con la"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên loài vật, lai ngựa và lừa. Ta cũng gọi là con la. Đáng lẽ đọc Loa."
+            ],
+            "compound_words": {
+                "驢騾": "lư la"
+            }
+        },
+        "loa": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Con la. § Lừa đực ngựa cái giao phối nhau sinh ra con “loa” 騾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con loa. Lừa ngựa giao hợp nhau sinh ra con gọi là loa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con la (con vật lai giữa lừa và ngựa). 【騾子】 loa tử [luózi] Con la. Xem 驢騾 [lluó], 馬騾 [măluó]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ta quen đọc La. Xem La."
+            ]
+        }
+    }
+}

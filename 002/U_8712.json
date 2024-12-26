@@ -1,0 +1,86 @@
+{
+    "character": "蜒",
+    "details": {
+        "Âm Hán Việt": [
+            "diên",
+            "duyên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫延"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ丨一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "LINKM (中戈弓大一)"
+        ],
+        "Unicode": [
+            "U+8712"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "yán ㄧㄢˊ",
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "diên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)",
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "jin4"
+        ]
+    },
+    "meanings": {
+        "diên": {
+            "Từ điển phổ thông": [
+                "(xem: du diên 蚰蜒, diên du 蜒蚰)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “du diên” 蚰蜒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Du diên 蚰蜒 một giống như con sên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蜿蜒 [wanyán],蚰蜒 [yóuyán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Diên du 蜒蚰."
+            ],
+            "compound_words": {
+                "蜒蚰": "diên du",
+                "蚰蜒": "du diên",
+                "蜿蜒": "uyển diên"
+            }
+        },
+        "duyên": {
+            "Từ điển phổ thông": [
+                "(xem: uyển duyên 蜿蜒)"
+            ],
+            "compound_words": {
+                "蜿蜒": "uyển duyên"
+            }
+        }
+    }
+}

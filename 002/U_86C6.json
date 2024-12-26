@@ -1,0 +1,81 @@
+{
+    "character": "蛆",
+    "details": {
+        "Âm Hán Việt": [
+            "thư"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫且"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "LIBM (中戈月一)"
+        ],
+        "Unicode": [
+            "U+86C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ",
+            "qū ㄑㄩ"
+        ],
+        "Âm Nôm": [
+            "thư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うじ (uji)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi1",
+            "zeoi1"
+        ]
+    },
+    "meanings": {
+        "thư": {
+            "Từ điển phổ thông": [
+                "con giòi",
+                "váng rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con giòi, do trứng ruồi nhặng nở ra.",
+                "(Danh) Tỉ dụ lời gièm pha, nói xấu. ◇Hồng Lâu Mộng 紅樓夢: 'Nhĩ giá kỉ thiên hoàn bất phạp, sấn giá hội tử bất hiết nhất hiết, hoàn tước thập ma thư?' 你這幾天還不乏, 趁這會子不歇一歇, 還嚼什麼蛆 (Đệ ngũ thập thất hồi) Mấy hôm nay chị không biết mệt à, bây giờ không ngủ đi lại còn nói lảm nhảm gì thế?",
+                "(Danh) Váng rượu, bọt rượu. ◇Âu Dương Tu 歐陽修: 'Úng diện phù thư bát dĩ hương' 甕面浮蛆撥已香 (Chiêu hứa chủ khách 招許主客) Trên mặt vò váng rượu nổi khuấy đã thơm.",
+                "(Danh) (Danh) 'Tức thư' 蝍蛆: xem 'tức' 蝍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con giòi, do trứng ruồi nhặng nở ra.",
+                "Váng rượu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dòi (giòi) (ruồi, nhặng);",
+                "(văn) Váng rượu."
+            ],
+            "compound_words": {
+                "蝍蛆": "tức thư"
+            }
+        }
+    }
+}

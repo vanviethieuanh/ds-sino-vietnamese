@@ -1,0 +1,58 @@
+{
+    "character": "矲",
+    "details": {
+        "Âm Hán Việt": [
+            "bái",
+            "bả"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thỉ 矢 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰矢罷"
+        ],
+        "Nét bút": [
+            "ノ一一ノ丶丨フ丨丨一フ丶丨フ一一ノフノフ"
+        ],
+        "Thương Hiệt": [
+            "OKWLP (人大田中心)"
+        ],
+        "Unicode": [
+            "U+77F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển phổ thông": [
+                "lùn, thấp"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lùn, thấp;",
+                "【矲子車】bái tử xa [bàizêche] Xe thấp nhỏ để chuyển hàng, xe đẩy hàng."
+            ]
+        },
+        "bả": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bả trĩ 矲雉."
+            ],
+            "compound_words": {
+                "矲雉": "bả trĩ"
+            }
+        }
+    }
+}

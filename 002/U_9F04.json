@@ -1,0 +1,63 @@
+{
+    "character": "鼄",
+    "details": {
+        "Âm Hán Việt": [
+            "chu",
+            "thù"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "mãnh 黽 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿱朱黽"
+        ],
+        "Nét bút": [
+            "ノ一一丨ノ丶丨フ一一丨フ一丨一一フ一一"
+        ],
+        "Thương Hiệt": [
+            "HDRXU (竹木口重山)"
+        ],
+        "Unicode": [
+            "U+9F04"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhū ㄓㄨ"
+        ],
+        "Âm Hàn": [
+            "주"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển phổ thông": [
+                "(xem: tri chu 蜘蛛,鼅鼄)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【鼅鼄】tri thù [zhizhu] (văn) Như 蜘蛛 (bộ 虫)."
+            ],
+            "compound_words": {
+                "鼅鼄": "tri chu"
+            }
+        },
+        "thù": {
+            "Từ điển phổ thông": [
+                "(xem: tri chu 蜘蛛,鼅鼄)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【鼅鼄】tri thù [zhizhu] (văn) Như 蜘蛛 (bộ 虫)."
+            ],
+            "compound_words": {
+                "鼅鼄": "tri thù"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "訛",
+    "details": {
+        "Âm Hán Việt": [
+            "ngoa"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言化"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ丨ノフ"
+        ],
+        "Thương Hiệt": [
+            "YROP (卜口人心)"
+        ],
+        "Unicode": [
+            "U+8A1B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "é"
+        ],
+        "Âm Nôm": [
+            "ngoa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なま.る (nama.ru)",
+            "なま.り (nama.ri)",
+            "あやま.る (ayama.ru)"
+        ],
+        "Âm Hàn": [
+            "와"
+        ],
+        "Âm Quảng Đông": [
+            "ngo4"
+        ]
+    },
+    "meanings": {
+        "ngoa": {
+            "Từ điển phổ thông": [
+                "làm bậy",
+                "sai, nhầm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sai lầm. ◇Chu Hi 朱熹: 'Bách thế chủng mậu ngoa, Di luân nhật đồi bĩ' 百世踵謬訛, 彝倫日頹圮 (San bắc kỉ hành 山北紀行) Trăm đời nối theo sai lầm, Đạo lí ngày một suy đồi.",
+                "(Danh) Lời phao đồn không có căn cứ. ◎Như: 'dĩ ngoa truyền ngoa' 以訛傳訛 lời đồn đãi không chính xác kế tiếp nhau truyền đi.",
+                "(Danh) Họ 'Ngoa'.",
+                "(Tính) Sai, không đúng thật, không chính xác. ◎Như: 'ngoa ngôn' 訛言 lời nói bậy, 'ngoa tự' 訛字 chữ sai. ◇Thi Kinh 詩經: 'Dân chi ngoa ngôn, Ninh mạc chi trừng?' 民之訛言, 寧莫之懲 (Tiểu nhã 小雅, Miện thủy 沔水) Những lời sai trái của dân, Há sao không ngăn cấm?",
+                "(Động) Hạch sách, dối gạt, lừa bịp, vu khống. ◎Như: 'ngoa trá' 訛詐 lừa gạt. ◇Hồng Lâu Mộng 紅樓夢: 'Ngoa tha tha khiếm quan ngân, nã tha đáo nha môn lí khứ' 訛他拖欠官銀, 拿他到衙門裡去 (Đệ tứ thập bát hồi) Vu cho nó thiếu tiền công, bắt nó đến cửa quan.",
+                "(Động) Cảm hóa. ◇Thi Kinh 詩經: 'Thức ngoa nhĩ tâm, Dĩ húc vạn bang' 式訛爾心, 以畜萬邦 (Tiểu nhã 小雅, Tiết nam san 節南山) Hầu mong cảm hóa lòng ngài, Mà nuôi dưỡng muôn nước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làm bậy. Như ngoa ngôn 訛言 lời nói bậy, ngoa tự 訛字 chữ sai, v.v.",
+                "Tại cớ gì mà hạch đòi tiền của cũng gọi là ngoa. Như ngoa trá 訛詐 lừa gạt.",
+                "Hoá.",
+                "Động."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sai, nhầm, bậy: 訛字 Chữ sai; 以訛傳訛 Nghe nhầm đồn bậy;",
+                "Hạch sách, lòe bịp, tống tiền;",
+                "(văn) Cảm hoá: 式訛爾心 Cảm hoá lòng ngươi (Thi Kinh: Tiểu nhã, Tiết Nam Sơn);",
+                "(văn) Động đậy (dùng như 吪, bộ 口): 或寢或訛 Có con nằm ngủ, có con động đậy (Thi Kinh: Tiểu nhã, Vô dương)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói dối. Dối trá. Truyện  Trê Cóc  có câu: » Quan truyền bắt cóc ra tra, sao bay đơn kiện sai ngoa làm vầy « — Ta còn hiểu là nói quá sự thật — Trong Bạch thoại còn có nghĩa là lừa gạt tiền bạc của người khác."
+            ],
+            "compound_words": {
+                "刁訛": "điêu ngoa",
+                "訛筆": "ngoa bút",
+                "訛言": "ngoa ngôn",
+                "訛語": "ngoa ngữ",
+                "訛傳": "ngoa truyền",
+                "差訛": "sai ngoa"
+            }
+        }
+    }
+}

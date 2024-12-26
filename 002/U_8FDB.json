@@ -1,0 +1,75 @@
+{
+    "character": "进",
+    "details": {
+        "Âm Hán Việt": [
+            "tiến",
+            "tấn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "sước 辵 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺⻌井"
+        ],
+        "Nét bút": [
+            "一一ノ丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YTT (卜廿廿)"
+        ],
+        "Unicode": [
+            "U+8FDB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jìn ㄐㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tấn",
+            "tiến"
+        ],
+        "Âm Quảng Đông": [
+            "zeon3"
+        ]
+    },
+    "meanings": {
+        "tiến": {
+            "Từ điển phổ thông": [
+                "đi lên, tiến lên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 進."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 進"
+            ],
+            "compound_words": {
+                "改进": "cải tiến",
+                "渐进": "tiệm tiến",
+                "进士": "tiến sĩ"
+            }
+        },
+        "tấn": {
+            "Từ điển Trần Văn Chánh": [
+                "Tiến lên, đi trước, cải tiến: 進一步 Tiến một bước.【進而】tiến nhi [jìn 'ér] Sau đó, rồi mới: 學好了文化基礎課，進而才能學專業 Học xong lớp văn hoá cơ bản rồi mới học chuyên môn được;",
+                "Vào: 進門 Vào cửa; 進工廠 Vào nhà máy;",
+                "Thu vào, mua vào: 進款 Thu tiền vào; 進貨 Mua hàng;",
+                "(văn) Dâng: 進貢 Dâng đồ cống; 進表 Dâng biểu;",
+                "(văn) Đời, lớp: 先進 Đời trước, tiền bối;",
+                "(văn) Ăn, dùng: 我們將共進晚餐 Chúng ta sẽ cùng ăn cơm chiều;",
+                "Dãy, sân trong (nhà): 這是一個兩進的院子 Trong sân này có hai dãy nhà."
+            ]
+        }
+    }
+}

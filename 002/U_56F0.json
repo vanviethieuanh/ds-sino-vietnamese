@@ -1,0 +1,101 @@
+{
+    "character": "困",
+    "details": {
+        "Âm Hán Việt": [
+            "khốn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "vi 囗 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿴囗木"
+        ],
+        "Nét bút": [
+            "丨フ一丨ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "WD (田木)"
+        ],
+        "Unicode": [
+            "U+56F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kùn ㄎㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "khốn",
+            "khuôn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こま.る (koma.ru)"
+        ],
+        "Âm Hàn": [
+            "곤"
+        ],
+        "Âm Quảng Đông": [
+            "kwan3"
+        ]
+    },
+    "meanings": {
+        "khốn": {
+            "Từ điển phổ thông": [
+                "khốn cùng, khốn khổ, khốn đốn",
+                "vây hãm",
+                "mỏi mệt",
+                "buồn ngủ",
+                "ngủ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Gian nan, khổ sở. ◎Như: 'gian khốn' 艱困 gian nan thống khổ. ◇Liêu trai chí dị 聊齋志異: 'Khốn ư danh tràng' 困於名場 (Diệp sinh 葉生) Lận đận trên đường công danh.",
+                "(Tính) Nghèo túng. ◎Như: 'bần khốn' 貧困 nghèo túng, 'cùng khốn' 窮困 quẫn bách.",
+                "(Tính) Nhọc nhằn, mệt mỏi. ◇Liêu trai chí dị 聊齋志異: 'Tứ khách bôn ba pha khốn, phủ tựu chẩm, tị tức tiệm thô' 四客奔波頗困, 甫就枕, 鼻息漸粗 (Thi biến 尸變) Bốn người khách bôn ba mệt mỏi, vừa nằm xuống gối, là ngáy khò khò.",
+                "(Động) Bị dồn vào chỗ gian nan hay hoàn cảnh khốn khổ. ◎Như: 'vi bệnh sở khốn' 為病所困 khốn đốn vì bệnh tật.",
+                "(Động) Bao vây. ◎Như: 'vi khốn' 圍困 vây hãm.",
+                "(Động) Buồn ngủ. ◇Cao Bá Quát 高伯适: 'Khốn miên đắc sở tức' 困眠得所息 (Di tống Thừa Thiên ngục 栘送承天獄) Buồn ngủ thì ngủ ngay ngon giấc.",
+                "§ Giản thể của chữ 睏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khốn cùng. Phàm các sự nhọc mệt quẫn bách đều gọi là khốn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một quẻ bói, dưới quẻ Khảm, trên quẻ Đoài, chỉ về tai nạn, cực khổ — Tai nạn — Khổ sở — Mệt mỏi."
+            ],
+            "compound_words": {
+                "貧困": "bần khốn",
+                "窮困": "cùng khốn",
+                "困厄": "khốn ách",
+                "困境": "khốn cảnh",
+                "困窮": "khốn cùng",
+                "困頓": "khốn đốn",
+                "困顿": "khốn đốn",
+                "困惑": "khốn hoặc",
+                "困苦": "khốn khổ",
+                "困难": "khốn nan",
+                "困難": "khốn nan",
+                "困扰": "khốn nhiễu",
+                "困擾": "khốn nhiễu",
+                "困窘": "khốn quẫn",
+                "濟困": "tế khốn",
+                "圍困": "vi khốn"
+            }
+        }
+    }
+}

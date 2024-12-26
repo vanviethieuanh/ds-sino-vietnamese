@@ -1,0 +1,122 @@
+{
+    "character": "版",
+    "details": {
+        "Âm Hán Việt": [
+            "bản"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "phiến 片 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰片反"
+        ],
+        "Nét bút": [
+            "ノ丨一フノノフ丶"
+        ],
+        "Thương Hiệt": [
+            "LLHE (中中竹水)"
+        ],
+        "Unicode": [
+            "U+7248"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bǎn ㄅㄢˇ"
+        ],
+        "Âm Nôm": [
+            "bản",
+            "bảng",
+            "bỡn",
+            "phản",
+            "ván"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Hàn": [
+            "판"
+        ],
+        "Âm Quảng Đông": [
+            "baan2"
+        ]
+    },
+    "meanings": {
+        "bản": {
+            "Từ điển phổ thông": [
+                "bản in",
+                "lần xuất bản"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ván, tấm gỗ. § Nay viết là 'bản' 板. ◎Như: 'thiền bản' 禪版 một tấm gỗ được các thiền sinh thời xưa sử dụng.",
+                "(Danh) Ván gỗ dùng để ghép lại đắp tường thời xưa. ◎Như: 'bản trúc' 版築 ván gỗ đắp tường.",
+                "(Danh) Thẻ gỗ để viết ngày xưa.",
+                "(Danh) Hộ tịch (sổ kê khai dân số), đồ tịch (bản đồ đất đai quốc gia). ◇Luận Ngữ 論語: 'Thức phụ bản giả' 式負版者 (Hương đảng 鄉黨) Vịn vào cây ngang ở trước xe cúi chào người mang bản đồ quốc gia và hộ tịch.",
+                "(Danh) Bản khắc để in. ◎Như: 'mộc bản' 木版 bản gỗ khắc để in.",
+                "(Danh) Sổ sách, thư tịch.",
+                "(Danh) Cái hốt của các quan cầm tay ngày xưa.",
+                "(Danh) Số đặc biệt báo chí hay tạp chí. ◎Như: 'quốc tế bản' 國際版.",
+                "(Danh) Bản bổn. § Một tác phẩm có thể có nhiều hình thức kĩ thuật xuất bản khác nhau. ◎Như: 'Tống bản thư' 宋版書 sách bản nhà Tống.",
+                "(Danh) Lượng từ: (1) Trang báo chí. (2) Lần xuất bản. ◎Như: 'giá bổn thư dĩ xuất chí thập nhị bản' 這本書已出至十二版 cuốn sách này đã xuất bản tới mười hai lần.",
+                "(Danh) Khu thảo luận theo một chủ đề trên trạm Internet. § Cũng viết là 'bản' 板."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ván, cùng nghĩa với chữ bản 板.",
+                "Bản trúc 版築 đắp tường.",
+                "Thủ bản 手版 bản khai lí lịch trình với quan trên.",
+                "Bản đồ 版圖 bản đồ kê khai số dân và đất đai.",
+                "Sổ sách.",
+                "Cái hốt.",
+                "Tám thước gọi là một bản."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bản để in: 鋅版 Bản kẽm;",
+                "Xuất bản: 第一版（初版） Bản in lần thứ nhất; 再 版 Tái bản, in lại;",
+                "Trang: 頭版新聞 Tin đăng ở trang đầu;",
+                "Phim chụp ảnh: 修版 Sửa phim ảnh;",
+                "Khung gỗ;",
+                "(văn) Ván (dùng như 板, bộ 木);",
+                "(văn) Sổ sách;",
+                "(văn) Cái hốt;",
+                "(cũ) Bản (đơn vị đo chiều dài thời xưa, bằng 8 thước)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm gỗ mỏng, tấm ván. Như chữ Bản — Tấm gỗ ghép lại để đắp tường. Xem Bản trúc — Chỉ chung sách vở."
+            ],
+            "compound_words": {
+                "版本": "bản bản",
+                "版版": "bản bản",
+                "版職": "bản chức",
+                "版圖": "bản đồ",
+                "版畫": "bản hoạ",
+                "版六十四": "bản lục thập tứ",
+                "版魚": "bản ngư",
+                "版權": "bản quyền",
+                "版權所有": "bản quyền sở hữu",
+                "版授": "bản thụ",
+                "版稅": "bản thuế",
+                "版築": "bản trúc",
+                "版謁": "bản yết",
+                "鉛版": "duyên bản",
+                "停版": "đình bản",
+                "凸版": "đột bản",
+                "呆版": "ngai bản",
+                "玉版": "ngọc bản",
+                "再版": "tái bản",
+                "續版": "tục bản",
+                "鋟版": "xâm bản",
+                "出版": "xuất bản"
+            }
+        }
+    }
+}

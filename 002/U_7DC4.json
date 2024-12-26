@@ -1,0 +1,80 @@
+{
+    "character": "緄",
+    "details": {
+        "Âm Hán Việt": [
+            "cổn",
+            "hỗn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹昆"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丨フ一一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "VFAPP (女火日心心)"
+        ],
+        "Unicode": [
+            "U+7DC4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gǔn ㄍㄨㄣˇ",
+            "hún ㄏㄨㄣˊ",
+            "hùn ㄏㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "côn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おび (obi)"
+        ],
+        "Âm Hàn": [
+            "곤"
+        ],
+        "Âm Quảng Đông": [
+            "gwan2"
+        ]
+    },
+    "meanings": {
+        "cổn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Dây, dải.",
+                "(Động) May viền (trang sức quần áo).",
+                "(Danh) Lượng từ: bó, mớ.",
+                "Một âm là 'hỗn'. (Danh) § Xem 'Hỗn Nhung' 緄戎."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đai dệt bằng tơ. Dây lưng tơ. Sợi dây — Bó tơ nhỏ, gồm 10 sợi tơ."
+            ]
+        },
+        "hỗn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Dây, dải.",
+                "(Động) May viền (trang sức quần áo).",
+                "(Danh) Lượng từ: bó, mớ.",
+                "Một âm là 'hỗn'. (Danh) § Xem 'Hỗn Nhung' 緄戎."
+            ],
+            "compound_words": {
+                "緄戎": "hỗn nhung"
+            }
+        }
+    }
+}

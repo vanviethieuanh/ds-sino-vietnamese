@@ -1,0 +1,74 @@
+{
+    "character": "隣",
+    "details": {
+        "Âm Hán Việt": [
+            "lân"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "phụ 阜 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖粦"
+        ],
+        "Nét bút": [
+            "フ丨丶ノ一丨ノ丶ノフ丶一フ丨"
+        ],
+        "Thương Hiệt": [
+            "NLFDQ (弓中火木手)"
+        ],
+        "Unicode": [
+            "U+96A3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lín ㄌㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "lân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リン (rin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とな.る (tona.ru)",
+            "となり (tonari)"
+        ],
+        "Âm Hàn": [
+            "린",
+            "인"
+        ],
+        "Âm Quảng Đông": [
+            "leon4"
+        ]
+    },
+    "meanings": {
+        "lân": {
+            "Từ điển phổ thông": [
+                "gần, kề",
+                "láng giềng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鄰 (bộ 邑)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ lân 鏻."
+            ],
+            "compound_words": {
+                "睦隣": "mục lân",
+                "賤隣": "tiện lân",
+                "擇隣": "trạch lân"
+            }
+        }
+    }
+}

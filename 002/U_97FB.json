@@ -1,0 +1,96 @@
+{
+    "character": "韻",
+    "details": {
+        "Âm Hán Việt": [
+            "vận"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "âm 音 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰音員"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一丨フ一一丨フ一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YARBC (卜日口月金)"
+        ],
+        "Unicode": [
+            "U+97FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "vần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)"
+        ],
+        "Âm Hàn": [
+            "운"
+        ],
+        "Âm Quảng Đông": [
+            "wan5",
+            "wan6"
+        ]
+    },
+    "meanings": {
+        "vận": {
+            "Từ điển phổ thông": [
+                "vần",
+                "phong nhã"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vần. § Ghi chú: Trong 'thanh vận học' 聲韻學, tiếng gì đọc lên hài hòa với tiếng khác đều gọi là 'vận'. ◎Như: 'công' 公 với 'không' 空 là có vần với nhau, 'cương' 鋼 với 'khương' 康 là có vần với nhau. Sách ghi chép các vần theo từng mục gọi là 'vận thư' 韻書 sách vần.",
+                "(Danh) Thanh âm hài hòa. ◎Như: 'cầm vận du dương' 琴韻悠揚 tiếng đàn du dương.",
+                "(Danh) Thần thái, phong độ. ◎Như: 'phong vận do tồn' 風韻猶存 phong độ vẫn còn.",
+                "(Tính) Phong nhã. ◎Như: 'vận nhân' 韻人 người có cốt cách phong nhã."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vần, tiếng gì đọc lên mà có vần với tiếng khác đều gọi là vận. Như công 公 với không 空 là có vần với nhau, cương 鋼 với khang 康 là có vần với nhau. Đem các chữ nó có vần với nhau chia ra từng mục gọi là vận thư 韻書 sách vần. Cuối câu thơ hay câu ca thường dùng những chữ cùng vần với nhau, luật làm thơ thì cách một câu mới dùng một vần, cho nên hai câu thơ gọi là nhất vận 一韻 (một vần). Lối thơ cổ có khi mỗi câu một vần, có khi chỉ đặt luôn hai ba vần rồi đổi sang vần khác gọi là chuyển vận 轉韻 (chuyển vần khác).",
+                "Phong nhã. Người có cốt cách phong nhã gọi là vận nhân 韻人. Sự gì do phúc lành mới được gọi là vận sự 韻事."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vần, (các) nguyên âm: 詩韻 Vần thơ; 韻書 Sách vần, vận thư; 一韻 Một vần; 轉韻 Chuyển vần khác;",
+                "Âm thanh êm dịu: 琴韻悠揚 Tiếng đàn du dương;",
+                "Thú vị, ý nhị, phong nhã, phong vận: 韻人 Người có cốt cách phong nhã, người có phong vận; 韻事 Việc phong nhã;",
+                "[Yùn] (Họ) Vận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hoà hợp với — Cái vần trong tiếng nói. Chỉ sự trùng hợp về cách đọc giữa hai tiếng — Dáng dấp đẹp đẽ thanh cao. Td: Phong vận. Phú hỏng thi của Trần Tế Xương: » Thói nhà phong vận, áo hàng tàu khăn nhiễu tím, ô lục soạn xanh «."
+            ],
+            "compound_words": {
+                "壓韻": "áp vận",
+                "押韻": "áp vận",
+                "音韻": "âm vận",
+                "音韻學": "âm vận học",
+                "步韻": "bộ vận",
+                "佩文韻府": "bội văn vận phủ",
+                "賡韻": "canh vận",
+                "疉韻": "điệp vận",
+                "限韻": "hạn vận",
+                "險韻": "hiểm vận",
+                "和韻": "hoạ vận",
+                "風韻": "phong vận",
+                "韻學": "vận học",
+                "韻事": "vận sự",
+                "韻文": "vận văn",
+                "腰韻": "yêu vận"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "character": "署",
+    "details": {
+        "Âm Hán Việt": [
+            "thử",
+            "thự"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "võng 网 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺲者"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "WLJKA (田中十大日)"
+        ],
+        "Unicode": [
+            "U+7F72"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shǔ ㄕㄨˇ"
+        ],
+        "Âm Nôm": [
+            "thợ",
+            "thuỳ",
+            "thự"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "cyu5",
+            "syu5"
+        ]
+    },
+    "meanings": {
+        "thử": {
+            "Từ điển phổ thông": [
+                "ký tên",
+                "tạm giữ chức, chức vụ lâm thời"
+            ]
+        },
+        "thự": {
+            "Từ điển phổ thông": [
+                "nơi làm việc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sở quan (nơi quan lại làm việc). ◎Như: 'quan thự' 官署, 'công thự' 公署.",
+                "(Danh) Cơ quan của chính phủ.",
+                "(Danh) Họ 'Thự'.",
+                "(Động) Xếp đặt, an bài, bố trí. ◎Như: 'bộ thự' 部署 đặt ra từng bộ.",
+                "(Động) Ghi chữ, kí. ◎Như: 'thự danh' 署名 kí tên, 'hiệp định dĩ hoạch đắc thiêm thự' 協定已獲得簽署 hiệp định đã được kí kết.",
+                "(Động) Tạm thay, tạm nhận chức việc. ◎Như: 'thự lí' 署理 tạm trị, tạm coi sóc công việc. ☆Tương tự: 'thự sự' 署事, 'thự nhậm' 署任."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðặt, như bộ thự 部署 đặt ra từng bộ.",
+                "Nêu tỏ ra, để một vật gì làm dấu hiệu gọi là thự, vì thế nên gọi các sở quan là thự, nghĩa là nêu rõ cái nơi làm việc. Như quan thự 官署, công thự 公署.",
+                "Ghi chữ, như thự danh 署名 kí tên.",
+                "Tạm nhận chức việc, như thự lí 署理 tạm trị, tạm coi sóc công việc, v.v. Cũng như thụ sự 署事, thụ nhậm 署任."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sở: 公署 Công sở, công thự;",
+                "Xếp đặt: 部署 (Sự) sắp đặt, bố trí;",
+                "Kí tên, kí kết: 協定已獲得簽署 Hiệp định đã được kí kết; 署名 Chữ kí, kí tên;",
+                "Thay mặt, tạm nhận (chức vụ): 署理 Đại diện, thay mặt, tạm thay. Cg. 署任 [shưrèn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nơi quan làm việc — Ngôi nhà lớn — Dùng như chữ Thự 墅 — Viết vào. Phê vào."
+            ],
+            "compound_words": {
+                "部署": "bộ thự",
+                "公署": "công thự",
+                "副署": "phó thự",
+                "官署": "quan thự"
+            }
+        }
+    }
+}

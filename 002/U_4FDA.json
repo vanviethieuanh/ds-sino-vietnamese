@@ -1,0 +1,93 @@
+{
+    "character": "俚",
+    "details": {
+        "Âm Hán Việt": [
+            "lí",
+            "lý"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhân 人 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻里"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "OWG (人田土)"
+        ],
+        "Unicode": [
+            "U+4FDA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lǐ ㄌㄧˇ"
+        ],
+        "Âm Nôm": [
+            "lái",
+            "lí",
+            "lia",
+            "lý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いや.しい (iya.shii)"
+        ],
+        "Âm Hàn": [
+            "리"
+        ],
+        "Âm Quảng Đông": [
+            "lei5"
+        ]
+    },
+    "meanings": {
+        "lí": {
+            "Từ điển trích dẫn": [
+                "(Tính) Quê kệch, thô lậu. ◇Hán Thư 漢書: 'Biện nhi bất hoa, chất nhi bất lí' 辨而不華, 質而不俚 (Tư Mã Thiên truyện 司馬遷傳) Rành rẽ mà không màu mè, mộc mạc mà không quê mùa.",
+                "(Tính) Thông tục, lưu hành trong dân gian. ◇Liêu trai chí dị 聊齋志異: 'Nhất nhật, hữu cổ ảo khiên hoàng khuyển cái thực kì gia, phách bản lí ca' 一日, 有瞽媼牽黃犬丐食其家, 拍板俚歌 (Chân Hậu 甄后) Một hôm có bà lão mù dắt con chó vàng đi ăn xin trước cửa nhà, gõ phách mà hát bài dân ca.",
+                "(Động) Cậy nhờ, nương tựa. ◇Hán Thư 漢書: 'Phù tì thiếp tiện nhân, cảm khái nhi tự sát, phi năng dũng dã, kì hoạch vô lí chi chí nhĩ' 夫婢妾賤人, 感概而自殺, 非能勇也, 其畫無俚之至耳 (Quý Bố đẳng truyện 季布等傳) Những tì thiếp người thấp kém, cảm khái mà tự tử, không phải là có dũng khí, chỉ vì không biết trông cậy (vào đâu) nên đến như thế mà thôi.",
+                "(Danh) Tên một dân tộc thiểu số thời xưa ở Trung Quốc, phân bố ở tỉnh Quảng Đông, ven biển vùng tây nam cho tới tỉnh Quảng Tây."
+            ],
+            "compound_words": {
+                "鄙俚": "bỉ lí",
+                "俚語": "lí ngữ"
+            }
+        },
+        "lý": {
+            "Từ điển phổ thông": [
+                "nhờ, cậy",
+                "quê kệch"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhờ, như vô lí 無俚 cũng như nói vô liêu 無聊 không nhờ cái gì cho khuây khoã được.",
+                "Quê kệch, như lí ca 俚歌 câu hát quê kệch của người nhà quê hát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tục, thô tục, thô kệch quê mùa;",
+                "(văn) Nhờ: 無俚Không nhờ cái gì để khuây khoả được;",
+                "Bản làng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lười biếng. Rảnh rang nhàn rỗi không biết làm gì — Thấp hèn thô bỉ — Quê mùa vụng về — Bài hát ở nơi quê mùa. Cũng gọi là Lí ca 俚歌."
+            ],
+            "compound_words": {
+                "俚語": "lý ngữ",
+                "俚语": "lý ngữ"
+            }
+        }
+    }
+}

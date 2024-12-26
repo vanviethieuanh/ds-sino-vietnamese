@@ -1,0 +1,84 @@
+{
+    "character": "添",
+    "details": {
+        "Âm Hán Việt": [
+            "thiêm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡忝"
+        ],
+        "Nét bút": [
+            "丶丶一一一ノ丶丨丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "EHKP (水竹大心)"
+        ],
+        "Unicode": [
+            "U+6DFB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tiān ㄊㄧㄢ",
+            "tiàn ㄊㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "thếch",
+            "thêm",
+            "thiêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そ.える (so.eru)",
+            "そ.う (so.u)",
+            "も.える (mo.eru)",
+            "も.う (mo.u)"
+        ],
+        "Âm Hàn": [
+            "첨"
+        ],
+        "Âm Quảng Đông": [
+            "tim1"
+        ]
+    },
+    "meanings": {
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "thêm",
+                "đẻ con, sinh con"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Thêm, tăng gia. ◎Như: “cẩm thượng thiêm hoa” 錦上添花 trên gấm thêm hoa, ý nói đã đẹp lại đẹp thêm. ◇Nguyễn Trãi 阮廌: “Độ đầu xuân thảo lục như yên, Xuân vũ thiêm lai thủy phách thiên” 渡頭春草綠如煙, 春雨添來水拍天 (Trại đầu xuân độ 寨頭春渡) Ở bến đò đầu trại, cỏ xuân xanh như khói, Lại thêm mưa xuân, nước vỗ vào nền trời."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thêm, thêm lên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thêm: 再添幾台機器 Thêm vài cỗ máy nữa; 添設醫院 Xây thêm bệnh viện;",
+                "(đph) Sinh: 她最近添了個女孩兒 Chị ta mới đây sinh cháu gái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thêm lên. Td: Thiêm thủ ( lấy thêm vào )."
+            ],
+            "compound_words": {
+                "錦上添花": "cẩm thượng thiêm hoa",
+                "增添": "tăng thiêm"
+            }
+        }
+    }
+}

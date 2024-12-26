@@ -1,0 +1,89 @@
+{
+    "character": "隅",
+    "details": {
+        "Âm Hán Việt": [
+            "ngung"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phụ 阜 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖禺"
+        ],
+        "Nét bút": [
+            "フ丨丨フ一一丨フ丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NLWLB (弓中田中月)"
+        ],
+        "Unicode": [
+            "U+9685"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "ngong",
+            "ngung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "グウ (gū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すみ (sumi)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4",
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "ngung": {
+            "Từ điển phổ thông": [
+                "đất ngoài ven",
+                "cạnh góc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ núi, sông uốn khúc chuyển hướng. ◎Như: 'hải ngung' 海隅 góc bể. ◇Đỗ Phủ 杜甫: 'Yêu ngã hạ mã hành, Vị ngã chỉ san ngung' 要我下馬行, 為我指山隅 (Đồng Quan lại 潼關吏) Mời ta xuống ngựa đi, Chỉ cho ta chỗ núi quành.",
+                "(Danh) Góc. ◎Như: 'tường ngung' 牆隅 góc tường, 'tứ ngung' 四隅 bốn góc. ◇Thi Kinh 詩經: 'Tĩnh nữ kì xu, Sĩ ngã ư thành ngung' 靜女其姝, 俟我於城隅 (Bội phong 邶風, Tĩnh nữ 靜女) Người con gái trinh tĩnh xinh đẹp, Đợi ta ở góc thành.",
+                "(Danh) Bên, cạnh. ◇Nhạc phủ thi tập 樂府詩集: 'Quế thụ giáp đạo sanh, thanh long đối đạo ngung' 桂樹夾道生, 青龍對道隅 (Lũng tây hành 隴西行) Cây quế mọc sát bên đường, rồng xanh đối mặt cạnh đường.",
+                "(Danh) Nơi xa xôi hẻo lánh, vùng biên giới. ◇Hoài Nam Tử 淮南子: 'Kinh doanh tứ ngung, hoàn phản ư xu' 經營四隅, 還反於樞 (Nguyên đạo 原道) Mưu hoạch ở bốn phương xa xôi, rồi trở về nơi trọng yếu.",
+                "(Danh) Khía cạnh, phương diện (của sự vật). ◇Luận Ngữ 論語: 'Bất phẫn bất khải, bất phỉ bất phát, cử nhất ngung tắc dĩ tam ngung phản, tắc bất phục dã' 不憤不啟, 不悱不發, 舉一隅不以三隅反, 則不復也 (Thuật nhi 述而) Kẻ nào không phát phẫn (để tìm hiểu), thì ta không mở (giảng cho). Ta vén mở cho một khía cạnh (của vấn đề) rồi mà không tự suy nghĩ tìm ra ba mặt kia, thì ta không dạy cho nữa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðất ngoài ven. Như hải ngung 海隅 ngoài góc bể.",
+                "Cạnh vuông, phàm vật gì vuông cũng đều có bốn cạnh. Sách Luận ngữ nói Cử nhất ngung bất dĩ tam ngung phản 舉一隅不以三隅反 (Thuật nhi 述而) cất một góc không biết xét đến ba góc kia, ý nói cho biết cái này mà không hay tìm hiểu tới cái kia vậy.",
+                "Quy vuông, một cách lấy vuông trong phép tính.",
+                "Cạnh góc, người biết phân biệt nên chăng không có lấy càn gọi là liêm ngung 廉隅.",
+                "Không cùng mọi người cùng chịu ơn trạch gọi là hướng ngung 向隅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Góc, cạnh, xó: 墻隅 Góc tường; 舉一隅不以三隅反 Nêu một góc mà không biết xét đến ba góc kia (Luận ngữ);",
+                "Vùng ven: 海隅 Vùng ven biển, góc biển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái góc — Một góc."
+            ],
+            "compound_words": {
+                "向隅": "hướng ngung",
+                "向隅而泣": "hướng ngung nhi khấp",
+                "隅目": "ngung mục"
+            }
+        }
+    }
+}

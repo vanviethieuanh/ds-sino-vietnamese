@@ -1,0 +1,79 @@
+{
+    "character": "剎",
+    "details": {
+        "Âm Hán Việt": [
+            "sa",
+            "sát"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "đao 刀 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰𣏂⺉"
+        ],
+        "Nét bút": [
+            "ノ丶一丨ノ丶丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "KCLN (大金中弓)"
+        ],
+        "Unicode": [
+            "U+524E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chà ㄔㄚˋ",
+            "shā ㄕㄚ"
+        ],
+        "Âm Quảng Đông": [
+            "caat3",
+            "saat3"
+        ]
+    },
+    "meanings": {
+        "sa": {
+            "Từ điển Trần Văn Chánh": [
+                "Phanh lại, hãm lại: 剎住車把 Phanh xe lại; 剎機 Ngừng máy, hãm máy. Xem 剎 [chà]."
+            ]
+        },
+        "sát": {
+            "Từ điển phổ thông": [
+                "cái tháp thờ Phật, ngôi chùa",
+                "(xem: sát na 刹那)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cột phan. § Dịch âm tiếng Phạn \"sát-đa-la\", gọi tắt là 'sát'. ◎Như: Người tu được một phép, dựng cái phan để nêu cho kẻ xa biết gọi là 'sát can' 剎干. Cũng chỉ cây cột dựng thẳng trước một Phật điện, cho biết đây là một tự viện hay một ngôi chùa.",
+                "(Danh) Thế giới, đất nước, cõi (tiếng Phạn: \"kṣetra\"). ◇Pháp Hoa Kinh 法華經: 'Diệc mãn thập phương sát' 亦滿十方剎 (Phương tiện phẩm đệ nhị 方便品第二) Cũng khắp cả mười phương quốc độ.",
+                "(Danh) Cái tháp Phật.",
+                "(Danh) Bây giờ thường gọi chùa là 'sát'. ◎Như: 'cổ sát' 古剎 chùa cổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dịch âm tiếng Phạm là sát sát, gọi tắt là sát. Cái cột phan. Người tu được một phép, dựng cái phan để nêu cho kẻ xa biết gọi là sát can 刹干. Vì thế cái tháp của Phật cũng gọi là sát. Bây giờ thường gọi chùa là sát. Như cổ sát 古刹 là chùa cổ.",
+                "Sát na 刹那, một thời gian rất ngắn, chỉ trong một mối niệm có tới 90 sát na."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Gốc tiếng Phạn: Kṣetra) (Ngb) Chùa: 古剎 Chùa cổ;",
+                "【剎那】sát na [chànà] Khoảnh khắc thời gian rất ngắn; 【剎時】sát thời [chàshí] Trong khoảnh khắc, tức khắc, chốc lát, trong chớp mắt. Như 霎時. Xem 霎 nghĩa",
+                "(bộ 雨). Xem 剎 [sha]."
+            ],
+            "compound_words": {
+                "寶剎": "bảo sát",
+                "古剎": "cổ sát",
+                "佛剎": "phật sát",
+                "剎那": "sát na",
+                "塵塵剎剎": "trần trần sát sát"
+            }
+        }
+    }
+}

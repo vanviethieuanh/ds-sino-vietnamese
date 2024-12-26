@@ -1,0 +1,81 @@
+{
+    "character": "錏",
+    "details": {
+        "Âm Hán Việt": [
+            "a",
+            "á"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金亞"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨一フフ一丨一"
+        ],
+        "Thương Hiệt": [
+            "CMLM (金一中一)"
+        ],
+        "Unicode": [
+            "U+930F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yā ㄧㄚ",
+            "yà ㄧㄚˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ア (a)",
+            "エ (e)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しろこ (shiroko)",
+            "しころ (shikoro)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "aa3"
+        ]
+    },
+    "meanings": {
+        "a": {
+            "Từ điển phổ thông": [
+                "(xem: a hạ 錏鍜)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【錏鍜】a hạ [yaxiá] Áo giáp để bảo hộ phần cổ (thời xưa)."
+            ],
+            "compound_words": {
+                "錏鍜": "a hạ"
+            }
+        },
+        "á": {
+            "Từ điển phổ thông": [
+                "tên gọi cũ của amoni (hoá học)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) (Tên gọi cũ của) 銨 [ăn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sắt non, sắt mềm — Thứ kim khí mềm."
+            ],
+            "compound_words": {
+                "錏金": "á kim"
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "character": "嘆",
+    "details": {
+        "Âm Hán Việt": [
+            "thán"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "khẩu 口 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RTLO (口廿中人)"
+        ],
+        "Unicode": [
+            "U+5606"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tàn ㄊㄢˋ"
+        ],
+        "Âm Nôm": [
+            "han",
+            "hen",
+            "than",
+            "thăn",
+            "thơn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なげ.く (nage.ku)",
+            "なげ.かわしい (nage.kawashii)"
+        ],
+        "Âm Hàn": [
+            "탄"
+        ],
+        "Âm Quảng Đông": [
+            "taan3"
+        ]
+    },
+    "meanings": {
+        "thán": {
+            "Từ điển phổ thông": [
+                "kêu, than thở",
+                "tấm tắc khen",
+                "ngân dài giọng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Than, thở dài. ◎Như: 'thán tức' 嘆息 than thở. ◇Nguyễn Trãi 阮廌: 'Sầu lai đốt đốt mạn thư không, Thiên địa vô cùng thán chuyển bồng' 愁來咄咄漫書空, 天地無窮嘆轉蓬 (Họa hương nhân tiên sinh vận giản chư đồng chí 和鄉先生韻柬諸同志) Sầu đến, viết mấy chữ \"đốt đốt\" lên không, Trời đất vô cùng, than cho cỏ bồng xoay chuyển. § 'Ân Hạo' 殷浩 nhà Tấn bị cách chức, ngày ngày giơ tay viết lên không mấy chữ 'đốt đốt quái sự' 咄咄怪事 như người mất trí, biểu hiệu nỗi kinh hãi.",
+                "(Động) Ngâm. ◎Như: 'thán tụng' 嘆誦 ngâm tụng.",
+                "(Động) Khen ngợi. § Thông 'thán' 歎. ◇Phù sanh lục kí 浮生六記: 'Khánh vân kiến ư tây phương, (...) quan giả mạc bất thán vị kì thụy' 慶雲見於西方, (...)觀者莫不嘆為奇瑞 (Trung san kỉ lịch 中山紀歷)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Than, thở dài."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Than thở: 嘆了一口氣 Thở dài một cái;",
+                "Khen: 贊嘆 Khen ngợi. Xem 歎 (bộ 欠)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Than thở. Td: Oán thán."
+            ],
+            "compound_words": {
+                "哀嘆": "ai thán",
+                "悲嘆": "bi thán",
+                "感嘆": "cảm thán",
+                "怨嘆": "oán thán",
+                "嗟嘆": "ta thán",
+                "嘆惜": "thán tích",
+                "嘆誦": "thán tụng",
+                "嘆詞": "thán từ",
+                "嘆息": "thán tức",
+                "長嘆": "trường thán",
+                "詠嘆": "vịnh thán"
+            }
+        }
+    }
+}

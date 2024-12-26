@@ -1,0 +1,94 @@
+{
+    "character": "蠕",
+    "details": {
+        "Âm Hán Việt": [
+            "nhu",
+            "nhuyễn"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "trùng 虫 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫需"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丶フ丨丶丶丶丶一ノ丨フ丨丨"
+        ],
+        "Thương Hiệt": [
+            "LIMBB (中戈一月月)"
+        ],
+        "Unicode": [
+            "U+8815"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "rú ㄖㄨˊ",
+            "ruǎn ㄖㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "nhuyễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゼン (zen)",
+            "ダ (da)",
+            "ネン (nen)",
+            "ジュ (ju)",
+            "ニュ (nyu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うごめ.く (ugome.ku)"
+        ],
+        "Âm Hàn": [
+            "연",
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "nhu": {
+            "Từ điển phổ thông": [
+                "động đậy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngọ nguậy, bò chậm chạp. § Các giống mềm nhũn như giun, đỉa gọi là 'nhu hình động vật' 蠕形動物. ◇Liêu trai chí dị 聊齋志異: 'Đoạn nhi vi lưỡng, giai nhu động' 斷而為兩, 皆蠕動 (Yêu thuật 妖術) Chặt đứt làm đôi, đều còn ngọ nguậy.",
+                "Một âm là 'nhuyễn'. § Xem 'nhuyễn nhuyễn' 蠕蠕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(trước đọc nhuyễn [ruăn]) Sự quằn quại, bò quằn quại, ngọ nguậy;",
+                "[Ruăn] Nước Nhuyễn (tên một nước nhỏ thời xưa, thuộc vùng Ngoại Mông bây giờ)."
+            ],
+            "compound_words": {
+                "蠕蠕": "nhuyễn nhuyễn"
+            }
+        },
+        "nhuyễn": {
+            "Từ điển trích dẫn": [
+                "(Động) Ngọ nguậy, bò chậm chạp. § Các giống mềm nhũn như giun, đỉa gọi là 'nhu hình động vật' 蠕形動物. ◇Liêu trai chí dị 聊齋志異: 'Đoạn nhi vi lưỡng, giai nhu động' 斷而為兩, 皆蠕動 (Yêu thuật 妖術) Chặt đứt làm đôi, đều còn ngọ nguậy.",
+                "Một âm là 'nhuyễn'. § Xem 'nhuyễn nhuyễn' 蠕蠕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhuyễn nhuyễn 蠕蠕 một nước rợ ngày xưa, tức là đất Ngoại Mông bây giờ.",
+                "Một âm là nhu ngọ nguậy, các giống chất mềm nhũn như con giun, con đỉa gọi là nhu hình động vật 蠕形動物."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Nhuyễn 蝡."
+            ],
+            "compound_words": {
+                "蠕蠕": "nhuyễn nhuyễn"
+            }
+        }
+    }
+}

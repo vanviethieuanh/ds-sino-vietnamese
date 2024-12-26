@@ -1,0 +1,81 @@
+{
+    "character": "慫",
+    "details": {
+        "Âm Hán Việt": [
+            "túng",
+            "tủng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "tâm 心 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱從心"
+        ],
+        "Nét bút": [
+            "ノノ丨ノ丶ノ丶丨一ノ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "HOP (竹人心)"
+        ],
+        "Unicode": [
+            "U+616B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sǒng ㄙㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "túng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すす.める (susu.meru)"
+        ],
+        "Âm Hàn": [
+            "종"
+        ],
+        "Âm Quảng Đông": [
+            "sung2"
+        ]
+    },
+    "meanings": {
+        "túng": {
+            "Từ điển phổ thông": [
+                "khuyên, giục, thúc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hoảng sợ.",
+                "(Động) 'Túng dũng' 慫恿 khuyến khích, cổ động, xúi giục. ◇Liêu trai chí dị 聊齋志異: 'Dĩ thương chủ nhân. Chủ nhân cức túng dũng chi' 以商主人. 主人亟慫恿之 (Vương Thành 王成) Đem việc đó ra bàn với ông chủ (quán trọ). Ông chủ hết sức khuyến khích. ☆Tương tự: 'cổ động' 鼓動, 'cổ lệ' 鼓勵, 'cổ vũ' 鼓舞, 'phiến động' 煽動, 'phiến hoặc' 煽惑. ★Tương phản: 'quy gián' 規諫, 'khuyến trở' 勸阻, 'trung cáo' 忠告."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khuyên, giục, mình không muốn thế mà kẻ khác cứ xức làm thế gọi là túng dũng 慫慂."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hãi."
+            ],
+            "compound_words": {
+                "慫慂": "túng dũng"
+            }
+        },
+        "tủng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sợ sệt, hoảng sợ;",
+                "【慫恿】tủng dũng [sôngyông] Xúi, xúi bẩy, xúi giục: 慫恿打架 Xúi trẻ đánh nhau;",
+                "Như 恿."
+            ]
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "character": "授",
+    "details": {
+        "Âm Hán Việt": [
+            "thọ",
+            "thụ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘受"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶丶ノ丶フフ丶"
+        ],
+        "Thương Hiệt": [
+            "QBBE (手月月水)"
+        ],
+        "Unicode": [
+            "U+6388"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shòu ㄕㄡˋ"
+        ],
+        "Âm Nôm": [
+            "thò",
+            "thụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さず.ける (sazu.keru)",
+            "さず.かる (sazu.karu)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "sau6"
+        ]
+    },
+    "meanings": {
+        "thọ": {
+            "Từ điển Trần Văn Chánh": [
+                "Cho, trao cho, truyền thụ."
+            ]
+        },
+        "thụ": {
+            "Từ điển phổ thông": [
+                "trao cho, truyền thụ, dạy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cho, trao cho. ◇Tam quốc diễn nghĩa 三國演義: 'Dĩ thiên thư tam quyển thụ chi' 以天書三卷授之 (Đệ nhất hồi 第一回) Lấy thiên thư ba quyển trao cho.",
+                "(Động) Truyền dạy. ◎Như: 'thụ khóa' 授課 dạy học.",
+                "(Động) Trao ngôi quan, nhậm chức. ◇Hàn Dũ 韓愈: 'Kì hậu dĩ bác học hoành từ, thụ Tập Hiền điện Chánh Tự' 其後以博學宏詞, 授集賢殿正字 (Liễu Tử Hậu mộ chí minh 柳子厚墓誌銘) Sau đậu khoa Bác Học Hoành Từ, được bổ chức Chánh Tự ở điện Tập Hiền."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cho, trao cho.",
+                "Truyền thụ, thụ khoá 授課 dạy học.",
+                "Trao ngôi quan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cho, trao cho, truyền thụ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trao cho. Hát nói của Cao Bá Quát: » Muốn đại thụ hẳn dìm cho lúng túng « — Truyền dạy cho. Td: Truyền thụ."
+            ],
+            "compound_words": {
+                "蔭授": "ấm thụ",
+                "版授": "bản thụ",
+                "誥授": "cáo thụ",
+                "大授": "đại thụ",
+                "教授": "giáo thụ",
+                "敕授": "sắc thụ",
+                "師授": "sư thụ",
+                "心授": "tâm thụ",
+                "授与": "thụ dữ",
+                "授予": "thụ dư",
+                "授與": "thụ dữ",
+                "授勋": "thụ huân",
+                "授勛": "thụ huân",
+                "授課": "thụ khoá",
+                "授课": "thụ khoá",
+                "授命": "thụ mệnh",
+                "授粉": "thụ phấn",
+                "授权": "thụ quyền",
+                "授權": "thụ quyền",
+                "授受": "thụ thụ",
+                "授精": "thụ tinh",
+                "授奖": "thụ tưởng",
+                "授獎": "thụ tưởng",
+                "授意": "thụ ý",
+                "传授": "truyền thụ",
+                "傳授": "truyền thụ"
+            }
+        }
+    }
+}

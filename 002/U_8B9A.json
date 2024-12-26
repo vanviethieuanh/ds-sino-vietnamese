@@ -1,0 +1,95 @@
+{
+    "character": "讚",
+    "details": {
+        "Âm Hán Việt": [
+            "tán"
+        ],
+        "Tổng nét": [
+            "26"
+        ],
+        "Bộ": [
+            "ngôn 言 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言贊"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一丨一ノフノ一丨一ノフ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRHUC (卜口竹山金)"
+        ],
+        "Unicode": [
+            "U+8B9A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zàn ㄗㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ.める (ho.meru)",
+            "たた.える (tata.eru)"
+        ],
+        "Âm Hàn": [
+            "찬"
+        ],
+        "Âm Quảng Đông": [
+            "zaan3"
+        ]
+    },
+    "meanings": {
+        "tán": {
+            "Từ điển phổ thông": [
+                "khen ngợi",
+                "văn tán dương công đức",
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khen ngợi. ◎Như: 'tán dương' 讚揚 khen ngợi.",
+                "(Động) Giúp. § Thông 'tán' 贊. ◎Như: 'tán trợ' 讚助 giúp đỡ.",
+                "(Danh) Thể văn, để tán dương công đức người và vật. § Thông 'tán' 贊."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khen ngợi, tán thán.",
+                "Văn tán, một lối văn tán dương công đức người và vật.",
+                "Giúp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "① Như 贊 (bộ 貝), nghĩa ①, ②, ③."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khen ngợi — giúp đỡ – tiếng nhà Phật, có nghĩa là ca tụng đức Phật, bài kinh ca tụng Phật — Tên một thể văn, nội dung ca tụng một người, một vật hay sự việc."
+            ],
+            "compound_words": {
+                "唄讚": "bại tán",
+                "祝讚": "chúc tán",
+                "讚揚": "tán dương",
+                "讚同": "tán đồng",
+                "讚歡": "tán hoan",
+                "讚許": "tán hứa",
+                "讚禮": "tán lễ",
+                "讚理": "tán lí",
+                "讚美": "tán mĩ",
+                "讚歎": "tán thán",
+                "讚成": "tán thành",
+                "讚助": "tán trợ",
+                "讚頌": "tán tụng",
+                "讚襄": "tán tương"
+            }
+        }
+    }
+}

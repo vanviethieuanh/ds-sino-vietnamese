@@ -1,0 +1,67 @@
+{
+    "character": "脑",
+    "details": {
+        "Âm Hán Việt": [
+            "não"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰月㐫"
+        ],
+        "Nét bút": [
+            "ノフ一一丶一ノ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "BYUK (月卜山大)"
+        ],
+        "Unicode": [
+            "U+8111"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nǎo ㄋㄠˇ"
+        ],
+        "Âm Nôm": [
+            "não"
+        ],
+        "Âm Quảng Đông": [
+            "nou5"
+        ]
+    },
+    "meanings": {
+        "não": {
+            "Từ điển phổ thông": [
+                "não, óc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 腦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 腦"
+            ],
+            "compound_words": {
+                "樟脑": "chương não",
+                "大脑": "đại não",
+                "电脑": "điện não",
+                "电脑软件": "điện não nhuyễn kiện",
+                "电脑辅助设计": "điện não phụ trợ thiết kế",
+                "电脑网": "điện não võng",
+                "电脑网络": "điện não võng lạc",
+                "电脑网路": "điện não võng lộ"
+            }
+        }
+    }
+}

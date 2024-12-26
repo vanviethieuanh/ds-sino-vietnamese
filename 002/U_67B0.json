@@ -1,0 +1,89 @@
+{
+    "character": "枰",
+    "details": {
+        "Âm Hán Việt": [
+            "bình",
+            "bính"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木平"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丶ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "DMFJ (木一火十)"
+        ],
+        "Unicode": [
+            "U+67B0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "píng ㄆㄧㄥˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すごろくばん (sugorokuban)"
+        ],
+        "Âm Hàn": [
+            "평"
+        ],
+        "Âm Quảng Đông": [
+            "ping4"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển phổ thông": [
+                "đánh cờ, đánh bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bàn cờ. ◇Liêu trai chí dị 聊齋志異: 'Nhân sử trị kì bình, sư bồ chi cụ, nhật dữ ngao hí' 因使治棋枰, 樗蒲之具, 日與遨戲 (Thư si 書癡) Nhân đó bảo sắp đặt bàn cờ, đồ để chơi xúc xắc, hằng ngày cùng nhau vui chơi.",
+                "(Danh) Tên một cây theo sách cổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cuộc đánh bạc, nay thông dụng gọi cuộc cờ là bình, đánh một ván cờ gọi là nhất bình 一枰.",
+                "Một âm là bính. Ván giát giường.",
+                "Cây bính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bàn cờ, ván cờ: 一枰 Một ván cờ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bàn cờ. Cuộc cờ — Canh bài, cuộc đán bạc — Tấm phản, tấm giường gỗ một người nằm."
+            ]
+        },
+        "bính": {
+            "Từ điển phổ thông": [
+                "ván giát giường",
+                "cây bính"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cuộc đánh bạc, nay thông dụng gọi cuộc cờ là bình, đánh một ván cờ gọi là nhất bình 一枰.",
+                "Một âm là bính. Ván giát giường.",
+                "Cây bính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cây bính;",
+                "Ván giát vườn."
+            ]
+        }
+    }
+}

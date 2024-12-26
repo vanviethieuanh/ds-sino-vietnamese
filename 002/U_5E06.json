@@ -1,0 +1,88 @@
+{
+    "character": "帆",
+    "details": {
+        "Âm Hán Việt": [
+            "phàm",
+            "phâm"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "cân 巾 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾凡"
+        ],
+        "Nét bút": [
+            "丨フ丨ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "LBHNI (中月竹弓戈)"
+        ],
+        "Unicode": [
+            "U+5E06"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fān ㄈㄢ"
+        ],
+        "Âm Nôm": [
+            "buồm",
+            "buồng",
+            "phàm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほ (ho)"
+        ],
+        "Âm Hàn": [
+            "범"
+        ],
+        "Âm Quảng Đông": [
+            "faan4"
+        ]
+    },
+    "meanings": {
+        "phàm": {
+            "Từ điển phổ thông": [
+                "cánh buồm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Buồm. ◎Như: 'nhất phàm phong thuận' 一帆風順 thuận buồm xuôi gió.",
+                "(Danh) Mượn chỉ thuyền. ◇Tô Thức 蘇軾: 'Hà thì quy phàm tố giang thủy' 何時歸帆泝江水 (Tống Lưu Cảnh Văn 送劉景文) Bao giờ quay thuyền đi ngược dòng sông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Buồm, một thứ căng bằng vải hay bằng chiếu dựng lên trên thuyền cho gió thổi thuyền đi.",
+                "Một âm là phám thuyền xuôi gió."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Buồm: 帆檣林立 Cột buồm san sát; 一帆風順 Thuận buồm xuôi gió; 孤帆 Cánh buồm đơn chiếc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái buồm của con thuyền. Cánh buồm."
+            ],
+            "compound_words": {
+                "征帆": "chinh phàm",
+                "帆布": "phàm bố",
+                "帆船": "phàm thuyền"
+            }
+        },
+        "phâm": {
+            "Từ điển Thiều Chửu": [
+                "Buồm, một thứ căng bằng vải hay bằng chiếu dựng lên trên thuyền cho gió thổi thuyền đi.",
+                "Một âm là phám thuyền xuôi gió."
+            ]
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "character": "鄕",
+    "details": {
+        "Âm Hán Việt": [
+            "hương",
+            "hướng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ấp 邑 (+10 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Hình thái": [
+            "⿲乡皀⻏"
+        ],
+        "Nét bút": [
+            "フフノノ丨フ一一ノフフ丨"
+        ],
+        "Thương Hiệt": [
+            "VHHPL (女竹竹心中)"
+        ],
+        "Unicode": [
+            "U+9115"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xiāng ㄒㄧㄤ",
+            "xiǎng ㄒㄧㄤˇ",
+            "xiàng ㄒㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "ゴウ (gō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さと (sato)",
+            "ふるさと (furusato)",
+            "さきに (sakini)"
+        ],
+        "Âm Hàn": [
+            "향"
+        ],
+        "Âm Quảng Đông": [
+            "hoeng1"
+        ]
+    },
+    "meanings": {
+        "hương": {
+            "Từ điển phổ thông": [
+                "làng",
+                "thôn quê, nông thôn",
+                "quê hương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “hương” 鄉."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làng. Ngày xưa gọi một khu 12500 nhà là hương.",
+                "Một tiếng gọi tóm cả một khu vực. Người cùng tỉnh cùng huyện đều gọi là đồng hương 同鄉, li hương 離鄉 lìa quê đi ra ngoài, hoàn hương 還鄉 về quê.",
+                "Nhà quê.",
+                "Một âm là hướng. Cùng nghĩa với hướng 向. Như nam hướng 南鄉 hướng nam, ngoảnh về phương nam.",
+                "Xưa, trước. Như sách Luận Ngữ 論語 nói: Hướng dã ngô kiến ư phu tử nhi vấn chi 鄉也吾見於夫子而問之 trước kia tôi được thấy nhà thầy tôi hỏi nên biết."
+            ]
+        },
+        "hướng": {
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “hương” 鄉."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Làng. Ngày xưa gọi một khu 12500 nhà là hương.",
+                "Một tiếng gọi tóm cả một khu vực. Người cùng tỉnh cùng huyện đều gọi là đồng hương 同鄉, li hương 離鄉 lìa quê đi ra ngoài, hoàn hương 還鄉 về quê.",
+                "Nhà quê.",
+                "Một âm là hướng. Cùng nghĩa với hướng 向. Như nam hướng 南鄉 hướng nam, ngoảnh về phương nam.",
+                "Xưa, trước. Như sách Luận Ngữ 論語 nói: Hướng dã ngô kiến ư phu tử nhi vấn chi 鄉也吾見於夫子而問之 trước kia tôi được thấy nhà thầy tôi hỏi nên biết."
+            ]
+        }
+    }
+}

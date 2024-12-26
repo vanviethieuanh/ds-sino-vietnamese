@@ -1,0 +1,73 @@
+{
+    "character": "刹",
+    "details": {
+        "Âm Hán Việt": [
+            "sát"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "đao 刀 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰杀⺉"
+        ],
+        "Nét bút": [
+            "ノ丶一丨ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "XKDLN (重大木中弓)"
+        ],
+        "Unicode": [
+            "U+5239"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chà ㄔㄚˋ",
+            "shā ㄕㄚ"
+        ],
+        "Âm Nôm": [
+            "sát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セチ (sechi)",
+            "セツ (setsu)",
+            "サツ (satsu)"
+        ],
+        "Âm Hàn": [
+            "찰"
+        ],
+        "Âm Quảng Đông": [
+            "caat3",
+            "saat3"
+        ]
+    },
+    "meanings": {
+        "sát": {
+            "Từ điển phổ thông": [
+                "cái tháp thờ Phật, ngôi chùa",
+                "(xem: sát na 刹那)"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như chữ 'sát' 剎.",
+                "Giản thể của chữ 剎."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng Phạn, chỉ nước Phật — Chỉ tháp Phật — Chỉ chùa Phật."
+            ],
+            "compound_words": {
+                "刹海": "sát hải",
+                "刹那": "sát na"
+            }
+        }
+    }
+}

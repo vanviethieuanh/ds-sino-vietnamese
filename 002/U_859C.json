@@ -1,0 +1,96 @@
+{
+    "character": "薜",
+    "details": {
+        "Âm Hán Việt": [
+            "bách",
+            "bệ",
+            "phách"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹辟"
+        ],
+        "Nét bút": [
+            "一丨丨フ一ノ丨フ一丶一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "TSRJ (廿尸口十)"
+        ],
+        "Unicode": [
+            "U+859C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ",
+            "bì ㄅㄧˋ",
+            "bó ㄅㄛˊ",
+            "bò ㄅㄛˋ",
+            "pì ㄆㄧˋ"
+        ],
+        "Âm Nôm": [
+            "bệ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)"
+        ],
+        "Âm Hàn": [
+            "벽",
+            "폐"
+        ],
+        "Âm Quảng Đông": [
+            "bai6"
+        ]
+    },
+    "meanings": {
+        "bách": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một tên chỉ Đương Quy, một vị thuốc ta. Cũng đọc Bích, Tích, hoăc Phách — Một âm khác là Bệ."
+            ]
+        },
+        "bệ": {
+            "Từ điển phổ thông": [
+                "một giống cây bụi",
+                "cây đương quy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Bệ lệ' 薜荔: (1) Một thứ cây mọc từng bụi, thường xanh, lá dùng làm phấn thoa, thuốc (Ficus pumila). § Còn gọi là 'mộc liên' 木蓮. (2) Ngạ quỷ, loài quỷ đói. § Tiếng người 'Hồ' 胡. Là một trong 'lục đạo' 六道 theo Phật giáo.",
+                "(Danh) 'Bệ la' 薜羅 cây 'bệ lệ' và cây 'nữ la'. ◇Khuất Nguyên 屈原: 'Bị bệ lệ hề đái nữ la' 被薜荔兮帶女羅 (Cửu ca 九歌, San quỷ 山鬼) Khoác bệ lệ hề mang nữ la. § 'Bệ la' sau chỉ áo quần người ở ẩn.",
+                "Một âm là 'phách'. (Danh) Một loại cây dùng làm thuốc.",
+                "(Danh) Cây gai núi.",
+                "(Động) Bẻ, tách, vỡ. § Thông 'phách' 劈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệ lệ 薜荔 một thứ cây mọc từng bụi, thường xanh, lá dùng làm phấn rôm. Còn gọi là mộc liên 木蓮.",
+                "Một loài quỷ đói. Cũng như ngạ quỷ 餓鬼.",
+                "Tức là cây đương quy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây vả leo (Fucus pumila)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây thuộc giống dâu, xem Bệ lệ 薜荔 — Một âm khác là Bách."
+            ],
+            "compound_words": {
+                "薜荔": "bệ lệ"
+            }
+        },
+        "phách": {
+            "Từ điển Trần Văn Chánh": [
+                "(dược) Cây bạch chỉ Trung Quốc, đương quy."
+            ]
+        }
+    }
+}

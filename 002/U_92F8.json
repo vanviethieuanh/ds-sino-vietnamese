@@ -1,0 +1,93 @@
+{
+    "character": "鋸",
+    "details": {
+        "Âm Hán Việt": [
+            "cư",
+            "cứ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金居"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一フ一ノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "CSJR (金尸十口)"
+        ],
+        "Unicode": [
+            "U+92F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ",
+            "jù ㄐㄩˋ"
+        ],
+        "Âm Nôm": [
+            "cư",
+            "cưa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)",
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のこ (noko)",
+            "のこぎり (nokogiri)"
+        ],
+        "Âm Hàn": [
+            "거"
+        ],
+        "Âm Quảng Đông": [
+            "geoi3",
+            "goe3"
+        ]
+    },
+    "meanings": {
+        "cư": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋦 (1)."
+            ]
+        },
+        "cứ": {
+            "Từ điển phổ thông": [
+                "cưa",
+                "cái cưa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái cưa. ◎Như: 'điện cứ' 電鋸 cưa điện, 'thủ cứ' 手鋸 cưa cầm tay.",
+                "(Danh) Một thứ hình cụ thời xưa dùng để cưa cắt chân tay, thân thể. ◇Quốc ngữ 國語: 'Trung hình dụng đao cứ' 中刑用刀鋸 (Lỗ ngữ thượng 魯語上) Hình phạt loại vừa dùng dao hoặc cưa.",
+                "(Động) Cưa. ◇Hậu Hán Thư 後漢書: 'Cung dạ sử cứ đoạn thành môn hạn' 宮夜使鋸斷城門限 (Tang Cung truyện 臧宮傳) Đêm (Tang) Cung sai cưa đứt ngưỡng cửa thành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cưa.",
+                "Cưa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái cưa: 電鋸 Máy cưa điện; 拉鋸 Kéo cưa; 買一把鋸 Mua một cái cưa;",
+                "Cưa: 鋸木頭 Cưa gỗ; 把這根木頭鋸成兩段 Cưa khúc gỗ này làm hai đoạn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cưa."
+            ],
+            "compound_words": {
+                "鋸牙": "cứ nha",
+                "鋸屑": "cứ tiết",
+                "鋸齒": "cứ xỉ"
+            }
+        }
+    }
+}

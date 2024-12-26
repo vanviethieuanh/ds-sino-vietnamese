@@ -1,0 +1,76 @@
+{
+    "character": "揶",
+    "details": {
+        "Âm Hán Việt": [
+            "da",
+            "gia"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘耶"
+        ],
+        "Nét bút": [
+            "一丨一一丨丨一一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "QSJL (手尸十中)"
+        ],
+        "Unicode": [
+            "U+63F6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yé ㄜˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤ (ya)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "からか.う (karaka.u)"
+        ],
+        "Âm Hàn": [
+            "야"
+        ],
+        "Âm Quảng Đông": [
+            "je4"
+        ]
+    },
+    "meanings": {
+        "da": {
+            "Từ điển trích dẫn": [
+                "1. (Động) “Da du” 揶揄 trêu ghẹo, chòng ghẹo. ◇Bạch Cư Dị 白居易: “Sổ bị quỷ da du” 數被鬼揶揄 (Đông nam hành 東南行) Mấy người bị ma trêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【揶揄】da du [yéyú] (văn) Chê cười, chế giễu, trêu ghẹo, chọc ghẹo."
+            ],
+            "compound_words": {
+                "揶揄": "da du"
+            }
+        },
+        "gia": {
+            "Từ điển phổ thông": [
+                "chọc ghẹo"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gia du 揶揄 trêu ghẹo, chòng ghẹo."
+            ],
+            "compound_words": {
+                "揄揶": "du gia",
+                "揶揄": "gia du"
+            }
+        }
+    }
+}

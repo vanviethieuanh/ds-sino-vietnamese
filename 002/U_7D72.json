@@ -1,0 +1,107 @@
+{
+    "character": "絲",
+    "details": {
+        "Âm Hán Việt": [
+            "ti",
+            "ty"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mịch 糸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰糹糹"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶フフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFVIF (女火女戈火)"
+        ],
+        "Unicode": [
+            "U+7D72"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sī ㄙ"
+        ],
+        "Âm Nôm": [
+            "ti",
+            "tơ",
+            "tưa",
+            "ty"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いと (ito)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "ti": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tơ (tằm nhả ra).",
+                "(Danh) Chỉ chung đồ dệt bằng tơ.",
+                "(Danh) Phàm thứ gì nhỏ mà hình như đan sợi đều gọi là 'ti'. ◎Như: 'thù ti' 蛛絲 mạng nhện, 'vũ ti' 雨絲 mưa dây.",
+                "(Danh) Một trong 'bát âm' 八音: 'kim, thạch, thổ, cách, ti, mộc, bào, trúc' 金, 石, 土, 革, 絲, 木, 匏, 竹. Phiếm chỉ nhạc khí dùng dây.",
+                "(Danh) Số lượng cực nhỏ. ◎Như: 'nhất ti bất cẩu' 一絲不苟 cẩn thận từng li từng tí, 'nhất ti vi tiếu' 一絲微笑 mỉm cười rất nhẹ.",
+                "(Danh) Lượng từ: một phần mười vạn. Mười 'ti' 絲 là một 'hào' 毫.",
+                "(Tính) Làm bằng tơ. ◎Như: 'ti cân' 絲巾 khăn tơ, 'ti miên' 絲綿 bông tơ.",
+                "(Tính) Rất nhỏ, rất ít. ◎Như: 'ti hào' 絲毫 tơ hào, một li một tí."
+            ],
+            "compound_words": {
+                "哀絲": "ai ti",
+                "急竹繁絲": "cấp trúc phồn ti",
+                "甜絲絲": "điềm ti ti",
+                "金石絲竹": "kim thạch ti trúc",
+                "絲毫": "ti hào",
+                "絲絲": "ti ti",
+                "絲絲入扣": "ti ti nhập khấu",
+                "絲竹": "ti trúc",
+                "竹絲": "trúc ti"
+            }
+        },
+        "ty": {
+            "Từ điển phổ thông": [
+                "sợi tơ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tơ tằm.",
+                "Phàm thứ gì nhỏ mà hình như đan sợi đều gọi là ti, như thù ti 蛛絲 mạng nhện, vũ ti 雨絲 mưa dây, v.v.",
+                "Tiếng ti, như đàn nhị phải dùng dây tơ mới gảy mới kéo ra tiếng được nên gọi là tiếng ti.",
+                "Ti, một phần trong mười vạn phần gọi là một ti 絲. Mười ti 絲 là một hào 毫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "① Tơ:"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợi tơ tằm — Sợi tơ, sọi dây, sợi chỉ — Dây đàn."
+            ],
+            "compound_words": {
+                "拔絲": "bạt ty",
+                "紡絲": "phưởng ty",
+                "愁絲": "sầu ty",
+                "菟絲": "thố ty",
+                "蛛絲": "thù ty",
+                "檿絲": "yểm ty"
+            }
+        }
+    }
+}

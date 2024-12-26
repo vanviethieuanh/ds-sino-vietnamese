@@ -1,0 +1,110 @@
+{
+    "character": "燈",
+    "details": {
+        "Âm Hán Việt": [
+            "đăng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "hoả 火 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火登"
+        ],
+        "Nét bút": [
+            "丶ノノ丶フ丶ノノ丶一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "FNOT (火弓人廿)"
+        ],
+        "Unicode": [
+            "U+71C8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dēng ㄉㄥ"
+        ],
+        "Âm Nôm": [
+            "đăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ (hi)",
+            "ほ- (ho-)",
+            "ともしび (tomoshibi)",
+            "とも.す (tomo.su)",
+            "あかり (akari)"
+        ],
+        "Âm Hàn": [
+            "등"
+        ],
+        "Âm Quảng Đông": [
+            "dang1"
+        ]
+    },
+    "meanings": {
+        "đăng": {
+            "Từ điển phổ thông": [
+                "cái đèn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đèn. ◎Như: 'điện đăng' 電燈 đèn điện.",
+                "(Danh) Chỉ Phật pháp (vì Phật Pháp như đèn chiếu rọi, phá tan tà ác, hắc ám, vô minh). ◎Như: 'truyền đăng' 傳燈 truyền bá Phật pháp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái đèn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đèn, đăng: 電燈 Đèn điện; 花燈 Hoa đăng, đèn hoa; 酒精燈 Đèn cồn;",
+                "Bóng đèn điện tử: 五燈收音機 Rađiô 5 đèn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đèn. Cây đèn."
+            ],
+            "compound_words": {
+                "影燈": "ảnh đăng",
+                "幻燈": "ảo đăng",
+                "白熱燈": "bạch nhiệt đăng",
+                "壁燈": "bích đăng",
+                "篝燈": "câu đăng",
+                "大南禪苑傳燈集錄": "đại nam thiền uyển truyền đăng tập lục",
+                "燈臺": "đăng đài",
+                "燈號": "đăng hiệu",
+                "燈火": "đăng hoả",
+                "燈花": "đăng hoa",
+                "燈籠": "đăng lung",
+                "燈謎": "đăng mê",
+                "燈芯": "đăng tâm",
+                "燈塔": "đăng tháp",
+                "燈市": "đăng thị",
+                "點燈": "điểm đăng",
+                "電燈": "điện đăng",
+                "海燈": "hải đăng",
+                "號燈": "hiệu đăng",
+                "香燈": "hương đăng",
+                "氖燈": "nãi đăng",
+                "霓虹燈": "nghê hồng đăng",
+                "法燈": "pháp đăng",
+                "放燈": "phóng đăng",
+                "風燈": "phong đăng",
+                "殘燈": "tàn đăng",
+                "心燈": "tâm đăng",
+                "標燈": "tiêu đăng",
+                "坐燈": "toạ đăng",
+                "桌燈": "trác đăng"
+            }
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "character": "排",
+    "details": {
+        "Âm Hán Việt": [
+            "bài"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘非"
+        ],
+        "Nét bút": [
+            "一丨一丨一一一丨一一一"
+        ],
+        "Thương Hiệt": [
+            "QLMY (手中一卜)"
+        ],
+        "Unicode": [
+            "U+6392"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ",
+            "pái ㄆㄞˊ",
+            "pǎi ㄆㄞˇ"
+        ],
+        "Âm Nôm": [
+            "bai",
+            "bay",
+            "bầy",
+            "bời",
+            "vài",
+            "vời"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "paai4"
+        ]
+    },
+    "meanings": {
+        "bài": {
+            "Từ điển phổ thông": [
+                "xếp hàng",
+                "bè (thuyền bè)",
+                "tháo ra",
+                "xô, đẩy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đẩy, gạt ra. ◇Thủy hử truyện 水滸傳: 'Bị (...) bài phiên tiểu thuyền, đảo tràng hạ thủy khứ' 被(...)排翻小船, 倒撞下水去 (Đệ lục thập nhị hồi) Bị đẩy lật chiếc thuyền nhỏ, té nhào xuống sông.",
+                "(Động) Tiêu trừ, trừ khử. ◇Lí Dục 李煜: 'Vãng sự chỉ kham ai, đối cảnh nan bài' 往事只堪哀, 對景難排 (Lãng đào sa 浪淘沙) Chuyện cũ chỉ buồn đau, đối cảnh khó trừ hết.",
+                "(Động) Ruồng bỏ, bài xích. ◎Như: 'để bài' 詆排 ruồng đuổi, 'bài tễ' 排擠 đuổi cút đi.",
+                "(Động) Khơi, tháo, khai thông. ◇Mạnh Tử 孟子: 'Quyết Nhữ, Hán, bài Hoài, Tứ' 決汝, 漢, 排淮, 泗 (Đằng Văn Công thượng 滕文公上) Khơi các sông Nhữ, Hán, bời tháo sông Hoài, sông Tứ.",
+                "(Động) Xếp thành hàng.",
+                "(Động) Xếp đặt, thiết trí. ◎Như: 'an bài' 安排 bày yên, sắp đặt đâu vào đấy. ◇Tam quốc diễn nghĩa 三國演義: 'Thứ nhật đại bài diên hội, biến thỉnh công khanh' 次日大排筵會, 遍請公卿 (Đệ tam hồi) Hôm sau đặt tiệc yến lớn, mời tất cả các công khanh.",
+                "(Động) Tập diễn. ◎Như: 'bài hí' 排戲 tập diễn trò.",
+                "(Danh) Hàng. ◎Như: 'tiền bài' 前排 hàng trước, 'tha cá tử cao, tổng thị tọa tại hậu bài' 他個子高, 總是坐在後排 những ai cao đều ngồi ở hàng sau.",
+                "(Danh) Lượng từ: dãy, hàng, rặng, loạt. ◎Như: 'trạm thành nhất bài' 站成一排 đứng thành một hàng, 'cửu bài tọa vị' 九排座位 chín dãy chỗ ngồi.",
+                "(Danh) Đơn vị bộ binh: bốn 'ban' 班 là một 'bài' 排, bốn 'bài' 排 là một 'liên' 連.",
+                "(Danh) Bè. ◎Như: 'trúc bài' 竹排 bè tre, 'mộc bài' 木排 bè gỗ.",
+                "(Danh) 'Bài tử xa' 排子車 xe ba gác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bời ra, gạt ra.",
+                "Ðuổi, loại đi, như để bài 詆排 ruồng đuổi, bài tễ 排擠 đuổi cút đi, v.v.",
+                "Bày xếp, như an bài 安排 bày yên (xắp đặt đâu vào đấy). Một hàng gọi là nhất bài 一排.",
+                "Phép nhà binh về bộ binh, pháo binh, công binh, truy trọng binh, thì ba bằng là một bài, quân kị thì hai bằng là một bài."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【排子車】bài tử xa [păiziche] Xe ba gác. Xem 排 [pái]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chê bai — Bày ra. Sắp xếp — Tên một đơn vị nhỏ trong quân đội Trung Hoa."
+            ],
+            "compound_words": {
+                "安排": "an bài",
+                "排駁": "bài bác",
+                "排布": "bài bố",
+                "排球": "bài cầu",
+                "排骨": "bài cốt",
+                "排队": "bài đội",
+                "排隊": "bài đội",
+                "排解": "bài giải",
+                "排陷": "bài hãm",
+                "排行": "bài hành",
+                "排謔": "bài hước",
+                "排抗": "bài kháng",
+                "排列": "bài liệt",
+                "排沫": "bài mạt",
+                "排悶": "bài muộn",
+                "排難解紛": "bài nạn giải phân",
+                "排偶": "bài ngẫu",
+                "排外": "bài ngoại",
+                "排衙": "bài nha",
+                "排沙簡金": "bài sa giản kim",
+                "排設": "bài thiết",
+                "排水": "bài thuỷ",
+                "排泄": "bài tiết",
+                "排泄器": "bài tiết khí",
+                "排泄器官": "bài tiết khí quan",
+                "排置": "bài trí",
+                "排除": "bài trừ",
+                "排場": "bài trường",
+                "排長": "bài trưởng",
+                "排字": "bài tự",
+                "排斥": "bài xích",
+                "排出": "bài xuất",
+                "彭排": "bành bài",
+                "料排": "liệu bài",
+                "鋪排": "phô bài",
+                "並排": "tịnh bài",
+                "并排": "tịnh bài"
+            }
+        }
+    }
+}

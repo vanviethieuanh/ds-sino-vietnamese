@@ -1,0 +1,80 @@
+{
+    "character": "磐",
+    "details": {
+        "Âm Hán Việt": [
+            "bàn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thạch 石 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱般石"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶ノフフ丶一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HEMR (竹水一口)"
+        ],
+        "Unicode": [
+            "U+78D0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "pán ㄆㄢˊ"
+        ],
+        "Âm Nôm": [
+            "bàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バン (ban)",
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いわ (iwa)"
+        ],
+        "Âm Hàn": [
+            "반"
+        ],
+        "Âm Quảng Đông": [
+            "pun4"
+        ]
+    },
+    "meanings": {
+        "bàn": {
+            "Từ điển phổ thông": [
+                "tảng đá lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tảng đá lớn. ◎Như: 'an như bàn thạch' 安如磐石 yên vững như tảng đá.",
+                "(Động) Bồi hồi, lưu liên không rời nhau được. § Thông 'bàn' 盤."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tảng đá lớn, ta hay nói an như bàn thạch 安如磐石 yên vững như tảng đá.",
+                "Bàn bạc 磐礡 rộng lớn mênh mông, đầy rẫy, lẫn lộn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【磐石】bàn thạch [pánshí] Tảng đá to: 安如磐石 Vững như bàn thạch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tảng đá lớn — Dùng như chữ Bàn 盤."
+            ],
+            "compound_words": {
+                "磐礡": "bàn bạc",
+                "磐礴": "bàn bạc",
+                "磐石": "bàn thạch"
+            }
+        }
+    }
+}

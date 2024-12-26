@@ -1,0 +1,100 @@
+{
+    "character": "隘",
+    "details": {
+        "Âm Hán Việt": [
+            "ách",
+            "ải"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "phụ 阜 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖益"
+        ],
+        "Nét bút": [
+            "フ丨丶ノ一ノ丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "NLTCT (弓中廿金廿)"
+        ],
+        "Unicode": [
+            "U+9698"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ài ㄚㄧˋ",
+            "è"
+        ],
+        "Âm Nôm": [
+            "ải",
+            "ỏi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アイ (ai)",
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せま.い (sema.i)"
+        ],
+        "Âm Hàn": [
+            "애",
+            "액"
+        ],
+        "Âm Quảng Đông": [
+            "aai3"
+        ]
+    },
+    "meanings": {
+        "ách": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Ách 阨. Một âm khác là Ải."
+            ]
+        },
+        "ải": {
+            "Từ điển phổ thông": [
+                "chật hẹp",
+                "nơi hiểm trở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nơi hiểm trở, chỗ địa thế hiểm hóc. ◎Như: 'hiểm ải' 險隘 chỗ hiểm trở. ◇Tam quốc diễn nghĩa 三國演義: 'Mỗ bổn dục phiền túc hạ bả nhất cá tối khẩn yếu đích ải khẩu, chẩm nại hữu ta vi ngại xứ' 某本欲煩足下把一個最緊要的隘口, 怎奈有些違礙處 (Đệ tứ thập cửu hồi) Tôi có ý phiền tướng quân giữ một chỗ hết sức hiểm yếu, nhưng còn hơi ngại một chút.",
+                "(Tính) Hẹp hòi. ◇Mạnh Tử 孟子: 'Bá Di ải' 伯夷隘 (Công Tôn Sửu thượng 公孫丑上) Bá Di khí lượng hẹp hòi.",
+                "Một âm là 'ách'. (Động) Ngăn cách, cách tuyệt. ◇Chiến quốc sách 戰國策: 'Tam quốc ải Tần' 三國隘秦 (Đông Chu sách 東周策) Ba nước cách tuyệt nước Tần.",
+                "(Động) Ngăn trở, cản trở. ◇Chiến quốc sách 戰國策: 'Hoài Vương hoăng, thái tử từ ư Tề Vương nhi quy, Tề Vương ách chi' 懷王薨, 太子辭於齊王而歸, 齊王隘之 (Sở sách nhị 楚策二) Hoài Vương băng, thái tử cáo biệt Tề Vương mà về, Tề Vương cản lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nơi hiểm trở, chỗ địa thế hiểm hóc, giữ thì dễ mà đánh vào thì khó gọi là hiểm ải 險隘.",
+                "Hẹp hòi. Như ông Mạnh Tử 孟子 nói Bá Di ải 伯夷隘 ông Bá di hẹp hòi.",
+                "Cùng nghĩa với chữ ách 阨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiểm, hiểm hóc, hiểm trở, xung yếu: 要隘 Nơi xung yếu; 關隘 Cửa ải hiểm trở;",
+                "Nhỏ, hẹp, hẹp hòi: 氣量狹隘 Bụng dạ hẹp hòi; 伯夷隘 Ông Bá Di hẹp hòi (MaÅnh tử);",
+                "(văn) Như 阨."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngăn trở, chẹn lại — Xa xôi cách trở — Một âm là Ách."
+            ],
+            "compound_words": {
+                "隘害": "ải hại",
+                "隘巷": "ải hạng",
+                "隘險": "ải hiểm",
+                "隘關": "ải quan",
+                "屯隘": "đồn ải",
+                "关隘": "quan ải",
+                "關隘": "quan ải",
+                "要隘": "yếu ải"
+            }
+        }
+    }
+}

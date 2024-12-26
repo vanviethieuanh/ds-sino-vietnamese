@@ -1,0 +1,103 @@
+{
+    "character": "橙",
+    "details": {
+        "Âm Hán Việt": [
+            "chanh",
+            "sập",
+            "tranh",
+            "đắng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mộc 木 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木登"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丶ノノ丶一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "DNOT (木弓人廿)"
+        ],
+        "Unicode": [
+            "U+6A59"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chén ㄔㄣˊ",
+            "chéng ㄔㄥˊ",
+            "dèng ㄉㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chanh",
+            "tranh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "だいだい (daidai)"
+        ],
+        "Âm Hàn": [
+            "등",
+            "증"
+        ],
+        "Âm Quảng Đông": [
+            "caang2",
+            "caang4"
+        ]
+    },
+    "meanings": {
+        "chanh": {
+            "Từ điển Thiều Chửu": [
+                "Cây chanh.",
+                "Một âm là đặng. Cái ghế, cái sập. thường viết là 凳."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây gần giống cây cam nhưng trái nhỏ, núi có nước rất chua. Ta cũng gọi là cây Chanh ( citronier )."
+            ]
+        },
+        "sập": {
+            "Từ điển Thiều Chửu": [
+                "Cây chanh.",
+                "Một âm là đặng. Cái ghế, cái sập. thường viết là 凳."
+            ]
+        },
+        "tranh": {
+            "Từ điển phổ thông": [
+                "cây chanh",
+                "cái ghế, cái sập"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây cam. ◎Như: 'tranh tử' 橙子 trái cam.",
+                "(Danh) Màu da cam. ◎Như: 'tranh sắc' 橙色 màu cam.",
+                "Một âm là 'đắng'. (Danh) Cái ghế, cái sập. § Thường viết là 凳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cam;",
+                "Màu da cam. Xem 橙 [chén], [dèng]."
+            ]
+        },
+        "đắng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cây cam. ◎Như: 'tranh tử' 橙子 trái cam.",
+                "(Danh) Màu da cam. ◎Như: 'tranh sắc' 橙色 màu cam.",
+                "Một âm là 'đắng'. (Danh) Cái ghế, cái sập. § Thường viết là 凳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 凳 (bộ 几)."
+            ]
+        }
+    }
+}

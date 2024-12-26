@@ -1,0 +1,83 @@
+{
+    "character": "桎",
+    "details": {
+        "Âm Hán Việt": [
+            "chất",
+            "trất"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木至"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "DMIG (木一戈土)"
+        ],
+        "Unicode": [
+            "U+684E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhí ㄓˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chuối",
+            "trất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あしかせ (ashikase)"
+        ],
+        "Âm Hàn": [
+            "질"
+        ],
+        "Âm Quảng Đông": [
+            "zat6"
+        ]
+    },
+    "meanings": {
+        "chất": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái cùm chân. ◎Như: “chất cốc” 桎梏 gông cùm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái cùm chân, như trất cốc 桎梏 gông cùm. Bị ngoại vật nó bó buộc không được tự do cũng gọi là trất cốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cùm chân, để cùm chân người có tội. Cũng đọc Trất."
+            ],
+            "compound_words": {
+                "桎梏": "chất cốc"
+            }
+        },
+        "trất": {
+            "Từ điển phổ thông": [
+                "cái cùm chân"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái cùm chân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cùm, cái còng, để khoá tay chân kẻ phạm tội — Trở ngại. Như chữ Trất 窒."
+            ]
+        }
+    }
+}

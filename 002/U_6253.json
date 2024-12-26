@@ -1,0 +1,195 @@
+{
+    "character": "打",
+    "details": {
+        "Âm Hán Việt": [
+            "tá",
+            "đả"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thủ 手 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘丁"
+        ],
+        "Nét bút": [
+            "一丨一一丨"
+        ],
+        "Thương Hiệt": [
+            "QMN (手一弓)"
+        ],
+        "Unicode": [
+            "U+6253"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dá ㄉㄚˊ",
+            "dǎ ㄉㄚˇ"
+        ],
+        "Âm Nôm": [
+            "dừng",
+            "đả",
+            "đánh",
+            "đử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)",
+            "ダアス (dāsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.つ (u.tsu)",
+            "う.ち- (u.chi-)",
+            "ぶ.つ (bu.tsu)"
+        ],
+        "Âm Hàn": [
+            "타",
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "daa1",
+            "daa2"
+        ]
+    },
+    "meanings": {
+        "tá": {
+            "Từ điển phổ thông": [
+                "tá, 12"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tá, lố (= 12 chiếc): 一打鉛筆 Một tá bút chì; 兩打毛巾 Hai lố khăn mặt. Xem 打 [dă]."
+            ]
+        },
+        "đả": {
+            "Từ điển phổ thông": [
+                "đánh, đập"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh, đập. ◎Như: 'đả cổ' 打鼓 đánh trống.",
+                "(Động) Đánh nhau, chiến đấu. ◎Như: 'đả đấu' 打鬥 chiến đấu, 'đả giá' 打架 đánh nhau, 'đả trượng' 打仗 đánh trận.",
+                "(Động) Tiêu trừ, trừ khử. ◎Như: 'đả trùng' 打蟲 diệt trùng, 'đả thai' 打胎 phá thai.",
+                "(Động) Phát ra, gởi đi, đánh, gọi. ◎Như: 'đả điện báo' 打電報 đánh điện báo, 'đả tín hiệu' 打信號 gởi tín hiệu, 'đả điện thoại' 打電話 gọi điện thoại.",
+                "(Động) Bắn, nã. ◎Như: 'đả thương'打槍 bắn súng, 'đả pháo' 打炮 nã pháo.",
+                "(Động) Tiêm, bơm vào. ◎Như: 'đả châm' 打針 tiêm thuốc, 'cấp xa thai đả khí' 給車胎打氣 bơm ruột bánh xe.",
+                "(Động) Làm, chế tạo. ◎Như: 'đả tạo' 打造 chế tạo, 'đả mao y' 打毛衣 đan áo len.",
+                "(Động) Đào, đục. ◎Như: 'đả tỉnh' 打井 đào giếng, 'đả đỗng' 打洞 đục hang.",
+                "(Động) Đánh vỡ, làm hỏng. ◎Như: 'đả đản' 打蛋 đập vỡ trứng, 'bất tiểu tâm bả oản đả liễu' 不小心把碗打了 không cẩn thận làm bể cái bát rồi.",
+                "(Động) Giương, cầm, xách. ◎Như: 'đả tán' 打傘 giương dù, 'đả đăng lung' 打燈籠 xách lồng đèn.",
+                "(Động) Thu hoạch, bắt, hái, cắt, đốn. ◎Như: 'đả sài' 打柴 đốn củi, 'đả thủy' 打水 lấy nước, múc nước, 'đả ngư' 打魚 đánh (bắt) cá.",
+                "(Động) Mua, đong. ◎Như: 'đả du' 打油 đong (mua) dầu ăn, 'đả tửu' 打酒 mua rượu.",
+                "(Động) Làm chuyển động, vặn, mở cho chạy. ◎Như: 'đả đà' 打舵 vặn bánh lái.",
+                "(Động) Tính toán, định, đặt, viết. ◎Như: 'đả chủ ý' 打主意 có ý định, 'đả thảo cảo' 打草稿 viết bản nháp, 'đả cơ sở' 打基礎 đặt cơ sở.",
+                "(Động) Nêu, đưa ra. ◎Như: 'đả tỉ dụ' 打比喻 đưa ra thí dụ.",
+                "(Động) Làm việc, đảm nhiệm. ◎Như: 'đả công' 打工 làm công, làm mướn, 'đả tạp' 打雜 làm việc linh tinh.",
+                "(Động) Gõ, vẽ. ◎Như: 'đả tự' 打字 gõ (máy) chữ, 'đả dạng' 打樣 vẽ kiểu, vẽ mẫu.",
+                "(Động) Bôi, xoa, chà xát. ◎Như: 'đả lạp' 打蠟 bôi sáp, đánh xi.",
+                "(Động) Chỉ những động tác của thân thể: ngáp, run, lăn lộn, ... ◎Như: 'đả cổn' 打滾 lộn nhào, 'đả a khiếm' 打呵欠 ngáp, 'đả khạp thụy' 打瞌睡 ngủ gật.",
+                "(Động) Giao thiệp, hàn huyên. ◎Như: 'đả giao đạo' 打交道 giao thiệp, qua lại với nhau.",
+                "(Giới) Từ, tự. ◎Như: 'đả minh thiên khởi ngã quyết tâm giới yên' 打明天起我決心戒煙 từ mai trở đi tôi quyết tâm bỏ hút thuốc, 'nâm đả na lí lai?' 您打那裡來 ông từ đâu đến?",
+                "(Danh) Võ thuật, võ công. ◎Như: 'luyện đả' 練打 luyện võ.",
+                "(Danh) Họ 'Đả'.",
+                "(Danh) Lượng từ: 'đả thần' 打臣 dịch âm tiếng Anh \"dozen\" (một tá, 12 cái)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðánh đập.",
+                "Về đâu, như đả na lí tẩu 打那裏走 chạy về đâu, cũng như chữ hướng 向. Lại có nghĩa là lấy, như đả lương 打糧 lấy lương, cũng như chữ 取.",
+                "Ðả thần 打臣 dịch âm chữ dozen, nghĩa là một tá (12 cái).",
+                "Làm, như bất đả cuống ngữ 不打誑語 chẳng làm sự nói dối, đả ban 打扮 thay làm bộ dạng khác, đả thính 打聽 nghe ngóng, v.v."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh — Lấy tay mà đánh — Làm ra. Chế tạo. Chẳng hạn Đả xa 打車 ( chế tạo xe cộ ) — Lấy. Thu nhặt. Chẳng hạn Đả sài 打柴 ( kiếm củi ) — Giơ cao lên và nắm chặt. Chẳng hạn Đả tản 打傘 ( che dù ) — Một tá ( 12 cái )."
+            ],
+            "compound_words": {
+                "挨打": "ai đả",
+                "敺打": "ẩu đả",
+                "殴打": "ẩu đả",
+                "毆打": "ẩu đả",
+                "白打": "bạch đả",
+                "包打聽": "bao đả thính",
+                "不打緊": "bất đả khẩn",
+                "攻打": "công đả",
+                "打印": "đả ấn",
+                "打敗": "đả bại",
+                "打牌": "đả bài",
+                "打败": "đả bại",
+                "打扮": "đả phấn",
+                "打包": "đả bao",
+                "打針": "đả châm",
+                "打针": "đả châm",
+                "打診": "đả chẩn",
+                "打制": "đả chế",
+                "打製": "đả chế",
+                "打折": "đả chiết",
+                "打滾": "đả cổn",
+                "打倒": "đả đảo",
+                "打店": "đả điếm",
+                "打點": "đả điểm",
+                "打賭": "đả đổ",
+                "打赌": "đả đổ",
+                "打動": "đả động",
+                "打架": "đả giá",
+                "打交道": "đả giao đạo",
+                "打伙": "đả hoả",
+                "打呼": "đả hô",
+                "打混": "đả hỗn",
+                "打結": "đả kết",
+                "打结": "đả kết",
+                "打开": "đả khai",
+                "打開": "đả khai",
+                "打击": "đả kích",
+                "打擊": "đả kích",
+                "打劫": "đả kiếp",
+                "打猎": "đả liệp",
+                "打獵": "đả liệp",
+                "打擂臺": "đả lôi đài",
+                "打量": "đả lượng",
+                "打熬": "đả ngao",
+                "打扰": "đả nhiễu",
+                "打擾": "đả nhiễu",
+                "打破": "đả phá",
+                "打發": "đả phát",
+                "打翻": "đả phiên",
+                "打光": "đả quang",
+                "打光棍": "đả quang côn",
+                "打拳": "đả quyền",
+                "打扫": "đả tảo",
+                "打掃": "đả tảo",
+                "打市語": "đả thị ngữ",
+                "打听": "đả thính",
+                "打聽": "đả thính",
+                "打手": "đả thủ",
+                "打趣": "đả thú",
+                "打伤": "đả thương",
+                "打傷": "đả thương",
+                "打尖": "đả tiêm",
+                "打進": "đả tiến",
+                "打醮": "đả tiếu",
+                "打碎": "đả toái",
+                "打算": "đả toán",
+                "打盹": "đả truân",
+                "打仗": "đả trượng",
+                "打字": "đả tự",
+                "打死": "đả tử",
+                "打槳": "đả tưởng",
+                "打槳桿": "đả tưởng can",
+                "短打": "đoản đả",
+                "拷打": "khảo đả",
+                "亂打": "loạn đả",
+                "拍打": "phách đả",
+                "鞭打": "tiên đả",
+                "杖打": "trượng đả",
+                "無精打采": "vô tinh đả thái",
+                "敲打": "xao đả"
+            }
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "character": "志",
+    "details": {
+        "Âm Hán Việt": [
+            "chí"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "tâm 心 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱士心"
+        ],
+        "Nét bút": [
+            "一丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "GP (土心)"
+        ],
+        "Unicode": [
+            "U+5FD7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "シリング (shirin gu)",
+            "こころざ.す (kokoroza.su)",
+            "こころざし (kokorozashi)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi3"
+        ]
+    },
+    "meanings": {
+        "chí": {
+            "Từ điển phổ thông": [
+                "ghi chép",
+                "văn ký sự"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ý hướng, quyết tâm, nơi để tâm vào đấy. ◎Như: 'hữu chí cánh thành' 有志竟成 có chí tất nên. ◇Luận Ngữ 論語: 'Nhan Uyên, Tử Lộ thị. Tử viết: Hạp các ngôn nhĩ chí' 顏淵, 季路侍. 子曰: 盍各言爾志 (Công Dã Tràng 公冶長) Nhan Uyên, Quý Lộ theo hầu. Khổng Tử nói: Sao không nói chí hướng của các anh (cho ta nghe)?",
+                "(Danh) Mũi tên.",
+                "(Danh) Bài văn chép. ◎Như: 'Tam quốc chí' 三國志, 'địa phương chí' 地方志.",
+                "(Danh) Chuẩn đích.",
+                "(Danh) Họ 'Chí'.",
+                "(Động) Ghi chép. § Cũng như 'chí' 誌. ◇Tô Thức 蘇軾: 'Đình dĩ vũ danh, chí hỉ dã' 亭以雨名, 志喜也 (Hỉ vủ đình kí 喜雨亭記) Đình đặt tên là Mưa, để ghi một việc mừng.",
+                "(Động) Ghi nhớ. ◎Như: 'vĩnh chí bất vong' 永志不忘 ghi nhớ mãi không quên.",
+                "§ Giản thể của chữ 誌."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chí, nơi để tâm vào đấy gọi là chí. Như hữu chí cánh thành 有志竟成 có chí tất nên. Người có khí tiết gọi là chí sĩ 志士 nghĩa là tâm có chủ trương, không có a dua theo đời vậy.",
+                "Chuẩn đích.",
+                "Mũi tên.",
+                "Ghi chép, cũng như chữ chí 誌."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Điều mà lòng mình hướng tới. Cái ý muốn to lớn mạnh mẽ — Ý riêng, lòng riêng — Ghi chép, biên soạn."
+            ],
+            "compound_words": {
+                "薄志": "bạc chí",
+                "志行": "chí hạnh",
+                "志向": "chí hướng",
+                "志氣": "chí khí",
+                "志願": "chí nguyện",
+                "志士": "chí sĩ",
+                "志趣": "chí thú",
+                "彊志": "cương chí",
+                "異志": "dị chí",
+                "輿地志": "dư địa chí",
+                "大志": "đại chí",
+                "大南輿地志約編": "đại nam dư địa chí ước biên",
+                "大南一統志": "đại nam nhất thống chí",
+                "得志": "đắc chí",
+                "地志": "địa chí",
+                "典志": "điển chí",
+                "短志": "đoản chí",
+                "篤志": "đốc chí",
+                "同志": "đồng chí",
+                "同慶輿地志略": "đồng khánh dư địa chí lược",
+                "嘉定通志": "gia định thông chí",
+                "海陽志略": "hải dương chí lược",
+                "皇黎一統志": "hoàng lê nhất thống chí",
+                "皇越地與志": "hoàng việt địa dư chí",
+                "有志": "hữu chí",
+                "有志竟成": "hữu chí cánh thành",
+                "快志": "khoái chí",
+                "堅志": "kiên chí",
+                "喬志": "kiều chí",
+                "立志": "lập chí",
+                "墓志": "mộ chí",
+                "日志": "nhật chí",
+                "鋭志": "nhuệ chí",
+                "方亭地志類": "phương đình địa chí loại",
+                "決志": "quyết chí",
+                "逞志": "sính chí",
+                "騁志": "sính chí",
+                "初志": "sơ chí",
+                "才志": "tài chí",
+                "喪志": "táng chí",
+                "雜志": "tạp chí",
+                "心志": "tâm chí",
+                "失志": "thất chí",
+                "適志": "thích chí",
+                "潛志": "tiềm chí",
+                "标志": "tiêu chí",
+                "標志": "tiêu chí",
+                "挫志": "toả chí",
+                "遂志": "toại chí",
+                "壯志": "tráng chí",
+                "遠志": "viễn chí",
+                "意志": "ý chí"
+            }
+        }
+    }
+}

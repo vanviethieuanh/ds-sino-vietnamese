@@ -1,0 +1,98 @@
+{
+    "character": "域",
+    "details": {
+        "Âm Hán Việt": [
+            "vực"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thổ 土 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土或"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "GIRM (土戈口一)"
+        ],
+        "Unicode": [
+            "U+57DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "bực",
+            "vác",
+            "vặc",
+            "vức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イキ (iki)"
+        ],
+        "Âm Hàn": [
+            "역"
+        ],
+        "Âm Quảng Đông": [
+            "wik6"
+        ]
+    },
+    "meanings": {
+        "vực": {
+            "Từ điển phổ thông": [
+                "vùng, phạm vi, bờ cõi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cõi, khu, vùng. ◎Như: 'hải vực' 海域 vùng biển, 'cương vực' 疆域 bờ cõi.",
+                "(Danh) Nước, xứ, bang. ◎Như: 'dị vực' 異域 nước ngoài, tha hương.",
+                "(Danh) Đất dành cho mồ mả, mộ địa. ◎Như: 'vực triệu' 域兆 mồ mả.",
+                "(Động) Hạn chế, giới hạn. ◇Mạnh Tử 孟子: 'Vực dân bất dĩ phong cương chi giới' 域民不以封疆之界 (Công Tôn Sửu hạ 公孫丑下) Hạn chế nhân dân không phải lấy biên cương phong tỏa mà được.",
+                "(Động) Cư trú."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bờ cõi.",
+                "Nước, như Tây-vực 西域 nước phía Tây.",
+                "Trong khu vực mồ mả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cương vực, đất đai, địa hạt, lãnh thổ, bờ cõi, vùng, miền: 區域 Khu vực; 領域 Lĩnh vực; 西域 Tây Vực;",
+                "Khu vực mồ mả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một nước — Một vùng đất. Td: Địa vực — Ranh giới một vùng. Td: Khu vực — Nơi chôn người chết."
+            ],
+            "compound_words": {
+                "邦域": "bang vực",
+                "境域": "cảnh vực",
+                "畛域": "chẩn vực",
+                "疆域": "cương vực",
+                "異域": "dị vực",
+                "塋域": "doanh vực",
+                "地域": "địa vực",
+                "界域": "giới vực",
+                "河域": "hà vực",
+                "区域": "khu vực",
+                "區域": "khu vực",
+                "領域": "lĩnh vực",
+                "流域": "lưu vực",
+                "灌域": "quán vực",
+                "西域": "tây vực",
+                "四域": "tứ vực",
+                "域名": "vực danh"
+            }
+        }
+    }
+}

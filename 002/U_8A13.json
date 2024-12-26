@@ -1,0 +1,107 @@
+{
+    "character": "訓",
+    "details": {
+        "Âm Hán Việt": [
+            "huấn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言川"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ丨丨"
+        ],
+        "Thương Hiệt": [
+            "YRLLL (卜口中中中)"
+        ],
+        "Unicode": [
+            "U+8A13"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "huấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "クン (kun)",
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おし.える (oshi.eru)",
+            "よ.む (yo.mu)",
+            "くん.ずる (kun .zuru)"
+        ],
+        "Âm Hàn": [
+            "훈"
+        ],
+        "Âm Quảng Đông": [
+            "fan3"
+        ]
+    },
+    "meanings": {
+        "huấn": {
+            "Từ điển phổ thông": [
+                "dạy dỗ, răn bảo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dạy dỗ, dạy bảo. ◎Như: 'giáo huấn' 教訓 dạy bảo.",
+                "(Động) Luyện tập, thao luyện. ◎Như: 'huấn luyện' 訓練.",
+                "(Động) Thuận theo, phục tòng.",
+                "(Động) Giải thích ý nghĩa của văn tự. ◎Như: 'huấn hỗ' 訓詁 chú giải nghĩa văn.",
+                "(Danh) Lời dạy bảo, lời răn. ◎Như: 'cổ huấn' 古訓 lời răn dạy của người xưa.",
+                "(Danh) Phép tắc, khuôn mẫu. ◇Thư Kinh 書經: 'Thánh hữu mô huấn' 聖有謨訓 (Dận chinh 胤征) Thánh có mẫu mực phép tắc.",
+                "(Danh) Họ 'Huấn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dạy dỗ.",
+                "Nói giải nghĩa cho rõ ra. Vì thế nên chữa nghĩa sách cũng gọi là huấn.",
+                "Lời nói có thể làm phép được gọi là huấn. Như cổ huấn 古訓 lời người xưa dạy.",
+                "Thuận theo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Huấn, lời dạy: 家訓 Gia huấn; 古訓 Lời dạy của người xưa;",
+                "Dạy bảo, dạy dỗ, giáo huấn, huấn luyện: 受訓 Được huấn luyện;",
+                "Quở trách, trách mắng, la mắng: 被訓了一頓 Bị mắng một trận;",
+                "Giải thích ngữ nghĩa.【訓詁】huấn hỗ [xùngư] Giải thích (chú giải) ngữ nghĩa (trong sách cổ);",
+                "(văn) Thuận theo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dạy bảo, răn dạy — Phép tắc phải theo — Giải nghĩa cho rõ."
+            ],
+            "compound_words": {
+                "音訓": "âm huấn",
+                "培訓": "bồi huấn",
+                "遺訓": "di huấn",
+                "庭訓": "đình huấn",
+                "家訓歌": "gia huấn ca",
+                "教訓": "giáo huấn",
+                "訓政": "huấn chính",
+                "訓誘": "huấn dụ",
+                "訓導": "huấn đạo",
+                "訓詁": "huấn hỗ",
+                "訓令": "huấn lệnh",
+                "訓練": "huấn luyện",
+                "訓示": "huấn thị",
+                "訓詞": "huấn từ",
+                "嚴訓": "nghiêm huấn",
+                "宣訓": "tuyên huấn",
+                "慈訓": "từ huấn"
+            }
+        }
+    }
+}

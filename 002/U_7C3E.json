@@ -1,0 +1,85 @@
+{
+    "character": "簾",
+    "details": {
+        "Âm Hán Việt": [
+            "liêm"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trúc 竹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮廉"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丶一ノ丶ノ一フ一一丨丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HITC (竹戈廿金)"
+        ],
+        "Unicode": [
+            "U+7C3E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "liêm",
+            "rèm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すだれ (sudare)",
+            "す (su)"
+        ],
+        "Âm Hàn": [
+            "렴",
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "lim4"
+        ]
+    },
+    "meanings": {
+        "liêm": {
+            "Từ điển phổ thông": [
+                "cái mành mành"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bức rèm, cái mành mành. ◎Như: 'môn liêm' 門簾 rèm cửa, 'song liêm' 窗簾 rèm cửa sổ, 'trúc liêm' 竹簾 mành mành tre. ◇Lưu Vũ Tích 劉禹錫: 'Đài ngân thượng giai lục, Thảo sắc nhập liêm thanh' 苔痕上階綠, 草色入簾青 (Lậu thất minh 陋室銘) Ngấn rêu lên thềm biếc, Sắc cỏ vào rèm xanh.",
+                "§ Ghi chú: Ngày xưa khi vua còn bé, mẹ vua buông mành sử việc triều chính gọi là 'thùy liêm' 垂簾, vua lớn lên, giao trả lại việc triều chính cho vua, gọi là 'triệt liêm' 撤簾.",
+                "§ Ghi chú: Các quan đồng khảo thi hương thi hội gọi là 'liêm quan' 簾官, chức giữ việc chấm văn gọi là 'nội liêm' 內簾, chức giữ việc thu giữ quyển thì gọi là 'ngoại liêm' 外簾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bức rèm, cái mành mành. Ngày xưa vua còn bé thì mẹ vua buông mành sử việc triều chính gọi là thùy liêm 垂簾, vua lớn lên, giao trả lại việc triều chính gọi là triệt liêm 撤簾.",
+                "Các quan đồng khảo thi hương thi hội gọi là liêm quan 簾官, chức giữ việc chấm văn gọi là nội liêm 內簾, chức giữ việc thu giữ quyển thì gọi là ngoại liêm 外簾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bức mành (quán hàng): 酒簾 Bức mành quán rượu;",
+                "Bức sáo, rèm, mành: 葦簾 Mành sậy; 窗簾兒 Rèm cửa sổ; 門簾兒 Rèm cửa;",
+                "【簾官】liêm quan [liánguan] Quan chấm thi hương thời xưa;【內簾】nội liêm [nèilián] Chức giữ việc chấm văn; 【外簾】ngoại liêm [wài lián] Chức giữ việc thu quyển thi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm mành, tấm sáo, đan bằng tre — Tấm rèm."
+            ],
+            "compound_words": {
+                "珠簾": "châu liêm",
+                "眼簾": "nhãn liêm",
+                "竹簾": "trúc liêm"
+            }
+        }
+    }
+}

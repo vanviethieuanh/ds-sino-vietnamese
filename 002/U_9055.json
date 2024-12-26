@@ -1,0 +1,116 @@
+{
+    "character": "違",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sước 辵 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶韋"
+        ],
+        "Nét bút": [
+            "フ丨一丨フ一一フ丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YDMQ (卜木一手)"
+        ],
+        "Unicode": [
+            "U+9055"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huí ㄏㄨㄟˊ",
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちが.う (chiga.u)",
+            "ちが.い (chiga.i)",
+            "ちが.える (chiga.eru)",
+            "-ちが.える (-chiga.eru)",
+            "たが.う (taga.u)",
+            "たが.える (taga.eru)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai4"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "(Động) Lìa, chia lìa. ◎Như: 'cửu vi' 久違 li biệt đã lâu. ◇Khuất Nguyên 屈原: 'Tuy tín mĩ nhi vô lễ hề, lai vi khí nhi cải cầu' 雖信美而無禮兮, 來違棄而改求 (Li Tao 離騷) Tuy đẹp thật nhưng vô lễ hề, phải lìa bỏ mà cầu chỗ khác.",
+                "(Động) Cách xa. ◇Lễ Kí 禮記: 'Trung thứ vi đạo bất viễn, thi chư kỉ nhi bất nguyện, diệc vật thi ư nhân' 忠恕違道不遠, 施諸己而不願, 亦勿施於人 (Trung Dung 中庸) Đức trung thành và lòng khoan thứ cách đạo không xa, cái gì không muốn làm cho mình, thì đừng làm cho người khác.",
+                "(Động) Trái, làm trái. ◎Như: 'vi mệnh' 違命 trái mệnh, 'vi pháp' 違法 trái phép. ◇Tam quốc diễn nghĩa 三國演義: 'Lão phu bất cảm hữu vi, tùy dẫn Điêu Thuyền xuất bái công công' 老夫不敢有違, 隨引貂蟬出拜公公 (Đệ bát hồi) Lão phu không dám trái phép, phải dẫn Điêu Thuyền ra lạy bố chồng.",
+                "(Động) Lánh, tránh đi. ◇Liêu Sử 遼史: 'Thu đông vi hàn, Xuân hạ tị thử' 秋冬違寒, 春夏避暑 (Doanh vệ chí trung 營衛志中) Thu đông tránh lạnh, Xuân hạ lánh nóng.",
+                "(Động) Lầm lỗi.",
+                "(Động) § Xem 'y vi' 依違."
+            ],
+            "compound_words": {
+                "弻違": "bật vi",
+                "久違": "cửu vi",
+                "違叛": "vi bạn",
+                "違背": "vi bội",
+                "違警": "vi cảnh",
+                "違憲": "vi hiến",
+                "違和": "vi hoà",
+                "違禮": "vi lễ",
+                "違令": "vi lệnh",
+                "違離": "vi li",
+                "違命": "vi mệnh",
+                "違逆": "vi nghịch",
+                "違忤": "vi ngỗ",
+                "違言": "vi ngôn",
+                "違犯": "vi phạm",
+                "違反": "vi phản",
+                "違法": "vi pháp",
+                "違心": "vi tâm",
+                "違失": "vi thất",
+                "違約": "vi ước",
+                "依違": "y vi"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "không theo, không nghe, không tuân, làm trái",
+                "xa nhau"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lìa. Như cửu vi 久違 li biệt đã lâu.",
+                "Trái. Như vi mệnh 違命 trái mệnh, vi pháp 違法 trái phép. Người hay du di không quả quyết gọi là y vi 依違.",
+                "Lánh.",
+                "Lầm lỗi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trái, ngược: 不違農時 Không trái thời vụ; 違命 Trái mệnh;",
+                "Xa cách, xa lìa: 久違 Li biệt đã lâu, bao năm xa cách;",
+                "(văn) Lánh;",
+                "(văn) Lầm lỗi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lìa ra. Rời ra — Làm ngược lại. Làm trái. Td: Vi phạm."
+            ]
+        }
+    }
+}

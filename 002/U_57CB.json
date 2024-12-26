@@ -1,0 +1,108 @@
+{
+    "character": "埋",
+    "details": {
+        "Âm Hán Việt": [
+            "mai",
+            "man"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thổ 土 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土里"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "GWG (土田土)"
+        ],
+        "Unicode": [
+            "U+57CB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mái ㄇㄞˊ",
+            "mán ㄇㄢˊ"
+        ],
+        "Âm Nôm": [
+            "mai",
+            "man"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マイ (mai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.める (u.meru)",
+            "う.まる (u.maru)",
+            "う.もれる (u.moreru)",
+            "うず.める (uzu.meru)",
+            "うず.まる (uzu.maru)",
+            "い.ける (i.keru)"
+        ],
+        "Âm Hàn": [
+            "매"
+        ],
+        "Âm Quảng Đông": [
+            "maai4"
+        ]
+    },
+    "meanings": {
+        "mai": {
+            "Từ điển phổ thông": [
+                "chôn, vùi, che lấp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đám ma chôn không hợp lễ.",
+                "(Động) Chôn. ◎Như: 'mai táng' 埋葬 chôn cất người chết.",
+                "(Động) Vùi xuống đất. ◇Nguyễn Du 阮攸: 'Bi tàn tự một mai hoang thảo' 碑殘字沒埋荒草 (Liễu Hạ Huệ mộ 柳下惠墓) Bia tàn chữ mất chôn vùi nơi cỏ hoang.",
+                "(Động) Che lấp, cất giấu. ◎Như: 'mai phục' 埋伏 núp sẵn, 'ẩn tích mai danh' 隱跡埋名 che tung tích giấu tên tuổi, chỉ sự ở ẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chôn, đám ma chôn không hợp lễ gọi là mai.",
+                "Vùi xuống đất.",
+                "Che lấp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chôn, vùi: 掩埋 Chôn vùi; 埋地雷 Chôn mìn; 風沙把井埋起來了 Gió cát vùi mất cái giếng; 埋沒 Mai một (không phát huy được);",
+                "Che lấp. Xem 埋 [mán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chôn xuống đất — Chôn người chết — Cất giấu — Ẩn núp."
+            ],
+            "compound_words": {
+                "埋名": "mai danh",
+                "埋头": "mai đầu",
+                "埋頭": "mai đầu",
+                "埋沒": "mai một",
+                "埋伏": "mai phục",
+                "埋葬": "mai táng"
+            }
+        },
+        "man": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đám ma chôn không hợp lễ.",
+                "(Động) Chôn. ◎Như: 'mai táng' 埋葬 chôn cất người chết.",
+                "(Động) Vùi xuống đất. ◇Nguyễn Du 阮攸: 'Bi tàn tự một mai hoang thảo' 碑殘字沒埋荒草 (Liễu Hạ Huệ mộ 柳下惠墓) Bia tàn chữ mất chôn vùi nơi cỏ hoang.",
+                "(Động) Che lấp, cất giấu. ◎Như: 'mai phục' 埋伏 núp sẵn, 'ẩn tích mai danh' 隱跡埋名 che tung tích giấu tên tuổi, chỉ sự ở ẩn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【埋怨】man oán [mányuàn] Oán trách, oán thán, ta thán: 有埋怨情緒 Có ý oán trách. Xem 埋 [mái]."
+            ],
+            "compound_words": {
+                "埋怨": "man oán"
+            }
+        }
+    }
+}

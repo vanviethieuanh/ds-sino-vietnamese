@@ -1,0 +1,55 @@
+{
+    "character": "髙",
+    "details": {
+        "Âm Hán Việt": [
+            "cao"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cao 高 (+1 nét)"
+        ],
+        "Nét bút": [
+            "丶一丨丨一一丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YSLB (卜尸中月)"
+        ],
+        "Unicode": [
+            "U+9AD9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gāo ㄍㄠ"
+        ],
+        "Âm Nôm": [
+            "cao",
+            "sào"
+        ]
+    },
+    "meanings": {
+        "cao": {
+            "Từ điển phổ thông": [
+                "cao",
+                "kiêu, đắt",
+                "cao thượng, thanh cao",
+                "nhiều, hơn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Như chữ “cao” 高."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Cao 高."
+            ],
+            "compound_words": {
+                "提髙": "đề cao"
+            }
+        }
+    }
+}

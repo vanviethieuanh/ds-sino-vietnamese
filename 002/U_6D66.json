@@ -1,0 +1,105 @@
+{
+    "character": "浦",
+    "details": {
+        "Âm Hán Việt": [
+            "phố",
+            "phổ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡甫"
+        ],
+        "Nét bút": [
+            "丶丶一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "EIJB (水戈十月)"
+        ],
+        "Unicode": [
+            "U+6D66"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pǔ ㄆㄨˇ"
+        ],
+        "Âm Nôm": [
+            "phố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うら (ura)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "pou2",
+            "pou4"
+        ]
+    },
+    "meanings": {
+        "phố": {
+            "Từ điển phổ thông": [
+                "bến sông",
+                "cửa sông",
+                "ven sông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bến sông, ngạch sông đổ ra bể. ◇Nguyễn Du 阮攸: 'Hồi thủ Lam giang phổ' 回首藍江浦 (Thu chí 秋至) Ngoảnh đầu về bến sông Lam.",
+                "(Danh) Tên đất.",
+                "§ Ghi chú: Ta quen đọc là 'phố'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bến sông, ngạch sông đổ ra bể.",
+                "Tên đất. Ta quen đọc là chữ phố."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bến sông, ven bờ: 江浦 Ven sông;",
+                "(văn) Cửa sông;",
+                "[Pư] (Họ) Phổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bến sông. Thơ Bà Huyện Thanh Quan có câu: » Gác mái ngư ông về viễn phố, gõ sừng mục tử lại cô thôn « ( Viễn phố là bến xa )."
+            ],
+            "compound_words": {
+                "珠還合浦": "châu hoàn hợp phố",
+                "洛浦": "lạc phố",
+                "遠浦": "viễn phố"
+            }
+        },
+        "phổ": {
+            "Từ điển phổ thông": [
+                "họ Phổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bến sông, ngạch sông đổ ra bể. ◇Nguyễn Du 阮攸: 'Hồi thủ Lam giang phổ' 回首藍江浦 (Thu chí 秋至) Ngoảnh đầu về bến sông Lam.",
+                "(Danh) Tên đất.",
+                "§ Ghi chú: Ta quen đọc là 'phố'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bến sông, ngạch sông đổ ra bể.",
+                "Tên đất. Ta quen đọc là chữ phố."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bến sông, ven bờ: 江浦 Ven sông;",
+                "(văn) Cửa sông;",
+                "[Pư] (Họ) Phổ."
+            ]
+        }
+    }
+}

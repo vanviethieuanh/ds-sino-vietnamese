@@ -1,0 +1,90 @@
+{
+    "character": "籌",
+    "details": {
+        "Âm Hán Việt": [
+            "trù"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "trúc 竹 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮壽"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨一フ一丨一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "HGNI (竹土弓戈)"
+        ],
+        "Unicode": [
+            "U+7C4C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chóu ㄔㄡˊ",
+            "táo ㄊㄠˊ"
+        ],
+        "Âm Nôm": [
+            "trù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かずとり (kazutori)",
+            "はかりごと (hakarigoto)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "cau4"
+        ]
+    },
+    "meanings": {
+        "trù": {
+            "Từ điển phổ thông": [
+                "thẻ tre, que",
+                "tính toán trước, trù tính"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái thẻ đếm (cái đồ để tính sổ). ◎Như: Đánh cờ đánh bạc hơn nhau một nước gọi là 'lược thắng nhất trù' 略勝一籌, cái dùng để ghi số chén rượu đã uống gọi là 'tửu trù' 酒籌. § Sách 'Thái bình ngự lãm' 太平御覽 có chép truyện ba ông già gặp nhau, hỏi tuổi nhau, một ông già nói: 'Hải thủy biến tang điền, ngô triếp hạ nhất trù, kim mãn thập trù hĩ' 海水變桑田, 吾輒下一籌, 今滿十籌矣 Nước bể biến ra ruộng dâu, tôi bỏ một cái thẻ, nay vừa đầy mười cái thẻ rồi, tức là đúng một trăm tuổi. § Vì thế chúc người thọ gọi là 'hải ốc thiêm trù' 海屋添籌.",
+                "(Động) Suy tính, toan tính. ◎Như: 'nhất trù mạc triển' 一籌莫展 bó tay không có một kế gì nữa. ◇Tam quốc diễn nghĩa 三國演義: 'Vận trù quyết toán hữu thần công' 運籌決算有神功 (Đệ nhất hồi 第一回) Trù liệu quyết đoán có công thần tình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái thẻ đếm (cái đồ để tính sổ). Ðánh cờ đánh bạc hơn nhau một nước gọi là lược thắng nhất trù 略勝一籌, cái dùng để ghi số chén rượu đã uống gọi là tửu trù 酒籌. Sách Thái bình ngự lãm 太平御覽 có chép truyện ba ông già gặp nhau, hỏi tuổi nhau, một ông già nói: Hải thuỷ biến tang điền, ngô triếp hạ nhất trù, kim mãn thập trù hĩ 海水變桑田，吾輒下一籌，今滿十籌矣 nghĩa là nước bể biến ra ruộng dâu, tôi bỏ một cái thẻ, nay vừa đầy mười cái thẻ rồi, tức là đúng một trăm tuổi. Vì thế chúc người thọ gọi là hải ốc thiêm trù 海屋添籌.",
+                "Trù tính, toan tính. Bó tay không có một kế gì nữa gọi là nhất trù mạc triển 一籌莫展."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái thẻ (để đếm, bằng tre, gỗ hoặc xương v.v...): 竹籌 Thẻ tre;",
+                "Trù tính, tính toán, sắp xếp: 統籌兼顧 Trù tính chung, chiếu cố mọi mặt; 一籌莫展 Bó tay không tính toán gì được nữa;",
+                "(văn) Nước cờ, nước bài: 略勝一籌 Hơn nhau một nước."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thẻ để đếm số ( tính số theo số thẻ — Tính toán sắp đặt trước )."
+            ],
+            "compound_words": {
+                "歌籌": "ca trù",
+                "更籌": "canh trù",
+                "籌辦": "trù biện",
+                "籌畫": "trù hoạch",
+                "籌款": "trù khoản",
+                "籌料": "trù liệu",
+                "籌量": "trù lượng",
+                "籌算": "trù toán",
+                "遠籌": "viễn trù"
+            }
+        }
+    }
+}

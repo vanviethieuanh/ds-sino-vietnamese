@@ -1,0 +1,93 @@
+{
+    "character": "菸",
+    "details": {
+        "Âm Hán Việt": [
+            "yên",
+            "ư"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹於"
+        ],
+        "Nét bút": [
+            "一丨丨丶一フノノ丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "TYSY (廿卜尸卜)"
+        ],
+        "Unicode": [
+            "U+83F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yān ㄧㄢ",
+            "yū ㄩ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "yên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)",
+            "ヨ (yo)",
+            "オン (on)"
+        ],
+        "Âm Quảng Đông": [
+            "jin1"
+        ]
+    },
+    "meanings": {
+        "yên": {
+            "Từ điển phổ thông": [
+                "héo, úa",
+                "cây thuốc lá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Héo, úa.",
+                "Một âm là 'yên'. (Danh) Cây thuốc lá (Nicotiana glauca)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Héo, úa.",
+                "Một âm là yên. cây thuốc lá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lá thuốc lá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Yên thảo 菸草 — Một âm khác là Ư. Xem Ư."
+            ],
+            "compound_words": {
+                "菸草": "yên thảo"
+            }
+        },
+        "ư": {
+            "Từ điển trích dẫn": [
+                "(Tính) Héo, úa.",
+                "Một âm là 'yên'. (Danh) Cây thuốc lá (Nicotiana glauca)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Héo, úa.",
+                "Một âm là yên. cây thuốc lá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Héo uá, héo tàn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tàn tạ. Héo tàn ( nói về cây cối )."
+            ]
+        }
+    }
+}

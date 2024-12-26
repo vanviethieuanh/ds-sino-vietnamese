@@ -1,0 +1,107 @@
+{
+    "character": "閘",
+    "details": {
+        "Âm Hán Việt": [
+            "sạp",
+            "áp"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "môn 門 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門甲"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "ANWL (日弓田中)"
+        ],
+        "Unicode": [
+            "U+9598"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gé ㄍㄜˊ",
+            "yā ㄧㄚ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "hạp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひのくち (hinokuchi)"
+        ],
+        "Âm Hàn": [
+            "갑"
+        ],
+        "Âm Quảng Đông": [
+            "zaap6"
+        ]
+    },
+    "meanings": {
+        "sạp": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đập nước (đóng mở tùy lúc để điều hòa lượng nước sông, hào, ... chảy qua). ◎Như: 'thủy áp' 水閘 đập nước.",
+                "(Danh) Một loại bộ phận trang bị máy móc để giữ an toàn. ◎Như: 'thủ áp' 手閘 thắng tay (xe), 'điện áp' 電閘 cầu dao điện.",
+                "(Động) Ngăn nước, ngăn chận.",
+                "(Động) Cắt đứt.",
+                "(Động) Kiểm điểm, kiểm tra.",
+                "§ Tục đọc là 'sạp'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trong sông làm cánh cửa ngăn nước, lúc nào thuyền bè đi qua thì lại mở ra, chỉ vừa một chiếc thuyền đi cứ nối đuôi nhau mà qua gọi là áp. Tục đọc là sạp.",
+                "Cống, đập. Như thuỷ áp 水閘 đập nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cống, đập: 水閘 Đập nước;",
+                "Ngăn nước;",
+                "Cầu dao điện: 電閘 Cầu dao điện;",
+                "Phanh: 自行車的閘壞了 Phanh xe đạp hỏng rồi."
+            ]
+        },
+        "áp": {
+            "Từ điển phổ thông": [
+                "cái đập ngăn nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đập nước (đóng mở tùy lúc để điều hòa lượng nước sông, hào, ... chảy qua). ◎Như: 'thủy áp' 水閘 đập nước.",
+                "(Danh) Một loại bộ phận trang bị máy móc để giữ an toàn. ◎Như: 'thủ áp' 手閘 thắng tay (xe), 'điện áp' 電閘 cầu dao điện.",
+                "(Động) Ngăn nước, ngăn chận.",
+                "(Động) Cắt đứt.",
+                "(Động) Kiểm điểm, kiểm tra.",
+                "§ Tục đọc là 'sạp'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trong sông làm cánh cửa ngăn nước, lúc nào thuyền bè đi qua thì lại mở ra, chỉ vừa một chiếc thuyền đi cứ nối đuôi nhau mà qua gọi là áp. Tục đọc là sạp.",
+                "Cống, đập. Như thuỷ áp 水閘 đập nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cống, đập: 水閘 Đập nước;",
+                "Ngăn nước;",
+                "Cầu dao điện: 電閘 Cầu dao điện;",
+                "Phanh: 自行車的閘壞了 Phanh xe đạp hỏng rồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cánh cửa trên sông, mở đóng cho thuyền bè qua lại. Ta có nơi đọc Sạp."
+            ],
+            "compound_words": {
+                "共同閘道介面": "cộng đồng áp đạo giới diện"
+            }
+        }
+    }
+}

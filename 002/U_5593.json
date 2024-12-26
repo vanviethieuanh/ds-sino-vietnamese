@@ -1,0 +1,71 @@
+{
+    "character": "喓",
+    "details": {
+        "Âm Hán Việt": [
+            "yêu"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿰口要"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ丨丨一フノ一"
+        ],
+        "Thương Hiệt": [
+            "RMWV (口一田女)"
+        ],
+        "Unicode": [
+            "U+5593"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yāo ㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "eo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こえ (koe)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu1",
+            "oe1"
+        ]
+    },
+    "meanings": {
+        "yêu": {
+            "Từ điển phổ thông": [
+                "(tiếng côn trùng kêu)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) “Yêu yêu” 喓喓 tiếng côn trùng kêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【喓喓】yêu yêu [yaoyao] (thanh) (văn) Tiếng côn trùng kêu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem các từ Yêu hát 喓喝, Yêu yêu 喓喓."
+            ],
+            "compound_words": {
+                "喓喝": "yêu hát",
+                "喓喓": "yêu yêu"
+            }
+        }
+    }
+}

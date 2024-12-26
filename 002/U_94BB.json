@@ -1,0 +1,85 @@
+{
+    "character": "钻",
+    "details": {
+        "Âm Hán Việt": [
+            "toàn",
+            "toản"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅占"
+        ],
+        "Nét bút": [
+            "ノ一一一フ丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "XCYR (重金卜口)"
+        ],
+        "Unicode": [
+            "U+94BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zuān ㄗㄨㄢ",
+            "zuàn ㄗㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "toản"
+        ],
+        "Âm Quảng Đông": [
+            "zyun1"
+        ]
+    },
+    "meanings": {
+        "toàn": {
+            "Từ điển phổ thông": [
+                "xiên, dùi, khoan",
+                "luồn qua, chui qua",
+                "nghiên cứu sâu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鑽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 鑽"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khoan, dùi: 鑽一個孔 Khoan một cái lỗ;",
+                "Chui, luồn: 鑽進密林深處 Chui vào rừng sâu; 月亮從雲縫裡鑽了出來 Mặt trăng luồn qua đám mây;",
+                "Chúi xuống, rúc, lẩn: 鑽到水裏 Chúi xuống nước; 鑽在泥下 Rúc (lẩn, chui) xuống dưới bùn;",
+                "Đi sâu nghiên cứu, xét tường tận nghĩa lí, tìm tòi, giùi mài: 光鑽書本 Chỉ giùi mài suông ở sách vở. Xem 鑽 [cuán], [zuàn]."
+            ]
+        },
+        "toản": {
+            "Từ điển phổ thông": [
+                "cái khoan",
+                "kim cương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鑽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 鑽"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái khoan: 電鑽 Cái khoan điện;",
+                "Kim cương: 鑽戒 Nhẫn kim cương;",
+                "Chân kính: 十七鑽的手錶 Đồng hồ 17 chân kính;",
+                "Như 鑽 [zuan] nghĩa . Xem 鑽 [cuán], [zuan]."
+            ]
+        }
+    }
+}

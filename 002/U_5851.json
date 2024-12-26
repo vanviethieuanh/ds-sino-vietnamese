@@ -1,0 +1,81 @@
+{
+    "character": "塑",
+    "details": {
+        "Âm Hán Việt": [
+            "tố"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thổ 土 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱朔土"
+        ],
+        "Nét bút": [
+            "丶ノ一フ丨ノノフ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "TBG (廿月土)"
+        ],
+        "Unicode": [
+            "U+5851"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sù ㄙㄨˋ"
+        ],
+        "Âm Nôm": [
+            "tố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "でく (deku)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "sok3",
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "tố": {
+            "Từ điển phổ thông": [
+                "đắp tượng, nặn tượng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đắp, nặn tượng. ◎Như: 'tố tượng' 塑像 đắp tượng. ◇Thủy hử truyện 水滸傳: 'Điện thượng tố trước nhất tôn kim giáp san thần' 殿上塑著一尊金甲山神 (Đệ thập hồi) Trên điện có tạc một tượng sơn thần mặc áo giáp vàng.",
+                "(Động) Ngẩn người ra, thất thần. ◇Nhi nữ anh hùng truyện 兒女英雄傳: 'Bả cá công tử như đồng nê tố nhất bàn, tố tại na lí' 把個公子如同泥塑一般, 塑在那裏 (Đệ ngũ hồi) Làm anh công tử sững sờ như một cục đất bùn, ngẩn người ra ở chỗ đó.",
+                "(Động) Xây, xếp đống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðắp tượng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nặn, đắp (tượng): 塑像 Nặn tượng; 泥塑 Tượng đất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đắp lên. Phết lên — Dùng đất nặn lên. Td: Tố tượng ( nặn tượng )."
+            ],
+            "compound_words": {
+                "泥塑": "nê tố",
+                "塑胶": "tố giao",
+                "塑膠": "tố giao",
+                "塑料": "tố liệu"
+            }
+        }
+    }
+}

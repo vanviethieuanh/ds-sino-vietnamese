@@ -1,0 +1,82 @@
+{
+    "character": "蛭",
+    "details": {
+        "Âm Hán Việt": [
+            "điệt"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫至"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIMIG (中戈一戈土)"
+        ],
+        "Unicode": [
+            "U+86ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chất",
+            "chấy",
+            "chí",
+            "điệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シツ (shitsu)",
+            "チツ (chitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひる (hiru)"
+        ],
+        "Âm Hàn": [
+            "질"
+        ],
+        "Âm Quảng Đông": [
+            "zat6"
+        ]
+    },
+    "meanings": {
+        "điệt": {
+            "Từ điển phổ thông": [
+                "con đỉa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Con đỉa. § Còn gọi là “thủy điệt” 水蛭. Thứ lớn gọi là “mã điệt” 馬蛭, tục gọi là “mã hoàng” 馬蝗."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con đỉa. Có khi gọi là thuỷ điệt 水蛭. Thứ lớn gọi là mã điệt 馬蛭, tục gọi là mã hoàng 馬蟥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đỉa: 水蛭 Đỉa. Cg. 螞蟥 [măhuáng], 水蛭 [shuêzhì];",
+                "Sán lá: 肝蛭病 Bệnh sán lá gan."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con đỉa. Cũng gọi là Thuỷ điệt. Loại đỉa lớn, đỉa trâu gọi là Mã điệt 馬蛭, hoặc Mã hoàng 馬蟥."
+            ],
+            "compound_words": {
+                "馬蛭": "mã điệt",
+                "马蛭": "mã điệt",
+                "水蛭": "thuỷ điệt"
+            }
+        }
+    }
+}

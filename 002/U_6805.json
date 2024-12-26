@@ -1,0 +1,75 @@
+{
+    "character": "栅",
+    "details": {
+        "Âm Hán Việt": [
+            "san",
+            "sách"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木册"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノフノフ一"
+        ],
+        "Thương Hiệt": [
+            "DBBM (木月月一)"
+        ],
+        "Unicode": [
+            "U+6805"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "shà ㄕㄚˋ",
+            "shān ㄕㄢ",
+            "zhà ㄓㄚˋ"
+        ],
+        "Âm Nôm": [
+            "sách",
+            "san"
+        ],
+        "Âm Quảng Đông": [
+            "caak3",
+            "saan1",
+            "saan3"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 柵"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hàng rào do gỗ cây ghép lại ."
+            ]
+        },
+        "sách": {
+            "Từ điển phổ thông": [
+                "hàng rào, rào chắn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 柵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 柵"
+            ],
+            "compound_words": {
+                "栏栅": "lan sách"
+            }
+        }
+    }
+}

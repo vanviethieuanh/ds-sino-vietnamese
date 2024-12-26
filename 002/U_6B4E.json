@@ -1,0 +1,85 @@
+{
+    "character": "歎",
+    "details": {
+        "Âm Hán Việt": [
+            "thán"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khiếm 欠 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一一ノ丶ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "TONO (廿人弓人)"
+        ],
+        "Unicode": [
+            "U+6B4E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tàn ㄊㄢˋ"
+        ],
+        "Âm Nôm": [
+            "than",
+            "thăn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なげ.く (nage.ku)",
+            "なげ.き (nage.ki)"
+        ],
+        "Âm Hàn": [
+            "탄"
+        ],
+        "Âm Quảng Đông": [
+            "taan3"
+        ]
+    },
+    "meanings": {
+        "thán": {
+            "Từ điển phổ thông": [
+                "kêu, than thở",
+                "tấm tắc khen",
+                "ngân dài giọng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khen, ngợi khen. ◎Như: 'tán thán' 讚歎 khen ngợi, 'thán thưởng' 歎賞 tán thưởng.",
+                "(Động) Ngâm vịnh. ◎Như: 'ngâm thán' 吟歎 ngâm vịnh.",
+                "(Động) Than thở. § Thông 嘆. ◇Thủy hử truyện 水滸傳: 'Đê liễu đầu thán khí' 低了頭歎氣 (Đệ tam thập nhị hồi) Cúi đầu thở dài.",
+                "(Danh) Một thể tài trong thơ ca ngày xưa. ◎Như: Nhạc Phủ Thi Tập 樂府詩集 có 'Cổ di thán' 古遺歎, 'Chiêu Quân thán' 昭君歎"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Than thở.",
+                "Tấm tắc khen.",
+                "Ngân dài giọng ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 嘆 (bộ 口)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Than thở, như chữ Thán 嘆 — Khen ngợi. Td: Tán thán."
+            ],
+            "compound_words": {
+                "悲歎": "bi thán",
+                "感歎": "cảm thán",
+                "芝焚蕙歎": "chi phần huệ thán",
+                "憤歎": "phẫn thán",
+                "讚歎": "tán thán"
+            }
+        }
+    }
+}

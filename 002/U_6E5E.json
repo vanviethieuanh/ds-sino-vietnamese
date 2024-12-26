@@ -1,0 +1,77 @@
+{
+    "character": "湞",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "trinh"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡貞"
+        ],
+        "Nét bút": [
+            "丶丶一丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EYBC (水卜月金)"
+        ],
+        "Unicode": [
+            "U+6E5E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chēng ㄔㄥ",
+            "chéng ㄔㄥˊ",
+            "zhēn ㄓㄣ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "ジョウ (jō)",
+            "テイ (tei)",
+            "チョウ (chō)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng nước mênh mông — Một âm khác là Trinh. Xem Trinh."
+            ]
+        },
+        "trinh": {
+            "Từ điển phổ thông": [
+                "sông Trinh ở tỉnh Quảng Đông của Trung Quốc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Tên sông, “Trinh thủy” 湞水, thuộc tỉnh Quảng Đông 廣東."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên sông: 湞水 Sông Trinh (ở tỉnh Quảng Đông, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Trinh thuỷ 湞水."
+            ],
+            "compound_words": {
+                "湞水": "trinh thuỷ"
+            }
+        }
+    }
+}

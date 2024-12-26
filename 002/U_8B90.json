@@ -1,0 +1,78 @@
+{
+    "character": "讐",
+    "details": {
+        "Âm Hán Việt": [
+            "thù"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "ngôn 言 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱雔言"
+        ],
+        "Nét bút": [
+            "ノ丨丶一一一丨一ノ丨丶一一一丨一丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OGYMR (人土卜一口)"
+        ],
+        "Unicode": [
+            "U+8B90"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chóu ㄔㄡˊ"
+        ],
+        "Âm Nôm": [
+            "cừu",
+            "thù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あだ (ada)",
+            "むく.いる (muku.iru)",
+            "あ.たる (a.taru)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "cau4"
+        ]
+    },
+    "meanings": {
+        "thù": {
+            "Từ điển phổ thông": [
+                "thù địch"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 仇 (bộ 亻);",
+                "Như 讎."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mối căm giận to lớn không quên — Kẻ mà mình căm giận không quên — Truyện  Nhị độ mai : » Thù kia ắt cũng có ngày trả xong «."
+            ],
+            "compound_words": {
+                "怨讐": "oán thù",
+                "國讐": "quốc thù",
+                "讐敵": "thù địch",
+                "讐恨": "thù hận",
+                "讐怨": "thù oán",
+                "私讐": "tư thù"
+            }
+        }
+    }
+}

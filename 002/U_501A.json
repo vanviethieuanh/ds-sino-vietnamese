@@ -1,0 +1,106 @@
+{
+    "character": "倚",
+    "details": {
+        "Âm Hán Việt": [
+            "kỳ",
+            "ỷ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻奇"
+        ],
+        "Nét bút": [
+            "ノ丨一ノ丶一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "OKMR (人大一口)"
+        ],
+        "Unicode": [
+            "U+501A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yǐ ㄧˇ"
+        ],
+        "Âm Nôm": [
+            "ấy",
+            "ỷ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よ.る (yo.ru)",
+            "たの.む (tano.mu)"
+        ],
+        "Âm Hàn": [
+            "의",
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "ji2"
+        ]
+    },
+    "meanings": {
+        "kỳ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Kì 奇 — Một âm là Ỷ."
+            ]
+        },
+        "ỷ": {
+            "Từ điển phổ thông": [
+                "dựa vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dựa vào, tựa. ◎Như: 'ỷ môn nhi vọng' 倚門而望 tựa cửa mà trông. ◇Sử Kí 史記: 'Kha tự tri sự bất tựu, ỷ trụ nhi tiếu' 軻自知事不就, 倚柱而笑 (Kinh Kha truyện 荊軻傳) Kinh Kha tự biết việc không xong, tựa vào cột mà cười.",
+                "(Động) Cậy. ◎Như: 'ỷ thế lăng nhân' 倚勢陵人 cậy thế lấn người.",
+                "(Động) Nghiêng về một bên. ◇Lễ Kí 禮記: 'Trung lập nhi bất ỷ' 中立而不倚 (Trung Dung 中庸) Giữ bậc trung, không thiên lệch.",
+                "(Động) Phối hợp. hòa theo. ◇Tô Thức 蘇軾: 'Khách hữu xuy đỗng tiêu giả, ỷ ca nhi họa chi' 客有吹洞簫者, 倚歌而和之 (Tiền Xích Bích phú 前赤壁賦) Trong đám khách có một người thổi ống sáo, bèn hợp theo bài ca mà họa lại.",
+                "(Danh) Chỗ dựa vào. ◇Đạo Đức Kinh 道德經: 'Họa hề phúc chi sở ỷ, phúc hề họa chi sở phục' 禍兮福之所倚, 福兮禍之所伏 (Chương 58) Họa là chỗ dựa của phúc, phúc là chỗ nấp của họa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhân, như hoạ hề phúc sở ỷ 禍兮福所倚 vạ kia là cái nhân sinh ra phúc.",
+                "Dựa, ngồi nằm dựa vào cái gì, hay để cái gì ghé vào cái gì, đều gọi là ỷ, như trác ỷ 卓倚 cái đẳng dựa, ỷ kỉ 几倚 ghế dựa.",
+                "Cậy, như ỷ thế lăng nhân 倚勢陵人 cậy thế lấn người."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dựa, tựa: 倚門 (Đứng) tựa cửa; 禍兮福之所倚 Hoạ là chỗ dựa của phúc (Lão tử);",
+                "Cậy: 倚勢欺人 Cậy thế nạt người;",
+                "(văn) Nghiêng, ngả: 不偏不倚 Không thiên vị bên nào."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dựa vào. Nương tựa — Cậy có chỗ dựa mà hành động ngang ngược. Td: Ỷ thế — Một âm khác là Kì. Xem Kì."
+            ],
+            "compound_words": {
+                "不偏不倚": "bất thiên bất ỷ",
+                "倚靠": "ỷ kháo",
+                "倚賴": "ỷ lại",
+                "倚赖": "ỷ lại",
+                "倚閭": "ỷ lư",
+                "倚馬": "ỷ mã",
+                "倚門": "ỷ môn",
+                "倚門賣笑": "ỷ môn mại tiếu",
+                "倚势": "ỷ thế",
+                "倚勢": "ỷ thế",
+                "倚恃": "ỷ thị",
+                "倚翠偎紅": "ỷ thuý ôi hồng",
+                "倚重": "ỷ trọng",
+                "倚仗": "ỷ trượng"
+            }
+        }
+    }
+}

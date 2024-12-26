@@ -1,0 +1,80 @@
+{
+    "character": "嵐",
+    "details": {
+        "Âm Hán Việt": [
+            "lam"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sơn 山 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱山風"
+        ],
+        "Nét bút": [
+            "丨フ丨ノフノ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "UHNI (山竹弓戈)"
+        ],
+        "Unicode": [
+            "U+5D50"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lán ㄌㄢˊ"
+        ],
+        "Âm Nôm": [
+            "lam"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あらし (arashi)"
+        ],
+        "Âm Hàn": [
+            "람",
+            "남"
+        ],
+        "Âm Quảng Đông": [
+            "laam4"
+        ]
+    },
+    "meanings": {
+        "lam": {
+            "Từ điển phổ thông": [
+                "khí núi bốc lên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khí, sương mù ở núi rừng. ◎Như: 'lam khí' 嵐氣 khí núi.",
+                "(Danh) Chữ dùng để đặt tên đất. ◎Như: 'Khả Lam' 岢嵐 tên huyện ở Sơn Tây (Trung Quốc)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khí núi, khí núi bốc lên nghi ngút ẩm ướt gọi là lam khí 嵐氣. 2 Khả lam 岢嵐 tên núi, tên huyện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Khí núi ẩm ướt, sương mù: 山嵐 Sương núi; 曉嵐 Sương mai;",
+                "Xem 岢."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khí núi, hơi núi bốc lên."
+            ],
+            "compound_words": {
+                "岢嵐": "khả lam",
+                "嵐瘴": "lam chướng",
+                "嵐氣": "lam khí"
+            }
+        }
+    }
+}

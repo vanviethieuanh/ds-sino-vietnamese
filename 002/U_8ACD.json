@@ -1,0 +1,94 @@
+{
+    "character": "諍",
+    "details": {
+        "Âm Hán Việt": [
+            "tranh",
+            "tránh"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言争"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノフフ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YRBSD (卜口月尸木)"
+        ],
+        "Unicode": [
+            "U+8ACD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhēng ㄓㄥ",
+            "zhèng ㄓㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tránh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いさか.う (isaka.u)",
+            "あらそ.う (araso.u)",
+            "いさ.める (isa.meru)",
+            "うった.える (u'ta.eru)"
+        ],
+        "Âm Hàn": [
+            "쟁"
+        ],
+        "Âm Quảng Đông": [
+            "zaang1",
+            "zaang3",
+            "zang3"
+        ]
+    },
+    "meanings": {
+        "tranh": {
+            "Từ điển phổ thông": [
+                "tranh tụng, kiện, tranh biện phải trái"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tranh đoạt;",
+                "Tranh tụng, kiện, tranh biện phải trái."
+            ]
+        },
+        "tránh": {
+            "Từ điển phổ thông": [
+                "can ngăn, khuyên can"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Can, ngăn, lấy lời nói thẳng mà ngăn người khỏi làm điều lầm lỗi. ◎Như: 'gián tránh' 諫諍 can ngăn, khuyến cáo.",
+                "(Động) Cạnh tranh, tranh chấp. ◇Pháp Hoa Kinh 法華經: 'Đấu tránh chi thanh, thậm khả bố úy' 鬥諍之聲, 甚可怖畏 (Thí dụ phẩm đệ tam 譬喻品第三) Tiếng đánh nhau giành giựt thật là dễ sợ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Can, ngăn (lấy lời nói mà ngăn người khỏi làm điều lầm lỗi).",
+                "Kiện, cãi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Can ngăn, can gián, khuyên can."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Can ngăn. Như chữ Tránh 爭 — Thưa kiện. Dùng lời lẽ mà giành lẽ phải về mình."
+            ],
+            "compound_words": {
+                "諍人": "tránh nhân"
+            }
+        }
+    }
+}

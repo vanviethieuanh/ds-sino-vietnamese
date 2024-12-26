@@ -1,0 +1,85 @@
+{
+    "character": "畿",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "điền 田 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿹⿻𢆶戈田"
+        ],
+        "Nét bút": [
+            "フフ丶フフ丶一丨フ一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "VIW (女戈田)"
+        ],
+        "Unicode": [
+            "U+757F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "kì",
+            "kỳ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みやこ (miyako)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei1"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ thiên tử đóng, quốc đô. ◎Như: 'kinh kì' 京畿 kinh đô.",
+                "(Danh) Cương vực, cương giới. ◇Thi Kinh 詩經: 'Bang kì thiên lí, Duy dân sở chỉ' 邦畿千里, 惟民所止 (Thương tụng 商頌, Huyền điểu 玄鳥) Cương vực nước (Thương) rộng nghìn dặm, Là nơi của dân chúng ở.",
+                "(Danh) Bậc cửa, cửa. ◇Hàn Dũ 韓愈: 'Thanh ba vi thường y, Bạch thạch vi môn kì' 清波為裳衣, 白石為門畿 (Khiển ngược quỷ 譴瘧鬼) Sóng trong làm quần áo, Đá trắng làm bậc cửa."
+            ],
+            "compound_words": {
+                "邦畿": "bang kì"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "ở trong cửa"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kinh kì 京畿 chốn kinh kì, chỗ vua thiên tử đóng.",
+                "Trong cửa.",
+                "Cái bực cửa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chốn kinh kì (chỗ thiên tử đóng đô);",
+                "Trong cửa;",
+                "Bực cửa.【畿輔】kì phụ [jifư] (văn) Nơi gần kinh đô."
+            ],
+            "compound_words": {
+                "京畿": "kinh kỳ"
+            }
+        }
+    }
+}

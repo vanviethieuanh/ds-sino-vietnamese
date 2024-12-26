@@ -1,0 +1,87 @@
+{
+    "character": "戶",
+    "details": {
+        "Âm Hán Việt": [
+            "hộ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "hộ 戶 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノフ一ノ"
+        ],
+        "Thương Hiệt": [
+            "HS (竹尸)"
+        ],
+        "Unicode": [
+            "U+6236"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hù ㄏㄨˋ"
+        ],
+        "Âm Nôm": [
+            "hộ"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "wu6"
+        ]
+    },
+    "meanings": {
+        "hộ": {
+            "Từ điển phổ thông": [
+                "cửa một cánh",
+                "nhà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cửa một cánh gọi là 'hộ' 戶. § Ghi chú: Cửa hai cánh gọi là 'môn' 門. 'Hộ' 戶 cũng chỉ nơi ra vào. ◎Như: 'dạ bất bế hộ' 夜不閉戶 đêm không đóng cửa, 'tiểu tâm môn hộ' 小心門戶 coi chừng cửa nẻo. ◇Tây sương kí 西廂記: 'Đãi nguyệt tây sương hạ, Nghênh phong hộ bán khai' 待月西廂下, 迎風戶半開 (Đệ tam bổn 第三本, Đệ nhị chiết) Đợi trăng dưới mái tây, Đón gió cửa mở hé.",
+                "(Danh) Nhà, gia đình. ◎Như: 'hộ khẩu' 戶口 số người trong một nhà, 'thiên gia vạn hộ' 千家萬戶 nghìn nhà muôn nóc (chỉ đông đảo các gia đình).",
+                "(Danh) Chỉ chung địa vị, hoàn cảnh, thân phận họ hàng con cháu của một gia đình. ◎Như: 'môn đương hộ đối' 門當戶對 địa vị, giai cấp phải tương xứng giữa hai gia đình.",
+                "(Danh) Chủ tài khoản, người gửi tiền ở ngân hàng. ◎Như: 'tồn hộ' 存戶 người gửi tiền ngân hàng, 'khai hộ' 開戶 mở chương mục gửi tiền.",
+                "(Danh) Lượng từ: đơn vị gia đình, nhà ở. ◎Như: 'ngũ bách hộ trú gia' 五百戶住家 năm trăm nóc gia đình.",
+                "(Danh) Họ 'Hộ'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cửa: 足不出戶 Không bước ra khỏi cửa; 夜不閉戶 Đêm không cần đóng cửa;",
+                "Hộ, nhà, gia đình: 全村三十幾戶 Cả làng có hơn 30 hộ (gia đình); 千家 萬戶 Muôn nhà nghìn hộ;",
+                "(văn) Hang;",
+                "(văn) Ngăn;",
+                "[Hù] (Họ) Hộ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hộ 户."
+            ],
+            "compound_words": {
+                "陰戶": "âm hộ",
+                "百戶": "bách hộ",
+                "傍人門戶": "bạng nhân môn hộ",
+                "蓬戶": "bồng hộ",
+                "戶主": "hộ chủ",
+                "戶頭": "hộ đầu",
+                "戶口": "hộ khẩu",
+                "客戶": "khách hộ",
+                "門當戶對": "môn đương hộ đối",
+                "匿戶": "nặc hộ",
+                "破落戶": "phá lạc hộ",
+                "非對稱式數據用戶線": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "千戶": "thiên hộ",
+                "債戶": "trái hộ",
+                "帳戶": "trướng hộ"
+            }
+        }
+    }
+}

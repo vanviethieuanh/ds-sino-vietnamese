@@ -1,0 +1,89 @@
+{
+    "character": "峙",
+    "details": {
+        "Âm Hán Việt": [
+            "trì",
+            "trĩ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "sơn 山 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰山寺"
+        ],
+        "Nét bút": [
+            "丨フ丨一丨一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "UGDI (山土木戈)"
+        ],
+        "Unicode": [
+            "U+5CD9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "trĩ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そばだ.つ (sobada.tsu)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "ci5",
+            "si6"
+        ]
+    },
+    "meanings": {
+        "trì": {
+            "Từ điển phổ thông": [
+                "đứng trơ trọi",
+                "sắm đủ, súc tích"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðứng trơ trọi.",
+                "Sắm đủ, súc tích."
+            ],
+            "compound_words": {
+                "对峙": "đối trì",
+                "對峙": "đối trì"
+            }
+        },
+        "trĩ": {
+            "Từ điển trích dẫn": [
+                "(Động) Đứng cao sừng sững, đối lập. ◎Như: 'đối trĩ' 對峙 đối lập.",
+                "(Động) Sắm đủ, tích trữ.",
+                "(Danh) Đất cao ở trong nước. ◇Trương Hành 張衡: 'Tụ dĩ kinh trĩ' 聚以京峙 (Tây kinh phú 西京賦) Tụ lại thành gò đất cao trong nước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đứng trơ trọi, sừng sững, đối nhau, đối chọi: 峙立江邊 Sừng sững bên sông; 兩峰相峙 Hai ngọn núi đối nhau; 對峙 Đối chọi, đối lập nhau;",
+                "(văn) Sắm đủ, dự trữ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng núi sừng sững."
+            ],
+            "compound_words": {
+                "峙立": "trĩ lập"
+            }
+        }
+    }
+}

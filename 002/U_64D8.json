@@ -1,0 +1,103 @@
+{
+    "character": "擘",
+    "details": {
+        "Âm Hán Việt": [
+            "bài",
+            "bịch",
+            "phách"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thủ 手 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱辟手"
+        ],
+        "Nét bút": [
+            "フ一ノ丨フ一丶一丶ノ一一丨ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "SJQ (尸十手)"
+        ],
+        "Unicode": [
+            "U+64D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bāi ㄅㄞ",
+            "bò ㄅㄛˋ"
+        ],
+        "Âm Nôm": [
+            "bài",
+            "phách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ヒャク (hyaku)",
+            "ヘキ (heki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さ.く (sa.ku)"
+        ],
+        "Âm Hàn": [
+            "벽"
+        ],
+        "Âm Quảng Đông": [
+            "maak3"
+        ]
+    },
+    "meanings": {
+        "bài": {
+            "Từ điển phổ thông": [
+                "bẻ, tẽ, tách ra, bửa ra"
+            ]
+        },
+        "bịch": {
+            "Từ điển phổ thông": [
+                "ngón tay cái"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bửa ra.",
+                "Một âm là bịch. Ngón tay cái. Ta thường gọi các người có tiếng hơn cả một đàn (bầy) là cự bịch 巨擘 là do ý ấy. Ta quen đọc là chữ phách cả."
+            ],
+            "compound_words": {
+                "巨擘": "cự bịch"
+            }
+        },
+        "phách": {
+            "Từ điển phổ thông": [
+                "bẻ, tẽ, tách ra, bửa ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngón tay cái.",
+                "(Danh) Tỉ dụ người tài giỏi, ưu tú đặc biệt. ◎Như: 'cự phách' 巨擘.",
+                "(Động) Tách, bửa ra, xẻ ra. ◇Bạch Cư Dị 白居易: 'Thoa lưu nhất cổ hợp nhất phiến, Thoa phách hoàng kim hợp phân điến' 釵留一股合一扇, 釵擘黃金合分鈿 (Trường hận ca 長恨歌) Thoa để lại một nhành, hộp để lại một mảnh, Thoa bẻ nhánh vàng, hộp chia mảnh khảm. § Tản Đà dịch thơ: Thoa vàng hộp khảm phân đôi, Nửa xin để lại nửa thời đem đi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bửa ra.",
+                "Một âm là bịch. Ngón tay cái. Ta thường gọi các người có tiếng hơn cả một đàn (bầy) là cự bịch 巨擘 là do ý ấy. Ta quen đọc là chữ phách cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) ① Ngón tay cái: 巨擘 Người có tài năng lỗi lạc. Xem 擘 [bai]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bổ ra. Làm vỡ ra — Chẻ ra — To lớn. Td: Cự phách."
+            ],
+            "compound_words": {
+                "巨擘": "cự phách",
+                "擘劃": "phách hoạch",
+                "擘畫": "phách hoạch"
+            }
+        }
+    }
+}

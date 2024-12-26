@@ -1,0 +1,88 @@
+{
+    "character": "鑑",
+    "details": {
+        "Âm Hán Việt": [
+            "giám"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "kim 金 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金監"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨フ一丨フノ一丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "CSIT (金尸戈廿)"
+        ],
+        "Unicode": [
+            "U+9451"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "giám",
+            "gương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かんが.みる (kan ga.miru)",
+            "かがみ (kagami)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "gaam3"
+        ]
+    },
+    "meanings": {
+        "giám": {
+            "Từ điển phổ thông": [
+                "cái gương soi bằng đồng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gương soi. ◇Trang Tử 莊子: 'Giám minh tắc trần cấu bất chỉ' 鑑明則塵垢不止 (Đức sung phù 德充符) Gương sáng thì bụi vẩn không đọng.",
+                "(Danh) Khả năng soi xét, năng lực thị sát. ◎Như: 'tri nhân chi giám' 知人之鑑 khả năng xem xét biết người.",
+                "(Danh) Sự việc có thể lấy làm gương răn bảo, tấm gương. ◎Như: 'tiền xa chi giám' 前車之鑑 tấm gương của xe đi trước.",
+                "(Danh) Vật làm tin, vật để chứng minh. ◎Như: 'ấn giám' 印鑑 ấn tín, dấu làm tin.",
+                "(Danh) Họ 'Giám'.",
+                "(Động) Soi, chiếu. ◇Trang Tử 莊子: 'Nhân mạc giám ư lưu thủy, nhi giám ư chỉ thủy' 人莫鑑於流水, 而鑑於止水 (Đức sung phù 德充符) Người ta không ai soi ở làn nước chảy, mà soi ở làn nước dừng.",
+                "(Động) Xem xét, thẩm sát, thị sát. ◇Vương Bột 王勃: 'Giám vật ư triệu bất ư thành' 鑑物於肇不於成 (Vị nhân dữ thục vực phụ lão thư 為人與蜀域父老書) Xem xét vật khi mới phát sinh, không phải khi đã thành.",
+                "(Động) Lấy làm gương răn bảo. ◇Đỗ Mục 杜牧: 'Hậu nhân ai chi nhi bất giám chi' 後人哀之而不鑑之 (A Phòng cung phú 阿房宮賦) Người đời sau thương xót cho họ mà không biết lấy đó làm gương.",
+                "§ Cũng viết là 'giám' 鑒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái gương soi. Ngày xưa dùng đồng làm gương soi gọi là giám. Ðem các việc hỏng trước chép vào sách để làm gương soi cũng gọi là giám. Như ông Tư Mã Quang 司馬光 làm bộ Tư trị thông giám 資治通鑑 nghĩa là pho sử để soi vào đấy mà giúp thêm các cách trị dân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chậu lớn — Tấm gương soi mặt. Soi chiếu, xem xét — Xem gương trước mà tự răn mình."
+            ],
+            "compound_words": {
+                "鞶鑑": "bàn giám",
+                "明鑑": "minh giám",
+                "雅鑑": "nhã giám",
+                "年鑑": "niên giám",
+                "越鑑通考": "việt giám thông khảo",
+                "越鑑詠史詩集": "việt giám vịnh sử thi tập",
+                "越南人臣鑑": "việt nam nhân thần giám"
+            }
+        }
+    }
+}

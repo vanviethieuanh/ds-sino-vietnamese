@@ -1,0 +1,107 @@
+{
+    "character": "拼",
+    "details": {
+        "Âm Hán Việt": [
+            "banh",
+            "bính",
+            "phanh"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘并"
+        ],
+        "Nét bút": [
+            "一丨一丶ノ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "QTT (手廿廿)"
+        ],
+        "Unicode": [
+            "U+62FC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pīn ㄆㄧㄣ"
+        ],
+        "Âm Nôm": [
+            "phanh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ヘイ (hei)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "したが.う (shitaga.u)"
+        ],
+        "Âm Quảng Đông": [
+            "ping1",
+            "ping3"
+        ]
+    },
+    "meanings": {
+        "banh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Banh lư 拼櫚."
+            ],
+            "compound_words": {
+                "拼櫚": "banh lư"
+            }
+        },
+        "bính": {
+            "Từ điển phổ thông": [
+                "tấu hợp",
+                "đánh vần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ghép, chắp, ráp. ◎Như: 'bả lưỡng khối mộc bản bính khởi lai' 把兩塊木板拼起來 ghép hai miếng ván lại với nhau, 'bính bản' 拼版 lên khuôn (in sách, báo).",
+                "(Động) Kết hợp âm đọc, ghép vần. ◎Như: 'bính âm' 拼音 ghép vần, phiên âm.",
+                "(Động) Liều, bỏ. ◎Như: 'bính mạng' 拼命 liều mạng, 'bính tử' 拼死 liều chết.",
+                "§ Còn đọc là 'phanh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tấu hợp. Như bính âm 拼音 đánh vần.",
+                "Bính mạng 拼命 liều mạng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ghép, ráp, chắp: 把兩塊板拼起來 Ghép hai miếng ván lại; 這機器是用舊零件拼起來的 Máy này ráp (lắp) bằng những linh kiện cũ;",
+                "Đánh vần, ghép vần: 拼音 Ghép vần, phiên âm;",
+                "Liều, bỏ, hi sinh: 拼命 Liều mạng; 我跟你們拼！ Tao liều với chúng mày đây!; 拼上三夜不睡 Bỏ ba đêm không ngủ."
+            ],
+            "compound_words": {
+                "拼音": "bính âm",
+                "拼命": "bính mệnh",
+                "拼字": "bính tự"
+            }
+        },
+        "phanh": {
+            "Từ điển trích dẫn": [
+                "(Động) Ghép, chắp, ráp. ◎Như: 'bả lưỡng khối mộc bản bính khởi lai' 把兩塊木板拼起來 ghép hai miếng ván lại với nhau, 'bính bản' 拼版 lên khuôn (in sách, báo).",
+                "(Động) Kết hợp âm đọc, ghép vần. ◎Như: 'bính âm' 拼音 ghép vần, phiên âm.",
+                "(Động) Liều, bỏ. ◎Như: 'bính mạng' 拼命 liều mạng, 'bính tử' 拼死 liều chết.",
+                "§ Còn đọc là 'phanh'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ghép, ráp, chắp: 把兩塊板拼起來 Ghép hai miếng ván lại; 這機器是用舊零件拼起來的 Máy này ráp (lắp) bằng những linh kiện cũ;",
+                "Đánh vần, ghép vần: 拼音 Ghép vần, phiên âm;",
+                "Liều, bỏ, hi sinh: 拼命 Liều mạng; 我跟你們拼！ Tao liều với chúng mày đây!; 拼上三夜不睡 Bỏ ba đêm không ngủ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sai khiến. Như chữ Phanh 抨."
+            ]
+        }
+    }
+}

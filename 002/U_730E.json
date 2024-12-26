@@ -1,0 +1,78 @@
+{
+    "character": "猎",
+    "details": {
+        "Âm Hán Việt": [
+            "liệp",
+            "lạp"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨昔"
+        ],
+        "Nét bút": [
+            "ノフノ一丨丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "KHTA (大竹廿日)"
+        ],
+        "Unicode": [
+            "U+730E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "liè ㄌㄧㄝˋ",
+            "què ㄑㄩㄝˋ",
+            "xí ㄒㄧˊ"
+        ],
+        "Âm Nôm": [
+            "lạp",
+            "liệp"
+        ],
+        "Âm Quảng Đông": [
+            "lip6"
+        ]
+    },
+    "meanings": {
+        "liệp": {
+            "Từ điển phổ thông": [
+                "bắt",
+                "săn thú",
+                "thổi phất",
+                "gió thổi vù vù (liệp liệp)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 獵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 獵"
+            ],
+            "compound_words": {
+                "打猎": "đả liệp"
+            }
+        },
+        "lạp": {
+            "Từ điển phổ thông": [
+                "bắt",
+                "săn thú",
+                "thổi phất",
+                "gió thổi vù vù (liệp liệp)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 獵"
+            ]
+        }
+    }
+}

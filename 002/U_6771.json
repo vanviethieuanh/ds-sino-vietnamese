@@ -1,0 +1,112 @@
+{
+    "character": "東",
+    "details": {
+        "Âm Hán Việt": [
+            "đông"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mộc 木 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "DW (木田)"
+        ],
+        "Unicode": [
+            "U+6771"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dōng ㄉㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "đang",
+            "đông"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひがし (higashi)"
+        ],
+        "Âm Hàn": [
+            "동"
+        ],
+        "Âm Quảng Đông": [
+            "dung1"
+        ]
+    },
+    "meanings": {
+        "đông": {
+            "Từ điển phổ thông": [
+                "phía đông, phương đông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phương đông. § Đối lại với 'tây' 西. Nước Nhật Bản ở phía đông nước Tàu nên gọi là 'đông dương' 東洋, văn tự Nhật Bản gọi là 'đông văn' 東文. § 'Đông sàng' 東牀 chàng rể (theo tích truyện 'Vương Hi Chi' 王羲之, đời Tấn).",
+                "(Danh) Chủ nhân, người chủ. § Ngày xưa, chỗ của chủ ở hướng đông, chỗ của khách ở hướng tây. ◎Như: 'phòng đông' 房東 chủ nhà, 'điếm đông' 店東 chủ tiệm, 'cổ đông' 股東 người góp cổ phần. ◇Hồng Lâu Mộng 紅樓夢: 'Chỉ thị nguyên hệ ngã khởi đích ý, ngã tu đắc tiên tác cá đông đạo chủ nhân' 只是原係我起的意, 我須得先作個東道主人 (Đệ tam thập thất hồi) Việc này (sáng lập thi xã) do tôi có ý khởi xướng ra, tôi phải được làm hội chủ trước.",
+                "(Danh) Người bỏ tiền ra mời khách. ◎Như: 'kim thiên ngã tác đông, thỉnh đại gia cật phạn' 今天我作東, 請大家吃飯 hôm nay tôi làm chủ tiệc, mời mọi người ăn một bữa.",
+                "(Danh) Họ 'Đông'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phương đông, tục gọi người chủ là đông. Nước Trịnh nói với người nước Sở tự xưng nước mình là đông đạo chủ 東道主 nghĩa là người chủ ở phương đông. Tục gọi các chủ cổ phần công ti là cổ đông 股東 là do nghĩa đó.",
+                "Nước Nhật Bản ở phía đông nước Tàu nên gọi là đông dương 東洋, văn tự Nhật Bản gọi là đông văn 東文.",
+                "Ðông sàng 東牀 chàng rể (theo tích truyện Vương hi Chi, đời Tấn)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đông (một trong bốn hướng chính): 東邊兒 Phía đông; 東風 Gió đông; 從東到西 Từ đông sang tây;",
+                "Chủ: 房東 Chủ nhà; 股東 Người góp cổ phần; 東家 Người chủ, ông chủ;",
+                "Chủ nhà, chủ tiệc: 我做東，請你們吃飯 Tôi thết các anh một bữa;",
+                "【東床】đông sàng [dong chuáng] (văn) Chàng rể;",
+                "[Dong] (Thuộc) nước Nhật Bản: 東洋 Nước Nhật Bản; 東方 Chữ Nhật;",
+                "[Dong] (Họ) Đông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên phương hướng, tức hướng mặt trời mọc — Chỉ người chủ, người làm chủ. Thời cổ, khách tới nhà, thì người chủ ngồi ở phía đông, khách ngồi ở phía tây mà trò chuyện. Do đó Đông chỉ người chủ. Chẳng hạn Cổ đông ( người làm chủ cổ phần )."
+            ],
+            "compound_words": {
+                "亞東": "á đông",
+                "近東": "cận đông",
+                "指東畫西": "chỉ đông hoạch tây",
+                "股東": "cổ đông",
+                "丁東": "đinh đông",
+                "東亞": "đông á",
+                "東半球": "đông bán cầu",
+                "東征": "đông chinh",
+                "東宮": "đông cung",
+                "東洋": "đông dương",
+                "東道": "đông đạo",
+                "東道主": "đông đạo chủ",
+                "東都": "đông đô",
+                "東海": "đông hải",
+                "東京": "đông kinh",
+                "東鄰": "đông lân",
+                "東盟": "đông minh",
+                "東南亞國家聯盟": "đông nam á quốc gia liên minh",
+                "東風": "đông phong",
+                "東方": "đông phương",
+                "東莞": "đông quản",
+                "東君": "đông quân",
+                "東牀": "đông sàng",
+                "東西": "đông tây",
+                "河東": "hà đông",
+                "活東": "hoạt đông",
+                "馬首欲東": "mã thủ dục đông",
+                "廣東": "quảng đông",
+                "中東": "trung đông",
+                "遠東": "viễn đông"
+            }
+        }
+    }
+}

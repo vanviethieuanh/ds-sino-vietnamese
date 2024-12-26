@@ -1,0 +1,65 @@
+{
+    "character": "妇",
+    "details": {
+        "Âm Hán Việt": [
+            "phụ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nữ 女 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰女彐"
+        ],
+        "Nét bút": [
+            "フノ一フ一一"
+        ],
+        "Thương Hiệt": [
+            "VSM (女尸一)"
+        ],
+        "Unicode": [
+            "U+5987"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phụ"
+        ],
+        "Âm Quảng Đông": [
+            "fu5"
+        ]
+    },
+    "meanings": {
+        "phụ": {
+            "Từ điển phổ thông": [
+                "đàn bà",
+                "vợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 婦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 婦"
+            ],
+            "compound_words": {
+                "孕妇": "dựng phụ",
+                "妇女": "phụ nữ",
+                "寡妇": "quả phụ",
+                "匹妇": "thất phụ",
+                "媳妇": "tức phụ"
+            }
+        }
+    }
+}

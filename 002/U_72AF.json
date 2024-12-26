@@ -1,0 +1,121 @@
+{
+    "character": "犯",
+    "details": {
+        "Âm Hán Việt": [
+            "phạm"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨㔾"
+        ],
+        "Nét bút": [
+            "ノフノフフ"
+        ],
+        "Thương Hiệt": [
+            "KHSU (大竹尸山)"
+        ],
+        "Unicode": [
+            "U+72AF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fàn ㄈㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phạm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)",
+            "ボン (bon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おか.す (oka.su)"
+        ],
+        "Âm Hàn": [
+            "범"
+        ],
+        "Âm Quảng Đông": [
+            "faan6"
+        ]
+    },
+    "meanings": {
+        "phạm": {
+            "Từ điển phổ thông": [
+                "xâm phạm, phạm phải, mắc phải",
+                "phạm nhân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xâm lấn, đụng chạm. ◎Như: 'can phạm' 干犯 đụng chạm, 'mạo phạm' 冒犯 xâm phạm, 'nhân bất phạm ngã, ngã bất phạm nhân' 人不犯我, 我不犯人 người không đụng đến ta, thì ta cũng không đụng đến người.",
+                "(Động) Làm trái. ◎Như: 'phạm pháp' 犯法 làm trái phép, 'phạm quy' 犯規 làm sái điều lệ.",
+                "(Động) Sinh ra, mắc, nổi lên. ◇Hồng Lâu Mộng 紅樓夢: 'Nhĩ môn thắc bất lưu thần, Nhị da phạm liễu bệnh dã bất lai hồi ngã' 你們忒不留神, 二爺犯了病也不來回我 (Đệ nhất nhất ngũ hồi) Chúng mày thật là không để ý gì cả, cậu Hai mắc bệnh cũng không sang trình ta biết.",
+                "(Động) Xông pha, bất chấp, liều. ◇Tô Thức 蘇軾: 'Tri ngã phạm hàn lai' 知我犯寒來 (Kì đình 岐亭) Biết ta không quản giá lạnh mà đến.",
+                "(Danh) Kẻ có tội. ◎Như: 'chủ phạm' 主犯 tội nhân chính, 'tòng phạm' 從犯 kẻ mắc tội đồng lõa, 'tội phạm' 罪犯 tội nhân.",
+                "(Động) Rơi vào, lọt vào. ◇Lão tàn du kí 老殘遊記: 'Phạm đáo tha thủ lí, dã thị nhất cá tử' 犯到他手裡, 也是一個死 (Đệ ngũ hồi) Rơi vào trong tay hắn, là chỉ có đường chết.",
+                "(Danh) Tên khúc hát.",
+                "(Phó) Đáng, bõ. ◎Như: 'phạm bất trước' 犯不著 không đáng. ◇Hồng Lâu Mộng 紅樓夢: 'Tứ nha đầu dã bất phạm la nhĩ, khước thị thùy ni?' 四丫頭也不犯囉你, 卻是誰呢 (Đệ thất thập ngũ hồi) Cô Tư chắc chẳng bõ gây chuyện với chị, thế là ai chứ?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xâm phạm, cái cứ không nên xâm vào mà cứ xâm vào gọi là phạm, như can phạm 干犯, mạo phạm 冒犯, v.v.",
+                "Kẻ có tội.",
+                "Tên khúc hát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phạm, trái phép: 犯忌諱 Phạm huý;",
+                "Xâm phạm, đụng chạm: 人不犯我，我不犯人 Người không đụng đến ta, thì ta cũng không đụng đến người;",
+                "Phạm nhân, người phạm tội, người bị tù: 戰犯 Tội phạm chiến tranh; 政治犯 Tù chính trị;",
+                "Mắc, nổi lên, tái phát: 犯錯誤 Mắc sai lầm, phạm sai lầm; 犯脾氣 Nổi giận, phát cáu;",
+                "(văn) Tên khúc hát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấn vào. Đụng chạm vào. Làm tổn hại tới. Td: Xâm phạm, phạm thượng… — Kẻ gây tội. Td: Tội phạm, Thủ phạm, …."
+            ],
+            "compound_words": {
+                "惡犯": "ác phạm",
+                "乾犯": "can phạm",
+                "干犯": "can phạm",
+                "正犯": "chính phạm",
+                "政治犯": "chính trị phạm",
+                "主犯": "chủ phạm",
+                "故犯": "cố phạm",
+                "凶犯": "hung phạm",
+                "冒犯": "mạo phạm",
+                "犯禁": "phạm cấm",
+                "犯夜": "phạm dạ",
+                "犯徒": "phạm đồ",
+                "犯諱": "phạm huý",
+                "犯人": "phạm nhân",
+                "犯法": "phạm pháp",
+                "犯上": "phạm thượng",
+                "犯賤": "phạm tiện",
+                "犯罪": "phạm tội",
+                "費犯": "phí phạm",
+                "過犯": "quá phạm",
+                "軍犯": "quân phạm",
+                "國事犯": "quốc sự phạm",
+                "再犯": "tái phạm",
+                "首犯": "thủ phạm",
+                "從犯": "tòng phạm",
+                "囚犯": "tù phạm",
+                "違犯": "vi phạm",
+                "侵犯": "xâm phạm",
+                "触犯": "xúc phạm",
+                "觸犯": "xúc phạm",
+                "衝犯": "xung phạm",
+                "要犯": "yếu phạm"
+            }
+        }
+    }
+}

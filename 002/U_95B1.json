@@ -1,0 +1,91 @@
+{
+    "character": "閱",
+    "details": {
+        "Âm Hán Việt": [
+            "duyệt"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "môn 門 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門兌"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一ノ丶丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "ANCRU (日弓金口山)"
+        ],
+        "Unicode": [
+            "U+95B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Hàn": [
+            "열"
+        ],
+        "Âm Quảng Đông": [
+            "jyut6"
+        ]
+    },
+    "meanings": {
+        "duyệt": {
+            "Từ điển phổ thông": [
+                "xem xét",
+                "từng trải",
+                "tờ ghi công trạng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xem xét, kiểm nghiệm, thị sát. ◎Như: 'duyệt binh' 閱兵 xem xét binh lính tập luyện, 'duyệt quyển' 閱卷 xem xét quyển bài.",
+                "(Động) Từng trải, trải qua, kinh qua. ◎Như: 'duyệt nhân đa hĩ' 閱人多矣 từng trải về con người nhiều rồi. ◇Sử Kí 史記: 'Duyệt thiên hạ chi nghĩa lí đa hĩ' 閱天下之義理多矣 (Hiếu Văn bổn kỉ 孝文本紀) Trải qua nghĩa lí trong thiên hạ nhiều rồi.",
+                "(Động) Đọc, xem. ◎Như: 'duyệt báo' 閱報 xem báo, 'duyệt thư' 閱書 đọc sách.",
+                "(Động) Dung dưỡng. ◇Thi Kinh 詩經: 'Ngã cung bất duyệt, Hoàng tuất ngã hậu?' 我躬不閱, 遑恤我後 (Bội phong 邶風, Cốc phong 谷風) Thân ta đây không được dung dưỡng, Thì sao mà còn thương xót đến những nỗi sau này của ta?",
+                "(Động) Bẩm thụ. ◇Đạo Đức Kinh 道德經: 'Tự cổ cập kim, kì danh bất khứ, dĩ duyệt chúng phủ' 自古及今, 其名不去, 以閱眾甫 (Chương 21) Từ xưa tới nay, tên đó không mất, (đạo) bẩm thụ muôn vật mà sinh ra.",
+                "(Động) Tóm, gom lại.",
+                "(Danh) § Xem 'phiệt duyệt' 閥閱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xem xét. Như duyệt binh 閱兵 xem xét binh lính tập luyện thế nào, duyệt quyển 閱卷 xem xét quyển bài, v.v.",
+                "Từng trải. Như duyệt nhân đa hĩ 閱人多矣 từng trải xem người nhiều rồi.",
+                "Phiệt duyệt 閥閱 (Xem chữ phiệt 閥).",
+                "Dong.",
+                "Bẩm thụ.",
+                "Tóm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đọc, xem, duyệt: 閱報室 Phòng đọc báo; 翻閱文件 Duyệt văn kiện;",
+                "Xem xét, duyệt, kiểm điểm: 閱兵 Duyệt binh;",
+                "Kinh qua, từng trải: 閱歷 Lịch duyệt; 試行已閱三月 Đợt làm thử đã qua ba tháng; 閱人多矣 Từng trải về con người nhiều rồi;",
+                "(văn) Tập hợp lại;",
+                "(văn) Vẻ ngoài, bề ngoài;",
+                "【閥閱】 phiệt duyệt [fáyuè] (văn) Thế gia (dòng dõi có thế lực) ;",
+                "(văn) Bẩm thụ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem xét tình hình quân đội — Nhìn qua — Trải qua."
+            ],
+            "compound_words": {
+                "折閱": "chiết duyệt",
+                "閱兵": "duyệt binh",
+                "閱覽": "duyệt lãm",
+                "閱歷": "duyệt lịch",
+                "檢閱": "kiểm duyệt",
+                "閥閱": "phiệt duyệt",
+                "呈閱": "trình duyệt"
+            }
+        }
+    }
+}

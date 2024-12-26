@@ -1,0 +1,84 @@
+{
+    "character": "霾",
+    "details": {
+        "Âm Hán Việt": [
+            "mai",
+            "mại"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "vũ 雨 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱雨貍"
+        ],
+        "Nét bút": [
+            "一丶フ丨丶丶丶丶ノ丶丶ノフノノ丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "MBBHG (一月月竹土)"
+        ],
+        "Unicode": [
+            "U+973E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "mái ㄇㄞˊ"
+        ],
+        "Âm Nôm": [
+            "mai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つちふる (tsuchifuru)"
+        ],
+        "Âm Hàn": [
+            "매"
+        ],
+        "Âm Quảng Đông": [
+            "lei4",
+            "maai4",
+            "mai4"
+        ]
+    },
+    "meanings": {
+        "mai": {
+            "Từ điển phổ thông": [
+                "bụi mù"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khói bụi mù mịt trên không. ◎Như: 'âm mai' 陰霾 khói bụi mù. ◇Tây du kí 西遊記: 'Hắc vụ âm mai đại địa hôn' 黑霧陰霾大地昏 (Đệ tam hồi) Sương mù đen, khói bụi mịt mùng, khắp mặt đất u ám.",
+                "(Danh) Gió từ trên xuống thổi bốc bay cát bụi. ◇Thi Kinh 詩經: 'Chung phong thả mai' 終風且霾 (Bội phong 邶風, Chung phong 終風) Suốt ngày dông gió thổi cát bụi bay mù.",
+                "(Động) Vùi lấp. § Thông 'mai' 埋. ◇Khuất Nguyên 屈原: 'Mai lưỡng luân hề trập tứ mã, Viên ngọc phu hề kích minh cổ' 霾兩輪兮縶四馬, 援玉枹兮擊鳴鼓 (Cửu ca 九歌, Quốc thương 國殤) Bị chôn lấp hai bánh xe hề vướng buộc bốn ngựa, Cầm dùi ngọc hề đánh trống."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gió thổi bụi mù, bụi mù."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bụi bay tung, mù mịt ( khi có gió giông )."
+            ],
+            "compound_words": {
+                "陰霾": "âm mai"
+            }
+        },
+        "mại": {
+            "Từ điển Trần Văn Chánh": [
+                "(kht) Trời mù (do sương, khói, bụi): 他在一個陰霾 的日子離去 Anh ấy ra đi trong một ngày u ám;",
+                "Mưa bụi, bụi mù (khi có gió thổi)."
+            ]
+        }
+    }
+}

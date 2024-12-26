@@ -1,0 +1,76 @@
+{
+    "character": "读",
+    "details": {
+        "Âm Hán Việt": [
+            "đậu",
+            "độc"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠卖"
+        ],
+        "Nét bút": [
+            "丶フ一丨フ丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IVJNK (戈女十弓大)"
+        ],
+        "Unicode": [
+            "U+8BFB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dòu ㄉㄡˋ",
+            "dú ㄉㄨˊ"
+        ],
+        "Âm Nôm": [
+            "đậu",
+            "độc"
+        ],
+        "Âm Quảng Đông": [
+            "duk6"
+        ]
+    },
+    "meanings": {
+        "đậu": {
+            "Từ điển phổ thông": [
+                "dấu phảy câu, dấu ngắt câu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 讀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 讀"
+            ]
+        },
+        "độc": {
+            "Từ điển phổ thông": [
+                "đọc",
+                "học"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 讀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đọc, độc, xem: 讀報 Đọc báo; 老師讀一句，同學們跟着讀一句 Thầy giáo đọc một câu, học sinh đọc theo; 讀者 Độc giả; 這本小說很値得一讀 Cuốn tiểu thuyết này rất nên đọc;",
+                "Đi học: 他讀完了高中 Anh ấy học xong cấp ba."
+            ],
+            "compound_words": {
+                "熟读": "thục độc"
+            }
+        }
+    }
+}

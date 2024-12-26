@@ -1,0 +1,90 @@
+{
+    "character": "僧",
+    "details": {
+        "Âm Hán Việt": [
+            "tăng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhân 人 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻曾"
+        ],
+        "Nét bút": [
+            "ノ丨丶ノ丨フ丨丶ノ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "OCWA (人金田日)"
+        ],
+        "Unicode": [
+            "U+50E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "sēng ㄙㄥ"
+        ],
+        "Âm Nôm": [
+            "tăng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Hàn": [
+            "승"
+        ],
+        "Âm Quảng Đông": [
+            "sang1",
+            "zang1"
+        ]
+    },
+    "meanings": {
+        "tăng": {
+            "Từ điển phổ thông": [
+                "nam sư"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Sư nam, người đàn ông tu theo đạo Phật. § Tiếng Phạn \"Sangha\", phiên âm Hán thành “Tăng-già” 僧伽 là một đoàn thể đệ tử Phật. Trong luật định, bốn vị sư trở lên mới gọi là “Tăng-già”."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sư nam, đàn ông đi tu đạo Phật gọi là tăng. Nguyên tiếng Phạm gọi là Tăng già 僧伽 nghĩa là một đoàn thể đệ tử Phật, trong luật định bốn vị sư trở lên mới gọi là Tăng già."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "① Thầy tu, sư (tiếng gọi tắt của từ 僧伽 [seng jià]): 僧多粥少 Sư nhiều cháo ít."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người đàn ông đi tu theo đạo Phật. Ông sư."
+            ],
+            "compound_words": {
+                "阿僧祇": "a tăng kì",
+                "惡僧": "ác tăng",
+                "高僧": "cao tăng",
+                "粥飯僧": "chúc phạn tăng",
+                "遊方僧": "du phương tăng",
+                "女僧": "nữ tăng",
+                "佛法僧": "phật pháp tăng",
+                "僧衆": "tăng chúng",
+                "僧徒": "tăng đồ",
+                "僧伽": "tăng già",
+                "僧侣": "tăng lữ",
+                "僧侶": "tăng lữ",
+                "僧尼": "tăng ni",
+                "僧房": "tăng phòng",
+                "僧坊": "tăng phường",
+                "僧籍": "tăng tịch",
+                "僧院": "tăng viện",
+                "僧舍": "tăng xá"
+            }
+        }
+    }
+}

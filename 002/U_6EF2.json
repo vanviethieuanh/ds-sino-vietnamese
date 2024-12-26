@@ -1,0 +1,95 @@
+{
+    "character": "滲",
+    "details": {
+        "Âm Hán Việt": [
+            "sâm",
+            "sấm"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡參"
+        ],
+        "Nét bút": [
+            "丶丶一フ丶フ丶フ丶ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "EIIH (水戈戈竹)"
+        ],
+        "Unicode": [
+            "U+6EF2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lín ㄌㄧㄣˊ",
+            "qīn ㄑㄧㄣ",
+            "sēn ㄙㄣ",
+            "shèn ㄕㄣˋ"
+        ],
+        "Âm Nôm": [
+            "rờm",
+            "rướm",
+            "sấm",
+            "tắm",
+            "thấm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "し.みる (shi.miru)",
+            "にじ.む (niji.mu)"
+        ],
+        "Âm Hàn": [
+            "참",
+            "삼"
+        ],
+        "Âm Quảng Đông": [
+            "sam3"
+        ]
+    },
+    "meanings": {
+        "sâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước ngấm vào. Thấm vào."
+            ],
+            "compound_words": {
+                "滲淫": "sâm dâm",
+                "滲漏": "sâm lậu"
+            }
+        },
+        "sấm": {
+            "Từ điển phổ thông": [
+                "chảy, rỉ ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) (Chất lỏng) chảy, ngấm, thấm, rỉ ra. ◎Như: 'thủy sấm đáo thổ lí khứ liễu' 水滲到土裡去了 nước đã thấm vào đất.",
+                "(Động) (Sự vật) dần dần xâm nhập. ◇Tư Không Đồ 司空圖: 'Viễn bi xuân tảo sấm, Do hữu thủy cầm phi' 遠陂春早滲, 猶有水禽飛 (Độc vọng 獨望).",
+                "(Động) Chỉ người theo chỗ hở lách vào, chui vào. ◇Quách Mạt Nhược 郭沫若: 'Na nhi chánh trung canh vi tập trước nhất đại đôi nhân, sấm tiến khứ nhất khán, nguyên lai dã tựu thị đả thi mê đích' 那兒正中更圍集著一大堆人, 滲進去一看, 原來也就是打詩謎的 (Sáng tạo thập niên tục thiên 創造十年續篇, Lục).",
+                "(Động) Nước khô cạn. ◇Huyền Ứng 玄應: 'Hạ lộc viết sấm, sấm, kiệt dã' 下漉曰滲, 滲, 竭也 (Nhất thiết kinh âm nghĩa 一切經音義, Quyển thập nhị).",
+                "(Động) Làm cho sợ hãi. ◇Hồng Lâu Mộng 紅樓夢: 'Tương cận tam canh, Phụng Thư tự thụy bất thụy, giác đắc thân thượng hàn mao nhất tác, việt thảng trước việt phát khởi sấm lai' 將近三更, 鳳姐似睡不睡, 覺得身上寒毛一乍, 越躺著越發起滲來 (Đệ bát bát hồi) Chừng canh ba, Phượng Thư đang thiu thiu, giở ngủ giở thức, bỗng thấy lạnh mình sợ hãi, càng nằm càng thấy trong mình rờn rợn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chảy, rỉ ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngấm, thấm xuống, chảy, rỉ ra, rò: 水滲到土裡去了 Nước đã ngấm (thấm) vào đất."
+            ],
+            "compound_words": {
+                "滲滲": "sấm sấm"
+            }
+        }
+    }
+}

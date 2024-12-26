@@ -1,0 +1,148 @@
+{
+    "character": "帥",
+    "details": {
+        "Âm Hán Việt": [
+            "soái",
+            "suý",
+            "suất"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "cân 巾 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰𠂤巾"
+        ],
+        "Nét bút": [
+            "ノ丨フ一フ一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "HRLB (竹口中月)"
+        ],
+        "Unicode": [
+            "U+5E25"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shuài ㄕㄨㄞˋ",
+            "shuò ㄕㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "soái",
+            "suý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)"
+        ],
+        "Âm Hàn": [
+            "솔",
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "seoi3",
+            "seot1"
+        ]
+    },
+    "meanings": {
+        "soái": {
+            "Từ điển phổ thông": [
+                "tướng cầm đầu, thống suất",
+                "làm gương"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quan võ cấp cao, tướng soái (suý), tướng chỉ huy, chủ tướng: 統帥 Thống soái; 元帥 Nguyên soái, nguyên súy;",
+                "Người hay vật chủ đạo (đứng đầu): 夫志，氣之帥也 Chí hướng là cái chủ đạo của tinh thần con người (Mạnh tử);",
+                "Quan đứng đầu một địa phương: 三鄉爲縣，縣有縣帥 Ba làng làm thành một huyện, huyện có người đứng đầu huyện (Quốc ngữ);",
+                "Thống suất, chỉ huy: 帥師 Chỉ huy quân lính;",
+                "(văn) Làm gương: 堯舜帥天下以仁 Vua Nghiêu vua Thuấn lấy điều nhân làm gương cho thiên hạ;",
+                "Đẹp: 這字寫得眞帥 Chữ này viết đẹp quá;",
+                "[Shuài] (Họ) Soái, Súy."
+            ],
+            "compound_words": {
+                "渠帥": "cừ soái",
+                "元帥": "nguyên soái"
+            }
+        },
+        "suý": {
+            "Từ điển phổ thông": [
+                "tướng cầm đầu, thống suất",
+                "làm gương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thống lĩnh, chỉ huy. ◎Như: 'suất sư' 帥師 cầm đầu quân đội.",
+                "(Động) Tuân theo. ◇Lễ Kí 禮記: 'Mệnh hương giản bất suất giáo giả dĩ cáo' 命鄉簡不帥教者以告 (Vương chế 王制) Lệnh cho trong hàng xóm có kẻ nào không tuân nghe dạy dỗ thì báo lên.",
+                "(Động) Làm gương, lấy mình làm phép cho người ta noi theo. ◎Như: 'Nghiêu Thuấn suất thiên hạ dĩ nhân' 堯舜帥天下以仁 vua Nghiêu Thuấn làm gương cho thiên hạ noi theo làm điều nhân.",
+                "Một âm là 'súy'. (Danh) Chủ tướng, tướng chỉ huy cao cấp nhất trong quân. ◎Như: 'nguyên súy' 元帥 tướng đầu. Tục gọi Tổng đốc là 'đại súy' 大帥 nghĩa là kiêm coi cả việc quân vậy.",
+                "(Động) Họ 'Súy'.",
+                "(Tính) Tuấn tú, vẻ mặt hoặc phong cách cao đẹp. ◎Như: 'súy khí' 帥氣 phong tư cao đẹp.",
+                "(Tính) Đẹp. ◎Như: 'giá kỉ cá tự chân súy' 這幾個字真帥 mấy chữ viết đó thật đẹp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thống suất, như suất sư 帥師 thống suất cả cánh quân đi.",
+                "Làm gương, lấy mình làm phép cho người ta noi gọi là suất, như Nghiêu Thuấn suất, thiên hạ dĩ nhân 堯舜帥天下以仁 vua Nghiêu Thuấn làm gương cho thiên hạ noi theo làm nhân.",
+                "Một âm là suý. Tướng coi cả một cánh quân gọi là suý, như nguyên suý 元帥 tướng đầu. Tục gọi Tổng đốc là đại suý 大帥 nghĩa là kiêm coi cả việc quân vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quan võ cấp cao, tướng soái (suý), tướng chỉ huy, chủ tướng: 統帥 Thống soái; 元帥 Nguyên soái, nguyên súy;",
+                "Người hay vật chủ đạo (đứng đầu): 夫志，氣之帥也 Chí hướng là cái chủ đạo của tinh thần con người (Mạnh tử);",
+                "Quan đứng đầu một địa phương: 三鄉爲縣，縣有縣帥 Ba làng làm thành một huyện, huyện có người đứng đầu huyện (Quốc ngữ);",
+                "Thống suất, chỉ huy: 帥師 Chỉ huy quân lính;",
+                "(văn) Làm gương: 堯舜帥天下以仁 Vua Nghiêu vua Thuấn lấy điều nhân làm gương cho thiên hạ;",
+                "Đẹp: 這字寫得眞帥 Chữ này viết đẹp quá;",
+                "[Shuài] (Họ) Soái, Súy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người đứng đầu quân đội. Td: Nguyên suý — Cũng đọc Soái — Một âm khác là Suất. Xem Suất."
+            ],
+            "compound_words": {
+                "主帥": "chủ suý",
+                "渠帥": "cừ suý",
+                "大元帥": "đại nguyên suý",
+                "元帥": "nguyên suý",
+                "帥氣": "suý khí",
+                "帥旗": "suý kì",
+                "帥令": "suý lệnh",
+                "帥府": "suý phủ",
+                "將帥": "tướng suý"
+            }
+        },
+        "suất": {
+            "Từ điển phổ thông": [
+                "tướng cầm đầu, thống suất",
+                "làm gương"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thống lĩnh, chỉ huy. ◎Như: 'suất sư' 帥師 cầm đầu quân đội.",
+                "(Động) Tuân theo. ◇Lễ Kí 禮記: 'Mệnh hương giản bất suất giáo giả dĩ cáo' 命鄉簡不帥教者以告 (Vương chế 王制) Lệnh cho trong hàng xóm có kẻ nào không tuân nghe dạy dỗ thì báo lên.",
+                "(Động) Làm gương, lấy mình làm phép cho người ta noi theo. ◎Như: 'Nghiêu Thuấn suất thiên hạ dĩ nhân' 堯舜帥天下以仁 vua Nghiêu Thuấn làm gương cho thiên hạ noi theo làm điều nhân.",
+                "Một âm là 'súy'. (Danh) Chủ tướng, tướng chỉ huy cao cấp nhất trong quân. ◎Như: 'nguyên súy' 元帥 tướng đầu. Tục gọi Tổng đốc là 'đại súy' 大帥 nghĩa là kiêm coi cả việc quân vậy.",
+                "(Động) Họ 'Súy'.",
+                "(Tính) Tuấn tú, vẻ mặt hoặc phong cách cao đẹp. ◎Như: 'súy khí' 帥氣 phong tư cao đẹp.",
+                "(Tính) Đẹp. ◎Như: 'giá kỉ cá tự chân súy' 這幾個字真帥 mấy chữ viết đó thật đẹp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thống suất, như suất sư 帥師 thống suất cả cánh quân đi.",
+                "Làm gương, lấy mình làm phép cho người ta noi gọi là suất, như Nghiêu Thuấn suất, thiên hạ dĩ nhân 堯舜帥天下以仁 vua Nghiêu Thuấn làm gương cho thiên hạ noi theo làm nhân.",
+                "Một âm là suý. Tướng coi cả một cánh quân gọi là suý, như nguyên suý 元帥 tướng đầu. Tục gọi Tổng đốc là đại suý 大帥 nghĩa là kiêm coi cả việc quân vậy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cai quản toàn thể. Td: Thống suất — Tuân theo — Một âm là Suý. Xem Suý."
+            ],
+            "compound_words": {
+                "帥教": "suất giáo",
+                "帥師": "suất sư",
+                "帥性": "suất tính"
+            }
+        }
+    }
+}

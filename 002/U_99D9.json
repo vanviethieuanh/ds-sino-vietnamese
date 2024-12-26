@@ -1,0 +1,109 @@
+{
+    "character": "駙",
+    "details": {
+        "Âm Hán Việt": [
+            "phò",
+            "phụ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬付"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶ノ丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "SFODI (尸火人木戈)"
+        ],
+        "Unicode": [
+            "U+99D9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phò",
+            "phụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そえうま (soeuma)",
+            "ちか.い (chika.i)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu6"
+        ]
+    },
+    "meanings": {
+        "phò": {
+            "Từ điển phổ thông": [
+                "con ngựa đóng kèm bên xe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa đóng vào xe phụ, đi theo xe chính của vua.",
+                "(Danh) 'Phụ mã đô úy' 駙馬都尉 chức quan đời nhà Hán, trông coi xe ngựa tùy tòng của vua. § Rể của vua thường giữ chức ấy, nên về sau gọi chồng của công chúa là 'phụ mã' 駙馬. § Ta quen đọc là 'phò mã'.",
+                "(Danh) Đòn gỗ kèm hai bên xe. § Thông 'phụ' 輔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ngựa đóng kèm bên xe.",
+                "Phụ mã đô uý 駙馬都尉 một quan chức đời nhà Hán 漢. Từ đời nhà Tấn 晉 trở về sau, ai lấy công chúa tất được phong vào chức ấy, vì thế nên chàng rể của vua gọi là phụ mã 駙馬. Cũng đọc là phò.",
+                "Nhanh chóng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngựa đóng kèm bên xe;",
+                "【駙馬】phò mã [fùmă] Con rể vua, phò mã;",
+                "(văn) Nhanh;",
+                "(văn) Như 辅 (bộ 车)."
+            ],
+            "compound_words": {
+                "郡駙馬": "quận phò mã"
+            }
+        },
+        "phụ": {
+            "Từ điển phổ thông": [
+                "con ngựa đóng kèm bên xe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngựa đóng vào xe phụ, đi theo xe chính của vua.",
+                "(Danh) 'Phụ mã đô úy' 駙馬都尉 chức quan đời nhà Hán, trông coi xe ngựa tùy tòng của vua. § Rể của vua thường giữ chức ấy, nên về sau gọi chồng của công chúa là 'phụ mã' 駙馬. § Ta quen đọc là 'phò mã'.",
+                "(Danh) Đòn gỗ kèm hai bên xe. § Thông 'phụ' 輔."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ngựa đóng kèm bên xe.",
+                "Phụ mã đô uý 駙馬都尉 một quan chức đời nhà Hán 漢. Từ đời nhà Tấn 晉 trở về sau, ai lấy công chúa tất được phong vào chức ấy, vì thế nên chàng rể của vua gọi là phụ mã 駙馬. Cũng đọc là phò.",
+                "Nhanh chóng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngựa đóng kèm bên xe;",
+                "【駙馬】phò mã [fùmă] Con rể vua, phò mã;",
+                "(văn) Nhanh;",
+                "(văn) Như 辅 (bộ 车)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người giúp việc cho người đánh xe, và có thể thay thế khi cần — Ngựa chạy nhanh."
+            ],
+            "compound_words": {
+                "駙馬": "phụ mã"
+            }
+        }
+    }
+}

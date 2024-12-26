@@ -1,0 +1,104 @@
+{
+    "character": "搔",
+    "details": {
+        "Âm Hán Việt": [
+            "tao",
+            "trảo"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘蚤"
+        ],
+        "Nét bút": [
+            "一丨一フ丶丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "QEII (手水戈戈)"
+        ],
+        "Unicode": [
+            "U+6414"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sāo ㄙㄠ",
+            "zhǎo ㄓㄠˇ"
+        ],
+        "Âm Nôm": [
+            "tao",
+            "trao",
+            "trau"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.く (ka.ku)"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "sou1"
+        ]
+    },
+    "meanings": {
+        "tao": {
+            "Từ điển phổ thông": [
+                "gãi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gãi, cào. ◇Đỗ Phủ 杜甫: 'Xuất môn tao bạch thủ' 出門搔白首 (Mộng Lí Bạch 夢李白) Ra cửa, gãi đầu bạc.",
+                "(Động) Quấy nhiễu, nhiễu loạn. § Thông 騷.",
+                "(Danh) 'Tao đầu' 搔頭 cái trâm cài tóc. ◇Bạch Cư Dị 白居易: 'Hoa điền ủy địa vô nhân thâu, Thúy kiều kim tước ngọc tao đầu' 花鈿委地無人收, 翠翹金雀玉搔頭 (Trường hận ca 長恨歌) Hoa trang sức trên đầu, thoa bằng vàng ngọc hình chim thúy chim tước vứt bỏ xuống đất không ai nhặt. Tản Đà dịch thơ là: Ai người nhặt hoa rơi bỏ đất, Ôi! Thúy kiều ngọc nát vàng phai.",
+                "Một âm là 'trảo'. (Danh) Móng chân móng tay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gãi, cào.",
+                "Quấy.",
+                "Một âm là trảo. Móng chân móng tay."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gãi, cào: 搔到癢處 Gãi đúng chỗ ngứa; 搔頭摸耳 Gãi đầu gãi tai;",
+                "(văn) Quấy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy tay mà gãi — Một âm là Trảo. Xem Trảo."
+            ],
+            "compound_words": {
+                "隔靴搔癢": "cách ngoa tao dưỡng",
+                "搔痒": "tao dưỡng",
+                "搔癢": "tao dưỡng",
+                "搔頭": "tao đầu"
+            }
+        },
+        "trảo": {
+            "Từ điển trích dẫn": [
+                "(Động) Gãi, cào. ◇Đỗ Phủ 杜甫: 'Xuất môn tao bạch thủ' 出門搔白首 (Mộng Lí Bạch 夢李白) Ra cửa, gãi đầu bạc.",
+                "(Động) Quấy nhiễu, nhiễu loạn. § Thông 騷.",
+                "(Danh) 'Tao đầu' 搔頭 cái trâm cài tóc. ◇Bạch Cư Dị 白居易: 'Hoa điền ủy địa vô nhân thâu, Thúy kiều kim tước ngọc tao đầu' 花鈿委地無人收, 翠翹金雀玉搔頭 (Trường hận ca 長恨歌) Hoa trang sức trên đầu, thoa bằng vàng ngọc hình chim thúy chim tước vứt bỏ xuống đất không ai nhặt. Tản Đà dịch thơ là: Ai người nhặt hoa rơi bỏ đất, Ôi! Thúy kiều ngọc nát vàng phai.",
+                "Một âm là 'trảo'. (Danh) Móng chân móng tay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gãi, cào.",
+                "Quấy.",
+                "Một âm là trảo. Móng chân móng tay."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trảo 抓 — Xem Tao."
+            ]
+        }
+    }
+}

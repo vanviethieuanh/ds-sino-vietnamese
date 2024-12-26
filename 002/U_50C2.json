@@ -1,0 +1,107 @@
+{
+    "character": "僂",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhân 人 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻婁"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "OLWV (人中田女)"
+        ],
+        "Unicode": [
+            "U+50C2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lóu ㄌㄡˊ",
+            "lǚ",
+            "lǔ ㄌㄨˇ"
+        ],
+        "Âm Nôm": [
+            "lâu",
+            "lu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)",
+            "ル (ru)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かが.む (kaga.mu)"
+        ],
+        "Âm Hàn": [
+            "루"
+        ],
+        "Âm Quảng Đông": [
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "gù lưng, còng lưng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lưng gù. ◎Như: 'câu lũ' 佝僂 lưng gù.",
+                "(Danh) § Xem 'lâu la' 僂儸.",
+                "(Danh) Họ 'Lũ'.",
+                "(Động) Khom, tỏ vẻ cung kính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【僂儸】 lâu la [lóuluó] Thuộc hạ của trộm cướp, lâu la;",
+                "Xem 佝僂病 [goulóu bìng]. Xem 僂 [l=]."
+            ],
+            "compound_words": {
+                "佝僂": "câu lâu",
+                "僂儸": "lâu la"
+            }
+        },
+        "lũ": {
+            "Từ điển phổ thông": [
+                "gù lưng, còng lưng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lưng gù. ◎Như: 'câu lũ' 佝僂 lưng gù.",
+                "(Danh) § Xem 'lâu la' 僂儸.",
+                "(Danh) Họ 'Lũ'.",
+                "(Động) Khom, tỏ vẻ cung kính."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ủ lũ 傴僂 còng lưng (gù)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Gù lưng. Xem 傴僂",
+                "(văn) Nhanh chóng, ngay: 不能僂指 Không thể vạch ra ngay. Xem 僂 [lóu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cong lại — Lưng cong — Mau lẹ."
+            ],
+            "compound_words": {
+                "佝僂": "câu lũ",
+                "踽僂": "củ lũ",
+                "僂指": "lũ chỉ",
+                "僂佝": "lũ cũ",
+                "傴僂": "ủ lũ"
+            }
+        }
+    }
+}

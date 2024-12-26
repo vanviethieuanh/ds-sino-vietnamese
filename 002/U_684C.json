@@ -1,0 +1,79 @@
+{
+    "character": "桌",
+    "details": {
+        "Âm Hán Việt": [
+            "trác"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺊杲"
+        ],
+        "Nét bút": [
+            "丨一丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YAD (卜日木)"
+        ],
+        "Unicode": [
+            "U+684C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhuō ㄓㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "trác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)"
+        ],
+        "Âm Quảng Đông": [
+            "coek3",
+            "zoek3"
+        ]
+    },
+    "meanings": {
+        "trác": {
+            "Từ điển phổ thông": [
+                "cái đẳng, bàn ăn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái đẳng, cái bàn. ◎Như: “trác ỷ” 桌椅 bàn ghế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái đẳng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) bàn: 餐桌 Bàn ăn; 圓桌 Bàn tròn;",
+                "(loại) Bàn, mâm: 三桌客人 Mời (khách) ba bàn; 一桌酒席 Một mâm cỗ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bàn. Cũng viết là 卓.  Đoạn trường tân thanh : » Quét sân đặt trác sửa bình thắp nhang «."
+            ],
+            "compound_words": {
+                "书桌": "thư trác",
+                "書桌": "thư trác",
+                "桌布": "trác bố",
+                "桌球": "trác cầu",
+                "桌面": "trác diện",
+                "桌靣": "trác diện",
+                "桌灯": "trác đăng",
+                "桌燈": "trác đăng",
+                "桌子": "trác tử"
+            }
+        }
+    }
+}

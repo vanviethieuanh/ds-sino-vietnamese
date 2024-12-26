@@ -1,0 +1,95 @@
+{
+    "character": "养",
+    "details": {
+        "Âm Hán Việt": [
+            "dường",
+            "dưỡng",
+            "dượng",
+            "dạng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "bát 八 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿱䒑夫⿰丿丨"
+        ],
+        "Nét bút": [
+            "丶ノ一一一ノ丶ノ丨"
+        ],
+        "Thương Hiệt": [
+            "TOLL (廿人中中)"
+        ],
+        "Unicode": [
+            "U+517B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yāng ㄧㄤ",
+            "yǎng ㄧㄤˇ",
+            "yàng ㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "dưỡng"
+        ],
+        "Âm Quảng Đông": [
+            "joeng5"
+        ]
+    },
+    "meanings": {
+        "dường": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dâng biếu (người trên), cấp dưỡng, phụng dưỡng: 奉養 Phụng dưỡng; 供養 Cúng dường."
+            ]
+        },
+        "dưỡng": {
+            "Từ điển phổ thông": [
+                "nuôi dưỡng"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'dưỡng' 養.",
+                "Giản thể của chữ 養."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dâng biếu (người trên), cấp dưỡng, phụng dưỡng: 奉養 Phụng dưỡng; 供養 Cúng dường."
+            ],
+            "compound_words": {
+                "饮食疗养": "ẩm thực liệu dưỡng",
+                "保养": "bảo dưỡng",
+                "抱养": "bão dưỡng",
+                "哺养": "bộ dưỡng",
+                "培养": "bồi dưỡng",
+                "抚养": "phủ dưỡng",
+                "奉养": "phụng dưỡng",
+                "收养": "thu dưỡng"
+            }
+        },
+        "dượng": {
+            "Từ điển phổ thông": [
+                "dâng biếu"
+            ],
+            "Từ điển trích dẫn": [
+                "Như chữ 'dưỡng' 養.",
+                "Giản thể của chữ 養."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dâng biếu (người trên), cấp dưỡng, phụng dưỡng: 奉養 Phụng dưỡng; 供養 Cúng dường."
+            ]
+        },
+        "dạng": {
+            "Từ điển phổ thông": [
+                "nuôi dưỡng"
+            ]
+        }
+    }
+}

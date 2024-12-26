@@ -1,0 +1,92 @@
+{
+    "character": "螣",
+    "details": {
+        "Âm Hán Việt": [
+            "đằng",
+            "đặc"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trùng 虫 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸⿰月龹虫"
+        ],
+        "Nét bút": [
+            "ノフ一一丶ノ一一ノ丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "BFQI (月火手戈)"
+        ],
+        "Unicode": [
+            "U+87A3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tè ㄊㄜˋ",
+            "téng ㄊㄥˊ"
+        ],
+        "Âm Nôm": [
+            "đằng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "チン (chin)",
+            "ジン (jin)"
+        ],
+        "Âm Hàn": [
+            "등"
+        ],
+        "Âm Quảng Đông": [
+            "dak6",
+            "tang4"
+        ]
+    },
+    "meanings": {
+        "đằng": {
+            "Từ điển phổ thông": [
+                "(xem: đằng xà 螣蛇)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Đằng xà' 螣蛇: (1) Rắn bay. § Một loài rồng, có thể bốc mây và sương mù lên cao mà bay lượn ở trong đó. (2) Tên một chòm sao.",
+                "Một âm là 'đặc'. (Danh) Một thứ sâu hay ăn nõn lúa, lại nhả tơ chằng cả ngọn làm cho lúa không nẩy bông tốt được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðằng xà 螣蛇 rắn bay, con rắn thần.",
+                "Một âm là đặc. Một thứ sâu hay ăn nõn lúa, lại nhả tơ chằng cả ngọn làm cho lúa không nẩy bông tốt được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【螣蛇】đằng xà [téngyí] Rắn bay, rắn thần."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài rắn thần, rắn linh — Một âm khác là Đặc. Xem Đặc."
+            ],
+            "compound_words": {
+                "螣蛇": "đằng xà"
+            }
+        },
+        "đặc": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Đằng xà' 螣蛇: (1) Rắn bay. § Một loài rồng, có thể bốc mây và sương mù lên cao mà bay lượn ở trong đó. (2) Tên một chòm sao.",
+                "Một âm là 'đặc'. (Danh) Một thứ sâu hay ăn nõn lúa, lại nhả tơ chằng cả ngọn làm cho lúa không nẩy bông tốt được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðằng xà 螣蛇 rắn bay, con rắn thần.",
+                "Một âm là đặc. Một thứ sâu hay ăn nõn lúa, lại nhả tơ chằng cả ngọn làm cho lúa không nẩy bông tốt được."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài sâu bọ, loài vật làm hại người — Một âm là Đằng. Xem Đằng."
+            ]
+        }
+    }
+}

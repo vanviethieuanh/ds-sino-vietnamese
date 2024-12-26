@@ -1,0 +1,83 @@
+{
+    "character": "襌",
+    "details": {
+        "Âm Hán Việt": [
+            "đan",
+            "đơn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "y 衣 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤單"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶丨フ一丨フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "LRRJ (中口口十)"
+        ],
+        "Unicode": [
+            "U+894C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dān ㄉㄢ"
+        ],
+        "Âm Nôm": [
+            "thiền",
+            "xèng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "ゼン (zen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひとえ (hitoe)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daan1"
+        ]
+    },
+    "meanings": {
+        "đan": {
+            "Từ điển phổ thông": [
+                "áo đơn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Áo đơn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Áo đơn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Áo đơn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo đơn, may một lần vải."
+            ],
+            "compound_words": {
+                "襌襦": "đan nhu"
+            }
+        },
+        "đơn": {
+            "Từ điển Trần Văn Chánh": [
+                "Áo đơn."
+            ]
+        }
+    }
+}

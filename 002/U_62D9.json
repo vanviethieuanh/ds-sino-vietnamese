@@ -1,0 +1,105 @@
+{
+    "character": "拙",
+    "details": {
+        "Âm Hán Việt": [
+            "chuyết"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘出"
+        ],
+        "Nét bút": [
+            "一丨一フ丨丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "QUU (手山山)"
+        ],
+        "Unicode": [
+            "U+62D9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhuō ㄓㄨㄛ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "choắt",
+            "choét",
+            "chót",
+            "chút",
+            "chuyết",
+            "đúc",
+            "nhốt",
+            "suốt",
+            "sụt",
+            "trút"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つたな.い (tsutana.i)"
+        ],
+        "Âm Hàn": [
+            "졸"
+        ],
+        "Âm Quảng Đông": [
+            "zyut3",
+            "zyut6"
+        ]
+    },
+    "meanings": {
+        "chuyết": {
+            "Từ điển phổ thông": [
+                "vụng về"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Vụng về, đần độn. ◇Đạo Đức Kinh 道德經: 'Đại xảo nhược chuyết' 大巧若拙 (Chương 45) Thật khéo léo tựa như vụng về.",
+                "(Tính) Lời nói tự nhún mình. ◎Như: 'chuyết tác' 拙作 tác phẩm vụng về này, 'chuyết kiến' 拙見 ý kiến thô thiển của tôi.",
+                "(Tính) Chất phác, mộc mạc. ◎Như: 'phác chuyết' 樸拙 thật thà, chất phác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vụng về.",
+                "Lời nói tự nhún mình, như chuyết tác 拙作 bài làm của kẻ vụng về này."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngốc nghếch, đần độn, vụng về: 手拙 Tay chân vụng về; 拙咀鈍舌 Nói năng vụng về (đần độn);",
+                "(khiêm) Kém cỏi, vụng về: 拙作 Tác phẩm kém cỏi của tôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vụng về. Không khéo léo giỏi giang."
+            ],
+            "compound_words": {
+                "拙庵": "chuyết am",
+                "拙庵文集": "chuyết am văn tập",
+                "拙薄": "chuyết bạc",
+                "拙筆": "chuyết bút",
+                "拙工": "chuyết công",
+                "拙宦": "chuyết hoạn",
+                "拙荊": "chuyết kinh",
+                "拙劣": "chuyết liệt",
+                "拙作": "chuyết tác",
+                "拙妻": "chuyết thê",
+                "鳩拙": "cưu chuyết",
+                "口拙": "khẩu chuyết",
+                "弄巧成拙": "lộng xảo thành chuyết",
+                "眼拙": "nhãn chuyết",
+                "樸拙": "phác chuyết",
+                "藏拙": "tàng chuyết"
+            }
+        }
+    }
+}

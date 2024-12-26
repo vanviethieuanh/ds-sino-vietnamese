@@ -1,0 +1,71 @@
+{
+    "character": "历",
+    "details": {
+        "Âm Hán Việt": [
+            "lịch"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "hán 厂 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厂力"
+        ],
+        "Nét bút": [
+            "一ノフノ"
+        ],
+        "Thương Hiệt": [
+            "XMKS (重一大尸)"
+        ],
+        "Unicode": [
+            "U+5386"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "lệch",
+            "lịch"
+        ],
+        "Âm Quảng Đông": [
+            "lik6"
+        ]
+    },
+    "meanings": {
+        "lịch": {
+            "Từ điển phổ thông": [
+                "lịch pháp, lịch chí"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 歷.",
+                "Giản thể của chữ 曆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 厤"
+            ],
+            "compound_words": {
+                "阿奇历斯": "a kỳ lịch tư",
+                "蓬头历齿": "bồng đầu lịch xỉ",
+                "来历": "lai lịch",
+                "历代": "lịch đại",
+                "历来": "lịch lai",
+                "历练": "lịch luyện",
+                "历史": "lịch sử",
+                "历程": "lịch trình",
+                "月历": "nguyệt lịch",
+                "日历": "nhật lịch"
+            }
+        }
+    }
+}

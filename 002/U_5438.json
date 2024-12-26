@@ -1,0 +1,99 @@
+{
+    "character": "吸",
+    "details": {
+        "Âm Hán Việt": [
+            "hấp"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "khẩu 口 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口及"
+        ],
+        "Nét bút": [
+            "丨フ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "RNHE (口弓竹水)"
+        ],
+        "Unicode": [
+            "U+5438"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "cạp",
+            "cộp",
+            "hấp",
+            "hớp",
+            "húp",
+            "hút"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.う (su.u)"
+        ],
+        "Âm Hàn": [
+            "흡"
+        ],
+        "Âm Quảng Đông": [
+            "kap1",
+            "ngap1"
+        ]
+    },
+    "meanings": {
+        "hấp": {
+            "Từ điển phổ thông": [
+                "hấp thụ",
+                "hút vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hít, hút hơi vào. § Đối lại với 'hô' 呼. ◇Liêu trai chí dị 聊齋志異: 'Khí nhất hô, hữu hoàn tự khẩu trung xuất, trực thượng nhập ư nguyệt trung; nhất hấp, triếp phục lạc, dĩ khẩu thừa chi, tắc hựu hô chi: như thị bất dĩ' 氣一呼, 有丸自口中出, 直上入於月中; 一吸，輒復落, 以口承之, 則又呼之: 如是不已 (Vương Lan 王蘭) Thở hơi ra, có một viên thuốc từ miệng phóng ra, lên thẳng mặt trăng; hít một cái thì (viên thuốc) lại rơi xuống, dùng miệng hứng lấy, rồi lại thở ra: như thế mãi không thôi.",
+                "(Động) Lôi cuốn, thu hút. ◎Như: 'hấp dẫn' 吸引 thu hút, lôi cuốn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hút hơi vào, đối lại với chữ hô 呼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hít: 吸氧 Hít dưỡng khí;",
+                "Hút, thấm, hấp dẫn: 棉花能吸水 Bông có thể thấm nước; 磁石能吸鐵 Đá nam châm hút được sắt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hít vào. Chẳng hạn Hô hấp ( thở ra hít vào ) — Uống vào — Lấy về."
+            ],
+            "compound_words": {
+                "吮吸": "duyện hấp",
+                "吸音": "hấp âm",
+                "吸引": "hấp dẫn",
+                "吸吮": "hấp duyện",
+                "吸毒": "hấp độc",
+                "吸气": "hấp khí",
+                "吸氣": "hấp khí",
+                "吸力": "hấp lực",
+                "吸入": "hấp nhập",
+                "吸管": "hấp quản",
+                "吸取": "hấp thủ",
+                "吸受": "hấp thụ",
+                "吸收": "hấp thu",
+                "吸烟": "hấp yên",
+                "吸煙": "hấp yên",
+                "呼吸": "hô hấp"
+            }
+        }
+    }
+}

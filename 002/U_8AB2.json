@@ -1,0 +1,106 @@
+{
+    "character": "課",
+    "details": {
+        "Âm Hán Việt": [
+            "khoá"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "ngôn 言 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言果"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRWD (卜口田木)"
+        ],
+        "Unicode": [
+            "U+8AB2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kè ㄎㄜˋ"
+        ],
+        "Âm Nôm": [
+            "khoá",
+            "thoả",
+            "thủa",
+            "thuở"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Hàn": [
+            "과"
+        ],
+        "Âm Quảng Đông": [
+            "fo3"
+        ]
+    },
+    "meanings": {
+        "khoá": {
+            "Từ điển phổ thông": [
+                "bài học"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khảo hạch, khảo thí, thử. ◎Như: 'khảo khóa' 考課 khảo thí. ◇Quản Tử 管子: 'Thành khí bất khóa bất dụng, bất thí bất tàng' 成器不課不用, 不試不藏 (Thất pháp 七法) Vật làm thành không thử thì không dùng, không xét thì không cất giữ.",
+                "(Động) Thu, trưng thu. ◎Như: 'khóa thuế' 課稅 thu thuế, đánh thuế.",
+                "(Động) Đốc xúc, đốc suất. ◇Liêu trai chí dị 聊齋志異: 'Hoàng Anh khóa bộc chủng cúc' 黃英課僕種菊 (Hoàng Anh 黃英) Hoàng Anh đốc suất đầy tớ trồng cúc.",
+                "(Danh) Thuế. ◎Như: 'diêm khóa' 鹽課 thuế muối.",
+                "(Danh) Bài học.",
+                "(Danh) Giờ học. ◎Như: 'số học khóa' 數學課 giờ học toán.",
+                "(Danh) Môn học. ◎Như: 'ngã giá học kì hữu ngũ môn khóa' 我這學期有五門課 kì học này tôi có năm môn học.",
+                "(Danh) Lượng từ: đơn vị bài học. ◎Như: 'giá bổn thư hữu thập bát khóa' 這本書有十八課 sách này có mười tám bài học.",
+                "(Danh) Đơn vị dùng cho công việc hành chánh trị sự trong các cơ quan. ◎Như: 'xuất nạp khóa' 出納課, 'tổng vụ khóa' 總務課.",
+                "(Danh) Quẻ bói. ◎Như: 'lục nhâm khóa' 六壬課 phép bói lục nhâm, 'bốc khóa' 卜課 bói quẻ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thi, tính. Phàm định ra khuôn phép mà thí nghiệm tra xét đều gọi là khoá. Như khảo khoá 考課 khoá thi, công khoá 工課 khoá học, v.v.",
+                "Thuế má. Như diêm khoá 鹽課 thuế muối.",
+                "Quẻ bói. Như lục nhâm khoá 六壬課 phép bói lục nhâm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bài học: 這本書共有30課 Quyển sách này gồm có 30 bài học;",
+                "Môn học: 我們這學期共有8門課 Kì học này chúng ta có tất cả 8 môn học;",
+                "Giờ học: 數學課 Giờ học toán;",
+                "Thuế, đánh thuế: 課以重稅 Đánh thuế nặng; 鹽課 Thuế muối;",
+                "(cũ) Phòng, khoa: 會計課 Phòng kế toán;",
+                "(văn) Quẻ bói: 六壬課 Phép bói lục nhâm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cho thi hạch hỏi để thử tài — Thuế má. Td: Thuế khoá — Một thời gian học tập. Td: Niên khoá — Trong Bạch thoại còn hiểu là việc làm trong lúc học tập, bài vở nhà trường. Cũng nói là Công khoá."
+            ],
+            "compound_words": {
+                "罷課": "bãi khoá",
+                "功課": "công khoá",
+                "鹽課": "diêm khoá",
+                "學課": "học khoá",
+                "學課錢": "học khoá tiền",
+                "課本": "khoá bản",
+                "課虚錄": "khoá hư lục",
+                "課業": "khoá nghiệp",
+                "課生": "khoá sinh",
+                "課程": "khoá trình",
+                "課文": "khoá văn",
+                "日課": "nhật khoá",
+                "溫課": "ôn khoá",
+                "官課": "quan khoá",
+                "操課": "thao khoá",
+                "授課": "thụ khoá"
+            }
+        }
+    }
+}

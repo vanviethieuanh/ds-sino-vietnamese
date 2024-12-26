@@ -1,0 +1,81 @@
+{
+    "character": "慬",
+    "details": {
+        "Âm Hán Việt": [
+            "cần",
+            "cận"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "tâm 心 (+11 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺖堇"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨丨一丨フ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "PTLM (心廿中一)"
+        ],
+        "Unicode": [
+            "U+616C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jǐn ㄐㄧㄣˇ",
+            "jìn ㄐㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "cỡm",
+            "cỡn",
+            "ngẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)",
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かな.しむ (kana.shimu)"
+        ],
+        "Âm Quảng Đông": [
+            "kan4"
+        ]
+    },
+    "meanings": {
+        "cần": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dũng khí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lo lắng cực khổ — Gấp rút — Thành thật."
+            ],
+            "compound_words": {
+                "慬懇": "cần khẩn",
+                "慬苦": "cần khổ",
+                "慬切": "cần thiết"
+            }
+        },
+        "cận": {
+            "Từ điển phổ thông": [
+                "lo lắng",
+                "chỉ, gần gần, ngót",
+                "dũng khí"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lo lắng;",
+                "Chỉ, gần gần, ngót."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ có — Một âm khác là Cần."
+            ]
+        }
+    }
+}

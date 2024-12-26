@@ -1,0 +1,72 @@
+{
+    "character": "棰",
+    "details": {
+        "Âm Hán Việt": [
+            "chuỷ",
+            "truỳ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木垂"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ一丨一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "DHJM (木竹十一)"
+        ],
+        "Unicode": [
+            "U+68F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chuí ㄔㄨㄟˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソイ (soi)",
+            "タ (ta)",
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つえ (tsue)"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4"
+        ]
+    },
+    "meanings": {
+        "chuỷ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái gậy — Đánh bằng gậy. Như chữ Chuỷ 捶."
+            ],
+            "compound_words": {
+                "棰楚": "chuỷ sở"
+            }
+        },
+        "truỳ": {
+            "Từ điển phổ thông": [
+                "gậy ngắn",
+                "đánh bằng gậy"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gậy ngắn;",
+                "Đánh bằng gậy;",
+                "Như 箠 [chuí];",
+                "Như 槌 [chuí]."
+            ]
+        }
+    }
+}

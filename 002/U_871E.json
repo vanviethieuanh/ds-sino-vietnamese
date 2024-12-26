@@ -1,0 +1,86 @@
+{
+    "character": "蜞",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫其"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨丨一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LITMC (中戈廿一金)"
+        ],
+        "Unicode": [
+            "U+871E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "cà",
+            "kè",
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひる (hiru)"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Con vắt. § Một loài trùng, có thứ xanh và thứ vàng, thứ xanh ở trên lá cây trong rừng rậm, hay đốt máu người, thứ vàng ở dưới đất hút máu như loài đỉa.",
+                "(Danh) 'Bành kì' 蟛蜞: xem 'bành' 蟛."
+            ],
+            "compound_words": {
+                "螃蜞": "bàng kì",
+                "彭蜞": "bành kì",
+                "蟛蜞": "bành kì"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "con vắt, con đỉa"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con vắt, con đỉa. Một loài trùng, có hai thứ, thứ xanh và thứ vàng, thứ xanh ở trên lá cây trong rừng rậm, hay đốt máu người, thứ vàng ở dưới đất hút máu như loài đỉa.",
+                "Bành kì 蟛蜞 con cáy, con còng cọng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con vắt (ở trong rừng cây), con đỉa đất (ở dưới đất, hút máu người như con đỉa);",
+                "Xem 蟛蜞."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bành kì 彭蜞."
+            ],
+            "compound_words": {
+                "螃蜞": "bàng kỳ",
+                "蟛蜞": "bành kỳ"
+            }
+        }
+    }
+}

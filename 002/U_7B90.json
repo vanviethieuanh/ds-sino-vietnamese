@@ -1,0 +1,77 @@
+{
+    "character": "箐",
+    "details": {
+        "Âm Hán Việt": [
+            "thiến",
+            "tinh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trúc 竹 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮青"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "HQMB (竹手一月)"
+        ],
+        "Unicode": [
+            "U+7B90"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ",
+            "qìng ㄑㄧㄥˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)",
+            "セン (sen)"
+        ],
+        "Âm Quảng Đông": [
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "thiến": {
+            "Từ điển phổ thông": [
+                "rừng tre già trong núi",
+                "cung nỏ làm bằng tre"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Rừng tre già trong núi;",
+                "(văn) Cung hoặc nỏ bằng tre."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cung, cây nỏ bằng tre cứng — Xem Tinh."
+            ]
+        },
+        "tinh": {
+            "Từ điển phổ thông": [
+                "(xem: linh tinh 笭箐)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【笭箐】linh tinh [língjing] (văn) Cái lồng nhỏ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài tre nhỏ."
+            ],
+            "compound_words": {
+                "笭箐": "linh tinh"
+            }
+        }
+    }
+}

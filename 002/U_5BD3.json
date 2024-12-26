@@ -1,0 +1,105 @@
+{
+    "character": "寓",
+    "details": {
+        "Âm Hán Việt": [
+            "ngụ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "miên 宀 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱宀禺"
+        ],
+        "Nét bút": [
+            "丶丶フ丨フ一一丨フ丨一丶"
+        ],
+        "Thương Hiệt": [
+            "JWLB (十田中月)"
+        ],
+        "Unicode": [
+            "U+5BD3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ngụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "グウ (gū)",
+            "グ (gu)",
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぐう.する (gū.suru)",
+            "かこつ.ける (kakotsu.keru)",
+            "よ.せる (yo.seru)",
+            "よ.る (yo.ru)",
+            "かりずまい (karizumai)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu6"
+        ]
+    },
+    "meanings": {
+        "ngụ": {
+            "Từ điển phổ thông": [
+                "nhờ cậy",
+                "nói bóng gió"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nơi ở, chỗ ở. ◎Như: 'ngụ sở' 寓所 chỗ ở, 'công ngụ' 公寓 nhà ở chung cho nhiều gia đình.",
+                "(Danh) 'Ngụ công' 寓公: (1) Quý tộc chư hầu mất nước đi ở nước khác (ngày xưa). (2) Người có tiền ở nước ngoài.",
+                "(Động) Ở, cư trú. ◎Như: 'ngụ cư' 寓居 ở trọ.",
+                "(Động) Gởi gắm, kí thác. ◎Như: 'ngụ ý thâm viễn' 寓意深遠 ý gởi gắm sâu xa. ◇Âu Dương Tu 歐陽修: 'San thủy chi lạc, đắc chi tâm nhi ngụ chi tửu dã' 山水之樂, 得之心而寓之酒也 (Túy Ông đình kí 醉翁亭記) Cái thú vui non nước, có được trong lòng mà gởi gắm vào rượu vậy.",
+                "(Động) 'Ngụ mục' 寓目 xem, xem qua. ◇Liêu trai chí dị 聊齋志異: 'Diêu văn súc cáp tối thịnh, thử diệc sanh bình sở hiếu, nguyện đắc ngụ mục' 遙聞畜鴿最盛, 此亦生平所好, 願得寓目 (Cáp dị 鴿異) Ở xa nghe tin (công tử) nuôi bồ câu tốt lắm, trong đời tôi cũng ưa thích thứ ấy, xin được cho xem."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhờ, như ngụ cư 寓居 ở nhờ.",
+                "Nói bóng, như ngụ ngôn 寓言 nói truyện này mà ngụ ý ở truyện kia.",
+                "Ðể vào đấy, như ngụ mục 寓目 để mắt vào đấy.",
+                "Gửi tới, như ngụ thư 寓書 gửi thư tới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cư trú, ở: 暫寓友人處 Tạm cư trú nhà bạn;",
+                "Nơi ở, nhà: 客寓 Nhà trọ;",
+                "Ngụ ý, gởi gắm: 寓意勸懲 Ngụ ý khuyên răn;",
+                "(văn) Để vào đấy: 寓目 Để mắt vào đấy;",
+                "(văn) Gởi tới: 寓書 Gởi thư tới."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ở đậu. Td: Trú ngụ 住寓 — Ở. Td: Cư ngụ 居寓 — Gửi gấm vào.  Đoạn trường tân thanh  có câu: » Nên câu tuyệt diệu ngụ trong tính tình «."
+            ],
+            "compound_words": {
+                "公寓": "công ngụ",
+                "寄寓": "kí ngụ",
+                "畱寓": "lưu ngụ",
+                "寓居": "ngụ cư",
+                "寓木": "ngụ mộc",
+                "寓言": "ngụ ngôn",
+                "寓所": "ngụ sở",
+                "寓情": "ngụ tình",
+                "寓宿": "ngụ túc",
+                "漂寓": "phiêu ngụ",
+                "貴寓": "quý ngụ",
+                "借寓": "tá ngụ",
+                "住寓": "trú ngụ"
+            }
+        }
+    }
+}

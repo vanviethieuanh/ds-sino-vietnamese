@@ -1,0 +1,67 @@
+{
+    "character": "镜",
+    "details": {
+        "Âm Hán Việt": [
+            "cảnh",
+            "kính"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅竟"
+        ],
+        "Nét bút": [
+            "ノ一一一フ丶一丶ノ一丨フ一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "XCYTU (重金卜廿山)"
+        ],
+        "Unicode": [
+            "U+955C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jìng ㄐㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "kính"
+        ],
+        "Âm Quảng Đông": [
+            "geng3"
+        ]
+    },
+    "meanings": {
+        "cảnh": {
+            "Từ điển phổ thông": [
+                "gương, kính"
+            ]
+        },
+        "kính": {
+            "Từ điển phổ thông": [
+                "gương, kính"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鏡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鏡"
+            ],
+            "compound_words": {
+                "喉镜": "hầu kính",
+                "墨镜": "mặc kính"
+            }
+        }
+    }
+}

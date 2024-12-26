@@ -1,0 +1,84 @@
+{
+    "character": "箝",
+    "details": {
+        "Âm Hán Việt": [
+            "kiềm"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trúc 竹 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮拑"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨一一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "HQTM (竹手廿一)"
+        ],
+        "Unicode": [
+            "U+7B9D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qián ㄑㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "kiềm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.げる (su.geru)",
+            "くびかせ (kubikase)",
+            "はさ.む (hasa.mu)"
+        ],
+        "Âm Hàn": [
+            "겸"
+        ],
+        "Âm Quảng Đông": [
+            "kim4"
+        ]
+    },
+    "meanings": {
+        "kiềm": {
+            "Từ điển phổ thông": [
+                "cái kìm",
+                "giữ, kìm",
+                "cùm chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái giàm (để kềm kẹp).",
+                "(Động) Kẹp, cặp. ◎Như: 'kiềm xuất thiêu hồng đích môi thán' 箝出燒紅的煤炭.",
+                "(Động) Ngậm miệng, khóa miệng. ◎Như: 'kiềm ngữ' 箝語 cấm chỉ dân chúng bàn bạc với nhau, khống chế ngôn luận."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái giàm.",
+                "Kiềm chế 箝制 kiềm chế, kèm cặp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cái giàm;",
+                "Kiềm chế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy hai thanh tre mà kẹp lại — Kiềm giữ."
+            ],
+            "compound_words": {
+                "箝制": "kiềm chế"
+            }
+        }
+    }
+}

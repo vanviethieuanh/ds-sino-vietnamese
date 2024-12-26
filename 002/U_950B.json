@@ -1,0 +1,64 @@
+{
+    "character": "锋",
+    "details": {
+        "Âm Hán Việt": [
+            "phong"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅夆"
+        ],
+        "Nét bút": [
+            "ノ一一一フノフ丶一一一丨"
+        ],
+        "Thương Hiệt": [
+            "XCHEJ (重金竹水十)"
+        ],
+        "Unicode": [
+            "U+950B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ"
+        ],
+        "Âm Nôm": [
+            "phong"
+        ],
+        "Âm Quảng Đông": [
+            "fung1"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "ngọn giáo, mũi dao"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鋒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋒"
+            ],
+            "compound_words": {
+                "交锋": "giao phong",
+                "锋利": "phong lợi",
+                "先锋": "tiên phong",
+                "侧锋": "trắc phong",
+                "衝锋": "xung phong"
+            }
+        }
+    }
+}

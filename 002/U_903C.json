@@ -1,0 +1,101 @@
+{
+    "character": "逼",
+    "details": {
+        "Âm Hán Việt": [
+            "bức"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sước 辵 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶畐"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フ一丨一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YMRW (卜一口田)"
+        ],
+        "Unicode": [
+            "U+903C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bī ㄅㄧ"
+        ],
+        "Âm Nôm": [
+            "bức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フク (fuku)",
+            "ヒツ (hitsu)",
+            "ヒョク (hyoku)",
+            "ヒキ (hiki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せま.る (sema.ru)",
+            "むかばき (mukabaki)"
+        ],
+        "Âm Hàn": [
+            "핍"
+        ],
+        "Âm Quảng Đông": [
+            "bik1"
+        ]
+    },
+    "meanings": {
+        "bức": {
+            "Từ điển phổ thông": [
+                "bắt buộc, buộc phải",
+                "bức bách, cưỡng bức",
+                "đến gần, tiến sát"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Uy hiếp, cưỡng bách, ép buộc. ◎Như: 'bức trái' 逼債 bức nợ, 'thôi bức' 催逼 thôi thúc, 'cưỡng bức' 強逼 ép buộc, 'uy bức' 威逼 uy hiếp.",
+                "(Động) Tới gần, sát. ◎Như: 'bức cận' 逼近 sát gần, 'trực bức thành hạ' 直逼城下 sát bên thành, 'bức thị' 逼視 nhìn tròng trọc.",
+                "(Tính) Chật hẹp. ◎Như: 'bức trắc' 逼仄(逼側) chật hẹp, 'thật bức xử thử' 實逼處此 ở đây thật là chật chội.",
+                "(Phó) Rất, hết sức. ◎Như: 'bức tiếu' 逼肖 rất giống, 'bức chân' 逼真 giống y như thật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bức bách. Ở vào chỗ hai bên nó đè ép không cựa được nữa gọi là bức. Như thật bức xử thử 實逼處此 ở đây thật là bức bách.",
+                "Bức hiếp, ăn hiếp. Như cưỡng bức 強逼 cố hiếp. Uy bức 威逼 lấy oai quyền mà đè ép."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cưỡng bức, bức hiếp, bắt ép, bắt buộc: 逼人 太甚 Đè nén người khác quá đỗi;",
+                "Thúc ép: 逼債 Thúc nợ;",
+                "Sát, gần, giáp: 直逼城下 Giáp thành;",
+                "(văn) Nhỏ hẹp: 逼仄 Chật hẹp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sáp gần lại — Cưỡng ép — Chật hẹp."
+            ],
+            "compound_words": {
+                "壓逼": "áp bức",
+                "逼迫": "bức bách",
+                "逼近": "bức cận",
+                "逼供": "bức cung",
+                "逼婚": "bức hôn",
+                "逼人": "bức nhân",
+                "逼窄": "bức trách",
+                "逼債": "bức trái",
+                "逼死": "bức tử",
+                "逼促": "bức xúc",
+                "脅逼": "hiếp bức",
+                "窘逼": "quẫn bức",
+                "威逼": "uy bức",
+                "促逼": "xúc bức"
+            }
+        }
+    }
+}

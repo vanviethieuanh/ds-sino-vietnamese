@@ -1,0 +1,87 @@
+{
+    "character": "鍋",
+    "details": {
+        "Âm Hán Việt": [
+            "oa"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金咼"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨フフ丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "CBBR (金月月口)"
+        ],
+        "Unicode": [
+            "U+934B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guō ㄍㄨㄛ",
+            "guǒ ㄍㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "oa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なべ (nabe)"
+        ],
+        "Âm Hàn": [
+            "과"
+        ],
+        "Âm Quảng Đông": [
+            "wo1"
+        ]
+    },
+    "meanings": {
+        "oa": {
+            "Từ điển phổ thông": [
+                "cái nồi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bầu dầu (bầu đựng dầu mỡ trong xe cho trục xe chạy trơn).",
+                "(Danh) Điếu, tẩu. ◎Như: 'yên đại oa nhi' 煙袋鍋兒 tẩu hút thuốc.",
+                "(Danh) Nồi, xanh, chảo, xoong. ◎Như: 'đồng oa' 銅鍋 nồi đồng. ◇Hồng Lâu Mộng 紅樓夢: 'Bất tưởng giá nhật tam nguyệt thập ngũ, hồ lô miếu trung tạc cung, na ta hòa thượng bất gia tiểu tâm, trí sử du oa hỏa dật, tiện thiêu trứ song chỉ' 不想這日三月十五, 葫蘆廟中炸供, 那些和尚不加小心, 致使油鍋火逸, 便燒著窗紙 (Đệ nhất hồi) Chẳng ngờ hôm rằm tháng ba, trong miếu Hồ Lô nấu cỗ cúng, hòa thượng đó không cẩn thận, để chảo dầu bốc lửa, cháy lan ra giấy dán cửa sổ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bầu dầu (trong xe có cái bầu dầu đựng dầu mỡ cho trục nó chạy trơn).",
+                "Cái nồi hông, nồi, xanh, chảo, xoong. Như đồng oa 銅鍋 nồi đồng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nồi, xanh, chảo, xoong: 砂鍋 Nồi đất; 銅鍋 Nồi đồng;",
+                "Điếu, tẩu: 煙袋鍋兒 Điếu, tẩu (hút thuốc);",
+                "(văn) Bầu dầu (để làm trơn trục bánh xe)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nồi bằng kim loại để nấu đồ ăn."
+            ],
+            "compound_words": {
+                "皮鍋煮肉": "bì oa chử nhục",
+                "平鍋": "bình oa",
+                "電飯鍋": "điện phạn oa",
+                "火鍋": "hoả oa",
+                "一鍋粥": "nhất oa chúc",
+                "鍋爐": "oa lô",
+                "炸鍋": "tạc oa"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "箾",
+    "details": {
+        "Âm Hán Việt": [
+            "sao",
+            "sóc",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trúc 竹 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮削"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丨丶ノ丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "HFBN (竹火月弓)"
+        ],
+        "Unicode": [
+            "U+7BBE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qiào ㄑㄧㄠˋ",
+            "shuò ㄕㄨㄛˋ",
+            "xiāo ㄒㄧㄠ"
+        ],
+        "Âm Hàn": [
+            "소"
+        ],
+        "Âm Quảng Đông": [
+            "siu6",
+            "sok3"
+        ]
+    },
+    "meanings": {
+        "sao": {
+            "Từ điển phổ thông": [
+                "cái bao đựng dao"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 鞘 (bộ 革)."
+            ]
+        },
+        "sóc": {
+            "Từ điển phổ thông": [
+                "cần tre cầm để múa thời xưa"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cần tre cầm để múa (thời xưa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng gậy mà đánh — Cây gậy nhỏ, vũ công đời xưa cầm ở tay mà múa."
+            ],
+            "compound_words": {
+                "箾韶": "sóc thiều"
+            }
+        },
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "(xem: tiêu thiều 箾韶)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【箾韶】tiêu thiều [xiaosháo] Tên một loại nhạc thời Ngu Thuấn (Trung Quốc cổ đại)."
+            ],
+            "compound_words": {
+                "箾韶": "tiêu thiều"
+            }
+        }
+    }
+}

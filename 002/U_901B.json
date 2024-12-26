@@ -1,0 +1,76 @@
+{
+    "character": "逛",
+    "details": {
+        "Âm Hán Việt": [
+            "cuống"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "sước 辵 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿺辶狂"
+        ],
+        "Nét bút": [
+            "ノフノ一一丨一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YKHG (卜大竹土)"
+        ],
+        "Unicode": [
+            "U+901B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guàng ㄍㄨㄤˋ",
+            "kuáng ㄎㄨㄤˊ"
+        ],
+        "Âm Nôm": [
+            "cuống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はし.る (hashi.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "gwaang6",
+            "kwaang3"
+        ]
+    },
+    "meanings": {
+        "cuống": {
+            "Từ điển phổ thông": [
+                "đi đủng đỉnh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Đi ra ngoài chơi, đi dạo, ngao du. ◎Như: “nhàn cuống” 閒逛 đi chơi, đi lang thang, “cuống nhai” 逛街 dạo phố. ◇Hồng Lâu Mộng 紅樓夢: “Nhĩ thính thính tha đích chủy! Nhĩ môn biệt thuyết liễu, nhượng tha cuống khứ bãi” 你聽聽她的嘴! 你們別說了, 讓她逛去罷 (Đệ nhị thập thất hồi) Chị nghe miệng nó nói đấy! Thôi các chị đừng nói nữa, để cho nó đi chơi thôi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thủng thỉnh tả cái dáng đi. Tục gọi sự đi ra ngoài chơi là cuống."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đi chơi, đi dạo, đi ngao du: 逛街 Dạo phố, đi chơi phố; 老殘無事，便向街道閑逛 Lão Tàn ở không, bèn ra phố dạo chơi (Lão Tàn du kí)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đi ra ngoài. Đi chơi."
+            ],
+            "compound_words": {
+                "逛街": "cuống nhai",
+                "閒逛": "nhàn cuống"
+            }
+        }
+    }
+}

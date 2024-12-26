@@ -1,0 +1,80 @@
+{
+    "character": "疽",
+    "details": {
+        "Âm Hán Việt": [
+            "thư"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nạch 疒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒且"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "KBM (大月一)"
+        ],
+        "Unicode": [
+            "U+75BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ",
+            "jǔ ㄐㄩˇ"
+        ],
+        "Âm Nôm": [
+            "thư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かさ (kasa)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi1"
+        ]
+    },
+    "meanings": {
+        "thư": {
+            "Từ điển phổ thông": [
+                "nhọt sưng nhưng không đỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Nhọt. § Nhọt sưng đỏ là “ung” 癰, không sưng đỏ là “thư” 疽. ◎Như: “ung thư” 癰疽 sưng nhọt. ◇Sử Kí 史記: “Phạm Tăng hành vị chí Bành Thành, thư phát bối nhi tử” 范增行未至彭城, 疽發背而死 (Hạng Vũ bổn kỉ 項羽本紀) Phạm Tăng (hận Hạng Vương đã nghi ngờ mình) chưa về tới Bành Thành thì bị lên hậu bối mà chết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ung thư 癰疽 nhọt, nhọt sưng đỏ là ung 癰, không sưng đỏ là thư 疽."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(y) Mụn độc, ung nhọt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nhọt lâu ngày không khỏi. Td: Ung thư."
+            ],
+            "compound_words": {
+                "陰疽": "âm thư",
+                "瘭疽": "tiếu thư",
+                "痈疽": "ung thư",
+                "癰疽": "ung thư"
+            }
+        }
+    }
+}

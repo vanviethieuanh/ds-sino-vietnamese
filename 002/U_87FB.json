@@ -1,0 +1,97 @@
+{
+    "character": "蟻",
+    "details": {
+        "Âm Hán Việt": [
+            "nghĩ",
+            "nghị"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trùng 虫 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫義"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶ノ一一丨一ノ一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LITGI (中戈廿土戈)"
+        ],
+        "Unicode": [
+            "U+87FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jǐ ㄐㄧˇ",
+            "yǐ ㄧˇ"
+        ],
+        "Âm Nôm": [
+            "nghị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あり (ari)"
+        ],
+        "Âm Hàn": [
+            "의"
+        ],
+        "Âm Quảng Đông": [
+            "ngai5"
+        ]
+    },
+    "meanings": {
+        "nghĩ": {
+            "Từ điển phổ thông": [
+                "con kiến"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con kiến.",
+                "(Danh) 'Bạch nghĩ' 白蟻 con mối trắng hay ăn đồ gỗ. ◇Nguyễn Du 阮攸: 'Kim cổ thùy đồng bạch nghĩ oa' 今古誰同白蟻窩 (Tạp ngâm 雜吟) Xưa nay ai cùng ở một tổ với mối?",
+                "(Danh) Bọt, tăm rượu. ◎Như: 'phù nghĩ' 浮蟻 tăm rượu.",
+                "(Danh) Họ 'Nghĩ'.",
+                "(Tính) Nhỏ, bé, nhỏ mọn. ◎Như: 'nghĩ mệnh' 蟻命 tính mệnh nhỏ nhoi (như mạng kiến vậy).",
+                "(Phó) Nhiều, đông. ◇Lưu Nghĩa Khánh 劉義慶: 'Ư thị khấu đạo xứ xứ nghĩ hợp, quận quốc đa dĩ vô bị, bất năng chế phục' 於是寇盜處處蟻合, 郡國多以無備, 不能制服 (Thế thuyết tân ngữ 世說新語, Thức giám 識鑒) Do đó giặc cướp các nơi tụ họp đông như kiến, quận huyện phần nhiều không phòng bị, không dẹp yên được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con kiến.",
+                "Bạch nghĩ 白蟻 con mối trắng hay ăn đồ gỗ.",
+                "Cấn rượu. Như phù nghĩ 浮蟻 tăm rượu.",
+                "Nói ý nhỏ mọn. Như nghĩ mệnh 蟻命 ý nói xin thương tính mệnh như mạng kiến vậy.",
+                "Nghĩ phong 蟻封 núi đất gồ ghề."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kiến, mối: 螞蟻 Con kiến; 白蟻 Con mối;",
+                "Nhỏ như kiến: 蟻命 Mạng (nhỏ như mạng) kiến;",
+                "Cấn rượu, cặn rượu;",
+                "[Yê] (Họ) Nghị."
+            ],
+            "compound_words": {
+                "白蟻": "bạch nghĩ",
+                "螞蟻": "mã nghĩ"
+            }
+        },
+        "nghị": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con kiến — Màu đen, xanh đen."
+            ],
+            "compound_words": {
+                "白蟻": "bạch nghị",
+                "螞蟻": "mã nghị",
+                "蜂蟻": "phong nghị"
+            }
+        }
+    }
+}

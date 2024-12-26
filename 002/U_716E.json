@@ -1,0 +1,78 @@
+{
+    "character": "煮",
+    "details": {
+        "Âm Hán Việt": [
+            "chử"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hoả 火 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱者灬"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨フ一一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "JAF (十日火)"
+        ],
+        "Unicode": [
+            "U+716E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǔ ㄓㄨˇ"
+        ],
+        "Âm Nôm": [
+            "chử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "に.る (ni.ru)",
+            "-に (-ni)",
+            "に.える (ni.eru)",
+            "に.やす (ni.yasu)"
+        ],
+        "Âm Hàn": [
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "zyu2"
+        ]
+    },
+    "meanings": {
+        "chử": {
+            "Từ điển phổ thông": [
+                "nấu (cơm)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nấu, thổi. ◎Như: 'chử phạn' 煮飯 nấu cơm. ◇Đặng Trần Côn 鄧陳琨: 'Tạ sầu hề vi chẩm, Chử muộn hề vi xan' 藉愁兮爲枕, 煮悶兮爲餐 (Chinh Phụ ngâm 征婦吟) Tựa sầu làm gối, Nấu muộn làm cơm. § Đoàn Thị Điểm dịch thơ: Sầu ôm nặng, hãy chồng làm gối, Buồn chứa đầy, hãy thổi làm cơm.",
+                "§ Cũng viềt là 煑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nấu, đun, thổi, luộc, bung: 煮飯 Nấu cơm, thổi cơm; 煮湯 Nấu canh; 煮水 Đun nước; 煮雞蛋 Luộc trứng gà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nấu lên. Đun lên."
+            ],
+            "compound_words": {
+                "皮鍋煮肉": "bì oa chử nhục",
+                "煮豆燃萁": "chử đậu nhiên ky",
+                "煮飯": "chử phạn"
+            }
+        }
+    }
+}

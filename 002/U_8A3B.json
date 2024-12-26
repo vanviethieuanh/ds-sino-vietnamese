@@ -1,0 +1,88 @@
+{
+    "character": "註",
+    "details": {
+        "Âm Hán Việt": [
+            "chú"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言主"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丶一一丨一"
+        ],
+        "Thương Hiệt": [
+            "YRYG (卜口卜土)"
+        ],
+        "Unicode": [
+            "U+8A3B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "chú",
+            "chua"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu3"
+        ]
+    },
+    "meanings": {
+        "chú": {
+            "Từ điển phổ thông": [
+                "rót nước",
+                "chú thích, giải nghĩa",
+                "chú ý"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lời giải thích, lời giảng nghĩa. § Cũng như 'chú' 注. ◎Như: 'chú giải' 註解 lời giải thích.",
+                "(Động) Ghi chép. ◎Như: 'chú sách' 註冊 ghi vào sổ, 'chú tiêu' 註銷 xóa bỏ khỏi sổ ghi.",
+                "(Động) Giải nghĩa, giải thích. ◎Như: 'phê chú' 批註 bình giải."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giải thích cho rõ nghĩa.",
+                "Chữa vào, chép một điều gì vào sách gọi là chú sách 註冊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chú thích, chú giải, giải thích;",
+                "Ghi vào: 註册 Ghi, đăng kí."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Chú 注."
+            ],
+            "compound_words": {
+                "備註": "bị chú",
+                "評註": "bình chú",
+                "支註": "chi chú",
+                "註明": "chú minh",
+                "註冊": "chú sách",
+                "腳註": "cước chú",
+                "記註": "kí chú",
+                "輯註": "tập chú",
+                "集註": "tập chú",
+                "小註": "tiểu chú"
+            }
+        }
+    }
+}

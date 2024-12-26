@@ -1,0 +1,78 @@
+{
+    "character": "识",
+    "details": {
+        "Âm Hán Việt": [
+            "chí",
+            "thức"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠只"
+        ],
+        "Nét bút": [
+            "丶フ丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IVRC (戈女口金)"
+        ],
+        "Unicode": [
+            "U+8BC6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shí ㄕˊ",
+            "shì ㄕˋ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "thức"
+        ],
+        "Âm Quảng Đông": [
+            "sik1"
+        ]
+    },
+    "meanings": {
+        "chí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 識."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhớ, ghi nhớ, nhớ lấy: 博聞強識 Hiểu biết nhiều và nhớ kĩ; 小子識之 Các con hãy nhớ lấy điều đó;",
+                "Dấu hiệu, kí hiệu;",
+                "Chữ đúc lõm vào chuông (chữ đúc lồi ra gọi là khoản 款). Xem 識 [shì]."
+            ]
+        },
+        "thức": {
+            "Từ điển phổ thông": [
+                "biết",
+                "kiến thức"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 識."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 識"
+            ],
+            "compound_words": {
+                "见识": "kiến thức",
+                "认识": "nhận thức",
+                "尝识": "thường thức",
+                "知识": "tri thức",
+                "意识": "ý thức"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "character": "咀",
+    "details": {
+        "Âm Hán Việt": [
+            "chuỷ",
+            "trớ",
+            "tư",
+            "tứ",
+            "tữ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口且"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "RBM (口月一)"
+        ],
+        "Unicode": [
+            "U+5480"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jǔ ㄐㄩˇ",
+            "zǔ ㄗㄨˇ",
+            "zuǐ ㄗㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "chớ",
+            "nhả",
+            "thở",
+            "trớ",
+            "vả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.む (ka.mu)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi2"
+        ]
+    },
+    "meanings": {
+        "chuỷ": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 嘴 [zuê]. Xem 咀 [jư]."
+            ]
+        },
+        "trớ": {
+            "Từ điển phổ thông": [
+                "nhấm, nhai"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhấm, nhai. ◎Như: 'trớ tước' 咀嚼 nhấm nhai. ◇Pháp Hoa Kinh 法華經: 'Hồ lang dã can, trớ tước tiễn đạp' 狐狼野干, 咀嚼踐蹋 (Thí dụ phẩm đệ tam 譬喻品第三) Cáo, sói cùng dã can, nhấm nhai và giẫm đạp.",
+                "(Động) Nghiền ngẫm, thưởng thức.",
+                "§ Ghi chú: Còn đọc là 'tứ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① trớ tước 咀嚼 nhấm nuốt."
+            ],
+            "compound_words": {
+                "咀嚼": "trớ tước"
+            }
+        },
+        "tư": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngậm trong miệng mà nếm thử."
+            ],
+            "compound_words": {
+                "咀嚼": "trớ tước"
+            }
+        },
+        "tứ": {
+            "Từ điển trích dẫn": [
+                "(Động) Nhấm, nhai. ◎Như: 'trớ tước' 咀嚼 nhấm nhai. ◇Pháp Hoa Kinh 法華經: 'Hồ lang dã can, trớ tước tiễn đạp' 狐狼野干, 咀嚼踐蹋 (Thí dụ phẩm đệ tam 譬喻品第三) Cáo, sói cùng dã can, nhấm nhai và giẫm đạp.",
+                "(Động) Nghiền ngẫm, thưởng thức.",
+                "§ Ghi chú: Còn đọc là 'tứ'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhai. 【咀嚼】tứ tước [jưjué] Nhấm nháp, nhấm nuốt, nhai kĩ: 咀嚼食物 Nhai kĩ thức ăn;",
+                "Nghiền ngẫm, nghiên cứu kĩ: 咀嚼含義 Nghiên cứu kĩ ý chứa đựng bên trong. Xem 咀 [zuê]."
+            ]
+        },
+        "tữ": {
+            "Từ điển Trần Văn Chánh": [
+                "Nhai. 【咀嚼】tứ tước [jưjué] Nhấm nháp, nhấm nuốt, nhai kĩ: 咀嚼食物 Nhai kĩ thức ăn;",
+                "Nghiền ngẫm, nghiên cứu kĩ: 咀嚼含義 Nghiên cứu kĩ ý chứa đựng bên trong. Xem 咀 [zuê]."
+            ]
+        }
+    }
+}

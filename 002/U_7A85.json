@@ -1,0 +1,97 @@
+{
+    "character": "窅",
+    "details": {
+        "Âm Hán Việt": [
+            "diểu",
+            "liểu",
+            "yểu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱穴目"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "JCBU (十金月山)"
+        ],
+        "Unicode": [
+            "U+7A85"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yǎo ㄧㄠˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "オウ (ō)",
+            "ベン (ben)",
+            "メン (men)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu2"
+        ]
+    },
+    "meanings": {
+        "diểu": {
+            "Từ điển phổ thông": [
+                "mờ mịt, lặng bặt",
+                "sâu thẳm"
+            ],
+            "compound_words": {
+                "窅眇": "yểu diểu"
+            }
+        },
+        "liểu": {
+            "Từ điển phổ thông": [
+                "mờ mịt, lặng bặt",
+                "sâu thẳm"
+            ]
+        },
+        "yểu": {
+            "Từ điển phổ thông": [
+                "mờ mịt, lặng bặt",
+                "sâu thẳm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nhìn ra xa, viễn vọng.",
+                "(Tính) Sâu xa, sâu thẳm.",
+                "(Tính) 'Yểu nhiên' 窅然: (1) Trướng nhiên, bâng khuâng, buồn bã. ◇Trang Tử 莊子: 'Yểu nhiên táng kì thiên hạ yên' 窅然喪其天下焉 (Tiêu dao du 逍遙遊) (Vua Nghiêu) bâng khuâng quên mất thiên hạ của mình. (2) Sâu xa.",
+                "(Phó) U tĩnh, trầm tịch. ◇Lí Bạch 李白: 'Đào hoa lưu thủy yểu nhiên khứ, Biệt hữu thiên địa phi nhân gian' 桃花流水窅然去, 別有天地非人間 (San trung vấn đáp 山中問答) Hoa đào theo dòng nước âm thầm lặng lẽ trôi đi mất, Chẳng còn trời đất với nhân gian."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sâu thẳm.",
+                "Yểu nhiên 窅然 trướng nhiên, bâng khuâng, buồn bã. Trang Tử 莊子: Yểu nhiên táng kì thiên hạ yên 窅然喪其天下焉 (Tiêu dao du 逍遙遊) (vua Nghiêu) bâng khuâng quên mất thiên hạ của mình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sâu xa, bí ẩn;",
+                "Buồn bã, buồn rầu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt sâu vào — Chỉ sự buồn rầu thất vọng — Sâu xa."
+            ],
+            "compound_words": {
+                "窅眇": "yểu diểu",
+                "窅冥": "yểu minh",
+                "窅窅": "yểu yểu"
+            }
+        }
+    }
+}

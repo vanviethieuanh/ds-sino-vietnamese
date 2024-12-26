@@ -1,0 +1,70 @@
+{
+    "character": "髐",
+    "details": {
+        "Âm Hán Việt": [
+            "hao",
+            "hiêu"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "cốt 骨 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰骨堯"
+        ],
+        "Nét bút": [
+            "丨フフ丶フ丨フ一一一丨一一丨一一丨一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "BBGGU (月月土土山)"
+        ],
+        "Unicode": [
+            "U+9AD0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xiāo ㄒㄧㄠ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぶらや (kaburaya)"
+        ],
+        "Âm Quảng Đông": [
+            "haau1"
+        ]
+    },
+    "meanings": {
+        "hao": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xương khô."
+            ]
+        },
+        "hiêu": {
+            "Từ điển phổ thông": [
+                "(xem: hiêu tiễn 髐箭)",
+                "(xem: hiêu nhiên 髐然)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) 【髐箭】 hiêu tiễn [xiaojiàn] Tên bắn có tiếng kêu;",
+                "【髐然】hiêu nhiên [xiaorán] Xương khô phơi trắng xóa."
+            ],
+            "compound_words": {
+                "髐然": "hiêu nhiên",
+                "髐箭": "hiêu tiễn"
+            }
+        }
+    }
+}

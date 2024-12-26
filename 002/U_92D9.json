@@ -1,0 +1,81 @@
+{
+    "character": "鋙",
+    "details": {
+        "Âm Hán Việt": [
+            "ngô",
+            "ngữ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金吾"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "CMMR (金一一口)"
+        ],
+        "Unicode": [
+            "U+92D9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wú ㄨˊ",
+            "yǔ ㄩˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギョ (gyo)",
+            "ゴ (go)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くいちが.う (kuichiga.u)"
+        ],
+        "Âm Quảng Đông": [
+            "jyu5",
+            "ng4"
+        ]
+    },
+    "meanings": {
+        "ngô": {
+            "Từ điển phổ thông": [
+                "(xem: côn ngô 錕鋙,锟铻)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 錕[kun]."
+            ],
+            "compound_words": {
+                "錕鋙": "côn ngô"
+            }
+        },
+        "ngữ": {
+            "Từ điển phổ thông": [
+                "(xem: trở ngữ 鉏鋙)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) “Trở ngữ” 鉏鋙: xem “trở” 鉏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trở ngữ 鉏鋙 vướng mắc. Hai bên ý kiến không hợp nhau gọi là trở ngữ. Có khi viết là 齟齬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) ① Trái ngược nhau, không hoà hợp, bất hoà: 鉏鋙 Vướng mắc, không hợp nhau."
+            ],
+            "compound_words": {
+                "鉏鋙": "trở ngữ"
+            }
+        }
+    }
+}

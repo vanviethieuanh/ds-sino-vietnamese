@@ -1,0 +1,64 @@
+{
+    "character": "玺",
+    "details": {
+        "Âm Hán Việt": [
+            "tỉ",
+            "tỷ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱尔玉"
+        ],
+        "Nét bút": [
+            "ノフ丨ノ丶一一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NFMGI (弓火一土戈)"
+        ],
+        "Unicode": [
+            "U+73BA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xǐ ㄒㄧˇ"
+        ],
+        "Âm Nôm": [
+            "tỉ"
+        ],
+        "Âm Quảng Đông": [
+            "saai2"
+        ]
+    },
+    "meanings": {
+        "tỉ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 璽."
+            ]
+        },
+        "tỷ": {
+            "Từ điển phổ thông": [
+                "cái ấn của vua",
+                "con dấu chính thức của quốc gia, quốc huy"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 璽"
+            ],
+            "compound_words": {
+                "玉玺": "ngọc tỷ"
+            }
+        }
+    }
+}

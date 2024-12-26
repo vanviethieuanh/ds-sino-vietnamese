@@ -1,0 +1,172 @@
+{
+    "character": "肉",
+    "details": {
+        "Âm Hán Việt": [
+            "nhụ",
+            "nhục",
+            "nậu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhục 肉 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OBO (人月人)"
+        ],
+        "Unicode": [
+            "U+8089"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ròu ㄖㄡˋ",
+            "rù ㄖㄨˋ"
+        ],
+        "Âm Nôm": [
+            "nhục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ニク (niku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しし (shishi)"
+        ],
+        "Âm Hàn": [
+            "육",
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "juk6"
+        ]
+    },
+    "meanings": {
+        "nhụ": {
+            "Từ điển Thiều Chửu": [
+                "Thịt. Là do chất như lòng trắng trứng gà cấu tạo nên, là chất mềm chơn để bao bọc gân xương cho các giống động vật. Nay ta gọi trong họ thân là cốt nhục 骨肉 nghĩa là cùng một ông cha sinh đẻ san sẻ ra vậy.",
+                "Phần xác thịt, như nhục dục 肉慾 cái ham muốn về xác thịt, như rượu chè trai gái, v.v. Cũng viết là 肉欲. Nhục hình 肉刑 hình phạt đến da thịt, như kìm kẹp xẻo đánh, v.v. đều nói về ngoài xác thịt cả. Những kẻ vô học vô tri gọi là hành thi tẩu nhục 行尸走肉 thịt chạy thây đi, nói kẻ chỉ có phần xác mà không có tinh thần vậy.",
+                "Thịt ăn. Các thứ thịt giống vật có thể ăn được đều gọi là nhục. Người giầu sang gọi là nhục thực 肉食. Lấy thế lực mà ăn hiếp người gọi là ngư nhục 魚肉, như ngư nhục hương lí 魚肉鄉里 hà hiếp làng mạc.",
+                "Cùi, cùi các thứ quả.",
+                "Một âm là nhụ. Bắp thịt nở nang, mập mạp.",
+                "Cũng đọc là chữ nậu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Béo tốt, núng nính những thịt — Một âm là Nhục. Xem Nhục."
+            ],
+            "compound_words": {
+                "髀肉復生": "bễ nhục phục sinh",
+                "皮鍋煮肉": "bì oa chử nhục",
+                "筋肉": "cân nhục",
+                "骨肉": "cốt nhục",
+                "骨肉相殘": "cốt nhục tương tàn",
+                "肌肉": "cơ nhục",
+                "血肉": "huyết nhục",
+                "雞頭肉": "kê đầu nhục",
+                "蓮肉": "liên nhục",
+                "魚肉": "ngư nhục",
+                "牙肉": "nha nhục",
+                "肉慾": "nhục dục",
+                "肉刑": "nhục hình",
+                "肉林": "nhục lâm",
+                "肉眼": "nhục nhãn",
+                "肉舖": "nhục phố",
+                "肉體": "nhục thể",
+                "肉痛": "nhục thống",
+                "肉食獸": "nhục thực thú",
+                "燔肉": "phiền nhục",
+                "果肉": "quả nhục",
+                "生肉": "sinh nhục",
+                "精肉": "tinh nhục"
+            }
+        },
+        "nhục": {
+            "Từ điển phổ thông": [
+                "thịt",
+                "cùi quả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thịt. ◎Như: 'cơ nhục' 肌肉 bắp thịt, 'kê nhục' 雞肉 thịt gà, 'trư nhục' 豬肉 thịt heo, 'ngưu nhục' 牛肉 thịt bò.",
+                "(Danh) Thể xác. § Đối lại với 'tinh thần' 精神. ◎Như: 'nhục dục' 肉慾 ham muốn về xác thịt, 'nhục hình' 肉刑 hình phạt trên thân thể, 'hành thi tẩu nhục' 行尸走肉 thịt chạy thây đi (chỉ có phần thân xác mà không có tinh thần).",
+                "(Danh) Cơm, cùi (phần nạc của trái cây). ◎Như: 'quả nhục' 果肉 cơm trái. ◇Thẩm Quát 沈括: 'Mân trung lệ chi, hạch hữu tiểu như đinh hương giả, đa nhục nhi cam' 閩中荔枝, 核有小如丁香者, 多肉而甘 (Mộng khê bút đàm 夢溪筆談) Trái vải xứ Mân (Phúc Kiến), hột có cái nhỏ như đinh hương, nhiều cơm trái mà ngọt.",
+                "(Tính) Nhũn, mềm, không dòn. ◎Như: 'giá tây qua nhương nhi thái nhục' 這西瓜瓤兒太肉 múi dưa hấu này nhũn quá.",
+                "(Phó) Chậm chạp. ◎Như: 'tố sự chân nhục' 做事真肉 làm việc thật là chậm chạp.",
+                "§ Cũng đọc là 'nậu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thịt. Là do chất như lòng trắng trứng gà cấu tạo nên, là chất mềm chơn để bao bọc gân xương cho các giống động vật. Nay ta gọi trong họ thân là cốt nhục 骨肉 nghĩa là cùng một ông cha sinh đẻ san sẻ ra vậy.",
+                "Phần xác thịt, như nhục dục 肉慾 cái ham muốn về xác thịt, như rượu chè trai gái, v.v. Cũng viết là 肉欲. Nhục hình 肉刑 hình phạt đến da thịt, như kìm kẹp xẻo đánh, v.v. đều nói về ngoài xác thịt cả. Những kẻ vô học vô tri gọi là hành thi tẩu nhục 行尸走肉 thịt chạy thây đi, nói kẻ chỉ có phần xác mà không có tinh thần vậy.",
+                "Thịt ăn. Các thứ thịt giống vật có thể ăn được đều gọi là nhục. Người giầu sang gọi là nhục thực 肉食. Lấy thế lực mà ăn hiếp người gọi là ngư nhục 魚肉, như ngư nhục hương lí 魚肉鄉里 hà hiếp làng mạc.",
+                "Cùi, cùi các thứ quả.",
+                "Một âm là nhụ. Bắp thịt nở nang, mập mạp.",
+                "Cũng đọc là chữ nậu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thịt: 豬肉 Thịt heo; 肌肉 Bắp thịt;",
+                "Cơm, cùi, nhục, thịt (phần nạc của trái cây): 茘枝肉厚 Trái vải dày cơm; 桂圓肉 Nhãn nhục;",
+                "Phần xác thịt: 肉慾 Sự ham muốn về xác thịt; 肉刑 Hình phạt về xác thịt;",
+                "Nẫu: 肉瓤西瓜 Dưa hấu nẫu ruột;",
+                "(đph) Chậm chạp: 他作事眞肉 Anh ấy làm việc chậm chạp lắm; 肉 機氣 Tính chậm chạp;",
+                "(văn) Mập mạp, đẫy đà, nở nang;",
+                "(văn) Làm cho trở thành thịt: 生死而肉骨 Làm cho người chết sống lại và làm cho xương trở nên thịt (Tả truyện);",
+                "(văn) Phần ngoài lỗ của đồng tiền hay đồ ngọc có lỗ (phần trong gọi là háo 好)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thịt. Td: Ngưu nhục (thịt bò) — Xác thịt. Thân xác. Td: Nhục dục —Tên một bộ chữ Trung Hoa, tức bộ Nhục, khi viết thành bộ thì viết là 月."
+            ],
+            "compound_words": {
+                "髀肉復生": "bễ nhục phục sinh",
+                "皮鍋煮肉": "bì oa chử nhục",
+                "筋肉": "cân nhục",
+                "骨肉": "cốt nhục",
+                "骨肉相殘": "cốt nhục tương tàn",
+                "肌肉": "cơ nhục",
+                "血肉": "huyết nhục",
+                "雞頭肉": "kê đầu nhục",
+                "蓮肉": "liên nhục",
+                "魚肉": "ngư nhục",
+                "牙肉": "nha nhục",
+                "肉慾": "nhục dục",
+                "肉刑": "nhục hình",
+                "肉林": "nhục lâm",
+                "肉眼": "nhục nhãn",
+                "肉舖": "nhục phố",
+                "肉體": "nhục thể",
+                "肉痛": "nhục thống",
+                "肉食獸": "nhục thực thú",
+                "燔肉": "phiền nhục",
+                "果肉": "quả nhục",
+                "生肉": "sinh nhục",
+                "精肉": "tinh nhục"
+            }
+        },
+        "nậu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Thịt. ◎Như: 'cơ nhục' 肌肉 bắp thịt, 'kê nhục' 雞肉 thịt gà, 'trư nhục' 豬肉 thịt heo, 'ngưu nhục' 牛肉 thịt bò.",
+                "(Danh) Thể xác. § Đối lại với 'tinh thần' 精神. ◎Như: 'nhục dục' 肉慾 ham muốn về xác thịt, 'nhục hình' 肉刑 hình phạt trên thân thể, 'hành thi tẩu nhục' 行尸走肉 thịt chạy thây đi (chỉ có phần thân xác mà không có tinh thần).",
+                "(Danh) Cơm, cùi (phần nạc của trái cây). ◎Như: 'quả nhục' 果肉 cơm trái. ◇Thẩm Quát 沈括: 'Mân trung lệ chi, hạch hữu tiểu như đinh hương giả, đa nhục nhi cam' 閩中荔枝, 核有小如丁香者, 多肉而甘 (Mộng khê bút đàm 夢溪筆談) Trái vải xứ Mân (Phúc Kiến), hột có cái nhỏ như đinh hương, nhiều cơm trái mà ngọt.",
+                "(Tính) Nhũn, mềm, không dòn. ◎Như: 'giá tây qua nhương nhi thái nhục' 這西瓜瓤兒太肉 múi dưa hấu này nhũn quá.",
+                "(Phó) Chậm chạp. ◎Như: 'tố sự chân nhục' 做事真肉 làm việc thật là chậm chạp.",
+                "§ Cũng đọc là 'nậu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thịt. Là do chất như lòng trắng trứng gà cấu tạo nên, là chất mềm chơn để bao bọc gân xương cho các giống động vật. Nay ta gọi trong họ thân là cốt nhục 骨肉 nghĩa là cùng một ông cha sinh đẻ san sẻ ra vậy.",
+                "Phần xác thịt, như nhục dục 肉慾 cái ham muốn về xác thịt, như rượu chè trai gái, v.v. Cũng viết là 肉欲. Nhục hình 肉刑 hình phạt đến da thịt, như kìm kẹp xẻo đánh, v.v. đều nói về ngoài xác thịt cả. Những kẻ vô học vô tri gọi là hành thi tẩu nhục 行尸走肉 thịt chạy thây đi, nói kẻ chỉ có phần xác mà không có tinh thần vậy.",
+                "Thịt ăn. Các thứ thịt giống vật có thể ăn được đều gọi là nhục. Người giầu sang gọi là nhục thực 肉食. Lấy thế lực mà ăn hiếp người gọi là ngư nhục 魚肉, như ngư nhục hương lí 魚肉鄉里 hà hiếp làng mạc.",
+                "Cùi, cùi các thứ quả.",
+                "Một âm là nhụ. Bắp thịt nở nang, mập mạp.",
+                "Cũng đọc là chữ nậu."
+            ]
+        }
+    }
+}

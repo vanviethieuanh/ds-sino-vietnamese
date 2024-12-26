@@ -1,0 +1,105 @@
+{
+    "character": "拳",
+    "details": {
+        "Âm Hán Việt": [
+            "quyền"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱龹手"
+        ],
+        "Nét bút": [
+            "丶ノ一一ノ丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "FQQ (火手手)"
+        ],
+        "Unicode": [
+            "U+62F3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "quán ㄑㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "quèn",
+            "quyền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こぶし (kobushi)"
+        ],
+        "Âm Hàn": [
+            "권"
+        ],
+        "Âm Quảng Đông": [
+            "kyun4"
+        ]
+    },
+    "meanings": {
+        "quyền": {
+            "Từ điển phổ thông": [
+                "nắm tay, quả đấm",
+                "quyền thuật"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nắm tay. ◎Như: 'huy quyền đả nhân' 揮拳打人 vung nắm tay đánh người. ◇Lão Xá 老舍: 'Tha đắc ý đích thân khởi tiểu quyền đầu lai' 他得意的伸起小拳頭來 (Tứ thế đồng đường 四世同堂, Tam 三) Nó thích chí giơ nắm tay nhỏ lên.",
+                "(Danh) Một loại võ thuật đánh bằng tay không. ◎Như: 'quyền cước' 拳脚 môn võ dùng tay và chân, 'đả quyền' 打拳 đánh quyền, 'thái cực quyền' 太極拳.",
+                "(Danh) Lượng từ: quả (đấm). ◎Như: 'tha liên huy tam quyền' 他連揮三拳 nó liên tiếp tung ra ba quả đấm.",
+                "(Danh) Họ 'Quyền' 拳."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nắm tay lại.",
+                "Nhỏ bé, như quyền thạch 拳石 hòn đá con.",
+                "Quyền quyền 拳拳 chăm chăm giữ lấy (khư khư).",
+                "Nghề cuồn, một môn võ đánh bằng chân tay không."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quả đấm, nắm đấm, nắm tay: 揮拳 Vung nắm tay;",
+                "Quyền (môn đánh quyền): 太極拳 Thái cực quyền; 打拳 Đánh quyền;",
+                "(văn) Nhỏ bé: 拳石 Hòn đá nhỏ;",
+                "【拳拳】quyền quyền [quánquán] (văn) Chăm chăm giữ lấy, khư khư. Xem 惓惓 [quán quán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái tay. Xem Quyền cước — Co lại — Nắm tay — Đánh bằng tay, bằng nắm đấm ( đấm ) — Môn võ tay không. Tức Quyền thuật."
+            ],
+            "compound_words": {
+                "握拳": "ác quyền",
+                "八卦拳": "bát quái quyền",
+                "打拳": "đả quyền",
+                "划拳": "hoa quyền",
+                "搳拳": "hoa quyền",
+                "空拳": "không quyền",
+                "拳棒": "quyền bổng",
+                "拳脚": "quyền cước",
+                "拳勇": "quyền dũng",
+                "拳头": "quyền đầu",
+                "拳頭": "quyền đầu",
+                "拳击": "quyền kích",
+                "拳擊": "quyền kích",
+                "拳匪": "quyền phỉ",
+                "拳拳": "quyền quyền",
+                "拳參": "quyền sâm",
+                "拳師": "quyền sư",
+                "拳術": "quyền thuật",
+                "太極拳": "thái cực quyền"
+            }
+        }
+    }
+}

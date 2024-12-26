@@ -1,0 +1,83 @@
+{
+    "character": "户",
+    "details": {
+        "Âm Hán Việt": [
+            "hộ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "hộ 戶 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶フ一ノ"
+        ],
+        "Thương Hiệt": [
+            "IS (戈尸)"
+        ],
+        "Unicode": [
+            "U+6237"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hù ㄏㄨˋ"
+        ],
+        "Âm Nôm": [
+            "họ",
+            "hộ",
+            "hụ"
+        ],
+        "Âm Quảng Đông": [
+            "wu6"
+        ]
+    },
+    "meanings": {
+        "hộ": {
+            "Từ điển phổ thông": [
+                "cửa một cánh",
+                "nhà"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 戶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cửa ngõ. Cửa có một cánh gọi là hộ 户, hai cánh gọi là môn 門.",
+                "Dân cư. Một nhà gọi là nhất hộ 一户. Như hộ khẩu 户口 số người trong một nhà. Ðời xưa có đặt ra bộ hộ 部户 để quản lí về việc thuế má đinh điền.",
+                "Ngăn.",
+                "Hang."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cửa — Cái cổng — Nhà ở — Dân cư — Tên một trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "阴户": "âm hộ",
+                "朱户": "chu hộ",
+                "屠户": "đồ hộ",
+                "户部": "hộ bộ",
+                "户主": "hộ chủ",
+                "户头": "hộ đầu",
+                "户口": "hộ khẩu",
+                "户籍": "hộ tịch",
+                "客户": "khách hộ",
+                "獵户": "lạp hộ",
+                "門當户對": "môn đương hộ đối",
+                "门当户对": "môn đương hộ đối",
+                "門户": "môn hộ",
+                "匿户": "nặc hộ",
+                "非对称式数据用户线": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "千户": "thiên hộ",
+                "租户": "tô hộ",
+                "帐户": "trướng hộ"
+            }
+        }
+    }
+}

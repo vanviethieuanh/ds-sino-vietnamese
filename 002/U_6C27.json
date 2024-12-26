@@ -1,0 +1,68 @@
+{
+    "character": "氧",
+    "details": {
+        "Âm Hán Việt": [
+            "dưỡng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khí 气 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿹气羊"
+        ],
+        "Nét bút": [
+            "ノ一一フ丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "ONTQ (人弓廿手)"
+        ],
+        "Unicode": [
+            "U+6C27"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yǎng ㄧㄤˇ"
+        ],
+        "Âm Nôm": [
+            "dưỡng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Quảng Đông": [
+            "joeng5"
+        ]
+    },
+    "meanings": {
+        "dưỡng": {
+            "Từ điển phổ thông": [
+                "dưỡng khí, khí ôxy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Nguyên tố hóa học oxygen, tức dưỡng khí (oxygen, kí hiệu O)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Dưỡng khí, oxy (Oxygenium, kí hiệu O)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ hơi nhờ đó sinh vật sống được, cũng gọi là Dưỡng khí, tức là Oxygen."
+            ],
+            "compound_words": {
+                "氧化": "dưỡng hoá",
+                "氧气": "dưỡng khí",
+                "氧氣": "dưỡng khí"
+            }
+        }
+    }
+}

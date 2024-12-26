@@ -1,0 +1,83 @@
+{
+    "character": "堡",
+    "details": {
+        "Âm Hán Việt": [
+            "bảo"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thổ 土 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱保土"
+        ],
+        "Nét bút": [
+            "ノ丨丨フ一一丨ノ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "ODG (人木土)"
+        ],
+        "Unicode": [
+            "U+5821"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bǎo ㄅㄠˇ",
+            "bǔ ㄅㄨˇ",
+            "pù ㄆㄨˋ"
+        ],
+        "Âm Nôm": [
+            "bảo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)",
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とりで (toride)"
+        ],
+        "Âm Hàn": [
+            "보"
+        ],
+        "Âm Quảng Đông": [
+            "bou2"
+        ]
+    },
+    "meanings": {
+        "bảo": {
+            "Từ điển phổ thông": [
+                "pháo đài, lô cốt, thành trì"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “bảo chướng” 堡障."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bảo chướng 堡障 cái thành nhỏ, bờ luỹ trong làng đắp để phòng giặc cướp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thôn xóm hay thị trấn có xây thành luỹ chung quanh (thường dùng trong địa danh): 吳堡縣 Huyện Ngô Bảo (ở tỉnh Thiểm Tây, Trung Quốc). Xem 堡 [băo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bức tường đất."
+            ],
+            "compound_words": {
+                "暗堡": "ám bảo",
+                "堡障": "bảo chướng",
+                "堡壘": "bảo luỹ",
+                "炮堡": "pháo bảo",
+                "城堡": "thành bảo",
+                "聖彼得堡": "thánh bỉ đắc bảo"
+            }
+        }
+    }
+}

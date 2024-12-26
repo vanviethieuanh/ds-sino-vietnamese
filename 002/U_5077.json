@@ -1,0 +1,90 @@
+{
+    "character": "偷",
+    "details": {
+        "Âm Hán Việt": [
+            "du",
+            "thâu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻俞"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶一丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "OOMN (人人一弓)"
+        ],
+        "Unicode": [
+            "U+5077"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tōu ㄊㄡ"
+        ],
+        "Âm Nôm": [
+            "du",
+            "thâu"
+        ],
+        "Âm Quảng Đông": [
+            "tau1"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển Trần Văn Chánh": [
+                "Ăn trộm, ăn cắp: 偷東西的人 Kẻ cắp;",
+                "(Vụng) trộm, ngầm, lén lút: 偷看 Nhìn trộm; 偷換 Lén đổi; 偷聽 Nghe trộm;",
+                "Tạm bợ, qua loa, cẩu thả.【偷安】thâu an [tou'an] Ăn xổi ở thì, yên ổn qua ngày, sống tạm bợ;",
+                "Tranh thủ thì giờ. 【偷空】thâu không [toukòng] Tranh thủ thời gian."
+            ]
+        },
+        "thâu": {
+            "Từ điển phổ thông": [
+                "thu, thâu tóm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trộm cắp. ◇Lí Thương Ẩn 李商隱: 'Thường Nga ưng hối thâu linh dược' 嫦娥應悔偷靈藥 (Thường Nga 嫦娥) Thường Nga chắc hẳn hối hận đã ăn trộm thuốc thiêng.",
+                "(Động) Rút tỉa, lợi dụng hoàn cảnh lấy ra được một phần (nói về thời gian). ◎Như: 'thâu không' 偷空 lấy cho được thì giờ (hiếm hoi), 'thâu nhàn' 偷閒 lấy được chút rảnh rang (trong lúc bận rộn).",
+                "(Phó) Lén, lẻn, vụng trộm. ◎Như: 'thâu khán' 偷看 dòm trộm, 'thâu thính' 偷聽 nghe lén, 'thâu tập' 偷襲 đánh úp.",
+                "(Tính) Cẩu thả, tạm bợ. ◎Như: 'thâu an' 偷安 yên ổn qua ngày.",
+                "(Tính) Bạc bẽo. ◇Luận Ngữ 論語: 'Cố cựu bất di, tắc dân bất thâu' 故舊不遺, 則民不偷 (Thái Bá 泰伯) Nếu không bỏ người cũ, thì dân không bạc bẽo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trộm cắp, rình lúc người ta không phòng mà thò lấy gọi là thâu. Dòm trộm người ta gọi là thâu khán 偷看 đều là nghĩa ấy cả.",
+                "Cẩu thả, trễ nhác.",
+                "Bạc bẽo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ăn trộm, ăn cắp: 偷東西的人 Kẻ cắp;",
+                "(Vụng) trộm, ngầm, lén lút: 偷看 Nhìn trộm; 偷換 Lén đổi; 偷聽 Nghe trộm;",
+                "Tạm bợ, qua loa, cẩu thả.【偷安】thâu an [tou'an] Ăn xổi ở thì, yên ổn qua ngày, sống tạm bợ;",
+                "Tranh thủ thì giờ. 【偷空】thâu không [toukòng] Tranh thủ thời gian."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cẩu thả — Ăn ở bạc bẽo — Trộm cắp. Lén lút. Ta cũng thường đọc Du."
+            ],
+            "compound_words": {
+                "偷看": "thâu khán",
+                "偷懒": "thâu lãn",
+                "偷懶": "thâu lãn",
+                "偷偷摸摸": "thâu thâu mạc mạc",
+                "偷窃": "thâu thiết",
+                "偷竊": "thâu thiết"
+            }
+        }
+    }
+}

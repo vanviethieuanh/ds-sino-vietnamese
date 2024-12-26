@@ -1,0 +1,97 @@
+{
+    "character": "醉",
+    "details": {
+        "Âm Hán Việt": [
+            "tuý"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "dậu 酉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰酉卒"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一丶一ノ丶ノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "MWYOJ (一田卜人十)"
+        ],
+        "Unicode": [
+            "U+9189"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zuì ㄗㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "tuý",
+            "xuý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よ.う (yo.u)",
+            "よ.い (yo.i)"
+        ],
+        "Âm Hàn": [
+            "취"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi3"
+        ]
+    },
+    "meanings": {
+        "tuý": {
+            "Từ điển phổ thông": [
+                "say rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Uống rượu vừa phải, không trái với lễ. ◇Thi Kinh 詩經: 'Kí túy kí bão, Phúc lộc lai phản' 既醉既飽, 福祿來反 (Chu tụng 周頌, Chấp cạnh 執競) Vua tôi uống đủ ăn no, không trái với lễ, mà được phúc lộc trở lại.",
+                "(Động) Uống rượu quá độ, đầu óc hết còn sáng suốt. ◇Vương Hàn 王翰: 'Túy ngọa sa trường quân mạc tiếu, Cổ lai chinh chiến kỉ nhân hồi' 醉臥沙場君莫笑, 古來征戰幾人回 Say nằm ở sa trường xin bạn đừng cười, Xưa nay chinh chiến mấy người về.",
+                "(Động) Say đắm, mê luyến. ◎Như: 'đào túy' 陶醉 mê đắm, 'trầm túy' 沉醉 mê mệt.",
+                "(Tính) Say rượu. ◎Như: 'lạn túy như nê' 爛醉如泥 say mèm, say nhừ tử, 'túy hán' 醉漢 anh chàng say rượu. ◇Liêu trai chí dị 聊齋志異: 'Tự thìn dĩ hất tứ lậu, kế các tận bách hồ, Tăng lạn túy như nê, trầm thụy tọa gian' 自辰以迄四漏, 計各盡百壺, 曾爛醉如泥, 沉睡座間 (Hoàng Anh 黃英) Từ giờ Thìn tới hết canh tư, tính ra mỗi người uống cạn một trăm hồ, Tăng sinh say rượu mềm người, ngủ lịm ngay chỗ ngồi.",
+                "(Tính) Mù mịt, mê muội, hồ đồ. ◇Khuất Nguyên 屈原: 'Cử thế giai trọc ngã độc thanh, chúng nhân giai túy ngã độc tỉnh' 舉世皆濁我獨清, 眾人皆醉我獨醒 (Sở từ 楚辭) Cả đời đều đục mình ta trong, mọi người mê muội cả, mình ta tỉnh táo.",
+                "(Tính) Ngâm rượu, tẩm rượu. ◎Như: 'túy lê' 醉棃 lê ngâm rượu, 'túy kê' 醉雞 gà ngâm rượu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Say rượu. Vương Hàn 王翰: Tuý ngoạ sa trường quân mạc tiếu, Cổ lai chinh chiến kỉ nhân hồi 醉臥沙場君莫笑，古來征戰幾人回 Say nằm ở sa trường xin bạn đừng cười, xưa nay chinh chiến mấy người về.",
+                "Say đắm. Như tuý tâm Âu hoá 醉心歐化 lòng say mê phong hoá châu Âu.",
+                "Ngâm rượu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Say rượu — Mê đắm, say mê."
+            ],
+            "compound_words": {
+                "狂醉": "cuồng tuý",
+                "陶醉": "đào tuý",
+                "隯醉": "đào tuý",
+                "魔醉": "ma tuý",
+                "買醉": "mãi tuý",
+                "泥醉": "nê tuý",
+                "轟醉": "oanh tuý",
+                "心醉": "tâm tuý",
+                "託醉": "thác tuý",
+                "沈醉": "trầm tuý",
+                "沾醉": "triêm tuý",
+                "醉鄉": "tuý hương",
+                "醉吟": "tuý ngâm",
+                "醉卧": "tuý ngoạ",
+                "醉翁": "tuý ông",
+                "醉心": "tuý tâm",
+                "醉酒": "tuý tửu"
+            }
+        }
+    }
+}

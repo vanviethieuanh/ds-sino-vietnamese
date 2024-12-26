@@ -1,0 +1,86 @@
+{
+    "character": "絃",
+    "details": {
+        "Âm Hán Việt": [
+            "huyền"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mịch 糸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹玄"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丶一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "VFYVI (女火卜女戈)"
+        ],
+        "Unicode": [
+            "U+7D43"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xián ㄒㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "huyền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いと (ito)"
+        ],
+        "Âm Hàn": [
+            "현"
+        ],
+        "Âm Quảng Đông": [
+            "jin4"
+        ]
+    },
+    "meanings": {
+        "huyền": {
+            "Từ điển phổ thông": [
+                "dây đàn, dây cung",
+                "trăng non"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dây đàn. § Cũng như 'huyền' 弦. ◇Lí Thương Ẩn 李商隱: 'Cẩm sắt vô đoan ngũ thập huyền, Nhất huyền nhất trụ tứ hoa niên' 錦瑟無端五十絃, 一絃一柱思華年 (Vô đề 無題) Đàn gấm không biết vì đâu có năm chục dây, Mỗi dây mỗi trục khiến ta nhớ lại tuổi hoa niên.",
+                "(Danh) Nhạc khí có dây. § Cũng như 'huyền' 弦. ◎Như: 'quản huyền' 管絃 sáo và đàn. ◇Nguyễn Du 阮攸: 'Quản huyền nhất biến tạp tân thanh' 管絃一變雜新聲 (Thăng Long 昇龍) Đàn sáo một loạt thay đổi, chen vào những thanh điệu mới.",
+                "(Danh) Âm điệu, âm luật. ◇Lí Kì 李頎: 'Tiên phất thương huyền hậu giác vũ' 先拂商絃後角羽 (Thính Đổng Đại đàn hồ già thanh 聽董大彈胡笳聲) Trước gảy điệu \"thương\" sau là tiếng \"giốc\" tiếng \"vũ\".",
+                "(Danh) Ví dụ với người vợ. § Đời xưa ví vợ chồng như đàn sắt đàn cầm, cho nên vợ chết gọi là 'đoạn huyền' 斷絃, lại lấy vợ nữa gọi là 'tục huyền' 續絃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dây đàn.",
+                "Xe tơ sống xát keo vào để làm dây đàn gọi là huyền.",
+                "Ðời xưa ví vợ chồng như đàn sắt đàn cầm, cho nên vợ chết gọi là đoạn huyền 斷絃, lại lấy vợ nữa gọi là tục huyền 續絃.",
+                "Có khi viết là huyền 弦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 弦 (bộ 弓)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dây đàn làm bằng tơ — Còn chỉ cuộc sống vợ chồng. Td: Tục huyền 續絃 ( chỉ người đàn ông goá vợ, lấy vợ khác )."
+            ],
+            "compound_words": {
+                "斷絃": "đoạn huyền",
+                "二絃": "nhị huyền",
+                "管絃": "quản huyền",
+                "三絃": "tam huyền",
+                "續絃": "tục huyền"
+            }
+        }
+    }
+}

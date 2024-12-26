@@ -1,0 +1,89 @@
+{
+    "character": "窯",
+    "details": {
+        "Âm Hán Việt": [
+            "dao",
+            "diêu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱穴羔"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶丶ノ一一丨一丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "JCTGF (十金廿土火)"
+        ],
+        "Unicode": [
+            "U+7AAF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かま (kama)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lò nung gạch. Như hai chữ Dao 窕, 窑. Cũng đọc Diêu."
+            ],
+            "compound_words": {
+                "窯子": "dao tử"
+            }
+        },
+        "diêu": {
+            "Từ điển phổ thông": [
+                "cái lò nung",
+                "đồ sành sứ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lò gốm, lò nung. ◎Như: 'chuyên diêu' 磚窯 lò gạch, 'ngõa diêu' 瓦窯 lò sành, lò ngói.",
+                "(Danh) Đồ sành, đồ sứ. ◎Như: 'ngự diêu' 御窯 đồ gốm dành cho vua dùng.",
+                "(Danh) Hang để khai thác than đá. ◎Như: 'môi diêu' 煤窯 hang mỏ than đá.",
+                "(Danh) Tục gọi kĩ viện 妓院 (nhà chứa) là 'diêu' 窯. ◎Như: 'cuống diêu tử' 逛窯子 kẻ đàng điếm chơi bời."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái lò, cái lò nung vôi nung ngói, nung các đồ sứ, vì thế nên các đồ sành đồ sứ gọi là diêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lò nung (vôi, ngói...): 石灰窯 Lò vôi;",
+                "Lò (khai thác than đá bằng cách thô sơ);",
+                "Nhà (hang);",
+                "(văn) Đồ sành sứ;",
+                "【窯姐兒】diêu thư nhi [yáojiâr] (đph) Gái đĩ, gái điếm."
+            ],
+            "compound_words": {
+                "窯姐兒": "diêu thư nhi"
+            }
+        }
+    }
+}

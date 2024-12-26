@@ -1,0 +1,94 @@
+{
+    "character": "廕",
+    "details": {
+        "Âm Hán Việt": [
+            "âm",
+            "ấm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸广陰"
+        ],
+        "Nét bút": [
+            "丶一ノフ丨ノ丶丶フ一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "INLI (戈弓中戈)"
+        ],
+        "Unicode": [
+            "U+5ED5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yīn ㄧㄣ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ấm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おお.う (ō.u)",
+            "かば.う (kaba.u)",
+            "かげ (kage)"
+        ],
+        "Âm Hàn": [
+            "음"
+        ],
+        "Âm Quảng Đông": [
+            "jam3"
+        ]
+    },
+    "meanings": {
+        "âm": {
+            "Từ điển phổ thông": [
+                "bóng râm",
+                "che chở"
+            ]
+        },
+        "ấm": {
+            "Từ điển phổ thông": [
+                "bóng râm",
+                "che chở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ân trạch của cha ông để lại cho con cháu. ◎Như: 'ấm sinh' 廕生 là nhân chức quan của ông cha mà con cháu được học ở Quốc tử giám 國子監, rồi ra làm quan.",
+                "(Động) Che chở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Che chở.",
+                "Ðược nhờ ơn người trước để lại cho gọi là ấm, như ấm sinh 廕生, nghĩa là nhân chức quan của ông cha mà con cháu được làm học trò ở Quốc tử giám 國子監 rồi ra làm quan."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Che chở;",
+                "Được nhờ ơn người trước để lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Che chở — Được hưởng đặc ân của triều đình, tức được hưởng sự che chở của ông cha."
+            ],
+            "compound_words": {
+                "廕監": "ấm giám",
+                "廕生": "ấm sinh",
+                "恩廕": "ân ấm",
+                "福廕": "phúc ấm",
+                "庇廕": "tý ấm"
+            }
+        }
+    }
+}

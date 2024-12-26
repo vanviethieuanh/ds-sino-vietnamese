@@ -1,0 +1,82 @@
+{
+    "character": "秘",
+    "details": {
+        "Âm Hán Việt": [
+            "bí"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoà 禾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾必"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丶フ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HDPH (竹木心竹)"
+        ],
+        "Unicode": [
+            "U+79D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ",
+            "bié ㄅㄧㄝˊ",
+            "mì ㄇㄧˋ"
+        ],
+        "Âm Nôm": [
+            "bí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.める (hi.meru)",
+            "ひそ.か (hiso.ka)",
+            "かく.す (kaku.su)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei3",
+            "bit1"
+        ]
+    },
+    "meanings": {
+        "bí": {
+            "Từ điển phổ thông": [
+                "bí mật",
+                "thần"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Tục dùng như chữ “bí” 祕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ bí 祕."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Bí 祕."
+            ],
+            "compound_words": {
+                "隩秘": "áo bí",
+                "隱秘": "ẩn bí",
+                "詭秘": "quỷ bí",
+                "神秘": "thần bí",
+                "便秘": "tiện bí"
+            }
+        }
+    }
+}

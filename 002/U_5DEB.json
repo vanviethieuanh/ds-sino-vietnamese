@@ -1,0 +1,79 @@
+{
+    "character": "巫",
+    "details": {
+        "Âm Hán Việt": [
+            "vu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "công 工 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "MOO (一人人)"
+        ],
+        "Unicode": [
+            "U+5DEB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wū ㄨ",
+            "wú ㄨˊ"
+        ],
+        "Âm Nôm": [
+            "vu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みこ (miko)",
+            "かんなぎ (kan nagi)"
+        ],
+        "Âm Hàn": [
+            "무"
+        ],
+        "Âm Quảng Đông": [
+            "mou4"
+        ]
+    },
+    "meanings": {
+        "vu": {
+            "Từ điển phổ thông": [
+                "đồng cốt, cầu cúng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồng cốt, kẻ cúng quỷ thần cầu phúc cho người. ◎Như: 'nữ vu' 女巫 bà đồng cốt.",
+                "(Danh) Họ 'Vu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðồng cốt, kẻ cầu cúng cho người gọi là vu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bà đồng, bà bóng, ông đồng, đồng cốt, đồng bóng, phù thuỷ, thầy pháp;",
+                "[Wu] (Họ) Vu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bà đồng. Bà bóng."
+            ],
+            "compound_words": {
+                "女巫": "nữ vu",
+                "巫婆": "vu bà",
+                "巫山": "vu sơn",
+                "巫術": "vu thuật"
+            }
+        }
+    }
+}

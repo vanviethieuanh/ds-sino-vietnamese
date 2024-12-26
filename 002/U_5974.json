@@ -1,0 +1,95 @@
+{
+    "character": "奴",
+    "details": {
+        "Âm Hán Việt": [
+            "nô"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nữ 女 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰女又"
+        ],
+        "Nét bút": [
+            "フノ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "VE (女水)"
+        ],
+        "Unicode": [
+            "U+5974"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nú ㄋㄨˊ"
+        ],
+        "Âm Nôm": [
+            "no",
+            "nô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ド (do)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やつ (yatsu)",
+            "やっこ (ya'ko)"
+        ],
+        "Âm Hàn": [
+            "노"
+        ],
+        "Âm Quảng Đông": [
+            "nou4"
+        ]
+    },
+    "meanings": {
+        "nô": {
+            "Từ điển phổ thông": [
+                "đày tớ, đứa ở"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thời xưa, kẻ phạm tội bị đưa vào nhà quan làm tạp dịch gọi là 'nô'. Sau chỉ người đầy tớ. ◎Như: 'nô lệ' 奴隸 kẻ hầu hạ, làm tạp dịch, 'nô tì' 奴婢 đứa ở gái.",
+                "(Danh) Khiêm từ dùng để tự xưng. ◎Như: 'nô gia' 奴家 tiếng phụ nữ tự khiêm xưng ngày xưa. ◇Đôn Hoàng biến văn 敦煌變文: 'Viễn chỉ bạch vân hô thả trụ, Thính nô nhất khúc biệt hương quan' 遠指白雲呼且住, 聽奴一曲別鄉關 (Vương Chiêu Quân 王昭君) Xa trỏ mây trắng kêu xin ngừng lại, Hãy nghe tôi ca một bài từ biệt quê hương.",
+                "(Danh) Tiếng gọi khinh bỉ, miệt thị người khác. ◎Như: 'mại quốc nô' 賣國奴 quân bán nước.",
+                "(Danh) Họ 'Nô'.",
+                "(Động) Sai khiến, sai bảo. ◇Hàn Dũ 韓愈: 'Nhập giả chủ chi, Xuất giả nô chi' 入者主之, 出者奴之 (Nguyên đạo 原道) Vào thì chủ trì, Ra thì sai khiến."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðứa ở. Luật ngày xưa người nào có tội thì bắt con gái người ấy vào hầu hạ nhà quan gọi là nô tì 奴婢, về sau kẻ nào nghèo khó bán mình cho người, mà nương theo về họ người ta cũng gọi là nô.",
+                "Tiếng nói nhún mình của con gái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Người nô lệ, đứa ở;",
+                "Nô dịch;",
+                "Từ khiêm xưng của đàn bà, con gái: 楊太紀垂簾與群臣語，猶自稱奴 Dương Thái phi rủ rèm nói chuyện với quần thần, vẫn tự xưng là nô (Tống sử)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đày tớ — Tiếng tự xưng khiêm nhường của đàn bà thời cổ."
+            ],
+            "compound_words": {
+                "檀奴": "đàn nô",
+                "家奴": "gia nô",
+                "黑奴": "hắc nô",
+                "花奴": "hoa nô",
+                "匈奴": "hung nô",
+                "木奴": "mộc nô",
+                "奴僕": "nô bộc",
+                "奴隶": "nô lệ",
+                "奴隸": "nô lệ",
+                "奴才": "nô tài",
+                "奴婢": "nô tỳ",
+                "農奴": "nông nô"
+            }
+        }
+    }
+}

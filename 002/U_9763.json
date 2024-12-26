@@ -1,0 +1,89 @@
+{
+    "character": "靣",
+    "details": {
+        "Âm Hán Việt": [
+            "diện"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "diện 面 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿳一丿回"
+        ],
+        "Nét bút": [
+            "一ノ丨フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "MWR (一田口)"
+        ],
+        "Unicode": [
+            "U+9763"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "miàn ㄇㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "diện",
+            "miến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メン (men)",
+            "ベン (ben)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おも (omo)",
+            "おもて (omote)",
+            "つら (tsura)"
+        ]
+    },
+    "meanings": {
+        "diện": {
+            "Từ điển phổ thông": [
+                "mặt",
+                "bề mặt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Tục dùng như chữ “diện” 面. ◇Trần Nhân Tông 陳仁宗: “Cá tam đông bạch chi tiền diện” 个三冬白枝前靣 (Tảo mai 早梅) Ba tháng đông nhú trắng ở trước mặt cành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ diện 面."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một cách viết của chữ Diện 面."
+            ],
+            "compound_words": {
+                "正靣": "chính diện",
+                "共同闸道介靣": "cộng đồng áp đạo giới diện",
+                "局靣": "cục diện",
+                "靣积": "diện tích",
+                "地靣": "địa diện",
+                "对靣": "đối diện",
+                "当靣": "đương diện",
+                "江靣": "giang diện",
+                "介靣": "giới diện",
+                "后靣": "hậu diện",
+                "外靣": "ngoại diện",
+                "晤靣": "ngộ diện",
+                "人靣子": "nhân diện tử",
+                "一靣": "nhất diện",
+                "方靣": "phương diện",
+                "书靣": "thư diện",
+                "前靣": "tiền diện",
+                "全靣": "toàn diện",
+                "桌靣": "trác diện"
+            }
+        }
+    }
+}

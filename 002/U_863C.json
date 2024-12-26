@@ -1,0 +1,75 @@
+{
+    "character": "蘼",
+    "details": {
+        "Âm Hán Việt": [
+            "mi",
+            "my"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "thảo 艸 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹靡"
+        ],
+        "Nét bút": [
+            "一丨丨丶一ノ一丨ノ丶一丨ノ丶丨一一一丨一一一"
+        ],
+        "Thương Hiệt": [
+            "TIDY (廿戈木卜)"
+        ],
+        "Unicode": [
+            "U+863C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mí ㄇㄧˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)",
+            "ミ (mi)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "mei4"
+        ]
+    },
+    "meanings": {
+        "mi": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Mi vu' 蘼蕪 một thứ cỏ có hoa trắng và thơm. § Còn có tên là 'kì chỉ' 蘄茝, 'giang li' 江蘺.",
+                "(Danh) § Xem 'đồ mi' 荼蘼."
+            ],
+            "compound_words": {
+                "荼蘼": "đồ mi"
+            }
+        },
+        "my": {
+            "Từ điển phổ thông": [
+                "(xem: my vu 蘼蕪,蘼芜)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mi vu 蘼蕪 một thứ cỏ có hoa thơm. Một tên là kì chỉ 蘄茝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【蘼蕪】mi vu [míwú] (dược) Cây xuyên khung."
+            ],
+            "compound_words": {
+                "蘼芜": "my vu",
+                "蘼蕪": "my vu"
+            }
+        }
+    }
+}

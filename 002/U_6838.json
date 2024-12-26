@@ -1,0 +1,117 @@
+{
+    "character": "核",
+    "details": {
+        "Âm Hán Việt": [
+            "hạch",
+            "hạt",
+            "hồ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木亥"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶一フノノ丶"
+        ],
+        "Thương Hiệt": [
+            "DYVO (木卜女人)"
+        ],
+        "Unicode": [
+            "U+6838"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hé ㄏㄜˊ",
+            "hú ㄏㄨˊ"
+        ],
+        "Âm Nôm": [
+            "cây",
+            "cơi",
+            "hạch",
+            "hột"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)"
+        ],
+        "Âm Hàn": [
+            "핵"
+        ],
+        "Âm Quảng Đông": [
+            "hat6",
+            "wat6"
+        ]
+    },
+    "meanings": {
+        "hạch": {
+            "Từ điển phổ thông": [
+                "hạt, hột, nhân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hạt, hột quả. ◎Như: 'đào hạch' 桃核 hạt đào.",
+                "(Danh) Bộ phận trong vật thể giống như cái hạt. ◎Như: 'tế bào hạch' 細胞核 nhân tế bào, 'nguyên tử hạch' 原子核 hạt nhân nguyên tử.",
+                "(Danh) Chỉ bộ phận trung tâm của sự vật. ◇Vương Sung 王充: 'Văn lại bất học, thế chi giáo vô hạch dã' 文吏不學, 世之教無核也 (Luận hành 論衡, Lượng tri 量知) Cách chức quan văn (mà) không có học (thì) thế giáo (như) không có cốt lõi vậy.",
+                "(Danh) Tên gọi tắt của 'nguyên tử hạch' 原子核. ◎Như: 'hạch năng' 核能 nguyên tử năng.",
+                "(Động) Đối chiếu, kiểm tra, khảo xét. ◎Như: 'khảo hạch' 考核 sát hạch, 'hạch toán' 核算 xem xét tính toán.",
+                "(Tính) Đúng, chính xác, chân thực. ◇Hán Thư 漢書: 'Tán viết: Kì văn trực, kì sự hạch' 贊曰: 其文直, 其事核 (Tư Mã Thiên truyện 司馬遷傳) Khen rằng: Văn chương của ông thì ngay thẳng, sự việc ông (mô tả) thì chân thực."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hạt quả.",
+                "Khắc hạch 尅核 xét nghiệt.",
+                "Tổng hạch 總核 tính gộp, cùng nghĩa với chữ hạch 覈."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hột, hạt: 果子裡有核 Quả cây có hạt;",
+                "Hạch nhân, hạt nhân, nhân: 原子核 Hạt nhân nguyên tử; 細胞核 Nhân tế bào;",
+                "(văn) Hoa quả có hạt như đào, mận, hạnh, mơ;",
+                "Hạch, xét, kiểm tra, đối chiếu, khảo sát: 考核 Khảo hạch, sát hạch. Xem 核 [hú];",
+                "(văn) Chân thực: 其文直，其事核 Văn chương của ông ngay thẳng, nội dung chân thực (Hán thư)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hột trong trái cây — Xem xét, tìm biết. Chẳng hạn Khảo hạch — Hột tròn cứng, nổi trong thân thể, làm đau nhức. Ta cũng gọi là Cái hạch. Chẳng hạn Hạch tử ôn ( bệnh dịch hạch )."
+            ],
+            "compound_words": {
+                "種核": "chủng hạch",
+                "核准": "hạch chuẩn",
+                "核弹": "hạch đạn",
+                "核彈": "hạch đạn",
+                "核电": "hạch điện",
+                "核電": "hạch điện",
+                "核能": "hạch năng",
+                "核果": "hạch quả",
+                "核心": "hạch tâm",
+                "核查": "hạch tra",
+                "核子": "hạch tử",
+                "核威": "hạch uy",
+                "核武器": "hạch vũ khí",
+                "結核": "kết hạch",
+                "考核": "khảo hạch",
+                "覆核": "phúc hạch",
+                "察核": "sát hạch"
+            }
+        },
+        "hạt": {
+            "Từ điển phổ thông": [
+                "hạt, hột, nhân"
+            ]
+        },
+        "hồ": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 核 [hé] nghĩa ,",
+                ". Xem 核 [hé]."
+            ]
+        }
+    }
+}

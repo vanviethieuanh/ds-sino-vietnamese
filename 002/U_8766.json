@@ -1,0 +1,81 @@
+{
+    "character": "蝦",
+    "details": {
+        "Âm Hán Việt": [
+            "hà"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trùng 虫 (+9 nét)"
+        ],
+        "Hình thái": [
+            "⿰虫叚"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶フ一丨一一フ一フ丶"
+        ],
+        "Thương Hiệt": [
+            "LIRYE (中戈口卜水)"
+        ],
+        "Unicode": [
+            "U+8766"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "há ㄏㄚˊ",
+            "jiǎ ㄐㄧㄚˇ",
+            "xiā ㄒㄧㄚ",
+            "xiá ㄒㄧㄚˊ"
+        ],
+        "Âm Nôm": [
+            "hà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ゲ (ge)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えび (ebi)"
+        ],
+        "Âm Hàn": [
+            "하"
+        ],
+        "Âm Quảng Đông": [
+            "haa1",
+            "haa4"
+        ]
+    },
+    "meanings": {
+        "hà": {
+            "Từ điển phổ thông": [
+                "con tôm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con tôm. § Nguyên là chữ 鰕. Tục gọi là 'hà tử' 蝦子.",
+                "(Danh) § Xem 'hà mô' 蝦蟆."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con tôm. Nguyên là chữ 鰕.",
+                "Hà mô 蝦蟆. Xem chữ mô 蟆, oa 蛙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tôm, tôm tép: 對蝦 Tôm he; 龍蝦 Tôm hùm. Xem 蝦 [há]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con tôm."
+            ],
+            "compound_words": {
+                "蝦餃": "hà giảo",
+                "蝦蟆": "hà mô",
+                "龍蝦": "long hà"
+            }
+        }
+    }
+}

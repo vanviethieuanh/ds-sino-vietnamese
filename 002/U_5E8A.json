@@ -1,0 +1,103 @@
+{
+    "character": "床",
+    "details": {
+        "Âm Hán Việt": [
+            "sàng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸广木"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ID (戈木)"
+        ],
+        "Unicode": [
+            "U+5E8A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuáng ㄔㄨㄤˊ"
+        ],
+        "Âm Nôm": [
+            "giàn",
+            "giàng",
+            "giường",
+            "rương",
+            "sàng",
+            "sường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とこ (toko)",
+            "ゆか (yuka)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "cong4"
+        ]
+    },
+    "meanings": {
+        "sàng": {
+            "Từ điển phổ thông": [
+                "cái giường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái giường. ◇Cao Bá Quát 高伯适: 'Ki nhân bồng phát tọa đoạn sàng' 羈人蓬髮坐斷床 (Đằng tiên ca 藤鞭歌) Người tù tóc rối bù ngồi trên giường gãy.",
+                "(Danh) Cái giá (để gác, đặt đồ vật). ◎Như: 'cầm sàng' 琴床 giá đàn, 'mặc sàng' 墨床 giá mực.",
+                "(Danh) Cái gì trên mặt đất hình như cái giường, gọi là 'sàng'. ◎Như: 'hà sàng' 河床, 'miêu sàng' 苗床, 'hoa sàng' 花床.",
+                "(Danh) Bàn, sàn, sạp. ◎Như: 'thái sàn' 菜床 sạp rau, 'bào sàng' 鉋床 bàn máy bào.",
+                "(Danh) Cái sàn bắc trên giếng để đỡ cái con quay kéo nước.",
+                "(Danh) Lượng từ: cái, chiếc, tấm (dùng cho mền, chăn, thảm). ◎Như: 'nhất sàng miên bị' 一床棉被 một cái chăn bông.",
+                "Cũng viết là 'sàng' 牀."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ sàng 牀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giường: 病牀 Giường bệnh; 鋼絲牀 Giường lò so; 牀前看月光，疑是地上霜 Bên giường vừa lọt ánh trăng, trông ra mặt đất ngỡ rằng hơi sương (Lí Bạch: Tĩnh dạ tư);",
+                "Giá, sàn, bàn, máy: 琴牀 Cái giá đàn; 產牀 Bàn đẻ, giường đỡ đẻ; 車牀 Máy tiện;",
+                "Lợi, nướu: 牙牀 Lợi (nướu) răng;",
+                "(loại) Chiếc, cái, bộ...: 兩牀被 Hai chiếc chăn bông; 一牀鋪蓋 Một bộ đồ giường (chăn, đệm, khăn trải giường)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Sàng 牀."
+            ],
+            "compound_words": {
+                "半床": "bán sàng",
+                "藁床": "cảo sàng",
+                "疊床架屋": "điệp sàng giá ốc",
+                "吊床": "điếu sàng",
+                "弔床": "điếu sàng",
+                "同床各夢": "đồng sàng các mộng",
+                "同床異夢": "đồng sàng dị mộng",
+                "匟床": "kháng sàng",
+                "床單": "sàng đan",
+                "床墊": "sàng điếm",
+                "床鋪": "sàng phố",
+                "床铺": "sàng phố",
+                "床侧": "sàng trắc",
+                "床側": "sàng trắc"
+            }
+        }
+    }
+}

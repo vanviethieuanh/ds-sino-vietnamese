@@ -1,0 +1,86 @@
+{
+    "character": "淘",
+    "details": {
+        "Âm Hán Việt": [
+            "đào"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡匋"
+        ],
+        "Nét bút": [
+            "丶丶一ノフノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "EPOU (水心人山)"
+        ],
+        "Unicode": [
+            "U+6DD8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "táo ㄊㄠˊ"
+        ],
+        "Âm Nôm": [
+            "đào",
+            "rào"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よな.げる (yona.geru)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "tou4"
+        ]
+    },
+    "meanings": {
+        "đào": {
+            "Từ điển phổ thông": [
+                "vo, đãi (gạo)",
+                "giặt bằng cái rây (sàng)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vo. ◎Như: 'đào mễ' 淘米 vo gạo.",
+                "(Động) Đãi gạn. ◎Như: 'đào thải'  淘汰.",
+                "(Động) Đào, khơi, vét. ◎Như: 'đào tỉnh' 淘井 khơi giếng, đào giếng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vo gạo.",
+                "Ðãi gạn, như đào thải 淘汰 đãi bỏ cái cặn bã đi. Kén chọn kẻ hiền thải bỏ kẻ hư cũng gọi là đào thải.",
+                "Ðào, như đào tỉnh 淘井 khơi giếng, đào giếng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vo, đãi: 淘米 Vo gạo; 淘金 Đãi vàng;",
+                "Khơi, đào, vét: 淘井 Khơi giếng; 淘茅廁 Vét phân chuồng xí;",
+                "Nghịch, tinh nghịch: 這孩子眞淘氣 Thằng bé nghịch quá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vo gạo — Gạn lọc."
+            ],
+            "compound_words": {
+                "淘河": "đào hà",
+                "淘鵝": "đào nga",
+                "淘鹅": "đào nga",
+                "淘汰": "đào thải"
+            }
+        }
+    }
+}

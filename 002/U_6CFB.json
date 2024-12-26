@@ -1,0 +1,67 @@
+{
+    "character": "泻",
+    "details": {
+        "Âm Hán Việt": [
+            "tích",
+            "tả"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡写"
+        ],
+        "Nét bút": [
+            "丶丶一丶フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "EBYM (水月卜一)"
+        ],
+        "Unicode": [
+            "U+6CFB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xì ㄒㄧˋ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "tả"
+        ],
+        "Âm Quảng Đông": [
+            "se3"
+        ]
+    },
+    "meanings": {
+        "tích": {
+            "Từ điển phổ thông": [
+                "đất mặn"
+            ]
+        },
+        "tả": {
+            "Từ điển phổ thông": [
+                "dòng nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 瀉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 瀉"
+            ],
+            "compound_words": {
+                "奔泻": "bôn tả"
+            }
+        }
+    }
+}

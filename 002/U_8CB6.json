@@ -1,0 +1,93 @@
+{
+    "character": "貶",
+    "details": {
+        "Âm Hán Việt": [
+            "biếm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰貝乏"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "BCHIO (月金竹戈人)"
+        ],
+        "Unicode": [
+            "U+8CB6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "biǎn ㄅㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "bâm",
+            "biếm",
+            "mém"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おとし.める (otoshi.meru)",
+            "おと.す (oto.su)"
+        ],
+        "Âm Hàn": [
+            "폄"
+        ],
+        "Âm Quảng Đông": [
+            "bin2"
+        ]
+    },
+    "meanings": {
+        "biếm": {
+            "Từ điển phổ thông": [
+                "biếm xuống, giảm xuống",
+                "giáng chức",
+                "chê bai"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giảm bớt, sụt xuống, đè nén. ◎Như: 'biếm trị' 貶値 sụt giá.",
+                "(Động) Giáng chức. ◎Như: 'biếm truất' 貶黜 cách chức.",
+                "(Động) Chê, chê bai. ◎Như: 'bao biếm' 褒貶 khen chê.",
+                "(Động) Giễu cợt, mỉa mai.",
+                "(Danh) Lời chỉ trích, phê bình. ◇Phạm Nịnh 范甯: 'Phiến ngôn chi biếm, nhục quá thị triều chi thát' 片言之貶, 辱過市朝之撻 (Xuân thu Cốc Lương truyện tự 椿秋穀梁傳序) Một lời chê nhỏ, còn nhục hơn bị quất roi giữa chợ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Biếm xuống, giảm bớt, đè nén xuống, trả dìm giá xuống. Quan bị giáng chức gọi là biếm.",
+                "Chê, như bao biếm 褒貶 khen chê."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chê: 褒貶 Khen chê;",
+                "Giảm xuống, sụt xuống: 貶値 Sụt giá, mất giá; 貶低 Hạ thấp;",
+                "(văn) Biếm xuống, giáng xuống (chức quan)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chê bai, chỉ trích điều sai lầm — Rơi xuống — Giáng xuống."
+            ],
+            "compound_words": {
+                "褒貶": "bao biếm",
+                "貶低": "biếm đê",
+                "貶義": "biếm nghĩa",
+                "貶值": "biếm trị",
+                "貶黜": "biếm truất",
+                "貶詞": "biếm từ",
+                "針貶": "châm biếm"
+            }
+        }
+    }
+}

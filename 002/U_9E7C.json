@@ -1,0 +1,102 @@
+{
+    "character": "鹼",
+    "details": {
+        "Âm Hán Việt": [
+            "dảm",
+            "giảm",
+            "kiềm",
+            "kiểm",
+            "thiêm"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "lỗ 鹵 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰鹵僉"
+        ],
+        "Nét bút": [
+            "丨一丨フノ丶丶丶丶丶一ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YWOMO (卜田人一人)"
+        ],
+        "Unicode": [
+            "U+9E7C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "カン (kan)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あ.く (a.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "gaan2"
+        ]
+    },
+    "meanings": {
+        "dảm": {
+            "Từ điển phổ thông": [
+                "chất kiềm, chất dảm (trong đất, như xà phòng, dùng để giặt), bazơ"
+            ],
+            "compound_words": {
+                "弱鹼": "nhược dảm"
+            }
+        },
+        "giảm": {
+            "Từ điển Thiều Chửu": [
+                "① Chất dảm. Một chất lẫn ở trong đất, tính trơn mà vị mặn, có thể dùng để giặt quần áo, là một nguyên liệu làm sà phòng là thạch giảm 石鹼. Ta quen đọc là thiêm. Có chỗ đọc là kiềm."
+            ]
+        },
+        "kiềm": {
+            "Từ điển phổ thông": [
+                "chất kiềm, chất dảm (trong đất, như xà phòng, dùng để giặt), bazơ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chất dảm. Một chất lẫn ở trong đất, tính trơn mà vị mặn, có thể dùng để giặt quần áo, là một nguyên liệu làm sà phòng là thạch giảm 石鹼. Ta quen đọc là thiêm. Có chỗ đọc là kiềm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung các loại kim dễ hoá hợp với Hidro và Oxy."
+            ]
+        },
+        "kiểm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Chất lẫn ở trong đất, tính trơn, vị mặn, có thể dùng để giặt quần áo, làm xà phòng, chế thủy tinh.",
+                "(Tính) Bị muối kiểm ăn mòn. ◎Như: 'hảo hảo đích quán tử, khả tích kiểm liễu' 好好的罐子, 可惜鹼了 cái bình này tốt, đáng tiếc nó bị ăn mòn rồi.",
+                "§ Ta quen đọc là 'thiêm'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Chất kiềm."
+            ]
+        },
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "chất kiềm, chất dảm (trong đất, như xà phòng, dùng để giặt), bazơ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chất lẫn ở trong đất, tính trơn, vị mặn, có thể dùng để giặt quần áo, làm xà phòng, chế thủy tinh.",
+                "(Tính) Bị muối kiểm ăn mòn. ◎Như: 'hảo hảo đích quán tử, khả tích kiểm liễu' 好好的罐子, 可惜鹼了 cái bình này tốt, đáng tiếc nó bị ăn mòn rồi.",
+                "§ Ta quen đọc là 'thiêm'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chất dảm. Một chất lẫn ở trong đất, tính trơn mà vị mặn, có thể dùng để giặt quần áo, là một nguyên liệu làm sà phòng là thạch giảm 石鹼. Ta quen đọc là thiêm. Có chỗ đọc là kiềm."
+            ]
+        }
+    }
+}

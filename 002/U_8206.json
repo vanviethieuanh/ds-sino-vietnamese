@@ -1,0 +1,60 @@
+{
+    "character": "舆",
+    "details": {
+        "Âm Hán Việt": [
+            "dư"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "bát 八 (+12 nét)",
+            "cữu 臼 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨一一一フ一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HXKC (竹重大金)"
+        ],
+        "Unicode": [
+            "U+8206"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "dư"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "dư": {
+            "Từ điển phổ thông": [
+                "xe chở đồ",
+                "trời đất"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 輿."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 輿"
+            ],
+            "compound_words": {
+                "舆论": "dư luận",
+                "箯舆": "tiên dư"
+            }
+        }
+    }
+}

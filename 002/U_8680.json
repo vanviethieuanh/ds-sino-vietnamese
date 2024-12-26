@@ -1,0 +1,64 @@
+{
+    "character": "蚀",
+    "details": {
+        "Âm Hán Việt": [
+            "thực"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "trùng 虫 (+3 nét)",
+            "thực 食 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰饣虫"
+        ],
+        "Nét bút": [
+            "ノフフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NVLMI (弓女中一戈)"
+        ],
+        "Unicode": [
+            "U+8680"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shí ㄕˊ"
+        ],
+        "Âm Nôm": [
+            "thực"
+        ],
+        "Âm Quảng Đông": [
+            "sik6"
+        ]
+    },
+    "meanings": {
+        "thực": {
+            "Từ điển phổ thông": [
+                "bị sâu mọt đục khoét",
+                "nhật thực, nguyệt thực"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 蝕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 蝕"
+            ],
+            "compound_words": {
+                "月蚀": "nguyệt thực",
+                "日蚀": "nhật thực",
+                "侵蚀": "xâm thực"
+            }
+        }
+    }
+}

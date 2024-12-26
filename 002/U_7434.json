@@ -1,0 +1,104 @@
+{
+    "character": "琴",
+    "details": {
+        "Âm Hán Việt": [
+            "cầm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱玨今"
+        ],
+        "Nét bút": [
+            "一一丨一一一丨一ノ丶丶フ"
+        ],
+        "Thương Hiệt": [
+            "MGOIN (一土人戈弓)"
+        ],
+        "Unicode": [
+            "U+7434"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qín ㄑㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "cầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こと (koto)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "kam4"
+        ]
+    },
+    "meanings": {
+        "cầm": {
+            "Từ điển phổ thông": [
+                "cái đàn cầm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhạc khí: (1) Một loại đàn xưa của Trung Quốc. ◎Như: 'thất huyền cầm' 七弦琴 đàn cầm bảy dây, 'nguyệt cầm' 月琴 đàn nguyệt. ◇Nguyễn Trãi 阮廌: 'Giai khách tương phùng nhật bão cầm' 佳客相逢日抱琴 (Đề Trình xử sĩ Vân oa đồ 題程處士雲窩圖) Khách quý gặp nhau, ngày ngày ôm đàn gảy. (2) Dùng cho tên một số nhạc khí tây phương. ◎Như: 'cương cầm' 鋼琴 dương cầm (piano), 'khẩu cầm' 口琴 harmonica, 'thủ phong cầm' 手風琴 accordéon.",
+                "(Danh) Họ 'Cầm'.",
+                "(Động) Gảy đàn. ◇Mạnh Tử 孟子: 'Tượng vãng nhập Thuấn cung, Thuấn tại sàng cầm' 象往入舜宮, 舜在床琴 (Vạn Chương thượng 萬章上) Tượng đến, vào cung vua Thuấn, vua Thuấn đang gảy đàn trên giường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái đàn cầm, đàn dài ba thước sáu tấc, căng bảy dây gọi là đàn cầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đàn cầm (một thứ đàn dài ba thước sáu tấc thời xưa, có bảy dây);",
+                "Đàn, cầm: 鋼琴 Dương cầm, pianô; 手風琴 Đàn ăccoóc, đàn xếp; 口琴 Ácmônica; 小提琴 Vĩ cầm, viôlông; 胡琴 Hồ cầm, đàn nhị; 月琴 Đàn nguyệt; 對牛彈琴 Đàn gẩy tai trâu;",
+                "[Qín] (Họ) Cầm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại đàn thời cổ, giống như đàn tranh của ta ngày nay, nhưng chỉ có 5 hoặc 7 dây — Chỉ chung các loại đàn."
+            ],
+            "compound_words": {
+                "琴歌": "cầm ca",
+                "琴臺": "cầm đài",
+                "琴童": "cầm đồng",
+                "琴堂": "cầm đường",
+                "琴鶴": "cầm hạc",
+                "琴棋詩畫": "cầm kì thi hoạ",
+                "琴棋書畫": "cầm kì thư hoạ",
+                "琴劍": "cầm kiếm",
+                "琴譜": "cầm phổ",
+                "琴瑟": "cầm sắt",
+                "琴心": "cầm tâm",
+                "琴心劍膽": "cầm tâm kiếm đảm",
+                "琴書": "cầm thư",
+                "琴尊": "cầm tôn",
+                "琴樽": "cầm tôn",
+                "鼓琴": "cổ cầm",
+                "鋼琴": "cương cầm",
+                "名琴": "danh cầm",
+                "洋琴": "dương cầm",
+                "弹琴": "đàn cầm",
+                "彈琴": "đàn cầm",
+                "胡琴": "hồ cầm",
+                "月琴": "nguyệt cầm",
+                "風琴": "phong cầm",
+                "瑟琴": "sắt cầm",
+                "素琴集": "tố cầm tập"
+            }
+        }
+    }
+}

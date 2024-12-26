@@ -1,0 +1,94 @@
+{
+    "character": "帳",
+    "details": {
+        "Âm Hán Việt": [
+            "trướng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cân 巾 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰巾長"
+        ],
+        "Nét bút": [
+            "丨フ丨一丨一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LBSMV (中月尸一女)"
+        ],
+        "Unicode": [
+            "U+5E33"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhàng ㄓㄤˋ"
+        ],
+        "Âm Nôm": [
+            "trương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とばり (tobari)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng3"
+        ]
+    },
+    "meanings": {
+        "trướng": {
+            "Từ điển phổ thông": [
+                "căng lên, dương lên",
+                "trướng (lều dựng tạm khi hành binh)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Màn che. ◎Như: 'văn trướng' 蚊帳 mùng màn che muỗi. ◇Bạch Cư Dị 白居易: 'Vân mấn hoa nhan kim bộ diêu, Phù dung trướng noãn độ xuân tiêu' 雲鬢花顏金步搖, 芙蓉帳暖度春霄 (Trường hận ca 長恨歌) Mặt nàng đẹp như hoa, tóc mượt như mây, cài chiếc bộ dao bằng vàng, Trải qua đêm xuân ấm áp trong trướng Phù Dung. § Tản Đà dịch thơ: Vàng nhẹ bước lung lay tóc mái, Màn phù dung êm ái đêm xuân.",
+                "(Danh) Ngày xưa, quân đi đến đâu, căng vải lên làm rạp để nghỉ gọi là 'trướng'. ◎Như: 'doanh trướng' 營帳 lều bạt.",
+                "(Danh) Sổ sách. § Thông 'trướng' 賬. ◎Như: 'trướng bạ' 帳簿 sổ sách.",
+                "(Danh) Nợ. § Thông 'trướng' 賬. ◎Như: 'khiếm trướng' 欠帳 thiếu nợ, 'hoàn trướng' 還帳 trả nợ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Căng lên, dương lên. Như cung trướng 共帳 căng màn, dương màn, thông dụng như cung trướng 供帳.",
+                "Màn che, quân đi đến đâu, căng vải lên làm giạp để nghỉ gọi là trướng. Như doanh trướng 營帳, trướng bằng 帳棚, v.v. Nay ta dùng các thứ dệt đẹp hay da hổ giải phủ lên chỗ ngồi cũng gọi là trướng.",
+                "Tính sổ, như trướng bạ 帳簿 sổ sách, cũng có khi viết là trướng bạ 賬簿"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Tấm) màn: 蚊帳 (Tấm) màn;",
+                "Sổ hộ tịch, sổ ghi tiền: 記帳 Ghi sổ; 柦帳 Kiểm tra sổ;",
+                "Nợ, thiếu chịu, chịu tiền: 欠帳 Thiếu nợ, chịu tiền; 還帳 Trả nợ; 不認帳 Quỵt nợ, không nhận việc mình đã làm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm màn. Bức rèm.  Đoạn trường tân thanh : » Êm đềm trướng rủ màn che « — Tấm màn che chỗ ông võ tướng làm việc. Xem Trướng tiền — Tiếng dùng để đếm số. Một bức. Một tấm."
+            ],
+            "compound_words": {
+                "倒帳": "đảo trướng",
+                "斗帳": "đẩu trướng",
+                "對帳": "đối trướng",
+                "虎帳": "hổ trướng",
+                "戎帳": "nhung trướng",
+                "帳篷": "trướng bồng",
+                "帳蓬": "trướng bồng",
+                "帳單": "trướng đơn",
+                "帳號": "trướng hiệu",
+                "帳戶": "trướng hộ",
+                "帳帘": "trướng liêm",
+                "帳前": "trướng tiền"
+            }
+        }
+    }
+}

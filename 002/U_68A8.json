@@ -1,0 +1,83 @@
+{
+    "character": "梨",
+    "details": {
+        "Âm Hán Việt": [
+            "lê"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱利木"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨丨一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HND (竹弓木)"
+        ],
+        "Unicode": [
+            "U+68A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ"
+        ],
+        "Âm Nôm": [
+            "lê"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なし (nashi)"
+        ],
+        "Âm Hàn": [
+            "리",
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "lê": {
+            "Từ điển phổ thông": [
+                "cây lê, quả lê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây lê.",
+                "(Danh) § Xem 'lê viên' 梨園.",
+                "(Động) Cắt, rạch. § Thông 'li' 剺.",
+                "§ Cũng viết là 'lê' 棃.:"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ lê 棃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây lê;",
+                "Quả lê;",
+                "【棃園】lê viên [líyuán] Rạp hát (Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Lê 棃."
+            ],
+            "compound_words": {
+                "梨園": "lê viên",
+                "凤梨": "phượng lê",
+                "鳳梨": "phượng lê"
+            }
+        }
+    }
+}

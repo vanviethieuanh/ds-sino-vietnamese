@@ -1,0 +1,104 @@
+{
+    "character": "恶",
+    "details": {
+        "Âm Hán Việt": [
+            "ác",
+            "ô",
+            "ố"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱亚心"
+        ],
+        "Nét bút": [
+            "一丨丨丶ノ一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "MCP (一金心)"
+        ],
+        "Unicode": [
+            "U+6076"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "ě",
+            "è",
+            "wū ㄨ",
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "ác",
+            "ố"
+        ],
+        "Âm Quảng Đông": [
+            "ngok3",
+            "ok3",
+            "wu1",
+            "wu3"
+        ]
+    },
+    "meanings": {
+        "ác": {
+            "Từ điển phổ thông": [
+                "ác độc",
+                "xấu xí"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 惡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 惡"
+            ],
+            "compound_words": {
+                "恶棍": "ác côn",
+                "恶毒": "ác độc",
+                "恶劣": "ác liệt",
+                "恶魔": "ác ma",
+                "恶梦": "ác mộng",
+                "恶意": "ác ý",
+                "嫌恶": "hiềm ác",
+                "憎恶": "tăng ác",
+                "厌恶": "yếm ác"
+            }
+        },
+        "ô": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 惡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ở đâu, nơi nào? (đại từ nghi vấn): 路惡在？ Đường ở nơi nào? (Mạnh tử);",
+                "Từ đâu, ở chỗ nào? (thường dùng 惡乎): 且王攻楚，將惡出兵？ Vả lại nếu nhà vua đánh Sở thì định xuất binh từ đâu? (Sử kí); 學惡乎始，惡乎終？ Sự học bắt đầu từ chỗ nào, chấm dứt chỗ nào? (Tuân tử);",
+                "Làm sao? (đại từ biểu thị sự phản vấn): 爾幼，惡識國？ Ngươi còn nhỏ, làm sao hiểu được việc nước? (Tả truyện); 子不能治子之身，惡能治國政？ Ông không lo được cho thân ông, làm sao lo được việc nước? (Mặc tử);",
+                "Ô, ồ! (thán từ): 惡，言是何言也！ Ồ, ấy là nói thế nào! (Mạnh tử)."
+            ],
+            "compound_words": {
+                "恶棍": "ác côn"
+            }
+        },
+        "ố": {
+            "Từ điển phổ thông": [
+                "ghét, căm",
+                "xấu hổ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 惡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ghét, căm ghét: 可惡 Đáng ghét; 深惡痛絕 Ghét cay ghét đắng. Xem 惡 [â], [è]."
+            ]
+        }
+    }
+}

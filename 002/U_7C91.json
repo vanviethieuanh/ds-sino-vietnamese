@@ -1,0 +1,55 @@
+{
+    "character": "粑",
+    "details": {
+        "Âm Hán Việt": [
+            "ba"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mễ 米 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米巴"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "FDAU (火木日山)"
+        ],
+        "Unicode": [
+            "U+7C91"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bā ㄅㄚ"
+        ],
+        "Âm Nôm": [
+            "bà"
+        ],
+        "Âm Quảng Đông": [
+            "baa1"
+        ]
+    },
+    "meanings": {
+        "ba": {
+            "Từ điển phổ thông": [
+                "(xem: ta ba 糌粑)"
+            ],
+            "compound_words": {
+                "糌粑": "ta ba",
+                "糍粑": "từ ba"
+            }
+        }
+    }
+}

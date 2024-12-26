@@ -1,0 +1,75 @@
+{
+    "character": "疳",
+    "details": {
+        "Âm Hán Việt": [
+            "cam"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nạch 疒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒甘"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "KTM (大廿一)"
+        ],
+        "Unicode": [
+            "U+75B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ"
+        ],
+        "Âm Nôm": [
+            "cam"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "gam1"
+        ]
+    },
+    "meanings": {
+        "cam": {
+            "Từ điển phổ thông": [
+                "bệnh cam"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bệnh sâu độc lở loét. ◎Như: “nha cam” 牙疳 bệnh lợi răng sưng lở, “hạ cam” 下疳 bệnh sưng lở loét ở bộ phận sinh dục (quy đầu đàn ông, âm thần đàn bà)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh cam, một thứ bệnh về máu rãi. Như vì máu trắng kém mà tì rắn lại gọi là tì cam 脾疳, trẻ con ăn bậy sinh bệnh gầy còm gọi là cam tích 疳積, chân răng thối nát gọi là nha cam 牙疳 cam răng hay cam tẩu mã.",
+                "Hạ cam 下疳, một thứ bệnh tình bộ dái sưng loét ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(y) Bệnh cam: 走馬疳 Cam tẩu mã; 牙疳 Cam răng; 下疳 Hạ cam."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ bệnh về máu huyết và tiêu hoá của trẻ con."
+            ],
+            "compound_words": {
+                "疳積": "cam tích",
+                "下疳": "hạ cam",
+                "牙疳": "nha cam"
+            }
+        }
+    }
+}

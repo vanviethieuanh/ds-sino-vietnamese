@@ -1,0 +1,87 @@
+{
+    "character": "齟",
+    "details": {
+        "Âm Hán Việt": [
+            "thư",
+            "trở"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "xỉ 齒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰齒且"
+        ],
+        "Nét bút": [
+            "丨一丨一ノ丶ノ丶一ノ丶ノ丶フ丨丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "YUBM (卜山月一)"
+        ],
+        "Unicode": [
+            "U+9F5F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jǔ ㄐㄩˇ",
+            "zhā ㄓㄚ"
+        ],
+        "Âm Nôm": [
+            "thư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "サ (sa)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かむ (kamu)"
+        ],
+        "Âm Hàn": [
+            "저",
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi2"
+        ]
+    },
+    "meanings": {
+        "thư": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Miệng hở răng hở lợi. Ta gọi là Lộ xỉ."
+            ]
+        },
+        "trở": {
+            "Từ điển phổ thông": [
+                "(xem: trở ngữ 齟齬,龃龉)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Phó) “Trở ngữ” 齟齬 răng vẩu, răng trên dưới so le không đều nhau; nghĩa bóng là tranh chấp, không hợp nhau."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trở ngữ 齟齬 răng vẩu (răng so le không đều nhau).",
+                "Ý kiến không hợp nhau cũng gọi là trở ngữ 齟齬.",
+                "Ta quen đọc là trở ngỡ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Răng) không đều, khểnh, vẩu.【齟齬】trở ngữ (ngỡ) [jưyư] (văn) Khấp khểnh, lủng củng, lục đục: 雙方發生齟齬 Hai bên lục đục với nhau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Răng mọc không ngay ngắn, không đều."
+            ],
+            "compound_words": {
+                "齟齬": "trở ngữ"
+            }
+        }
+    }
+}

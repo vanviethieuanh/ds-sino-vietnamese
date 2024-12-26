@@ -1,0 +1,81 @@
+{
+    "character": "禱",
+    "details": {
+        "Âm Hán Việt": [
+            "đảo"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "kỳ 示 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺭壽"
+        ],
+        "Nét bút": [
+            "丶フ丨丶一丨一フ一丨一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "IFGNI (戈火土弓戈)"
+        ],
+        "Unicode": [
+            "U+79B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dǎo ㄉㄠˇ"
+        ],
+        "Âm Nôm": [
+            "đảo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いの.る (ino.ru)",
+            "まつ.る (matsu.ru)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou2",
+            "tou2"
+        ]
+    },
+    "meanings": {
+        "đảo": {
+            "Từ điển phổ thông": [
+                "cầu cúng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cầu cúng. ◇Liệt Tử 列子: 'Yết vu nhi đảo chi, phất cấm' 謁巫而禱之, 弗禁 (Chu Mục vương 周穆王) Mời thầy pháp cầu cúng, không khỏi.",
+                "(Động) Chúc, mong cầu. ◇Nguyễn Du 阮攸: 'Do thả hồi cố đảo đa phúc' 猶且回顧禱多福 (Thái Bình mại ca giả 太平賣歌者) Còn quay đầu lại cầu chúc cho được nhiều phúc lành.",
+                "(Động) Kính từ dùng trong thư tín, biểu thị thỉnh cầu. ◎Như: 'phán đảo' 盼禱 trông mong."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cầu cúng, ý mình muốn thế nào cầu người giúp cho cũng gọi là đảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khấn vái, cầu cúng, cầu đảo: 祈禱 Khấn khứa;",
+                "Mong, mong mỏi: 盼禱 Cầu mong."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cúng tế cầu xin với quỷ thần. Chẳng hạn Đảo vũ 禱雨 ( tế trời cầu mưa )."
+            ],
+            "compound_words": {
+                "求禱": "cầu đảo",
+                "齋禱": "trai đảo"
+            }
+        }
+    }
+}

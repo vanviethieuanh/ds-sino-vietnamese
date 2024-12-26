@@ -1,0 +1,99 @@
+{
+    "character": "竿",
+    "details": {
+        "Âm Hán Việt": [
+            "can",
+            "cán"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "trúc 竹 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮干"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "HMJ (竹一十)"
+        ],
+        "Unicode": [
+            "U+7AFF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gān ㄍㄢ",
+            "gǎn ㄍㄢˇ",
+            "gàn ㄍㄢˋ"
+        ],
+        "Âm Nôm": [
+            "can",
+            "cần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さお (sao)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "gon1"
+        ]
+    },
+    "meanings": {
+        "can": {
+            "Từ điển phổ thông": [
+                "cái cần câu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sào, cây tre, cần tre. ◎Như: 'nhất can' 一竿 một cành tre.",
+                "(Danh) Phong thư. § Ngày xưa viết bằng thẻ tre nên gọi phong thư là 'can độc' 竿牘.",
+                "(Danh) Sào (đơn vị chiều dài ngày xưa). ◎Như: 'nhật cao tam can' 日高三竿 mặt trời cao đã ba ngọn tre, 'thủy thâm kỉ can' 水深幾竿 nước sâu mấy con sào. ◇Liêu trai chí dị 聊齋志異: 'Hồng nhật tam can, Vương thủy khởi' 紅日三竿, 王始起 (Vương Thành 王成) Mặt trời hồng lên cao ba sào, Vương mới dậy.",
+                "Một âm là 'cán'. (Danh) Cái giá mắc áo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây tre, cần tre, một cành tre gọi là nhất can 一竿. Ngày xưa viết bằng thẻ tre nên gọi phong thư là can độc 竿牘, lại dùng làm số đo lường (con sào), như nhật cao tam can 日高三竿 mặt trời cao đã ba ngọn tre, thuỷ thâm kỉ can 水深幾竿 nước sâu mấy con sào, v.v.",
+                "Một âm là cán. Cái giá mắc áo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sào, cần tre, cần câu: 日高三竿 Mặt trời đã lên cao ba ngọn tre; 水深幾竿 Nước sâu mấy sào."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cành tre — Cái cần câu — Cái sào."
+            ],
+            "compound_words": {
+                "爆竿": "bộc can",
+                "釣竿": "điếu can"
+            }
+        },
+        "cán": {
+            "Từ điển trích dẫn": [
+                "(Danh) Sào, cây tre, cần tre. ◎Như: 'nhất can' 一竿 một cành tre.",
+                "(Danh) Phong thư. § Ngày xưa viết bằng thẻ tre nên gọi phong thư là 'can độc' 竿牘.",
+                "(Danh) Sào (đơn vị chiều dài ngày xưa). ◎Như: 'nhật cao tam can' 日高三竿 mặt trời cao đã ba ngọn tre, 'thủy thâm kỉ can' 水深幾竿 nước sâu mấy con sào. ◇Liêu trai chí dị 聊齋志異: 'Hồng nhật tam can, Vương thủy khởi' 紅日三竿, 王始起 (Vương Thành 王成) Mặt trời hồng lên cao ba sào, Vương mới dậy.",
+                "Một âm là 'cán'. (Danh) Cái giá mắc áo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây tre, cần tre, một cành tre gọi là nhất can 一竿. Ngày xưa viết bằng thẻ tre nên gọi phong thư là can độc 竿牘, lại dùng làm số đo lường (con sào), như nhật cao tam can 日高三竿 mặt trời cao đã ba ngọn tre, thuỷ thâm kỉ can 水深幾竿 nước sâu mấy con sào, v.v.",
+                "Một âm là cán. Cái giá mắc áo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giá mắc áo."
+            ]
+        }
+    }
+}

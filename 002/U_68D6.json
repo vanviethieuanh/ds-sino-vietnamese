@@ -1,0 +1,85 @@
+{
+    "character": "棖",
+    "details": {
+        "Âm Hán Việt": [
+            "tranh",
+            "trành"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿰木長"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "DSMV (木尸一女)"
+        ],
+        "Unicode": [
+            "U+68D6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chéng ㄔㄥˊ"
+        ],
+        "Âm Nôm": [
+            "trành",
+            "trường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "ジョウ (jō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はしら (hashira)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "caam4",
+            "caam5",
+            "caan5",
+            "caang4"
+        ]
+    },
+    "meanings": {
+        "tranh": {
+            "Từ điển phổ thông": [
+                "cái bậc cửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cột ở hai bên cổng.",
+                "(Động) Đụng, chạm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái bậc cửa.",
+                "Cùng nghĩa với chữ tranh 橙.",
+                "Ðụng chạm. Cũng đọc là trành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái khuôn cửa. Hai thanh gỗ dựng hai bên cửa cho vững cái cửa."
+            ],
+            "compound_words": {
+                "棖觸": "tranh xúc"
+            }
+        },
+        "trành": {
+            "Từ điển Thiều Chửu": [
+                "Cái bậc cửa.",
+                "Cùng nghĩa với chữ tranh 橙.",
+                "Ðụng chạm. Cũng đọc là trành."
+            ]
+        }
+    }
+}

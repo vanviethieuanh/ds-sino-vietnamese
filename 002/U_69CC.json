@@ -1,0 +1,96 @@
+{
+    "character": "槌",
+    "details": {
+        "Âm Hán Việt": [
+            "chuỳ",
+            "truỳ",
+            "đôi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mộc 木 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木追"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丨フ一フ一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "DYHR (木卜竹口)"
+        ],
+        "Unicode": [
+            "U+69CC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuí ㄔㄨㄟˊ",
+            "duī ㄉㄨㄟ",
+            "zhuì ㄓㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "chuỳ",
+            "dùi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ツイ (tsui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つち (tsuchi)"
+        ],
+        "Âm Hàn": [
+            "퇴",
+            "추"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4"
+        ]
+    },
+    "meanings": {
+        "chuỳ": {
+            "Từ điển phổ thông": [
+                "cái vồ lớn",
+                "đánh đập"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái vồ, dùi. ◎Như: 'cổ chùy' 鼓槌 dùi trống.",
+                "(Động) Đánh, đập, nện. § Thông 'chủy' 捶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái vồ lớn.",
+                "Ðánh, đập, nện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dùi, vồ: 鼓槌兒 Dùi trống;",
+                "(văn) Đánh, đập, nện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chày. Như chữ Chuỳ 椎 — Cái giá bằng gỗ để gác những nong nuôi tằm lên."
+            ],
+            "compound_words": {
+                "棒槌": "bổng chuỳ"
+            }
+        },
+        "truỳ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cái vồ, dùi. ◎Như: 'cổ chùy' 鼓槌 dùi trống.",
+                "(Động) Đánh, đập, nện. § Thông 'chủy' 捶."
+            ]
+        },
+        "đôi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ném. Liệng đi — Một âm là Chuỳ. Xem Chuỳ. Ta cũng đọc Truỳ."
+            ]
+        }
+    }
+}

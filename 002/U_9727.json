@@ -1,0 +1,85 @@
+{
+    "character": "霧",
+    "details": {
+        "Âm Hán Việt": [
+            "vụ"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "vũ 雨 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱雨務"
+        ],
+        "Nét bút": [
+            "一丶フ丨丶丶丶丶フ丶フ丨ノノフ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "MBNHS (一月弓竹尸)"
+        ],
+        "Unicode": [
+            "U+9727"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "méng ㄇㄥˊ",
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "mù",
+            "vụ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ム (mu)",
+            "ボウ (bō)",
+            "ブ (bu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きり (kiri)"
+        ],
+        "Âm Hàn": [
+            "무"
+        ],
+        "Âm Quảng Đông": [
+            "mou6"
+        ]
+    },
+    "meanings": {
+        "vụ": {
+            "Từ điển phổ thông": [
+                "sương mù"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sương mù. § Xa đất là 'vân' 雲 mây, gần đất là 'vụ' 霧 mù. ◇Đỗ Phủ 杜甫: 'Hương vụ vân hoàn thấp' 香霧雲鬟濕 (Nguyệt dạ 月夜) Sương thơm làm ướt mái tóc mai. Tản Đà dịch thơ: Sương sa thơm ướt mái đầu.",
+                "(Danh) Cái gì giống như bụi nước, sương mù đều gọi là 'vụ'. ◎Như: 'phún vụ khí' 噴霧器 bình phun bụi nước, bụi chất lỏng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sương mù, nguyên nhân cũng như mây, xa đất là vân 雲 mây, gần đất là vụ 霧 mù."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sương mù;",
+                "Bụi nước (ở bình bơm phun ra): 噴霧器 Bình phun."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sương mù — Tối tăm mù mịt."
+            ],
+            "compound_words": {
+                "滿頭霧水": "mãn đầu vụ thuỷ",
+                "噴霧器": "phún vụ khí",
+                "雲霧": "vân vụ",
+                "霧塞": "vụ tắc",
+                "煙霧": "yên vụ"
+            }
+        }
+    }
+}

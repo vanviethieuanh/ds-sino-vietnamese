@@ -1,0 +1,90 @@
+{
+    "character": "町",
+    "details": {
+        "Âm Hán Việt": [
+            "đinh",
+            "đỉnh"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "điền 田 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰田丁"
+        ],
+        "Nét bút": [
+            "丨フ一丨一一丨"
+        ],
+        "Thương Hiệt": [
+            "WMN (田一弓)"
+        ],
+        "Unicode": [
+            "U+753A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dīng ㄉㄧㄥ",
+            "tiǎn ㄊㄧㄢˇ",
+            "tīng ㄊㄧㄥ",
+            "tǐng ㄊㄧㄥˇ",
+            "zhèng ㄓㄥˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まち (machi)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "ting2"
+        ]
+    },
+    "meanings": {
+        "đinh": {
+            "Từ điển phổ thông": [
+                "bờ ruộng",
+                "đinh (đơn vị đo, bằng 100 mẫu)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mốc ruộng, đường đi nhỏ trong ruộng.",
+                "(Danh) Ruộng đất.",
+                "(Danh) Lượng từ: đơn vị đo diện tích ruộng thời xưa. § Phép tính đất 36 thước vuông là một 'bình', 30 'bình' là một 'mẫu', 100 'mẫu' là một 'đinh'.",
+                "(Động) San bằng, làm cho phẳng đất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mốc ruộng, bờ cõi ruộng. Phép tính đất 36 thước vuông gọi là một bình, 30 bình là một mẫu, 100 mẫu gọi là một đinh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Địa danh: 畹町 Uyển Đinh (tên một thị trấn ở tỉnh Vân Nam, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ ruộng. Bờ đất phân chia các thửa ruộng — Một mẫu đất."
+            ],
+            "compound_words": {
+                "町畦": "đinh huề",
+                "町疃": "đinh thoản",
+                "畹町": "uyển đinh"
+            }
+        },
+        "đỉnh": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bờ ruộng;",
+                "Đơn vị tính ruộng đất thời xưa (bằng 100 mẫu);",
+                "【町疃】đỉnh thoản [têngtuăn] Đất bỏ không ở cạnh nhà. Xem 町 ding]."
+            ]
+        }
+    }
+}

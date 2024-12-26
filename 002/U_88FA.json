@@ -1,0 +1,57 @@
+{
+    "character": "裺",
+    "details": {
+        "Âm Hán Việt": [
+            "am",
+            "yểm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "y 衣 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤奄"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶一ノ丶丨フ一一フ"
+        ],
+        "Thương Hiệt": [
+            "LKLU (中大中山)"
+        ],
+        "Unicode": [
+            "U+88FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nôm": [
+            "yếm"
+        ],
+        "Âm Quảng Đông": [
+            "jim2"
+        ]
+    },
+    "meanings": {
+        "am": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Am nang 裺囊 — Một âm khác là Yểm."
+            ],
+            "compound_words": {
+                "裺囊": "am nang"
+            }
+        },
+        "yểm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái yếm rãi của trẻ con, đeo trước ngực để thấm nước rãi — Mép áo. Viền áo — Một âm khác là Am. Xem vần Am."
+            ]
+        }
+    }
+}

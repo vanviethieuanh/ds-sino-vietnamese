@@ -1,0 +1,92 @@
+{
+    "character": "汽",
+    "details": {
+        "Âm Hán Việt": [
+            "hất",
+            "khí",
+            "ất"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡气"
+        ],
+        "Nét bút": [
+            "丶丶一ノ一一フ"
+        ],
+        "Thương Hiệt": [
+            "EOMN (水人一弓)"
+        ],
+        "Unicode": [
+            "U+6C7D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gāi ㄍㄞ",
+            "qì ㄑㄧˋ",
+            "yǐ ㄧˇ"
+        ],
+        "Âm Nôm": [
+            "khí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Hàn": [
+            "기",
+            "흘"
+        ],
+        "Âm Quảng Đông": [
+            "hei3"
+        ]
+    },
+    "meanings": {
+        "hất": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gần gũi — Các âm khác là Ất, Khí. Xem các âm này."
+            ]
+        },
+        "khí": {
+            "Từ điển phổ thông": [
+                "hơi nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hơi nước. ◎Như: 'khí ki' 汽機 máy hơi, 'khí thuyền' 汽船 tàu thủy, 'khí xa' 汽車 xe hơi.",
+                "(Danh) 'Khí thủy' 汽水 nước uống có gaz. § Còn gọi là 'Hà Lan thủy' 荷蘭水, 'tô đả thủy' 蘇打水."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hơi nước, nước sôi bốc hơi lên gọi là khí, như khí ki 汽機 máy hơi, khí thuyền 汽船 tàu thuỷ, khí xa 汽車 xe hoả, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hơi nước: 汽機 Máy tuabin, máy hơi nước;",
+                "Thể hơi: 汽化 Biến thành hơi, bốc thành hơi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hơi nước."
+            ],
+            "compound_words": {
+                "汽壓": "khí áp",
+                "汽機": "khí cơ",
+                "汽笛": "khí địch",
+                "汽車": "khí xa"
+            }
+        },
+        "ất": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước cạn hết, cạn khô — Các âm khác là Hất, Khí."
+            ]
+        }
+    }
+}

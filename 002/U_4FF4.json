@@ -1,0 +1,68 @@
+{
+    "character": "俴",
+    "details": {
+        "Âm Hán Việt": [
+            "kiến",
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻戔"
+        ],
+        "Nét bút": [
+            "ノ丨一フノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OII (人戈戈)"
+        ],
+        "Unicode": [
+            "U+4FF4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cin5",
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "kiến": {
+            "Từ điển phổ thông": [
+                "cạn",
+                "mỏng",
+                "mặc áo đơn (không có áo giáp)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cạn;",
+                "Mỏng;",
+                "Chỉ mặc áo đơn không có áo giáp."
+            ]
+        },
+        "tiễn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nông cạn, nhỏ hẹp."
+            ],
+            "compound_words": {
+                "飲俴": "ẩm tiễn"
+            }
+        }
+    }
+}

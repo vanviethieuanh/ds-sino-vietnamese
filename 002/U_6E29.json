@@ -1,0 +1,94 @@
+{
+    "character": "温",
+    "details": {
+        "Âm Hán Việt": [
+            "uẩn",
+            "ôn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡昷"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "EABT (水日月廿)"
+        ],
+        "Unicode": [
+            "U+6E29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wēn ㄨㄣ",
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ôn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あたた.か (atata.ka)",
+            "あたた.かい (atata.kai)",
+            "あたた.まる (atata.maru)",
+            "あたた.める (atata.meru)",
+            "ぬく (nuku)"
+        ],
+        "Âm Hàn": [
+            "온"
+        ],
+        "Âm Quảng Đông": [
+            "wan1"
+        ]
+    },
+    "meanings": {
+        "uẩn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 溫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 蘊 (bộ 艹)."
+            ]
+        },
+        "ôn": {
+            "Từ điển phổ thông": [
+                "nhắc lại, xem lại",
+                "ấm áp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 溫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ấm: 溫水 Nước ấm;",
+                "Nhiệt độ, ôn độ: 量體溫 Cặp nhiệt độ;",
+                "Hâm: 溫酒 Hâm rượu;",
+                "Ôn, học lại: 溫故知新 Ôn cũ biết mới;",
+                "Ôn hoà, điềm đạm, êm dịu: 溫良 Ôn hoà và hiền lành;",
+                "Như 瘟 [wen];",
+                "[Wen] (Họ) Ôn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Ôn 溫."
+            ],
+            "compound_words": {
+                "保温": "bảo ôn",
+                "温和": "ôn hoà"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "character": "崎",
+    "details": {
+        "Âm Hán Việt": [
+            "khi",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "sơn 山 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰山奇"
+        ],
+        "Nét bút": [
+            "丨フ丨一ノ丶一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "UKMR (山大一口)"
+        ],
+        "Unicode": [
+            "U+5D0E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さき (saki)",
+            "さい (sai)",
+            "みさき (misaki)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei1"
+        ]
+    },
+    "meanings": {
+        "khi": {
+            "Từ điển phổ thông": [
+                "(xem: khi khu 崎嶇,崎岖)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Phó) “Khi khu” 崎嶇: (1) Đường núi gập ghềnh, nguy hiểm. ☆Tương tự: “cao đê” 高低, “khảm kha” 坎坷, “ao đột” 凹凸. ◇Đào Uyên Minh 陶淵明: “Kí yểu điệu dĩ tầm hác, diệc khi khu nhi kinh khâu” 既窈窕以尋壑, 亦崎嶇而經丘 (Quy khứ lai từ 歸去來辭) Đã vào trong sâu tìm khe nước, lại gập ghềnh mà qua gò. (2) Tỉ dụ tình cảnh khó khăn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khi khu 崎嶇 đường núi gập ghềnh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【崎嶇】khi khu [qíqu] (Đường núi) gập ghềnh, gồ ghề, mấp mô: 崎嶇不平 Gập ghềnh không bằng phẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng núi gập ghềng — Một âm khác là Kì."
+            ],
+            "compound_words": {
+                "崎岖": "khi khu",
+                "崎嶇": "khi khu"
+            }
+        },
+        "kỳ": {
+            "Từ điển Trần Văn Chánh": [
+                "【崎嶇】khi khu [qíqu] (Đường núi) gập ghềnh, gồ ghề, mấp mô: 崎嶇不平 Gập ghềnh không bằng phẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quanh co gập ghềnh. Td: Kì khu 崎踦 ( cũng đọc Khi khu )."
+            ]
+        }
+    }
+}

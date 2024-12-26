@@ -1,0 +1,72 @@
+{
+    "character": "関",
+    "details": {
+        "Âm Hán Việt": [
+            "quan"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "môn 門 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門关"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丶ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ANTK (日弓廿大)"
+        ],
+        "Unicode": [
+            "U+95A2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "guān ㄍㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "quan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せき (seki)",
+            "-ぜき (-zeki)",
+            "かか.わる (kaka.waru)",
+            "からくり (karakuri)",
+            "かんぬき (kan nuki)"
+        ],
+        "Âm Hàn": [
+            "관",
+            "완"
+        ],
+        "Âm Quảng Đông": [
+            "gwaan1"
+        ]
+    },
+    "meanings": {
+        "quan": {
+            "Từ điển phổ thông": [
+                "cửa ải, cửa ô",
+                "đóng (cửa)",
+                "quan hệ, liên quan"
+            ],
+            "compound_words": {
+                "把関": "bả quan",
+                "関河": "quan hà",
+                "城関": "thành quan"
+            }
+        }
+    }
+}

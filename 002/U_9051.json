@@ -1,0 +1,82 @@
+{
+    "character": "遑",
+    "details": {
+        "Âm Hán Việt": [
+            "hoàng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sước 辵 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶皇"
+        ],
+        "Nét bút": [
+            "ノ丨フ一一一一丨一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YHAG (卜竹日土)"
+        ],
+        "Unicode": [
+            "U+9051"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "huáng ㄏㄨㄤˊ"
+        ],
+        "Âm Nôm": [
+            "hoàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いとま (itoma)",
+            "ひま (hima)"
+        ],
+        "Âm Hàn": [
+            "황"
+        ],
+        "Âm Quảng Đông": [
+            "wong4"
+        ]
+    },
+    "meanings": {
+        "hoàng": {
+            "Từ điển phổ thông": [
+                "kíp, gấp",
+                "nhàn rỗi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Kíp, gấp. ◎Như: 'hoàng bách' 遑迫 vội vàng.",
+                "(Phó) Sao mà, làm sao. ◇Thi Kinh 詩經: 'Ngã cung bất duyệt, Hoàng tuất ngã hậu?' 我躬不閱, 遑恤我後 (Bội phong 邶風, Cốc phong 谷風) Thân ta đây không được dung dưỡng, Thì sao mà còn thương xót đến những nỗi sau này của ta?",
+                "(Danh) Rỗi nhàn, thư nhàn. ◇Thi Kinh 詩經: 'Mạc cảm hoặc hoàng' 莫敢或遑 (Thiệu Nam 召南, Ân kì lôi 殷其雷) Chẳng ai dám nhàn rỗi chút nào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kíp, gấp. Như hoàng bách 遑迫 vội vàng.",
+                "Rỗi nhàn, thư nhàn. Như mạc cảm hoặc hoàng 莫敢或遑 (Thi Kinh 詩經) chẳng ai dám rỗi nhàn một chút nào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Rỗi, nhàn rỗi, rảnh rỗi, rỗi rãi: 不 遑 Không rỗi; 莫敢或遑 Chẳng ai dám nhàn rỗi chút nào (Thi Kinh);",
+                "Kíp, gấp: 遑迫 Gấp rút."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rảnh rang, nhàn hạ — Nghỉ ngơi thong thả."
+            ],
+            "compound_words": {
+                "傽遑": "chương hoàng"
+            }
+        }
+    }
+}

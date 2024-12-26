@@ -1,0 +1,105 @@
+{
+    "character": "蜚",
+    "details": {
+        "Âm Hán Việt": [
+            "phi",
+            "phỉ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱非虫"
+        ],
+        "Nét bút": [
+            "丨一一一丨一一一丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "LYLMI (中卜中一戈)"
+        ],
+        "Unicode": [
+            "U+871A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ",
+            "fēi ㄈㄟ",
+            "fěi ㄈㄟˇ",
+            "pèi ㄆㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bay",
+            "phi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あぶらむし (aburamushi)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "fei1",
+            "fei2"
+        ]
+    },
+    "meanings": {
+        "phi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ sâu mùi hôi, ăn hại lúa.",
+                "(Danh) 'Phỉ liêm' 蜚蠊 con gián. § Một thứ sâu mình giẹt, bay được, chạm đến thì tỏa hơi thối ra, sinh sôi rất nhanh, hay gậm nhấm quần áo, ăn hại thực phẩm. § Tục gọi là 'chương lang' 蟑螂 hay 'giáp do' 甲由.",
+                "Một âm là 'phi'. (Động) Bay. § Thông 'phi' 飛.",
+                "(Tính) Không căn cứ, không thật. § Thông 'phi' 飛. ◎Như: 'lưu ngôn phi ngữ' 流言蜚語 lời đồn đại không căn cứ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một thứ sâu ăn lúa.",
+                "Phỉ liêm 蜚鐮 con gián, một thứ sâu bay hay ở bếp, chạm đến thì toả hơi thối ra tục gọi là chương lang 蟑螂.",
+                "Một âm là phi. Cùng nghĩa với chữ phi 飛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 飛 [fei]. Xem 蜚 [fâi]."
+            ]
+        },
+        "phỉ": {
+            "Từ điển phổ thông": [
+                "một loài sâu ăn lúa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ sâu mùi hôi, ăn hại lúa.",
+                "(Danh) 'Phỉ liêm' 蜚蠊 con gián. § Một thứ sâu mình giẹt, bay được, chạm đến thì tỏa hơi thối ra, sinh sôi rất nhanh, hay gậm nhấm quần áo, ăn hại thực phẩm. § Tục gọi là 'chương lang' 蟑螂 hay 'giáp do' 甲由.",
+                "Một âm là 'phi'. (Động) Bay. § Thông 'phi' 飛.",
+                "(Tính) Không căn cứ, không thật. § Thông 'phi' 飛. ◎Như: 'lưu ngôn phi ngữ' 流言蜚語 lời đồn đại không căn cứ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một thứ sâu ăn lúa.",
+                "Phỉ liêm 蜚鐮 con gián, một thứ sâu bay hay ở bếp, chạm đến thì toả hơi thối ra tục gọi là chương lang 蟑螂.",
+                "Một âm là phi. Cùng nghĩa với chữ phi 飛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một loại sâu ăn lúa;",
+                "【蜚蠊】phỉ liêm [fâilián] (động) Con gián. Cg. 蟑螂 [zhangláng]. Xem 蜚 [fei]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phỉ liêm 蜚蠊: Con gián."
+            ],
+            "compound_words": {
+                "蜚蠊": "phỉ liêm",
+                "蜚鐮": "phỉ liêm",
+                "蜚镰": "phỉ liêm"
+            }
+        }
+    }
+}

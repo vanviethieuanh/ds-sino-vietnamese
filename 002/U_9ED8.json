@@ -1,0 +1,88 @@
+{
+    "character": "默",
+    "details": {
+        "Âm Hán Việt": [
+            "mặc"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "hắc 黑 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰黑犬"
+        ],
+        "Nét bút": [
+            "丨フ丶ノ一丨一一丶丶丶丶一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "WFIK (田火戈大)"
+        ],
+        "Unicode": [
+            "U+9ED8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボク (boku)",
+            "モク (moku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "だ.まる (da.maru)",
+            "もだ.す (moda.su)"
+        ],
+        "Âm Hàn": [
+            "묵"
+        ],
+        "Âm Quảng Đông": [
+            "mak6"
+        ]
+    },
+    "meanings": {
+        "mặc": {
+            "Từ điển phổ thông": [
+                "lặng yên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giữ lặng yên, không nói không cười. ◇Sử Kí 史記: 'Hán Vương mặc nhiên lương cửu, viết: Bất như dã' 漢王默然良久, 曰: 不如也 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Hán Vương lặng im một lúc, đáp: Ta không bằng (Hạng Vương 項王).",
+                "(Phó) Lặng yên. ◎Như: 'mặc tọa' 默坐 ngồi im.",
+                "(Phó) Ngầm, thầm. ◎Như: 'mặc khế' 默契 thỏa thuậm ngầm, 'mặc đảo' 默禱 khấn thầm.",
+                "(Phó) Thuộc lòng. ◎Như: 'mặc tụng' 默誦 đọc tụng theo trí nhớ, 'mặc tả' 默寫 viết thuộc lòng, viết chính tả.",
+                "(Danh) Họ 'Mặc'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lặng yên, không nói không cười gọi là mặc. Như mặc toạ 默坐 ngồi im."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Im lặng, lặng yên: 默不作聲 Im lặng không lên tiếng; 默坐 Ngồi im; 他是一個沈默多思 慮的孩子 Nó là một chú bé lặng lẽ (trầm mặc) ưa nghĩ ngợi;",
+                "Viết ra theo trí nhớ, thầm: 默寫 Viết chính tả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Yên lặng — không nói gì."
+            ],
+            "compound_words": {
+                "默哀": "mặc ai",
+                "默然": "mặc nhiên",
+                "默寫": "mặc tả",
+                "沈默": "trầm mặc",
+                "沉默": "trầm mặc",
+                "幽默": "u mặc",
+                "淵默": "uyên mặc"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "character": "詛",
+    "details": {
+        "Âm Hán Việt": [
+            "trớ",
+            "trở"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言且"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "YRBM (卜口月一)"
+        ],
+        "Unicode": [
+            "U+8A5B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zǔ ㄗㄨˇ"
+        ],
+        "Âm Nôm": [
+            "chú",
+            "thư",
+            "trớ",
+            "trù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)",
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のろ.う (noro.u)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "zo3"
+        ]
+    },
+    "meanings": {
+        "trớ": {
+            "Từ điển phổ thông": [
+                "rủa, chửi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Nguyền rủa. ◎Như: “trớ chú” 詛咒 rủa, chửi rủa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nguyền rủa. Trớ chú 詛咒 rủa, chửi rủa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【詛咒】trớ chú [zưzhòu] Rủa, nguyền, nguyền rủa, chửi rủa."
+            ],
+            "compound_words": {
+                "詛咒": "trớ chú"
+            }
+        },
+        "trở": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cầu mong cho người khác — Nguyện ước."
+            ]
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "醞",
+    "details": {
+        "Âm Hán Việt": [
+            "uấn",
+            "uẩn",
+            "ôn",
+            "ổn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "dậu 酉 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰酉𥁕"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一丨フノ丶一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "MWWOT (一田田人廿)"
+        ],
+        "Unicode": [
+            "U+919E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウン (un)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かも.す (kamo.su)"
+        ],
+        "Âm Hàn": [
+            "온"
+        ],
+        "Âm Quảng Đông": [
+            "wan3",
+            "wan5"
+        ]
+    },
+    "meanings": {
+        "uấn": {
+            "Từ điển phổ thông": [
+                "ủ rượu, cất rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gây rượu, ủ rượu. ◇Tào Thực 曹植: 'Hoặc thu tàng đông phát, hoặc xuân uấn hạ thành' 或秋藏冬發, 或春醞夏成 (Tửu phú 酒賦) Hoặc mùa thu cất giữ mùa đông phát ra, hoặc mùa xuân ủ rượu mùa hạ xong.",
+                "(Động) 'Uấn nhưỡng' 醞釀: (1) Cất rượu. (2) Thấm nhuần, ấp ủ biến hóa dần dần. (3) Dự bị, chuẩn bị. ◎Như: 'uấn nhưỡng bãi công' 醞釀罷工 chuẩn bị bãi công.",
+                "(Danh) Mượn chỉ rượu. ◎Như: 'giai hào mĩ uấn' 佳肴美醞 món ngon rượu quý. ◇Liêu trai chí dị 聊齋志異: 'Thất ngung nhất anh trữ giai uấn' 室隅一罌貯佳醞 (Phiên Phiên 翩翩) Góc nhà có một cái bình chứa rượu ngon."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Gây rượu, ủ rượu. Người nào học vấn hàm xúc gọi là uấn tịch 醞藉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ủ rượu, gây rượu;",
+                "Rượu;",
+                "(Sự) bàn bạc kĩ lưỡng, bàn bạc dự bị."
+            ]
+        },
+        "uẩn": {
+            "Từ điển phổ thông": [
+                "ủ rượu, cất rượu"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gây rượu — Cất rượu."
+            ],
+            "compound_words": {
+                "醞釀": "uẩn nhưỡng"
+            }
+        },
+        "ôn": {
+            "Từ điển phổ thông": [
+                "ủ rượu, cất rượu"
+            ]
+        },
+        "ổn": {
+            "Từ điển phổ thông": [
+                "ủ rượu, cất rượu"
+            ]
+        }
+    }
+}

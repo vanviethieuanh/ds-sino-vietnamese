@@ -1,0 +1,85 @@
+{
+    "character": "蝕",
+    "details": {
+        "Âm Hán Việt": [
+            "thực"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰飠虫"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "OILMI (人戈中一戈)"
+        ],
+        "Unicode": [
+            "U+8755"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ",
+            "lóng ㄌㄨㄥˊ",
+            "shí ㄕˊ"
+        ],
+        "Âm Nôm": [
+            "thực"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むしば.む (mushiba.mu)"
+        ],
+        "Âm Hàn": [
+            "식"
+        ],
+        "Âm Quảng Đông": [
+            "sik6"
+        ]
+    },
+    "meanings": {
+        "thực": {
+            "Từ điển phổ thông": [
+                "bị sâu mọt đục khoét",
+                "nhật thực, nguyệt thực"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Làm tiêu mất, làm cho thiếu hụt. ◎Như: 'nhật toàn thực' 日全蝕 mặt trời bị che lấp hoàn toàn.",
+                "(Động) Ăn mòn, đục khoét. ◎Như: 'xâm thực' 侵蝕 đục khoét dần, 'hủ thực' 腐蝕 ăn mòn, 'thực bổn' 蝕本 lỗ vốn. ◇Nguyễn Trãi 阮廌: 'Thanh đài bán thực bích gian thi' 青苔半蝕壁間詩 (Long Đại nham 龍袋岩) Rêu xanh đã ăn lấn nửa bài thơ trên vách đá."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mặt trời mặt trăng bị ăn.",
+                "Phàm vật gì bị sâu mọt cắn khoét sứt lở đều gọi là thực."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đục khoét, hao mòn: 侵蝕 Đục khoét dần; 腐蝕 Ăn mòn;",
+                "(văn) Mặt trời hay mặt trăng bị ăn (che khuất)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hư hỏng, hao hụt vì bị sâu ăn — Mặt trời, mặt trăng bị che đi. Td: Nhật thực, Nguyệt thực."
+            ],
+            "compound_words": {
+                "剝蝕": "bác thực",
+                "虧蝕": "khuy thực",
+                "月蝕": "nguyệt thực",
+                "日蝕": "nhật thực",
+                "侵蝕": "xâm thực"
+            }
+        }
+    }
+}

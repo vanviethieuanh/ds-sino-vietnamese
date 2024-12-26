@@ -1,0 +1,77 @@
+{
+    "character": "务",
+    "details": {
+        "Âm Hán Việt": [
+            "vũ",
+            "vụ"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "lực 力 (+3 nét)",
+            "tri 夂 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱夂力"
+        ],
+        "Nét bút": [
+            "ノフ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "HEKS (竹水大尸)"
+        ],
+        "Unicode": [
+            "U+52A1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "mùa",
+            "vụ"
+        ],
+        "Âm Quảng Đông": [
+            "mou6"
+        ]
+    },
+    "meanings": {
+        "vũ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 務."
+            ]
+        },
+        "vụ": {
+            "Từ điển phổ thông": [
+                "công việc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 務."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 務"
+            ],
+            "compound_words": {
+                "职务": "chức vụ",
+                "公务": "công vụ",
+                "家务": "gia vụ",
+                "业务": "nghiệp vụ",
+                "任务": "nhiệm vụ",
+                "服务": "phục vụ",
+                "国务": "quốc vụ",
+                "事务": "sự vụ",
+                "商务": "thương vụ",
+                "债务": "trái vụ"
+            }
+        }
+    }
+}

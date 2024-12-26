@@ -1,0 +1,61 @@
+{
+    "character": "獁",
+    "details": {
+        "Âm Hán Việt": [
+            "mã"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨馬"
+        ],
+        "Nét bút": [
+            "ノフノ一丨一一丨フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "KHSQF (大竹尸手火)"
+        ],
+        "Unicode": [
+            "U+7341"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mǎ ㄇㄚˇ"
+        ],
+        "Âm Nôm": [
+            "mã"
+        ],
+        "Âm Quảng Đông": [
+            "maa5",
+            "maa6"
+        ]
+    },
+    "meanings": {
+        "mã": {
+            "Từ điển phổ thông": [
+                "(xem: mãnh mã 猛獁,猛犸)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【猛獁】 mãnh mã [mâng mă] Voi mamut."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mãnh mã 猛獁: Tên chỉ loại voi cực lớn."
+            ],
+            "compound_words": {
+                "猛獁": "mãnh mã"
+            }
+        }
+    }
+}

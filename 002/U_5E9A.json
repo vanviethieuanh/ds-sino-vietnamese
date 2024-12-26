@@ -1,0 +1,88 @@
+{
+    "character": "庚",
+    "details": {
+        "Âm Hán Việt": [
+            "canh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+5 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶一ノフ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ILO (戈中人)"
+        ],
+        "Unicode": [
+            "U+5E9A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gēng ㄍㄥ"
+        ],
+        "Âm Nôm": [
+            "canh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かのえ (kanoe)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "gang1"
+        ]
+    },
+    "meanings": {
+        "canh": {
+            "Từ điển phổ thông": [
+                "đền trả",
+                "Canh (ngôi thứ 7 thuộc hàng Can)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Can 'Canh', can thứ bảy trong 'thiên can' 天干 mười can.",
+                "(Danh) Tuổi. ◎Như: 'đồng canh' 同庚 cùng tuổi. ◇Hồng Lâu Mộng 紅樓夢: 'Tự khởi niên canh, trừ Lí Hoàn niên kỉ tối trưởng, tha thập nhị cá nhân giai bất quá thập ngũ lục thất tuế' 敘起年庚, 除李紈年紀最長, 他十二個人皆不過十五六七歲 (Đệ tứ thập cửu hồi) Kể theo tuổi, trừ Lí Hoàn tuổi tác lớn hơn cả, mười hai người khác tuổi đều khoảng mười lăm mười sáu mười bảy tuổi là cùng.",
+                "(Danh) Con đường.",
+                "(Danh) Họ 'Canh' 庚.",
+                "(Động) Đền trả. ◇Lễ Kí 禮記: 'Quý Tử Cao táng kì thê, phạm nhân chi hòa. Thân Tường dĩ cáo viết: Thỉnh canh chi' 季子皋葬其妻, 犯人之禾. 申祥以告曰: 請庚之 (Đàn cung hạ 檀弓下) Quý Tử Cao mai táng vợ mình, làm hư lúa của người khác. Thân Tường bảo cho biết và nói: Xin bồi thường cho người ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Can canh, can thứ bảy trong mười can.",
+                "Tuổi, cùng tuổi với mình gọi là đồng canh 同庚.",
+                "Ðường.",
+                "Ðền trả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Can Canh (ngôi thứ bảy trong thập can);",
+                "Tuổi: 同庚 Đồng canh, cùng tuổi; 庚帖 Tấm thiếp ghi tên tuổi, quê quán của những người đã đính hôn;",
+                "(văn) Con đường;",
+                "(văn) Đền trả, bồi thường;",
+                "[Geng] (Họ) Canh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vị thứ bảy trong Thập thiên can — Tuổi tác."
+            ],
+            "compound_words": {
+                "庚帖": "canh thiếp",
+                "同庚": "đồng canh",
+                "年庚": "niên canh",
+                "貴庚": "quý canh",
+                "帖庚": "thiếp canh"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "獼",
+    "details": {
+        "Âm Hán Việt": [
+            "di",
+            "mi",
+            "my"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨彌"
+        ],
+        "Nét bút": [
+            "ノフノフ一フ一ノ丶丨フ丨ノ丶ノ丶ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KHNMB (大竹弓一月)"
+        ],
+        "Unicode": [
+            "U+737C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mí ㄇㄧˊ"
+        ],
+        "Âm Nôm": [
+            "mị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビ (bi)",
+            "ミ (mi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さる (saru)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "lei4",
+            "mei4",
+            "nei4"
+        ]
+    },
+    "meanings": {
+        "di": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “mi hầu” 獼猴. Ta quen đọc là “di hầu”."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mi hầu 獼猴 con khỉ lớn, con khỉ cái. Ta quen đọc là chữ di."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【獼猴】di hầu [míhóu] Khỉ macác (một giống khỉ nhỏ)."
+            ],
+            "compound_words": {
+                "獼猴": "di hầu"
+            }
+        },
+        "mi": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “mi hầu” 獼猴. Ta quen đọc là “di hầu”."
+            ],
+            "compound_words": {
+                "獼猴": "mi hầu"
+            }
+        },
+        "my": {
+            "Từ điển phổ thông": [
+                "con khỉ lớn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mi hầu 獼猴 con khỉ lớn, con khỉ cái. Ta quen đọc là chữ di."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Mi hầu 獼猴."
+            ]
+        }
+    }
+}

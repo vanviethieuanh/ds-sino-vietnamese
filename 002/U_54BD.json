@@ -1,0 +1,169 @@
+{
+    "character": "咽",
+    "details": {
+        "Âm Hán Việt": [
+            "yên",
+            "yến",
+            "yết",
+            "ân",
+            "ế"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口因"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "RWK (口田大)"
+        ],
+        "Unicode": [
+            "U+54BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yān ㄧㄢ",
+            "yàn ㄧㄢˋ",
+            "yè ㄜˋ"
+        ],
+        "Âm Nôm": [
+            "ịt",
+            "nhằn",
+            "nhiết",
+            "yến",
+            "yết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "エン (en)",
+            "エツ (etsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むせ.ぶ (muse.bu)",
+            "むせ.る (muse.ru)",
+            "のど (nodo)",
+            "の.む (no.mu)"
+        ],
+        "Âm Hàn": [
+            "인",
+            "열"
+        ],
+        "Âm Quảng Đông": [
+            "jin1",
+            "jin3",
+            "jit3"
+        ]
+    },
+    "meanings": {
+        "yên": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 嚥"
+            ]
+        },
+        "yến": {
+            "Từ điển phổ thông": [
+                "nuốt xuống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ họng. ◎Như: 'yết hầu' 咽喉 cổ họng, cũng chỉ nơi hình thế hiểm yếu. § Xem từ này.",
+                "Một âm là 'yến'. (Động) Nuốt xuống. ◇Cao Bá Quát 高伯适: 'Mạn dã mạc sậu yến' 慢也莫驟咽 Đạo phùng ngạ phu 道逢餓夫) Thong thả đừng vội nuốt.",
+                "Lại một âm là 'ế'. (Động) Nghẹn ngào. ◎Như: 'ngạnh ế' 梗咽 nghẹn cổ không nói ra được. ◇Liêu trai chí dị 聊齋志異: 'Cật chi, bất ngôn, đãn hữu ô ế' 詰之, 不言, 但有嗚咽 (Hương Ngọc 香玉) Gạn hỏi nàng, không nói, chỉ nghẹn ngào.",
+                "(Động) Nghẽn, tắc. ◇Lí Đoan 李端: 'Sàn viên ế hựu thông' 潺湲咽又通 (Túc thâm thượng nhân viện thính viễn tuyền 宿深上人院聽遠泉) Nước chảy rì rào, nghẽn rồi lại thông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cổ họng.",
+                "Một âm là yến. Nuốt xuống.",
+                "Lại một âm là ế nghẹn ngào, như ngạnh ế 梗咽 nghẹn cổ không nói ra được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nuốt xuống (như 嚥);",
+                "Nghẹn ngào. Xem 哽咽 [gângye], 鳴咽 [wuyè]. Xem 咽 [yan], 嚥 [yàn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nuốt vào cổ — Các âm khác là Ân, Yết. Xem các âm này."
+            ],
+            "compound_words": {
+                "咽下": "yến hạ"
+            }
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "cuống họng, cổ họng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ họng. ◎Như: 'yết hầu' 咽喉 cổ họng, cũng chỉ nơi hình thế hiểm yếu. § Xem từ này.",
+                "Một âm là 'yến'. (Động) Nuốt xuống. ◇Cao Bá Quát 高伯适: 'Mạn dã mạc sậu yến' 慢也莫驟咽 Đạo phùng ngạ phu 道逢餓夫) Thong thả đừng vội nuốt.",
+                "Lại một âm là 'ế'. (Động) Nghẹn ngào. ◎Như: 'ngạnh ế' 梗咽 nghẹn cổ không nói ra được. ◇Liêu trai chí dị 聊齋志異: 'Cật chi, bất ngôn, đãn hữu ô ế' 詰之, 不言, 但有嗚咽 (Hương Ngọc 香玉) Gạn hỏi nàng, không nói, chỉ nghẹn ngào.",
+                "(Động) Nghẽn, tắc. ◇Lí Đoan 李端: 'Sàn viên ế hựu thông' 潺湲咽又通 (Túc thâm thượng nhân viện thính viễn tuyền 宿深上人院聽遠泉) Nước chảy rì rào, nghẽn rồi lại thông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cổ họng.",
+                "Một âm là yến. Nuốt xuống.",
+                "Lại một âm là ế nghẹn ngào, như ngạnh ế 梗咽 nghẹn cổ không nói ra được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(giải) Cổ họng. 【咽喉】yết hầu [yanhóu] (giải) Yết hầu, họng;",
+                "Chỗ hiểm yếu, nơi yết hầu: 咽喉要地 Vị trí yết hầu, nơi hiểm yếu. Xem 嚥 [yàn], 咽 [yè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cổ họng — Các âm khác là Ân, Yết. Xem các âm này."
+            ],
+            "compound_words": {
+                "嗚咽": "ô yết",
+                "喘咽": "suyễn yết",
+                "咽喉": "yết hầu",
+                "咽塞": "yết tắc"
+            }
+        },
+        "ân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ân ân, ngay duới — Các âm khác là a Yến, Yết."
+            ],
+            "compound_words": {
+                "咽咽": "ân ân"
+            }
+        },
+        "ế": {
+            "Từ điển phổ thông": [
+                "nghẹn cổ không nói được"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ họng. ◎Như: 'yết hầu' 咽喉 cổ họng, cũng chỉ nơi hình thế hiểm yếu. § Xem từ này.",
+                "Một âm là 'yến'. (Động) Nuốt xuống. ◇Cao Bá Quát 高伯适: 'Mạn dã mạc sậu yến' 慢也莫驟咽 Đạo phùng ngạ phu 道逢餓夫) Thong thả đừng vội nuốt.",
+                "Lại một âm là 'ế'. (Động) Nghẹn ngào. ◎Như: 'ngạnh ế' 梗咽 nghẹn cổ không nói ra được. ◇Liêu trai chí dị 聊齋志異: 'Cật chi, bất ngôn, đãn hữu ô ế' 詰之, 不言, 但有嗚咽 (Hương Ngọc 香玉) Gạn hỏi nàng, không nói, chỉ nghẹn ngào.",
+                "(Động) Nghẽn, tắc. ◇Lí Đoan 李端: 'Sàn viên ế hựu thông' 潺湲咽又通 (Túc thâm thượng nhân viện thính viễn tuyền 宿深上人院聽遠泉) Nước chảy rì rào, nghẽn rồi lại thông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cổ họng.",
+                "Một âm là yến. Nuốt xuống.",
+                "Lại một âm là ế nghẹn ngào, như ngạnh ế 梗咽 nghẹn cổ không nói ra được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nuốt xuống (như 嚥);",
+                "Nghẹn ngào. Xem 哽咽 [gângye], 鳴咽 [wuyè]. Xem 咽 [yan], 嚥 [yàn]."
+            ],
+            "compound_words": {
+                "呜咽": "ô ế",
+                "嗚咽": "ô yết",
+                "喘咽": "suyễn yết",
+                "咽下": "yến hạ",
+                "咽喉": "yết hầu",
+                "咽塞": "yết tắc"
+            }
+        }
+    }
+}

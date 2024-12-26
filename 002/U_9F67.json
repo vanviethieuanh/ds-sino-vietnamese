@@ -1,0 +1,105 @@
+{
+    "character": "齧",
+    "details": {
+        "Âm Hán Việt": [
+            "khiết",
+            "niết"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "xỉ 齒 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱㓞齒"
+        ],
+        "Nét bút": [
+            "一一一丨フノ丨一丨一ノ丶ノ丶一ノ丶ノ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "QHYMU (手竹卜一山)"
+        ],
+        "Unicode": [
+            "U+9F67"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "niè ㄋㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "khiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲツ (getsu)",
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かじ.る (kaji.ru)",
+            "か.む (ka.mu)"
+        ],
+        "Âm Hàn": [
+            "설"
+        ],
+        "Âm Quảng Đông": [
+            "jit6",
+            "ngaat6",
+            "ngit6"
+        ]
+    },
+    "meanings": {
+        "khiết": {
+            "Từ điển phổ thông": [
+                "cắn đứt",
+                "ăn mòn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cắn. ◇Liễu Tông Nguyên 柳宗元: 'Dĩ niết nhân, vô ngự chi giả' 以齧人, 無禦之者 (Bộ xà giả thuyết 捕蛇者說) (Rắn này) cắn ai, thì vô phương cứu chữa.",
+                "(Động) Gặm, ăn mòn. ◇Pháp Hoa Kinh 法華經: 'Tễ niết tử thi, cốt nhục lang tạ' 嚌齧死屍, 骨肉狼藉 (Thí dụ phẩm đệ tam 譬喻品第三) Nhấm gặm xác chết, xương thịt bừa bãi.",
+                "(Danh) Chỗ khuyết, vết sứt. ◇Hoài Nam Tử 淮南子: 'Kiếm chi chiết tất hữu niết' 劍之折必有齧 (Nguyên đạo Nhân gian huấn) Kiếm gãy tất có chỗ khuyết.",
+                "§ Ghi chú: Ta quen đọc là 'khiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cắn, lấy răng cắn đứt gọi là niết.",
+                "Khuyết, sứt.",
+                "Ăn mòn. Ta quen đọc là chữ khiết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cắn;",
+                "Gặm, ăn mòn;",
+                "Khuyết, sứt."
+            ]
+        },
+        "niết": {
+            "Từ điển phổ thông": [
+                "cắn đứt",
+                "ăn mòn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cắn. ◇Liễu Tông Nguyên 柳宗元: 'Dĩ niết nhân, vô ngự chi giả' 以齧人, 無禦之者 (Bộ xà giả thuyết 捕蛇者說) (Rắn này) cắn ai, thì vô phương cứu chữa.",
+                "(Động) Gặm, ăn mòn. ◇Pháp Hoa Kinh 法華經: 'Tễ niết tử thi, cốt nhục lang tạ' 嚌齧死屍, 骨肉狼藉 (Thí dụ phẩm đệ tam 譬喻品第三) Nhấm gặm xác chết, xương thịt bừa bãi.",
+                "(Danh) Chỗ khuyết, vết sứt. ◇Hoài Nam Tử 淮南子: 'Kiếm chi chiết tất hữu niết' 劍之折必有齧 (Nguyên đạo Nhân gian huấn) Kiếm gãy tất có chỗ khuyết.",
+                "§ Ghi chú: Ta quen đọc là 'khiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cắn, lấy răng cắn đứt gọi là niết.",
+                "Khuyết, sứt.",
+                "Ăn mòn. Ta quen đọc là chữ khiết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắn. Dùng răng mà cắn — Thiếu đi. Sứt đi."
+            ],
+            "compound_words": {
+                "窮鼠齧貍": "cùng thử niết li"
+            }
+        }
+    }
+}

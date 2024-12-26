@@ -1,0 +1,82 @@
+{
+    "character": "珊",
+    "details": {
+        "Âm Hán Việt": [
+            "san"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩册"
+        ],
+        "Nét bút": [
+            "一一丨一ノフノフ一"
+        ],
+        "Thương Hiệt": [
+            "MGBT (一土月廿)"
+        ],
+        "Unicode": [
+            "U+73CA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "san"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "センチ (sen chi)",
+            "さんち (san chi)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "saan1"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển phổ thông": [
+                "(xem: san hô 珊瑚)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “san hô” 珊瑚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "San hô 珊瑚 một thứ động vật nhỏ ở trong bể kết lại, hình như cành cây, đẹp như ngọc, dùng làm chỏm mũ rất quý.",
+                "San san 珊珊 tiếng ngọc leng keng.",
+                "Lan san 闌珊 rã rời, trơ trụi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【珊瑚】san hô [shanhú] San hô."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem các từ ngữ 珊瑚, 珊珊."
+            ],
+            "compound_words": {
+                "盤珊": "bàn san",
+                "闌珊": "lan san",
+                "阑珊": "lan san",
+                "珊瑚": "san hô",
+                "珊珊": "san san"
+            }
+        }
+    }
+}

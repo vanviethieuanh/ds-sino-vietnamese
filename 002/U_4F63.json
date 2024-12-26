@@ -1,0 +1,81 @@
+{
+    "character": "佣",
+    "details": {
+        "Âm Hán Việt": [
+            "dong",
+            "dung",
+            "dụng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻用"
+        ],
+        "Nét bút": [
+            "ノ丨ノフ一一丨"
+        ],
+        "Thương Hiệt": [
+            "OBQ (人月手)"
+        ],
+        "Unicode": [
+            "U+4F63"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yōng ㄧㄨㄥ",
+            "yóng ㄧㄨㄥˊ",
+            "yòng ㄧㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "dung",
+            "nhúng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Quảng Đông": [
+            "jung6"
+        ]
+    },
+    "meanings": {
+        "dong": {
+            "Từ điển phổ thông": [
+                "làm thuê"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 傭."
+            ],
+            "compound_words": {
+                "僱佣": "cố dong"
+            }
+        },
+        "dung": {
+            "Từ điển Trần Văn Chánh": [
+                "Thuê. 【佣工】 dung công [yonggong] (cũ) Người làm thuê. Xem 佣 [yòng]."
+            ]
+        },
+        "dụng": {
+            "Từ điển Trần Văn Chánh": [
+                "【佣金】dụng kim [yòngjin] (Tiền) hoa hồng, thù lao. Xem 佣 [yong]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Dụng kim 佣金."
+            ],
+            "compound_words": {
+                "佣金": "dụng kim"
+            }
+        }
+    }
+}

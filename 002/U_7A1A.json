@@ -1,0 +1,86 @@
+{
+    "character": "稚",
+    "details": {
+        "Âm Hán Việt": [
+            "trĩ"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoà 禾 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾隹"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "HDOG (竹木人土)"
+        ],
+        "Unicode": [
+            "U+7A1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "trẻ",
+            "trĩ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チ (chi)",
+            "ジ (ji)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いとけない (itokenai)",
+            "おさない (osanai)",
+            "おくて (okute)",
+            "おでる (oderu)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "zi6"
+        ]
+    },
+    "meanings": {
+        "trĩ": {
+            "Từ điển phổ thông": [
+                "lúa non",
+                "trẻ con"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Trẻ, bé, thơ, non. ◎Như: 'ấu trĩ' 幼稚 non nớt. ◇Đào Uyên Minh 陶淵明: 'Đồng bộc hoan nghênh, trĩ tử hậu môn' 僮僕歡迎, 稚子候門 (Quy khứ lai từ 歸去來辭) Đầy tớ đón tiếp, con trẻ đợi ở cửa.",
+                "(Danh) Trẻ con, hài đồng, ấu đồng. ◇Lí Bạch 李白: 'Tương huề cập điền gia, Đồng trĩ khai kinh phi' 相攜及田家, 童稚開荊扉 (Hạ Chung Nam san 下終南山) Cầm tay nhau đến nhà làm ruộng, Trẻ con mở cửa phên (đón rước)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thơ bé, trẻ bé. Cái gì còn non nớt bé nhỏ đều gọi là trĩ. Con trẻ gọi là trĩ tử 稚子."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trẻ thơ, trẻ, non, mới, trĩ: 幼稚 Ấu trĩ, non nớt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lúa chín muộn — Trẻ con. Td: Ấu trĩ."
+            ],
+            "compound_words": {
+                "幼稚": "ấu trĩ",
+                "幼稚園": "ấu trĩ viên",
+                "蒙稚": "mông trĩ",
+                "孥稚": "noa trĩ",
+                "稚子": "trĩ tử"
+            }
+        }
+    }
+}

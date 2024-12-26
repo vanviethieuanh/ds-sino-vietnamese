@@ -1,0 +1,84 @@
+{
+    "character": "箋",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trúc 竹 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮戔"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一フノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HII (竹戈戈)"
+        ],
+        "Unicode": [
+            "U+7B8B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "tiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふだ (fuda)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "sách có chỉ dẫn, kiến giải tỉ mỉ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chú thích kinh truyện. ◎Như: sách của Trịnh Khang Thành 鄭康成 (127-200) chú thích Kinh Thi gọi là 'Trịnh tiên' 鄭箋.",
+                "(Danh) Tên một thể văn để tâu với quan trên.",
+                "(Danh) Giấy viết thư hoặc đề tự. ◎Như: 'hoa tiên' 花箋 một thứ giấy khổ nhỏ, vẽ màu đẹp dùng để viết thư.",
+                "(Danh) Thư từ, tín trát. ◎Như: 'tín tiên' 信箋."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cuốn sách có chua ở trên và ở dưới để nêu rõ cái ý người xưa, hay lấy ý mình phán đoán khiến cho người ta dễ biết dễ nhớ gọi là tiên, như sách của Trịnh Khang Thành chú thích Kinh Thi gọi là Trịnh tiên 鄭箋.",
+                "Một lối văn tâu với các quan trên.",
+                "Giấy hoa tiên 花箋, một thứ giấy khổ nhỏ mà vẽ màu đẹp dùng để viết thơ từ cho lịch sự gọi là giấy hoa tiên, vì thế mới gọi thư từ là tiên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 牋"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tờ giấy có vân, để viết thư, hoặc để thơ.  Đoạn trường tân thanh : » Tiên thề cùng thảo một trương «."
+            ],
+            "compound_words": {
+                "第八才子花箋演音": "đệ bát tài tử hoa tiên diễn âm",
+                "花箋": "hoa tiên",
+                "花箋傳": "hoa tiên truyện",
+                "箋花": "tiên hoa",
+                "便箋": "tiện tiên"
+            }
+        }
+    }
+}

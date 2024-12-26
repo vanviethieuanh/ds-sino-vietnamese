@@ -1,0 +1,75 @@
+{
+    "character": "铺",
+    "details": {
+        "Âm Hán Việt": [
+            "phô",
+            "phố"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅甫"
+        ],
+        "Nét bút": [
+            "ノ一一一フ一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "XCIJB (重金戈十月)"
+        ],
+        "Unicode": [
+            "U+94FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pū ㄆㄨ",
+            "pù ㄆㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phô"
+        ],
+        "Âm Quảng Đông": [
+            "pou3"
+        ]
+    },
+    "meanings": {
+        "phô": {
+            "Từ điển phổ thông": [
+                "phô, bày",
+                "lát phẳng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鋪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋪"
+            ]
+        },
+        "phố": {
+            "Từ điển phổ thông": [
+                "cửa hàng buôn bán",
+                "giường, phản"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鋪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋪"
+            ],
+            "compound_words": {
+                "床铺": "sàng phố"
+            }
+        }
+    }
+}

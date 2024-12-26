@@ -1,0 +1,97 @@
+{
+    "character": "啡",
+    "details": {
+        "Âm Hán Việt": [
+            "phi",
+            "phê",
+            "phôi",
+            "phỉ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口非"
+        ],
+        "Nét bút": [
+            "丨フ一丨一一一丨一一一"
+        ],
+        "Thương Hiệt": [
+            "RLMY (口中一卜)"
+        ],
+        "Unicode": [
+            "U+5561"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēi ㄈㄟ",
+            "pēi ㄆㄟ"
+        ],
+        "Âm Nôm": [
+            "phê"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)",
+            "ヘ (he)",
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いびき (ibiki)",
+            "つば (tsuba)"
+        ],
+        "Âm Quảng Đông": [
+            "fe1",
+            "fei1"
+        ]
+    },
+    "meanings": {
+        "phi": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 咖啡 [kafei], 嗎啡 [măfei]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gia phi 咖啡: Cà phê ( café ) — Một âm là Phôi. Xem Phôi."
+            ],
+            "compound_words": {
+                "咖啡": "gia phi"
+            }
+        },
+        "phê": {
+            "Từ điển phổ thông": [
+                "(xem: già phê 咖啡)",
+                "(xem: mạ phê 嗎啡,吗啡)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Già phê' 咖啡: xem 'già' 咖.",
+                "(Danh) 'Mạ phê' 嗎啡: xem 'mạ' 嗎."
+            ],
+            "compound_words": {
+                "咖啡": "già phê",
+                "吗啡": "mạ phê",
+                "嗎啡": "mạ phê"
+            }
+        },
+        "phôi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng nhổ phì trong miệng ra — Một âm là Phi. Xem Phi."
+            ]
+        },
+        "phỉ": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Già phê' 咖啡: xem 'già' 咖.",
+                "(Danh) 'Mạ phê' 嗎啡: xem 'mạ' 嗎."
+            ]
+        }
+    }
+}

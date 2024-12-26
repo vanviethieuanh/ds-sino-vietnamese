@@ -1,0 +1,94 @@
+{
+    "character": "箴",
+    "details": {
+        "Âm Hán Việt": [
+            "châm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trúc 竹 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮咸"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一ノ一丨フ一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HIHR (竹戈竹口)"
+        ],
+        "Unicode": [
+            "U+7BB4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ",
+            "zhēn ㄓㄣ"
+        ],
+        "Âm Nôm": [
+            "châm",
+            "dăm",
+            "giăm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いまし.める (imashi.meru)",
+            "はり (hari)"
+        ],
+        "Âm Hàn": [
+            "잠"
+        ],
+        "Âm Quảng Đông": [
+            "zam1"
+        ]
+    },
+    "meanings": {
+        "châm": {
+            "Từ điển phổ thông": [
+                "khuyên răn",
+                "viết chữ hay khắc vào gỗ để trông làm gương",
+                "đơn vị đếm lông chim, bằng 10 cái"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tên một thể văn, viết để khuyên răn.",
+                "(Danh) Kim dùng để châm cứu (đông y).",
+                "(Danh) Lượng từ: mười lông cánh chim gọi là một 'châm' 箴.",
+                "(Động) Khuyên răn. ◇Tả truyện 左傳: 'Châm chi viết, dân sanh tại cần' 箴之曰, 民生在勤 (Tuyên Công thập nhị niên 宣公十二年) Khuyên rằng dân sống do chăm chỉ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái kim khâu, cùng nghĩa với chữ châm 針.",
+                "Khuyên răn.",
+                "Bài châm, viết chữ vào giấy hay khắc vào gỗ treo chung quanh chỗ ở để trông làm gương gọi là bài châm 箴.",
+                "Tính lông cánh chim cứ mười cái gọi là một châm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 針 [zhen] nghĩa ;",
+                "Răn, khuyên răn: 箴規 Điều răn;",
+                "(cũ) Bài châm (viết trên giấy hoặc khắc trên gỗ, treo chung quanh chỗ ngồi để tự nhắc nhở mình): 箴文 Bài châm;",
+                "(văn) (loại) (Đơn vị tính) mười lông cánh chim."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mũi kim để khâu quần áo — Khuyên răn."
+            ],
+            "compound_words": {
+                "箴諫": "châm gián",
+                "箴言": "châm ngôn",
+                "箴規": "châm quy",
+                "箴石": "châm thạch",
+                "婦箴便覽": "phụ châm tiện lãm"
+            }
+        }
+    }
+}

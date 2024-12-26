@@ -1,0 +1,152 @@
+{
+    "character": "記",
+    "details": {
+        "Âm Hán Việt": [
+            "kí",
+            "ký"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言己"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ一フ"
+        ],
+        "Thương Hiệt": [
+            "YRSU (卜口尸山)"
+        ],
+        "Unicode": [
+            "U+8A18"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ghi",
+            "kí",
+            "ký"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しる.す (shiru.su)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei3"
+        ]
+    },
+    "meanings": {
+        "kí": {
+            "Từ điển trích dẫn": [
+                "(Động) Nhớ. ◎Như: 'kí tụng' 記誦 học thuộc cho nhớ, 'kí bất thanh' 記不清 không nhớ rõ. ◇Hồng Lâu Mộng 紅樓夢: 'Cộng kí đắc đa thiểu thủ?' 共記得多少首? (Đệ tứ thập bát hồi) Nhớ được tất cả bao nhiều bài (thơ) rồi?",
+                "(Động) Ghi chép, biên chép. ◎Như: 'kí quá' 記過 ghi chép lỗi lầm đã làm ra. ◇Phạm Trọng Yêm 范仲淹: 'Khắc Đường hiền kim nhân thi phú ư kì thượng, chúc dư tác văn dĩ kí chi' 刻唐賢今人詩賦於其上, 屬予作文以記之 (Nhạc Dương Lâu kí 岳陽樓記) Khắc trên (lầu) những thi phú của chư hiền đời Đường (cùng) các người thời nay, cậy tôi làm bài văn để ghi lại.",
+                "(Động) (Thuật ngữ Phật giáo) Báo trước, đối với một đệ tử hoặc người phát nguyện tu hành, trong tương lai sẽ thành Phật quả. ◎Như: 'thụ kí' 授記.",
+                "(Danh) Văn tự hoặc sách vở ghi chép các sự vật. ◎Như: 'Lễ Kí' 禮記 sách chép các lễ phép, 'du kí' 遊記 sách chép các sự đã nghe đã thấy trong khi đi chơi.",
+                "(Danh) Một thể văn mà chủ đích là tự sự. ◎Như: 'Phạm Trọng Yêm' 范仲淹 viết 'Nhạc Dương Lâu kí' 岳陽樓記.",
+                "(Danh) Con dấu, ấn chương.",
+                "(Danh) Dấu hiệu, phù hiệu. ◎Như: 'dĩ bạch sắc vi kí' 以白色爲記 lấy màu trắng làm dấu hiệu, 'ám kí' 暗記 mật hiệu.",
+                "(Danh) Vệt, bớt trên da.",
+                "(Danh) Lượng từ: lần, cái. ◎Như: 'đả nhất kí' 打一記 đánh một cái."
+            ],
+            "compound_words": {
+                "簿記": "bạ kí",
+                "碑記": "bi kí",
+                "表記": "biểu kí",
+                "筆記": "bút kí",
+                "掌記": "chưởng kí",
+                "公餘捷記": "công dư tiệp kí",
+                "強記": "cường kí",
+                "塋記": "doanh kí",
+                "遊記": "du kí",
+                "洋程記見": "dương trình kí kiến",
+                "大越史記": "đại việt sử kí",
+                "大越史記本紀實錄": "đại việt sử kí bản kỉ thực lục",
+                "大越史記本紀續編": "đại việt sử kí bản kỉ tục biên",
+                "大越史記前編": "đại việt sử kí tiền biên",
+                "大越史記全書": "đại việt sử kí toàn thư",
+                "大越史記續編": "đại việt sử kí tục biên",
+                "登記": "đăng kí",
+                "記音": "kí âm",
+                "記簿": "kí bạ",
+                "記註": "kí chú",
+                "記者": "kí giả",
+                "記力": "kí lực",
+                "記認": "kí nhận",
+                "記事": "kí sự",
+                "記載": "kí tái",
+                "記性": "kí tính",
+                "記住": "kí trụ",
+                "記憶": "kí ức",
+                "金陵記": "kim lăng kí",
+                "南巡記程": "nam tuần kí trình",
+                "日記": "nhật kí",
+                "戳記": "sác kí",
+                "創世記": "sáng thế kí",
+                "讖記": "sấm kí",
+                "史記": "sử kí",
+                "載記": "tái kí",
+                "雜記": "tạp kí",
+                "西巡記程": "tây tuần kí trình",
+                "退食記文": "thoái thực kí văn",
+                "書記": "thư kí",
+                "籍記": "tịch kí",
+                "速記": "tốc kí",
+                "札記": "trát kí",
+                "傳記": "truyện kí",
+                "忘記": "vong kí"
+            }
+        },
+        "ký": {
+            "Từ điển phổ thông": [
+                "nhớ",
+                "ghi chép, viết"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhớ, nhớ kĩ cho khỏi quên. Như kí tụng 記誦 học thuộc cho nhớ.",
+                "Ghi chép. Như kí quá 記過 ghi chép lỗi lầm đã làm ra. Phàm cuốn sách nào ghi chép các sự vật đều gọi là kí. Như lễ kí 禮記 sách chép các lễ phép, du kí 遊記 sách chép các sự đã nghe đã thấy trong khi đi chơi, v.v.",
+                "Tờ bồi. Người giữ về việc giấy má sổ sách gọi là thư kí 書記.",
+                "Phàm giấy má gì mà những người có quan hệ vào đấy đều phải viết tên mình vào để làm ghi đều gọi là kí.",
+                "Dấu hiệu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhớ: 記不清 Không nhớ rõ; 還記得 Còn nhớ;",
+                "Ghi, biên: 記帳 Ghi sổ; 記一大功 Ghi (một) công lớn;",
+                "Sổ ghi chép, sách ghi chép, ... kí: 日記 Nhật kí; 游記 Du kí; 大事記 Sách ghi những việc lớn (đã xảy ra);",
+                "Dấu hiệu: 以白色爲記 Lấy màu trắng làm dấu hiệu; 鈴記 Con dấu;",
+                "Nốt ruồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhớ. Khắc ghi trong đầu óc — Ghi chép — Sách ghi chép sự vật — Thể văn ghi chép sự vật — Tên người, tức Trương Vĩnh Kí, sinh năm 1837 mất năm 1898, người thôn Cái Mông, xã Vĩnh Thanh, huyện Tân Minh, tỉnh Vĩnh Long, giỏi Hán văn, Pháp văn và nhiều tiếng ngoại quốc, từng làm Đốc học trường Thông ngôn. Năm 1886, ông được triệu ra Huế, làm việc trong Cơ mật viện, giúp cho việc giao thiệp giữa người Pháp và triều đình Huế. Ít lâu sau, ông xin từ chức về quê lo việc trước tác. Ông là người đầu tiên cổ động cho chữ Quốc ngữ. Những tác phẩm của ông như Chuyện đời xưa, Chuyện khôi hài là những tác phẩm quốc ngữ đầu tiên của ta."
+            ],
+            "compound_words": {
+                "記錄": "ký lục",
+                "記誦": "ký tụng",
+                "日記": "nhật ký",
+                "書記": "thư ký",
+                "標記": "tiêu ký",
+                "摘記": "trích ký",
+                "傳記": "truyện ký",
+                "死記": "tử ký",
+                "忘記": "vong ký"
+            }
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "character": "摺",
+    "details": {
+        "Âm Hán Việt": [
+            "chiếp",
+            "chiệp",
+            "lạp",
+            "triệp"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thủ 手 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘習"
+        ],
+        "Nét bút": [
+            "一丨一フ丶一フ丶一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "QSMA (手尸一日)"
+        ],
+        "Unicode": [
+            "U+647A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lā ㄌㄚ",
+            "zhé ㄓㄜˊ"
+        ],
+        "Âm Nôm": [
+            "chiết",
+            "dập",
+            "rập",
+            "triệp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "シュウ (shū)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.る (su.ru)",
+            "ひだ (hida)"
+        ],
+        "Âm Hàn": [
+            "접",
+            "랍"
+        ],
+        "Âm Quảng Đông": [
+            "zaap3",
+            "zip3"
+        ]
+    },
+    "meanings": {
+        "chiếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hư hỏng, hư hại — Gấp lại. Xếp lại."
+            ],
+            "compound_words": {
+                "摺扇": "chiếp phiến",
+                "摺尺": "chiếp xích"
+            }
+        },
+        "chiệp": {
+            "Từ điển trích dẫn": [
+                "(Động) Gấp, xếp thành từng tập. ◎Như: 'thủ chiệp' 手摺 tập tay viết, 'tấu chiệp' 奏摺 tập sớ tấu.",
+                "Một âm là 'lạp'. (Động) Bẻ gãy. § Cũng như chữ 'lạp' 拉."
+            ]
+        },
+        "lạp": {
+            "Từ điển trích dẫn": [
+                "(Động) Gấp, xếp thành từng tập. ◎Như: 'thủ chiệp' 手摺 tập tay viết, 'tấu chiệp' 奏摺 tập sớ tấu.",
+                "Một âm là 'lạp'. (Động) Bẻ gãy. § Cũng như chữ 'lạp' 拉."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gấp, chếp, xếp giấy thành từng tập, cũng gọi là tập, như thủ triệp 手摺 tập tay viết, tấu triệp 奏摺 tập sớ tấu, v.v.",
+                "Một âm là lạp. Bẻ gấp, cũng như chữ lạp 拉."
+            ]
+        },
+        "triệp": {
+            "Từ điển phổ thông": [
+                "gấp, xếp"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gấp, chếp, xếp giấy thành từng tập, cũng gọi là tập, như thủ triệp 手摺 tập tay viết, tấu triệp 奏摺 tập sớ tấu, v.v.",
+                "Một âm là lạp. Bẻ gấp, cũng như chữ lạp 拉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gấp, xếp (giấy...);",
+                "Cuốn sách mỏng gấp lại, tập;",
+                "Cong và cuốn lại;",
+                "Kéo gãy."
+            ]
+        }
+    }
+}

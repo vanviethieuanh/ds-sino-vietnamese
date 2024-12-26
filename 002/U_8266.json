@@ -1,0 +1,78 @@
+{
+    "character": "艦",
+    "details": {
+        "Âm Hán Việt": [
+            "hạm"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "chu 舟 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟監"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶一丨フ一丨フノ一丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "HYSIT (竹卜尸戈廿)"
+        ],
+        "Unicode": [
+            "U+8266"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hạm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "함"
+        ],
+        "Âm Quảng Đông": [
+            "laam6"
+        ]
+    },
+    "meanings": {
+        "hạm": {
+            "Từ điển phổ thông": [
+                "tàu chiến"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Tàu chiến cỡ lớn. ◎Như: “tuần dương hạm” 巡洋艦, “hàng không mẫu hạm” 航空母艦."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tàu trận. Nay gọi quân đánh trên mặt bể là hạm đội 艦隊, tàu trận gọi là quân hạm 軍艦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tàu chiến, hạm: 航空母艦 Hàng không mẫu hạm, tàu sân bay."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại thuyền trận đời xưa, xung quanh có thành gỗ cao để ngăn tên đạn của địch — Ngày nay chỉ tầu chiến."
+            ],
+            "compound_words": {
+                "兵艦": "binh hạm",
+                "戰艦": "chiến hạm",
+                "艦隊": "hạm đội",
+                "艦長": "hạm trưởng",
+                "炮艦": "pháo hạm",
+                "軍艦": "quân hạm",
+                "巡洋艦": "tuần dương hạm"
+            }
+        }
+    }
+}

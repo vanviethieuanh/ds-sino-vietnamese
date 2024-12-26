@@ -1,0 +1,97 @@
+{
+    "character": "穀",
+    "details": {
+        "Âm Hán Việt": [
+            "cốc"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "hoà 禾 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "一丨一丶フ一ノ一丨ノ丶ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "GDHNE (土木竹弓水)"
+        ],
+        "Unicode": [
+            "U+7A40"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gòu ㄍㄡˋ",
+            "gǔ ㄍㄨˇ",
+            "nòu ㄋㄡˋ"
+        ],
+        "Âm Nôm": [
+            "cốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コク (koku)"
+        ],
+        "Âm Hàn": [
+            "곡",
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "guk1"
+        ]
+    },
+    "meanings": {
+        "cốc": {
+            "Từ điển phổ thông": [
+                "cây lương thực, thóc lúa, kê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lúa, gạo, hoa màu, lương thực nói chung. ◎Như: 'ngũ cốc' 五穀 năm thứ cốc: 'đạo, thử, tắc, mạch, thục' 稻黍稷麥菽 lúa gié, lúa nếp, lúa tắc, lúa tẻ, đậu. ◇Sử Kí 史記: 'Lưu Hầu tính đa bệnh, tức đạo dẫn bất thực cốc' 留侯性多病, 即道引不食穀 (Lưu Hầu thế gia 留侯世家) Lưu Hầu vốn hay bệnh, liền theo phép \"đạo dẫn\" không ăn cơm.",
+                "(Danh) Bổng lộc. ◇Mạnh Tử 孟子: 'Kinh giới bất chánh, tỉnh địa bất quân, cốc lộc bất bình' 經界不正, 井地不鈞, 穀祿不平 (Đằng Văn Công thượng 滕文公上) Ranh giới đất đai không ngay thẳng, chia ruộng vườn (tỉnh điền) không đều, bổng lộc không công bằng.",
+                "(Danh) Họ 'Cốc'.",
+                "(Tính) Hay, tốt lành. ◎Như: 'tiển cốc' 戩穀 hay rất mực. ◇Quản Tử 管子: 'Nhĩ mục cốc, y thực túc' 耳目穀, 衣食足 (Cấm tàng 禁藏) Tai mắt tốt lành, ăn mặc đầy đủ.",
+                "(Động) Sống, sinh trưởng. ◇Thi Kinh 詩經: 'Cốc tắc dị thất, Tử tắc đồng huyệt' 穀則異室, 死則同穴 (Vương phong王風, Đại xa 大車) (Lúc) Sống không cùng nhà, (Thì mong) Lúc chết chôn chung một huyệt.",
+                "(Động) Nuôi nấng. ◇Chiến quốc sách 戰國策: 'Nãi bố lệnh cầu bách tính chi cơ hàn giả thu cốc chi' 乃布令求百姓之饑寒者收穀之 (Tề sách lục 齊策六) Bèn ban lệnh tìm dân đói rét đem về nuôi nấng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lúa, loài thực vật dùng để ăn, như lúa tẻ lúa nếp đều gọi là cốc. Ngũ cốc 五穀 năm thứ cốc, là đạo, thử, tắc, mạch, thục 稻、黍、稷、麥、菽 lúa gié, lúa nếp, lúa tắc, lúa tẻ, đậu.",
+                "Hay, tốt lành. Như tiển cốc 戩穀 hay rất mực.",
+                "Sống, như Kinh Thi nói: Cốc tắc dị thất 穀則異室 sống thì khác nhà.",
+                "Nuôi.",
+                "Trẻ con."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Chỉ chung) các thứ lúa má hoa màu: 五穀 Ngũ cốc; 穀物收割聯合機 Máy liên hợp gặt đập ngũ cốc;",
+                "(đph) Lúa gạo: 糯穀 Lúa nếp; 粳穀 Lúa lốc; 稻穀 Thóc lúa;",
+                "(văn) Hay, tốt, lành: 戩穀 Rất mực hay ho;",
+                "(văn) Sống: 穀則異室 Sống thì ở khác nhà (Thi Kinh);",
+                "(văn) Nuôi;",
+                "Trẻ con;",
+                "[Gư] (Họ) Cốc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung những loại cây có hạt ăn được như lúa, ngô — Tốt đẹp — Hưởng lộc. Ăn lương."
+            ],
+            "compound_words": {
+                "百穀": "bách cốc",
+                "不穀": "bất cốc",
+                "布穀": "bố cốc",
+                "穀種": "cốc chủng",
+                "穀穀": "cốc cốc",
+                "穀道": "cốc đạo",
+                "穀風": "cốc phong",
+                "穀雨": "cốc vũ",
+                "五穀": "ngũ cốc",
+                "辟穀": "tịch cốc",
+                "陳穀子爛芝麻": "trần cốc tử lạn chi ma"
+            }
+        }
+    }
+}

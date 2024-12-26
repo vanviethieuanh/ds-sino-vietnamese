@@ -1,0 +1,79 @@
+{
+    "character": "华",
+    "details": {
+        "Âm Hán Việt": [
+            "hoa",
+            "hoá"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thập 十 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱化十"
+        ],
+        "Nét bút": [
+            "ノ丨ノフ一丨"
+        ],
+        "Thương Hiệt": [
+            "OPJ (人心十)"
+        ],
+        "Unicode": [
+            "U+534E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huā ㄏㄨㄚ",
+            "huá ㄏㄨㄚˊ",
+            "Huà ㄏㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "hoa"
+        ],
+        "Âm Quảng Đông": [
+            "waa4"
+        ]
+    },
+    "meanings": {
+        "hoa": {
+            "Từ điển phổ thông": [
+                "đẹp",
+                "quầng trăng, quầng mặt trời",
+                "người Trung Quốc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Hoa trâm' 华簪 dùng để cài hoa lên mũ của các quan to trong triều ngày xưa.",
+                "Chữ 'hoa' 花 cổ.",
+                "Giản thể của chữ 華."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Như 花 [hua] Xem 華 [huá], [huà]."
+            ],
+            "compound_words": {
+                "豪华": "hào hoa",
+                "繁华": "phồn hoa",
+                "浮华": "phù hoa",
+                "才华": "tài hoa",
+                "中华": "trung hoa",
+                "荣华": "vinh hoa"
+            }
+        },
+        "hoá": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Hoa trâm' 华簪 dùng để cài hoa lên mũ của các quan to trong triều ngày xưa.",
+                "Chữ 'hoa' 花 cổ.",
+                "Giản thể của chữ 華."
+            ]
+        }
+    }
+}

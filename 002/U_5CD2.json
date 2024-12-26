@@ -1,0 +1,103 @@
+{
+    "character": "峒",
+    "details": {
+        "Âm Hán Việt": [
+            "đồng",
+            "đỗng",
+            "động"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "sơn 山 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰山同"
+        ],
+        "Nét bút": [
+            "丨フ丨丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "UBMR (山月一口)"
+        ],
+        "Unicode": [
+            "U+5CD2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "dòng ㄉㄨㄥˋ",
+            "tóng ㄊㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "động"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "ズ (zu)"
+        ],
+        "Âm Hàn": [
+            "동"
+        ],
+        "Âm Quảng Đông": [
+            "dung6",
+            "tung4"
+        ]
+    },
+    "meanings": {
+        "đồng": {
+            "Từ điển phổ thông": [
+                "hang núi",
+                "(xem: không động 崆峒)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng dùng đặt tên đất.",
+                "(Danh) Hang núi.",
+                "(Danh) Chỉ các bộ lạc xưa ở nam Trung Quốc (đảo Hải Nam, v.v.)",
+                "(Danh) 'Không Đồng san' 崆峒山 núi Không Đồng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Không đồng 崆峒 núi Không-đồng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Các) bộ lạc thời xưa ở miền nam Trung Quốc."
+            ]
+        },
+        "đỗng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một cách viết của chữ Đỗng 峝. Cũng đọc Động. Xem Động."
+            ]
+        },
+        "động": {
+            "Từ điển phổ thông": [
+                "hang núi",
+                "(xem: không động 崆峒)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng dùng đặt tên đất.",
+                "(Danh) Hang núi.",
+                "(Danh) Chỉ các bộ lạc xưa ở nam Trung Quốc (đảo Hải Nam, v.v.)",
+                "(Danh) 'Không Đồng san' 崆峒山 núi Không Đồng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hang núi (dùng cho tên địa phương): 峒中 Hang Động Trung (ở Quảng Đông);",
+                "Xem 崆峒."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng núi lởm chởm so le — Hang núi."
+            ],
+            "compound_words": {
+                "崆峒": "không động",
+                "二青峒集": "nhị thanh động tập"
+            }
+        }
+    }
+}

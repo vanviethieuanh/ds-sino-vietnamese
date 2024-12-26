@@ -1,0 +1,105 @@
+{
+    "character": "釘",
+    "details": {
+        "Âm Hán Việt": [
+            "đinh",
+            "đính"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "kim 金 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金丁"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "CMN (金一弓)"
+        ],
+        "Unicode": [
+            "U+91D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dīng ㄉㄧㄥ",
+            "dìng ㄉㄧㄥˋ",
+            "líng ㄌㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "đanh",
+            "đinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くぎ (kugi)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "deng1",
+            "ding1"
+        ]
+    },
+    "meanings": {
+        "đinh": {
+            "Từ điển phổ thông": [
+                "cái đinh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái đinh. ◎Như: 'thiết đinh' 鐵釘 đinh sắt, 'loa ti đinh' 螺絲釘 đinh ốc.",
+                "(Danh) Vật nhú cao lên, hình trạng như cái đinh.",
+                "(Động) Nhìn chăm chú. ◇Hồng Lâu Mộng 紅樓夢: 'Na nha đầu thính thuyết, phương tri thị bổn gia đích da môn, tiện bất tự tiên tiền na đẳng hồi tị, hạ tử nhãn bả Giả Vân đinh liễu lưỡng nhãn' 那丫頭聽說, 方知是本家的爺們, 便不似先前那等迴避, 下死眼把賈芸釘了兩眼 (Đệ nhị thập tứ hồi) A hoàn nghe nói, mới biết là người trong họ, không lẩn tránh như trước nữa, cứ dán hai mắt nhìn chòng chọc vào mặt Giả Vân.",
+                "(Động) Theo dõi, bám sát.",
+                "(Động) Thúc giục, nhắc nhở. ◎Như: 'nhĩ yếu đinh trước tha cật dược' 你要釘著他吃藥 anh phải nhắc nó uống thuốc.",
+                "(Động) Đốt, chích (kiến, ong...). § Thông 'đinh' 叮.",
+                "Một âm là 'đính'. (Động) Đóng đinh. ◎Như: 'đính mã chưởng' 釘馬掌 đóng móng ngựa.",
+                "(Động) Đơm, khâu vá. ◎Như: 'đính khấu tử' 釘扣子 đơm khuy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái đinh.",
+                "Một âm là đính. Ðóng đinh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây đinh: 螺絲釘兒 Đinh ốc;",
+                "Theo dõi, bám theo: 緊緊釘住 Bám riết theo;",
+                "Thúc, giục: 你要釘著他吃藥 Anh phải nhắc cậu ta uống thuốc;",
+                "Như 盯 [ding]. Xem 釘 [dìng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đinh, cái que nho, nhọn, bằng sắt, dùng để đóng các đồ đạc bằng gỗ — Một âm là Đính. Xem Đính."
+            ],
+            "compound_words": {
+                "釘鈴": "đinh linh",
+                "螺釘": "loa đinh"
+            }
+        },
+        "đính": {
+            "Từ điển phổ thông": [
+                "đóng đinh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đóng: 釘釘子 Đóng đinh; 釘馬掌 Đóng móng ngựa;",
+                "Đơm, đính: 釘扣子 Đơm khuy, đính khuy. Xem 釘 [ding]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đóng đinh. Lấy đinh mà đóng — Một âm là Đinh. Xem Đinh."
+            ]
+        }
+    }
+}

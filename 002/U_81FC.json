@@ -1,0 +1,85 @@
+{
+    "character": "臼",
+    "details": {
+        "Âm Hán Việt": [
+            "cữu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "cữu 臼 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノ丨一フ一一"
+        ],
+        "Thương Hiệt": [
+            "HX (竹重)"
+        ],
+        "Unicode": [
+            "U+81FC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiù ㄐㄧㄡˋ"
+        ],
+        "Âm Nôm": [
+            "cối",
+            "cữu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)",
+            "グ (gu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うす (usu)",
+            "うすづ.く (usuzu.ku)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "kau3",
+            "kau5"
+        ]
+    },
+    "meanings": {
+        "cữu": {
+            "Từ điển phổ thông": [
+                "cái cối để giã"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cối giã gạo. ◎Như: 'thạch cữu' 石臼 cối đá.",
+                "(Danh) Khớp xương. ◎Như: 'thoát cữu' 脫臼 trật khớp.",
+                "(Danh) Tên cây.",
+                "(Danh) Tên sao.",
+                "(Danh) Họ 'Cữu'.",
+                "(Tính) Có hình trạng giống như cái cối. ◎Như: 'cữu xỉ' 臼齒 răng hàm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái cối, làm bằng gỗ hay bằng đá để giã các thứ. Thạch cữu 石臼 cối đá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) cối giã gạo;",
+                "Khớp: 脫臼 Trật khớp, sai khớp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cối để giã gạo — Tên một bộ trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "臼礮": "cữu pháo",
+                "臼齒": "cữu xỉ",
+                "臼杵": "cữu xử",
+                "操井臼": "thao tỉnh cữu"
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "牦",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly",
+            "mao"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ngưu 牛 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰牜毛"
+        ],
+        "Nét bút": [
+            "ノ一丨一ノ一一フ"
+        ],
+        "Thương Hiệt": [
+            "HQHQU (竹手竹手山)"
+        ],
+        "Unicode": [
+            "U+7266"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "máo ㄇㄠˊ"
+        ],
+        "Âm Nôm": [
+            "mao"
+        ],
+        "Âm Quảng Đông": [
+            "moi4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 氂."
+            ]
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "(xem: mao ngưu 犛牛,牦牛)",
+                "đuôi ngựa",
+                "lông dài"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đuôi con trâu li;",
+                "Lông cứng và cong;",
+                "Như 釐 (bộ 里);",
+                "Đuôi ngựa;",
+                "Lông dài;",
+                "【氂牛】li ngưu [líniú] Bò y-ắc (Tây Tạng)."
+            ]
+        },
+        "mao": {
+            "Từ điển phổ thông": [
+                "(xem: mao ngưu 犛牛,牦牛)",
+                "đuôi ngựa",
+                "lông dài"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 犛."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giống bò có lông dài ở dưới cổ và chân."
+            ],
+            "compound_words": {
+                "牦牛": "mao ngưu"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "鴇",
+    "details": {
+        "Âm Hán Việt": [
+            "bảo"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰𠤏鳥"
+        ],
+        "Nét bút": [
+            "ノフ一丨ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "PJHAF (心十竹日火)"
+        ],
+        "Unicode": [
+            "U+9D07"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bǎo ㄅㄠˇ"
+        ],
+        "Âm Nôm": [
+            "bảo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とき (toki)",
+            "のがん (nogan)"
+        ],
+        "Âm Hàn": [
+            "보"
+        ],
+        "Âm Quảng Đông": [
+            "bou2"
+        ]
+    },
+    "meanings": {
+        "bảo": {
+            "Từ điển phổ thông": [
+                "chim bảo (giống con mòng, tương truyền là giống rất dâm)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giống chim như con nhạn, lông cánh loang lổ, chân không có ngón sau, bay không giỏi nhưng biết lội nước.",
+                "(Danh) Ngày xưa nói chim bảo là giống rất dâm, cho nên gọi kĩ nữ là 'bảo nhi' 鴇兒, mụ dầu hay tú bà là 'bảo mẫu' 鴇母.",
+                "(Danh) Ngựa lông đen trắng lẫn lộn. § Cũng gọi là 'bác' 駁."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chim bảo, giống như con mòng mà lang lổ, chân không có ngón sau. Ngày xưa bảo nó là giống rất dâm, cho nên gọi đĩ nhà thổ là bảo nhi 鴇兒, mẹ giầu, tú bà là bảo mẫu 鴇母."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chim sấm, chim ôtit;",
+                "Mụ 'tú bà', mụ trùm gái điếm, mụ trùm nhà thổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài chim giống chim nhạn, sống trên mặt nước, còn gọi là Dã nhạn ( otis dyobwskii )."
+            ],
+            "compound_words": {
+                "鴇母": "bảo mẫu",
+                "鴇兒": "bảo nhi"
+            }
+        }
+    }
+}

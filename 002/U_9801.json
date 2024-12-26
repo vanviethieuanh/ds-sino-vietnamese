@@ -1,0 +1,84 @@
+{
+    "character": "頁",
+    "details": {
+        "Âm Hán Việt": [
+            "hiệt"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MBUC (一月山金)"
+        ],
+        "Unicode": [
+            "U+9801"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xié ㄒㄧㄝˊ",
+            "yè ㄜˋ"
+        ],
+        "Âm Nôm": [
+            "hệt",
+            "hiệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぺえじ (peeji)",
+            "おおがい (ōgai)",
+            "かしら (kashira)"
+        ],
+        "Âm Hàn": [
+            "혈"
+        ],
+        "Âm Quảng Đông": [
+            "jip6"
+        ]
+    },
+    "meanings": {
+        "hiệt": {
+            "Từ điển phổ thông": [
+                "tờ giấy, trang giấy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đầu, sọ. § Tức 'não đại' 腦袋.",
+                "(Danh) Trang, tờ.",
+                "(Danh) Lượng từ: đơn vị chỉ số trang (sách vở, văn kiện). ◎Như: 'ngã khán liễu tam hiệt thư' 我看了三頁書 tôi đã xem xong ba trang sách.",
+                "(Tính) Thành phiến mỏng, lớp, mảng. ◎Như: 'hiệt nham' 頁岩 đá nham thành mảng trong lòng đất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đầu.",
+                "Một tờ giấy gọi là nhất hiệt 一頁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trang, tờ: 第六頁 Trang thứ 6;",
+                "(văn) Đầu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái đầu — Trang giấy — Một trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "主頁": "chủ hiệt",
+                "家頁": "gia hiệt",
+                "首頁": "thủ hiệt",
+                "網頁": "võng hiệt"
+            }
+        }
+    }
+}

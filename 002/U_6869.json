@@ -1,0 +1,73 @@
+{
+    "character": "桩",
+    "details": {
+        "Âm Hán Việt": [
+            "thung",
+            "trang"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木庄"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丶一ノ一丨一"
+        ],
+        "Thương Hiệt": [
+            "DIG (木戈土)"
+        ],
+        "Unicode": [
+            "U+6869"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chōng ㄔㄨㄥ",
+            "zhuāng ㄓㄨㄤ"
+        ],
+        "Âm Nôm": [
+            "trang"
+        ],
+        "Âm Quảng Đông": [
+            "zong1"
+        ]
+    },
+    "meanings": {
+        "thung": {
+            "Từ điển phổ thông": [
+                "đánh đập",
+                "cái cọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 樁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 樁"
+            ]
+        },
+        "trang": {
+            "Từ điển phổ thông": [
+                "đánh đập",
+                "cái cọc"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 樁"
+            ],
+            "compound_words": {
+                "树桩": "thụ trang",
+                "标桩": "tiêu trang"
+            }
+        }
+    }
+}

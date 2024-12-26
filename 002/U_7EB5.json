@@ -1,0 +1,101 @@
+{
+    "character": "纵",
+    "details": {
+        "Âm Hán Việt": [
+            "tung",
+            "tông",
+            "túng",
+            "tổng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mịch 糸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟从"
+        ],
+        "Nét bút": [
+            "フフ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMOO (女一人人)"
+        ],
+        "Unicode": [
+            "U+7EB5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sǒng ㄙㄨㄥˇ",
+            "zǒng ㄗㄨㄥˇ",
+            "zòng ㄗㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tung"
+        ],
+        "Âm Quảng Đông": [
+            "zung3"
+        ]
+    },
+    "meanings": {
+        "tung": {
+            "Từ điển phổ thông": [
+                "thả ra, phóng ra",
+                "tung lên",
+                "tha hồ, thoả sức, nuông chiều",
+                "dọc, chiều dọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 縱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bề dọc, đường dọc, hàng dọc, dọc, thẳng, bề dài: 排成縱隊 Xếp thành hàng dọc; 縱橫十里 Ngang dọc mười dặm;",
+                "(văn) Tung tích (như 踪, bộ 足): 言變事縱跡安起 Nói ra tung tích của việc biến đổi vì sao mà phát sinh (Sử kí: Trương Thang truyện)."
+            ],
+            "compound_words": {
+                "纵容": "tung dung",
+                "纵横": "tung hoành",
+                "纵深": "tung thâm"
+            }
+        },
+        "tông": {
+            "Từ điển phổ thông": [
+                "thả ra, phóng ra",
+                "tung lên",
+                "tha hồ, thoả sức, nuông chiều",
+                "dọc, chiều dọc"
+            ]
+        },
+        "túng": {
+            "Từ điển phổ thông": [
+                "thả ra, phóng ra",
+                "tung lên",
+                "tha hồ, thoả sức, nuông chiều",
+                "dọc, chiều dọc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 縱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 縱"
+            ],
+            "compound_words": {
+                "操纵": "thao túng"
+            }
+        },
+        "tổng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 縱."
+            ]
+        }
+    }
+}

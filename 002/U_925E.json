@@ -1,0 +1,86 @@
+{
+    "character": "鉞",
+    "details": {
+        "Âm Hán Việt": [
+            "hối",
+            "việt"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金戉"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "CIV (金戈女)"
+        ],
+        "Unicode": [
+            "U+925E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "việt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エツ (etsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まさかり (masakari)"
+        ],
+        "Âm Hàn": [
+            "월"
+        ],
+        "Âm Quảng Đông": [
+            "jyut6"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng xe rầm rầm — Một âm là Việt. Xem Việt."
+            ]
+        },
+        "việt": {
+            "Từ điển phổ thông": [
+                "cái búa lớn, cái kích (vũ khí)",
+                "sao Việt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Một loại vũ khí thời xưa, giống cái búa lớn, làm bằng kim loại, thường dùng trong lễ nghi, tượng trưng cho uy quyền của đế vương. Cũng dùng làm hình cụ. ◇Sử Kí 史記: “Uớc thúc kí bố, nãi thiết phu việt” 約束既布,乃設鈇鉞 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Kỉ luật ban bố, rồi mới cho bày ra gươm búa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái búa lớn.",
+                "Sao Việt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây búa lớn (một loại binh khí thời xưa)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây búa, cây rìu thật lớn."
+            ],
+            "compound_words": {
+                "秉鉞": "bỉnh việt",
+                "旄鉞": "mao việt",
+                "斧鉞": "phủ việt"
+            }
+        }
+    }
+}

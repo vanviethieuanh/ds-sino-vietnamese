@@ -1,0 +1,97 @@
+{
+    "character": "处",
+    "details": {
+        "Âm Hán Việt": [
+            "xứ",
+            "xử"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "tri 夂 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿺夂卜"
+        ],
+        "Nét bút": [
+            "ノフ丶丨丶"
+        ],
+        "Thương Hiệt": [
+            "HEY (竹水卜)"
+        ],
+        "Unicode": [
+            "U+5904"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chǔ ㄔㄨˇ",
+            "chù ㄔㄨˋ"
+        ],
+        "Âm Nôm": [
+            "xớ",
+            "xứ"
+        ],
+        "Âm Quảng Đông": [
+            "cyu3"
+        ]
+    },
+    "meanings": {
+        "xứ": {
+            "Từ điển phổ thông": [
+                "nơi, chỗ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 處."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ 處."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 處 (bộ 虎)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Xứ 處."
+            ],
+            "compound_words": {
+                "别处": "biệt xứ",
+                "到处": "đáo xứ",
+                "何处": "hà xứ",
+                "某处": "mỗ xứ",
+                "四处": "tứ xứ"
+            }
+        },
+        "xử": {
+            "Từ điển phổ thông": [
+                "ở",
+                "xử sự",
+                "xử phạt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 處."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ 處."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 處 (bộ 虎)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Xử 處."
+            ],
+            "compound_words": {
+                "判处": "phán xử",
+                "处理": "xử lý",
+                "处世": "xử thế"
+            }
+        }
+    }
+}

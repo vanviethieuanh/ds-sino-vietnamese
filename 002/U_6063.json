@@ -1,0 +1,104 @@
+{
+    "character": "恣",
+    "details": {
+        "Âm Hán Việt": [
+            "thư",
+            "tứ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱次心"
+        ],
+        "Nét bút": [
+            "丶一ノフノ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "IOP (戈人心)"
+        ],
+        "Unicode": [
+            "U+6063"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cī ㄘ",
+            "zì ㄗˋ"
+        ],
+        "Âm Nôm": [
+            "thư",
+            "tứ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほしいまま (hoshiimama)"
+        ],
+        "Âm Hàn": [
+            "자"
+        ],
+        "Âm Quảng Đông": [
+            "ci3",
+            "zi1",
+            "zi3"
+        ]
+    },
+    "meanings": {
+        "thư": {
+            "Từ điển trích dẫn": [
+                "(Động) Phóng túng, buông thả. ◇Tam quốc diễn nghĩa 三國演義: 'Nhân thử, Tháo đắc tứ ý phóng đãng' 因此, 操得恣意放蕩 (Đệ nhất hồi 第一回) Nhân thể, (Tào) Tháo (càng) được tự do phóng đãng (hơn trước).",
+                "Một âm là 'thư'. § Xem 'thư tuy' 恣睢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phóng túng, tự ý làm láo không kiêng nể gì gọi là tứ.",
+                "Một âm là thư. Thư tuy 恣睢 trợn mắt nhìn người."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Buông thả, phóng túng.【恣意】tứ ý [zìyì] Bừa bãi, làm liều, tha hồ, mặc sức, tùy tiện: 不能恣意妄爲 Không thể tự tiện làm càn;",
+                "(đph) Dễ chịu;",
+                "【恣睡】thư tuy [zìsui] (văn) Lườm mắt, trợn mắt nhìn;",
+                "Làm liều, làm bậy."
+            ],
+            "compound_words": {
+                "恣睢": "thư tuy"
+            }
+        },
+        "tứ": {
+            "Từ điển phổ thông": [
+                "phóng túng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phóng túng, buông thả. ◇Tam quốc diễn nghĩa 三國演義: 'Nhân thử, Tháo đắc tứ ý phóng đãng' 因此, 操得恣意放蕩 (Đệ nhất hồi 第一回) Nhân thể, (Tào) Tháo (càng) được tự do phóng đãng (hơn trước).",
+                "Một âm là 'thư'. § Xem 'thư tuy' 恣睢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phóng túng, tự ý làm láo không kiêng nể gì gọi là tứ.",
+                "Một âm là thư. Thư tuy 恣睢 trợn mắt nhìn người."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Buông thả, phóng túng.【恣意】tứ ý [zìyì] Bừa bãi, làm liều, tha hồ, mặc sức, tùy tiện: 不能恣意妄爲 Không thể tự tiện làm càn;",
+                "(đph) Dễ chịu;",
+                "【恣睡】thư tuy [zìsui] (văn) Lườm mắt, trợn mắt nhìn;",
+                "Làm liều, làm bậy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buông thả — Không kìm giữ — Mặc người khác."
+            ],
+            "compound_words": {
+                "放恣": "phóng tứ"
+            }
+        }
+    }
+}

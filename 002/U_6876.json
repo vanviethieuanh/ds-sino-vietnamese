@@ -1,0 +1,96 @@
+{
+    "character": "桶",
+    "details": {
+        "Âm Hán Việt": [
+            "dõng",
+            "dũng",
+            "thũng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木甬"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丶丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "DNIB (木弓戈月)"
+        ],
+        "Unicode": [
+            "U+6876"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tǒng ㄊㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "dũng",
+            "thòng",
+            "thông",
+            "thùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おけ (oke)"
+        ],
+        "Âm Hàn": [
+            "통",
+            "용"
+        ],
+        "Âm Quảng Đông": [
+            "tung2"
+        ]
+    },
+    "meanings": {
+        "dõng": {
+            "Từ điển phổ thông": [
+                "cái thùng"
+            ]
+        },
+        "dũng": {
+            "Từ điển phổ thông": [
+                "cái thùng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái thùng gỗ hình tròn. ◎Như: 'thủy dũng' 水桶 thùng nước. ◇Thủy hử truyện 水滸傳: 'Khai liễu dũng cái, chỉ cố yểu lãnh tửu khiết' 開了桶蓋, 只顧舀冷酒喫 (Đệ tứ hồi) (Lỗ Trí Thâm) mở nắp thùng, cứ múc rượu lạnh mà uống.",
+                "(Danh) Lượng từ: thùng. ◎Như: 'lưỡng dũng khí du' 兩桶汽油 hai thùng dầu xăng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái thùng gỗ vuông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thùng: 水桶 Thùng nước; 汽油桶 Thùng xăng;",
+                "Thùng (đơn vị đo dung tích, chừng 150 lít)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thùng hình tròn, làm bằng gỗ để gánh nước. Chẳng hạn Thuỷ dũng ( thùng nước, thùng gánh nước )."
+            ],
+            "compound_words": {
+                "桶裙": "dũng quần",
+                "馬桶": "mã dũng",
+                "便桶": "tiện dũng"
+            }
+        },
+        "thũng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hộc để đong gạo thóc thời xưa — Cái thùng gỗ."
+            ]
+        }
+    }
+}

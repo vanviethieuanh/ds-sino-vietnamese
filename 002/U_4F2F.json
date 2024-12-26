@@ -1,0 +1,132 @@
+{
+    "character": "伯",
+    "details": {
+        "Âm Hán Việt": [
+            "bá",
+            "bách"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻白"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "OHA (人竹日)"
+        ],
+        "Unicode": [
+            "U+4F2F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bà ㄅㄚˋ",
+            "bǎi ㄅㄞˇ",
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bá",
+            "bác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)"
+        ],
+        "Âm Hàn": [
+            "백",
+            "패"
+        ],
+        "Âm Quảng Đông": [
+            "baa3",
+            "baak3"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển phổ thông": [
+                "bác ruột, anh của bố",
+                "tước Bá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Anh cả, anh trưởng.",
+                "(Danh) Xưng vị: (1) Bác (anh của cha). ◎Như: 'bá phụ' 伯父 bác. (2) Đàn bà gọi anh chồng là 'bá'. (3) Tiếng tôn xưng người đứng tuổi hoặc hơn tuổi cha mình. ◎Như: 'lão bá' 老伯.",
+                "(Danh) Tước 'Bá'. § Đời xưa đặt ra năm tước là: 'Công, Hầu, Bá, Tử, Nam' 公侯伯子男.",
+                "(Danh) Tiếng gọi người tài giỏi về một bộ môn. ◎Như: 'thi bá' 詩伯 nhà thơ lớn, 'họa bá' 畫伯 bậc họa sĩ đại tài.",
+                "(Danh) Minh chủ của các chư hầu. § Thông 'bá' 霸, là một vua chư hầu giỏi, đứng lên đốc suất cả các vua chư hầu về chầu phục thiên tử.",
+                "(Danh) Tên một tế lễ thời xưa, cúng bái 'mã thần' 馬神.",
+                "(Danh) Họ 'Bá'.",
+                "(Động) Xưng làm bá chủ, thống lĩnh. § Thông 'bá' 霸. ◇Chiến quốc sách 戰國策: 'Văn Vương phạt Sùng, Vũ Vương phạt Trụ, Tề Hoàn nhậm chiến nhi bá thiên hạ' 文王伐崇, 武王伐紂, 齊桓任戰而伯天下 (Tần sách nhất 秦策一) Vua Văn Vương đánh Sùng (Hầu Hổ), vua Vũ Vương đánh Trụ, vua Tề Hoàn dùng chiến tranh làm bá chủ thiên hạ.",
+                "Một âm là 'bách'. (Danh) Số trăm. § Thông 'bách' 百."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bác, anh bố gọi là bá phụ 伯父. Ðàn bà gọi anh chồng là bá.",
+                "Tước bá, đời xưa chế ra năm tước là: công hầu bá tử nam 公侯伯子男.",
+                "Cùng nghĩa như chữ bá 霸 là một vua chư hầu giỏi, đứng lên đốc suất cả các vua chư hầu về chầu phục thiên tử."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trăm (chữ 百 viết kép)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người lớn tuổi — Người bác, anh của cha — Tức hiệu thứ ba trong năm tước hiệu của Trung Hoa thời xưa — Người đứng đầu lớn hơn hết — Họ người — Cũng đọc Bách."
+            ],
+            "compound_words": {
+                "阿拉伯": "a lạp bá",
+                "伯伯": "bá bá",
+                "伯强": "bá cường",
+                "伯舅": "bá cữu",
+                "伯嚭": "bá dĩ",
+                "伯夷": "bá di",
+                "伯夷叔齊": "bá di thúc tề",
+                "伯都": "bá đô",
+                "伯兄": "bá huynh",
+                "伯勞": "bá lao",
+                "伯母": "bá mẫu",
+                "伯牙": "bá nha",
+                "伯翁": "bá ông",
+                "伯父": "bá phụ",
+                "伯氏": "bá thị",
+                "伯仲": "bá trọng",
+                "伯爵": "bá tước",
+                "邦伯": "bang bá",
+                "州伯": "châu bá",
+                "河伯": "hà bá",
+                "巷伯": "hạng bá",
+                "西伯利亞": "tây bá lợi á",
+                "詩伯": "thi bá",
+                "叔伯": "thúc bá",
+                "從伯": "tòng bá"
+            }
+        },
+        "bách": {
+            "Từ điển trích dẫn": [
+                "(Danh) Anh cả, anh trưởng.",
+                "(Danh) Xưng vị: (1) Bác (anh của cha). ◎Như: 'bá phụ' 伯父 bác. (2) Đàn bà gọi anh chồng là 'bá'. (3) Tiếng tôn xưng người đứng tuổi hoặc hơn tuổi cha mình. ◎Như: 'lão bá' 老伯.",
+                "(Danh) Tước 'Bá'. § Đời xưa đặt ra năm tước là: 'Công, Hầu, Bá, Tử, Nam' 公侯伯子男.",
+                "(Danh) Tiếng gọi người tài giỏi về một bộ môn. ◎Như: 'thi bá' 詩伯 nhà thơ lớn, 'họa bá' 畫伯 bậc họa sĩ đại tài.",
+                "(Danh) Minh chủ của các chư hầu. § Thông 'bá' 霸, là một vua chư hầu giỏi, đứng lên đốc suất cả các vua chư hầu về chầu phục thiên tử.",
+                "(Danh) Tên một tế lễ thời xưa, cúng bái 'mã thần' 馬神.",
+                "(Danh) Họ 'Bá'.",
+                "(Động) Xưng làm bá chủ, thống lĩnh. § Thông 'bá' 霸. ◇Chiến quốc sách 戰國策: 'Văn Vương phạt Sùng, Vũ Vương phạt Trụ, Tề Hoàn nhậm chiến nhi bá thiên hạ' 文王伐崇, 武王伐紂, 齊桓任戰而伯天下 (Tần sách nhất 秦策一) Vua Văn Vương đánh Sùng (Hầu Hổ), vua Vũ Vương đánh Trụ, vua Tề Hoàn dùng chiến tranh làm bá chủ thiên hạ.",
+                "Một âm là 'bách'. (Danh) Số trăm. § Thông 'bách' 百."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trăm (chữ 百 viết kép)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Họ người — Một âm khác là Bá."
+            ]
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "character": "藥",
+    "details": {
+        "Âm Hán Việt": [
+            "dược"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thảo 艸 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹樂"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨フ一一フフ丶フフ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TVID (廿女戈木)"
+        ],
+        "Unicode": [
+            "U+85E5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "luè ㄌㄩㄝˋ",
+            "shuò ㄕㄨㄛˋ",
+            "yào ㄧㄠˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "dược",
+            "ước"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くすり (kusuri)"
+        ],
+        "Âm Hàn": [
+            "약"
+        ],
+        "Âm Quảng Đông": [
+            "joek6"
+        ]
+    },
+    "meanings": {
+        "dược": {
+            "Từ điển phổ thông": [
+                "cây thuốc, thuốc chữa bệnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thuốc. ◎Như: 'tây dược' 西藥 thuốc tây, 'thảo dược' 草藥 thuốc dùng cây cỏ chế thành.",
+                "(Danh) Thuốc nổ. ◎Như: 'tạc dược' 炸藥 thuốc nổ, 'hỏa dược' 火藥 thuốc nổ.",
+                "(Danh) Bờ giậu, hàng rào. ◎Như: 'dược lan' 藥欄 lan can bờ giậu.",
+                "(Danh) Tên gọi tắt của 'thược dược' 芍藥 hoa thược dược.",
+                "(Danh) Họ 'Dược'.",
+                "(Danh) § Xem 'dược xoa' 藥叉 hay 'dạ xoa' 夜叉 (tiếng Phạn \"yakkha\").",
+                "(Động) Chữa trị. ◇Liêu trai chí dị 聊齋志異: 'Diên y dược chi' 延醫藥之 (Cổ nhi 賈兒) Mời thầy thuốc chữa trị.",
+                "(Động) Dùng thuốc độc trừ diệt. ◎Như: 'dược lão thử' 藥老鼠 đánh bả chuột."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thuốc, các thứ dùng để làm thuốc đều gọi là dược. Bị thuốc độc mà chết gọi là dược tử 藥死.",
+                "Phàm thứ gì tán nhỏ như phấn cũng gọi là dược. Như tạc dược 炸藥 thuốc nổ.",
+                "Chữa. Như bất khả cứu dược 不可救藥 không thể cứu chữa được. Lời nói ngay thẳng gọi là dược thạch 藥石 ý nói lời can bảo trung trực cứu lại điều lầm lỗi như thuốc chữa bệnh vậy.",
+                "Bờ giậu. Dùng lan can vây xung quanh vườn gọi là dược lan 藥欄.",
+                "Thược dược 芍藥 hoa thược dược. Xem chữ thược 芍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuốc, thuốc men: 服藥 Uống thuốc; 煎藥 Sắc thuốc;",
+                "Thuốc (nổ): 炸藥 Thuốc nổ; 殺蟲藥 Thuốc sát trùng (trừ sâu);",
+                "Trừ diệt (bằng thuốc độc): 藥老鼠 Diệt chuột, đánh bả chuột;",
+                "(văn) Chữa: 不可救藥 Không thể cứu chữa được;",
+                "(văn) Bờ giậu, hàng rào: 藥欄 Lan can rào;",
+                "Xem 芍藥 [sháoyao]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cỏ dùng để trị bệnh. Thuốc chữa bệnh — Thuốc nổ, thuốc súng — Trị bệnh."
+            ],
+            "compound_words": {
+                "安眠藥": "an miên dược",
+                "安神藥": "an thần dược",
+                "不死藥": "bất tử dược",
+                "補藥": "bổ dược",
+                "爆藥": "bộc dược",
+                "膏藥": "cao dược",
+                "灼藥": "chước dược",
+                "狂藥": "cuồng dược",
+                "救藥": "cứu dược",
+                "妙藥": "diệu dược",
+                "藥丸": "dược hoàn",
+                "藥衡": "dược hoành",
+                "藥科": "dược khoa",
+                "藥品": "dược phẩm",
+                "藥房": "dược phòng",
+                "藥方": "dược phương",
+                "藥士": "dược sĩ",
+                "藥師": "dược sư",
+                "藥水": "dược thuỷ",
+                "藥性": "dược tính",
+                "藥酒": "dược tửu",
+                "藥叉": "dược xoa",
+                "彈藥": "đạn dược",
+                "毒藥": "độc dược",
+                "火藥": "hoả dược",
+                "劇藥": "kịch dược",
+                "靈藥": "linh dược",
+                "良藥": "lương dược",
+                "良藥苦口": "lương dược khổ khẩu",
+                "仰藥": "ngưỡng dược",
+                "眼藥": "nhãn dược",
+                "服藥": "phục dược",
+                "方藥": "phương dược",
+                "山藥": "sơn dược",
+                "瀉藥": "tả dược",
+                "炸藥": "tạc dược",
+                "神藥": "thần dược",
+                "芍藥": "thược dược",
+                "中藥": "trung dược",
+                "勿藥": "vật dược",
+                "勿藥有喜": "vật dược hữu hỉ"
+            }
+        }
+    }
+}

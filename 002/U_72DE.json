@@ -1,0 +1,70 @@
+{
+    "character": "狞",
+    "details": {
+        "Âm Hán Việt": [
+            "nanh",
+            "ninh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨宁"
+        ],
+        "Nét bút": [
+            "ノフノ丶丶フ一丨"
+        ],
+        "Thương Hiệt": [
+            "KHJMN (大竹十一弓)"
+        ],
+        "Unicode": [
+            "U+72DE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "níng ㄋㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "nanh",
+            "ninh"
+        ],
+        "Âm Quảng Đông": [
+            "ning4"
+        ]
+    },
+    "meanings": {
+        "nanh": {
+            "Từ điển phổ thông": [
+                "(xem: tranh ninh, tranh nanh 猙獰)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 獰."
+            ],
+            "compound_words": {
+                "狰狞": "tranh nanh"
+            }
+        },
+        "ninh": {
+            "Từ điển phổ thông": [
+                "(xem: tranh ninh, tranh nanh 猙獰)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 獰"
+            ],
+            "compound_words": {
+                "狰狞": "tranh ninh"
+            }
+        }
+    }
+}

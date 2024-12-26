@@ -1,0 +1,100 @@
+{
+    "character": "噹",
+    "details": {
+        "Âm Hán Việt": [
+            "đang",
+            "đáng",
+            "đương"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口當"
+        ],
+        "Nét bút": [
+            "丨フ一丨丶ノ丶フ丨フ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "RFBW (口火月田)"
+        ],
+        "Unicode": [
+            "U+5679"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dāng ㄉㄤ",
+            "dàng ㄉㄤˋ"
+        ],
+        "Âm Quảng Đông": [
+            "dong1"
+        ]
+    },
+    "meanings": {
+        "đang": {
+            "Từ điển phổ thông": [
+                "xứng nhau, ngang nhau, tương đương, tương ứng",
+                "nên, đáng",
+                "thẳng, trực tiếp",
+                "đang, đương lúc, khi, hiện thời",
+                "chống giữ",
+                "đảm đương, gánh vác, làm, lo liệu",
+                "hầu",
+                "ngăn cản, cản trở",
+                "giữ chức, đương chức",
+                "chịu trách nhiệm",
+                "tiếng kêu leng keng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) Tiếng leng keng, tiếng chạm vào đồ vật bằng kim loại phát ra."
+            ],
+            "compound_words": {
+                "叮噹": "đinh đang"
+            }
+        },
+        "đáng": {
+            "Từ điển phổ thông": [
+                "đúng, thích đáng, thoả đáng, phù hợp",
+                "tương đương, bằng",
+                "coi như, coi là",
+                "cho rằng, tưởng rằng",
+                "cầm, đợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) Tiếng leng keng, tiếng chạm vào đồ vật bằng kim loại phát ra."
+            ]
+        },
+        "đương": {
+            "Từ điển phổ thông": [
+                "xứng nhau, ngang nhau, tương đương, tương ứng",
+                "nên, đáng",
+                "thẳng, trực tiếp",
+                "đang, đương lúc, khi, hiện thời",
+                "chống giữ",
+                "đảm đương, gánh vác, làm, lo liệu",
+                "hầu",
+                "ngăn cản, cản trở",
+                "giữ chức, đương chức",
+                "chịu trách nhiệm",
+                "tiếng kêu leng keng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) Tiếng leng keng, tiếng chạm vào đồ vật bằng kim loại phát ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Tiếng vàng ngọc kêu, tiếng lanh canh."
+            ]
+        }
+    }
+}

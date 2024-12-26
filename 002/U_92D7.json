@@ -1,0 +1,64 @@
+{
+    "character": "鋗",
+    "details": {
+        "Âm Hán Việt": [
+            "huyên",
+            "quyên"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金肙"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨フ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "CRB (金口月)"
+        ],
+        "Unicode": [
+            "U+92D7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こばち (kobachi)"
+        ],
+        "Âm Hàn": [
+            "현"
+        ],
+        "Âm Quảng Đông": [
+            "hyun1"
+        ]
+    },
+    "meanings": {
+        "huyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chậu nhỏ — Tiếng va chạm của ngọc — Một âm khác là Quyên."
+            ]
+        },
+        "quyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Quyên nhân 鋗人 — Một âm khác là Huyên. Xem Huyên."
+            ],
+            "compound_words": {
+                "鋗人": "quyên nhân"
+            }
+        }
+    }
+}

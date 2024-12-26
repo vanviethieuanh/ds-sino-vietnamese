@@ -1,0 +1,75 @@
+{
+    "character": "鉢",
+    "details": {
+        "Âm Hán Việt": [
+            "bát"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金本"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "CDM (金木一)"
+        ],
+        "Unicode": [
+            "U+9262"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ"
+        ],
+        "Âm Nôm": [
+            "bát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハチ (hachi)",
+            "ハツ (hatsu)"
+        ],
+        "Âm Hàn": [
+            "발"
+        ],
+        "Âm Quảng Đông": [
+            "but3"
+        ]
+    },
+    "meanings": {
+        "bát": {
+            "Từ điển phổ thông": [
+                "cái bát xin ăn của sư"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cũng như “bát” 缽."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiếng Phạn là bát-đa-la, là cái bát ăn của sư, nhà chùa dùng bát xin ăn đời đời truyền để cho nhau, cho nên đời đời truyền đạo cho nhau gọi là y bát 衣鉢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chén, bát, cối nhỏ: 飯鉢 Bát cơm; 乳鉢 Cái cối tán thuốc;",
+                "Đồ đựng thức ăn của thầy tu, cái bát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chén, cái tô của các vị tăng hoặc khất sĩ. Ta cũng gọi là cái bát ( để ăn cơm )."
+            ],
+            "compound_words": {
+                "衣鉢": "y bát",
+                "衣鉢真傳": "y bát chân truyền"
+            }
+        }
+    }
+}

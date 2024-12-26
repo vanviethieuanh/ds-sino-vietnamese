@@ -1,0 +1,71 @@
+{
+    "character": "堄",
+    "details": {
+        "Âm Hán Việt": [
+            "nghê",
+            "nhị"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thổ 土 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿰土兒"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨一フ一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "GHXU (土竹重山)"
+        ],
+        "Unicode": [
+            "U+5804"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "nī ㄋㄧ",
+            "nì ㄋㄧˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲイ (gei)",
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひめがき (himegaki)"
+        ],
+        "Âm Hàn": [
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "ngai6"
+        ]
+    },
+    "meanings": {
+        "nghê": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Bì nghê” 埤堄 bức tường thấp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bức tường thấp trên mặt thành thời xưa, để núp sau đó mà quan sát tình hình địch bên ngoài. Cũng gọi là Bì nghê 埤堄."
+            ]
+        },
+        "nhị": {
+            "Từ điển phổ thông": [
+                "(xem: bì nhị 埤堄)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xem 埤 nghĩa ①."
+            ],
+            "compound_words": {
+                "埤堄": "bì nhị"
+            }
+        }
+    }
+}

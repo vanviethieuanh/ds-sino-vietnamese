@@ -1,0 +1,81 @@
+{
+    "character": "棉",
+    "details": {
+        "Âm Hán Việt": [
+            "miên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mộc 木 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木帛"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丨フ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "DHAB (木竹日月)"
+        ],
+        "Unicode": [
+            "U+68C9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mián ㄇㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "miên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メン (men)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わた (wata)"
+        ],
+        "Âm Hàn": [
+            "면"
+        ],
+        "Âm Quảng Đông": [
+            "min4"
+        ]
+    },
+    "meanings": {
+        "miên": {
+            "Từ điển phổ thông": [
+                "cây bông"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cây bông, cây gạo hoặc cây gạo rừng. ◎Như: thứ mọc như cỏ gọi là “thảo miên” 草棉 quả to như quả đào, chín thì nứt sợi bông ra, người ta dùng guồng kéo ra, xe làm sợi để dệt vải, thứ như thân cây gọi là “mộc miên” 木棉 (lat. Bombax ceiba) cao bảy tám trượng, mùa xuân nở hoa kết quả, trong quả có bông, dùng làm chăn đệm được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cây bông, thứ mọc như cỏ gọi là thảo miên 草棉 quả to như quả đào, chín thì nứt sợi bông ra, người ta dùng guồng kéo ra, xe làm sợi để dệt vải, thứ như thân cây gọi là mộc miên 木棉 cao bảy tám trượng, mùa xuân nở hoa kết quả, trong quả có bông, dùng làm chăn đệm được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây bông;",
+                "Bông. 【棉布】miên bố [miánbù] Bông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây bông ( quả chín thì nứt ra, hột được bao bằng một lớp xơ, kéo ra thành sợi bông để dệt thành vải )."
+            ],
+            "compound_words": {
+                "棉袄": "miên áo",
+                "棉襖": "miên áo",
+                "棉被": "miên bị",
+                "棉布": "miên bố",
+                "棉花": "miên hoa",
+                "木棉": "mộc miên"
+            }
+        }
+    }
+}

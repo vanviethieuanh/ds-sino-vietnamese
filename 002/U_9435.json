@@ -1,0 +1,97 @@
+{
+    "character": "鐵",
+    "details": {
+        "Âm Hán Việt": [
+            "thiết"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "kim 金 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨一丨フ一一一丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "CJIG (金十戈土)"
+        ],
+        "Unicode": [
+            "U+9435"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "tiě ㄊㄧㄝˇ"
+        ],
+        "Âm Nôm": [
+            "sắt",
+            "thiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テツ (tetsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くろがね (kurogane)"
+        ],
+        "Âm Hàn": [
+            "철"
+        ],
+        "Âm Quảng Đông": [
+            "tit3"
+        ]
+    },
+    "meanings": {
+        "thiết": {
+            "Từ điển phổ thông": [
+                "sắt, Fe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sắt, một loài kim dùng nhiều nhất (iron, Fe). ◎Như: 'cương thiết' 鋼鐵 thép và sắt. ◇Đỗ Phủ 杜甫: 'Bố khâm đa niên lãnh tự thiết' 布衾多年冷似鐵 (Mao ốc vi thu phong sở phá ca 茅屋為秋風所破歌) Chăn vải lâu năm lạnh như sắt.",
+                "(Danh) Vũ khí. ◎Như: 'thủ vô thốn thiết' 手無寸鐵 tay không có một tấc sắt, không có vũ khí.",
+                "(Danh) Họ 'Thiết'.",
+                "(Tính) Cứng, vững chắc, kiên cố. ◎Như: 'đồng tường thiết bích' 銅牆鐵壁 tường đồng vách sắt.",
+                "(Tính) Cứng cỏi, kiên định, không chịu khuất phục. ◎Như: 'thiết thạch tâm tràng' 鐵石心腸 tấm lòng vững mạnh như sắt đá, 'thiết án nan phiên' 鐵案難翻 án đã thành đủ chứng cớ như sắt rồi không thể nào gỡ ra lật lại được nữa. ◇Nguyễn Trãi 阮廌: 'Phong ba bất động thiết tâm can' 風波不動鐵心肝 (Vân Đồn 雲屯) Sóng gió không lay chuyển nổi tấm lòng gang thép.",
+                "(Tính) Dữ mạnh, hung hãn. ◎Như: 'thiết đề' 鐵蹄 gót sắt, chỉ hành vi xâm lăng hung bạo.",
+                "(Tính) Đen.",
+                "(Phó) Nhất định, tất nhiên, chắc chắn. ◎Như: 'thiết định' 鐵定 nhất định."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sắt, một loài kim dùng nhiều nhất.",
+                "Cứng cỏi, không chịu khuất ai. Như thiết hán 鐵漢 anh chàng cứng như sắt, thiết diện 鐵面 mặt sắt, v.v.",
+                "Không thể mài mất đi được. Như thiết án nan phiên 鐵案難翻 án đã thành đủ chứng cớ như sắt rồi không thể nào gỡ ra lật lại được nữa.",
+                "Đen."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sắt, gang: 鋼鐵 Gang thép; 鐵桶 Thùng sắt, thùng tôn; 熔鐵 Nấu gang;",
+                "Cứng như sắt, cứng cõi, vững chắc, đanh thép, sắt đá: 鐵的意志 Ý chí sắt đá; 鐵漢 Con người cứng cõi (đanh thép); 鐵案難譯 Án đã rành rành (có chứng cớ vững chắc khó lật lại được); 鐵拳 Quả đấm sắt; 鐵的紀律 Kỉ luật sắt;",
+                "(văn) Vũ khí, binh khí;",
+                "(văn) Đen;",
+                "[Tiâ] (Họ) Thiết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sắt ( tên một thứ kim loại ) — Chỉ màu đen — Chỉ sự cứng cỏi."
+            ],
+            "compound_words": {
+                "鋼鐵": "cương thiết",
+                "地鐵": "địa thiết",
+                "地鐵站": "địa thiết trạm",
+                "滑鐵盧": "hoạt thiết lô",
+                "烙鐵": "lạc thiết",
+                "生鐵": "sinh thiết",
+                "鐵皮": "thiết bì",
+                "鐵甲": "thiết giáp",
+                "鐵路": "thiết lộ",
+                "鐵石": "thiết thạch"
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "character": "褥",
+    "details": {
+        "Âm Hán Việt": [
+            "nhục"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "y 衣 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤辱"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶一ノ一一フノ丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "LMVI (中一女戈)"
+        ],
+        "Unicode": [
+            "U+8925"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "nù ㄋㄨˋ",
+            "rù ㄖㄨˋ"
+        ],
+        "Âm Nôm": [
+            "nhục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョク (joku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しとね (shitone)"
+        ],
+        "Âm Hàn": [
+            "욕"
+        ],
+        "Âm Quảng Đông": [
+            "juk6"
+        ]
+    },
+    "meanings": {
+        "nhục": {
+            "Từ điển phổ thông": [
+                "cái đệm (để nằm)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Đệm. ◎Như: “sàng nhục” 床褥 giường đệm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái đệm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đệm trải giường: 被褥 Chăn đệm. Cg. 褥子 [rùzi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nệm, để ngồi hoặc nằm cho êm."
+            ],
+            "compound_words": {
+                "牀褥": "sàng nhục",
+                "坐褥": "toạ nhục"
+            }
+        }
+    }
+}

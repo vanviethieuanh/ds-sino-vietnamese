@@ -1,0 +1,82 @@
+{
+    "character": "罄",
+    "details": {
+        "Âm Hán Việt": [
+            "khánh"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "phũ 缶 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱殸缶"
+        ],
+        "Nét bút": [
+            "一丨一フ丨一ノノフフ丶ノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "GEOJU (土水人十山)"
+        ],
+        "Unicode": [
+            "U+7F44"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "qìng ㄑㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "khánh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)",
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むな.しい (muna.shii)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "hing3"
+        ]
+    },
+    "meanings": {
+        "khánh": {
+            "Từ điển phổ thông": [
+                "đồ rỗng ở trong",
+                "hết nhẵn, cạn kiệt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ đựng không có gì bên trong.",
+                "(Tính) Hết nhẵn, hết sạch. ◎Như: 'khánh tận' 罄盡 hết sạch, 'khánh trúc nan thư' 罄竹難書 hết cả rừng tre cũng khó viết cho hết (ý nói tội ác nhiều đến nỗi đốn cả rừng tre làm sách viết cũng không xuể)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái đồ trong rỗng.",
+                "Hết nhẵn, như ta nói khánh tận 罄盡. Hết của gọi là cáo khánh 告罄."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vật rỗng không (bên trong);",
+                "Hết, hết sạch, hết nhẵn: 售罄 Bán hết (sạch); 告罄 Hết của, khánh tận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hết sạch, không còn gì — Vẻ nghiêm chỉnh."
+            ],
+            "compound_words": {
+                "罄竭": "khánh kiệt",
+                "罄盡": "khánh tận",
+                "罄竹難書": "khánh trúc nan thư"
+            }
+        }
+    }
+}

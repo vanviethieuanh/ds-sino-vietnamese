@@ -1,0 +1,151 @@
+{
+    "character": "拜",
+    "details": {
+        "Âm Hán Việt": [
+            "bái"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰手⿱一丰"
+        ],
+        "Nét bút": [
+            "ノ一一ノ一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "HQMQJ (竹手一手十)"
+        ],
+        "Unicode": [
+            "U+62DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ"
+        ],
+        "Âm Nôm": [
+            "bái",
+            "bay",
+            "bây",
+            "phai",
+            "vái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おが.む (oga.mu)",
+            "おろが.む (oroga.mu)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "baai1",
+            "baai3"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển phổ thông": [
+                "lạy, vái",
+                "chúc mừng",
+                "tôn kính"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vái, lạy. ◎Như: 'bái tạ' 拜謝 lạy tạ. ◇Hồng Lâu Mộng 紅樓夢: 'Kí yếu tác thi, nhĩ tựu bái ngã vi sư' 既要作詩, 你就拜我為師 (Đệ tứ thập bát hồi) Chị đã muốn làm thơ thì phải vái tôi làm thầy.",
+                "(Động) Thăm hỏi, gặp mặt (tiếng khách sáo). ◎Như: 'hồi bái' 回拜 thăm đáp, 'bái kiến' 拜見 kính gặp.",
+                "(Động) Cầu chúc. ◎Như: 'bái thọ' 拜壽 chúc thọ.",
+                "(Động) Trao chức, phong quan. ◇Sử Kí 史記: 'Bái Hàn Tín vi tướng quốc' 拜韓信為相國 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Phong Hàn Tín làm tướng quốc.",
+                "(Động) Bẻ cong. ◇Thi Kinh 詩經: 'Vật tiễn vật bái' 勿翦勿拜 (Thiệu nam 召南, Cam đường 甘棠) Đừng xén, đừng bẻ cong (nhánh cây).",
+                "(Danh) Họ 'Bái'.",
+                "(Danh) Phiên âm tiếng Anh 'byte' (danh từ chuyên môn điện toán)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lạy.",
+                "Trao, phong, như phong hầu bái tướng 封侯拜相.",
+                "Bẻ cong."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lễ, vái, lạy: 拜謝 Bái tạ, lạy tạ;",
+                "Thăm, chào: 回拜 Thăm đáp lễ; 互拜 Thăm nhau;",
+                "(cũ) Phong, tôn làm, kết nghĩa: 拜將 (Được vua) phong làm tướng; 拜把子 Kết nghĩa anh em;",
+                "(văn) Bẻ cong;",
+                "[Bài] (Họ) Bái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lạy — Trao chức quan cho người khác — Chịu khuất phục. Xem Bái phục."
+            ],
+            "compound_words": {
+                "阿塞拜疆": "a tái bái cương",
+                "拜恩": "bái ân",
+                "拜別": "bái biệt",
+                "拜别": "bái biệt",
+                "拜表": "bái biểu",
+                "拜職": "bái chức",
+                "拜倒": "bái đảo",
+                "拜堂": "bái đường",
+                "拜賀": "bái hạ",
+                "拜火教": "bái hoả giáo",
+                "拜会": "bái hội",
+                "拜會": "bái hội",
+                "拜渴": "bái khát",
+                "拜見": "bái kiến",
+                "拜见": "bái kiến",
+                "拜金": "bái kim",
+                "拜金主義": "bái kim chủ nghĩa",
+                "拜命": "bái mệnh",
+                "拜門": "bái môn",
+                "拜迎": "bái nghênh",
+                "拜年": "bái niên",
+                "拜訪": "bái phỏng",
+                "拜访": "bái phỏng",
+                "拜服": "bái phục",
+                "拜官": "bái quan",
+                "拜跪": "bái quỵ",
+                "拜师": "bái sư",
+                "拜師": "bái sư",
+                "拜謝": "bái tạ",
+                "拜埽": "bái tảo",
+                "拜託": "bái thác",
+                "拜讬": "bái thác",
+                "拜壽": "bái thọ",
+                "拜寿": "bái thọ",
+                "拜手": "bái thủ",
+                "拜賜": "bái tứ",
+                "拜辭": "bái từ",
+                "拜爵": "bái tước",
+                "拜相": "bái tướng",
+                "拜物": "bái vật",
+                "拜物教": "bái vật giáo",
+                "拜位": "bái vị",
+                "拜謁": "bái yết",
+                "報拜": "báo bái",
+                "褒拜": "bao bái",
+                "八拜": "bát bái",
+                "交拜": "giao bái",
+                "禮拜": "lễ bái",
+                "迎拜": "nghênh bái",
+                "五拜": "ngũ bái",
+                "氾拜": "phiếm bái",
+                "封拜": "phong bái",
+                "伏拜": "phục bái",
+                "跪拜": "quỵ bái",
+                "崇拜": "sùng bái",
+                "朝拜": "triều bái",
+                "望拜": "vọng bái"
+            }
+        }
+    }
+}

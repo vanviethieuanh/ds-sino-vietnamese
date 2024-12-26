@@ -1,0 +1,100 @@
+{
+    "character": "綱",
+    "details": {
+        "Âm Hán Việt": [
+            "cương"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹岡"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丨フ丶ノ一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "VFBTU (女火月廿山)"
+        ],
+        "Unicode": [
+            "U+7DB1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gāng ㄍㄤ"
+        ],
+        "Âm Nôm": [
+            "cáng",
+            "cương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つな (tsuna)"
+        ],
+        "Âm Hàn": [
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "gong1"
+        ]
+    },
+    "meanings": {
+        "cương": {
+            "Từ điển phổ thông": [
+                "dây cáp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Giềng lưới (tức sợi dây to làm đầu mối trong lưới). ◇Đỗ Phủ 杜甫: 'Thương giang ngư tử thanh thần tập, Thiết võng đề cương thủ ngư cấp' 蒼江漁子清晨集, 設網提綱取魚急 (Hựu quan đả ngư 又觀打魚) Ở trên sông xanh những người đánh cá tụ tập buổi sớm, Xếp đặt giềng lưới bắt cá vội vàng.",
+                "(Danh) Phần chủ yếu của sự vật. ◎Như: 'đề cương khiết lĩnh' 提綱挈領 nắm giữ những phần chủ yếu.",
+                "(Danh) Phép tắc, trật tự. ◎Như: 'cương kỉ' 綱紀 giềng mối, 'cương thường' 綱常 đạo thường của người gồm: 'tam cương' 三綱 ('quân thần, phụ tử, phu phụ' 君臣, 父子, 夫婦) và 'ngũ thường' 五常 ('nhân, lễ, nghĩa, trí, tín' 仁義禮智信).",
+                "(Danh) Nhóm người tụ tập cùng nhau để chuyên chở hàng hóa buôn bán. ◎Như: 'trà cương' 茶綱 bọn buôn trà.",
+                "(Danh) Một cấp của hệ thống phân loại trong sinh vật học: 'giới, môn, cương, mục, khoa, thuộc, chủng' 界, 門, 綱, 目, 科, 屬, 種. ◎Như: 'bộ nhũ cương' 哺乳綱 loài có vú (cho bú)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giềng lưới. Lưới có giềng mới kéo được các mắt, cho nên cái gì mà có thống hệ không thể rời được đều gọi là cương. Cương thường 綱常 đạo thường của người gồm: tam cương 三綱 là quân thần, phụ tử, phu phụ 君臣、父子、夫婦, ngũ thường 五常 là nhân, lễ, nghĩa, trí, tín 仁、義、禮、智、信.Cương kỉ 綱紀 giềng mối, v.v.",
+                "Phàm sự gì lấy một cái làm cốt rồi chia ra các ngành đều gọi là cương. Như sử cương mục 史綱目 nghĩa là lối chép sử theo cách này.",
+                "Vận tải hàng hoá kết từng bọn đi cũng gọi là cương, như trà cương 茶綱 tụi buôn chè (trà)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái rường (giềng) của lưới;",
+                "Những phần (điểm) chủ yếu: 提綱挈領 Nắm những điểm chủ yếu;",
+                "Cương lĩnh: 總綱 Cương lĩnh chung;",
+                "(sinh) Lớp: 哺乳動物綱 Lớp động vật có vú;",
+                "(văn) Bọn người chở hàng đi buôn: 茶綱 Bọn buôn trà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái giây lớn ở miệng lưới đánh cá, để kéo cả cái lưới lên — Phần chủ yếu."
+            ],
+            "compound_words": {
+                "乾綱": "càn cương",
+                "政綱": "chính cương",
+                "綱舉目張": "cương cử mục trương",
+                "綱維": "cương duy",
+                "綱紀": "cương kỉ",
+                "綱領": "cương lĩnh",
+                "綱目": "cương mục",
+                "綱常": "cương thường",
+                "綱要": "cương yếu",
+                "名綱": "danh cương",
+                "大綱": "đại cương",
+                "欽定越史通鑒綱目": "khâm định việt sử thông giám cương mục",
+                "紀綱": "kỷ cương",
+                "三綱": "tam cương",
+                "越史綱目": "việt sử cương mục"
+            }
+        }
+    }
+}

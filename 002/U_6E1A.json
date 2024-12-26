@@ -1,0 +1,88 @@
+{
+    "character": "渚",
+    "details": {
+        "Âm Hán Việt": [
+            "chử",
+            "hử"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡者"
+        ],
+        "Nét bút": [
+            "丶丶一一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "EJKA (水十大日)"
+        ],
+        "Unicode": [
+            "U+6E1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhǔ ㄓㄨˇ"
+        ],
+        "Âm Nôm": [
+            "chã",
+            "cho",
+            "chớ",
+            "chử",
+            "chưa",
+            "vã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なぎさ (nagisa)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "zyu2"
+        ]
+    },
+    "meanings": {
+        "chử": {
+            "Từ điển phổ thông": [
+                "bến nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bãi nhỏ. ◇Tô Thức 蘇軾: “Ngư tiều ư giang chử chi thượng” 漁樵於江渚之上 (Tiền Xích Bích phú 前赤壁賦) Người đánh cá, người kiếm củi ở trên bến sông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bãi nhỏ, gò, cồn (ở giữa hồ, sông): 騰王高閣臨江渚 Gác cao Đằng Vương trông ra bãi sông (Vương Bột: Đằng Vương các tự)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bãi sông."
+            ],
+            "compound_words": {
+                "渚童子": "chử đồng tử",
+                "在渚": "tại chử"
+            }
+        },
+        "hử": {
+            "Từ điển Thiều Chửu": [
+                "① Bãi nhỏ."
+            ],
+            "compound_words": {
+                "渚童子": "chử đồng tử",
+                "在渚": "tại chử"
+            }
+        }
+    }
+}

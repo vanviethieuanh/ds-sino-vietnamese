@@ -1,0 +1,110 @@
+{
+    "character": "限",
+    "details": {
+        "Âm Hán Việt": [
+            "hạn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "phụ 阜 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖艮"
+        ],
+        "Nét bút": [
+            "フ丨フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "NLAV (弓中日女)"
+        ],
+        "Unicode": [
+            "U+9650"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wěn ㄨㄣˇ",
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "giận",
+            "hạn",
+            "hẹn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゲン (gen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かぎ.る (kagi.ru)",
+            "かぎ.り (kagi.ri)",
+            "-かぎ.り (-kagi.ri)"
+        ],
+        "Âm Hàn": [
+            "한"
+        ],
+        "Âm Quảng Đông": [
+            "haan6"
+        ]
+    },
+    "meanings": {
+        "hạn": {
+            "Từ điển phổ thông": [
+                "giới hạn",
+                "bậc cửa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đất hiểm trở, chỗ ách yếu (làm ranh giới). ◇Chiến quốc sách 戰國策: 'Nam hữu Vu San Kiềm Trung chi hạn, đông hữu Hào Hàm chi cố' 南有巫山黔中之限, 東有肴函之固 (Tần sách nhất 秦策一) Phía nam có Vu San và Kiềm Trung (là những đất) hiểm trở, phía đông có Hào Sơn và Hàm Cốc kiên cố.",
+                "(Danh) Phạm vi quy định. ◎Như: 'kì hạn' 期限 thời gian quy định.",
+                "(Danh) Bậc cửa, ngưỡng cửa. ◎Như: 'môn hạn' 門限 ngưỡng cửa. ◇Liêu trai chí dị 聊齋志異: 'Hành chí nhất gia, môn hạn thậm cao, bất khả du' 行至一家, 門限甚高, 不可逾 (Tam sanh 三生) Đi đến một nhà, ngưỡng cửa rất cao, không bước qua được.",
+                "(Động) Không cho vượt qua. ◎Như: 'hạn chế' 限制 ngăn cản, cản trở, 'nhân số bất hạn' 人數不限 số người không hạn định."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giới hạn, cõi, có cái phạm vi nhất định không thể vượt qua được gọi là hạn. Như hạn chế 限制 nói về địa vị đã chỉ định, hạn kì 限期 hẹn kì, nói về thì giờ đã chỉ định.",
+                "Cái bực cửa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hạn, hạn độ, phạm vi được quy định: 無限 Vô hạn; 人數不限 Không hạn định số người; 期限 Kì hạn; 界限 Giới hạn; 權限 Quyền hạn;",
+                "Ranh giới, giới hạn;",
+                "(văn) Bậc cửa, ngưỡng cửa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái ngưỡng cửa — Mức không được vượt qua. Thí dụ: Giới hạn — Ngăn trở — Kìm bớt lại, trong một mức độ nào — Thời gian định trước. Thí dụ: Hạn kì."
+            ],
+            "compound_words": {
+                "制限": "chế hạn",
+                "極限": "cực hạn",
+                "界限": "giới hạn",
+                "限制": "hạn chế",
+                "限定": "hạn định",
+                "限度": "hạn độ",
+                "限期": "hạn kì",
+                "限韻": "hạn vận",
+                "有限": "hữu hạn",
+                "宽限": "khoan hạn",
+                "寬限": "khoan hạn",
+                "期限": "kỳ hạn",
+                "滿限": "mãn hạn",
+                "外限": "ngoại hạn",
+                "涯限": "nhai hạn",
+                "年限": "niên hạn",
+                "分限": "phận hạn",
+                "過限": "quá hạn",
+                "權限": "quyền hạn",
+                "災限": "tai hạn",
+                "展限": "triển hạn",
+                "程限": "trình hạn",
+                "運限": "vận hạn",
+                "無限": "vô hạn"
+            }
+        }
+    }
+}

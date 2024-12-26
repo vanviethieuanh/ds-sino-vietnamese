@@ -1,0 +1,79 @@
+{
+    "character": "蝃",
+    "details": {
+        "Âm Hán Việt": [
+            "chuyết",
+            "đế"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trùng 虫 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫叕"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶フ丶フ丶フ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "LIEEE (中戈水水水)"
+        ],
+        "Unicode": [
+            "U+8743"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dì ㄉㄧˋ",
+            "zhuō ㄓㄨㄛ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)",
+            "タイ (tai)",
+            "セツ (setsu)",
+            "セチ (sechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にじ (niji)"
+        ],
+        "Âm Quảng Đông": [
+            "dai3"
+        ]
+    },
+    "meanings": {
+        "chuyết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con nhện."
+            ]
+        },
+        "đế": {
+            "Từ điển phổ thông": [
+                "(xem: đế đông 螮蝀,蝃蝀)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như chữ “đế” 螮."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ đế 螮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 螮."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Đế 螮. Một âm khác là Chuyết."
+            ],
+            "compound_words": {
+                "蝃蝀": "đế đông"
+            }
+        }
+    }
+}

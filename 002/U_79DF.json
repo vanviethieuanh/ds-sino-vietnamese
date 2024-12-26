@@ -1,0 +1,93 @@
+{
+    "character": "租",
+    "details": {
+        "Âm Hán Việt": [
+            "tô"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoà 禾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾且"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "HDBM (竹木月一)"
+        ],
+        "Unicode": [
+            "U+79DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ",
+            "zū ㄗㄨ"
+        ],
+        "Âm Nôm": [
+            "to",
+            "tô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソ (so)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zou1"
+        ]
+    },
+    "meanings": {
+        "tô": {
+            "Từ điển phổ thông": [
+                "tô thuế",
+                "cho thuê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thuế ruộng. ◎Như: 'điền tô' 田租 thuế ruộng.",
+                "(Danh) Thuế, tiền thu thuế. ◇Sử Kí 史記: 'Lí Mục vi Triệu tướng cư biên, quân thị chi tô giai tự dụng hưởng sĩ, thưởng tứ quyết ư ngoại, bất tòng trung nhiễu dã' 李牧為趙將居邊, 軍市之租皆自用饗士, 賞　賜決於外, 不從中擾也 (Trương Thích Chi truyện 張釋之傳) Lí Mục làm tướng nước Triệu, ở biên thùy, thuế thu ở chợ đều tự dùng để khao quân sĩ, việc tưởng thưởng đều quyết định ở ngoài (không phải theo lệnh trung ương), triều đình không phiền hà can thiệp.",
+                "(Danh) Tiền thuê, tiền mướn. ◎Như: 'phòng tô' 房租 tiền thuê nhà.",
+                "(Động) Cho thuê. ◎Như: 'tô ốc' 租屋 cho thuê nhà.",
+                "(Động) Đi thuê, thuê. ◎Như: 'tô nhất gian phòng tử' 租一間房子 thuê một gian nhà, 'xuất tô xa' 出租車 xe taxi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thuế ruộng, bán ruộng cho người cấy thuê cũng gọi là điền tô 田租.",
+                "Cho thuê, phàm lấy vật gì cho người mượn dùng để lấy tiền thuê dều gọi là tô. Như các nước mượn đất nước Tàu sửa sang buôn bán theo chính trị mình gọi là tô giới 租界."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuê: 租一輛汽車 Thuê một chiếc ô tô;",
+                "Cho thuê, cho... thuê: 這所房子已經租給人家了 Cái nhà này đã có người ta thuê rồi;",
+                "Tiền thuê, tô: 房租 Tiền (thuê) nhà; 收租 Thu tô; 減租 Giảm tô;",
+                "(cũ) Thuế, thuế điền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thuế ruộng — Chỉ chung thuế má — Thuê mướn của người khác — Cho thuê."
+            ],
+            "compound_words": {
+                "包租": "bao tô",
+                "地租": "địa tô",
+                "田租": "điền tô",
+                "免租": "miễn tô",
+                "蠲租": "quyên tô",
+                "暫租": "tạm tô",
+                "租地": "tô địa",
+                "租界": "tô giới",
+                "租户": "tô hộ",
+                "租金": "tô kim",
+                "租稅": "tô thuế"
+            }
+        }
+    }
+}

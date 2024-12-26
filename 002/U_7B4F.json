@@ -1,0 +1,82 @@
+{
+    "character": "筏",
+    "details": {
+        "Âm Hán Việt": [
+            "phiệt",
+            "phạt"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮伐"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HOI (竹人戈)"
+        ],
+        "Unicode": [
+            "U+7B4F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fá ㄈㄚˊ"
+        ],
+        "Âm Nôm": [
+            "phẹt",
+            "phịch",
+            "phiệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バツ (batsu)",
+            "ハツ (hatsu)",
+            "ボチ (bochi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いかだ (ikada)"
+        ],
+        "Âm Hàn": [
+            "벌"
+        ],
+        "Âm Quảng Đông": [
+            "fat6"
+        ]
+    },
+    "meanings": {
+        "phiệt": {
+            "Từ điển phổ thông": [
+                "cái bè (thuyền bè)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bè, sào. ◎Như: “từ hàng bảo phiệt” 慈航寶筏 thuyền từ bè báu (§ thuật ngữ Phật giáo: để cứu vớt chúng sinh khỏi chìm đắm). ◇Tây du kí 西遊記: “Quả độc tự đăng phiệt, tẫn lực sanh khai” 果獨自登筏, 儘力撐開 (Đệ nhất hồi) Rồi một mình lên bè, ra sức đẩy sào."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cánh bè, tán dương phép Phật rất mầu cứu vớt cho người khỏi chìm đắm gọi là từ hàng bảo phiệt 慈航寶筏 ý nói cứu vớt được các chúng sinh vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chiếc bè: 皮筏 Chiếc bè nhỏ hình thon làm bằng da; 慈航寶筏 Bè từ cứu vớt chúng sinh (ra khỏi bể khổ)."
+            ],
+            "compound_words": {
+                "寶筏": "bảo phiệt"
+            }
+        },
+        "phạt": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bè làm bằng những cây tre xếp lại."
+            ]
+        }
+    }
+}

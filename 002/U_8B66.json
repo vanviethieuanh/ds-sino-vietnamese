@@ -1,0 +1,110 @@
+{
+    "character": "警",
+    "details": {
+        "Âm Hán Việt": [
+            "cảnh"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "ngôn 言 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱敬言"
+        ],
+        "Nét bút": [
+            "一丨丨ノフ丨フ一ノ一ノ丶丶一一一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TKYMR (廿大卜一口)"
+        ],
+        "Unicode": [
+            "U+8B66"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jǐng ㄐㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "cảnh",
+            "khểnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いまし.める (imashi.meru)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "ging2"
+        ]
+    },
+    "meanings": {
+        "cảnh": {
+            "Từ điển phổ thông": [
+                "đề phòng, phòng ngừa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Răn bảo, nhắc nhở. ◎Như: 'cảnh chúng' 警眾 nhắc nhở mọi người, 'cảnh cáo' 警告 răn bảo.",
+                "(Động) Phòng bị. ◎Như: 'cảnh bị' 警備 đề phòng.",
+                "(Động) Giác ngộ, tỉnh ngộ. ◎Như: 'đề cao cảnh giác' 提高警覺 hết sức thức tỉnh trước hiểm nguy hoặc tình huống biến động. ◇Hồng Lâu Mộng 紅樓夢: 'Sảo năng cảnh tỉnh, diệc khả miễn trầm luân chi khổ' 稍能警省, 亦可免沉倫之苦 (Đệ nhất hồi) Được cảnh tỉnh đôi chút, cũng có thể thoát khỏi nỗi khổ trầm luân.",
+                "(Tính) Nhanh nhẹn, mẫn tiệp. ◎Như: 'cơ cảnh' 機警 nhanh nhẹn.",
+                "(Tính) Tinh luyện, thâm thiết, xúc động lòng người (văn từ). ◎Như: 'cảnh cú' 警句 câu văn tinh luyện.",
+                "(Danh) Tin tức, tình hình nguy hiểm hoặc khẩn cấp. ◎Như: 'hỏa cảnh' 火警 báo động hỏa hoạn, 'biên cảnh' 邊警 tình huống nguy hiểm ở biên giới, tin tức về sự nguy biến ở biên thùy.",
+                "(Danh) Nói tắt của 'cảnh sát' 警察. ◎Như: 'cảnh giao' 交警 cảnh sát giao thông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Răn bảo, lấy lời nói ghê gớm khiến cho người phải chú ý nghe gọi là cảnh. Như cảnh chúng 警眾 răn bảo mọi người. Vì thế nên báo cáo những tin nguy biến ngoài biên thùy gọi là cảnh.",
+                "Phòng bị trước. Ngày xưa vua đi ra đều cấm không cho ai đi lại để phòng sự phi thường gọi là cảnh tất 警蹕. Nay các nơi đặt tuần phu hay đội xếp để phòng bị sự xảy ra cũng gọi là cảnh cả. Như tuần cảnh 巡警, cảnh sát 警察, v.v.",
+                "Đánh thức.",
+                "Nhanh nhẹn.",
+                "Kinh hãi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Răn bảo, cảnh cáo: 警戒 Cảnh giới;",
+                "Báo động: 拉起警報 Kéo còi báo động; 火警 Báo động cháy; 他射幾槍示警 Họ bắn mấy phát súng báo động;",
+                "Còi báo động: 火警的警報器響了 Còi báo động cháy đã vang lên;",
+                "Nhanh nhẹn: 他很機警 Anh ấy rất nhanh nhạy;",
+                "Cảnh sát, công an: 民警 Cảnh sát dân sự; 交通警 Công an giao thông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Răn ngừa — Báo trước để phòng giữ — Đánh thức dậy."
+            ],
+            "compound_words": {
+                "報警": "báo cảnh",
+                "报警": "báo cảnh",
+                "警報": "cảnh báo",
+                "警備": "cảnh bị",
+                "警兵": "cảnh binh",
+                "警告": "cảnh cáo",
+                "警鐘": "cảnh chung",
+                "警鼓": "cảnh cổ",
+                "警句": "cảnh cú",
+                "警惕": "cảnh dịch",
+                "警戒": "cảnh giới",
+                "警吏": "cảnh lại",
+                "警官": "cảnh quan",
+                "警察": "cảnh sát",
+                "警蹕": "cảnh tất",
+                "警務": "cảnh vụ",
+                "機警": "cơ cảnh",
+                "法警": "pháp cảnh",
+                "軍警": "quân cảnh",
+                "巡警": "tuần cảnh",
+                "違警": "vi cảnh"
+            }
+        }
+    }
+}

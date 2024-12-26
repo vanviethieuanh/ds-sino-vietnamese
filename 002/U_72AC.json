@@ -1,0 +1,83 @@
+{
+    "character": "犬",
+    "details": {
+        "Âm Hán Việt": [
+            "khuyển"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "IK (戈大)"
+        ],
+        "Unicode": [
+            "U+72AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "quǎn ㄑㄩㄢˇ"
+        ],
+        "Âm Nôm": [
+            "chó",
+            "khuyển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いぬ (inu)",
+            "いぬ- (inu-)"
+        ],
+        "Âm Hàn": [
+            "견"
+        ],
+        "Âm Quảng Đông": [
+            "hyun2"
+        ]
+    },
+    "meanings": {
+        "khuyển": {
+            "Từ điển phổ thông": [
+                "con chó"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Chó. § Cũng như “cẩu” 狗. ◇Tào Đường 曹唐: “Nguyện đắc hoa gian hữu nhân xuất, Miễn linh tiên khuyển phệ Lưu lang” 願得花間有人出, 免令仙犬吠劉郎 (Lưu Nguyễn động trung ngộ tiên tử 劉阮洞中遇仙子) Mong rằng trong hoa có người ra đón, Để chó nhà tiên khỏi sủa chàng Lưu. § Ngô Tất Tố dịch thơ: Dưới hoa ước có ai ra đón, Để chó nhà tiên khỏi sủa người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con chó.",
+                "Nói ý hèn hạ. Kẻ dưới đối với kẻ trên có chút công lao tự nói nhún là khuyển mã chi lao 犬馬之勞 cái công chó ngựa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chó: 獵犬 Chó săn; 牧犬 Chó chăn cừu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chó. Loài chó — Tên một trong các bộ chữ Trung Hoa. Bộ Khuyển khi ghép với các chữ khác thì viết là 犭— Chỉ sự kém cỏi, xấu xa."
+            ],
+            "compound_words": {
+                "指雞罵犬": "chỉ kê mạ khuyển",
+                "狂犬病": "cuồng khuyển bệnh",
+                "豚犬": "đồn khuyển",
+                "犬馬": "khuyển mã",
+                "犬儒": "khuyển nho",
+                "犬子": "khuyển tử",
+                "獵犬": "lạp khuyển",
+                "瘋犬病": "phong khuyển bệnh",
+                "鷹犬": "ưng khuyển"
+            }
+        }
+    }
+}

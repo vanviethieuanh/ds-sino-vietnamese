@@ -1,0 +1,84 @@
+{
+    "character": "粘",
+    "details": {
+        "Âm Hán Việt": [
+            "niêm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mễ 米 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米占"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "FDYR (火木卜口)"
+        ],
+        "Unicode": [
+            "U+7C98"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "liān ㄌㄧㄢ",
+            "nián ㄋㄧㄢˊ",
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nôm": [
+            "chiêm",
+            "dính",
+            "niêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ネン (nen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねば.る (neba.ru)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "nim1",
+            "nim4",
+            "zim1"
+        ]
+    },
+    "meanings": {
+        "niêm": {
+            "Từ điển phổ thông": [
+                "chất dính",
+                "dán vào"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Dán, dính. § Tục dùng như “niêm” 黏. ◇Nguyễn Du 阮攸: “Tạc kiến tân trịnh thành môn niêm bảng thị” 昨見新鄭城門粘榜示 (Trở binh hành 阻兵行) Hôm trước thấy cửa thành Tân Trịnh yết bảng cáo thị."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ niêm 黏."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dính: 粘 在一起 了 Dính vào nhau;糖粘牙 Kẹo dính răng;",
+                "Dán: 粘信封 Dán phong bì, dán bao thơ. Như 黏 [nián] (bộ 黍)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chư chữ Niêm 黏."
+            ],
+            "compound_words": {
+                "粘土": "niêm thổ",
+                "失粘": "thất niêm"
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "痲",
+    "details": {
+        "Âm Hán Việt": [
+            "ma"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nạch 疒 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒𣏟"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨ノ丨一丨ノフ"
+        ],
+        "Thương Hiệt": [
+            "KJCC (大十金金)"
+        ],
+        "Unicode": [
+            "U+75F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "má ㄇㄚˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マ (ma)",
+            "バ (ba)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しび.れる (shibi.reru)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "maa4"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "tê liệt",
+                "rỗ, không nhẵn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Ma chẩn' 痲疹 bệnh sởi.",
+                "(Danh) 'Ma phong' 痲風 bệnh phong, chứng hủi. § Cũng gọi là: 'ma phong' 麻風, 'ma phong' 痲瘋, 'đại ma phong' 大麻風, 'lại bệnh' 癩病.",
+                "(Tính) 'Ma tí' 痲痺 tê buốt.",
+                "(Tính) Rỗ (mặt có nhiều vết sẹo do mắc bệnh lên đậu). § Thông 'ma' 麻. ◎Như: 'ma tử' 痲子 người mặt rỗ.",
+                "(Động) Mất cảm giác, tê dại. § Thông 'ma' 麻."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ma chẩn 痲疹 chứng sởi.",
+                "Ma phong 痲風 chứng hủi. Cũng viết 痲瘋.",
+                "Ma tí 痲痺 tê buốt.",
+                "Tục gọi lên đậu rồi rỗ mặt là ma tử 痲子. Thường dùng như chữ lâm 麻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh sởi;",
+                "Bệnh phong, bệnh hủi;",
+                "Làm cho tê liệt;",
+                "Sẹo đậu mùa, sẹo rỗ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh tê bại."
+            ],
+            "compound_words": {
+                "痲疹": "ma chẩn",
+                "痲脸": "ma kiểm",
+                "痲臉": "ma kiểm",
+                "痲疯": "ma phong",
+                "痲瘋": "ma phong"
+            }
+        }
+    }
+}

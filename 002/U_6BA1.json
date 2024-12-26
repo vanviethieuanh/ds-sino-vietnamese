@@ -1,0 +1,78 @@
+{
+    "character": "殡",
+    "details": {
+        "Âm Hán Việt": [
+            "thấn",
+            "tấn",
+            "tẫn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹宾"
+        ],
+        "Nét bút": [
+            "一ノフ丶丶丶フノ丨一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MNJOC (一弓十人金)"
+        ],
+        "Unicode": [
+            "U+6BA1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bìn ㄅㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tẫn",
+            "thấn"
+        ],
+        "Âm Quảng Đông": [
+            "ban3"
+        ]
+    },
+    "meanings": {
+        "thấn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 殯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 殯"
+            ]
+        },
+        "tấn": {
+            "Từ điển phổ thông": [
+                "yên cữu (xác chết nhập quan chưa chôn)",
+                "vùi lấp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 殯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 殯"
+            ],
+            "compound_words": {
+                "殡葬": "tấn táng",
+                "殡车": "tấn xa"
+            }
+        },
+        "tẫn": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 殯"
+            ]
+        }
+    }
+}

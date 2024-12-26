@@ -1,0 +1,95 @@
+{
+    "character": "敷",
+    "details": {
+        "Âm Hán Việt": [
+            "phu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "phác 攴 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰旉攵"
+        ],
+        "Nét bút": [
+            "一丨フ一一丨丶丶一フノノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ISOK (戈尸人大)"
+        ],
+        "Unicode": [
+            "U+6577"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fū ㄈㄨ"
+        ],
+        "Âm Nôm": [
+            "phô",
+            "phu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "し.く (shi.ku)",
+            "-し.き (-shi.ki)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu1"
+        ]
+    },
+    "meanings": {
+        "phu": {
+            "Từ điển phổ thông": [
+                "bày, mở rộng ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Truyền rộng, tán bố. ◇Thư Kinh 書經: 'Văn mệnh phu ư tứ hải' 文命敷於四海 (Đại Vũ mô 大禹謨) Văn mệnh ban bố khắp nơi.",
+                "(Động) Trình bày, trần thuật. ◇Pháp Hoa Kinh 法華經: 'Phu diễn thâm pháp nghĩa' 敷演深法義 (Tự phẩm đệ nhất 序品第一) Diễn giảng ý nghĩa của (Phật) pháp sâu xa.",
+                "(Động) Đặt, bày ra. ◎Như: 'phu thiết' 敷設 bày biện sắp xếp.",
+                "(Động) Bôi, xoa, đắp, rịt. ◎Như: 'phu dược' 敷藥 rịt thuốc, 'phu phấn' 敷粉 xoa phấn. ◇Hồng Lâu Mộng 紅樓夢: 'Bảo cô nương tống khứ đích dược, ngã cấp nhị da phu thượng liễu, bỉ tiên hảo ta liễu' 寶姑娘送去的藥, 我給二爺敷上了, 比先好些了 (Đệ tam thập tứ hồi) Cô Bảo đưa thuốc sang, con xoa cho cậu Hai, so với trước thấy đã khá hơn.",
+                "(Động) Đủ. ◎Như: 'nhập bất phu xuất' 入不敷出 nhập không đủ xuất. ◇Tam quốc diễn nghĩa 三國演義: 'Nhược thiên diên nhật nguyệt, lương thảo bất phu, sự khả ưu hĩ' 若遷延日月, 糧草不敷, 事可憂矣 (Đệ tam thập hồi) Nếu kéo dài ngày tháng, lương thảo không đủ thì thật đáng lo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bày, mở rộng ra, ban bố khắp cả.",
+                "Ðắp, rịt, như phu dược 敷藥 rịt thuốc.",
+                "Ðầy đủ, như bất phu 不敷 không đủ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đắp, rịt, xoa: 敷粉 Xoa phấn; 敷藥 Đắp thuốc;",
+                "Đặt: 敷設鐵路 Đặt đường ray;",
+                "Đủ: 入不敷出 Thu không đủ chi;",
+                "(văn) Bày, mở rộng ra, ban bố khắp cả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sắp đặt — Bày ra — Đầy đủ. Td: Bất phu ( Thiếu thốn, không đầy đủ )."
+            ],
+            "compound_words": {
+                "紛敷": "phân phu",
+                "敷衍": "phu diễn",
+                "敷愉": "phu du",
+                "敷教": "phu giáo",
+                "敷化": "phu hoá",
+                "敷奏": "phu tấu",
+                "敷設": "phu thiết",
+                "敷陳": "phu trần",
+                "敷治": "phu trị",
+                "芳敷": "phương phu"
+            }
+        }
+    }
+}

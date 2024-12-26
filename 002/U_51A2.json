@@ -1,0 +1,93 @@
+{
+    "character": "冢",
+    "details": {
+        "Âm Hán Việt": [
+            "trũng",
+            "trủng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mịch 冖 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱冖豖"
+        ],
+        "Nét bút": [
+            "丶フ一ノフノノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BMMO (月一一人)"
+        ],
+        "Unicode": [
+            "U+51A2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǒng ㄓㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "trổng",
+            "trũng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つか (tsuka)",
+            "おお.う (ō.u)"
+        ],
+        "Âm Hàn": [
+            "총"
+        ],
+        "Âm Quảng Đông": [
+            "cung2"
+        ]
+    },
+    "meanings": {
+        "trũng": {
+            "Từ điển phổ thông": [
+                "mồ, mả đắp cao",
+                "lớn nhất, cao nhất"
+            ]
+        },
+        "trủng": {
+            "Từ điển phổ thông": [
+                "mồ, mả đắp cao",
+                "lớn nhất, cao nhất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mồ cao, mả đắp cao. § Cũng viết là 'trủng' 塚. ◇Sử Kí 史記: 'Hạng Vũ thiêu Tần cung thất, quật Thủy Hoàng đế trủng' 項羽燒秦宮室, 掘始皇帝冢 (Cao Tổ bản kỉ 高祖本紀) Hạng Vũ đốt cháy cung thất nhà Tần, đào mả Tần Thủy Hoàng.",
+                "(Danh) Đỉnh núi. ◇Thi Kinh 詩經: 'Bách xuyên phất đằng, San trủng tốt băng' 百川沸騰, 山冢崒崩 (Tiểu nhã 小雅, Thập nguyệt chi giao 十月之交) Trăm sông tràn vọt, Đỉnh núi sụt lở.",
+                "(Danh) Chỗ đất cao để tế tự. § Tức là 'xã' 社. ◎Như: 'trủng thổ' 冢土 chỗ đất thiên tử tế thần.",
+                "(Tính) Trưởng, đứng đầu. ◎Như: 'trủng tử' 冢子 con trưởng, 'trủng tể' 冢宰 quan coi cả trăm quan, tức là quan tể tướng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mồ cao, mả đắp cao gọi là trủng. Bây giờ thường dùng chữ trủng 塚.",
+                "Nhớn, như trủng tử 冢子 con trưởng, trủng tể 冢宰 quan coi cả trăm quan, tức là quan Tể tướng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngôi mả cao, mồ, mộ: 塚填 Mồ mả; 古塚 Mồ cổ; 烈士塚 Mộ liệt sĩ;",
+                "Gò đất, mô đất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngôi mộ cao — To lớn — Đỉnh núi."
+            ],
+            "compound_words": {
+                "嶓冢": "ba trủng",
+                "冢墳": "trủng phần",
+                "冢宰": "trủng tể",
+                "冢子": "trủng tử"
+            }
+        }
+    }
+}

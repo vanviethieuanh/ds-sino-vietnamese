@@ -1,0 +1,75 @@
+{
+    "character": "鉦",
+    "details": {
+        "Âm Hán Việt": [
+            "chinh"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Hình thái": [
+            "⿰金正"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "CMYM (金一卜一)"
+        ],
+        "Unicode": [
+            "U+9266"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhēng ㄓㄥ"
+        ],
+        "Âm Nôm": [
+            "chiêng",
+            "chinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かね (kane)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "chinh": {
+            "Từ điển phổ thông": [
+                "cái chiêng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Chiêng (nhạc khí)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chiêng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) chiêng (thời xưa dùng để gõ khi hành quân): 鉦鼓 Trống chiêng. (Ngb) Việc quân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chiêng."
+            ],
+            "compound_words": {
+                "鉦鼓": "chinh cổ",
+                "鼓鉦": "cổ chinh"
+            }
+        }
+    }
+}

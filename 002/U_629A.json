@@ -1,0 +1,74 @@
+{
+    "character": "抚",
+    "details": {
+        "Âm Hán Việt": [
+            "mô",
+            "phủ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘无"
+        ],
+        "Nét bút": [
+            "一丨一一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "QMKU (手一大山)"
+        ],
+        "Unicode": [
+            "U+629A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fǔ ㄈㄨˇ",
+            "hū ㄏㄨ"
+        ],
+        "Âm Nôm": [
+            "phủ"
+        ],
+        "Âm Quảng Đông": [
+            "fu2"
+        ]
+    },
+    "meanings": {
+        "mô": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 撫."
+            ],
+            "compound_words": {
+                "抚摸": "phủ mô"
+            }
+        },
+        "phủ": {
+            "Từ điển phổ thông": [
+                "phủ dụ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 撫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 撫"
+            ],
+            "compound_words": {
+                "爱抚": "ái phủ",
+                "安抚": "an phủ",
+                "抚抱": "phủ bão",
+                "抚养": "phủ dưỡng",
+                "抚摸": "phủ mô"
+            }
+        }
+    }
+}

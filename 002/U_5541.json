@@ -1,0 +1,104 @@
+{
+    "character": "啁",
+    "details": {
+        "Âm Hán Việt": [
+            "chu",
+            "chù",
+            "triêu",
+            "trào",
+            "trù"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口周"
+        ],
+        "Nét bút": [
+            "丨フ一ノフ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RBGR (口月土口)"
+        ],
+        "Unicode": [
+            "U+5541"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhāo ㄓㄠ",
+            "zhōu ㄓㄡ"
+        ],
+        "Âm Nôm": [
+            "chù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "チョウ (chō)",
+            "チュウ (chū)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たわむ.れる (tawamu.reru)"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển Trần Văn Chánh": [
+                "【啁啾】chu thu [zhoujiu] (văn) Chiêm chiếp, chích chích, ríu rít (tiếng chim kêu). Xem 啁 [zhao]."
+            ]
+        },
+        "chù": {
+            "Từ điển Thiều Chửu": [
+                "① Chù chiết 啁哳 tiếng chim kêu (ríu rít)."
+            ]
+        },
+        "triêu": {
+            "Từ điển phổ thông": [
+                "tiếng chim hót"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【啁哳】triêu triết [zhouzha] (văn) (Tiếng chim kêu) líu lo, ríu rít. Xem 啁 [zhou]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng một bầy chim hót ríu rít — Lắm lời — Một âm là Trù."
+            ],
+            "compound_words": {
+                "啁哳": "triêu triết"
+            }
+        },
+        "trào": {
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) 'Trào triết' 啁哳: (1) Tiếng chim kêu. (2) Tiếng lộn xộn, phồn tạp, tế toái. ◇Kỉ Quân 紀昀: 'Kì nhân cử thủ chỉ huy, ngữ trào triết bất khả biện' 其人舉手指揮, 語啁哳不可辨 (Duyệt vi thảo đường bút kí 閱微草堂筆記) Người đó giơ tay chỉ huy, lời nói lộn xộn không hiểu được.",
+                "(Động) Cười cợt, trào tiếu."
+            ]
+        },
+        "trù": {
+            "Từ điển phổ thông": [
+                "tiếng chim hót"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【啁啾】chu thu [zhoujiu] (văn) Chiêm chiếp, chích chích, ríu rít (tiếng chim kêu). Xem 啁 [zhao]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Trù triết 啁哳."
+            ],
+            "compound_words": {
+                "啁哳": "trù triết"
+            }
+        }
+    }
+}

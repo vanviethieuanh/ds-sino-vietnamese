@@ -1,0 +1,114 @@
+{
+    "character": "廳",
+    "details": {
+        "Âm Hán Việt": [
+            "sảnh",
+            "thinh",
+            "thính"
+        ],
+        "Tổng nét": [
+            "25"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+22 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸广聽"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨丨一一一一一丨一一丨丨フ丨丨一一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "ISGP (戈尸土心)"
+        ],
+        "Unicode": [
+            "U+5EF3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tīng ㄊㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "sảnh",
+            "thinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やくしょ (yakusho)"
+        ],
+        "Âm Hàn": [
+            "청"
+        ],
+        "Âm Quảng Đông": [
+            "teng1"
+        ]
+    },
+    "meanings": {
+        "sảnh": {
+            "Từ điển phổ thông": [
+                "phòng khách",
+                "chỗ quan ngồi làm việc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ quan ngồi xử sự (thời xưa).",
+                "(Danh) Phòng. ◎Như: 'khách thính' 客廳 phòng khách, 'xan thính' 餐廳 phòng ăn.",
+                "(Danh) Ti, sở công. ◎Như: 'giáo dục thính' 教育廳 ti giáo dục.",
+                "(Danh) Cửa tiệm, hiệu. ◎Như: 'ca thính' 歌廳 phòng ca nhạc, 'lí phát thính' 理髮廳 tiệm làm tóc, 'ca phê thính' 咖啡廳 hiệu cà phê.",
+                "§ Ta quen đọc là 'sảnh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chỗ quan ngồi xử sự. Ta quen đọc là chữ sảnh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Quan sảnh, sảnh đường (chỗ quan ngồi xử lí công việc);",
+                "Phòng: 客廳 Phòng khách;",
+                "Phòng làm việc, phòng giấy: 辨公廳 Phòng làm việc, văn phòng;",
+                "Ti: 教育廳 Ti giáo dục."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phủ quan — Nhà lớn để tiếp khách — Khu vực hành chánh tại các địa phương dưới thời Thanh — Đáng lẽ đọc Thinh. » Thung dung xuống kiệu sảnh ngoài « ( Nhị độ mai )."
+            ],
+            "compound_words": {
+                "大廳": "đại sảnh",
+                "客廳": "khách sảnh",
+                "廳亭": "sảnh đình",
+                "廳庭": "sảnh đình",
+                "廳堂": "sảnh đường",
+                "廳事": "sảnh sự",
+                "市廳": "thị sảnh"
+            }
+        },
+        "thinh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phủ quan — Nhà lớn để tiếp khách — Khu vực hành chánh tại các địa phương dưới thời Thanh — Ta thường đọc Sảnh."
+            ]
+        },
+        "thính": {
+            "Từ điển phổ thông": [
+                "phòng khách",
+                "chỗ quan ngồi làm việc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ quan ngồi xử sự (thời xưa).",
+                "(Danh) Phòng. ◎Như: 'khách thính' 客廳 phòng khách, 'xan thính' 餐廳 phòng ăn.",
+                "(Danh) Ti, sở công. ◎Như: 'giáo dục thính' 教育廳 ti giáo dục.",
+                "(Danh) Cửa tiệm, hiệu. ◎Như: 'ca thính' 歌廳 phòng ca nhạc, 'lí phát thính' 理髮廳 tiệm làm tóc, 'ca phê thính' 咖啡廳 hiệu cà phê.",
+                "§ Ta quen đọc là 'sảnh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chỗ quan ngồi xử sự. Ta quen đọc là chữ sảnh."
+            ]
+        }
+    }
+}

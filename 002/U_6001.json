@@ -1,0 +1,67 @@
+{
+    "character": "态",
+    "details": {
+        "Âm Hán Việt": [
+            "thái"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱太心"
+        ],
+        "Nét bút": [
+            "一ノ丶丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "KIP (大戈心)"
+        ],
+        "Unicode": [
+            "U+6001"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tài ㄊㄞˋ"
+        ],
+        "Âm Nôm": [
+            "thái"
+        ],
+        "Âm Quảng Đông": [
+            "taai3"
+        ]
+    },
+    "meanings": {
+        "thái": {
+            "Từ điển phổ thông": [
+                "vẻ, thái độ",
+                "hình dạng, trạng thái"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 態."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 態"
+            ],
+            "compound_words": {
+                "液态": "dịch thái",
+                "动态": "động thái",
+                "形态": "hình thái",
+                "事态": "sự thái",
+                "态度": "thái độ",
+                "时态": "thời thái",
+                "姿态": "tư thái"
+            }
+        }
+    }
+}

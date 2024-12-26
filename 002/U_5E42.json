@@ -1,0 +1,73 @@
+{
+    "character": "幂",
+    "details": {
+        "Âm Hán Việt": [
+            "mạc",
+            "mịch"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mịch 冖 (+10 nét)",
+            "cân 巾 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿳冖旲巾"
+        ],
+        "Nét bút": [
+            "丶フ丨フ一一一ノ丶丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "BAKB (月日大月)"
+        ],
+        "Unicode": [
+            "U+5E42"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mì ㄇㄧˋ"
+        ],
+        "Âm Quảng Đông": [
+            "mik6"
+        ]
+    },
+    "meanings": {
+        "mạc": {
+            "Từ điển phổ thông": [
+                "cái màn căng ở trên, cái bạt",
+                "cái khăn phủ đồ",
+                "cái mạng che mặt"
+            ],
+            "compound_words": {
+                "闭幂": "bế mạc",
+                "开幂": "khai mạc",
+                "垂幂": "thuỳ mạc"
+            }
+        },
+        "mịch": {
+            "Từ điển phổ thông": [
+                "cái màn căng ở trên, cái bạt",
+                "cái khăn phủ đồ",
+                "cái mạng che mặt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 冪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 冪 (bộ 冖)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái khăn để đậy đồ vật — Lấy khăn mà đậy."
+            ]
+        }
+    }
+}

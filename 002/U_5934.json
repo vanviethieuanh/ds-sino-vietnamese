@@ -1,0 +1,81 @@
+{
+    "character": "头",
+    "details": {
+        "Âm Hán Việt": [
+            "đầu"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "đại 大 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YK (卜大)"
+        ],
+        "Unicode": [
+            "U+5934"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tōu ㄊㄡ",
+            "tóu ㄊㄡˊ",
+            "tou"
+        ],
+        "Âm Nôm": [
+            "đầu"
+        ],
+        "Âm Quảng Đông": [
+            "tau4"
+        ]
+    },
+    "meanings": {
+        "đầu": {
+            "Từ điển phổ thông": [
+                "cái đầu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 頭."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 頭"
+            ],
+            "compound_words": {
+                "报头": "báo đầu",
+                "蓬头历齿": "bồng đầu lịch xỉ",
+                "枕头": "chẩm đầu",
+                "工头": "công đầu",
+                "大碶头": "đại khế đầu",
+                "头颅": "đầu lô",
+                "喉头": "hầu đầu",
+                "户头": "hộ đầu",
+                "磕头": "khái đầu",
+                "口头": "khẩu đầu",
+                "叩头": "khấu đầu",
+                "硚头": "kiều đầu",
+                "榔头": "lang đầu",
+                "龙头老大": "long đầu lão đại",
+                "码头": "mã đầu",
+                "埋头": "mai đầu",
+                "馒头": "man đầu",
+                "乳头": "nhũ đầu",
+                "斧头": "phủ đầu",
+                "拳头": "quyền đầu",
+                "抬头": "sĩ đầu",
+                "势头": "thế đầu",
+                "幧头": "thiêu đầu"
+            }
+        }
+    }
+}

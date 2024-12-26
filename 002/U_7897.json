@@ -1,0 +1,85 @@
+{
+    "character": "碗",
+    "details": {
+        "Âm Hán Việt": [
+            "oản",
+            "uyển"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thạch 石 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石宛"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丶丶フノフ丶フフ"
+        ],
+        "Thương Hiệt": [
+            "MRJNU (一口十弓山)"
+        ],
+        "Unicode": [
+            "U+7897"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wǎn ㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "oản",
+            "uyển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワン (wan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こばち (kobachi)"
+        ],
+        "Âm Hàn": [
+            "완"
+        ],
+        "Âm Quảng Đông": [
+            "wun2"
+        ]
+    },
+    "meanings": {
+        "oản": {
+            "Từ điển phổ thông": [
+                "cái bát nhỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Chén, bát. § Tục dùng như chữ “oản” 盌. ◇Thủy hử truyện 水滸傳: “Mỗi nhân khiết liễu thập sổ oản tửu” 每人喫了十數碗酒 (Đệ nhị hồi) Mỗi người uống mười mấy bát rượu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ oản 盌."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái bát (chén) nhỏ: 一盌飯 Một bát cơm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Oản 盌."
+            ]
+        },
+        "uyển": {
+            "Từ điển phổ thông": [
+                "cái bát nhỏ"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 盌 (bộ 皿)."
+            ],
+            "compound_words": {
+                "飯碗": "phạn uyển"
+            }
+        }
+    }
+}

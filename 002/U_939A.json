@@ -1,0 +1,100 @@
+{
+    "character": "鎚",
+    "details": {
+        "Âm Hán Việt": [
+            "chuý",
+            "chuỳ",
+            "truỳ",
+            "đôi"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "kim 金 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金追"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丨フ一フ一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "CYHR (金卜竹口)"
+        ],
+        "Unicode": [
+            "U+939A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chuí ㄔㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "chuy",
+            "dùi",
+            "thuỳ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ツイ (tsui)",
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つち (tsuchi)"
+        ],
+        "Âm Hàn": [
+            "추",
+            "퇴"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4"
+        ]
+    },
+    "meanings": {
+        "chuý": {
+            "Từ điển phổ thông": [
+                "quả cân",
+                "nặng",
+                "cái búa lớn"
+            ]
+        },
+        "chuỳ": {
+            "Từ điển phổ thông": [
+                "quả cân",
+                "nặng",
+                "cái búa lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dùi sắt (dùng để đập hay đánh nhau). Thông 'chùy' 錘. § Tục gọi là 'lang đầu' 榔頭.",
+                "(Động) Đập, nện. § Thông 'chùy' 錘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái dùi sắt dùng để đập các đồ hay dùng để đánh nhau.",
+                "Đập, nện. Thông dụng chữ chùy 錘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 錘."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Chuỳ 錐."
+            ]
+        },
+        "truỳ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phần bằng sắt của một cây búa — Đập, đánh."
+            ]
+        },
+        "đôi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nung rèn đổ kim loại — Giũa ngọc — Một âm là Truỳ. Xem Truỳ."
+            ]
+        }
+    }
+}

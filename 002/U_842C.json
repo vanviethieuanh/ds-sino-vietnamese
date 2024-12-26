@@ -1,0 +1,129 @@
+{
+    "character": "萬",
+    "details": {
+        "Âm Hán Việt": [
+            "vạn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhụ 禸 (+8 nét)",
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱艹禺"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ一一丨フ丨一丶"
+        ],
+        "Thương Hiệt": [
+            "TWLB (廿田中月)"
+        ],
+        "Unicode": [
+            "U+842C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wàn ㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "mại",
+            "muôn",
+            "vàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マン (man)",
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よろず (yorozu)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "maan6"
+        ]
+    },
+    "meanings": {
+        "vạn": {
+            "Từ điển phổ thông": [
+                "vạn, mười nghìn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Số mục: muôn, mười nghìn là một 'vạn' 萬.",
+                "(Danh) Tên điệu múa.",
+                "(Danh) Họ 'Vạn'.",
+                "(Tính) Nhiều lắm. ◎Như: 'vạn nan' 萬難 khó quá lắm, 'vạn năng' 萬能 nhiều tài lắm.",
+                "(Phó) Vô cùng, tuyệt đối, hết sức, nhất định. ◎Như: 'vạn vạn bất khả' 萬萬不可 không nên lắm lắm, thật là không thể. ◇Hàn Dũ 韓愈: 'Vô từ dĩ bạch kì đại nhân, thả vạn vô mẫu tử câu vãng lí' 無辭以白其大人, 且萬無母子俱往理 (Liễu Tử Hậu mộ chí minh 柳子厚墓誌銘) Không biết thưa với mẹ ra sao, mà mẹ con cùng đi thì tuyệt nhiên không được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Muôn, mười nghìn là một vạn.",
+                "Lời nói quá lắm. Như vạn nan 萬難, khó quá lắm, vạn vạn bất khả 萬萬不可 không nên lắm lắm, thật là không thể.",
+                "Nói ví dụ về số nhiều. Như vạn năng 萬能 nhiều tài lắm.",
+                "Tên điệu múa.",
+                "Họ Vạn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vạn, muôn, mười ngàn: 萬紫千紅 Muôn hồng nghìn tía;",
+                "Nhiều lắm: 千軍萬馬 Thiên binh vạn mã; 萬事起頭難 Vạn sự khởi đầu nan, mọi việc khởi đầu đều khó khăn;",
+                "Vô cùng, rất, tuyệt đối, quá lắm, hết sức: 萬難 Hết sức khó khăn; 萬萬不可 Tuyệt đối không thể (không nên); 萬不能行 Tuyệt đối không được làm;",
+                "[Wàn] (Họ) Vạn. Xem 万 [mò] (bộ 一)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Số mươi ngàn — Nhiều lắm. Giàu có lắm. Thơ Trần Tế Xương: » Trăm nghìn vạn mớ để vào đâu « — To lớn."
+            ],
+            "compound_words": {
+                "包羅萬象": "bao la vạn tượng",
+                "五萬": "ngũ vạn",
+                "一萬": "nhất vạn",
+                "三萬": "tam vạn",
+                "千山萬水": "thiên sơn vạn thuỷ",
+                "萬安": "vạn an",
+                "萬般": "vạn ban",
+                "萬邦": "vạn bang",
+                "萬寶": "vạn bảo",
+                "萬不得以": "vạn bất đắc dĩ",
+                "萬變": "vạn biến",
+                "萬倍": "vạn bội",
+                "萬鐘": "vạn chung",
+                "萬古": "vạn cổ",
+                "萬代": "vạn đại",
+                "萬幸": "vạn hạnh",
+                "萬紀": "vạn kỉ",
+                "萬刼": "vạn kiếp",
+                "萬難": "vạn nan",
+                "萬能": "vạn năng",
+                "萬言書": "vạn ngôn thư",
+                "萬一": "vạn nhất",
+                "萬年": "vạn niên",
+                "萬法": "vạn pháp",
+                "萬品": "vạn phẩm",
+                "萬分": "vạn phần",
+                "萬福": "vạn phúc",
+                "萬方": "vạn phương",
+                "萬國": "vạn quốc",
+                "萬事": "vạn sự",
+                "萬壽": "vạn thọ",
+                "萬全": "vạn toàn",
+                "萬罪": "vạn tội",
+                "萬歲": "vạn tuế",
+                "萬死": "vạn tử",
+                "萬象": "vạn tượng",
+                "萬物": "vạn vật",
+                "萬無一失": "vạn vô nhất thất",
+                "萬宇": "vạn vũ",
+                "萬丈高樓": "平地起 vạn trượng cao lâu bình địa khởi"
+            }
+        }
+    }
+}

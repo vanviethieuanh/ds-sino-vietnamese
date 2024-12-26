@@ -1,0 +1,123 @@
+{
+    "character": "輸",
+    "details": {
+        "Âm Hán Việt": [
+            "du",
+            "thâu",
+            "thú"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "xa 車 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車俞"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨ノ丶一丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "JJOMN (十十人一弓)"
+        ],
+        "Unicode": [
+            "U+8F38"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shū ㄕㄨ",
+            "shù ㄕㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thâu",
+            "thua"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユ (yu)",
+            "シュ (shu)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "syu1"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển Trần Văn Chánh": [
+                "Chở, vận tải: 運輸 Vận tải, chuyên chở;",
+                "Tiếp dẫn: 輸血 Tiếp máu; 輸油管 Ống dẫn dầu;",
+                "Biếu, cho, đưa cho: 捐輸 Quyên cho;",
+                "Thua: 輸了兩個球Thua 2 điểm (2 quả)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chở đồ vật từ nơi này tới nơi khác — Vâng. Tiếng trả lời khi được gọi, hoặc tỏ ý ưng thuận — Một âm khác là Thâu."
+            ],
+            "compound_words": {
+                "贏輸": "doanh du",
+                "輸入": "du nhập"
+            }
+        },
+        "thâu": {
+            "Từ điển phổ thông": [
+                "chở đồ đi",
+                "nộp, đưa đồ",
+                "thua bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vận chuyển, chuyên chở. ◎Như: 'thâu tống' 輸送 vận tải đưa đi, 'thâu xuất' 輸出 chuyên chở ra, xuất cảng.",
+                "(Động) Truyền, tiếp, dẫn. ◎Như: 'thâu huyết' 輸血 tiếp máu.",
+                "(Động Nộp, quyên, góp. ◎Như: 'quyên thâu' 捐輸 quyên cho. ◇Đỗ Mục 杜牧: 'Thâu lai kì gian' 輸來其間 (A Phòng cung phú 阿房宮賦) Phải đưa nộp tại nơi này.",
+                "(Động) Thua, thất bại. ◎Như: 'thâu doanh' 輸贏 thua được. ◇Thủy hử truyện 水滸傳: 'Nhân vi liên nhật đổ tiền thâu liễu, khứ lâm tử lí tầm ta mãi mại' 因為連日賭錢輸了, 去林子裡尋些買賣 (Đệ tam thập nhất hồi) Vì mấy bữa nay đánh bạc thua nên vào rừng định kiếm chác.",
+                "(Danh) Sự thua, bại. ◎Như: 'nhận thâu' 認輸 chịu thua.",
+                "(Danh) Họ 'Thâu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chuyển vần, lấy xe vận tải đồ đi. Như thâu tống 輸送 vận tải đưa đi, thâu xuất 輸出 vận tải ra, v.v.",
+                "Nộp, đưa đồ gì cho ai gọi là thâu. Lấy ý thành thực đối với người cũng gọi là thâu. Như thâu trung 輸忠 dốc hết lòng thực.",
+                "Thua. Như thâu doanh 輸贏 được thua. Một âm là thú. Cái đồ đưa cho người."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chở, vận tải: 運輸 Vận tải, chuyên chở;",
+                "Tiếp dẫn: 輸血 Tiếp máu; 輸油管 Ống dẫn dầu;",
+                "Biếu, cho, đưa cho: 捐輸 Quyên cho;",
+                "Thua: 輸了兩個球Thua 2 điểm (2 quả)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vận chuyển — Thua cuộc — Góp nạp tiền của."
+            ],
+            "compound_words": {
+                "班輸": "ban thâu",
+                "輸送": "thâu tống",
+                "輸出": "thâu xuất",
+                "傳輸": "truyền thâu",
+                "運輸": "vận thâu"
+            }
+        },
+        "thú": {
+            "Từ điển trích dẫn": [
+                "(Động) Vận chuyển, chuyên chở. ◎Như: 'thâu tống' 輸送 vận tải đưa đi, 'thâu xuất' 輸出 chuyên chở ra, xuất cảng.",
+                "(Động) Truyền, tiếp, dẫn. ◎Như: 'thâu huyết' 輸血 tiếp máu.",
+                "(Động Nộp, quyên, góp. ◎Như: 'quyên thâu' 捐輸 quyên cho. ◇Đỗ Mục 杜牧: 'Thâu lai kì gian' 輸來其間 (A Phòng cung phú 阿房宮賦) Phải đưa nộp tại nơi này.",
+                "(Động) Thua, thất bại. ◎Như: 'thâu doanh' 輸贏 thua được. ◇Thủy hử truyện 水滸傳: 'Nhân vi liên nhật đổ tiền thâu liễu, khứ lâm tử lí tầm ta mãi mại' 因為連日賭錢輸了, 去林子裡尋些買賣 (Đệ tam thập nhất hồi) Vì mấy bữa nay đánh bạc thua nên vào rừng định kiếm chác.",
+                "(Danh) Sự thua, bại. ◎Như: 'nhận thâu' 認輸 chịu thua.",
+                "(Danh) Họ 'Thâu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chuyển vần, lấy xe vận tải đồ đi. Như thâu tống 輸送 vận tải đưa đi, thâu xuất 輸出 vận tải ra, v.v.",
+                "Nộp, đưa đồ gì cho ai gọi là thâu. Lấy ý thành thực đối với người cũng gọi là thâu. Như thâu trung 輸忠 dốc hết lòng thực.",
+                "Thua. Như thâu doanh 輸贏 được thua. Một âm là thú. Cái đồ đưa cho người."
+            ]
+        }
+    }
+}

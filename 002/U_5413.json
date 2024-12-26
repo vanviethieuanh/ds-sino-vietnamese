@@ -1,0 +1,82 @@
+{
+    "character": "吓",
+    "details": {
+        "Âm Hán Việt": [
+            "hách",
+            "hạ",
+            "nha"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "khẩu 口 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口下"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "RMY (口一卜)"
+        ],
+        "Unicode": [
+            "U+5413"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hè ㄏㄜˋ",
+            "xià ㄒㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "hách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おど.す (odo.su)"
+        ],
+        "Âm Quảng Đông": [
+            "haa2",
+            "haa5",
+            "haak3"
+        ]
+    },
+    "meanings": {
+        "hách": {
+            "Từ điển phổ thông": [
+                "dọa nạt, đe doạ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 嚇."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Doạ, doạ dẫm, làm cho khiếp sợ: 這種困難嚇不倒我們 Khó khăn này không thể làm cho chúng tôi khiếp sợ. Xem 嚇 [hè]."
+            ],
+            "compound_words": {
+                "恫吓": "đỗng hách",
+                "恐吓": "khủng hách"
+            }
+        },
+        "hạ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợ hết hồn — Một âm là Nha. Xem Nha."
+            ]
+        },
+        "nha": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trợ ngữ từ cuối câu, có nghĩa như » Nhé « ."
+            ]
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "桐",
+    "details": {
+        "Âm Hán Việt": [
+            "thông",
+            "đồng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木同"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "DBMR (木月一口)"
+        ],
+        "Unicode": [
+            "U+6850"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tóng ㄊㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "đồng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きり (kiri)"
+        ],
+        "Âm Hàn": [
+            "동"
+        ],
+        "Âm Quảng Đông": [
+            "tung4"
+        ]
+    },
+    "meanings": {
+        "thông": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng nhẹ nhàng — Xem Đồng."
+            ]
+        },
+        "đồng": {
+            "Từ điển phổ thông": [
+                "(xem: ngô đồng 梧桐)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cây vông (lat. Paulownia tomentosa), gỗ dùng để đóng đàn. § Cây “ngô đồng” 梧桐 lá to bằng bàn tay, hột ăn được. Có thơ rằng: “Ngô đồng nhất diệp lạc, thiên hạ cộng tri thu” 梧桐一葉落, 天下共知秋 Một lá ngô đồng rụng, ai cũng biết là mùa thu (đến). Cây “du đồng” 油桐 quả có dầu, ép lấy dầu dùng được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây đồng (cây vông), một thứ gỗ dùng để đóng đàn.",
+                "Cây ngô đồng, lá to bằng bàn tay, hột ăn được.",
+                "Cây du đồng, quả có dầu, ép lấy dầu dùng được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cây trẩu;",
+                "Ngô đồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây, tức cây Ngô Đồng 梧桐. Ta có người cho là cây vông."
+            ],
+            "compound_words": {
+                "梧桐": "ngô đồng",
+                "譜桐": "phả đồng"
+            }
+        }
+    }
+}

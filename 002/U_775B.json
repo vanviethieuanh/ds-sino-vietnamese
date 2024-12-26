@@ -1,0 +1,82 @@
+{
+    "character": "睛",
+    "details": {
+        "Âm Hán Việt": [
+            "tinh",
+            "tình"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mục 目 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目青"
+        ],
+        "Nét bút": [
+            "丨フ一一一一一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "BUQMB (月山手一月)"
+        ],
+        "Unicode": [
+            "U+775B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ",
+            "jǐng ㄐㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "tinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひとみ (hitomi)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "tinh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tròng mắt. Bạch thoại gọi là Nhãn tinh."
+            ]
+        },
+        "tình": {
+            "Từ điển phổ thông": [
+                "con ngươi mắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con ngươi, nhãn châu, cái guồng tròn trong suốt ở trong mắt. ◎Như: 'họa long điểm tình' 畫龍點睛 vẽ rồng chấm con ngươi. ◇Tam quốc diễn nghĩa 三國演義: 'Điêu Thuyền tiện tọa ư Doãn trắc. Lã Bố mục bất chuyển tình đích khán' 貂蟬便坐於允側. 呂布目不轉睛的看 (Đệ bát hồi) Điêu Thuyền liền ngồi bên cạnh (Vương) Doãn. Lã Bố nhìn chòng chọc không chớp (con ngươi) mắt.",
+                "(Danh) Mắt. ◇Tây du kí 西遊記: 'Hài nhi môn, tĩnh nhãn' 孩兒們, 睜眼 (Đệ nhị hồi) Các con, hãy mở mắt ra.",
+                "(Danh) Chỉ thị lực. ◇Linh Xu kinh 靈樞經‧: 'Dương khí thượng tẩu ư mục nhi vi tình' 邪氣藏府病形 陽氣上走於目而為睛 (Tà khí tạng phủ bệnh hình) Khí dương chạy lên mắt là sức nhìn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con ngươi, cái guồng tròn mà trong suốt ở trong mắt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhãn cầu, lòng đen của con mắt, con ngươi: 目不轉睛地看着 Nhìn chằm chằm."
+            ],
+            "compound_words": {
+                "眼睛": "nhãn tình"
+            }
+        }
+    }
+}

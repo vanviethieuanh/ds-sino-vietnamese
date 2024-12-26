@@ -1,0 +1,100 @@
+{
+    "character": "幼",
+    "details": {
+        "Âm Hán Việt": [
+            "yếu",
+            "ấu"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "yêu 幺 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰幺力"
+        ],
+        "Nét bút": [
+            "フフ丶フノ"
+        ],
+        "Thương Hiệt": [
+            "VIKS (女戈大尸)"
+        ],
+        "Unicode": [
+            "U+5E7C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yào ㄧㄠˋ",
+            "yòu ㄧㄡˋ"
+        ],
+        "Âm Nôm": [
+            "âu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おさな.い (osana.i)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jau3"
+        ]
+    },
+    "meanings": {
+        "yếu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Yếu diểu 幼眇 — Một âm khác là Ấu. Xem Ấu."
+            ],
+            "compound_words": {
+                "幼眇": "yếu diểu"
+            }
+        },
+        "ấu": {
+            "Từ điển phổ thông": [
+                "bé, nhỏ tuổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trẻ em, trẻ con. ◎Như: 'nam nữ lão ấu' 男女老幼 đàn ông đàn bà người già trẻ con. ◇Đào Uyên Minh 陶淵明: 'Huề ấu nhập thất, hữu tửu doanh tôn' 攜幼入室, 有酒盈樽 (Quy khứ lai từ 歸去來辭) Dắt trẻ vào nhà, có rượu đầy chén.",
+                "(Động) Yêu thương che chở. ◇Mạnh Tử 孟子: 'Ấu ngô ấu dĩ cập nhân chi ấu' 幼吾幼以及人之幼 (Lương Huệ Vương hạ 梁惠王下) Yêu thương con trẻ của ta bằng như con trẻ của người.",
+                "(Tính) Nhỏ tuổi. ◎Như: 'ấu niên' 幼年 tuổi nhỏ, 'ấu tiểu' 幼小 trẻ nhỏ, 'ấu đồng' 幼童 trẻ con.",
+                "(Tính) Non, mới sinh. ◎Như: 'ấu trùng' 幼蟲 trùng mới sinh, 'ấu miêu' 幼苗 mầm non.",
+                "(Tính) Nông cạn, chưa thành thục. ◎Như: 'tha đích tư tưởng hành vi thái quá ấu trĩ, bất túc dĩ đam đương đại nhậm' 他的思想行為太過幼稚, 不足以擔當大任 tư tưởng hành vi của anh ta quá non nớt, không đủ để đảm đương trách nhiệm lớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nhỏ bé, non nớt. Trẻ bé gọi là ấu trĩ 幼稚 học thức còn ít cũng gọi là ấu trĩ, nghĩa là trình độ còn non như trẻ con vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thơ ấu, tuổi nhỏ, nhỏ bé, non nớt, trẻ em: 年幼無知 Tuổi thơ dại; 婦幼 Phụ nữ và trẻ em."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bé nhỏ, non nớt — Trẻ nhỏ."
+            ],
+            "compound_words": {
+                "幼根": "ấu căn",
+                "幼海": "ấu hải",
+                "幼學": "ấu học",
+                "幼艾": "ấu ngải",
+                "幼芽": "ấu nha",
+                "幼女": "ấu nữ",
+                "幼稚": "ấu trĩ",
+                "幼稚園": "ấu trĩ viên",
+                "幼虫": "ấu trùng",
+                "幼蟲": "ấu trùng",
+                "老幼": "lão ấu",
+                "男婦老幼": "nam phụ lão ấu"
+            }
+        }
+    }
+}

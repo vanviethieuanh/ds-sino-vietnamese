@@ -1,0 +1,71 @@
+{
+    "character": "筝",
+    "details": {
+        "Âm Hán Việt": [
+            "tranh"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮争"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノフフ一一丨"
+        ],
+        "Thương Hiệt": [
+            "HNSD (竹弓尸木)"
+        ],
+        "Unicode": [
+            "U+7B5D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhēng ㄓㄥ"
+        ],
+        "Âm Nôm": [
+            "tranh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こと (koto)"
+        ],
+        "Âm Hàn": [
+            "쟁"
+        ],
+        "Âm Quảng Đông": [
+            "zaang1",
+            "zang1"
+        ]
+    },
+    "meanings": {
+        "tranh": {
+            "Từ điển phổ thông": [
+                "đàn tranh (13 dây)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 箏."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 箏"
+            ],
+            "compound_words": {
+                "风筝": "phong tranh"
+            }
+        }
+    }
+}

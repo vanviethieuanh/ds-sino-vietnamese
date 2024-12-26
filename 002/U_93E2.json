@@ -1,0 +1,95 @@
+{
+    "character": "鏢",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "tiêu"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "kim 金 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金票"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨フ丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CMWF (金一田火)"
+        ],
+        "Unicode": [
+            "U+93E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "biāo ㄅㄧㄠ"
+        ],
+        "Âm Nôm": [
+            "phiếu",
+            "tiêu",
+            "tiu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こじり (kojiri)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "biu1"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển phổ thông": [
+                "cây lao, cái lao"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ ám khí thời xưa, bằng kim loại, như cái giáo, dài ngắn nặng nhẹ bất nhất, dùng để phóng. ◎Như: 'phi phiêu' 飛鏢 mũi phi tiêu, 'độc phiêu' 毒鏢 phi tiêu có tẩm độc. § Ghi chú: 'phi phiêu' 飛鏢 cũng chỉ trò chơi có bảng tròn làm mục tiêu đặt ở một khoảng cách nhất định, dùng mũi nhọn phóng vào mục tiêu, bắn trúng càng gần tâm điểm càng hay.",
+                "(Danh) Hàng hóa, tiền của giao phó cho phiêu cục hộ tống chuyên chở. ◎Như: 'tẩu phiêu' 走鏢 người giữ việc hộ tống hàng hóa (ngày xưa). § Cũng gọi là 'bảo phiêu' 保鏢.",
+                "(Danh) 'Phiêu cục' 鏢局 cơ quan, tổ chức tư nhân thời xưa nhận hộ tống hàng hóa từ nơi này tới nơi khác.",
+                "§ Còn đọc là 'tiêu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái phiêu, cây lao. Một thứ đồ binh như cái giáo mà ngắn, dùng để lao người. Như phi tiêu 飛鏢."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mũi dao, mũi gươm — Vỏ bằng kim loại để đựng gươm dao — Tên một thứ binh khí nhỏ, giống như mũi dùi nhưng có ba cạnh, dùng để phóng ra mà lén hại địch thủ. Chỉ tổ chức tư nhân thời xưa, nhận lĩnh việc hộ tống hàng hoá của cải từ nơi này tới nơi khác, tránh nạn cường đạo. Cũng còn gọi là Bảo phiêu 保鏢."
+            ],
+            "compound_words": {
+                "保鏢": "bảo phiêu",
+                "鏢局": "phiêu cục",
+                "鏢客": "phiêu khách",
+                "鏢師": "phiêu sư"
+            }
+        },
+        "tiêu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ ám khí thời xưa, bằng kim loại, như cái giáo, dài ngắn nặng nhẹ bất nhất, dùng để phóng. ◎Như: 'phi phiêu' 飛鏢 mũi phi tiêu, 'độc phiêu' 毒鏢 phi tiêu có tẩm độc. § Ghi chú: 'phi phiêu' 飛鏢 cũng chỉ trò chơi có bảng tròn làm mục tiêu đặt ở một khoảng cách nhất định, dùng mũi nhọn phóng vào mục tiêu, bắn trúng càng gần tâm điểm càng hay.",
+                "(Danh) Hàng hóa, tiền của giao phó cho phiêu cục hộ tống chuyên chở. ◎Như: 'tẩu phiêu' 走鏢 người giữ việc hộ tống hàng hóa (ngày xưa). § Cũng gọi là 'bảo phiêu' 保鏢.",
+                "(Danh) 'Phiêu cục' 鏢局 cơ quan, tổ chức tư nhân thời xưa nhận hộ tống hàng hóa từ nơi này tới nơi khác.",
+                "§ Còn đọc là 'tiêu'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây lao: 飛鏢 Phi tiêu; 保鏢 Người hộ vệ, người hộ tống."
+            ],
+            "compound_words": {
+                "保鏢": "bảo tiêu"
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "character": "斒",
+    "details": {
+        "Âm Hán Việt": [
+            "ban"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "văn 文 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰文扁"
+        ],
+        "Nét bút": [
+            "丶一ノ丶丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "YKHSB (卜大竹尸月)"
+        ],
+        "Unicode": [
+            "U+6592"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bān ㄅㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)",
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まだら (madara)"
+        ],
+        "Âm Quảng Đông": [
+            "baan1"
+        ]
+    },
+    "meanings": {
+        "ban": {
+            "Từ điển phổ thông": [
+                "(xem: ban lan 斒斕)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) § Xem “ban lan” 斒斕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ban lan 斒斕 sặc sỡ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sặc sỡ, nhiều màu;",
+                "Rực rỡ, lộng lẫy, chói lọi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ban lan 斒斕."
+            ],
+            "compound_words": {
+                "斒斓": "ban lan",
+                "斒斕": "ban lan"
+            }
+        }
+    }
+}

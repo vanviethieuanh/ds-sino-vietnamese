@@ -1,0 +1,113 @@
+{
+    "character": "廢",
+    "details": {
+        "Âm Hán Việt": [
+            "phế"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广發"
+        ],
+        "Nét bút": [
+            "丶一ノフ丶ノノ丶フ一フノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "INOE (戈弓人水)"
+        ],
+        "Unicode": [
+            "U+5EE2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fèi ㄈㄟˋ"
+        ],
+        "Âm Nôm": [
+            "phế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すた.れる (suta.reru)",
+            "すた.る (suta.ru)"
+        ],
+        "Âm Hàn": [
+            "폐"
+        ],
+        "Âm Quảng Đông": [
+            "fai3"
+        ]
+    },
+    "meanings": {
+        "phế": {
+            "Từ điển phổ thông": [
+                "bỏ đi, phế thải"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Không dùng được nữa, hư hỏng, bị bỏ đi, tàn tật. ◎Như: 'phế vật' 廢物 vật không dùng được nữa, 'phế tật' 廢疾 bị tàn tật không làm gì được nữa.",
+                "(Tính) Hoang vu.",
+                "(Tính) Bại hoại, suy bại.",
+                "(Tính) To, lớn.",
+                "(Động) Bỏ, ngưng, trừ bỏ. ◎Như: 'phế trừ' 廢除 trừ bỏ, 'phế chỉ' 廢止 ngưng bỏ. ◇Luận Ngữ 論語: 'Lực bất túc giả, trung đạo nhi phế' (Ung Dã 雍也) 力不足者, 中道而廢 Kẻ không đủ sức, giữa đường bỏ dở.",
+                "(Động) Truất miễn, phóng trục.",
+                "(Động) Nép mình xuống (vì sợ...). ◇Sử Kí 史記: 'Hạng Vương âm ác sất trá, thiên nhân giai phế' 項王喑噁叱吒, 千人皆廢 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Hạng Vương khi hò hét, quát tháo, nghìn người đều nép mình không dám ho he.",
+                "(Động) Khoa đại.",
+                "(Động) Giết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bỏ đi.",
+                "Phế tật 廢疾 kẻ bị tàn tật không làm gì được nữa.",
+                "Vật gì không dùng được nữa đều gọi là phế vật 廢物."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bãi bỏ, phế bỏ, bỏ dở: 廢除 Bãi bỏ; 不能半途而廢 Không nên làm nửa chừng bỏ dở;",
+                "Bỏ đi, phế thải, vô dụng: 廢紙 Giấy lộn, giấy bỏ đi; 廢鐵 Sắt rỉ, sắt vụn;",
+                "Tàn phế: 廢疾 Tàn tật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngưng lại. Không làm nữa — Bỏ đi không dùng tới. Td: Hoang phế 荒廢 — Hư nát. Sa sút. Suy kém."
+            ],
+            "compound_words": {
+                "半途而廢": "bán đồ nhi phế",
+                "報廢": "báo phế",
+                "荒廢": "hoang phế",
+                "興廢": "hưng phế",
+                "廢罷": "phế bái",
+                "廢址": "phế chỉ",
+                "廢止": "phế chỉ",
+                "廢紙": "phế chỉ",
+                "廢職": "phế chức",
+                "廢錮": "phế cố",
+                "廢帝": "phế đế",
+                "廢興": "phế hưng",
+                "廢氣": "phế khí",
+                "廢立": "phế lập",
+                "廢業": "phế nghiệp",
+                "廢人": "phế nhân",
+                "廢寢忘餐": "phế tẩm vong xan",
+                "廢疾": "phế tật",
+                "廢汰": "phế thải",
+                "廢退": "phế thoái",
+                "廢置": "phế trí",
+                "廢黜": "phế truất",
+                "廢除": "phế trừ",
+                "廢絶": "phế tuyệt",
+                "廢物": "phế vật",
+                "殘廢": "tàn phế"
+            }
+        }
+    }
+}

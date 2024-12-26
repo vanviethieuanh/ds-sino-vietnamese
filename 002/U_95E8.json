@@ -1,0 +1,71 @@
+{
+    "character": "门",
+    "details": {
+        "Âm Hán Việt": [
+            "môn"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "môn 門 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶丨フ"
+        ],
+        "Thương Hiệt": [
+            "ILS (戈中尸)"
+        ],
+        "Unicode": [
+            "U+95E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mén ㄇㄣˊ"
+        ],
+        "Âm Nôm": [
+            "mon",
+            "môn"
+        ],
+        "Âm Quảng Đông": [
+            "mun4"
+        ]
+    },
+    "meanings": {
+        "môn": {
+            "Từ điển phổ thông": [
+                "cái cửa",
+                "loài, loại, thứ, môn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 門."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 門"
+            ],
+            "compound_words": {
+                "亚格门农": "á cách môn nông",
+                "阿门": "a môn",
+                "不二法门": "bất nhị pháp môn",
+                "部门": "bộ môn",
+                "正门": "chính môn",
+                "专门": "chuyên môn",
+                "大门": "đại môn",
+                "门当户对": "môn đương hộ đối",
+                "入门": "nhập môn",
+                "耳门": "nhĩ môn",
+                "沙门": "sa môn",
+                "城门": "thành môn",
+                "便门": "tiện môn"
+            }
+        }
+    }
+}

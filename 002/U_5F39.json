@@ -1,0 +1,81 @@
+{
+    "character": "弹",
+    "details": {
+        "Âm Hán Việt": [
+            "đàn",
+            "đạn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cung 弓 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰弓单"
+        ],
+        "Nét bút": [
+            "フ一フ丶ノ丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "NCWJ (弓金田十)"
+        ],
+        "Unicode": [
+            "U+5F39"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "tán ㄊㄢˊ"
+        ],
+        "Âm Nôm": [
+            "đan",
+            "đận",
+            "rờn"
+        ],
+        "Âm Quảng Đông": [
+            "daan6",
+            "taan4"
+        ]
+    },
+    "meanings": {
+        "đàn": {
+            "Từ điển phổ thông": [
+                "đàn hồi",
+                "bật, búng, gảy",
+                "đánh đàn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 彈."
+            ],
+            "compound_words": {
+                "弹琴": "đàn cầm",
+                "弹劾": "đàn hặc"
+            }
+        },
+        "đạn": {
+            "Từ điển phổ thông": [
+                "viên đạn (của súng)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 彈."
+            ],
+            "compound_words": {
+                "弹弓": "đạn cung",
+                "弹药": "đạn dược",
+                "弹道": "đạn đạo",
+                "弹簧": "đạn hoàng",
+                "导弹": "đạo đạn",
+                "核弹": "hạch đạn"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "娶",
+    "details": {
+        "Âm Hán Việt": [
+            "thú"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nữ 女 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱取女"
+        ],
+        "Nét bút": [
+            "一丨丨一一一フ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "SEV (尸水女)"
+        ],
+        "Unicode": [
+            "U+5A36"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qǔ ㄑㄩˇ"
+        ],
+        "Âm Nôm": [
+            "thú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "めと.る (meto.ru)",
+            "めあわ.せる (meawa.seru)"
+        ],
+        "Âm Hàn": [
+            "취"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi2",
+            "ceoi3"
+        ]
+    },
+    "meanings": {
+        "thú": {
+            "Từ điển phổ thông": [
+                "lấy vợ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Cưới, lấy (vợ). ◇Tây sương kí 西廂記: “Tiểu sinh tính Trương, danh Củng, niên phương nhị thập tam tuế, tịnh bất tằng thú thê” 小生姓張, 名珙, 年方二十三歲, 並不曾娶妻 (Đệ nhất bổn 第一本, Đệ nhị chiết) Tôi họ Trương, tên Củng, năm nay vừa mới hai mươi ba tuổi, tịnh chưa lấy vợ bao giờ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lấy vợ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cưới, lấy (vợ): 嫁娶 Cưới vợ gả chồng; 娶妻 Cưới vợ, lấy vợ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy vợ. Td: Giá thú. Hôn thú."
+            ],
+            "compound_words": {
+                "告娶": "cáo thú",
+                "嫁娶": "giá thú",
+                "婚娶": "hôn thú",
+                "娶妻": "thú thê"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "铻",
+    "details": {
+        "Âm Hán Việt": [
+            "ngô",
+            "ngữ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Hình thái": [
+            "⿰钅吾"
+        ],
+        "Nét bút": [
+            "ノ一一一フ一丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "XCMMR (重金一一口)"
+        ],
+        "Unicode": [
+            "U+94FB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "wú ㄨˊ",
+            "yǔ ㄩˇ"
+        ],
+        "Âm Quảng Đông": [
+            "jyu5"
+        ]
+    },
+    "meanings": {
+        "ngô": {
+            "Từ điển phổ thông": [
+                "(xem: côn ngô 錕鋙,锟铻)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋙"
+            ],
+            "compound_words": {
+                "锟铻": "côn ngô"
+            }
+        },
+        "ngữ": {
+            "Từ điển phổ thông": [
+                "(xem: trở ngữ 鉏鋙)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鋙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋙"
+            ]
+        }
+    }
+}

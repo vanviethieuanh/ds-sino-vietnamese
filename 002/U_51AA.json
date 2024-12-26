@@ -1,0 +1,87 @@
+{
+    "character": "冪",
+    "details": {
+        "Âm Hán Việt": [
+            "mạc",
+            "mịch"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mịch 冖 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱冖幕"
+        ],
+        "Nét bút": [
+            "丶フ一丨丨丨フ一一一ノ丶丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "BTAB (月廿日月)"
+        ],
+        "Unicode": [
+            "U+51AA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "mì ㄇㄧˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ベキ (beki)"
+        ],
+        "Âm Hàn": [
+            "멱"
+        ],
+        "Âm Quảng Đông": [
+            "mik6"
+        ]
+    },
+    "meanings": {
+        "mạc": {
+            "Từ điển phổ thông": [
+                "cái màn căng ở trên, cái bạt",
+                "cái khăn phủ đồ",
+                "cái mạng che mặt"
+            ],
+            "compound_words": {
+                "閉冪": "bế mạc",
+                "開冪": "khai mạc",
+                "垂冪": "thuỳ mạc"
+            }
+        },
+        "mịch": {
+            "Từ điển phổ thông": [
+                "cái màn căng ở trên, cái bạt",
+                "cái khăn phủ đồ",
+                "cái mạng che mặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khăn che đậy đồ vật.",
+                "(Danh) Lũy thừa trong toán học. ◎Như: '2 tự thừa tứ thứ, tựu thị 2 đích tứ thứ mịch' 2自乘四次,就是2的四次冪  2x2x2x2 tức là: 2 lũy thừa 4.",
+                "(Động) Che, phủ. ◎Như: 'mịch mịch' 冪冪 che lấp, mù mịt. ◇Lí Hoa 李華: 'Hồn phách kết hề thiên trầm trầm, quỷ thần tụ hề vân mịch mịch' 魂魄結兮天沉沉,鬼神聚兮雲冪冪 (Điếu cổ chiến trường văn 弔古戰場文) Hồn phách tan hề trời trầm trầm, quỷ thần họp hề mây mù mịt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái khăn phủ mâm cơm.",
+                "Cách đo bề ngoài, như mịch tích 冪積 đồ thành diện tích ở mặt ngoài."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Khăn phủ mâm cơm;",
+                "(văn) Phủ (đậy) bằng khăn, che phủ: 冪用疏巾 Đậy lại bằng khăn thưa (Nghi lễ);",
+                "(văn) Sơn phết;",
+                "(toán) Luỹ thừa: 冪級數 Dãy luỹ thừa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ mịch 幂."
+            ]
+        }
+    }
+}

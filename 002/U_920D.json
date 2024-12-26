@@ -1,0 +1,90 @@
+{
+    "character": "鈍",
+    "details": {
+        "Âm Hán Việt": [
+            "độn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kim 金 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金屯"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一フ丨フ"
+        ],
+        "Thương Hiệt": [
+            "CPU (金心山)"
+        ],
+        "Unicode": [
+            "U+920D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dùn ㄉㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "độn",
+            "nhọn",
+            "nhụt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドン (don)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にぶ.い (nibu.i)",
+            "にぶ.る (nibu.ru)",
+            "にぶ- (nibu-)",
+            "なま.る (nama.ru)",
+            "なまく.ら (namaku.ra)"
+        ],
+        "Âm Hàn": [
+            "둔"
+        ],
+        "Âm Quảng Đông": [
+            "deon6"
+        ]
+    },
+    "meanings": {
+        "độn": {
+            "Từ điển phổ thông": [
+                "cùn, nhụt (không sắc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Cùn, nhụt. § Đối lại với 'nhuệ' 銳 sắc. ◎Như: 'đao độn liễu' 刀鈍了 dao đã cùn.",
+                "(Tính) Chậm chạp, ngu dốt, trí khôn không nhanh nhẹn. ◎Như: 'trì độn' 遲鈍 ngu dốt chậm lụt. ◇Pháp Hoa Kinh 法華經: 'Chư căn lợi độn, tùy sở ứng độ' 諸根利鈍, 隨所應度 (Như Lai thọ lượng phẩm đệ thập lục 如來壽量品第十六) Các căn tính linh lợi hoặc chậm lụt, tùy theo đó mà hóa độ thích ứng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhụt, đối lại với nhuệ 銳 sắc.",
+                "Phàm cái gì không được lưu lợi, không trôi chảy đều gọi là độn.",
+                "Chậm chạp, ngu độn, trí khôn không nhanh nhẹn. Như trì độn 遲鈍 đần độn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cùn, nhụt: 刀鈍了 Dao đã cùn;",
+                "Chậm chạp, ngu dốt, ngu độn: 遲鈍 Đần độn; 魯鈍 Ngu dốt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cùn. Nhụt ( lụt ). Nói về dao kéo không sắc — Chỉ sự ngu dốt, chậm chạp, kém lanh lợi. Chẳng hạn Trì độn."
+            ],
+            "compound_words": {
+                "鄙鈍": "bỉ độn",
+                "鈍角": "độn giác",
+                "鈍弊": "độn tệ",
+                "愚鈍": "ngu độn",
+                "樸鈍": "phác độn",
+                "遲鈍": "trì độn"
+            }
+        }
+    }
+}

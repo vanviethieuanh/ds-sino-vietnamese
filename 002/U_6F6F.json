@@ -1,0 +1,83 @@
+{
+    "character": "潯",
+    "details": {
+        "Âm Hán Việt": [
+            "tầm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡尋"
+        ],
+        "Nét bút": [
+            "丶丶一フ一一一丨一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "ESMI (水尸一戈)"
+        ],
+        "Unicode": [
+            "U+6F6F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "xún ㄒㄩㄣˊ",
+            "yín ㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "tầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジン (jin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふち (fuchi)"
+        ],
+        "Âm Hàn": [
+            "심"
+        ],
+        "Âm Quảng Đông": [
+            "cam4"
+        ]
+    },
+    "meanings": {
+        "tầm": {
+            "Từ điển phổ thông": [
+                "bến sông",
+                "sông Tầm",
+                "vùng Cửu Giang (Trung Quốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bến sông, bờ nước. ◇Hoài Nam Tử 淮南子: 'Du ư giang tầm hải duệ' 遊於江潯海裔 (Nguyên đạo 原道) Đi chơi ở bến sông bờ biển.",
+                "(Danh) Biệt danh của huyện 'Cửu Giang' 九江 thuộc tỉnh Giang Tây."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bến sông.",
+                "Sông Tầm.",
+                "Tên đất, đất Cửu Giang 九江 gọi là Tầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bờ, bến (sông): 江潯 Bờ sông;",
+                "[Xún] Sông Tầm (biệt danh của Cửu Giang ở tỉnh Giang Tây, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ nước. Như chữ Tầm 潭 — Tên sông, tức Tầm giang, thuộc tỉnh Quảng tây."
+            ],
+            "compound_words": {
+                "潯陽": "tầm dương",
+                "浸潯": "thâm tầm"
+            }
+        }
+    }
+}

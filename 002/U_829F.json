@@ -1,0 +1,82 @@
+{
+    "character": "芟",
+    "details": {
+        "Âm Hán Việt": [
+            "sam"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thảo 艸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹殳"
+        ],
+        "Nét bút": [
+            "一丨丨ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "THNE (廿竹弓水)"
+        ],
+        "Unicode": [
+            "U+829F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ",
+            "wěi ㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "sam"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.る (ka.ru)"
+        ],
+        "Âm Hàn": [
+            "삼"
+        ],
+        "Âm Quảng Đông": [
+            "saam1"
+        ]
+    },
+    "meanings": {
+        "sam": {
+            "Từ điển phổ thông": [
+                "cắt cỏ",
+                "cái liềm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cắt trừ cỏ. ◇Thi Kinh 詩經: 'Tài sam tài tạc' 載芟載柞 (Chu tụng 周頌, Tài sam 載芟) Vừa cắt cỏ vừa chặt cây.",
+                "(Động) Trừ bỏ, tước trừ. § Thông 'san' 刪. ◇Tam quốc chí 三國志: 'Sam trừ khấu tặc' 芟除寇賊 (Vương Lãng truyện 王朗傳) Trừ khử giặc cướp.",
+                "(Danh) Cái liềm lớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cắt cỏ.",
+                "Cái liềm phạt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cắt (cỏ);",
+                "Trừ bỏ, loại trừ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cắt cỏ — Cái liềm thật lớn, có cán dài, thẳng, cầm hai tay để phạt cỏ."
+            ],
+            "compound_words": {
+                "芟夷": "sam di"
+            }
+        }
+    }
+}

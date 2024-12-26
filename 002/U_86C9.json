@@ -1,0 +1,75 @@
+{
+    "character": "蛉",
+    "details": {
+        "Âm Hán Việt": [
+            "linh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trùng 虫 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫令"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "LIOII (中戈人戈戈)"
+        ],
+        "Unicode": [
+            "U+86C9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "líng ㄌㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "linh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レイ (rei)"
+        ],
+        "Âm Hàn": [
+            "령"
+        ],
+        "Âm Quảng Đông": [
+            "ling4"
+        ]
+    },
+    "meanings": {
+        "linh": {
+            "Từ điển phổ thông": [
+                "(xem: tinh linh 蜻蛉)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tinh linh” 蜻蛉 một giống như con chuồn chuồn nhưng không bay xa được."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tinh linh 蜻蛉 một giống như con chuồn chuồn nhưng không bay xa được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Muỗi: 白蛉 Muỗi tép;",
+                "Xem 蜻蛉."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Linh tinh 蛉蜻: Tên một loài chuồn chuồn."
+            ],
+            "compound_words": {
+                "蛉蜻": "linh tinh",
+                "螟蛉": "minh linh",
+                "蜻蛉": "tinh linh"
+            }
+        }
+    }
+}

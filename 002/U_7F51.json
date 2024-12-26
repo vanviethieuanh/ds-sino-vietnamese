@@ -1,0 +1,79 @@
+{
+    "character": "网",
+    "details": {
+        "Âm Hán Việt": [
+            "võng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "võng 网 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BKK (月大大)"
+        ],
+        "Unicode": [
+            "U+7F51"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wǎng ㄨㄤˇ"
+        ],
+        "Âm Nôm": [
+            "võng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モウ (mō)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あみ (ami)"
+        ],
+        "Âm Hàn": [
+            "망"
+        ],
+        "Âm Quảng Đông": [
+            "mong5"
+        ]
+    },
+    "meanings": {
+        "võng": {
+            "Từ điển phổ thông": [
+                "cái lưới",
+                "vu khống, lừa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngày xưa dùng như chữ 'võng' 網.",
+                "§ Giản thể của chữ 網."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngày xưa dùng như chữ võng 網."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chữ 網 thời xưa (nay là dạng giản thể của 網)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lưới đánh cá. Như chữ Võng 網 — Tên một bộ chữ Hán, tức bộ Võng. Cũng viết là 罒."
+            ],
+            "compound_words": {
+                "电脑网": "điện não võng",
+                "电脑网络": "điện não võng lạc",
+                "电脑网路": "điện não võng lộ",
+                "因特网": "nhân đặc võng",
+                "因特网提供商": "nhân đặc võng đề cung thương"
+            }
+        }
+    }
+}

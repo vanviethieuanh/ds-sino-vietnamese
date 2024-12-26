@@ -1,0 +1,83 @@
+{
+    "character": "鑄",
+    "details": {
+        "Âm Hán Việt": [
+            "chú"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "kim 金 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金壽"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨一フ一丨一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "CGNI (金土弓戈)"
+        ],
+        "Unicode": [
+            "U+9444"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "chú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)",
+            "シュ (shu)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "い.る (i.ru)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu3"
+        ]
+    },
+    "meanings": {
+        "chú": {
+            "Từ điển phổ thông": [
+                "đúc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đúc. ◎Như: 'chú đồng' 鑄銅 đúc đồng. ◇Nguyễn Trãi 阮廌: 'Chung Kì bất tác chú kim nan' 鍾期不作鑄金難 (Đề Bá Nha cổ cầm đồ 題伯牙鼓琴圖) Không làm được Chung Kì vì đúc tượng vàng Chung Kì khó.",
+                "(Động) Đào tạo, bồi dưỡng, hun đúc. ◇Văn tâm điêu long 文心雕龍: 'Đào chú tính tình' 陶鑄性情 (Trưng thánh 徵聖) Hun đúc tính tình.",
+                "(Động) Tạo thành, gây ra. ◎Như: 'chú thành đại thác' 鑄成大錯 gây ra sai lầm to.",
+                "(Danh) Tên nước, nay ở vào khoảng tỉnh Sơn Đông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Đúc, đúc loài kim ra các đồ dùng. Như chú đồng 鑄銅 đúc đồng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đúc: 鑄一口鐵鍋 Đúc một cái chảo (nồi gang); 這口鍾是銅鑄的 Cái chuông này đúc bằng đồng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đúc kim khí, nấu chảy kim khí rồi đổ khuôn để tạo thành đồ vật — Tạo nên. Làm ra — Tập luyện, rèn đúc."
+            ],
+            "compound_words": {
+                "鑄工": "chú công",
+                "鑄品": "chú phẩm",
+                "鑄錯": "chú thác",
+                "鑄像": "chú tượng"
+            }
+        }
+    }
+}

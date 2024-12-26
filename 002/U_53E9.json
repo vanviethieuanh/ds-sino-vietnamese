@@ -1,0 +1,94 @@
+{
+    "character": "叩",
+    "details": {
+        "Âm Hán Việt": [
+            "khấu"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口卩"
+        ],
+        "Nét bút": [
+            "丨フ一フ丨"
+        ],
+        "Thương Hiệt": [
+            "RSL (口尸中)"
+        ],
+        "Unicode": [
+            "U+53E9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kòu ㄎㄡˋ"
+        ],
+        "Âm Nôm": [
+            "khạo",
+            "khấu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たた.く (tata.ku)",
+            "はた.く (hata.ku)",
+            "すぎ (sugi)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "kau3"
+        ]
+    },
+    "meanings": {
+        "khấu": {
+            "Từ điển phổ thông": [
+                "gõ (cửa)",
+                "lạy, rập đầu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Gõ, đập. ◎Như: 'khấu môn' 叩門 gõ cửa, 'khấu quan' 叩關 gõ cửa quan. ◇Bạch Cư Dị 白居易: 'Kim khuyết tây sương khấu ngọc quynh' 金闕西廂叩玉扃 (Trường hận ca 長恨歌) Gõ cánh ngọc nơi cửa vàng hiên tây.",
+                "(Động) Hỏi, thăm hỏi, gạn hỏi. ◎Như: 'khấu an' 叩安 vấn an. ◇Luận Ngữ 論語: 'Ngô hữu tri hồ tai? Vô tri dã. Hữu bỉ phu vấn ư ngã, không không như dã; ngã khấu kì lưỡng đoan nhi kiệt yên' 吾有知乎哉? 無知也. 有鄙夫問於我, 空空如也; 我叩其兩端而竭焉 (Tử Hãn 子罕) Ta có kiến thức rộng chăng? Không có kiến thức rộng. Có người tầm thường hỏi ta (một điều), ta không biết gì cả; ta xét đầu đuôi sự việc mà hiểu hết ra.",
+                "(Động) Lạy sát đầu xuống đất. ◎Như: 'bách khấu' 百叩 trăm lạy. ◇Nguyễn Du 阮攸: 'Ngô tương hà dĩ khấu thần minh' 吾將何以叩神明 (Vãn há Đại Than 晚下大灘) Ta sẽ lấy gì để lạy xin với thần minh?",
+                "(Động) Giằng, lôi, kéo. § Thông 'khấu' 扣. ◇Sử Kí 史記: 'Bá Di, Thúc Tề khấu mã nhi gián' 伯夷, 叔齊叩馬而諫駭 (Bá Di truyện 伯夷傳) Bá Di và Thúc Tề giằng ngựa lại mà can."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gõ, như khấu môn 叩門 gõ cửa, khấu quan 叩關 gõ cửa quan, v.v.",
+                "Hỏi, như ngã khấu kì lưỡng đoan 我叩其兩端 ta gạn hỏi thửa hai mối.",
+                "Lạy rập đầu xuống đất. Như bách khấu 百叩 trăm lạy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gõ, đập: 叩門 Gõ cửa;",
+                "Khấu đầu (lạy rập đầu xuống đất): 百叩 Trăm lạy; 叩謝 Khấu đầu lạy tạ;",
+                "(văn) Hỏi, thăm hỏi, hỏi han, gạn hỏi: 叩其兩端 Gạn hỏi về hai đầu mối của nó: 余叩所以 Ta hỏi lí do tại sao thế (Phương Bao: Ngục trung tạp kí);",
+                "(văn) Giằng lại (dây cương...) (dùng như 釦, bộ 扌): 伯夷叔齊叩馬而諫 Bá Di và Thúc Tề giằng ngựa lại mà can ngăn (Sử kí: Bá Di liệt truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gõ. Đập — Hỏi — Rập đầu xuống đất mà lạy — Dùng như chữ Khấu 扣."
+            ],
+            "compound_words": {
+                "稟叩": "bẩm khấu",
+                "叩禀": "khấu bẩm",
+                "叩头": "khấu đầu",
+                "叩頭": "khấu đầu",
+                "叩馬": "khấu mã",
+                "叩門": "khấu môn",
+                "叩謝": "khấu tạ",
+                "叩首": "khấu thủ"
+            }
+        }
+    }
+}

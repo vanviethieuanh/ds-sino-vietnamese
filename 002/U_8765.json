@@ -1,0 +1,99 @@
+{
+    "character": "蝥",
+    "details": {
+        "Âm Hán Việt": [
+            "mao",
+            "miêu",
+            "mâu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trùng 虫 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱敄虫"
+        ],
+        "Nét bút": [
+            "フ丶フ丨ノノ一ノ丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "NKLMI (弓大中一戈)"
+        ],
+        "Unicode": [
+            "U+8765"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "máo ㄇㄠˊ",
+            "móu ㄇㄡˊ",
+            "wú ㄨˊ",
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "miêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ム (mu)",
+            "メウ (meu)",
+            "ブ (bu)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "maau4"
+        ]
+    },
+    "meanings": {
+        "mao": {
+            "Từ điển trích dẫn": [
+                "(Danh) Loài xén tóc. § Một thứ sâu cắn gốc lúa, nó làm hại rất dữ, cho nên cũng dùng để ví kẻ tiểu nhân làm hại. Tục viết là 蟊.",
+                "Một âm là 'mao'. (Danh) § Xem 'ban mao' 斑蝥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Loài xén tóc, loài sâu cắn gốc lúa. Cg. 蟊."
+            ],
+            "compound_words": {
+                "斑蝥": "ban mao"
+            }
+        },
+        "miêu": {
+            "Từ điển Trần Văn Chánh": [
+                "Loài xén tóc, loài sâu cắn gốc lúa. Cg. 蟊."
+            ]
+        },
+        "mâu": {
+            "Từ điển phổ thông": [
+                "con xén tóc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Loài xén tóc. § Một thứ sâu cắn gốc lúa, nó làm hại rất dữ, cho nên cũng dùng để ví kẻ tiểu nhân làm hại. Tục viết là 蟊.",
+                "Một âm là 'mao'. (Danh) § Xem 'ban mao' 斑蝥."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Loài xén tóc. Một thứ sâu cắn gốc lúa, nó làm hại rất dữ, cho nên cũng dùng để ví kẻ tiểu nhân làm hại. Tục viết là 蟊.",
+                "Một âm là mao. Ban mao 班蝥 sâu ban miêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Loài xén tóc, loài sâu cắn gốc lúa. Cg. 蟊."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại sâu ở dưới đất, hay phá hại rễ lúa."
+            ],
+            "compound_words": {
+                "螌蝥": "ban mâu"
+            }
+        }
+    }
+}

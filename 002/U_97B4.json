@@ -1,0 +1,90 @@
+{
+    "character": "鞴",
+    "details": {
+        "Âm Hán Việt": [
+            "bại",
+            "bị",
+            "bố"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "cách 革 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一丨一丨丨一ノ丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "TJTHB (廿十廿竹月)"
+        ],
+        "Unicode": [
+            "U+97B4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bài ㄅㄞˋ",
+            "bèi ㄅㄟˋ",
+            "bù ㄅㄨˋ",
+            "fú ㄈㄨˊ"
+        ],
+        "Âm Nôm": [
+            "bị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)",
+            "ビ (bi)",
+            "フク (fuku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふいご (fuigo)"
+        ],
+        "Âm Hàn": [
+            "비",
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bei6",
+            "bou6"
+        ]
+    },
+    "meanings": {
+        "bại": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 韛 (bộ 倌³)."
+            ]
+        },
+        "bị": {
+            "Từ điển phổ thông": [
+                "(xem: câu bị 鞲鞴)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Câu bị” 鞲鞴: xem “câu” 鞲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Câu bị 鞲鞴 cái bễ lò rèn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cột yên cương vào ngựa;",
+                "Xem 鞲鞴 [goubèi]."
+            ],
+            "compound_words": {
+                "鞲鞴": "câu bị",
+                "韝鞴": "câu bị"
+            }
+        },
+        "bố": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dụng cụ để đựng mũi tên."
+            ]
+        }
+    }
+}

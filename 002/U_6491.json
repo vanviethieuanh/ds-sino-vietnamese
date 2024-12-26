@@ -1,0 +1,81 @@
+{
+    "character": "撑",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "xanh"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘掌"
+        ],
+        "Nét bút": [
+            "一丨一丨丶ノ丶フ丨フ一ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "QFBQ (手火月手)"
+        ],
+        "Unicode": [
+            "U+6491"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chēng ㄔㄥ"
+        ],
+        "Âm Nôm": [
+            "sanh",
+            "xanh",
+            "xênh",
+            "xinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ささ.える (sasa.eru)",
+            "あ.く (a.ku)"
+        ],
+        "Âm Hàn": [
+            "탱"
+        ],
+        "Âm Quảng Đông": [
+            "caang1"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển phổ thông": [
+                "chống giữ",
+                "no đủ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như “sanh” 撐."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Sanh 撐."
+            ],
+            "compound_words": {
+                "支撑": "chi sanh"
+            }
+        },
+        "xanh": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 撐"
+            ]
+        }
+    }
+}

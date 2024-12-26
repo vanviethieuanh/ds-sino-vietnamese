@@ -1,0 +1,81 @@
+{
+    "character": "掏",
+    "details": {
+        "Âm Hán Việt": [
+            "đào"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘匋"
+        ],
+        "Nét bút": [
+            "一丨一ノフノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "QPOU (手心人山)"
+        ],
+        "Unicode": [
+            "U+638F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tāo ㄊㄠ"
+        ],
+        "Âm Nôm": [
+            "đào",
+            "thao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.る (su.ru)",
+            "えら.ぶ (era.bu)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "tou4"
+        ]
+    },
+    "meanings": {
+        "đào": {
+            "Từ điển phổ thông": [
+                "lấy, móc, đào, cuốc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rút, móc. ◎Như: 'đào thương' 掏槍 rút súng, 'đào tiền' 掏錢 lấy tiền ra, 'đào yêu bao' 掏腰包 móc túi, 'đào nhĩ đóa' 掏耳朵 móc ráy tai.",
+                "(Động) Đào, khoét. ◎Như: 'đào cá đỗng' 掏個洞 đào hang."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lọc chọn.",
+                "Luồn tay vào lấy đồ gọi là đào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khoét, đào: 在墻上掏一個洞 Khoét một cái lỗ ở trên tường;",
+                "Rút, móc: 把口袋裡的筆記本掏出來 Rút sổ tay trong túi ra;",
+                "(văn) Chọn lọc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng tay mà lựa chọn — Thò tay mà lấy."
+            ],
+            "compound_words": {
+                "掏摸": "đào mô"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "牺",
+    "details": {
+        "Âm Hán Việt": [
+            "hi",
+            "hy"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngưu 牛 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰牜西"
+        ],
+        "Nét bút": [
+            "ノ一丨一一丨フノフ一"
+        ],
+        "Thương Hiệt": [
+            "HQMCW (竹手一金田)"
+        ],
+        "Unicode": [
+            "U+727A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "suō ㄙㄨㄛ",
+            "xī ㄒㄧ"
+        ],
+        "Âm Nôm": [
+            "hi"
+        ],
+        "Âm Quảng Đông": [
+            "hei1"
+        ]
+    },
+    "meanings": {
+        "hi": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 犧."
+            ]
+        },
+        "hy": {
+            "Từ điển phổ thông": [
+                "con vật tế thần"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 犧"
+            ],
+            "compound_words": {
+                "牺牲": "hy sinh"
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "character": "儭",
+    "details": {
+        "Âm Hán Việt": [
+            "sấn",
+            "thân"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "nhân 人 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻親"
+        ],
+        "Nét bút": [
+            "ノ丨丶一丶ノ一一丨ノ丶丨フ一一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "OYDU (人卜木山)"
+        ],
+        "Unicode": [
+            "U+512D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chèn ㄔㄣˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いた.る (ita.ru)",
+            "ちか.い (chika.i)",
+            "おそ.れる (oso.reru)",
+            "うら (ura)",
+            "しく (shiku)"
+        ],
+        "Âm Quảng Đông": [
+            "can3"
+        ]
+    },
+    "meanings": {
+        "sấn": {
+            "Từ điển phổ thông": [
+                "bố thí cho tu sĩ hay tăng ni"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Dùng như chữ 襯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 嚫 (bộ 口)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ở trong. Bên trong — Tới. Gần sát — Đem tiền của bố thí cho tăng sĩ — Một âm là Thân. Xem Thân."
+            ],
+            "compound_words": {
+                "儭錢": "sấn tiền"
+            }
+        },
+        "thân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng gọi cha mẹ. Dùng như chữ Thân 親."
+            ]
+        }
+    }
+}

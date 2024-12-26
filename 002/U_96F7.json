@@ -1,0 +1,110 @@
+{
+    "character": "雷",
+    "details": {
+        "Âm Hán Việt": [
+            "lôi",
+            "lỗi"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "vũ 雨 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱雨田"
+        ],
+        "Nét bút": [
+            "一丶フ丨丶丶丶丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "MBW (一月田)"
+        ],
+        "Unicode": [
+            "U+96F7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "léi ㄌㄟˊ",
+            "lèi ㄌㄟˋ"
+        ],
+        "Âm Nôm": [
+            "lôi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ライ (rai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かみなり (kaminari)",
+            "いかずち (ikazuchi)",
+            "いかづち (ikazuchi)"
+        ],
+        "Âm Hàn": [
+            "뢰",
+            "뇌"
+        ],
+        "Âm Quảng Đông": [
+            "leoi4"
+        ]
+    },
+    "meanings": {
+        "lôi": {
+            "Từ điển phổ thông": [
+                "sấm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sấm. ◎Như: 'lôi điện' 雷電 sấm chớp.",
+                "(Danh) Vũ khí nổ, mìn. ◎Như: 'địa lôi' 地雷 vũ khí nổ chôn dưới đất, 'thủy lôi' 水雷 vũ khí nổ dùng dưới nước.",
+                "(Danh) Họ 'Lôi'.",
+                "(Phó) Vang, to (âm thanh). ◇Khuất Nguyên 屈原: 'Hoàng chung hủy khí, ngõa phủ lôi minh' 黃鐘毀棄, 瓦釜雷鳴 (Sở từ 楚辭, Bốc cư 卜居) Chuông vàng bỏ nát, nồi đất kêu vang.",
+                "(Phó) Nhanh lẹ, mau. ◇Liễu Tông Nguyên 柳宗元: 'Thiên lí lôi trì' 千里雷馳 (Tấn vấn 晉問) Nghìn dặm ruổi mau."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sấm. Như lôi điện 雷電 sấm sét.",
+                "Dùng thuốc nổ nhồi vào trong cái ống sắt to dùng để phá thành phá luỹ hay phá tàu chiến gọi là lôi. Chôn ở dưới đất gọi là địa lôi 地雷, thả ở mặt nước gọi là thuỷ lôi 水雷.",
+                "Họ Lôi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sấm: 打雷 Sấm nổ, sấm dậy.【雷電】lôi điện [léi diàn] Sấm sét;",
+                "Mìn, vũ khí nổ, lôi: 地雷 Mìn; 水雷 Thuỷ lôi; 布雷 Cài (đặt, chôn, thả, rải) mìn; 掃雷 Quét mìn;",
+                "[Léi] (Họ) Lôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng sấm. Truyện Trê có câu: » Lệ rằng quan pháp như lôi, chỉ đâu đánh đấy chẳng thôi là lành «. — Một âm là Lỗi. Xem lỗi."
+            ],
+            "compound_words": {
+                "陰雷": "âm lôi",
+                "地雷": "địa lôi",
+                "雷震": "lôi chấn",
+                "雷公": "lôi công",
+                "雷霆": "lôi đình",
+                "雷同": "lôi đồng",
+                "雷神": "lôi thần",
+                "雷雨": "lôi vũ",
+                "雷射": "lôi xạ",
+                "雷車": "lôi xa",
+                "魚雷": "ngư lôi",
+                "風雷": "phong lôi",
+                "訊雷": "tấn lôi",
+                "迅雷": "tấn lôi",
+                "天雷": "thiên lôi",
+                "水雷": "thuỷ lôi",
+                "避雷針": "tỵ lôi châm",
+                "避雷针": "tỵ lôi châm"
+            }
+        },
+        "lỗi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại đá lớn chất sẵn ở mặt thành thời xưa, dùng để chống cự quân giặc đánh thành — Đánh trống — Một âm là Lôi. Xem Lôi."
+            ]
+        }
+    }
+}

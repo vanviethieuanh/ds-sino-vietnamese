@@ -1,0 +1,80 @@
+{
+    "character": "兇",
+    "details": {
+        "Âm Hán Việt": [
+            "hung"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 儿 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱凶儿"
+        ],
+        "Nét bút": [
+            "ノ丶フ丨ノフ"
+        ],
+        "Thương Hiệt": [
+            "UKHU (山大竹山)"
+        ],
+        "Unicode": [
+            "U+5147"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xiōng ㄒㄩㄥ"
+        ],
+        "Âm Nôm": [
+            "hung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おそ.れる (oso.reru)",
+            "わる.い (waru.i)"
+        ],
+        "Âm Hàn": [
+            "흉"
+        ],
+        "Âm Quảng Đông": [
+            "hung1"
+        ]
+    },
+    "meanings": {
+        "hung": {
+            "Từ điển phổ thông": [
+                "hung ác, dữ tợn",
+                "sợ hãi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sợ hãi, bất an. ◇Tả truyện 左傳: 'Tào nhân hung cụ' 曹人兇懼 (Hi Công nhị thập bát niên 僖公二十八年) Người nước Tào lo sợ.",
+                "(Tính) Dữ tợn, hung ác. § Thông 'hung' 凶. ◎Như: 'hung đồ' 兇徒 quân hung ác."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sợ hãi.",
+                "Dữ tợn, như hung đồ 兇徒 quân hung tợn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lo sợ. Sợ hãi — Làm hại. Có hại."
+            ],
+            "compound_words": {
+                "幫兇": "bang hung",
+                "兇徒": "hung đồ",
+                "兇悍": "hung hãn",
+                "兇猛": "hung mãnh",
+                "兇手": "hung thủ"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "癢",
+    "details": {
+        "Âm Hán Việt": [
+            "dương",
+            "dưỡng",
+            "dạng"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "nạch 疒 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒養"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丶ノ一一一ノ丶丶フ一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "KTOV (大廿人女)"
+        ],
+        "Unicode": [
+            "U+7662"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yǎng ㄧㄤˇ"
+        ],
+        "Âm Nôm": [
+            "dưỡng",
+            "ngứa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かゆ.い (kayu.i)"
+        ],
+        "Âm Hàn": [
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "joeng5"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển phổ thông": [
+                "ốm",
+                "ngứa"
+            ]
+        },
+        "dưỡng": {
+            "Từ điển phổ thông": [
+                "ốm",
+                "ngứa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ngứa. ◎Như: 'cách ngoa tao dưỡng' 隔靴搔癢 cách giày gãi ngứa. ◇Lễ Kí 禮記: 'Hàn bất cảm tập, dưỡng bất cảm tao' 寒不敢襲, 癢不敢搔 (Nội tắc 內則) Lạnh không dám mặc thêm áo ngoài, ngứa không dám gãi.",
+                "Ta quen đọc là 'dạng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngứa. Ta quen đọc là chữ dạng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngứa. Xem 癢 [yăng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngứa. Một lối viết của chữ Dưỡng 痒."
+            ],
+            "compound_words": {
+                "隔靴搔癢": "cách ngoa tao dưỡng",
+                "搔癢": "tao dưỡng"
+            }
+        },
+        "dạng": {
+            "Từ điển trích dẫn": [
+                "(Danh) Ngứa. ◎Như: 'cách ngoa tao dưỡng' 隔靴搔癢 cách giày gãi ngứa. ◇Lễ Kí 禮記: 'Hàn bất cảm tập, dưỡng bất cảm tao' 寒不敢襲, 癢不敢搔 (Nội tắc 內則) Lạnh không dám mặc thêm áo ngoài, ngứa không dám gãi.",
+                "Ta quen đọc là 'dạng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngứa. Ta quen đọc là chữ dạng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngứa. Xem 癢 [yăng]."
+            ]
+        }
+    }
+}

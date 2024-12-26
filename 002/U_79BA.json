@@ -1,0 +1,109 @@
+{
+    "character": "禺",
+    "details": {
+        "Âm Hán Việt": [
+            "ngu",
+            "ngung",
+            "ngẫu",
+            "ngụ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhụ 禸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ丨一丶"
+        ],
+        "Thương Hiệt": [
+            "WLBI (田中月戈)"
+        ],
+        "Unicode": [
+            "U+79BA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ǒu ㄛㄨˇ",
+            "yú ㄩˊ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ngung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "グ (gu)",
+            "グウ (gū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おながざる (onagazaru)"
+        ],
+        "Âm Hàn": [
+            "옹",
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "ngu": {
+            "Từ điển phổ thông": [
+                "đất Ngu",
+                "vùng đất 10 dặm bằng 1 ngu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một giống vượn đuôi dài.",
+                "(Danh) Khu vực.",
+                "(Danh) Ban ngày lúc gần trưa.",
+                "(Danh) Tên núi, ở tỉnh Chiết Giang.",
+                "(Danh) Chữ dùng đặt tên đất. ◎Như: 'Phiên Ngu' 番禺.",
+                "(Tính) Ngu dốt. § Thông 'ngu' 愚.",
+                "Một âm là 'ngẫu'. (Danh) Hai, cặp. § Dạng cổ của 'ngẫu' 偶.",
+                "(Danh) Pho tượng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tên núi, tên đất.",
+                "Khu, mỗi khu mười dặm là một ngu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Một loài khỉ ghi chép trong sách cổ;",
+                "Khu rộng mười dặm;",
+                "[Yú] Núi Ngu (ở tỉnh Chiết Giang, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vùng đất, khu đất — Các âm khác là Ngụ, Ngung."
+            ]
+        },
+        "ngung": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Ngung 隅 — Các âm khác là Ngu, Ngụ."
+            ]
+        },
+        "ngẫu": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một giống vượn đuôi dài.",
+                "(Danh) Khu vực.",
+                "(Danh) Ban ngày lúc gần trưa.",
+                "(Danh) Tên núi, ở tỉnh Chiết Giang.",
+                "(Danh) Chữ dùng đặt tên đất. ◎Như: 'Phiên Ngu' 番禺.",
+                "(Tính) Ngu dốt. § Thông 'ngu' 愚.",
+                "Một âm là 'ngẫu'. (Danh) Hai, cặp. § Dạng cổ của 'ngẫu' 偶.",
+                "(Danh) Pho tượng."
+            ]
+        },
+        "ngụ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài khỉ rất lớn, đuôi dài, mắt đỏ — Pho tượng. Dùng như chữ Ngẫu 偶 — Các âm khác là Ngu, Ngung."
+            ]
+        }
+    }
+}

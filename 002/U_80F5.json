@@ -1,0 +1,59 @@
+{
+    "character": "胵",
+    "details": {
+        "Âm Hán Việt": [
+            "si"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰月至"
+        ],
+        "Nét bút": [
+            "ノフ一一一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "BMIG (月一戈土)"
+        ],
+        "Unicode": [
+            "U+80F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chī ㄔ"
+        ],
+        "Âm Nôm": [
+            "chuối"
+        ],
+        "Âm Quảng Đông": [
+            "ci1",
+            "ci3",
+            "ci4"
+        ]
+    },
+    "meanings": {
+        "si": {
+            "Từ điển phổ thông": [
+                "dạ dày loài chim"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dạ dày loài chim."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dạ dày của loài chim, gà. Cái mề chim, mề gà."
+            ],
+            "compound_words": {
+                "膍胵": "bì si"
+            }
+        }
+    }
+}

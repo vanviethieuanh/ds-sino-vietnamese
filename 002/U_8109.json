@@ -1,0 +1,82 @@
+{
+    "character": "脉",
+    "details": {
+        "Âm Hán Việt": [
+            "mạch"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰月永"
+        ],
+        "Nét bút": [
+            "ノフ一一丶フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "BINE (月戈弓水)"
+        ],
+        "Unicode": [
+            "U+8109"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mài ㄇㄞˋ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mạch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ミャク (myaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すじ (suji)"
+        ],
+        "Âm Hàn": [
+            "맥"
+        ],
+        "Âm Quảng Đông": [
+            "mak6"
+        ]
+    },
+    "meanings": {
+        "mạch": {
+            "Từ điển phổ thông": [
+                "mạch máu",
+                "mạch, thớ, gân",
+                "liền nhau",
+                "nhìn đăm đắm"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'mạch' 脈.",
+                "Giản thể của chữ 脈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ mạch 脈."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ mạch 脈."
+            ],
+            "compound_words": {
+                "按脉": "án mạch",
+                "动脉": "động mạch",
+                "脉络": "mạch lạc",
+                "命脉": "mệnh mạch",
+                "弱脉": "nhược mạch",
+                "國脉": "quốc mạch"
+            }
+        }
+    }
+}

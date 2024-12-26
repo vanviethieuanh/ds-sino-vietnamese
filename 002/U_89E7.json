@@ -1,0 +1,82 @@
+{
+    "character": "觧",
+    "details": {
+        "Âm Hán Việt": [
+            "giải"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "giác 角 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰角羊"
+        ],
+        "Nét bút": [
+            "ノフノフ一一丨丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "NBTQ (弓月廿手)"
+        ],
+        "Unicode": [
+            "U+89E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiě ㄐㄧㄝˇ",
+            "jiè ㄐㄧㄝˋ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "giải"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)",
+            "ゲ (ge)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.く (to.ku)",
+            "と.かす (to.kasu)",
+            "と.ける (to.keru)",
+            "ほど.く (hodo.ku)",
+            "ほど.ける (hodo.keru)",
+            "わか.る (waka.ru)",
+            "さと.る (sato.ru)"
+        ],
+        "Âm Hàn": [
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "gaai2"
+        ]
+    },
+    "meanings": {
+        "giải": {
+            "Từ điển phổ thông": [
+                "cởi (áo)",
+                "giải phóng, giải toả",
+                "giảng giải",
+                "giải đi, dẫn đi"
+            ],
+            "compound_words": {
+                "觧答": "giải đáp",
+                "觧渴": "giải khát",
+                "觧法": "giải pháp",
+                "觧剖": "giải phẫu",
+                "觧放": "giải phóng",
+                "觧决": "giải quyết",
+                "觧散": "giải tán",
+                "觧体": "giải thể",
+                "和觧": "hoà giải",
+                "了觧": "liễu giải",
+                "剖觧": "phẫu giải"
+            }
+        }
+    }
+}

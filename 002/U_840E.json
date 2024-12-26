@@ -1,0 +1,128 @@
+{
+    "character": "萎",
+    "details": {
+        "Âm Hán Việt": [
+            "nuy",
+            "uy",
+            "uỷ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹委"
+        ],
+        "Nét bút": [
+            "一丨丨ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "THDV (廿竹木女)"
+        ],
+        "Unicode": [
+            "U+840E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wēi ㄨㄟ",
+            "wěi ㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "nuy",
+            "uỳ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な (na)",
+            "しお.れる (shio.reru)",
+            "しな.びる (shina.biru)",
+            "しぼ.む (shibo.mu)",
+            "な.える (na.eru)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai1",
+            "wai2"
+        ]
+    },
+    "meanings": {
+        "nuy": {
+            "Từ điển phổ thông": [
+                "khô héo",
+                "(xem: nuy nhuy 萎蕤)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Héo, cây cỏ héo.",
+                "Ốm chết. Như triết nhân kì nuy hồ 哲人其萎乎 (Lễ kí 禮記) người hiền triết ốm chết mất ư.",
+                "Nuy nhuy 萎蕤 hoa nuy nhuy, có khi gọi là uy nhuy 葳萎, dùng để làm thuốc. Một tên gọi là ngọc trúc 玉竹."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Suy sụp, sụt: 價錢萎下來了 Giá đã sụt xuống rồi;",
+                "Mới xảy ra:",
+                "(văn) Chết mất: 哲人其萎乎！ Người hiền triết có lẽ chết mất ư! (Lễ kí: Đàn Cung thượng) Xem 萎 [wâi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ khô — Dùng như chữ Nuy 痿 — Một âm là Uỷ."
+            ],
+            "compound_words": {
+                "枯萎": "khô nuy",
+                "萎蕤": "nuy nhuy"
+            }
+        },
+        "uy": {
+            "Từ điển phổ thông": [
+                "khô héo",
+                "(xem: nuy nhuy 萎蕤)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khô héo (cây cỏ). ◇Thi Kinh 詩經: 'Vô thảo bất tử, Vô mộc bất uy' 無草不死, 無木不萎 (Tiểu nhã 小雅, Cốc phong 谷風) Không cỏ nào mà không chết, Không cây nào mà không khô héo.",
+                "(Động) Suy sụp, suy nhược.",
+                "(Động) Chết (người). ◎Như: 'ủy chiết' 萎折 chết, tử vong. ◇Mao Thuẫn 茅盾: 'Vạn chúng hào đào triết nhân ủy, Cạnh truyền cử thế tụng công huân' 萬眾號咷哲人萎, 競傳舉世頌功勳 (Chu Tổng Lí vãn thi 周總理輓詩, Chi nhất).",
+                "(Tính) Héo hon, ủ dột. ◎Như: 'ủy mĩ bất chấn' 委靡不振 ủ rũ không hăng hái.",
+                "(Danh) § Xem 'uy nhuy' 萎蕤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Suy sụp, sụt: 價錢萎下來了 Giá đã sụt xuống rồi;",
+                "Mới xảy ra:",
+                "(văn) Chết mất: 哲人其萎乎！ Người hiền triết có lẽ chết mất ư! (Lễ kí: Đàn Cung thượng) Xem 萎 [wâi]."
+            ],
+            "compound_words": {
+                "枯萎": "khô nuy",
+                "萎蕤": "uy nhuy",
+                "萎靡": "uy mĩ"
+            }
+        },
+        "uỷ": {
+            "Từ điển trích dẫn": [
+                "(Động) Khô héo (cây cỏ). ◇Thi Kinh 詩經: 'Vô thảo bất tử, Vô mộc bất uy' 無草不死, 無木不萎 (Tiểu nhã 小雅, Cốc phong 谷風) Không cỏ nào mà không chết, Không cây nào mà không khô héo.",
+                "(Động) Suy sụp, suy nhược.",
+                "(Động) Chết (người). ◎Như: 'ủy chiết' 萎折 chết, tử vong. ◇Mao Thuẫn 茅盾: 'Vạn chúng hào đào triết nhân ủy, Cạnh truyền cử thế tụng công huân' 萬眾號咷哲人萎, 競傳舉世頌功勳 (Chu Tổng Lí vãn thi 周總理輓詩, Chi nhất).",
+                "(Tính) Héo hon, ủ dột. ◎Như: 'ủy mĩ bất chấn' 委靡不振 ủ rũ không hăng hái.",
+                "(Danh) § Xem 'uy nhuy' 萎蕤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Héo, tàn: 炎熱的太陽使草枯萎 Mặt trời nóng bức làm cho cỏ khô héo; 樹木枯萎 Cây cối héo tàn Xem 萎 [wei]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khô héo, chết mất."
+            ],
+            "compound_words": {
+                "萎靡": "uỷ mĩ"
+            }
+        }
+    }
+}

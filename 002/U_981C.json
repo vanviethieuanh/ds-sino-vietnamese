@@ -1,0 +1,88 @@
+{
+    "character": "頜",
+    "details": {
+        "Âm Hán Việt": [
+            "cáp",
+            "hàm",
+            "hạp"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰合頁"
+        ],
+        "Nét bút": [
+            "ノ丶一丨フ一一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "ORMBC (人口一月金)"
+        ],
+        "Unicode": [
+            "U+981C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gé ㄍㄜˊ",
+            "hé ㄏㄜˊ"
+        ],
+        "Âm Nôm": [
+            "hợp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "ゴン (gon)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あご (ago)"
+        ],
+        "Âm Quảng Đông": [
+            "gap3",
+            "hap6"
+        ]
+    },
+    "meanings": {
+        "cáp": {
+            "Từ điển phổ thông": [
+                "miệng, mồm, hàm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bộ phận xương và bắp thịt tạo thành hốc miệng.",
+                "(Danh) Má, hai bên mặt.",
+                "(Danh) Họ 'Hàm'.",
+                "(Động) Gật đầu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Miệng, mồm. Xem 頜 [hé]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái hàm, phần dưới má."
+            ]
+        },
+        "hàm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bộ phận xương và bắp thịt tạo thành hốc miệng.",
+                "(Danh) Má, hai bên mặt.",
+                "(Danh) Họ 'Hàm'.",
+                "(Động) Gật đầu."
+            ]
+        },
+        "hạp": {
+            "Từ điển Trần Văn Chánh": [
+                "(giải) Hàm: 上頜 Hàm trên; 下頜 Hàm dưới. Xem 頜 [gé]."
+            ]
+        }
+    }
+}

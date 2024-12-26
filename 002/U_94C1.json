@@ -1,0 +1,62 @@
+{
+    "character": "铁",
+    "details": {
+        "Âm Hán Việt": [
+            "thiết"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "kim 金 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅失"
+        ],
+        "Nét bút": [
+            "ノ一一一フノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OVHQO (人女竹手人)"
+        ],
+        "Unicode": [
+            "U+94C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tiě ㄊㄧㄝˇ"
+        ],
+        "Âm Nôm": [
+            "sắt",
+            "thiết"
+        ],
+        "Âm Quảng Đông": [
+            "tit3"
+        ]
+    },
+    "meanings": {
+        "thiết": {
+            "Từ điển phổ thông": [
+                "sắt, Fe"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鐵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鉄"
+            ],
+            "compound_words": {
+                "地铁": "địa thiết",
+                "烙铁": "lạc thiết"
+            }
+        }
+    }
+}

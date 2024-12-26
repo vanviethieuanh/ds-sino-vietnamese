@@ -1,0 +1,106 @@
+{
+    "character": "市",
+    "details": {
+        "Âm Hán Việt": [
+            "thị"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "cân 巾 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱亠巾"
+        ],
+        "Nét bút": [
+            "丶一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "YLB (卜中月)"
+        ],
+        "Unicode": [
+            "U+5E02"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "thị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いち (ichi)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "si5"
+        ]
+    },
+    "meanings": {
+        "thị": {
+            "Từ điển phổ thông": [
+                "thị xã",
+                "cái chợ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chợ, chỗ để mua bán. ◎Như: 'thị giá' 市價 giá hàng trên thị trường, 'thị diện' 市面 trạng huống sự mua bán, 'thị quái' 巿儈 kẻ làm trung gian cho hai bên mua bán mà lấy lợi, 'thị hóa' 市貨 đồ bền tốt (khác với 'hành hóa' 行貨 hàng không tốt).",
+                "(Danh) Thành phố. ◎Như: 'đô thị' 都市 thành phố, 'thành thị' 城市 thành phố.",
+                "(Danh) Đơn vị hành chánh cho khu vực. ◎Như: 'Đài Bắc thị' 臺北市 thành phố Đài Bắc, 'Thượng Hải thị' 上海市 thành phố Thượng Hải.",
+                "(Động) Mua. ◎Như: 'thị ân' 市恩 mua ơn. ◇Luận Ngữ 論語: 'Cô tửu thị bô bất thực' 沽酒市脯不食 (Hương đảng 鄉黨) Rượu, thịt khô mua ở chợ không ăn.",
+                "(Động) Bán. ◇Tống sử 宋史: 'Ất Sửu, chiếu thị nhị giá giả dĩ uổng pháp luận' 乙丑, 詔市二價者以枉法論 (Thái tổ bổn kỉ tam 太祖本紀三) Năm Ất Sửu, xuống chiếu người bán hai giá (cao thấp tùy theo người mua) là trái phép.",
+                "(Tính) Cổ (dùng chỉ đơn vị đo lường ngày xưa, ở Trung Quốc). ◎Như: 'thị cân' 市斤 cân ngày xưa, 'thị lí' 市里 dặm (cổ)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chợ, nơi mua bán: 菜市 Chợ rau; 開市 Mở hàng; 罷市 Bãi chợ, bãi thị;",
+                "Thành phố, thành thị: 胡志明市 Thành phố Hồ Chí Minh; 都市 Đô thị; 城市 Thành thị, thành phố;",
+                "Chỉ các thứ đo lường của Trung Quốc: 市鬥 Đấu Trung Quốc; 市斤 Cân Trung Quốc; 市里 Dặm;",
+                "(văn) Mua: 市恩 Mua ơn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chợ, nơi tụ họp mua bán — Mua bán trao đổi — Nơi dân cư tụ tập cư ngụ đông đúc, buôn bán sầm uất. Td: Thành thị Đô thị."
+            ],
+            "compound_words": {
+                "罷市": "bãi thị",
+                "夜市": "dạ thị",
+                "打市語": "đả thị ngữ",
+                "大隱朝市": "đại ẩn triều thị",
+                "燈市": "đăng thị",
+                "都市": "đô thị",
+                "花市": "hoa thị",
+                "互市": "hỗ thị",
+                "發市": "phát thị",
+                "坊市": "phường thị",
+                "鬼市": "quỷ thị",
+                "散市": "tán thị",
+                "城市": "thành thị",
+                "市政": "thị chính",
+                "市民": "thị dân",
+                "市價": "thị giá",
+                "市廳": "thị sảnh",
+                "市城": "thị thành",
+                "市鎮": "thị trấn",
+                "市場": "thị trường",
+                "市長": "thị trưởng",
+                "市肆": "thị tứ",
+                "市社": "thị xã",
+                "上市": "thượng thị",
+                "夕市": "tịch thị",
+                "廛市": "triền thị"
+            }
+        }
+    }
+}

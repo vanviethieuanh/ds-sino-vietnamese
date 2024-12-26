@@ -1,0 +1,91 @@
+{
+    "character": "傖",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "thảng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhân 人 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻倉"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶丶フ一一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OOIR (人人戈口)"
+        ],
+        "Unicode": [
+            "U+5096"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "cāng ㄘㄤ",
+            "chēn ㄔㄣ",
+            "chéng ㄔㄥˊ"
+        ],
+        "Âm Nôm": [
+            "sườn",
+            "sương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いや.しい (iya.shii)",
+            "いやしいもの (iyashiimono)",
+            "いなかもの (inakamono)"
+        ],
+        "Âm Hàn": [
+            "창"
+        ],
+        "Âm Quảng Đông": [
+            "caang4",
+            "cong1"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển phổ thông": [
+                "khiếm nhã",
+                "gã, thằng cha (khinh bỉ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người dung tục, hèn hạ. ◎Như: 'ngu sanh' 愚傖 người thô lậu.",
+                "(Tính) Thô tục, thô bỉ. ◇Lưu Vũ Tích 劉禹錫: 'Sanh âm lí thái' 傖音俚態 (Sở vọng phú 楚望賦) Giọng nói thô tục dáng điệu quê mùa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thằng cha, tiếng gọi khinh bỉ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thằng cha (tiếng gọi khinh bỉ). Xem 寒傖 [hánchen]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thấp hèn, hạ tiện — Tiếng để chỉ kẻ nghèo hèn, thấp hèn trong xã hội — Một âm khác là Thương. Xem vần Thương."
+            ],
+            "compound_words": {
+                "傖人": "sanh nhân",
+                "傖父": "sanh phụ"
+            }
+        },
+        "thảng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thảng thốt: 傖倅 Vội vã gấp rút, không suy nghĩ."
+            ]
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "character": "婚",
+    "details": {
+        "Âm Hán Việt": [
+            "hôn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nữ 女 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女昏"
+        ],
+        "Nét bút": [
+            "フノ一ノフ一フ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "VHPA (女竹心日)"
+        ],
+        "Unicode": [
+            "U+5A5A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hūn ㄏㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "hôn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)"
+        ],
+        "Âm Hàn": [
+            "혼"
+        ],
+        "Âm Quảng Đông": [
+            "fan1"
+        ]
+    },
+    "meanings": {
+        "hôn": {
+            "Từ điển phổ thông": [
+                "cưới",
+                "lễ cưới",
+                "bố vợ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lấy vợ hoặc chồng, cưới. ◎Như: 'kết hôn' 結婚 cưới, 'dĩ hôn' 已婚 đã kết hôn.",
+                "(Động) Đặc chỉ con trai lấy vợ.",
+                "(Động) Chỉ con gái lấy chồng.",
+                "(Danh) Cha vợ.",
+                "(Danh) Hôn nhân. ◎Như: 'hôn lễ' 婚禮, 'hôn thú' 婚娶, 'li hôn' 離婚."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lấy vợ, con dâu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lấy vợ hoặc chồng, kết hôn, cưới: 已婚 Đã kết hôn; 未婚妻 Vợ chưa cưới;",
+                "Hôn (nhân): 離婚 Li hôn; 結婚 Kết hôn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Việc lấy vợ lấy chồng."
+            ],
+            "compound_words": {
+                "伴婚": "bạn hôn",
+                "皮婚": "bì hôn",
+                "逼婚": "bức hôn",
+                "求婚": "cầu hôn",
+                "指婚": "chỉ hôn",
+                "紙婚": "chỉ hôn",
+                "指腹為婚": "chỉ phúc vi hôn",
+                "主婚": "chủ hôn",
+                "已婚": "dĩ hôn",
+                "訂婚": "đính hôn",
+                "婚嫁": "hôn giá",
+                "婚期": "hôn kỳ",
+                "婚礼": "hôn lễ",
+                "婚禮": "hôn lễ",
+                "婚外": "hôn ngoại",
+                "婚姻": "hôn nhân",
+                "婚事": "hôn sự",
+                "婚娶": "hôn thú",
+                "婚書": "hôn thư",
+                "婚約": "hôn ước",
+                "婚约": "hôn ước",
+                "婚宴": "hôn yến",
+                "許婚": "hứa hôn",
+                "結婚": "kết hôn",
+                "金婚": "kim hôn",
+                "離婚": "li hôn",
+                "賣婚": "mại hôn",
+                "銀婚": "ngân hôn",
+                "偶婚": "ngẫu hôn",
+                "迎婚": "nghênh hôn",
+                "羣婚": "quần hôn",
+                "早婚": "tảo hôn",
+                "雜婚": "tạp hôn",
+                "新婚": "tân hôn",
+                "成婚": "thành hôn",
+                "退婚": "thoái hôn",
+                "私婚": "tư hôn",
+                "晚婚": "vãn hôn",
+                "未婚": "vị hôn",
+                "未婚夫": "vị hôn phu",
+                "未婚妻": "vị hôn thê"
+            }
+        }
+    }
+}

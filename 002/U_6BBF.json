@@ -1,0 +1,115 @@
+{
+    "character": "殿",
+    "details": {
+        "Âm Hán Việt": [
+            "điến",
+            "điện",
+            "đán"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thù 殳 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰𡱒殳"
+        ],
+        "Nét bút": [
+            "フ一ノ一丨丨一ノ丶ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "SCHNE (尸金竹弓水)"
+        ],
+        "Unicode": [
+            "U+6BBF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đền",
+            "điện",
+            "điếng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "デン (den)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "との (tono)",
+            "-どの (-dono)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "din3",
+            "din6"
+        ]
+    },
+    "meanings": {
+        "điến": {
+            "Từ điển Thiều Chửu": [
+                "Cung đền, nhà vua ở gọi là điện, chỗ thờ thần thánh cũng gọi là điện. Ta gọi vua hay thần thánh là điện hạ 殿下 là bởi nghĩa đó.",
+                "Một âm là điến. Trấn định, yên tĩnh, đi sau quân cũng gọi là điến.",
+                "Xét công thua kém người gọi là điến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Điện: 宮殿 Cung điện;",
+                "(Đi) sau (trong cuộc hành quân): 打殿後 Đi sau cùng;",
+                "(văn) Trấn định, trấn thủ: 殿天子之邦 Giúp thiên tử trấn thủ bốn phương (Thi Kinh: Tiểu nhã, Thái thúc)."
+            ]
+        },
+        "điện": {
+            "Từ điển phổ thông": [
+                "cung điện"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sảnh đường cao lớn (thường chỉ chỗ vua chúa ở, chỗ thờ thần thánh). ◎Như: 'cung điện' 宮殿 cung vua chúa, 'Phật điện' 佛殿 đền thờ Phật. § Ghi chú: Ta gọi vua hay thần thánh là 'điện hạ' 殿下 là bởi nghĩa đó.",
+                "(Danh) Hậu quân, quân đi sau để bảo vệ toàn quân.",
+                "(Tính) Cuối, sau cùng. ◎Như: 'điện quân' 殿軍 quân ở sau cùng.",
+                "(Động) Trấn định, trấn thủ, bảo vệ. ◇Luận Ngữ 論語: 'Mạnh Chi Phản bất phạt, bôn nhi điện, tương nhập môn, sách kì mã, viết: Phi cảm hấu dã, mã bất tiến dã' 孟之反不伐, 奔而殿, 將入門, 策其馬, 曰: 非敢後也, 馬不進也 (Ung dã 雍也) Ông Mạnh Chi Phản không khoe công. Khi binh thua chạy, ông ở lại sau che chở. Khi vào cửa thành, ông quất ngựa, nói rằng: \"Không phải tôi dám ở lại sau, chỉ vì con ngựa không chạy mau được\". § Ghi chú: Ông Mạnh Chi Phản, làm đại phu nước Lỗ, đã khiêm nhường nói rằng tại con ngựa ông đi chậm chứ chẳng phải ông gan dạ hơn mấy tướng khác.",
+                "(Động) Kết thúc, chấm dứt. ◇Tô Thức 蘇軾: 'Ân cần mộc thược dược, Độc tự điện dư xuân' 殷懃木芍藥, 獨自殿餘春 (Vũ tình hậu 雨晴後) Ân cần cây thược dược, Một mình xong hết mùa xuân còn lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cung đền, nhà vua ở gọi là điện, chỗ thờ thần thánh cũng gọi là điện. Ta gọi vua hay thần thánh là điện hạ 殿下 là bởi nghĩa đó.",
+                "Một âm là điến. Trấn định, yên tĩnh, đi sau quân cũng gọi là điến.",
+                "Xét công thua kém người gọi là điến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Điện: 宮殿 Cung điện;",
+                "(Đi) sau (trong cuộc hành quân): 打殿後 Đi sau cùng;",
+                "(văn) Trấn định, trấn thủ: 殿天子之邦 Giúp thiên tử trấn thủ bốn phương (Thi Kinh: Tiểu nhã, Thái thúc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Toà nhà to lớn — Một âm là Đán. Xem Đán."
+            ],
+            "compound_words": {
+                "寶殿": "bảo điện",
+                "宫殿": "cung điện",
+                "宮殿": "cung điện",
+                "殿下": "điện hạ",
+                "殿屎": "điện hi",
+                "殿試": "điện thí",
+                "金殿": "kim điện",
+                "月殿": "nguyệt điện",
+                "十殿": "thập điện"
+            }
+        },
+        "đán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Toán quân đi sau. Toán hậu quân — Công lao của cấp dưới — Trấn giữ — Một âm là Điện."
+            ]
+        }
+    }
+}

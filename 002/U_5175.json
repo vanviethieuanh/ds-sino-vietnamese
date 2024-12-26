@@ -1,0 +1,224 @@
+{
+    "character": "兵",
+    "details": {
+        "Âm Hán Việt": [
+            "binh"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "bát 八 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丘八"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OMC (人一金)"
+        ],
+        "Unicode": [
+            "U+5175"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bīng ㄅㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "banh",
+            "bênh",
+            "binh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つわもの (tsuwamono)"
+        ],
+        "Âm Hàn": [
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "bing1"
+        ]
+    },
+    "meanings": {
+        "binh": {
+            "Từ điển phổ thông": [
+                "vũ khí",
+                "quân lính",
+                "quân sự"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vũ khí. ◇Trịnh Huyền 鄭玄: 'Trịnh Tư Nông vân: Ngũ binh giả: qua, thù, kích, tù mâu, di mâu' 鄭司農云: 五兵者: 戈, 殳, 戟, 酋矛, 夷矛 (Chú 注) Trịnh Tư Nông nói rằng: Có năm thứ vũ khí là: qua, thù, kích, tù mâu, di mâu. ◇Sử Kí 史記: 'Kim Lương Triệu tương công, khinh binh duệ tốt tất kiệt ư ngoại, lão nhược bì ư nội' 今梁趙相攻, 輕兵銳卒必竭於外, 老弱罷於內 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Nay nước Lương và nước Triệu đánh nhau, vũ khí nhẹ, quân giỏi tất nhiên ở hết ngoài (mặt trận), người già mệt mỏi ở trong (nước).",
+                "(Danh) Chiến sĩ, quân đội. ◎Như: 'điều binh khiển tướng' 調兵遣將 điều khiển tướng sĩ, chỉ huy quân đội. ◇Chiến quốc sách 戰國策: 'Tần công Triệu ư Trường Bình, đại phá chi, dẫn binh nhi quy' 秦攻趙於長平, 大破之, 引兵而歸 (Triệu sách tam) Tần đánh Triệu ở Trường Bình, đại thắng, kéo quân về.",
+                "(Danh) Quân sự, chiến tranh. ◎Như: 'chỉ thượng đàm binh' 紙上談兵 bàn việc binh trên giấy (chỉ giỏi bàn luận quân sự trên lí thuyết).",
+                "(Danh) Phân loại cơ bản trong quân đội. ◎Như: 'pháo binh' 炮兵, 'kị binh' 騎兵, 'bộ binh' 步兵."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðồ binh. Các đồ như súng ống, giáo mác đều gọi là binh khí 兵器. Lính, phép binh bây giờ chia làm ba: 1) hạng thường bị; 2) tục bị; 3) hậu bị. Hiện đang ở lính gọi là thường bị binh, hết hạn ba năm về nhà; có việc lại ra là tục bị binh; lại đang hạn ba năm nữa rồi về là hậu bị binh, lại hết bốn năm cho về hưu hẳn, lại như dân thường."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quân, quân sự, quân đội, lính, binh, chiến sĩ: 民兵 Dân quân; 練兵 Huấn luyện quân đội, tập luyện (quân sự); 士兵 Binh lính, chiến sĩ; 步兵 Bộ binh;",
+                "Việc binh, việc quân cơ: 兵者，國之大事 Việc binh là việc lớn của quốc gia (Tôn tử binh pháp); 兵貴神速 Việc binh quý ở thần tốc; 紙上談兵 Bàn việc quân trên qiấy, lí luận suông;",
+                "(văn) Binh khí, võ khí;",
+                "Con tốt (chốt) trong cờ tướng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khí giới đánh trận. Còn gọi là binh khí — Người lính — Chỉ việc chiến tranh."
+            ],
+            "compound_words": {
+                "按兵": "án binh",
+                "按兵不動": "án binh bất động",
+                "陰兵": "âm binh",
+                "罷兵": "bãi binh",
+                "兵不血刃": "binh bất huyết nhận",
+                "兵不厭詐": "binh bất yếm trá",
+                "兵变": "binh biến",
+                "兵變": "binh biến",
+                "兵部": "binh bộ",
+                "兵革": "binh cách",
+                "兵制": "binh chế",
+                "兵种": "binh chủng",
+                "兵種": "binh chủng",
+                "兵工": "binh công",
+                "兵工廠": "binh công xưởng",
+                "兵役": "binh dịch",
+                "兵營": "binh doanh",
+                "兵营": "binh doanh",
+                "兵团": "binh đoàn",
+                "兵團": "binh đoàn",
+                "兵隊": "binh đội",
+                "兵家": "binh gia",
+                "兵解": "binh giải",
+                "兵諫": "binh gián",
+                "兵甲": "binh giáp",
+                "兵舰": "binh hạm",
+                "兵艦": "binh hạm",
+                "兵後": "binh hậu",
+                "兵險": "binh hiểm",
+                "兵器": "binh khí",
+                "兵力": "binh lực",
+                "兵略": "binh lược",
+                "兵糧": "binh lương",
+                "兵馬": "binh mã",
+                "兵马": "binh mã",
+                "兵源": "binh nguyên",
+                "兵需": "binh nhu",
+                "兵戎": "binh nhung",
+                "兵法": "binh pháp",
+                "兵費": "binh phí",
+                "兵府": "binh phủ",
+                "兵符": "binh phù",
+                "兵戈": "binh qua",
+                "兵权": "binh quyền",
+                "兵權": "binh quyền",
+                "兵士": "binh sĩ",
+                "兵船": "binh thuyền",
+                "兵书": "binh thư",
+                "兵書": "binh thư",
+                "兵書要略": "binh thư yếu lược",
+                "兵站": "binh trạm",
+                "兵员": "binh viên",
+                "兵員": "binh viên",
+                "步兵": "bộ binh",
+                "警兵": "cảnh binh",
+                "禁兵": "cấm binh",
+                "構兵": "cấu binh",
+                "紙上談兵": "chỉ thượng đàm binh",
+                "戰兵": "chiến binh",
+                "招兵": "chiêu binh",
+                "顓兵": "chuyên binh",
+                "工兵": "công binh",
+                "機兵": "cơ binh",
+                "舉兵": "cử binh",
+                "救兵": "cứu binh",
+                "舊戰兵": "cựu chiến binh",
+                "傭兵": "dung binh",
+                "用兵": "dụng binh",
+                "閱兵": "duyệt binh",
+                "大兵": "đại binh",
+                "帶兵": "đái binh",
+                "刀兵": "đao binh",
+                "逃兵": "đào binh",
+                "點兵": "điểm binh",
+                "調兵": "điều binh",
+                "短兵": "đoản binh",
+                "徒兵": "đồ binh",
+                "屯兵": "đồn binh",
+                "頓兵": "đốn binh",
+                "動兵": "động binh",
+                "交兵": "giao binh",
+                "甲兵": "giáp binh",
+                "行兵": "hành binh",
+                "憲兵": "hiến binh",
+                "緩兵": "hoãn binh",
+                "回兵": "hồi binh",
+                "會兵": "hội binh",
+                "興兵": "hưng binh",
+                "鄉兵": "hương binh",
+                "犒兵": "khao binh",
+                "輕兵": "khinh binh",
+                "起兵": "khởi binh",
+                "奇兵": "kì binh",
+                "騎兵": "kỵ binh",
+                "驕兵": "kiêu binh",
+                "骑兵": "kỵ binh",
+                "隸兵": "lệ binh",
+                "領兵": "lĩnh binh",
+                "鍊兵": "luyện binh",
+                "募兵": "mộ binh",
+                "疑兵": "nghi binh",
+                "義兵": "nghĩa binh",
+                "弭兵": "nhị binh",
+                "鋭兵": "nhuệ binh",
+                "宂兵": "nhũng binh",
+                "炮兵": "pháo binh",
+                "發兵": "phát binh",
+                "副領兵": "phó lĩnh binh",
+                "伏兵": "phục binh",
+                "官兵": "quan binh",
+                "軍兵": "quân binh",
+                "國兵": "quốc binh",
+                "哨兵": "tiêu binh",
+                "士兵": "sĩ binh",
+                "崇兵": "sùng binh",
+                "裁兵": "tài binh",
+                "殘兵": "tàn binh",
+                "增兵": "tăng binh",
+                "新兵": "tân binh",
+                "習兵": "tập binh",
+                "洗兵": "tẩy binh",
+                "收兵": "thu binh",
+                "水兵": "thuỷ binh",
+                "标兵": "tiêu binh",
+                "標兵": "tiêu binh",
+                "精兵": "tinh binh",
+                "嘬兵": "toát binh",
+                "總兵": "tổng binh",
+                "治兵": "trị binh",
+                "撤兵": "triệt binh",
+                "駐兵": "trú binh",
+                "徵兵": "trưng binh",
+                "囚兵": "tù binh",
+                "選兵": "tuyển binh",
+                "擁兵": "ủng binh",
+                "衛兵": "vệ binh",
+                "援兵": "viện binh",
+                "出兵": "xuất binh",
+                "稱兵": "xưng binh"
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "character": "踵",
+    "details": {
+        "Âm Hán Việt": [
+            "chủng"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "túc 足 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊重"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "RMHJG (口一竹十土)"
+        ],
+        "Unicode": [
+            "U+8E35"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhǒng ㄓㄨㄥˇ",
+            "zhòng ㄓㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chủng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かかと (kakato)",
+            "くび.す (kubi.su)",
+            "きび.す (kibi.su)",
+            "つ.ぐ (tsu.gu)"
+        ],
+        "Âm Hàn": [
+            "종"
+        ],
+        "Âm Quảng Đông": [
+            "dung2",
+            "zung2"
+        ]
+    },
+    "meanings": {
+        "chủng": {
+            "Từ điển phổ thông": [
+                "gót chân",
+                "đến nơi",
+                "nối gót nhau đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gót chân. ◎Như: 'tiếp chủng nhi chí' 接踵而至 nối gót chân mà đến.",
+                "(Danh) Gót giày. ◇Trang Tử 莊子: 'Tróc câm nhi trửu kiến, nạp lũ nhi chủng quyết' 捉衿而肘見, 納屨而踵決 (Nhượng vương 讓王) Xốc vạt áo thì khuỷu tay hở, xỏ giày thì gót giày sứt.",
+                "(Động) Theo sau, đuổi theo. ◇Tả truyện 左傳: 'Ngô chủng Sở, nhi cương tràng vô bị' 吳踵楚, 而疆場無備 (Chiêu Công nhị thập tứ niên 昭公二十四年) Quân Ngô đuổi theo quân Sở, mà biên giới không phòng bị.",
+                "(Động) Kế thừa, kế tục, nối tiếp. ◇Khuất Nguyên 屈原: 'Hốt bôn tẩu dĩ tiên hậu hề, Cập tiền vương chi chủng vũ' 忽奔走以先後兮, 及前王之踵武 (Li tao 離騷) Bỗng bôn tẩu phía trước phía sau hề, Nối tiếp sự nghiệp các vua trước.",
+                "(Động) Đến tận nơi. ◎Như: 'chủng tạ' 踵謝 đến tận nơi cảm tạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gót chân.",
+                "Đến. Như chủng tạ 踵謝 đến tận nơi cảm tạ.",
+                "Nối gót, đi theo chân người trước gọi là tiếp chủng nhi chí 接踵而至 nối gót mà đến.",
+                "Nhân, nối theo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Gót, gót chân: 接踵而至 Nối gót nhau đến;",
+                "Đến tận: 踵門道謝 Đến tận nhà cám ơn;",
+                "Theo, theo sau: 踵至 Theo đến."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái gót chân — Tới. Đến — Đi theo. Nối gót."
+            ],
+            "compound_words": {
+                "踵門": "chủng môn",
+                "踵決肘見": "chủng quyết chửu kiến",
+                "踵事增華": "chủng sự tăng hoa",
+                "踵謝": "chủng tạ",
+                "踵接": "chủng tiếp",
+                "踵武": "chủng vũ",
+                "舉踵": "cử chủng",
+                "曳踵": "duệ chủng",
+                "接踵": "tiếp chủng",
+                "旋踵": "toàn chủng",
+                "跂踵": "xí chủng"
+            }
+        }
+    }
+}

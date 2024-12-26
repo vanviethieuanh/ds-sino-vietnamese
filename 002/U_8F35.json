@@ -1,0 +1,63 @@
+{
+    "character": "輵",
+    "details": {
+        "Âm Hán Việt": [
+            "cát",
+            "át"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "xa 車 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車曷"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "JJAPV (十十日心女)"
+        ],
+        "Unicode": [
+            "U+8F35"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gé ㄍㄜˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "カチ (kachi)",
+            "アツ (atsu)",
+            "エチ (echi)"
+        ],
+        "Âm Quảng Đông": [
+            "got3"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "So le đan kết với nhau. Dáng lay động. Dáng rộng rãi."
+            ]
+        },
+        "át": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Át hạt 輵螛 — Một âm khác là Cát."
+            ],
+            "compound_words": {
+                "輵螛": "át hạt"
+            }
+        }
+    }
+}

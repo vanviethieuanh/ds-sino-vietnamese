@@ -1,0 +1,86 @@
+{
+    "character": "街",
+    "details": {
+        "Âm Hán Việt": [
+            "nhai"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hành 行 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴行圭"
+        ],
+        "Nét bút": [
+            "ノノ丨一丨一一丨一一一丨"
+        ],
+        "Thương Hiệt": [
+            "HOGGN (竹人土土弓)"
+        ],
+        "Unicode": [
+            "U+8857"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiē ㄐㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "nhai",
+            "nhây"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)",
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まち (machi)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaai1"
+        ]
+    },
+    "meanings": {
+        "nhai": {
+            "Từ điển phổ thông": [
+                "ngã tư",
+                "đường phố"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đường, phố. ◎Như: 'đại nhai tiểu hạng' 大街小巷 đường lớn ngõ nhỏ, 'cuống nhai' 逛街 dạo phố.",
+                "(Danh) Khu phố chợ tập trung sinh hoạt buôn bán, làm việc theo một ngành nghề nào đó. ◎Như: 'gia cụ nhai' 家具街 khu bán đồ dùng trong nhà, 'điện ảnh nhai' 電影街 khu phố điện ảnh."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngã tư, con đường thông cả bốn mặt, những đường cái trong thành phố đều gọi là nhai."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đường phố, phố, đường: 上街 Ra phố;",
+                "(đph) Chợ: 赶街 Đi chợ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đường thông nhiều ngả. Đường đi — Đường trong thành phố."
+            ],
+            "compound_words": {
+                "逛街": "cuống nhai",
+                "街談巷議": "nhai đàm hạng nghị",
+                "街道": "nhai đạo",
+                "街坊": "nhai phường",
+                "街坊鄰舍": "nhai phường lân xá",
+                "街肆": "nhai tứ",
+                "充街": "sung nhai"
+            }
+        }
+    }
+}

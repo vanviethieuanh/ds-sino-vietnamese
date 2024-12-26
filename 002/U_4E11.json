@@ -1,0 +1,101 @@
+{
+    "character": "丑",
+    "details": {
+        "Âm Hán Việt": [
+            "sửu",
+            "xú"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhất 一 (+3 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フ丨一一"
+        ],
+        "Thương Hiệt": [
+            "NG (弓土)"
+        ],
+        "Unicode": [
+            "U+4E11"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chǒu ㄔㄡˇ"
+        ],
+        "Âm Nôm": [
+            "giấu",
+            "sấu",
+            "sửu",
+            "xấu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うし (ushi)"
+        ],
+        "Âm Hàn": [
+            "축",
+            "추"
+        ],
+        "Âm Quảng Đông": [
+            "cau2"
+        ]
+    },
+    "meanings": {
+        "sửu": {
+            "Từ điển phổ thông": [
+                "Sửu (ngôi thứ 2 hàng Chi)",
+                "vai hề trong vở tuồng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chi thứ hai trong mười hai 'địa chi' 地支.",
+                "(Danh) Từ một giờ đêm đến ba giờ sáng là giờ 'Sửu' 丑. ◇Hồng Lâu Mộng 紅樓夢: 'Chấp sự thái giám khải đạo: Thì dĩ sửu chánh tam khắc, thỉnh giá hồi loan' 執事太監啟道: 時已丑正三刻, 請駕回鑾 (Đệ thập bát hồi) Viên thái giám chấp sự tâu: Đã đến giờ sửu ba khắc, mời loan giá về cung.",
+                "(Danh) Vai hề trong tuồng Tàu. ◇Hồng Lâu Mộng 紅樓夢: 'Diệc như kịch trung chi tiểu sửu nhiên' 亦如劇中之小丑然 (Đệ nhất hồi) Cũng như chú hề trong vở tuồng vậy.",
+                "(Danh) Họ 'Sửu'.",
+                "§ Giản thể của chữ 'xú' 醜."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một chi trong 12 chi. Từ 1 giờ đêm đến 3 giờ sáng là giờ sửu.",
+                "Vai hề trong tuồng tầu cũng xưng là sửu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chữ thứ hai trong hàng chi;",
+                "Hề, vai hề: 丑兒 Thằng hề;",
+                "Người xấu ác: 群丑破滅 Bọn ác bị tiêu diệt (Tấn thư: Đào Khản liệt truyện);",
+                "[Chôu] (Họ) Sửu. Xem 醜 (bộ 酉)."
+            ],
+            "compound_words": {
+                "丑時": "sửu thời",
+                "小丑": "tiểu sửu"
+            }
+        },
+        "xú": {
+            "Từ điển phổ thông": [
+                "xấu xa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chi thứ hai trong mười hai 'địa chi' 地支.",
+                "(Danh) Từ một giờ đêm đến ba giờ sáng là giờ 'Sửu' 丑. ◇Hồng Lâu Mộng 紅樓夢: 'Chấp sự thái giám khải đạo: Thì dĩ sửu chánh tam khắc, thỉnh giá hồi loan' 執事太監啟道: 時已丑正三刻, 請駕回鑾 (Đệ thập bát hồi) Viên thái giám chấp sự tâu: Đã đến giờ sửu ba khắc, mời loan giá về cung.",
+                "(Danh) Vai hề trong tuồng Tàu. ◇Hồng Lâu Mộng 紅樓夢: 'Diệc như kịch trung chi tiểu sửu nhiên' 亦如劇中之小丑然 (Đệ nhất hồi) Cũng như chú hề trong vở tuồng vậy.",
+                "(Danh) Họ 'Sửu'.",
+                "§ Giản thể của chữ 'xú' 醜."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xấu, xấu xí, xấu xa, xấu hổ, bẩn thỉu: 醜相 Tướng mạo xấu; 她長得不醜 Cô ta trông không xấu;",
+                "(văn) Có thể so sánh, giống: 今天下地醜德齊 Hiện trong thiên hạ đức giống nhau, đức ngang nhau (Mạnh tử);",
+                "(văn) Tù binh."
+            ]
+        }
+    }
+}

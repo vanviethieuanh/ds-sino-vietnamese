@@ -1,0 +1,117 @@
+{
+    "character": "拖",
+    "details": {
+        "Âm Hán Việt": [
+            "tha",
+            "đà"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘㐌"
+        ],
+        "Nét bút": [
+            "一丨一ノ一フ丨フ"
+        ],
+        "Thương Hiệt": [
+            "QOPD (手人心木)"
+        ],
+        "Unicode": [
+            "U+62D6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tuō ㄊㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "đà",
+            "đớ",
+            "tha"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タ (ta)",
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "타"
+        ],
+        "Âm Quảng Đông": [
+            "to1"
+        ]
+    },
+    "meanings": {
+        "tha": {
+            "Từ điển phổ thông": [
+                "kéo, lôi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kéo, dẫn. ◎Như: 'tha duệ' 拖拽 lôi kéo, 'hỏa xa đầu hậu diện tha trước thập tiết xa tương' 火車頭後面拖著十節車箱 đầu xe lửa kéo theo sau mười toa.",
+                "(Động) Liên lụy, dây dưa.",
+                "(Động) Đoạt lấy.",
+                "(Động) Ném xuống.",
+                "(Động) Buông, rủ, cụp. ◎Như: 'tha trước biện tử ' 拖著辮子 buông đuôi sam.",
+                "(Động) Kéo dài. ◎Như: 'tha diên' 拖延 trì hoãn, 'tha thì gian' 拖時間 kéo dài thời gian.",
+                "(Danh) Lượng từ: cái, chiếc. ◇Từ Mộng Sân 徐夢莘: 'Tuấn, Chánh đẳng khiển tây thành bách tính thủ thuyền, đắc lục thập dư tha' 俊政等遣西城百姓取船, 得六十餘拖 (Tam triêu bắc minh hội biên 三朝北盟會編, Quyển nhị tam nhất).",
+                "§ Ghi chú: Cũng đọc là 'đà'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kéo, cũng đọc là chư đà."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kéo, dắt: 把箱 子拖到這裡來 Kéo cái rương lại đây;",
+                "Kéo dài, ngâm tôm: 這件事拖了幾個月 Việc này đã kéo dài mất mấy tháng rồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như hai chữ Tha 拕, 扡 — Chiếm đoạt."
+            ],
+            "compound_words": {
+                "拖延": "tha diên",
+                "拖鞋": "tha hài",
+                "拖拉": "tha lạp",
+                "拖車": "tha xa",
+                "拖车": "tha xa"
+            }
+        },
+        "đà": {
+            "Từ điển trích dẫn": [
+                "(Động) Kéo, dẫn. ◎Như: 'tha duệ' 拖拽 lôi kéo, 'hỏa xa đầu hậu diện tha trước thập tiết xa tương' 火車頭後面拖著十節車箱 đầu xe lửa kéo theo sau mười toa.",
+                "(Động) Liên lụy, dây dưa.",
+                "(Động) Đoạt lấy.",
+                "(Động) Ném xuống.",
+                "(Động) Buông, rủ, cụp. ◎Như: 'tha trước biện tử ' 拖著辮子 buông đuôi sam.",
+                "(Động) Kéo dài. ◎Như: 'tha diên' 拖延 trì hoãn, 'tha thì gian' 拖時間 kéo dài thời gian.",
+                "(Danh) Lượng từ: cái, chiếc. ◇Từ Mộng Sân 徐夢莘: 'Tuấn, Chánh đẳng khiển tây thành bách tính thủ thuyền, đắc lục thập dư tha' 俊政等遣西城百姓取船, 得六十餘拖 (Tam triêu bắc minh hội biên 三朝北盟會編, Quyển nhị tam nhất).",
+                "§ Ghi chú: Cũng đọc là 'đà'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kéo, cũng đọc là chư đà."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kéo, dắt: 把箱 子拖到這裡來 Kéo cái rương lại đây;",
+                "Kéo dài, ngâm tôm: 這件事拖了幾個月 Việc này đã kéo dài mất mấy tháng rồi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dắt. Kéo — Đem tới — Thòng xuống."
+            ],
+            "compound_words": {
+                "拖刀": "đà đao",
+                "拖累": "đà luỵ"
+            }
+        }
+    }
+}

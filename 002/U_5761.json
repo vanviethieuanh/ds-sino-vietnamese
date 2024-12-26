@@ -1,0 +1,96 @@
+{
+    "character": "坡",
+    "details": {
+        "Âm Hán Việt": [
+            "ba",
+            "pha"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thổ 土 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土皮"
+        ],
+        "Nét bút": [
+            "一丨一フノ丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "GDHE (土木竹水)"
+        ],
+        "Unicode": [
+            "U+5761"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pí ㄆㄧˊ",
+            "pō ㄆㄛ"
+        ],
+        "Âm Nôm": [
+            "bờ",
+            "da",
+            "pha",
+            "phơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハ (ha)",
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつ.み (tsutsu.mi)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "bo1",
+            "po1"
+        ]
+    },
+    "meanings": {
+        "ba": {
+            "Từ điển trích dẫn": [
+                "(Danh) Dốc, chỗ địa thế nghiêng dốc. ◎Như: 'san pha' 山坡 dốc núi, sườn núi, 'há pha' 下坡 xuống dốc, 'đẩu pha' 陡坡 dốc đứng (cũng gọi là 'tà pha' 斜坡), 'hoãn pha' 緩坡 dốc thoai thoải.",
+                "(Tính) Nghiêng, dốc. ◎Như: 'pha độ' 坡度 độ nghiêng.",
+                "§ Còn có âm là 'ba'. ◎Như: 'Tân Gia Ba' 新加坡."
+            ],
+            "compound_words": {
+                "新加坡": "tân gia ba"
+            }
+        },
+        "pha": {
+            "Từ điển phổ thông": [
+                "dốc, nghiêng, chếch",
+                "cái dốc, sườn núi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dốc, chỗ địa thế nghiêng dốc. ◎Như: 'san pha' 山坡 dốc núi, sườn núi, 'há pha' 下坡 xuống dốc, 'đẩu pha' 陡坡 dốc đứng (cũng gọi là 'tà pha' 斜坡), 'hoãn pha' 緩坡 dốc thoai thoải.",
+                "(Tính) Nghiêng, dốc. ◎Như: 'pha độ' 坡度 độ nghiêng.",
+                "§ Còn có âm là 'ba'. ◎Như: 'Tân Gia Ba' 新加坡."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sườn núi. Chỗ hình đất cao thấp nghiêng lệch mà vẫn liền vào nhau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sườn núi;",
+                "Dốc, nghiêng, mái: 上坡 Lên dốc; 下坡 Xuống dốc; 陡坡 Dốc đứng; 斜坡 Dốc thoai thoải; 車下急坡 Xe đổ dốc; 爬坡 Leo dốc; 板子坡着放 Tấm ván đặt nghiêng; 前坡 Mái trước; 後坡 Mái sau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ đất nghiêng dốc — Sườn đồi núi."
+            ],
+            "compound_words": {
+                "阿坡羅": "a pha la"
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "character": "计",
+    "details": {
+        "Âm Hán Việt": [
+            "kê",
+            "kế"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "ngôn 言 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠十"
+        ],
+        "Nét bút": [
+            "丶フ一丨"
+        ],
+        "Thương Hiệt": [
+            "IVJ (戈女十)"
+        ],
+        "Unicode": [
+            "U+8BA1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "kê"
+        ],
+        "Âm Quảng Đông": [
+            "gai3"
+        ]
+    },
+    "meanings": {
+        "kê": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 計."
+            ]
+        },
+        "kế": {
+            "Từ điển phổ thông": [
+                "mưu kế, kế sách"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 計."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 計"
+            ],
+            "compound_words": {
+                "估计": "cổ kế",
+                "电脑辅助设计": "điện não phụ trợ thiết kế",
+                "计划": "kế hoạch",
+                "巧计": "xảo kế"
+            }
+        }
+    }
+}

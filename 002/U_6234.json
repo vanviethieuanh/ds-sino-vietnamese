@@ -1,0 +1,101 @@
+{
+    "character": "戴",
+    "details": {
+        "Âm Hán Việt": [
+            "đái",
+            "đới"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "qua 戈 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿹𢦏異"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一丨一一丨丨一ノ丶フノ丶"
+        ],
+        "Thương Hiệt": [
+            "JIWTC (十戈田廿金)"
+        ],
+        "Unicode": [
+            "U+6234"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ"
+        ],
+        "Âm Nôm": [
+            "dải",
+            "đái",
+            "trải"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いただ.く (itada.ku)"
+        ],
+        "Âm Hàn": [
+            "대"
+        ],
+        "Âm Quảng Đông": [
+            "daai3"
+        ]
+    },
+    "meanings": {
+        "đái": {
+            "Từ điển phổ thông": [
+                "đội (mũ)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đội, đeo. ◎Như: 'đái mạo tử' 戴帽子 đội mũ, 'đái nhãn kính' 戴眼鏡 đeo kính. ◇Thủy hử truyện 水滸傳: 'Đầu cân dĩ tự xả toái, thả nã cá chiên lạp tử dữ tha đái thượng' 頭巾已自扯碎, 且拿個氈笠子與他戴上 (Đệ tam thập nhất hồi) Khăn đầu đã bị xé rách, bèn đội cho chàng chiếc nón chiên.",
+                "(Động) Tôn kính, quý trọng. ◎Như: 'ái đái' 愛戴 yêu kính."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðội, phàm để cái gì lên đầu mà đội đều gọi là đái.",
+                "Tôn kính, như ái đái 愛戴 yêu chuộng, yêu mà bốc người lên gọi là ái đái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đội, đeo: 戴帽 子 Đội mũ; 戴眼鏡 Đeo kính;",
+                "Kính (trọng), quý trọng: 愛戴 Kính yêu; 擁戴 Ủng hộ và quý trọng;",
+                "[Dài] (Họ) Đái, Đới."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đội trên đầu — Thờ phụng. Tôn kính."
+            ],
+            "compound_words": {
+                "愛戴": "ái đái",
+                "不共戴天": "bất cộng đái thiên",
+                "戴白": "đái bạch",
+                "戴高帽": "đái cao mạo",
+                "戴天履地": "đái thiên lí địa",
+                "戴罪立功": "đái tội lập công",
+                "負戴": "phụ đái"
+            }
+        },
+        "đới": {
+            "Từ điển phổ thông": [
+                "đội (mũ)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đội, đeo: 戴帽 子 Đội mũ; 戴眼鏡 Đeo kính;",
+                "Kính (trọng), quý trọng: 愛戴 Kính yêu; 擁戴 Ủng hộ và quý trọng;",
+                "[Dài] (Họ) Đái, Đới."
+            ],
+            "compound_words": {
+                "不共戴天": "bất cộng đới thiên"
+            }
+        }
+    }
+}

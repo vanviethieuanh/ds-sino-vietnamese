@@ -1,0 +1,82 @@
+{
+    "character": "喇",
+    "details": {
+        "Âm Hán Việt": [
+            "lạt"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口剌"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一丨ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "RDLN (口木中弓)"
+        ],
+        "Unicode": [
+            "U+5587"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lā ㄌㄚ",
+            "lǎ ㄌㄚˇ"
+        ],
+        "Âm Nôm": [
+            "lạt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラツ (ratsu)",
+            "ラ (ra)"
+        ],
+        "Âm Hàn": [
+            "랄",
+            "라",
+            "나"
+        ],
+        "Âm Quảng Đông": [
+            "laa1"
+        ]
+    },
+    "meanings": {
+        "lạt": {
+            "Từ điển phổ thông": [
+                "(xem: lạt bá 喇叭)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'lạt bá' 喇叭.",
+                "(Danh) § Xem 'lạt ma' 喇嘛.",
+                "(Trạng thanh) Lất phất, phần phật (tiếng gió, mưa)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lạt bá 喇叭 cái loa.",
+                "Lạt ma 喇嘛 hiệu riêng của nhà sư ở Tây-tạng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【喇叭】lạt bá [lăba] a. (nhạc) Kèn: 吹喇叭 Thổi kèn; b. Còi 汽車喇叭 Còi ô tô; c. Loa: 無線電喇叭 Loa phóng thanh;",
+                "【喇嘛】lạt ma [lăma] (tôn) Lạt-ma (từ tôn xưng những tăng lữ đạo Lạt-ma). Xem 喇 [lá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Lạt bát 喇叭, Lạt ma 喇嘛."
+            ],
+            "compound_words": {
+                "達賴喇嘛": "đạt lai lạt ma",
+                "喇叭": "lạt bát",
+                "喇嘛": "lạt ma"
+            }
+        }
+    }
+}

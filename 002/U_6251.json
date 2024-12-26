@@ -1,0 +1,105 @@
+{
+    "character": "扑",
+    "details": {
+        "Âm Hán Việt": [
+            "phác",
+            "phốc"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thủ 手 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘卜"
+        ],
+        "Nét bút": [
+            "一丨一丨丶"
+        ],
+        "Thương Hiệt": [
+            "QY (手卜)"
+        ],
+        "Unicode": [
+            "U+6251"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bū ㄅㄨ",
+            "pū ㄆㄨ"
+        ],
+        "Âm Nôm": [
+            "bốc",
+            "buộc",
+            "buốt",
+            "phác",
+            "phốc",
+            "vọc",
+            "vục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボク (boku)",
+            "ハク (haku)",
+            "ホウ (hō)",
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かるくう.つ (karukū.tsu)",
+            "むちう.つ (muchiu.tsu)"
+        ],
+        "Âm Hàn": [
+            "복"
+        ],
+        "Âm Quảng Đông": [
+            "pok3"
+        ]
+    },
+    "meanings": {
+        "phác": {
+            "Từ điển phổ thông": [
+                "đánh, dập tắt",
+                "đánh trượng",
+                "phẩy qua",
+                "đổ ngã"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đập, đánh. ◎Như: 'tiên phốc' 鞭扑 đánh roi. ◇Sử Kí 史記: '(Cao Tiệm Li) cử trúc phốc Tần Hoàng Đế, bất trúng' (高漸離)舉筑扑秦皇帝, 不中 (Kinh Kha truyện 荊軻傳) (Cao Tiệm Li) giơ cái đàn trúc đánh Tần Thủy Hoàng, không trúng.",
+                "(Động) Đánh bại, đánh ngã. § Thông 'phó' 仆. ◇Sử Kí 史記: 'Tần phá Hàn Ngụy, phốc Sư Vũ' 秦破韓魏, 扑師武 (Chu bổn kỉ 周本紀) Tần phá vỡ Hàn Ngụy, đánh bại Sư Vũ.",
+                "(Danh) Cái 'phốc', dùng để đánh người. ◇Thư Kinh 書經: 'Tiên tác quan hình, phốc tác giáo hình' 鞭作官刑, 扑作教刑 (Thuấn điển 舜典) Roi dùng làm hình phạt của quan, phốc dùng để đánh mà dạy dỗ.",
+                "§ Giản thể của chữ 撲.",
+                "§ Cũng đọc là 'phác'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 撲"
+            ]
+        },
+        "phốc": {
+            "Từ điển trích dẫn": [
+                "(Động) Đập, đánh. ◎Như: 'tiên phốc' 鞭扑 đánh roi. ◇Sử Kí 史記: '(Cao Tiệm Li) cử trúc phốc Tần Hoàng Đế, bất trúng' (高漸離)舉筑扑秦皇帝, 不中 (Kinh Kha truyện 荊軻傳) (Cao Tiệm Li) giơ cái đàn trúc đánh Tần Thủy Hoàng, không trúng.",
+                "(Động) Đánh bại, đánh ngã. § Thông 'phó' 仆. ◇Sử Kí 史記: 'Tần phá Hàn Ngụy, phốc Sư Vũ' 秦破韓魏, 扑師武 (Chu bổn kỉ 周本紀) Tần phá vỡ Hàn Ngụy, đánh bại Sư Vũ.",
+                "(Danh) Cái 'phốc', dùng để đánh người. ◇Thư Kinh 書經: 'Tiên tác quan hình, phốc tác giáo hình' 鞭作官刑, 扑作教刑 (Thuấn điển 舜典) Roi dùng làm hình phạt của quan, phốc dùng để đánh mà dạy dỗ.",
+                "§ Giản thể của chữ 撲.",
+                "§ Cũng đọc là 'phác'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðập. Ðánh sẽ gọi là phốc.",
+                "Cái phốc, một thứ đồ dùng để đánh người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đánh. Dùng roi, gậy mà đánh."
+            ],
+            "compound_words": {
+                "扑落": "phốc lạc",
+                "扑罰": "phốc phạt"
+            }
+        }
+    }
+}

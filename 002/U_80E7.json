@@ -1,0 +1,70 @@
+{
+    "character": "胧",
+    "details": {
+        "Âm Hán Việt": [
+            "long",
+            "lung",
+            "lông"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月龙"
+        ],
+        "Nét bút": [
+            "ノフ一一一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "BIKP (月戈大心)"
+        ],
+        "Unicode": [
+            "U+80E7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lóng ㄌㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "lung"
+        ],
+        "Âm Quảng Đông": [
+            "lung4"
+        ]
+    },
+    "meanings": {
+        "long": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 朧"
+            ]
+        },
+        "lung": {
+            "Từ điển phổ thông": [
+                "(xem: mông lung 朦朧,曚曨,朦胧)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 朧"
+            ],
+            "compound_words": {
+                "膧胧": "đồng lung",
+                "朦胧": "mông lung"
+            }
+        },
+        "lông": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 朧."
+            ]
+        }
+    }
+}

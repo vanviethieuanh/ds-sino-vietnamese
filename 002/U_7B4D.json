@@ -1,0 +1,133 @@
+{
+    "character": "筍",
+    "details": {
+        "Âm Hán Việt": [
+            "duẩn",
+            "duẫn",
+            "tuân",
+            "tuẩn",
+            "tuận",
+            "tấn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trúc 竹 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮旬"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノフ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "HPA (竹心日)"
+        ],
+        "Unicode": [
+            "U+7B4D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "sǔn ㄙㄨㄣˇ",
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュン (jun)",
+            "シュン (shun)",
+            "イン (in)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たけのこ (takenoko)",
+            "たかんな (takan na)"
+        ],
+        "Âm Hàn": [
+            "순"
+        ],
+        "Âm Quảng Đông": [
+            "seon2"
+        ]
+    },
+    "meanings": {
+        "duẩn": {
+            "Từ điển phổ thông": [
+                "măng tre"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Măng tre. ◇Lỗ Tấn 魯迅: 'Kháo tây tường thị trúc tùng, hạ diện hứa đa duẩn' 靠西牆是竹叢, 下面許多筍 (A Q chánh truyện 阿Q正傳) Sát bên tường phía tây là bụi tre, ở dưới có nhiều măng.",
+                "(Danh) Xà ngang để treo chuông, khánh.",
+                "(Danh) Vật có hình trạng như măng. ◎Như: 'thạch duẩn' 石筍 thạch nhũ.",
+                "(Danh) Ngàm gỗ để cho vào mộng. Thông 'chuẩn' 榫.",
+                "(Tính) Non (tiếng địa phương bắc Trung Quốc). ◎Như: 'duẩn kê' 筍雞 gà giò, 'duẩn áp' 筍鴨 vịt non.",
+                "Một âm là 'tấn'. (Danh) Xe bằng trúc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Măng tre.",
+                "Cái sà ngang để treo chuông khánh.",
+                "Một âm là tấn. Cái xe bằng trúc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Măng tre: 筍干 Măng khô;",
+                "Non: 筍鴨 Vịt non;",
+                "(văn) Cây xà ngang để treo chuông khánh (như 簨)."
+            ],
+            "compound_words": {
+                "春筍": "xuân duẩn"
+            }
+        },
+        "duẫn": {
+            "Từ điển phổ thông": [
+                "măng tre"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Duẫn 笋."
+            ],
+            "compound_words": {
+                "玉筍": "ngọc duẫn"
+            }
+        },
+        "tuân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Măng tre. Mụt măng. Ta quen đọc Doãn, hoặc Duẫn."
+            ]
+        },
+        "tuẩn": {
+            "Từ điển Trần Văn Chánh": [
+                "Măng tre: 筍干 Măng khô;",
+                "Non: 筍鴨 Vịt non;",
+                "(văn) Cây xà ngang để treo chuông khánh (như 簨)."
+            ]
+        },
+        "tuận": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xe bằng tre."
+            ]
+        },
+        "tấn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Măng tre. ◇Lỗ Tấn 魯迅: 'Kháo tây tường thị trúc tùng, hạ diện hứa đa duẩn' 靠西牆是竹叢, 下面許多筍 (A Q chánh truyện 阿Q正傳) Sát bên tường phía tây là bụi tre, ở dưới có nhiều măng.",
+                "(Danh) Xà ngang để treo chuông, khánh.",
+                "(Danh) Vật có hình trạng như măng. ◎Như: 'thạch duẩn' 石筍 thạch nhũ.",
+                "(Danh) Ngàm gỗ để cho vào mộng. Thông 'chuẩn' 榫.",
+                "(Tính) Non (tiếng địa phương bắc Trung Quốc). ◎Như: 'duẩn kê' 筍雞 gà giò, 'duẩn áp' 筍鴨 vịt non.",
+                "Một âm là 'tấn'. (Danh) Xe bằng trúc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Măng tre.",
+                "Cái sà ngang để treo chuông khánh.",
+                "Một âm là tấn. Cái xe bằng trúc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xe bằng tre."
+            ]
+        }
+    }
+}

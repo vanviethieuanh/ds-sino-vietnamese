@@ -1,0 +1,81 @@
+{
+    "character": "赦",
+    "details": {
+        "Âm Hán Việt": [
+            "xá"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "xích 赤 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰赤攵"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨ノ丶ノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "GCOK (土金人大)"
+        ],
+        "Unicode": [
+            "U+8D66"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ",
+            "shè ㄕㄜˋ"
+        ],
+        "Âm Nôm": [
+            "tha",
+            "xá",
+            "xoá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "se3"
+        ]
+    },
+    "meanings": {
+        "xá": {
+            "Từ điển phổ thông": [
+                "tha tội"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Tha, tha cho kẻ có tội. ◎Như: “đại xá thiên hạ” 大赦天下 cả tha cho thiên hạ. § Mỗi khi vua lên ngôi hay có việc mừng lớn của nhà vua thì tha tội cho các tù phạm và thuế má gọi là “đại xá thiên hạ”."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tha, tha cho kẻ có tội gọi là xá, như đại xá thiên hạ 大赦天下 tha cho cả thiên hạ. Mỗi khi vua lên ngôi hay có việc mừng lớn của nhà vua thì tha tội cho các tù phạm và thuế má gọi là đại xá thiên hạ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "tha tội, xá tội: 特赦 Đặc xá; 赦罪 Xá tội."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thả ra — Tha cho. Td: Ân xá."
+            ],
+            "compound_words": {
+                "恩赦": "ân xá",
+                "大赦": "đại xá",
+                "三赦": "tam xá",
+                "赦免": "xá miễn",
+                "赦過": "xá quá",
+                "赦書": "xá thư",
+                "赦罪": "xá tội"
+            }
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "character": "水",
+    "details": {
+        "Âm Hán Việt": [
+            "thuỷ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "E (水)"
+        ],
+        "Unicode": [
+            "U+6C34"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shuǐ ㄕㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "thuỷ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みず (mizu)",
+            "みず- (mizu-)"
+        ],
+        "Âm Hàn": [
+            "수"
+        ],
+        "Âm Quảng Đông": [
+            "seoi2"
+        ]
+    },
+    "meanings": {
+        "thuỷ": {
+            "Từ điển phổ thông": [
+                "nước",
+                "sao Thuỷ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nước.",
+                "(Danh) Chất lỏng. ◎Như: 'dược thủy' 藥水 thuốc nước, 'nịnh mông thủy' 檸檬水 nước chanh.",
+                "(Danh) Chỉ chung: sông, hồ, ngòi, khe, suối, v.v.",
+                "(Danh) Sao 'Thủy', một ngôi sao ở gần mặt trời nhất.",
+                "(Danh) Tiền thu nhập thêm, tiền phụ thêm. ◎Như: 'ngoại thủy' 外水 thu nhập thêm, 'thiếp thủy' 貼水 khoản bù chênh lệnh.",
+                "(Danh) Lượng từ: lần, nước (số lần giặt rửa). ◎Như: 'tẩy liễu kỉ thủy' 洗了幾水 đã rửa mấy nước.",
+                "(Danh) Họ 'Thủy'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước.",
+                "Sông, ngòi, khe, suối, phàm cái gì bởi nước mà thành ra đều gọi là thuỷ.",
+                "Sao Thuỷ, một ngôi sao ở gần mặt trời nhất.",
+                "Bạc đúc có thứ tốt thứ kém, gia giảm cho nó đều gọi là thân thuỷ 申水, thiếp thuỷ 貼水, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nước: 雨水 Nước mưa; 藥水 Thuốc nước; 魚之有水 Cá gặp nước;",
+                "Sông, hồ, biển: 漢水 Sông Hán Thuỷ; 湘水 Sông Tương; 水陸 Đường bộ và đường thuỷ;",
+                "Trình độ, mức: 文化水平 Trình độ văn hoá; 生活水平 Mức sống;",
+                "Tên chức quan thời xưa;",
+                "[Shuê] Tên một dân tộc ít người của Trung Quốc (ở tỉnh Quý Châu): 水族 Dân tộc Thuỷ;",
+                "[Shuê] Sao Thuỷ;",
+                "[Shuê] (Họ) Thuỷ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước — Tên một ngôi sao, tức Thuỷ tinh — Một trong Ngũ hành ( Kim, Mộc, Thuỷ, Hoả Thổ ) — Tên bộ chữ Hán, tức bộ Thuỷ."
+            ],
+            "compound_words": {
+                "陰陽水": "âm dương thuỷ",
+                "飲水思源": "ẩm thuỷ tư nguyên",
+                "溵水": "ân thuỷ",
+                "灞水": "bá thuỷ",
+                "白开水": "bạch khai thuỷ",
+                "白開水": "bạch khai thuỷ",
+                "白水": "bạch thuỷ",
+                "排水": "bài thuỷ",
+                "浿水": "bái thuỷ",
+                "高山流水": "cao sơn lưu thuỷ",
+                "吃水": "cật thuỷ",
+                "針沈水底": "châm trầm thuỷ để",
+                "枝水": "chi thuỷ",
+                "淫水": "dâm thuỷ",
+                "引水": "dẫn thuỷ",
+                "藥水": "dược thuỷ",
+                "大洪水": "đại hồng thuỷ",
+                "點水": "điểm thuỷ",
+                "停水": "đình thuỷ",
+                "蛟龍得水": "giao long đắc thuỷ",
+                "黑水": "hắc thuỷ",
+                "洪水": "hồng thuỷ",
+                "浠水": "hy thuỷ",
+                "經水": "kinh thuỷ",
+                "涞水": "lai thuỷ",
+                "淶水": "lai thuỷ",
+                "流水": "lưu thuỷ",
+                "滿頭霧水": "mãn đầu vụ thuỷ",
+                "墨水": "mặc thuỷ",
+                "逆水": "nghịch thuỷ",
+                "魚水": "ngư thuỷ",
+                "弱水": "nhược thuỷ",
+                "溫水": "ôn thuỷ",
+                "法水": "pháp thuỷ",
+                "沸水": "phí thuỷ",
+                "付之流水": "phó chi lưu thuỷ",
+                "沣水": "phong thuỷ",
+                "灃水": "phong thuỷ",
+                "風水": "phong thuỷ",
+                "潙水": "quy thuỷ",
+                "癸水": "quý thuỷ",
+                "絳水": "ráng thuỷ",
+                "山高水長": "sơn cao thuỷ trường",
+                "山窮水盡": "sơn cùng thuỷ tận",
+                "山水": "sơn thuỷ",
+                "山水畫": "sơn thuỷ hoạ",
+                "衰山敗水": "suy sơn bại thuỷ",
+                "心水": "tâm thuỷ",
+                "薪水": "tân thuỷ",
+                "清水": "thanh thuỷ",
+                "深水": "thâm thuỷ",
+                "逝水": "thệ thuỷ",
+                "千山萬水": "thiên sơn vạn thuỷ",
+                "秋水": "thu thuỷ",
+                "水兵": "thuỷ binh",
+                "水平": "thuỷ bình",
+                "水道": "thuỷ đạo",
+                "水痘": "thuỷ đậu",
+                "水底撈針": "thuỷ để lao châm",
+                "水蛭": "thuỷ điệt",
+                "水亭": "thuỷ đình",
+                "水餃": "thuỷ giảo",
+                "水行": "thuỷ hành",
+                "水雞子": "thuỷ kê tử",
+                "水鸡子": "thuỷ kê tử",
+                "水老鴉": "thuỷ lão nha",
+                "水老鸦": "thuỷ lão nha",
+                "水路": "thuỷ lộ",
+                "水雷": "thuỷ lôi",
+                "水利": "thuỷ lợi",
+                "水陸": "thuỷ lục",
+                "水陸道場": "thuỷ lục đạo tràng",
+                "水陸法會": "thuỷ lục pháp hội",
+                "水陸齋": "thuỷ lục trai",
+                "水墨": "thuỷ mặc",
+                "水泥": "thuỷ nê",
+                "水銀": "thuỷ ngân",
+                "水银": "thuỷ ngân",
+                "水牛": "thuỷ ngưu",
+                "水烏他": "thuỷ ô tha",
+                "水飛機": "thuỷ phi cơ",
+                "水軍": "thuỷ quân",
+                "水國": "thuỷ quốc",
+                "水產": "thuỷ sản",
+                "水師": "thuỷ sư",
+                "水災": "thuỷ tai",
+                "水臍": "thuỷ tề",
+                "水神": "thuỷ thần",
+                "水土": "thuỷ thổ",
+                "水手": "thuỷ thủ",
+                "水仙": "thuỷ tiên",
+                "水星": "thuỷ tinh",
+                "水晶": "thuỷ tinh",
+                "水族": "thuỷ tộc",
+                "水潮": "thuỷ triều",
+                "水程": "thuỷ trình",
+                "水運": "thuỷ vận",
+                "水車": "thuỷ xa",
+                "滴水穿石": "tích thuỷ xuyên thạch",
+                "潛水艇": "tiềm thuỷ đĩnh",
+                "信水": "tín thuỷ",
+                "蜻蜓點水": "tinh đình điểm thuỷ",
+                "治水": "trị thuỷ",
+                "湞水": "trinh thuỷ",
+                "自來水": "tự lai thuỷ",
+                "自来水": "tự lai thuỷ",
+                "壅水": "úng thuỷ",
+                "雲水": "vân thuỷ",
+                "鄢水": "yển thuỷ"
+            }
+        }
+    }
+}

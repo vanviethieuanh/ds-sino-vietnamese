@@ -1,0 +1,99 @@
+{
+    "character": "右",
+    "details": {
+        "Âm Hán Việt": [
+            "hữu"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸𠂇口"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "KR (大口)"
+        ],
+        "Unicode": [
+            "U+53F3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yòu ㄧㄡˋ"
+        ],
+        "Âm Nôm": [
+            "hữu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウ (u)",
+            "ユウ (yū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みぎ (migi)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jau6"
+        ]
+    },
+    "meanings": {
+        "hữu": {
+            "Từ điển phổ thông": [
+                "bên phải"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bên phải. ◎Như: 'tiền hậu tả hữu' 前後左右 trước sau trái phải.",
+                "(Danh) Hướng tây. ◎Như: 'sơn hữu' 山右 phía tây núi, 'giang hữu' 江右 phía tây sông.",
+                "(Danh) Bên trên, địa vị được coi trọng. § Đời xưa cho bên phải là trên. Vì thế họ sang gọi là 'hữu tộc' 右族, nhà hào cường gọi là 'hào hữu' 豪右. ◇Sử Kí 史記: 'Kí bãi quy quốc, dĩ Tương Như công đại, bái vi thượng khanh, vị tại Liêm Pha chi hữu' 既罷歸國, 以相如功大, 拜為上卿, 位在廉頗之右 (Liêm Pha Lạn Tương Như truyện 廉頗藺相如傳) Xong trở về nước, vì Tương Như có công to, được phong làm thượng khanh, ở bậc trên Liêm Pha.",
+                "(Danh) Họ 'Hữu'.",
+                "(Động) Giúp. § Thông 'hữu' 佑. ◇Tả truyện 左傳: 'Thiên tử sở hữu, quả quân diệc hữu chi' 天子所右, 寡君亦右之 (Tương Công thập niên 襄公十年) Chỗ mà thiên tử giúp, vua ta đây cũng giúp được.",
+                "(Động) Thân gần, che chở. ◇Chiến quốc sách 戰國策: 'Diễn tương hữu Hàn nhi tả Ngụy' 衍將右韓而左魏 (Ngụy sách nhị 魏策二) Diễn sẽ thân với nước Hàn mà xa với nước Ngụy.",
+                "(Động) Tôn sùng. ◎Như: 'hữu văn hữu vũ' 右文右武 trọng văn trọng võ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bên phải.",
+                "Giúp, cũng như chữ hữu 佑. Như bảo hữu 保右 giúp giữ.",
+                "Bên trên. Ðời xưa cho bên phải là trên. Như hữu văn hữu vũ 右文右武 trọng văn trọng võ. Vì thế nên họ sang gọi là hữu tộc 右族, nhà hào cường gọi là hào hữu 豪右, v.v.",
+                "Phương tây. Như Sơn hữu 山右 tức là Sơn-tây. Giang hữu 江右 tức là Giang-tây."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bên phải, bên tay phải, phía hữu: 向右拐 Rẽ tay phải;",
+                "Phía tây (khi mặt hướng về phía nam): 江右 Phía tây sông;",
+                "Phía trên (người xưa coi phía hữu là phía trên): 無出其右 Không còn ai hơn nữa;",
+                "Bảo thủ hoặc phản động (về tư tưởng và chính trị): 右傾觀點 Quan điểm hữu khuynh;",
+                "Giúp (dùng như 佑, bộ 亻)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bên phải. Tay mặt — Giúp đỡ."
+            ],
+            "compound_words": {
+                "極右": "cực hữu",
+                "右边": "hữu biên",
+                "右邊": "hữu biên",
+                "右翼": "hữu dực",
+                "右列": "hữu liệt",
+                "右岸": "hữu ngạn",
+                "右派": "hữu phái",
+                "右手": "hữu thủ",
+                "左右": "tả hữu",
+                "左思右想": "tả tư hữu tưởng",
+                "左衝右突": "tả xung hữu đột"
+            }
+        }
+    }
+}

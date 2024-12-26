@@ -1,0 +1,91 @@
+{
+    "character": "雎",
+    "details": {
+        "Âm Hán Việt": [
+            "sư",
+            "thư"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "chuy 隹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰且隹"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丨丶一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "BMOG (月一人土)"
+        ],
+        "Unicode": [
+            "U+96CE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jū ㄐㄩ"
+        ],
+        "Âm Nôm": [
+            "thư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "zeoi1"
+        ]
+    },
+    "meanings": {
+        "sư": {
+            "Từ điển phổ thông": [
+                "(xem: thư cưu 雎鳩,雎鸠)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Sư cưu' 雎鳩 chim sư cưu, tính dữ tợn mà biết phân biệt, nên Thiếu Hiệu mới lấy các loài chim mà đặt tên quan, quan Tư Mã chủ về việc chế ra hình phép, gọi là 'sư cưu thị' 雎鳩氏. Giống chim sư cưu, con mái con trống thường đi theo nhau mà không đùa bỡn nhau. ◇Thi Kinh 詩經 có thơ 'Quan quan sư cưu' 關關雎鳩 (Quan thư 關雎) ví như người quân tử kết đôi vợ chồng.",
+                "§ Ta quen đọc là 'thư'. ◎Như: 'thư ngạc' 雎鶚 chim ưng biển."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sư cưu 雎鳩 con chim sư cưu, tính nó dữ tợn mà có phân biệt, nên họ Thiếu Hiệu mới lấy các loài chim mà đặt tên quan, quan Tư Mã chủ về việc chế ra hình phép, gọi là sư cưu thị 雎鳩氏. Giống chim sư cưu, con mái con trống thường đi theo nhau mà không có đùa bỡn nhau, cho nên thơ quan quan sư cưu 關關雎鳩 ví như người quân tử kết đôi vợ chồng. Xem chữ 鶚 ở dưới. Ta quen đọc là chữ thư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sư cưu: 雎鳩 Tên một loài chim nhỏ, con trống con mái phân biệt được. Chỉ đôi lứa tốt đẹp. Cũng đọc Thư cưu."
+            ],
+            "compound_words": {
+                "雎鳩": "sư cưu",
+                "雎鸠": "sư cưu"
+            }
+        },
+        "thư": {
+            "Từ điển phổ thông": [
+                "(xem: thư cưu 雎鳩,雎鸠)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Sư cưu' 雎鳩 chim sư cưu, tính dữ tợn mà biết phân biệt, nên Thiếu Hiệu mới lấy các loài chim mà đặt tên quan, quan Tư Mã chủ về việc chế ra hình phép, gọi là 'sư cưu thị' 雎鳩氏. Giống chim sư cưu, con mái con trống thường đi theo nhau mà không đùa bỡn nhau. ◇Thi Kinh 詩經 có thơ 'Quan quan sư cưu' 關關雎鳩 (Quan thư 關雎) ví như người quân tử kết đôi vợ chồng.",
+                "§ Ta quen đọc là 'thư'. ◎Như: 'thư ngạc' 雎鶚 chim ưng biển."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Sư cưu 雎鳩 con chim sư cưu, tính nó dữ tợn mà có phân biệt, nên họ Thiếu Hiệu mới lấy các loài chim mà đặt tên quan, quan Tư Mã chủ về việc chế ra hình phép, gọi là sư cưu thị 雎鳩氏. Giống chim sư cưu, con mái con trống thường đi theo nhau mà không có đùa bỡn nhau, cho nên thơ quan quan sư cưu 關關雎鳩 ví như người quân tử kết đôi vợ chồng. Xem chữ 鶚 ở dưới. Ta quen đọc là chữ thư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Thư cưu 雎鳩."
+            ],
+            "compound_words": {
+                "雎鳩": "thư cưu",
+                "雎鸠": "thư cưu"
+            }
+        }
+    }
+}

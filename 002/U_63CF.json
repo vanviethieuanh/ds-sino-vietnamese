@@ -1,0 +1,90 @@
+{
+    "character": "描",
+    "details": {
+        "Âm Hán Việt": [
+            "miêu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘苗"
+        ],
+        "Nét bút": [
+            "一丨一一丨丨丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "QTW (手廿田)"
+        ],
+        "Unicode": [
+            "U+63CF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "miáo ㄇㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "miêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えが.く (ega.ku)",
+            "か.く (ka.ku)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "miu4"
+        ]
+    },
+    "meanings": {
+        "miêu": {
+            "Từ điển phổ thông": [
+                "phỏng vẽ, miêu tả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vẽ y theo dạng, vẽ phỏng theo. ◎Như: 'miêu tả' 描寫 dùng nét vẽ hoặc lời văn biểu hiện trạng thái, bối cảnh sự vật.",
+                "(Động) Tô, đồ theo. ◎Như: 'bất yếu miêu' 不要描 không được tô lại, 'việt miêu việt hắc' 越描越黑 càng tô càng đen."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phỏng vẽ, miêu tả, nghĩa là trông bức vẽ nào hay chữ nào mà vẽ phỏng ra, viết phỏng ra cho giống vậy. Cái ván trẻ con viết dạm (tô lại) cũng gọi là miêu hồng 描紅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đồ, vẽ theo (bức hoạ), miêu tả: 描圖 Đồ một bức hoạ;",
+                "Tô (cho rõ nét, cho đậm màu): 描紅 Tô hồng, tô (màu) đỏ; 不要描 Không nên tô đi tô lại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Theo mẫu có sẵn mà vẽ ra."
+            ],
+            "compound_words": {
+                "描图": "miêu đồ",
+                "描圖": "miêu đồ",
+                "描画": "miêu hoạ",
+                "描畫": "miêu hoạ",
+                "描繪": "miêu hội",
+                "描绘": "miêu hội",
+                "描紅": "miêu hồng",
+                "描红": "miêu hồng",
+                "描金": "miêu kim",
+                "描摹": "miêu mô",
+                "描写": "miêu tả",
+                "描寫": "miêu tả",
+                "描述": "miêu thuật"
+            }
+        }
+    }
+}

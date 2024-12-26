@@ -1,0 +1,91 @@
+{
+    "character": "諱",
+    "details": {
+        "Âm Hán Việt": [
+            "huý"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言韋"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ丨一丨フ一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "YRDMQ (卜口木一手)"
+        ],
+        "Unicode": [
+            "U+8AF1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "huý"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いみな (imina)",
+            "い.む (i.mu)"
+        ],
+        "Âm Hàn": [
+            "휘"
+        ],
+        "Âm Quảng Đông": [
+            "wai5"
+        ]
+    },
+    "meanings": {
+        "huý": {
+            "Từ điển phổ thông": [
+                "kiêng, kỵ huý",
+                "chết",
+                "tên huý (tên người đã chết)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kiêng kị, kiêng dè, kiêng nể. ◎Như: 'húy ngôn' 諱言 kiêng dè không nói. ◇Tống sử 宋史: 'Bình thì húy ngôn vũ bị' 平時諱言武備 (Phạm Trọng Yêm truyện 范仲淹傳) Thời bình kiêng nói việc binh.",
+                "(Động) Ngày xưa, tránh gọi tên bậc tôn trưởng để tỏ lòng kính trọng, gọi là 'húy danh' 諱名. ◇Mạnh Tử 孟子: 'Húy danh bất húy tính, tính sở đồng dã, danh sở độc dã' 諱名不諱姓, 姓所同也, 名所獨也 (Tận tâm hạ 盡心下) Kiêng tên không kiêng họ, họ thì có chung, tên chỉ có một.",
+                "(Động) Che giấu, tránh né. ◎Như: 'trực ngôn vô húy' 直言無諱 nói thẳng không che giấu, 'húy tật kị y' 諱疾忌醫 giấu bệnh tránh thuốc (che đậy điều sai trái mà không sửa chữa). ◇Khuất Nguyên 屈原: 'Ninh chánh ngôn bất húy dĩ nguy thân hồ, Tương tòng tục phú quý dĩ du sanh hồ' 寧正言不諱以危身乎, 將從俗富貴以媮生乎 (Sở từ 楚辭, Bốc cư 卜居) Có nên nói thẳng không tránh né để bị nguy mình không? (Hay là) theo thói giàu sang để cầu sống qua ngày cho yên thân?",
+                "(Động) 'Bất húy' 不諱 chết. § Ghi chú: Tiếng chết là tiếng người ta kiêng nên chết gọi là 'bất húy'.",
+                "(Danh) Sự che giấu. ◇Tân Đường Thư 新唐書: 'Trẫm luận công đẳng công, định phong ấp, khủng bất năng tận, vô hữu húy, các vị trẫm ngôn chi' 朕論公等功, 定封邑, 恐不能盡, 無有諱, 各為朕言之 (Phòng Huyền Linh truyện 房玄齡傳) Trẫm luận xét công lao của các ông, ấn định phong tước chia đất, sợ không thể trọn hết, không có sự gì che giấu, mỗi người xin vì trẫm mà nói ra.",
+                "(Danh) Tên của người đã mất. ◇Lễ Kí 禮記: 'Nhập môn nhi vấn húy' 入門而問諱 (Khúc lễ thượng 曲禮上) Vào cổng phải hỏi tên húy (của những người đã chết trong nhà)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kiêng, huý kị, có điều kiêng sợ mà phải giấu đi gọi là huý.",
+                "Chết, cũng gọi là bất huý 不諱. Tiếng chết là tiếng người ta kiêng nên gọi kẻ chết là bất huý.",
+                "Tên người sống gọi là danh, tên người chết gọi là huý. Như người ta nói kiêng tên huý, không dám gọi đúng tên mà gọi chạnh đi vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kiêng, kiêng nể, huý kị, kiêng kị, tránh: 直言不諱 Nói thẳng không kiêng nể;",
+                "(cũ) Tên huý (tên người chết), huý danh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ẩn giấu — Tránh né, kiêng cử — Tên của người chết."
+            ],
+            "compound_words": {
+                "諱名": "huý danh",
+                "諱忌": "huý kị",
+                "諱日": "huý nhật",
+                "忌諱": "kị huý",
+                "犯諱": "phạm huý",
+                "國諱": "quốc huý"
+            }
+        }
+    }
+}

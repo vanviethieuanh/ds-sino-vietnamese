@@ -1,0 +1,86 @@
+{
+    "character": "毘",
+    "details": {
+        "Âm Hán Việt": [
+            "bì",
+            "tì",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tỷ 比 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱田比"
+        ],
+        "Nét bút": [
+            "丨フ一丨一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "WPP (田心心)"
+        ],
+        "Unicode": [
+            "U+6BD8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pí ㄆㄧˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)",
+            "ビ (bi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たす.ける (tasu.keru)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "pei3",
+            "pei4"
+        ]
+    },
+    "meanings": {
+        "bì": {
+            "Từ điển phổ thông": [
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như chữ “bì” 毗."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ bì 毗."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 毗."
+            ]
+        },
+        "tì": {
+            "Từ điển trích dẫn": [
+                "1. Cũng như chữ “bì” 毗."
+            ],
+            "compound_words": {
+                "阿毘": "a tì"
+            }
+        },
+        "tỳ": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 毗."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tì 毗."
+            ]
+        }
+    }
+}

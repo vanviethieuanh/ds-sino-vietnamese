@@ -1,0 +1,93 @@
+{
+    "character": "廂",
+    "details": {
+        "Âm Hán Việt": [
+            "sương",
+            "tương"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广相"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨ノ丶丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "IDBU (戈木月山)"
+        ],
+        "Unicode": [
+            "U+5EC2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiāng ㄒㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "rương",
+            "sương",
+            "tương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひさし (hisashi)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "soeng1"
+        ]
+    },
+    "meanings": {
+        "sương": {
+            "Từ điển phổ thông": [
+                "mái nhà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chái nhà, hai gian nhỏ ở hai bên nhà chính. ◇Bạch Cư Dị 白居易: 'Kim khuyết tây sương khấu ngọc quynh' 金闕西廂叩玉扃 (Trường hận ca 長恨歌) Gõ cánh ngọc nơi cửa vàng hiên tây. Tản Đà dịch thơ: Mái tây gõ cửa vàng then ngọc. ◇Tây sương kí 西廂記: 'Nguyệt ám tây sương, phượng khứ Tần lâu, vân liễm Vu San' 月暗西廂, 鳳去秦樓, 雲斂巫山 (Đệ tam bổn 第三本, Đệ nhị chiết) Mịt mờ trăng tối mái tây, Mây tan đỉnh Giáp, phượng bay lầu Tần (Nhượng Tống dịch).",
+                "(Danh) Vùng gần sát thành phố. ◎Như: 'thành sương' 城廂 ven đô, 'quan sương' 關廂 phố ở ngoài cửa thành.",
+                "(Danh) Bên cạnh, phương diện (thường dùng trong tiểu thuyết, hí khúc cổ). ◎Như: 'lưỡng sương' 兩廂 hai bên. ◇Tây du kí 西遊記: 'Nhất bích sương khiếu đồ tử tể bác tê ngưu chi bì, tiêu thục huân can, chế tạo khải giáp' 一壁廂叫屠子宰剝犀牛之皮, 硝熟燻乾, 製造鎧甲 (Đệ cửu thập nhị hồi) Một bên gọi đồ tể lột da tê ngưu, thuộc hun phơi khô, chế làm áo giáp.",
+                "(Danh) Khán đài giành riêng trong rạp hát, hí viện. ◎Như: 'bao sương' 包廂 đặt chỗ khán đài riêng (tiếng Pháp: loge).",
+                "(Danh) Toa, hòm. § Thông 'sương' 箱. ◎Như: 'xa sương' 車廂 toa xe."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái trái nhà, hai gian nhỏ ở hai đầu nhà gọi là sương.",
+                "Phường sương 坊廂 một tên riêng để chia rành từng khu đất, ở trong thành gọi là phường sương, ở trong làng gọi là hương đồ 鄉圖."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà ngang, phòng cạnh, chái nhà, mái (ở hai bên nhà chính): 一正兩廂 Một nhà chính hai nhà ngang; 西廂 Mái tây;",
+                "Chỗ được ngăn ra như căn phòng: 車相 Toa xe; 包廂 Hạng lô (trong rạp hát);",
+                "Vùng tiếp giáp với thành phố: 關廂 Vùng lân cận ngoài cửa ô;",
+                "Bên cạnh: 兩廂 Hai bên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chái nhà nhỏ, có mái không tường, ở giáp liền nhà chính — Hành lang bên ngoài nhà, trên có mái che — Tục gọi nơi đông đúc sầm uất là Thành sương ( cũng như thành thị )."
+            ],
+            "compound_words": {
+                "樓廂": "lâu sương",
+                "坊廂": "phường sương"
+            }
+        },
+        "tương": {
+            "Từ điển phổ thông": [
+                "mái nhà"
+            ]
+        }
+    }
+}

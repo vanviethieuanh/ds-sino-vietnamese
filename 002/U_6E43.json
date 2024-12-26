@@ -1,0 +1,89 @@
+{
+    "character": "湃",
+    "details": {
+        "Âm Hán Việt": [
+            "bái",
+            "phái",
+            "vy"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡拜"
+        ],
+        "Nét bút": [
+            "丶丶一ノ一一ノ一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "EHQJ (水竹手十)"
+        ],
+        "Unicode": [
+            "U+6E43"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bá ㄅㄚˊ",
+            "pài ㄆㄞˋ",
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "phái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "baai3",
+            "paai3"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bái bái 湃湃."
+            ],
+            "compound_words": {
+                "湃湃": "bái bái",
+                "滂湃": "bàng bái",
+                "彭湃": "bành bái",
+                "澎湃": "bành bái"
+            }
+        },
+        "phái": {
+            "Từ điển trích dẫn": [
+                "1. (Tính) § Xem “bành phái” 澎湃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bành phái 澎湃 nước mông mênh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 滂湃 [pangpài], 澎湃 [pengpài]."
+            ],
+            "compound_words": {
+                "滂湃": "bàng phái",
+                "彭湃": "bành phái",
+                "澎湃": "bành phái"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "sông Vi (ở tỉnh Thiểm Tây của Trung Quốc)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "character": "总",
+    "details": {
+        "Âm Hán Việt": [
+            "tổng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "bát 八 (+7 nét)",
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿳丷口心"
+        ],
+        "Nét bút": [
+            "丶ノ丨フ一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "CRP (金口心)"
+        ],
+        "Unicode": [
+            "U+603B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zōng ㄗㄨㄥ",
+            "zǒng ㄗㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "tổng"
+        ],
+        "Âm Quảng Đông": [
+            "zung2"
+        ]
+    },
+    "meanings": {
+        "tổng": {
+            "Từ điển phổ thông": [
+                "tổng quát, thâu tóm",
+                "chung, toàn bộ",
+                "buộc túm lại"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 總."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 總"
+            ],
+            "compound_words": {
+                "总共": "tổng cộng",
+                "总督": "tổng đốc",
+                "总结": "tổng kết",
+                "总数": "tổng số",
+                "总统": "tổng thống"
+            }
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "character": "流",
+    "details": {
+        "Âm Hán Việt": [
+            "lưu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡㐬"
+        ],
+        "Nét bút": [
+            "丶丶一丶一フ丶ノ丨フ"
+        ],
+        "Thương Hiệt": [
+            "EYIU (水卜戈山)"
+        ],
+        "Unicode": [
+            "U+6D41"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "liú ㄌㄧㄡˊ"
+        ],
+        "Âm Nôm": [
+            "lưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リュウ (ryū)",
+            "ル (ru)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なが.れる (naga.reru)",
+            "なが.れ (naga.re)",
+            "なが.す (naga.su)",
+            "-なが.す (-naga.su)"
+        ],
+        "Âm Hàn": [
+            "류",
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lưu": {
+            "Từ điển phổ thông": [
+                "dòng nước",
+                "trôi, chảy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dòng nước (sông, thác...). ◎Như: 'hà lưu' 河流 dòng sông, 'chi lưu' 支流 sông nhánh.",
+                "(Danh) Luồng, dòng. ◎Như: 'khí lưu' 氣流 luồng hơi, 'noãn lưu' 暖流 luồng ấm, 'điện lưu' 電流 dòng điện, 'xa lưu' 車流 dòng xe chạy.",
+                "(Danh) Trường phái, môn phái. § Học thuật xưa chia ra 'cửu lưu' 九流 chín dòng: (1) nhà Nho, (2) nhà Đạo, (3) nhà Âm Dương, (4) nhà học về pháp, (5) nhà học về danh, (6) nhà Mặc, (7) nhà tung hoành, (8) nhà tạp học, (9) nhà nông.",
+                "(Danh) Phẩm loại, loài, bực. ◎Như: 'thanh lưu' 清流 dòng trong, 'trọc lưu' 濁流 dòng đục, 'thượng lưu' 上流 dòng trên có học thức đức hạnh, 'hạ lưu' 下流 dòng dưới ngu si.",
+                "(Danh) Ngạch trật (quan chức). § Quan phẩm chia ra 'lưu nội' 流內 dòng ở trong, 'lưu ngoại' 流外 dòng ở ngoài. Chưa được phẩm cấp gì gọi là 'vị nhập lưu' 未入流.",
+                "(Danh) Đời nhà Hán bạc nặng tám lạng gọi là 'lưu'.",
+                "(Động) Trôi, chảy. ◎Như: 'thủy lưu thấp' 水流溼 nước chảy chỗ ẩm ướt, 'lệ lưu' 淚流 nước mắt chảy, 'hãn lưu mãn diện' 汗流滿面 mồ hôi chảy nhễ nhại trên mặt. ◇Lí Bạch 李白: 'Cô phàm viễn ảnh bích không tận, Duy kiến Trường Giang thiên tế lưu' 孤帆遠影碧空盡, 唯見長江天際流 (Hoàng Hạc Lâu tống Mạnh Hạo Nhiên 孟浩然 chi Quảng Lăng) Bóng cánh buồm lẻ loi xa xa mất hút vào khoảng trời xanh, Chỉ thấy sông Trường Giang chảy đến chân trời.",
+                "(Động) Di chuyển, chuyển động. ◎Như: 'lưu hành' 流行 đưa đi khắp, 'lưu động' 流動 xê dịch, 'lưu chuyển' 流轉 từ chỗ này sang chỗ khác, 'lưu lợi' 流利 trôi chảy (văn chương).",
+                "(Động) Truyền dõi. ◎Như: 'lưu truyền' 流傳 truyền lại, 'lưu phương' 流芳 để lại tiếng thơm, 'lưu độc' 流毒 để cái độc về sau.",
+                "(Động) Phóng túng, chơi bời vô độ. ◎Như: 'lưu đãng vong phản' 流蕩忘反 trôi giạt quên trở lại, 'lưu liên hoang vong' 流連荒亡 lưu liên lu bù, chơi bời phóng túng.",
+                "(Động) Đày đi xa, phóng trục. ◎Như: 'phóng lưu' 放流 đày đi phương xa.",
+                "(Động) Liếc ngang (mắt không nhìn thẳng). ◎Như: 'lưu mục' 流目 liếc mắt.",
+                "(Động) Đưa ra đất ngoài biên thùy, đưa đến vùng man rợ. ◎Như: 'cải thổ quy lưu' 改土歸流 đổi quan đến vùng xa hẻo lánh.",
+                "(Tính) Trôi giạt, qua lại không định. ◎Như: 'lưu vân' 流雲 mây trôi giạt, 'lưu dân' 流民 dân sống lang bạc, nay đây mai đó.",
+                "(Tính) Không có căn cứ. ◎Như: 'lưu ngôn' 流言 lời đồn đại.",
+                "(Tính) Nhanh chóng. ◎Như: 'lưu niên' 流年 năm tháng qua mau, 'lưu quang' 流光 bóng thời gian vun vút.",
+                "(Tính) Lạc (không cố ý). ◎Như: 'lưu thỉ' 流矢 tên lạc, 'lưu đạn' 流彈 đạn lạc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nước chảy, nước chảy tự nhiên, cho nên cái gì nó tự nhiên đun đi cũng gọi là lưu hành 流行.",
+                "Dòng nước, nước chảy chia ra các ngành gọi là lưu.",
+                "Dòng, riêng làm một dòng gọi là lưu. Như học thuật chia ra cửu lưu 九流 (chín dòng): (1) nhà Nho, (2) nhà Ðạo, (3) nhà Âm Dương, (4) nhà học về pháp, (5) nhà học về danh, (6) nhà Mặc, (7) nhà tung hoành, (8) nhà tạp học, (9) nhà nông.",
+                "Phân biệt từng loài cũng gọi là lưu, như thanh lưu 清流 dòng trong, trọc lưu 濁流 dòng đục, thượng lưu 上流 dòng trên có học thức đức hạnh, hạ lưu 下流 dòng dưới ngu si. Quan phẩm cũng chia ra lưu nội 流內 dòng ở trong, lưu ngoại 流外 dòng ở ngoài. Chưa được phẩm cấp gì gọi là vị nhập lưu 未入流.",
+                "Chuyển động, cái gì tròn trặn chuyển vần được không có động tác gọi là lưu, như lưu động 流動, lưu chuyển 流轉, lưu lợi 流利, v.v. Trôi giạt, như phiêu lưu 飄流, lưu lạc 流落, dân chạy loạn lạc đi nơi khác gọi là lưu dân 流民, giặc cỏ tràn đi các nơi gọi là lưu khấu 流寇, ăn mày ở ngoài tới gọi là lưu cái 流丐, nhà trò ở ngoài tới gọi là lưu xướng 流倡, v.v. đều là noi nghĩa ấy cả.",
+                "Truyền dõi, như lưu truyền 流傳, lưu phương 流芳 để tiếng thơm mãi, lưu độc 流毒 để cái độc về sau mãi, v.v. Lời nói không có căn cứ vào đâu gọi là lưu ngôn 流言.",
+                "Giạt, như lưu đãng vong phản 流蕩忘反 trôi giạt quên trở lại, lưu liên hoang vong 流連荒亡 lưu liên lu bù, nói kẻ chơi bời phóng túng không còn nghĩ gì.",
+                "Trôi đi, bị thời thế xoay đi, như nước chảy dốc xuống, cho nên cái phong khí của một đời gọi là lưu phong 流風 hay lưu tục 流俗.",
+                "Xoay quanh không thôi, như chu lưu 周流, luân lưu 輪流, v.v.",
+                "Vận trời làm cũng gọi là lưu, như lưu quang 流光, lưu niên 流年, v.v.",
+                "Tội đày, đày đi phương xa gọi là phóng lưu 放流.",
+                "Ðất ngoài biên thùy, quan phải bổ lên vùng man rợ gọi là lưu quan 流官. Do người thổ trước nối đời làm gọi là thổ tư 土司, đổi phép bổ lưu quan thay thổ tư gọi là cải thổ quy lưu 改土歸司.",
+                "Ðời nhà Hán bạc nặng tám lạng gọi là lưu.",
+                "Phẩm giá người, hạng người.",
+                "Liếc ngang, mắt trông không ngay ngắn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chảy: 流淚 Chảy nước mắt; 汗流滿面 Mồ hôi nhễ nhại;",
+                "Di chuyển, chuyển động: 流轉 Lưu động; 流星 Sao đổi ngôi, sao băng;",
+                "Lưu truyền, đồn đại: 流芳 Lưu danh; 流言 Đồn đại;",
+                "Sa vào: 流于形式 Sa vào hình thức;",
+                "Đày, tội đày: 流放 Đi đày;",
+                "Dòng (nước): 河流 Dòng sông; 洪流 Dòng thác;",
+                "Luồng (nước, không khí, điện): 氣流 Luồng hơi, luồng không khí; 寒流 Dòng biển lạnh, luồng không khí lạnh; 電流 Dòng điện, luồng điện;",
+                "Dòng, phái, nhà: 九流 Chín dòng phái (như Nho gia, Đạo gia, Âm dương gia...);",
+                "Trôi dạt: 飄流 Phiêu lưu; 流落 Lưu lạc; 流民 Dân lưu lạc;",
+                "(văn) Liếc ngang (không nhìn thẳng);",
+                "(cũ) Bạc nặng tám lạng (đời nhà Hán, Trung Quốc);",
+                "Hạng (người): 第一流作家 Nhà văn bậc nhất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chảy. Nước chảy — Đi từ nơi này tới nơi kia — Trôi nổi — Một ngành, một phái. Hạng người. Td: Thượng lưu ( hạng người ăn trên ngồi chốc trong xã hội ) — Dòng nước, dòng sông. Td: Chi lưu ( sông nhánh ) — Đày đi xa. Một hình phạt cho kẻ phạm tội."
+            ],
+            "compound_words": {
+                "暗流": "ám lưu",
+                "波流": "ba lưu",
+                "邊流": "biên lưu",
+                "輩流": "bối lưu",
+                "奔流": "bôn lưu",
+                "本流": "bổn lưu",
+                "高山流水": "cao sơn lưu thuỷ",
+                "急流": "cấp lưu",
+                "急流勇退": "cấp lưu dũng thoái",
+                "支流": "chi lưu",
+                "周流": "chu lưu",
+                "緇流": "chuy lưu",
+                "巨流": "cự lưu",
+                "九流": "cửu lưu",
+                "名流": "danh lưu",
+                "电流": "điện lưu",
+                "電流": "điện lưu",
+                "交流": "giao lưu",
+                "下流": "hạ lưu",
+                "河流": "hà lưu",
+                "海流": "hải lưu",
+                "輪流": "luân lưu",
+                "轮流": "luân lưu",
+                "流波": "lưu ba",
+                "流質": "lưu chất",
+                "流质": "lưu chất",
+                "流民": "lưu dân",
+                "流徒": "lưu đồ",
+                "流動": "lưu động",
+                "流行": "lưu hành",
+                "流血": "lưu huyết",
+                "流落": "lưu lạc",
+                "流淚": "lưu lệ",
+                "流麗": "lưu lệ",
+                "流離": "lưu li",
+                "流連": "lưu liên",
+                "流氓": "lưu manh",
+                "流目": "lưu mục",
+                "流言": "lưu ngôn",
+                "流人": "lưu nhân",
+                "流放": "lưu phóng",
+                "流光": "lưu quang",
+                "流產": "lưu sản",
+                "流通": "lưu thông",
+                "流水": "lưu thuỷ",
+                "流星": "lưu tinh",
+                "流传": "lưu truyền",
+                "流傳": "lưu truyền",
+                "流亡": "lưu vong",
+                "流域": "lưu vực",
+                "逆流": "nghịch lưu",
+                "外流": "ngoại lưu",
+                "一流": "nhất lưu",
+                "女流": "nữ lưu",
+                "發流": "phát lưu",
+                "品流": "phẩm lưu",
+                "分流": "phân lưu",
+                "漂流": "phiêu lưu",
+                "付之流水": "phó chi lưu thuỷ",
+                "風流": "phong lưu",
+                "风流": "phong lưu",
+                "雜流": "tạp lưu",
+                "迅流": "tấn lưu",
+                "上流": "thượng lưu",
+                "潮流": "triều lưu",
+                "中流": "trung lưu",
+                "羽流": "vũ lưu"
+            }
+        }
+    }
+}

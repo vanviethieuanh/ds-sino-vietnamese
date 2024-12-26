@@ -1,0 +1,99 @@
+{
+    "character": "伶",
+    "details": {
+        "Âm Hán Việt": [
+            "linh"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻令"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "OOII (人人戈戈)"
+        ],
+        "Unicode": [
+            "U+4F36"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "líng ㄌㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "lanh",
+            "linh",
+            "nhanh",
+            "ranh",
+            "rình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レイ (rei)",
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざおぎ (wazaogi)"
+        ],
+        "Âm Hàn": [
+            "령"
+        ],
+        "Âm Quảng Đông": [
+            "ling4"
+        ]
+    },
+    "meanings": {
+        "linh": {
+            "Từ điển phổ thông": [
+                "diễn viên, người diễn, đào kép",
+                "lẻ loi, cô độc",
+                "nhanh nhẹn, lanh lợi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Người làm nghề ca múa, diễn tuồng thời xưa. ◎Như: 'ưu linh' 優伶 phường chèo, 'danh linh' 名伶 đào kép có tiếng.",
+                "(Danh) Một dân tộc thiểu số, phân bố ở vùng núi Quảng Tây (Trung Quốc).",
+                "(Danh) Họ 'Linh'. ◎Như: 'Linh Luân' 伶倫 là tên một vị nhạc quan ngày xưa. Vì thế nên gọi quan nhạc là 'linh quan' 伶倌.",
+                "(Tính) Mẫn tiệp, thông minh. ◎Như: 'linh lị' 伶俐 thông minh, lanh lẹ.",
+                "§ Xem 'linh đinh' 伶仃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Linh Luân 伶倫 tên một vị nhạc quan ngày xưa, vì thế nên gọi quan nhạc là linh quan 伶倌.",
+                "Ưu linh 優伶 phường chèo.",
+                "Lẻ, như linh đinh cô khổ 伶仃孤苦 lênh đênh khổ sở.",
+                "Nhanh nhẹn, như linh lị 伶俐 lanh lẹ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(cũ) Diễn viên (tuồng...): 伶人 Đào kép hát; 名伶 Đào kép có tiếng; 坤伶 Cô đào; 老伶工 Đào kép lành nghề;",
+                "Lẻ loi, cô độc: 伶仃 Cô đơn, lẻ loi, trơ trọi. Cv. 伶㣔;",
+                "【伶俜】linh sính [língping] (văn) a. Đi đứng không ngay ngắn; b. Lẻ loi, cô độc;",
+                "Nhanh nhẹn, lanh lợi, thông minh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sai khiến. Khiến cho — Họ người."
+            ],
+            "compound_words": {
+                "孤苦伶仃": "cô khổ linh đinh",
+                "伶丁": "linh đinh",
+                "伶仃": "linh đinh",
+                "伶俐": "linh lị",
+                "伶人": "linh nhân",
+                "伶俜": "linh sính",
+                "女伶": "nữ linh",
+                "優伶": "ưu linh"
+            }
+        }
+    }
+}

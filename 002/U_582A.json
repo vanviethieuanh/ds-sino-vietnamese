@@ -1,0 +1,89 @@
+{
+    "character": "堪",
+    "details": {
+        "Âm Hán Việt": [
+            "kham"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thổ 土 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰土甚"
+        ],
+        "Nét bút": [
+            "一丨一一丨丨一一一ノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "GTMV (土廿一女)"
+        ],
+        "Unicode": [
+            "U+582A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kān ㄎㄢ"
+        ],
+        "Âm Nôm": [
+            "kham",
+            "khăm",
+            "khom"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "た.える (ta.eru)",
+            "たま.る (tama.ru)",
+            "こ.らえる (ko.raeru)",
+            "こた.える (kota.eru)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "ham1"
+        ]
+    },
+    "meanings": {
+        "kham": {
+            "Từ điển phổ thông": [
+                "chịu đựng",
+                "chịu được"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chịu được. ◎Như: 'bất kham' 不堪 chẳng chịu được. ◇Liêu trai chí dị 聊齋志異: 'Thê bất kham kì nhục, thế dục tử' 妻不堪其辱, 涕欲死 (A Hà 阿霞) Vợ không chịu được nhục, khóc lóc toan liều chết.",
+                "(Động) Có khi dùng như chữ 'khả' 可. ◎Như: 'kham dĩ cáo úy' 堪以告慰 khá lấy nói cho yên ủi được.",
+                "(Danh) § Xem 'kham nhẫn' 堪忍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chịu được, như bất kham 不堪 chẳng chịu được. Có khi dùng như chữ khả 可, như kham dĩ cáo uý 堪以告慰 khá lấy nói cho yên ủi được.",
+                "Kham nhẫn 堪忍 dịch nghĩa chữ Phạm là Sa-bà, tức là cõi đời ta ở đây, là cõi chịu nhịn được mọi sự khổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Có thể: 堪以告慰 Có thể để nói an ủi được; 堪稱佳作 Có thể gọi là một tác phẩm hay; 帝以皇太子不堪奉大統，密以語後 Nhà vua cho rằng hoàng thái tử không thể đảm nhiệm trọng trách cai trị thiên hạ, và bí mật nói với hoàng hậu (Tấn thư);",
+                "Chịu được: 難堪 Khó chịu, không chịu được; 堪忍 Cõi ta bà, cõi đời (cõi chịu nhịn được mọi đau khổ). Xem 不堪 [bùkan]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thế đất lồi lên — Chịu đựng."
+            ],
+            "compound_words": {
+                "不堪": "bất kham",
+                "堪苦": "kham khổ",
+                "堪忍": "kham nhẫn",
+                "難堪": "nan kham"
+            }
+        }
+    }
+}

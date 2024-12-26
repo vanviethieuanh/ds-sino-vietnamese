@@ -1,0 +1,119 @@
+{
+    "character": "轟",
+    "details": {
+        "Âm Hán Việt": [
+            "hoanh",
+            "oanh"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "xa 車 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱車⿰車車"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨一丨フ一一一丨一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "JJJJJ (十十十十十)"
+        ],
+        "Unicode": [
+            "U+8F5F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hōng ㄏㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "huênh",
+            "oang",
+            "oanh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴウ (gō)",
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とどろ.かす (todoro.kasu)",
+            "とどろ.く (todoro.ku)"
+        ],
+        "Âm Hàn": [
+            "굉"
+        ],
+        "Âm Quảng Đông": [
+            "gwang1"
+        ]
+    },
+    "meanings": {
+        "hoanh": {
+            "Từ điển phổ thông": [
+                "nổ (sấm)",
+                "thuốc nổ",
+                "quát",
+                "vang lừng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Ầm, oành, sầm sầm, xình xịch, tiếng một đoàn xe đi. ◎Như: 'chỉ thính đáo oanh đích nhất thanh' 只聽到轟的一聲 chỉ nghe ầm một tiếng.",
+                "(Phó) Vang lừng. ◎Như: 'oanh oanh liệt liệt đích sự nghiệp' 轟轟烈烈的事業 sự nghiệp lừng lẫy.",
+                "(Động) Nổ, bắn. ◎Như: 'pháo oanh' 炮轟 bắn pháo.",
+                "(Động) Xua, đuổi. ◎Như: 'bả tha oanh xuất khứ' 把他轟出去 đuổi cổ nó đi.",
+                "§ Chính âm đọc là 'hoanh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sầm sầm, xình xịch, tiếng một đoàn xe đi.",
+                "Rầm rĩ.",
+                "Vang lừng. Như oanh oanh liệt liệt 轟轟烈烈 vang lừng rực rỡ.",
+                "Ðốt thuốc nổ. Chính âm đọc là hoanh."
+            ]
+        },
+        "oanh": {
+            "Từ điển phổ thông": [
+                "nổ (sấm)",
+                "thuốc nổ",
+                "quát",
+                "vang lừng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Ầm, oành, sầm sầm, xình xịch, tiếng một đoàn xe đi. ◎Như: 'chỉ thính đáo oanh đích nhất thanh' 只聽到轟的一聲 chỉ nghe ầm một tiếng.",
+                "(Phó) Vang lừng. ◎Như: 'oanh oanh liệt liệt đích sự nghiệp' 轟轟烈烈的事業 sự nghiệp lừng lẫy.",
+                "(Động) Nổ, bắn. ◎Như: 'pháo oanh' 炮轟 bắn pháo.",
+                "(Động) Xua, đuổi. ◎Như: 'bả tha oanh xuất khứ' 把他轟出去 đuổi cổ nó đi.",
+                "§ Chính âm đọc là 'hoanh'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sầm sầm, xình xịch, tiếng một đoàn xe đi.",
+                "Rầm rĩ.",
+                "Vang lừng. Như oanh oanh liệt liệt 轟轟烈烈 vang lừng rực rỡ.",
+                "Ðốt thuốc nổ. Chính âm đọc là hoanh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ầm, rầm, gầm vang, sình sịch (tiếng xe chạy, tiếng nổ...), vang lừng: 突然轟的一聲，震撼着山谷 Bỗng nổ ầm một tiếng, rung động cả lũng núi;",
+                "Bắn, nã, ném, oanh (kích): 炮轟 Bắn (nã) pháo;",
+                "Đuổi, xua, tống cổ, đánh đuổi, đánh bật: 轟麻 雀 Xua chim sẻ; 把他轟出去 Tống cổ (đuổi) nó đi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng xe chạy — Tiếng ầm ầm — Nổ lớn."
+            ],
+            "compound_words": {
+                "烈轟": "liệt oanh",
+                "轟飲": "oanh ẩm",
+                "轟烈": "oanh liệt",
+                "轟轟": "oanh oanh",
+                "轟炸": "oanh tạc",
+                "轟沈": "oanh trầm",
+                "轟醉": "oanh tuý"
+            }
+        }
+    }
+}

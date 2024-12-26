@@ -1,0 +1,84 @@
+{
+    "character": "眨",
+    "details": {
+        "Âm Hán Việt": [
+            "triếp",
+            "tráp",
+            "trát"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mục 目 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰目乏"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "BUHIO (月山竹戈人)"
+        ],
+        "Unicode": [
+            "U+7728"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǎ ㄓㄚˇ"
+        ],
+        "Âm Nôm": [
+            "trát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "またた.く (matata.ku)"
+        ],
+        "Âm Hàn": [
+            "잡"
+        ],
+        "Âm Quảng Đông": [
+            "zaam2",
+            "zaap3"
+        ]
+    },
+    "meanings": {
+        "triếp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt đưa qua đưa lại, mắt chớp chớp."
+            ]
+        },
+        "tráp": {
+            "Từ điển Trần Văn Chánh": [
+                "Nháy (mắt), chớp (mắt)."
+            ]
+        },
+        "trát": {
+            "Từ điển phổ thông": [
+                "nháy mắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chớp mắt. ◎Như: 'sát nhân bất trát nhãn' 殺人不眨眼 giết người không chớp mắt.",
+                "(Động) Nháy, chớp. ◎Như: 'thiên thượng phồn tinh nhất trực trát cá bất đình' 天上繁星一直眨個不停 sao trên trời lấp lánh mãi không ngừng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nháy mắt."
+            ],
+            "compound_words": {
+                "眨眼": "trát nhãn"
+            }
+        }
+    }
+}

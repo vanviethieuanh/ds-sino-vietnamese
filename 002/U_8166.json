@@ -1,0 +1,103 @@
+{
+    "character": "腦",
+    "details": {
+        "Âm Hán Việt": [
+            "não"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhục 肉 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰月𡿺"
+        ],
+        "Nét bút": [
+            "ノフ一一フフフノ丨フノ丶一"
+        ],
+        "Thương Hiệt": [
+            "BVVW (月女女田)"
+        ],
+        "Unicode": [
+            "U+8166"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "nǎo ㄋㄠˇ",
+            "nào ㄋㄠˋ"
+        ],
+        "Âm Nôm": [
+            "não"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ノウ (nō)",
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のうずる (nōzuru)"
+        ],
+        "Âm Hàn": [
+            "뇌"
+        ],
+        "Âm Quảng Đông": [
+            "nou5"
+        ]
+    },
+    "meanings": {
+        "não": {
+            "Từ điển phổ thông": [
+                "não, óc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Óc.",
+                "(Danh) Đầu. ◎Như: 'diêu đầu hoảng não' 搖頭晃腦 gật gà gật gù, đầu lắc la lắc lư (có vẻ tự đắc hoặc thích thú). ◇Đỗ Phủ 杜甫: 'Trắc não khán thanh tiêu' 側腦看青霄 (Họa cốt hành 畫鶻行) Nghiêng đầu nhìn trời xanh.",
+                "(Danh) Bộ phận trung tâm của vật thể. ◇Đạo Tiềm 道潛: 'Quỳ tâm cúc não' 葵心菊腦 (Thứ vận Tử Chiêm phạn biệt 次韻子瞻飯別) Tim hoa quỳ đọt hoa cúc.",
+                "(Danh) Chỉ vật gì có màu sắc hoặc hình trạng như óc tủy. ◎Như: 'chương não' 樟腦 long não, 'đậu hủ não' 豆腐腦 tàu hủ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Óc. Phần ở khắp cả bộ đầu gọi là óc lớn: đại não 大腦, chủ về việc tri giác vận động, phần ở sau óc lớn hình như quả bóng nhỏ tiểu não: 小腦, chuyên chủ về vận động, ở dưới đáy óc lớn gọi là óc giữa trung não: 中腦, dưới liền với tuỷ xương sống, gọi là duyên tuỷ 延髓, đều chủ sự thở hút. Do óc giữa xuống tuỷ chia ra các dây nhỏ đi suốt cả mình gọi là não khí cân 腦氣筋 dây gân óc, hay là não thần kinh 腦神經."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Óc, não: 電腦 Máy tính điện tử."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Óc, tức chất mềm, màu trắng xám ở tỏng sọ."
+            ],
+            "compound_words": {
+                "主腦": "chủ não",
+                "樟腦": "chương não",
+                "樟腦精": "chương não tinh",
+                "大腦": "đại não",
+                "頭腦": "đầu não",
+                "電腦": "điện não",
+                "電腦軟件": "điện não nhuyễn kiện",
+                "電腦輔助設計": "điện não phụ trợ thiết kế",
+                "電腦網": "điện não võng",
+                "電腦網絡": "điện não võng lạc",
+                "電腦網路": "điện não võng lộ",
+                "龍腦": "long não",
+                "腦部": "não bộ",
+                "腦筋": "não cân",
+                "腦脂": "não chi",
+                "腦系": "não hệ",
+                "腦力": "não lực",
+                "腦膜": "não mạc",
+                "腦室": "não thất",
+                "腦子": "não tử",
+                "心腦": "tâm não",
+                "探頭探腦": "tham đầu tham não",
+                "首腦": "thủ não",
+                "智腦": "trí não"
+            }
+        }
+    }
+}

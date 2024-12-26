@@ -1,0 +1,83 @@
+{
+    "character": "殃",
+    "details": {
+        "Âm Hán Việt": [
+            "ương"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngạt 歹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰歹央"
+        ],
+        "Nét bút": [
+            "一ノフ丶丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MNLBK (一弓中月大)"
+        ],
+        "Unicode": [
+            "U+6B83"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "yāng ㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "ương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)",
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざわい (wazawai)"
+        ],
+        "Âm Hàn": [
+            "앙"
+        ],
+        "Âm Quảng Đông": [
+            "joeng1"
+        ]
+    },
+    "meanings": {
+        "ương": {
+            "Từ điển phổ thông": [
+                "sự rủi ro, tai vạ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tai họa, vạ. ◎Như: 'tao ương' 遭殃 gặp họa, 'trì ngư chi ương' 池魚之殃 khi không mắc vạ (cá trong ao chết vì người ta tát cạn nước). § Xem thêm: 'trì ngư chi ương' 池魚之殃.",
+                "(Động) Hại, làm hại. ◎Như: 'họa quốc ương dân' 禍國殃民 hại nước hại dân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tai nạn, vạ.",
+                "Hại, làm hại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tai hoạ, tai ương: 遭殃 Gặp tai ương, mắc hoạ;",
+                "(Gây) hại: 禍國殃民 Hại nước hại dân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xấu. Có hại — Tai hoạ. Truyện  Lục Vân Tiên : » Sau dù gặp phải tai ương «."
+            ],
+            "compound_words": {
+                "病國殃民": "bệnh quốc ương dân",
+                "咎殃": "cữu ương",
+                "遺殃": "di ương",
+                "災殃": "tai ương",
+                "池魚之殃": "trì ngư chi ương"
+            }
+        }
+    }
+}

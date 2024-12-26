@@ -1,0 +1,127 @@
+{
+    "character": "炮",
+    "details": {
+        "Âm Hán Việt": [
+            "bào",
+            "pháo"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoả 火 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰火包"
+        ],
+        "Nét bút": [
+            "丶ノノ丶ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "FPRU (火心口山)"
+        ],
+        "Unicode": [
+            "U+70AE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bāo ㄅㄠ",
+            "páo ㄆㄠˊ",
+            "pào ㄆㄠˋ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "bào",
+            "pháo",
+            "than"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あぶ.る (abu.ru)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "baau1",
+            "paau3"
+        ]
+    },
+    "meanings": {
+        "bào": {
+            "Từ điển trích dẫn": [
+                "(Danh) Súng cối, đại bác. ◎Như: 'khai pháo' 開炮 bắn đại bác.",
+                "(Danh) Pháo (để đốt cho nổ ra tiếng). ◎Như: 'tiên pháo' 鞭炮 pháo dây.",
+                "Một âm là 'bào'. (Động) Thiêu, đốt. ◇Tả truyện 左傳: 'Lệnh duẫn bào chi, tận diệt Khích thị chi tộc đảng' 令尹炮之, 盡滅郤氏之族黨 (Chiêu Công nhị thập thất niên 昭公二十七年) Lệnh doãn đốt đi, diệt hết dòng họ Khích.",
+                "(Động) Sao, bào chế (thuốc). ◎Như: 'bào khương' 炮薑 sao gừng.",
+                "(Động) Xào (nấu thức ăn). ◎Như: 'bào dương nhục' 炮羊肉 xào thịt cừu.",
+                "(Động) Hơ, sấy. ◎Như: 'bào can' 炮乾 sấy khô, hơ cho khô."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Súng lớn. Xem chữ pháo 礮.",
+                "Một âm là bào. Nướng (bọc lại mà nướng).",
+                "Thuốc sao không để cho cháy mất nguyên tính gọi là bào chế 炮製. Như bảo khương 炮羌 gừng sao cháy chưa vạc hẳn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sao, bào chế. Xem 炮 [bao], [pào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nướng trên lửa — Một âm khác là Pháo."
+            ],
+            "compound_words": {
+                "炮格": "bào cách",
+                "炮製": "bào chế"
+            }
+        },
+        "pháo": {
+            "Từ điển phổ thông": [
+                "máy bắn đá",
+                "pháo",
+                "mìn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Súng cối, đại bác. ◎Như: 'khai pháo' 開炮 bắn đại bác.",
+                "(Danh) Pháo (để đốt cho nổ ra tiếng). ◎Như: 'tiên pháo' 鞭炮 pháo dây.",
+                "Một âm là 'bào'. (Động) Thiêu, đốt. ◇Tả truyện 左傳: 'Lệnh duẫn bào chi, tận diệt Khích thị chi tộc đảng' 令尹炮之, 盡滅郤氏之族黨 (Chiêu Công nhị thập thất niên 昭公二十七年) Lệnh doãn đốt đi, diệt hết dòng họ Khích.",
+                "(Động) Sao, bào chế (thuốc). ◎Như: 'bào khương' 炮薑 sao gừng.",
+                "(Động) Xào (nấu thức ăn). ◎Như: 'bào dương nhục' 炮羊肉 xào thịt cừu.",
+                "(Động) Hơ, sấy. ◎Như: 'bào can' 炮乾 sấy khô, hơ cho khô."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Súng lớn. Xem chữ pháo 礮.",
+                "Một âm là bào. Nướng (bọc lại mà nướng).",
+                "Thuốc sao không để cho cháy mất nguyên tính gọi là bào chế 炮製. Như bảo khương 炮羌 gừng sao cháy chưa vạc hẳn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 礮"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nướng trên lửa— Súng lớn— Ống giấy nhồi thuốc nổ để đốt cho nổ trong dịp tết nhất hoặc vui mừng. Ta cũng gọi là cây pháo —Tên một quân cờ trong lối cờ tướng. Bài Đánh cờ người của Hồ Xuân Hương có câu: » Thì quân pháo đã nổ đùng ra chiếu «— Một âm là Bào. Xem Bào."
+            ],
+            "compound_words": {
+                "大炮": "đại pháo",
+                "火炮": "hoả pháo",
+                "炮堡": "pháo bảo",
+                "炮兵": "pháo binh",
+                "炮臺": "pháo đài",
+                "炮彈": "pháo đạn",
+                "炮隊": "pháo đội",
+                "炮艦": "pháo hạm",
+                "炮號": "pháo hiệu",
+                "炮手": "pháo thủ",
+                "炮船": "pháo thuyền",
+                "鞭炮": "tiên pháo"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "谋",
+    "details": {
+        "Âm Hán Việt": [
+            "mưu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠某"
+        ],
+        "Nét bút": [
+            "丶フ一丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IVTMD (戈女廿一木)"
+        ],
+        "Unicode": [
+            "U+8C0B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "móu ㄇㄡˊ"
+        ],
+        "Âm Nôm": [
+            "mưu"
+        ],
+        "Âm Quảng Đông": [
+            "mau4"
+        ]
+    },
+    "meanings": {
+        "mưu": {
+            "Từ điển phổ thông": [
+                "lo liệu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 謀."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 謀"
+            ],
+            "compound_words": {
+                "阴谋": "âm mưu",
+                "图谋": "đồ mưu",
+                "同谋": "đồng mưu",
+                "谋反": "mưu phản",
+                "参谋": "tham mưu"
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "character": "餌",
+    "details": {
+        "Âm Hán Việt": [
+            "nhĩ",
+            "nhị"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thực 食 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠耳"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "OISJ (人戈尸十)"
+        ],
+        "Unicode": [
+            "U+990C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ěr ㄦˇ"
+        ],
+        "Âm Nôm": [
+            "nhĩ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)",
+            "ニ (ni)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "え (e)",
+            "えば (eba)",
+            "えさ (esa)",
+            "もち (mochi)"
+        ],
+        "Âm Hàn": [
+            "이"
+        ],
+        "Âm Quảng Đông": [
+            "nei6"
+        ]
+    },
+    "meanings": {
+        "nhĩ": {
+            "Từ điển Trần Văn Chánh": [
+                "Bánh bột, bánh ngọt;",
+                "Mồi (câu cá);",
+                "(văn) Móc mồi, thả mồi. (Ngr) Nhử: 餌敵 Nhử quân địch;",
+                "(văn) Ăn;",
+                "(văn) Thức ăn;",
+                "(văn) Gân lớn của giống súc sinh."
+            ],
+            "compound_words": {
+                "鉤餌": "câu nhĩ"
+            }
+        },
+        "nhị": {
+            "Từ điển phổ thông": [
+                "bánh bột",
+                "mồi câu cá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bánh, bánh bột.",
+                "(Danh) Phiếm chỉ thức ăn hoặc thuốc thang. ◎Như: 'quả nhị' 果餌 bánh trái cây, 'dược nhị' 藥餌 thuốc. ◇Liễu Tông Nguyên 柳宗元: 'Nhiên đắc nhi tịch chi dĩ vi nhị, khả dĩ dĩ đại phong, luyên uyển, lũ, lệ' 然得而腊之以為餌, 可以已大風, 攣踠, 瘺, 癘 (Bộ xà giả thuyết 捕蛇者說) Nhưng bắt được (rắn này) đem phơi khô làm thuốc, thì trị được các chứng phong nặng, chân tay co quắp, cổ sưng, ghẻ độc.",
+                "(Danh) Mồi câu cá, mồi. ◎Như: 'ngư nhị' 魚餌 mồi câu cá.",
+                "(Danh) Gân lớn của loài vật. ◇Lễ Kí 禮記: 'Khứ kì nhị' 去其餌 (Nội tắc 內則) Trừ bỏ gân của nó.",
+                "(Động) Nhử, dụ. ◎Như: 'nhị địch' 餌敵 nhử quân địch, 'nhị dụ' 餌誘 dùng lợi nhử dụ.",
+                "(Động) Nuốt, ăn. ◎Như: 'nhị dược' 餌藥 uống thuốc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bánh bột, các chất bổ cho người ốm ăn gọi là dược nhị 葯餌.",
+                "Mồi câu câu cá. Nói rộng ra phàm lấy lợi mà dụ người cũng gọi là nhị nhử mồi, câu. Như nhị địch 餌敵 nhử quân địch.",
+                "Ăn.",
+                "Gân lớn của giống súc sinh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bánh bột, bánh ngọt;",
+                "Mồi (câu cá);",
+                "(văn) Móc mồi, thả mồi. (Ngr) Nhử: 餌敵 Nhử quân địch;",
+                "(văn) Ăn;",
+                "(văn) Thức ăn;",
+                "(văn) Gân lớn của giống súc sinh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bánh bột — Ăn — Đồ ăn — Mồi câu cá — Đưa lợi lộc ra làm mồi để nhử người khác."
+            ]
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "character": "輕",
+    "details": {
+        "Âm Hán Việt": [
+            "khinh",
+            "khánh"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "xa 車 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車巠"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨一フフフ一丨一"
+        ],
+        "Thương Hiệt": [
+            "JJMVM (十十一女一)"
+        ],
+        "Unicode": [
+            "U+8F15"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qīng ㄑㄧㄥ",
+            "qìng ㄑㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "khinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かる.い (karu.i)",
+            "かろ.やか (karo.yaka)",
+            "かろ.んじる (karo.n jiru)"
+        ],
+        "Âm Hàn": [
+            "경"
+        ],
+        "Âm Quảng Đông": [
+            "heng1",
+            "hing1"
+        ]
+    },
+    "meanings": {
+        "khinh": {
+            "Từ điển phổ thông": [
+                "nhẹ",
+                "khinh rẻ, khinh bỉ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khinh rẻ, khinh bỉ, coi thường. ◎Như: 'khinh địch' 輕敵 coi thường quân địch. ◇Tam quốc diễn nghĩa 三國演義: 'Trác vấn tam nhân hiện cư hà chức. Huyền Đức viết: Bạch thân. Trác thậm khinh chi, bất vi lễ' 卓問三人現居何職. 玄德曰: 白身. 卓甚輕之, 不為禮 (Đệ nhất hồi 第一回) (Đổng) Trác hỏi ba người hiện làm chức quan gì. Huyền Đức nói: Chân trắng (không có chức tước gì). Trác khinh thường, không đáp tạ.",
+                "(Động) Coi nhẹ. ◇Tư Mã Thiên 司馬遷: 'Nhân cố hữu nhất tử, hoặc trọng ư Thái San, hoặc khinh ư hồng mao' 人固有一死, 或重於太山, 或輕於鴻毛 (Báo Nhậm Thiếu Khanh thư 報任少卿書) Ai cũng có một lần chết, có khi thấy nặng hơn núi Thái Sơn, có khi coi nhẹ hơn lông chim hồng.",
+                "(Tính) Nhẹ (trọng lượng nhỏ). Trái với 'trọng' 重 nặng. ◎Như: 'miên hoa bỉ thiết khinh' 棉花比鐵輕 bông gòn so với sắt thì nhẹ.",
+                "(Tính) Trình độ thấp, ít, kém. ◎Như: 'khinh hàn' 輕寒 hơi rét, lạnh vừa, 'khinh bệnh' 輕病 bệnh nhẹ.",
+                "(Tính) Số lượng không nhiều. ◎Như: 'niên kỉ khinh' 年紀輕 trẻ tuổi, 'công tác khinh' 工作輕 công việc ít.",
+                "(Tính) Giản dị. ◎Như: 'khinh xa giảm tụng' 輕車簡從 đi ra giản tiện chỉ có cái xe không và ít người hầu.",
+                "(Tính) Nhanh nhẹn. ◎Như: 'khinh xa' 輕車 xe làm cho nhẹ để chạy được nhanh, 'khinh chu' 輕舟 thuyền nhẹ (có thể lướt nhanh). ◇Vương Duy 王維: 'Thảo khô ưng nhãn tật, Tuyết tận mã đề khinh' 洛陽女兒對門居, 纔可容顏十五餘 (Quan liệp 觀獵) 草枯鷹眼疾, 雪盡馬蹄輕 Cỏ khô mắt chim ưng lẹ (như cắt), Tuyết hết vó ngựa nhanh.",
+                "(Tính) Yếu mềm, nhu nhược. ◎Như: 'vân đạm phong khinh' 雲淡風輕 mây nhạt gió yếu, 'khinh thanh tế ngữ' 輕聲細語 tiếng lời nhỏ nhẹ.",
+                "(Tính) Không bị gò bó, không bức bách. ◎Như: 'vô trái nhất thân khinh' 無債一身輕 không nợ thân thong dong.",
+                "(Tính) Cẩu thả, tùy tiện, không cẩn thận. ◎Như: 'khinh suất' 輕率 sơ suất, cẩu thả.",
+                "(Tính) Chậm rãi, thư hoãn. ◎Như: 'khinh âm nhạc' 輕音樂 nhạc chậm.",
+                "(Tính) Thứ yếu, không trọng yếu, không quan trọng. ◇Mạnh Tử 孟子: 'Dân vi quý, xã tắc thứ chi, quân vi khinh' 民為貴, 社稷次之, 君為輕 (Tận tâm hạ 盡心下) Dân là quý, xã tắc ở bậc sau, vua là bậc thường.",
+                "(Phó) Nhẹ nhàng, ít dùng sức. ◎Như: 'vi phong khinh phất' 微風輕拂 gió nhẹ phất qua. ◇Bạch Cư Dị 白居易: 'Khinh lũng mạn niên mạt phục khiêu, Sơ vi Nghê Thường hậu Lục Yêu' 輕攏慢撚抹復挑, 初為霓裳後六么 (Tì bà hành 琵琶行) Nắn nhẹ nhàng, bấm gảy chậm rãi rồi lại vuốt, Lúc đầu là khúc Nghê Thường, sau đến khúc Lục Yêu.",
+                "(Phó) Coi thường, coi rẻ. ◎Như: 'khinh thị' 輕視 coi rẻ, 'khinh mạn' 輕慢 coi thường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhẹ.",
+                "Khinh rẻ, kẻ không biết tự trọng gọi là khinh bạc 輕薄 hay khinh diêu 輕佻.",
+                "Hơi, phàm cái gì chưa đến nỗi quá lắm đều gọi là khinh. Như khinh hàn 輕寒 hơi rét, rét vừa, khinh bệnh 輕病 bệnh nhẹ, v.v.",
+                "Giản dị. Như khinh xa giảm tụng 輕車簡從 đi ra giản tiện chỉ có cái xe không và ít người hầu.",
+                "Chất khinh, một nguyên chất về thể hơi, cùng dưỡng khí hoá hợp thành nước, cũng gọi là thuỷ tố 水素. Chất nó nhẹ, cho nên thường bốc lên, các khinh khí cầu đều dùng chất ấy để bay lên, ta gọi là khinh khí.",
+                "Khinh bỉ.",
+                "Rẻ rúng.",
+                "Một âm là khánh. Lanh chanh, tả cái dáng không cẩn thận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhẹ: 這根木頭很輕 Khúc gỗ này rất nhẹ; 輕病 Bệnh nhẹ;",
+                "Nhỏ, trẻ: 年紀輕 Tuổi nhỏ;",
+                "Nhạt: 口很輕 Ăn rất nhạt;",
+                "Khinh, coi nhẹ, coi thường, khinh rẻ, khinh bỉ: 人皆輕之 Mọi người đều khinh bỉ; 輕易 Tùy tiện, khinh suất;",
+                "Hơi hơi: 輕寒 Hơi lạnh;",
+                "Giản dị: 輕車簡從 Xe giản dị người hầu ít."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhẹ ( trái với nặng ) — Nhỏ bé — Hèn mọn — Dễ dàng. Coi dễ dàng."
+            ],
+            "compound_words": {
+                "舉足輕重": "cử túc khinh trọng",
+                "減輕": "giảm khinh",
+                "輕薄": "khinh bạc",
+                "輕鄙": "khinh bỉ",
+                "輕兵": "khinh binh",
+                "輕步": "khinh bộ",
+                "輕舟": "khinh châu",
+                "輕裘": "khinh cừu",
+                "輕易": "khinh dị",
+                "輕敵": "khinh địch",
+                "輕佻": "khinh khiêu",
+                "輕刑": "khinh hình",
+                "輕忽": "khinh hốt",
+                "輕欺": "khinh khi",
+                "輕氣": "khinh khí",
+                "輕騎": "khinh kị",
+                "輕慢": "khinh mạn",
+                "輕蔑": "khinh miệt",
+                "輕肥": "khinh phì",
+                "輕風": "khinh phong",
+                "輕浮": "khinh phù",
+                "輕率": "khinh suất",
+                "輕才": "khinh tài",
+                "輕視": "khinh thị",
+                "輕便": "khinh tiện",
+                "輕賤": "khinh tiện",
+                "輕罪": "khinh tội",
+                "輕鬆": "khinh tông",
+                "輕重": "khinh trọng",
+                "輕車": "khinh xa",
+                "年輕": "niên khinh",
+                "僄輕": "phiếu khinh",
+                "剽輕": "phiếu khinh",
+                "訬輕": "sao khinh"
+            }
+        },
+        "khánh": {
+            "Từ điển Thiều Chửu": [
+                "Nhẹ.",
+                "Khinh rẻ, kẻ không biết tự trọng gọi là khinh bạc 輕薄 hay khinh diêu 輕佻.",
+                "Hơi, phàm cái gì chưa đến nỗi quá lắm đều gọi là khinh. Như khinh hàn 輕寒 hơi rét, rét vừa, khinh bệnh 輕病 bệnh nhẹ, v.v.",
+                "Giản dị. Như khinh xa giảm tụng 輕車簡從 đi ra giản tiện chỉ có cái xe không và ít người hầu.",
+                "Chất khinh, một nguyên chất về thể hơi, cùng dưỡng khí hoá hợp thành nước, cũng gọi là thuỷ tố 水素. Chất nó nhẹ, cho nên thường bốc lên, các khinh khí cầu đều dùng chất ấy để bay lên, ta gọi là khinh khí.",
+                "Khinh bỉ.",
+                "Rẻ rúng.",
+                "Một âm là khánh. Lanh chanh, tả cái dáng không cẩn thận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mau lẹ — Một âm là Khinh."
+            ]
+        }
+    }
+}

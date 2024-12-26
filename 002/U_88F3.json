@@ -1,0 +1,80 @@
+{
+    "character": "裳",
+    "details": {
+        "Âm Hán Việt": [
+            "thường"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "y 衣 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱龸⿱口衣"
+        ],
+        "Nét bút": [
+            "丨丶ノ丶フ丨フ一丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "FBRYV (火月口卜女)"
+        ],
+        "Unicode": [
+            "U+88F3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ",
+            "shāng ㄕㄤ",
+            "sháng ㄕㄤˊ"
+        ],
+        "Âm Nôm": [
+            "thường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "も (mo)",
+            "もすそ (mosuso)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "soeng4"
+        ]
+    },
+    "meanings": {
+        "thường": {
+            "Từ điển phổ thông": [
+                "áo xiêm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Xiêm, váy. § Tức là “quần tử” 裙子."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái xiêm"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quần áo (nói chung): 衣裳 Quần áo. Xem 裳 [cháng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái xiêm, cái váy của đàn bà thời xưa. Td: Nghê thường ( cái xiêm bảy màu cầu vồng )."
+            ],
+            "compound_words": {
+                "霓裳": "nghê thường",
+                "越裳": "việt thường",
+                "衣裳": "y thường"
+            }
+        }
+    }
+}

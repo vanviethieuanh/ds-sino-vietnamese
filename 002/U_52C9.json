@@ -1,0 +1,98 @@
+{
+    "character": "勉",
+    "details": {
+        "Âm Hán Việt": [
+            "miễn",
+            "mẫn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "lực 力 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺免力"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一ノフフノ"
+        ],
+        "Thương Hiệt": [
+            "NUKS (弓山大尸)"
+        ],
+        "Unicode": [
+            "U+52C9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "miǎn ㄇㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "mến",
+            "miễn",
+            "mịn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ベン (ben)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つと.める (tsuto.meru)"
+        ],
+        "Âm Hàn": [
+            "면"
+        ],
+        "Âm Quảng Đông": [
+            "min5"
+        ]
+    },
+    "meanings": {
+        "miễn": {
+            "Từ điển phổ thông": [
+                "cố sức, cố gắng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ép, gượng làm. ◎Như: 'miễn cưỡng' 勉強 gượng ép.",
+                "(Động) Khuyến khích. ◎Như: 'miễn lệ' 勉勵 phủ dụ, khuyến khích.",
+                "(Phó) Gắng gỏi, cố gắng. ◎Như: 'cần miễn' 勤勉 siêng năng, 'phấn miễn' 奮勉 gắng gỏi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cố sức.",
+                "Gắng gỏi, như miễn lệ 勉勵 gắng gỏi cho người cố sức làm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gắng sức, cố sức: 奮勉 Cố gắng;",
+                "Khuyến khích: 互勉 Khuyến khích nhau; 有則改之，無則加勉 Có sai thì sửa, không sai thì khuyến khích thêm;",
+                "Gắng gượng: 勉強 Miễn cưỡng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hết sức. Gắng sức — Khuyến khích."
+            ],
+            "compound_words": {
+                "勤勉": "cần miễn",
+                "強勉": "cưỡng miễn",
+                "劝勉": "khuyến miễn",
+                "勉旃": "miễn chiên",
+                "勉強": "miễn cưỡng",
+                "勉强": "miễn cưỡng",
+                "勉勸": "miễn khuyến",
+                "策勉": "sách miễn"
+            }
+        },
+        "mẫn": {
+            "Từ điển phổ thông": [
+                "cố sức, cố gắng"
+            ],
+            "compound_words": {
+                "勸勉": "khuyến mẫn"
+            }
+        }
+    }
+}

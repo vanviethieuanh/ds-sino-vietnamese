@@ -1,0 +1,54 @@
+{
+    "character": "篣",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng",
+            "bành"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trúc 竹 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮旁"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "HYBS (竹卜月尸)"
+        ],
+        "Unicode": [
+            "U+7BE3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Quảng Đông": [
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại tre có chất độc, người xưa dùng để đâm hổ báo, hổ báo bị đâm trúng tất chết — Một âm khác là Bàn."
+            ]
+        },
+        "bành": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lồng, cái giỏ bằng tre — đánh bằng roi, bằng gậy — Một âm khác là Bàng."
+            ],
+            "compound_words": {
+                "篣格": "bành cách"
+            }
+        }
+    }
+}

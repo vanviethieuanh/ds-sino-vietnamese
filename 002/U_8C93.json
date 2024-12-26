@@ -1,0 +1,79 @@
+{
+    "character": "貓",
+    "details": {
+        "Âm Hán Việt": [
+            "miêu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trĩ 豸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰豸苗"
+        ],
+        "Nét bút": [
+            "ノ丶丶ノフノノ一丨丨丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "BHTW (月竹廿田)"
+        ],
+        "Unicode": [
+            "U+8C93"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "māo ㄇㄠ"
+        ],
+        "Âm Nôm": [
+            "mèo",
+            "miêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ねこ (neko)"
+        ],
+        "Âm Hàn": [
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "maau1"
+        ]
+    },
+    "meanings": {
+        "miêu": {
+            "Từ điển phổ thông": [
+                "con mèo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con mèo.",
+                "(Động) Ẩn náu (tiếng địa phương bắc Trung Quốc)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con mèo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mèo. Xem 貓 [máo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con mèo."
+            ],
+            "compound_words": {
+                "野貓": "dã miêu",
+                "灵貓": "linh miêu",
+                "靈貓": "linh miêu"
+            }
+        }
+    }
+}

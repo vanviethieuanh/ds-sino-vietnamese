@@ -1,0 +1,82 @@
+{
+    "character": "磠",
+    "details": {
+        "Âm Hán Việt": [
+            "lỗ",
+            "nạo"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thạch 石 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石鹵"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丨一丨フノ丶丶丶丶丶一"
+        ],
+        "Thương Hiệt": [
+            "MRYWI (一口卜田戈)"
+        ],
+        "Unicode": [
+            "U+78E0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lǔ ㄌㄨˇ",
+            "náo ㄋㄠˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロ (ro)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すな (suna)"
+        ],
+        "Âm Hàn": [
+            "뇨"
+        ],
+        "Âm Quảng Đông": [
+            "lou5"
+        ]
+    },
+    "meanings": {
+        "lỗ": {
+            "Từ điển phổ thông": [
+                "(xem: lỗ sa 磠砂)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Lỗ sa” 磠砂 chất khoáng, thường do núi lửa phun ra kết tinh lại thành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lỗ sa 磠砂 tức là nao sa 鹵砂 hoặc 硇砂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【磠砂】lỗ sa [lưsha] Như 硇砂."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ cát hạt lớn, không được mịn. Cát có lẫn sỏi."
+            ],
+            "compound_words": {
+                "磠砂": "lỗ sa"
+            }
+        },
+        "nạo": {
+            "Từ điển phổ thông": [
+                "(xem: nạo sa 磠砂)"
+            ],
+            "compound_words": {
+                "磠砂": "nạo sa"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "帅",
+    "details": {
+        "Âm Hán Việt": [
+            "soái",
+            "suý",
+            "suất"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "cân 巾 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨ノ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "LLLB (中中中月)"
+        ],
+        "Unicode": [
+            "U+5E05"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shuài ㄕㄨㄞˋ",
+            "shuò ㄕㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "soái",
+            "suý"
+        ],
+        "Âm Quảng Đông": [
+            "seoi3"
+        ]
+    },
+    "meanings": {
+        "soái": {
+            "Từ điển phổ thông": [
+                "tướng cầm đầu, thống suất",
+                "làm gương"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 帥"
+            ],
+            "compound_words": {
+                "元帅": "nguyên soái"
+            }
+        },
+        "suý": {
+            "Từ điển phổ thông": [
+                "tướng cầm đầu, thống suất",
+                "làm gương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 帥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 帥"
+            ],
+            "compound_words": {
+                "元帅": "nguyên suý"
+            }
+        },
+        "suất": {
+            "Từ điển phổ thông": [
+                "tướng cầm đầu, thống suất",
+                "làm gương"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 帥."
+            ],
+            "compound_words": {
+                "帅师": "suất sư"
+            }
+        }
+    }
+}

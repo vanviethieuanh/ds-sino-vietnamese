@@ -1,0 +1,77 @@
+{
+    "character": "图",
+    "details": {
+        "Âm Hán Việt": [
+            "đồ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "vi 囗 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿴囗冬"
+        ],
+        "Nét bút": [
+            "丨フノフ丶丶丶一"
+        ],
+        "Thương Hiệt": [
+            "WHEY (田竹水卜)"
+        ],
+        "Unicode": [
+            "U+56FE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tú ㄊㄨˊ"
+        ],
+        "Âm Nôm": [
+            "đồ"
+        ],
+        "Âm Quảng Đông": [
+            "tou4"
+        ]
+    },
+    "meanings": {
+        "đồ": {
+            "Từ điển phổ thông": [
+                "vẽ",
+                "mưu toan"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 圖."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 圖"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cách viết tắt của chữ Đồ 圖."
+            ],
+            "compound_words": {
+                "地图": "địa đồ",
+                "图案": "đồ án",
+                "图表": "đồ biểu",
+                "图画": "đồ hoạ",
+                "图箓": "đồ lục",
+                "图谋": "đồ mưu",
+                "图片": "đồ phiến",
+                "图签": "đồ thiêm",
+                "图书馆": "đồ thư quán",
+                "图标": "đồ tiêu",
+                "力图": "lực đồ",
+                "描图": "miêu đồ",
+                "插图": "sáp đồ",
+                "意图": "ý đồ"
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "character": "短",
+    "details": {
+        "Âm Hán Việt": [
+            "đoản"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thỉ 矢 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰矢豆"
+        ],
+        "Nét bút": [
+            "ノ一一ノ丶一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "OKMRT (人大一口廿)"
+        ],
+        "Unicode": [
+            "U+77ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "duǎn ㄉㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "đoản",
+            "đuỗn",
+            "ngắn",
+            "vắn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みじか.い (mijika.i)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "dyun2"
+        ]
+    },
+    "meanings": {
+        "đoản": {
+            "Từ điển phổ thông": [
+                "ngắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ngắn. § Đối lại với 'trường' 長. ◎Như: 'đoản đao' 短刀 dao ngắn, 'đoản mộng' 短夢 giấc mơ ngắn ngủi.",
+                "(Tính) Non, kém, nông cạn. ◎Như: 'đoản tài' 短才 người tài trí kém cỏi, tầm thường.",
+                "(Tính) Chết non, chết yểu. ◎Như: 'đoản mệnh' 短命 số mạng yểu.",
+                "(Danh) Khuyết điểm, cái kém cỏi. ◎Như: 'sở đoản' 所短 chỗ yếu kém của mình, 'thủ trường bổ đoản' 取長補短 lấy cái hay bù cái kém.",
+                "(Động) Thiếu. ◎Như: 'đoản cật thiểu xuyên' 短吃少穿 thiếu ăn thiếu mặc.",
+                "(Động) Chỉ trích khuyết điểm, điều lỗi của người khác. ◇Sử Kí 史記: 'Lệnh duẫn Tử Lan văn chi, đại nộ, tốt sử Thượng Quan đại phu đoản Khuất Nguyên ư Khoảnh Tương Vương' 令尹子蘭聞之, 大怒, 卒使上官大夫短屈原於頃襄 (Khuất Nguyên Giả Sanh truyện 屈原賈生傳) Lệnh doãn Tử Lan biết chuyện, cả giận, sau sai đại phu Thượng Quan gièm Khuất Nguyên với Khoảnh Tương Vương."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngắn.",
+                "Ngặt, thì giờ ít ỏi gọi là đoản.",
+                "Thiếu thốn, kém. Cái gì mình kém gọi là sở đoản 所短.",
+                "Chỉ điều lỗi của người.",
+                "Chết non."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngắn, cộc, cụt: 短刀 Dao ngắn; 夏季晝長夜短 Mùa hè đêm ngắn ngày dài;",
+                "Thiếu: 理短 Thiếu lí, đuối lí; 別人都來了，就短他一個 Những người khác đều đến cả, chỉ thiếu một mình anh ấy; 短你三塊錢 Thiếu anh ba đồng bạc;",
+                "Khuyết điểm, thiếu sót, sở đoản, chỗ yếu kém: 取長補短 Lấy hơn bù kém, lấy cái hay bù cái dở; 不應該護短 Không nên che giấu khuyết điểm;",
+                "(văn) Chỉ ra chỗ lầm lỗi sai sót của người khác;",
+                "(văn) Chết non, chết yểu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngắn ( trái với dài ) — Co lại, thâu ngắn lại — Yếu kém — Thấp lùn ( nói về tầm với ) — Lầm lỗi."
+            ],
+            "compound_words": {
+                "補短": "bổ đoản",
+                "汲深綆短": "cấp thâm cảnh đoản",
+                "短兵": "đoản binh",
+                "短志": "đoản chí",
+                "短至": "đoản chí",
+                "短折": "đoản chiết",
+                "短打": "đoản đả",
+                "短刀": "đoản đao",
+                "短劍": "đoản kiếm",
+                "短見": "đoản kiến",
+                "短命": "đoản mệnh",
+                "短篇": "đoản thiên",
+                "短處": "đoản xứ",
+                "氣短": "khí đoản",
+                "弄短": "lộng đoản",
+                "五短身材": "ngũ đoản thân tài",
+                "所短": "sở đoản",
+                "尋短路": "tầm đoản lộ",
+                "捨短": "xả đoản"
+            }
+        }
+    }
+}

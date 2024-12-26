@@ -1,0 +1,86 @@
+{
+    "character": "苾",
+    "details": {
+        "Âm Hán Việt": [
+            "bật",
+            "tất"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thảo 艸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹必"
+        ],
+        "Nét bút": [
+            "一丨丨丶フ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TPH (廿心竹)"
+        ],
+        "Unicode": [
+            "U+82FE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "bí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒツ (hitsu)",
+            "ビチ (bichi)",
+            "ヘツ (hetsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かお.る (kao.ru)"
+        ],
+        "Âm Hàn": [
+            "필"
+        ],
+        "Âm Quảng Đông": [
+            "bat6"
+        ]
+    },
+    "meanings": {
+        "bật": {
+            "Từ điển phổ thông": [
+                "thơm phức, thơm ngát"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Thơm tho. ◇Đại Đái Lễ Kí 大戴禮記: “Dữ quân tử du, bật hồ như nhập lan chỉ chi thất” 與君子遊, 苾乎如入蘭芷之室 (Tăng Tử tật bệnh 曾子疾病) Cùng với người quân tử giao du, thơm phức như vào nhà hoa lan cỏ chỉ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thơm tho."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thơm. Mùi thơm. Cũng đọc Tất."
+            ],
+            "compound_words": {
+                "苾苾": "bật bật",
+                "苾勃": "bật bột",
+                "苾芬": "bật phân",
+                "苾芻": "bật sô"
+            }
+        },
+        "tất": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thơm tho, thơm ngát."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mùi thơm. Đáng lẽ đọc Bật."
+            ]
+        }
+    }
+}

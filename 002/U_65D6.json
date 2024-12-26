@@ -1,0 +1,86 @@
+{
+    "character": "旖",
+    "details": {
+        "Âm Hán Việt": [
+            "y",
+            "ỷ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "phương 方 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰方⿱𠂉奇"
+        ],
+        "Nét bút": [
+            "丶一フノノ一一ノ丶一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "YSOKR (卜尸人大口)"
+        ],
+        "Unicode": [
+            "U+65D6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yǐ ㄧˇ"
+        ],
+        "Âm Nôm": [
+            "ỷ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なび.く (nabi.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "ji2"
+        ]
+    },
+    "meanings": {
+        "y": {
+            "Từ điển phổ thông": [
+                "thướt tha"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Xem “y nỉ” 旖旎."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Y nỉ 旖旎 cờ bay phấp phới.",
+                "Thướt tha.",
+                "Mây mù."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẽ mềm mại như lá cờ bay."
+            ],
+            "compound_words": {
+                "旖旎": "y ni",
+                "旖施": "y thi"
+            }
+        },
+        "ỷ": {
+            "Từ điển phổ thông": [
+                "thướt tha"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【旖旎】ỷ nỉ [yênê] (Cờ bay) phấp phới;",
+                "(văn) Mềm mại, yểu điệu, thướt tha;",
+                "(văn) Mây mù."
+            ],
+            "compound_words": {
+                "旖旎": "ỷ nỉ"
+            }
+        }
+    }
+}

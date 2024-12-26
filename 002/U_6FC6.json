@@ -1,0 +1,99 @@
+{
+    "character": "濆",
+    "details": {
+        "Âm Hán Việt": [
+            "phún",
+            "phần",
+            "phẫn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡賁"
+        ],
+        "Nét bút": [
+            "丶丶一一丨一丨丨丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EJTC (水十廿金)"
+        ],
+        "Unicode": [
+            "U+6FC6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "fén ㄈㄣˊ",
+            "fèn ㄈㄣˋ",
+            "pēn ㄆㄣ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フン (fun)",
+            "ホン (hon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほとり (hotori)",
+            "わ.く (wa.ku)"
+        ],
+        "Âm Hàn": [
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "fan4",
+            "pan3"
+        ]
+    },
+    "meanings": {
+        "phún": {
+            "Từ điển trích dẫn": [
+                "(Danh) Bến sông, bờ nước.",
+                "(Danh) Sông 'Phần' 濆, ở Hà Nam.",
+                "Một âm là 'phún'. (Động) Phun nước. § Thông 'phún' 噴."
+            ]
+        },
+        "phần": {
+            "Từ điển phổ thông": [
+                "dòng nhánh",
+                "bến sông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bến sông, bờ nước.",
+                "(Danh) Sông 'Phần' 濆, ở Hà Nam.",
+                "Một âm là 'phún'. (Động) Phun nước. § Thông 'phún' 噴."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dòng nhánh.",
+                "Bến sông.",
+                "Một âm là phẫn. Phun ra, vụt ra."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đất cao bên bờ nước;",
+                "Dòng nước nhỏ do sông lớn tràn ra mà thành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ nước. Như chữ Phần 墳 — Một âm là Phẫn. Xem Phẫn."
+            ]
+        },
+        "phẫn": {
+            "Từ điển Thiều Chửu": [
+                "Dòng nhánh.",
+                "Bến sông.",
+                "Một âm là phẫn. Phun ra, vụt ra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước vọt lên — Một âm là Phần. Xem Phần."
+            ]
+        }
+    }
+}

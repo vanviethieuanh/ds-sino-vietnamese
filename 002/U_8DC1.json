@@ -1,0 +1,81 @@
+{
+    "character": "跁",
+    "details": {
+        "Âm Hán Việt": [
+            "bà",
+            "bá",
+            "bả"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "túc 足 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊巴"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "RMAU (口一日山)"
+        ],
+        "Unicode": [
+            "U+8DC1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bà ㄅㄚˋ",
+            "pá ㄆㄚˊ"
+        ],
+        "Âm Nôm": [
+            "bả"
+        ],
+        "Âm Quảng Đông": [
+            "paa1"
+        ]
+    },
+    "meanings": {
+        "bà": {
+            "Từ điển trích dẫn": [
+                "(Động) Ngồi xổm.",
+                "Một âm là 'bà'. (Động) Trẻ con bò."
+            ]
+        },
+        "bá": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trẻ con bò bằng hai tay hai chân."
+            ],
+            "compound_words": {
+                "跁跒": "bá kha"
+            }
+        },
+        "bả": {
+            "Từ điển phổ thông": [
+                "ngồi xổm",
+                "bò đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngồi xổm.",
+                "Một âm là 'bà'. (Động) Trẻ con bò."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngồi xổm.",
+                "Bò đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ngồi xổm;",
+                "Bò đi."
+            ]
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "character": "歙",
+    "details": {
+        "Âm Hán Việt": [
+            "hấp",
+            "thiệp"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khiếm 欠 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰翕欠"
+        ],
+        "Nét bút": [
+            "ノ丶一丨フ一フ丶一フ丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "OMNO (人一弓人)"
+        ],
+        "Unicode": [
+            "U+6B59"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "shè ㄕㄜˋ",
+            "xī ㄒㄧ",
+            "xì ㄒㄧˋ",
+            "xié ㄒㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "hấp",
+            "sợ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キュウ (kyū)",
+            "キョウ (kyō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.う (su.u)"
+        ],
+        "Âm Hàn": [
+            "흡",
+            "섭"
+        ],
+        "Âm Quảng Đông": [
+            "kap1",
+            "sip3"
+        ]
+    },
+    "meanings": {
+        "hấp": {
+            "Từ điển phổ thông": [
+                "hấp thụ",
+                "hút vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hút vào. § Cũng như 'hấp' 吸.",
+                "(Phó) Đồng lòng, đều cả, nhất trí.",
+                "Một âm là 'thiệp'. (Danh) Tên huyện ở tỉnh An Huy, nổi tiếng sản xuất nghiên mực rất tốt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hút vào, cùng một nghĩa với chữ hấp 吸.",
+                "Tên đất.",
+                "Cùng nghĩa với chữ hấp 翕.",
+                "Cùng nghĩa với chữ 脅.",
+                "Một âm là thiệp. Tên đất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hít, hút vào (như 吸, bộ 口);",
+                "(văn) Như 翕 (bộ 羽)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thâu thập, gom góp — Tụ họp lại."
+            ],
+            "compound_words": {
+                "歙然": "hấp nhiên"
+            }
+        },
+        "thiệp": {
+            "Từ điển trích dẫn": [
+                "(Động) Hút vào. § Cũng như 'hấp' 吸.",
+                "(Phó) Đồng lòng, đều cả, nhất trí.",
+                "Một âm là 'thiệp'. (Danh) Tên huyện ở tỉnh An Huy, nổi tiếng sản xuất nghiên mực rất tốt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hút vào, cùng một nghĩa với chữ hấp 吸.",
+                "Tên đất.",
+                "Cùng nghĩa với chữ hấp 翕.",
+                "Cùng nghĩa với chữ 脅.",
+                "Một âm là thiệp. Tên đất."
+            ]
+        }
+    }
+}

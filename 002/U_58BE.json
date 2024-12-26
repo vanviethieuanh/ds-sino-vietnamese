@@ -1,0 +1,74 @@
+{
+    "character": "墾",
+    "details": {
+        "Âm Hán Việt": [
+            "khẩn"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thổ 土 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノ丶丶ノフノノフ一一丨ノ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "BVG (月女土)"
+        ],
+        "Unicode": [
+            "U+58BE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "kěn ㄎㄣˇ"
+        ],
+        "Âm Nôm": [
+            "khẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)"
+        ],
+        "Âm Hàn": [
+            "간"
+        ],
+        "Âm Quảng Đông": [
+            "han2"
+        ]
+    },
+    "meanings": {
+        "khẩn": {
+            "Từ điển phổ thông": [
+                "khai khẩn, vỡ đất hoang"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Vỡ đất trồng trọt. ◎Như: “khai khẩn” 開墾 mở mang vùng đất hoang."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Khai khẩn, dùng sức vỡ các ruộng hoang ra mà cầy cấy gọi là khẩn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khai khẩn (để vỡ đất hoang): 墾地 Khai khẩn ruộng đất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cày đất hoang mà làm thành ruộng. Cày ruộng."
+            ],
+            "compound_words": {
+                "開墾": "khai khẩn",
+                "墾田": "khẩn điền",
+                "墾荒": "khẩn hoang",
+                "墾闢": "khẩn tịch",
+                "闢墾": "tịch khẩn",
+                "徵墾": "trưng khẩn"
+            }
+        }
+    }
+}

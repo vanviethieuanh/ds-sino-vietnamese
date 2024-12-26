@@ -1,0 +1,81 @@
+{
+    "character": "屭",
+    "details": {
+        "Âm Hán Việt": [
+            "hí",
+            "hý"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "thi 尸 (+21 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸尸贔"
+        ],
+        "Nét bút": [
+            "フ一ノ丨フ一一一ノ丶丨フ一一一ノ丶丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SBCC (尸月金金)"
+        ],
+        "Unicode": [
+            "U+5C6D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "xì ㄒㄧˋ"
+        ],
+        "Âm Nôm": [
+            "hí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さかん (sakan)",
+            "きび.しい (kibi.shii)"
+        ],
+        "Âm Quảng Đông": [
+            "ai3",
+            "hei3"
+        ]
+    },
+    "meanings": {
+        "hí": {
+            "Từ điển trích dẫn": [
+                "1. “Bí hí” 贔屭: xem “bí” 贔."
+            ],
+            "compound_words": {
+                "贔屭": "bí hí"
+            }
+        },
+        "hý": {
+            "Từ điển phổ thông": [
+                "lớn mạnh",
+                "một loài vật giống như rùa",
+                "con rùa đá lớn cõng tấm bia"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bí hí 贔屭 hăng, tả cái dáng cố sức.",
+                "Con rùa đá lớn cõng tấm bia, xem chữ bí 贔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lớn mạnh;",
+                "Con rùa đá lớn cõng tấm bia."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hí"
+            ]
+        }
+    }
+}

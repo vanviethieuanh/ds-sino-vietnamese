@@ -1,0 +1,72 @@
+{
+    "character": "乓",
+    "details": {
+        "Âm Hán Việt": [
+            "bang",
+            "bàng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "triệt 丿 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丘丶"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "OMI (人一戈)"
+        ],
+        "Unicode": [
+            "U+4E53"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "pāng ㄆㄤ"
+        ],
+        "Âm Nôm": [
+            "bang"
+        ],
+        "Âm Quảng Đông": [
+            "bam1",
+            "pong1"
+        ]
+    },
+    "meanings": {
+        "bang": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Binh bang 乒乓."
+            ],
+            "compound_words": {
+                "乒乓球": "binh bang cầu"
+            }
+        },
+        "bàng": {
+            "Từ điển phổ thông": [
+                "sầm (tiếng đóng cửa)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Sầm, rầm. ◎Như: 'binh bàng nhất thanh' 乒乓一聲 đánh sầm một tiếng.",
+                "(Danh) § Xem 'binh bàng' 乒乓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Sầm: 乓的 一聲把門關了 Đóng sầm cửa lại."
+            ],
+            "compound_words": {
+                "乒乓": "binh bàng",
+                "乒乓球": "binh bàng cầu"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "牲",
+    "details": {
+        "Âm Hán Việt": [
+            "sinh"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngưu 牛 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰牜生"
+        ],
+        "Nét bút": [
+            "ノ一丨一ノ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "HQHQM (竹手竹手一)"
+        ],
+        "Unicode": [
+            "U+7272"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shēng ㄕㄥ"
+        ],
+        "Âm Nôm": [
+            "chũa",
+            "sanh",
+            "sinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)"
+        ],
+        "Âm Hàn": [
+            "생"
+        ],
+        "Âm Quảng Đông": [
+            "saang1",
+            "sang1"
+        ]
+    },
+    "meanings": {
+        "sinh": {
+            "Từ điển phổ thông": [
+                "súc vật dùng để cúng tế"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gia súc dùng để cúng tế. ◇Thủy hử truyện 水滸傳: 'Đẳng ngã lai thiêu chú đầu hương, tựu yêu tam sinh hiến' 等我來燒炷頭香, 就要三牲獻 (Đệ nhị hồi) Đợi ta đến thắp hương, có cả tam sinh để cúng.",
+                "(Danh) Phiếm chỉ gia súc như bò, cừu, heo, ngựa, v.v. ◎Như: 'súc sinh' 畜牲 thú vật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Muông sinh. Con vật nuôi gọi là súc 畜, dùng để cúng gọi là sinh 牲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Súc vật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài vật nuôi trong nhà để giết thịt — Giết thịt — Bị giết để đạt tới mục đích gì. Td: Hi sinh."
+            ],
+            "compound_words": {
+                "犧牲": "hy sinh",
+                "牺牲": "hy sinh",
+                "牲口": "sinh khẩu",
+                "牲殺": "sinh sát",
+                "牲畜": "sinh súc",
+                "三牲": "tam sinh",
+                "宰牲": "tể sinh",
+                "宰牲場": "tể sinh trưởng"
+            }
+        }
+    }
+}

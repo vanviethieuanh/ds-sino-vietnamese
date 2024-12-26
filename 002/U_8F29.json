@@ -1,0 +1,104 @@
+{
+    "character": "輩",
+    "details": {
+        "Âm Hán Việt": [
+            "bối"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "xa 車 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱非車"
+        ],
+        "Nét bút": [
+            "丨一一一丨一一一一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "LYJWJ (中卜十田十)"
+        ],
+        "Unicode": [
+            "U+8F29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bối"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "-ばら (-bara)",
+            "やから (yakara)",
+            "やかい (yakai)",
+            "ともがら (tomogara)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "bui3"
+        ]
+    },
+    "meanings": {
+        "bối": {
+            "Từ điển phổ thông": [
+                "lũ, bọn, chúng",
+                "hàng xe, dãy xe",
+                "ví, so sánh",
+                "thế hệ, lớp người",
+                "hạng, lớp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bậc, hàng, lớp (thế hệ). ◎Như: 'tiền bối' 前輩 bậc trước, 'hậu bối' 後輩 lớp sau.",
+                "(Danh) Lũ, bọn (số đông). ◎Như: 'ngã bối' 我輩 lũ chúng ta, 'nhược bối' 若輩 lũ chúng bay. ◇Tây du kí 西遊記: 'Dưỡng mã giả, nãi hậu sanh tiểu bối, hạ tiện chi dịch, khởi thị đãi ngã đích?' 養馬者, 乃後生小輩, 下賤之役, 豈是待我的? (Đệ tứ hồi) Nuôi ngựa là việc của bọn trẻ con, hèn mọn, sao lại đối xử với ta như thế?",
+                "(Danh) Hàng xe, xe xếp thành hàng.",
+                "(Động) Ví, so sánh. ◇Hậu Hán Thư 後漢書: 'Biên Phượng, Diên Đốc tiên hậu vi Kinh Triệu duẫn, thì nhân dĩ bối tiền thế Triệu (Quảng Hán), Trương (Sưởng)' 邊鳳, 延篤先後為京兆尹, 時人以輩前世趙(廣漢),張(敞) (Tuần lại truyện 循吏傳, Tự 序) Biên Phượng, Diên Đốc trước sau làm quan doãn ở Kinh Triệu, người đương thời ví với Triệu (Quảng Hán), Trương (Sưởng) đời trước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bực, lũ, bọn. Như tiền bối 前輩 bực trước, hậu bối 後輩 bọn sau, ngã bối 我輩 lũ chúng ta, nhược bối 若輩 lũ chúng bay, v.v.",
+                "Hàng xe, rặng xe.",
+                "Ví, so sánh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bậc, bề, bối: 前輩 Bậc tiền bối; 長輩 Bậc đàn anh, bề trên;",
+                "Đời: 活了半輩子 Đã nửa đời người;",
+                "Đồ, hạng, những kẻ: 無能之輩 Đồ bất lực, những kẻ bất tài. (Ngr) Lũ, bọn (chỉ số đông): 我輩 Chúng tôi; 若輩 Lũ chúng bây;",
+                "(văn) Hàng xe;",
+                "(văn) Ví, so sánh;",
+                "(văn) Hàng loạt, số nhiều: 于是名臣輩出 Nhờ vậy bầy tôi giỏi xuất hiện hàng loạt (Hậu Hán thư: Sái Ung truyện)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xe đậu thành hàng dài — Người ngang hàng, cùng trang lứa. Bọn."
+            ],
+            "compound_words": {
+                "輩行": "bối hành",
+                "輩流": "bối lưu",
+                "輩作": "bối tác",
+                "輩出": "bối xuất",
+                "同輩": "đồng bối",
+                "下輩子": "hạ bối tử",
+                "後輩": "hậu bối",
+                "老輩": "lão bối",
+                "我輩": "ngã bối",
+                "一輩子": "nhất bối tử",
+                "若輩": "nhược bối",
+                "前輩": "tiền bối",
+                "晚輩": "vãn bối"
+            }
+        }
+    }
+}

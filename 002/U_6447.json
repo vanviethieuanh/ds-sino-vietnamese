@@ -1,0 +1,73 @@
+{
+    "character": "摇",
+    "details": {
+        "Âm Hán Việt": [
+            "dao",
+            "diêu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘䍃"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶丶ノノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "XQBOU (重手月人山)"
+        ],
+        "Unicode": [
+            "U+6447"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao",
+            "dêu"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển phổ thông": [
+                "lay động",
+                "quấy nhiễu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 搖."
+            ],
+            "compound_words": {
+                "摇摆": "dao bài",
+                "摇动": "dao động",
+                "摇晃": "dao hoảng",
+                "摇篮": "dao lam",
+                "动摇": "động dao"
+            }
+        },
+        "diêu": {
+            "Từ điển phổ thông": [
+                "lay động",
+                "quấy nhiễu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 搖."
+            ]
+        }
+    }
+}

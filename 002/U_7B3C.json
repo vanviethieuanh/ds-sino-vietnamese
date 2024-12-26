@@ -1,0 +1,70 @@
+{
+    "character": "笼",
+    "details": {
+        "Âm Hán Việt": [
+            "lung",
+            "lộng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trúc 竹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮龙"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "HIKP (竹戈大心)"
+        ],
+        "Unicode": [
+            "U+7B3C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lóng ㄌㄨㄥˊ",
+            "lǒng ㄌㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "lung"
+        ],
+        "Âm Quảng Đông": [
+            "lung4",
+            "lung5"
+        ]
+    },
+    "meanings": {
+        "lung": {
+            "Từ điển phổ thông": [
+                "cái lồng",
+                "lồng nhau"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 籠."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bao phủ, che, toả, lồng: 煙籠霧罩 Khói toả sương che; 煙籠寒水月籠沙 Khói lồng nước lạnh trăng lồng cát (Đỗ Mục: Bạc Tần Hoài);",
+                "Lồng, cũi: 鳥籠 Lồng chim; 關在籠裡 Nhốt trong cũi. Xem 籠 [lóng]."
+            ],
+            "compound_words": {
+                "笼络": "lung lạc"
+            }
+        },
+        "lộng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 籠."
+            ]
+        }
+    }
+}

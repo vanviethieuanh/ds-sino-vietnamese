@@ -1,0 +1,283 @@
+{
+    "character": "時",
+    "details": {
+        "Âm Hán Việt": [
+            "thì",
+            "thời"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhật 日 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰日寺"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "AGDI (日土木戈)"
+        ],
+        "Unicode": [
+            "U+6642"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shí ㄕˊ"
+        ],
+        "Âm Nôm": [
+            "thà",
+            "thì",
+            "thìa",
+            "thời"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とき (toki)",
+            "-どき (-doki)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "si4"
+        ]
+    },
+    "meanings": {
+        "thì": {
+            "Từ điển phổ thông": [
+                "lúc",
+                "thời gian"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mùa. ◎Như: 'tứ thì' 四時 bốn mùa.",
+                "(Danh) Giờ (cổ). § Một ngày chia 12 giờ (cổ), mỗi giờ gọi tên một chi. ◎Như: 'tí thì' 子時 giờ tí, 'thần thì' 辰時 giờ thìn. ◇Thủy hử truyện 水滸傳: 'Khứ liễu lưỡng cá thì thần hữu dư, bất kiến hồi báo' 去了兩個時辰有餘, 不見回報 (Đệ thập cửu hồi) Đi được hơn hai giờ (tức bốn giờ ngày nay), không thấy trở về hồi báo.",
+                "(Danh) Giờ (đồng hồ). § Một ngày có 24 giờ, một giờ có 60 phút.",
+                "(Danh) Một khoảng thời gian dài. ◎Như: 'cổ thì' 古時 thời xưa, 'Đường thì' 唐時 thời Đường, 'bỉ nhất thì thử nhất thì' 彼一時, 此一時 bấy giờ là một thì, bây giờ là một thì (thời gian khác nhau, tình huống cũng khác nhau).",
+                "(Danh) Thời gian, năm tháng, quang âm. ◇Lã Thị Xuân Thu 呂氏春秋: 'Thì bất cửu lưu' 時不久留 (Hiếu hạnh lãm 孝行覽) Năm tháng không ở lại lâu.",
+                "(Danh) Cơ hội, dịp. ◎Như: 'thì cơ' 時機 thời cơ. ◇Tam quốc diễn nghĩa 三國演義: 'Kim bất thừa thì báo hận, cánh đãi hà niên?' 今不乘時報恨, 更待何時 (Đệ thât hồi) Nay không nhân dịp báo thù, còn đợi đến bao giờ?",
+                "(Danh) Lúc ấy, khi ấy. ◇Tư trị thông giám 資治通鑒: 'Thì Tào quân kiêm dĩ cơ dịch, tử giả thái bán' 時曹軍兼以饑疫, 死者太半 Khi ấy quân của Tào Tháo vừa đói vừa bị bịnh dịch, chết hơn một nửa.",
+                "(Danh) Họ 'Thì'.",
+                "(Tính) Bây giờ, hiện nay. ◎Như: 'thì sự' 時事 thời sự, 'thì cục' 時局 thời cuộc, 'thì thế' 時勢 xu thế của thời đại, 'thì trang' 時裝 thời trang.",
+                "(Phó) Thường, thường xuyên. ◎Như: 'thì thì như thử' 時時如此 thường thường như thế. ◇Tây du kí 西遊記: 'Phong đầu thì thính cẩm kê minh, Thạch quật mỗi quan long xuất nhập' 峰頭時聽錦雞鳴, 石窟每觀龍出入 (Đệ nhất hồi) Đầu núi thường nghe gà gấm gáy, Hang đá thường thấy rồng ra vào.",
+                "(Phó) Đúng thời, đang thời, hợp thời. ◎Như: 'thời vụ' 時務 mùa làm ruộng, việc đang đời, 'thời nghi' 時宜 hợp thời (cái mà đời ưa chuộng).",
+                "(Phó) Có khi, thỉnh thoảng, đôi khi. ◎Như: 'tha thì lai thì bất lai' 他時來時不來 anh ấy có khi đến có khi không đến.",
+                "§ Ghi chú: Ta quen đọc là 'thời' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mùa, như tứ thì 四時 bốn mùa.",
+                "Thì, như bỉ nhất thì thử nhất thì 彼一時，此一時 bấy giờ là một thì, bây giờ là một thì.",
+                "Giờ, một ngày chia 12 giờ, mỗi giờ gọi tên một chi, như giờ tí, giờ sửu, v.v.",
+                "Thường, như thì thì như thử 時時如此 thường thường như thế.",
+                "Ðúng thời, đang thời, như thời vụ 時務 mùa làm ruộng, việc đang đời, thời nghi 時宜 hợp thời (cái mà đời ưa chuộng).",
+                "Cơ hội, như thừa thì nhi khởi 乘時而起 nhân cơ hội mà nổi lên. Ta quen đọc là chữ thời cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỉ thời gian nói chung;",
+                "Thời kì, thời gian dài: 唐時 Thời Đường; 古時 Thời cổ; 現時 Hiện nay, hiện thời; 子時 Giờ Tí (11 giờ tối đến 1 giờ đêm); 醜時 Giờ Sửu (1 đến 3 giờ đêm);",
+                "Giờ, tiếng: 一小時 Một giờ, một tiếng đồng hồ; 按時上班 Đi làm đúng giờ;",
+                "Lúc, thời, thường: 平時 Ngày thường, lúc thường; 盛極一時 Thịnh vượng nhất thời; 彼一時此一時 Lúc kia là một thời, bây giờ là một thời; 時時如此 Thường thường như thế; 時 時之需 Lúc nào cũng cần; 時時照顧 Thường xuyên trông nom.【時常】thời thường [shícháng] Thường xuyên;【時而】thời nhi [shí'ér] Lúc thì, đôi khi, đôi lúc, lắm lúc: 時而晴天，時而下雨 Lúc thì tạnh lúc thì mưa; 【時時】 thời thời [shíshí] Luôn luôn, thường: 時時想到 Luôn luôn nghĩ đến; 時時著書，人又取去，即空居 Thường viết sách, người ta lại lấy đi, rồi cũng không còn cuốn nào (Sử kí: Tư Mã Tương Như liệt truyện);",
+                "Chỉ hiện thời hay lúc đó: 時事 Thời sự;",
+                "Có khi, có lúc, đôi khi, thỉnh thoảng: 他時來時不來 Anh ấy có khi đến có khi không đến; 光時休沐出，桀輒入代光決事 Hoắc Quang thỉnh thoảng nghỉ ra khỏi cung, thượng quan Kiệt liền vào cung thay Quang giải quyết công việc (Hán thư: Hoắc Quang truyện);",
+                "Hợp thời trang: 她的髮型很時髦 Kiểu tóc của cô ta rất hợp thời trang;",
+                "Thích hợp, thích đáng;",
+                "Đúng lúc, đúng thời, hợp thời: 不時筑，而人果竊之 Không xây (tường) đúng lúc, kẻ ngoài quả nhiên vào trộm (Hàn Phi tử: Thuyết lâm hạ); 及宣王至遼東，霖雨，不得時攻 Khi Tuyên Vương đến Liêu Đông, gặp trời mưa dầm, nên không thể tấn công đúng lúc (Tam quốc chí);",
+                "(văn) Mùa: 四時 Bốn mùa;",
+                "(văn) Cơ hội, thời cơ, thời vận: 乘時而起 Nhân cơ hội mà nổi lên;",
+                "Thói tục của một thời, thời tục: 不拘于時 Không câu nệ thời tục (Hàn Dũ: Sư thuyết);",
+                "(văn) Thời sự;",
+                "(văn) Thời gian, năm tháng: 時不久留 Năm tháng không ở lại lâu (Lã thị Xuân thu);",
+                "(văn) Đó, ấy (dùng như 是, có thể chỉ người, vật hoặc nơi chốn): 滿招損，謙受益，時乃天道 Đầy thì bị bớt đi, kém thì được tăng thêm, đó là đạo trời (Thượng thư); 時日曷喪？ Mặt trời này bao giờ huỷ diệt? (Thượng thư); 于時言言 Cười cười nói nói ở chỗ này (Thi Kinh);",
+                "(văn) Lúc ấy, khi ấy: 時曹軍兼以饑疫，死者太半 Khi ấy quân của Tào Tháo vừa đói vừa bị bịnh dịch, chết hơn một nửa (Tư trị thông giám);",
+                "[Shí] (Họ) Thời."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xin xem Thời."
+            ],
+            "compound_words": {
+                "按時": "án thì",
+                "不時": "bất thì",
+                "不時間": "bất thì gian",
+                "平時": "bình thì",
+                "晡時": "bô thì",
+                "餔時": "bô thì",
+                "及時": "cập thì",
+                "急時抱佛腳": "cấp thì bão phật cước",
+                "戰時": "chiến thì",
+                "登時": "đăng thì",
+                "同時": "đồng thì",
+                "當時": "đương thì",
+                "加時": "gia thì",
+                "何時": "hà thì",
+                "合時": "hợp thì",
+                "有時": "hữu thì",
+                "今時": "kim thì",
+                "臨時": "lâm thì",
+                "良時": "lương thì",
+                "某時": "mỗ thì",
+                "一時": "nhất thì",
+                "暫時": "tạm thì",
+                "時報": "thì báo",
+                "時機": "thì cơ",
+                "時代": "thì đại",
+                "時代廣場": "thì đại quảng tràng",
+                "時間": "thì gian",
+                "時候": "thì hậu",
+                "時刻": "thì khắc",
+                "時期": "thì kỳ",
+                "時髦": "thì mao",
+                "時光": "thì quang",
+                "時態": "thì thái",
+                "時尚": "thì thượng",
+                "時常": "thì thường",
+                "時節": "thì tiết",
+                "千載一時": "thiên tải nhất thì",
+                "此時": "thử thì",
+                "實時": "thực thì",
+                "小時": "tiểu thì",
+                "戌時": "tuất thì",
+                "即時": "tức thì",
+                "卽時": "tức thì",
+                "比利時": "tỷ lợi thì"
+            }
+        },
+        "thời": {
+            "Từ điển phổ thông": [
+                "lúc",
+                "thời gian"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Mùa. ◎Như: 'tứ thì' 四時 bốn mùa.",
+                "(Danh) Giờ (cổ). § Một ngày chia 12 giờ (cổ), mỗi giờ gọi tên một chi. ◎Như: 'tí thì' 子時 giờ tí, 'thần thì' 辰時 giờ thìn. ◇Thủy hử truyện 水滸傳: 'Khứ liễu lưỡng cá thì thần hữu dư, bất kiến hồi báo' 去了兩個時辰有餘, 不見回報 (Đệ thập cửu hồi) Đi được hơn hai giờ (tức bốn giờ ngày nay), không thấy trở về hồi báo.",
+                "(Danh) Giờ (đồng hồ). § Một ngày có 24 giờ, một giờ có 60 phút.",
+                "(Danh) Một khoảng thời gian dài. ◎Như: 'cổ thì' 古時 thời xưa, 'Đường thì' 唐時 thời Đường, 'bỉ nhất thì thử nhất thì' 彼一時, 此一時 bấy giờ là một thì, bây giờ là một thì (thời gian khác nhau, tình huống cũng khác nhau).",
+                "(Danh) Thời gian, năm tháng, quang âm. ◇Lã Thị Xuân Thu 呂氏春秋: 'Thì bất cửu lưu' 時不久留 (Hiếu hạnh lãm 孝行覽) Năm tháng không ở lại lâu.",
+                "(Danh) Cơ hội, dịp. ◎Như: 'thì cơ' 時機 thời cơ. ◇Tam quốc diễn nghĩa 三國演義: 'Kim bất thừa thì báo hận, cánh đãi hà niên?' 今不乘時報恨, 更待何時 (Đệ thât hồi) Nay không nhân dịp báo thù, còn đợi đến bao giờ?",
+                "(Danh) Lúc ấy, khi ấy. ◇Tư trị thông giám 資治通鑒: 'Thì Tào quân kiêm dĩ cơ dịch, tử giả thái bán' 時曹軍兼以饑疫, 死者太半 Khi ấy quân của Tào Tháo vừa đói vừa bị bịnh dịch, chết hơn một nửa.",
+                "(Danh) Họ 'Thì'.",
+                "(Tính) Bây giờ, hiện nay. ◎Như: 'thì sự' 時事 thời sự, 'thì cục' 時局 thời cuộc, 'thì thế' 時勢 xu thế của thời đại, 'thì trang' 時裝 thời trang.",
+                "(Phó) Thường, thường xuyên. ◎Như: 'thì thì như thử' 時時如此 thường thường như thế. ◇Tây du kí 西遊記: 'Phong đầu thì thính cẩm kê minh, Thạch quật mỗi quan long xuất nhập' 峰頭時聽錦雞鳴, 石窟每觀龍出入 (Đệ nhất hồi) Đầu núi thường nghe gà gấm gáy, Hang đá thường thấy rồng ra vào.",
+                "(Phó) Đúng thời, đang thời, hợp thời. ◎Như: 'thời vụ' 時務 mùa làm ruộng, việc đang đời, 'thời nghi' 時宜 hợp thời (cái mà đời ưa chuộng).",
+                "(Phó) Có khi, thỉnh thoảng, đôi khi. ◎Như: 'tha thì lai thì bất lai' 他時來時不來 anh ấy có khi đến có khi không đến.",
+                "§ Ghi chú: Ta quen đọc là 'thời' cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mùa, như tứ thì 四時 bốn mùa.",
+                "Thì, như bỉ nhất thì thử nhất thì 彼一時，此一時 bấy giờ là một thì, bây giờ là một thì.",
+                "Giờ, một ngày chia 12 giờ, mỗi giờ gọi tên một chi, như giờ tí, giờ sửu, v.v.",
+                "Thường, như thì thì như thử 時時如此 thường thường như thế.",
+                "Ðúng thời, đang thời, như thời vụ 時務 mùa làm ruộng, việc đang đời, thời nghi 時宜 hợp thời (cái mà đời ưa chuộng).",
+                "Cơ hội, như thừa thì nhi khởi 乘時而起 nhân cơ hội mà nổi lên. Ta quen đọc là chữ thời cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỉ thời gian nói chung;",
+                "Thời kì, thời gian dài: 唐時 Thời Đường; 古時 Thời cổ; 現時 Hiện nay, hiện thời; 子時 Giờ Tí (11 giờ tối đến 1 giờ đêm); 醜時 Giờ Sửu (1 đến 3 giờ đêm);",
+                "Giờ, tiếng: 一小時 Một giờ, một tiếng đồng hồ; 按時上班 Đi làm đúng giờ;",
+                "Lúc, thời, thường: 平時 Ngày thường, lúc thường; 盛極一時 Thịnh vượng nhất thời; 彼一時此一時 Lúc kia là một thời, bây giờ là một thời; 時時如此 Thường thường như thế; 時 時之需 Lúc nào cũng cần; 時時照顧 Thường xuyên trông nom.【時常】thời thường [shícháng] Thường xuyên;【時而】thời nhi [shí'ér] Lúc thì, đôi khi, đôi lúc, lắm lúc: 時而晴天，時而下雨 Lúc thì tạnh lúc thì mưa; 【時時】 thời thời [shíshí] Luôn luôn, thường: 時時想到 Luôn luôn nghĩ đến; 時時著書，人又取去，即空居 Thường viết sách, người ta lại lấy đi, rồi cũng không còn cuốn nào (Sử kí: Tư Mã Tương Như liệt truyện);",
+                "Chỉ hiện thời hay lúc đó: 時事 Thời sự;",
+                "Có khi, có lúc, đôi khi, thỉnh thoảng: 他時來時不來 Anh ấy có khi đến có khi không đến; 光時休沐出，桀輒入代光決事 Hoắc Quang thỉnh thoảng nghỉ ra khỏi cung, thượng quan Kiệt liền vào cung thay Quang giải quyết công việc (Hán thư: Hoắc Quang truyện);",
+                "Hợp thời trang: 她的髮型很時髦 Kiểu tóc của cô ta rất hợp thời trang;",
+                "Thích hợp, thích đáng;",
+                "Đúng lúc, đúng thời, hợp thời: 不時筑，而人果竊之 Không xây (tường) đúng lúc, kẻ ngoài quả nhiên vào trộm (Hàn Phi tử: Thuyết lâm hạ); 及宣王至遼東，霖雨，不得時攻 Khi Tuyên Vương đến Liêu Đông, gặp trời mưa dầm, nên không thể tấn công đúng lúc (Tam quốc chí);",
+                "(văn) Mùa: 四時 Bốn mùa;",
+                "(văn) Cơ hội, thời cơ, thời vận: 乘時而起 Nhân cơ hội mà nổi lên;",
+                "Thói tục của một thời, thời tục: 不拘于時 Không câu nệ thời tục (Hàn Dũ: Sư thuyết);",
+                "(văn) Thời sự;",
+                "(văn) Thời gian, năm tháng: 時不久留 Năm tháng không ở lại lâu (Lã thị Xuân thu);",
+                "(văn) Đó, ấy (dùng như 是, có thể chỉ người, vật hoặc nơi chốn): 滿招損，謙受益，時乃天道 Đầy thì bị bớt đi, kém thì được tăng thêm, đó là đạo trời (Thượng thư); 時日曷喪？ Mặt trời này bao giờ huỷ diệt? (Thượng thư); 于時言言 Cười cười nói nói ở chỗ này (Thi Kinh);",
+                "(văn) Lúc ấy, khi ấy: 時曹軍兼以饑疫，死者太半 Khi ấy quân của Tào Tháo vừa đói vừa bị bịnh dịch, chết hơn một nửa (Tư trị thông giám);",
+                "[Shí] (Họ) Thời."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mùa trong năm. Td: Tứ thời ( bốn mùa ) — Giờ trong ngày — Chỉ chung ngày giờ năm tháng, tức thời gian — Đúng với lúc đó, tức hợp thời — Luôn luôn. Thường thường — Cũng đọc thì."
+            ],
+            "compound_words": {
+                "不合時": "bất hợp thời",
+                "不合時宜": "bất hợp thời nghi",
+                "不識時務": "bất thức thời vụ",
+                "平時": "bình thời",
+                "餔時": "bô thời",
+                "及時": "cập thời",
+                "急時": "cấp thời",
+                "戰時": "chiến thời",
+                "舊時": "cựu thời",
+                "異時": "dị thời",
+                "移時": "di thời",
+                "多時": "đa thời",
+                "條陳時事": "điều trần thời sự",
+                "同時": "đồng thời",
+                "當時": "đương thời",
+                "交時": "giao thời",
+                "何時": "hà thời",
+                "合時": "hợp thời",
+                "有時": "hữu thời",
+                "今時": "kim thời",
+                "臨時": "lâm thời",
+                "卯時": "mão thời",
+                "某時": "mỗ thời",
+                "午時": "ngọ thời",
+                "一時": "nhất thời",
+                "若時": "nhược thời",
+                "農時": "nông thời",
+                "片時": "phiến thời",
+                "生時": "sinh thời",
+                "丑時": "sửu thời",
+                "暫時": "tạm thời",
+                "新時": "tân thời",
+                "新時粧": "tân thời trang",
+                "申時": "thân thời",
+                "適時": "thích thời",
+                "天時": "thiên thời",
+                "少時": "thiếu thời",
+                "盛時": "thịnh thời",
+                "時報": "thời báo",
+                "時表": "thời biểu",
+                "時機": "thời cơ",
+                "時局": "thời cục",
+                "時代": "thời đại",
+                "時談": "thời đàm",
+                "時價": "thời giá",
+                "時間": "thời gian",
+                "時候": "thời hậu",
+                "時刻": "thời khắc",
+                "時氣": "thời khí",
+                "時期": "thời kỳ",
+                "時論": "thời luận",
+                "時髦": "thời mao",
+                "時宜": "thời nghi",
+                "時事": "thời sự",
+                "時態": "thời thái",
+                "時勢": "thời thế",
+                "時尚": "thời thượng",
+                "時常": "thời thường",
+                "時節": "thời tiết",
+                "時裝": "thời trang",
+                "時珍": "thời trân",
+                "時運": "thời vận",
+                "時務": "thời vụ",
+                "識時": "thức thời",
+                "子時": "tí thời",
+                "小時": "tiểu thời",
+                "助時": "trợ thời",
+                "四時": "tứ thời",
+                "四時曲": "tứ thời khúc",
+                "即時": "tức thời",
+                "憂時": "ưu thời",
+                "微時": "vi thời",
+                "趨時": "xu thời"
+            }
+        }
+    }
+}

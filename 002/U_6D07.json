@@ -1,0 +1,78 @@
+{
+    "character": "洇",
+    "details": {
+        "Âm Hán Việt": [
+            "nhân",
+            "yên"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡因"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "EWK (水田大)"
+        ],
+        "Unicode": [
+            "U+6D07"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yān ㄧㄢ",
+            "yīn ㄧㄣ"
+        ],
+        "Âm Nôm": [
+            "nhân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "エツ (etsu)",
+            "エチ (echi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しず.む (shizu.mu)"
+        ],
+        "Âm Hàn": [
+            "인"
+        ],
+        "Âm Quảng Đông": [
+            "jan1"
+        ]
+    },
+    "meanings": {
+        "nhân": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tên sông.",
+                "(Danh) Chỉ nước chảy.",
+                "(Động) Chảy lan ra, thấm ướt.",
+                "Một âm là 'yên'. (Động) Mai một, tiêu diệt."
+            ]
+        },
+        "yên": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tên sông.",
+                "(Danh) Chỉ nước chảy.",
+                "(Động) Chảy lan ra, thấm ướt.",
+                "Một âm là 'yên'. (Động) Mai một, tiêu diệt."
+            ],
+            "compound_words": {
+                "洇潤": "yên nhuận"
+            }
+        }
+    }
+}

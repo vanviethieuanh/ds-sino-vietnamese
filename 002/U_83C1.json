@@ -1,0 +1,88 @@
+{
+    "character": "菁",
+    "details": {
+        "Âm Hán Việt": [
+            "thiến",
+            "tinh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹青"
+        ],
+        "Nét bút": [
+            "一丨丨一一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "TQMB (廿手一月)"
+        ],
+        "Unicode": [
+            "U+83C1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "thanh",
+            "tinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "ショウ (shō)"
+        ],
+        "Âm Hàn": [
+            "청"
+        ],
+        "Âm Quảng Đông": [
+            "cing1",
+            "zing1"
+        ]
+    },
+    "meanings": {
+        "thiến": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ tươi tốt xum xuê của thảo mộc."
+            ]
+        },
+        "tinh": {
+            "Từ điển phổ thông": [
+                "(xem: vu tinh 蕪菁,芜菁)",
+                "hoa cỏ",
+                "rậm rạp tốt tươi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hoa hẹ.",
+                "(Danh) Phiếm chỉ đóa hoa. ◇Tống Ngọc 宋玉: 'Thu lan, huệ, giang li tái tinh' 秋蘭蕙, 江離載菁 (Cao đường phú 高唐賦) Cây thu lan, cây huệ, cây giang li mang đầy những hoa.",
+                "(Danh) Tức là 'vu tinh' 蕪菁 rau cải thìa. § Xem từ này.",
+                "(Danh) 'Tinh hoa' 菁華 phần tinh túy, tốt đẹp nhất của sự vật. § Cũng viết là 'tinh hoa' 精華. ◇Cựu Đường Thư 舊唐書: 'Luận Ngữ giả, lục kinh chi tinh hoa' 論語者, 六經之菁華 (Tiết Nhung truyện 薛戎傳) Sách Luận Ngữ là tinh hoa của sáu kinh.",
+                "(Tính) 'Tinh tinh' 菁菁 hoa cỏ rậm rạp tốt tươi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vu tinh 蕪菁 rau cải thìa.",
+                "Tinh tinh 菁菁 hoa cỏ rậm rạp tốt tươi. Vì thế phần tinh tuý của vật gọi là tinh hoa 菁華."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hoa tỏi tây;",
+                "Cây cải dầu. Xem 蕪菁;",
+                "Sum sê, tươi tốt."
+            ],
+            "compound_words": {
+                "芜菁": "vu tinh",
+                "蕪菁": "vu tinh"
+            }
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "character": "茄",
+    "details": {
+        "Âm Hán Việt": [
+            "cà",
+            "gia",
+            "già"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thảo 艸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹加"
+        ],
+        "Nét bút": [
+            "一丨丨フノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TKSR (廿大尸口)"
+        ],
+        "Unicode": [
+            "U+8304"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiā ㄐㄧㄚ",
+            "qié ㄑㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "cà",
+            "gia",
+            "nhà",
+            "nhu",
+            "như",
+            "nhựa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa1",
+            "ke1",
+            "ke4"
+        ]
+    },
+    "meanings": {
+        "cà": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cuống sen, rò sen. ◇Hà Yến 何晏: 'Gia mật đảo thực, thổ bị phù cừ' 茄密倒植, 吐被芙蕖 (Cảnh Phúc điện phú 景福殿賦).",
+                "(Danh) Tên nước cổ, đất nay ở vào tỉnh An Huy.",
+                "(Danh) § Thông 荷.",
+                "(Danh) Từ dùng để phiên âm tiếng ngoại quốc. ◎Như: 'tuyết gia' 雪茄 cigar, 'gia khắc' 茄克 jacket.",
+                "Một âm là 'cà' (cầu già thiết 求迦切). (Danh) Cây cà (lat. Solanum melongena). ◎Như: 'tử cà' 紫茄 cà tím (còn gọi là: cà dái dê), 'phiên cà' 番茄 cà chua (còn gọi là: 'tây hồng thị' 西紅柿)."
+            ]
+        },
+        "gia": {
+            "Từ điển phổ thông": [
+                "cây cà",
+                "cuống sen, giò sen"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cuống sen, rò sen. ◇Hà Yến 何晏: 'Gia mật đảo thực, thổ bị phù cừ' 茄密倒植, 吐被芙蕖 (Cảnh Phúc điện phú 景福殿賦).",
+                "(Danh) Tên nước cổ, đất nay ở vào tỉnh An Huy.",
+                "(Danh) § Thông 荷.",
+                "(Danh) Từ dùng để phiên âm tiếng ngoại quốc. ◎Như: 'tuyết gia' 雪茄 cigar, 'gia khắc' 茄克 jacket.",
+                "Một âm là 'cà' (cầu già thiết 求迦切). (Danh) Cây cà (lat. Solanum melongena). ◎Như: 'tử cà' 紫茄 cà tím (còn gọi là: cà dái dê), 'phiên cà' 番茄 cà chua (còn gọi là: 'tây hồng thị' 西紅柿)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây cà. Như ba gia 番茄 cà chua, còn gọi là tây hồng thị 西紅柿.",
+                "Cuống sen, giò sen."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【雪茄】tuyết gia [xuâjia] Xì gà. Xem 茄 [qié]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cà. Trái cà. Cũng đọc Già."
+            ],
+            "compound_words": {
+                "番茄": "ba gia"
+            }
+        },
+        "già": {
+            "Từ điển Trần Văn Chánh": [
+                "Cà: 番茄 Cà chua. Cg. 西紅柿 [xihóngshì];",
+                "(văn) Cuống sen, giò sen Xem 茄 [jia]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây cà. Quả cà."
+            ]
+        }
+    }
+}

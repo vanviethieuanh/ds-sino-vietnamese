@@ -1,0 +1,89 @@
+{
+    "character": "姚",
+    "details": {
+        "Âm Hán Việt": [
+            "dao",
+            "diêu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nữ 女 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女兆"
+        ],
+        "Nét bút": [
+            "フノ一ノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "VLMO (女中一人)"
+        ],
+        "Unicode": [
+            "U+59DA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "diêu",
+            "đào",
+            "đầu",
+            "rêu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつく.しい (utsuku.shii)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Họ người — Đẹp đẽ — Xa xôi."
+            ]
+        },
+        "diêu": {
+            "Từ điển phổ thông": [
+                "vẻ mặt đẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Họ 'Diêu'.",
+                "(Tính) Tốt đẹp, xinh tươi. § Thông 'điệu' 窕.",
+                "(Tính) Xa. § Thông 'diêu' 遙."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Họ Diêu, con cháu vua Thuấn.",
+                "Phiêu diêu 票姚 nhanh nhẹn cứng cỏi. Nhà Hán gọi quan bình là phiêu diêu.",
+                "Vẻ mặt đẹp (xinh tươi)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Vẻ mặt) đẹp xinh;",
+                "Xem 票姚",
+                "[Yáo] (Họ) Diêu. Xem 票姚"
+            ],
+            "compound_words": {
+                "嫖姚": "phiêu diêu",
+                "票姚": "phiêu diêu"
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "憲",
+    "details": {
+        "Âm Hán Việt": [
+            "hiến"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "tâm 心 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱𡩜心"
+        ],
+        "Nét bút": [
+            "丶丶フ一一一丨丨フ丨丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "JQMP (十手一心)"
+        ],
+        "Unicode": [
+            "U+61B2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hiến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Hàn": [
+            "헌"
+        ],
+        "Âm Quảng Đông": [
+            "hin3"
+        ]
+    },
+    "meanings": {
+        "hiến": {
+            "Từ điển phổ thông": [
+                "pháp luật, hiến pháp",
+                "quan trên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Pháp luật, mệnh lệnh. ◇Nguyễn Trãi 阮廌: 'Đáo để chung đầu hiến võng trung' 到底終投憲網中 (Hạ tiệp 賀捷) Cuối cùng rồi phải sa vào lưới pháp luật.",
+                "(Danh) Điển phạm, tiêu chuẩn, mẫu mực. ◇Thi Kinh 詩經: 'Văn vũ Cát Phủ, Vạn bang vi hiến' 文武吉甫, 萬邦為憲 (Tiểu Nhã 小雅, Lục nguyệt 六月) (Quan đại tướng) Cát Phủ văn võ (song toàn), Làm phép tắc cho muôn nước.",
+                "(Danh) Nói tắt của 'hiến pháp' 憲法. ◎Như: 'lập hiến' 立憲 thành lập hiến pháp, 'vi hiến' 違憲 vi phạm hiến pháp, 'tu hiến' 修憲 sửa đổi hiến pháp.",
+                "(Danh) Tục cũ tôn xưng quan trên là 'hiến'. ◎Như: 'đại hiến' 大憲, 'hiến đài' 憲臺 cũng như ta kêu là Cụ lớn vậy. ◇Liêu trai chí dị 聊齋志異: 'Nãi tường chư hiến, đại sanh giải miễn, cánh thích sanh' 乃詳諸憲, 代生解免, 竟釋生 (Hồng Ngọc 紅玉) Bèn trình rõ lên quan trên, thay sinh xin khỏi tội, rồi thả ra.",
+                "(Động) Ban bố, công bố. ◇Chu Lễ 周禮: 'Nãi tuyên bố vu tứ phương, hiến hình cấm' 乃宣布于四方, 憲刑禁 (Thu quan 秋官, Tiểu tư khấu 小司寇) Rồi tuyên bố khắp bốn phương, ban bố hình cấm.",
+                "(Động) Bắt chước, phỏng theo. ◇Tam quốc chí 三國志: 'Phủ hiến khôn điển, ngưỡng thức kiền văn' 俯憲坤典, 仰式乾文 (Đỗ Vi Đẳng truyện 杜微等傳) Cúi xuống bắt chước phép tắc của đất, trông lên làm theo chuẩn mực của trời."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Pháp, yết các điều pháp luật lên cho người biết mà theo gọi là hiến, nước nào lấy pháp luật mà trị nước gọi là lập hiến quốc 立憲國. Tục cũ gọi các quan trên là hiến. Như đại hiến 大憲, hiến đài 憲臺, v.v. (cũng như ta kêu là Cụ lớn vậy)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Pháp lệnh;",
+                "Hiến pháp: 立憲 Lập hiến;",
+                "Thông minh;",
+                "Từ dùng để gọi các quan trên: 大憲 (hay 憲臺) Cụ lớn;",
+                "(văn) Phỏng theo, bắt chước: 俯憲坤典，仰式乾文 Cúi xuống phỏng theo phép tắc của đất, trông lên làm theo kiểu mẫu của văn trời (Tam quốc chí);",
+                "(văn) Công bố: 憲禁于王宮 Công bố lệnh cấm ở cung vua (Chu lễ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phép tắc lớn lao — Làm cho sáng tỏ ra."
+            ],
+            "compound_words": {
+                "制憲": "chế hiến",
+                "彞憲": "di hiến",
+                "憲兵": "hiến binh",
+                "憲章": "hiến chương",
+                "憲定": "hiến định",
+                "憲法": "hiến pháp",
+                "立憲": "lập hiến",
+                "歴朝憲章類誌": "lịch triều hiến chương loại chí",
+                "風憲": "phong hiến",
+                "軍憲": "quân hiến",
+                "國憲": "quốc hiến",
+                "文憲": "văn hiến",
+                "違憲": "vi hiến"
+            }
+        }
+    }
+}

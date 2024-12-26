@@ -1,0 +1,72 @@
+{
+    "character": "压",
+    "details": {
+        "Âm Hán Việt": [
+            "áp"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "hán 厂 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸厂圡"
+        ],
+        "Nét bút": [
+            "一ノ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "XMGI (重一土戈)"
+        ],
+        "Unicode": [
+            "U+538B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yā ㄧㄚ",
+            "yà ㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "áp"
+        ],
+        "Âm Quảng Đông": [
+            "aat3",
+            "ngaat3"
+        ]
+    },
+    "meanings": {
+        "áp": {
+            "Từ điển phổ thông": [
+                "đè, nén, ghìm",
+                "chen chúc, xô đẩy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 壓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 壓"
+            ],
+            "compound_words": {
+                "压迫": "áp bách",
+                "压扁": "áp biển",
+                "压制": "áp chế",
+                "压倒": "áp đảo",
+                "压紧": "áp khẩn",
+                "压力": "áp lực",
+                "压缩": "áp súc",
+                "压碎": "áp toái",
+                "欺压": "khi áp",
+                "层压": "tằng áp"
+            }
+        }
+    }
+}

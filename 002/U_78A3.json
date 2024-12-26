@@ -1,0 +1,107 @@
+{
+    "character": "碣",
+    "details": {
+        "Âm Hán Việt": [
+            "kiệt",
+            "kệ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thạch 石 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石曷"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "MRAPV (一口日心女)"
+        ],
+        "Unicode": [
+            "U+78A3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ",
+            "kè ㄎㄜˋ",
+            "yà ㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "kiệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いしぶみ (ishibumi)"
+        ],
+        "Âm Hàn": [
+            "갈",
+            "게"
+        ],
+        "Âm Quảng Đông": [
+            "kit3"
+        ]
+    },
+    "meanings": {
+        "kiệt": {
+            "Từ điển phổ thông": [
+                "hòn đá trơ trọi một mình"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bia đá (đỉnh tròn). ◇Nguyễn Du 阮攸: 'Thiên thu bi kiệt hiển tam liệt' 千秋碑碣顯三烈 (Tam liệt miếu 三烈廟) Bia kệ nghìn năm tôn thờ ba người tiết liệt.",
+                "(Danh) Văn tự trên bia đá. Một loại văn thể.",
+                "(Danh) Bia để làm mốc giới hạn. ◇Ngụy thư 魏書: 'Tự Hạnh Thành dĩ bắc bát thập lí, hất Trường Thành nguyên, giáp đạo lập kiệt, dữ Tấn phân giới' 自杏城以北八十里, 迄長城原, 夾道立碣, 與晉分界 (Tự kỉ 序紀).",
+                "(Danh) Tên núi thời cổ. Tức 'Kiệt thạch' 碣石.",
+                "(Tính) Cao sừng sững, đột xuất. ◇Hán Thư 漢書: 'Kiệt dĩ sùng sơn' 碣以崇山 (Dương Hùng truyện thượng 揚雄傳上) Núi cao sừng sững.",
+                "§ Ghi chú: Ta quen đọc là 'kệ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hòn đá đứng một mình, hòn đá mốc tròn, dùng để chôn mốc đất. Ta quen đọc là chữ kệ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bia đá, cột mốc bằng đá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trái núi đứng một mình — Tảng đá trơ vơ — Một âm là Kệ."
+            ],
+            "compound_words": {
+                "碑碣": "bi kiệt",
+                "碣磍": "kiệt hạt"
+            }
+        },
+        "kệ": {
+            "Từ điển phổ thông": [
+                "hòn đá trơ trọi một mình"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bia đá (đỉnh tròn). ◇Nguyễn Du 阮攸: 'Thiên thu bi kiệt hiển tam liệt' 千秋碑碣顯三烈 (Tam liệt miếu 三烈廟) Bia kệ nghìn năm tôn thờ ba người tiết liệt.",
+                "(Danh) Văn tự trên bia đá. Một loại văn thể.",
+                "(Danh) Bia để làm mốc giới hạn. ◇Ngụy thư 魏書: 'Tự Hạnh Thành dĩ bắc bát thập lí, hất Trường Thành nguyên, giáp đạo lập kiệt, dữ Tấn phân giới' 自杏城以北八十里, 迄長城原, 夾道立碣, 與晉分界 (Tự kỉ 序紀).",
+                "(Danh) Tên núi thời cổ. Tức 'Kiệt thạch' 碣石.",
+                "(Tính) Cao sừng sững, đột xuất. ◇Hán Thư 漢書: 'Kiệt dĩ sùng sơn' 碣以崇山 (Dương Hùng truyện thượng 揚雄傳上) Núi cao sừng sững.",
+                "§ Ghi chú: Ta quen đọc là 'kệ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hòn đá đứng một mình, hòn đá mốc tròn, dùng để chôn mốc đất. Ta quen đọc là chữ kệ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tảng đá đứng trơ trọi một mình — Ngọn núi trơ vơ — Bia đá hình tròn ( Bia hình chữ nhật là Bi )."
+            ],
+            "compound_words": {
+                "碑碣": "bi kệ"
+            }
+        }
+    }
+}

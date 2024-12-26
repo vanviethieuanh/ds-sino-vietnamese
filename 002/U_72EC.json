@@ -1,0 +1,81 @@
+{
+    "character": "独",
+    "details": {
+        "Âm Hán Việt": [
+            "độc"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺨虫"
+        ],
+        "Nét bút": [
+            "ノフノ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "KHLMI (大竹中一戈)"
+        ],
+        "Unicode": [
+            "U+72EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dú ㄉㄨˊ"
+        ],
+        "Âm Nôm": [
+            "độc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドク (doku)",
+            "トク (toku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひと.り (hito.ri)"
+        ],
+        "Âm Hàn": [
+            "독"
+        ],
+        "Âm Quảng Đông": [
+            "duk6"
+        ]
+    },
+    "meanings": {
+        "độc": {
+            "Từ điển phổ thông": [
+                "một mình",
+                "con độc (một giống vượn)"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'độc' 獨.",
+                "Giản thể của chữ 獨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ độc 獨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 獨"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết tắt của chữ Độc 獨."
+            ],
+            "compound_words": {
+                "不独": "bất độc",
+                "孤独": "cô độc",
+                "独立": "độc lập",
+                "单独": "đơn độc"
+            }
+        }
+    }
+}

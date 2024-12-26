@@ -1,0 +1,136 @@
+{
+    "character": "吃",
+    "details": {
+        "Âm Hán Việt": [
+            "cật",
+            "ngật"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "khẩu 口 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口乞"
+        ],
+        "Nét bút": [
+            "丨フ一ノ一フ"
+        ],
+        "Thương Hiệt": [
+            "RON (口人弓)"
+        ],
+        "Unicode": [
+            "U+5403"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chī ㄔ",
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "cật",
+            "hấc",
+            "hất",
+            "hớt",
+            "khật",
+            "ngát",
+            "ngặt",
+            "ngật",
+            "ực"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キツ (kitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ども.る (domo.ru)"
+        ],
+        "Âm Hàn": [
+            "흘"
+        ],
+        "Âm Quảng Đông": [
+            "gat1",
+            "hat1",
+            "hek3",
+            "jaak3"
+        ]
+    },
+    "meanings": {
+        "cật": {
+            "Từ điển phổ thông": [
+                "nói lắp",
+                "ăn uống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ăn, uống. § Cũng như 'khiết' 喫. ◎Như: 'cật phạn' 吃飯 ăn cơm, 'cật trà' 吃茶 uống trà, 'cật dược' 吃藥 uống thuốc.",
+                "(Động) Hút, thấm. ◎Như: 'cật yên' 吃煙 hút thuốc, 'cật mặc' 吃墨 thấm mực.",
+                "(Động) Diệt, chặt. ◎Như: 'trừu xa cật pháo' 抽車吃炮 lấy con xe diệt con pháo (đánh cờ).",
+                "(Động) Nuốt trọn. ◎Như: 'giá tham quan bất tri cật liễu đa thiểu dân chi dân cao' 這貪官不知吃了多少民脂民膏 tên quan tham đó nuốt trọn không biết bao nhiêu máu mủ của dân.",
+                "(Động) Chìm. ◎Như: 'giá thuyền cật thủy đa thâm?' 這船吃水多深 cái thuyền đó chìm trong nước sâu không?",
+                "(Động) Gánh vác. ◎Như: 'cật trọng' 吃重 gách vác trách nhiệm nặng nề, 'cật bất trụ' 吃不住 chịu đựng không nổi.",
+                "(Động) Bị, chịu. ◎Như: 'cật kinh' 吃驚 giật mình, 'cật khuy' 吃虧 chịu thiệt thòi, 'cật quan ti' 吃官司 bị thưa kiện, 'cật đắc khổ' 吃得苦 chịu cực khổ. ◇Thủy hử truyện 水滸傳: 'Giá tứ cá nam nữ cật liễu nhất kinh, tiện bả tác tử giải liễu, tương y phục dữ Vũ Tùng xuyên liễu' 這四個男女吃了一驚, 便把索子解了, 將衣服與武松穿了 (Đệ tam thập nhất hồi) Bốn người nam nữ đó giật mình, liền cởi trói, đưa quần áo cho Võ Tòng mặc.",
+                "(Động) Tốn, phí. ◎Như: 'cật lực' 吃力 tốn sức, vất vả.",
+                "(Tính) Lắp (nói), vấp váp. ◎Như: 'khẩu cật' 口吃 miệng nói lắp.",
+                "(Trạng thanh) Khặc khặc (tiếng cười). ◎Như: 'tiếu cật cật bất chỉ' 笑吃吃不止 cười khặc khặc không thôi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nói lắp.",
+                "Ăn. Cũng như chữ khiết 喫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ăn, uống: 吃素 Ăn chay, ăn lạt; 吃藥 Uống thuốc;",
+                "Hút, thấm, ngấm: 吃墨紙 Giấy thấm; 不吃墨 Không thấm mực;",
+                "Chịu đựng: 吃不住 Không chịu nổi;",
+                "Bị, mắc: 吃虧 Bị thiệt; 吃那廝的騙了 Bị thằng ấy lừa rồi;",
+                "Tiêu diệt: 吃掉敵人 Tiêu diệt quân địch;",
+                "(văn) Nói lắp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói liệu, lắp bắp, tiếng nọ lộn thành tiếng kia — Ăn vào miệng — Nhận lấy."
+            ],
+            "compound_words": {
+                "啞子吃黃連": "á tử cật hoàng liên",
+                "吃吃": "cật cật",
+                "吃驚": "cật kinh",
+                "吃水": "cật thuỷ",
+                "吃茶": "cật trà",
+                "小吃": "tiểu cật"
+            }
+        },
+        "ngật": {
+            "Từ điển phổ thông": [
+                "nói lắp",
+                "ăn uống"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ăn, uống: 吃素 Ăn chay, ăn lạt; 吃藥 Uống thuốc;",
+                "Hút, thấm, ngấm: 吃墨紙 Giấy thấm; 不吃墨 Không thấm mực;",
+                "Chịu đựng: 吃不住 Không chịu nổi;",
+                "Bị, mắc: 吃虧 Bị thiệt; 吃那廝的騙了 Bị thằng ấy lừa rồi;",
+                "Tiêu diệt: 吃掉敵人 Tiêu diệt quân địch;",
+                "(văn) Nói lắp."
+            ],
+            "compound_words": {
+                "口吃": "khẩu ngật",
+                "乱吃": "loạn ngật",
+                "亂吃": "loạn ngật",
+                "吃刀": "ngật đao",
+                "吃完": "ngật hoàn",
+                "吃惊": "ngật kinh",
+                "吃驚": "ngật kinh",
+                "吃飯": "ngật phạn",
+                "吃饭": "ngật phạn",
+                "吃醋": "ngật thố",
+                "吃穿": "ngật xuyên"
+            }
+        }
+    }
+}

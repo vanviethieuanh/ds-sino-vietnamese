@@ -1,0 +1,88 @@
+{
+    "character": "襯",
+    "details": {
+        "Âm Hán Việt": [
+            "sấn"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "y 衣 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤親"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶丶一丶ノ一一丨ノ丶丨フ一一一ノフ"
+        ],
+        "Thương Hiệt": [
+            "LYDU (中卜木山)"
+        ],
+        "Unicode": [
+            "U+896F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chèn ㄔㄣˋ"
+        ],
+        "Âm Nôm": [
+            "sấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はだぎ (hadagi)"
+        ],
+        "Âm Hàn": [
+            "친"
+        ],
+        "Âm Quảng Đông": [
+            "can3"
+        ]
+    },
+    "meanings": {
+        "sấn": {
+            "Từ điển phổ thông": [
+                "áo trong, áo lót"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo trong, áo lót.",
+                "(Danh) Lớp đệm, lớp lót bên trong. ◎Như: 'hài sấn' 鞋襯 lớp đệm giày, 'mạo sấn' 帽襯 lớp lót mũ.",
+                "(Động) Lộ ra ngoài, ý động ở trong mà làm cho lộ ra ngoài gọi là 'sấn'. ◎Như: 'sấn thác' 襯托 mượn cách bày tỏ ý ra.",
+                "(Động) Làm nổi bật. ◎Như: 'lục diệp bả hồng hoa sấn đắc cánh hảo khán liễu' 綠葉把紅花襯得更好看了 lá xanh làm nổi bật hoa hồng trông càng đẹp.",
+                "(Động) Cho giúp, bố thí. ◎Như: 'bang sấn' 幫襯 giúp đỡ, 'trai sấn' 齋襯 cúng trai cho sư.",
+                "(Tính) Lót bên trong. ◎Như: 'sấn sam' 襯衫 áo sơ-mi (tiếng Anh: shirt), 'sấn quần' 襯裙 váy lót."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo trong.",
+                "Ý động ở trong mà làm cho lộ ra ngoài gọi là sấn, như sấn thác 襯托 mượn cách bày tỏ ý ra.",
+                "Cho giúp. Như bang sấn 幫襯 giúp đỡ, bố thí cho sư, cho đạo cũng gọi là sấn, như trai sấn 齋襯 cúng trai cho sư."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Áo trong, áo lót;",
+                "Lồng (ở bên trong), lót: 裡面襯件衣裳 Bên trong lồng thêm một chiếc áo; 襯上一張紙 Lót một tờ giấy;",
+                "Làm nổi bật: 綠葉把紅花襯得更好看了 Lá xanh làm nổi bật hoa hồng, trông càng đẹp;",
+                "(văn) Tỏ lộ ra ngoài: 襯託 Mượn cách tỏ ý, nêu bật lên;",
+                "Giúp, bố thí, cúng dường (cho nhà sư): 幫襯 Giúp đỡ; 齊襯 Cúng chay cho nhà sư."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Áo lót — Đeo sát trong mình — Cho. Tặng."
+            ],
+            "compound_words": {
+                "襯衫": "sấn sam",
+                "襯托": "sấn thác",
+                "襯錢": "sấn tiền"
+            }
+        }
+    }
+}

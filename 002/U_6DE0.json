@@ -1,0 +1,83 @@
+{
+    "character": "淠",
+    "details": {
+        "Âm Hán Việt": [
+            "bái",
+            "bí",
+            "tuỵ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡畀"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一丨一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "EWML (水田一中)"
+        ],
+        "Unicode": [
+            "U+6DE0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pèi ㄆㄟˋ",
+            "pì ㄆㄧˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)",
+            "ヘイ (hei)",
+            "ハイ (hai)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "pei3"
+        ]
+    },
+    "meanings": {
+        "bái": {
+            "Từ điển phổ thông": [
+                "bay phấp phới",
+                "đông đảo"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【淠淠】bái bái [pèipèi] (văn) (Cờ bay) phấp phới;",
+                "Đông đảo."
+            ]
+        },
+        "bí": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng thuyền đi — Một âm khác là Bái."
+            ]
+        },
+        "tuỵ": {
+            "Từ điển phổ thông": [
+                "thuyền đi",
+                "chìm ngập"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thuyền đi;",
+                "(văn) Chìm ngập;",
+                "[Pì] Tên sông: 淠河 Sông Tuỵ Hà (ở tỉnh An Huy, Trung Quốc)."
+            ],
+            "compound_words": {
+                "淠河": "tuỵ hà"
+            }
+        }
+    }
+}

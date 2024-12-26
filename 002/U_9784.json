@@ -1,0 +1,99 @@
+{
+    "character": "鞄",
+    "details": {
+        "Âm Hán Việt": [
+            "bào",
+            "bạc"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "cách 革 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰革包"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一丨ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "TJPRU (廿十心口山)"
+        ],
+        "Unicode": [
+            "U+9784"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "báo ㄅㄠˊ",
+            "bào ㄅㄠˋ",
+            "páo ㄆㄠˊ"
+        ],
+        "Âm Nôm": [
+            "bạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ホウ (hō)",
+            "ビョウ (byō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かばん (kaban)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "paai4",
+            "paau4",
+            "pok3"
+        ]
+    },
+    "meanings": {
+        "bào": {
+            "Từ điển phổ thông": [
+                "cái túi da",
+                "thợ thuộc da"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thợ thuộc da.",
+                "Một âm là 'bào'. (Danh) Rương, túi xách nhỏ làm bằng da mềm. ◎Như: 'đề bào' 提鞄 va-li, cặp da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thợ thuộc da.",
+                "Một âm là bào. Ðề bào 提鞄 cái va li."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người thợ thuộc da."
+            ],
+            "compound_words": {
+                "提鞄": "đề bào"
+            }
+        },
+        "bạc": {
+            "Từ điển phổ thông": [
+                "cái túi da",
+                "thợ thuộc da"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thợ thuộc da.",
+                "Một âm là 'bào'. (Danh) Rương, túi xách nhỏ làm bằng da mềm. ◎Như: 'đề bào' 提鞄 va-li, cặp da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thợ thuộc da.",
+                "Một âm là bào. Ðề bào 提鞄 cái va li."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thợ thuộc da."
+            ]
+        }
+    }
+}

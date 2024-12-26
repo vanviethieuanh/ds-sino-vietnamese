@@ -1,0 +1,130 @@
+{
+    "character": "印",
+    "details": {
+        "Âm Hán Việt": [
+            "ấn"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "tiết 卩 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ一フ丨"
+        ],
+        "Thương Hiệt": [
+            "HPSL (竹心尸中)"
+        ],
+        "Unicode": [
+            "U+5370"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ắng",
+            "ấn",
+            "in"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しるし (shirushi)",
+            "-じるし (-jirushi)",
+            "しる.す (shiru.su)"
+        ],
+        "Âm Hàn": [
+            "인"
+        ],
+        "Âm Quảng Đông": [
+            "jan3",
+            "ngan3"
+        ]
+    },
+    "meanings": {
+        "ấn": {
+            "Từ điển phổ thông": [
+                "in ấn",
+                "cái ấn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con dấu (khắc bằng gỗ, kim loại, đá). § Phép nhà Thanh định, con dấu của các quan thân vương trở lên gọi là 'bảo' 寶, từ quận vương trở xuống gọi là 'ấn' 印, của các quan nhỏ gọi là 'kiêm kí' 鈐記, của các quan khâm sai gọi là 'quan phòng' 關防, của người thường dùng gọi là 'đồ chương' 圖章 hay là 'tư ấn' 私印.",
+                "(Danh) Dấu, vết. ◎Như: 'cước ấn' 腳印 vết chân, 'thủ ấn' 手印 dấu tay.",
+                "(Danh) Tên tắt của 'Ấn Độ' 印度. ◎Như: 'Trung Ấn điều ước' 中印條約 điều ước thỏa hiệp giữa Trung Quốc và Ấn Độ.",
+                "(Danh) Họ 'Ấn'.",
+                "(Động) Để lại dấu tích trên vật thể. ◎Như: 'ấn thượng chỉ văn' 印上指紋 lăn dấu tay, 'thâm thâm ấn tại não tử lí' 深深印在腦子裡 in sâu trong trí nhớ.",
+                "(Động) In. ◎Như: 'ấn thư' 印書 in sách, 'bài ấn' 排印 sắp chữ đưa in.",
+                "(Động) Phù hợp. ◎Như: 'tâm tâm tương ấn' 心心相印 tâm đầu ý hợp, 'hỗ tương ấn chứng' 互相印證 nhân cái nọ biết cái kia."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái ấn (con dấu). Phép nhà Thanh định, ấn của các quan thân vương trở lên gọi là bảo 寶, từ quận vương trở xuống gọi là ấn 印, của các quan nhỏ gọi là kiêm kí 鈐記, của các quan khâm sai gọi là quan phòng 關防, của người thường dùng gọi là đồ chương 圖章 hay là tư ấn 私印.",
+                "In. Khắc chữ in chữ gọi là ấn, cái đồ dùng in báo in sách gọi là ấn loát khí 印刷器.",
+                "Như in vào, cái gì còn có dấu dính vào vật khác đều gọi là ấn. Hai bên hợp ý cùng lòng gọi là tâm tâm tương ấn 心心相印, nhân cái nọ biết cái kia gọi là hỗ tương ấn chứng 互相印證."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Con) dấu: 蓋印 Đóng dấu;",
+                "Dấu (vết): 腳印 Vết chân;",
+                "In: 印書 In sách; 深深印在腦子裡 In sâu trong trí nhớ;",
+                "Hợp: 心心相印 Tâm đầu ý hợp;",
+                "[Yìn] (Họ) Ấn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con dấu. Cái phù hiệu làm tin của quan thời xưa. Cũng gọi là ấn tính — in vết vào đâu — Họ người. Cái phù hiệu làm tin của quan thời xưa. Cũng gọi là ấn tính — In vết vào đâu — Họ người."
+            ],
+            "compound_words": {
+                "印本": "ấn bản",
+                "印紙": "ấn chỉ",
+                "印證": "ấn chứng",
+                "印章": "ấn chương",
+                "印工": "ấn công",
+                "印定": "ấn định",
+                "印度": "ấn độ",
+                "印度支那": "ấn độ chi na",
+                "印度洋": "ấn độ dương",
+                "印度教": "ấn độ giáo",
+                "印度河": "ấn độ hà",
+                "印度尼西亚": "ấn độ ni tây á",
+                "印度尼西亞": "ấn độ ni tây á",
+                "印河": "ấn hà",
+                "印行": "ấn hành",
+                "印花": "ấn hoa",
+                "印花稅": "ấn hoa thuế",
+                "印券": "ấn khoán",
+                "印刷": "ấn loát",
+                "印刷機": "ấn loát cơ",
+                "印刷品": "ấn loát phẩm",
+                "印刷術": "ấn loát thuật",
+                "印尼": "ấn ni",
+                "印官": "ấn quan",
+                "印舘": "ấn quán",
+                "印訣": "ấn quyết",
+                "印綬": "ấn thụ",
+                "印跡": "ấn tích",
+                "印信": "ấn tín",
+                "印篆": "ấn triện",
+                "印像": "ấn tượng",
+                "印象": "ấn tượng",
+                "印象主義": "ấn tượng chủ nghĩa",
+                "印象派": "ấn tượng phái",
+                "牌印": "bài ấn",
+                "寶印": "bảo ấn",
+                "掌印": "chưởng ấn",
+                "打印": "đả ấn",
+                "開印": "khai ấn",
+                "付印": "phó ấn",
+                "官印": "quan ấn"
+            }
+        }
+    }
+}

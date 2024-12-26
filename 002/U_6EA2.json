@@ -1,0 +1,94 @@
+{
+    "character": "溢",
+    "details": {
+        "Âm Hán Việt": [
+            "dật"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡益"
+        ],
+        "Nét bút": [
+            "丶丶一丶ノ一ノ丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "ETCT (水廿金廿)"
+        ],
+        "Unicode": [
+            "U+6EA2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ải",
+            "dật"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イツ (itsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こぼ.れる (kobo.reru)",
+            "あふ.れる (afu.reru)",
+            "み.ちる (mi.chiru)"
+        ],
+        "Âm Hàn": [
+            "일"
+        ],
+        "Âm Quảng Đông": [
+            "jat6"
+        ]
+    },
+    "meanings": {
+        "dật": {
+            "Từ điển phổ thông": [
+                "đầy tràn",
+                "phóng túng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đầy tràn. ◇Lễ Kí 禮記: 'Tuy hữu hung hạn thủy dật, dân vô thái sắc' 雖有凶旱水溢, 民無菜色 (Vương chế 王制) Dù có nắng khô hạn, nước ngập lụt, dân cũng không bị xanh xao đói rách.",
+                "(Động) Phiếm chỉ chảy ra ngoài, trôi mất. ◇Nhị thập niên mục đổ chi quái hiện trạng 二十年目睹之怪現狀: 'Lợi quyền ngoại dật' 利權外溢 (Đệ cửu thập tứ hồi) Các quyền lợi bị thất tán.",
+                "(Động) Thừa thãi, sung mãn. ◎Như: 'nhiệt tình dương dật' 熱情洋溢 hăng hái tràn trề.",
+                "(Phó) Quá độ, quá mức. ◎Như: 'dật mĩ' 溢美 quá khen, khen ngợi quá đáng.",
+                "(Danh) Lượng từ: đơn vị trọng lượng, hai mươi 'lạng' 兩 bằng một 'dật' 溢. § Thông 'dật' 鎰. (2) Một vốc tay cũng gọi là một 'dật'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðầy tràn. Hiếu Kinh có câu: Mãn nhi bất dật 滿而不溢 ý nói giàu mà không kiêu xa.",
+                "Hai mươi bốn lạng gọi là một dật, một vốc tay cũng gọi là một dật."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tràn, trèo: 潮水溢出堤岸 Nước thuỷ triều tràn ra ngoài đê. (Ngr) Quá: 溢出此數 Quá con số này;",
+                "(cũ) Như 鎰 [yì] (bộ 金)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầy tràn ra ngoài — Quá độ — Tên một đơn vị trọng lượng thời xưa, bằng 20 lạng ta."
+            ],
+            "compound_words": {
+                "溢惡": "dật ác",
+                "溢辯": "dật biện",
+                "溢譽": "dật dự",
+                "溢美": "dật mĩ",
+                "溢目": "dật mục",
+                "溢越": "dật việt",
+                "盈溢": "doanh dật",
+                "餘溢": "dư dật",
+                "洋溢": "dương dật",
+                "充溢": "sung dật"
+            }
+        }
+    }
+}

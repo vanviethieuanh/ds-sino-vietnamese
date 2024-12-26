@@ -1,0 +1,126 @@
+{
+    "character": "向",
+    "details": {
+        "Âm Hán Việt": [
+            "hướng",
+            "hưởng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "khẩu 口 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノ丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HBR (竹月口)"
+        ],
+        "Unicode": [
+            "U+5411"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiàng ㄒㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hướng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "む.く (mu.ku)",
+            "む.い (mu.i)",
+            "-む.き (-mu.ki)",
+            "む.ける (mu.keru)",
+            "-む.け (-mu.ke)",
+            "む.かう (mu.kau)",
+            "む.かい (mu.kai)",
+            "む.こう (mu.kō)",
+            "む.こう- (mu.kō-)",
+            "むこ (muko)",
+            "むか.い (muka.i)"
+        ],
+        "Âm Hàn": [
+            "향",
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "hoeng3"
+        ]
+    },
+    "meanings": {
+        "hướng": {
+            "Từ điển phổ thông": [
+                "hướng, phía",
+                "hướng vào, nhằm vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngoảnh về, quay về, ngả theo. ◎Như: 'nam hướng' 南向 ngoảnh về hướng nam, 'bắc hướng' 北向 ngoảnh về hướng bắc. Ý chí ngả về mặt nào gọi là 'chí hướng' 志向, 'xu hướng' 趨向.",
+                "(Tính) Xưa kia, cũ, trước. ◇Đào Uyên Minh 陶淵明: 'Kí xuất, đắc kì thuyền, tiện phù hướng lộ' 既出, 得其船, 便扶向路 (Đào hoa nguyên kí 桃花源記) Ra khỏi (hang) rồi, tìm lại được chiếc thuyền, bèn theo đường cũ (mà về).",
+                "(Phó) Xưa nay, trước đây, lúc đầu. ◎Như: 'hướng giả' 向者 trước ấy, 'hướng lai' 向來 từ xưa đến nay. ◇Liêu trai chí dị 聊齋志異: 'Hướng bất thật cáo, nghi tao thử ách' 向不實告, 宜遭此厄 (Hương Ngọc 香玉) Trước đây không nói thật, nên mới gặp nạn này.",
+                "(Giới) Sắp, gần. ◎Như: 'hướng thần' 向晨 sắp sáng.",
+                "(Giới) Hướng về, hướng vào, lên. Biểu thị phương hướng hoặc đối tượng của động tác. ◎Như: 'hướng tiền khán' 向前看 nhìn về phía trước.",
+                "(Danh) Họ 'Hướng'.",
+                "Giản thể của chữ 曏."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngoảnh về, hướng về. Ngoảnh về phương vị nào gọi là hướng. Như nam hướng 南向 ngoảnh về hướng nam, bắc hướng 北向 ngoảnh về hướng bắc, v.v. Ý chí ngả về mặt nào gọi là chí hướng 志向, xu hướng 趨向, v.v.",
+                "Ngày xưa, như hướng giả 向者 trước ấy.",
+                "Sắp, như hướng thần 向晨 sắp sáng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hướng dẫn;",
+                "Hướng về (như 向, bộ 口);",
+                "Như 響 (bộ 音), 饗 (bộ 食)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cửa sổ xoay về phương Bắc — Xoay về. Ngó mặt về — Nghiêng về, thiên về — Lúc trước — Gần đây."
+            ],
+            "compound_words": {
+                "志向": "chí hướng",
+                "动向": "động hướng",
+                "動向": "động hướng",
+                "单向": "đơn hướng",
+                "單向": "đơn hướng",
+                "回向": "hồi hướng",
+                "向陽": "hướng dương",
+                "向导": "hướng đạo",
+                "向來": "hướng lai",
+                "向外": "hướng ngoại",
+                "向隅": "hướng ngung",
+                "向隅而泣": "hướng ngung nhi khấp",
+                "向日": "hướng nhật",
+                "向內": "hướng nội",
+                "向善": "hướng thiện",
+                "向上": "hướng thượng",
+                "向往": "hướng vãng",
+                "倾向": "khuynh hướng",
+                "傾向": "khuynh hướng",
+                "一向": "nhất hướng",
+                "方向": "phương hướng",
+                "葵向": "quỳ hướng",
+                "所向": "sở hướng",
+                "趨向": "xu hướng",
+                "意向": "ý hướng"
+            }
+        },
+        "hưởng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Hướng dẫn;",
+                "Hướng về (như 向, bộ 口);",
+                "Như 響 (bộ 音), 饗 (bộ 食)."
+            ]
+        }
+    }
+}

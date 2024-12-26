@@ -1,0 +1,85 @@
+{
+    "character": "賄",
+    "details": {
+        "Âm Hán Việt": [
+            "hối"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "bối 貝 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰貝有"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "BCKB (月金大月)"
+        ],
+        "Unicode": [
+            "U+8CC4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "hối"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワイ (wai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まかな.う (makana.u)"
+        ],
+        "Âm Hàn": [
+            "회"
+        ],
+        "Âm Quảng Đông": [
+            "fui2",
+            "kui2"
+        ]
+    },
+    "meanings": {
+        "hối": {
+            "Từ điển phổ thông": [
+                "của cải",
+                "hối lộ, đút lót"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiền của. ◎Như: 'hóa hối' 貨賄 của cải. § Ghi chú: Theo Chu Lễ, vàng ngọc là 'hóa', vải lụa là 'hối'.",
+                "(Động) Đút lót tiền của. ◎Như: 'tư hối' 私貨 đút ngầm, 'hối lộ' 賄賂 đem của đút lót. ◇Liêu trai chí dị 聊齋志異: 'Dương cụ, nội ngoại hối thông, thủy xuất chất lí' 羊懼, 內外賄通, 始出質理 (Tịch Phương Bình 席方平) Họ Dương sợ, trong ngoài hối lột khắp cả, rồi mới ra đối chất.",
+                "(Động) Tặng tiền của."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Của, như hoá hối 貨賄 của cải, vàng ngọc gọi là hoá, vải lụa gọi là hối.",
+                "Đút của, như tư hối 私貨 đút ngầm.",
+                "Tặng tiền của."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hối lộ, đút tiền: 受賄 Ăn hối lộ;",
+                "(văn) Tặng tiền của;",
+                "(văn) Tiền của."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiền của — Đem tiền của đưa cho người khác."
+            ],
+            "compound_words": {
+                "賄賂": "hối lộ",
+                "納賄": "nạp hối",
+                "受賄": "thụ hối"
+            }
+        }
+    }
+}

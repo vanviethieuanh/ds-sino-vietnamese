@@ -1,0 +1,81 @@
+{
+    "character": "菰",
+    "details": {
+        "Âm Hán Việt": [
+            "cô"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹孤"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨一ノノフ丶丶"
+        ],
+        "Thương Hiệt": [
+            "TNDO (廿弓木人)"
+        ],
+        "Unicode": [
+            "U+83F0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ"
+        ],
+        "Âm Nôm": [
+            "cô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こも (komo)",
+            "まこも (makomo)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu1"
+        ]
+    },
+    "meanings": {
+        "cô": {
+            "Từ điển phổ thông": [
+                "rau cô, lúa cô",
+                "cây nấm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Rau cô, lúa cô (Zizania latifolia). Tục gọi là 'giao bạch duẩn' 茭白筍.",
+                "(Danh) Nấm. § Cũng như 菇."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rau cô, lúa cô.",
+                "Nấm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Niễng (Zizania latifolia). Cg. 茭白;",
+                "Như 菇 [gu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái tù và làm bằng ống tre lớn."
+            ],
+            "compound_words": {
+                "蘑菰": "ma cô",
+                "茨菰": "tỳ cô"
+            }
+        }
+    }
+}

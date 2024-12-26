@@ -1,0 +1,51 @@
+{
+    "character": "鼅",
+    "details": {
+        "Âm Hán Việt": [
+            "tri"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "mãnh 黽 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿱知黽"
+        ],
+        "Nét bút": [
+            "ノ一一ノ丶丨フ一丨フ一丨フ一一フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "ORRXU (人口口重山)"
+        ],
+        "Unicode": [
+            "U+9F05"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhī ㄓ"
+        ]
+    },
+    "meanings": {
+        "tri": {
+            "Từ điển phổ thông": [
+                "(xem: tri chu 蜘蛛,鼅鼄)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xem 鼄."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con nhện. Như chữ Tri 蜘."
+            ],
+            "compound_words": {
+                "鼅鼄": "tri thù"
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "character": "針",
+    "details": {
+        "Âm Hán Việt": [
+            "châm",
+            "trâm"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "kim 金 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金十"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "CJ (金十)"
+        ],
+        "Unicode": [
+            "U+91DD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhēn ㄓㄣ"
+        ],
+        "Âm Nôm": [
+            "chảm",
+            "chăm",
+            "châm",
+            "găm",
+            "kim",
+            "trâm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はり (hari)"
+        ],
+        "Âm Hàn": [
+            "침"
+        ],
+        "Âm Quảng Đông": [
+            "zam1"
+        ]
+    },
+    "meanings": {
+        "châm": {
+            "Từ điển phổ thông": [
+                "cái kim"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Kim khâu. § Tục dùng như 'châm' 鍼.",
+                "(Danh) Chỉ vật gì nhọn như kim. ◎Như: 'tùng châm' 松針 kim lá cây thông.",
+                "(Danh) Lượng từ: (1) Đơn vị dùng cho số lần tiêm thuốc. (2) Đơn vị chỉ số lần khâu vá hoặc châm cứu.",
+                "(Động) Khâu. ◇Hoài Nam Tử 淮南子: 'Châm thành mạc' 針成幕 (Thuyết san 說山) Khâu thành màn.",
+                "(Động) Đâm, chích (bằng mũi nhọn).",
+                "(Động) Châm cứu (dùng kim chích vào huyệt đạo để trị bệnh)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ châm 鍼."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cây) kim: 縫衣針 Kim khâu; 鍾錶針 Kim đồng hồ; 指南針 Kim chỉ nam;",
+                "(Cái) ghim: 大頭針 Cái ghim; 別針 Ghim băng; 迴紋針 Ghim cặp giấy;",
+                "Tiêm: 防疫針 Thuốc tiêm phòng dịch; 打針 Tiêm, chích;",
+                "Châm: 針各穴位可以治病 Châm các huyệt vị có thể chữa bệnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái kim khâu quần áo — Cái gai của cây cối."
+            ],
+            "compound_words": {
+                "弻針": "bật châm",
+                "別針": "biệt châm",
+                "撞針": "chàng châm",
+                "針不入孔": "châm bất nhập khổng",
+                "針砭": "châm biêm",
+                "針貶": "châm biếm",
+                "針氈": "châm chiên",
+                "針灸": "châm cứu",
+                "針對": "châm đối",
+                "針芥相投": "châm giới tương đầu",
+                "針科": "châm khoa",
+                "針路": "châm lộ",
+                "針艾": "châm ngải",
+                "針言": "châm ngôn",
+                "針法": "châm pháp",
+                "針鋒": "châm phong",
+                "針沈水底": "châm trầm thuỷ để",
+                "針線": "châm tuyến",
+                "執針": "chấp châm",
+                "打針": "đả châm",
+                "南針": "nam châm",
+                "方針": "phương châm",
+                "水底撈針": "thuỷ để lao châm",
+                "扎針": "trát châm",
+                "避雷針": "tỵ lôi châm"
+            }
+        },
+        "trâm": {
+            "Từ điển phổ thông": [
+                "cái kim"
+            ]
+        }
+    }
+}

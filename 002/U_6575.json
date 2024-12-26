@@ -1,0 +1,106 @@
+{
+    "character": "敵",
+    "details": {
+        "Âm Hán Việt": [
+            "địch"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "phác 攴 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰啇攵"
+        ],
+        "Nét bút": [
+            "丶一丶ノ丨フ一丨丨フ一ノ丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YBOK (卜月人大)"
+        ],
+        "Unicode": [
+            "U+6575"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dí ㄉㄧˊ"
+        ],
+        "Âm Nôm": [
+            "địch"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テキ (teki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かたき (kataki)",
+            "あだ (ada)",
+            "かな.う (kana.u)"
+        ],
+        "Âm Hàn": [
+            "적"
+        ],
+        "Âm Quảng Đông": [
+            "dik6"
+        ]
+    },
+    "meanings": {
+        "địch": {
+            "Từ điển phổ thông": [
+                "kẻ thù, giặc",
+                "ngang nhau",
+                "chống cự"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Kẻ thù. ◎Như: 'địch chúng ngã quả' 敵眾我寡 địch đông ta ít.",
+                "(Tính) Thù nghịch. ◎Như: 'địch quốc' 敵國 nước thù, 'địch quân' 敵軍 quân địch.",
+                "(Tính) Ngang, bằng, tương đương. ◎Như: 'địch thể' 敵體 ngang nhau, 'xa tam bất địch kiến nhị' 賒三不敵見二 xa ba không bằng hai gần.",
+                "(Động) Chống cự, chống đối. ◎Như: 'quả bất địch chúng' 寡不敵眾 số ít không chống lại được số đông. ◇Nguyễn Du 阮攸: 'Nhất sàng cô muộn địch xuân hàn' 一床孤悶敵春寒 (Ngẫu đề công quán bích 偶題公館壁) Trên một giường, nỗi buồn cô đơn chống với khí lạnh của xuân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giặc thù, như địch quốc 敵國 nước thù.",
+                "Ngang, như địch thể 敵體 ngang nhau.",
+                "Chống cự, đối địch."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kẻ thù, địch: 殘敵 Quân thù còn sót lại;",
+                "Chống chọi, chống đối, (đối) địch: 寡不敵衆 Ít không địch nổi nhiều;",
+                "Ngang nhau, tương đương nhau: 勢均力敵 Thế lực ngang nhau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kẻ thù — Chống đối — Ngang nhau. Cân bằng."
+            ],
+            "compound_words": {
+                "拒敵": "cự địch",
+                "仇敵": "cừu địch",
+                "敵黨": "địch đảng",
+                "敵人": "địch nhân",
+                "敵軍": "địch quân",
+                "敵國": "địch quốc",
+                "敵手": "địch thủ",
+                "敵意": "địch ý",
+                "對敵": "đối địch",
+                "輕敵": "khinh địch",
+                "勍敵": "kình địch",
+                "迎敵": "nghênh địch",
+                "禦敵": "ngự địch",
+                "赴敵": "phó địch",
+                "防敵": "phòng địch",
+                "寡不敵衆": "quả bất địch chúng",
+                "殺敵": "sát địch",
+                "盡敵": "tận địch",
+                "讐敵": "thù địch",
+                "應敵": "ứng địch",
+                "無敵": "vô địch"
+            }
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "character": "剞",
+    "details": {
+        "Âm Hán Việt": [
+            "cơ",
+            "kỉ",
+            "kỳ",
+            "kỷ",
+            "ỷ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "đao 刀 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰奇⺉"
+        ],
+        "Nét bút": [
+            "一ノ丶一丨フ一丨丨丨"
+        ],
+        "Thương Hiệt": [
+            "KRLN (大口中弓)"
+        ],
+        "Unicode": [
+            "U+525E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ"
+        ],
+        "Âm Nôm": [
+            "cơ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きざ.む (kiza.mu)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei1",
+            "gei2"
+        ]
+    },
+    "meanings": {
+        "cơ": {
+            "Từ điển Trần Văn Chánh": [
+                "【剞劂】kỉ quyết [jijué] (văn) Dao trổ, dao khắc;",
+                "Bản khắc gỗ, sách in khắc gỗ."
+            ]
+        },
+        "kỉ": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “kỉ quyết” 剞劂."
+            ],
+            "compound_words": {
+                "剞劂": "kỉ quyết"
+            }
+        },
+        "kỳ": {
+            "Từ điển Thiều Chửu": [
+                "Kỉ quyết 剞劂 con dao khoằm, thứ dao dùng để chạm trổ, vì thế nên khắc bản in sách cũng gọi là kỉ quyết.",
+                "Một âm là kì cũng nghĩa như trên. Tục quen đọc là ỷ."
+            ]
+        },
+        "kỷ": {
+            "Từ điển phổ thông": [
+                "(xem: kỷ quyết 剞劂)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kỉ quyết 剞劂 con dao khoằm, thứ dao dùng để chạm trổ, vì thế nên khắc bản in sách cũng gọi là kỉ quyết.",
+                "Một âm là kì cũng nghĩa như trên. Tục quen đọc là ỷ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【剞劂】kỉ quyết [jijué] (văn) Dao trổ, dao khắc;",
+                "Bản khắc gỗ, sách in khắc gỗ."
+            ],
+            "compound_words": {
+                "剞劂": "kỷ quyết"
+            }
+        },
+        "ỷ": {
+            "Từ điển Thiều Chửu": [
+                "Kỉ quyết 剞劂 con dao khoằm, thứ dao dùng để chạm trổ, vì thế nên khắc bản in sách cũng gọi là kỉ quyết.",
+                "Một âm là kì cũng nghĩa như trên. Tục quen đọc là ỷ."
+            ],
+            "compound_words": {
+                "剞劂": "kỷ quyết"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "笔",
+    "details": {
+        "Âm Hán Việt": [
+            "bút"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trúc 竹 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮毛"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ一一フ"
+        ],
+        "Thương Hiệt": [
+            "HHQU (竹竹手山)"
+        ],
+        "Unicode": [
+            "U+7B14"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bǐ ㄅㄧˇ"
+        ],
+        "Âm Nôm": [
+            "bút",
+            "phút"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒツ (hitsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふで (fude)"
+        ],
+        "Âm Quảng Đông": [
+            "bat1"
+        ]
+    },
+    "meanings": {
+        "bút": {
+            "Từ điển phổ thông": [
+                "cái bút (để viết)",
+                "viết bằng bút",
+                "nét trong chữ Hán",
+                "cách viết, cách vẽ",
+                "món tiền",
+                "bức tranh"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 筆."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 筆"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết tắt của chữ Bút 筆."
+            ],
+            "compound_words": {
+                "败笔": "bại bút",
+                "笔名": "bút danh",
+                "笔畫": "bút hoạ",
+                "笔录": "bút lục",
+                "笔误": "bút ngộ",
+                "笔法": "bút pháp",
+                "笔尖": "bút tiêm",
+                "钢笔": "cương bút",
+                "毛笔": "mao bút"
+            }
+        }
+    }
+}

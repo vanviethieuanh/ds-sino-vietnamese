@@ -1,0 +1,103 @@
+{
+    "character": "閼",
+    "details": {
+        "Âm Hán Việt": [
+            "yên",
+            "át"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "môn 門 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿵門於"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丶一フノノ丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "ANYSY (日弓卜尸卜)"
+        ],
+        "Unicode": [
+            "U+95BC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "è",
+            "yān ㄧㄢ",
+            "yè ㄜˋ",
+            "yù ㄩˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ア (a)",
+            "アツ (atsu)",
+            "エン (en)",
+            "ヨ (yo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とど.める (todo.meru)",
+            "ふさ.ぐ (fusa.gu)"
+        ],
+        "Âm Hàn": [
+            "알"
+        ],
+        "Âm Quảng Đông": [
+            "aat1",
+            "aat3",
+            "jin1"
+        ]
+    },
+    "meanings": {
+        "yên": {
+            "Từ điển phổ thông": [
+                "(tên riêng)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chẹn, lấp, bưng bít. ◇Liệt Tử 列子: 'Phù nhĩ chi sở dục văn giả âm thanh, nhi bất đắc thính, vị chi át thông' 夫耳之所欲聞者音聲, 而不得聽, 謂之閼聰 (Dương Chu 楊朱) Tai muốn nghe âm thanh, mà nghe không được, là vì thích giác bị bưng bít.",
+                "Một âm là 'yên'. (Danh) 'Yên Chi' 閼氏 tên hiệu vợ chính của vua 'Hung Nô' 匈奴, thời Hán."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chẹn, lấp.",
+                "Một âm là yên. Yên chi 閼氏 tên hiệu vợ chính vua rợ Hung Nô 匈奴, thời Hán 漢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【閼氏】 yên chi [yanzhi] Vợ (chính thức) của vua Hung Nô (trong đời Hán)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Yên thị 閼氏 — Một âm là Át ( lấp lại, bếp tắc )."
+            ],
+            "compound_words": {
+                "閼氏": "yên thị"
+            }
+        },
+        "át": {
+            "Từ điển phổ thông": [
+                "chẹn, lấp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chẹn, lấp, bưng bít. ◇Liệt Tử 列子: 'Phù nhĩ chi sở dục văn giả âm thanh, nhi bất đắc thính, vị chi át thông' 夫耳之所欲聞者音聲, 而不得聽, 謂之閼聰 (Dương Chu 楊朱) Tai muốn nghe âm thanh, mà nghe không được, là vì thích giác bị bưng bít.",
+                "Một âm là 'yên'. (Danh) 'Yên Chi' 閼氏 tên hiệu vợ chính của vua 'Hung Nô' 匈奴, thời Hán."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chẹn, lấp.",
+                "Một âm là yên. Yên chi 閼氏 tên hiệu vợ chính vua rợ Hung Nô 匈奴, thời Hán 漢."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chẹn, lấp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chặn lấp."
+            ]
+        }
+    }
+}

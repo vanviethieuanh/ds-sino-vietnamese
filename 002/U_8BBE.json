@@ -1,0 +1,65 @@
+{
+    "character": "设",
+    "details": {
+        "Âm Hán Việt": [
+            "thiết"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠殳"
+        ],
+        "Nét bút": [
+            "丶フノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "IVHNE (戈女竹弓水)"
+        ],
+        "Unicode": [
+            "U+8BBE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shè ㄕㄜˋ"
+        ],
+        "Âm Nôm": [
+            "thiết"
+        ],
+        "Âm Quảng Đông": [
+            "cit3"
+        ]
+    },
+    "meanings": {
+        "thiết": {
+            "Từ điển phổ thông": [
+                "sắp đặt, bày, đặt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 設."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 設"
+            ],
+            "compound_words": {
+                "安设": "an thiết",
+                "摆设": "bài thiết",
+                "电脑辅助设计": "điện não phụ trợ thiết kế",
+                "建设": "kiến thiết",
+                "设定": "thiết định",
+                "设立": "thiết lập"
+            }
+        }
+    }
+}

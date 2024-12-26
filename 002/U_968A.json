@@ -1,0 +1,117 @@
+{
+    "character": "隊",
+    "details": {
+        "Âm Hán Việt": [
+            "toại",
+            "truỵ",
+            "đội"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "phụ 阜 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖㒸"
+        ],
+        "Nét bút": [
+            "フ丨丶ノ一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "NLTPO (弓中廿心人)"
+        ],
+        "Unicode": [
+            "U+968A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "duì ㄉㄨㄟˋ",
+            "suì ㄙㄨㄟˋ",
+            "zhuì ㄓㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "dội",
+            "dụi",
+            "đòi",
+            "đôi",
+            "đụi",
+            "giọi",
+            "nhụi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Hàn": [
+            "대"
+        ],
+        "Âm Quảng Đông": [
+            "deoi6"
+        ]
+    },
+    "meanings": {
+        "toại": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Toại 隧 — Xem các âm khác là Đội, Truỵ. Xem các âm này."
+            ]
+        },
+        "truỵ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Truỵ 䃍 — Xem Đội, Toại."
+            ]
+        },
+        "đội": {
+            "Từ điển phổ thông": [
+                "đội quân",
+                "dàn thành hàng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hàng. ◎Như: 'xa đội' 車隊 hàng xe, 'trạm đội' 站隊 đứng vào hàng, 'bài đội' 排隊 xếp hàng.",
+                "(Danh) Nhóm người tập hợp có tổ chức. ◎Như: 'thám hiểm đội' 探險隊 đội thám hiểm, 'bài cầu đội' 排球隊 đội bóng chuyền.",
+                "(Danh) Quân lính, quân lữ. ◎Như: 'quân đội' 軍隊, 'bộ đội' 部隊.",
+                "(Danh) Lượng từ: đoàn, toán. ◎Như: 'nhất đội nhân mã' 一隊人馬 một đoàn người ngựa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðội quân, phép nhà binh quân bộ và quân pháo thủ thì cứ 126 người gọi là một đội, quân kị mã thì 56 người là một đội.",
+                "Phàm xếp bày thành hàng, thành đàn đều gọi là đội. Như trạm đội 站隊 đứng vào hàng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hàng: 站隊 Đứng vào hàng; 排隊上車 Xếp hàng lên xe;",
+                "Đội (một số người có tổ chức): 球隊 Đội bóng; 艦隊 Hạm đội; 擔¬[隊 Đội cáng thương; 消防隊 Đội chữa cháy;",
+                "Đội thiếu niên tiền phong: 隊旗 Cờ đội (thiếu niên tiền phong);",
+                "Đoàn, toán: 一隊人馬 Một đoàn người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đoàn người, nhóm người có tổ chức. Chẳng hạn Cầu đội ( đội bóng, đội banh ) — Các âm khác là Toại, Truỵ. Xem các âm này."
+            ],
+            "compound_words": {
+                "排隊": "bài đội",
+                "兵隊": "binh đội",
+                "步隊": "bộ đội",
+                "部隊": "bộ đội",
+                "本隊": "bổn đội",
+                "支隊": "chi đội",
+                "大隊": "đại đội",
+                "團隊": "đoàn đội",
+                "隊主": "đội chủ",
+                "隊伍": "đội ngũ",
+                "隊長": "đội trưởng",
+                "艦隊": "hạm đội",
+                "後隊": "hậu đội",
+                "炮隊": "pháo đội",
+                "飛隊": "phi đội",
+                "軍隊": "quân đội",
+                "率隊": "suất đội",
+                "衛隊": "vệ đội"
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "character": "吟",
+    "details": {
+        "Âm Hán Việt": [
+            "ngâm"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口今"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶丶フ"
+        ],
+        "Thương Hiệt": [
+            "ROIN (口人戈弓)"
+        ],
+        "Unicode": [
+            "U+541F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yín ㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "gặm",
+            "gầm",
+            "ngăm",
+            "ngăn",
+            "ngâm",
+            "ngợm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギン (gin)"
+        ],
+        "Âm Hàn": [
+            "음"
+        ],
+        "Âm Quảng Đông": [
+            "jam4",
+            "ngam4"
+        ]
+    },
+    "meanings": {
+        "ngâm": {
+            "Từ điển phổ thông": [
+                "ngâm thơ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rên rỉ. ◇Đái Đồng 戴侗: 'Thống vi thân ngâm' 痛為呻吟 (Lục thư cố 六書故) Đau thì rên rỉ.",
+                "(Động) Than van. ◇Chiến quốc sách 戰國策: 'Tước lập bất chuyển, trú ngâm tiêu khốc' 雀立不轉, 晝吟宵哭 (Sở sách nhất 楚策一) Đứng như con chim tước, ngày than đêm khóc.",
+                "(Động) Ngâm, vịnh, đọc. ◎Như: 'ngâm nga' 吟哦, 'ngâm vịnh' 吟詠. ◇Trang Tử 莊子: 'Ỷ thụ nhi ngâm, cứ cảo ngô nhi minh' 倚樹而吟, 據槁梧而瞑 (Đức sung phù 德充符) Tựa cây mà ngâm nga, dựa gốc ngô đồng khô mà nhắm mắt.",
+                "(Động) Bày tỏ, trữ tả, diễn đạt. ◇Văn tâm điêu long 文心雕龍: 'Cảm vật ngâm chí, mạc phi tự nhiên' 感物吟志, 莫非自然 (Minh thi 明詩).",
+                "(Động) Kêu. ◇Tào Thực 曹植: 'Cô nhạn phi nam du, Quá đình trường ai ngâm' 孤雁飛南遊, 過庭長哀吟 (Tạp thi 雜詩) Nhạn lẻ bay về nam, Qua sân kêu thương dằng dặc.",
+                "(Động) Thổi, xuy tấu. ◇Khương Quỳ 姜夔: 'Dư mỗi tự độ khúc, ngâm đỗng tiêu, Thương Khanh triếp ca nhi họa chi' 予每自度曲, 吟洞簫, 商卿輒歌而和之 (Giác chiêu 角招, Từ tự 詞序).",
+                "(Động) Nói lắp bắp, nói không rõ ràng.",
+                "(Danh) Một thể thơ cổ. ◎Như: 'Lương phụ ngâm' 梁父吟 của Khổng Minh, 'Bạch đầu ngâm' 白頭吟 của Văn Quân.",
+                "(Danh) Họ 'Ngâm'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngâm. Ðọc thơ đọc phú kéo giọng dài ra gọi là ngâm, như ngâm nga 吟哦, ngâm vịnh 吟詠, v.v. Người ốm đau rên rỉ gọi là thân ngâm 呻吟."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rên rỉ. Tiếng rên — Đọc kéo dài và lên giọng xuống giọng — Tên một thể văn vần, ở Việt Nam là thể Song Thất Lục bát. Td:  Chinh phụ ngâm khúc  — Đọc thơ với âm điệu dễ nghe.  Đoạn trường tân thanh  có câu: » Thông minh vốn sẵn tính trời, pha nghề thi hoạ đủ mùi ca ngâm «."
+            ],
+            "compound_words": {
+                "歌吟": "ca ngâm",
+                "征婦吟曲": "chinh phụ ngâm khúc",
+                "拱極樂吟集": "củng cực lạc ngâm tập",
+                "宮怨吟曲": "cung oán ngâm khúc",
+                "呻吟": "hạp ngâm",
+                "鏡海續吟": "kính hải tục ngâm",
+                "聯吟": "liên ngâm",
+                "吟哦": "ngâm nga",
+                "吟詠": "ngâm vịnh",
+                "首尾吟": "thủ vĩ ngâm",
+                "笑吟吟": "tiếu ngâm ngâm",
+                "沈吟": "trầm ngâm",
+                "沉吟": "trầm ngâm",
+                "醉吟": "tuý ngâm"
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "渥",
+    "details": {
+        "Âm Hán Việt": [
+            "ác",
+            "ốc"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡屋"
+        ],
+        "Nét bút": [
+            "丶丶一フ一ノ一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "ESMG (水尸一土)"
+        ],
+        "Unicode": [
+            "U+6E25"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "òu ㄛㄨˋ",
+            "wò ㄨㄛˋ",
+            "wū ㄨ"
+        ],
+        "Âm Nôm": [
+            "ác",
+            "dốc",
+            "ốc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アク (aku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.い (atsu.i)",
+            "うるお.う (uruo.u)"
+        ],
+        "Âm Hàn": [
+            "악"
+        ],
+        "Âm Quảng Đông": [
+            "ak1"
+        ]
+    },
+    "meanings": {
+        "ác": {
+            "Từ điển phổ thông": [
+                "thấm ướt",
+                "bôi, phết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Thấm ướt, thấm nhuần. ◎Như: 'kí ưu kí ác' 既優既渥 được nhiều mưa móc, ý nói được hưởng nhiều ân trạch.",
+                "(Tính) Dày, đậm. ◎Như: 'ác đan' 渥丹 son dày."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấm ướt, như kí ưu kí ác 既優既渥 được chịu mưa móc nhiều, nói bóng là được ân trạch nhiều.",
+                "Phết dày, lấy chất lỏng đặc phết dày lên trên bề mặt gọi là ác, như ác đan 渥丹 phết son dày."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thấm, thấm ướt: 既優既渥 Đã chịu nhiều ơn mưa móc;",
+                "Phết dày một lớp: 渥丹 Phết lớp son dày."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thấm ướt — Nhiều, hậu hỉ, nói về ân huệ hoặc cách đối xử."
+            ],
+            "compound_words": {
+                "渥恩": "ác ân",
+                "渥眄": "ác miện"
+            }
+        },
+        "ốc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Ốc 沃 — Thấm vào. Cũng đọc Ác."
+            ],
+            "compound_words": {
+                "渥惠": "ốc huệ",
+                "渥味": "ốc vị"
+            }
+        }
+    }
+}

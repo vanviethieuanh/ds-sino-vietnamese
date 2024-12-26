@@ -1,0 +1,76 @@
+{
+    "character": "孙",
+    "details": {
+        "Âm Hán Việt": [
+            "tôn",
+            "tốn"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "tử 子 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰子小"
+        ],
+        "Nét bút": [
+            "フ丨一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NDF (弓木火)"
+        ],
+        "Unicode": [
+            "U+5B59"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sūn ㄙㄨㄣ",
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tôn"
+        ],
+        "Âm Quảng Đông": [
+            "syun1"
+        ]
+    },
+    "meanings": {
+        "tôn": {
+            "Từ điển phổ thông": [
+                "cháu gọi bằng ông"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 孫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 孫"
+            ],
+            "compound_words": {
+                "外孙": "ngoại tôn",
+                "孙女": "tôn nữ",
+                "孙子": "tôn tử",
+                "子孙": "tử tôn"
+            }
+        },
+        "tốn": {
+            "Từ điển phổ thông": [
+                "nhún nhường"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 孫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 孫"
+            ]
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "character": "饭",
+    "details": {
+        "Âm Hán Việt": [
+            "phãn",
+            "phạn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thực 食 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰饣反"
+        ],
+        "Nét bút": [
+            "ノフフノノフ丶"
+        ],
+        "Thương Hiệt": [
+            "NVHE (弓女竹水)"
+        ],
+        "Unicode": [
+            "U+996D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "fàn ㄈㄢˋ"
+        ],
+        "Âm Nôm": [
+            "phạn"
+        ],
+        "Âm Quảng Đông": [
+            "faan6"
+        ]
+    },
+    "meanings": {
+        "phãn": {
+            "Từ điển phổ thông": [
+                "cơm",
+                "ăn cơm"
+            ]
+        },
+        "phạn": {
+            "Từ điển phổ thông": [
+                "cơm",
+                "ăn cơm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 飯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 飯"
+            ],
+            "compound_words": {
+                "吃饭": "ngật phạn",
+                "午饭": "ngọ phạn",
+                "饭店": "phạn điếm",
+                "饭馆": "phạn quán",
+                "饭盌": "phạn uyển",
+                "早饭": "tảo phạn",
+                "便饭": "tiện phạn",
+                "晩饭": "vãn phạn"
+            }
+        }
+    }
+}

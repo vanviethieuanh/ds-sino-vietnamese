@@ -1,0 +1,91 @@
+{
+    "character": "謏",
+    "details": {
+        "Âm Hán Việt": [
+            "tiểu",
+            "tẩu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngôn 言 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言叟"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ丨一フ一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "YRHXE (卜口竹重水)"
+        ],
+        "Unicode": [
+            "U+8B0F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "sǒu ㄙㄡˇ",
+            "xiǎo ㄒㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "tẩu"
+        ],
+        "Âm Quảng Đông": [
+            "sau2",
+            "siu2"
+        ]
+    },
+    "meanings": {
+        "tiểu": {
+            "Từ điển phổ thông": [
+                "nhỏ bé"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nhỏ, mọn. ◎Như: 'tiểu tài' 謏才 tài mọn.",
+                "(Động) Dụ dỗ, dẫn dắt.",
+                "§ Cũng đọc là 'tẩu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhỏ bé.",
+                "Một âm là tẩu. Lời rủ rê dỗ dành."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nhỏ;",
+                "Rủ rê, dụ dỗ, quyến rũ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé. Như chữ Tiểu 小."
+            ]
+        },
+        "tẩu": {
+            "Từ điển phổ thông": [
+                "lời rủ rê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nhỏ, mọn. ◎Như: 'tiểu tài' 謏才 tài mọn.",
+                "(Động) Dụ dỗ, dẫn dắt.",
+                "§ Cũng đọc là 'tẩu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhỏ bé.",
+                "Một âm là tẩu. Lời rủ rê dỗ dành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhỏ bé — Nhỏ tuổi."
+            ],
+            "compound_words": {
+                "謏才": "tẩu tài",
+                "謏聞": "tẩu văn"
+            }
+        }
+    }
+}

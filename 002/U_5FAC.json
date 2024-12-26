@@ -1,0 +1,90 @@
+{
+    "character": "徬",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng",
+            "bạng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "xích 彳 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰彳旁"
+        ],
+        "Nét bút": [
+            "ノノ丨丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "HOYBS (竹人卜月尸)"
+        ],
+        "Unicode": [
+            "U+5FAC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "páng ㄆㄤˊ"
+        ],
+        "Âm Nôm": [
+            "bàng",
+            "vảng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つきそ.う (tsukiso.u)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển phổ thông": [
+                "(xem: bàng hoàng 彷徨)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nương tựa, đi theo bên cạnh. § Thông 'bàng' 傍.",
+                "Một âm là 'bàng'. (Động) 'Bàng hoàng' 徬徨 ngập ngừng, do dự, không quyết. ☆Tương tự: 'bàng hoàng' 彷徨."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nương tựa (như 傍, bộ 亻);",
+                "Như 彷 [páng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bàng hoàng 徬徨."
+            ],
+            "compound_words": {
+                "徬徨": "bàng hoàng"
+            }
+        },
+        "bạng": {
+            "Từ điển phổ thông": [
+                "một bên",
+                "bên cạnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nương tựa, đi theo bên cạnh. § Thông 'bàng' 傍.",
+                "Một âm là 'bàng'. (Động) 'Bàng hoàng' 徬徨 ngập ngừng, do dự, không quyết. ☆Tương tự: 'bàng hoàng' 彷徨."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nương tựa, cũng như chữ bàng 傍.",
+                "Cùng nghĩa với chữ bàng 彷 bàng hoàng 旁皇."
+            ]
+        }
+    }
+}

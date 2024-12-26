@@ -1,0 +1,83 @@
+{
+    "character": "匙",
+    "details": {
+        "Âm Hán Việt": [
+            "thi"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tỷ 匕 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺是匕"
+        ],
+        "Nét bút": [
+            "丨フ一一一丨一ノ丶ノフ"
+        ],
+        "Thương Hiệt": [
+            "AOP (日人心)"
+        ],
+        "Unicode": [
+            "U+5319"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ",
+            "shī ㄕ"
+        ],
+        "Âm Nôm": [
+            "chuỷ",
+            "thi",
+            "thìa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さじ (saji)"
+        ],
+        "Âm Hàn": [
+            "시"
+        ],
+        "Âm Quảng Đông": [
+            "ci4",
+            "si4"
+        ]
+    },
+    "meanings": {
+        "thi": {
+            "Từ điển phổ thông": [
+                "cái thìa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái thìa. ◎Như: 'canh thi' 羹匙 muỗng canh.",
+                "(Danh) § Xem 'thược thi' 鑰匙."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái thìa.",
+                "Thược thi 鑰匙 cái chìa khoá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 鑰匙 [yàoshi]. Xem 匙 [chí]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái chìa khoá — Cái thìa múc canh. Như chữ Chuỷ 匕."
+            ],
+            "compound_words": {
+                "鑰匙": "thược thi",
+                "钥匙": "thược thi",
+                "茶匙": "trà thi"
+            }
+        }
+    }
+}

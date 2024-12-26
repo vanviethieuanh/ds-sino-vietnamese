@@ -1,0 +1,112 @@
+{
+    "character": "捐",
+    "details": {
+        "Âm Hán Việt": [
+            "quyên"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘肙"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "QRB (手口月)"
+        ],
+        "Unicode": [
+            "U+6350"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "juān ㄐㄩㄢ",
+            "yuán ㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "quen",
+            "quên",
+            "quyên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "す.てる (su.teru)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "gyun1"
+        ]
+    },
+    "meanings": {
+        "quyên": {
+            "Từ điển phổ thông": [
+                "quyên góp",
+                "bỏ, hiến"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bỏ, xả. ◎Như: 'quyên quán' 捐舘 bỏ chỗ ở, nghĩa là chết, 'quyên sinh' 捐生 bỏ mạng, tự tử, 'vị quốc quyên khu' 為國捐軀 xả thân vì nước. ◇Pháp Hoa Kinh 法華經: 'Vị ư pháp cố, quyên xả quốc vị' 為於法故, 捐捨國位 (Đề Bà Đạt Đa phẩm đệ thập nhị 提婆達多品第十二) Vì Phật pháp nên từ bỏ ngôi vua.",
+                "(Động) Trừ bỏ, trừ khử. ◎Như: 'quyên trừ nhất thiết' 捐除一切 nhất thiết trừ bỏ hết.",
+                "(Động) Ngày xưa, nộp tiền cho nhà nước để nhận quan chức gọi là 'quyên'. ◎Như: 'quyên quan' 捐官 mua chức quan.",
+                "(Động) Đem tiền giúp vào việc nghĩa. ◎Như: 'quyên khoản cứu tai' 捐款救災 quyên tiền cứu nạn.",
+                "(Danh) Thuế. ◎Như: 'phòng quyên' 房捐 thuế nhà, 'địa quyên' 地捐 thuế đất.",
+                "(Danh) Cái vòng xe."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bỏ, như quyên quán 捐舘 bỏ chỗ ở, nghĩa là chết.",
+                "Trừ bỏ đi, như quyên trừ nhất thiết 捐除一切 nhất thiết trừ bỏ hết.",
+                "Giúp riêng.",
+                "Quyên, nộp tiền cho nhà nước ban chức tước cho gọi là quyên. Ðem tiền cúng vào việc nghĩa gì cũng gọi là quyên.",
+                "Thuế quyên.",
+                "Cái vòng xe."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trừ bỏ, bỏ đi: 捐生 Bỏ mạng, tự tử; 捐館 Bỏ chỗ ở, chết; 捐除 Trừ bỏ;",
+                "(Quyên) góp, cúng, ủng hộ: 捐錢 Góp tiền, quyên tiền;",
+                "(cũ) Thuế: 房捐 Thuế nhà;",
+                "(văn) Cái vòng xe."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bỏ đi. Trừ đi. Xem Quyên sinh — Thâu góp tiền bạc. Td: Lạc quyên – Tiền thuế phải nộp."
+            ],
+            "compound_words": {
+                "賑捐": "chẩn quyên",
+                "勒捐": "lặc quyên",
+                "募捐": "mộ quyên",
+                "捐名": "quyên danh",
+                "捐献": "quyên hiến",
+                "捐獻": "quyên hiến",
+                "捐款": "quyên khoản",
+                "捐軀": "quyên khu",
+                "捐金": "quyên kim",
+                "捐例": "quyên lệ",
+                "捐命": "quyên mệnh",
+                "捐銀": "quyên ngân",
+                "捐官": "quyên quan",
+                "捐生": "quyên sinh",
+                "捐贈": "quyên tặng",
+                "捐赠": "quyên tặng",
+                "捐身": "quyên thân",
+                "捐塵": "quyên trần",
+                "捐助": "quyên trợ",
+                "捐忘": "quyên vong",
+                "車捐": "xa quyên"
+            }
+        }
+    }
+}

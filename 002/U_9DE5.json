@@ -1,0 +1,70 @@
+{
+    "character": "鷥",
+    "details": {
+        "Âm Hán Việt": [
+            "ty",
+            "tư"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿰糹糹鳥"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶フフ丶丨ノ丶ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "VFHAF (女火竹日火)"
+        ],
+        "Unicode": [
+            "U+9DE5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "sī ㄙ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しらさぎ (shirasagi)"
+        ],
+        "Âm Quảng Đông": [
+            "si1"
+        ]
+    },
+    "meanings": {
+        "ty": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 鷺 [lù]."
+            ]
+        },
+        "tư": {
+            "Từ điển phổ thông": [
+                "(xem: lô tư 鸕鷀,鸕鷥,鸬鷀,鸬鸶)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Lô tư” 鸕鷥: xem “lô” 鸕."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xem chữ lô 鸕."
+            ],
+            "compound_words": {
+                "鷺鷥": "lộ tư",
+                "鸕鷥": "lô tư"
+            }
+        }
+    }
+}

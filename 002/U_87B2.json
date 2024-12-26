@@ -1,0 +1,69 @@
+{
+    "character": "螲",
+    "details": {
+        "Âm Hán Việt": [
+            "trất",
+            "điệt"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "trùng 虫 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫窒"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶丶フノ丶一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIJCG (中戈十金土)"
+        ],
+        "Unicode": [
+            "U+87B2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Quảng Đông": [
+            "dit6",
+            "zat6"
+        ]
+    },
+    "meanings": {
+        "trất": {
+            "Từ điển phổ thông": [
+                "(xem: lâu trất 螻螲)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【螻螲】lâu trất [lóuzhì] Dế nhũi (dũi)."
+            ],
+            "compound_words": {
+                "蝼螲": "lâu trất",
+                "螻螲": "lâu trất"
+            }
+        },
+        "điệt": {
+            "Từ điển phổ thông": [
+                "(xem: điệt đương 螲蟷)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【螲蟷】điệt đương [diédang] Nhện đất (màu nâu đen, đào hang dưới đất, hang có nắp đóng mở được, ăn các loài côn trùng nhỏ) ."
+            ],
+            "compound_words": {
+                "螲蟷": "điệt đương"
+            }
+        }
+    }
+}

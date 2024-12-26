@@ -1,0 +1,120 @@
+{
+    "character": "緬",
+    "details": {
+        "Âm Hán Việt": [
+            "diến",
+            "miến",
+            "miễn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mịch 糸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹面"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶一ノ丨フ丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "VFMWL (女火一田中)"
+        ],
+        "Unicode": [
+            "U+7DEC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "miǎn ㄇㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "diến",
+            "mén",
+            "miến",
+            "rịn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メン (men)",
+            "ベン (ben)"
+        ],
+        "Âm Hàn": [
+            "면"
+        ],
+        "Âm Quảng Đông": [
+            "min5"
+        ]
+    },
+    "meanings": {
+        "diến": {
+            "Từ điển phổ thông": [
+                "xa tít",
+                "nghĩ triền miên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vật rất nhỏ. ◇Thuyết văn giải tự 說文解字：'Miễn, vi ti dã' 緬, 微絲也.",
+                "(Danh) Tức là 'Miến Điện' 緬甸 viết tắt. § Xem từ này.",
+                "(Phó) Xa xôi. ◎Như: 'miễn hoài' 緬懷, 'miễn tưởng' 緬想 đều là tưởng nghĩ xa xôi. ◇Nguyễn Trãi 阮廌: 'Miễn tưởng cố viên tam kính cúc' 緬想故園三徑菊 (Thu nhật ngẫu thành 秋日偶成) Từ xa tưởng nhớ ba luống cúc nơi vườn cũ.",
+                "(Động) Cuộn lại, bó lại. ◇Nhi nữ anh hùng truyện 兒女英雄傳: 'Bả na Phật thanh thô bố sam tử đích câm tử, vãng nhất bàng nhất miễn' (Đệ tứ hồi) 把那佛青粗布衫子的衿子, 往一旁一緬 Cầm lấy cái áo già lam vải thô, để qua một bên cuộn lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xa tít.",
+                "Nghĩ triền miên, như miễn hoài 緬懷, miễn tưởng 緬想 đều là tưởng nghĩ triền miên cả.",
+                "Miễn điện 緬甸 tên nước, còn gọi là Miễn điện liên bang 緬甸聯邦 (Union of Mianmar). Ta quen gọi là chữ diến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xa xăm, xa tít, xa xôi: 緬懷 Tưởng nhớ (xa xôi);",
+                "Triền miên: 緬念神庥 Nghĩ mãi đến ơn thần (câu thường dùng trong các sắc thần)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cũng đọc Miến. Miến Điện."
+            ]
+        },
+        "miến": {
+            "Từ điển phổ thông": [
+                "xa tít",
+                "nghĩ triền miên"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xa xăm, xa tít, xa xôi: 緬懷 Tưởng nhớ (xa xôi);",
+                "Triền miên: 緬念神庥 Nghĩ mãi đến ơn thần (câu thường dùng trong các sắc thần)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xa Xôi — Nghĩ ngơi — Cũng đọc là Diến."
+            ],
+            "compound_words": {
+                "緬甸": "miến điện",
+                "緬想": "miến tưởng"
+            }
+        },
+        "miễn": {
+            "Từ điển phổ thông": [
+                "xa tít",
+                "nghĩ triền miên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vật rất nhỏ. ◇Thuyết văn giải tự 說文解字：'Miễn, vi ti dã' 緬, 微絲也.",
+                "(Danh) Tức là 'Miến Điện' 緬甸 viết tắt. § Xem từ này.",
+                "(Phó) Xa xôi. ◎Như: 'miễn hoài' 緬懷, 'miễn tưởng' 緬想 đều là tưởng nghĩ xa xôi. ◇Nguyễn Trãi 阮廌: 'Miễn tưởng cố viên tam kính cúc' 緬想故園三徑菊 (Thu nhật ngẫu thành 秋日偶成) Từ xa tưởng nhớ ba luống cúc nơi vườn cũ.",
+                "(Động) Cuộn lại, bó lại. ◇Nhi nữ anh hùng truyện 兒女英雄傳: 'Bả na Phật thanh thô bố sam tử đích câm tử, vãng nhất bàng nhất miễn' (Đệ tứ hồi) 把那佛青粗布衫子的衿子, 往一旁一緬 Cầm lấy cái áo già lam vải thô, để qua một bên cuộn lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xa tít.",
+                "Nghĩ triền miên, như miễn hoài 緬懷, miễn tưởng 緬想 đều là tưởng nghĩ triền miên cả.",
+                "Miễn điện 緬甸 tên nước, còn gọi là Miễn điện liên bang 緬甸聯邦 (Union of Mianmar). Ta quen gọi là chữ diến."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xa xăm, xa tít, xa xôi: 緬懷 Tưởng nhớ (xa xôi);",
+                "Triền miên: 緬念神庥 Nghĩ mãi đến ơn thần (câu thường dùng trong các sắc thần)."
+            ]
+        }
+    }
+}

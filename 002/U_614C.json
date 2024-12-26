@@ -1,0 +1,99 @@
+{
+    "character": "慌",
+    "details": {
+        "Âm Hán Việt": [
+            "hoang",
+            "hoảng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖荒"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨丨丶一フノ丨フ"
+        ],
+        "Thương Hiệt": [
+            "PTYU (心廿卜山)"
+        ],
+        "Unicode": [
+            "U+614C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huāng ㄏㄨㄤ",
+            "huǎng ㄏㄨㄤˇ"
+        ],
+        "Âm Nôm": [
+            "hoang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あわ.てる (awa.teru)",
+            "あわ.ただしい (awa.tadashii)"
+        ],
+        "Âm Hàn": [
+            "황"
+        ],
+        "Âm Quảng Đông": [
+            "fong1"
+        ]
+    },
+    "meanings": {
+        "hoang": {
+            "Từ điển phổ thông": [
+                "vội vã, vội vàng",
+                "hoảng sợ"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gấp rút, nóng nảy — Khốn quẫn — Một âm là Hoảng. Xem Hoảng."
+            ],
+            "compound_words": {
+                "慌忙": "hoang mang"
+            }
+        },
+        "hoảng": {
+            "Từ điển phổ thông": [
+                "vội vã, vội vàng",
+                "hoảng sợ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vội vàng, hấp tấp. ◎Như: 'hoảng mang' 慌忙 vội vàng hấp tấp. ◇Tam quốc diễn nghĩa 三國演義: 'Thủ phàn khúc lan, vọng hà hoa trì tiện khiêu. Lã Bố hoảng mang bão trụ' 手攀曲欄, 望荷花池便跳. 呂布慌忙抱住 (Đệ bát hồi) (Điêu Thuyền) tay vịn bao lơn, mắt nhìn ra ao sen định nhảy xuống, Lã Bố vội vàng ôm lấy.",
+                "(Động) Sợ hãi. ◎Như: 'khủng hoảng' 恐慌 hãi sợ, 'kinh hoảng' 驚慌 kinh sợ. ◇Thủy hử truyện 水滸傳: 'Hưu hoảng! Thả khán bần đạo đích bổn sự' 休慌! 且看貧道的本事 (Đệ thập bát hồi) Chớ có hoảng sợ! Hãy xem tài của bần đạo đây.",
+                "(Trợ) Quá, lắm, không chịu được. ◎Như: 'muộn đắc hoảng' 悶得慌 buồn quá, 'luy đắc hoảng' 累得慌 mệt không chịu được. ◇Hồng Lâu Mộng 紅樓夢: 'Đầu kỉ thiên háo tử nháo đắc hoảng' 頭幾天耗子鬧得慌 (Đệ nhất ○ tam hồi) Mấy hôm trước đây, chuột phá dữ lắm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lờ mờ, như hoảng hốt 慌惚.",
+                "Vội vàng, như hoảng mang 慌忙 vội vàng hấp tấp.",
+                "Sợ hoảng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lật đật, tất tả, vội vàng, hấp tấp, bấn: 慌了手腳 Bấn cả chân tay; 慌忙 Vội vàng hấp tấp;",
+                "Bối rối, hoảng hốt: 心裡發慌 Trong lòng bối rối; 沈著氣，別慌 Hãy bình tĩnh, đừng hoảng hốt;",
+                "Quá, không chịu được: 累得慌 Mệt không chịu được; 餓得慌 Đói không chịu được; 悶得慌 Buồn quá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như hai chữ Hoảng 恍, 㤺."
+            ],
+            "compound_words": {
+                "慌慌張張": "hoảng hoảng trương trương",
+                "惚慌": "hốt hoảng",
+                "恐慌": "khủng hoảng"
+            }
+        }
+    }
+}

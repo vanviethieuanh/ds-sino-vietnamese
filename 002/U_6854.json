@@ -1,0 +1,114 @@
+{
+    "character": "桔",
+    "details": {
+        "Âm Hán Việt": [
+            "cát",
+            "kiết",
+            "kết",
+            "quất"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mộc 木 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木吉"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "DGR (木土口)"
+        ],
+        "Unicode": [
+            "U+6854"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ",
+            "jú ㄐㄩˊ",
+            "xié ㄒㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "cát",
+            "quất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キツ (kitsu)",
+            "ケツ (ketsu)"
+        ],
+        "Âm Hàn": [
+            "길"
+        ],
+        "Âm Quảng Đông": [
+            "aat1",
+            "gat1"
+        ]
+    },
+    "meanings": {
+        "cát": {
+            "Từ điển Trần Văn Chánh": [
+                "【桔槔】cát cao [jiégao] Cần gàu, con quay để kéo nước (đặt trên mặt giếng);",
+                "【桔梗】cát cánh [jiégâng] (dược) Cát cánh. Xem 桔 [jú]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Cát cánh 桔梗."
+            ],
+            "compound_words": {
+                "桔梗": "cát cánh"
+            }
+        },
+        "kiết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây, vỏ cứng, rễ dùng làm vị thuốc, cũng gọi là Kiết cánh 桔梗. Ta còn đọc Cát cánh."
+            ]
+        },
+        "kết": {
+            "Từ điển phổ thông": [
+                "quả quít, quả cam",
+                "(xem: kết cánh 桔梗)",
+                "(xem: kết cao 桔槔)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'kết ngạnh' 桔梗.",
+                "(Danh) § Xem 'kết cao' 桔槔.",
+                "§ Cũng như chữ 橘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kết cánh 桔梗 cỏ kết cánh, dùng làm thuốc.",
+                "Kết cao 桔槔 con quay đặt ở trên mặt giếng để kéo nước lên cho dễ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【桔槔】cát cao [jiégao] Cần gàu, con quay để kéo nước (đặt trên mặt giếng);",
+                "【桔梗】cát cánh [jiégâng] (dược) Cát cánh. Xem 桔 [jú]."
+            ],
+            "compound_words": {
+                "桔梗": "kết ngạnh",
+                "桔槔": "kết cao"
+            }
+        },
+        "quất": {
+            "Từ điển trích dẫn": [
+                "(Danh) § Xem 'kết ngạnh' 桔梗.",
+                "(Danh) § Xem 'kết cao' 桔槔.",
+                "§ Cũng như chữ 橘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 橘 [jú]. Xem 桔 [jié]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Quất 橘 — Một âm là Kiết. Xem Kiết."
+            ]
+        }
+    }
+}

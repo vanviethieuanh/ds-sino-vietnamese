@@ -1,0 +1,79 @@
+{
+    "character": "薯",
+    "details": {
+        "Âm Hán Việt": [
+            "thự"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹署"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ丨丨一一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "TWLA (廿田中日)"
+        ],
+        "Unicode": [
+            "U+85AF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shǔ ㄕㄨˇ"
+        ],
+        "Âm Nôm": [
+            "thự"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショ (sho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いも (imo)"
+        ],
+        "Âm Hàn": [
+            "서"
+        ],
+        "Âm Quảng Đông": [
+            "syu4",
+            "syu5"
+        ]
+    },
+    "meanings": {
+        "thự": {
+            "Từ điển phổ thông": [
+                "(xem: thự lang 薯莨)",
+                "(xem: thự dự 薯蕷,薯蓣)",
+                "(xem: hương thự 香薯)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Khoai. § “Thự dự” 薯蕷 tức là “hoài sơn” 懷山 củ mài (Dioscorea opposita); “cam thự” 甘薯 khoai lang; “thự lang” 薯莨  củ nâu; “hương thự” 香薯 một thứ khoai núi, sống cũng ăn được mà nấu chín ăn lại càng ngon."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thự dự 薯蕷 tức là hoài sơn 懷山 củ mài, dùng nấu ăn và làm thuốc.",
+                "Hương thự 香薯 một thứ khoai núi, sống cũng ăn được mà nấu chín ăn lại càng ngon."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khoai: 甘薯 Khoai lang; 薯蕷 Hoài sơn, củ mài; 薯莨 Củ nâu."
+            ],
+            "compound_words": {
+                "香薯": "hương thự",
+                "薯蓣": "thự dự",
+                "薯蕷": "thự dự",
+                "薯莨": "thự lang"
+            }
+        }
+    }
+}

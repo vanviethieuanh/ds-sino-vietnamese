@@ -1,0 +1,86 @@
+{
+    "character": "餞",
+    "details": {
+        "Âm Hán Việt": [
+            "tiễn"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thực 食 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰飠戔"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ一一フ丶一フノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OIII (人戈戈戈)"
+        ],
+        "Unicode": [
+            "U+991E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tiễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はなむけ (hanamuke)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin3"
+        ]
+    },
+    "meanings": {
+        "tiễn": {
+            "Từ điển phổ thông": [
+                "tiễn đưa",
+                "rượu tiễn biệt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Làm tiệc để đưa chân người đi xa. ◎Như: 'tiễn biệt' 餞別 tiễn đưa. ◇Thủy hử truyện 水滸傳: 'Tam cá đầu lĩnh khổ lưu bất trụ, tố liễu tống lộ diên tịch tiễn hành' 三個頭領苦留不住, 做了送路筵席餞行 (Đệ tam thập nhị hồi) Ba vị đầu lĩnh cố giữ lại không được, bèn đặt tiệc tiễn hành.",
+                "(Động) Đưa đi. ◎Như: 'tiễn dư hàn' 餞餘寒 tống tiễn cái lạnh còn rớt lại.",
+                "(Danh) Mứt (các thứ quả ngâm đường). ◎Như: 'mật tiễn' 蜜餞 mứt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rượu tiễn, làm tiệc để tiễn chân người đi xa gọi là tiễn. Như tiễn biệt 餞別 tiễn đưa.",
+                "Lấy đường ngâm các thứ quả gọi là mật tiễn 蜜餞 mứt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiễn đưa: 餞別 Tiễn biệt;",
+                "Tiệc tiễn hành: 餞行 Thết tiệc tiễn hành, bày rượu đưa khách lên đường;",
+                "Đưa quà;",
+                "Mứt: 她很喜歡吃密餞 Cô ấy rất thích ăn mứt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bày tiệc để mời người sắp lên đường — Đưa chân người lên đường.  Đoạn trường tân thanh : » Tiễn đưa một chén quan hà « — Mứt trái cây."
+            ],
+            "compound_words": {
+                "飲餞": "ẩm tiễn",
+                "蜜餞": "mật tiễn",
+                "餞別": "tiễn biệt",
+                "餞行": "tiễn hành",
+                "送餞": "tống tiễn"
+            }
+        }
+    }
+}

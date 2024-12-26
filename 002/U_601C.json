@@ -1,0 +1,110 @@
+{
+    "character": "怜",
+    "details": {
+        "Âm Hán Việt": [
+            "linh",
+            "liên",
+            "lân"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "tâm 心 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖令"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ丶丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "POII (心人戈戈)"
+        ],
+        "Unicode": [
+            "U+601C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ",
+            "líng ㄌㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "lanh",
+            "lân",
+            "lệnh",
+            "liên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レイ (rei)",
+            "レン (ren)",
+            "リョウ (ryō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あわ.れむ (awa.remu)",
+            "さと.い (sato.i)"
+        ],
+        "Âm Hàn": [
+            "령",
+            "련",
+            "영"
+        ],
+        "Âm Quảng Đông": [
+            "lin4"
+        ]
+    },
+    "meanings": {
+        "linh": {
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ 伶. Tục mượn làm chữ 憐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 伶 (bộ 亻), 憐 (bộ 忄)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hiểu rõ — Một âm là Lân. Xem Lân."
+            ],
+            "compound_words": {
+                "怜悧": "linh lợi"
+            }
+        },
+        "liên": {
+            "Từ điển phổ thông": [
+                "thương xót"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 憐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thương: 可憐 Đáng thương; 同病相憐 Cùng cảnh thương nhau;",
+                "Yêu, tiếc: 憐愛 Yêu mến, yêu thương."
+            ],
+            "compound_words": {
+                "哀怜": "ai liên",
+                "爱怜": "ái liên",
+                "可怜": "khả liên",
+                "怜悯": "liên mẫn"
+            }
+        },
+        "lân": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 憐."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thương: 可憐 Đáng thương; 同病相憐 Cùng cảnh thương nhau;",
+                "Yêu, tiếc: 憐愛 Yêu mến, yêu thương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xót thương. Như chữ Lân 憐. Một âm là Linh."
+            ]
+        }
+    }
+}

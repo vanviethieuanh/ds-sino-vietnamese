@@ -1,0 +1,154 @@
+{
+    "character": "亂",
+    "details": {
+        "Âm Hán Việt": [
+            "loạn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ất 乙 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⿱爫⿱龴⿵冂⿱厶又乚"
+        ],
+        "Nét bút": [
+            "ノ丶丶ノフ丶丨フフ丶フ丶フ"
+        ],
+        "Thương Hiệt": [
+            "BBU (月月山)"
+        ],
+        "Unicode": [
+            "U+4E82"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "luàn ㄌㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "loàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)",
+            "ロン (ron)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みだ.れる (mida.reru)",
+            "みだ.る (mida.ru)",
+            "みだ.す (mida.su)",
+            "みだ.れ (mida.re)",
+            "おさ.める (osa.meru)",
+            "わた.る (wata.ru)"
+        ],
+        "Âm Hàn": [
+            "란",
+            "난"
+        ],
+        "Âm Quảng Đông": [
+            "lyun6"
+        ]
+    },
+    "meanings": {
+        "loạn": {
+            "Từ điển phổ thông": [
+                "lẫn lộn",
+                "rối",
+                "phá hoại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Mất trật tự, lộn xộn. ◎Như: 'loạn binh' 亂兵 quân lính vô trật tự, 'hỗn loạn' 混亂 lộn xộn, hỗn độn.",
+                "(Tính) Bối rối, tối tăm, không yên. ◎Như: 'tâm tự phiền loạn' 心緒煩亂 nỗi lòng rối bời, 'tinh thần mậu loạn' 精神瞀亂 tinh thần tối tăm mê mẩn.",
+                "(Tính) Có chiến tranh, có giặc giã, không an ổn. ◎Như: 'loạn bang' 亂邦 nước có giặc giã, nước không thái bình.",
+                "(Tính) Có khả năng trị yên, đem lại trật tự. ◇Tả truyện 左傳: 'Võ vương hữu loạn thần thập nhân' 武王有亂臣十人 (Tương Công nhị thập hữu bát niên 襄公二十有八年) Võ vương có mười người bầy tôi giỏi trị yên.",
+                "(Động) Lẫn lộn. ◎Như: 'dĩ giả loạn chân' 以假亂真 làm giả như thật. ◇Hậu Hán Thư 後漢書: 'Khủng kì chúng dữ Mãng binh loạn, nãi giai chu kì mi dĩ tương thức biệt' 恐其眾與莽兵亂, 乃皆朱其眉以相識別 (Lưu Bồn Tử truyện 劉盆子傳) Sợ dân chúng lẫn lộn với quân Mãng, bèn đều bôi đỏ lông mày để nhận mặt nhau.",
+                "(Động) Phá hoại. ◎Như: 'hoại pháp loạn kỉ' 壞法亂紀 phá hoại pháp luật.",
+                "(Động) Cải biến, thay đổi. ◇Hàn Dũ 韓愈: 'Tuần tựu lục thì, nhan sắc bất loạn, dương dương như thường' 巡就戮時, 顏色不亂, 陽陽如常 (Trương Trung Thừa truyện hậu tự 張中丞傳後敘) Tới khi bị đem ra giết, mặt không biến sắc, hiên ngang như thường.",
+                "(Động) Dâm tà. ◎Như: 'dâm loạn' 淫亂 dâm tà. ◇Liêu trai chí dị 聊齋志異: 'Vương tâm bất năng tự trì, hựu loạn chi' 王心不能自持, 又亂之 (Đổng Sinh 董生) Vương trong lòng không giữ gìn được, lại dâm dục.",
+                "(Danh) Tình trạng bất an, sự gây rối. ◇Sử Kí 史記: 'Ư thị Sở thú tốt Trần Thắng, Ngô Quảng đẳng nãi tác loạn' 於是楚戍卒陳勝, 吳廣等乃作亂 (Lí Tư truyện 李斯傳) Do đó, bọn lính thú nước Sở là Trần Thắng, Ngô Quảng làm loạn.",
+                "(Danh) Chương cuối trong khúc nhạc ngày xưa. ◇Luận Ngữ 論語: 'Sư Chí chi thủy, Quan Thư chi loạn, dương dương hồ doanh nhĩ tai' 師摯之始, 關雎之亂, 洋洋乎盈耳哉 (Thái Bá 泰伯) Nhạc sư Chí (điều khiển), khúc đầu và đoạn kết bài Quan Thư, đều hay đẹp và vui tai thay!",
+                "(Phó) Càn, bừa, lung tung. ◎Như: 'loạn bào' 亂跑 chạy lung tung, 'loạn thuyết thoại' 亂說話 nói năng bừa bãi.",
+                "Tục thường viết là 乱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Loạn, bối rối không yên gọi là loạn, như loạn thế 亂世.",
+                "Giặc giã, quân lính đánh giết bừa bãi gọi là loạn.",
+                "Rối rít, như loạn ti 亂絲 tơ rối.",
+                "Tối tăm, như tinh thần mậu loạn 精神瞀亂 tinh thần tối tăm mê mẩn.",
+                "Phá hoại, như hoại pháp loạn kỉ 壞法亂紀 phá hoại phép luật.",
+                "Dâm tà, như trong họ chim chuột lẫn nhau gọi là loạn dâm 亂婬.",
+                "Trị yên, như Võ-vương hữu loạn thần thập nhân 武王有亂臣十人 vua Võ-vương có mười người bầy tôi trị loạn.",
+                "Chữ dùng cho dứt câu ca nhạc, như quan thư chi loạn 關雎之亂 cuối thơ quan thư. Tục thường viết là 乱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mất trật tự, lộn xộn, rối, rối rít, ồn ào, xôn xao: 這裡太亂 Ở đây ồn ào quá; 人聲馬聲亂成一片 Tiếng người tiếng ngựa rối inh cả lên; 這篇稿子改得太亂了，要重抄一下 Bài văn chữa lộn xộn quá, phải chép lại mới được;",
+                "Chiến tranh, loạn, loạn lạc: 變亂 Biến loạn: 叛亂 Phiến loạn;",
+                "Gây rắc rối, làm lộn xộn: 擾亂 Quấy rối; 惑亂 Gây rối loạn; 以假亂真 Đánh tráo;",
+                "Rối bời, bối rối, rối trí: 心煩意亂 Tâm tư rối bời;",
+                "Bậy, bừa, ẩu, càn, lung tung: 亂喫 Ăn bậy; 亂跑 Chạy bừa; 亂出主意 Chủ trương lung tung; 亂說亂動 Nói bậy làm càn;",
+                "Loạn (dâm): 淫亂 Loạn dâm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lộn xộn, mất trật tự — Chỉ tính tình không yên, rối reng — Chỉ chiến tranh."
+            ],
+            "compound_words": {
+                "駁亂": "bác loạn",
+                "叛亂": "bạn loạn",
+                "暴亂": "bạo loạn",
+                "撥亂反正": "bát loạn phản chính",
+                "變亂": "biến loạn",
+                "戰亂": "chiến loạn",
+                "淫亂": "dâm loạn",
+                "搗亂": "đảo loạn",
+                "動亂": "động loạn",
+                "攪亂": "giảo loạn",
+                "霍亂": "hoắc loạn",
+                "胡亂": "hồ loạn",
+                "昏亂": "hôn loạn",
+                "混亂": "hỗn loạn",
+                "起亂": "khởi loạn",
+                "淩亂": "lăng loạn",
+                "亂淫": "loạn dâm",
+                "亂打": "loạn đả",
+                "亂黨": "loạn đảng",
+                "亂鬨不過來": "loạn hống bất quá lai",
+                "亂跳": "loạn khiêu",
+                "亂經": "loạn kinh",
+                "亂落": "loạn lạc",
+                "亂離": "loạn li",
+                "亂倫": "loạn luân",
+                "亂目": "loạn mục",
+                "亂吃": "loạn ngật",
+                "亂言": "loạn ngôn",
+                "亂髮": "loạn phát",
+                "亂君": "loạn quân",
+                "亂軍": "loạn quân",
+                "亂寫": "loạn tả",
+                "亂草": "loạn thảo",
+                "亂臣": "loạn thần",
+                "亂世": "loạn thế",
+                "亂說": "loạn thuyết",
+                "亂射": "loạn xạ",
+                "眼花撩亂": "nhãn hoa liêu loạn",
+                "擾亂": "nhiễu loạn",
+                "內亂": "nội loạn",
+                "反亂": "phản loạn",
+                "扇亂": "phiến loạn",
+                "煽亂": "phiến loạn",
+                "作亂": "tác loạn",
+                "散亂": "tán loạn",
+                "雜亂": "tạp loạn",
+                "治亂": "trị loạn",
+                "倡亂": "xướng loạn"
+            }
+        }
+    }
+}

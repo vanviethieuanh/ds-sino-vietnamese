@@ -1,0 +1,76 @@
+{
+    "character": "凸",
+    "details": {
+        "Âm Hán Việt": [
+            "đột"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khảm 凵 (+3 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "BSS (月尸尸)"
+        ],
+        "Unicode": [
+            "U+51F8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tū ㄊㄨ"
+        ],
+        "Âm Nôm": [
+            "đột"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トツ (totsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "でこ (deko)"
+        ],
+        "Âm Hàn": [
+            "철",
+            "돌"
+        ],
+        "Âm Quảng Đông": [
+            "dat6"
+        ]
+    },
+    "meanings": {
+        "đột": {
+            "Từ điển phổ thông": [
+                "lồi, nhô ra, gồ lên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Lồi, gồ. Đối lại với “ao” 凹. ◎Như: “đột nhãn” 凸眼 mắt lồi. ◇Nguyễn Du 阮攸: “Ngạch đột diện ao” 額凸面凹 (Long Thành cầm giả ca 龍城琴者歌) Trán dô mặt gãy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lồi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lồi, gồ (trái với 凹 [ao]): 凸面 (toán) Mặt lồi; 凸出 Gồ lên, lồi lên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lồi lên."
+            ],
+            "compound_words": {
+                "凹凸": "ao đột",
+                "雹凸": "bạc đột",
+                "凸版": "đột bản",
+                "凸鏡": "đột kính"
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "character": "蛛",
+    "details": {
+        "Âm Hán Việt": [
+            "chu",
+            "thù"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫朱"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIHJD (中戈竹十木)"
+        ],
+        "Unicode": [
+            "U+86DB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhū ㄓㄨ"
+        ],
+        "Âm Nôm": [
+            "châu",
+            "chu",
+            "thù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュ (chu)",
+            "シュ (shu)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu1"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển phổ thông": [
+                "(xem: tri chu 蜘蛛,鼅鼄)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tri chu” 蜘蛛: xem “tri” 蜘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tri chu 蜘蛛 con nhện. Ta gọi là chữ thù."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Con) nhện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con nhện. Ta cũng đọc Thù. Còn gọi Tri thù."
+            ],
+            "compound_words": {
+                "蜘蛛": "tri chu"
+            }
+        },
+        "thù": {
+            "Từ điển phổ thông": [
+                "(xem: tri chu 蜘蛛,鼅鼄)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tri chu” 蜘蛛: xem “tri” 蜘."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tri chu 蜘蛛 con nhện. Ta gọi là chữ thù."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Con) nhện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con nhện."
+            ],
+            "compound_words": {
+                "蛛丝": "thù ty",
+                "蛛絲": "thù ty",
+                "蜘蛛": "tri thù"
+            }
+        }
+    }
+}

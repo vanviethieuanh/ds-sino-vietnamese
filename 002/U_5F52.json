@@ -1,0 +1,67 @@
+{
+    "character": "归",
+    "details": {
+        "Âm Hán Việt": [
+            "quy"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "kệ 彐 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丨ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "LLSM (中中尸一)"
+        ],
+        "Unicode": [
+            "U+5F52"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guī ㄍㄨㄟ",
+            "kuì ㄎㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "quy"
+        ],
+        "Âm Quảng Đông": [
+            "gwai1"
+        ]
+    },
+    "meanings": {
+        "quy": {
+            "Từ điển phổ thông": [
+                "trở về"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 歸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 歸"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết tắt của chữ Quy 歸."
+            ],
+            "compound_words": {
+                "回归": "hồi quy",
+                "归咎": "quy cữu",
+                "归还": "quy hoàn",
+                "归心": "quy tâm",
+                "归顺": "quy thuận",
+                "归罪": "quy tội",
+                "于归": "vu quy"
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "character": "緯",
+    "details": {
+        "Âm Hán Việt": [
+            "vĩ",
+            "vị"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mịch 糸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹韋"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶フ丨一丨フ一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "VFDMQ (女火木一手)"
+        ],
+        "Unicode": [
+            "U+7DEF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wěi ㄨㄟˇ"
+        ],
+        "Âm Nôm": [
+            "vĩ",
+            "vỉa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よこいと (yokoito)",
+            "ぬき (nuki)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai5"
+        ]
+    },
+    "meanings": {
+        "vĩ": {
+            "Từ điển phổ thông": [
+                "sợi ngang",
+                "vĩ tuyến"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sợi dệt ngang.",
+                "(Danh) Đường ngang tưởng tượng song song với xích đạo trên mặt địa cầu (địa lí học).",
+                "(Danh) Tên gọi tắt của 'vĩ thư' 緯書. § Xem từ này.",
+                "(Danh) Dây đàn.",
+                "(Động) Đan, dệt. ◇Trang Tử 莊子: 'Hà thượng hữu gia bần, thị vĩ tiêu nhi thực giả' 河上有家貧, 恃緯蕭而食者 (Liệt Ngự Khấu 列禦寇) Trên sông có nhà nghèo, nhờ dệt cói kiếm ăn.",
+                "(Động) Trị lí. ◎Như: 'vĩ thế kinh quốc' 緯世經國 trị đời làm việc nước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sợi ngang. Phàm thuộc về đường ngang đều gọi là vĩ. Xem chữ kinh 經.",
+                "Tên sách, sáu kinh đều có vĩ, như dịch vĩ 易緯, thi vĩ 詩緯, v.v. Tương truyền là chi lưu của kinh, cũng do tay đức Khổng Tử 孔子 làm cả. Người sau thấy trong sách có nhiều câu nói về âm dương ngũ hành nên mới gọi sự chiêm nghiệm xấu tốt là đồ vĩ 圖緯 hay sấm vĩ 讖緯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sợi khổ, sợi ngang;",
+                "Vĩ: 南緯 Vĩ tuyến nam; 北緯 Vĩ tuyến bắc;",
+                "(văn) Sách dựa theo nghĩa kinh để giảng về phù phép bói toán: 易緯 Dịch vĩ; 詩緯 Thi vĩ; 緯讖 Vĩ sấm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sợi tơ ngang trên khung cửi — Giăng theo chiều ngang. Xem Vĩ độ. Vĩ tuyến — Sách phụ vào Ngũ kinh để giải nghĩa về bói toán — Dây của loại đàn tranh."
+            ],
+            "compound_words": {
+                "北緯": "bắc vĩ",
+                "讖緯": "sấm vĩ",
+                "緯道": "vĩ đạo",
+                "緯度": "vĩ độ",
+                "緯讖": "vĩ sấm",
+                "緯世": "vĩ thế",
+                "緯書": "vĩ thư",
+                "緯線": "vĩ tuyến"
+            }
+        },
+        "vị": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bó lại — Một bó."
+            ]
+        }
+    }
+}

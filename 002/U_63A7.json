@@ -1,0 +1,103 @@
+{
+    "character": "控",
+    "details": {
+        "Âm Hán Việt": [
+            "khoang",
+            "khống"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘空"
+        ],
+        "Nét bút": [
+            "一丨一丶丶フノ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "QJCM (手十金一)"
+        ],
+        "Unicode": [
+            "U+63A7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kòng ㄎㄨㄥˋ",
+            "qiāng ㄑㄧㄤ"
+        ],
+        "Âm Nôm": [
+            "khống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひか.える (hika.eru)",
+            "ひか.え (hika.e)"
+        ],
+        "Âm Hàn": [
+            "공",
+            "강"
+        ],
+        "Âm Quảng Đông": [
+            "hung3"
+        ]
+    },
+    "meanings": {
+        "khoang": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy tay mà đánh — Một âm khác là Khống."
+            ]
+        },
+        "khống": {
+            "Từ điển phổ thông": [
+                "tố giác, tố cáo",
+                "điều khiển, khống chế"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giương cung. ◎Như: 'khống huyền' 控弦 giương cung.",
+                "(Động) Cáo mách, tố giác. ◎Như: 'thượng khống' 上控 tố cáo lên trên.",
+                "(Động) Cầm giữ, thao túng, chi phối. ◇Nguyễn Du 阮攸: 'Kiệt lực cô thành khống nhất phương' 竭力孤城控一方 (Quế Lâm Cù Các Bộ 桂林瞿閣部) Hết sức giữ thành cô lập, khống chế một phương trời. ◇Vương Bột 王勃: 'Khâm Tam Giang nhi đái Ngũ Hồ, khống Man Kinh nhi dẫn Âu Việt' 襟三江而帶五湖, 控蠻荊而引甌越 (Đằng Vương Các tự 滕王閣序) Bao bọc (như vạt áo) vùng Tam Giang và vây quanh (như dây lưng) Ngũ Hồ, khuất phục miền Nam Kinh, tiếp dẫn đất Âu Việt.",
+                "(Động) Ném, nhào xuống, nhảy xuống. ◇Trang Tử 莊子: 'Ngã quyết khởi nhi phi, thương du phương nhi chỉ, thì tắc bất chí nhi khống ư địa nhi dĩ hĩ' 我決起而飛, 槍榆枋而止, 時則不至而控於地而已矣 (Tiêu dao du 逍遙遊) Chúng ta vùng dậy mà bay, rúc vào cây du cây phương mà đậu, hoặc khi không tới thì nhào xuống đất mà thôi.",
+                "(Động) Dốc ngược, đổ ra. ◎Như: 'bả bình lí đích thủy tịnh' 把甁裡的水淨 dốc hết nước ở trong bình ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dẫn, kéo, như khống huyền 控弦 dương cung.",
+                "Cáo mách, như thượng khống 上控 tố cáo lên trên.",
+                "Cầm giữ.",
+                "Ném."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kiện, tố cáo: 指控 Tố cáo;",
+                "Khống chế, ghìm, điều khiển: 遙控 Điều khiển từ xa;",
+                "(văn) Kéo: 控弦 Giương cung;",
+                "(văn) Cầm giữ;",
+                "(văn) Ném."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kéo ra, giương ra. Kéo dây cung — Tố cáo. Td: Vu khống ( bịa đặt mà tố cáo người khác ) — Ngăn chặn, đè nén — Ném. Liệng. Td: Khống ư địa 控於地 ( ném xuống đất ) — Một âm là Khoang."
+            ],
+            "compound_words": {
+                "指控": "chỉ khống",
+                "織控": "chức khống",
+                "電視監控錄像": "điện thị giam khống lục tượng",
+                "控告": "khống cáo",
+                "控制": "khống chế",
+                "控訴": "khống tố",
+                "控诉": "khống tố",
+                "失控": "thất khống"
+            }
+        }
+    }
+}

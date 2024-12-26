@@ -1,0 +1,82 @@
+{
+    "character": "杉",
+    "details": {
+        "Âm Hán Việt": [
+            "am",
+            "sam"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mộc 木 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木彡"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "DHHH (木竹竹竹)"
+        ],
+        "Unicode": [
+            "U+6749"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shā ㄕㄚ",
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "sam"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すぎ (sugi)"
+        ],
+        "Âm Hàn": [
+            "삼"
+        ],
+        "Âm Quảng Đông": [
+            "caam3"
+        ]
+    },
+    "meanings": {
+        "am": {
+            "Từ điển Trần Văn Chánh": [
+                "Cây sam, cây linh sam Trung Quốc."
+            ],
+            "compound_words": {
+                "洛杉磯": "lạc sam ki"
+            }
+        },
+        "sam": {
+            "Từ điển phổ thông": [
+                "cây sam (một loài giống cây thông)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cây “sam” 杉 (lat. Cupressaceae), là một thứ cây thông, thường mọc trên miền núi, dùng trong kiến trúc, chế tạo dụng cụ. ◇Nguyễn Du 阮攸: “Cổ miếu tùng sam cách cố lư” 古廟松杉隔故閭 (Đề Đại Than Mã Phục Ba miếu 題大灘馬伏波廟) Cây tùng, cây sam ở ngôi miếu cổ xa cách quê nhà."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cây sam, là một thứ gỗ thông dùng rất nhiều việc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây lớn, mùa hè nở hoa, gỗ cứng, được dùng vào việc xây cất hoặc chế tạo đồ dùng."
+            ],
+            "compound_words": {
+                "洛杉磯": "lạc sam ki"
+            }
+        }
+    }
+}

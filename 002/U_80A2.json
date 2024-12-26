@@ -1,0 +1,84 @@
+{
+    "character": "肢",
+    "details": {
+        "Âm Hán Việt": [
+            "chi"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月支"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "BJE (月十水)"
+        ],
+        "Unicode": [
+            "U+80A2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ",
+            "zhī ㄓ"
+        ],
+        "Âm Nôm": [
+            "chi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi1"
+        ]
+    },
+    "meanings": {
+        "chi": {
+            "Từ điển phổ thông": [
+                "chân tay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chân tay người, chân giống thú, chân cánh giống chim đều gọi là 'chi'. ◇Tây du kí 西遊記: 'Nhất cá thạch hầu, ngũ quan câu bị, tứ chi giai toàn' 一個石猴, 五官俱備, 四肢皆全 (Đệ nhất hồi) Một con khỉ đá, có đủ ngũ quan, chân tay.",
+                "(Danh) Sống lưng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chân tay người, chân giống thú, chân cánh giống chim đều gọi là chi.",
+                "Sống lưng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chi, cẳng chân, cánh tay: 上肢 Cánh tay; 下肢 Cẳng chân; 四肢無力 Tứ chi (chân tay) mệt lả;",
+                "Sống lưng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung chân tay người. Chẳng hạn Tứ chi. Cũng viết là Chi 支, hoặc Chi 枝 — Chỉ chung loài thú, hoặc cánh loài chim."
+            ],
+            "compound_words": {
+                "胳肢": "ca chi",
+                "胳肢窝": "ca chi oa",
+                "胳肢窩": "ca chi oa",
+                "肢骨": "chi cốt",
+                "夹肢窝": "giáp chi oa",
+                "夾肢窩": "giáp chi oa",
+                "下肢": "hạ chi",
+                "上肢": "thượng chi",
+                "四肢": "tứ chi"
+            }
+        }
+    }
+}

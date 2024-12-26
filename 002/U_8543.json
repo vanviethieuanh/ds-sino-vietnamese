@@ -1,0 +1,111 @@
+{
+    "character": "蕃",
+    "details": {
+        "Âm Hán Việt": [
+            "phiên",
+            "phiền",
+            "phồn"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thảo 艸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹番"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶ノ一丨ノ丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "THDW (廿竹木田)"
+        ],
+        "Unicode": [
+            "U+8543"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bō ㄅㄛ",
+            "bó ㄅㄛˊ",
+            "fān ㄈㄢ",
+            "fán ㄈㄢˊ",
+            "pí ㄆㄧˊ"
+        ],
+        "Âm Nôm": [
+            "phen",
+            "phên",
+            "phiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バン (ban)",
+            "ハン (han)"
+        ],
+        "Âm Hàn": [
+            "번"
+        ],
+        "Âm Quảng Đông": [
+            "faan4"
+        ]
+    },
+    "meanings": {
+        "phiên": {
+            "Từ điển trích dẫn": [
+                "(Tính) Tươi tốt, um tùm. ◇Dịch Kinh 易經: 'Văn Ngôn viết: Thiên địa biến hóa, thảo mộc phiền' 文言曰: 天地變化, 草木蕃 (Khôn quái 坤卦) Văn Ngôn nói: Trời đất biến hóa, cây cỏ tốt tươi.",
+                "(Tính) Đông đúc, nhiều nhõi. § Thông 'phồn' 繁. ◎Như: 'phiền thịnh' 蕃盛 đông đúc.",
+                "(Động) Sinh sôi nẩy nở. ◇Tống Chi Vấn 宋之問: 'Hạ dư điểu thú phiền, Thu mạt hòa thử thục' 夏餘鳥獸蕃, 秋末禾黍熟 (Ôn tuyền trang ngọa bệnh 溫泉莊臥病) Sau mùa hè chim muông sinh sôi, Cuối thu thóc lúa chín.",
+                "§ Thông 'phiên' 番."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 番 [fan] (bộ 田) Xem 蕃 [fán]."
+            ],
+            "compound_words": {
+                "屛蕃": "bình phiên"
+            }
+        },
+        "phiền": {
+            "Từ điển phổ thông": [
+                "cỏ tốt",
+                "sinh sôi",
+                "nghỉ ngơi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tươi tốt, um tùm. ◇Dịch Kinh 易經: 'Văn Ngôn viết: Thiên địa biến hóa, thảo mộc phiền' 文言曰: 天地變化, 草木蕃 (Khôn quái 坤卦) Văn Ngôn nói: Trời đất biến hóa, cây cỏ tốt tươi.",
+                "(Tính) Đông đúc, nhiều nhõi. § Thông 'phồn' 繁. ◎Như: 'phiền thịnh' 蕃盛 đông đúc.",
+                "(Động) Sinh sôi nẩy nở. ◇Tống Chi Vấn 宋之問: 'Hạ dư điểu thú phiền, Thu mạt hòa thử thục' 夏餘鳥獸蕃, 秋末禾黍熟 (Ôn tuyền trang ngọa bệnh 溫泉莊臥病) Sau mùa hè chim muông sinh sôi, Cuối thu thóc lúa chín.",
+                "§ Thông 'phiên' 番."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ tốt. Bởi thế nên sự gì nhiều nhõi đều gọi là phiền. Như phiền thịnh 蕃盛, phiền thứ 蕃庶 đều nghĩa là đông đúc cả.",
+                "Cũng dùng như chữ phiên 番.",
+                "Ngớt, nghỉ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cây cối) um tùm, tốt tươi: 蕃茂 Um tùm rậm rạp;",
+                "Nảy nở ra nhiều, sinh sôi nảy nở; 蕃庶 Đông nhiều, nhiều nhõi;",
+                "(văn) Ngớt, nghỉ Xem 蕃 [fan]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cỏ cây rậm rạp — Nhiều. Đông đảo — Cũng dùng như chữ Phiền 繁 — Cũng đọc Phồn."
+            ],
+            "compound_words": {
+                "吐蕃": "thổ phiền"
+            }
+        },
+        "phồn": {
+            "Từ điển phổ thông": [
+                "cỏ tốt",
+                "sinh sôi",
+                "nghỉ ngơi"
+            ]
+        }
+    }
+}

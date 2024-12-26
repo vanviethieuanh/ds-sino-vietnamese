@@ -1,0 +1,69 @@
+{
+    "character": "汃",
+    "details": {
+        "Âm Hán Việt": [
+            "bát",
+            "bân",
+            "bẩm"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡八"
+        ],
+        "Nét bút": [
+            "丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EC (水金)"
+        ],
+        "Unicode": [
+            "U+6C43"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Hàn": [
+            "팔"
+        ],
+        "Âm Quảng Đông": [
+            "ban1",
+            "paak3"
+        ]
+    },
+    "meanings": {
+        "bát": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng nước chảy hoặc sóng vỗ — Một âm khác là Bân, Bẩm."
+            ],
+            "compound_words": {
+                "澎汃": "bành bát",
+                "潑汃": "bát bát",
+                "砏汃": "phàn bát"
+            }
+        },
+        "bân": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bân bân 汃汃."
+            ],
+            "compound_words": {
+                "汃汃": "bân bân"
+            }
+        },
+        "bẩm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước mênh mông, xa vời — Các âm khác là Bát, Bân."
+            ]
+        }
+    }
+}

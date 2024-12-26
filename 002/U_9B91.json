@@ -1,0 +1,100 @@
+{
+    "character": "鮑",
+    "details": {
+        "Âm Hán Việt": [
+            "bào",
+            "bão",
+            "bảo"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "ngư 魚 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰魚包"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一丶丶丶丶ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "NFPRU (弓火心口山)"
+        ],
+        "Unicode": [
+            "U+9B91"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bāo ㄅㄠ",
+            "bào ㄅㄠˋ",
+            "pāo ㄆㄠ"
+        ],
+        "Âm Nôm": [
+            "bào"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)",
+            "ホウ (hō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あわび (awabi)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "baau1",
+            "baau6"
+        ]
+    },
+    "meanings": {
+        "bào": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cá ướp muối. § Cá ướp mùi tanh lại thối nên những nơi dơ dáy xấu xa gọi là 'bào ngư chi tứ' 鮑魚之肆.",
+                "(Danh) Một thứ cá có mai, ăn ngon, dùng làm thuốc được. § Còn gọi là 'phục ngư' 鰒魚 hay 'thạch quyết minh' 石決明.",
+                "(Danh) Họ 'Bào'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cá ướp: 鮑魚之肆 Chỗ dơ dáy xấu xa;",
+                "【鮑魚】bào ngư [bàoyú] Bào ngư;",
+                "[Bào] Tên sông. 【鮑河】Bào hà [Bàohé] Sông Bào (ở tỉnh Hà Bắc, Trung Quốc). Cv. 瀑河;",
+                "[Bào] (Họ) Bào."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cá ươn, thối."
+            ],
+            "compound_words": {
+                "鮑老": "bào lão"
+            }
+        },
+        "bão": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cá ướp: 鮑魚之肆 Chỗ dơ dáy xấu xa;",
+                "【鮑魚】bào ngư [bàoyú] Bào ngư;",
+                "[Bào] Tên sông. 【鮑河】Bào hà [Bàohé] Sông Bào (ở tỉnh Hà Bắc, Trung Quốc). Cv. 瀑河;",
+                "[Bào] (Họ) Bào."
+            ]
+        },
+        "bảo": {
+            "Từ điển phổ thông": [
+                "cá đã ướp"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cá ướp, mùi tanh lại thối. Vì thế những nơi dơ dáy xấu xa gọi là bảo ngư chi tứ 鮑魚之肆.",
+                "Một thứ cá có mai, ta gọi là bào ngư 鮑魚."
+            ],
+            "compound_words": {
+                "鮑魚": "bảo ngư"
+            }
+        }
+    }
+}

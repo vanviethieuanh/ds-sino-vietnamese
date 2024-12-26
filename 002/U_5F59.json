@@ -1,0 +1,111 @@
+{
+    "character": "彙",
+    "details": {
+        "Âm Hán Việt": [
+            "vị",
+            "vựng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kệ 彐 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⿱彑冖果"
+        ],
+        "Nét bút": [
+            "フフ一丶フ丨フ一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMBWD (女一月田木)"
+        ],
+        "Unicode": [
+            "U+5F59"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huì ㄏㄨㄟˋ",
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "hối",
+            "vị",
+            "vừng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はりねずみ (harinezumi)"
+        ],
+        "Âm Hàn": [
+            "휘"
+        ],
+        "Âm Quảng Đông": [
+            "wai6",
+            "wui6"
+        ]
+    },
+    "meanings": {
+        "vị": {
+            "Từ điển phổ thông": [
+                "loài, loại",
+                "phân loại",
+                "tập hợp, thu thập"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Loài, loại. ◎Như: 'tự vị' 字彙. ◇Dịch Kinh 易經: 'Sơ cửu: Bạt mao như, dĩ kì vị, chinh cát' 初九: 拔茅茹, 以其彙, 征吉 (Thái quái 泰卦) Sơ cửu: Nhổ rễ cỏ mao, lấy theo từng loại, tiến lên thì tốt.",
+                "(Danh) § Thông 'vị' 蝟.",
+                "(Động) Xếp từng loại với nhau, tụ tập. ◎Như: 'vị tập' 彙集 tụ tập.",
+                "§ Ghi chú: Âm 'vị' theo Khang Hi tự điển 康熙字典: 'vu thiết quý âm vị' 于切貴音胃. Trong âm Hán-Việt thường đọc là 'vựng', thí dụ: 'ngữ vựng' 語彙. Có thể vì đã lẫn lộn với chữ 'vựng' 暈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Loài, xếp từng loại với nhau gọi là vị tập 彙集. Ta quen đọc là vựng.",
+                "Cùng nghĩa với chữ vị 蝟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xếp những thứ cùng loại lại với nhau: 彙集 Tập hợp các thứ cùng loại, sưu tập;",
+                "Con nhím (dùng như 猬, bộ 犭, và 蝟, bộ 虫). Xem 匯 [huì] (bộ 匚)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại. Chỉ chung những thứ cùng một loài, một giống, một họ. Td: Tự vị ( bộ sách xếp các chữ theo từng loại )."
+            ],
+            "compound_words": {
+                "字彙": "tự vị",
+                "彙報": "vị báo",
+                "彙編": "vị biên",
+                "彙集": "vị tập"
+            }
+        },
+        "vựng": {
+            "Từ điển phổ thông": [
+                "loài, loại",
+                "phân loại",
+                "tập hợp, thu thập"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Loài, xếp từng loại với nhau gọi là vị tập 彙集. Ta quen đọc là vựng.",
+                "Cùng nghĩa với chữ vị 蝟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Xếp những thứ cùng loại lại với nhau: 彙集 Tập hợp các thứ cùng loại, sưu tập;",
+                "Con nhím (dùng như 猬, bộ 犭, và 蝟, bộ 虫). Xem 匯 [huì] (bộ 匚)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài. Hạng — Gom lại theo từng hạng, từng loại. Td: Ngữ vựng ( chữ xếp theo từng loại ) — Cũng đọc Vị. Xem thêm Vị."
+            ],
+            "compound_words": {
+                "字彙": "tự vựng"
+            }
+        }
+    }
+}

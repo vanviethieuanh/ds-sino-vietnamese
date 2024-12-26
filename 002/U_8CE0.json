@@ -1,0 +1,81 @@
+{
+    "character": "賠",
+    "details": {
+        "Âm Hán Việt": [
+            "bồi"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰貝咅"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶丶一丶ノ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "BCYTR (月金卜廿口)"
+        ],
+        "Unicode": [
+            "U+8CE0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "péi ㄆㄟˊ"
+        ],
+        "Âm Nôm": [
+            "bồi",
+            "bù"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)"
+        ],
+        "Âm Hàn": [
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "pui4"
+        ]
+    },
+    "meanings": {
+        "bồi": {
+            "Từ điển phổ thông": [
+                "đền bù, đền trả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đền trả. ◎Như: 'bồi thường tổn thất' 賠償損失 đền bù thiệt hại. ◇Hồng Lâu Mộng 紅樓夢: 'Một thập yêu thuyết đích, nhĩ hảo hảo nhi đích bồi ngã môn đích ngư bãi. Cương tài nhất cá ngư thượng lai, cương cương nhi đích yếu điếu trước, khiếu nhĩ hổ bào liễu' 沒什么說的, 你好好兒的賠我們的魚罷. 剛才一個魚上來, 剛剛兒的要釣著, 叫你唬跑了 (Đệ bát thập nhất hồi) Không nói gì cả, anh phải đền con cá cho chúng tôi đi. Vừa rồi một con cá nổi lên, tôi định câu, thì bị anh làm nó sợ lặn đi mất.",
+                "(Động) Sút kém, lỗ. ◎Như: 'bồi bổn' 賠本 lỗ vốn.",
+                "(Động) Xin lỗi. ◎Như: 'bồi bất thị' 賠不是 xin lỗi. ◇Hồng Lâu Mộng 紅樓夢: 'Giá thị Bảo Ngọc đích thanh âm, tưởng tất thị lai bồi bất thị lai liễu' 這是寶玉的聲音, 想必是來賠不是來了 (Đệ tam thập hồi) Đúng là tiếng Bảo Ngọc rồi, chắc lại đến xin lỗi đấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Đền trả, như bồi thường tổn thất 賠償損失 đền bù chỗ thiệt hại.",
+                "Sút kém, như bồi bổn 賠本 sụt vốn, lỗ vốn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đền bù, bồi thường: 損壞東西要賠 Làm hỏng phải đền;",
+                "Lỗ mất: 賠了許多錢 Lỗ mất nhiều tiền; 賠了夫人又折兵 Mất cả phu nhân lại thiệt quân, mất cả chì lẫn chài."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đền bù lại của cải tiền bạc cho người khác."
+            ],
+            "compound_words": {
+                "包賠": "bao bồi",
+                "賠款": "bồi khoản",
+                "賠償": "bồi thường",
+                "賠錢貨": "bồi tiền hoá",
+                "賠恤": "bồi tuất"
+            }
+        }
+    }
+}

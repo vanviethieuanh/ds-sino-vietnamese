@@ -1,0 +1,124 @@
+{
+    "character": "柏",
+    "details": {
+        "Âm Hán Việt": [
+            "bá",
+            "bách"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木白"
+        ],
+        "Nét bút": [
+            "一丨ノ丶ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "DHA (木竹日)"
+        ],
+        "Unicode": [
+            "U+67CF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bǎi ㄅㄞˇ",
+            "bó ㄅㄛˊ",
+            "bò ㄅㄛˋ"
+        ],
+        "Âm Nôm": [
+            "bá",
+            "bách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ヒャク (hyaku)",
+            "ビャク (byaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かしわ (kashiwa)"
+        ],
+        "Âm Hàn": [
+            "백"
+        ],
+        "Âm Quảng Đông": [
+            "baak3",
+            "paak3"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cây bách. § Cũng đọc là 'bá'. § Ghi chú: 'Biển bách' 扁柏 cây to, dùng để đóng đồ vật. 'Trắc bách' 側柏 lá nhỏ như kim, trồng làm cảnh và chế thuốc. 'Cối bách' 檜柏 cũng là thứ cây trồng làm cảnh.",
+                "§ Thông 'bách' 迫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây bách, cây bá: 松柏 Cây tùng cây bách;",
+                "(văn) Như 迫 (bộ 辶);",
+                "[Băi] (Họ) Bách. Xem 柏 [bó], [bò]."
+            ],
+            "compound_words": {
+                "柏格森": "bá cách sâm",
+                "柏拉圖": "bá lạp đồ",
+                "柏林": "bá lâm",
+                "泊柏": "bạc bách",
+                "柏舟之節": "bách chu chi tiết",
+                "柏葉酒": "bách diệp tửu",
+                "柏油": "bách du",
+                "柏侯": "bách hầu",
+                "柏府": "bách phủ",
+                "柏酒": "bách tửu",
+                "柏車": "bách xa",
+                "扁柏": "biển bách",
+                "侧柏": "trắc bách",
+                "側柏": "trắc bách"
+            }
+        },
+        "bách": {
+            "Từ điển phổ thông": [
+                "cây bách, cây tuyết tùng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây bách. § Cũng đọc là 'bá'. § Ghi chú: 'Biển bách' 扁柏 cây to, dùng để đóng đồ vật. 'Trắc bách' 側柏 lá nhỏ như kim, trồng làm cảnh và chế thuốc. 'Cối bách' 檜柏 cũng là thứ cây trồng làm cảnh.",
+                "§ Thông 'bách' 迫."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Biển bách 扁柏 cây biển bách. Một thứ cây to, dùng để đóng đồ.",
+                "Trắc bách 側柏 cây trắc bách lá nhỏ như kim, dùng để làm cảnh chơi và làm thuốc.",
+                "Cối bách 檜柏 cây cối bách cũng là thứ cây giồng làm cảnh, cùng nghĩa với chữ bách 迫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây bách, cây bá: 松柏 Cây tùng cây bách;",
+                "(văn) Như 迫 (bộ 辶);",
+                "[Băi] (Họ) Bách. Xem 柏 [bó], [bò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây thuộc giống cây thông. Cũng đọc Bá — Họ người."
+            ],
+            "compound_words": {
+                "泊柏": "bạc bách",
+                "柏舟之節": "bách chu chi tiết",
+                "柏葉酒": "bách diệp tửu",
+                "柏油": "bách du",
+                "柏侯": "bách hầu",
+                "柏府": "bách phủ",
+                "柏酒": "bách tửu",
+                "柏車": "bách xa",
+                "扁柏": "biển bách",
+                "侧柏": "trắc bách",
+                "側柏": "trắc bách"
+            }
+        }
+    }
+}

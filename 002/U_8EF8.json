@@ -1,0 +1,91 @@
+{
+    "character": "軸",
+    "details": {
+        "Âm Hán Việt": [
+            "trục"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "xa 車 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車由"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "JJLW (十十中田)"
+        ],
+        "Unicode": [
+            "U+8EF8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhóu ㄓㄡˊ",
+            "zhòu ㄓㄡˋ",
+            "zhú ㄓㄨˊ"
+        ],
+        "Âm Nôm": [
+            "trục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジク (jiku)"
+        ],
+        "Âm Hàn": [
+            "축"
+        ],
+        "Âm Quảng Đông": [
+            "zuk6"
+        ]
+    },
+    "meanings": {
+        "trục": {
+            "Từ điển phổ thông": [
+                "cái trục xe"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trục bánh xe (thanh ngang đặt ở giữa bánh xe để cho cả bộ phận xoay quanh). ◎Như: 'xa trục' 車軸 trục xe.",
+                "(Danh) Trục cuốn (sách). § Sách vở ngày xưa viết bằng lụa đều dùng trục cuốn nên gọi sách vở là 'quyển trục' 卷軸, cuốn tranh vẽ gọi là 'họa trục' 畫軸.",
+                "(Danh) Phàm vật gì quay vòng được thì cái chốt giữa đều gọi là 'trục'. ◎Như: quả đất ở vào giữa nam bắc cực gọi là 'địa trục' 地軸; khung cửi cũng có cái thoi cái trục, thoi để dệt đường ngang, trục để dệt đường dọc.",
+                "(Danh) Lượng từ: cuộn (đơn vị dùng cho sách hoặc tranh vẽ). ◎Như: 'nhất trục san thủy họa' 一軸山水畫 một cuộn tranh sơn thủy.",
+                "(Tính) Cốt yếu, trung tâm. ◎Như: 'trục tâm quốc' 軸心國 nước ở vào địa vị trung tâm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái trục xe.",
+                "Cái trục cuốn. Làm cái trục tròn để cuốn đồ đều gọi là trục. Sách vở ngày xưa viết bằng lụa đều dùng trục cuốn nên gọi sách vở là quyển trục 卷軸, cuốn tranh vẽ gọi là hoạ trục 畫軸, v.v.",
+                "Phàm vật gì quay vòng được thì cái chốt giữa đều gọi là trục. Như quả đất ở vào giữa nam bắc cực gọi là địa trục 地軸. Khung cửi cũng có cái thoi cái trục, thoi để dệt đường ngang, trục để dệt đường dọc.",
+                "Ở cái địa vị cốt yếu cũng gọi là trục. Vì thế nên người cầm quyền chính nước gọi là đương trục 當軸.",
+                "Bệnh không đi được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trục: 自行車軸 Trục xe đạp; 機器軸 Trục máy;",
+                "Lõi, cốt lõi, trục: 線軸兒 Lõi chỉ; 畫軸 Trục cuộn tranh;",
+                "(loại) Cuộn (tranh): 一軸畫 Một cuộn tranh;",
+                "(văn) Bệnh không đi được."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây gỗ hoặc sắt tròn xỏ vào bánh xe để bánh xe quay xung quanh. Ta cũng gọi là trục — Cây tròn để lăn, cán — Sách vở, giấy tờ cuộn tròn lại. Hát nói của Cao Bá Quát: » Cao sơn lưu thuỷ thi thiên trục « ( Núi cao nước chảy thơ ngàn cuốn, ngàn bài )."
+            ],
+            "compound_words": {
+                "壓軸": "áp trục",
+                "機軸": "cơ trục",
+                "輁軸": "củng trục",
+                "地軸": "địa trục",
+                "卷軸": "quyển trục",
+                "捲軸": "quyển trục",
+                "樞軸": "xu trục"
+            }
+        }
+    }
+}

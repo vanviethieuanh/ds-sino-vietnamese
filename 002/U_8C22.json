@@ -1,0 +1,63 @@
+{
+    "character": "谢",
+    "details": {
+        "Âm Hán Việt": [
+            "tạ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠射"
+        ],
+        "Nét bút": [
+            "丶フノ丨フ一一一ノ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "IVHHI (戈女竹竹戈)"
+        ],
+        "Unicode": [
+            "U+8C22"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "tạ"
+        ],
+        "Âm Quảng Đông": [
+            "ze6"
+        ]
+    },
+    "meanings": {
+        "tạ": {
+            "Từ điển phổ thông": [
+                "cảm tạ, cảm ơn",
+                "nhận lỗi, xin lỗi, tạ lỗi",
+                "rụng, tàn, rã"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 謝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 謝"
+            ],
+            "compound_words": {
+                "感谢": "cảm tạ",
+                "凋谢": "điêu tạ"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "滂",
+    "details": {
+        "Âm Hán Việt": [
+            "bàng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡旁"
+        ],
+        "Nét bút": [
+            "丶丶一丶一丶ノ丶フ丶一フノ"
+        ],
+        "Thương Hiệt": [
+            "EYBS (水卜月尸)"
+        ],
+        "Unicode": [
+            "U+6EC2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "pāng ㄆㄤ"
+        ],
+        "Âm Nôm": [
+            "bàng",
+            "bẵng",
+            "phang",
+            "phẳng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ボウ (bō)"
+        ],
+        "Âm Hàn": [
+            "방"
+        ],
+        "Âm Quảng Đông": [
+            "pong1",
+            "pong4"
+        ]
+    },
+    "meanings": {
+        "bàng": {
+            "Từ điển phổ thông": [
+                "(xem: bàng đà 滂沱)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Giàn giụa, chan hòa. ◇Nguyễn Du 阮攸: 'Vũ tự bàng đà vân tự si' 雨自滂沱雲自癡 (Thương Ngô Trúc Chi ca 蒼梧竹枝歌) Mưa rơi tầm tã, mây thẫn thờ.",
+                "(Động) Chảy giàn giụa, chảy vọt ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bàng đà 滂沱 mưa giàn giụa, mưa chan hoà, khóc nước mắt giàn giụa cũng gọi là bàng đà. Nguyễn Du 阮攸: Vũ tự bàng đà vân tự si 雨自滂沱雲自癡 mưa rơi tầm tã, mây thẫn thờ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【滂湃】bàng phái [pangpài] (thanh) (Nước chảy) ồ ồ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mưa thật to — Nước lớn."
+            ],
+            "compound_words": {
+                "滂沛": "bàng phái",
+                "滂湃": "bàng phái",
+                "滂滂": "bàng bàng",
+                "滂孛": "bàng bột",
+                "滂洋": "bàng dương",
+                "滂沱": "bàng đà",
+                "滂浩": "bàng hạo",
+                "滂費": "bàng phí",
+                "滂濞": "bàng tị"
+            }
+        }
+    }
+}

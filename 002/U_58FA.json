@@ -1,0 +1,77 @@
+{
+    "character": "壺",
+    "details": {
+        "Âm Hán Việt": [
+            "hồ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sĩ 士 (+9 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一丨一丶フ丨一フフ一丨一"
+        ],
+        "Thương Hiệt": [
+            "GBLM (土月中一)"
+        ],
+        "Unicode": [
+            "U+58FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hú ㄏㄨˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つぼ (tsubo)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "wu4"
+        ]
+    },
+    "meanings": {
+        "hồ": {
+            "Từ điển phổ thông": [
+                "cái hồ lô",
+                "một loại quả như quả bầu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái hồ, cũng như cái bầu, cái nậm. ◇Nguyễn Trãi 阮廌: 'Đồ giác hồ trung phong nguyệt hảo, Niên niên bất dụng nhất tiền xa' 徒覺壺中風月好, 年年不用一錢賒 (Họa hữu nhân yên hà ngụ hứng 和友人煙霞寓興) Chỉ biết gió trăng trong bầu là đẹp, Hằng năm không mất đồng tiền nào để mua.",
+                "(Danh) Một thứ quả ăn, như quả bầu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái hồ, cũng như cái nậm.",
+                "Một thứ quả ăn, như quả bầu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bình đựng rượu."
+            ],
+            "compound_words": {
+                "冰壺": "băng hồ",
+                "冰壺玉壑集": "băng hồ ngọc hác tập",
+                "冰壺事錄": "băng hồ sự lục",
+                "蓬壺": "bồng hồ",
+                "壺蘆": "hồ lô",
+                "漏壺": "lậu hồ",
+                "便壺": "tiện hồ",
+                "茶壺": "trà hồ",
+                "持壺": "trì hồ"
+            }
+        }
+    }
+}

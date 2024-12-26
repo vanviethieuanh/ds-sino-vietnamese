@@ -1,0 +1,66 @@
+{
+    "character": "给",
+    "details": {
+        "Âm Hán Việt": [
+            "cấp"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mịch 糸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰纟合"
+        ],
+        "Nét bút": [
+            "フフ一ノ丶一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "VMOMR (女一人一口)"
+        ],
+        "Unicode": [
+            "U+7ED9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gěi ㄍㄟˇ",
+            "jǐ ㄐㄧˇ"
+        ],
+        "Âm Nôm": [
+            "cấp"
+        ],
+        "Âm Quảng Đông": [
+            "kap1"
+        ]
+    },
+    "meanings": {
+        "cấp": {
+            "Từ điển phổ thông": [
+                "đủ dùng",
+                "cấp, phát"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 給."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cấp, cung cấp: 給水 (Cung) cấp nước; 自給自足 Tự cấp tự túc;",
+                "Đầy đủ, phong túc: 家給人足 Nhà no người đủ;",
+                "(văn) Lẻo mép, bẻm mép: 禦人以口給 Lấy lời bẻm mép mà chống người. Xem 給 [gâi]."
+            ],
+            "compound_words": {
+                "供给": "cung cấp",
+                "分给": "phân cấp",
+                "自给": "tự cấp"
+            }
+        }
+    }
+}

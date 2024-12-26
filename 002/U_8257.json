@@ -1,0 +1,63 @@
+{
+    "character": "艗",
+    "details": {
+        "Âm Hán Việt": [
+            "dật",
+            "ích"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "chu 舟 (+10 nét)"
+        ],
+        "Hình thái": [
+            "⿰舟益"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶丶ノ一ノ丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "HYTCT (竹卜廿金廿)"
+        ],
+        "Unicode": [
+            "U+8257"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Quảng Đông": [
+            "jat6",
+            "jik6"
+        ]
+    },
+    "meanings": {
+        "dật": {
+            "Từ điển phổ thông": [
+                "cái thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Thuyền. § Xem “nghịch thủ” 鷁首."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thuyền;",
+                "【艗首】dật thủ [yìshôu] a. Đầu thuyền. Cv. 艗艏, 鷁首. Xem 艏; b. Thuyền."
+            ],
+            "compound_words": {
+                "艗艏": "dật thủ",
+                "艗首": "dật thủ"
+            }
+        },
+        "ích": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầu thuyền. Mũi thuyền — » Mũi ích nhẹ nhàng lướt sóng qua « ( Thơ cổ )."
+            ]
+        }
+    }
+}

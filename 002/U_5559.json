@@ -1,0 +1,61 @@
+{
+    "character": "啙",
+    "details": {
+        "Âm Hán Việt": [
+            "tử",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱此吅"
+        ],
+        "Nét bút": [
+            "丨一丨一ノフ丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YPRR (卜心口口)"
+        ],
+        "Unicode": [
+            "U+5559"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zǐ ㄗˇ"
+        ]
+    },
+    "meanings": {
+        "tử": {
+            "Từ điển phổ thông": [
+                "kém, yếu, bại hoại"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Kém, yếu, bại hoại;",
+                "【啙窳】tử dũ [zêyư] Lười nhác, cẩu thả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngắn. Yếu kém — Một âm là Tì. Xem Tì."
+            ],
+            "compound_words": {
+                "啙窳": "tử dũ"
+            }
+        },
+        "tỳ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hư hỏng — Vết bẩn."
+            ]
+        }
+    }
+}

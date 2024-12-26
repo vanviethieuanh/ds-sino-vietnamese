@@ -1,0 +1,67 @@
+{
+    "character": "邽",
+    "details": {
+        "Âm Hán Việt": [
+            "khuê"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ấp 邑 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰圭⻏"
+        ],
+        "Nét bút": [
+            "一丨一一丨一フ丨"
+        ],
+        "Thương Hiệt": [
+            "GGNL (土土弓中)"
+        ],
+        "Unicode": [
+            "U+90BD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "guī ㄍㄨㄟ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)",
+            "ケ (ke)"
+        ],
+        "Âm Hàn": [
+            "규"
+        ],
+        "Âm Quảng Đông": [
+            "gwai1"
+        ]
+    },
+    "meanings": {
+        "khuê": {
+            "Từ điển phổ thông": [
+                "(tên đất, xem: hạ khuê 下邽, thượng khuê 上邽)",
+                "họ Khuê"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tên đất thời xưa (Hạ Khuê 下邽 ở thành phố Vị Nam, tỉnh Thiểm Tây; Thượng Khuê 上邽 là một huyện thời cổ, thuộc phía tây nam thành phố Thiên Thuỷ, tỉnh Cam Túc, Trung Quốc ngày nay);",
+                "(Họ) Khuê."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên đất — Họ người."
+            ],
+            "compound_words": {
+                "下邽": "hạ khuê",
+                "上邽": "thượng khuê"
+            }
+        }
+    }
+}

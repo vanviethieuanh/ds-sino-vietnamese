@@ -1,0 +1,96 @@
+{
+    "character": "測",
+    "details": {
+        "Âm Hán Việt": [
+            "trắc"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡則"
+        ],
+        "Nét bút": [
+            "丶丶一丨フ一一一ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "EBCN (水月金弓)"
+        ],
+        "Unicode": [
+            "U+6E2C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ"
+        ],
+        "Âm Nôm": [
+            "trắc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はか.る (haka.ru)"
+        ],
+        "Âm Hàn": [
+            "측"
+        ],
+        "Âm Quảng Đông": [
+            "caak1",
+            "cak1"
+        ]
+    },
+    "meanings": {
+        "trắc": {
+            "Từ điển phổ thông": [
+                "lường trước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đo chiều sâu, đo lường. ◇Hoài Nam Tử 淮南子: 'Thâm bất khả trắc' 深不可測 (Nguyên đạo 原道) Sâu không thể đo được.",
+                "(Động) Lường, liệu, suy đoán. ◇Hán Thư 漢書: 'Nhân tâm nan trắc dã' 人心難測也 (Khoái Thông truyện 蒯通傳) Lòng người khó lường vậy.",
+                "(Tính) Trong, sạch. ◇Chu Lễ 周禮: 'Tất dục trắc, ti dục trầm' 漆欲測, 絲欲沉 (Đông quan khảo công kí 冬官考工記, Cung nhân 弓人) Sơn muốn cho trong, tơ muốn cho thâm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðo chiều sâu, nói rộng ra phàm sự đo lường đều gọi là trắc cả, như bất trắc 不測 không lường được.",
+                "Trong."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đo (đạc): 勘測 Đo đạc; 深不可測 Sâu không đo được;",
+                "Lường tới, ngờ đến: 事出不測 Việc xảy ra không ngờ; 深不可測也 Lẽ thâm sâu không thể lường tính được (Hoài Nam tử);",
+                "(văn) Trong: 漆慾測，絲慾沈 Sơn muốn trong, tơ muốn thâm bóng (Chu lễ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước trong — Đo lường — Ngờ trước. Lường trước. Td: Bất trắc ( không lường trước được )."
+            ],
+            "compound_words": {
+                "不測": "bất trắc",
+                "步測": "bộ trắc",
+                "湢測": "bức trắc",
+                "勘測": "khám trắc",
+                "窺測": "khuy trắc",
+                "檢測": "kiểm trắc",
+                "叵測": "phả trắc",
+                "猜測": "sai trắc",
+                "推測": "suy trắc",
+                "揣測": "suỷ trắc",
+                "探測": "thám trắc",
+                "測影": "trắc ảnh",
+                "測度": "trắc đạc",
+                "測地": "trắc địa",
+                "測量": "trắc lượng",
+                "測驗": "trắc nghiệm"
+            }
+        }
+    }
+}

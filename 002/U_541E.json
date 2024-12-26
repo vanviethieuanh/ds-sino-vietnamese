@@ -1,0 +1,91 @@
+{
+    "character": "吞",
+    "details": {
+        "Âm Hán Việt": [
+            "thôn"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱天口"
+        ],
+        "Nét bút": [
+            "一一ノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "HKR (竹大口)"
+        ],
+        "Unicode": [
+            "U+541E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tūn ㄊㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "thôn",
+            "xôn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドン (don)",
+            "トン (ton)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のむ (nomu)"
+        ],
+        "Âm Quảng Đông": [
+            "tan1"
+        ]
+    },
+    "meanings": {
+        "thôn": {
+            "Từ điển phổ thông": [
+                "nuốt",
+                "tiêu diệt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nuốt, ngốn. ◎Như: 'thôn phục dược hoàn' 吞服藥丸 nuốt trửng viên thuốc, 'lang thôn hổ yết' 狼吞虎嚥 ăn ngốn ngấu (như sói, như cọp), 'hốt luân thôn táo' 囫圇吞棗 nuốt trửng quả táo (làm sự việc hồ đồ, bừa bãi, thiếu suy xét). ◇Trần Quốc Tuấn 陳國峻: 'Dự Nhượng thôn thán nhi phục chủ thù' 蓣讓吞炭而復主讎 (Dụ chư bì tướng hịch văn 諭諸裨將檄文) Dự Nhượng nuốt than mà báo thù cho chủ.",
+                "(Động) Tiêu diệt, chiếm đoạt. ◎Như: 'tinh thôn' 并吞 chiếm lấy. § Cũng viết là 併吞. ◇Tam quốc diễn nghĩa 三國演義: 'Viên Thiệu tồn nhật, thường hữu thôn Liêu Đông chi tâm' 袁紹存日, 常有吞遼東之心 (Đệ tam thập tam hồi) Viên Thiệu khi còn sống, thường có ý muốn thôn tính Liêu Đông.",
+                "(Động) Bao hàm, chứa đựng. ◇Phạm Trọng Yêm 范仲淹: 'Hàm viễn san, thôn Trường Giang, hạo hạo sương sương' 銜遠山, 吞長江, 浩浩湯湯 (Nhạc Dương Lâu kí 岳陽樓記) Ngậm núi xa, nuốt Trường Giang, mênh mông cuồn cuộn.",
+                "(Danh) Họ 'Thôn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nuốt, ăn không nhai cứ nuốt ngay xuống gọi là thôn.",
+                "Diệt mất. Ðánh lấy đất nước người ta thu làm đất nước mình gọi là tính thôn 并吞. Cũng viết là 併吞."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nuốt, nuốt trửng, ngốn: 狼吞虎咽 Ăn ngốn ngấu, ăn như hổ ngốn; 囫圇吞棗 Nuốt trửng quả táo. (Ngr) Tiếp thu một cách bừa bãi;",
+                "Xâm lấn, thôn tính, diệt mất: 吞滅 Thôn tính tiêu diệt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cho vào miệng mà nuốt — Chiếm lấy."
+            ],
+            "compound_words": {
+                "鯨吞": "kình thôn",
+                "慢吞吞": "mạn thôn thôn",
+                "吞吞吐吐": "thôn thôn thổ thổ",
+                "吞食": "thôn thực",
+                "吞併": "thôn tính",
+                "吞并": "thôn tính",
+                "併吞": "tính thôn",
+                "并吞": "tính thôn",
+                "雲吞": "vân thôn",
+                "蛇吞象": "xà thôn tượng",
+                "侵吞": "xâm thôn"
+            }
+        }
+    }
+}

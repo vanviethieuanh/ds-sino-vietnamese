@@ -1,0 +1,75 @@
+{
+    "character": "僨",
+    "details": {
+        "Âm Hán Việt": [
+            "phẫn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhân 人 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻賁"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一丨丨丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OJTC (人十廿金)"
+        ],
+        "Unicode": [
+            "U+50E8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "fèn ㄈㄣˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フン (fun)",
+            "ホン (hon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たお.れる (tao.reru)",
+            "お.ちる (o.chiru)",
+            "やぶ.る (yabu.ru)"
+        ],
+        "Âm Quảng Đông": [
+            "fan5"
+        ]
+    },
+    "meanings": {
+        "phẫn": {
+            "Từ điển phổ thông": [
+                "đổ ngã"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đổ, ngã.",
+                "(Động) Hỏng, bại hoại. ◎Như: 'phẫn sự' 僨事 hỏng việc.",
+                "(Động) 'Phẫn hứng' 僨興: (1) Động khởi, hưng phấn. (2) Bạo phát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðổ ngã, hỏng như phẫn sự 僨事 hỏng việc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đổ ngã, hỏng: 僨事 Hỏng việc, rách việc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngã xuống. Ngã chết — Thua. Bại trận."
+            ],
+            "compound_words": {
+                "僨軍": "phẫn quân",
+                "僨事": "phẫn sự"
+            }
+        }
+    }
+}

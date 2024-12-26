@@ -1,0 +1,99 @@
+{
+    "character": "穩",
+    "details": {
+        "Âm Hán Việt": [
+            "ổn"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "hoà 禾 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾㥯"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶ノ丶丶ノ一丨一フ一一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "HDBMP (竹木月一心)"
+        ],
+        "Unicode": [
+            "U+7A69"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wěn ㄨㄣˇ"
+        ],
+        "Âm Nôm": [
+            "ỉn",
+            "ón",
+            "ổn",
+            "ủn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オン (on)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おだ.やか (oda.yaka)"
+        ],
+        "Âm Hàn": [
+            "온"
+        ],
+        "Âm Quảng Đông": [
+            "wan2"
+        ]
+    },
+    "meanings": {
+        "ổn": {
+            "Từ điển phổ thông": [
+                "vững vàng, chắc chắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Yên định, an toàn. ◎Như: 'an ổn' 安穩 yên định, 'ổn định' 穩定 yên định, 'ổn như Thái san' 穩如泰山 yên vững như núi Thái Sơn.",
+                "(Tính) Thỏa đáng, thỏa thiếp. ◎Như: 'ổn đương' 穩當 thỏa đáng, 'thập nã cửu ổn' 十拿九穩 mười phần thỏa đáng.",
+                "(Tính) Cẩn thận, thận trọng. ◎Như: 'ổn trọng' 穩重 thận trọng.",
+                "(Động) Làm cho yên, nắm vững. ◎Như: 'ổn trụ tình tự' 穩住情緒 làm cho yên ổn mối tình cảm.",
+                "(Động) Xếp đặt, đặt để, an bài. ◇Tần Phu 秦夫: 'Giá lưỡng cá hảo vô lễ dã, bả ngã ổn tại trà phường lí, tha lưỡng cá đô tẩu liễu, can ngạ liễu ngã nhất nhật' 這兩個好無禮也. 把我穩在茶坊裡, 他兩個都走了, 乾餓了我一日 (Đông Đường Lão 東堂老, Đệ tam chiết) Hai tên đó thật vô lễ, để ta ở tiệm trà, chúng nó hai đứa đều chạy mất, cho ta đói queo cả một ngày.",
+                "(Phó) Nhất định, chắc chắn. ◎Như: 'ổn thao thắng toán' 穩操勝算 nắm chắc phần thắng.",
+                "(Danh) 'Ổn bà' 穩婆: (1) Bà đỡ, bà mụ. (2) Người đàn bà làm phận sự 'ngỗ tác' 仵作 ngày xưa, tức là một chức quan lại lo việc kiểm nghiệm người tử thương (tương đướng với chức vụ 'pháp y' 法醫 ngày nay). Cũng chỉ người lo việc tẩm liệm người chết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Yên ổn, ổn đáng, ổn thoả. Như an ổn 安穩, ổn định 穩定.",
+                "Ổn bà 穩婆 bà đỡ, bà mụ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ổn, ổn thoả, vững, vững vàng: 站穩立場 Đứng vững lập trường;",
+                "Chắc, chắc chắn: 拿不穩 Nắm không chắc;",
+                "Chắc chắn, trầm tĩnh, điềm đạm. 【穩扎穩打】ổn trát ổn đả [wân zha-wândă] Ổn định doanh trại tìm cách đánh địch, đóng vững đánh chắc. (Ngb) Vững vàng chắc chắn;",
+                "【穩婆】ổn bà [wânpó] (cũ) Bà đỡ, bà mụ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Yên, không rối loạn — Làm cho yên."
+            ],
+            "compound_words": {
+                "安穩": "an ổn",
+                "把穩": "bả ổn",
+                "不穩": "bất ổn",
+                "平穩": "bình ổn",
+                "穩婆": "ổn bà",
+                "穩固": "ổn cố",
+                "穩當": "ổn đáng",
+                "穩定": "ổn định",
+                "穩度": "ổn độ",
+                "穩健": "ổn kiện",
+                "穩妥": "ổn thoả",
+                "穩重": "ổn trọng"
+            }
+        }
+    }
+}

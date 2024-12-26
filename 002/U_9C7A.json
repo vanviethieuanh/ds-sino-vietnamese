@@ -1,0 +1,75 @@
+{
+    "character": "鱺",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly",
+            "lễ"
+        ],
+        "Tổng nét": [
+            "30"
+        ],
+        "Bộ": [
+            "ngư 魚 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰魚麗"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一丶丶丶丶一丨フ丶一丨フ丶丶一ノフ丨丨一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "NFMMP (弓火一一心)"
+        ],
+        "Unicode": [
+            "U+9C7A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "lǐ ㄌㄧˇ"
+        ],
+        "Âm Nôm": [
+            "lí"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cá chình.",
+                "Một âm là 'lễ'. (Danh) § Cũng như 'lễ' 鱧."
+            ]
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "(xem: man ly 鰻鱺,鳗鲡)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Man li 鰻鱺 cá sộp, cá chình."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 鰻鱺 [mánlí]."
+            ],
+            "compound_words": {
+                "鰻鱺": "man ly"
+            }
+        },
+        "lễ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cá chình.",
+                "Một âm là 'lễ'. (Danh) § Cũng như 'lễ' 鱧."
+            ]
+        }
+    }
+}

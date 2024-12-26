@@ -1,0 +1,63 @@
+{
+    "character": "库",
+    "details": {
+        "Âm Hán Việt": [
+            "khố"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸广车"
+        ],
+        "Nét bút": [
+            "丶一ノ一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "IKQ (戈大手)"
+        ],
+        "Unicode": [
+            "U+5E93"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kù ㄎㄨˋ"
+        ],
+        "Âm Nôm": [
+            "khố"
+        ],
+        "Âm Quảng Đông": [
+            "fu3"
+        ]
+    },
+    "meanings": {
+        "khố": {
+            "Từ điển phổ thông": [
+                "kho chứa đồ vật"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 庫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 庫"
+            ],
+            "compound_words": {
+                "宝库": "bảo khố",
+                "国库": "quốc khố",
+                "仓库": "thương khố",
+                "武库": "vũ khố"
+            }
+        }
+    }
+}

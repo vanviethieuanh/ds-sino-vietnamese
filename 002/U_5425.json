@@ -1,0 +1,57 @@
+{
+    "character": "吥",
+    "details": {
+        "Âm Hán Việt": [
+            "bất"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口不"
+        ],
+        "Nét bút": [
+            "丨フ一一ノ丨丶"
+        ],
+        "Thương Hiệt": [
+            "RMF (口一火)"
+        ],
+        "Unicode": [
+            "U+5425"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bù ㄅㄨˋ"
+        ],
+        "Âm Quảng Đông": [
+            "bat1",
+            "bau6",
+            "pau3"
+        ]
+    },
+    "meanings": {
+        "bất": {
+            "Từ điển phổ thông": [
+                "(xem: cống bất 嗊吥,唝吥)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 嗊吥."
+            ],
+            "compound_words": {
+                "唝吥": "cống bất",
+                "嗊吥": "cống bất"
+            }
+        }
+    }
+}

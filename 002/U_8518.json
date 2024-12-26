@@ -1,0 +1,83 @@
+{
+    "character": "蔘",
+    "details": {
+        "Âm Hán Việt": [
+            "sâm",
+            "tam"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thảo 艸 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹參"
+        ],
+        "Nét bút": [
+            "一丨丨フ丶フ丶フ丶ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "TIIH (廿戈戈竹)"
+        ],
+        "Unicode": [
+            "U+8518"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "sān ㄙㄢ",
+            "sēn ㄙㄣ",
+            "shēn ㄕㄣ"
+        ],
+        "Âm Nôm": [
+            "sam"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)",
+            "サン (san)"
+        ],
+        "Âm Hàn": [
+            "삼"
+        ]
+    },
+    "meanings": {
+        "sâm": {
+            "Từ điển phổ thông": [
+                "cỏ sâm (thứ cỏ quý, lá như bàn tay, hoa trắng, dùng làm thuốc)",
+                "sao Sâm (một trong Nhị thập bát tú)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cũng như 'sâm' 參, tức là 'nhân sâm' 人參, tên một loài cây nhỏ, hoa sắc trắng, rễ dùng làm vị thuốc bổ.",
+                "Một âm là 'tam'. (Tính) Rộng lớn. ◎Như: 'tam tuy' 蔘綏 rộng lớn.",
+                "(Tính) Dáng rủ xuống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên vị thuốc quý, ta cũng gọi là Sâm. Như chữ Sâm 參 — Một âm là Tam. Xem Tam."
+            ],
+            "compound_words": {
+                "黨蔘": "đảng sâm"
+            }
+        },
+        "tam": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cũng như 'sâm' 參, tức là 'nhân sâm' 人參, tên một loài cây nhỏ, hoa sắc trắng, rễ dùng làm vị thuốc bổ.",
+                "Một âm là 'tam'. (Tính) Rộng lớn. ◎Như: 'tam tuy' 蔘綏 rộng lớn.",
+                "(Tính) Dáng rủ xuống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Tam tuy 蔘綏 — Một âm khác là Sâm. Xem Sâm."
+            ],
+            "compound_words": {
+                "蔘綏": "tam tuy"
+            }
+        }
+    }
+}

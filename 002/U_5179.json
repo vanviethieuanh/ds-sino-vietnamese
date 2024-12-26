@@ -1,0 +1,86 @@
+{
+    "character": "兹",
+    "details": {
+        "Âm Hán Việt": [
+            "ty",
+            "tư",
+            "từ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "bát 八 (+7 nét)",
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱䒑𢆶"
+        ],
+        "Nét bút": [
+            "丶ノ一フフ丶フフ丶"
+        ],
+        "Thương Hiệt": [
+            "TVII (廿女戈戈)"
+        ],
+        "Unicode": [
+            "U+5179"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cī ㄘ",
+            "cí ㄘˊ",
+            "zī ㄗ"
+        ],
+        "Âm Nôm": [
+            "tư"
+        ],
+        "Âm Quảng Đông": [
+            "zi1"
+        ]
+    },
+    "meanings": {
+        "ty": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đen. Màu đen."
+            ]
+        },
+        "tư": {
+            "Từ điển phổ thông": [
+                "ích, thêm",
+                "ấy, đó, này, đây, nay, như thế",
+                "chiếu",
+                "năm, mùa"
+            ],
+            "Từ điển trích dẫn": [
+                "Một dạng của chữ 'tư' 茲.",
+                "Giản thể của chữ 茲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 茲"
+            ]
+        },
+        "từ": {
+            "Từ điển phổ thông": [
+                "(xem: khưu từ 龜茲,龟兹)"
+            ],
+            "Từ điển trích dẫn": [
+                "Một dạng của chữ 'tư' 茲.",
+                "Giản thể của chữ 茲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 茲"
+            ],
+            "compound_words": {
+                "龟兹": "khưu từ"
+            }
+        }
+    }
+}

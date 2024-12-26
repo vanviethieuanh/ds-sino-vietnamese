@@ -1,0 +1,315 @@
+{
+    "character": "家",
+    "details": {
+        "Âm Hán Việt": [
+            "cô",
+            "gia"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "miên 宀 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱宀豕"
+        ],
+        "Nét bút": [
+            "丶丶フ一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "JMSO (十一尸人)"
+        ],
+        "Unicode": [
+            "U+5BB6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ",
+            "jiā ㄐㄧㄚ",
+            "jiē ㄐㄧㄝ"
+        ],
+        "Âm Nôm": [
+            "gia",
+            "nhà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いえ (ie)",
+            "や (ya)",
+            "うち (uchi)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa1",
+            "gu1"
+        ]
+    },
+    "meanings": {
+        "cô": {
+            "Từ điển trích dẫn": [
+                "(Động) Ở, cư trú. ◎Như: 'thiếp gia Hà Dương' 妾家河陽 (Văn tuyển, Biệt phú 文選, 別賦) thiếp ở Hà Dương.",
+                "(Danh) Nhà (chỗ ở). ◎Như: 'hồi gia' 回家 trở về nhà.",
+                "(Danh) Chỉ quốc gia. ◇Trương Hành 張衡: 'Thả Cao kí thụ kiến gia' 且高既受建家 (Đông Kinh phú 東京賦) Cao Tổ thụ mệnh trời kiến lập quốc gia.",
+                "(Danh) Triều đình, triều đại. ◎Như: 'Hán gia' 漢 家 (triều đình) nhà Hán.",
+                "(Danh) Chỉ vợ hoặc chồng. ◇Hồng Lâu Mộng 紅樓夢: 'Hoàn hữu Trương Tài gia đích, Chu Thụy gia đích bồi trước' 還有張材家的, 周瑞家的陪著 (Đệ tam thập cửu hồi) Lại có cả vợ Trương Tài, vợ Chu Thụy tiếp đãi.",
+                "(Danh) Trường phái, lưu phái. ◎Như: 'nho gia' 儒家 nhà nho, 'đạo gia' 道家 nhà theo phái đạo Lão, 'bách gia tranh minh' 百家爭鳴 trăm nhà đua tiếng.",
+                "(Danh) Người chuyên môn. ◎Như: 'văn học gia' 文學家 nhà văn học, 'chính trị gia' 政治家 nhà chính trị, 'khoa học gia' 科學家 nhà khoa học.",
+                "(Danh) Người (làm nghề). ◎Như: 'nông gia' 農家 nhà làm ruộng, 'thương gia' 商家 nhà buôn.",
+                "(Danh) Tiếng tự xưng hoặc xưng gọi người khác. ◎Như: 'tự gia' 自家 tôi đây, 'cô nương gia' 姑娘家 cô nương nhà, 'tiểu hài tử gia' 小孩子家 chú bé nhà.",
+                "(Danh) Khu vực, đất đai, ấp phong cho bực đại phu cai trị thời xưa. ◇Luận Ngữ 論語: 'Khâu dã văn hữu quốc hữu gia giả, bất hoạn quả nhi hoạn bất quân, bất hoạn bần nhi hoạn bất an' 丘也, 聞有國有家者, 不患寡而患不均, 不患貧而患不安 (Quý thị 季氏) Khâu này nghe nói người có nước có ấp (tức ấp phong của các đại phu), không lo ít mà lo (sự phân chia) không đều, không lo nghèo mà lo (xã tắc) không yên.",
+                "(Danh) Lượng từ: gia đình, cửa tiệm, xí nghiệp. ◎Như: 'lưỡng gia lữ quán' 兩家旅館 hai khách sạn, 'kỉ gia công xưởng' 幾家工廠 vài nhà máy.",
+                "(Danh) Tục đối với người ngoài, tự xưng bậc tôn trưởng của mình là 'gia'. ◎Như: 'gia phụ' 家父 cha tôi, 'gia huynh' 家兄 anh tôi.",
+                "(Danh) Họ 'Gia'.",
+                "(Tính) Thuộc về một nhà. ◎Như: 'gia trưởng' 家長 người chủ nhà, 'gia nhân' 家人 người nhà, 'gia sự' 家事 việc nhà, 'gia sản' 家產 của cải nhà, 'gia nghiệp' 家業 nghiệp nhà.",
+                "(Tính) Nuôi ở trong nhà (cầm thú). ◎Như: 'gia cầm' 家禽 chim nuôi trong nhà, 'gia súc' 家畜 muông nuôi trong nhà.",
+                "(Trợ) Đặt giữa câu, tương đương như 'địa' 地, 'đích' 的. ◇Tây du kí 西遊記: 'Đại oản gia khoan hoài sướng ẩm' 大碗家寬懷暢飲 (Đệ ngũ thập nhất hồi) Rót từng bát lớn uống (một cách) tha hồ thỏa thích.",
+                "Một âm là 'cô'. (Danh) Cũng như chữ 'cô' 姑. 'Thái cô' 太家 tiếng gọi tôn trọng dành cho phụ nữ. ◎Như: 'Ban Chiêu' 班昭 vợ 'Tào Thế Húc' 曹世叔 đời nhà Hán, vì có đức hạnh lại học giỏi, được cử vào dạy vợ con vua nên gọi là 'Tào Thái cô' 曹太家."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ở.",
+                "Chỗ ở (nhà).",
+                "Vợ gọi chồng là gia 家, cũng như chồng gọi vợ là thất 室.",
+                "Ở trong một cửa gọi là một nhà, như gia trưởng 家長 người chủ nhà, gia nhân 家人 người nhà, v.v.",
+                "Có cái học vấn giỏi riêng về một môn gọi là gia. Như văn học gia 文學家, nhà văn học, chính trị gia 政治家 nhà chính trị, v.v.",
+                "Tự xưng người tôn trưởng của nhà mình cũng gọi là gia, như gia phụ 家父 cha tôi, gia huynh 家兄 anh tôi, v.v.",
+                "Giống gì nuôi ở trong nhà cũng gọi là gia. Như gia cầm 家禽 giống chim nuôi trong nhà, gia súc 家畜 giống muông nuôi trong nhà.",
+                "Một âm là cô, cũng như chữ cô 姑. Thái cô 太家 tiếng gọi quan trọng của con gái. Như Ban Chiêu 班昭 vợ Tào Thế Húc 曹世叔 đời nhà Hán, vì có đức hạnh lại có học giỏi, được cử vào dạy vợ con vua nên gọi là Tào thái cô 曹太家."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Cô 姑 — Tiếng gọi quan trọng của con gái."
+            ],
+            "compound_words": {
+                "阿家": "a cô"
+            }
+        },
+        "gia": {
+            "Từ điển phổ thông": [
+                "nhà",
+                "tiếng vợ gọi chồng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ở, cư trú. ◎Như: 'thiếp gia Hà Dương' 妾家河陽 (Văn tuyển, Biệt phú 文選, 別賦) thiếp ở Hà Dương.",
+                "(Danh) Nhà (chỗ ở). ◎Như: 'hồi gia' 回家 trở về nhà.",
+                "(Danh) Chỉ quốc gia. ◇Trương Hành 張衡: 'Thả Cao kí thụ kiến gia' 且高既受建家 (Đông Kinh phú 東京賦) Cao Tổ thụ mệnh trời kiến lập quốc gia.",
+                "(Danh) Triều đình, triều đại. ◎Như: 'Hán gia' 漢 家 (triều đình) nhà Hán.",
+                "(Danh) Chỉ vợ hoặc chồng. ◇Hồng Lâu Mộng 紅樓夢: 'Hoàn hữu Trương Tài gia đích, Chu Thụy gia đích bồi trước' 還有張材家的, 周瑞家的陪著 (Đệ tam thập cửu hồi) Lại có cả vợ Trương Tài, vợ Chu Thụy tiếp đãi.",
+                "(Danh) Trường phái, lưu phái. ◎Như: 'nho gia' 儒家 nhà nho, 'đạo gia' 道家 nhà theo phái đạo Lão, 'bách gia tranh minh' 百家爭鳴 trăm nhà đua tiếng.",
+                "(Danh) Người chuyên môn. ◎Như: 'văn học gia' 文學家 nhà văn học, 'chính trị gia' 政治家 nhà chính trị, 'khoa học gia' 科學家 nhà khoa học.",
+                "(Danh) Người (làm nghề). ◎Như: 'nông gia' 農家 nhà làm ruộng, 'thương gia' 商家 nhà buôn.",
+                "(Danh) Tiếng tự xưng hoặc xưng gọi người khác. ◎Như: 'tự gia' 自家 tôi đây, 'cô nương gia' 姑娘家 cô nương nhà, 'tiểu hài tử gia' 小孩子家 chú bé nhà.",
+                "(Danh) Khu vực, đất đai, ấp phong cho bực đại phu cai trị thời xưa. ◇Luận Ngữ 論語: 'Khâu dã văn hữu quốc hữu gia giả, bất hoạn quả nhi hoạn bất quân, bất hoạn bần nhi hoạn bất an' 丘也, 聞有國有家者, 不患寡而患不均, 不患貧而患不安 (Quý thị 季氏) Khâu này nghe nói người có nước có ấp (tức ấp phong của các đại phu), không lo ít mà lo (sự phân chia) không đều, không lo nghèo mà lo (xã tắc) không yên.",
+                "(Danh) Lượng từ: gia đình, cửa tiệm, xí nghiệp. ◎Như: 'lưỡng gia lữ quán' 兩家旅館 hai khách sạn, 'kỉ gia công xưởng' 幾家工廠 vài nhà máy.",
+                "(Danh) Tục đối với người ngoài, tự xưng bậc tôn trưởng của mình là 'gia'. ◎Như: 'gia phụ' 家父 cha tôi, 'gia huynh' 家兄 anh tôi.",
+                "(Danh) Họ 'Gia'.",
+                "(Tính) Thuộc về một nhà. ◎Như: 'gia trưởng' 家長 người chủ nhà, 'gia nhân' 家人 người nhà, 'gia sự' 家事 việc nhà, 'gia sản' 家產 của cải nhà, 'gia nghiệp' 家業 nghiệp nhà.",
+                "(Tính) Nuôi ở trong nhà (cầm thú). ◎Như: 'gia cầm' 家禽 chim nuôi trong nhà, 'gia súc' 家畜 muông nuôi trong nhà.",
+                "(Trợ) Đặt giữa câu, tương đương như 'địa' 地, 'đích' 的. ◇Tây du kí 西遊記: 'Đại oản gia khoan hoài sướng ẩm' 大碗家寬懷暢飲 (Đệ ngũ thập nhất hồi) Rót từng bát lớn uống (một cách) tha hồ thỏa thích.",
+                "Một âm là 'cô'. (Danh) Cũng như chữ 'cô' 姑. 'Thái cô' 太家 tiếng gọi tôn trọng dành cho phụ nữ. ◎Như: 'Ban Chiêu' 班昭 vợ 'Tào Thế Húc' 曹世叔 đời nhà Hán, vì có đức hạnh lại học giỏi, được cử vào dạy vợ con vua nên gọi là 'Tào Thái cô' 曹太家."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ở.",
+                "Chỗ ở (nhà).",
+                "Vợ gọi chồng là gia 家, cũng như chồng gọi vợ là thất 室.",
+                "Ở trong một cửa gọi là một nhà, như gia trưởng 家長 người chủ nhà, gia nhân 家人 người nhà, v.v.",
+                "Có cái học vấn giỏi riêng về một môn gọi là gia. Như văn học gia 文學家, nhà văn học, chính trị gia 政治家 nhà chính trị, v.v.",
+                "Tự xưng người tôn trưởng của nhà mình cũng gọi là gia, như gia phụ 家父 cha tôi, gia huynh 家兄 anh tôi, v.v.",
+                "Giống gì nuôi ở trong nhà cũng gọi là gia. Như gia cầm 家禽 giống chim nuôi trong nhà, gia súc 家畜 giống muông nuôi trong nhà.",
+                "Một âm là cô, cũng như chữ cô 姑. Thái cô 太家 tiếng gọi quan trọng của con gái. Như Ban Chiêu 班昭 vợ Tào Thế Húc 曹世叔 đời nhà Hán, vì có đức hạnh lại có học giỏi, được cử vào dạy vợ con vua nên gọi là Tào thái cô 曹太家."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 價 [jie] nghĩa",
+                ". Xem 家 [jia], [jia]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngôi nhà ở — Mọi người trong nhà. Chẳng hạn Gia đình — Tiếng chỉ người thân trong nhà mình. Chẳng hạn Gia huynh ( anh của tôi ) — Tiếng người vợ gọi chồng. Chỉ người chồng. Chẳng hạn Gia thất ( vợ chồng ) — Tiếng chỉ bậc học giả, có học thuyết riêng — Tiếng trợ từ cuối câu — Một âm là Cô. Xem Cô."
+            ],
+            "compound_words": {
+                "安家": "an gia",
+                "陰陽家": "âm dương gia",
+                "音樂家": "âm nhạc gia",
+                "恩家": "ân gia",
+                "婆家": "bà gia",
+                "百家": "bách gia",
+                "白手成家": "bạch thủ thành gia",
+                "搬家": "bàn gia",
+                "邦家": "bang gia",
+                "八大家": "bát đại gia",
+                "備家": "bị gia",
+                "兵家": "binh gia",
+                "咱家": "cha gia",
+                "政治家": "chính trị gia",
+                "专家": "chuyên gia",
+                "專家": "chuyên gia",
+                "機杼一家": "cơ trữ nhất gia",
+                "居家": "cư gia",
+                "舉家": "cử gia",
+                "彊家": "cương gia",
+                "仇家": "cừu gia",
+                "名家": "danh gia",
+                "大家": "đại gia",
+                "道家": "đạo gia",
+                "頭家": "đầu gia",
+                "东南亚国家联盟": "đông nam á quốc gia liên minh",
+                "東南亞國家聯盟": "đông nam á quốc gia liên minh",
+                "當家": "đương gia",
+                "家變": "gia biến",
+                "家僕": "gia bộc",
+                "家景": "gia cảnh",
+                "家鴿": "gia cáp",
+                "家鸽": "gia cáp",
+                "家禽": "gia cầm",
+                "家俱": "gia câu",
+                "家政": "gia chính",
+                "家主": "gia chủ",
+                "家具": "gia cụ",
+                "家用": "gia dụng",
+                "家道": "gia đạo",
+                "家弟": "gia đệ",
+                "家丁": "gia đinh",
+                "家庭": "gia đình",
+                "嘉定三家": "gia định tam gia",
+                "家童": "gia đồng",
+                "家當": "gia đương",
+                "家教": "gia giáo",
+                "家頁": "gia hiệt",
+                "家火": "gia hoả",
+                "家訓歌": "gia huấn ca",
+                "家兄": "gia huynh",
+                "家鄉": "gia hương",
+                "家口": "gia khẩu",
+                "家母": "gia mẫu",
+                "家廟": "gia miếu",
+                "家門": "gia môn",
+                "家嚴": "gia nghiêm",
+                "家人": "gia nhân",
+                "家奴": "gia nô",
+                "家譜": "gia phổ",
+                "家谱": "gia phổ",
+                "家法": "gia pháp",
+                "家風": "gia phong",
+                "家父": "gia phụ",
+                "家君": "gia quân",
+                "家眷": "gia quyến",
+                "家產": "gia sản",
+                "家畜": "gia súc",
+                "家事": "gia sự",
+                "家師": "gia sư",
+                "家財": "gia tài",
+                "家嫂": "gia tẩu",
+                "家祭": "gia tế",
+                "家聲": "gia thanh",
+                "家室": "gia thất",
+                "家世": "gia thế",
+                "家勢": "gia thế",
+                "家叔": "gia thúc",
+                "家屬": "gia thuộc",
+                "家書": "gia thư",
+                "家常": "gia thường",
+                "家先": "gia tiên",
+                "家小": "gia tiểu",
+                "家信": "gia tín",
+                "家祖": "gia tổ",
+                "家祖母": "gia tổ mẫu",
+                "家族": "gia tộc",
+                "家尊": "gia tôn",
+                "家宅": "gia trạch",
+                "家傳": "gia truyền",
+                "家長": "gia trưởng",
+                "家长": "gia trưởng",
+                "家慈": "gia từ",
+                "家私": "gia tư",
+                "家資": "gia tư",
+                "家問": "gia vấn",
+                "家园": "gia viên",
+                "家園": "gia viên",
+                "家务": "gia vụ",
+                "家務": "gia vụ",
+                "寒家": "hàn gia",
+                "豪家": "hào gia",
+                "火家": "hoả gia",
+                "皇家": "hoàng gia",
+                "学家": "học gia",
+                "學家": "học gia",
+                "回家": "hồi gia",
+                "渾家": "hồn gia",
+                "傾家": "khuynh gia",
+                "傾家敗產": "khuynh gia bại sản",
+                "老家": "lão gia",
+                "離家": "li gia",
+                "六家": "lục gia",
+                "良家": "lương gia",
+                "墨家": "mặc gia",
+                "宜家": "nghi gia",
+                "宜室宜家": "nghi thất nghi gia",
+                "外家": "ngoại gia",
+                "吳家世譜": "ngô gia thế phả",
+                "吳家文派": "ngô gia văn phái",
+                "岳家": "nhạc gia",
+                "入家": "nhập gia",
+                "儒家": "nho gia",
+                "寧家": "ninh gia",
+                "農家": "nông gia",
+                "窩家": "oa gia",
+                "冤家": "oan gia",
+                "怨家": "oán gia",
+                "破家": "phá gia",
+                "法家": "pháp gia",
+                "分家": "phân gia",
+                "佛家": "phật gia",
+                "飛行家": "phi hành gia",
+                "管家": "quản gia",
+                "国家": "quốc gia",
+                "國家": "quốc gia",
+                "國家主義": "quốc gia chủ nghĩa",
+                "龜家": "quy gia",
+                "抄家": "sao gia",
+                "超國家": "siêu quốc gia",
+                "史家": "sử gia",
+                "作家": "tác gia",
+                "在家": "tại gia",
+                "喪家": "tang gia",
+                "齊家": "tề gia",
+                "親家": "thân gia",
+                "室家": "thất gia",
+                "世家": "thế gia",
+                "禪家": "thiền gia",
+                "通家": "thông gia",
+                "書香世家": "thư hương thế gia",
+                "乘家": "thừa gia",
+                "承家": "thừa gia",
+                "商家": "thương gia",
+                "小家庭": "tiểu gia đình",
+                "全家": "toàn gia",
+                "全家福": "toàn gia phúc",
+                "債家": "trái gia",
+                "莊家": "trang gia",
+                "持家": "trì gia",
+                "治家": "trị gia",
+                "哲家": "triết gia",
+                "狆家": "trọng gia",
+                "思家": "tư gia",
+                "私家": "tư gia",
+                "想家": "tưởng gia",
+                "運動家": "vận động gia",
+                "無家居": "vô gia cư",
+                "企業家": "xí nghiệp gia",
+                "出家": "xuất gia",
+                "倡家": "xướng gia"
+            }
+        }
+    }
+}

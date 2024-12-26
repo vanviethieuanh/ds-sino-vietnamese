@@ -1,0 +1,81 @@
+{
+    "character": "领",
+    "details": {
+        "Âm Hán Việt": [
+            "lãnh",
+            "lĩnh"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰令页"
+        ],
+        "Nét bút": [
+            "ノ丶丶フ丶一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "OIMBO (人戈一月人)"
+        ],
+        "Unicode": [
+            "U+9886"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lǐng ㄌㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "lãnh",
+            "lĩnh"
+        ],
+        "Âm Quảng Đông": [
+            "ling5"
+        ]
+    },
+    "meanings": {
+        "lãnh": {
+            "Từ điển phổ thông": [
+                "cổ áo",
+                "lĩnh, nhận"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 領"
+            ],
+            "compound_words": {
+                "本领": "bản lãnh",
+                "领导": "lãnh đạo",
+                "领袖": "lãnh tụ",
+                "将领": "tướng lãnh"
+            }
+        },
+        "lĩnh": {
+            "Từ điển phổ thông": [
+                "cổ áo",
+                "lĩnh, nhận"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 領."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 領"
+            ],
+            "compound_words": {
+                "本领": "bản lĩnh",
+                "佔领": "chiếm lĩnh",
+                "统领": "thống lĩnh",
+                "将领": "tướng lĩnh"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "衩",
+    "details": {
+        "Âm Hán Việt": [
+            "sái",
+            "xái"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "y 衣 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤叉"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "LEI (中水戈)"
+        ],
+        "Unicode": [
+            "U+8869"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chǎ ㄔㄚˇ",
+            "chà ㄔㄚˋ"
+        ],
+        "Âm Nôm": [
+            "sái",
+            "xái",
+            "xoa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "シャ (sha)",
+            "サ (sa)"
+        ],
+        "Âm Quảng Đông": [
+            "caa3"
+        ]
+    },
+    "meanings": {
+        "sái": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tà áo, tà váy (chỗ hai bên áo hay váy xẻ ra). § Cũng gọi là 'sái khẩu' 衩口.",
+                "(Danh) Mượn chỉ bao thắt lưng, hầu bao.",
+                "(Danh) Khố ngắn, quần ngắn mặc sát người, quần đùi. ◎Như: 'tam giác khố sái' 三角褲衩 slip.",
+                "(Danh) Phiếm chỉ quần.",
+                "(Tính) Khác thường, kì dị."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【褲衩】khố sái [kùchă] Quần đuì. Xem 衩 [chà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ xẻ ở hông áo, phân biệt tà áo trước với tà áo sau."
+            ],
+            "compound_words": {
+                "衩衣": "sái y"
+            }
+        },
+        "xái": {
+            "Từ điển phổ thông": [
+                "tà áo"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tà áo. Chỗ hai tà áo giáp nhau gọi là xái khẩu 衩口."
+            ]
+        }
+    }
+}

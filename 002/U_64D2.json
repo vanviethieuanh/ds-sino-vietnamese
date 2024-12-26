@@ -1,0 +1,81 @@
+{
+    "character": "擒",
+    "details": {
+        "Âm Hán Việt": [
+            "cầm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘禽"
+        ],
+        "Nét bút": [
+            "一丨一ノ丶丶一ノ丶フ丨丨フフ丶"
+        ],
+        "Thương Hiệt": [
+            "QOYB (手人卜月)"
+        ],
+        "Unicode": [
+            "U+64D2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qín ㄑㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "cầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とら.える (tora.eru)",
+            "とりこ (toriko)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "kam4"
+        ]
+    },
+    "meanings": {
+        "cầm": {
+            "Từ điển phổ thông": [
+                "bắt bớ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bắt giữ, tróc nã. ◎Như: 'giam cầm' 監擒 giam giữ. ◇Trần Quang Khải 陳光啟: 'Đoạt sáo Chương Dương độ, Cầm Hồ Hàm Tử quan' 奪槊章陽渡, 擒胡鹹子關 (Tòng giá hoàn kinh 從駕還京) Cướp giáo (giặc) ở bến Chương Dương, Bắt quân Hồ ở ải Hàm Tử. ◇Tam quốc diễn nghĩa 三國演義: 'Khu cự thú lục phá Man binh, thiêu đằng giáp thất cầm Mạnh Hoạch' 驅巨獸六破蠻兵, 燒藤甲七擒孟獲 (Đệ cửu thập hồi) Đuổi thú mạnh, sáu chuyến phá quân Man, đốt giáp mây, bảy lần bắt Mạnh Hoạch.",
+                "(Động) Chế phục. ◇Sử Kí 史記: 'Hạng Vũ hữu nhất Phạm Tăng nhi bất năng dụng, thử kì sở dĩ vi ngã cầm dã' 項羽有一范增而不能用, 此其所以為我擒也 (Cao Tổ bản kỉ 高祖本紀) Hạng Vũ có một Phạm Tăng mà không biết dùng cho nên bị ta chế phục.",
+                "(Động) Cầm, nắm, quặp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bắt, vội giữ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bắt giữ: 生擒 Bắt sống; 罪犯當場被擒 Kẻ tội phạm bị bắt tại chỗ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bắt giữ. Chẳng hạn Cầm tặc cầm vương ( bắt giặc thì phải bắt tên tướng giặc )."
+            ],
+            "compound_words": {
+                "擒賊擒王": "cầm tặc cầm vương",
+                "擒縱": "cầm túng",
+                "監擒": "giam cầm",
+                "生擒": "sinh cầm"
+            }
+        }
+    }
+}

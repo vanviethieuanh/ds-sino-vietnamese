@@ -1,0 +1,89 @@
+{
+    "character": "叢",
+    "details": {
+        "Âm Hán Việt": [
+            "tùng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "hựu 又 (+16 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "丨丨丶ノ一丶ノ一一丨一丨丨一一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "TCTE (廿金廿水)"
+        ],
+        "Unicode": [
+            "U+53E2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cóng ㄘㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "tòng",
+            "tùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ス (su)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くさむら (kusamura)",
+            "むら.がる (mura.garu)",
+            "むら (mura)"
+        ],
+        "Âm Hàn": [
+            "총"
+        ],
+        "Âm Quảng Đông": [
+            "cung4"
+        ]
+    },
+    "meanings": {
+        "tùng": {
+            "Từ điển phổ thông": [
+                "hợp, nhiều",
+                "rậm rạp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Họp lại, tụ tập. ◎Như: 'thảo mộc tùng sanh' 草木叢生 cỏ cây tụ tập sinh sôi.",
+                "(Danh) Lượng từ: bụi, lùm, đám. ◎Như: 'hoa tùng' 花叢 bụi hoa, 'thảo tùng' 草叢 bụi cỏ, 'nhân tùng' 人叢 đám người.",
+                "(Danh) Họ 'Tùng'.",
+                "(Tính) Đông đúc, rậm rạp, phồn tạp. ◎Như: 'tùng thư' 叢書, 'tùng báo' 叢報 tích góp nhiều sách báo tích góp làm một bộ, một loại, 'tùng lâm' 叢林 rừng rậm. § Ghi chú: Cũng gọi chùa là 'tùng lâm' 叢林 vì xưa Phật tổ thuyết pháp, thường ở các nơi rừng rậm vắng vẻ sạch sẽ, cho tăng chúng tiện chỗ tu hành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hợp. Sưu tập số nhiều để vào một chỗ gọi là tùng. Như tùng thư 叢書, tùng báo 叢報 tích góp nhiều sách báo làm một bộ, một loại.",
+                "Bui râm, như tùng lâm 叢林 rừng râm, cây mọc từng bui gọi là tùng. Bây giờ gọi chùa là tùng lâm 叢林 vì xưa Phật tổ thuyết pháp thường ở các nơi rừng rậm vắng vẻ sạch sẽ, cho tăng chúng tiện chỗ tu hành vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tụ tập, tụ họp, tập hợp: 人叢 Đoàn người, đám đông;",
+                "Bụi, lùm: 草叢 Bụi cỏ; 竹叢 Lùm tre;",
+                "Um tùm, rậm rạp: 叢生 Mọc thành từng bụi, um tùm;",
+                "[Cóng] (Họ) Tùng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tụ họp lại — Cây mọc thành bụi rậm rạp."
+            ],
+            "compound_words": {
+                "石農叢話": "thạch nông tùng thoại",
+                "叢報": "tùng báo",
+                "叢林": "tùng lâm",
+                "叢刊": "tùng san",
+                "叢脞": "tùng thoả",
+                "叢書": "tùng thư"
+            }
+        }
+    }
+}

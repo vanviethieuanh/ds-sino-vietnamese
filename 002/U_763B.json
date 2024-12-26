@@ -1,0 +1,99 @@
+{
+    "character": "瘻",
+    "details": {
+        "Âm Hán Việt": [
+            "lu",
+            "lâu",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nạch 疒 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒婁"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨フ一一丨フ一丨フノ一"
+        ],
+        "Thương Hiệt": [
+            "KLWV (大中田女)"
+        ],
+        "Unicode": [
+            "U+763B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lòu ㄌㄡˋ",
+            "lǘ",
+            "lú ㄌㄨˊ"
+        ],
+        "Âm Nôm": [
+            "lâu",
+            "lũ",
+            "rũ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ル (ru)",
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せむし (semushi)",
+            "かさ (kasa)",
+            "できもの (dekimono)"
+        ],
+        "Âm Hàn": [
+            "루"
+        ],
+        "Âm Quảng Đông": [
+            "lau6"
+        ]
+    },
+    "meanings": {
+        "lu": {
+            "Từ điển phổ thông": [
+                "(xem: câu lu 痀瘻)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gù lưng: 痀瘻 Còng lưng, gù lưng."
+            ],
+            "compound_words": {
+                "痀瘻": "câu lu"
+            }
+        },
+        "lâu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Câu lâu 痀瘻: Gù lưng — Một âm là Lũ."
+            ]
+        },
+        "lũ": {
+            "Từ điển phổ thông": [
+                "nhọt nhỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Lũ quản' 瘻管 bệnh nhọt chảy nước vàng.",
+                "(Danh) Bệnh sưng cổ.",
+                "Một âm là 'lu'. (Danh) 'Câu lu' 痀瘻 gù lưng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nhọt nhỏ, nhọt chảy nước vàng mãi không khỏi gọi là lũ quản 瘻管. Một âm là lu. Câu lu 痀瘻 còng lưng (gù)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(y) Rò, nhọt rò."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh sưng cổ, cổ bạnh ra."
+            ]
+        }
+    }
+}

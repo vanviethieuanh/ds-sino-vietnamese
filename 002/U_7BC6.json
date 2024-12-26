@@ -1,0 +1,81 @@
+{
+    "character": "篆",
+    "details": {
+        "Âm Hán Việt": [
+            "triện"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trúc 竹 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮彖"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶フフ一ノフノノノ丶"
+        ],
+        "Thương Hiệt": [
+            "HVNO (竹女弓人)"
+        ],
+        "Unicode": [
+            "U+7BC6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhuàn ㄓㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chệ",
+            "chệnh",
+            "triển"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "syun6"
+        ]
+    },
+    "meanings": {
+        "triện": {
+            "Từ điển phổ thông": [
+                "chữ triện"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chữ 'triện', một lối viết của chữ Hán, nét chữ ngoằn ngoèo, xung quanh vuông vức như con dấu, tương truyền do thái sử 'Sử Trứu' 史籀 thời 'Chu Tuyên Vương' 周宣王 đặt ra. Có hai loại 'tiểu triện' 小篆 và 'đại triện' 大篆.",
+                "(Danh) Tiếng tôn xưng danh tự người khác. ◎Như: 'đài triện' 臺篆, 'nhã triện' 雅篆.",
+                "(Danh) Ấn tín. ◎Như: 'tiếp triện' 接篆 tiếp nhận ấn tín.",
+                "(Động) Viết chữ theo lối 'triện'.",
+                "(Động) Chạm, khắc, ghi tạc. ◇Liêu trai chí dị 聊齋志異: 'Thâm tình dĩ triện trung tâm' 深情已篆中心 (A Bảo 阿寶) Tình sâu đã ghi tạc trong lòng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chữ triện.",
+                "Bây giờ các tranh sách in hay dùng chữ triện cho nên cũng gọi danh tự người là triện. Quan viên tiếp nhận lấy ấn gọi là tiếp triện 接篆 cùng một nghĩa ấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lối chữ triện: 大 篆 Lối chữ đại triện; 小篆 Lối chữ tiểu triện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một lối viết chữ Trung Hoa. Ta cũng gọi là Lối chữ Triện — Con dấu ( vì con dấu của quan thời xưa được khắc bằng lối chữ Triện )."
+            ],
+            "compound_words": {
+                "印篆": "ấn triện",
+                "大篆": "đại triện",
+                "龍章鳳篆": "long chương phượng triện"
+            }
+        }
+    }
+}

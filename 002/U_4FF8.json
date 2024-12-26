@@ -1,0 +1,85 @@
+{
+    "character": "俸",
+    "details": {
+        "Âm Hán Việt": [
+            "bổng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhân 人 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻奉"
+        ],
+        "Nét bút": [
+            "ノ丨一一一ノ丶一一丨"
+        ],
+        "Thương Hiệt": [
+            "OQKQ (人手大手)"
+        ],
+        "Unicode": [
+            "U+4FF8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fèng ㄈㄥˋ"
+        ],
+        "Âm Nôm": [
+            "bóng",
+            "bống",
+            "phỗng",
+            "vụng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Hàn": [
+            "봉"
+        ],
+        "Âm Quảng Đông": [
+            "fung2",
+            "fung6"
+        ]
+    },
+    "meanings": {
+        "bổng": {
+            "Từ điển phổ thông": [
+                "bổng lộc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Bổng lộc. ◎Như: “tân bổng” 薪俸 lương bổng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bổng lộc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bổng lộc: 薪俸 Lương bổng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Số tiền hàng tháng cấp cho quan lại, tính theo đẳng trật, chức vụ."
+            ],
+            "compound_words": {
+                "薄俸": "bạc bổng",
+                "俸給": "bổng cấp",
+                "俸祿": "bổng lộc",
+                "俸滿": "bổng mãn",
+                "學俸": "học bổng",
+                "休俸": "hưu bổng",
+                "廉俸": "liêm bổng",
+                "糧俸": "lương bổng",
+                "月俸": "nguyệt bổng",
+                "薪俸": "tân bổng"
+            }
+        }
+    }
+}

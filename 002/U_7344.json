@@ -1,0 +1,100 @@
+{
+    "character": "獄",
+    "details": {
+        "Âm Hán Việt": [
+            "ngục"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿲⺨言犬"
+        ],
+        "Nét bút": [
+            "ノフノ丶一一一丨フ一一ノ丶丶"
+        ],
+        "Thương Hiệt": [
+            "KHYRK (大竹卜口大)"
+        ],
+        "Unicode": [
+            "U+7344"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yù ㄩˋ"
+        ],
+        "Âm Nôm": [
+            "ngục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴク (goku)"
+        ],
+        "Âm Hàn": [
+            "옥"
+        ],
+        "Âm Quảng Đông": [
+            "juk6"
+        ]
+    },
+    "meanings": {
+        "ngục": {
+            "Từ điển phổ thông": [
+                "tù ngục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhà tù, nơi giam giữ. ◎Như: 'hạ ngục' 下獄 bắt bỏ vào nhà giam, 'địa ngục' 地獄 theo nghĩa đen là tù ngục trong lòng đất, nơi đó tội nhân phải chịu mọi loại tra tấn do kết quả của mọi việc ác đã làm trong tiền kiếp.",
+                "(Danh) Vụ án, án kiện. ◎Như: 'chiết ngục' 折獄 xử kiện.",
+                "(Động) Tố tụng, kiện cáo. ◇Lã Thị Xuân Thu 呂氏春秋: 'Đệ huynh tương ngục' 弟兄相獄 (Cao nghĩa 高義) Anh em kiện cáo lẫn nhau."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngục tù.",
+                "Án kiện, như chiết ngục 折獄 xử kiện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tù ngục, nhà lao: 下獄 Hạ ngục, vào tù;",
+                "Vụ án: 冤獄 Vụ án oan ức."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhà tù, nơi giam người có tội — Vụ án — Việc xử án — Kiện tụng, tranh chấp."
+            ],
+            "compound_words": {
+                "阿鼻地獄": "a tì địa ngục",
+                "暗獄": "ám ngục",
+                "拔舌地獄": "bạt thiệt địa ngục",
+                "執獄": "chấp ngục",
+                "折獄": "chiết ngục",
+                "具獄": "cụ ngục",
+                "黨獄": "đảng ngục",
+                "地獄": "địa ngục",
+                "典獄": "điển ngục",
+                "監獄": "giam ngục",
+                "下獄": "hạ ngục",
+                "牢獄": "lao ngục",
+                "岸獄": "ngạn ngục",
+                "獄案": "ngục án",
+                "獄刑": "ngục hình",
+                "獄吏": "ngục lại",
+                "獄室": "ngục thất",
+                "獄卒": "ngục tốt",
+                "獄訟": "ngục tụng",
+                "入獄": "nhập ngục",
+                "歸獄": "quy ngục",
+                "決獄": "quyết ngục",
+                "送獄": "tống ngục",
+                "越獄": "việt ngục",
+                "出獄": "xuất ngục"
+            }
+        }
+    }
+}

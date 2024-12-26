@@ -1,0 +1,95 @@
+{
+    "character": "幣",
+    "details": {
+        "Âm Hán Việt": [
+            "tệ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "cân 巾 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱敝巾"
+        ],
+        "Nét bút": [
+            "丶ノ丨フ丨ノ丶ノ一ノ丶丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "FKLB (火大中月)"
+        ],
+        "Unicode": [
+            "U+5E63"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "giẻ",
+            "tệ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬさ (nusa)"
+        ],
+        "Âm Hàn": [
+            "폐"
+        ],
+        "Âm Quảng Đông": [
+            "bai6"
+        ]
+    },
+    "meanings": {
+        "tệ": {
+            "Từ điển phổ thông": [
+                "vải lụa",
+                "tiền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lụa, đời xưa thường dùng làm vật tặng nhau.",
+                "(Danh) Phiếm chỉ lễ vật.",
+                "(Danh) Của dùng, tài vật. § Đời xưa cho ngọc là 'thượng tệ' 上幣, vàng là 'trung tệ' 中幣, dao vải là 'hạ tệ' 下幣. ◇Quản Tử 管子: 'Dĩ châu ngọc vi thượng tệ, dĩ hoàng kim vi trung tệ, dĩ đao bố vi hạ tệ' 以珠玉為上幣, 以黃金為中幣, 以刀布為下幣 (Quốc súc 國蓄).",
+                "(Danh) Tiền. § Từ nhà Hán về sau đều gọi tiền là 'tệ'. ◎Như: 'hoán tệ' 換幣 đổi tiền.",
+                "(Động) Tặng, biếu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lụa, đời xưa thường dùng làm đồ tặng nhau.",
+                "Của dùng, đời xưa cho ngọc là thượng tệ 上幣, vàng là trung tệ 中幣, dao vải là hạ tệ 下幣. Từ nhà Hán về sau đều gọi tiền là tệ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lụa (thời xưa thường làm đồ tặng nhau);",
+                "Của dùng: 上幣 Ngọc; 中幣 Vàng;",
+                "Tiền: 貨幣 Tiền tệ; 金幣 Tiền vàng; 銅幣 Tiền đồng; 紙幣 Tiền giấy, giấy bạc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vải lụa — Tiền bạc. Td: Tiền tệ."
+            ],
+            "compound_words": {
+                "皮幣": "bì tệ",
+                "本位貨幣": "bổn vị hoá tệ",
+                "紙幣": "chỉ tệ",
+                "主幣": "chủ tệ",
+                "貨幣": "hoá tệ",
+                "納幣": "nạp tệ",
+                "偽幣": "nguỵ tệ",
+                "國幣": "quốc tệ",
+                "國際貨幣基金組織": "quốc tế hoá tệ cơ kim tổ chức",
+                "幣制": "tệ chế",
+                "幣值": "tệ trị",
+                "錢幣": "tiền tệ"
+            }
+        }
+    }
+}

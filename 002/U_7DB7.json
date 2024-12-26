@@ -1,0 +1,80 @@
+{
+    "character": "綷",
+    "details": {
+        "Âm Hán Việt": [
+            "tuý",
+            "tối"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹卒"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丶一ノ丶ノ丶一丨"
+        ],
+        "Thương Hiệt": [
+            "VFYOJ (女火卜人十)"
+        ],
+        "Unicode": [
+            "U+7DB7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cuì ㄘㄨㄟˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)",
+            "スイ (sui)",
+            "シュツ (shutsu)",
+            "シュチ (shuchi)"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi3"
+        ]
+    },
+    "meanings": {
+        "tuý": {
+            "Từ điển phổ thông": [
+                "(xem: tuý sái 綷縩)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hỗn hợp, trộn lẫn nhiều màu sắc.",
+                "Một âm là 'túy'. (Trạng thanh) 'Túy sái' 綷縩 sột soạt, tiếng áo quần mài cọ, động chạm nhau."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tuý sái 綷縩 xoàn xoạt, tiếng áo động nhau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 綷"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng quần áo sột soạt — Một âm là Tối. Xem Tối."
+            ],
+            "compound_words": {
+                "綷縩": "tuý sái"
+            }
+        },
+        "tối": {
+            "Từ điển trích dẫn": [
+                "(Động) Hỗn hợp, trộn lẫn nhiều màu sắc.",
+                "Một âm là 'túy'. (Trạng thanh) 'Túy sái' 綷縩 sột soạt, tiếng áo quần mài cọ, động chạm nhau."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bện các sợi tơ ngũ sắc lại — Kết hợp lại — Một âm là Tuý. Xem Tuý."
+            ]
+        }
+    }
+}

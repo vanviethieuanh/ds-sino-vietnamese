@@ -1,0 +1,63 @@
+{
+    "character": "晕",
+    "details": {
+        "Âm Hán Việt": [
+            "vựng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhật 日 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿳日冖车"
+        ],
+        "Nét bút": [
+            "丨フ一一丶フ一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "ABKQ (日月大手)"
+        ],
+        "Unicode": [
+            "U+6655"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yūn ㄩㄣ",
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "vựng"
+        ],
+        "Âm Quảng Đông": [
+            "wan4"
+        ]
+    },
+    "meanings": {
+        "vựng": {
+            "Từ điển phổ thông": [
+                "vầng sáng của mặt trời, mặt trăng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 暈."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Choáng, chóng mặt: 頭暈 Choáng đầu;",
+                "Ngất, sốc. Xem 暈 [yùn]."
+            ],
+            "compound_words": {
+                "晕眩": "vựng huyễn",
+                "晕船": "vựng thuyền"
+            }
+        }
+    }
+}

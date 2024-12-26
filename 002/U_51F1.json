@@ -1,0 +1,88 @@
+{
+    "character": "凱",
+    "details": {
+        "Âm Hán Việt": [
+            "khải"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "kỷ 几 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰豈几"
+        ],
+        "Nét bút": [
+            "丨フ丨一丨フ一丶ノ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "UTHN (山廿竹弓)"
+        ],
+        "Unicode": [
+            "U+51F1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kǎi ㄎㄞˇ"
+        ],
+        "Âm Nôm": [
+            "khải",
+            "ngai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)",
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かちどき (kachidoki)",
+            "やわらぐ (yawaragu)"
+        ],
+        "Âm Hàn": [
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "hoi2",
+            "ngoi2"
+        ]
+    },
+    "meanings": {
+        "khải": {
+            "Từ điển phổ thông": [
+                "sự thắng lợi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khúc nhạc do quân đội chiến thắng trở về tấu lên. ◎Như: 'tấu khải nhi quy' 奏凱而歸 ca khúc khải hoàn, chiến thắng trở về.",
+                "(Tính) Vui hòa, ôn hòa. § Thông 'khải' 愷. ◎Như: 'khải phong' 凱風 gió nam ôn hòa.",
+                "(Tính) Tục chỉ ra tay ăn xài rộng rãi, dư dả. ◎Như: 'nhĩ tối cận ngận khải ác! Thị bất thị phát tài liễu?' 你最近很凱喔! 是不是發財了 ông gần đây ăn tiêu rủng rỉnh lắm nha! Có phải phát tài không đấy?"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Hát mừng) thắng lợi, khải hoàn: 奏凱而歸 Hát khúc khải hoàn, thắng lợi trở về;",
+                "(văn) Vui hoà: 凱風 Gió nam vui hoà;",
+                "(văn) Người giỏi;",
+                "[Kăi] (Họ) Khải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng nhạc nhà binh. Quân nhạc — Chỉ chung — To lớn."
+            ],
+            "compound_words": {
+                "愛倫凱": "ái luân khải",
+                "凱歌": "khải ca",
+                "凱還": "khải hoàn",
+                "凱還門": "khải hoàn môn",
+                "凱風": "khải phong",
+                "凱旋": "khải toàn",
+                "凱旋門": "khải toàn môn",
+                "奏凱": "tấu khải"
+            }
+        }
+    }
+}

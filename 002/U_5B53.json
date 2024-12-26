@@ -1,0 +1,88 @@
+{
+    "character": "孓",
+    "details": {
+        "Âm Hán Việt": [
+            "củng",
+            "quyết"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "tử 子 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フ丨丶"
+        ],
+        "Thương Hiệt": [
+            "NNO (弓弓人)"
+        ],
+        "Unicode": [
+            "U+5B53"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jié ㄐㄧㄝˊ",
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "quyết"
+        ],
+        "Âm Quảng Đông": [
+            "kyut3"
+        ]
+    },
+    "meanings": {
+        "củng": {
+            "Từ điển phổ thông": [
+                "(xem: kiết củng 孑孒,孑孓)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) 'Kiết củng' 孑孓 ngắn, nhỏ.",
+                "(Danh) 'Kiết củng' 孑孓: xem 'kiết' 孑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngắn, vật gì thẳng mà ngắn gọi là quyết.",
+                "Một âm là củng. Kiết củng 孑孓 con bọ gậy, sau hoá ra con muỗi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngắn;",
+                "Xem 孑孓 [jiéjué]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Kiết củng 孑孓, vần Kiết — Một âm khác là Quyết. Cũng viết 孒."
+            ],
+            "compound_words": {
+                "孑孓": "kiết củng"
+            }
+        },
+        "quyết": {
+            "Từ điển trích dẫn": [
+                "(Tính) 'Kiết củng' 孑孓 ngắn, nhỏ.",
+                "(Danh) 'Kiết củng' 孑孓: xem 'kiết' 孑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngắn, vật gì thẳng mà ngắn gọi là quyết.",
+                "Một âm là củng. Kiết củng 孑孓 con bọ gậy, sau hoá ra con muỗi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngắn;",
+                "Xem 孑孓 [jiéjué]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngắn — Một âm là Củng. Xem Củng. Cũng viết 孒."
+            ],
+            "compound_words": {
+                "孑孓": "kiết quyết"
+            }
+        }
+    }
+}

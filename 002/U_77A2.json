@@ -1,0 +1,103 @@
+{
+    "character": "瞢",
+    "details": {
+        "Âm Hán Việt": [
+            "mông",
+            "măng",
+            "mộng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mục 目 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ丨丨一丶フ丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "TWLU (廿田中山)"
+        ],
+        "Unicode": [
+            "U+77A2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "máng ㄇㄤˊ",
+            "méng ㄇㄥˊ",
+            "mèng ㄇㄥˋ"
+        ],
+        "Âm Nôm": [
+            "mộng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ム (mu)",
+            "モウ (mō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くら.い (kura.i)"
+        ],
+        "Âm Hàn": [
+            "몽"
+        ],
+        "Âm Quảng Đông": [
+            "mung4"
+        ]
+    },
+    "meanings": {
+        "mông": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Mắt) mờ, khiếm thị;",
+                "Tối tăm;",
+                "Xấu hổ, hổ thẹn;",
+                "Nỗi đau buồn, nỗi sầu khổ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt mờ nhìn không rõ — Buồn phiền — Hổ thẹn."
+            ]
+        },
+        "măng": {
+            "Từ điển phổ thông": [
+                "mắt mờ",
+                "thẹn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Mờ (mắt nhìn không rõ).",
+                "(Tính) Tối tăm (thiếu ánh sáng). ◎Như: 'măng măng' 瞢瞢 mờ mịt.",
+                "(Tính) Ngu muội.",
+                "(Tính) Hồ đồ, mê mờ không rõ. § Xem 'măng đổng' 瞢懂.",
+                "(Tính) Thẹn, xấu hổ. ◇Tả Tư 左思: 'Hữu điến măng dong' 有靦瞢容 (Ngụy đô phú 魏都賦) Có vẻ thẹn thùng e lệ.",
+                "(Tính) Buồn bực, ưu muộn. ◇Tả truyện 左傳: 'Bất dữ ư hội, diệc vô măng yên' 不與於會, 亦無瞢焉 (Tương Công thập tứ niên 襄公十四年) Không cùng gặp mặt, cũng chẳng buồn bực gì.",
+                "Một âm là 'mộng'. § Thông 'mộng' 夢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mắt mờ. Măng măng 瞢瞢 mờ mịt.",
+                "Thẹn, buồn bực.",
+                "Ðời xưa dùng như chữ mộng 夢."
+            ],
+            "compound_words": {
+                "瞢懂": "măng đổng"
+            }
+        },
+        "mộng": {
+            "Từ điển trích dẫn": [
+                "(Tính) Mờ (mắt nhìn không rõ).",
+                "(Tính) Tối tăm (thiếu ánh sáng). ◎Như: 'măng măng' 瞢瞢 mờ mịt.",
+                "(Tính) Ngu muội.",
+                "(Tính) Hồ đồ, mê mờ không rõ. § Xem 'măng đổng' 瞢懂.",
+                "(Tính) Thẹn, xấu hổ. ◇Tả Tư 左思: 'Hữu điến măng dong' 有靦瞢容 (Ngụy đô phú 魏都賦) Có vẻ thẹn thùng e lệ.",
+                "(Tính) Buồn bực, ưu muộn. ◇Tả truyện 左傳: 'Bất dữ ư hội, diệc vô măng yên' 不與於會, 亦無瞢焉 (Tương Công thập tứ niên 襄公十四年) Không cùng gặp mặt, cũng chẳng buồn bực gì.",
+                "Một âm là 'mộng'. § Thông 'mộng' 夢."
+            ]
+        }
+    }
+}

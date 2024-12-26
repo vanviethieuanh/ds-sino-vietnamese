@@ -1,0 +1,84 @@
+{
+    "character": "估",
+    "details": {
+        "Âm Hán Việt": [
+            "cổ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻古"
+        ],
+        "Nét bút": [
+            "ノ丨一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "OJR (人十口)"
+        ],
+        "Unicode": [
+            "U+4F30"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ",
+            "gǔ ㄍㄨˇ",
+            "gù ㄍㄨˋ"
+        ],
+        "Âm Nôm": [
+            "cô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あきな.う (akina.u)",
+            "あた.い (ata.i)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu2",
+            "gu3"
+        ]
+    },
+    "meanings": {
+        "cổ": {
+            "Từ điển phổ thông": [
+                "đánh giá"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đánh giá, ước tính. ◎Như: 'cổ giá' 估價 đánh giá.",
+                "(Động) § Xem 'cổ y' 估衣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðánh giá, như cổ giá 估價 đánh giá xem vật ấy đáng giá bao nhiêu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ước tính, đánh giá: 估一估這塊地能收多少糧食 Ước tính xem mảnh đất này có thể được bao nhiêu lương thực; 低估 Đánh giá thấp. Xem 估 [gù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người buôn bán — Trả giá. Mà cả — Thuế chợ."
+            ],
+            "compound_words": {
+                "估價": "cổ giá",
+                "估計": "cổ kế",
+                "估计": "cổ kế",
+                "估衣": "cổ y",
+                "捏估": "niết cổ"
+            }
+        }
+    }
+}

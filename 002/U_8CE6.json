@@ -1,0 +1,105 @@
+{
+    "character": "賦",
+    "details": {
+        "Âm Hán Việt": [
+            "phú"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "bối 貝 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰貝武"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一一丨一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "BCMPM (月金一心一)"
+        ],
+        "Unicode": [
+            "U+8CE6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フ (fu)",
+            "ブ (bu)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fu3"
+        ]
+    },
+    "meanings": {
+        "phú": {
+            "Từ điển phổ thông": [
+                "cho, ban cho",
+                "thuế",
+                "bài phú"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trưng thu. ◎Như: 'phú liễm' 賦斂 thu thuế.",
+                "(Động) Cấp cho, giao cho, thụ bẩm. ◎Như: 'thiên phú dị bẩm' 天賦異稟 trời bẩm cho tư chất khác thường. ◇Hán Thư 漢書: 'Thái hoàng Thái hậu chiếu ngoại gia Vương Thị điền phi trủng oanh, giai dĩ phú bần dân' 太皇太后詔外家王氏田非冢塋, 皆以賦貧民 (Ai Đế kỉ 哀帝紀) Thái hoàng Thái hậu ban bảo ngoại gia Vương Thị đem ruộng đất, trừ ra mồ mả, đều cấp cho dân nghèo.",
+                "(Động) Ngâm vịnh, làm thơ văn. ◇Tư Mã Thiên 司馬遷: 'Khuất Nguyên phóng trục, nãi phú Li Tao' 屈原放逐, 乃賦離騷 (Báo Nhậm Thiếu Khanh thư 報任少卿書) Khuất Nguyên bị phóng trục, mới sáng tác Li Tao.",
+                "(Động) Ban bố, phân bố. ◇Thi Kinh 詩經: 'Minh mệnh sử phú' 明命使賦 (Đại nhã 大雅, Chưng dân 烝民) Để cho những mệnh lệnh sáng suốt được truyền bá.",
+                "(Danh) Thuế. ◎Như: 'thuế phú' 稅賦 thuế má, 'điền phú' 田賦 thuế ruộng.",
+                "(Danh) Một trong sáu nghĩa của Thi Kinh 詩經. 'Phú' 賦 là bày tỏ thẳng sự việc.",
+                "(Danh) Tên thể văn, ở giữa thơ và văn xuôi, thường dùng vể tả cảnh và tự sự, thịnh hành thời Hán, Ngụy và Lục Triều. ◎Như: 'Tiền Xích Bích phú' 前赤壁賦 của Tô Thức 蘇軾.",
+                "(Danh) Tư chất, bẩm tính. ◎Như: 'bẩm phú' 稟賦 bẩm tính trời cho."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thu thuế, thu lấy những hoa lợi ruộng nương của dân để chi việc nước gọi là phú thuế 賦稅. Ngày xưa thu thuế để nuôi lính cũng gọi là phú.",
+                "Cấp cho, phú cho, bẩm phú 稟賦 bẩm tính trời cho.",
+                "Dãi bày, dãi bày sự tình vào trong câu thơ gọi là thể phú. Làm thơ cũng gọi là phú thi 賦詩, một lối văn đối nhau có vần gọi là phú."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Giao cho, cấp cho, phú cho;",
+                "Thuế ruộng;",
+                "Thể phú (một thể văn thơ, dùng cách trình bày thẳng, nói thẳng vào sự vật cần nói);",
+                "Làm thơ: 賦詩一首 Làm một bài thơ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thuế má — Mô tả. Phô bày — Cấp cho. Ban cho. Td: Thiên phú — Một thể văn có vần có đối của Trung Hoa và Việt Nam. Ca dao Việt Nam có câu: » Văn chương phú lục chẳng hay, Trở về làng cũ học cày cho xong .«"
+            ],
+            "compound_words": {
+                "大同風景賦": "đại đồng phong cảnh phú",
+                "田賦": "điền phú",
+                "丁賦": "đinh phú",
+                "佳景興情賦": "giai cảnh hứng tình phú",
+                "寒儒風味賦": "hàn nho phong vị phú",
+                "玉井蓮賦": "ngọc tỉnh liên phú",
+                "賦禀": "phú bẩm",
+                "賦貢": "phú cống",
+                "賦役": "phú dịch",
+                "賦分": "phú phận",
+                "賦稅": "phú thuế",
+                "賦性": "phú tính",
+                "唬子儀賦": "quách tử nghi phú",
+                "羣賢賦集": "quần hiền phú tập",
+                "均賦": "quân phú",
+                "天賦": "thiên phú",
+                "小獨樂賦": "tiểu độc lạc phú",
+                "張留候賦": "trương lưu hầu phú",
+                "頌西湖賦": "tụng tây hồ phú"
+            }
+        }
+    }
+}

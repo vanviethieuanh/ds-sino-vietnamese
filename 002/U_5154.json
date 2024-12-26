@@ -1,0 +1,101 @@
+{
+    "character": "兔",
+    "details": {
+        "Âm Hán Việt": [
+            "thỏ",
+            "thố"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhân 儿 (+6 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿷免丶"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "NUI (弓山戈)"
+        ],
+        "Unicode": [
+            "U+5154"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tù ㄊㄨˋ"
+        ],
+        "Âm Nôm": [
+            "thỏ",
+            "thố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ト (to)",
+            "ツ (tsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うさぎ (usagi)"
+        ],
+        "Âm Hàn": [
+            "면",
+            "토"
+        ],
+        "Âm Quảng Đông": [
+            "tou3"
+        ]
+    },
+    "meanings": {
+        "thỏ": {
+            "Từ điển Thiều Chửu": [
+                "Con thỏ.",
+                "Mặt trăng. Ngày xưa bảo cái bóng đen trong mặt trăng là con thỏ, vì thế nên tục gọi mặt trăng là ngọc thỏ 玉兔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con thỏ: 白兔 Thỏ trắng; 守株待兔 Ôm cây đợi thỏ;",
+                "(văn) Mặt trăng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại động vật nhỏ, có tài chạy nhanh. Ta cũng gọi là con Thỏ. Đáng lẽ đọc Thố — Truyện  Nhị độ mai : » Đàn hồ lũ thỏ một ngày quét thanh « — Chỉ mặt trăng, tương truyền trên mặt trăng có con thỏ bằng ngọc.  Đoạn trường tân thanh : » Ngoài hiên thỏ đã non đoài ngậm gương «."
+            ],
+            "compound_words": {
+                "陰兔": "âm thỏ",
+                "白兔": "bạch thỏ",
+                "野兔": "dã thỏ",
+                "銀兔": "ngân thỏ",
+                "玉兔": "ngọc thỏ",
+                "月兔": "nguyệt thỏ",
+                "烏兔": "ô thỏ"
+            }
+        },
+        "thố": {
+            "Từ điển phổ thông": [
+                "con thỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con thỏ. Tục gọi là 'thố tử' 兔子. ◎Như: 'thủ chu đãi thố' 守株待兔 ôm cây đợi thỏ.",
+                "(Danh) Mặt trăng. § Theo truyền thuyết, có con thỏ trắng ở trên mặt trăng. Tục gọi mặt trăng là 'ngọc thố' 玉兔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con thỏ: 白兔 Thỏ trắng; 守株待兔 Ôm cây đợi thỏ;",
+                "(văn) Mặt trăng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Thỏ."
+            ],
+            "compound_words": {
+                "陰兔": "âm thố",
+                "守株待兔": "thủ chu đãi thố"
+            }
+        }
+    }
+}

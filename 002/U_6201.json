@@ -1,0 +1,76 @@
+{
+    "character": "戁",
+    "details": {
+        "Âm Hán Việt": [
+            "nãn",
+            "nạn",
+            "nản"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "tâm 心 (+19 nét)"
+        ],
+        "Hình thái": [
+            "⿱難心"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一一ノ丶ノ丨丶一一一丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "TGP (廿土心)"
+        ],
+        "Unicode": [
+            "U+6201"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "nǎn ㄋㄢˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダン (dan)",
+            "ネン (nen)",
+            "ゼン (zen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つつし.む (tsutsushi.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "naan2",
+            "naan5"
+        ]
+    },
+    "meanings": {
+        "nãn": {
+            "Từ điển trích dẫn": [
+                "1. (Tính) Kinh hãi, kính sợ. ◇Thi Kinh 詩經:  “Bất chấn bất động, Bất nãn bất tủng” 不震不動, 不戁不竦 (Thương tụng 商頌, Trường phát 長髮) Không làm chấn động, Chẳng làm kinh hãi (dân chúng)."
+            ]
+        },
+        "nạn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kính trọng — Hổ thẹn."
+            ],
+            "compound_words": {
+                "戁民": "nạn dân"
+            }
+        },
+        "nản": {
+            "Từ điển phổ thông": [
+                "kính trọng, tôn kính",
+                "sợ sệt",
+                "thẹn đỏ mặt"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Kính;",
+                "Sợ sệt;",
+                "Thẹn đỏ mặt."
+            ]
+        }
+    }
+}

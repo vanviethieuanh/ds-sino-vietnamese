@@ -1,0 +1,87 @@
+{
+    "character": "讖",
+    "details": {
+        "Âm Hán Việt": [
+            "sám",
+            "sấm"
+        ],
+        "Tổng nét": [
+            "24"
+        ],
+        "Bộ": [
+            "ngôn 言 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言韱"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ丶ノ丶一丨一一一丨一一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "YROIM (卜口人戈一)"
+        ],
+        "Unicode": [
+            "U+8B96"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chàn ㄔㄢˋ",
+            "chèn ㄔㄣˋ"
+        ],
+        "Âm Nôm": [
+            "sấm",
+            "xớm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)"
+        ],
+        "Âm Hàn": [
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "caam3",
+            "cam3"
+        ]
+    },
+    "meanings": {
+        "sám": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Sám 懺 — Một âm khác là Sấm. Xem Sấm."
+            ]
+        },
+        "sấm": {
+            "Từ điển phổ thông": [
+                "lời sấm ngôn, lời tiên tri"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Lời nói hoặc điềm triệu báo trước việc lành dữ sẽ xảy ra. ◇Liêu trai chí dị 聊齋志異: “Tích nhật giai tác, kim thành sấm ngữ hĩ” 昔日佳作, 今成讖語矣 (Hương Ngọc 香玉) Bài thơ hôm trước, nay ra lời sấm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lời sấm kí, sự chưa xảy ra mà đã biết trước và nói bằng cách bí ẩn không cho người biết đích ngay, chờ khi sự xảy ra rồi mới biết thế là sấm. Như ta nói sấm ông Trạng Trình vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lời tiên tri, lời sấm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghiệm đúng việc xảy ra — Lời đoán trước những sự việc xảy ra trong tương lai xa. Td: Sấm Trạng Trình — Một âm là Sám. Xem Sám."
+            ],
+            "compound_words": {
+                "讖步": "sấm bộ",
+                "讖記": "sấm kí",
+                "讖言": "sấm ngôn",
+                "讖語": "sấm ngữ",
+                "讖傳": "sấm truyền",
+                "讖緯": "sấm vĩ",
+                "緯讖": "vĩ sấm"
+            }
+        }
+    }
+}

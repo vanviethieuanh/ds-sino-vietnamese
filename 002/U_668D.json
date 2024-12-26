@@ -1,0 +1,82 @@
+{
+    "character": "暍",
+    "details": {
+        "Âm Hán Việt": [
+            "hát",
+            "yết"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhật 日 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰日曷"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "AAPV (日日心女)"
+        ],
+        "Unicode": [
+            "U+668D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hè ㄏㄜˋ",
+            "yē ㄜ",
+            "yè ㄜˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エツ (etsu)",
+            "オチ (ochi)",
+            "アツ (atsu)",
+            "アチ (achi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつさあたり (atsusātari)"
+        ],
+        "Âm Quảng Đông": [
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "hát": {
+            "Từ điển Thiều Chửu": [
+                "Cảm nắng, trúng nắng.",
+                "Một âm là hát. Nóng."
+            ]
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "cảm nắng, trúng nắng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Cảm nắng, trúng nắng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cảm nắng, trúng nắng.",
+                "Một âm là hát. Nóng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cảm nắng, trúng nắng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ nắng gay gắt, khiến người không chịu nổi — Bệnh say nắng, trúng nắng."
+            ],
+            "compound_words": {
+                "暍暍": "yết yết"
+            }
+        }
+    }
+}

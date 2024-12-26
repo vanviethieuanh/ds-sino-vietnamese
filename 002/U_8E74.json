@@ -1,0 +1,94 @@
+{
+    "character": "蹴",
+    "details": {
+        "Âm Hán Việt": [
+            "thúc",
+            "xúc"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "túc 足 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊就"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶一丨フ一丨ノ丶一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "RMYFU (口一卜火山)"
+        ],
+        "Unicode": [
+            "U+8E74"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "cù ㄘㄨˋ",
+            "zú ㄗㄨˊ"
+        ],
+        "Âm Nôm": [
+            "xúc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュク (shuku)",
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "け.る (ke.ru)"
+        ],
+        "Âm Hàn": [
+            "축"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1"
+        ]
+    },
+    "meanings": {
+        "thúc": {
+            "Từ điển trích dẫn": [
+                "(Động) Giẫm, đạp lên. ◇Đỗ Phủ 杜甫: 'Bạch mã thúc vi tuyết' 白馬蹴微雪 (Khiển hứng 遣興) Ngựa bạch giẫm lên tuyết mịn.",
+                "(Động) Đá. ◎Như: 'thúc cầu' 蹴毬 đá bóng.",
+                "(Động) Truy, đuổi theo."
+            ],
+            "compound_words": {
+                "蹴然": "thúc nhiên"
+            }
+        },
+        "xúc": {
+            "Từ điển phổ thông": [
+                "bước xéo gót, rảo bước",
+                "đá lật đi",
+                "vẻ kính cần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giẫm, đạp lên. ◇Đỗ Phủ 杜甫: 'Bạch mã thúc vi tuyết' 白馬蹴微雪 (Khiển hứng 遣興) Ngựa bạch giẫm lên tuyết mịn.",
+                "(Động) Đá. ◎Như: 'thúc cầu' 蹴毬 đá bóng.",
+                "(Động) Truy, đuổi theo."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bước xéo gót, rảo bước theo sau gọi là xúc.",
+                "Đá lật đi.",
+                "Vẻ kính cẩn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Kính cẩn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng chân mà đá — Bước lên. Bước tới."
+            ],
+            "compound_words": {
+                "蹴然": "xúc nhiên"
+            }
+        }
+    }
+}

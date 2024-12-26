@@ -1,0 +1,142 @@
+{
+    "character": "除",
+    "details": {
+        "Âm Hán Việt": [
+            "trừ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "phụ 阜 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻖余"
+        ],
+        "Nét bút": [
+            "フ丨ノ丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NLOMD (弓中人一木)"
+        ],
+        "Unicode": [
+            "U+9664"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chú ㄔㄨˊ",
+            "shū ㄕㄨ",
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "chờ",
+            "chừ",
+            "chừa",
+            "dơ",
+            "giờ",
+            "hờ",
+            "khừ",
+            "trừ",
+            "xờ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジョ (jo)",
+            "ジ (ji)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "のぞ.く (nozo.ku)",
+            "-よ.け (-yo.ke)"
+        ],
+        "Âm Hàn": [
+            "제"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4",
+            "cyu4"
+        ]
+    },
+    "meanings": {
+        "trừ": {
+            "Từ điển phổ thông": [
+                "thềm",
+                "loại bỏ, phép trừ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bỏ đi, diệt, dẹp. ◎Như: 'tiễn trừ' 剪除 cắt sạch đi, 'tảo trừ' 掃除 quét sạch, 'vị dân trừ hại' 為民除害 vì dân dẹp hại.",
+                "(Động) Phong quan, bổ chức. ◎Như: 'trừ thụ' 除授 bỏ chức quan cũ mà phong chức quan mới. ◇Tam quốc diễn nghĩa 三國演義: 'Niên nhị thập, cử hiếu liêm, vi lang, trừ Lạc Dương bắc đô úy' 年二十, 舉孝廉, 為郎, 除洛陽北都尉 (Đệ nhất hồi 第一回) Năm hai mươi tuổi, thi đỗ hiếu liêm, làm quan lang, được phong chức bắc đô úy huyện Lạc Dương.",
+                "(Động) Thay đổi, hoán đổi. ◎Như: 'trừ tuế' 除歲 đổi sang năm mới, 'bạo trúc nhất thanh trừ cựu tuế' 爆竹一聲除舊歲 pháo trúc nổ một tiếng, đổi năm cũ.",
+                "(Động) Sửa sang, chỉnh đốn. ◇Dịch Kinh 易經: 'Quân tử dĩ trừ nhung khí, giới bất ngu' 君子以除戎器, 戒不虞 (Tụy quái 萃卦) Người quân tử sửa sang khí giới, phòng ngừa sự biến bất ngờ.",
+                "(Động) Chia. ◎Như: 'lục trừ dĩ nhị đẳng ư tam' 六除以二等於三 sáu chia cho hai thành ba.",
+                "(Tính) Cuối năm, hết năm. ◎Như: 'trừ nhật' 除日 ngày cuối năm, ngày thay năm cũ sang năm mới, 'trừ tịch' 除夕 đêm giao thừa.",
+                "(Danh) Thềm, bệ. ◎Như: 'đình trừ' 庭除 sân và thềm.",
+                "(Danh) Phép tính chia. ◎Như: 'gia giảm thừa trừ tứ tắc vận toán phương pháp' 加減乘除四則運算方法 cộng trừ nhân chia là bốn phép toán.",
+                "(Phó) Ngoài ra, không kể. ◎Như: 'trừ phi' 除非 ngoài cái đó ra."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thềm. Như đình trừ 庭除 thềm trước sân.",
+                "Trừ bỏ đi. Như tiễn trừ 剪除 cắt sạch đi, tảo trừ 掃除 quét sạch đi, v.v.",
+                "Phong quan. Như trừ thụ 除授 bỏ chức quan cũ mà phong chức quan mới.",
+                "Ngày hết năm gọi là trừ nhật 除日, ý nói là cái ngày trừ hết cái cũ mà thay cái mới vậy, trừ tịch 除夕 đêm giao thừa.",
+                "Phép tính chia, lấy một số nguyên chia ra từng phần gọi là trừ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bỏ đi, xóa đi, tiêu trừ, trừ bỏ, trừ: 爲民除害 Trừ hại cho dân; 他們消除了疑慮 Họ đã xóa bỏ được nỗi ngờ vực; 剪除 Cắt bỏ; 掃除 Quét sạch đi;",
+                "Ngoài... ra: 除此以外 Ngoài ra, trừ... không kể; 除了這個人，我都認識 Ngoài người đó ra, còn những người khác tôi đều quen biết cả. 【除非】trừ phi [chúfei] Trừ phi, chỉ có...: 除非發生特殊情況 Trừ phi xảy ra tình trạng đặc biệt; 除非你說，他才同意 Chỉ có anh nói thì hắn mới đồng ý; 【除開】trừ khai [chú kai] Như 除了;【除了】trừ liễu [chúle] a. Trừ... không kể: 除了病號 Trừ những người bệnh; b. Ngoài... ra, ngoài...: 除了你以外，還有誰？ Ngoài anh ra, còn ai nữa; 【除去】trừ khứ [chúqù] Như 除了; 【除外】trừ ngoại [chúwài] Trừ ra, không kể: 展覽室每天開放，星期一除外 Phòng triển lãm hàng ngày đều mở cửa, trừ ngày thứ hai;",
+                "(toán) (Tính, phép) chia: 二除四得二 4 chia cho 2 được 2 (4c2=2);",
+                "(văn) Thềm: 灑掃庭除 Quét rửa thềm nhà;",
+                "(văn) Bổ chức quan, phong quan: 除授 Bỏ chức cũ phong cho chức mới;",
+                "【除日】trừ nhật [chúrì] Ngày hết năm. Cg. 除夜 [chuýè]; 【除夕】trừ tịch [chúxi] Đêm giao thừa, đêm 30 Tết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bậc thềm — Bỏ đi. Làm cho mất đi — Chia ra. Phép tính chia — Ta lại hiểu là bỏ bớt đi."
+            ],
+            "compound_words": {
+                "排除": "bài trừ",
+                "半除": "bán trừ",
+                "拔除": "bạt trừ",
+                "摈除": "bấn trừ",
+                "擯除": "bấn trừ",
+                "屏除": "bình trừ",
+                "解除": "giải trừ",
+                "開除": "khai trừ",
+                "扣除": "khấu trừ",
+                "驅除": "khu trừ",
+                "免除": "miễn trừ",
+                "糞除": "phẩn trừ",
+                "廢除": "phế trừ",
+                "歸除": "quy trừ",
+                "删除": "san trừ",
+                "刪除": "san trừ",
+                "剷除": "sản trừ",
+                "铲除": "sản trừ",
+                "搜除": "sưu trừ",
+                "掃除": "tảo trừ",
+                "淸除": "thanh trừ",
+                "清除": "thanh trừ",
+                "乘除": "thừa trừ",
+                "剿除": "tiễu trừ",
+                "消除": "tiêu trừ",
+                "斬草除根": "trảm thảo trừ căn",
+                "摘除": "trích trừ",
+                "誅除": "tru trừ",
+                "除夜": "trừ dạ",
+                "除滅": "trừ diệt",
+                "除姦": "trừ gian",
+                "除去": "trừ khử",
+                "除法": "trừ pháp",
+                "除非": "trừ phi",
+                "除服": "trừ phục",
+                "除稅": "trừ thuế",
+                "除夕": "trừ tịch"
+            }
+        }
+    }
+}

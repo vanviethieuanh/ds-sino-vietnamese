@@ -1,0 +1,98 @@
+{
+    "character": "斥",
+    "details": {
+        "Âm Hán Việt": [
+            "xích"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "cân 斤 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Nét bút": [
+            "ノノ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "HMY (竹一卜)"
+        ],
+        "Unicode": [
+            "U+65A5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chì ㄔˋ"
+        ],
+        "Âm Nôm": [
+            "sệch",
+            "xếch",
+            "xích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セキ (seki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しりぞ.ける (shirizo.keru)"
+        ],
+        "Âm Hàn": [
+            "척"
+        ],
+        "Âm Quảng Đông": [
+            "cik1"
+        ]
+    },
+    "meanings": {
+        "xích": {
+            "Từ điển phổ thông": [
+                "bác bỏ, bài xích, ruồng đuổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đuổi, gạt ra, bỏ đi không dùng. ◎Như: 'bài xích' 排斥 gạt bỏ, 'đồng tính tương xích' 同性相斥 cùng tính thì đẩy ngược nhau. ◇Liễu Tông Nguyên 柳宗元: 'Tịch thụ nhi bất pháp, triêu xích chi hĩ' 夕受而不法, 朝斥之矣 (Phong kiến luận 封建論) Chiều nay các quan được bổ nhiệm nếu không giữ đúng phép tắc, (thì) sáng hôm sau sẽ bị đuổi không dùng nữa (cách chức).",
+                "(Động) Chê trách. ◎Như: 'chỉ xích' 指斥 chê trách, 'thống xích' 痛斥 kịch liệt lên án.",
+                "(Động) Bày khắp, ở khắp. ◎Như: 'sung xích' 充斥 bày khắp đầy dẫy, 'ngoại quốc hóa sung xích thị tràng' 外國貨充斥市場 hàng ngoại quốc đầy dẫy thị trường.",
+                "(Động) Dò xem, thăm dò. ◎Như: 'xích hậu' 斥候 dò xét tình hình quân địch. ◇Tả truyện 左傳: 'Tấn nhân sử tư mã xích san trạch chi hiểm' 晉人使司馬斥山澤之險 (Tương Công thập bát niên 襄公十八年) Người nước Tấn sai quan tư mã thăm dò những nơi hiểm trở của núi sông đầm lạch.",
+                "(Động) Khai thác, đem ra dùng (tiền của). ◎Như: 'xích thổ' 斥土 khai thác đất đai, 'xích tư' 斥資 đem tiền ra dùng.",
+                "(Danh) Đất mặn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðuổi, gạt ra.",
+                "Chê, bác, như chỉ xích 指斥 chỉ chỗ lầm ra mà bác đi.",
+                "Bới thấy, như sung xích 充斥 bới thấy rất nhiều. Sự vật đầy dẫy cũng gọi là sung xích.",
+                "Dò xem, như xích hậu 斥候 dò xét xem tình hình quân địch thế nào.",
+                "Khai thác, như xích thổ 斥土 khai thác đất cát.",
+                "Ðất mặn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khiển trách, công kích, bài xích, lên án: 痛斥 Kịch liệt lên án;",
+                "Gạt, đuổi: 他被排斥在外 Nó bị gạt ra ngoài;",
+                "Bác: 駁斥 Bác bỏ, bác lại;",
+                "Nhiều, đầy: 充斥 Đầy dẫy;",
+                "(văn) Dò xét.【斥候】xích hậu [chìhòu] (văn) Xích hậu (người đi dò xét tình hình quân địch ở mặt trận);",
+                "(văn) Khai thác: 斥土 Khai thác đất đai;",
+                "(văn) Đất mặn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đuổi đi. Td: Xích trục ( ruồng đuổi ) — Bác bỏ đi. Td: Bài xích — Rộng lớn — Mở rộng ra — Nhìn trộm. Rình rập."
+            ],
+            "compound_words": {
+                "排斥": "bài xích",
+                "摈斥": "bấn xích",
+                "擯斥": "bấn xích",
+                "斥地": "xích địa",
+                "斥候": "xích hầu",
+                "斥騎": "xích kị",
+                "斥責": "xích trách",
+                "斥责": "xích trách",
+                "斥逐": "xích trục"
+            }
+        }
+    }
+}

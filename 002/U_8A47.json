@@ -1,0 +1,62 @@
+{
+    "character": "詇",
+    "details": {
+        "Âm Hán Việt": [
+            "ánh",
+            "ưởng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言央"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRLBK (卜口中月大)"
+        ],
+        "Unicode": [
+            "U+8A47"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)",
+            "オウウ (ōu)",
+            "エイ (ei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さとい (satoi)",
+            "つ.げる (tsu.geru)",
+            "とう (tō)",
+            "こえ (koe)"
+        ]
+    },
+    "meanings": {
+        "ánh": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏi — Nói cho biết — Cũng đọc Ưởng."
+            ],
+            "compound_words": {
+                "詇求": "ánh cầu"
+            }
+        },
+        "ưởng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏi — Nói cho biết — Cũng đọc Ánh."
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "character": "鋅",
+    "details": {
+        "Âm Hán Việt": [
+            "tân",
+            "tử"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金辛"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丶一丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "CYTJ (金卜廿十)"
+        ],
+        "Unicode": [
+            "U+92C5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xīn ㄒㄧㄣ",
+            "zǐ ㄗˇ"
+        ],
+        "Âm Nôm": [
+            "tân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こはい (kohai)"
+        ],
+        "Âm Quảng Đông": [
+            "san1"
+        ]
+    },
+    "meanings": {
+        "tân": {
+            "Từ điển phổ thông": [
+                "kẽm, Zn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Kẽm. § Nguyên tố hóa học (zincum, Zn)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cứng.",
+                "Một âm là tân. Kẽm (Zincum, Zn), một loài kim không rỉ vào trong được, cho nên hay dát ra từng phiến để lợp nhà."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Kẽm (Zincum, kí hiệu Zn)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên chỉ kim loại kẽm ( Zine )."
+            ]
+        },
+        "tử": {
+            "Từ điển Thiều Chửu": [
+                "Cứng.",
+                "Một âm là tân. Kẽm (Zincum, Zn), một loài kim không rỉ vào trong được, cho nên hay dát ra từng phiến để lợp nhà."
+            ]
+        }
+    }
+}

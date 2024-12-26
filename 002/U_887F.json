@@ -1,0 +1,87 @@
+{
+    "character": "衿",
+    "details": {
+        "Âm Hán Việt": [
+            "câm",
+            "khâm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "y 衣 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰衤今"
+        ],
+        "Nét bút": [
+            "丶フ丨ノ丶ノ丶丶フ"
+        ],
+        "Thương Hiệt": [
+            "LOIN (中人戈弓)"
+        ],
+        "Unicode": [
+            "U+887F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jīn ㄐㄧㄣ",
+            "qìn ㄑㄧㄣˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)",
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えり (eri)"
+        ],
+        "Âm Hàn": [
+            "금"
+        ],
+        "Âm Quảng Đông": [
+            "gam1",
+            "kam1"
+        ]
+    },
+    "meanings": {
+        "câm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cổ áo. ◇Thi Kinh 詩經: 'Thanh thanh tử câm' 青青子衿 (Trịnh phong 鄭風, Tử câm 子衿) Cổ áo chàng xanh xanh. § Ghi chú: Cũng nói cái áo của học trò xanh xanh, vì thế nên sau gọi các ông đỗ tú tài là 'thanh câm' 青衿. Có khi gọi tắt là 'câm' 衿.",
+                "(Danh) Vạt áo. § Cũng viết là 'khâm' 襟. ◇Liêu trai chí dị 聊齋志異: 'Nữ xuất khuy, lập vị định, khuyển đoán sách trách nữ, nữ hãi tẩu, la câm đoạn' 女出窺, 立未定, 犬斷索咋女, 女駭走, 羅衿斷 (Chân Hậu 甄后) Nàng chạy ra xem, chưa đứng yên, con chó quyết muốn cắn nàng, nàng sợ hãi bỏ chạy, đứt cả vạt áo là."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Áo khép cổ. Kinh thi 詩經 có câu: Thanh thanh tử câm 青青子衿 cổ áo chàng xanh xanh, là nói cái áo của học trò xanh xanh, vì thế nên sau gọi các ông đỗ tú tài là thanh câm 青衿. Có khi gọi tắt là câm 衿.",
+                "Vạt áo"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Áo khép cổ: 青青子衿 Cổ áo chàng xanh xanh (Thi Kinh);",
+                "Vạt áo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vạt áo — Giải áo, đai áo — Cũng đọc là Khâm."
+            ],
+            "compound_words": {
+                "衿契": "câm khế"
+            }
+        },
+        "khâm": {
+            "Từ điển phổ thông": [
+                "cổ áo, vạt áo"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái vạt áo — Cái giải áo — Cũng đọc Câm."
+            ],
+            "compound_words": {
+                "連衿": "liên khâm"
+            }
+        }
+    }
+}

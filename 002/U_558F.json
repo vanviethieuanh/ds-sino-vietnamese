@@ -1,0 +1,83 @@
+{
+    "character": "喏",
+    "details": {
+        "Âm Hán Việt": [
+            "nhạ",
+            "nặc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口若"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RTKR (口廿大口)"
+        ],
+        "Unicode": [
+            "U+558F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "nuò ㄋㄨㄛˋ",
+            "rě ㄖㄜˇ"
+        ],
+        "Âm Nôm": [
+            "nặc",
+            "nhạ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)",
+            "ニャ (nya)",
+            "ジャク (jaku)",
+            "ニャク (nyaku)",
+            "ダク (daku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はい (hai)"
+        ],
+        "Âm Quảng Đông": [
+            "je5"
+        ]
+    },
+    "meanings": {
+        "nhạ": {
+            "Từ điển phổ thông": [
+                "kính chào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chắp tay vái đồng thời lên tiếng tỏ lòng kính trọng. ◇Tây du kí 西遊記: 'Giá lưỡng cá hòa thượng (...) chẩm ma kiến ngã vương cánh bất hạ bái, nhạ tất bình thân, đĩnh nhiên nhi lập?' 這兩個和尚 (...) 怎麼見我王更不下拜, 喏畢平身, 挺然而立? (Đệ nhị cửu hồi) Hai vị hòa thượng này (...) tại sao ra mắt quốc vương nhà ta mà không lạy, chỉ chào rồi đứng thẳng mình ngang nhiên ra như thế?",
+                "Một âm là 'nặc'. (Danh) Tiếng trả lời ưng chịu. § Cũng như 'nặc' 諾.",
+                "(Thán) Ngữ khí có ý tứ, gây chú ý: kìa, này, v.v. ◎Như: 'nặc, na bất thị nhĩ đích y phục mạ?' 喏, 那不是你的衣服嗎 kìa, đó chẳng phải là quần áo của ông à?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Kính. Tục gọi sự vái chào người là xướng nhạ 唱喏."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chào kính cẩn đối với người trên: 唱喏 Vái chào."
+            ],
+            "compound_words": {
+                "唱喏": "xướng nhạ"
+            }
+        },
+        "nặc": {
+            "Từ điển Trần Văn Chánh": [
+                "(thán) Kìa (từ dùng để gây sự chú ý cho người khác): 喏，這不就是你的那本書？ Kìa, đó chẳng phải là cuốn sách của anh à?"
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "炭",
+    "details": {
+        "Âm Hán Việt": [
+            "thán"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoả 火 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丨フ丨一ノ丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "UMF (山一火)"
+        ],
+        "Unicode": [
+            "U+70AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tàn ㄊㄢˋ"
+        ],
+        "Âm Nôm": [
+            "than",
+            "tro"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すみ (sumi)"
+        ],
+        "Âm Hàn": [
+            "탄"
+        ],
+        "Âm Quảng Đông": [
+            "taan3"
+        ]
+    },
+    "meanings": {
+        "thán": {
+            "Từ điển phổ thông": [
+                "than củi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Than (củi, gỗ cháy còn lại). ◎Như: 'mộc thán' 木炭 than củi.",
+                "(Danh) Than đá. ◎Như: 'môi thán' 煤炭 than đá.",
+                "(Danh) Họ 'Thán'.",
+                "§ Ghi chú: (1) 'Thán khí' 炭氣 chất khí độc oxyt carbon, vật gì có chất ấy gọi là 'thán tố' 炭素. (2) 'Đồ thán' 塗炭 (cũng viết là 荼炭) lầm than, khổ sở. Vì thế nên đời loạn gọi là 'sinh linh đồ thán' 生靈塗炭. (3) 'Băng thán' 冰炭 than và giá, nói những sự vật tính chất khác nhau không thể hợp được. Người không hòa hợp cũng gọi là 'băng thán'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Than.",
+                "Chất thán, chất độc thở ở trong mình ra gọi là thán khí 炭氣, vật gì có chất ấy gọi là thán tố 炭素.",
+                "Ðồ thán 塗炭 (cũng viết là 荼炭) lầm than, nói dân bị chánh trị tàn ác khổ sở quá, vì thế nên đời loạn gọi là sinh linh đồ thán 生靈塗炭.",
+                "Băng thán 冰炭 than giá, nói những sự vật tính chất khác nhau không thể hợp được. Người không hoà hợp ý nhau cũng gọi là băng thán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Than củi: 木炭 Than củi, than hoa;",
+                "Than đá: 煤炭 Than đá;",
+                "(hoá) Cácbon (Carbonium)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Than đốt."
+            ],
+            "compound_words": {
+                "冰炭": "băng thán",
+                "塗炭": "đồ thán",
+                "塗炭生民": "đồ thán sinh dân",
+                "木炭": "mộc thán",
+                "泥炭": "nê thán",
+                "石炭": "thạch thán",
+                "炭畫": "thán hoạ",
+                "炭氣": "thán khí"
+            }
+        }
+    }
+}

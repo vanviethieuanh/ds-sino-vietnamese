@@ -1,0 +1,62 @@
+{
+    "character": "笺",
+    "details": {
+        "Âm Hán Việt": [
+            "tiên"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trúc 竹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮戋"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HIJ (竹戈十)"
+        ],
+        "Unicode": [
+            "U+7B3A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "tiên"
+        ],
+        "Âm Quảng Đông": [
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "tiên": {
+            "Từ điển phổ thông": [
+                "nêu, mốc",
+                "giấy viết"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 箋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 箋"
+            ],
+            "compound_words": {
+                "花笺": "hoa tiên",
+                "便笺": "tiện tiên"
+            }
+        }
+    }
+}

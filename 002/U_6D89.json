@@ -1,0 +1,90 @@
+{
+    "character": "涉",
+    "details": {
+        "Âm Hán Việt": [
+            "thiệp"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡步"
+        ],
+        "Nét bút": [
+            "丶丶一丨一丨一丨ノノ"
+        ],
+        "Thương Hiệt": [
+            "EYLH (水卜中竹)"
+        ],
+        "Unicode": [
+            "U+6D89"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "shè ㄕㄜˋ"
+        ],
+        "Âm Nôm": [
+            "thiệp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わたる (wataru)",
+            "かかわる (kakawaru)"
+        ],
+        "Âm Hàn": [
+            "섭"
+        ],
+        "Âm Quảng Đông": [
+            "sip3"
+        ]
+    },
+    "meanings": {
+        "thiệp": {
+            "Từ điển phổ thông": [
+                "lội",
+                "bước vào, dấn thân vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lội, qua sông. ◎Như: 'thiệp giang' 涉江 qua sông, 'bạt thiệp' 跋涉 lặn lội.",
+                "(Động) Đến, trải qua, kinh lịch. ◎Như: 'thiệp thế' 涉世 trải việc đời.",
+                "(Động) Liên quan, dính líu. ◎Như: 'giao thiệp' 交涉 liên hệ qua lại, 'can thiệp' 干涉 can dự, dính vào, 'thiệp hiềm' 涉嫌 có hiềm nghi.",
+                "(Động) Động, cầm. ◎Như: 'thiệp bút' 涉筆 cầm bút."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lội, lội qua sông gọi là thiệp 涉, qua bãi cỏ gọi là bạt 跋, vì thế đi đường khó nhọc gọi là bạt thiệp 跋涉 (lặn lội).",
+                "Sự gì có quan hệ liên lạc với nhau gọi là thiệp, như giao thiệp 交涉, can thiệp 干涉, v.v.",
+                "Sự gì không quan thiệp đến gọi là vô thiệp 無涉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lội sông: 跋山涉水 Trèo đèo lội suối;",
+                "Lịch duyệt: 涉險 Mạo hiểm, vượt nguy hiểm, liều; 涉世 Từng trải cuộc đời, nếm đủ mùi đời;",
+                "Liên quan, dính dáng: 這件事牽涉到很多方面 Việc này liên quan tới nhiều mặt; 不要涉及其它問題 Không nên dính dáng đến vấn đề khác."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lội qua dòng nước — Bước qua. Trải qua — Dính dáng vào chuyện gì. Td: Can thiệp."
+            ],
+            "compound_words": {
+                "跋涉": "bạt thiệp",
+                "干涉": "can thiệp",
+                "交涉": "giao thiệp",
+                "歴涉": "lịch thiệp",
+                "關涉": "quan thiệp",
+                "涉世": "thiệp thế"
+            }
+        }
+    }
+}

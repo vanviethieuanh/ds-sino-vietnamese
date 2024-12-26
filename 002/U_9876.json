@@ -1,0 +1,75 @@
+{
+    "character": "顶",
+    "details": {
+        "Âm Hán Việt": [
+            "đính",
+            "đỉnh"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰丁页"
+        ],
+        "Nét bút": [
+            "一丨一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "MNMBO (一弓一月人)"
+        ],
+        "Unicode": [
+            "U+9876"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dǐng ㄉㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "đỉnh"
+        ],
+        "Âm Quảng Đông": [
+            "deng2",
+            "ding2"
+        ]
+    },
+    "meanings": {
+        "đính": {
+            "Từ điển phổ thông": [
+                "đỉnh đầu",
+                "chỗ cao nhất"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 頂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 頂"
+            ],
+            "compound_words": {
+                "屋顶": "ốc đính"
+            }
+        },
+        "đỉnh": {
+            "Từ điển phổ thông": [
+                "đỉnh đầu",
+                "chỗ cao nhất"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 頂"
+            ],
+            "compound_words": {
+                "山顶": "sơn đỉnh"
+            }
+        }
+    }
+}

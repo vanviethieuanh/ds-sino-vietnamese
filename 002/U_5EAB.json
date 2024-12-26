@@ -1,0 +1,95 @@
+{
+    "character": "庫",
+    "details": {
+        "Âm Hán Việt": [
+            "khố"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿸广車"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "IJWJ (戈十田十)"
+        ],
+        "Unicode": [
+            "U+5EAB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kù ㄎㄨˋ"
+        ],
+        "Âm Nôm": [
+            "kho",
+            "khố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くら (kura)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "fu3"
+        ]
+    },
+    "meanings": {
+        "khố": {
+            "Từ điển phổ thông": [
+                "kho chứa đồ vật"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Kho, chỗ chứa đồ. ◎Như: 'thư khố' 書庫 kho trữ sách. ◇Sử Kí 史記: 'Trị bách quan, thân vạn dân, thật phủ khố, tử thục dữ Khởi?' 治百官, 親萬民, 實府庫, 子孰與起 (Tôn Tử Ngô Khởi liệt truyện 孫子吳起列傳) Trị bách quan, thân muôn dân, làm giàu kho đụn, thì ông và Khởi tôi (ai hơn ai kém)?",
+                "(Danh) Chỗ chứa binh khí. ◎Như: 'hỏa dược khố' 火藥庫 kho thuốc nổ, 'quân giới khố' 軍械庫 kho khí giới.",
+                "(Danh) Họ 'Khố'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái kho. Chỗ để chứa đồ binh khí của nhà nước. Chỗ để đồ cũng gọi là khố."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kho: 入庫 Vào kho, nhập kho; 糧食庫 Kho lương thực;",
+                "[Kù] (Họ) Khố."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nơi cất giữ xe cộ và binh khí — Nhà kho, cất giữ tiền của đồ đạc. Td: Ngân khố ( kho bạc )."
+            ],
+            "compound_words": {
+                "寶庫": "bảo khố",
+                "質庫": "chí khố",
+                "公庫": "công khố",
+                "公庫票": "công khố phiếu",
+                "金庫": "kim khố",
+                "銀庫": "ngân khố",
+                "府庫": "phủ khố",
+                "管庫": "quản khố",
+                "國庫": "quốc khố",
+                "國庫券": "quốc khố khoán",
+                "藏庫": "tàng khố",
+                "書庫": "thư khố",
+                "倉庫": "thương khố",
+                "存庫": "tồn khố",
+                "文庫": "văn khố",
+                "武庫": "vũ khố"
+            }
+        }
+    }
+}

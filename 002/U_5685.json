@@ -1,0 +1,76 @@
+{
+    "character": "嚅",
+    "details": {
+        "Âm Hán Việt": [
+            "nhu"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "khẩu 口 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口需"
+        ],
+        "Nét bút": [
+            "丨フ一一丶フ丨丶丶丶丶一ノ丨フ丨丨"
+        ],
+        "Thương Hiệt": [
+            "RMBB (口一月月)"
+        ],
+        "Unicode": [
+            "U+5685"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "rú ㄖㄨˊ"
+        ],
+        "Âm Nôm": [
+            "nhậu",
+            "nheo",
+            "nhu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュ (ju)",
+            "ニュ (nyu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やかま.しい (yakama.shii)"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "nhu": {
+            "Từ điển phổ thông": [
+                "nói luyên thuyên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) 'Nhu nhi' 嚅唲 cười có vẻ nịnh nọt. § Cũng viết là 'nho nhi' 儒兒.",
+                "(Phó) 'Chiếp nhu' 囁嚅: xem 'chiếp' 囁."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chiếp nhu 囁嚅 nhập nhù (muốn nói lại thôi)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói ngập ngừng không rõ. Xem 囁嚅."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nhu nhi 嚅唲: Cười gượng."
+            ],
+            "compound_words": {
+                "呫嚅": "xiếp nhu"
+            }
+        }
+    }
+}

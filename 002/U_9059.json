@@ -1,0 +1,86 @@
+{
+    "character": "遙",
+    "details": {
+        "Âm Hán Việt": [
+            "dao",
+            "diêu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "sước 辵 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "ノフ丶丶ノ一一丨フ丨丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YBOU (卜月人山)"
+        ],
+        "Unicode": [
+            "U+9059"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao",
+            "diêu",
+            "dìu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はる.か (haru.ka)"
+        ],
+        "Âm Hàn": [
+            "요"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển phổ thông": [
+                "xa, dài"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Xa. ◎Như: 'diêu viễn' 遙遠 xa xôi.",
+                "(Tính) Dài. ◇Lí Bạch 李白: 'Diêu dạ hà man man' 遙夜何漫漫 (Nam bôn thư hoài 南奔書懷) Đêm dài sao mà dằng dặc.",
+                "§ Ghi chú: Cũng đọc là 'dao'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xa, dài: 千里之遙 Xa ngàn dặm; 路遙知馬力 Đường dài biết sức ngựa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xa xôi — Lâu dài — Đi mau."
+            ],
+            "compound_words": {
+                "遙夜": "dao dạ",
+                "遙看": "dao khán",
+                "逍遙": "tiêu dao"
+            }
+        },
+        "diêu": {
+            "Từ điển trích dẫn": [
+                "(Tính) Xa. ◎Như: 'diêu viễn' 遙遠 xa xôi.",
+                "(Tính) Dài. ◇Lí Bạch 李白: 'Diêu dạ hà man man' 遙夜何漫漫 (Nam bôn thư hoài 南奔書懷) Đêm dài sao mà dằng dặc.",
+                "§ Ghi chú: Cũng đọc là 'dao'."
+            ],
+            "compound_words": {
+                "逍遙": "tiêu diêu"
+            }
+        }
+    }
+}

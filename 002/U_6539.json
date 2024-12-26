@@ -1,0 +1,129 @@
+{
+    "character": "改",
+    "details": {
+        "Âm Hán Việt": [
+            "cải"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "phác 攴 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰己攵"
+        ],
+        "Nét bút": [
+            "フ一フノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SUOK (尸山人大)"
+        ],
+        "Unicode": [
+            "U+6539"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gǎi ㄍㄞˇ"
+        ],
+        "Âm Nôm": [
+            "cãi",
+            "gởi",
+            "gửi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あらた.める (arata.meru)",
+            "あらた.まる (arata.maru)"
+        ],
+        "Âm Hàn": [
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "goi2"
+        ]
+    },
+    "meanings": {
+        "cải": {
+            "Từ điển phổ thông": [
+                "sửa đổi, thay đổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Biến đổi, thay đổi.",
+                "(Động) Sửa, chữa. ◎Như: 'cải tạo' 改造 sửa đổi, 'cải quá' 改過 sửa lỗi.",
+                "(Danh) Họ 'Cải'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðổi, như cải tạo 改造 làm lại, cải quá 改過 đổi lỗi, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thay đổi, đổi thay, biến đổi: 西貢完全改了樣子 Sài Gòn đã thay đổi hẳn;",
+                "Chữa: 改文章 Chữa bài;",
+                "[Găi] (Họ) Cải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thay đổi. Cũng viết là"
+            ],
+            "compound_words": {
+                "變改": "biến cải",
+                "改惡": "cải ác",
+                "改惡從善": "cải ác tòng thiện",
+                "改变": "cải biến",
+                "改編": "cải biên",
+                "改编": "cải biên",
+                "改變": "cải biến",
+                "改革": "cải cách",
+                "改正": "cải chính",
+                "改名": "cải danh",
+                "改容": "cải dung",
+                "改頭換面": "cải đầu hoán diện",
+                "改訂": "cải đính",
+                "改都": "cải đô",
+                "改嫁": "cải giá",
+                "改教": "cải giáo",
+                "改畫": "cải hoạch",
+                "改換": "cải hoán",
+                "改悔": "cải hối",
+                "改弦更張": "cải huyền cánh trương",
+                "改口": "cải khẩu",
+                "改老還童": "cải lão hoàn đồng",
+                "改良": "cải lương",
+                "改命": "cải mệnh",
+                "改元": "cải nguyên",
+                "改任": "cải nhiệm",
+                "改过": "cải quá",
+                "改過": "cải quá",
+                "改觀": "cải quan",
+                "改邪": "cải tà",
+                "改邪歸正": "cải tà quy chánh",
+                "改葬": "cải táng",
+                "改造": "cải tạo",
+                "改善": "cải thiện",
+                "改进": "cải tiến",
+                "改進": "cải tiến",
+                "改醮": "cải tiếu",
+                "改組": "cải tổ",
+                "改组": "cải tổ",
+                "改装": "cải trang",
+                "改裝": "cải trang",
+                "改轍": "cải triệt",
+                "改選": "cải tuyển",
+                "改物": "cải vật",
+                "更改": "cánh cải",
+                "塗改": "đồ cải",
+                "悔改": "hối cải",
+                "修改": "tu cải"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "character": "艞",
+    "details": {
+        "Âm Hán Việt": [
+            "diệu",
+            "thiếu"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "chu 舟 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟筄"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶ノ一丶ノ一丶ノ丶一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HYHLO (竹卜竹中人)"
+        ],
+        "Unicode": [
+            "U+825E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "tiào ㄊㄧㄠˋ",
+            "yào ㄧㄠˋ"
+        ],
+        "Âm Quảng Đông": [
+            "tiu1"
+        ]
+    },
+    "meanings": {
+        "diệu": {
+            "Từ điển phổ thông": [
+                "thuyền lớn trong sông"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thuyền lớn trong sông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại thuyền lớn để đi sông đi biển."
+            ],
+            "compound_words": {
+                "艞板": "diệu bản"
+            }
+        },
+        "thiếu": {
+            "Từ điển phổ thông": [
+                "miếng ván bắc từ bờ đến thuyền để người đi lên xuống"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) 【艞板】 thiếu bản [tiàobăn] Miếng ván bắc từ bờ đến thuyền để người đi lên xuống."
+            ]
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "巷",
+    "details": {
+        "Âm Hán Việt": [
+            "hạng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "kỷ 己 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱共巳"
+        ],
+        "Nét bút": [
+            "一丨丨一ノ丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "TCRU (廿金口山)"
+        ],
+        "Unicode": [
+            "U+5DF7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hàng ㄏㄤˋ",
+            "xiàng ㄒㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "hạng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ちまた (chimata)"
+        ],
+        "Âm Hàn": [
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "hong6"
+        ]
+    },
+    "meanings": {
+        "hạng": {
+            "Từ điển phổ thông": [
+                "đường hẻm, ngõ hẻm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Ngõ, hẻm, khu phố nhỏ. ◎Như: “đại nhai tiểu hạng” 大街小巷 đường lớn hẻm nhỏ, “nhai đầu hạng vĩ” 街頭巷尾 đầu đường cuối ngõ. § Cũng gọi là “hạng tử” 巷子, “hạng nhi” 巷兒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngõ tắt, ngõ đi tắt ở trong làng gọi là hạng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngõ tắt, hẻm, phố nhỏ: 街頭巷尾 Đầu đường cuối ngõ; 從大街到小巷 Từ phố lớn đến ngõ hẻm. Xem 巷 [hàng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đường đi trong làng — Con đường nhỏ. Hẻm."
+            ],
+            "compound_words": {
+                "隘巷": "ải hạng",
+                "巷伯": "hạng bá",
+                "巷戰": "hạng chiến",
+                "巷議": "hạng nghị",
+                "陋巷": "lậu hạng",
+                "街談巷議": "nhai đàm hạng nghị"
+            }
+        }
+    }
+}

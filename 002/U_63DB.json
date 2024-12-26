@@ -1,0 +1,98 @@
+{
+    "character": "換",
+    "details": {
+        "Âm Hán Việt": [
+            "hoán"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘奐"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丨フノ丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QNBK (手弓月大)"
+        ],
+        "Unicode": [
+            "U+63DB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huàn ㄏㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "hoán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.える (ka.eru)",
+            "-か.える (-ka.eru)",
+            "か.わる (ka.waru)"
+        ],
+        "Âm Hàn": [
+            "환"
+        ],
+        "Âm Quảng Đông": [
+            "wun6"
+        ]
+    },
+    "meanings": {
+        "hoán": {
+            "Từ điển phổ thông": [
+                "hoán đổi, trao đổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trao đổi. ◎Như: 'hoán tiền' 換錢 đổi tiền. ◇Tấn Thư 晉書: 'Thường dĩ kim điêu hoán tửu' 嘗以金貂換酒 (Nguyễn Tịch truyện 阮籍傳) Từng lấy điêu vàng đổi lấy rượu.",
+                "(Động) Thay đổi, biến đổi. ◎Như: 'hoán xa' 換車. ◇Vương Bột 王勃: 'Vật hoán tinh di kỉ độ thu' 物換星移幾度秋 (Đằng Vương các 滕王閣) Vật đổi sao dời đã bao nhiêu mùa thu rồi.",
+                "(Động) Vay. ◇Nam sử 南史: 'Lăng Lịch Triêu Sĩ, tựu tư không Vương Kính Tắc hoán mễ nhị bách hộc, Kính Tắc dĩ bách hộc dữ chi, bất thụ' 陵轢朝士, 就司空王敬則換米二百斛, 敬則以百斛與之, 不受 (Chu Phụng Thúc truyện 周奉叔傳)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðổi, cải.",
+                "Thay đổi.",
+                "Xấc xược."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đổi: 互換 Đổi với nhau;",
+                "Thay: 換了人 Đã thay người; 換衣服 Thay quần áo;",
+                "(văn) Xấc xược."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đổi chác. Đổi cho nhau."
+            ],
+            "compound_words": {
+                "畔換": "bạn hoán",
+                "变換": "biến hoán",
+                "變換": "biến hoán",
+                "改頭換面": "cải đầu hoán diện",
+                "改換": "cải hoán",
+                "更換": "canh hoán",
+                "兌換": "đoái hoán",
+                "交換": "giao hoán",
+                "換置": "hoán trí",
+                "換文": "hoán văn",
+                "換位": "hoán vị",
+                "互換": "hỗ hoán",
+                "輪換": "luân hoán",
+                "替換": "thế hoán",
+                "物換": "vật hoán",
+                "物換星移": "vật hoán tinh di"
+            }
+        }
+    }
+}

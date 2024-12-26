@@ -1,0 +1,105 @@
+{
+    "character": "噢",
+    "details": {
+        "Âm Hán Việt": [
+            "Úc",
+            "úc",
+            "ẩu",
+            "ủ"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口奧"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丨フ丶ノ一丨ノ丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RHBK (口竹月大)"
+        ],
+        "Unicode": [
+            "U+5662"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "ō",
+            "yǔ ㄩˇ"
+        ],
+        "Âm Nôm": [
+            "ủ",
+            "ục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ユウ (yū)",
+            "イク (iku)",
+            "ウ (u)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うめ.く (ume.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "juk1",
+            "jyu2",
+            "o1",
+            "ou3"
+        ]
+    },
+    "meanings": {
+        "Úc": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 喔 [o]."
+            ]
+        },
+        "úc": {
+            "Từ điển phổ thông": [
+                "(tiếng than)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) 'Úc y' 噢咿 trong lòng đau thương, xót ruột.",
+                "Một âm là 'ủ'. (Trạng thanh) 'Ủ hủ' 噢咻 tiếng rên rỉ vì đau đớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Úc y 噢咿 xót ruột (thương ngầm).",
+                "Một âm là ủ. Ủ hủ 噢咻 tiếng yên ủi một cách thiết tha xót xa quá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buồn rầu — Một âm là Ẩu ( tiếng kêu đau )."
+            ]
+        },
+        "ẩu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ẩu hưu 噢咻 — Một âm khác là Úc."
+            ],
+            "compound_words": {
+                "噢咻": "ẩu hưu"
+            }
+        },
+        "ủ": {
+            "Từ điển trích dẫn": [
+                "(Tính) 'Úc y' 噢咿 trong lòng đau thương, xót ruột.",
+                "Một âm là 'ủ'. (Trạng thanh) 'Ủ hủ' 噢咻 tiếng rên rỉ vì đau đớn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Úc y 噢咿 xót ruột (thương ngầm).",
+                "Một âm là ủ. Ủ hủ 噢咻 tiếng yên ủi một cách thiết tha xót xa quá."
+            ],
+            "compound_words": {
+                "噢咻": "ủ hủ"
+            }
+        }
+    }
+}

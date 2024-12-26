@@ -1,0 +1,81 @@
+{
+    "character": "织",
+    "details": {
+        "Âm Hán Việt": [
+            "chí",
+            "chức",
+            "xí"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mịch 糸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟只"
+        ],
+        "Nét bút": [
+            "フフ一丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMRC (女一口金)"
+        ],
+        "Unicode": [
+            "U+7EC7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhī ㄓ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chức"
+        ],
+        "Âm Quảng Đông": [
+            "zik1"
+        ]
+    },
+    "meanings": {
+        "chí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 織."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 織"
+            ]
+        },
+        "chức": {
+            "Từ điển phổ thông": [
+                "dệt vải"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 織."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 織"
+            ],
+            "compound_words": {
+                "亚太经合组织": "á thái kinh hiệp tổ chức",
+                "北大西洋公约组织": "bắc đại tây dương công ước tổ chức",
+                "组织": "tổ chức"
+            }
+        },
+        "xí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 織."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 織"
+            ]
+        }
+    }
+}

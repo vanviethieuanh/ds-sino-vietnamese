@@ -1,0 +1,114 @@
+{
+    "character": "傷",
+    "details": {
+        "Âm Hán Việt": [
+            "thương"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhân 人 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻⿱𠂉昜"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一丨フ一一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "OOAH (人人日竹)"
+        ],
+        "Unicode": [
+            "U+50B7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shāng ㄕㄤ"
+        ],
+        "Âm Nôm": [
+            "thương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きず (kizu)",
+            "いた.む (ita.mu)",
+            "いた.める (ita.meru)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "soeng1"
+        ]
+    },
+    "meanings": {
+        "thương": {
+            "Từ điển phổ thông": [
+                "đau đớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vết đau. ◎Như: 'khinh thương' 輕傷 vết thương nhẹ.",
+                "(Danh) Họ 'Thương'.",
+                "(Động) Hao tổn, tổn hại. ◎Như: 'thương thân' 傷身 hại mình, 'thương thần' 傷神 hao tổn tinh thần, 'thương não cân' 傷腦筋 đau đầu nhức óc.",
+                "(Động) Làm hại, trở ngại. ◇Luận Ngữ 論語: 'Hà thương hồ, diệc các ngôn kì chí dã' 何傷乎, 亦各言其志也 (Tiên tiến 先進) Hại gì, cũng là ai nấy nói ra chí của mình thôi.",
+                "(Động) Hủy báng. ◎Như: 'xuất khẩu thương nhân' 出口傷人 mở miệng hủy báng người",
+                "(Động) Đau đớn, đau buồn. ◎Như: 'thương cảm' 傷感 xúc cảm, thương xót, 'thương đỗng' 傷慟 đau thương. ◇Cao Bá Quát 高伯适: 'Khởi tri thương lộ cùng' 豈知傷路窮 (Di tống Thừa Thiên ngục 栘送承天獄) Nào đã biết đau buồn cho nỗi cùng đường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vết đau.",
+                "Hại, như trúng thương 中傷 bị kẻ làm hại.",
+                "Thương, như thương cảm 傷感 cảm thương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vết thương: 輕傷 Vết thương nhẹ;",
+                "Tổn thương: 傷腦筋 Nhức óc; 傷其十指不如斷其一指 Làm bị thương mười ngón tay không bằng làm cụt một ngón tay;",
+                "Mắc bệnh: 傷風 Cảm, cảm gió; 傷寒 Thương hàn;",
+                "Ngấy: 吃糖吃傷了 Ăn đường nhiều thấy ngấy quá;",
+                "Cản trở, trở ngại, gây hại: 何傷乎 Có gì cản trở?;",
+                "Đau đớn: 悲傷 Đau đớn, đau buồn; 傷感 Xúc cảm, buồn rầu, thương xót;",
+                "Tổn hại, làm hại, hại: 傷衆有罪 Làm khổ dân là có tội; 開口傷人 Mở miệng hại người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "làm hại. Làm hư hao. Td: Thụ thương ( thân thể bị tổn hại ) — Đau đớn xót xa. Gia huấn ca của Nguyễn Trãi: » Thương người như thể thương thân «."
+            ],
+            "compound_words": {
+                "哀傷": "ai thương",
+                "暗傷": "ám thương",
+                "悲傷": "bi thương",
+                "感傷": "cảm thương",
+                "戰傷": "chiến thương",
+                "證傷": "chứng thương",
+                "打傷": "đả thương",
+                "刀傷": "đao thương",
+                "毀傷": "huỷ thương",
+                "殺傷": "sát thương",
+                "載傷": "tải thương",
+                "受傷": "thụ thương",
+                "傷感": "thương cảm",
+                "傷害": "thương hại",
+                "傷寒": "thương hàn",
+                "傷風": "thương phong",
+                "傷心": "thương tâm",
+                "傷迹": "thương tích",
+                "傷損": "thương tổn",
+                "傷亡": "thương vong",
+                "損傷": "tổn thương",
+                "抓傷": "trảo thương",
+                "重傷": "trọng thương",
+                "中傷": "trúng thương",
+                "死傷": "tử thương"
+            }
+        }
+    }
+}

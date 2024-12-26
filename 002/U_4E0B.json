@@ -1,0 +1,286 @@
+{
+    "character": "下",
+    "details": {
+        "Âm Hán Việt": [
+            "há",
+            "hạ"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "nhất 一 (+2 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "一丨丶"
+        ],
+        "Thương Hiệt": [
+            "MY (一卜)"
+        ],
+        "Unicode": [
+            "U+4E0B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xià ㄒㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "hạ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ゲ (ge)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "した (shita)",
+            "しも (shimo)",
+            "もと (moto)",
+            "さ.げる (sa.geru)",
+            "さ.がる (sa.garu)",
+            "くだ.る (kuda.ru)",
+            "くだ.り (kuda.ri)",
+            "くだ.す (kuda.su)",
+            "-くだ.す (-kuda.su)",
+            "くだ.さる (kuda.saru)",
+            "お.ろす (o.rosu)",
+            "お.りる (o.riru)"
+        ],
+        "Âm Hàn": [
+            "하"
+        ],
+        "Âm Quảng Đông": [
+            "haa5",
+            "haa6"
+        ]
+    },
+    "meanings": {
+        "há": {
+            "Từ điển phổ thông": [
+                "đi xuống",
+                "ở bên dưới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phần dưới, chỗ thấp. § Đối lại với 'thượng' 上. ◇Mạnh Tử 孟子: 'Do thủy chi tựu hạ' 猶水之就下 (Li Lâu thượng 離婁上) Giống như nước tụ ở chỗ thấp.",
+                "(Danh) Bề dưới, bậc dưới (đối với người trên, cấp trên). ◎Như: 'bộ hạ' 部下 tay chân, 'thủ hạ' 手下 tay sai, 'thuộc hạ' 屬下 dưới quyền. ◇Tam quốc diễn nghĩa 三國演義: 'Chu Du vấn trướng hạ thùy cảm tiên xuất' 周瑜問帳下誰敢先出 (Đệ tứ thập bát hồi) Chu Du hỏi (các tướng) dưới trướng ai dám ra trước (đối địch).",
+                "(Danh) Bên trong, mặt trong. ◎Như: 'tâm hạ' 心下 trong lòng, 'ngôn hạ chi ý' 言下之意 hàm ý trong lời nói.",
+                "(Danh) Bên, bề, phía, phương diện. ◎Như: 'tứ hạ khán nhất khán' 四下看一看 nhìn xem bốn mặt. ◇Liễu Kì Khanh 柳耆卿: 'Lưỡng hạ tương tư bất tương kiến' ：兩下相思不相見 (Thi tửu ngoạn giang lâu kí 詩酒翫江樓記) Hai bên nhớ nhau mà không thấy nhau.",
+                "(Danh) Trong khoảng (không gian) hoặc lúc (thời gian) nào đó. ◎Như: 'mục hạ' 目下 bây giờ, hiện tại, 'thì hạ' 時下 trước mắt, hiện giờ.",
+                "(Danh) Lượng từ: cái, lần, lượt. ◎Như: 'suất liễu kỉ hạ' 摔了幾下 ngã mấy lần. ◇Hồng Lâu Mộng 紅樓夢: 'Dụng quyền đầu hướng tha thân thượng lụy liễu kỉ hạ' 用拳頭向他身上擂了幾下 (Đệ tứ thập thất hồi) Dùng nắm tay nhắm trên mình nó đấm mấy quả.",
+                "(Tính) Thấp, kém (bậc, cấp). ◎Như: 'hạ phẩm' 下品, 'hạ sách' 下策, 'hạ cấp' 下級.",
+                "(Tính) Hèn, mọn (thân phận). ◎Như: 'hạ nhân' 下人, 'hạ lại' 下吏.",
+                "(Tính) Tiếng tự khiêm. ◎Như: 'hạ quan' 下官, 'hạ hoài' 下懷, 'hạ ngu' 下愚.",
+                "(Tính) Sau, lúc sau. ◎Như: 'hạ hồi'下回 hồi sau, 'hạ nguyệt' 下月 tháng sau, 'hạ tinh kì' 下星期 tuần lễ sau.",
+                "(Tính) Bên trong, trong khoảng. ◎Như: 'tâm hạ' 心下 lòng này, 'ngôn hạ chi ý' 言下之意 ý trong lời.",
+                "(Tính) Dưới, ít hơn (số lượng). ◎Như: 'bất hạ nhị thập vạn nhân' 不下二十萬人 không dưới hai trăm ngàn người.",
+                "(Động) Ban bố, truyền xuống. ◎Như: 'hạ chiếu' 下詔 ban bố chiếu vua, 'hạ mệnh lệnh' 下命令 truyền mệnh lệnh.",
+                "(Động) Vào trong, tiến nhập. ◎Như: 'hạ thủy' 下水, 'hạ tràng bỉ tái' 下場比賽.",
+                "(Động) Gửi đi. ◎Như: 'hạ thiếp' 下帖 gửi thiếp mời, 'hạ chiến thư' 下戰書 gửi chiến thư.",
+                "(Động) Đánh thắng, chiếm được. ◎Như: 'bất chiến nhi hạ' 不戰而下 không đánh mà thắng, 'liên hạ tam thành' 連下三城 hạ liền được ba thành.",
+                "(Động) Đối đãi khiêm tốn, hạ mình xuống (với kẻ dưới). ◎Như: 'lễ hiền hạ sĩ' 禮賢下士. ◇Luận Ngữ 論語: 'Mẫn nhi hiếu học, bất sỉ hạ vấn' 敏而好學, 不恥下問 (Công Dã Tràng 公冶長) Thông minh và hiếu học, không thẹn phải hạ mình hỏi kẻ dưới mình.",
+                "(Động) Bỏ xuống, dỡ xuống, bỏ vào. ◎Như: 'hạ hóa' 下貨 dỡ hàng hóa xuống, 'hạ độc dược' 下毒藥 bỏ thuốc độc, 'hạ võng bộ ngư' 下網捕魚 dỡ lưới xuống bắt cá.",
+                "(Động) Lấy dùng, sử dụng. ◎Như: 'hạ kì' 下棋, 'hạ đao' 下刀, 'hạ bút như hữu thần' 下筆如有神.",
+                "(Động) Đi, đi đến. ◎Như: 'nam hạ' 南下 đi đến phương nam, 'hạ hương thị sát' 下鄉視察 đến làng thị sát. ◇Lí Bạch 李白: 'Cố nhân tây từ Hoàng hạc lâu, Yên hoa tam nguyệt hạ Dương Châu' 故人西辭黃鶴樓, 煙花三月下揚州 (Hoàng hạc lâu tống Mạnh Hạo Nhiên 黃鶴樓送孟浩然) Cố nhân từ biệt lầu Hoàng hạc, sang phía tây, Vào tháng ba tiết xuân hoa nở thịnh đi đến Dương Châu.",
+                "(Động) Coi thường, khinh thị.",
+                "(Động) Sinh, đẻ. ◎Như: 'mẫu kê hạ đản' 母雞下蛋 gà mẹ đẻ trứng.",
+                "(Động) Trọ, ở, lưu túc. ◇Tây sương kí 西廂記: 'Quan nhân yếu hạ a, yêm giá lí hữu can tịnh đích điếm' 官人要下呵, 俺這裡有乾淨的店 (Đệ nhất bổn 第一本, Đệ nhất chiết).",
+                "(Phó) Biểu thị động tác hoàn thành hoặc kết thúc. ◎Như: 'tọa hạ' 坐下. ◇Lỗ Tấn 魯迅: 'Tâm mãn ý túc đích đắc thắng đích thảng hạ liễu' 心滿意足的得勝的躺下了 (A Q chánh truyện 阿Q正傳) Hả lòng hả dạ đắc thắng nằm thẳng cẳng xuống giường.",
+                "(Phó) Chịu được. ◎Như: 'hoàn tọa đắc hạ ma?' 還坐得下嗎?",
+                "Một âm là 'há'. (Động) Xuống, từ trên xuống dưới. ◎Như: 'há vũ' 下雨 rơi mưa, 'há sơn' 下山 xuống núi, 'há lâu' 下樓 xuống lầu.",
+                "(Động) Cuốn. ◎Như: 'há kì' 下旗 cuốn cờ, 'há duy' 下帷 cuốn màn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dưới, đối lại với chữ thượng. Phàm cái gì ở dưới đều gọi là hạ.",
+                "Bề dưới, lời nói nhún mình với người trên, như hạ tình 下情 tình kẻ dưới. hạ hoài 下懷 tấm lòng kẻ dưới.",
+                "Một âm là há. Xuống, từ trên xuống dưới, như há sơn 下山 xuống núi, há lâu 下樓 xuống lầu.",
+                "Cuốn, như há kì 下旗 cuốn cờ, há duy 下帷 cuốn màn, v.v."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tụt xuống, leo xuống. Chẳng hạn Há mã ( xuống ngựa ). Ta quen đọc là Hạ luôn — Hàng phục — Một âm là Hạ. Xem Hạ."
+            ],
+            "compound_words": {
+                "下榻": "hạ tháp",
+                "塌下": "tháp hạ",
+                "上下": "thướng há"
+            }
+        },
+        "hạ": {
+            "Từ điển phổ thông": [
+                "đi xuống",
+                "ở bên dưới"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phần dưới, chỗ thấp. § Đối lại với 'thượng' 上. ◇Mạnh Tử 孟子: 'Do thủy chi tựu hạ' 猶水之就下 (Li Lâu thượng 離婁上) Giống như nước tụ ở chỗ thấp.",
+                "(Danh) Bề dưới, bậc dưới (đối với người trên, cấp trên). ◎Như: 'bộ hạ' 部下 tay chân, 'thủ hạ' 手下 tay sai, 'thuộc hạ' 屬下 dưới quyền. ◇Tam quốc diễn nghĩa 三國演義: 'Chu Du vấn trướng hạ thùy cảm tiên xuất' 周瑜問帳下誰敢先出 (Đệ tứ thập bát hồi) Chu Du hỏi (các tướng) dưới trướng ai dám ra trước (đối địch).",
+                "(Danh) Bên trong, mặt trong. ◎Như: 'tâm hạ' 心下 trong lòng, 'ngôn hạ chi ý' 言下之意 hàm ý trong lời nói.",
+                "(Danh) Bên, bề, phía, phương diện. ◎Như: 'tứ hạ khán nhất khán' 四下看一看 nhìn xem bốn mặt. ◇Liễu Kì Khanh 柳耆卿: 'Lưỡng hạ tương tư bất tương kiến' ：兩下相思不相見 (Thi tửu ngoạn giang lâu kí 詩酒翫江樓記) Hai bên nhớ nhau mà không thấy nhau.",
+                "(Danh) Trong khoảng (không gian) hoặc lúc (thời gian) nào đó. ◎Như: 'mục hạ' 目下 bây giờ, hiện tại, 'thì hạ' 時下 trước mắt, hiện giờ.",
+                "(Danh) Lượng từ: cái, lần, lượt. ◎Như: 'suất liễu kỉ hạ' 摔了幾下 ngã mấy lần. ◇Hồng Lâu Mộng 紅樓夢: 'Dụng quyền đầu hướng tha thân thượng lụy liễu kỉ hạ' 用拳頭向他身上擂了幾下 (Đệ tứ thập thất hồi) Dùng nắm tay nhắm trên mình nó đấm mấy quả.",
+                "(Tính) Thấp, kém (bậc, cấp). ◎Như: 'hạ phẩm' 下品, 'hạ sách' 下策, 'hạ cấp' 下級.",
+                "(Tính) Hèn, mọn (thân phận). ◎Như: 'hạ nhân' 下人, 'hạ lại' 下吏.",
+                "(Tính) Tiếng tự khiêm. ◎Như: 'hạ quan' 下官, 'hạ hoài' 下懷, 'hạ ngu' 下愚.",
+                "(Tính) Sau, lúc sau. ◎Như: 'hạ hồi'下回 hồi sau, 'hạ nguyệt' 下月 tháng sau, 'hạ tinh kì' 下星期 tuần lễ sau.",
+                "(Tính) Bên trong, trong khoảng. ◎Như: 'tâm hạ' 心下 lòng này, 'ngôn hạ chi ý' 言下之意 ý trong lời.",
+                "(Tính) Dưới, ít hơn (số lượng). ◎Như: 'bất hạ nhị thập vạn nhân' 不下二十萬人 không dưới hai trăm ngàn người.",
+                "(Động) Ban bố, truyền xuống. ◎Như: 'hạ chiếu' 下詔 ban bố chiếu vua, 'hạ mệnh lệnh' 下命令 truyền mệnh lệnh.",
+                "(Động) Vào trong, tiến nhập. ◎Như: 'hạ thủy' 下水, 'hạ tràng bỉ tái' 下場比賽.",
+                "(Động) Gửi đi. ◎Như: 'hạ thiếp' 下帖 gửi thiếp mời, 'hạ chiến thư' 下戰書 gửi chiến thư.",
+                "(Động) Đánh thắng, chiếm được. ◎Như: 'bất chiến nhi hạ' 不戰而下 không đánh mà thắng, 'liên hạ tam thành' 連下三城 hạ liền được ba thành.",
+                "(Động) Đối đãi khiêm tốn, hạ mình xuống (với kẻ dưới). ◎Như: 'lễ hiền hạ sĩ' 禮賢下士. ◇Luận Ngữ 論語: 'Mẫn nhi hiếu học, bất sỉ hạ vấn' 敏而好學, 不恥下問 (Công Dã Tràng 公冶長) Thông minh và hiếu học, không thẹn phải hạ mình hỏi kẻ dưới mình.",
+                "(Động) Bỏ xuống, dỡ xuống, bỏ vào. ◎Như: 'hạ hóa' 下貨 dỡ hàng hóa xuống, 'hạ độc dược' 下毒藥 bỏ thuốc độc, 'hạ võng bộ ngư' 下網捕魚 dỡ lưới xuống bắt cá.",
+                "(Động) Lấy dùng, sử dụng. ◎Như: 'hạ kì' 下棋, 'hạ đao' 下刀, 'hạ bút như hữu thần' 下筆如有神.",
+                "(Động) Đi, đi đến. ◎Như: 'nam hạ' 南下 đi đến phương nam, 'hạ hương thị sát' 下鄉視察 đến làng thị sát. ◇Lí Bạch 李白: 'Cố nhân tây từ Hoàng hạc lâu, Yên hoa tam nguyệt hạ Dương Châu' 故人西辭黃鶴樓, 煙花三月下揚州 (Hoàng hạc lâu tống Mạnh Hạo Nhiên 黃鶴樓送孟浩然) Cố nhân từ biệt lầu Hoàng hạc, sang phía tây, Vào tháng ba tiết xuân hoa nở thịnh đi đến Dương Châu.",
+                "(Động) Coi thường, khinh thị.",
+                "(Động) Sinh, đẻ. ◎Như: 'mẫu kê hạ đản' 母雞下蛋 gà mẹ đẻ trứng.",
+                "(Động) Trọ, ở, lưu túc. ◇Tây sương kí 西廂記: 'Quan nhân yếu hạ a, yêm giá lí hữu can tịnh đích điếm' 官人要下呵, 俺這裡有乾淨的店 (Đệ nhất bổn 第一本, Đệ nhất chiết).",
+                "(Phó) Biểu thị động tác hoàn thành hoặc kết thúc. ◎Như: 'tọa hạ' 坐下. ◇Lỗ Tấn 魯迅: 'Tâm mãn ý túc đích đắc thắng đích thảng hạ liễu' 心滿意足的得勝的躺下了 (A Q chánh truyện 阿Q正傳) Hả lòng hả dạ đắc thắng nằm thẳng cẳng xuống giường.",
+                "(Phó) Chịu được. ◎Như: 'hoàn tọa đắc hạ ma?' 還坐得下嗎?",
+                "Một âm là 'há'. (Động) Xuống, từ trên xuống dưới. ◎Như: 'há vũ' 下雨 rơi mưa, 'há sơn' 下山 xuống núi, 'há lâu' 下樓 xuống lầu.",
+                "(Động) Cuốn. ◎Như: 'há kì' 下旗 cuốn cờ, 'há duy' 下帷 cuốn màn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dưới, đối lại với chữ thượng. Phàm cái gì ở dưới đều gọi là hạ.",
+                "Bề dưới, lời nói nhún mình với người trên, như hạ tình 下情 tình kẻ dưới. hạ hoài 下懷 tấm lòng kẻ dưới.",
+                "Một âm là há. Xuống, từ trên xuống dưới, như há sơn 下山 xuống núi, há lâu 下樓 xuống lầu.",
+                "Cuốn, như há kì 下旗 cuốn cờ, há duy 下帷 cuốn màn, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dưới, phần dưới, hạ: 山下 Dưới núi; 燈下 Dưới đèn, 往下看 Nhìn xuống dưới; 下級 Cấp dưới, hạ cấp. (Ngb) Sau: 下回 Hạ hồi, hồi sau: 下月 Tháng sau; 下星期 Tuần lễ sau;",
+                "Xuống, hạ, bỏ, ban ra (lệnh), đánh hạ: 下山Xuống núi; 下樓 Xuống gác; 下視其轍 Bước xuống xem vết bánh xe (Tả truyện); 下獄 Hạ ngục, bỏ tù; 下水 Hạ thuỷ, đưa xuống nước; 下雪 Xuống tuyết; 下令 Hạ lệnh, ra lệnh; 令初下，群臣進諫，門庭若市 Lệnh vừa ban ra, các bề tôi kéo vào can gián, cửa và sân đông như chợ (Chiến quốc sách); 下鄉 Xuống nông thôn, xuống làng; 下決心 Hạ quyết tâm; 下火 Hạ hoả; 連下數城 Hạ liền mấy thành; 東下齊城七十二 Phía đông đánh hạ được bảy mươi hai thành của Tề (Lí Bạch: Lương Phủ ngâm);",
+                "Rơi xuống: 念天地之悠悠，獨愴然而涕下 Nghĩ đến sự đằng đẵng của đất trời mà một mình đau thương rơi lệ (Trần Tử Ngang);",
+                "Tiến lên phía trước: 水陸俱下 Quân thuỷ lực (của Tào Tháo) đều tiến lên (Tư trị thông giám);",
+                "Đi, đi đến: 于是使下韓 Do vậy sai Lí Tư đi đến nước Hàn (Sử kí);",
+                "Dưới, ít hơn (về số lượng): 要害之處，通川之道，調立城邑，毌下千家 Những nơi trọng yếu, chỗ đường thông với sông, điều động lập nên thành thị, không nên dưới một ngàn nhà (Triều Thác); 劉琦合江夏戰士亦不下萬人 Binh của Lưu Kì hợp thêm với binh của Giang Hạ cũng không dưới một vạn người (Tư trị thông giám);",
+                "Đóng lại: 王平 引兵離山十里下寨 Vương Bình dẫn quân rời khỏi núi mười dặm thì cho hạ trại (đóng trại) (Tam quốc chí diễn nghĩa);",
+                "Đối đãi khiêm tốn, hạ mình xuống (với kẻ dưới): 敏而好學不恥下問 Thông minh mà hiếu học thì không thẹn hạ mình xuống hỏi kẻ dưới mình (Luận ngữ); 公子爲人，仁而下士 Công tử (nước Nguỵ) là người nhân ái và đối đãi khiêm tốn với kẻ sĩ (Sử kí: Ngụy Công tử liệt truyện);",
+                "Hạ xuống, dỡ xuống: 把窗戶下下來 Hạ cánh cửa sổ xuống; 下貨 Dỡ hàng xuống;",
+                "Lùi xuống, nhân nhượng: 相持不下 Găng nhau mãi không ai chịu nhân nhượng; Bỏ ra, dùng: 下了很大氣力 Đã bỏ ra nhiều công sức;",
+                "Sinh đẻ (chỉ động vật): 雞下蛋 Gà đẻ trứng;",
+                "Đặt sau danh từ, tỏ ý bao gồm trong đó; hoặc trong thời gian đó: 言下之意 Ý trong lời; 年下 Giữa ngày tết (nguyên đán);",
+                "Đặt sau động từ, tỏ ý có quan hệ; tỏ ý hoàn thành hay kết quả; tỏ xu hướng hay tiếp diễn: 打下了基礎 Đã đặt được nền móng: 從高處掉下 Rơi từ trên cao xuống; 念下去 Đọc tiếp đi;",
+                "(loại) Lần, cái, lượt: 摔了幾下 Ngã mấy lần; 拍幾下掌 Vỗ tay mấy cái; 親舉筑三下 Tự mình dơ cây đàn trúc lên ba lần (Hán thư); 舉起大板打了十來下 Dơ tấm phách lớn lên đánh mười cái (Hồng lâu mộng)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thấp — Dưới. Bên dưới — Thấp kém — Rơi xuống — Một âm là Há. Xem Há."
+            ],
+            "compound_words": {
+                "不下": "bất hạ",
+                "不下于": "bất hạ vu",
+                "陛下": "bệ hạ",
+                "部下": "bộ hạ",
+                "閣下": "các hạ",
+                "之下": "chi hạ",
+                "以下": "dĩ hạ",
+                "帶下": "đái hạ",
+                "低下": "đê hạ",
+                "底下人": "để hạ nhân",
+                "地下": "địa hạ",
+                "殿下": "điện hạ",
+                "條陳天下大世": "điều trần thiên hạ đại thế",
+                "江河日下": "giang hà nhật hạ",
+                "下巴": "hạ ba",
+                "下半": "hạ bán",
+                "下班": "hạ ban",
+                "下半身": "hạ bán thân",
+                "下輩子": "hạ bối tử",
+                "下筆": "hạ bút",
+                "下个月": "hạ cá nguyệt",
+                "下個月": "hạ cá nguyệt",
+                "下个星期": "hạ cá tinh kỳ",
+                "下個星期": "hạ cá tinh kỳ",
+                "下疳": "hạ cam",
+                "下肢": "hạ chi",
+                "下属": "hạ chú",
+                "下屬": "hạ chú",
+                "下顧": "hạ cố",
+                "下游": "hạ du",
+                "下等": "hạ đẳng",
+                "下價": "hạ giá",
+                "下降": "hạ giáng",
+                "下界": "hạ giới",
+                "下囘": "hạ hồi",
+                "下弦": "hạ huyền",
+                "下氣": "hạ khí",
+                "下邽": "hạ khuê",
+                "下去": "hạ khứ",
+                "下落": "hạ lạc",
+                "下吏": "hạ lại",
+                "下令": "hạ lệnh",
+                "下列": "hạ liệt",
+                "下流": "hạ lưu",
+                "下馬": "hạ mã",
+                "下議院": "hạ nghị viện",
+                "下午": "hạ ngọ",
+                "下狱": "hạ ngục",
+                "下獄": "hạ ngục",
+                "下元": "hạ nguyên",
+                "下官": "hạ quan",
+                "下國": "hạ quốc",
+                "下跪": "hạ quỵ",
+                "下梢": "hạ sao",
+                "下士": "hạ sĩ",
+                "下載": "hạ tải",
+                "下载": "hạ tải",
+                "下层": "hạ tằng",
+                "下層": "hạ tằng",
+                "下城": "hạ thành",
+                "下榻": "hạ tháp",
+                "下唇": "hạ thần",
+                "下臣": "hạ thần",
+                "下世": "hạ thế",
+                "下壽": "hạ thọ",
+                "下夀": "hạ thọ",
+                "下土": "hạ thổ",
+                "下手": "hạ thủ",
+                "下場": "hạ tràng",
+                "下旬": "hạ tuần",
+                "下賜": "hạ tứ",
+                "下問": "hạ vấn",
+                "下雨": "hạ vũ",
+                "下齒": "hạ xỉ",
+                "下齿": "hạ xỉ",
+                "汗下": "hãn hạ",
+                "有兩下子": "hữu lưỡng hạ tử",
+                "林下": "lâm hạ",
+                "楼下": "lâu hạ",
+                "樓下": "lâu hạ",
+                "門下": "môn hạ",
+                "沒下梢": "một hạ sao",
+                "目下無人": "mục hạ vô nhân",
+                "月下": "nguyệt hạ",
+                "月下美人": "nguyệt hạ mỹ nhân",
+                "放下": "phóng hạ",
+                "瓜田李下": "qua điền lí hạ",
+                "卸下": "tá hạ",
+                "在下": "tại hạ",
+                "膝下": "tất hạ",
+                "城下": "thành hạ",
+                "塌下": "tháp hạ",
+                "臣下": "thần hạ",
+                "天下": "thiên hạ",
+                "取下": "thủ hạ",
+                "手下": "thủ hạ",
+                "属下": "thuộc hạ",
+                "屬下": "thuộc hạ",
+                "垂下": "thuỳ hạ",
+                "上下": "thượng hạ",
+                "上下文": "thượng hạ văn",
+                "坐下": "toạ hạ",
+                "治下": "trị hạ",
+                "擲下": "trịch hạ",
+                "撤下": "triệt hạ",
+                "足下": "túc hạ",
+                "松下": "tùng hạ",
+                "舍下": "xá hạ",
+                "咽下": "yến hạ"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "刾",
+    "details": {
+        "Âm Hán Việt": [
+            "thích",
+            "thứ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "đao 刀 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰夹⺉"
+        ],
+        "Nét bút": [
+            "一丶ノ一ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "KTLN (大廿中弓)"
+        ],
+        "Unicode": [
+            "U+523E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cì ㄘˋ",
+            "qì ㄑㄧˋ"
+        ]
+    },
+    "meanings": {
+        "thích": {
+            "Từ điển phổ thông": [
+                "tiêm, chích, châm, chọc",
+                "danh thiếp (âm thứ)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Cũng dùng như chữ 刺."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng dùng như chữ 刺."
+            ],
+            "compound_words": {
+                "拨刾": "bát thích",
+                "刾激": "thích kích",
+                "刾探": "thích thám",
+                "刾痛": "thích thống",
+                "刾绣": "thích tú"
+            }
+        },
+        "thứ": {
+            "Từ điển phổ thông": [
+                "tiêm, chích, châm, chọc",
+                "danh thiếp (âm thứ)"
+            ]
+        }
+    }
+}

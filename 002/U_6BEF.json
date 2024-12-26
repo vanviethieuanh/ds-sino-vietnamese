@@ -1,0 +1,75 @@
+{
+    "character": "毯",
+    "details": {
+        "Âm Hán Việt": [
+            "thảm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mao 毛 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺毛炎"
+        ],
+        "Nét bút": [
+            "ノ一一フ丶ノノ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "HUFF (竹山火火)"
+        ],
+        "Unicode": [
+            "U+6BEF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "tǎn ㄊㄢˇ"
+        ],
+        "Âm Nôm": [
+            "thảm",
+            "xồm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Hàn": [
+            "담"
+        ],
+        "Âm Quảng Đông": [
+            "taam2",
+            "taan2"
+        ]
+    },
+    "meanings": {
+        "thảm": {
+            "Từ điển phổ thông": [
+                "cái đệm lông"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Chăn, nệm, đệm, thảm. ◎Như: “địa thảm” 地毯 thảm trải trên nền nhà (cũng gọi là “địa chiên” 地氈), “mao thảm” 毛毯 chăn lông, “bích thảm” 壁毯 thảm trang trí trên tường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái đệm lông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thảm: 毛毯 Thảm len; 掛毯 Thảm treo; 地毯 Thảm trải sàn nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nệm dệt bằng lông thú — Nay còn hiểu là cái nệm để lót sàn nhà, trải trên đất để đi lên."
+            ],
+            "compound_words": {
+                "壁毯": "bích thảm",
+                "地毯": "địa thảm"
+            }
+        }
+    }
+}

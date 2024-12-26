@@ -1,0 +1,105 @@
+{
+    "character": "尺",
+    "details": {
+        "Âm Hán Việt": [
+            "chỉ",
+            "xích"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "thi 尸 (+1 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SO (尸人)"
+        ],
+        "Unicode": [
+            "U+5C3A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chě ㄔㄜˇ",
+            "chǐ ㄔˇ"
+        ],
+        "Âm Nôm": [
+            "sệch",
+            "xách",
+            "xế",
+            "xệch",
+            "xích"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャク (shaku)"
+        ],
+        "Âm Hàn": [
+            "척"
+        ],
+        "Âm Quảng Đông": [
+            "ce2",
+            "cek3"
+        ]
+    },
+    "meanings": {
+        "chỉ": {
+            "Từ điển Trần Văn Chánh": [
+                "(nhạc) Xê (kí hiệu một nốt trong nhạc cổ Trung Quốc, tương đương nốt “rê” trong nhạc xon phe ngày nay). Xem 尺 [chê]."
+            ],
+            "compound_words": {
+                "咫尺": "chỉ xích",
+                "指尺": "chỉ xích"
+            }
+        },
+        "xích": {
+            "Từ điển phổ thông": [
+                "thước (10 tấc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lượng từ, đơn vị đo chiều dài: thước. ◎Như: 'công xích' 公尺 thước tây (m, mètre), bằng một trăm phân (cm, centimètre), một thước cổ (Trung Quốc) bằng 0,33 cm.",
+                "(Danh) Cái thước, khí cụ để đo dài ngắn. ◎Như: 'bì xích' 皮尺 thước da , 'thiết xích' 鐵尺 thước sắt. ◇Đỗ Phủ 杜甫: 'Hàn y xứ xứ thôi đao xích' 寒衣處處催刀尺 (Thu hứng 秋興) Trời lạnh giục kẻ dao thước may áo ngự hàn.",
+                "(Danh) Vật hình dài như cái thước. ◎Như: 'trấn xích' 鎮尺 cái đồ chận giấy, sách vở.",
+                "(Tính) Nhỏ, bé. ◎Như: 'xích thốn chi công' 尺寸之功 công lao nhỏ bé."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thước, mười tấc là một thước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thước Trung Quốc (bằng 1/3 mét);",
+                "Thước: 公尺 Thước tây, mét;",
+                "Cái thước: 鐵尺 Cái thước sắt. Xem 尺 [châ]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thước để đo — Một thước ta ( có 10 tấc )."
+            ],
+            "compound_words": {
+                "表尺": "biểu xích",
+                "咫尺": "chỉ xích",
+                "指尺": "chỉ xích",
+                "摺尺": "chiếp xích",
+                "公尺": "công xích",
+                "矩尺": "củ xích",
+                "方尺": "phương xích",
+                "官尺": "quan xích",
+                "捲尺": "quyển xích",
+                "圍尺": "vi xích",
+                "尺布": "xích bố",
+                "尺地": "xích địa",
+                "尺牘": "xích độc",
+                "尺蠖": "xích oách",
+                "尺土": "xích thổ",
+                "尺寸": "xích thốn"
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "靨",
+    "details": {
+        "Âm Hán Việt": [
+            "yếp",
+            "yểm"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "diện 面 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厭面"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一丨フ一一一ノ丶丶一ノ丨フ丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "MKMWL (一大一田中)"
+        ],
+        "Unicode": [
+            "U+9768"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yǎn ㄧㄢˇ",
+            "yè ㄜˋ"
+        ],
+        "Âm Nôm": [
+            "diệp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "えくぼ (ekubo)"
+        ],
+        "Âm Hàn": [
+            "엽"
+        ],
+        "Âm Quảng Đông": [
+            "jip3",
+            "jip6"
+        ]
+    },
+    "meanings": {
+        "yếp": {
+            "Từ điển phổ thông": [
+                "lúm đồng tiền (trên má)",
+                "nốt ruồi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Lúm đồng tiền trên má. ◎Như: “tiếu yếp” 笑靨 cười má lúm đồng tiền. § Tục gọi là “tửu oa” 酒渦."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chỗ mép nó núm vào. Như tiếu yếp 笑靨 cười má lúm đồng tiền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lúm đồng tiền trên mặt: 笑靨 Cười lúm đồng tiền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hai bên má."
+            ],
+            "compound_words": {
+                "笑靨": "tiếu yếp",
+                "靨靨": "yếp yếp"
+            }
+        },
+        "yểm": {
+            "Từ điển Trần Văn Chánh": [
+                "Nốt ruồi."
+            ]
+        }
+    }
+}

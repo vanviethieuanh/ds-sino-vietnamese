@@ -1,0 +1,84 @@
+{
+    "character": "燔",
+    "details": {
+        "Âm Hán Việt": [
+            "phiền",
+            "phần"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "hoả 火 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰火番"
+        ],
+        "Nét bút": [
+            "丶ノノ丶ノ丶ノ一丨ノ丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "FHDW (火竹木田)"
+        ],
+        "Unicode": [
+            "U+71D4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fán ㄈㄢˊ",
+            "fén ㄈㄣˊ"
+        ],
+        "Âm Nôm": [
+            "phần",
+            "phiền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "や.く (ya.ku)"
+        ],
+        "Âm Hàn": [
+            "번"
+        ],
+        "Âm Quảng Đông": [
+            "faan4"
+        ]
+    },
+    "meanings": {
+        "phiền": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đốt;",
+                "Nướng, quay;",
+                "Thịt quay để tế (thời xưa). Như 膰 (bộ 肉)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đốt. Châm lửa đốt — Nướng trên lửa."
+            ],
+            "compound_words": {
+                "燔肉": "phiền nhục"
+            }
+        },
+        "phần": {
+            "Từ điển phổ thông": [
+                "nướng, quay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nướng, đốt cháy.",
+                "(Danh) Thịt chín dùng để tế tông miếu. § Thông 'phần' 膰."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nướng, quay.",
+                "Phần tế."
+            ]
+        }
+    }
+}

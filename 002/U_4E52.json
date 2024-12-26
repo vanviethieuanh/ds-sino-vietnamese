@@ -1,0 +1,66 @@
+{
+    "character": "乒",
+    "details": {
+        "Âm Hán Việt": [
+            "binh"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "triệt 丿 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丘丿"
+        ],
+        "Nét bút": [
+            "ノ丨一丨一ノ"
+        ],
+        "Thương Hiệt": [
+            "OMH (人一竹)"
+        ],
+        "Unicode": [
+            "U+4E52"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "pīng ㄆㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "binh"
+        ],
+        "Âm Quảng Đông": [
+            "bing1",
+            "ping1"
+        ]
+    },
+    "meanings": {
+        "binh": {
+            "Từ điển phổ thông": [
+                "đoành, đoàng, đùng, bộp, bịch (tiếng súng nố)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Bình, bịch, đùng, đoàng.",
+                "(Danh) § Xem 'binh bàng' 乒乓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Đoành, đùng, bịch, bốp, phịch: 乒的一聲 槍響 Tiếng súng nổ đoành."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Binh bang cầu 乒乓球."
+            ],
+            "compound_words": {
+                "乒乓": "binh bàng",
+                "乒乓球": "binh bàng cầu"
+            }
+        }
+    }
+}

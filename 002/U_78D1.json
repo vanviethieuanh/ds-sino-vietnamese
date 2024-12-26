@@ -1,0 +1,101 @@
+{
+    "character": "磑",
+    "details": {
+        "Âm Hán Việt": [
+            "cai",
+            "ngôi",
+            "ngại"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thạch 石 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石豈"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丨フ丨一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "MRUMT (一口山一廿)"
+        ],
+        "Unicode": [
+            "U+78D1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ái ㄚㄧˊ",
+            "wéi ㄨㄟˊ",
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "ngại"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "う.す (u.su)"
+        ],
+        "Âm Hàn": [
+            "애",
+            "외"
+        ],
+        "Âm Quảng Đông": [
+            "hoi2",
+            "wui1"
+        ]
+    },
+    "meanings": {
+        "cai": {
+            "Từ điển phổ thông": [
+                "cái cối tán, cái bàn tán",
+                "bền chắc, vững vàng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cối xay.",
+                "Một âm là 'cai'. (Tính) § Xem 'cai cai' 磑磑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cối tán, cái bàn tán.",
+                "Một âm là cai. Cai cai 磑磑 bền chắc, vững vàng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cối xay bằng đá;",
+                "【磑磑】cai cai [wèiwèi] Bền chắc, vững vàng."
+            ],
+            "compound_words": {
+                "磑磑": "cai cai"
+            }
+        },
+        "ngôi": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngôi ngôi 磑磑: Vẻ rất cứng, cứng như đá — Dáng chập chồng ( như đá núi chồng chất )."
+            ]
+        },
+        "ngại": {
+            "Từ điển phổ thông": [
+                "cái cối tán, cái bàn tán",
+                "bền chắc, vững vàng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cối xay.",
+                "Một âm là 'cai'. (Tính) § Xem 'cai cai' 磑磑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cối tán, cái bàn tán.",
+                "Một âm là cai. Cai cai 磑磑 bền chắc, vững vàng."
+            ]
+        }
+    }
+}

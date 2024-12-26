@@ -1,0 +1,85 @@
+{
+    "character": "顷",
+    "details": {
+        "Âm Hán Việt": [
+            "khoảnh",
+            "khuynh",
+            "khuể"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰匕页"
+        ],
+        "Nét bút": [
+            "一フ一ノ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "PMBO (心一月人)"
+        ],
+        "Unicode": [
+            "U+9877"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kuǐ ㄎㄨㄟˇ",
+            "qīng ㄑㄧㄥ",
+            "qǐng ㄑㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "cảnh",
+            "khoảnh"
+        ],
+        "Âm Quảng Đông": [
+            "king2"
+        ]
+    },
+    "meanings": {
+        "khoảnh": {
+            "Từ điển phổ thông": [
+                "mảnh đất",
+                "phúc chốc, nhanh chóng",
+                "nửa bước chân"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 頃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 頃"
+            ],
+            "compound_words": {
+                "顷刻": "khoảnh khắc"
+            }
+        },
+        "khuynh": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 頃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 頃"
+            ]
+        },
+        "khuể": {
+            "Từ điển phổ thông": [
+                "mảnh đất",
+                "phúc chốc, nhanh chóng",
+                "nửa bước chân"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 頃."
+            ]
+        }
+    }
+}

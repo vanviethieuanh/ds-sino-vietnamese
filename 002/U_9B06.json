@@ -1,0 +1,94 @@
+{
+    "character": "鬆",
+    "details": {
+        "Âm Hán Việt": [
+            "tung",
+            "tông",
+            "tùng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "tiêu 髟 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱髟松"
+        ],
+        "Nét bút": [
+            "一丨一一一フ丶ノノノ一丨ノ丶ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "SHDCI (尸竹木金戈)"
+        ],
+        "Unicode": [
+            "U+9B06"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sōng ㄙㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "tùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)",
+            "シュ (shu)"
+        ],
+        "Âm Hàn": [
+            "송"
+        ],
+        "Âm Quảng Đông": [
+            "sung1"
+        ]
+    },
+    "meanings": {
+        "tung": {
+            "Từ điển Trần Văn Chánh": [
+                "Lỏng 捆得太鬆 Buộc lỏng quá; 土質鬆 Chất đất xốp;",
+                "Lỏng lẻo: 規矩鬆 Quy tắc lỏng lẻo;",
+                "Buông ra: 把雙手鬆開 Buông hai tay ra;",
+                "Ruốc: 牛肉鬆 Ruốc thịt bò;",
+                "(văn) Tóc rối bù: 蓬鬆 Tóc rối (như cỏ bồng)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tóc bồng bềnh — Lỏng lẻo, không chắc."
+            ]
+        },
+        "tông": {
+            "Từ điển trích dẫn": [
+                "(Tính) Rối bù, bù xù. ◎Như: 'bồng tông' 蓬鬆 rối bù (tóc).",
+                "(Tính) Lỏng lẻo, thong thả. ◎Như: 'phóng tông' 放鬆 buông thả.",
+                "§ Một dạng của chữ 'tùng' 松."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tóc rối bù, tục gọi là bồng tông 蓬鬆.",
+                "Lỏng lẻo, không được chắc chắn bén sắc gọi là phóng tông 放鬆."
+            ],
+            "compound_words": {
+                "輕鬆": "khinh tông",
+                "放鬆": "phóng tông"
+            }
+        },
+        "tùng": {
+            "Từ điển phổ thông": [
+                "tóc rối bù",
+                "bờm cổ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Rối bù, bù xù. ◎Như: 'bồng tông' 蓬鬆 rối bù (tóc).",
+                "(Tính) Lỏng lẻo, thong thả. ◎Như: 'phóng tông' 放鬆 buông thả.",
+                "§ Một dạng của chữ 'tùng' 松."
+            ]
+        }
+    }
+}

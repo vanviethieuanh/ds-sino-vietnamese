@@ -1,0 +1,103 @@
+{
+    "character": "溶",
+    "details": {
+        "Âm Hán Việt": [
+            "dong",
+            "dung"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡容"
+        ],
+        "Nét bút": [
+            "丶丶一丶丶フノ丶ノ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "EJCR (水十金口)"
+        ],
+        "Unicode": [
+            "U+6EB6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "róng ㄖㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "dung",
+            "giong",
+            "ròng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.ける (to.keru)",
+            "と.かす (to.kasu)",
+            "と.く (to.ku)"
+        ],
+        "Âm Hàn": [
+            "용"
+        ],
+        "Âm Quảng Đông": [
+            "jung4"
+        ]
+    },
+    "meanings": {
+        "dong": {
+            "Từ điển trích dẫn": [
+                "(Động) Tan (vật chất đổi sang thể lỏng), hòa lẫn. ◎Như: 'tuyết vị dong' 雪未溶 tuyết chưa tan.",
+                "(Động) Động, dao động. ◇Lí Thương Ẩn 李商隱: 'Hoàng Hà diêu dong thiên thượng lai, Ngọc lâu ảnh cận Trung Thiên đài' 黃河搖溶天上來, 玉樓影近中天臺 (Hà dương 河陽).",
+                "(Tính) Tràn đầy (nước). ◇Giang Yêm 江淹: 'Uyên lân hống dong hề, Sở thủy nhi Ngô giang' 淵潾澒溶兮, 楚水而吳江 (Giang thượng chi san phú 江上之山賦).",
+                "(Tính) Lớn, thịnh.",
+                "(Tính) Vẻ an nhàn.",
+                "§ Thông 'dong' 容. ◇Hàn Phi Tử 韓非子: 'Thính ngôn chi đạo, dong nhược thậm túy' 聽言之道, 溶若甚醉 (Dương quyền 揚權). § Chữ 'dong' 溶 ở đây có nghĩa là 'dong mạo' 容貌.",
+                "§ Ghi chú: Cũng đọc là 'dung'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dong dong 溶溶 nước mông mênh.",
+                "Tan, cho vật chất tan ra nước gọi là dong giải 溶解."
+            ]
+        },
+        "dung": {
+            "Từ điển phổ thông": [
+                "tan ra",
+                "hoà tan",
+                "lưu thông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tan (vật chất đổi sang thể lỏng), hòa lẫn. ◎Như: 'tuyết vị dong' 雪未溶 tuyết chưa tan.",
+                "(Động) Động, dao động. ◇Lí Thương Ẩn 李商隱: 'Hoàng Hà diêu dong thiên thượng lai, Ngọc lâu ảnh cận Trung Thiên đài' 黃河搖溶天上來, 玉樓影近中天臺 (Hà dương 河陽).",
+                "(Tính) Tràn đầy (nước). ◇Giang Yêm 江淹: 'Uyên lân hống dong hề, Sở thủy nhi Ngô giang' 淵潾澒溶兮, 楚水而吳江 (Giang thượng chi san phú 江上之山賦).",
+                "(Tính) Lớn, thịnh.",
+                "(Tính) Vẻ an nhàn.",
+                "§ Thông 'dong' 容. ◇Hàn Phi Tử 韓非子: 'Thính ngôn chi đạo, dong nhược thậm túy' 聽言之道, 溶若甚醉 (Dương quyền 揚權). § Chữ 'dong' 溶 ở đây có nghĩa là 'dong mạo' 容貌.",
+                "§ Ghi chú: Cũng đọc là 'dung'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tan, hoà tan: 糖還未有溶 Đường còn chưa tan;",
+                "【溶溶】dung dung [róngróng] (văn) Rộng rãi, bao la, mênh mông: 江水溶溶 Nước sông mênh mông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng nước mênh mông — Chảy thành nước."
+            ],
+            "compound_words": {
+                "溶液": "dung dịch",
+                "溶度": "dung độ",
+                "溶解": "dung giải"
+            }
+        }
+    }
+}

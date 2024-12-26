@@ -1,0 +1,87 @@
+{
+    "character": "閥",
+    "details": {
+        "Âm Hán Việt": [
+            "phiệt"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "môn 門 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門伐"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一ノ丨一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "ANOI (日弓人戈)"
+        ],
+        "Unicode": [
+            "U+95A5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fá ㄈㄚˊ"
+        ],
+        "Âm Nôm": [
+            "phiệt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バツ (batsu)"
+        ],
+        "Âm Hàn": [
+            "벌"
+        ],
+        "Âm Quảng Đông": [
+            "fat6"
+        ]
+    },
+    "meanings": {
+        "phiệt": {
+            "Từ điển phổ thông": [
+                "tờ ghi công trạng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Công trạng, công lao.",
+                "(Danh) Ngày xưa viết công trạng vào giấy hay tấm ván rồi nêu ra ngoài cửa, cửa bên trái gọi là 'phiệt' 閥, cửa bên phải gọi là 'duyệt' 閱.",
+                "(Danh) Mượn chỉ dòng họ, gia thế, địa vị. § Sách Sử Kí 史記 nói: Nêu rõ thứ bực gọi là 'phiệt' 閥, tích số ngày lại gọi là 'duyệt' 閱. Vì thế gọi các thế gia, cự thất là 'phiệt duyệt' 閥閱 hay 'thế phiệt' 世閥. ◇Liêu trai chí dị 聊齋志異: 'Tọa thứ, cụ triển tông phiệt' 坐次, 具展宗閥 (Anh Ninh 嬰寧) Ngồi rồi nói rõ gốc tích dòng họ.",
+                "(Danh) Nhân vật, gia tộc hoặc tổ chức có quyền hành hay thế lực về một phương diện nào đó. ◎Như: 'tài phiệt' 財閥, 'quân phiệt' 軍閥.",
+                "(Danh) Van (tiếng Anh: valve). ◎Như: 'thủy phiệt' 水閥 van nước."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phiệt duyệt 閥閱 viết công trạng vào giấy hay tấm ván rồi nêu ra ngoài cửa, cửa bên trái gọi là phiệt, cửa bên phải gọi là duyệt. Sách Sử Kí 史記 nói: Nêu rõ thứ bực gọi là phiệt, tích số ngày lại gọi là duyệt. Vì thế nên gọi các nhà thế gia là phiệt duyệt 閥閱 hay thế duyệt 世閱."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhân vật, gia đình hoặc nhóm, khối có thế lực, phiệt: 軍閥 Quân phiệt; 財閥 Tài phiệt. Xem 閱 nghĩa",
+                ";",
+                "(cơ) Van: 氣閥 Van hơi; 水閥 Van nước; 安全閥 Van an toàn;",
+                "(văn) Cửa bên trái, ngưỡng cửa;",
+                "(văn) Công lao."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ gia đình quyền quý. Td: Thế phiệt ( gia đình nhiều đời quyền quý ) Xem thêm Phiệt duyệt — Chỉ người có thế lực lớn lao. Td: Tài phiệt ( kẻ có thế lực tiền bạc )."
+            ],
+            "compound_words": {
+                "簿閥": "bạ phiệt",
+                "學閥": "học phiệt",
+                "閥閱": "phiệt duyệt",
+                "閥閲": "phiệt duyệt",
+                "官閥": "quan phiệt",
+                "軍閥": "quân phiệt",
+                "財閥": "tài phiệt",
+                "世閥": "thế phiệt"
+            }
+        }
+    }
+}

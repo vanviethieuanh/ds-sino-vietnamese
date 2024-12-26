@@ -1,0 +1,83 @@
+{
+    "character": "雹",
+    "details": {
+        "Âm Hán Việt": [
+            "bạc",
+            "bạo"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "vũ 雨 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱雨包"
+        ],
+        "Nét bút": [
+            "一丶フ丨丶丶丶丶ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "MBPRU (一月心口山)"
+        ],
+        "Unicode": [
+            "U+96F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "báo ㄅㄠˊ",
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bão"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)",
+            "ヒョク (hyoku)",
+            "ボク (boku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひょう (hyō)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bok6"
+        ]
+    },
+    "meanings": {
+        "bạc": {
+            "Từ điển trích dẫn": [
+                "(Danh) Mưa đá. ◇Tam quốc diễn nghĩa 三國演義: 'Hốt nhiên đại lôi đại vũ, gia dĩ băng bạc, lạc đáo bán dạ phương chỉ' 忽然大雷大雨, 加以冰雹, 落到半夜方止 (Đệ nhất hồi 第一回) Bỗng nhiên sấm lớn mưa to, lại thêm mưa đá, rơi đến nửa đêm mới ngừng.",
+                "(Động) Ném, đánh đập. § Thông 'phác' 撲."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mưa đá."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mưa đá."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mưa đá."
+            ],
+            "compound_words": {
+                "雹凸": "bạc đột",
+                "冰雹": "băng bạc"
+            }
+        },
+        "bạo": {
+            "Từ điển phổ thông": [
+                "mưa đá"
+            ]
+        }
+    }
+}

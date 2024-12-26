@@ -1,0 +1,90 @@
+{
+    "character": "婢",
+    "details": {
+        "Âm Hán Việt": [
+            "tì",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nữ 女 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女卑"
+        ],
+        "Nét bút": [
+            "フノ一ノ丨フ一一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "VHHJ (女竹竹十)"
+        ],
+        "Unicode": [
+            "U+5A62"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ti"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はしため (hashitame)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "pei5"
+        ]
+    },
+    "meanings": {
+        "tì": {
+            "Từ điển trích dẫn": [
+                "(Danh) Con đòi, đứa hầu gái. ◇Tam quốc diễn nghĩa 三國演義: 'Điêu Thiền cân Doãn đáo các trung, Doãn tận sất xuất tì thiếp' 貂蟬跟允到閣中, 允盡叱出婢妾 (Đệ bát hồi) Điêu Thuyền theo chân (Vương) Doãn đến nhà gác, Doãn la đuổi hết tì thiếp ra.",
+                "(Danh) Tiếng đàn bà xưa tự xưng nhún mình. ◎Như: 'tì tử' 婢子 nghĩa là kẻ hèn mọn này, Kinh Lễ và Tả Truyện dùng nhiều."
+            ],
+            "compound_words": {
+                "媵婢": "dựng tì",
+                "花婢": "hoa tì",
+                "奴婢": "nô tì",
+                "侍婢": "thị tì",
+                "婢膝": "tì tất",
+                "婢妾": "tì thiếp"
+            }
+        },
+        "tỳ": {
+            "Từ điển phổ thông": [
+                "đứa hầu gái"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con đòi.",
+                "Tiếng đàn bà xưa tự xưng nhún mình. Như tì tử 婢子 nghĩa là kẻ hèn mọn này, kinh lễ và tả truyện dùng nhiều."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Người tớ gái, con đòi: 婢女 Con đòi, con ở, con sen;",
+                "Tiếng đàn bà xưa tự xưng nhún mình. 【婢子】tì tử [bìzê] Kẻ hèn mọn này (tiếng người đàn bà tự xưng)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đứa đày tớ gái. Cũng gọi là Tì nữ: Người đàn bà con gái hèn hạ thấp kém."
+            ],
+            "compound_words": {
+                "奴婢": "nô tỳ",
+                "婢女": "tỳ nữ"
+            }
+        }
+    }
+}

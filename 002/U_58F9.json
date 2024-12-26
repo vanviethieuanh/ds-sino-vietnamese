@@ -1,0 +1,88 @@
+{
+    "character": "壹",
+    "details": {
+        "Âm Hán Việt": [
+            "nhất"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "sĩ 士 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿳士冖豆"
+        ],
+        "Nét bút": [
+            "一丨一丶フ一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "GBMT (土月一廿)"
+        ],
+        "Unicode": [
+            "U+58F9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yī ㄧ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "nhất",
+            "nhứt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イチ (ichi)",
+            "イツ (itsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひとつ (hitotsu)"
+        ],
+        "Âm Hàn": [
+            "일"
+        ],
+        "Âm Quảng Đông": [
+            "jat1",
+            "jik1"
+        ]
+    },
+    "meanings": {
+        "nhất": {
+            "Từ điển phổ thông": [
+                "chuyên nhất",
+                "hợp làm một",
+                "bế tắc",
+                "1, một (như: nhất 一, dùng để viết trong văn tự)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Một dạng của chữ “nhất” 一, chữ “nhất” kép."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chuyên nhất.",
+                "Một, cũng một nghĩa như chữ nhất 一, trong văn tự phải dùng chữ 壹 để cho khỏi chữa gian được.",
+                "Hợp, như thống nhất 統壹 họp cả làm một.",
+                "Bế tắc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một (chữ '一' viết kép);",
+                "Chuyên nhất, hợp nhất;",
+                "(văn) Bế tắc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lối viết trang trọng của chữ Nhất 一."
+            ],
+            "compound_words": {
+                "專壹": "chuyên nhất",
+                "單壹": "đơn nhất"
+            }
+        }
+    }
+}

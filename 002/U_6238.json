@@ -1,0 +1,67 @@
+{
+    "character": "戸",
+    "details": {
+        "Âm Hán Việt": [
+            "hộ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "hộ 戶 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一フ一ノ"
+        ],
+        "Thương Hiệt": [
+            "XMS (重一尸)"
+        ],
+        "Unicode": [
+            "U+6238"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hù ㄏㄨˋ"
+        ],
+        "Âm Nôm": [
+            "hộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と (to)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ]
+    },
+    "meanings": {
+        "hộ": {
+            "Từ điển phổ thông": [
+                "cửa một cánh",
+                "nhà"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hộ 户."
+            ],
+            "compound_words": {
+                "雁戸": "nhạn hộ",
+                "富戸": "phú hộ",
+                "債戸": "trái hộ",
+                "莊戸": "trang hộ",
+                "園戸": "viên hộ",
+                "奓戸": "xa hộ",
+                "煙戸": "yên hộ"
+            }
+        }
+    }
+}

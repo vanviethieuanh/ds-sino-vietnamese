@@ -1,0 +1,94 @@
+{
+    "character": "茶",
+    "details": {
+        "Âm Hán Việt": [
+            "trà"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thảo 艸 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿳艹人朩"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TOD (廿人木)"
+        ],
+        "Unicode": [
+            "U+8336"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chá ㄔㄚˊ"
+        ],
+        "Âm Nôm": [
+            "chè",
+            "sà",
+            "trà"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チャ (cha)",
+            "サ (sa)"
+        ],
+        "Âm Hàn": [
+            "다",
+            "차"
+        ],
+        "Âm Quảng Đông": [
+            "caa4"
+        ]
+    },
+    "meanings": {
+        "trà": {
+            "Từ điển phổ thông": [
+                "chè"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây trà (chè).",
+                "(Danh) Đồ uống làm bằng lá cây trà. ◎Như: 'ẩm trà' 飲茶 uống trà.",
+                "(Danh) Phiếm chỉ đồ để nấu uống được như trà. ◎Như: 'khổ qua trà' 苦瓜茶 trà mướp đắng, 'hạnh nhân trà' 杏仁茶 trà hạnh nhân.",
+                "(Danh) § Xem 'sơn trà' 山茶."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây chè (trà), lá dùng chế ra các thứ chè uống.",
+                "Sơn trà 山茶 một thứ cây lá thường xanh, hoa trắng, có thứ đỏ, dùng làm cảnh chơi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cây nước) chè, trà: 喝茶 Uống chè, uống trà; 沏茶 Pha chè; 奶茶 Chè sữa; 杏仁茶 Chè hạnh nhân;",
+                "Sơn trà: 茶花 Hoa trà, hoa sơn trà;",
+                "Cây dầu sở."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây trà ( chè ), lá dùng nấu nước uống — Cũng chỉ nước chè ( trà ).  Đoạn trường tân thanh : » Hương gây mùi nhớ trà khan giọng tình «."
+            ],
+            "compound_words": {
+                "焙茶": "bồi trà",
+                "吃茶": "cật trà",
+                "山茶": "sơn trà",
+                "茶杯": "trà bôi",
+                "茶具": "trà cụ",
+                "茶餘": "trà dư",
+                "茶壺": "trà hồ",
+                "茶眉": "trà mi",
+                "茶業": "trà nghiệp",
+                "茶館": "trà quán",
+                "茶室": "trà thất",
+                "茶匙": "trà thi",
+                "茶船": "trà thuyền"
+            }
+        }
+    }
+}

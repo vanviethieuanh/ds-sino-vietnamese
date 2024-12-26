@@ -1,0 +1,103 @@
+{
+    "character": "綜",
+    "details": {
+        "Âm Hán Việt": [
+            "tông",
+            "tống",
+            "tổng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mịch 糸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹宗"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丶丶フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "VFJMF (女火十一火)"
+        ],
+        "Unicode": [
+            "U+7D9C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zèng ㄗㄥˋ",
+            "zōng ㄗㄨㄥ",
+            "zòng ㄗㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おさ.める (osa.meru)",
+            "す.べる (su.beru)"
+        ],
+        "Âm Hàn": [
+            "종"
+        ],
+        "Âm Quảng Đông": [
+            "zung1",
+            "zung3"
+        ]
+    },
+    "meanings": {
+        "tông": {
+            "Từ điển trích dẫn": [
+                "(Danh) Go sợi (sợi dọc dệt với sợi ngang). ◎Như: 'thác tống phức tạp' 錯綜複雜 sai go rắc rối (ý nói sự tình lẫn lộn, lôi thôi).",
+                "(Động) Tổng hợp, tụ tập. ◇Dịch Kinh 易經: 'Tham ngũ dĩ biến, thác tống kì số' 參伍以變, 錯綜其數 (Hệ từ thượng 繫辭上) Số ba số năm biến đổi, tổng hợp các số.",
+                "(Động) Sửa trị, trị lí. ◇Hoàn Ôn 桓溫: 'Cổ dĩ cửu khanh tống sự, bất chuyên thượng thư' 古以九卿綜事, 不專尚書 (Thượng sơ trần tiện nghi thất sự 上疏陳便宜七事) Thời xưa lấy quan cửu khanh trị lí các việc, không chuyên quan thượng thư.",
+                "§ Ta quen đọc là 'tông'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðem dệt sợi nọ với sợi kia gọi là tống, vì thế sự gì lẫn lộn với nhau gọi là thác tống 錯綜.",
+                "Họp cả lại, như tống lí 綜理, cũng như 總理. Ta quen đọc là chữ tông."
+            ],
+            "compound_words": {
+                "該綜": "cai tông"
+            }
+        },
+        "tống": {
+            "Từ điển phổ thông": [
+                "dệt lẫn lộn với nhau",
+                "hợp cả lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Go sợi (sợi dọc dệt với sợi ngang). ◎Như: 'thác tống phức tạp' 錯綜複雜 sai go rắc rối (ý nói sự tình lẫn lộn, lôi thôi).",
+                "(Động) Tổng hợp, tụ tập. ◇Dịch Kinh 易經: 'Tham ngũ dĩ biến, thác tống kì số' 參伍以變, 錯綜其數 (Hệ từ thượng 繫辭上) Số ba số năm biến đổi, tổng hợp các số.",
+                "(Động) Sửa trị, trị lí. ◇Hoàn Ôn 桓溫: 'Cổ dĩ cửu khanh tống sự, bất chuyên thượng thư' 古以九卿綜事, 不專尚書 (Thượng sơ trần tiện nghi thất sự 上疏陳便宜七事) Thời xưa lấy quan cửu khanh trị lí các việc, không chuyên quan thượng thư.",
+                "§ Ta quen đọc là 'tông'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðem dệt sợi nọ với sợi kia gọi là tống, vì thế sự gì lẫn lộn với nhau gọi là thác tống 錯綜.",
+                "Họp cả lại, như tống lí 綜理, cũng như 總理. Ta quen đọc là chữ tông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gom các mối tơ mà so cho đều — Gom tụ lại."
+            ],
+            "compound_words": {
+                "綜合": "tống hợp"
+            }
+        },
+        "tổng": {
+            "Từ điển Trần Văn Chánh": [
+                "Tổng hợp, tóm lại: 綜合研究 Nghiên cứu tổng hợp; 綜上所述 Tóm lại những lời nói trên. Xem 綜 [zèng]."
+            ]
+        }
+    }
+}

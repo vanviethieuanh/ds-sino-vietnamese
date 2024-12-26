@@ -1,0 +1,102 @@
+{
+    "character": "鋟",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêm",
+            "tẩm",
+            "xâm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金⿳彐冖又"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一フ一一丶フフ丶"
+        ],
+        "Thương Hiệt": [
+            "CSME (金尸一水)"
+        ],
+        "Unicode": [
+            "U+92DF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jìn ㄐㄧㄣˋ",
+            "qiān ㄑㄧㄢ",
+            "qīn ㄑㄧㄣ",
+            "qín ㄑㄧㄣˊ",
+            "qǐn ㄑㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "tẩm",
+            "xăm",
+            "xâm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "チン (chin)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きざ.む (kiza.mu)"
+        ],
+        "Âm Hàn": [
+            "침"
+        ],
+        "Âm Quảng Đông": [
+            "cim1"
+        ]
+    },
+    "meanings": {
+        "tiêm": {
+            "Từ điển trích dẫn": [
+                "(Động) Khắc, điêu khắc. ◎Như: 'tẩm bản' 鋟板 khắc bản in.",
+                "Một âm là 'tiêm'. (Tính) Nhọn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khắc. Như tẩm bản 鋟板 khắc bản in.",
+                "Một âm là tiêm. Cái dùi.",
+                "Nhọn."
+            ]
+        },
+        "tẩm": {
+            "Từ điển phổ thông": [
+                "khắc, chạm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Khắc, điêu khắc. ◎Như: 'tẩm bản' 鋟板 khắc bản in.",
+                "Một âm là 'tiêm'. (Tính) Nhọn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khắc. Như tẩm bản 鋟板 khắc bản in.",
+                "Một âm là tiêm. Cái dùi.",
+                "Nhọn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Khắc: 鋟板 Bản khắc in;",
+                "Bản sách khắc."
+            ]
+        },
+        "xâm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mũi nhọn của kim khí — Dùng đầu nhọn kim khí mà khắc vào gỗ, đá."
+            ],
+            "compound_words": {
+                "鋟版": "xâm bản"
+            }
+        }
+    }
+}

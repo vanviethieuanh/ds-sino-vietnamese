@@ -1,0 +1,90 @@
+{
+    "character": "枷",
+    "details": {
+        "Âm Hán Việt": [
+            "gia",
+            "già",
+            "giá"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木加"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "DKSR (木大尸口)"
+        ],
+        "Unicode": [
+            "U+67B7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiā ㄐㄧㄚ"
+        ],
+        "Âm Nôm": [
+            "da",
+            "gia"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かせ (kase)",
+            "からざお (karazao)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa1"
+        ]
+    },
+    "meanings": {
+        "gia": {
+            "Từ điển phổ thông": [
+                "cái gông (để cùm đầu phạm nhân)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gông, cùm. ◇Thủy hử truyện 水滸傳: 'Lâm Xung tránh đích khởi lai, bị gia ngại liễu, khúc thân bất đắc' 林沖掙的起來, 被枷礙了, 曲身不得 (Đệ bát hồi) Lâm Xung cố gượng dậy, bị vướng cùm, cúi mình không được.",
+                "(Danh) Giá áo. § Thông 'giá' 架.",
+                "(Danh) 'Liên gia' 連枷 cái neo dùng để đập lúa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái gông, cái cùm, dùng để cùm đầu.",
+                "Liên gia 連枷 cái neo dùng để đập lúa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái gông bằng gỗ, đeo ở cổ tội nhân thời xưa. Cũng đọc Già — Một âm khác là Giá."
+            ]
+        },
+        "già": {
+            "Từ điển Trần Văn Chánh": [
+                "Cái gông;",
+                "Xem 連枷 [liánjia]."
+            ],
+            "compound_words": {
+                "木枷": "mộc già"
+            }
+        },
+        "giá": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Giá 架 — Một âm là Gia. Xem Gia."
+            ]
+        }
+    }
+}

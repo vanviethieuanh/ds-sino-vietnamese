@@ -1,0 +1,65 @@
+{
+    "character": "帲",
+    "details": {
+        "Âm Hán Việt": [
+            "bình"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cân 巾 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾幷"
+        ],
+        "Nét bút": [
+            "丨フ丨ノ一一ノノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "LBYJJ (中月卜十十)"
+        ],
+        "Unicode": [
+            "U+5E32"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "píng ㄆㄧㄥˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)",
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おお.う (ō.u)"
+        ],
+        "Âm Quảng Đông": [
+            "ping4"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển phổ thông": [
+                "phần che chung quanh của cái màn (xem: bình mông 帲幪,帡蒙)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Màn che. ◎Như: 'bình mông' 帲幪 màn dũng. § Màn che ở trên gọi là 'mông', che ở chung quanh gọi là 'bình'.",
+                "(Động) Che chở. ◎Như: 'hạnh liệt bình mông' 幸列帲幪 may được vào hàng che chở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái màn, bình mông 帲幪 màn dũng. Cái che ở trên gọi là mông, cái che ở chung quanh gọi là bình. Nói bóng là che chở, như hạnh liệt bình mông 幸列帲幪 may được vào hàng che chở."
+            ],
+            "compound_words": {
+                "帲幪": "bình mông"
+            }
+        }
+    }
+}

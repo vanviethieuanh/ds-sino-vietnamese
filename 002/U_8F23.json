@@ -1,0 +1,64 @@
+{
+    "character": "輣",
+    "details": {
+        "Âm Hán Việt": [
+            "bành"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "xa 車 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰車朋"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨ノフ一一ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "JJBB (十十月月)"
+        ],
+        "Unicode": [
+            "U+8F23"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "péng ㄆㄥˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)",
+            "ビョウ (byō)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いくさぐるま (ikusaguruma)"
+        ],
+        "Âm Quảng Đông": [
+            "paang4"
+        ]
+    },
+    "meanings": {
+        "bành": {
+            "Từ điển trích dẫn": [
+                "(Danh) Chiến xa, binh xa.",
+                "(Tượng thanh) ◎Như: 'bành yết' 輣軋 tiếng nước lớn mạnh."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem các từ 輣車, 輣軋."
+            ],
+            "compound_words": {
+                "輣車": "bành xa",
+                "輣軋": "bành yết"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "沫",
+    "details": {
+        "Âm Hán Việt": [
+            "mạt"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡末"
+        ],
+        "Nét bút": [
+            "丶丶一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EDJ (水木十)"
+        ],
+        "Unicode": [
+            "U+6CAB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mát",
+            "mướt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マツ (matsu)",
+            "バツ (batsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あわ (awa)",
+            "しぶき (shibuki)",
+            "つばき (tsubaki)"
+        ],
+        "Âm Hàn": [
+            "말"
+        ],
+        "Âm Quảng Đông": [
+            "mut3"
+        ]
+    },
+    "meanings": {
+        "mạt": {
+            "Từ điển phổ thông": [
+                "bọt nổi lên mặt nước",
+                "nước bọt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bọt (nổi lên trên mặt nước). ◎Như: 'phì tạo mạt' 肥皂沫 bọt xà phòng.",
+                "(Danh) Nước bọt. ◎Như: 'thóa mạt' 唾沫 nước bọt.",
+                "(Động) Ngừng, đình chỉ, chấm dứt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bọt nổi lên trên mặt nước.",
+                "Nước bọt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bọt nước;",
+                "Nước dãi, nước bọt: 唾沫 Nước dãi, nước bọt; 肥皂沫兒 Bọt xà bông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bọt nước — Nước bọt, nước miếng."
+            ],
+            "compound_words": {
+                "排沫": "bài mạt"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "錮",
+    "details": {
+        "Âm Hán Việt": [
+            "cố"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "kim 金 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金固"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一丨フ一丨丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "CWJR (金田十口)"
+        ],
+        "Unicode": [
+            "U+932E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gù ㄍㄨˋ"
+        ],
+        "Âm Nôm": [
+            "cố"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふさ.ぐ (fusa.gu)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gu3"
+        ]
+    },
+    "meanings": {
+        "cố": {
+            "Từ điển phổ thông": [
+                "hàn (gắn bằng kim loại)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hàn, bít. § Ngày xưa nung chảy đồng hoặc sắt bịt các lỗ hở. ◇Hán Thư 漢書: 'Tuy cố nam san do hữu khích' 雖錮南山猶有隙 (Sở Nguyên Vương Lưu Giao truyện 楚元王劉交傳) Tuy bít núi nam mà vẫn còn lỗ hổng.",
+                "(Động) Cấm chỉ.",
+                "(Động) Giam giữ, cầm tù. ◎Như: 'cấm cố' 禁錮 giam cấm.",
+                "(Động) Đóng kín. ◇Liêu trai chí dị 聊齋志異: 'Trạch hà cửu cố?' 宅何久錮 (Kiều Na 嬌娜) Nhà sao đóng cửa đã lâu?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hàn, dùng các thứ đồng, thứ sắt hàn bịt các lỗ các khiếu đều gọi là cố.",
+                "Cấm cố 禁錮 giam cấm, các triều thần có tội phải cấm chỉ sự tự do hành động, vĩnh viễn không được dùng nữa gọi là cấm cố, vì bè đảng mà bị tội gọi là đảng cố 黨錮.",
+                "Bền chắc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hàn lại (nấu đồng sắt để bịt lỗ hổng);",
+                "(văn) Giam, nhốt;",
+                "(văn) Bền chắc, kiên cố."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hàn lại — Lấp. Làm nghẹt tắt — Vững chắc."
+            ],
+            "compound_words": {
+                "禁錮": "cấm cố",
+                "廢錮": "phế cố"
+            }
+        }
+    }
+}

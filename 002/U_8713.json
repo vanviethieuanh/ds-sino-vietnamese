@@ -1,0 +1,75 @@
+{
+    "character": "蜓",
+    "details": {
+        "Âm Hán Việt": [
+            "đình"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫廷"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶ノ一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "LINKG (中戈弓大土)"
+        ],
+        "Unicode": [
+            "U+8713"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ",
+            "tíng ㄊㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "đình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)",
+            "テン (ten)",
+            "テイ (tei)",
+            "ジョウ (jō)"
+        ],
+        "Âm Quảng Đông": [
+            "ting4"
+        ]
+    },
+    "meanings": {
+        "đình": {
+            "Từ điển phổ thông": [
+                "(xem: tinh đình 蜻蜓)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “tinh đình” 蜻蜓."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tinh đình 蜻蜓. Xem chữ tinh 蜻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蜻蜓 [qingtíng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chuồn chuồn."
+            ],
+            "compound_words": {
+                "蜻蜓": "tinh đình",
+                "蜻蜓點水": "tinh đình điểm thuỷ",
+                "蝘蜓": "yển đình"
+            }
+        }
+    }
+}

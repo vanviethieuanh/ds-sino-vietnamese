@@ -1,0 +1,93 @@
+{
+    "character": "个",
+    "details": {
+        "Âm Hán Việt": [
+            "cá",
+            "cán"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "cổn 丨 (+2 nét)",
+            "nhân 人 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱人丨"
+        ],
+        "Nét bút": [
+            "ノ丶丨"
+        ],
+        "Thương Hiệt": [
+            "OL (人中)"
+        ],
+        "Unicode": [
+            "U+4E2A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gě ㄍㄜˇ",
+            "gè ㄍㄜˋ"
+        ],
+        "Âm Nôm": [
+            "cá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "コ (ko)"
+        ],
+        "Âm Hàn": [
+            "가",
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "go3"
+        ]
+    },
+    "meanings": {
+        "cá": {
+            "Từ điển phổ thông": [
+                "cái, quả, con"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của “cá” 個."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái, từng cái một gọi là cá, cùng một nghĩa với chữ cá 箇.",
+                "Cái nhà xép, hai bên tả hữu nhà Minh Ðường ngày xưa gọi là tả hữu cá 左右个."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tự mình. Xem 個 [gè]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem chữ Cá 個."
+            ],
+            "compound_words": {
+                "个别": "cá biệt",
+                "个人": "cá nhân",
+                "个性": "cá tính",
+                "个子": "cá tử",
+                "各个": "các cá",
+                "整个": "chỉnh cá",
+                "下个月": "hạ cá nguyệt",
+                "下个星期": "hạ cá tinh kỳ",
+                "几个": "kỷ cá",
+                "一个": "nhất cá",
+                "上个": "thượng cá"
+            }
+        },
+        "cán": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thời cổ dùng như chữ Cán 幹 — Một âm khác là Cá."
+            ]
+        }
+    }
+}

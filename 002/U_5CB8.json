@@ -1,0 +1,93 @@
+{
+    "character": "岸",
+    "details": {
+        "Âm Hán Việt": [
+            "ngạn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "sơn 山 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱山厈"
+        ],
+        "Nét bút": [
+            "丨フ丨一ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "UMMJ (山一一十)"
+        ],
+        "Unicode": [
+            "U+5CB8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "àn ㄚㄋˋ"
+        ],
+        "Âm Nôm": [
+            "ngan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガン (gan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きし (kishi)"
+        ],
+        "Âm Hàn": [
+            "안"
+        ],
+        "Âm Quảng Đông": [
+            "ngon6"
+        ]
+    },
+    "meanings": {
+        "ngạn": {
+            "Từ điển phổ thông": [
+                "bờ, biên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bờ. ◎Như: 'đê ngạn' 堤岸 bờ đê, 'đáo bỉ ngạn' 到彼岸 đến bờ bên kia (thuật ngữ Phật giáo: giác ngộ, giải thoát).",
+                "(Danh) § Xem 'ngạn ngục' 岸獄.",
+                "(Tính) Cao. ◇Hán Thư 漢書: 'Sung vi nhân khôi ngạn' 充為人魁岸 (Giang Sung truyện 江充傳) Sung là người khôi vĩ cao lớn.",
+                "(Tính) Cao ngạo, trang nghiêm. ◎Như: 'ngạn nhiên đạo mạo' 岸然道貌 trang trọng nghiêm túc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bờ, như đê ngạn 堤岸 bờ đê.",
+                "Tu đạo chứng chỗ cùng cực gọi là đạo ngạn 道岸 nghĩa là người hư nhờ có công tu học biết tới cõi hay, cũng như đắm đuối nhờ người cứu vớt vào tới bờ vậy. Trong kinh Phật nói tu chứng đến cõi chính giác là đáo bỉ ngạn 到彼岸, đăng giác ngạn 登覺岸 đều là cái nghĩa ấy cả.",
+                "Cao ngất, ngạn nhiên đạo mạo 岸然道貌 dáng đạo cao cả. Thể phách khỏe mạnh gọi là khôi ngạn 魁岸. Tính không cùng hoà với mọi vật gọi là nhai ngạn 崖岸 cũng cùng một ý cao cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bờ, bến: 河岸 Bờ sông; 船靠岸了 Tàu (thuyền) đã cặp bến; 人慾無涯，回頭是岸 Lòng muốn của con người vô cùng tận, chỉ lúc quay đầu lại mới thấy bến bờ;",
+                "Tự cao: 儌岸 Tự cao tự đại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bờ sông. Td: Tả ngạn, Hữa ngạn — Bờ đất cao — Để lộ ra, không che đậy gì — Để đầu trần."
+            ],
+            "compound_words": {
+                "彼岸": "bỉ ngạn",
+                "堤岸": "đê ngạn",
+                "覺岸": "giác ngạn",
+                "右岸": "hữu ngạn",
+                "岸獄": "ngạn ngục",
+                "岸然": "ngạn nhiên",
+                "岸上": "ngạn thượng",
+                "岸标": "ngạn tiêu",
+                "岸標": "ngạn tiêu",
+                "傲岸": "ngạo ngạn",
+                "崖岸": "nhai ngạn",
+                "涯岸": "nhai ngạn",
+                "左岸": "tả ngạn"
+            }
+        }
+    }
+}

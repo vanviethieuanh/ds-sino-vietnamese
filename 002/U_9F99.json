@@ -1,0 +1,77 @@
+{
+    "character": "龙",
+    "details": {
+        "Âm Hán Việt": [
+            "long",
+            "lũng",
+            "sủng"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "long 龍 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "IKP (戈大心)"
+        ],
+        "Unicode": [
+            "U+9F99"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lóng ㄌㄨㄥˊ",
+            "lǒng ㄌㄨㄥˇ",
+            "máng ㄇㄤˊ"
+        ],
+        "Âm Nôm": [
+            "long"
+        ],
+        "Âm Quảng Đông": [
+            "lung4"
+        ]
+    },
+    "meanings": {
+        "long": {
+            "Từ điển phổ thông": [
+                "con rồng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 龍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 龍"
+            ],
+            "compound_words": {
+                "虬龙": "cầu long",
+                "恐龙": "khủng long",
+                "龙编": "long biên",
+                "龙头老大": "long đầu lão đại",
+                "龙飞凤舞": "long phi phượng vũ",
+                "尼龙": "ni long",
+                "升龙": "thăng long"
+            }
+        },
+        "lũng": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lũng đoạn (dùng như 壟, bộ 土)."
+            ]
+        },
+        "sủng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 龍."
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "character": "簽",
+    "details": {
+        "Âm Hán Việt": [
+            "thiêm"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "trúc 竹 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮僉"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "HOMO (竹人一人)"
+        ],
+        "Unicode": [
+            "U+7C3D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "kiểm",
+            "thiêm",
+            "tiêm",
+            "xâm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かご (kago)"
+        ],
+        "Âm Hàn": [
+            "첨"
+        ],
+        "Âm Quảng Đông": [
+            "cim1"
+        ]
+    },
+    "meanings": {
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "viết chữ lên thẻ tre làm dấu hiệu",
+                "đề tên, ký tên"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trích, rút ra (điểm quan trọng, ý kiến...).",
+                "(Động) Đề tên, kí tên. ◎Như: 'thiêm danh' 簽名 đề tên, kí tên.",
+                "(Động) Ra lệnh gọi, trưng tập. ◇Nguyên sử 元史: 'Bính Dần, thiêm Từ, Bi nhị châu đinh tráng vạn nhân, thú Bi Châu' 丙寅, 簽徐邳二州丁壯萬人, 戍邳州 (Thế Tổ kỉ tứ 世祖紀四).",
+                "(Động) Đâm vào, cắm vào. ◇Vô danh thị 無名氏: 'Ngã tầm liễu ta loạn đầu phát chiết châm nhi, phóng tại giá chưng bính lí diện. Hữu na cẩu khiếu, đâu dữ tha chưng bính cật, thiêm liễu tha khẩu khiếu bất đích' 我尋了些亂頭髮折針兒, 放在這蒸餅裏面. 有那狗叫, 丟與他蒸餅吃, 簽了他口叫不的 (Oan gia trái chủ 冤家債主, Tiết tử).",
+                "(Động) Châm chích, phúng thích.",
+                "(Động) Khơi, dẫn (sông ngòi).",
+                "(Danh) Món ăn chiên, rán. ◇Mạnh Nguyên Lão 孟元老: 'Nhập lô tế hạng liên hoa áp thiêm (...) dương đầu thiêm, nga áp thiêm, kê thiêm' 入爐細項蓮花鴨簽(...)羊頭簽, 鵝鴨簽, 雞簽 (Đông Kinh mộng hoa lục 東京夢華錄, Ẩm thực quả tử 飲食果子).",
+                "(Danh) Que ghim, cây xuyên.",
+                "(Danh) Lượng từ: xâu. ◇Vô danh thị 無名氏: 'Đại nhân, nhất thiêm nhi thiêu nhục, thỉnh đại nhân thực dụng' 大人, 一簽兒燒肉, 請大人食用 (Hóa lang đán 貨郎旦, Đệ tứ chiệp).",
+                "(Danh) Thẻ làm dấu. § Thông 'thiêm' 籤."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cùng nghĩa với chữ thiêm 籤, nghĩa là viết chữ lên cái thẻ tre làm dấu hiệu.",
+                "Ðề tên, kí tên, như thiêm danh 簽名 đề tên, kí tên vào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kí, kí kết: 草簽 Kí tắt; 簽訂協定 Kí hiệp định;",
+                "Ghi: 簽注意見 Ghi ý kiến;",
+                "Mẩu giấy đánh dấu, nhãn: 標簽兒 Nhãn, nhãn hiệu; 書簽兒 Mẩu giấy đánh dấu trang sách. Cv. 簽兒;",
+                "Lá thăm (để rút số), lá xăm (để xin xăm, đoán cát hung): 抽簽 Rút thăm;",
+                "Que con, tăm: 牙簽兒 Cây tăm; 竹簽兒 Cây thăm. Cv. 簽子 hay 簽兒."
+            ],
+            "compound_words": {
+                "圖簽": "đồ thiêm",
+                "斜簽": "tà thiêm"
+            }
+        }
+    }
+}

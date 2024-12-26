@@ -1,0 +1,91 @@
+{
+    "character": "祈",
+    "details": {
+        "Âm Hán Việt": [
+            "kì",
+            "kỳ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "kỳ 示 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺭斤"
+        ],
+        "Nét bút": [
+            "丶フ丨丶ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "IFHML (戈火竹一中)"
+        ],
+        "Unicode": [
+            "U+7948"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guǐ ㄍㄨㄟˇ",
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いの.る (ino.ru)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "kei4"
+        ]
+    },
+    "meanings": {
+        "kì": {
+            "Từ điển trích dẫn": [
+                "(Động) Cầu cúng, cầu phúc. ◎Như: 'kì phúc' 祈福 cầu phúc.",
+                "(Động) Thỉnh cầu. ◎Như: 'kì cầu' 祈求 thỉnh cầu.",
+                "(Động) Báo đền.",
+                "(Danh) § Thông 'kì' 圻.",
+                "(Danh) § Thông 'kì' 畿.",
+                "(Danh) Họ 'Kì'."
+            ],
+            "compound_words": {
+                "祈望": "kì vọng",
+                "祈雨": "kì vũ",
+                "伏祈": "phục kì",
+                "所祈": "sở kì"
+            }
+        },
+        "kỳ": {
+            "Từ điển phổ thông": [
+                "cầu phúc, cầu cúng",
+                "báo đền"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cầu cúng, cầu phúc. Như kì phúc 祈福 cầu phúc.",
+                "Báo đền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khẩn, cầu cúng, cầu phúc, cầu nguyện;",
+                "Xin, mong: 敬祈照准 Kính xin duyệt y cho;",
+                "(văn) Báo đền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm lễ tế thần để cầu điều tốt lành — Mong mỏi — Báo đáp lại."
+            ]
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "韋",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "vi 韋 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "フ丨一丨フ一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "DMRQ (木一口手)"
+        ],
+        "Unicode": [
+            "U+97CB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "huí ㄏㄨㄟˊ",
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そむ.く (somu.ku)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai4",
+            "wai5"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Da thuộc (da thú mềm đã bỏ hết lông). ◇Khuất Nguyên 屈原: 'Tương đột thê hoạt kê, như chi như vi, dĩ khiết doanh hồ?' 將突梯滑稽, 如脂如韋, 以潔楹乎 (Sở từ 楚辭, Bốc cư 卜居) Hay nên mềm mỏng trơn tru (tùy thuận theo thói tục), như mỡ như da, để được như cái cột tròn láng?",
+                "(Danh) Họ 'Vi'.",
+                "(Động) Trái. § Thông 'vi' 違."
+            ],
+            "compound_words": {
+                "韋布": "vi bố",
+                "韋弦": "vi huyền"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "da đã thuộc"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Da đã thuộc mềm nhũn.",
+                "Trái, cùng nghĩa với chữ vi 違."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Da thuộc;",
+                "(văn) Trái (dùng như 違, bộ 辶);",
+                "[Wéi] (Họ) Vi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Da thú đã thuộc rồi — Dùng như chữ Vi 圍, và Vi 違 — Tên một bộ chữ Hán, tức bộ Vi."
+            ]
+        }
+    }
+}

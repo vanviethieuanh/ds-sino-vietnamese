@@ -1,0 +1,54 @@
+{
+    "character": "蒕",
+    "details": {
+        "Âm Hán Việt": [
+            "uân"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Hình thái": [
+            "⿱艹𥁕"
+        ],
+        "Nét bút": [
+            "一丨丨丨フノ丶一丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "TWOT (廿田人廿)"
+        ],
+        "Unicode": [
+            "U+8495"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yūn ㄩㄣ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ウン (un)"
+        ]
+    },
+    "meanings": {
+        "uân": {
+            "Từ điển phổ thông": [
+                "(xem: thiên niên uân 千年蒕,千年蒀)",
+                "(xem: phần uân 葐蒕,葐蒀)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) 【千年蒕】thiên niên uân [qian nián yun] (thực) Vạn niên thanh;",
+                "【葐蒕】phần uân [fényun] Dày đặc, nhiều. Xem 葐."
+            ],
+            "compound_words": {
+                "葐蒕": "phần uân",
+                "千年蒕": "thiên niên uân"
+            }
+        }
+    }
+}

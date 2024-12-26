@@ -1,0 +1,65 @@
+{
+    "character": "帩",
+    "details": {
+        "Âm Hán Việt": [
+            "tiêu",
+            "tiếu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "cân 巾 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾肖"
+        ],
+        "Nét bút": [
+            "丨フ丨丨丶ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "LBFB (中月火月)"
+        ],
+        "Unicode": [
+            "U+5E29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "qiào ㄑㄧㄠˋ"
+        ],
+        "Âm Quảng Đông": [
+            "ciu3"
+        ]
+    },
+    "meanings": {
+        "tiêu": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Quấn lại. Bó lại."
+            ],
+            "compound_words": {
+                "帩頭": "tiêu đầu"
+            }
+        },
+        "tiếu": {
+            "Từ điển phổ thông": [
+                "khăn buộc tóc của đàn ông thời xưa",
+                "buộc, trói, cột"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khăn buộc tóc (của đàn ông thời xưa). Cg. 帩頭;",
+                "Buộc, cột."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buộc lại. Cột lại. Td: Tiếu đầu ( cột tóc ) — Khăn cột tóc."
+            ]
+        }
+    }
+}

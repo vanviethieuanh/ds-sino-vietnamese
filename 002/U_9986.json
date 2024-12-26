@@ -1,0 +1,66 @@
+{
+    "character": "馆",
+    "details": {
+        "Âm Hán Việt": [
+            "quán"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thực 食 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰饣官"
+        ],
+        "Nét bút": [
+            "ノフフ丶丶フ丨フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "NVJRR (弓女十口口)"
+        ],
+        "Unicode": [
+            "U+9986"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "guǎn ㄍㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "quán"
+        ],
+        "Âm Quảng Đông": [
+            "gun2"
+        ]
+    },
+    "meanings": {
+        "quán": {
+            "Từ điển phổ thông": [
+                "nhà, nơi ở, quán trọ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 館."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 館"
+            ],
+            "compound_words": {
+                "博物馆": "bác vật quán",
+                "报馆": "báo quán",
+                "图书馆": "đồ thư quán",
+                "旅馆": "lữ quán",
+                "饭馆": "phạn quán",
+                "使馆": "sứ quán",
+                "宾馆": "tân quán"
+            }
+        }
+    }
+}

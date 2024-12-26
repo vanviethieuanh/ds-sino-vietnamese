@@ -1,0 +1,99 @@
+{
+    "character": "墟",
+    "details": {
+        "Âm Hán Việt": [
+            "hư",
+            "khư"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thổ 土 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土虚"
+        ],
+        "Nét bút": [
+            "一丨一丨一フノ一フ丨丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "GYPM (土卜心一)"
+        ],
+        "Unicode": [
+            "U+589F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "xū ㄒㄩ"
+        ],
+        "Âm Nôm": [
+            "hư",
+            "khư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョ (kyo)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あと (ato)"
+        ],
+        "Âm Hàn": [
+            "허"
+        ],
+        "Âm Quảng Đông": [
+            "heoi1"
+        ]
+    },
+    "meanings": {
+        "hư": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái gò đất — Chợ họp bất thường, tạm thời — Huỷ diệt đi."
+            ],
+            "compound_words": {
+                "墟落": "khư lạc",
+                "墟里": "khư lí",
+                "墟墓": "khư mộ"
+            }
+        },
+        "khư": {
+            "Từ điển phổ thông": [
+                "cái gò lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gò đất lớn.",
+                "(Danh) Thành hoang phế, xóm làng bỏ hoang. ◇Nguyễn Du 阮攸: 'Tây Hồ hoa uyển tẫn thành khư' 西湖花苑盡成墟 (Độc Tiểu Thanh kí 讀小青記) Vườn hoa ở Tây Hồ đã thành đất hoang hết.",
+                "(Danh) Phiếm chỉ thôn xóm. ◇Vương Duy 王維: 'Tà quang chiếu khư lạc, Cùng hạng ngưu dương quy' 斜光照墟落, 窮巷牛羊歸 (Vị Xuyên điền gia 渭川田家) Nắng tà soi thôn xóm, Cuối ngõ bò dê về.",
+                "(Danh) Chợ họp định kì ở thôn làng, chợ phiên. ◎Như: 'ngưu khư' 牛墟 chợ bò, 'cản khư' 趕墟 đi họp chợ.",
+                "(Động) Hủy diệt, tiêu diệt. ◇Sử Kí 史記: 'Vương bất thính gián, hậu tam niên Ngô kì khư hồ!' 王不聽諫, 後三年吳其墟乎 (Việt Vương Câu Tiễn thế gia 越王句踐世家) Nếu nhà vua không nghe lời can, thì sau ba năm nước Ngô sẽ bị hủy diệt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái gò lớn, cũng có khi gọi nấm mả khư mộ 墟墓.",
+                "Thành cũ. Trước có vật gì đã xây đắp mà nay phá phẳng đi gọi là khư.",
+                "Chỗ buôn bán sầm uất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gò đất lớn;",
+                "Chốn hoang tàn, thành cũ: 廢墟 Đống gạch vụn, chốn hoang tàn;",
+                "(văn) Thành chốn hoang tàn;",
+                "(văn) Thôn trang, thôn ấp, xóm làng;",
+                "(đph) Chỗ buôn bán sầm uất, chợ: 趕墟 Đi họp chợ. Như 圩 [xu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái gò đất lớn. Như chữ Khư 虛— Nơi họp chợ — Chỗ đất hoang, không người ở — Nơi đang sống."
+            ],
+            "compound_words": {
+                "墟落": "khư lạc",
+                "墟里": "khư lí",
+                "墟墓": "khư mộ"
+            }
+        }
+    }
+}

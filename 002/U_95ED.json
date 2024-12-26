@@ -1,0 +1,67 @@
+{
+    "character": "闭",
+    "details": {
+        "Âm Hán Việt": [
+            "bế"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "môn 門 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵门才"
+        ],
+        "Nét bút": [
+            "丶丨フ一丨ノ"
+        ],
+        "Thương Hiệt": [
+            "LSDH (中尸木竹)"
+        ],
+        "Unicode": [
+            "U+95ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "bế"
+        ],
+        "Âm Quảng Đông": [
+            "bai3"
+        ]
+    },
+    "meanings": {
+        "bế": {
+            "Từ điển phổ thông": [
+                "đóng, khép (cửa)",
+                "nhắm (mắt)",
+                "ngậm",
+                "bế tắc, bí",
+                "che, đậy"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 閉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 閉"
+            ],
+            "compound_words": {
+                "闭幂": "bế mạc",
+                "闭塞": "bế tắc",
+                "倒闭": "đảo bế",
+                "癃闭": "lung bế"
+            }
+        }
+    }
+}

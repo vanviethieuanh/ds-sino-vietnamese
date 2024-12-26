@@ -1,0 +1,90 @@
+{
+    "character": "蜀",
+    "details": {
+        "Âm Hán Việt": [
+            "thục"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trùng 虫 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "WLPLI (田中心中戈)"
+        ],
+        "Unicode": [
+            "U+8700"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shǔ ㄕㄨˇ"
+        ],
+        "Âm Nôm": [
+            "thục",
+            "xọc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショク (shoku)",
+            "ゾク (zoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いもむし (imomushi)"
+        ],
+        "Âm Hàn": [
+            "촉"
+        ],
+        "Âm Quảng Đông": [
+            "suk6"
+        ]
+    },
+    "meanings": {
+        "thục": {
+            "Từ điển phổ thông": [
+                "con ngài",
+                "đất Thục, nước Thục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sâu bướm, con ngài (ấu trùng của bướm).",
+                "(Danh) Đất 'Thục' 蜀, nước 'Thục' 蜀 (221-264), thuộc tỉnh 'Tứ Xuyên' 四川 bây giờ.",
+                "(Danh) Tên gọi tắt của tỉnh Tứ Xuyên.",
+                "(Tính) Cô độc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lúc con ngài, con bướm con như con sâu nhỏ gọi là thục.",
+                "Đất Thục 蜀, nước Thục 蜀 (221-264), thuộc tỉnh Tứ Xuyên 四川 bây giờ.",
+                "Cô độc.",
+                "Đồ thờ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ấu trùng của con bướm;",
+                "(văn) Cô độc;",
+                "(văn) Đồ thờ;",
+                "[Shư] Nước Thục (thời xưa ở Trung Quốc);",
+                "[Shư] Tỉnh Tứ Xuyên (Trung Quốc) (gọi tắt)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ấu trùng của loài bướm — Tên nước thời Tam quốc — Tên đất, tức tỉnh Tứ Xuyên.  Văn tế trận vong tướng sĩ  của Nguyễn Văn Thành: » Đất Lũng Thục lăn vào nơi hiểm cố «."
+            ],
+            "compound_words": {
+                "巴蜀": "ba thục",
+                "抱蜀": "bão thục",
+                "得隴望蜀": "đắc lũng vọng thục",
+                "幸蜀歌": "hạnh thục ca",
+                "既得隴，復望蜀": "kí đắc lũng, phục vọng thục",
+                "隴蜀": "lũng thục"
+            }
+        }
+    }
+}

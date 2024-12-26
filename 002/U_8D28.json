@@ -1,0 +1,86 @@
+{
+    "character": "质",
+    "details": {
+        "Âm Hán Việt": [
+            "chí",
+            "chất"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "hán 厂 (+4 nét)",
+            "bối 貝 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸𠂆⿱十贝"
+        ],
+        "Nét bút": [
+            "ノノ一丨丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HJBO (竹十月人)"
+        ],
+        "Unicode": [
+            "U+8D28"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhí ㄓˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chất"
+        ],
+        "Âm Quảng Đông": [
+            "zat1"
+        ]
+    },
+    "meanings": {
+        "chí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 質."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 質"
+            ]
+        },
+        "chất": {
+            "Từ điển phổ thông": [
+                "thể chất (rắn, lỏng, khí)",
+                "tư chất",
+                "chất phác, mộc mạc",
+                "hỏi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 質."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 質"
+            ],
+            "compound_words": {
+                "本质": "bản chất",
+                "变质": "biến chất",
+                "质点": "chất điểm",
+                "质疑": "chất nghi",
+                "同质": "đồng chất",
+                "介质": "giới chất",
+                "气质": "khí chất",
+                "流质": "lưu chất",
+                "原质": "nguyên chất",
+                "品质": "phẩm chất",
+                "实质": "thực chất",
+                "性质": "tính chất",
+                "私质": "tư chất"
+            }
+        }
+    }
+}

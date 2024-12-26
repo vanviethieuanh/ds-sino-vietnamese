@@ -1,0 +1,101 @@
+{
+    "character": "悄",
+    "details": {
+        "Âm Hán Việt": [
+            "thiểu",
+            "tiễu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "tâm 心 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖肖"
+        ],
+        "Nét bút": [
+            "丶丶丨丨丶ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "PFB (心火月)"
+        ],
+        "Unicode": [
+            "U+6084"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiāo ㄑㄧㄠ",
+            "qiǎo ㄑㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "tẹo",
+            "tiêu",
+            "tịu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うれ.える (ure.eru)"
+        ],
+        "Âm Hàn": [
+            "초"
+        ],
+        "Âm Quảng Đông": [
+            "ciu2",
+            "ciu5"
+        ]
+    },
+    "meanings": {
+        "thiểu": {
+            "Từ điển trích dẫn": [
+                "(Phó) Lo buồn. ◇Bạch Cư Dị 白居易: 'Tịch điện huỳnh phi tứ tiễu nhiên' 夕殿螢飛思悄然 (Trường hận ca 長恨歌) Đom đóm bay quanh điện chiều, ý buồn man mác. Tản Đà dịch thơ: Đom đóm bay gợi mối u sầu.",
+                "(Phó) Lặng yên, lặng lẽ. ◎Như: 'tiễu nhiên nhi khứ' 悄然而去 lặng lẽ mà đi. ◇Bạch Cư Dị 白居易: 'Đông chu tây phảng tiễu vô ngôn, Duy kiến giang tâm thu nguyệt bạch' 東舟西舫悄無言, 唯見江心秋月白 (Tì bà hành 琵琶行) Những con thuyền bên đông bên tây lặng lẽ không nói, Chỉ thấy giữa lòng sông trăng thu trắng xóa.",
+                "§ Cũng đọc là 'thiểu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lo.",
+                "Lặng yên, như tiễu nhiên nhi khứ 悄然而去 lặng yên mà đi. Cũng đọc là chữ thiểu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sẽ, khẽ: 靜悄悄 Im phăng phắc, lặng như tờ, lặng ngắt. Xem 悄 [qiăo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lo nghĩ."
+            ],
+            "compound_words": {
+                "悄惱": "thiểu não"
+            }
+        },
+        "tiễu": {
+            "Từ điển phổ thông": [
+                "lén lút"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) Lo buồn. ◇Bạch Cư Dị 白居易: 'Tịch điện huỳnh phi tứ tiễu nhiên' 夕殿螢飛思悄然 (Trường hận ca 長恨歌) Đom đóm bay quanh điện chiều, ý buồn man mác. Tản Đà dịch thơ: Đom đóm bay gợi mối u sầu.",
+                "(Phó) Lặng yên, lặng lẽ. ◎Như: 'tiễu nhiên nhi khứ' 悄然而去 lặng lẽ mà đi. ◇Bạch Cư Dị 白居易: 'Đông chu tây phảng tiễu vô ngôn, Duy kiến giang tâm thu nguyệt bạch' 東舟西舫悄無言, 唯見江心秋月白 (Tì bà hành 琵琶行) Những con thuyền bên đông bên tây lặng lẽ không nói, Chỉ thấy giữa lòng sông trăng thu trắng xóa.",
+                "§ Cũng đọc là 'thiểu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lo.",
+                "Lặng yên, như tiễu nhiên nhi khứ 悄然而去 lặng yên mà đi. Cũng đọc là chữ thiểu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sẽ, khẽ: 靜悄悄 Im phăng phắc, lặng như tờ, lặng ngắt. Xem 悄 [qiăo]."
+            ],
+            "compound_words": {
+                "悄然": "tiễu nhiên",
+                "悄悄": "tiễu tiễu"
+            }
+        }
+    }
+}

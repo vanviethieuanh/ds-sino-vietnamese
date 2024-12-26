@@ -1,0 +1,77 @@
+{
+    "character": "媕",
+    "details": {
+        "Âm Hán Việt": [
+            "am",
+            "an",
+            "yểm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nữ 女 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女弇"
+        ],
+        "Nét bút": [
+            "フノ一ノ丶一丨フ一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "VOMT (女人一廿)"
+        ],
+        "Unicode": [
+            "U+5A95"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ān ㄚㄋ"
+        ],
+        "Âm Hàn": [
+            "암"
+        ],
+        "Âm Quảng Đông": [
+            "am1",
+            "om1"
+        ]
+    },
+    "meanings": {
+        "am": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Am a 媕娿 — Một âm là Yểm."
+            ],
+            "compound_words": {
+                "媕娿": "am a"
+            }
+        },
+        "an": {
+            "Từ điển phổ thông": [
+                "(xem: an a 媕婀)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【媕娿】an a [ane] (văn) Do dự, trù trừ bất quyết;",
+                "Đưa đón."
+            ],
+            "compound_words": {
+                "媕婀": "an a"
+            }
+        },
+        "yểm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Yểm yểm 媕媕 — Một âm khác là Am. Xem Am."
+            ],
+            "compound_words": {
+                "媕媕": "yểm yểm"
+            }
+        }
+    }
+}

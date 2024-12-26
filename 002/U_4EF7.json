@@ -1,0 +1,104 @@
+{
+    "character": "价",
+    "details": {
+        "Âm Hán Việt": [
+            "giá",
+            "giới"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻介"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶ノ丨"
+        ],
+        "Thương Hiệt": [
+            "OOLL (人人中中)"
+        ],
+        "Unicode": [
+            "U+4EF7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jià ㄐㄧㄚˋ",
+            "jiē ㄐㄧㄝ",
+            "jiè ㄐㄧㄝˋ",
+            "jie"
+        ],
+        "Âm Nôm": [
+            "giá"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Hàn": [
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "gaai3"
+        ]
+    },
+    "meanings": {
+        "giá": {
+            "Từ điển phổ thông": [
+                "giá trị, giá cả"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Thiện, tốt. ◇Thi Kinh 詩經: 'Giới nhân duy phiên, Đại sư duy viên' 价人惟藩, 大師維垣 (Đại nhã 大雅, Bản 板) Người tốt là rào chắn, Dân đông đảo là bức tường.",
+                "(Động) Giới thiệu.",
+                "(Danh) Ngày xưa gọi tôi tớ, người để sai bảo là 'giới' 价.",
+                "§ Giản thể của chữ 'giá' 價."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Đặt sau phó từ phủ định để nhấn mạnh: 不價 Không được;",
+                "Đặt sau một số phó từ: 成天價忙 Bận suốt ngày; 震天價響 Tiếng nổ vang trời. Xem 價 [jià]."
+            ],
+            "compound_words": {
+                "报价": "báo giá",
+                "代价": "đại giá",
+                "定价": "định giá",
+                "价格": "giá cách",
+                "价款": "giá khoản",
+                "价钱": "giá tiền",
+                "价値": "giá trị",
+                "廉价": "liêm giá",
+                "售价": "thụ giá",
+                "比价": "tỷ giá"
+            }
+        },
+        "giới": {
+            "Từ điển trích dẫn": [
+                "(Tính) Thiện, tốt. ◇Thi Kinh 詩經: 'Giới nhân duy phiên, Đại sư duy viên' 价人惟藩, 大師維垣 (Đại nhã 大雅, Bản 板) Người tốt là rào chắn, Dân đông đảo là bức tường.",
+                "(Động) Giới thiệu.",
+                "(Danh) Ngày xưa gọi tôi tớ, người để sai bảo là 'giới' 价.",
+                "§ Giản thể của chữ 'giá' 價."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thiện, lớn.",
+                "Cùng nghĩa với chữ giới 介."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 價;",
+                "(văn) Thiện, lớn;",
+                "(văn) Như 介;",
+                "(văn) Người được sai đi để đưa đồ vật hoặc truyền đạt điều gì."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tốt đẹp — Người hầu, đầy tớ — Quen mượn dùng làm chữ 價."
+            ]
+        }
+    }
+}

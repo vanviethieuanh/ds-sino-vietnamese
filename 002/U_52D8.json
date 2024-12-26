@@ -1,0 +1,87 @@
+{
+    "character": "勘",
+    "details": {
+        "Âm Hán Việt": [
+            "khám"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "lực 力 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰甚力"
+        ],
+        "Nét bút": [
+            "一丨丨一一一ノ丶フフノ"
+        ],
+        "Thương Hiệt": [
+            "TVKS (廿女大尸)"
+        ],
+        "Unicode": [
+            "U+52D8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kān ㄎㄢ",
+            "kàn ㄎㄢˋ"
+        ],
+        "Âm Nôm": [
+            "khám",
+            "khóm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "ham1",
+            "ham3"
+        ]
+    },
+    "meanings": {
+        "khám": {
+            "Từ điển phổ thông": [
+                "so sánh",
+                "tra hỏi phạm nhân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) So sánh, duyệt lại, sửa chữa. ◎Như: 'hiệu khám' 校勘 sửa sai, đính chính, 'khám ngộ' 勘誤 hiệu đính.",
+                "(Động) Tra hỏi, thẩm vấn. ◎Như: 'thẩm khám' 審勘 tra hỏi tường tận.",
+                "(Động) Xem xét, khảo hạch. ◎Như: 'khám nghiệm' 勘驗 xem xét, 'khám trắc địa hình' 勘測地形 khảo sát hình thế đất."
+            ],
+            "Từ điển Thiều Chửu": [
+                "So sánh, định lại, như xét lại văn tự để sửa chỗ nhầm gọi là hiệu khám 校勘.",
+                "Tra hỏi tù tội. Như thẩm khám 審勘 xét lại cho tường tình tự trong án."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "So sánh (để sửa lại cho đúng), đối chiếu, duyệt, sửa chữa: 校勘 Duyệt, soát, rà lại, dò lại;",
+                "Tra xét, tra hỏi, xem xét: 實地勘柦 Xem xét điều tra tại chỗ (tại hiện trường)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem xét — Chỗ nhốt tù nhân."
+            ],
+            "compound_words": {
+                "勘驗": "khám nghiệm",
+                "勘誤": "khám ngộ",
+                "勘误": "khám ngộ",
+                "勘破": "khám phá",
+                "勘察": "khám sát",
+                "勘探": "khám thám",
+                "勘测": "khám trắc",
+                "勘測": "khám trắc"
+            }
+        }
+    }
+}

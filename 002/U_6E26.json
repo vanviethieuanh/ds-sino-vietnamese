@@ -1,0 +1,98 @@
+{
+    "character": "渦",
+    "details": {
+        "Âm Hán Việt": [
+            "oa",
+            "qua"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡咼"
+        ],
+        "Nét bút": [
+            "丶丶一丨フフ丨フ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "EBBR (水月月口)"
+        ],
+        "Unicode": [
+            "U+6E26"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "guō ㄍㄨㄛ",
+            "wō ㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "oa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うず (uzu)"
+        ],
+        "Âm Hàn": [
+            "와"
+        ],
+        "Âm Quảng Đông": [
+            "gwo1",
+            "wo1"
+        ]
+    },
+    "meanings": {
+        "oa": {
+            "Từ điển phổ thông": [
+                "nước xoáy"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sông 'Qua' 渦, ở tỉnh Hà Nam.",
+                "Một âm là 'oa'. (Danh) Nước xoáy.",
+                "(Danh) Chỗ lũm xuống như xoáy. ◎Như: 'tửu oa' 酒渦 lũm đồng tiền (chỗ xoáy trên má khi cười, nói)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông Qua.",
+                "Một âm là oa. Nước xoáy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỗ nước xoáy: 漩渦 Xoáy nước. Xem 渦 [guo]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ nước chảy xoáy tròn — Cái lũm đồng tiền ở má — Một âm là Qua. Xem Qua."
+            ],
+            "compound_words": {
+                "旋渦": "toàn oa"
+            }
+        },
+        "qua": {
+            "Từ điển phổ thông": [
+                "sông Qua (ở tỉnh An Huy của Trung Quốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sông 'Qua' 渦, ở tỉnh Hà Nam.",
+                "Một âm là 'oa'. (Danh) Nước xoáy.",
+                "(Danh) Chỗ lũm xuống như xoáy. ◎Như: 'tửu oa' 酒渦 lũm đồng tiền (chỗ xoáy trên má khi cười, nói)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sông Qua.",
+                "Một âm là oa. Nước xoáy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên sông, tức Qua hà, thuộc tỉnh An huy — Một âm là Oa. Xem Oa."
+            ]
+        }
+    }
+}

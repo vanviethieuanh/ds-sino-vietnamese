@@ -1,0 +1,100 @@
+{
+    "character": "报",
+    "details": {
+        "Âm Hán Việt": [
+            "báo"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘𠬝"
+        ],
+        "Nét bút": [
+            "一丨一フ丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "QSLE (手尸中水)"
+        ],
+        "Unicode": [
+            "U+62A5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bào ㄅㄠˋ"
+        ],
+        "Âm Nôm": [
+            "báo"
+        ],
+        "Âm Quảng Đông": [
+            "bou3"
+        ]
+    },
+    "meanings": {
+        "báo": {
+            "Từ điển phổ thông": [
+                "báo cáo, báo tin, thông báo",
+                "trả lời",
+                "báo đáp, đền ơn",
+                "tin tức",
+                "tờ báo",
+                "điện báo, điện tín",
+                "trả lại"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 報."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 報"
+            ],
+            "compound_words": {
+                "报恩": "báo ân",
+                "报警": "báo cảnh",
+                "报告": "báo cáo",
+                "报纸": "báo chỉ",
+                "报仇": "báo cừu",
+                "报名": "báo danh",
+                "报答": "báo đáp",
+                "报头": "báo đầu",
+                "报价": "báo giá",
+                "报界": "báo giới",
+                "报喜": "báo hỉ",
+                "报效": "báo hiệu",
+                "报复": "báo phục",
+                "报馆": "báo quán",
+                "报国": "báo quốc",
+                "报刊": "báo san",
+                "报摊": "báo than",
+                "报酬": "báo thù",
+                "报偿": "báo thường",
+                "报捷": "báo tiệp",
+                "报信": "báo tín",
+                "报应": "báo ứng",
+                "报社": "báo xã",
+                "壁报": "bích báo",
+                "公报": "công báo",
+                "预报": "dự báo",
+                "回报": "hồi báo",
+                "日报": "nhật báo",
+                "时报": "thời báo",
+                "捷报": "tiệp báo",
+                "小报": "tiểu báo",
+                "情报": "tình báo",
+                "呈报": "trình báo",
+                "晩报": "vãn báo",
+                "汇报": "vị báo"
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "character": "禀",
+    "details": {
+        "Âm Hán Việt": [
+            "bẩm",
+            "bằng",
+            "lẫm"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "kỳ 示 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱㐭示"
+        ],
+        "Nét bút": [
+            "丶一丨フ丨フ一一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YWMMF (卜田一一火)"
+        ],
+        "Unicode": [
+            "U+7980"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bǐn ㄅㄧㄣˇ",
+            "bǐng ㄅㄧㄥˇ",
+            "lǐn ㄌㄧㄣˇ"
+        ],
+        "Âm Nôm": [
+            "bám",
+            "bẳm",
+            "bấm",
+            "bụm",
+            "lắm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リン (rin)",
+            "ヒン (hin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "こめぐら (komegura)"
+        ],
+        "Âm Hàn": [
+            "품"
+        ],
+        "Âm Quảng Đông": [
+            "ban2"
+        ]
+    },
+    "meanings": {
+        "bẩm": {
+            "Từ điển phổ thông": [
+                "vâng mệnh, tuân theo",
+                "thưa bẩm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như “bẩm” 稟."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ bẩm  稟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bẩm, năng khiếu, tính nết, tính tình: 天稟 Thiên bẩm, khiếu trời sinh;",
+                "(cũ) Thưa, bẩm: 稟報 Bẩm báo, trình thưa;",
+                "(văn) Vâng mệnh."
+            ],
+            "compound_words": {
+                "叩禀": "khấu bẩm",
+                "賦禀": "phú bẩm"
+            }
+        },
+        "bằng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Bẩm 稟."
+            ]
+        },
+        "lẫm": {
+            "Từ điển trích dẫn": [
+                "1. Cũng như “bẩm” 稟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cấp lúa kho."
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "character": "貍",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly",
+            "mai",
+            "uất"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "trĩ 豸 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰豸里"
+        ],
+        "Nét bút": [
+            "ノ丶丶ノフノノ丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "BHWG (月竹田土)"
+        ],
+        "Unicode": [
+            "U+8C8D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "mái ㄇㄞˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)",
+            "ライ (rai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たぬき (tanuki)"
+        ],
+        "Âm Hàn": [
+            "리"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "(Danh) Con cầy, con cáo. ◎Như: 'cửu tiết li' 九節貍 loại cáo đuôi có chín đường vằn, 'hương li' 香貍 con cầy hương. § Cũng có tên là 'linh miêu' 靈貓.",
+                "Một âm là 'uất'. (Danh) Mùi hôi thối."
+            ],
+            "compound_words": {
+                "窮鼠齧貍": "cùng thử niết li"
+            }
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "con cáo, con chồn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con cầy, con cáo, con nào đuôi có chín đường vằn gọi là cửu tiết li 九節貍, con nào có hương lấy làm xạ dùng gọi là hương li 香貍 con cầy hương, cũng có tên là linh miêu 靈貓.",
+                "Một âm là uất. Mùi hôi thối."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 狸 (bộ 犭)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chồn, con cáo. Td: Hồ li ( chồn cáo )."
+            ],
+            "compound_words": {
+                "香貍": "hương ly"
+            }
+        },
+        "mai": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng như chữ Mai 埋 — Các âm khác là Li, Uất. Xem các âm này."
+            ]
+        },
+        "uất": {
+            "Từ điển phổ thông": [
+                "mùi hôi thối"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con cầy, con cáo. ◎Như: 'cửu tiết li' 九節貍 loại cáo đuôi có chín đường vằn, 'hương li' 香貍 con cầy hương. § Cũng có tên là 'linh miêu' 靈貓.",
+                "Một âm là 'uất'. (Danh) Mùi hôi thối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con cầy, con cáo, con nào đuôi có chín đường vằn gọi là cửu tiết li 九節貍, con nào có hương lấy làm xạ dùng gọi là hương li 香貍 con cầy hương, cũng có tên là linh miêu 靈貓.",
+                "Một âm là uất. Mùi hôi thối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hôi thối — Xem Li, Mai."
+            ]
+        }
+    }
+}

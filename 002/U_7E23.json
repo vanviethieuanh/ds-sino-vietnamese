@@ -1,0 +1,103 @@
+{
+    "character": "縣",
+    "details": {
+        "Âm Hán Việt": [
+            "huyền",
+            "huyện"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "mịch 糸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨フ一一一一丨ノ丶ノフフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BFHVF (月火竹女火)"
+        ],
+        "Unicode": [
+            "U+7E23"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiàn ㄒㄧㄢˋ",
+            "xuán ㄒㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "huyện"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.ける (ka.keru)"
+        ],
+        "Âm Hàn": [
+            "현"
+        ],
+        "Âm Quảng Đông": [
+            "jyun2",
+            "jyun4",
+            "jyun6"
+        ]
+    },
+    "meanings": {
+        "huyền": {
+            "Từ điển trích dẫn": [
+                "(Động) Treo. § Cùng nghĩa với 'huyền' 懸.",
+                "Một âm là 'huyện'. (Danh) Huyện. § Tần Thủy Hoàng bỏ phép phong kiến mà chia nước thành quận và huyện, vì thế nên đời sau cũng theo đó mà chia mỗi tỉnh ra nhiều huyện."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Treo, cùng nghĩa với chữ huyền 懸.",
+                "Một âm là huyện. Huyện, Tần Thuỷ Hoàng 秦始皇 bỏ phép phong kiến mà chia nước ra từng quận từng huyện, vì thế nên đời sau cũng theo đó mà chia mỗi tỉnh ra mấy huyện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 懸 (bộ 心)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buộc lại, cột lại — Ràng buộc — Một âm là Huyện."
+            ]
+        },
+        "huyện": {
+            "Từ điển phổ thông": [
+                "huyện"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Treo. § Cùng nghĩa với 'huyền' 懸.",
+                "Một âm là 'huyện'. (Danh) Huyện. § Tần Thủy Hoàng bỏ phép phong kiến mà chia nước thành quận và huyện, vì thế nên đời sau cũng theo đó mà chia mỗi tỉnh ra nhiều huyện."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Treo, cùng nghĩa với chữ huyền 懸.",
+                "Một âm là huyện. Huyện, Tần Thuỷ Hoàng 秦始皇 bỏ phép phong kiến mà chia nước ra từng quận từng huyện, vì thế nên đời sau cũng theo đó mà chia mỗi tỉnh ra mấy huyện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Huyện. 【縣城】huyện thành [xiàn chéng] Huyện lị."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khu vực địa phương, được ấn định rõ ràng — Đơn vị hành chánh, ở dưới tỉnh. Ta cũng gọi là Huyện."
+            ],
+            "compound_words": {
+                "縣尹": "huyện doãn",
+                "縣轄": "huyện hạt",
+                "縣令": "huyện lệnh",
+                "縣官": "huyện quan",
+                "縣佐": "huyện tá",
+                "縣丞": "huyện thừa",
+                "縣尉": "huyện uý",
+                "郡縣": "quận huyện",
+                "神州赤縣": "thần châu xích huyện",
+                "知縣": "tri huyện"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "幃",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "cân 巾 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾韋"
+        ],
+        "Nét bút": [
+            "丨フ丨フ丨一丨フ一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "LBDMQ (中月木一手)"
+        ],
+        "Unicode": [
+            "U+5E43"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とばり (tobari)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai4"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Túi thơm.",
+                "(Danh) Màn che, trướng. § Thông 'duy' 帷. ◇Lí Bạch 李白: 'Xuân phong bất tương thức, Hà sự nhập la vi?' 春風不相識, 何事入羅幃 (Xuân tứ 春思) Gió xuân không quen biết, Sao lại vào trong màn lụa?"
+            ],
+            "compound_words": {
+                "幃幕": "vi mạc"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "cái màn",
+                "cái túi thơm"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái trướng đơn. Phòng vi 房幃 nói chỗ kín trong buồng the.",
+                "Cái túi thơm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 帷 [wéi]: 房幃 Chỗ kín trong phòng the;",
+                "Túi thơm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái túi — Tấm màn. Tấm rèm."
+            ]
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "character": "疴",
+    "details": {
+        "Âm Hán Việt": [
+            "a",
+            "kha"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nạch 疒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒可"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "KMNR (大一弓口)"
+        ],
+        "Unicode": [
+            "U+75B4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "ē",
+            "kē ㄎㄜ",
+            "qià ㄑㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "a",
+            "kha",
+            "khờ",
+            "khú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ア (a)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やまい (yamai)"
+        ],
+        "Âm Hàn": [
+            "아"
+        ],
+        "Âm Quảng Đông": [
+            "o1"
+        ]
+    },
+    "meanings": {
+        "a": {
+            "Từ điển phổ thông": [
+                "ốm nặng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 痾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ốm, ốm nặng gọi là trầm a 沉疴 hay 沈疴. Cũng đọc là kha."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đau nặng, bệnh nặng, cũng viết là 痾 — Cũng đọc Kha."
+            ],
+            "compound_words": {
+                "沈疴": "trầm kha"
+            }
+        },
+        "kha": {
+            "Từ điển phổ thông": [
+                "ốm nặng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 痾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ốm, ốm nặng gọi là trầm a 沉疴 hay 沈疴. Cũng đọc là kha."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Bệnh: 沉疴 Bệnh nặng; 染疴 Mắc bệnh, ốm."
+            ],
+            "compound_words": {
+                "沈疴": "trầm kha"
+            }
+        }
+    }
+}

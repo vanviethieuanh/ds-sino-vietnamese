@@ -1,0 +1,63 @@
+{
+    "character": "驳",
+    "details": {
+        "Âm Hán Việt": [
+            "bác"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "mã 馬 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰马爻"
+        ],
+        "Nét bút": [
+            "フフ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NMKK (弓一大大)"
+        ],
+        "Unicode": [
+            "U+9A73"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bác"
+        ],
+        "Âm Quảng Đông": [
+            "bok3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "loang lổ",
+                "lẫn lộn",
+                "phản bác, chống lại"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 駁."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 駁"
+            ],
+            "compound_words": {
+                "斑驳": "ban bác",
+                "反驳": "phản bác"
+            }
+        }
+    }
+}

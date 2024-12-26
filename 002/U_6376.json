@@ -1,0 +1,94 @@
+{
+    "character": "捶",
+    "details": {
+        "Âm Hán Việt": [
+            "chuý",
+            "chuỷ",
+            "truỳ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘垂"
+        ],
+        "Nét bút": [
+            "一丨一ノ一丨一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "QHJM (手竹十一)"
+        ],
+        "Unicode": [
+            "U+6376"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chuí ㄔㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "chúi",
+            "chuỳ",
+            "dồi",
+            "thuỳ",
+            "truỳ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スイ (sui)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むちう.つ (muchiu.tsu)"
+        ],
+        "Âm Hàn": [
+            "추",
+            "다"
+        ],
+        "Âm Quảng Đông": [
+            "ceoi4"
+        ]
+    },
+    "meanings": {
+        "chuý": {
+            "Từ điển phổ thông": [
+                "đánh ngã, đập ngã"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðánh ngã.",
+                "Ðập, giã."
+            ]
+        },
+        "chuỷ": {
+            "Từ điển trích dẫn": [
+                "(Động) Đánh, đập. ◎Như: 'chủy bối' 捶背 đấm lưng, 'ác mạ chủy đả' 惡罵捶打 mắng rủa đánh đập. ◇Pháp Hoa Kinh 法華經: 'Chủy chung cáo tứ phương' 捶鐘告四方 (Đề Bà Đạt Đa phẩm đệ thập nhị 提婆達多品第十二) Gióng chuông tuyên cáo khắp nơi.",
+                "(Động) Nện, giã. ◎Như: 'chủy dược' 捶藥 giã thuốc.",
+                "(Danh) Roi, trượng, gậy. ◇Trang Tử 莊子: 'Nhất xích chi chủy, nhật thủ kì bán, vạn thế bất kiệt' 一尺之捶, 日取其半, 萬世不竭 (Thiên hạ 天下) Cây gậy dài một thước, mỗi ngày lấy một nửa, muôn đời không hết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đấm, đánh, đập, nện, giã: 捶背 Đấm lưng; 捶鼓 Đánh trống, gõ trống; 捶台拍凳 Đập bàn đập ghế; 捶衣裳 Nện quần áo; 捶藥 Giã thuốc;",
+                "(văn) Đánh ngã;",
+                "(văn) Roi ngựa (như 箠, bộ 竹)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng gậy mà đánh — Giã cho nát."
+            ],
+            "compound_words": {
+                "鑪捶": "lô chuỷ"
+            }
+        },
+        "truỳ": {
+            "Từ điển Trần Văn Chánh": [
+                "Đánh: 搥鼓 Đánh trống; 他父親搥了他一頓 Cha nó đã đánh nó một trận."
+            ]
+        }
+    }
+}

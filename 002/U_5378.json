@@ -1,0 +1,81 @@
+{
+    "character": "卸",
+    "details": {
+        "Âm Hán Việt": [
+            "tá"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "tiết 卩 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰𦈢卩"
+        ],
+        "Nét bút": [
+            "ノ一一丨一丨一フ丨"
+        ],
+        "Thương Hiệt": [
+            "OMSL (人一尸中)"
+        ],
+        "Unicode": [
+            "U+5378"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "hằm",
+            "tá",
+            "xả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おろ.す (oro.su)",
+            "おろし (oroshi)",
+            "おろ.し (oro.shi)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "se3"
+        ]
+    },
+    "meanings": {
+        "tá": {
+            "Từ điển phổ thông": [
+                "tháo, cởi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tháo, cởi, dỡ. ◎Như: 'tá trang' 卸妝 tháo đồ trang sức, 'hành trang phủ tá' 行裝甫卸 vừa trút hành trang xuống, 'tá hóa' 卸貨 dỡ hàng. ◇Lí Trung 李中: 'Tá phàm thanh dạ bích giang tân, Nhiễm nhiễm lương phong động bạch tần' 卸帆清夜碧江濱, 冉冉涼風動白蘋 (Duy chu thu tróc tập cố nhân Trương Củ đồng bạc 維舟秋捉霫故人張矩同泊) Tháo buồm lúc đêm thanh ở bến sông xanh, Phất phơ gió mát xao động cỏ bạch tần.",
+                "(Động) Giải trừ, miễn, thoái thác. ◎Như: 'tá kiên' 卸肩 trút gánh nặng, 'tá chức' 卸職 từ chức, 'tá nhậm' 卸任 từ chối trách nhiệm, 'thôi tá trách nhậm' 推卸責任 thoái thác trách nhiệm, 'tá tội' 卸罪 trút tội.",
+                "(Động) Rụng, rơi. ◎Như: 'hoa tá' 花卸 hoa rụng. ◇Hồng Lâu Mộng 紅樓夢: 'Mang chủng nhất quá, tiện thị hạ nhật liễu, chúng hoa giai tá, hoa thần thối vị, tu yêu tiễn hành' 芒種一過, 便是夏日了, 眾花皆卸, 花神退位, 須要餞行 (Đệ nhị thập thất hồi) Tiết mang chủng qua rồi, tức là sang mùa hè, các thứ hoa đều rụng, thần hoa thoái vị, nên phải (làm lễ) tiễn hành."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tháo, cởi. Hoa rụng cũng gọi là hoa tá 花卸. Lái đò dỡ đồ ở thuyền ra cũng gọi là tá.",
+                "Không làm việc nữa cũng gọi là tá. Như tá kiên 卸肩 trút gánh. Vẩy vạ cho người để thoát mình gọi là tá quá 卸過 trút lỗi, tá tội 卸罪 trút tội, tá trách 卸責 trút trách nhiệm; v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tháo, cổi, bốc dỡ, tháo dỡ: 卸貨 Bốc hàng; 卸零件 Tháo linh kiện;",
+                "Trút bỏ, giải trừ, miễn: 卸肩 Trút gánh; 卸過 Trút lỗi; 卸罪 Trút tội."
+            ],
+            "compound_words": {
+                "拆卸": "sách tá",
+                "卸下": "tá hạ"
+            }
+        }
+    }
+}

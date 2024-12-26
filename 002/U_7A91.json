@@ -1,0 +1,81 @@
+{
+    "character": "窑",
+    "details": {
+        "Âm Hán Việt": [
+            "dao",
+            "diêu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱穴缶"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶ノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "JCOJU (十金人十山)"
+        ],
+        "Unicode": [
+            "U+7A91"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かま (kama)"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Dao 窕."
+            ]
+        },
+        "diêu": {
+            "Từ điển phổ thông": [
+                "cái lò nung",
+                "đồ sành sứ"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 'diêu' 窯.",
+                "Giản thể của chữ 窯."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ diêu 窯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lò nung (vôi, ngói...): 石灰窯 Lò vôi;",
+                "Lò (khai thác than đá bằng cách thô sơ);",
+                "Nhà (hang);",
+                "(văn) Đồ sành sứ;",
+                "【窯姐兒】diêu thư nhi [yáojiâr] (đph) Gái đĩ, gái điếm."
+            ],
+            "compound_words": {
+                "窑姐儿": "diêu thư nhi"
+            }
+        }
+    }
+}

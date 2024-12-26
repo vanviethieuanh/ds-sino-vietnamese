@@ -1,0 +1,97 @@
+{
+    "character": "愚",
+    "details": {
+        "Âm Hán Việt": [
+            "ngu"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱禺心"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ丨一丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "WBP (田月心)"
+        ],
+        "Unicode": [
+            "U+611A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "ngu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "グ (gu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おろ.か (oro.ka)"
+        ],
+        "Âm Hàn": [
+            "우"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "ngu": {
+            "Từ điển phổ thông": [
+                "ngu đần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Dốt nát, ngu muội, không thông minh. ◎Như: 'ngu si' 愚癡 dốt nát mê muội. ◇Luận Ngữ 論語: 'Ngô dữ Hồi ngôn chung nhật, bất vi, như ngu' 吾與回言終日, 不違, 如愚 (Vi chánh 為政) Ta với Nhan Hồi nói chuyện suốt ngày, không thấy anh ấy vặn hỏi gì cả, tưởng như ngu đần vậy.",
+                "(Tính) Đôn hậu, thật thà.",
+                "(Tính) Dùng làm lời nói khiêm (về ý kiến, điều lo nghĩ... của mình). ◎Như: 'ngu ý' 愚意 như ý ngu dốt này. ◇Hán Thư 漢書: 'Cảm bất lược trần ngu nhi trữ tình tố' 敢不略陳愚而抒情愫 (Vương Bao truyện 王襃傳).",
+                "(Danh) Người ngu dốt. ◇Luận Ngữ 論語: 'Cổ chi ngu dã trực, kim chi ngu dã trá nhi dĩ hĩ' 古之愚也直, 今之愚也詐而已矣 (Dương Hóa 陽貨) Đời xưa người ngu thì ngay thẳng, nay người ngu thì chỉ dối trá thôi.",
+                "(Danh) Tiếng tự xưng (khiêm từ). ◇Tam Quốc 三國: 'Ngu dĩ vi cung trung chi sự, sự vô đại tiểu, tất dĩ tư chi, nhiên hậu thi hành, tất năng bì bổ khuyết lậu, hữu sở quảng ích' 愚以為宮中之事, 事無大小, 悉以咨之, 然後施行, 必能裨補闕漏, 有所廣益 (Gia Cát Lượng 諸葛亮, Tiền xuất sư biểu 前出師表) Tôi trộm nghĩ những việc trong cung, bất kì lớn nhỏ, đều nên hỏi ý các ông ấy (Quách Du Chi, Phí Y, v.v.) rồi sau mới thi hành thì có thể bồi bổ được chỗ thiếu sót mà thu được ích lợi lớn.",
+                "(Động) Lừa dối. ◎Như: 'ngu lộng' 愚弄 lừa gạt người. ◇Tôn Tử 孫子: 'Năng ngu sĩ tốt chi nhĩ mục, sử chi vô tri' 能愚士卒之耳目, 使之無知 (Cửu địa 九地) Phải biết đánh lừa tai mắt quân lính, làm cho họ không biết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngu dốt.",
+                "Lừa dối. Như ngu lộng 愚弄 lừa gạt người.",
+                "Lời nói khiêm. Như ngu án 愚按 kẻ ngu si này xét, ngu ý 愚意 như ý kẻ ngu dốt này."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngu dốt, ngu muội: 愚人 Người ngu dốt;",
+                "Lừa bịp: 為人所愚 Bị người ta lừa bịp;",
+                "(khiêm) Kẻ ngu này, tôi: 愚見 Theo thiển ý (thiển kiến) của tôi; 愚按 Theo sự xét đoán của kẻ ngu này (của tôi)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầu óc tối tăm, đần độn. Ca dao Việt Nam có câu: » Rồng vàng tắm nước ao tù, người khôn ở với người ngu bực mình « — Tiếng khiêm nhường khi nói về mình. Td: Ngu huynh ( người anh đần độn này )."
+            ],
+            "compound_words": {
+                "大智若愚": "đại trí nhược ngu",
+                "頑愚": "ngoan ngu",
+                "愚笨": "ngu bổn",
+                "愚民": "ngu dân",
+                "愚弟": "ngu đệ",
+                "愚鈍": "ngu độn",
+                "愚兄": "ngu huynh",
+                "愚弄": "ngu lộng",
+                "愚昧": "ngu muội",
+                "愚人": "ngu nhân",
+                "愚夫": "ngu phu",
+                "愚癡": "ngu si",
+                "愚蠢": "ngu xuẩn",
+                "芚愚": "xuân ngu"
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "character": "蝼",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "trùng 虫 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫娄"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "LIFDV (中戈火木女)"
+        ],
+        "Unicode": [
+            "U+877C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lóu ㄌㄡˊ"
+        ],
+        "Âm Nôm": [
+            "lâu",
+            "sâu"
+        ],
+        "Âm Quảng Đông": [
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "(xem: lâu cô 螻蛄,蝼蛄)",
+                "(xem: lâu quắc 螻蟈,蝼蝈)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 螻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 螻"
+            ],
+            "compound_words": {
+                "蝼蛄": "lâu cô",
+                "蝼蝈": "lâu quắc",
+                "蝼螲": "lâu trất"
+            }
+        }
+    }
+}

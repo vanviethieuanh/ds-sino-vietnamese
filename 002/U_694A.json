@@ -1,0 +1,88 @@
+{
+    "character": "楊",
+    "details": {
+        "Âm Hán Việt": [
+            "dương"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mộc 木 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木昜"
+        ],
+        "Nét bút": [
+            "一丨ノ丶丨フ一一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "DAMH (木日一竹)"
+        ],
+        "Unicode": [
+            "U+694A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yáng ㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "dàng",
+            "dương",
+            "thang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわ (kawa)",
+            "やなぎ (yanagi)"
+        ],
+        "Âm Hàn": [
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "joeng4"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển phổ thông": [
+                "cây dương liễu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây 'dương', giống cây liễu. § Có một thứ gọi là 'bạch dương' 白楊.",
+                "(Danh) Họ 'Dương'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cây dương, cũng giống cây liễu, có một thứ gọi là bạch dương 白楊 dùng làm que diêm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cây dương: 白楊 Cây bạch dương;",
+                "[Yáng] (Họ) Dương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một loại cây cành lá yếu."
+            ],
+            "compound_words": {
+                "隱惡楊善": "ẩn ác dương thiện",
+                "百步穿楊": "bách bộ xuyên dương",
+                "百部穿楊": "bách bộ xuyên dương",
+                "白楊": "bạch dương",
+                "楊桃": "dương đào",
+                "楊柳": "dương liễu",
+                "柳楊": "liễu dương",
+                "長楊": "trường dương",
+                "穿楊": "xuyên dương"
+            }
+        }
+    }
+}

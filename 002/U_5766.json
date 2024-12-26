@@ -1,0 +1,95 @@
+{
+    "character": "坦",
+    "details": {
+        "Âm Hán Việt": [
+            "thản"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thổ 土 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土旦"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "GAM (土日一)"
+        ],
+        "Unicode": [
+            "U+5766"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tǎn ㄊㄢˇ"
+        ],
+        "Âm Nôm": [
+            "đắt",
+            "đất",
+            "đứt",
+            "ngẩn",
+            "thản",
+            "thưỡn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たいら (taira)"
+        ],
+        "Âm Hàn": [
+            "탄"
+        ],
+        "Âm Quảng Đông": [
+            "taan2"
+        ]
+    },
+    "meanings": {
+        "thản": {
+            "Từ điển phổ thông": [
+                "phẳng phiu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Để hở ra, lộ. ◎Như: 'thản hung lộ bối' 坦胸露背 ló ngực phơi lưng.",
+                "(Tính) Bằng phẳng. ◎Như: 'thản đồ' 坦途 đường bằng phẳng.",
+                "(Tính) Thảnh thơi, thẳng thắn, trong lòng không vướng mắc. ◇Luận Ngữ 論語: 'Quân tử thản đãng đãng, tiểu nhân trường thích thích' 君子坦蕩蕩, 小人長戚戚 (Thuật nhi 述而) Người quân tử thì thản nhiên thư thái, kẻ tiểu nhân thì thường lo lắng u sầu.",
+                "(Danh) Chàng rể. ◎Như: 'hiền thản' 賢坦 rể của tôi.",
+                "(Danh) Họ 'Thản'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phẳng phắn. Trong lòng không vướng vít gì gọi là thản nhiên 坦然."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bằng phẳng, phẳng phiu;",
+                "Thẳng thắn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Yên ổn. Không có gì xảy ra — Bằng phẳng."
+            ],
+            "compound_words": {
+                "巴基斯坦": "ba cơ tư thản",
+                "巴勒斯坦": "ba lặc tư thản",
+                "平坦": "bình thản",
+                "坦白": "thản bạch",
+                "坦荡": "thản đãng",
+                "坦蕩": "thản đãng",
+                "坦克": "thản khắc",
+                "坦克車": "thản khắc xa",
+                "坦里": "thản lí",
+                "坦然": "thản nhiên",
+                "坦率": "thản suất"
+            }
+        }
+    }
+}

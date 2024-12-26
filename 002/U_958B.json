@@ -1,0 +1,196 @@
+{
+    "character": "開",
+    "details": {
+        "Âm Hán Việt": [
+            "khai"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "môn 門 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門开"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "ANMT (日弓一廿)"
+        ],
+        "Unicode": [
+            "U+958B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kāi ㄎㄞ"
+        ],
+        "Âm Nôm": [
+            "khai",
+            "khơi",
+            "khui"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひら.く (hira.ku)",
+            "ひら.き (hira.ki)",
+            "-びら.き (-bira.ki)",
+            "ひら.ける (hira.keru)",
+            "あ.く (a.ku)",
+            "あ.ける (a.keru)"
+        ],
+        "Âm Hàn": [
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "hoi1"
+        ]
+    },
+    "meanings": {
+        "khai": {
+            "Từ điển phổ thông": [
+                "mở ra",
+                "nở (hoa)",
+                "một phần chia",
+                "sôi (nước)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mở. § Trái lại với 'bế' 閉. ◎Như: 'khai môn' 開門 mở cửa. ◇Mạnh Hạo Nhiên 孟浩然: 'Khai hiên diện trường phố, Bả tửu thoại tang ma' 開軒面場圃, 把酒話桑麻 (Quá cố nhân trang 過故人莊) Mở cửa sổ đối mặt với vườn rau, Nâng chén rượu nói chuyện trồng dâu trồng gai.",
+                "(Động) Nở ra, giãn, duỗi. ◎Như: 'hoa khai' 花開 hoa nở, 'khai nhan' 開顏 vẻ mặt vui mừng, 'khai hoài' 開懷 lòng hả hê. ◇Trang Tử 莊子: 'Kì mị dã hồn giao, kì giác dã hình khai' 其寐也魂交, 其覺也形開 (Tề vật luận 齊物論) Khi ngủ thì hồn giao nhau, khi thức thì hình duỗi ra.",
+                "(Động) Xẻ, đào. ◎Như: 'khai hà' 開河 đào sông.",
+                "(Động) Vỡ hoang, khai khẩn. ◎Như: 'khai khoáng' 開礦 khai khẩn mỏ, 'khai hoang' 開荒 vỡ hoang.",
+                "(Động) Mở mang. ◇Đỗ Phủ 杜甫: 'Khai biên nhất hà đa' 開邊一何多 (Tiền xuất tái 前出塞) Mở mang bờ cõi sao mà nhiều vậy!",
+                "(Động) Hướng dẫn, dẫn đạo, chỉ bảo. ◎Như: 'khai đạo' 開導 khuyên bảo.",
+                "(Động) Dựng, đặt ra trước nhất, thiết lập. ◎Như: 'khai sáng' 開創 mở mang gây dựng ra trước, 'khai đoan' 開端 mở mối.",
+                "(Động) Bày, đặt. ◎Như: 'khai duyên' 開筵 mở tiệc, bày tiệc ăn.",
+                "(Động) Kê khai. ◎Như: 'khai dược phương' 開藥方 kê đơn thuốc, 'khai đơn' 開單 kê đơn (thuốc, hàng hóa, khoản).",
+                "(Động) Bắt đầu. ◎Như: 'khai học' 開學 khai giảng, 'khai công' 開工 khởi công, 'khai phạn' 開飯 dọn cơm, bắt đầu bán cơm (nhà hàng).",
+                "(Động) Công bố. ◎Như: 'khai tiêu' 開標 mở thầu.",
+                "(Động) Bắt đầu chạy, khởi hành. ◎Như: 'khai chu' 開舟 nhổ neo thuyền bắt đầu đi, 'hỏa xa khai liễu' 火車開了 xe lửa chạy rồi.",
+                "(Động) Mổ, bổ. ◎Như: 'khai liễu nhất cá tây qua' 開了一個西瓜 bổ một quả dưa hấu.",
+                "(Động) Tiêu tan. ◎Như: 'vân khai vụ tán' 雲開霧散 mây mù tiêu tan.",
+                "(Động) Bắn. ◎Như: 'khai thương' 開槍 bắn súng, 'khai pháo' 開砲 bắn pháo.",
+                "(Động) Cử hành, mở (hội nghị, triển lãm). ◎Như: 'khai hội' 開會 họp hội nghị, 'khai triển lãm hội' 開展覽會 mở triển lãm.",
+                "(Động) Chia rẽ, phân li. ◎Như: 'li khai' 離開 chia rẽ.",
+                "(Động) Chi tiêu. ◎Như: 'khai chi' 開支 chi tiêu, 'khai công tiền' 開工錢 chi tiền công.",
+                "(Động) Trừ bỏ. ◎Như: 'khai khuyết' 開缺 trừ bỏ chỗ thiếu đi, 'khai giới' 開戒 phá giới, 'khai cấm' 開禁 bỏ lệnh cấm.",
+                "(Động) Sôi. ◎Như: 'thủy khai liễu' 水開了 nước sôi rồi.",
+                "(Danh) Lượng từ: số chia. ◎Như: 'tứ khai' 四開 một phần tư, 'bát khai' 八開 một phần tám.",
+                "(Danh) Trang giấy. ◎Như: 'nhất khai' 一開 một trang giấy.",
+                "(Danh) Khổ (giấy). ◎Như: 'khai bổn' 開本 khổ sách.",
+                "(Danh) Đơn vị tính độ nguyên chất của vàng: carat, 24 carats là vàng thuần (nguyên chất). ◎Như: 'thập tứ khai kim đích bút tiêm' 十四開金的筆尖 ngòi bút vàng 14 carats.",
+                "(Phó) Rộng ra, nới ra. ◎Như: 'tưởng khai' 想開 suy rộng, 'khán khai' 看開 nhìn rộng ra, 'truyền khai' 傳開 truyền đi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mở. Trái lại với chữ bế 閉.",
+                "Nở ra. Như hoa khai 花開 hoa nở.",
+                "Đào ra, bới ra. Như khai hà 開河 khai sông, khai khoáng 開礦 khai mỏ, v.v.",
+                "Mới, trước nhất. Như khai sáng 開創 mở mang gây dựng ra trước, khai đoan 開端 mở mối, v.v.",
+                "Phân tách ra. Như phách khai 劈開 bửa ra, phanh ra, v.v.",
+                "Bày, đặt. Như khai diên 開筵 mở tiệc, bày tiệc ăn.",
+                "Mở rộng ra. Như thơ Đỗ Phủ 杜甫 có câu: Khai biên ức hà đa 開邊抑何多 mở mang biên cõi sao nhiều vậy.",
+                "Khoát đạt. Như khai lãng 開朗 sáng sủa.",
+                "Rộng tha. Như khai thích 開釋 nới tha, khai phóng 開放 buông tha ra cho được tự do, v.v.",
+                "Xếp bày. Kê các tên các khoản cho thứ nào vào hàng ấy gọi là khai. Như khai đơn 開單 đơn khai, cái đơn khai các đồ hàng hay các khoản gì.",
+                "Bắt đầu đi. Như khai chu 開舟 nhổ neo thuyền bắt đầu đi.",
+                "Số chia. Một phần tư gọi là tứ khai 四開, một phần tám gọi là bát khai 八開. Một trang giấy cũng gọi là nhất khai 一開.",
+                "Trừ bỏ đi. Như khai khuyết 開缺 trừ bỏ chỗ thiếu đi.",
+                "Sôi. Nước sôi gọi là khai thuỷ 開水."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mở, mở cửa: 開門 Mở cửa; 開鎖 Mở khóa; 善閉，無關楗而不可開 Khéo đóng, không có then gài mà không thể mở cửa (Lão tử); 秦人開關而延敵 Người nước Tần mở cửa ải mà rước quân địch vào (Sử kí);",
+                "Nở, khai: 花開 Hoa nở;",
+                "Xẻ, đào, khơi: 開山劈嶺 Xẻ núi san đồi; 開河 Đào sông, đào kênh; 開渠築壩 Đắp đập khơi ngòi;",
+                "Vỡ hoang, khai khẩn.【開荒】khai hoang [kaihuang] Khai hoang, vỡ hoang, khai phá đất hoang: 上山開荒 Lên núi vỡ hoang;",
+                "Lái, chạy, bắn, nổ: 開拖拉機 Lái máy kéo (máy cày); 火車開了 Tàu chạy; 開槍 Bắn súng, nổ súng;",
+                "Kéo (đi) 部隊向南開了 Bộ đội kéo lên phía nam;",
+                "Mở (rộng), mở mang, khai mở, khai thông: 開眼 Mở rộng tầm mắt; 想不開 Suy nghĩ chưa thông, thắc mắc; 開邊抑何多！ Mở mang bờ cõi sao nhiều thế! (Đỗ Phủ);",
+                "Mở, dựng, đặt, thiết lập, khai sáng, kinh doanh: 開辦學校 Mở trường học; 五里一換馬 ，十里一開筵 Năm dặm một lần đổi ngựa, mười dặm một lần mở tiệc (Lí Thương Ẩn: Hành thứ tây giao tác);",
+                "Kê, kê khai, viết: 開方子 Kê đơn thuốc; 開支票 Viết séc;",
+                "Sôi; 開水 Nước sôi; 水開了 Nước đã sôi;",
+                "Dùng sau động từ chỉ sự tách rời hoặc kết quả: 拉開 Kéo ra; 躲開 Tránh ra; 撕開 Xẻ ra; 這話傳開了 Câu chuyện ấy đã truyền rộng ra; 打開扇子 Xòe quạt (ra); 睜開眼 Mở mắt ra;",
+                "Mổ, bổ: 開了一個西瓜 Bổ một quả dưa hấu; 開刀 Mổ;",
+                "Bắt đầu đi, khởi hành: 開舟 Bắt đầu nhổ neo cho thuyền đi.【開始】khai thuỷ [kaishê] a. Bắt đầu, mở đầu: 一年結束了，新的一年開始了 Năm cũ đã qua, năm mới bắt đầu; b. Lúc đầu, thoạt đầu, thoạt tiên: 工作開始 Lúc mới bắt đầu công việc;",
+                "Trừ bỏ đi: 開缺 Trừ bỏ chỗ thiếu;",
+                "Số chia: 四開 Một phần tư; 八開 Một phần tám;",
+                "Trang giấy: 一開 Một trang giấy;",
+                "Khổ (giấy): 開本 Khổ;",
+                "Cara (phần vàng trong một hợp kim, bằng 1/24 của tổng trọng lượng): 十四開金的筆尖 Ngòi bút vàng 14 cara;",
+                "【開外】khai ngoại [kai wài] Ngoài, trên: 這位老人，有六十開外了 Cụ ấy đã ngoài 60 (tuổi)."
+            ],
+            "compound_words": {
+                "白開水": "bạch khai thuỷ",
+                "半開": "bán khai",
+                "半開門": "bán khai môn",
+                "公開": "công khai",
+                "供開": "cung khai",
+                "打開": "đả khai",
+                "開印": "khai ấn",
+                "開戰": "khai chiến",
+                "開演": "khai diễn",
+                "開道": "khai đạo",
+                "開講": "khai giảng",
+                "開交": "khai giao",
+                "開化": "khai hoá",
+                "開花": "khai hoa",
+                "開學": "khai học",
+                "開穴": "khai huyệt",
+                "開啟": "khai khải",
+                "開墾": "khai khẩn",
+                "開口": "khai khẩu",
+                "開纊": "khai khoáng",
+                "開經": "khai kinh",
+                "開路": "khai lộ",
+                "開冪": "khai mạc",
+                "開幕": "khai mạc",
+                "開門": "khai môn",
+                "開業": "khai nghiệp",
+                "開玩笑": "khai ngoạn tiếu",
+                "開元": "khai nguyên",
+                "開眼": "khai nhãn",
+                "開顏": "khai nhan",
+                "開年": "khai niên",
+                "開破": "khai phá",
+                "開票": "khai phiếu",
+                "開放": "khai phóng",
+                "開關": "khai quan",
+                "開光": "khai quang",
+                "開掘": "khai quật",
+                "開國": "khai quốc",
+                "開創": "khai sáng",
+                "開山": "khai sơn",
+                "開心": "khai tâm",
+                "開拓": "khai thác",
+                "開巿": "khai thị",
+                "開通": "khai thông",
+                "開始": "khai thuỷ",
+                "開除": "khai trừ",
+                "開張": "khai trương",
+                "開㙊": "khai trường",
+                "開胃": "khai vị",
+                "開春": "khai xuân",
+                "離開": "li khai",
+                "劈開": "phách khai",
+                "分開": "phân khai",
+                "放開": "phóng khai",
+                "初開": "sơ khai",
+                "鑿開": "tạc khai",
+                "伸開": "thân khai",
+                "展開": "triển khai",
+                "召開": "triệu khai",
+                "張開": "trương khai"
+            }
+        }
+    }
+}

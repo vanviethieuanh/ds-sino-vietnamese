@@ -1,0 +1,116 @@
+{
+    "character": "腸",
+    "details": {
+        "Âm Hán Việt": [
+            "tràng",
+            "trường"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhục 肉 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月昜"
+        ],
+        "Nét bút": [
+            "ノフ一一丨フ一一一ノフノノ"
+        ],
+        "Thương Hiệt": [
+            "BAMH (月日一竹)"
+        ],
+        "Unicode": [
+            "U+8178"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ"
+        ],
+        "Âm Nôm": [
+            "tràng",
+            "trướng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はらわた (harawata)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tràng": {
+            "Từ điển phổ thông": [
+                "ruột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ruột. § Phần nhỏ liền với dạ dày gọi là 'tiểu tràng' 小腸 ruột non, phần to liền với hậu môn gọi là 'đại tràng' 大腸 ruột già.",
+                "(Danh) Nỗi lòng, nội tâm, bụng dạ. ◎Như: 'tràng đỗ' 腸肚 ruột gan, lòng dạ, tâm tư.",
+                "§ Còn đọc là 'trường'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ruột. Phần nhỏ liền với dạ dầy gọi là tiểu tràng 小腸 ruột non, phần to liền với lỗ đít gọi là đại tràng 大腸 ruột già. Còn đọc là trường.",
+                "Ðoạn tràng 斷腸 rất đau lòng. Lí Bạch 李白: Nhất chi hồng diễm lộ ngưng hương, Vân vũ Vu sơn uổng đoạn trường 一枝紅艷露凝香，雲雨巫山枉斷腸 Nàng (Dương Quý Phi 楊貴妃) như một cành hồng đẹp phủ móc đọng hương, (khiến cho) thần nữ mây mưa ở Vu sơn cũng phải đứt ruột."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ruột, lòng: 大腸 Ruột già, đại tràng; 心腸好 Lòng ngay dạ thẳng."
+            ],
+            "compound_words": {
+                "肝腸寸斷": "can tràng thốn đoạn",
+                "大腸": "đại tràng",
+                "肚腸": "đỗ tràng"
+            }
+        },
+        "trường": {
+            "Từ điển phổ thông": [
+                "ruột"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Ruột. § Phần nhỏ liền với dạ dày gọi là 'tiểu tràng' 小腸 ruột non, phần to liền với hậu môn gọi là 'đại tràng' 大腸 ruột già.",
+                "(Danh) Nỗi lòng, nội tâm, bụng dạ. ◎Như: 'tràng đỗ' 腸肚 ruột gan, lòng dạ, tâm tư.",
+                "§ Còn đọc là 'trường'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ruột. Phần nhỏ liền với dạ dầy gọi là tiểu tràng 小腸 ruột non, phần to liền với lỗ đít gọi là đại tràng 大腸 ruột già. Còn đọc là trường.",
+                "Ðoạn tràng 斷腸 rất đau lòng. Lí Bạch 李白: Nhất chi hồng diễm lộ ngưng hương, Vân vũ Vu sơn uổng đoạn trường 一枝紅艷露凝香，雲雨巫山枉斷腸 Nàng (Dương Quý Phi 楊貴妃) như một cành hồng đẹp phủ móc đọng hương, (khiến cho) thần nữ mây mưa ở Vu sơn cũng phải đứt ruột."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ruột, lòng: 大腸 Ruột già, đại tràng; 心腸好 Lòng ngay dạ thẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ruột, một cơ quan tiêu hoá. Td: Đại trường ( ruột già ) — Chỉ lòng dạ. Td: Đoạn trường ( đứt ruột, ý nói đau lòng ) — Cũng đọc Tràng."
+            ],
+            "compound_words": {
+                "肝腸": "can trường",
+                "九坂羊腸": "cửu bản dương trường",
+                "九迴腸": "cửu hồi trường",
+                "大腸": "đại trường",
+                "斷腸": "đoạn trường",
+                "斷腸新聲": "đoạn trường tân thanh",
+                "盲腸": "manh trường",
+                "潤腸": "nhuận trường",
+                "愁腸": "sầu trường",
+                "充腸": "sung trường",
+                "心腸": "tâm trường",
+                "食不充腸": "thực bất sung trường",
+                "小腸": "tiểu trường",
+                "腸液": "trường dịch",
+                "腸斷": "trường đoạn"
+            }
+        }
+    }
+}

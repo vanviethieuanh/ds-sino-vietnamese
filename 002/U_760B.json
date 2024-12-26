@@ -1,0 +1,81 @@
+{
+    "character": "瘋",
+    "details": {
+        "Âm Hán Việt": [
+            "phong"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nạch 疒 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒風"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一ノフノ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "KHNI (大竹弓戈)"
+        ],
+        "Unicode": [
+            "U+760B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fēng ㄈㄥ"
+        ],
+        "Âm Nôm": [
+            "phong",
+            "phung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "フウ (fū)"
+        ],
+        "Âm Hàn": [
+            "풍"
+        ],
+        "Âm Quảng Đông": [
+            "fung1"
+        ]
+    },
+    "meanings": {
+        "phong": {
+            "Từ điển phổ thông": [
+                "bệnh đầu phong",
+                "điên rồ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Tính) Điên, rồ, khùng. ◇Hồng Lâu Mộng 紅樓夢: “Na tăng tắc lại đầu tiển cước, na đạo tắc bả túc bồng đầu, phong phong điên điên, huy hoắc đàm tiếu nhi chí” 那僧則癩頭跣腳, 那道則跛足蓬頭, 瘋瘋癲癲, 揮霍談笑而至 (Đệ nhất hồi) Nhà sư đó thì đầu chốc, đi chân đất, vị đạo sĩ thì chân khập khiễng đầu bù, khùng khùng điên điên, vung vẩy cười cười nói nói mà đến."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bệnh đầu phong.",
+                "Ðiên rồ (bệnh thần kinh nặng)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bệnh điên;",
+                "Lốp, chai, điếc (cây trồng mọc rất tốt nhưng không ra hoa kết quả)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh nổi điên. Điên rồ."
+            ],
+            "compound_words": {
+                "頭瘋": "đầu phong",
+                "痲瘋": "ma phong",
+                "麻瘋": "ma phong",
+                "牙瘋": "nha phong",
+                "瘋癲": "phong điên",
+                "瘋犬病": "phong khuyển bệnh"
+            }
+        }
+    }
+}

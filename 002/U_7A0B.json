@@ -1,0 +1,130 @@
+{
+    "character": "程",
+    "details": {
+        "Âm Hán Việt": [
+            "trình"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hoà 禾 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰禾呈"
+        ],
+        "Nét bút": [
+            "ノ一丨ノ丶丨フ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "HDRHG (竹木口竹土)"
+        ],
+        "Unicode": [
+            "U+7A0B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chéng ㄔㄥˊ"
+        ],
+        "Âm Nôm": [
+            "trình"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほど (hodo)",
+            "-ほど (-hodo)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "cing4"
+        ]
+    },
+    "meanings": {
+        "trình": {
+            "Từ điển phổ thông": [
+                "đường đi, đoạn đường",
+                "đo, lường",
+                "trật tự"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Khuôn phép. ◎Như: 'chương trình' 章程, 'trình thức' 程式 đều nghĩa là cái khuôn phép để làm việc cả.",
+                "(Danh) Kì hạn. ◎Như: 'định trình' 定程 hay 'khóa trình' 課程 công việc quy định trước phải tuân theo.",
+                "(Danh) Cung đường, đoạn đường. ◎Như: 'nhất trình' 一程 một đoạn đường. ◇Thủy hử truyện 水滸傳: 'Ngã tống ca ca nhất trình, phương khước hồi lai' 我送哥哥一程, 方卻回來 (Đệ tam thập nhị hồi) Tôi đưa đại ca một quãng đường, rồi sẽ trở lại.",
+                "(Danh) Con báo. ◇Mộng khê bút đàm 夢溪筆談: 'Tần nhân vị báo viết trình' 秦人謂豹曰程 Người Tần gọi con báo là trình.",
+                "(Danh) Họ 'Trình'.",
+                "(Động) Liệu lường, đo lường, đánh giá. ◇Hán Thư 漢書: 'Vũ Đế kí chiêu anh tuấn, trình kì khí năng' 武帝既招英俊, 程其器能 (Quyển lục thập ngũ, Đông Phương Sóc truyện 東方朔傳) Vũ đế chiêu vời bậc anh tuấn, xem xét tài năng của họ.",
+                "(Động) Bảo, nói cho người trên biết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khuôn phép, như chương trình 章程, trình thức 程式 đều nghĩa là cái khuôn phép để làm việc cả.",
+                "Kì hẹn, việc làm hàng ngày, đặt ra các lệ nhất định, tất phải làm đủ mới thôi gọi là định trình 定程 hay khoá trình 課程.",
+                "Cung đường, đường đi một thôi nghỉ gọi là nhất trình 一程.",
+                "Con báo.",
+                "Bảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đường, đoạn đường: 起程 Lên đường, khởi hành; 有一程路得步行 Có một đoạn đường phải đi bộ;",
+                "Trình (lịch trình): 過程 Quá trình; 行程 Hành trình; 規程 Quy trình;",
+                "[Chéng] (Họ) Trình."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một đơn vị chiều dài rất nhỏ thời xưa, bằng một phần trăm của tấc ta — Đường đi. Td: Lộ trình — Cách thức — Họ người. H Trình Chu."
+            ],
+            "compound_words": {
+                "埃牢使程": "ai lao sứ trình",
+                "音程": "âm trình",
+                "鵬程": "bằng trình",
+                "章程": "chương trình",
+                "工程": "công trình",
+                "工程师": "công trình sư",
+                "工程師": "công trình sư",
+                "洋程記見": "dương trình kí kiến",
+                "登程": "đăng trình",
+                "海程": "hải trình",
+                "行程": "hành trình",
+                "課程": "khoá trình",
+                "起程": "khởi trình",
+                "历程": "lịch trình",
+                "歷程": "lịch trình",
+                "路程": "lộ trình",
+                "陸程": "lục trình",
+                "旅程": "lữ trình",
+                "南程聯詠集": "nam trình liên vịnh tập",
+                "南巡記程": "nam tuần kí trình",
+                "議程": "nghị trình",
+                "日程": "nhật trình",
+                "法程": "pháp trình",
+                "方程": "phương trình",
+                "過程": "quá trình",
+                "官程": "quan trình",
+                "規程": "quy trình",
+                "规程": "quy trình",
+                "使程": "sứ trình",
+                "使程曲": "sứ trình khúc",
+                "使程便覽曲": "sứ trình tiện lãm khúc",
+                "西巡記程": "tây tuần kí trình",
+                "水程": "thuỷ trình",
+                "前程": "tiền trình",
+                "進程": "tiến trình",
+                "全程": "toàn trình",
+                "狀程": "trạng trình",
+                "程度": "trình độ",
+                "程式語言": "trình thức ngữ ngôn",
+                "程式语言": "trình thức ngữ ngôn",
+                "雲程": "vân trình"
+            }
+        }
+    }
+}

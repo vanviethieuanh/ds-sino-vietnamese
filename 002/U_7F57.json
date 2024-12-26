@@ -1,0 +1,75 @@
+{
+    "character": "罗",
+    "details": {
+        "Âm Hán Việt": [
+            "la"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "võng 网 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺲夕"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "WLNI (田中弓戈)"
+        ],
+        "Unicode": [
+            "U+7F57"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "luō ㄌㄨㄛ",
+            "luó ㄌㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "la"
+        ],
+        "Âm Quảng Đông": [
+            "lo4"
+        ]
+    },
+    "meanings": {
+        "la": {
+            "Từ điển phổ thông": [
+                "vải lụa",
+                "cái lưới",
+                "bày biện"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 羅."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 羅"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 羅"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ 羅."
+            ],
+            "compound_words": {
+                "阿罗汉": "a la hán",
+                "包罗": "bao la",
+                "罗列": "la liệt",
+                "汨罗": "mịch la",
+                "俄罗斯": "nga la tư",
+                "佛罗里达": "phật la lý đạt",
+                "暹罗": "xiêm la"
+            }
+        }
+    }
+}

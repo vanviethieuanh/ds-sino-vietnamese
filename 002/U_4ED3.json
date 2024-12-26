@@ -1,0 +1,79 @@
+{
+    "character": "仓",
+    "details": {
+        "Âm Hán Việt": [
+            "thương",
+            "thảng",
+            "xương"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "nhân 人 (+2 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Hình thái": [
+            "⿱人㔾"
+        ],
+        "Nét bút": [
+            "ノ丶フフ"
+        ],
+        "Thương Hiệt": [
+            "OSU (人尸山)"
+        ],
+        "Unicode": [
+            "U+4ED3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cāng ㄘㄤ"
+        ],
+        "Âm Nôm": [
+            "thương"
+        ],
+        "Âm Quảng Đông": [
+            "cong1"
+        ]
+    },
+    "meanings": {
+        "thương": {
+            "Từ điển phổ thông": [
+                "kho, vựa"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 倉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 倉"
+            ],
+            "compound_words": {
+                "仓库": "thương khố",
+                "仓促": "thương xúc"
+            }
+        },
+        "thảng": {
+            "Từ điển phổ thông": [
+                "(xem: thảng thốt 倉猝)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 倉."
+            ],
+            "compound_words": {
+                "仓猝": "thảng thốt"
+            }
+        },
+        "xương": {
+            "Từ điển phổ thông": [
+                "kho, vựa"
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "character": "瘭",
+    "details": {
+        "Âm Hán Việt": [
+            "phiêu",
+            "phiếu",
+            "tiêu",
+            "tiếu"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nạch 疒 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒票"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨フ丨丨一一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KMWF (大一田火)"
+        ],
+        "Unicode": [
+            "U+762D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "biāo ㄅㄧㄠ",
+            "piào ㄆㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "tiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はれもの (haremono)"
+        ],
+        "Âm Quảng Đông": [
+            "biu1"
+        ]
+    },
+    "meanings": {
+        "phiêu": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Phiêu thư” 瘭疽 bệnh hà, một thứ bệnh ung nhọt, thường phát sinh ở đầu ngón tay ngón chân, mới đầu có mụt đỏ, dần dần hóa đen, rất đau nhức, để lâu sẽ làm thối nát gân cốt. § Cũng gọi là “hà nhãn” 蝦眼."
+            ]
+        },
+        "phiếu": {
+            "Từ điển Trần Văn Chánh": [
+                "Nhọt loét đầu ngón chân ngón tay."
+            ]
+        },
+        "tiêu": {
+            "Từ điển phổ thông": [
+                "(xem: tiếu thư 瘭疽)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiếu thư 瘭疽 hà móng chân móng tay, nhọt loẹt đầu ngón chân ngón tay. Cũng đọc là chữ tiêu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chứng sưng móng tay móng chân."
+            ]
+        },
+        "tiếu": {
+            "Từ điển phổ thông": [
+                "(xem: tiếu thư 瘭疽)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tiếu thư 瘭疽 hà móng chân móng tay, nhọt loẹt đầu ngón chân ngón tay. Cũng đọc là chữ tiêu."
+            ],
+            "compound_words": {
+                "瘭疽": "tiếu thư"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "character": "撐",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "xanh"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘牚"
+        ],
+        "Nét bút": [
+            "一丨一丨丶ノ丶フ丨フ一一フ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "QFBQ (手火月手)"
+        ],
+        "Unicode": [
+            "U+6490"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chēng ㄔㄥ"
+        ],
+        "Âm Nôm": [
+            "sanh",
+            "sênh",
+            "xanh",
+            "xênh",
+            "xinh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ささ.える (sasa.eru)",
+            "あ.く (a.ku)"
+        ],
+        "Âm Hàn": [
+            "탱"
+        ],
+        "Âm Quảng Đông": [
+            "caang1",
+            "caang3"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển phổ thông": [
+                "chống giữ",
+                "no đủ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chống giữ, chống đỡ. ◎Như: 'sanh bất trụ' 撐不住 không chống đỡ nổi. ◇Hồng Lâu Mộng 紅樓夢: 'Biệt thuyết thị nữ nhân đương bất lai, tựu thị tam đầu lục tí đích nam nhân, hoàn sanh bất trụ ni' 別說是女人當不來, 就是三頭六臂的男人, 還撐不住呢 (Đệ bát thập tam hồi) Đừng nói đàn bà không đương nổi, ngay cà đàn ông ba đầu sáu tay cũng không chống đỡ nổi đâu.",
+                "(Động) Dùng sào đẩy thuyền đi tới. ◎Như: 'sanh cao' 撐篙 đẩy sào. ◇Ngạn ngữ: 'Bất thị sanh thuyền thủ, hưu lai lộng trúc can' 不是撐船手, 休來弄竹竿 Không phải là tay lái thuyền thì chớ cầm sào.",
+                "(Động) Mở rộng, căng ra, giương lên. ◎Như: 'sanh tán' 撐傘 giương dù, 'sanh tuyến' 撐線 căng dây.",
+                "(Danh) Cái cột nghiêng.",
+                "(Tính) No, đầy. ◎Như: 'cật đa liễu, sanh đắc nan quá' 吃多了, 撐得難過 ăn nhiều, đầy bụng khó chịu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chống giữ, miễn cưỡng chống giữ gọi là xanh.",
+                "Cái cột xiêu.",
+                "No, đầy đủ.",
+                "Chở thuyền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nắm lấy. Bao lấy — Đầy đủ. No đủ — Đi thuyền, chèo thuyền."
+            ],
+            "compound_words": {
+                "支撐": "chi sanh"
+            }
+        },
+        "xanh": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 撐."
+            ]
+        }
+    }
+}

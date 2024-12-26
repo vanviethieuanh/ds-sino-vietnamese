@@ -1,0 +1,98 @@
+{
+    "character": "邅",
+    "details": {
+        "Âm Hán Việt": [
+            "chiên",
+            "triên",
+            "triển",
+            "truyên"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "sước 辵 (+13 nét)"
+        ],
+        "Hình thái": [
+            "⿺辶亶"
+        ],
+        "Nét bút": [
+            "丶一丨フ丨フ一一丨フ一一一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YYWM (卜卜田一)"
+        ],
+        "Unicode": [
+            "U+9085"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhān ㄓㄢ"
+        ],
+        "Âm Nôm": [
+            "chen",
+            "chênh",
+            "chiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なや.む (naya.mu)"
+        ],
+        "Âm Hàn": [
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "zin1"
+        ]
+    },
+    "meanings": {
+        "chiên": {
+            "Từ điển phổ thông": [
+                "vướng víu không tiến được"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Truân chiên 迍邅 vướng vít chật vật không bước lên được.",
+                "Sự đời gấp khúc không được thảnh thơi cũng gọi là truân chiên 迍邅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiến tới rất khó khăn. Xem 迍."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khó đi, đường khó di — Một âm là Triển."
+            ],
+            "compound_words": {
+                "邅迴": "chiên hồi",
+                "屯邅": "truân chiên"
+            }
+        },
+        "triên": {
+            "Từ điển trích dẫn": [
+                "(Động) Chuyển, cải biến, thay đổi. ◇Khuất Nguyên 屈原: 'Giá phi long hề bắc chinh, Triên ngô đạo hề Động Đình' 駕飛龍兮北征, 邅吾道兮洞庭 (Cửu ca 九歌, Tương Quân 湘君) Cưỡi rồng bay hề hướng bắc, Chuyển đường ta đi hề Động Đình.",
+                "§ Ta thường đọc là 'truyên'."
+            ],
+            "compound_words": {
+                "邅回": "triên hồi",
+                "迍邅": "truân triên"
+            }
+        },
+        "triển": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Triển 輾."
+            ]
+        },
+        "truyên": {
+            "Từ điển trích dẫn": [
+                "(Động) Chuyển, cải biến, thay đổi. ◇Khuất Nguyên 屈原: 'Giá phi long hề bắc chinh, Triên ngô đạo hề Động Đình' 駕飛龍兮北征, 邅吾道兮洞庭 (Cửu ca 九歌, Tương Quân 湘君) Cưỡi rồng bay hề hướng bắc, Chuyển đường ta đi hề Động Đình.",
+                "§ Ta thường đọc là 'truyên'."
+            ]
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "character": "千",
+    "details": {
+        "Âm Hán Việt": [
+            "thiên"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "thập 十 (+1 nét)"
+        ],
+        "Lục thư": [
+            "giả tá & hình thanh"
+        ],
+        "Nét bút": [
+            "ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "HJ (竹十)"
+        ],
+        "Unicode": [
+            "U+5343"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qiān ㄑㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "thiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ち (chi)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cin1"
+        ]
+    },
+    "meanings": {
+        "thiên": {
+            "Từ điển phổ thông": [
+                "(xem: thu thiên 鞦韆,秋千)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nghìn, mười trăm là một nghìn.",
+                "(Danh) Họ 'Thiên'.",
+                "(Tính) Rất mực, nhiều. ◎Như: 'thiên nan' 千難 khó rất mực. ◇Đạo Đức Kinh 道德經: 'Thiên lí chi hành, thủy ư túc hạ' 千里之行, 始於足下 (Chương 64) Đi ngàn dặm, bắt đầu từ một bước chân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghìn, mười trăm là một nghìn.",
+                "Rất mực, như thiên nan 千難 khó rất mực."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nghìn (ngàn): 萬紫千紅 Muôn hồng nghìn tía;",
+                "Nhiều, rất mực: 成千上萬 Hàng nghìn hàng vạn; 千難 Rất mực khó khăn;",
+                "[Qian] (Họ) Thiên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một nghìn."
+            ],
+            "compound_words": {
+                "百折千回": "bách chiết thiên hồi",
+                "百折千磨": "bách chiết thiên ma",
+                "一刻千金": "nhất khắc thiên kim",
+                "一笑千金": "nhất tiếu thiên kim",
+                "一字千金": "nhất tự thiên kim",
+                "三千大千世界": "tam thiên đại thiên thế giới",
+                "三千世界": "tam thiên thế giới",
+                "千古": "thiên cổ",
+                "千戶": "thiên hộ",
+                "千户": "thiên hộ",
+                "千克": "thiên khắc",
+                "千金": "thiên kim",
+                "千里": "thiên lí",
+                "千难": "thiên nan",
+                "千難": "thiên nan",
+                "千瓦": "thiên ngoã",
+                "千年蒀": "thiên niên uân",
+                "千年蒕": "thiên niên uân",
+                "千官": "thiên quan",
+                "千山": "thiên sơn",
+                "千山萬水": "thiên sơn vạn thuỷ",
+                "千載": "thiên tải",
+                "千載一時": "thiên tải nhất thì",
+                "千秋": "thiên thu",
+                "千歲": "thiên tuế",
+                "秋千": "thu thiên"
+            }
+        }
+    }
+}

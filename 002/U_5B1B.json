@@ -1,0 +1,113 @@
+{
+    "character": "嬛",
+    "details": {
+        "Âm Hán Việt": [
+            "hoàn",
+            "huyên",
+            "quỳnh"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nữ 女 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰女睘"
+        ],
+        "Nét bút": [
+            "フノ一丨フ丨丨一一丨フ一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "VWLV (女田中女)"
+        ],
+        "Unicode": [
+            "U+5B1B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "huán ㄏㄨㄢˊ",
+            "qióng ㄑㄩㄥˊ",
+            "xuān ㄒㄩㄢ",
+            "yuān ㄩㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "ケイ (kei)",
+            "ギョウ (gyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かた.い (kata.i)"
+        ],
+        "Âm Hàn": [
+            "현"
+        ],
+        "Âm Quảng Đông": [
+            "hyun1",
+            "king4"
+        ]
+    },
+    "meanings": {
+        "hoàn": {
+            "Từ điển phổ thông": [
+                "nơi cất giữ sách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Trơ trọi, cô độc. § Cũng như 'quỳnh' 惸, 'quỳnh' 煢.",
+                "Một âm là 'huyên'. (Tính) § Xem 'tiện huyên' 便嬛.",
+                "Một âm là 'hoàn'. § Cũng như 'hoàn' 環."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Biền huyên 緶嬛 tả cái dáng đẹp mà lẳng lơ.",
+                "Một âm là hoàn, cũng như chữ hoàn 環."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 環 (bộ 玉)."
+            ],
+            "compound_words": {
+                "嫏嬛": "lang hoàn"
+            }
+        },
+        "huyên": {
+            "Từ điển phổ thông": [
+                "đẹp mà lẳng lơ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Trơ trọi, cô độc. § Cũng như 'quỳnh' 惸, 'quỳnh' 煢.",
+                "Một âm là 'huyên'. (Tính) § Xem 'tiện huyên' 便嬛.",
+                "Một âm là 'hoàn'. § Cũng như 'hoàn' 環."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Biền huyên 緶嬛 tả cái dáng đẹp mà lẳng lơ.",
+                "Một âm là hoàn, cũng như chữ hoàn 環."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lẳng lơ: 便嬛 Đẹp mà lẳng lơ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng mềm mại của phụ nữ."
+            ],
+            "compound_words": {
+                "便嬛": "tiện huyên"
+            }
+        },
+        "quỳnh": {
+            "Từ điển trích dẫn": [
+                "(Tính) Trơ trọi, cô độc. § Cũng như 'quỳnh' 惸, 'quỳnh' 煢.",
+                "Một âm là 'huyên'. (Tính) § Xem 'tiện huyên' 便嬛.",
+                "Một âm là 'hoàn'. § Cũng như 'hoàn' 環."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Côi cút, trơ trọi một mình (dùng như 煢, bộ 火)."
+            ]
+        }
+    }
+}

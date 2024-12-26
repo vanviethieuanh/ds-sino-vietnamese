@@ -1,0 +1,92 @@
+{
+    "character": "濞",
+    "details": {
+        "Âm Hán Việt": [
+            "tý",
+            "tị",
+            "tỵ"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡鼻"
+        ],
+        "Nét bút": [
+            "丶丶一ノ丨フ一一一丨フ一丨一一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "EHUL (水竹山中)"
+        ],
+        "Unicode": [
+            "U+6FDE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ",
+            "pì ㄆㄧˋ"
+        ],
+        "Âm Nôm": [
+            "thi",
+            "tia"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)",
+            "ヘイ (hei)",
+            "ハイ (hai)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "pei3"
+        ]
+    },
+    "meanings": {
+        "tý": {
+            "Từ điển phổ thông": [
+                "tiếng nước phọt mạnh ra"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tiếng nước phọt mạnh ra."
+            ]
+        },
+        "tị": {
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) Tiếng nước chảy vọt mạnh.",
+                "(Danh) Tên sông ở Vân Nam 雲南, Trung Quốc."
+            ],
+            "compound_words": {
+                "滂濞": "bàng tị",
+                "彭濞": "bành tị",
+                "澎濞": "bành tị",
+                "懿濞": "ý tị"
+            }
+        },
+        "tỵ": {
+            "Từ điển phổ thông": [
+                "(xem: dạng tỵ 漾濞)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【漾濞】Dạng Tị [Yàngbì] Huyện Dạng Tị (ở tỉnh Vân Nam, Trung Quốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng nước vỗ mạnh."
+            ],
+            "compound_words": {
+                "漾濞": "dạng tỵ"
+            }
+        }
+    }
+}

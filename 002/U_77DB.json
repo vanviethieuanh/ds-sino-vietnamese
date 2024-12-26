@@ -1,0 +1,76 @@
+{
+    "character": "矛",
+    "details": {
+        "Âm Hán Việt": [
+            "mâu"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "mâu 矛 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "フ丶フ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "NINH (弓戈弓竹)"
+        ],
+        "Unicode": [
+            "U+77DB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "máo ㄇㄠˊ"
+        ],
+        "Âm Nôm": [
+            "mâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ム (mu)",
+            "ボウ (bō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほこ (hoko)"
+        ],
+        "Âm Hàn": [
+            "모"
+        ],
+        "Âm Quảng Đông": [
+            "maau4"
+        ]
+    },
+    "meanings": {
+        "mâu": {
+            "Từ điển phổ thông": [
+                "xà mâu (binh khí)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Một thứ binh khí thời xưa, như cái giáo, cán dài có mũi nhọn. ◇Tam quốc diễn nghĩa 三國演義: “Trình Phổ phi mã đĩnh mâu, trực thủ Hồ Chẩn” 程普飛馬挺矛, 直取胡軫 (Đệ ngũ hồi) Trình Phổ vác mâu phi ngựa ra đánh thẳng Hồ Chẩn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái giáo, một thứ đồ binh cán dài có mũi nhọn.",
+                "Nói năng tự trái ngược nhau gọi là mâu thuẫn 矛盾."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Ngọn) giáo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ bính khí thời xưa, cán dài, mũi nhọn, tương tự như cây dáo — Tên một bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "矛盾": "mâu thuẫn",
+                "丈八蛇矛": "trượng bát xà mâu",
+                "蛇矛": "xà mâu"
+            }
+        }
+    }
+}

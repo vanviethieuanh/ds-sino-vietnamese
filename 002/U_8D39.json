@@ -1,0 +1,84 @@
+{
+    "character": "费",
+    "details": {
+        "Âm Hán Việt": [
+            "bí",
+            "bỉ",
+            "phí"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "bối 貝 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱弗贝"
+        ],
+        "Nét bút": [
+            "フ一フノ丨丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "LNBO (中弓月人)"
+        ],
+        "Unicode": [
+            "U+8D39"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ",
+            "fèi ㄈㄟˋ"
+        ],
+        "Âm Nôm": [
+            "phí"
+        ],
+        "Âm Quảng Đông": [
+            "fai3"
+        ]
+    },
+    "meanings": {
+        "bí": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 費"
+            ]
+        },
+        "bỉ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 費."
+            ]
+        },
+        "phí": {
+            "Từ điển phổ thông": [
+                "chi phí, lệ phí, tiêu phí",
+                "phí phạm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 費."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Tiền) chi phí, phí tổn: 水電費 Tiền điện tiền nước; 醫藥費 Tiền thuốc men chữa bệnh; 免費 Khỏi phải trả tiền;",
+                "Tiêu phí, tiêu tốn, chi tiêu;",
+                "Chi tiêu quá độ, lãng phí, hoang phí;",
+                "Tốn (công, sức): 費了半天功夫才搞完 Tốn mất nửa ngày mới làm xong;",
+                "[Fèi] (Họ) Phí."
+            ],
+            "compound_words": {
+                "会费": "hội phí",
+                "经费": "kinh phí",
+                "浪费": "lãng phí",
+                "旅费": "lữ phí",
+                "免费": "miễn phí",
+                "收费": "thu phí",
+                "枉费": "uổng phí"
+            }
+        }
+    }
+}

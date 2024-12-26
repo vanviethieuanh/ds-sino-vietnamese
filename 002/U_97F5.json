@@ -1,0 +1,81 @@
+{
+    "character": "韵",
+    "details": {
+        "Âm Hán Việt": [
+            "vận"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "âm 音 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰音匀"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一丨フ一一ノフ丶一"
+        ],
+        "Thương Hiệt": [
+            "YAPIM (卜日心戈一)"
+        ],
+        "Unicode": [
+            "U+97F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yùn ㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "vần"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひびき (hibiki)"
+        ],
+        "Âm Hàn": [
+            "운"
+        ],
+        "Âm Quảng Đông": [
+            "wan6"
+        ]
+    },
+    "meanings": {
+        "vận": {
+            "Từ điển phổ thông": [
+                "vần",
+                "phong nhã"
+            ],
+            "Từ điển trích dẫn": [
+                "Cũng như 'vận' 韻.",
+                "Giản thể của chữ 韻."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ vận 韻."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vần, (các) nguyên âm: 詩韻 Vần thơ; 韻書 Sách vần, vận thư; 一韻 Một vần; 轉韻 Chuyển vần khác;",
+                "Âm thanh êm dịu: 琴韻悠揚 Tiếng đàn du dương;",
+                "Thú vị, ý nhị, phong nhã, phong vận: 韻人 Người có cốt cách phong nhã, người có phong vận; 韻事 Việc phong nhã;",
+                "[Yùn] (Họ) Vận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Vận 韻."
+            ],
+            "compound_words": {
+                "押韵": "áp vận",
+                "步韵": "bộ vận"
+            }
+        }
+    }
+}

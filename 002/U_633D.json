@@ -1,0 +1,86 @@
+{
+    "character": "挽",
+    "details": {
+        "Âm Hán Việt": [
+            "vãn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thủ 手 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘免"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "QNAU (手弓日山)"
+        ],
+        "Unicode": [
+            "U+633D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wǎn ㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "vãn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バン (ban)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "waan5"
+        ]
+    },
+    "meanings": {
+        "vãn": {
+            "Từ điển phổ thông": [
+                "kéo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kéo, giương, khoác. ◎Như: 'vãn xa' 挽車 kéo xe, 'vãn cung' 挽弓 giương cung, 'vãn hồi' 挽回 xoay lại, 'vãn lưu' 挽留 kéo giữ lại.",
+                "(Động) Xắn, cuốn, vén. ◎Như: 'vãn tụ' 挽袖 xắn tay áo.",
+                "(Động) Buộc, vấn, thắt. § Thông 'oản' 綰. ◎Như: 'vãn phát' 挽髮 vấn tóc.",
+                "(Động) Điếu, phúng, viếng (người chết). ◎Như: 'kính vãn' 敬挽 kính viếng.",
+                "(Tính) Ai điếu, kính viếng người chết. § Thông 'vãn' 輓. ◎Như: 'vãn ca' 挽歌 bài viếng thương kẻ chết."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kéo lại, như vãn hồi 挽回 xoay lại, vãn lưu 挽留 kéo giữ lại, v.v.",
+                "Lời vãn. Lời viếng thương kẻ chết gọi là vãn ca 挽歌. Xem chữ vãn 輓."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kéo: 輓車 Kéo xe;",
+                "Phúng viếng người chết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kéo lại. Dẫn tới — Bài hát trong đám tang."
+            ],
+            "compound_words": {
+                "挽歌": "vãn ca",
+                "挽救": "vãn cứu",
+                "挽對": "vãn đối",
+                "挽囘": "vãn hồi",
+                "挽聯": "vãn liên",
+                "挽留": "vãn lưu"
+            }
+        }
+    }
+}

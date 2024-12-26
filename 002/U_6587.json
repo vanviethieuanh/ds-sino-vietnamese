@@ -1,0 +1,279 @@
+{
+    "character": "文",
+    "details": {
+        "Âm Hán Việt": [
+            "văn",
+            "vấn"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "văn 文 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YK (卜大)"
+        ],
+        "Unicode": [
+            "U+6587"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wén ㄨㄣˊ",
+            "wèn ㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "văn",
+            "von"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ブン (bun)",
+            "モン (mon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふみ (fumi)",
+            "あや (aya)"
+        ],
+        "Âm Hàn": [
+            "문"
+        ],
+        "Âm Quảng Đông": [
+            "man4",
+            "man6"
+        ]
+    },
+    "meanings": {
+        "văn": {
+            "Từ điển phổ thông": [
+                "văn",
+                "vẻ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Vân, đường vằn. ◇Vương Sung 王充: 'Phúc xà đa văn' 蝮蛇多文 (Luận hành 論衡, Ngôn độc 言毒) Rắn hổ mang có nhiều vằn.",
+                "(Danh) Họp nhiều chữ lại thành bài gọi là 'văn'. ◎Như: 'soạn văn' 撰文 làm bài văn.",
+                "(Danh) Chữ viết, văn tự. § Bắt chước hình tượng các loài mà đặt ra chữ gọi là 'văn' 文, gộp cả hình với tiếng gọi là 'tự' 字. ◎Như: 'Trung văn' 中文 chữ Trung quốc, 'Anh văn' 英文 chữ Anh, 'giáp cốt văn' 甲骨文 chữ viết trên mai rùa, trên xương.",
+                "(Danh) Cái dấu vết do đạo đức lễ nhạc giáo hóa mà có vẻ đẹp đẽ rõ rệt gọi là 'văn'. ◎Như: 'văn minh' 文明, 'văn hóa' 文化.",
+                "(Danh) Lễ tiết, nghi thức. ◎Như: 'phồn văn nhục tiết' 繁文縟節 lễ nghi phiền phức. ◇Luận Ngữ 論語: 'Văn Vương kí một, văn bất tại tư hồ' 文王既沒, 文不在茲乎 (Tử Hãn 子罕) Vua Văn Vương mất rồi, lễ nhạc, chế độ (của ông ấy) không truyền lại sao!",
+                "(Danh) Phép luật, điển chương. ◎Như: 'vũ văn' 舞文 múa mèn phép luật (buộc người tội oan). ◇Sử Kí 史記: 'Lại sĩ vũ văn lộng pháp, khắc chương ngụy thư' 吏士舞文弄法, 刻章偽書 (Hóa thực liệt truyện 貨殖列傳) Quan lại múa may khinh thường pháp luật, cạo sửa ngụy tạo điển sách.",
+                "(Danh) Hiện tượng. ◎Như: 'thiên văn' 天文 hiện tượng trong không trung (mặt trời, mặt trăng, các hành tinh), 'nhân văn địa lí' 人文地理 hiện tượng đời sống con người trên mặt đất, sông ngòi, núi non.",
+                "(Danh) Đồng tiền. ◎Như: 'nhất văn' 一文 một đồng tiền. ◇Thủy hử truyện 水滸傳: 'Ngã tam thập văn mãi nhất bả, dã thiết đắc nhục, thiết đắc đậu hủ! Nhĩ đích điểu đao hữu thậm hảo xứ, khiếu tố bảo đao' 我三十文買一把, 也切得肉, 切得豆腐! 你的鳥刀有甚好處, 叫做寶刀 (Đệ thập nhị hồi) Tao (chỉ bỏ) ba mươi tiền cũng mua được một con, thái được thịt, cắt được đậu phụ! Đao đồ bỏ của mày thì hay ở chỗ nào mà gọi là đao báu?",
+                "(Danh) Họ 'Văn'.",
+                "(Tính) Thuộc về văn, văn tự. § Đối lại với 'vũ' 武. ◎Như: 'văn quan vũ tướng' 文官武將 quan văn tướng võ.",
+                "(Tính) Hòa nhã, ôn nhu, lễ độ. ◎Như: 'văn nhã' 文雅 đẹp tốt, lịch sự, 'văn tĩnh' 文靜 ôn hòa.",
+                "(Tính) Dịu, yếu, yếu ớt. ◎Như: 'văn hỏa' 文火 lửa liu riu.",
+                "(Động) Vẽ hoa văn, thích chữ. ◎Như: 'văn thân' 文身 vẽ mình. ◇Thủy hử truyện 水滸傳: 'Thùy tưởng kim nhật bị Cao Cầu giá tặc khanh hãm liễu ngã giá nhất tràng, văn liễu diện, trực đoán tống đáo giá lí' 誰想今日被高俅這賊坑陷了我這一場, 文了面, 直斷送到這里 (Đệ thập nhất hồi) Ai ngờ bị thằng giặc Cao Cầu hãm hại ta, thích chữ vào mặt, đày thẳng đưa đến đây.",
+                "Một âm là 'vấn'. (Động) Văn sức, che đậy bề ngoài. ◇Luận Ngữ 論語: 'Tiểu nhân chi quá dã tất vấn' 小人之過也必文 (Tử Trương 子張) Kẻ tiểu nhân tất dùng văn sức bề ngoài để che lỗi của mình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Văn vẻ, như văn thạch 文石 vân đá (đá hoa).",
+                "Văn từ, họp nhiều chữ lại thành bài gọi là văn.",
+                "Văn tự, bắt chước hình tượng các loài mà đặt ra chữ gọi là văn 文, gộp cả hình với tiếng gọi là tự 字.",
+                "Văn, cái dấu vết do đạo đức lễ nhạc giáo hoá mà có vẻ đẹp đẽ rõ rệt gọi là văn, như văn minh 文明, văn hoá 文化, v.v.",
+                "Văn hoa, chỉ cốt bề ngoài cho đẹp, không chuộng đến sự thực gọi là văn, như phồn văn 繁文, phù văn 浮文, v.v.",
+                "Quan văn, các quan làm việc về văn tự gọi là quan văn. Người nào có vẻ hoà nhã lễ độ gọi là văn nhã 文雅 hay văn tĩnh 文靜, v.v.",
+                "Phép luật, như vũ văn 舞文 múa mèn phép luật buộc người tội oan.",
+                "Ðồng tiền, như nhất văn 一文 một đồng tiền.",
+                "Một âm là vấn. Văn sức, như tiểu nhân chi quá dã tất vấn 小人之過也，必文 tiểu nhân có lỗi tất che đậy (văn sức điều lỗi cho không phải là lỗi)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chữ: 甲骨文 Chữ giáp cốt;",
+                "Văn tự, ngôn ngữ, tiếng: 越南文 Việt văn, tiếng Việt, chữ Việt;",
+                "Bài văn, lời văn, văn chương, văn: 散文 Văn xuôi;",
+                "Văn ngôn: 文言 Thể văn ngôn (của Hán ngữ); 半文半白 Nửa văn ngôn nửa bạch thoại;",
+                "Lễ nghi, văn hoa bề ngoài, văn vẻ, màu mè: 繁文縟節 Nghi lễ phiền phức; 浮文 Văn hoa phù phiếm; 文石 Đá hoa;",
+                "Văn: 文化 Văn hoá; 文明 Văn minh;",
+                "Văn, trí thức: 文官武將 Quan văn tướng võ;",
+                "Dịu, yếu, yếu ớt: 文火 Lửa dịu;",
+                "Những hiện tượng thiên nhiên: 天文 Thiên văn; 地文 Địa văn;",
+                "Đồng tiền, đồng xu: 不値一文錢 Không đáng một đồng xu;",
+                "(văn) Pháp luật, điều khoản luật pháp: 文章 Luật pháp; 與趙禹共定諸律令，務在深文 Cùng với Triệu Vũ định ra các luật lệ, cốt sao cho các điều khoản được chặt chẽ rõ ràng (Sử kí);",
+                "(văn) Chế độ lễ nhạc thời cổ: 文王旣沒，文不在茲乎？ Vua Văn vương đã mất, nền văn (chế độ lễ nhạc) không ở nơi này sao? (Luận ngữ);",
+                "(văn) Vẽ hoa văn: 文身之俗蓋始此 Tục vẽ mình có lẽ bắt đầu từ đó;",
+                "Che giấu. 【文過飾非】văn quá sức phi [wénguò-shìfei] Tô điểm cho cái sai thành đúng, dùng ngôn từ đẹp đẽ để lấp liếm sai lầm, che đậy lỗi lầm;",
+                "(Thuộc về) quan văn (trái với quan võ), dân sự: 文臣 Quan văn;",
+                "[Wén] (Họ) Văn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vẻ đẹp bề ngoài. Td: Văn hoa — Chữ nghĩa. Td: Văn tự — Lời nói hay đẹp. Td: Văn chương — Đồng tiền — Nhỏ nhắn thanh nhã.  Đoạn trường tân thanh : » So dồn dây vũ dây văn « ( dây văn là dây đàn nhỏ, âm thanh cao ) — Tên một bộ chữ Hán, tức bộ Văn."
+            ],
+            "compound_words": {
+                "案文": "án văn",
+                "飲冰室文集": "ẩm băng thất văn tập",
+                "陰文": "âm văn",
+                "博文約禮": "bác văn ước lễ",
+                "白話文": "bạch thoại văn",
+                "跋文": "bạt văn",
+                "不成文": "bất thành văn",
+                "不成文法": "bất thành văn pháp",
+                "碑文": "bi văn",
+                "變文": "biến văn",
+                "駢文": "biền văn",
+                "評文": "bình văn",
+                "佩文韻府": "bội văn vận phủ",
+                "拘文": "câu văn",
+                "正文": "chánh văn",
+                "朱文": "chu văn",
+                "贅文": "chuế văn",
+                "拙庵文集": "chuyết am văn tập",
+                "古文": "cổ văn",
+                "公文": "công văn",
+                "具文": "cụ văn",
+                "演文": "diễn văn",
+                "揚琳文集": "dương lâm văn tập",
+                "多文": "đa văn",
+                "多文為富": "đa văn vi phú",
+                "澹庵文集": "đạm am văn tập",
+                "盜文": "đạo văn",
+                "牒文": "điệp văn",
+                "遯庵文集": "độn am văn tập",
+                "蔗園詩文集": "giá viên thi văn tập",
+                "漢文": "hán văn",
+                "行文": "hành văn",
+                "檄將士文": "hịch tướng sĩ văn",
+                "換文": "hoán văn",
+                "皇越文海": "hoàng việt văn hải",
+                "皇越文選": "hoàng việt văn tuyển",
+                "虛文": "hư văn",
+                "課文": "khoá văn",
+                "今文": "kim văn",
+                "論文": "luận văn",
+                "俄文": "nga văn",
+                "午峯文集": "ngọ phong văn tập",
+                "卧遊巢詩文集": "ngoạ du sào thi văn tập",
+                "吳家文派": "ngô gia văn phái",
+                "原文": "nguyên văn",
+                "人文": "nhân văn",
+                "梵文": "phạn văn",
+                "法文": "pháp văn",
+                "煩文": "phiền văn",
+                "片文": "phiến văn",
+                "浮文": "phù văn",
+                "方亭文集": "phương đình văn tập",
+                "關嚴寺碑文": "quan nghiêm tự bi văn",
+                "桂堂文集": "quế đường văn tập",
+                "國文": "quốc văn",
+                "册文": "sách văn",
+                "疏文": "sớ văn",
+                "崇文": "sùng văn",
+                "作文": "tác văn",
+                "散文": "tản văn",
+                "奏文": "tấu văn",
+                "祭文": "tế văn",
+                "石農詩文集": "thạch nông thi văn tập",
+                "天文": "thiên văn",
+                "退食記文": "thoái thực kí văn",
+                "上下文": "thượng hạ văn",
+                "錢文": "tiền văn",
+                "呈文": "trình văn",
+                "中文": "trung văn",
+                "松軒文集": "tùng hiên văn tập",
+                "嗣徳聖製詩文": "tự đức thánh chế thi văn",
+                "斯文": "tư văn",
+                "文案": "văn án",
+                "文憑": "văn bằng",
+                "文蛤": "văn cáp",
+                "文址": "văn chỉ",
+                "文职": "văn chức",
+                "文職": "văn chức",
+                "文章": "văn chương",
+                "文具": "văn cụ",
+                "文壇": "văn đàn",
+                "文档": "văn đáng",
+                "文檔": "văn đáng",
+                "文階": "văn giai",
+                "文鞋": "văn hài",
+                "文豪": "văn hào",
+                "文憲": "văn hiến",
+                "文献": "văn hiến",
+                "文獻": "văn hiến",
+                "文化": "văn hoá",
+                "文学": "văn học",
+                "文學": "văn học",
+                "文契": "văn khế",
+                "文科": "văn khoa",
+                "文庫": "văn khố",
+                "文魁": "văn khôi",
+                "文件": "văn kiện",
+                "文郎": "văn lang",
+                "文理": "văn lí",
+                "文盲": "văn manh",
+                "文廟": "văn miếu",
+                "文明": "văn minh",
+                "文艺": "văn nghệ",
+                "文藝": "văn nghệ",
+                "文雅": "văn nhã",
+                "文人": "văn nhân",
+                "文弱": "văn nhược",
+                "文派": "văn phái",
+                "文範": "văn phạm",
+                "文法": "văn pháp",
+                "文房": "văn phòng",
+                "文官": "văn quan",
+                "文策": "văn sách",
+                "文士": "văn sĩ",
+                "文飾": "văn sức",
+                "文集": "văn tập",
+                "文采": "văn thái",
+                "文聲": "văn thanh",
+                "文紳": "văn thân",
+                "文身": "văn thân",
+                "文體": "văn thể",
+                "文詩": "văn thi",
+                "文書": "văn thư",
+                "文靜": "văn tĩnh",
+                "文治": "văn trị",
+                "文選": "văn tuyển",
+                "文字": "văn tự",
+                "文祠": "văn từ",
+                "文詞": "văn từ",
+                "文苑": "văn uyển",
+                "文物": "văn vật",
+                "文武": "văn vũ",
+                "韻文": "vận văn",
+                "綴文": "xuyết văn",
+                "偃武修文": "yển vũ tu văn",
+                "要文": "yếu văn"
+            }
+        },
+        "vấn": {
+            "Từ điển trích dẫn": [
+                "(Danh) Vân, đường vằn. ◇Vương Sung 王充: 'Phúc xà đa văn' 蝮蛇多文 (Luận hành 論衡, Ngôn độc 言毒) Rắn hổ mang có nhiều vằn.",
+                "(Danh) Họp nhiều chữ lại thành bài gọi là 'văn'. ◎Như: 'soạn văn' 撰文 làm bài văn.",
+                "(Danh) Chữ viết, văn tự. § Bắt chước hình tượng các loài mà đặt ra chữ gọi là 'văn' 文, gộp cả hình với tiếng gọi là 'tự' 字. ◎Như: 'Trung văn' 中文 chữ Trung quốc, 'Anh văn' 英文 chữ Anh, 'giáp cốt văn' 甲骨文 chữ viết trên mai rùa, trên xương.",
+                "(Danh) Cái dấu vết do đạo đức lễ nhạc giáo hóa mà có vẻ đẹp đẽ rõ rệt gọi là 'văn'. ◎Như: 'văn minh' 文明, 'văn hóa' 文化.",
+                "(Danh) Lễ tiết, nghi thức. ◎Như: 'phồn văn nhục tiết' 繁文縟節 lễ nghi phiền phức. ◇Luận Ngữ 論語: 'Văn Vương kí một, văn bất tại tư hồ' 文王既沒, 文不在茲乎 (Tử Hãn 子罕) Vua Văn Vương mất rồi, lễ nhạc, chế độ (của ông ấy) không truyền lại sao!",
+                "(Danh) Phép luật, điển chương. ◎Như: 'vũ văn' 舞文 múa mèn phép luật (buộc người tội oan). ◇Sử Kí 史記: 'Lại sĩ vũ văn lộng pháp, khắc chương ngụy thư' 吏士舞文弄法, 刻章偽書 (Hóa thực liệt truyện 貨殖列傳) Quan lại múa may khinh thường pháp luật, cạo sửa ngụy tạo điển sách.",
+                "(Danh) Hiện tượng. ◎Như: 'thiên văn' 天文 hiện tượng trong không trung (mặt trời, mặt trăng, các hành tinh), 'nhân văn địa lí' 人文地理 hiện tượng đời sống con người trên mặt đất, sông ngòi, núi non.",
+                "(Danh) Đồng tiền. ◎Như: 'nhất văn' 一文 một đồng tiền. ◇Thủy hử truyện 水滸傳: 'Ngã tam thập văn mãi nhất bả, dã thiết đắc nhục, thiết đắc đậu hủ! Nhĩ đích điểu đao hữu thậm hảo xứ, khiếu tố bảo đao' 我三十文買一把, 也切得肉, 切得豆腐! 你的鳥刀有甚好處, 叫做寶刀 (Đệ thập nhị hồi) Tao (chỉ bỏ) ba mươi tiền cũng mua được một con, thái được thịt, cắt được đậu phụ! Đao đồ bỏ của mày thì hay ở chỗ nào mà gọi là đao báu?",
+                "(Danh) Họ 'Văn'.",
+                "(Tính) Thuộc về văn, văn tự. § Đối lại với 'vũ' 武. ◎Như: 'văn quan vũ tướng' 文官武將 quan văn tướng võ.",
+                "(Tính) Hòa nhã, ôn nhu, lễ độ. ◎Như: 'văn nhã' 文雅 đẹp tốt, lịch sự, 'văn tĩnh' 文靜 ôn hòa.",
+                "(Tính) Dịu, yếu, yếu ớt. ◎Như: 'văn hỏa' 文火 lửa liu riu.",
+                "(Động) Vẽ hoa văn, thích chữ. ◎Như: 'văn thân' 文身 vẽ mình. ◇Thủy hử truyện 水滸傳: 'Thùy tưởng kim nhật bị Cao Cầu giá tặc khanh hãm liễu ngã giá nhất tràng, văn liễu diện, trực đoán tống đáo giá lí' 誰想今日被高俅這賊坑陷了我這一場, 文了面, 直斷送到這里 (Đệ thập nhất hồi) Ai ngờ bị thằng giặc Cao Cầu hãm hại ta, thích chữ vào mặt, đày thẳng đưa đến đây.",
+                "Một âm là 'vấn'. (Động) Văn sức, che đậy bề ngoài. ◇Luận Ngữ 論語: 'Tiểu nhân chi quá dã tất vấn' 小人之過也必文 (Tử Trương 子張) Kẻ tiểu nhân tất dùng văn sức bề ngoài để che lỗi của mình."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Văn vẻ, như văn thạch 文石 vân đá (đá hoa).",
+                "Văn từ, họp nhiều chữ lại thành bài gọi là văn.",
+                "Văn tự, bắt chước hình tượng các loài mà đặt ra chữ gọi là văn 文, gộp cả hình với tiếng gọi là tự 字.",
+                "Văn, cái dấu vết do đạo đức lễ nhạc giáo hoá mà có vẻ đẹp đẽ rõ rệt gọi là văn, như văn minh 文明, văn hoá 文化, v.v.",
+                "Văn hoa, chỉ cốt bề ngoài cho đẹp, không chuộng đến sự thực gọi là văn, như phồn văn 繁文, phù văn 浮文, v.v.",
+                "Quan văn, các quan làm việc về văn tự gọi là quan văn. Người nào có vẻ hoà nhã lễ độ gọi là văn nhã 文雅 hay văn tĩnh 文靜, v.v.",
+                "Phép luật, như vũ văn 舞文 múa mèn phép luật buộc người tội oan.",
+                "Ðồng tiền, như nhất văn 一文 một đồng tiền.",
+                "Một âm là vấn. Văn sức, như tiểu nhân chi quá dã tất vấn 小人之過也，必文 tiểu nhân có lỗi tất che đậy (văn sức điều lỗi cho không phải là lỗi)."
+            ]
+        }
+    }
+}

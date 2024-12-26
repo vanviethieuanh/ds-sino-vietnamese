@@ -1,0 +1,201 @@
+{
+    "character": "節",
+    "details": {
+        "Âm Hán Việt": [
+            "tiết",
+            "tiệt"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trúc 竹 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮即"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶フ一一フ丶フ丨"
+        ],
+        "Thương Hiệt": [
+            "HAIL (竹日戈中)"
+        ],
+        "Unicode": [
+            "U+7BC0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiē ㄐㄧㄝ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "tét",
+            "tết",
+            "tiết",
+            "típ",
+            "tít"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セツ (setsu)",
+            "セチ (sechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふし (fushi)",
+            "-ぶし (-bushi)",
+            "のっと (no'to)"
+        ],
+        "Âm Hàn": [
+            "절"
+        ],
+        "Âm Quảng Đông": [
+            "zit3"
+        ]
+    },
+    "meanings": {
+        "tiết": {
+            "Từ điển phổ thông": [
+                "đốt, đoạn",
+                "tiết trời",
+                "một khoảng thời gian",
+                "ngày tết, lễ",
+                "lễ tháo, tiết tháo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đốt, lóng (thực vật). ◎Như: 'tùng tiết' 松節 đốt thông, 'trúc tiết' 竹節 đốt tre.",
+                "(Danh) Khớp xương, đốt xương (động vật). ◎Như: 'cốt tiết' 骨節 đốt xương, 'chỉ tiết' 指節 đốt ngón tay, 'kích tiết' 擊節 vỗ tay.",
+                "(Danh) Phần, khúc, đoạn, mạch. ◎Như: 'chương tiết' 章節 phần đoạn bài văn, chương sách.",
+                "(Danh) Phân khu (thời gian, khí hậu). ◎Như: 'quý tiết' 季節 mùa trong năm, 'nhị thập tứ tiết khí' 二十四節氣 hai mươi bốn tiết trong năm: 'lập xuân' 立春, 'vũ thủy' 雨水, 'kinh trập' 驚蟄, 'xuân phân' 春分, v.v.",
+                "(Danh) Sự, việc. ◎Như: 'chi tiết' 枝節, 'tình tiết' 情節.",
+                "(Danh) Ngày lễ, ngày hội (mang ý nghĩa đặc thù: sinh nhật, kỉ niệm, khánh hạ, v.v.). ◎Như: 'thanh minh tiết' 清明節 tiết thanh minh, 'trung thu tiết' 中秋節 ngày lễ trung thu (rằm tháng tám), 'thanh niên tiết' 青年節 ngày tuổi trẻ.",
+                "(Danh) Chí khí, tư cách hợp đạo, đúng lễ. ◎Như: 'tiết tháo' 節操 hành vi giữ đúng lễ nghĩa, 'danh tiết' 名節 trung nghĩa.",
+                "(Danh) Lễ nghi. ◎Như: 'lễ tiết' 禮節 lễ nghi. ◇Luận Ngữ 論語: 'Trưởng ấu chi tiết, bất khả phế dã' 長幼之節，不可廢也 (Vi Tử 衛子) Lễ nghi thứ tự giữa người lớn và trẻ nhỏ, không thể bỏ được.",
+                "(Danh) Vật làm tin của sứ giả thời xưa. § Thông 'tiết' 卩. ◎Như: 'phù tiết' 符節 ấn tín của sứ giả, 'sứ tiết' 使節 sứ giả.",
+                "(Danh) Cái phách (nhạc khí). ◎Như: 'tiết tấu' 節奏 nhịp điệu.",
+                "(Danh) Lượng từ: (1) Số giờ giảng học. ◎Như: 'kim thiên thượng liễu tam tiết khóa' 今天上了三節課 hôm nay lên lớp ba tiết (giờ học). (2) Toa xe. ◎Như: 'giá liệt hỏa xa hữu thập nhị tiết xa sương' 這列火車有十二節車廂 xe lửa này có mười hai toa. (3) Đoạn, khúc (bài văn, bản nhạc). ◎Như: 'đệ nhị chương đệ nhất tiết' 第二章第一節 chương hai tiết một.",
+                "(Danh) Họ 'Tiết'.",
+                "(Động) Hạn chế, ước thúc. ◎Như: 'tiết dục' 節育 hạn chế sinh đẻ, 'tiết chế' 節制 ngăn chận.",
+                "(Động) Kiệm tỉnh, tằn tiện. ◇Luận Ngữ 論語: 'Tiết dụng nhi ái nhân, sử dân dĩ thì' 節用而愛人, 使民以時 (Học nhi 學而) Không lãng phí mà thương người, sai dân làm việc, phải hợp thời vụ.",
+                "(Tính) Cao ngất. ◇Thi Kinh 詩經: 'Tiết bỉ Nam San, Duy thạch nham nham' 節彼 南山, 維石巖巖 (Tiểu nhã 小雅, Tiết nam san 節南山) Cao vòi vọi, núi Nam Sơn kia, (Trông lên) chỉ thấy đá lởm chởm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðốt tre, đốt cây.",
+                "Ðốt xương, như cốt tiết 骨節 đốt xương, chỉ tiết 指節 đốt ngón tay, vì thế nên vỗ tay gọi là kích tiết 擊節.",
+                "Phàm sự gì có đoạn có mạch đều gọi là tiết, như một đầu mối sự gì gọi là nhất tiết 一節, đầu mối rối beng gọi là chi tiết 枝節, văn chương có phân ra từng chương từng đoạn cũng gọi là chương tiết 章節.",
+                "Trật tự, như cử động phải có lễ tiết, hợp lễ phép gọi là trúng tiết 中節.",
+                "Hát, múa, âm nhạc lúc mau lúc khoan có dịp gọi là ứng tiết 節 hay tiết tấu 節奏. Cái dịp để hãm các âm nhạc cũng gọi là tiết.",
+                "Thời tiết, một năm chia ra 24 tiết, như xuân phân 春分, lập xuân 立春, v.v. để chỉ rõ khí hậu nó biến đổi như thế nào.",
+                "Dè dặn, kiềm chế không cho quá độ gọi là tiết, như tiết lao 節勞 bớt làm sự nhọc quá, tiết ai 節哀 bớt nỗi thương đi, v.v.",
+                "Giảm bớt đi.",
+                "Tri tiết, người biết tự ức chế mình cho hợp lễ nghĩa gọi là người có tiết tháo 節操, như danh tiết 名節, phong tiết 風節 đều một nghĩa ấy cả. Tục gọi đàn bà goá không đi lấy chồng là tiết phụ 節婦.",
+                "Phù tiết 符節 ngày xưa đi sứ cầm cái ấn tín của vua mình đi để làm tin gọi là phù tiết, vì thế nên sau người ta gọi sứ giả là sứ tiết 使節.",
+                "Ngày thọ của vua gọi là tiết.",
+                "Thứ bực.",
+                "Ngày tết.",
+                "Một âm là tiệt. Lộng lẫy, cao ngất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【節骨眼】 tiết cốt nhãn [jieguyăn] (đph) Giờ phút quan trọng, mấu chốt: 在這節骨眼上 Trong giờ phút quan trọng đó. Xem 節 [jié]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái mắt, cái mấu tre, đốt tre — Khớp xương — Phần, đoạn của sự việc — Kiềm chế. Giảm bớt. Td: Tiết chế cờ lệnh của vua giao cho quan để thi hành nhiệm vụ được dễ dàng. Ta cũng gọi là cờ tiết — Lòng dạ ngay thẳng, cứng cỏi, không thay đổi.  Đoạn trường tân thanh : » Tiết trăm năm nở bỏ đi một ngày «. — Khoảng thời gian theo khí hậu mà chia ra.  Đoạn trường tân thanh : » Thanh minh trong tiết tháng ba «. — Ngày lễ tết nhất định trong năm — Sự nhịp nhàng, nhanh chậm của bài nhạc. Td: Tiết điệu — Một âm khác là Tiệt. Xem Tiệt."
+            ],
+            "compound_words": {
+                "音節": "âm tiết",
+                "柏舟之節": "bách chu chi tiết",
+                "抱節君": "bão tiết quân",
+                "八節": "bát tiết",
+                "變節": "biến tiết",
+                "蒲節": "bồ tiết",
+                "制節": "chế tiết",
+                "枝節": "chi tiết",
+                "肘關節": "chửu quan tiết",
+                "骨關節": "cốt quan tiết",
+                "名節": "danh tiết",
+                "誕節": "đản tiết",
+                "調節": "điều tiết",
+                "丁字節": "đinh tự tiết",
+                "冬節": "đông tiết",
+                "佳節": "giai tiết",
+                "夏節": "hạ tiết",
+                "懸節": "huyền tiết",
+                "氣節": "khí tiết",
+                "屈節": "khuất tiết",
+                "擊節": "kích tiết",
+                "冷節": "lãnh tiết",
+                "令節": "lệnh tiết",
+                "品節": "phẩm tiết",
+                "風節": "phong tiết",
+                "復活節": "phục hoạt tiết",
+                "關節": "quan tiết",
+                "季節": "quý tiết",
+                "瓊瑠節婦傳": "quỳnh lưu tiết phụ truyện",
+                "士節": "sĩ tiết",
+                "蓄衣節食": "súc y tiết thực",
+                "使節": "sứ tiết",
+                "蒐節": "sưu tiết",
+                "盡節": "tận tiết",
+                "細節": "tế tiết",
+                "聖誕節": "thánh đản tiết",
+                "失節": "thất tiết",
+                "時節": "thời tiết",
+                "守節": "thủ tiết",
+                "節制": "tiết chế",
+                "節欲": "tiết dục",
+                "節育": "tiết dục",
+                "節用": "tiết dụng",
+                "節點": "tiết điểm",
+                "節度": "tiết độ",
+                "節度使": "tiết độ sứ",
+                "節減": "tiết giảm",
+                "節行": "tiết hạnh",
+                "節儉": "tiết kiệm",
+                "節烈": "tiết liệt",
+                "節目": "tiết mục",
+                "節義": "tiết nghĩa",
+                "節婦": "tiết phụ",
+                "節奏": "tiết tấu",
+                "節操": "tiết tháo",
+                "小節": "tiểu tiết",
+                "情節": "tình tiết",
+                "撙節": "tổn tiết",
+                "貞節": "trinh tiết",
+                "中元節": "trung nguyên tiết",
+                "直節": "trực tiết",
+                "殉節": "tuẫn tiết",
+                "字節": "tự tiết",
+                "死節": "tử tiết",
+                "晚節": "vãn tiết",
+                "春節": "xuân tiết"
+            }
+        },
+        "tiệt": {
+            "Từ điển Thiều Chửu": [
+                "Ðốt tre, đốt cây.",
+                "Ðốt xương, như cốt tiết 骨節 đốt xương, chỉ tiết 指節 đốt ngón tay, vì thế nên vỗ tay gọi là kích tiết 擊節.",
+                "Phàm sự gì có đoạn có mạch đều gọi là tiết, như một đầu mối sự gì gọi là nhất tiết 一節, đầu mối rối beng gọi là chi tiết 枝節, văn chương có phân ra từng chương từng đoạn cũng gọi là chương tiết 章節.",
+                "Trật tự, như cử động phải có lễ tiết, hợp lễ phép gọi là trúng tiết 中節.",
+                "Hát, múa, âm nhạc lúc mau lúc khoan có dịp gọi là ứng tiết 節 hay tiết tấu 節奏. Cái dịp để hãm các âm nhạc cũng gọi là tiết.",
+                "Thời tiết, một năm chia ra 24 tiết, như xuân phân 春分, lập xuân 立春, v.v. để chỉ rõ khí hậu nó biến đổi như thế nào.",
+                "Dè dặn, kiềm chế không cho quá độ gọi là tiết, như tiết lao 節勞 bớt làm sự nhọc quá, tiết ai 節哀 bớt nỗi thương đi, v.v.",
+                "Giảm bớt đi.",
+                "Tri tiết, người biết tự ức chế mình cho hợp lễ nghĩa gọi là người có tiết tháo 節操, như danh tiết 名節, phong tiết 風節 đều một nghĩa ấy cả. Tục gọi đàn bà goá không đi lấy chồng là tiết phụ 節婦.",
+                "Phù tiết 符節 ngày xưa đi sứ cầm cái ấn tín của vua mình đi để làm tin gọi là phù tiết, vì thế nên sau người ta gọi sứ giả là sứ tiết 使節.",
+                "Ngày thọ của vua gọi là tiết.",
+                "Thứ bực.",
+                "Ngày tết.",
+                "Một âm là tiệt. Lộng lẫy, cao ngất."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cao lớn — Một âm là Tiết. Xem Tiết."
+            ]
+        }
+    }
+}

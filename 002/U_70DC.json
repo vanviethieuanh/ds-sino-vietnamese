@@ -1,0 +1,107 @@
+{
+    "character": "烜",
+    "details": {
+        "Âm Hán Việt": [
+            "huyên",
+            "huyễn",
+            "huỷ",
+            "hối"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "hoả 火 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰火亘"
+        ],
+        "Nét bút": [
+            "丶ノノ丶一丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "FMAM (火一日一)"
+        ],
+        "Unicode": [
+            "U+70DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "huǐ ㄏㄨㄟˇ",
+            "xuān ㄒㄩㄢ",
+            "xuǎn ㄒㄩㄢˇ"
+        ],
+        "Âm Nôm": [
+            "huyễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "テン (ten)",
+            "カン (kan)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわ.かす (kawa.kasu)"
+        ],
+        "Âm Hàn": [
+            "훤"
+        ],
+        "Âm Quảng Đông": [
+            "hyun1",
+            "hyun2"
+        ]
+    },
+    "meanings": {
+        "huyên": {
+            "Từ điển trích dẫn": [
+                "(Tính) Thế lửa cháy mạnh.",
+                "(Tính) Sáng, rực rỡ. ◇Lí Bạch 李白: 'Thiên thu nhị tráng sĩ, Huyên hách Đại Lương thành' 千秋二壯士, 烜赫大梁城 (Hiệp khách hành 俠客行) Nghìn thu hai tráng sĩ, Tên tuổi rực rỡ tại thành Đại Lương.",
+                "(Động) Phơi khô, làm cho khô ráo. ◇Dịch Kinh 易經: 'Vũ dĩ nhuận chi, nhật dĩ huyên chi' 雨以潤之, 日以烜之 (Thuyết quái 說卦) Mưa thấm nhuần, mặt trời làm cho khô ráo.",
+                "(Động) Chiếu sáng. ◇Vương Phu Chi 王夫之: 'Hoa đăng huyên ư vĩnh dạ hề' 華鐙烜於永夜兮 (Cửu chiêu 九昭) Hoa đăng chiếu sáng đêm mãi mãi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ huyên 暄."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Khô ráo — Sáng sủa — Một âm khác là Huỷ."
+            ]
+        },
+        "huyễn": {
+            "Từ điển phổ thông": [
+                "lửa cháy mạnh",
+                "sáng sủa",
+                "phơi khô"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lửa cháy mạnh;",
+                "Sáng sủa;",
+                "Phơi khô;",
+                "【烜赫】 huyễn hách [xuănhè] Thanh thế lớn."
+            ],
+            "compound_words": {
+                "烜赫": "huyễn hách"
+            }
+        },
+        "huỷ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngọn lửa — Một âm là Huyên."
+            ]
+        },
+        "hối": {
+            "Từ điển phổ thông": [
+                "lửa"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Lửa."
+            ]
+        }
+    }
+}

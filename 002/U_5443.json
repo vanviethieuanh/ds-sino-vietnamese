@@ -1,0 +1,80 @@
+{
+    "character": "呃",
+    "details": {
+        "Âm Hán Việt": [
+            "ách"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口厄"
+        ],
+        "Nét bút": [
+            "丨フ一一ノフフ"
+        ],
+        "Thương Hiệt": [
+            "RMSU (口一尸山)"
+        ],
+        "Unicode": [
+            "U+5443"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "è"
+        ],
+        "Âm Nôm": [
+            "ách",
+            "ải",
+            "nhách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "アク (aku)",
+            "アイ (ai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "な.く (na.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "aak1",
+            "ak1"
+        ]
+    },
+    "meanings": {
+        "ách": {
+            "Từ điển phổ thông": [
+                "nấc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trợ) Đặt ở cuối câu, biểu thị trầm trồ khen ngợi hoặc kinh hãi.",
+                "(Trạng thanh) Tiếng gà kêu, chim kêu.",
+                "(Trạng thanh) Tiếng cười.",
+                "(Trạng thanh) Tiếng nấc (bệnh 'ách nghịch' 呃逆). § Nguyên viết là 呝."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nấc. Ách nghịch 呃逆 chứng nấc. Nguyên viết là 呝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nấc, nất cục. 【呃逆】 ách nghịch [ènì] (y) Bệnh hay nấc, chứng nấc cục."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nấc, nấc cụt."
+            ],
+            "compound_words": {
+                "呃呃": "ách ách",
+                "呃逆": "ách nghịch"
+            }
+        }
+    }
+}

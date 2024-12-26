@@ -1,0 +1,148 @@
+{
+    "character": "采",
+    "details": {
+        "Âm Hán Việt": [
+            "thái",
+            "thải"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "biện 釆 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱爫木"
+        ],
+        "Nét bút": [
+            "ノ丶丶ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BD (月木)"
+        ],
+        "Unicode": [
+            "U+91C7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cǎi ㄘㄞˇ",
+            "cài ㄘㄞˋ"
+        ],
+        "Âm Nôm": [
+            "thái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サイ (sai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "と.る (to.ru)",
+            "いろどり (irodori)"
+        ],
+        "Âm Hàn": [
+            "채"
+        ],
+        "Âm Quảng Đông": [
+            "coi2",
+            "coi3"
+        ]
+    },
+    "meanings": {
+        "thái": {
+            "Từ điển phổ thông": [
+                "hái, ngắt",
+                "chọn nhặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hái, ngắt. ◇Tam quốc diễn nghĩa 三國演義: 'Nhập san thải dược' 入山采藥 (Đệ nhất hồi 第一回) Vào núi hái thuốc.",
+                "(Động) Lựa, chọn. § Thông 'thải' 採. ◇Sử Kí 史記: 'Thải thượng cổ \"Đế\" vị hiệu, hiệu viết \"Hoàng Đế\"' 采上古[帝]位號, 號曰[皇帝] (Tần Thủy Hoàng bổn kỉ 秦始皇本紀) Chọn lấy danh hiệu \"Đế\" của các vua thời thượng cổ, mà đặt hiệu là \"Hoàng Đế\".",
+                "(Động) Sưu tập. ◇Hán Thư 漢書: 'Cố cổ hữu thải thi chi quan, vương giả sở dĩ quan phong tục, tri đắc thất, tự khảo chánh dã' 故古有采詩之官, 王者所以觀風俗, 知得失, 自考正也 (Nghệ văn chí 藝文志) Nên xưa có quan sưu tập thơ, vua chúa lấy để xem xét phong tục, biết đắc thất (được hay mất), mà tự khảo sát chính trị vậy.",
+                "(Động) Khai thác, tiếp thu.",
+                "(Danh) Lụa màu. ◇Sử Kí 史記: 'Văn thải thiên thất' 文采千匹 (Hóa thực liệt truyện 貨殖列傳) Lụa hoa văn có màu nghìn xấp.",
+                "(Danh) Màu sắc. ◎Như: 'tạp thải' 雜采 năm sắc xen nhau.",
+                "(Danh) Dáng dấp, vẻ người. ◎Như: 'phong thải' 風采 dáng vẻ.",
+                "(Danh) Văn chương, vẻ đẹp rực rỡ. ◇Khuất Nguyên 屈原: 'Chúng bất tri dư chi dị thải' 眾不知余之異采 (Cửu chương 九章, Hoài sa 懷沙) Chúng nhân không biết vẻ đẹp văn chương rực rỡ dị thường của ta.",
+                "(Danh) Ngày xưa quan được ăn lộc riêng một ấp gọi là 'thải ấp' 采邑.",
+                "§ Ghi chú: Ta quen đọc là 'thái'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hái, ngắt.",
+                "Lựa chọn. Nay thông dụng chữ thải 採.",
+                "Văn sức. Năm sắc xen nhau gọi là tạp thải 雜采, dáng dấp người gọi là phong thải 風采. Ngày xưa quan được ăn lộc riêng một ấp gọi là thải ấp 采邑. Ta quen đọc là chữ thái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hái, bẻ, trảy, ngắt: 採茶 Hái chè; 採花 Bẻ hoa;",
+                "Chọn nhặt, thu nhặt, tiếp thu (dùng như 採, bộ 釆): 採納 Tiếp thu;",
+                "Lôi kéo;",
+                "Vẫy tay ra hiệu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hái. Nhặt lấy — Mầu mỡ. Tốt."
+            ],
+            "compound_words": {
+                "喝采": "hát thái",
+                "丰采": "phong thái",
+                "采邑": "thái ấp",
+                "采购": "thái cấu",
+                "采制": "thái chế",
+                "采脂": "thái chi",
+                "采种": "thái chủng",
+                "采樣": "thái dạng",
+                "采油": "thái du",
+                "采用": "thái dụng",
+                "采矿": "thái khoáng",
+                "采录": "thái lục",
+                "采买": "thái mãi",
+                "采煤": "thái môi",
+                "采纳": "thái nạp",
+                "采暖": "thái noãn",
+                "采伐": "thái phạt",
+                "采访": "thái phỏng",
+                "采风": "thái phong",
+                "采光": "thái quang",
+                "采掘": "thái quật",
+                "采集": "thái tập",
+                "采择": "thái trạch",
+                "采摘": "thái trích",
+                "神采": "thần thái",
+                "文采": "văn thái",
+                "無精打采": "vô tinh đả thái"
+            }
+        },
+        "thải": {
+            "Từ điển trích dẫn": [
+                "(Động) Hái, ngắt. ◇Tam quốc diễn nghĩa 三國演義: 'Nhập san thải dược' 入山采藥 (Đệ nhất hồi 第一回) Vào núi hái thuốc.",
+                "(Động) Lựa, chọn. § Thông 'thải' 採. ◇Sử Kí 史記: 'Thải thượng cổ \"Đế\" vị hiệu, hiệu viết \"Hoàng Đế\"' 采上古[帝]位號, 號曰[皇帝] (Tần Thủy Hoàng bổn kỉ 秦始皇本紀) Chọn lấy danh hiệu \"Đế\" của các vua thời thượng cổ, mà đặt hiệu là \"Hoàng Đế\".",
+                "(Động) Sưu tập. ◇Hán Thư 漢書: 'Cố cổ hữu thải thi chi quan, vương giả sở dĩ quan phong tục, tri đắc thất, tự khảo chánh dã' 故古有采詩之官, 王者所以觀風俗, 知得失, 自考正也 (Nghệ văn chí 藝文志) Nên xưa có quan sưu tập thơ, vua chúa lấy để xem xét phong tục, biết đắc thất (được hay mất), mà tự khảo sát chính trị vậy.",
+                "(Động) Khai thác, tiếp thu.",
+                "(Danh) Lụa màu. ◇Sử Kí 史記: 'Văn thải thiên thất' 文采千匹 (Hóa thực liệt truyện 貨殖列傳) Lụa hoa văn có màu nghìn xấp.",
+                "(Danh) Màu sắc. ◎Như: 'tạp thải' 雜采 năm sắc xen nhau.",
+                "(Danh) Dáng dấp, vẻ người. ◎Như: 'phong thải' 風采 dáng vẻ.",
+                "(Danh) Văn chương, vẻ đẹp rực rỡ. ◇Khuất Nguyên 屈原: 'Chúng bất tri dư chi dị thải' 眾不知余之異采 (Cửu chương 九章, Hoài sa 懷沙) Chúng nhân không biết vẻ đẹp văn chương rực rỡ dị thường của ta.",
+                "(Danh) Ngày xưa quan được ăn lộc riêng một ấp gọi là 'thải ấp' 采邑.",
+                "§ Ghi chú: Ta quen đọc là 'thái'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hái, ngắt.",
+                "Lựa chọn. Nay thông dụng chữ thải 採.",
+                "Văn sức. Năm sắc xen nhau gọi là tạp thải 雜采, dáng dấp người gọi là phong thải 風采. Ngày xưa quan được ăn lộc riêng một ấp gọi là thải ấp 采邑. Ta quen đọc là chữ thái."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hái, bẻ, trảy, ngắt: 採茶 Hái chè; 採花 Bẻ hoa;",
+                "Chọn nhặt, thu nhặt, tiếp thu (dùng như 採, bộ 釆): 採納 Tiếp thu;",
+                "Lôi kéo;",
+                "Vẫy tay ra hiệu."
+            ],
+            "compound_words": {
+                "喝采": "hát thải"
+            }
+        }
+    }
+}

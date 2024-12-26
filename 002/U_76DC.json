@@ -1,0 +1,92 @@
+{
+    "character": "盜",
+    "details": {
+        "Âm Hán Việt": [
+            "đạo"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "mẫn 皿 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱次皿"
+        ],
+        "Nét bút": [
+            "丶丶一ノフノ丶丨フ丨丨一"
+        ],
+        "Thương Hiệt": [
+            "EOBT (水人月廿)"
+        ],
+        "Unicode": [
+            "U+76DC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dào ㄉㄠˋ"
+        ],
+        "Âm Nôm": [
+            "đạo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぬす.む (nusu.mu)"
+        ],
+        "Âm Hàn": [
+            "도"
+        ],
+        "Âm Quảng Đông": [
+            "dou6"
+        ]
+    },
+    "meanings": {
+        "đạo": {
+            "Từ điển phổ thông": [
+                "ăm trộm, ăm cắp",
+                "kẻ trộm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Kẻ trộm, kẻ cắp, giặc cướp. ◎Như: 'cường đạo' 強盜 giặc dữ, 'hải đạo' 海盜 cướp biển.",
+                "(Động) Ăn trộm, ăn cắp.",
+                "(Động) Tự thủ lợi ngầm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kẻ trộm, kẻ cắp. Ngày xưa gọi kẻ cướp kẻ trộm là đạo cả, bây giờ thì gọi kẻ cướp là đạo 盜, kẻ trộm là tặc 賊.",
+                "Ăn trộm ăn cắp, cái gì không phải của mình mà mình lấy đều gọi là đạo cả.",
+                "Tự thủ lợi ngầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ăn cắp, ăn trộm: 掩耳盜鈴 Bịt tai ăn cắp chuông;",
+                "Tự thủ lợi ngầm, trộm ngầm;",
+                "Kẻ trộm, kẻ cắp, kẻ cướp, giặc: 海盜 Cướp biển, giặc biển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn trộm — Cấu kết làm việc gian tà — Chỉ kẻ sàm nịnh."
+            ],
+            "compound_words": {
+                "狗盜": "cẩu đạo",
+                "強盜": "cường đạo",
+                "强盜": "cường đạo",
+                "淫盜": "dâm đạo",
+                "大盜": "đại đạo",
+                "盜跖": "đạo chích",
+                "盜名": "đạo danh",
+                "盜汗": "đạo hãn",
+                "盜賊": "đạo tặc",
+                "盜文": "đạo văn",
+                "劫盜": "kiếp đạo"
+            }
+        }
+    }
+}

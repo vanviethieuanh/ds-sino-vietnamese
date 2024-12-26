@@ -1,0 +1,80 @@
+{
+    "character": "砲",
+    "details": {
+        "Âm Hán Việt": [
+            "pháo"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "thạch 石 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石包"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一ノフフ一フ"
+        ],
+        "Thương Hiệt": [
+            "MRPRU (一口心口山)"
+        ],
+        "Unicode": [
+            "U+7832"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pào ㄆㄠˋ"
+        ],
+        "Âm Nôm": [
+            "bác",
+            "pháo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホウ (hō)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "baau3",
+            "paau3",
+            "paau4"
+        ]
+    },
+    "meanings": {
+        "pháo": {
+            "Từ điển phổ thông": [
+                "máy bắn đá",
+                "pháo",
+                "mìn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) § Cũng như 'pháo' 炮.",
+                "(Danh) Mặt đất nổi cao lên gọi là 'đôn' 墩; 'đôn' nhỏ gọi là 'pháo' 砲 (thuật ngữ phong thủy)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ pháo 礮 hay 炮."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 礮."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Pháo 礮."
+            ],
+            "compound_words": {
+                "大砲": "đại pháo",
+                "放砲": "phóng pháo",
+                "雨砲": "vũ pháo"
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "character": "圏",
+    "details": {
+        "Âm Hán Việt": [
+            "khuyên",
+            "quyển"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "vi 囗 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿴囗巻"
+        ],
+        "Nét bút": [
+            "丨フ丶ノ一一ノ丶フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "XWFQU (重田火手山)"
+        ],
+        "Unicode": [
+            "U+570F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "juàn ㄐㄩㄢˋ",
+            "quān ㄑㄩㄢ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かこ.い (kako.i)"
+        ],
+        "Âm Hàn": [
+            "권"
+        ]
+    },
+    "meanings": {
+        "khuyên": {
+            "Từ điển phổ thông": [
+                "cái vòng",
+                "vành, vòng tròn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Một dạng của chữ 圈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chuồng nuôi giống muông, như trư quyển 豬圏 chuồng lợn.",
+                "Một âm là khuyên. Vòng tròn."
+            ]
+        },
+        "quyển": {
+            "Từ điển phổ thông": [
+                "chuồng nuôi gia súc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Một dạng của chữ 圈."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chuồng nuôi giống muông, như trư quyển 豬圏 chuồng lợn.",
+                "Một âm là khuyên. Vòng tròn."
+            ]
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "character": "缚",
+    "details": {
+        "Âm Hán Việt": [
+            "phược",
+            "phọc"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mịch 糸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟尃"
+        ],
+        "Nét bút": [
+            "フフ一一丨フ一一丨丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "VMIBI (女一戈月戈)"
+        ],
+        "Unicode": [
+            "U+7F1A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "fú ㄈㄨˊ",
+            "fù ㄈㄨˋ"
+        ],
+        "Âm Nôm": [
+            "phọc",
+            "phước"
+        ],
+        "Âm Quảng Đông": [
+            "bok3",
+            "fok3"
+        ]
+    },
+    "meanings": {
+        "phược": {
+            "Từ điển phổ thông": [
+                "trói buộc, ràng buộc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 縛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 縛"
+            ],
+            "compound_words": {
+                "束缚": "thúc phược"
+            }
+        },
+        "phọc": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 縛."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 縛"
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "character": "史",
+    "details": {
+        "Âm Hán Việt": [
+            "sử"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LK (中大)"
+        ],
+        "Unicode": [
+            "U+53F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shǐ ㄕˇ"
+        ],
+        "Âm Nôm": [
+            "sử"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "si2"
+        ]
+    },
+    "meanings": {
+        "sử": {
+            "Từ điển phổ thông": [
+                "lịch sử"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một chức quan coi về văn thư. ◎Như: quan 'nội sử' 內史, quan 'ngoại sử' 外史, quan 'tả sử' 左史, quan 'hữu sử' 右史.",
+                "(Danh) Chức quan ở gần vua luôn luôn là 'ngự sử' 御史, cũng như quan bí thư bây giờ. Chức quan coi giữ các sách vở trong cung và biên chép sửa soạn sử sách gọi là quan 'thái sử' 太史. Về sau thi chức 'ngự sử' chỉ chuyên về việc xét hặc tội các quan và can ngăn vua. Sở của các quan ấy làm việc gọi là 'đô sát viện' 都察院. Còn các chức 'thái sử' thì do viện hàn lâm kiêm cả, vì thế gọi hàn lâm là 'thái sử'. Lễ nhà Chu có quan 'nữ sử' 女史 để coi các việc lễ nghi của hoàng hậu cung phi, chọn các đàn bà con gái có học vào làm, cho nên con gái có học gọi là 'nữ sử' 女史.",
+                "(Danh) Sử sách, lịch sử. ◎Như: 'quốc sử' 國史.",
+                "(Danh) Thầy vẽ, thợ vẽ. ◇Trang Tử 莊子: 'Tống Nguyên Quân tương họa đồ, chúng sử giai chí, thụ ấp nhi lập' 宋元君將畫圖, 眾史皆至, 受揖而立 (Điền Tử Phương 田子方) Vua Nguyên nước Tống muốn vẽ tranh, nhiều thợ vẽ đều tới, vái rồi đứng đó.",
+                "(Danh) Họ 'Sử'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quan sử. Một chức quan coi về việc văn thư. Như quan nội sử 內史, quan ngoại sử 外史, quan tả sử 左史, quan hữu sử 右史, v.v.",
+                "Chức quan ở gần vua luôn luôn là ngự sử 御史, cũng như quan bí thư bây giờ. Chức quan coi giữ các sách vở trong cung và biên chép sửa soạn sử sách gọi là quan thái sử 太史. Về sau thi chức ngự sử chỉ chuyên về việc xét hặc tội các quan và can ngăn vua, sở của các quan ấy làm việc gọi là đô sát viện 都察院, còn các chức thái sử thì so viện hàn lâm kiêm cả, vì thế gọi hàn lâm là thái sử, lễ nhà Chu có quan nữ sử 女史 để coi các việc lễ nghi của hoàng hậu cung phi, chọn các đàn bà con gái có học vào làm, cho nên con gái có học gọi là nữ sử 女史.",
+                "Sách sử, thứ ghi các sự tích trong nước từ xưa tới nay gọi là lịch sử 歷史, quốc sử 國史."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lịch sử, sử sách, sử: 國際邦交史 Lịch sử bang giao giữa các nước; 史觀 Quan điểm lịch sử;",
+                "Quan sử (chức quan phụ trách ghi sử sách thời cổ);",
+                "[Shê] (Họ) Sử."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ghi chép sự việc xảy ra — Sách chép việc xảy ra trọng một quốc gia nhiều thời đại.  Đoạn trường tân thanh  có câu: » Cảo thơm lần giở trước đèn, phong tình cổ lục còn truyền sử xanh « — Vị quan coi việc biên soạn quốc sử."
+            ],
+            "compound_words": {
+                "霸史": "bá sử",
+                "稗史": "bại sử",
+                "班史": "ban sử",
+                "北史": "bắc sử",
+                "別史": "biệt sử",
+                "近史": "cận sử",
+                "正史": "chính sử",
+                "戰史": "chiến sử",
+                "古史": "cổ sử",
+                "野史": "dã sử",
+                "大南國史演歌": "đại nam quốc sử diễn ca",
+                "大越史記": "đại việt sử kí",
+                "大越史記本紀實錄": "đại việt sử kí bản kỉ thực lục",
+                "大越史記本紀續編": "đại việt sử kí bản kỉ tục biên",
+                "大越史記前編": "đại việt sử kí tiền biên",
+                "大越史記全書": "đại việt sử kí toàn thư",
+                "大越史記續編": "đại việt sử kí tục biên",
+                "大越通史": "đại việt thông sử",
+                "欽定越史通鑒綱目": "khâm định việt sử thông giám cương mục",
+                "黎朝通史": "lê triều thông sử",
+                "历史": "lịch sử",
+                "歴史": "lịch sử",
+                "歷史": "lịch sử",
+                "南史": "nam sử",
+                "南史集編": "nam sử tập biên",
+                "外史": "ngoại sử",
+                "御製越史總詠集": "ngự chế việt sử tổng vịnh tập",
+                "御史": "ngự sử",
+                "御史台": "ngự sử đài",
+                "禦史臺": "ngự sử đài",
+                "副都御史": "phó đô ngự sử",
+                "軍史": "quân sử",
+                "國史": "quốc sử",
+                "國史館": "quốc sử quán",
+                "史部": "sử bộ",
+                "史筆": "sử bút",
+                "史局": "sử cục",
+                "史家": "sử gia",
+                "史學": "sử học",
+                "史記": "sử kí",
+                "史劇": "sử kịch",
+                "史料": "sử liệu",
+                "史論": "sử luận",
+                "史略": "sử lược",
+                "史官": "sử quan",
+                "史舘": "sử quán",
+                "史館": "sử quán",
+                "史君子": "sử quân tử",
+                "史才": "sử tài",
+                "史材": "sử tài",
+                "史乘": "sử thặng",
+                "史臣": "sử thần",
+                "史體": "sử thể",
+                "史詩": "sử thi",
+                "史诗": "sử thi",
+                "史實": "sử thực",
+                "史跡": "sử tích",
+                "雜史": "tạp sử",
+                "太史": "thái sử",
+                "青史": "thanh sử",
+                "刺史": "thứ sử",
+                "前史": "tiền sử",
+                "小史": "tiểu sử",
+                "越鑑詠史詩集": "việt giám vịnh sử thi tập",
+                "越史": "việt sử",
+                "越史備覽": "việt sử bị lãm",
+                "越史綱目": "việt sử cương mục",
+                "越史摽案": "việt sử tiêu án",
+                "越史續編": "việt sử tục biên",
+                "詠南史": "vịnh nam sử",
+                "詠史": "vịnh sử"
+            }
+        }
+    }
+}

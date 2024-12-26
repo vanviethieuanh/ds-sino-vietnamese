@@ -1,0 +1,97 @@
+{
+    "character": "斬",
+    "details": {
+        "Âm Hán Việt": [
+            "trảm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cân 斤 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰車斤"
+        ],
+        "Nét bút": [
+            "一丨フ一一一丨ノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "JJHML (十十竹一中)"
+        ],
+        "Unicode": [
+            "U+65AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǎn ㄓㄢˇ"
+        ],
+        "Âm Nôm": [
+            "chém",
+            "trảm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ザン (zan)",
+            "サン (san)",
+            "セン (sen)",
+            "ゼン (zen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.る (ki.ru)"
+        ],
+        "Âm Hàn": [
+            "참"
+        ],
+        "Âm Quảng Đông": [
+            "zaam2"
+        ]
+    },
+    "meanings": {
+        "trảm": {
+            "Từ điển phổ thông": [
+                "chém, chặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chém, chặt, cắt. ◎Như: 'trảm thảo' 斬草 cắt cỏ, 'trảm thủ' 斬首 chém đầu. ◇Sử Kí 史記: 'Thượng bất dục tựu thiên hạ hồ? Hà vi trảm tráng sĩ' 上不欲就天下乎? 何為斬壯士 (Hoài Âm Hầu liệt truyện 淮陰侯列傳) Nhà vua không muốn thành tựu việc thiên hạ à? Làm sao lại chém tráng sĩ.",
+                "(Động) Dứt hết. ◇Mạnh Tử 孟子: 'Quân tử chi trạch, ngũ thế nhi trảm' 君子之澤, 五世而斬 (Li Lâu hạ 離婁下) Ơn trạch người quân tử, năm đời thì dứt.",
+                "(Phó) Rất, cực, một loạt. ◎Như: 'trảm tân' 斬新 rất mới, 'trảm tề' 斬齊 một loạt đều.",
+                "(Danh) 'Trảm thôi' 斬衰 áo tang sổ gấu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chém, như trảm thảo 斬草 chém cỏ, trảm thủ 斬首 chém đầu, v.v.",
+                "Dứt, như quân tử chi trạch, ngũ thế nhi trảm 君子之澤，五世而斬 ơn trạch người quân tử năm đời mà dứt.",
+                "Một loạt, dùng làm tiếng trợ ngữ. Như trảm tân 斬新 một loạt mới, trảm tề 斬齊 một loạt đều. Trảm thôi 斬衰 áo tang sổ gấu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chặt, chém: 斬斷魔爪 Chặt đứt nanh vuốt; 披荊斬棘 Chém gai chặt gốc;",
+                "(văn) Dứt, tuyệt: 國旣卒斬，何用不監？ Nước nhà đã tuyệt diệt, sao ngươi không xem xét? (Thi Kinh: Tiểu nhã, Tiết Nam sơn);",
+                "(văn) Một loạt: 斬新 Một loạt mới; 斬齊 Một loạt đều;",
+                "(văn) Áo tang xổ gấu (lai, vạt, trôn): 晏嬰粗縗斬 Áo sô của Yến Anh xổ gấu (Tả truyện: Tương công thập thất niên)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao mà chém — Cắt đứt. Dứt tuyệt."
+            ],
+            "compound_words": {
+                "七斬疏": "thất trảm sớ",
+                "斬級": "trảm cấp",
+                "斬斷": "trảm đoạn",
+                "斬監候": "trảm giam hậu",
+                "斬決": "trảm quyết",
+                "斬草除根": "trảm thảo trừ căn",
+                "斬衰": "trảm thôi",
+                "斬首": "trảm thủ",
+                "斬罪": "trảm tội",
+                "處斬": "xử trảm",
+                "腰斬": "yêu trảm"
+            }
+        }
+    }
+}

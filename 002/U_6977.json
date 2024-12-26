@@ -1,0 +1,110 @@
+{
+    "character": "楷",
+    "details": {
+        "Âm Hán Việt": [
+            "giai",
+            "khải"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mộc 木 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰木皆"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一フノフノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "DPPA (木心心日)"
+        ],
+        "Unicode": [
+            "U+6977"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiē ㄐㄧㄝ",
+            "kǎi ㄎㄞˇ"
+        ],
+        "Âm Nôm": [
+            "giai",
+            "khai"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カイ (kai)"
+        ],
+        "Âm Hàn": [
+            "해"
+        ],
+        "Âm Quảng Đông": [
+            "gaai1",
+            "kaai2"
+        ]
+    },
+    "meanings": {
+        "giai": {
+            "Từ điển phổ thông": [
+                "cây giai",
+                "khuôn phép",
+                "chữ viết ngay ngắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây 'giai'. § Còn gọi là 'hoàng liên hoa' 黃連花.",
+                "(Tính) Cương trực. ◎Như: 'cường giai kiên kính' 彊楷堅勁 ngay thẳng cứng cỏi.",
+                "Một âm là 'khải'. (Danh) Khuôn phép, kiểu mẫu. ◎Như: 'khải mô' 楷模 gương mẫu, mẫu mực. ◇Lễ Kí 禮記: 'Kim thế hành chi, hậu thế dĩ vi khải' 今世行之, 後世以為楷 (Nho hành 儒行).",
+                "(Danh) Chữ chân, chữ viết ngay ngắn rõ ràng gọi là 'khải thư' 楷書. ◇Tây du kí 西遊記: 'Kiệt thượng hữu nhất hàng khải thư đại tự' 碣上有一行楷書大字 (Đệ nhất hồi) Trên bia có khắc một hàng chữ chân lớn.",
+                "(Tính) Ngay ngắn, đúng phép tắc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây giai.",
+                "Một âm là khải. Khuôn phép, mẫu.",
+                "Chữ chân, chữ viết ngay ngắn rõ ràng gọi là khải thư 楷書."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Gỗ hoàng liên. Xem 楷 [kăi]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một thứ cây, cành rất thẳng, được trồng ở mộ Khổng tử — Chỉ sự ngay thẳng — Một âm là Khải. Xem Khải."
+            ]
+        },
+        "khải": {
+            "Từ điển phổ thông": [
+                "cây giai",
+                "khuôn phép",
+                "chữ viết ngay ngắn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây 'giai'. § Còn gọi là 'hoàng liên hoa' 黃連花.",
+                "(Tính) Cương trực. ◎Như: 'cường giai kiên kính' 彊楷堅勁 ngay thẳng cứng cỏi.",
+                "Một âm là 'khải'. (Danh) Khuôn phép, kiểu mẫu. ◎Như: 'khải mô' 楷模 gương mẫu, mẫu mực. ◇Lễ Kí 禮記: 'Kim thế hành chi, hậu thế dĩ vi khải' 今世行之, 後世以為楷 (Nho hành 儒行).",
+                "(Danh) Chữ chân, chữ viết ngay ngắn rõ ràng gọi là 'khải thư' 楷書. ◇Tây du kí 西遊記: 'Kiệt thượng hữu nhất hàng khải thư đại tự' 碣上有一行楷書大字 (Đệ nhất hồi) Trên bia có khắc một hàng chữ chân lớn.",
+                "(Tính) Ngay ngắn, đúng phép tắc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây giai.",
+                "Một âm là khải. Khuôn phép, mẫu.",
+                "Chữ chân, chữ viết ngay ngắn rõ ràng gọi là khải thư 楷書."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Khuôn phép, kiểu mẫu.【楷模】khải mô [kăi mó] Khuôn mẫu, gương mẫu, mẫu mực;",
+                "Lối viết chữ chân: 正楷 Chữ viết chân phương. Xem 楷 [jie]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cây thuộc giống cây sơn, còn gọi là Khổng mộc — Cách thức, phép tắc — Một âm là Giai."
+            ],
+            "compound_words": {
+                "楷書": "khải thư"
+            }
+        }
+    }
+}

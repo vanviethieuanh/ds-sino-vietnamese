@@ -1,0 +1,74 @@
+{
+    "character": "纤",
+    "details": {
+        "Âm Hán Việt": [
+            "khiên",
+            "tiêm"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟千"
+        ],
+        "Nét bút": [
+            "フフ一ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "VMHJ (女一竹十)"
+        ],
+        "Unicode": [
+            "U+7EA4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "qiàn ㄑㄧㄢˋ",
+            "xiān ㄒㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "tiêm"
+        ],
+        "Âm Quảng Đông": [
+            "cim1"
+        ]
+    },
+    "meanings": {
+        "khiên": {
+            "Từ điển phổ thông": [
+                "cái dây kéo thuyền"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 縴"
+            ]
+        },
+        "tiêm": {
+            "Từ điển phổ thông": [
+                "nhỏ nhặt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 纖."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhỏ nhắn, nhỏ bé;",
+                "(văn) Hàng dệt đường dọc đen, đường ngang trắng;",
+                "(văn) Hà tiện, dè sẻn, bủn xỉn;",
+                "(văn) Đâm, xiên Xem 縴縴 [qiàn]."
+            ],
+            "compound_words": {
+                "光纤": "quang tiêm"
+            }
+        }
+    }
+}

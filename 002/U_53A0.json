@@ -1,0 +1,91 @@
+{
+    "character": "厠",
+    "details": {
+        "Âm Hán Việt": [
+            "lịch",
+            "trắc",
+            "xí"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "hán 厂 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸厂則"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一一ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "MBCN (一月金弓)"
+        ],
+        "Unicode": [
+            "U+53A0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "cè ㄘㄜˋ"
+        ],
+        "Âm Nôm": [
+            "sí",
+            "xí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "ショク (shoku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわや (kawaya)"
+        ],
+        "Âm Hàn": [
+            "측"
+        ],
+        "Âm Quảng Đông": [
+            "ci3"
+        ]
+    },
+    "meanings": {
+        "lịch": {
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ 廁."
+            ]
+        },
+        "trắc": {
+            "Từ điển phổ thông": [
+                "bên cạnh",
+                "ghé vào"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Phồn thể của chữ 厕."
+            ]
+        },
+        "xí": {
+            "Từ điển phổ thông": [
+                "nhà xí, nhà tiêu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Phồn thể của chữ 厕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhà xí, nhà vệ sinh: 男厠 Nhà xí nam; 女厠 Nhà xí nữ; 公厠 Nhà vệ sinh công cộng;",
+                "Tham gia, chen vào, len vào: 厠身 Dự vào, có chân; 厠身教育界 Có chân trong giới giáo dục. Xem 廁 [si]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Xí 廁."
+            ],
+            "compound_words": {
+                "厠坑": "xí khanh"
+            }
+        }
+    }
+}

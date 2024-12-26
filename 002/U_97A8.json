@@ -1,0 +1,87 @@
+{
+    "character": "鞨",
+    "details": {
+        "Âm Hán Việt": [
+            "hạt",
+            "mạt"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "cách 革 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰革曷"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一丨丨フ一一ノフノ丶フ"
+        ],
+        "Thương Hiệt": [
+            "TJAPV (廿十日心女)"
+        ],
+        "Unicode": [
+            "U+97A8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hé ㄏㄜˊ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カツ (katsu)",
+            "ガチ (gachi)",
+            "セツ (setsu)",
+            "ゼチ (zechi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かわぐつ (kawagutsu)"
+        ],
+        "Âm Hàn": [
+            "갈"
+        ],
+        "Âm Quảng Đông": [
+            "hot3"
+        ]
+    },
+    "meanings": {
+        "hạt": {
+            "Từ điển phổ thông": [
+                "(xem: hạt mạt 鞨靺)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Hạt Mạt” 鞨靺 tên một tộc cổ ở Trung Quốc. Nhà Chu gọi là “Túc Thận” 肅慎, Hán Ngụy gọi là “Ấp Lâu” 挹婁, Tùy Đường gọi là “Hạt Mạt” 鞨靺."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hạt Mạt 鞨靺 tên một bộ lạc của giống Phiên nay thuộc tỉnh Cát Lâm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 靺."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giày dép làm bằng da thuộc — Một âm khác là Mạt. Xem Mạt."
+            ],
+            "compound_words": {
+                "鞨靺": "hạt mạt",
+                "靺鞨": "mạt hạt"
+            }
+        },
+        "mạt": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mạt cận 鞨巾: Cái khăn bịt đầu — Một âm là Hạt. Xem Mạt hạt 靺鞨."
+            ],
+            "compound_words": {
+                "鞨靺": "hạt mạt",
+                "靺鞨": "mạt hạt"
+            }
+        }
+    }
+}

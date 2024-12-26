@@ -1,0 +1,74 @@
+{
+    "character": "腺",
+    "details": {
+        "Âm Hán Việt": [
+            "tuyến"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nhục 肉 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月泉"
+        ],
+        "Nét bút": [
+            "ノフ一一ノ丨フ一一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "BHAE (月竹日水)"
+        ],
+        "Unicode": [
+            "U+817A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tuyến"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "sin3"
+        ]
+    },
+    "meanings": {
+        "tuyến": {
+            "Từ điển phổ thông": [
+                "tuyến dịch trong cơ thể"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Tuyến, hạch. § Vốn là tiếng Nhật dịch từ tiếng Anh \"gland\": tổ chức bên trong cơ thể sinh vật có khả năng phân tích tiết ra chất lỏng. ◎Như: “nhũ tuyến” 乳腺 hạch sữa, “hãn tuyến” 汗腺 tuyến mồ hôi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Trong thể xác các động vật chỗ nào bật chất nước ra gọi là tuyến. Như nhũ tuyến 乳腺 hạch sữa, hãn tuyến 汗腺 hạch mồ hôi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(giải) Tuyến, hạch: 乳腺 Tuyến sữa; 汗腺 Tuyến mồ hôi; 唾液腺 Tuyến nước bọt; 甲狀腺 Tuyến giáp trạng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Danh từ sinh lí học, chỉ cơ quan trong người, tiết ra một chất gì."
+            ],
+            "compound_words": {
+                "汗腺": "hãn tuyến",
+                "乳腺": "nhũ tuyến",
+                "胃腺": "vị tuyến"
+            }
+        }
+    }
+}

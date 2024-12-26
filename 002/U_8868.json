@@ -1,0 +1,178 @@
+{
+    "character": "表",
+    "details": {
+        "Âm Hán Việt": [
+            "biểu"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "y 衣 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱龶𧘇"
+        ],
+        "Nét bút": [
+            "一一丨一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "QMV (手一女)"
+        ],
+        "Unicode": [
+            "U+8868"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "biǎo ㄅㄧㄠˇ"
+        ],
+        "Âm Nôm": [
+            "bẹo",
+            "biểu",
+            "vẹo",
+            "vếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おもて (omote)",
+            "-おもて (-omote)",
+            "あらわ.す (arawa.su)",
+            "あらわ.れる (arawa.reru)",
+            "あら.わす (ara.wasu)"
+        ],
+        "Âm Hàn": [
+            "표"
+        ],
+        "Âm Quảng Đông": [
+            "biu2"
+        ]
+    },
+    "meanings": {
+        "biểu": {
+            "Từ điển phổ thông": [
+                "bên ngoài",
+                "tỏ rõ, tuyên bố, tiêu biểu",
+                "tờ biểu",
+                "họ ngoại",
+                "gương mẫu, chuẩn mực"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Áo ngoài.",
+                "(Danh) Bên ngoài, mặt ngoài. ◎Như: 'hải biểu' 海表 ngoài bể, 'xuất nhân ý biểu' 出人意表 ra ngoài ý liệu.",
+                "(Danh) Dấu hiệu, kí hiệu. ◇Quản Tử 管子: 'Do yết biểu nhi lệnh chi chỉ dã' 猶揭表而令之止也 (Quân thần thượng 君臣上) Như ra dấu hiệu để bảo cho ngừng lại vậy.",
+                "(Danh) Mẫu mực, gương mẫu. ◎Như: 'vi nhân sư biểu' 為人師表 làm mẫu mực cho người.",
+                "(Danh) Bảng, bảng liệt kê, bảng kê khai. ◎Như: 'thống kế biểu' 統計表 bảng thống kê.",
+                "(Danh) Một loại sớ tấu thời xưa, bậc đại thần trình lên vua. ◎Như: 'Xuất sư biểu' 出師表 của Gia Cát Lượng 諸葛亮 thời Tam Quốc, 'Trần tình biểu' 陳情表 của Lí Mật 李密.",
+                "(Danh) Tên hiệu (ngoài tên chính). ◇Tỉnh thế hằng ngôn 醒世恆言: 'Tiền nhật bất tằng vấn đắc quý biểu' 前日不曾問得貴表 (Tiền Tú Tài 錢秀才) Hôm trước chưa được hỏi tên hiệu của ngài.",
+                "(Danh) Bia đá. ◇Hán Thư 漢書: 'Thiên lí lập biểu' 千里立表 (Lí Tầm truyện 李尋傳) Nghìn dặm dựng bia đá.",
+                "(Danh) Bia mộ, mộ chí. ◎Như: 'mộ biểu' 墓表 bia mộ.",
+                "(Danh) Máy đo, đồng hồ. ◎Như: 'thủ biểu' 手表 đồng hồ đeo tay, 'điện biểu' 電表 đồng hồ điện.",
+                "(Danh) Họ hàng bên ngoại. ◎Như: 'biểu huynh đệ' 表兄弟 con cô con cậu.",
+                "(Danh) Họ 'Biểu'.",
+                "(Động) Mặc thêm áo ngoài. ◇Luận Ngữ 論語: 'Đương thử, chẩn hi khích, tất biểu nhi xuất chi' 當暑, 袗絺綌, 必表而出之 (Hương đảng 鄉黨) Lúc trời nóng, mặc áo đơn vải thô, (ông) tất khoác thêm áo khi ra ngoài.",
+                "(Động) Tỏ rõ, hiển dương, khen thưởng. ◇Tư Mã Thiên 司馬遷: 'Hận tư tâm hữu sở bất tận, bỉ lậu một thế nhi văn thải bất biểu ư hậu thế dã' 恨私心有所不盡, 鄙陋沒世而文彩不表於後世也 (Báo Nhậm Thiếu Khanh thư 報任少卿書) Hận rằng lòng riêng có chỗ chưa bộc lộ hết, bỉ lậu mà chết đi thì văn chương không tỏ rõ được với đời sau.",
+                "(Động) Tuyên bố, truyền đạt. ◎Như: 'lược biểu tâm ý' 略表心意 nói sơ qua ý trong lòng.",
+                "(Động) Tâu lên trên để bày tỏ việc gì. ◇Tam quốc chí 三國志: 'Lượng tự biểu hậu chủ' 亮自表後主 (Gia Cát Lượng truyện 諸葛亮傳) Lượng này tự xin tâu rõ với hậu chủ.",
+                "(Động) Đề cử, tiến cử. ◇Tam quốc chí 三國志: 'Tào Công biểu Quyền vi thảo lỗ tướng quân' 曹公表權為討虜將軍 (Ngô chủ truyện 吳主傳) Tào Công tiến cử Quyền làm tướng quân đánh giặc.",
+                "(Động) Soi xét, giám sát. ◎Như: 'duy thiên khả biểu' 惟天可表 chỉ có trời soi xét được.",
+                "(Động) Trang hoàng, tu bổ sách vở, tranh họa. § Thông 'phiếu' 裱."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ở ngoài, như hải biểu 海表 ngoài bể.",
+                "Tỏ rõ, tuyên bố ý kiến mình cho người khác biết gọi là biểu. Như đại biểu 代表 người thay mặt của ai để tỏ hộ ý của người ấy ra. Trong một đám đông, cử một người thay mặt đi hội họp một hội nào có quan hệ đến cả một đám đông ấy gọi là đại biểu.",
+                "Dấu hiệu, đặt riêng một cái dấu hiệu để cho người ta dễ biết gọi là biểu, người nào có dáng dấp hơn người gọi là dị biểu 異表 hay biểu biểu 表表.",
+                "Tiêu biểu, nêu tỏ. Như tinh biểu tiết nghĩa 旌表節義 tiêu biểu cái tiết nghĩa ra cho vẻ vang. Cái bia dựng ở mộ gọi là mộ biểu 墓表, đều là theo cái ý nêu tỏ, khiến cho mọi người đều biết mà nhớ mãi không quên cả.",
+                "Lối văn biểu, là một thể văn bày tỏ tấm lòng kẻ dưới với người trên, như văn tâu với vua, với thần thánh đều gọi là biểu cả.",
+                "Ghi chép sự vật gì chia ra từng loài, từng hạng xếp thành hàng lối để lúc tra cho tiện cũng gọi là biểu. Như thống kê biểu 統計表 cái biểu tính gộp tất cả.",
+                "Họ ngoại. Như con cô con cậu gọi là biểu huynh đệ 表兄弟."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ngoài, phần ngoài, bề ngoài: 外表 Bề ngoài, ngoài mặt; 海表 Ngoài biển; 由表及裡 Từ ngoài vào trong; 虛有其表 Chỉ có mẽ ngoài lộng lẫy;",
+                "Tỏ rõ, nêu rõ, bày tỏ: 略表心意 Tỏ qua nhã ý, chút ít để gọi là;",
+                "Xông, toát ra: 表汗 Xông cho ra mồ hôi;",
+                "Biểu, bảng, bảng biểu, bảng liệt kê, bảng kê khai: 統計表 Bảng thống kê; 時間表 Bảng giờ giấc, biểu thời gian;",
+                "Đồng hồ, công tơ: 手表 Đồng hồ đeo tay; 秒表 Đồng hồ bấm giây; 電表 Công tơ điện, đồng hồ điện;",
+                "Gương, mẫu mực, mực thước, tiêu biểu: 師表 Làm gương, gương mẫu;",
+                "Anh chị em cô cậu, anh chị em họ, (thuộc về) họ ngoại: 表兄弟 Anh em họ; 表叔 Chú họ;",
+                "(cũ) Tờ sớ dâng lên vua, tờ biểu, bài biểu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái áo ngoài — Bên ngoài. ở ngoài — Cái ngọn — Cái nêu — Cái bảng ghi chép để nhận biết — Cái đồng hồ — Tờ tâu dân vua đọc — Tên người tức Nguyễn Biểu, người xã Bình Hồ, huyện Trị La, tỉnh Nghệ An, bắc phần Việt Nam, đậu Thái Học, sinh đời Trần, làm quan tới chức Điện tiền thị ngự sử, để lại một số thơ Nôm, chép trong Nghĩa sĩ truyện của Hoàng Trừng."
+            ],
+            "compound_words": {
+                "拜表": "bái biểu",
+                "八表": "bát biểu",
+                "表白": "biểu bạch",
+                "表皮": "biểu bì",
+                "表表": "biểu biểu",
+                "表格": "biểu cách",
+                "表彰": "biểu chương",
+                "表章": "biểu chương",
+                "表演": "biểu diễn",
+                "表面": "biểu diện",
+                "表扬": "biểu dương",
+                "表揚": "biểu dương",
+                "表达": "biểu đạt",
+                "表達": "biểu đạt",
+                "表的": "biểu đích",
+                "表姪": "biểu điệt",
+                "表圖": "biểu đồ",
+                "表同情": "biểu đồng tình",
+                "表现": "biểu hiện",
+                "表現": "biểu hiện",
+                "表號": "biểu hiệu",
+                "表兄弟": "biểu huynh đệ",
+                "表記": "biểu kí",
+                "表裏": "biểu lí",
+                "表露": "biểu lộ",
+                "表明": "biểu minh",
+                "表决": "biểu quyết",
+                "表決": "biểu quyết",
+                "表率": "biểu suất",
+                "表奏": "biểu tấu",
+                "表示": "biểu thị",
+                "表姊妹": "biểu tỉ muội",
+                "表情": "biểu tình",
+                "表孫": "biểu tôn",
+                "表徵": "biểu trưng",
+                "表丈人": "biểu trượng nhân",
+                "表子": "biểu tử",
+                "表字": "biểu tự",
+                "表象": "biểu tượng",
+                "表尺": "biểu xích",
+                "表揭": "biểu yết",
+                "民表": "dân biểu",
+                "遺表": "di biểu",
+                "營表": "doanh biểu",
+                "代表": "đại biểu",
+                "图表": "đồ biểu",
+                "圖表": "đồ biểu",
+                "寒暑表": "hàn thử biểu",
+                "量雨表": "lượng vũ biểu",
+                "儀表": "nghi biểu",
+                "外表": "ngoại biểu",
+                "月表": "nguyệt biểu",
+                "年表": "niên biểu",
+                "发表": "phát biểu",
+                "發表": "phát biểu",
+                "風力表": "phong lực biểu",
+                "風雨表": "phong vũ biểu",
+                "時表": "thời biểu",
+                "標表": "tiêu biểu",
+                "旌表": "tinh biểu",
+                "族表": "tộc biểu",
+                "意表": "ý biểu"
+            }
+        }
+    }
+}

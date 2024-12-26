@@ -1,0 +1,72 @@
+{
+    "character": "猰",
+    "details": {
+        "Âm Hán Việt": [
+            "khiết",
+            "nghiệt",
+            "trát"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khuyển 犬 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺨契"
+        ],
+        "Nét bút": [
+            "ノフノ一一一丨フノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KHQHK (大竹手竹大)"
+        ],
+        "Unicode": [
+            "U+7330"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiá ㄐㄧㄚˊ",
+            "qiè ㄑㄧㄝˋ",
+            "yà ㄧㄚˋ"
+        ],
+        "Âm Quảng Đông": [
+            "jaak3",
+            "jat3"
+        ]
+    },
+    "meanings": {
+        "khiết": {
+            "Từ điển phổ thông": [
+                "một loài thú giống chó ăn thịt người trong sách cổ"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài chó."
+            ],
+            "compound_words": {
+                "猰貐": "khiết dũ"
+            }
+        },
+        "nghiệt": {
+            "Từ điển phổ thông": [
+                "một loài thú giống chó ăn thịt người trong sách cổ"
+            ],
+            "compound_words": {
+                "猰貐": "nghiệt dũ"
+            }
+        },
+        "trát": {
+            "Từ điển phổ thông": [
+                "một loài thú giống chó ăn thịt người trong sách cổ"
+            ]
+        }
+    }
+}

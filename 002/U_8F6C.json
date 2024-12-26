@@ -1,0 +1,78 @@
+{
+    "character": "转",
+    "details": {
+        "Âm Hán Việt": [
+            "chuyến",
+            "chuyển"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "xa 車 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰车专"
+        ],
+        "Nét bút": [
+            "一フ丨一一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "KQQNI (大手手弓戈)"
+        ],
+        "Unicode": [
+            "U+8F6C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhuǎi ㄓㄨㄞˇ",
+            "zhuǎn ㄓㄨㄢˇ",
+            "zhuàn ㄓㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chuyển"
+        ],
+        "Âm Quảng Đông": [
+            "zyun2",
+            "zyun3"
+        ]
+    },
+    "meanings": {
+        "chuyến": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 轉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quay, xoay: 地球繞太陽轉 Trái đất quay quanh mặt trời. Xem 轉 [zhuăn]."
+            ]
+        },
+        "chuyển": {
+            "Từ điển phổ thông": [
+                "quay vòng, chuyển, đổi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 轉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quay, xoay: 地球繞太陽轉 Trái đất quay quanh mặt trời. Xem 轉 [zhuăn]."
+            ],
+            "compound_words": {
+                "转交": "chuyển giao",
+                "转化": "chuyển hoá",
+                "好转": "hảo chuyển",
+                "扭转": "nữu chuyển",
+                "旋转": "toàn chuyển",
+                "辗转": "triển chuyển",
+                "宛转": "uyển chuyển"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "芭",
+    "details": {
+        "Âm Hán Việt": [
+            "ba"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thảo 艸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹巴"
+        ],
+        "Nét bút": [
+            "一丨丨フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "TAU (廿日山)"
+        ],
+        "Unicode": [
+            "U+82AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bā ㄅㄚ",
+            "pā ㄆㄚ"
+        ],
+        "Âm Nôm": [
+            "ba"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バ (ba)",
+            "ハ (ha)"
+        ],
+        "Âm Hàn": [
+            "파"
+        ],
+        "Âm Quảng Đông": [
+            "baa1"
+        ]
+    },
+    "meanings": {
+        "ba": {
+            "Từ điển phổ thông": [
+                "(xem: ba tiêu 芭蕉)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cỏ 'ba', một thứ cỏ thơm.",
+                "(Danh) § Xem 'ba tiêu' 芭蕉.",
+                "(Danh) § Thông 'ba' 笆.",
+                "(Danh) Cũng như 'ba' 葩.",
+                "(Danh) Họ 'Ba'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ ba, một thứ cỏ thơm.",
+                "Cùng nghĩa với chữ ba 葩.",
+                "Ba tiêu 芭蕉 cây chuối: xem chữ 蕉 ở dưới."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cỏ ba (một thứ cỏ thơm);",
+                "(văn) Như 葩;",
+                "【芭蕉】ba tiêu [bajiao] Chuối tây."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loại cây có mùi thơm."
+            ],
+            "compound_words": {
+                "芭籬": "ba li",
+                "芭蕉": "ba tiêu"
+            }
+        }
+    }
+}

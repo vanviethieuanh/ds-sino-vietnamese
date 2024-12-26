@@ -1,0 +1,74 @@
+{
+    "character": "饮",
+    "details": {
+        "Âm Hán Việt": [
+            "ấm",
+            "ẩm"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thực 食 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰饣欠"
+        ],
+        "Nét bút": [
+            "ノフフノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "NVNO (弓女弓人)"
+        ],
+        "Unicode": [
+            "U+996E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yǐn ㄧㄣˇ",
+            "yìn ㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "ẩm"
+        ],
+        "Âm Quảng Đông": [
+            "jam2",
+            "jam3"
+        ]
+    },
+    "meanings": {
+        "ấm": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 飲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 飲"
+            ]
+        },
+        "ẩm": {
+            "Từ điển phổ thông": [
+                "uống",
+                "nước uống",
+                "thuốc nước"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 飲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 飲"
+            ],
+            "compound_words": {
+                "饮食疗养": "ẩm thực liệu dưỡng",
+                "啜饮": "xuyết ẩm"
+            }
+        }
+    }
+}

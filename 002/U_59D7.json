@@ -1,0 +1,75 @@
+{
+    "character": "姗",
+    "details": {
+        "Âm Hán Việt": [
+            "san",
+            "tiên"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nữ 女 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰女册"
+        ],
+        "Nét bút": [
+            "フノ一ノフノフ一"
+        ],
+        "Thương Hiệt": [
+            "VBBM (女月月一)"
+        ],
+        "Unicode": [
+            "U+59D7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "san",
+            "tiên"
+        ],
+        "Âm Quảng Đông": [
+            "saan1"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển phổ thông": [
+                "chê cười",
+                "dáng đi thướt tha"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 姍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 姍"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng đi mềm mại của đàn bà con gái — Nói xấu, chê bai."
+            ],
+            "compound_words": {
+                "姗姗": "san san",
+                "姗笑": "san tiếu"
+            }
+        },
+        "tiên": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 姍."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 姍"
+            ]
+        }
+    }
+}

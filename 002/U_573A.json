@@ -1,0 +1,89 @@
+{
+    "character": "场",
+    "details": {
+        "Âm Hán Việt": [
+            "tràng",
+            "trường"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thổ 土 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土𠃓"
+        ],
+        "Nét bút": [
+            "一丨一フノノ"
+        ],
+        "Thương Hiệt": [
+            "GNSH (土弓尸竹)"
+        ],
+        "Unicode": [
+            "U+573A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ",
+            "chǎng ㄔㄤˇ"
+        ],
+        "Âm Nôm": [
+            "tràng",
+            "trường"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4"
+        ]
+    },
+    "meanings": {
+        "tràng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 場."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nơi, chỗ, trường, chợ, sân: 會場 Nơi họp, hội trường; 考場 Trường thi; 市場 Thị trường, chợ; 體育場 Sân vận động;",
+                "Bãi: 牧場 Bãi chăn nuôi;",
+                "Cảnh (kịch): 三幕五場的話劇 Kịch nói ba màn năm cảnh;",
+                "Sân khấu: 上場 Lên (ra) sân khấu; 粉墨登場 Bôi mày vẽ mặt lên sân khấu;",
+                "(loại) Buổi, cuộc...: 一場電影 Một buổi chiếu bóng (xi nê); 一場球賽 Một cuộc thi bóng. Xem 場 [cháng]."
+            ]
+        },
+        "trường": {
+            "Từ điển phổ thông": [
+                "vùng",
+                "cái sân"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 場."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nơi, chỗ, trường, chợ, sân: 會場 Nơi họp, hội trường; 考場 Trường thi; 市場 Thị trường, chợ; 體育場 Sân vận động;",
+                "Bãi: 牧場 Bãi chăn nuôi;",
+                "Cảnh (kịch): 三幕五場的話劇 Kịch nói ba màn năm cảnh;",
+                "Sân khấu: 上場 Lên (ra) sân khấu; 粉墨登場 Bôi mày vẽ mặt lên sân khấu;",
+                "(loại) Buổi, cuộc...: 一場電影 Một buổi chiếu bóng (xi nê); 一場球賽 Một cuộc thi bóng. Xem 場 [cháng]."
+            ],
+            "compound_words": {
+                "冰场": "băng trường",
+                "战场": "chiến trường",
+                "机场": "cơ trường",
+                "会场": "hội trường",
+                "剧场": "kịch trường",
+                "广场": "quảng trường",
+                "操场": "thao trường",
+                "巿场": "thị trường",
+                "场合": "trường hợp",
+                "场所": "trường sở"
+            }
+        }
+    }
+}

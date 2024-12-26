@@ -1,0 +1,78 @@
+{
+    "character": "脸",
+    "details": {
+        "Âm Hán Việt": [
+            "kiểm",
+            "liễm",
+            "thiểm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhục 肉 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月佥"
+        ],
+        "Nét bút": [
+            "ノフ一一ノ丶一丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "BOMM (月人一一)"
+        ],
+        "Unicode": [
+            "U+8138"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "liǎn ㄌㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "kiểm"
+        ],
+        "Âm Quảng Đông": [
+            "lim5"
+        ]
+    },
+    "meanings": {
+        "kiểm": {
+            "Từ điển phổ thông": [
+                "mặt, má"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 臉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 臉"
+            ],
+            "compound_words": {
+                "丢脸": "đâu kiểm",
+                "痲脸": "ma kiểm",
+                "愁眉苦脸": "sầu my khổ kiểm",
+                "鼻青脸肿": "tỵ thanh kiểm thũng"
+            }
+        },
+        "liễm": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 臉"
+            ]
+        },
+        "thiểm": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 臉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 臉"
+            ]
+        }
+    }
+}

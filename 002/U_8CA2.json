@@ -1,0 +1,113 @@
+{
+    "character": "貢",
+    "details": {
+        "Âm Hán Việt": [
+            "cống"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "bối 貝 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱工貝"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MBUC (一月山金)"
+        ],
+        "Unicode": [
+            "U+8CA2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gòng ㄍㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "cóng",
+            "cống",
+            "gỏng",
+            "gúng",
+            "xống"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)",
+            "ク (ku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みつ.ぐ (mitsu.gu)"
+        ],
+        "Âm Hàn": [
+            "공"
+        ],
+        "Âm Quảng Đông": [
+            "gung3"
+        ]
+    },
+    "meanings": {
+        "cống": {
+            "Từ điển phổ thông": [
+                "cống nạp, dâng",
+                "tiến cử",
+                "sông Cống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hiến nạp, dâng nạp (cho thiên tử). ◇Sử Kí 史記: 'Các dĩ kì chức lai cống' 各以其職來貢 (Ngũ đế bổn kỉ 五帝本紀) Các quan theo chức vị đến dâng nạp.",
+                "(Động) Tiến cử (nhân tài). ◇Lễ Kí 禮記: 'Chư hầu tuế hiến, cống sĩ ư thiên tử' 諸侯歲獻, 貢士於天子 (Xạ nghĩa 射義) Chư hầu hằng năm hiến nạp, tiến cử nhân tài cho nhà vua.",
+                "(Động) Ban cho, tặng. § Thông 'cống' 贛.",
+                "(Động) Cáo, bảo cho biết.",
+                "(Danh) Người tài, thời nhà Đường, do các châu, huyện tiến cử lên triều đình, gọi là 'hương cống' 鄉貢 (coi như thi đỗ cử nhân).",
+                "(Danh) Vật phẩm đem dâng nạp. ◎Như: 'tiến cống' 進貢 dâng nạp phẩm vật.",
+                "(Danh) Một thứ thuế ruộng thời cổ.",
+                "(Danh) Họ 'Cống'.",
+                "(Danh) 'Tây Cống' 西貢 Sài-gòn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cống, dâng, như tiến cống 進貢 dâng các vật thổ sản.",
+                "Thuế cống, thứ thuế ruộng.",
+                "Cho.",
+                "Cáo, bảo.",
+                "Tiến cử, như cống sĩ 貢士 kẻ sĩ được tiến cử lên, đi thi đỗ cũng gọi là cống, như hương cống 鄉貢 đỗ cử nhân.",
+                "Tây Cống 西貢 Sài-gòn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cống, cống nạp, nộp cống, triều cống, dâng lên;",
+                "Tiến cử lên: 貢士 Kẻ sĩ được tiến cử lên;",
+                "(văn) Thi đỗ: 鄉貢 Đỗ cử nhân;",
+                "(cũ) Thuế cống, thuế ruộng (thời xưa);",
+                "(văn) Cáo, bảo;",
+                "[Gòng] (Họ) Cống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dâng lên — Tiến cử người tài. Thuế má — Một tên gọi người đậu Cử nhân trong kì thi Hương thời xưa, vì sẽ được dâng lên cho vua dùng vào việc nước. Thơ Trần Tế Xương có câu: » Ông Nghè Ông Cống cũng nằm co «."
+            ],
+            "compound_words": {
+                "職貢": "chức cống",
+                "貢舉": "cống cử",
+                "貢獻": "cống hiến",
+                "貢納": "cống nạp",
+                "貢品": "cống phẩm",
+                "貢士": "cống sĩ",
+                "貢生": "cống sinh",
+                "貢物": "cống vật",
+                "鄉貢": "hương cống",
+                "入貢": "nhập cống",
+                "賦貢": "phú cống",
+                "西貢": "tây cống",
+                "進貢": "tiến cống",
+                "歲貢": "tuế cống"
+            }
+        }
+    }
+}

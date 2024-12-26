@@ -1,0 +1,102 @@
+{
+    "character": "断",
+    "details": {
+        "Âm Hán Việt": [
+            "đoán",
+            "đoạn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "cân 斤 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⿺𠃊米斤"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶フノノ一丨"
+        ],
+        "Thương Hiệt": [
+            "VDHML (女木竹一中)"
+        ],
+        "Unicode": [
+            "U+65AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "duàn ㄉㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đoán",
+            "đón"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダン (dan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "た.つ (ta.tsu)",
+            "ことわ.る (kotowa.ru)",
+            "さだ.める (sada.meru)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "dyun6",
+            "tyun5"
+        ]
+    },
+    "meanings": {
+        "đoán": {
+            "Từ điển phổ thông": [
+                "phán đoán",
+                "quyết đoán"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Như chữ 斷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 斷"
+            ],
+            "compound_words": {
+                "判断": "phán đoán"
+            }
+        },
+        "đoạn": {
+            "Từ điển phổ thông": [
+                "đứt",
+                "cắt đứt"
+            ],
+            "Từ điển trích dẫn": [
+                "1. § Như chữ 斷."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 斷"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết tắt của chữ Đoạn 斷."
+            ],
+            "compound_words": {
+                "不断": "bất đoạn",
+                "折断": "chiết đoạn",
+                "断交": "đoạn giao",
+                "断桥": "đoạn kiều",
+                "断言": "đoạn ngôn",
+                "断绝": "đoạn tuyệt",
+                "间断": "gián đoạn",
+                "垄断": "lũng đoạn",
+                "果断": "quả đoạn",
+                "中断": "trung đoạn"
+            }
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "character": "背",
+    "details": {
+        "Âm Hán Việt": [
+            "bắc",
+            "bối",
+            "bội"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱北月"
+        ],
+        "Nét bút": [
+            "丨一一ノフ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "LPB (中心月)"
+        ],
+        "Unicode": [
+            "U+80CC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bēi ㄅㄟ",
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bối"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハイ (hai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せ (se)",
+            "せい (sei)",
+            "そむ.く (somu.ku)",
+            "そむ.ける (somu.keru)"
+        ],
+        "Âm Hàn": [
+            "배",
+            "패"
+        ],
+        "Âm Quảng Đông": [
+            "bui3",
+            "bui6"
+        ]
+    },
+    "meanings": {
+        "bắc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái lưng — Mặt sau. Phía sau — Xoay lưng lại — Một âm khác là Bội."
+            ]
+        },
+        "bối": {
+            "Từ điển phổ thông": [
+                "lưng",
+                "mặt trái, mặt sau",
+                "mu bàn tay",
+                "cõng, đeo, địu, khoác",
+                "quay lưng lại",
+                "làm trái, làm ngược lại",
+                "thuộc lòng",
+                "vắng vẻ",
+                "đen đủi",
+                "nghễnh ngãng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lưng, phần thân người phía sau ngang với ngực. ◎Như: 'bối tích' 背脊 xương sống lưng, 'chuyển bối' 轉背 xoay lưng, ý nói rất mau chóng, khoảnh khắc.",
+                "(Danh) Mặt trái. ◎Như: 'chỉ bối' 紙背 mặt trái giấy.",
+                "(Danh) Mặt sau. ◎Như: 'ốc bối' 屋背 sau nhà, 'san bối' 山背 sau núi.",
+                "(Danh) Vai lưng súc vật đều ở trên, cho nên cái gì ở trên cũng gọi là 'bối'. ◎Như: 'đao bối' 刀背 sống đao, 'kiều bối' 橋背 sống cầu, lưng cầu, 'bồng bối' 蓬背 mui thuyền. ◇Nguyễn Du 阮攸: 'Bán nhật thụ âm tùy mã bối' 半日樹蔭隨馬背 (武勝關 Vũ Thắng quan) Suốt nửa ngày, bóng cây chạy theo lưng ngựa.",
+                "Một âm là 'bội'. (Động) Quay lưng. ◎Như: 'bội trước thái dương' 背著太陽 quay lưng về mặt trời, 'bội san diện hải' 背山面海 quay lưng vào núi, đối diện với biển, 'bội thủy nhất chiến' 背水一戰 quay lưng vào sông mà đánh trận (thế đánh không lùi, quyết chiến).",
+                "(Động) Bỏ đi. ◎Như: 'li hương bội tỉnh' 離鄉背井 bỏ làng bỏ nước mà đi.",
+                "(Động) Làm trái, làm ngược lại. ◎Như: 'bội minh' 背盟 trái lời thề, 'bội ước' 背約 trái lời hứa, không giữ đúng lời hẹn.",
+                "(Động) Chết, qua đời. § Xem 'kiến bội' 見背.",
+                "(Động) Thuộc lòng. ◎Như: 'bội tụng' 背誦 quay lưng, gấp sách lại mà đọc, tức đọc thuộc lòng.",
+                "(Động) Cõng, đeo, vác, gánh, gách vác. ◎Như: 'bội phụ trọng nhậm' 背負重任 gách vác trách nhiệm nặng nề, 'bội tiểu hài' 背小孩 cõng em bé.",
+                "(Động) Giấu giếm, lén lút. ◎Như: 'một hữu thập ma bội nhân đích sự' 沒有什麽背人的事 không có việc gì phải giấu giếm ai cả.",
+                "(Tính) Vận xấu, vận đen. ◎Như: 'thủ khí bội' 手氣背 thật đen đủi, xui xẻo. ◇Lão Xá 老舍: 'Giá lưỡng bả đô một hòa, tha thất khứ liễu tự tín, nhi việt đả việt hoảng, việt bối' 這兩把都沒和, 他失去了自信, 而越打越慌, 越背 (Tứ thế đồng đường 四世同堂, Nhị bát 二八) Hai lượt đó đều không ù, ông ta mất hết tự tin, càng đánh càng quýnh, càng xui xẻo.",
+                "(Tính) Nghe không rõ, nghễnh ngãng. ◎Như: 'nhĩ bối' 耳背 tai nghễnh ngãng.",
+                "(Tính) Vắng vẻ. ◎Như: 'bội nhai tiểu hạng' 背街小巷 đường vắng hẻm nhỏ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vai, hai bên sau lưng ngang với ngực gọi là bối. Vai ở đằng sau người, nên cái gì ở đằng sau cũng gọi là bối. Như ốc bối 屋背 sau nhà.",
+                "Vai lưng súc vật đều ở trên, cho nên cái gì ở trên cũng gọi là bối. Như kiều bối 橋背 sống cầu, lưng cầu, bồng bối 蓬背 mui thuyền, v.v.",
+                "Mặt trái, như chỉ bối 紙背 mặt trái giấy.",
+                "Một âm là bội. Trái, như bội minh 背盟 trái lời thề.",
+                "Bỏ đi, như kiến bội 見背 chết đi.",
+                "Ðọc thuộc lòng, như bội tụng 背誦 gấp sách lại mà đọc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lưng: 駝背 Lưng còm, lưng còng;",
+                "Mặt trái hoặc phần lưng, phần sau trên đồ vật: 背面 Mặt trái; 手背 Mu bàn tay; 刀背 Sống dao; 書背 Gáy sách; 櫥背 Lưng tủ; 屋背 Sau nhà;",
+                "Quay lưng lại: 背光 Sấp bóng, ngược ánh sáng; 背着太陽 Quay lưng về mặt trời;",
+                "Làm trái với, đi ngược lại: 不能違背人民的意志 Không được làm trái ý dân;",
+                "Bội tín.【背約】bội ước [bèiyue] Bội ước, thất hứa, lật lọng, trở mặt;",
+                "Thuộc lòng: 背得爛熟 Thuộc làu; 背誦 Đọc thuộc lòng (gấp sách lại mà đọc);",
+                "Thầm vụng, lén lút (nói hoặc làm sau lưng người khác): 不要背着他說話 Đừng nói lén (nói vụng sau lưng) anh ấy;",
+                "Vắng vẻ, hẻo lánh: 這個胡同太背 Ngõ hẻm này vắng quá;",
+                "Điếc: 耳朵有點兒背 Tai hơi điếc, nặng tai;",
+                "(khn) Không may, xui, rủi, đen đủi: 手氣背 Số đen;",
+                "(văn) Bỏ đi: 見背 Chết đi. Xem 揹 [bei]."
+            ],
+            "compound_words": {
+                "搤亢拊背": "ách hàng phụ bối",
+                "包背裝": "bao bối trang",
+                "曝背": "bộc bối",
+                "背影": "bối ảnh",
+                "背榜": "bối bảng",
+                "背包": "bối bao",
+                "背景": "bối cảnh",
+                "背面": "bối diện",
+                "背褡": "bối đáp",
+                "背后": "bối hậu",
+                "背後": "bối hậu",
+                "背心": "bối tâm",
+                "背城借一": "bối thành tá nhất",
+                "背脊": "bối tích",
+                "背馳": "bối trì",
+                "背誦": "bối tụng",
+                "炙背": "chích bối",
+                "轉背": "chuyển bối",
+                "面是背非": "diện thị bối phi",
+                "佗背": "đà bối",
+                "駝背": "đà bối",
+                "見背": "kiến bối",
+                "龜背": "quy bối"
+            }
+        },
+        "bội": {
+            "Từ điển phổ thông": [
+                "thồ, đeo, cõng, vác, địu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lưng, phần thân người phía sau ngang với ngực. ◎Như: 'bối tích' 背脊 xương sống lưng, 'chuyển bối' 轉背 xoay lưng, ý nói rất mau chóng, khoảnh khắc.",
+                "(Danh) Mặt trái. ◎Như: 'chỉ bối' 紙背 mặt trái giấy.",
+                "(Danh) Mặt sau. ◎Như: 'ốc bối' 屋背 sau nhà, 'san bối' 山背 sau núi.",
+                "(Danh) Vai lưng súc vật đều ở trên, cho nên cái gì ở trên cũng gọi là 'bối'. ◎Như: 'đao bối' 刀背 sống đao, 'kiều bối' 橋背 sống cầu, lưng cầu, 'bồng bối' 蓬背 mui thuyền. ◇Nguyễn Du 阮攸: 'Bán nhật thụ âm tùy mã bối' 半日樹蔭隨馬背 (武勝關 Vũ Thắng quan) Suốt nửa ngày, bóng cây chạy theo lưng ngựa.",
+                "Một âm là 'bội'. (Động) Quay lưng. ◎Như: 'bội trước thái dương' 背著太陽 quay lưng về mặt trời, 'bội san diện hải' 背山面海 quay lưng vào núi, đối diện với biển, 'bội thủy nhất chiến' 背水一戰 quay lưng vào sông mà đánh trận (thế đánh không lùi, quyết chiến).",
+                "(Động) Bỏ đi. ◎Như: 'li hương bội tỉnh' 離鄉背井 bỏ làng bỏ nước mà đi.",
+                "(Động) Làm trái, làm ngược lại. ◎Như: 'bội minh' 背盟 trái lời thề, 'bội ước' 背約 trái lời hứa, không giữ đúng lời hẹn.",
+                "(Động) Chết, qua đời. § Xem 'kiến bội' 見背.",
+                "(Động) Thuộc lòng. ◎Như: 'bội tụng' 背誦 quay lưng, gấp sách lại mà đọc, tức đọc thuộc lòng.",
+                "(Động) Cõng, đeo, vác, gánh, gách vác. ◎Như: 'bội phụ trọng nhậm' 背負重任 gách vác trách nhiệm nặng nề, 'bội tiểu hài' 背小孩 cõng em bé.",
+                "(Động) Giấu giếm, lén lút. ◎Như: 'một hữu thập ma bội nhân đích sự' 沒有什麽背人的事 không có việc gì phải giấu giếm ai cả.",
+                "(Tính) Vận xấu, vận đen. ◎Như: 'thủ khí bội' 手氣背 thật đen đủi, xui xẻo. ◇Lão Xá 老舍: 'Giá lưỡng bả đô một hòa, tha thất khứ liễu tự tín, nhi việt đả việt hoảng, việt bối' 這兩把都沒和, 他失去了自信, 而越打越慌, 越背 (Tứ thế đồng đường 四世同堂, Nhị bát 二八) Hai lượt đó đều không ù, ông ta mất hết tự tin, càng đánh càng quýnh, càng xui xẻo.",
+                "(Tính) Nghe không rõ, nghễnh ngãng. ◎Như: 'nhĩ bối' 耳背 tai nghễnh ngãng.",
+                "(Tính) Vắng vẻ. ◎Như: 'bội nhai tiểu hạng' 背街小巷 đường vắng hẻm nhỏ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vai, hai bên sau lưng ngang với ngực gọi là bối. Vai ở đằng sau người, nên cái gì ở đằng sau cũng gọi là bối. Như ốc bối 屋背 sau nhà.",
+                "Vai lưng súc vật đều ở trên, cho nên cái gì ở trên cũng gọi là bối. Như kiều bối 橋背 sống cầu, lưng cầu, bồng bối 蓬背 mui thuyền, v.v.",
+                "Mặt trái, như chỉ bối 紙背 mặt trái giấy.",
+                "Một âm là bội. Trái, như bội minh 背盟 trái lời thề.",
+                "Bỏ đi, như kiến bội 見背 chết đi.",
+                "Ðọc thuộc lòng, như bội tụng 背誦 gấp sách lại mà đọc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lưng: 駝背 Lưng còm, lưng còng;",
+                "Mặt trái hoặc phần lưng, phần sau trên đồ vật: 背面 Mặt trái; 手背 Mu bàn tay; 刀背 Sống dao; 書背 Gáy sách; 櫥背 Lưng tủ; 屋背 Sau nhà;",
+                "Quay lưng lại: 背光 Sấp bóng, ngược ánh sáng; 背着太陽 Quay lưng về mặt trời;",
+                "Làm trái với, đi ngược lại: 不能違背人民的意志 Không được làm trái ý dân;",
+                "Bội tín.【背約】bội ước [bèiyue] Bội ước, thất hứa, lật lọng, trở mặt;",
+                "Thuộc lòng: 背得爛熟 Thuộc làu; 背誦 Đọc thuộc lòng (gấp sách lại mà đọc);",
+                "Thầm vụng, lén lút (nói hoặc làm sau lưng người khác): 不要背着他說話 Đừng nói lén (nói vụng sau lưng) anh ấy;",
+                "Vắng vẻ, hẻo lánh: 這個胡同太背 Ngõ hẻm này vắng quá;",
+                "Điếc: 耳朵有點兒背 Tai hơi điếc, nặng tai;",
+                "(khn) Không may, xui, rủi, đen đủi: 手氣背 Số đen;",
+                "(văn) Bỏ đi: 見背 Chết đi. Xem 揹 [bei]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xoay lưng lại, bỏ đi — Chống lại. Phản lại — Một âm khác là Bối."
+            ],
+            "compound_words": {
+                "背薄": "bội bạc",
+                "背叛": "bội bạn",
+                "背禮": "bội lễ",
+                "背理": "bội lí",
+                "背盟": "bội minh",
+                "背義": "bội nghĩa",
+                "背逆": "bội nghịch",
+                "背反": "bội phản",
+                "背负": "bội phụ",
+                "背书": "bội thư",
+                "背信": "bội tín",
+                "背债": "bội trái",
+                "背約": "bội ước",
+                "見背": "kiến bội",
+                "反背": "phản bội",
+                "違背": "vi bội"
+            }
+        }
+    }
+}

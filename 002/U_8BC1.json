@@ -1,0 +1,67 @@
+{
+    "character": "证",
+    "details": {
+        "Âm Hán Việt": [
+            "chứng"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠正"
+        ],
+        "Nét bút": [
+            "丶フ一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "IVMYM (戈女一卜一)"
+        ],
+        "Unicode": [
+            "U+8BC1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhèng ㄓㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chứng"
+        ],
+        "Âm Quảng Đông": [
+            "zing3"
+        ]
+    },
+    "meanings": {
+        "chứng": {
+            "Từ điển phổ thông": [
+                "bằng cứ",
+                "can gián"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 證."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 証"
+            ],
+            "compound_words": {
+                "保证": "bảo chứng",
+                "凭证": "bằng chứng",
+                "辩证": "biện chứng",
+                "证实": "chứng thực",
+                "引证": "dẫn chứng",
+                "例证": "lệ chứng",
+                "伪证": "nguỵ chứng"
+            }
+        }
+    }
+}

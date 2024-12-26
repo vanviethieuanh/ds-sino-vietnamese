@@ -1,0 +1,100 @@
+{
+    "character": "儲",
+    "details": {
+        "Âm Hán Việt": [
+            "trừ",
+            "trữ"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nhân 人 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻諸"
+        ],
+        "Nét bút": [
+            "ノ丨丶一一一丨フ一一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "OYRA (人卜口日)"
+        ],
+        "Unicode": [
+            "U+5132"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chú ㄔㄨˊ",
+            "chǔ ㄔㄨˇ"
+        ],
+        "Âm Nôm": [
+            "trừ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョ (cho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もう.ける (mō.keru)",
+            "もう.かる (mō.karu)",
+            "もうけ (mōke)",
+            "たくわ.える (takuwa.eru)"
+        ],
+        "Âm Hàn": [
+            "저"
+        ],
+        "Âm Quảng Đông": [
+            "cyu1",
+            "cyu5"
+        ]
+    },
+    "meanings": {
+        "trừ": {
+            "Từ điển phổ thông": [
+                "chứa, cất, lưu giữ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tích chứa, để dành. ◎Như: 'trữ súc' 儲蓄 chất chứa, 'trữ tồn' 儲存 để dành.",
+                "(Động) Chờ đợi.",
+                "(Danh) Thái tử, người sẽ kế thừa ngôi vua. ◎Như: 'lập trữ' 立儲 lập thái tử, 'hoàng trữ' 皇儲 người kế thừa hoàng đế.",
+                "(Danh) Họ 'Trữ'.",
+                "§ Ta hay đọc là 'trừ'."
+            ],
+            "compound_words": {
+                "儲備": "trừ bị",
+                "儲藏": "trừ tàng",
+                "儲存": "trừ tồn"
+            }
+        },
+        "trữ": {
+            "Từ điển trích dẫn": [
+                "(Động) Tích chứa, để dành. ◎Như: 'trữ súc' 儲蓄 chất chứa, 'trữ tồn' 儲存 để dành.",
+                "(Động) Chờ đợi.",
+                "(Danh) Thái tử, người sẽ kế thừa ngôi vua. ◎Như: 'lập trữ' 立儲 lập thái tử, 'hoàng trữ' 皇儲 người kế thừa hoàng đế.",
+                "(Danh) Họ 'Trữ'.",
+                "§ Ta hay đọc là 'trừ'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trữ, tích chứa, để dành: 儲金 Tiền gởi ngân hàng, tiền tiết kiệm;",
+                "Người đại diện, người thay mặt, người thay thế;",
+                "[Chư] (Họ) Trữ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cất chứa — Để dành. Ta hay đọc Trừ. Td: Trừ bị — Chờ đợi."
+            ],
+            "compound_words": {
+                "儲備": "trữ bị",
+                "儲金": "trữ kim",
+                "儲蓄": "trữ súc"
+            }
+        }
+    }
+}

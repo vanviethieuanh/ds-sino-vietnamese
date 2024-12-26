@@ -1,0 +1,84 @@
+{
+    "character": "繭",
+    "details": {
+        "Âm Hán Việt": [
+            "kiển"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "mịch 糸 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "一丨丨丨フ丨フフ丶丶丶丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "TBLI (廿月中戈)"
+        ],
+        "Unicode": [
+            "U+7E6D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "kén",
+            "kiền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まゆ (mayu)",
+            "きぬ (kinu)"
+        ],
+        "Âm Hàn": [
+            "견"
+        ],
+        "Âm Quảng Đông": [
+            "gaan2"
+        ]
+    },
+    "meanings": {
+        "kiển": {
+            "Từ điển phổ thông": [
+                "cái kén tằm",
+                "mạng nhện",
+                "phồng da chân"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái kén tằm. § Tức là cái tổ của con tằm tự nhả tơ ra để che mình nó.",
+                "(Danh) Chỉ mạng tơ của các loài sâu bọ để tự bảo hộ.",
+                "(Danh) Quần áo bằng tơ, bông.",
+                "(Danh) Phồng da (tay, chân). § Thông 'kiển, nghiễn' 趼. ◎Như: 'trùng kiển' 重繭 phồng mọng lên. ◇Đỗ Phủ 杜甫: 'Lão phu bất tri kì sở vãng, Túc kiển hoang san chuyển sầu tật' 老夫不知其所往, 足繭荒山轉愁疾 (Quan Công Tôn đại nương đệ tử vũ kiếm khí hành 觀公孫大娘弟子舞劍器行) Lão phu không biết phải đi đâu, Chân phồng da nơi núi hoang dã thành bệnh sầu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái kén tằm, tức là cái tổ của con tằm nó tụ nhả tơ ra để che mình nó.",
+                "Những mạng của các loài sâu bọ để bảo hộ mình nó cũng gọi là kiển.",
+                "Phồng da chân, như trùng kiển 重繭 phồng mọng lên."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Cái) kén tằm, tổ kén;",
+                "Mạng bảo hộ mình của các loài sâu bọ;",
+                "(văn) Phồng da chân (như 趼 [jiăn]): 重繭 Phồng mọng lên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái kén tằm."
+            ],
+            "compound_words": {
+                "繭繭": "kiển kiển",
+                "抽繭": "trừu kiển"
+            }
+        }
+    }
+}

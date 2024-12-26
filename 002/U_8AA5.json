@@ -1,0 +1,88 @@
+{
+    "character": "誥",
+    "details": {
+        "Âm Hán Việt": [
+            "cáo"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言告"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "YRHGR (卜口竹土口)"
+        ],
+        "Unicode": [
+            "U+8AA5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gào ㄍㄠˋ"
+        ],
+        "Âm Nôm": [
+            "cáo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つ.ぐ (tsu.gu)"
+        ],
+        "Âm Hàn": [
+            "고"
+        ],
+        "Âm Quảng Đông": [
+            "gou3"
+        ]
+    },
+    "meanings": {
+        "cáo": {
+            "Từ điển phổ thông": [
+                "răn bảo",
+                "ban sắc mệnh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bậc trên bảo cho bậc dưới biết. ◇Dịch Kinh 易經: 'Tượng viết: Thi mệnh cáo tứ phương' 象曰: 施命誥四方 (Cấu quái 姤卦) Tượng nói: Thi hành mệnh lệnh, hiểu dụ khắp bốn phương.",
+                "(Danh) Thể văn, văn tự ngày xưa dùng để răn bảo người khác, sau chỉ bài văn nhà vua truyền bảo bề tôi. ◎Như: 'Tửu cáo' 酒誥 tên một thiên trong Thư Kinh 書經, chỉ dụ của vua truyền mệnh giới tửu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bảo, trên bảo dưới là cáo.",
+                "Lời sai các quan, như cáo mệnh 誥命 sắc vua ban cho quan.",
+                "Kính cẩn.",
+                "Bài văn răn bảo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ban cho;",
+                "Răn bảo;",
+                "Bài răn bảo, bài cáo (chỉ thị của vua);",
+                "Kính cẩn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói cho biết. Như chữ Cáo 告 — Thận trọng, giữ gìn — Răn dạy kẻ dưới — Lối văn dùng trong việc vua phong tặng hoặc ra lệnh cho các quan."
+            ],
+            "compound_words": {
+                "誥命": "cáo mệnh",
+                "誥封": "cáo phong",
+                "誥贈": "cáo tặng",
+                "誥授": "cáo thụ",
+                "制誥": "chế cáo",
+                "宣誥": "tuyên cáo"
+            }
+        }
+    }
+}

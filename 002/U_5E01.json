@@ -1,0 +1,63 @@
+{
+    "character": "币",
+    "details": {
+        "Âm Hán Việt": [
+            "tệ"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "cân 巾 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱丿巾"
+        ],
+        "Nét bút": [
+            "ノ丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "HLB (竹中月)"
+        ],
+        "Unicode": [
+            "U+5E01"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tệ"
+        ],
+        "Âm Quảng Đông": [
+            "bai6"
+        ]
+    },
+    "meanings": {
+        "tệ": {
+            "Từ điển phổ thông": [
+                "vải lụa",
+                "tiền"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 幣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 幣"
+            ],
+            "compound_words": {
+                "伪币": "nguỵ tệ",
+                "币制": "tệ chế",
+                "币値": "tệ trị"
+            }
+        }
+    }
+}

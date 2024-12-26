@@ -1,0 +1,81 @@
+{
+    "character": "筠",
+    "details": {
+        "Âm Hán Việt": [
+            "quân"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "trúc 竹 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮均"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶一丨一ノフ丶一"
+        ],
+        "Thương Hiệt": [
+            "HGPM (竹土心一)"
+        ],
+        "Unicode": [
+            "U+7B60"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "jūn ㄐㄩㄣ",
+            "yún ㄩㄣˊ"
+        ],
+        "Âm Nôm": [
+            "quân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イン (in)",
+            "ウン (un)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たけ (take)"
+        ],
+        "Âm Hàn": [
+            "균"
+        ],
+        "Âm Quảng Đông": [
+            "gwan1",
+            "wan4"
+        ]
+    },
+    "meanings": {
+        "quân": {
+            "Từ điển phổ thông": [
+                "cật tre già"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cật tre, vỏ tre.",
+                "(Danh) Cây tre. ◎Như: 'thúy quân' 翠筠 tre xanh.",
+                "(Tính) Làm bằng tre. ◎Như: 'quân lam' 筠籃 giỏ tre."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cật tre già."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cật tre già, vỏ tre;",
+                "Cây tre."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Vỏ cây tre, cây trúc. Cật tre, trúc — Cây tre, trúc."
+            ],
+            "compound_words": {
+                "松筠": "tùng quân"
+            }
+        }
+    }
+}

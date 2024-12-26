@@ -1,0 +1,86 @@
+{
+    "character": "舘",
+    "details": {
+        "Âm Hán Việt": [
+            "quán"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thiệt 舌 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舍官"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丨フ一丶丶フ丨フ一フ一"
+        ],
+        "Thương Hiệt": [
+            "ORJRR (人口十口口)"
+        ],
+        "Unicode": [
+            "U+8218"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "guǎn ㄍㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "quán"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やかた (yakata)",
+            "たて (tate)"
+        ],
+        "Âm Hàn": [
+            "관"
+        ],
+        "Âm Quảng Đông": [
+            "gun2"
+        ]
+    },
+    "meanings": {
+        "quán": {
+            "Từ điển phổ thông": [
+                "nhà, nơi ở, quán trọ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “quán” 館."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ quán 館."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 館 (bộ 食)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một lối viết của chữ Quán 館."
+            ],
+            "compound_words": {
+                "印舘": "ấn quán",
+                "報舘": "báo quán",
+                "公舘": "công quán",
+                "圖書舘": "đồ thư quán",
+                "會舘": "hội quán",
+                "客舘": "khách quán",
+                "旅舘": "lữ quán",
+                "元舘": "nguyên quán",
+                "史舘": "sử quán",
+                "書舘": "thư quán",
+                "住舘": "trú quán"
+            }
+        }
+    }
+}

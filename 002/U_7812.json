@@ -1,0 +1,84 @@
+{
+    "character": "砒",
+    "details": {
+        "Âm Hán Việt": [
+            "phê",
+            "tì",
+            "tỳ"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thạch 石 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石比"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "MRPP (一口心心)"
+        ],
+        "Unicode": [
+            "U+7812"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "pī ㄆㄧ"
+        ],
+        "Âm Nôm": [
+            "phê",
+            "tì"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)",
+            "ヘイ (hei)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "pei1"
+        ]
+    },
+    "meanings": {
+        "phê": {
+            "Từ điển Trần Văn Chánh": [
+                "(hoá) Asen (Arsenicum, kí hiệu AS). Cg. 砷 [shen], 信石 [xìnshí];",
+                "【砒霜】 phê sương [pishuang] (hoá) Nhân ngôn, thạch tín. Cg. 信石 [xìnshí]."
+            ]
+        },
+        "tì": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) Nguyên tố hóa học (arsenic, As). Là một chất rất độc, còn có tên là “tì sương” 砒霜, cũng gọi là “tín thạch” 信石 nhân ngôn. ◇Thủy hử truyện 水滸傳: “Đại quan nhân gia lí thủ ta tì sương lai, khước giáo đại nương tử tự khứ thục nhất thiếp tâm đông đích dược lai” 大官人家裡取些砒霜來, 卻教大娘子自去贖一帖心疼的藥來 (Đệ nhị thập ngũ hồi) Đại quan nhân đem sang đây một ít nhân ngôn, bảo nương tử đi mua gói thuốc chữa đau tim."
+            ],
+            "compound_words": {
+                "白砒": "bạch tì"
+            }
+        },
+        "tỳ": {
+            "Từ điển phổ thông": [
+                "(một thứ đá có chất độc)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Một thứ đá có chất rất độc, lọc sạch gọi là tì sương 砒霜, cũng gọi là tín thạch 信石 (arsenic, As) uống chết người."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tì sương 砒霜: Tên một thứ bột cực độc."
+            ],
+            "compound_words": {
+                "砒霜": "tỳ sương"
+            }
+        }
+    }
+}

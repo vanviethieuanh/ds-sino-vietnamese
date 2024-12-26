@@ -1,0 +1,80 @@
+{
+    "character": "笊",
+    "details": {
+        "Âm Hán Việt": [
+            "tráo",
+            "trảo"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "trúc 竹 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮爪"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノノ丨丶"
+        ],
+        "Thương Hiệt": [
+            "HHLO (竹竹中人)"
+        ],
+        "Unicode": [
+            "U+7B0A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zhào ㄓㄠˋ"
+        ],
+        "Âm Nôm": [
+            "trạo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ざる (zaru)",
+            "す (su)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "zaau3"
+        ]
+    },
+    "meanings": {
+        "tráo": {
+            "Từ điển phổ thông": [
+                "(xem: tráo ly 笊篱,笊籬)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Tráo li” 笊籬 vợt dùng để mò, vớt cái gì trong nước, có cán dài, mặt lưới đan bằng tre, cành liễu, v.v. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: “Tự tham nang trung thủ xuất nhất cá thuần ngân tráo li lai, phiến khởi thán hỏa tố tiên bính tự đạm” 自探囊中取出一個純銀笊籬來, 煽起炭火做煎餅自啖 (Quyển tam) Tự tìm trong bị lấy ra một cái vợt bằng bạc thuần, quạt lửa than làm bánh ăn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tráo li 笊篱 cái vợt bằng tre. Cũng viết là 笊籬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【笊篱】tráo li [zhàoli] (Cái) vợt tre, (cái) môi vớt."
+            ],
+            "compound_words": {
+                "笊篱": "tráo ly",
+                "笊籬": "tráo ly"
+            }
+        },
+        "trảo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái rá vo gạo."
+            ]
+        }
+    }
+}

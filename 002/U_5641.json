@@ -1,0 +1,85 @@
+{
+    "character": "噁",
+    "details": {
+        "Âm Hán Việt": [
+            "ác",
+            "ố"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口惡"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一フフ一丨一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "RMMP (口一一心)"
+        ],
+        "Unicode": [
+            "U+5641"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "ě",
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "ạc",
+            "éc",
+            "ú",
+            "uạ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オ (o)",
+            "ウ (u)",
+            "アク (aku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おこ.る (oko.ru)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ngok3",
+            "ok3"
+        ]
+    },
+    "meanings": {
+        "ác": {
+            "Từ điển trích dẫn": [
+                "1. § Xem “ố tâm” 噁心."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Ác ác 噁噁 — Một âm khác là Ố."
+            ],
+            "compound_words": {
+                "噁噁": "ác ác"
+            }
+        },
+        "ố": {
+            "Từ điển trích dẫn": [
+                "1. § Xem “ố tâm” 噁心."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng ú ớ không rõ — Một âm là Ác. Xem Ác."
+            ],
+            "compound_words": {
+                "噁心": "ố tâm"
+            }
+        }
+    }
+}

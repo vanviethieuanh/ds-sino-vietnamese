@@ -1,0 +1,77 @@
+{
+    "character": "输",
+    "details": {
+        "Âm Hán Việt": [
+            "du",
+            "thâu",
+            "thú"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "xa 車 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰车俞"
+        ],
+        "Nét bút": [
+            "一フ丨一ノ丶一丨フ一一丨丨"
+        ],
+        "Thương Hiệt": [
+            "JQOMN (十手人一弓)"
+        ],
+        "Unicode": [
+            "U+8F93"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shū ㄕㄨ"
+        ],
+        "Âm Nôm": [
+            "thâu"
+        ],
+        "Âm Quảng Đông": [
+            "syu1"
+        ]
+    },
+    "meanings": {
+        "du": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 輸"
+            ]
+        },
+        "thâu": {
+            "Từ điển phổ thông": [
+                "chở đồ đi",
+                "nộp, đưa đồ",
+                "thua bạc"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 輸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 輸"
+            ],
+            "compound_words": {
+                "输送": "thâu tống",
+                "输出": "thâu xuất",
+                "传输": "truyền thâu",
+                "运输": "vận thâu"
+            }
+        },
+        "thú": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 輸."
+            ]
+        }
+    }
+}

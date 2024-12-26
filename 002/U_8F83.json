@@ -1,0 +1,79 @@
+{
+    "character": "较",
+    "details": {
+        "Âm Hán Việt": [
+            "giác",
+            "giảo",
+            "giếu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "xa 車 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰车交"
+        ],
+        "Nét bút": [
+            "一フ丨一丶一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KQYCK (大手卜金大)"
+        ],
+        "Unicode": [
+            "U+8F83"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiào ㄐㄧㄠˋ",
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "giảo"
+        ],
+        "Âm Quảng Đông": [
+            "gaau3"
+        ]
+    },
+    "meanings": {
+        "giác": {
+            "Từ điển phổ thông": [
+                "tay xe, càng xe"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 較."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 較"
+            ]
+        },
+        "giảo": {
+            "Từ điển phổ thông": [
+                "so với"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 較."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 較"
+            ],
+            "compound_words": {
+                "比较": "tỷ giảo"
+            }
+        },
+        "giếu": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 較."
+            ]
+        }
+    }
+}

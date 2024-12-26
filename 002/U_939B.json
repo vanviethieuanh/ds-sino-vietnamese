@@ -1,0 +1,80 @@
+{
+    "character": "鎛",
+    "details": {
+        "Âm Hán Việt": [
+            "bác"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "kim 金 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金尃"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨フ一一丨丶一丨丶"
+        ],
+        "Thương Hiệt": [
+            "CIBI (金戈月戈)"
+        ],
+        "Unicode": [
+            "U+939B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bó ㄅㄛˊ"
+        ],
+        "Âm Nôm": [
+            "bác"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハク (haku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かねかざり (kanekazari)"
+        ],
+        "Âm Hàn": [
+            "박"
+        ],
+        "Âm Quảng Đông": [
+            "bok3"
+        ]
+    },
+    "meanings": {
+        "bác": {
+            "Từ điển phổ thông": [
+                "cái chuông to",
+                "cái bướm (một loại cuốc)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nhạc khí ngày xưa có dây treo, còn gọi là 'bác lân' 鎛鱗.",
+                "(Danh) Cái chuông to, một nhạc khí ngày xưa.",
+                "(Danh) Cái bướm, một loại cuốc để làm ruộng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái chuông to (nhạc khí).",
+                "Cái bướm (một loại cuốc), một thứ đồ làm ruộng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Chuông to;",
+                "Cái bướm (một loại cuốc)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái bừa để bừa ruộng."
+            ],
+            "compound_words": {
+                "鎛鐘": "bác chung"
+            }
+        }
+    }
+}

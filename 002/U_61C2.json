@@ -1,0 +1,79 @@
+{
+    "character": "懂",
+    "details": {
+        "Âm Hán Việt": [
+            "đổng"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "tâm 心 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖董"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨丨ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "PTHG (心廿竹土)"
+        ],
+        "Unicode": [
+            "U+61C2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "dǒng ㄉㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "đỏng",
+            "đổng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)",
+            "ツ (tsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みだ.れる (mida.reru)"
+        ],
+        "Âm Quảng Đông": [
+            "dung2"
+        ]
+    },
+    "meanings": {
+        "đổng": {
+            "Từ điển phổ thông": [
+                "hiểu, biết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hiểu rõ, biết. ◎Như: 'nhất khán tựu đổng' 一看就懂 nhìn một cái là hiểu ngay.",
+                "(Tính) § Xem 'mộng đổng' 懵懂, 'măng đổng' 瞢懂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hiểu biết rõ ràng, như: nhất khán tựu đổng 一看就懂. Tục gọi người không hiểu biết rõ ràng là mộng đổng 懵懂, kẻ hiểu biết rõ ràng là đổng sự 懂事."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiểu rõ, biết: 懂事 Biết điều; 懂法語 Biết tiếng Pháp; 懂政策 Hiểu biết chính sách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trong Bạch thoại có nghĩa là hiểu rõ."
+            ],
+            "compound_words": {
+                "懂得": "đổng đắc",
+                "懂行": "đổng hàng",
+                "懂事": "đổng sự",
+                "瞢懂": "măng đổng",
+                "懵懂": "mộng đổng"
+            }
+        }
+    }
+}

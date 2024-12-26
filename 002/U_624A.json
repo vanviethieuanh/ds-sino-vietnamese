@@ -1,0 +1,66 @@
+{
+    "character": "扊",
+    "details": {
+        "Âm Hán Việt": [
+            "diễm",
+            "diệm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "hộ 戶 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸户炎"
+        ],
+        "Nét bút": [
+            "丶フ一ノ丶ノノ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "HSFF (竹尸火火)"
+        ],
+        "Unicode": [
+            "U+624A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yǎn ㄧㄢˇ"
+        ],
+        "Âm Hàn": [
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "jim5"
+        ]
+    },
+    "meanings": {
+        "diễm": {
+            "Từ điển phổ thông": [
+                "(xem: diễm di 扊扅)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 扅."
+            ],
+            "compound_words": {
+                "扊扅": "diễm di"
+            }
+        },
+        "diệm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Diệm di 扊扅."
+            ],
+            "compound_words": {
+                "扊扅": "diệm di"
+            }
+        }
+    }
+}

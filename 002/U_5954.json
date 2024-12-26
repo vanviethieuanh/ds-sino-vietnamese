@@ -1,0 +1,120 @@
+{
+    "character": "奔",
+    "details": {
+        "Âm Hán Việt": [
+            "bôn",
+            "phẫn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "đại 大 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱大卉"
+        ],
+        "Nét bút": [
+            "一ノ丶一丨一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "KJT (大十廿)"
+        ],
+        "Unicode": [
+            "U+5954"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bēn ㄅㄣ",
+            "bèn ㄅㄣˋ"
+        ],
+        "Âm Nôm": [
+            "bon",
+            "bôn",
+            "buôn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホン (hon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はし.る (hashi.ru)"
+        ],
+        "Âm Hàn": [
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "ban1"
+        ]
+    },
+    "meanings": {
+        "bôn": {
+            "Từ điển phổ thông": [
+                "lồng lên, chạy vội",
+                "thua chạy, chạy trốn",
+                "vội vàng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chạy vội, chạy nhanh. ◎Như: 'bôn trì' 奔馳 rong ruổi, 'bôn xu' 奔趨 làm hăm hở, sợ thua người. ◇Liễu Tông Nguyên 柳宗元: 'Vĩnh chi nhân tranh bôn tẩu yên' 永之人爭奔走焉 (Bộ xà giả thuyết 捕蛇者說) Người ở Vĩnh Châu tranh nhau đi (bắt rắn).",
+                "(Động) Trốn chạy, thua chạy. ◎Như: 'bôn bắc' 奔北 thua chạy.",
+                "(Động) (Gái) bỏ theo trai (không đúng lễ giáo). ◎Như: 'dâm bôn' 淫奔 trai gái ăn nằm lén lút với nhau. ◇Hồng Lâu Mộng 紅樓夢: 'Tái giả, đại bán phong nguyệt cố sự, bất quá thâu hương thiết ngọc, ám ước tư bôn nhi dĩ, tịnh bất tằng tương nhi nữ chi chân tình phát tiết nhất nhị' 再者, 大半風月故事, 不過偷香竊玉, 暗約私奔而已, 並不曾將兒女之真情發泄一二 (Đệ nhất hồi) Hơn nữa, đa số những chuyện gió trăng, chẳng qua (chỉ là) trộm hương cắp ngọc, lén lút hẹn hò mà thôi, chưa hề nói tới chân tình phát tiết của người con gái chi cả.",
+                "(Tính) Nhanh, vội. ◇Mai Thừa 枚乘: 'Trạng như bôn mã' 狀如奔馬 (Thất phát 七發) Dáng như ngựa chạy mau.",
+                "(Danh) Họ 'Bôn'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chạy vội.",
+                "Làm việc hăm hở sợ thua người gọi là bôn xu 奔趨.",
+                "Ðánh trận thua chạy gọi là bôn.",
+                "Cưới xin không đủ lễ gọi là bôn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đi vội, chạy, chạy trốn: 狂奔 Chạy bán sống bán chết; 飛奔 Chạy nhanh như bay; 東奔西跑 Chạy ngược chạy xuôi, chạy lăng xăng;",
+                "(văn) Ngựa chạy nhanh;",
+                "(văn) (Con gái) bỏ theo trai (không làm lễ cưới): 文君夜亡奔相如 Trác Văn Quân ban đêm bỏ nhà trốn theo Tương Như (Sử kí);",
+                "[Ben] (Họ) Bôn. Xem 奔 [bèn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chạy — Trốn tránh — Trai gái ăn ở với nhau ngoài lễ nghĩa, luật pháp."
+            ],
+            "compound_words": {
+                "奔波": "bôn ba",
+                "奔跑": "bôn bào",
+                "奔北": "bôn bắc",
+                "奔奔": "bôn bôn",
+                "奔競": "bôn cạnh",
+                "奔逃": "bôn đào",
+                "奔流": "bôn lưu",
+                "奔命": "bôn mệnh",
+                "奔放": "bôn phóng",
+                "奔蜂": "bôn phong",
+                "奔泻": "bôn tả",
+                "奔瀉": "bôn tả",
+                "奔喪": "bôn tang",
+                "奔袭": "bôn tập",
+                "奔襲": "bôn tập",
+                "奔走": "bôn tẩu",
+                "奔竄": "bôn thoán",
+                "奔馳": "bôn trì",
+                "奔驰": "bôn trì",
+                "競奔": "cạnh bôn",
+                "淫奔": "dâm bôn",
+                "投奔": "đầu bôn",
+                "私奔": "tư bôn",
+                "趨奔": "xu bôn",
+                "出奔": "xuất bôn"
+            }
+        },
+        "phẫn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thua bại. Như chữ Phẫn 僨 — Một âm là Bôn. Xem Bôn."
+            ]
+        }
+    }
+}

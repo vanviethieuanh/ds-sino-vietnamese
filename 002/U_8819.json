@@ -1,0 +1,77 @@
+{
+    "character": "蠙",
+    "details": {
+        "Âm Hán Việt": [
+            "tân",
+            "tần"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "trùng 虫 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫賓"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶丶フ一丨ノノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIJMC (中戈十一金)"
+        ],
+        "Unicode": [
+            "U+8819"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bīn ㄅㄧㄣ",
+            "pín ㄆㄧㄣˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)",
+            "ヒン (hin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "どぶがい (dobugai)"
+        ],
+        "Âm Quảng Đông": [
+            "ban1",
+            "pan4"
+        ]
+    },
+    "meanings": {
+        "tân": {
+            "Từ điển phổ thông": [
+                "một loài trai",
+                "trân châu, ngọc trai"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Một tên riêng của con trai (“bạng” 蚌). Cũng chỉ ngọc trai, trân châu."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Một tên riêng của con trai."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Một loài trai;",
+                "Trân châu, ngọc trai."
+            ]
+        },
+        "tần": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tần châu 蠙珠: Hạt ngọc trai."
+            ],
+            "compound_words": {
+                "蠙珠": "tần châu"
+            }
+        }
+    }
+}

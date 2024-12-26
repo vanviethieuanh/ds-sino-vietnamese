@@ -1,0 +1,91 @@
+{
+    "character": "窒",
+    "details": {
+        "Âm Hán Việt": [
+            "chất",
+            "trất"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "huyệt 穴 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱穴至"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "JCMIG (十金一戈土)"
+        ],
+        "Unicode": [
+            "U+7A92"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "khỏng",
+            "rấp",
+            "rất",
+            "trất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チツ (chitsu)"
+        ],
+        "Âm Hàn": [
+            "질",
+            "절"
+        ],
+        "Âm Quảng Đông": [
+            "zat6"
+        ]
+    },
+    "meanings": {
+        "chất": {
+            "Từ điển trích dẫn": [
+                "(Động) Lấp, bức tức. ◎Như: 'trất tức' 窒息 thở hút không được thông, ngạt thở.",
+                "(Động) Mắc mứu. ◎Như: 'trất ngại nan hành' 窒礙難行 mắc mứu khó đi. ◇Cao Bá Quát 高伯适: 'Thuyết lí tắc biện nhi bất trất' 説理則辦而不窒 (Hoa Tiên hậu tự 花箋記後序) Nói về lí thì rành mạch mà không bế tắc.",
+                "(Danh) 'Trất tố' 窒素 khí đạm (Nitrogen, N).",
+                "§ Cũng có âm là 'chất'."
+            ]
+        },
+        "trất": {
+            "Từ điển phổ thông": [
+                "tắc nghẽn, trở ngại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Lấp, bức tức. ◎Như: 'trất tức' 窒息 thở hút không được thông, ngạt thở.",
+                "(Động) Mắc mứu. ◎Như: 'trất ngại nan hành' 窒礙難行 mắc mứu khó đi. ◇Cao Bá Quát 高伯适: 'Thuyết lí tắc biện nhi bất trất' 説理則辦而不窒 (Hoa Tiên hậu tự 花箋記後序) Nói về lí thì rành mạch mà không bế tắc.",
+                "(Danh) 'Trất tố' 窒素 khí đạm (Nitrogen, N).",
+                "§ Cũng có âm là 'chất'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lấp, bức tức. Thở hút không được thông gọi là trất tức 窒息.",
+                "Chất đạm khí lấy ở hoá học ra là trất tố 窒素.",
+                "Mắc mứu, như trất ngại nan hành 窒礙難行 mắc mứu khó đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Tắc, ngạt, nghẹt, trở ngại, mắc mứu: 窒悶 Ngạt thở, ngột ngạt; 窒死 Bóp nghẹt, bóp chết."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bị lấp lại. Bế tắc — Bị ngăn trở."
+            ],
+            "compound_words": {
+                "窒息": "trất tức"
+            }
+        }
+    }
+}

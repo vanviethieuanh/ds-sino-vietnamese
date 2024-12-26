@@ -1,0 +1,117 @@
+{
+    "character": "貸",
+    "details": {
+        "Âm Hán Việt": [
+            "thải",
+            "thắc"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "bối 貝 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱代貝"
+        ],
+        "Nét bút": [
+            "ノ丨一フ丶丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OPBUC (人心月山金)"
+        ],
+        "Unicode": [
+            "U+8CB8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dài ㄉㄞˋ",
+            "tè ㄊㄜˋ"
+        ],
+        "Âm Nôm": [
+            "thãi",
+            "thảy",
+            "thẩy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.す (ka.su)",
+            "か.し- (ka.shi-)",
+            "かし- (kashi-)"
+        ],
+        "Âm Hàn": [
+            "대",
+            "특"
+        ],
+        "Âm Quảng Đông": [
+            "taai3",
+            "tik1"
+        ]
+    },
+    "meanings": {
+        "thải": {
+            "Từ điển phổ thông": [
+                "vay mượn",
+                "cho vay"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Vay. ◎Như: 'thải khoản' 貸款 vay tiền.",
+                "(Động) Cho vay. ◇Hậu Hán Thư 後漢書: 'Giáp Tí, chiếu chẩn thải Tịnh Châu tứ quận bần dân' 甲子, 詔賑貸并州四郡貧民 (Hòa Đế kỉ 和帝紀) Năm Giáp Tí, xuống chiếu cấp giúp cho vay dân nghèo bốn quận Tịnh Châu.",
+                "(Động) Đùn, thoái thác. ◎Như: 'trách vô bàng thải' 責無旁貸 trách nhiệm không thể đùn cho người khác được.",
+                "(Động) Khoan hồng, tha thứ, rộng tha cho. ◎Như: 'nghiêm cứu bất thải' 嚴究不貸 xét ngặt không tha.",
+                "Một âm là 'thắc'. (Động) Sai lầm. § Cũng như 'thắc' 忒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vay, cho vay.",
+                "Rộng tha cho, như nghiêm cứu bất thải 嚴究不貸 xét ngặt không tha.",
+                "Một âm là thắc, cũng như chữ thắc 忒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vay: 這家公司沒有向銀行貸過款 Công ti này chưa hề vay tiền của ngân hàng;",
+                "Cho vay: 銀行貸給大量款項 Ngân hàng cho vay rất nhiều tiền;",
+                "Bên có (trong sổ kế toán);",
+                "Đùn, đổ, thoái thác: 責無旁貸 Trách nhiệm không thể đùn cho người khác được;",
+                "Tha thứ, dung tha, khoan hồng: 嚴懲不貸 Nghiêm trị không khoan hồng (tha thứ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cho vay tiền — Vay tiền — Miễn cho. Tha cho — Một âm là Thắc. Xem Thắc."
+            ],
+            "compound_words": {
+                "告貸": "cáo thải",
+                "乞貸": "khất thải",
+                "借貸": "tá thải",
+                "貸主": "thải chủ"
+            }
+        },
+        "thắc": {
+            "Từ điển trích dẫn": [
+                "(Động) Vay. ◎Như: 'thải khoản' 貸款 vay tiền.",
+                "(Động) Cho vay. ◇Hậu Hán Thư 後漢書: 'Giáp Tí, chiếu chẩn thải Tịnh Châu tứ quận bần dân' 甲子, 詔賑貸并州四郡貧民 (Hòa Đế kỉ 和帝紀) Năm Giáp Tí, xuống chiếu cấp giúp cho vay dân nghèo bốn quận Tịnh Châu.",
+                "(Động) Đùn, thoái thác. ◎Như: 'trách vô bàng thải' 責無旁貸 trách nhiệm không thể đùn cho người khác được.",
+                "(Động) Khoan hồng, tha thứ, rộng tha cho. ◎Như: 'nghiêm cứu bất thải' 嚴究不貸 xét ngặt không tha.",
+                "Một âm là 'thắc'. (Động) Sai lầm. § Cũng như 'thắc' 忒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vay, cho vay.",
+                "Rộng tha cho, như nghiêm cứu bất thải 嚴究不貸 xét ngặt không tha.",
+                "Một âm là thắc, cũng như chữ thắc 忒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sai lầm (dùng như 忒, bộ 心): 毋有差貸 Không có sai lầm (Lễ kí: Nguyệt lệnh)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sai lầm. Lầm lẫn — Xem Thải."
+            ]
+        }
+    }
+}

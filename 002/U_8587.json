@@ -1,0 +1,85 @@
+{
+    "character": "薇",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹微"
+        ],
+        "Nét bút": [
+            "一丨丨ノノ丨丨フ丨一ノフノ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "THOK (廿竹人大)"
+        ],
+        "Unicode": [
+            "U+8587"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "wēi ㄨㄟ",
+            "wéi ㄨㄟˊ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラ (ra)",
+            "ビ (bi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぜんまい (zen mai)"
+        ],
+        "Âm Hàn": [
+            "미"
+        ],
+        "Âm Quảng Đông": [
+            "mei4"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "(Danh) Rau 'vi' (lat. Osmunda regalis).",
+                "(Danh) § Xem 'tử vi' 紫薇.",
+                "(Danh) § Xem 'tường vi' 薔薇."
+            ],
+            "compound_words": {
+                "紫薇": "tử vi",
+                "蔷薇": "tường vi",
+                "薔薇": "tường vi"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "rau vi"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rau vi.",
+                "Tử vi 紫薇 cây hoa tử vi. tục gọi là hoa bách nhật hồng 百日紅. Về nhà Ðường 唐 trồng ở tỉnh Chung Thư. Sau gọi tỉnh Chung Thư là Tử Vi tỉnh 紫薇省. Nhà Minh 明 đổi làm ti Bố Chính, cho nên gọi Bố Chính ti 布政司 là Vi viên 薇垣.",
+                "Tường vi 薔薇. Xem chữ tường 薔."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rau vi;",
+                "Xem 紫薇 [zêwei];",
+                "Xem 薔薇 [qiángwei]."
+            ]
+        }
+    }
+}

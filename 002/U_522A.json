@@ -1,0 +1,74 @@
+{
+    "character": "刪",
+    "details": {
+        "Âm Hán Việt": [
+            "san"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "đao 刀 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰冊⺉"
+        ],
+        "Nét bút": [
+            "丨フ丨丨一丨丨"
+        ],
+        "Thương Hiệt": [
+            "BTLN (月廿中弓)"
+        ],
+        "Unicode": [
+            "U+522A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "san"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "けず.る (kezu.ru)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "saan1"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển phổ thông": [
+                "lọc bỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tước bỏ. ◎Như: 'san trừ' 刪除 tước bỏ, 'san giảm' 刪減 cắt bớt. ◇Hán Thư 漢書: 'Cố san kì ngụy từ, thủ chánh nghĩa' 故刪其偽辭, 取正義 (Luật lịch chí 律曆志) Cho nên tước bỏ những từ sai trá, giữ lấy nghĩa đúng thật.",
+                "(Động) Cắt lấy. ◇Hán Thư 漢書: 'Kim san kì yếu' 今刪其要 (Nghệ văn chí 藝文志) Nay cắt lấy phần chính yếu.",
+                "§ Cũng viết là 'san' 删."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xóa, lược bỏ (câu văn): 這個字應删去 Chữ này cần bỏ đi; 删繁就簡 Lược bỏ cái phức tạp mà dùng cái giản tiện."
+            ],
+            "compound_words": {
+                "刪定": "san định",
+                "刪潤": "san nhuận",
+                "刪拾": "san thập",
+                "刪除": "san trừ"
+            }
+        }
+    }
+}

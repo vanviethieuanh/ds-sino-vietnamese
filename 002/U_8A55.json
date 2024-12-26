@@ -1,0 +1,88 @@
+{
+    "character": "評",
+    "details": {
+        "Âm Hán Việt": [
+            "bình"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言平"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丶ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "YRMFJ (卜口一火十)"
+        ],
+        "Unicode": [
+            "U+8A55"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "píng ㄆㄧㄥˊ"
+        ],
+        "Âm Nôm": [
+            "bằng",
+            "bình",
+            "bừng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョウ (hyō)"
+        ],
+        "Âm Hàn": [
+            "평"
+        ],
+        "Âm Quảng Đông": [
+            "ping4"
+        ]
+    },
+    "meanings": {
+        "bình": {
+            "Từ điển phổ thông": [
+                "phê bình, bình phẩm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghị luận, phê phán. ◎Như: 'bình luận' 評論.",
+                "(Danh) Lời nói hoặc bài văn nghị luận, phê phán. ◎Như: 'văn bình' 文評, 'thi bình' 詩評.",
+                "(Danh) Thể văn của sử gia viết để khen hay chê, tức 'sử bình' 史評. § Như trong Sử Kí ghi 'Thái sử công viết' 太史公曰, trong Hán Thư nói 'tán' 贊, trong 'Hậu Hán Thư' gọi là 'luận' 論, cho đến Tam Quốc Chí mới dùng 'bình' 評."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Phê bình, bình phẩm, nghĩa là đem việc gì đã làm hay văn chương sách vở đã làm ra mà bàn định phải trái hay dở vậy. Hứa Thiệu nhà Hậu Hán hay bàn bạc các nhân vật trong làng mạc, mỗi tháng lại đổi một phẩm đề khác, gọi là nguyệt đán bình 月旦評."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bình luận, phê bình, bình phẩm, đánh giá: 時評 Bình luận thời sự; 短評 Bài bình luận ngắn; 品評人物 Đánh giá nhân vật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bàn luận phải trái — Bàn bạc tìm nghĩa lí."
+            ],
+            "compound_words": {
+                "評註": "bình chú",
+                "評斷": "bình đoán",
+                "評論": "bình luận",
+                "評議": "bình nghị",
+                "評品": "bình phẩm",
+                "評話": "bình thoại",
+                "評析": "bình tích",
+                "評文": "bình văn",
+                "月評": "nguyệt bình",
+                "月旦評": "nguyệt đán bình",
+                "品評": "phẩm bình",
+                "批評": "phê bình",
+                "雜評": "tạp bình"
+            }
+        }
+    }
+}

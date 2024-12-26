@@ -1,0 +1,66 @@
+{
+    "character": "肿",
+    "details": {
+        "Âm Hán Việt": [
+            "thũng",
+            "trũng"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhục 肉 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月中"
+        ],
+        "Nét bút": [
+            "ノフ一一丨フ一丨"
+        ],
+        "Thương Hiệt": [
+            "BL (月中)"
+        ],
+        "Unicode": [
+            "U+80BF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǒng ㄓㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "thũng"
+        ],
+        "Âm Quảng Đông": [
+            "zung2"
+        ]
+    },
+    "meanings": {
+        "thũng": {
+            "Từ điển phổ thông": [
+                "sưng, nề, phù"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 腫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 腫"
+            ],
+            "compound_words": {
+                "鼻青脸肿": "tỵ thanh kiểm thũng"
+            }
+        },
+        "trũng": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 腫."
+            ]
+        }
+    }
+}

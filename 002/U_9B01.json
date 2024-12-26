@@ -1,0 +1,82 @@
+{
+    "character": "鬁",
+    "details": {
+        "Âm Hán Việt": [
+            "lị",
+            "lợi",
+            "thích"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "tiêu 髟 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱髟利"
+        ],
+        "Nét bút": [
+            "一丨一一一フ丶ノノノノ一丨ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "SHHDN (尸竹竹木弓)"
+        ],
+        "Unicode": [
+            "U+9B01"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "lị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Quảng Đông": [
+            "lei1"
+        ]
+    },
+    "meanings": {
+        "lị": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “lạt lị” 鬎鬁."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thích lị 鬎鬁 sẹo đầu trụi tóc, chỗ nhọt mọc thành sẹo tóc không mọc được."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 瘌痢 (hoặc 鬎鬁) [làlì]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hói đầu. Rụng tóc. Cũng nói Thích lị 鬎鬁."
+            ],
+            "compound_words": {
+                "鬎鬁": "lạt lị",
+                "鬁鬎": "thích lị"
+            }
+        },
+        "lợi": {
+            "Từ điển Trần Văn Chánh": [
+                "Xem 瘌痢 (hoặc 鬎鬁) [làlì]."
+            ]
+        },
+        "thích": {
+            "Từ điển phổ thông": [
+                "(xem: thích lị 鬁鬎)"
+            ],
+            "compound_words": {
+                "鬁鬎": "thích lị"
+            }
+        }
+    }
+}

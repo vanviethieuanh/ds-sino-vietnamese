@@ -1,0 +1,183 @@
+{
+    "character": "落",
+    "details": {
+        "Âm Hán Việt": [
+            "lạc"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹洛"
+        ],
+        "Nét bút": [
+            "一丨丨丶丶一ノフ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "TEHR (廿水竹口)"
+        ],
+        "Unicode": [
+            "U+843D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "là ㄌㄚˋ",
+            "lào ㄌㄠˋ",
+            "luō ㄌㄨㄛ",
+            "luò ㄌㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "lác",
+            "lát",
+            "nhác",
+            "rác",
+            "xạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラク (raku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "お.ちる (o.chiru)",
+            "お.ち (o.chi)",
+            "お.とす (o.tosu)"
+        ],
+        "Âm Hàn": [
+            "락",
+            "낙"
+        ],
+        "Âm Quảng Đông": [
+            "laai6",
+            "lok6"
+        ]
+    },
+    "meanings": {
+        "lạc": {
+            "Từ điển phổ thông": [
+                "rơi, rụng",
+                "xóm (đơn vị hành chính)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Rụng. ◎Như: 'ngô đồng nhất diệp lạc, thiên hạ cộng tri thu' 梧桐一葉落, 天下共知秋 một lá ngô đồng rụng, mọi người đều biết là mùa thu đến.",
+                "(Động) Rơi xuống. ◎Như: 'vũ lạc' 雨落 mưa xuống, 'tuyết lạc' 雪落 tuyết sa.",
+                "(Động) Xuống thấp, rút xuống. ◎Như: 'lạc giá' 落價 xuống giá. ◇Tô Thức 蘇軾: 'San cao nguyệt tiểu, thủy lạc thạch xuất' 山高月小, 水落石出 (Hậu Xích Bích phú 後赤壁賦) Núi cao trăng nhỏ, nước rút xuống đá nhô ra.",
+                "(Động) Lọt vào, rơi vào. ◇Đào Uyên Minh 陶淵明: 'Ngộ lạc trần võng trung' 誤落塵網中 (Quy viên điền cư 歸園田居) Lầm lỡ mà lọt vào trong lưới trần ai.",
+                "(Động) Trừ bỏ, cắt bỏ, sót. ◎Như: 'lạc kỉ tự' 落幾字 bỏ sót mất mấy chữ, 'san lạc phù từ' 刊落浮詞 xóa bỏ lời nhảm nhí đi. ◇Lưu Trường Khanh 劉長卿: 'Long cung lạc phát phi ca sa' 龍宮落髮披袈裟 (Hí tặng can việt ni tử ca 戲贈干越尼子歌) Ở long cung (ý nói ở chùa) xuống tóc khoác áo cà sa.",
+                "(Động) Tụt hậu, rớt lại đằng sau. ◎Như: 'lạc tại hậu đầu' 落在後頭 tụt lại phía sau. ◇Lí Bạch 李白: 'Phong lưu khẳng lạc tha nhân hậu' 風流肯落他人後 (Lưu dạ lang tặng tân phán quan 流夜郎贈辛判官) Về phong lưu thì chịu rớt lại đằng sau người ta.",
+                "(Động) Suy bại, suy đồi, sa sút. ◎Như: 'luân lạc' 淪落 chìm nổi, 'đọa lạc' 墮落 chìm đắm. ◇Nguyễn Trãi 阮廌: 'Nhất sinh lạc thác cánh kham liên' 一生落魄更堪憐 (Mạn hứng 漫興) Một đời luân lạc càng đáng thương.",
+                "(Động) Dừng lại, ở đậu. ◎Như: 'lạc cước' 落腳 nghỉ chân. ◇Lưu Trường Khanh 劉長卿: 'Phiến phàm lạc quế chử, Độc dạ y phong lâm' 片帆落桂渚, 獨夜依楓林 (Nhập quế chử 入桂渚) Cánh buồm đậu lại ớ bãi nước trồng quế, Đêm một mình nghỉ bên rừng phong.",
+                "(Động) Để lại, ghi lại. ◎Như: 'lạc khoản' 落款 ghi tên để lại, 'bất lạc ngân tích' 不落痕跡 không để lại dấu vết.",
+                "(Động) Được, bị. ◎Như: 'lạc cá bất thị' 落個不是 bị lầm lỗi. ◇Hồng Lâu Mộng 紅樓夢: 'Ngã môn tố hạ nhân đích phục thị nhất tràng, đại gia lạc cá bình an, dã toán thị tạo hóa liễu' 我們做下人的伏侍一場, 大家落個平安, 也算是造化了 (Đệ tam thập tứ hồi) Chúng con là kẻ dưới hầu hạ lâu nay, mọi người đều được yên ổn, thật là nhờ ơn trời.",
+                "(Động) Cúng tế, khánh thành (nhà cửa, cung điện mới làm xong). ◇Tả truyện 左傳: 'Sở Tử thành Chương Hoa chi đài, nguyện dữ chư hầu lạc chi' 楚子成章華之臺, 願與諸侯落之 (Chiêu Công thất niên 昭公七年) Sở Tử làm xong đài Chương Hoa muốn cúng tế với chư hầu.",
+                "(Động) Thuộc về. ◇Đỗ Phủ 杜甫: 'Thiên chu lạc ngô thủ' 扁舟落吾手 (Tương thích ngô sở lưu biệt chương sứ quân 將適吳楚留別章使君) Thuyền nhỏ thuộc về tay ta.",
+                "(Động) Ràng, buộc. § Thông 'lạc' 絡. ◇Trang Tử 莊子: 'Lạc mã thủ, xuyên ngưu tị' 落馬首, 穿牛鼻 (Thu thủy 秋水) Ràng đầu ngựa, xỏ mũi bò.",
+                "(Tính) Rớt rụng, tàn tạ. ◎Như: 'lạc anh tân phân' 落英繽紛 hoa rụng đầy dẫy. ◇Bạch Cư Dị 白居易: 'Tây cung nam uyển đa thu thảo, Lạc diệp mãn giai hồng bất tảo' 溫泉水滑洗凝脂 (Trường hận ca 長恨歌) Tại cung tây, điện nam, cỏ thu mọc nhiều, Lá rụng đỏ đầy thềm không ai quét.",
+                "(Tính) Rộng rãi. ◎Như: 'khoát lạc' 闊落 rộng rãi.",
+                "(Tính) Thưa thớt. ◎Như: 'liêu lạc thần tinh' 寥落晨星 lơ thơ sao buổi sáng.",
+                "(Tính) Linh lợi. ◎Như: 'lị lạc' 俐落 linh lợi.",
+                "(Danh) Chỗ người ta ở tụ với nhau. ◎Như: 'bộ lạc' 部落 chòm trại, 'thôn lạc' 村落 chòm xóm.",
+                "(Danh) Hàng rào. ◎Như: 'li lạc' 籬落 hàng rào, giậu.",
+                "(Danh) Chỗ dừng chân, nơi lưu lại. ◎Như: 'hạ lạc' 下落 chỗ ở, 'hữu liễu trước lạc' 有了著落 đã có nơi chốn.",
+                "(Danh) Họ 'Lạc'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rụng. Lá rụng, hoa rụng gọi là lạc. Như ngô đồng nhất diệp lạc, thiên hạ cộng tri thu 梧桐一葉落，天下共知秋 một lá ngô đồng rụng, mọi người đều biết là mùa thu (đến).",
+                "Cũng dùng để tả cái cảnh huống của người. Như lãnh lạc 冷落 lạnh lùng tẻ ngắt, luân lạc 淪落 chìm nổi, lưu lạc 流落, đoạ lạc 墮落, v.v. đều chỉ về cái cảnh suy đồi khốn khổ cả.",
+                "Rơi xuống. Như lạc vũ 落雨 mưa xuống, lạc tuyết 落雪 tuyết sa, v.v.",
+                "Ruồng bỏ, không dùng cũng gọi là lạc. Như lạc đệ 落第 thi hỏng, lạc chức 落職 bị cách chức.",
+                "Sót, mất. Như lạc kỉ tự 落幾字 bỏ sót mất mấy chữ, san lạc phù từ 刊落浮詞 xoá bỏ lời nhảm nhí đi.",
+                "Thưa thớt. Như liêu lạc thần tinh 寥落晨星 lơ thơ sao buổi sáng.",
+                "Rộng rãi. Như khoát lạc 闊落.",
+                "Chỗ ở, chỗ người ta ở tụ với nhau gọi là lạc. Như bộ lạc 部落 chòm trại, thôn lạc 村落 chòm xóm. Vì thế nên bờ rào bờ giậu cũng gọi là phan lạc 藩落, nền nhà gọi là toạ lạc 坐落, v.v.",
+                "Mới. Mới làm nhà xong làm tiệc ăn mừng gọi là lạc thành 落成.",
+                "Lạc lạc 落落 lỗi lạc, không có theo tục.",
+                "Về.",
+                "Bỏ hổng.",
+                "Nước giọt gianh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【大大落落】đại đại lạc lạc [dàdaluoluo] (Thái độ) tự nhiên Xem 落 [là], [lào], [luò]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá cây héo rụng, hoa quả rụng xuống.  Cung oán ngâm khúc  có câu: » Cảnh hoa lạc nguyệt minh nhường ấy « — Rơi rụng. Mất mát. Td: Thất lạc — Chết. Td: Tổ lạc ( chết ) — Cái hàng rào — Chỗ tụ họp cư trú. Td: Thôn lạc ( xóm nhà trong làng )."
+            ],
+            "compound_words": {
+                "邑落": "ấp lạc",
+                "剝落": "bác lạc",
+                "剥落": "bác lạc",
+                "擺落": "bãi lạc",
+                "敗落": "bại lạc",
+                "败落": "bại lạc",
+                "不見棺材不落淚": "bất kiến quan tài bất lạc lệ",
+                "不见棺材不落泪": "bất kiến quan tài bất lạc lệ",
+                "碧落": "bích lạc",
+                "碧落黃泉": "bích lạc hoàng tuyền",
+                "部落": "bộ lạc",
+                "杯落": "bôi lạc",
+                "搖落": "dao lạc",
+                "夷落": "di lạc",
+                "低落": "đê lạc",
+                "凋落": "điêu lạc",
+                "墮落": "đoạ lạc",
+                "段落": "đoạn lạc",
+                "角落": "giác lạc",
+                "下落": "hạ lạc",
+                "花落": "hoa lạc",
+                "濩落": "hoạch lạc",
+                "起落": "khởi lạc",
+                "墟落": "khư lạc",
+                "落不是": "lạc bất thị",
+                "落筆": "lạc bút",
+                "落第": "lạc đệ",
+                "落題": "lạc đề",
+                "落後": "lạc hậu",
+                "落花": "lạc hoa",
+                "落花生": "lạc hoa sinh",
+                "落欵": "lạc khoản",
+                "落落": "lạc lạc",
+                "落漠": "lạc mạc",
+                "落月": "lạc nguyệt",
+                "落鴈": "lạc nhạn",
+                "落日": "lạc nhật",
+                "落魄": "lạc thác",
+                "落胎": "lạc thai",
+                "落成": "lạc thành",
+                "落草": "lạc thảo",
+                "俐落": "lị lạc",
+                "歴落": "lịch lạc",
+                "寥落": "liêu lạc",
+                "零落": "linh lạc",
+                "亂落": "loạn lạc",
+                "磊落": "lỗi lạc",
+                "磊磊落落": "lỗi lỗi lạc lạc",
+                "淪落": "luân lạc",
+                "流落": "lưu lạc",
+                "月落": "nguyệt lạc",
+                "月落參橫": "nguyệt lạc sâm hoành",
+                "日落": "nhật lạc",
+                "破落戶": "phá lạc hộ",
+                "漂落": "phiêu lạc",
+                "扑落": "phốc lạc",
+                "灑落": "sái lạc",
+                "數落": "sổ lạc",
+                "衰落": "suy lạc",
+                "錯落": "thác lạc",
+                "错落": "thác lạc",
+                "失落": "thất lạc",
+                "坐落": "toạ lạc",
+                "墜落": "truỵ lạc",
+                "院落": "viện lạc"
+            }
+        }
+    }
+}

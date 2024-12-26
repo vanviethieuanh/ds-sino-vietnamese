@@ -1,0 +1,90 @@
+{
+    "character": "轧",
+    "details": {
+        "Âm Hán Việt": [
+            "ca",
+            "loát",
+            "yết"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "xa 車 (+1 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰车乚"
+        ],
+        "Nét bút": [
+            "一フ丨一フ"
+        ],
+        "Thương Hiệt": [
+            "JQU (十手山)"
+        ],
+        "Unicode": [
+            "U+8F67"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gá ㄍㄚˊ",
+            "yà ㄧㄚˋ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "ca",
+            "loát",
+            "yết"
+        ],
+        "Âm Quảng Đông": [
+            "gaat3",
+            "zaat3"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 軋"
+            ]
+        },
+        "loát": {
+            "Từ điển phổ thông": [
+                "nghiến, nghiền, đè bẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 軋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cán, lăn, nghiến: 軋棉花 Cán bông;",
+                "Bài xích, chèn ép, đè bẹp: 互相傾軋 Chèn ép lẫn nhau;",
+                "(đph) Chen chúc;",
+                "Hình phạt thời xưa dùng bàn ép kẹp mắt cá chân;",
+                "(văn) (thanh) Trẹo trẹo, kẽo kịt (tiếng bánh xe quay chạm vào nhau);",
+                "[Yà] (Họ) Loát. Xem 軋 [gá], [zhá]."
+            ]
+        },
+        "yết": {
+            "Từ điển phổ thông": [
+                "nghiến, nghiền, đè bẹp"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 軋."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cán, lăn, nghiến: 軋棉花 Cán bông;",
+                "Bài xích, chèn ép, đè bẹp: 互相傾軋 Chèn ép lẫn nhau;",
+                "(đph) Chen chúc;",
+                "Hình phạt thời xưa dùng bàn ép kẹp mắt cá chân;",
+                "(văn) (thanh) Trẹo trẹo, kẽo kịt (tiếng bánh xe quay chạm vào nhau);",
+                "[Yà] (Họ) Loát. Xem 軋 [gá], [zhá]."
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "记",
+    "details": {
+        "Âm Hán Việt": [
+            "kí",
+            "ký"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "ngôn 言 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠己"
+        ],
+        "Nét bút": [
+            "丶フフ一フ"
+        ],
+        "Thương Hiệt": [
+            "IVSU (戈女尸山)"
+        ],
+        "Unicode": [
+            "U+8BB0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "kí"
+        ],
+        "Âm Quảng Đông": [
+            "gei3"
+        ]
+    },
+    "meanings": {
+        "kí": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 記."
+            ]
+        },
+        "ký": {
+            "Từ điển phổ thông": [
+                "nhớ",
+                "ghi chép, viết"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 記"
+            ],
+            "compound_words": {
+                "记诵": "ký tụng",
+                "日记": "nhật ký",
+                "书记": "thư ký",
+                "标记": "tiêu ký",
+                "摘记": "trích ký",
+                "传记": "truyện ký",
+                "死记": "tử ký",
+                "忘记": "vong ký"
+            }
+        }
+    }
+}

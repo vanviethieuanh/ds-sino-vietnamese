@@ -1,0 +1,89 @@
+{
+    "character": "拆",
+    "details": {
+        "Âm Hán Việt": [
+            "sách",
+            "xích"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thủ 手 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘斥"
+        ],
+        "Nét bút": [
+            "一丨一ノノ一丨丶"
+        ],
+        "Thương Hiệt": [
+            "QHMY (手竹一卜)"
+        ],
+        "Unicode": [
+            "U+62C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cā ㄘㄚ",
+            "chāi ㄔㄞ",
+            "chè ㄔㄜˋ"
+        ],
+        "Âm Nôm": [
+            "sách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タク (taku)",
+            "セキ (seki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さく (saku)",
+            "ひらく (hiraku)"
+        ],
+        "Âm Hàn": [
+            "탁"
+        ],
+        "Âm Quảng Đông": [
+            "caak3"
+        ]
+    },
+    "meanings": {
+        "sách": {
+            "Từ điển phổ thông": [
+                "nứt ra",
+                "huỷ đi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mở ra, bóc, tháo. ◎Như: 'sách tín' 拆信 mở thư. ◇Tam quốc diễn nghĩa 三國演義: 'Nhân báo Từ Châu hữu chiến thư đáo, Tháo sách nhi quan chi' 人報徐州有戰書到, 操拆而觀之 (Đệ thập nhất hồi) Có người báo Từ Châu có chiến thư đến, (Tào) Tháo mở ra xem.",
+                "(Động) Nứt ra. ◇Dịch Kinh 易經: 'Lôi vũ tác nhi bách quả mộc giai giáp sách' 雷雨作而百果木皆甲拆 (Giải quái 解卦) Sấm mưa nổi lên mà trăm quả cỏ cây đều nứt vỏ.",
+                "(Động) Hủy hoại, phá. ◎Như: 'sách hủy' 拆毀 phá bỏ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nứt ra, như giáp sách 甲拆 nứt nanh.",
+                "Huỷ đi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tháo, dỡ, bóc, mở: 拆被子 Tháo vỏ chăn; 拆房子 Dỡ nhà; 拆信 Bóc thư; 拆封 Mở (bóc) niêm phong; 拆開包袱 Dỡ gói ra;",
+                "(văn) Nứt ra: 甲拆 Nứt nanh;",
+                "(văn) Huỷ đi. Xem 拆 [ca]."
+            ],
+            "compound_words": {
+                "拆卸": "sách tá",
+                "拆散": "sách tán"
+            }
+        },
+        "xích": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rách ra. Nứt ra — Mở ra — Cũng đọc Sách."
+            ]
+        }
+    }
+}

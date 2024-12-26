@@ -1,0 +1,91 @@
+{
+    "character": "礦",
+    "details": {
+        "Âm Hán Việt": [
+            "khoáng",
+            "quáng"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "thạch 石 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰石廣"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一丶一ノ一丨丨一丨フ一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MRITC (一口戈廿金)"
+        ],
+        "Unicode": [
+            "U+7926"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kuàng ㄎㄨㄤˋ"
+        ],
+        "Âm Nôm": [
+            "khoáng",
+            "khoắng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あらがね (aragane)"
+        ],
+        "Âm Hàn": [
+            "광"
+        ],
+        "Âm Quảng Đông": [
+            "gwong3",
+            "kwong3"
+        ]
+    },
+    "meanings": {
+        "khoáng": {
+            "Từ điển phổ thông": [
+                "quặng, khoáng sản"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Quặng (vật chất tự nhiên lấy trong lòng đất). ◎Như: 'môi quáng' 煤礦 than đá, 'thiết quáng' 鐵礦 quặng sắt.",
+                "§ Ghi chú: Ta quen đọc là 'khoáng'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Quặng, khoáng chất: 鐵礦石 Quặng sắt;",
+                "Mỏ, hầm mỏ: 煤礦 Mỏ than; 礦坑 Hầm lò, đường hầm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Khoáng 磺."
+            ],
+            "compound_words": {
+                "白鉛礦": "bạch duyên khoáng",
+                "煤礦": "môi khoáng",
+                "採礦": "thái khoáng"
+            }
+        },
+        "quáng": {
+            "Từ điển phổ thông": [
+                "quặng, khoáng sản"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Quặng (vật chất tự nhiên lấy trong lòng đất). ◎Như: 'môi quáng' 煤礦 than đá, 'thiết quáng' 鐵礦 quặng sắt.",
+                "§ Ghi chú: Ta quen đọc là 'khoáng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Quặng mỏ. Phàm vật gì lấy ở mỏ ra đều gọi là quáng, cũng dùng như chữ 鑛. Ta quen đọc là khuáng."
+            ]
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "character": "挪",
+    "details": {
+        "Âm Hán Việt": [
+            "na"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "thủ 手 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘那"
+        ],
+        "Nét bút": [
+            "一丨一フ一一ノフ丨"
+        ],
+        "Thương Hiệt": [
+            "QSQL (手尸手中)"
+        ],
+        "Unicode": [
+            "U+632A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "nuó ㄋㄨㄛˊ",
+            "ruó ㄖㄨㄛˊ"
+        ],
+        "Âm Nôm": [
+            "na"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ダ (da)",
+            "ナ (na)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "も.む (mo.mu)"
+        ],
+        "Âm Hàn": [
+            "나"
+        ],
+        "Âm Quảng Đông": [
+            "no1",
+            "no4"
+        ]
+    },
+    "meanings": {
+        "na": {
+            "Từ điển phổ thông": [
+                "chuyển dời"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xê dịch, di chuyển. ◎Như: 'na động' 挪動 xê dịch.",
+                "(Động) Dùng lạm, đem khoản này chi vào việc kia. ◎Như: 'na dụng công khoản' 挪用公款 tiêu lạm công quỹ.",
+                "(Động) Xoa xát. ◎Như: 'tha na' 搓挪 xoa xát."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Vê vắt.",
+                "Dịch. Lấy khoản này đem dùng về việc kia gọi là na."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xê dịch, di chuyển, dời, chuyển."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xoa tay vào với nhau."
+            ],
+            "compound_words": {
+                "挪用": "na dụng",
+                "挪动": "na động",
+                "挪動": "na động",
+                "挪借": "na tá",
+                "挪威": "na uy"
+            }
+        }
+    }
+}

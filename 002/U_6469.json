@@ -1,0 +1,98 @@
+{
+    "character": "摩",
+    "details": {
+        "Âm Hán Việt": [
+            "ma"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thủ 手 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸麻手"
+        ],
+        "Nét bút": [
+            "丶一ノ一丨ノ丶一丨ノ丶ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "IDQ (戈木手)"
+        ],
+        "Unicode": [
+            "U+6469"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mā ㄇㄚ",
+            "mó ㄇㄛˊ"
+        ],
+        "Âm Nôm": [
+            "ma"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マ (ma)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ま.する (ma.suru)",
+            "さ.する (sa.suru)",
+            "す.る (su.ru)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "mo1"
+        ]
+    },
+    "meanings": {
+        "ma": {
+            "Từ điển phổ thông": [
+                "xoa, xát"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Xoa xát. ◎Như: 'ma quyền sát chưởng' 摩拳擦掌 xoa nắm tay xát bàn tay. ◇Pháp Hoa Kinh 法華經: 'Đương tri thị nhân, dữ Như Lai cộng túc, tắc vi Như Lai thủ ma kì đầu' 當知是人, 與如來共宿, 則為如來手摩其頭 (Pháp sư phẩm đệ thập 法師品第十) Phải biết rằng người đó, cùng ở với Như Lai, được Như Lai lấy tay xoa đầu.",
+                "(Động) Sát, gần, chạm tới. ◎Như: 'nhĩ mấn tê ma' 耳鬢撕摩 mái tóc sát qua, nghĩa là ngồi kề nhau, 'ma thiên đại lâu' 摩天大樓 nhà chọc trời.",
+                "(Động) Mài giũa, nghiên cứu. ◎Như: 'ma luyện' 摩練 mài giũa luyện tập, 'quan ma' 觀摩 xem xét, nghiên cứu học tập lẫn nhau.",
+                "(Động) Tan, mất, tiêu diệt. ◇Tư Mã Thiên 司馬遷: 'Cổ giả phú quý nhi danh ma diệt, bất khả thắng kí, duy thích thảng phi thường chi nhân xưng yên' 古者富貴而名摩滅, 不可勝記, 唯倜儻非常之人稱焉 (Báo Nhậm Thiếu Khanh thư 報任少卿書) Đời xưa, những kẻ giàu mà tên tuổi tiêu ma, có biết bao nhiêu mà kể, chỉ có những bậc lỗi lạc phi thường mới được lưu danh mà thôi (người ta nhắc đến).",
+                "(Động) Thuận.",
+                "(Động) Đoán. ◎Như: 'sủy ma' 揣摩 suy đoán."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Xoa xát, như ma quyền xát chưởng 摩拳擦掌 xoa nắm tay xát bàn tay.",
+                "Xát nhau, như nhĩ mấn tê ma 耳鬢撕摩 mái tóc xát qua, nghĩa là ngồi kề nhau, mái tóc nó xát qua vậy.",
+                "Mài giũa, như ma luyện 摩練 mài giũa luyện tập, ma lệ 摩厲 mài giũa để lệ, v.v.",
+                "Tan, mất.",
+                "Thuận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cọ xát, xoa xát, chọc trời, đụng, chạm: 摩拳擦掌 Xoa nắm tay xát bàn tay, (Ngb) hầm hè; 摩肩擦背 Chen vai thích cánh; 摩天嶺 Núi cao chọc trời;",
+                "(văn) Mài dũa: 摩練 Mài dũa luyện tập;",
+                "Nghiền ngẫm, suy nghĩ: 揣摩 Ngẫm nghĩ;",
+                "(văn) Tan, mất;",
+                "(văn) Thuận. Xem 摩 [ma]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mài vào nhau. Cọ xác — Mất đi. Td: Tiếng ma."
+            ],
+            "compound_words": {
+                "按摩": "án ma",
+                "轂擊肩摩": "cốc kích kiên ma",
+                "曇摩": "đàm ma",
+                "摩頂": "ma đính",
+                "摩娑": "ma sa",
+                "摩挲": "ma sa",
+                "摩擦": "ma sát",
+                "那摩": "na ma"
+            }
+        }
+    }
+}

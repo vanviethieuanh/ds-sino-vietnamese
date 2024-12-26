@@ -1,0 +1,79 @@
+{
+    "character": "憶",
+    "details": {
+        "Âm Hán Việt": [
+            "ức"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "tâm 心 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖意"
+        ],
+        "Nét bút": [
+            "丶丶丨丶一丶ノ一丨フ一一丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "PYTP (心卜廿心)"
+        ],
+        "Unicode": [
+            "U+61B6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オク (oku)"
+        ],
+        "Âm Hàn": [
+            "억"
+        ],
+        "Âm Quảng Đông": [
+            "jik1"
+        ]
+    },
+    "meanings": {
+        "ức": {
+            "Từ điển phổ thông": [
+                "nhớ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Nghĩ tới, tưởng nghĩ, tư niệm, tưởng niệm. ◎Như: 'tương ức' 相憶 nhớ nghĩ tới nhau. ◇Giả Đảo 賈島: 'Biệt lai thiên dư nhật, Nhật nhật ức bất hiết' 別來千餘日, 日日憶不歇 (Kí san trung Vương Tham 寄山中王參) Từ khi li biệt đến nay đã hơn ngàn ngày, Ngày ngày tưởng nhớ khôn nguôi.",
+                "(Động) Nhớ được, ghi lại được trong trí. ◎Như: 'kí ức' 記憶 ghi nhớ. ◇Lương Thư 梁書: 'Quá mục giai ức' 過目皆憶 (Chiêu Minh thái tử truyện 昭明太子傳) (Đọc) qua mắt là đều ghi nhớ được cả."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nhớ, tương ức 相憶 cùng nhớ nhau.",
+                "Ghi nhớ, nhớ chôn vào tim óc gọi là kí ức 記憶."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nhớ, ghi nhớ, nhớ lại, ôn: 回憶 Nhớ lại; 相憶 Nhớ nhau; 憶苦思甜 Nhớ nỗi ngọt bùi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nghĩ đến. Nhớ tới — Nhớ, không quên. Td: Kí ức 記憶."
+            ],
+            "compound_words": {
+                "回憶": "hồi ức",
+                "記憶": "kí ức",
+                "愊憶": "phức ức",
+                "憶度": "ức đạc",
+                "憶念": "ức niệm",
+                "憶昔": "ức tích"
+            }
+        }
+    }
+}

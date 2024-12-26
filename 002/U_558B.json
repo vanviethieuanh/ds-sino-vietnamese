@@ -1,0 +1,85 @@
+{
+    "character": "喋",
+    "details": {
+        "Âm Hán Việt": [
+            "điệp"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口枼"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨一フ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RPTD (口心廿木)"
+        ],
+        "Unicode": [
+            "U+558B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "zhá ㄓㄚˊ"
+        ],
+        "Âm Nôm": [
+            "điệp",
+            "nhịp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョウ (chō)",
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しゃべ.る (shabe.ru)",
+            "ついば.む (tsuiba.mu)"
+        ],
+        "Âm Hàn": [
+            "첩",
+            "잡"
+        ],
+        "Âm Quảng Đông": [
+            "dip6"
+        ]
+    },
+    "meanings": {
+        "điệp": {
+            "Từ điển phổ thông": [
+                "dòng chảy",
+                "láu lỉnh, nói lem lém"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) 'Điệp điệp' 喋喋 thao thao, lem lém, nói không dứt. ◎Như: 'điệp điệp bất hưu' 喋喋不休 nói luôn mồm không thôi.",
+                "(Động) Giẫm lên. § Thông 'điệp' 蹀. ◎Như: 'điệp huyết' 喋血 đẫm máu (giết người nhiều, giẫm lên máu mà đi). § Cũng viết là: 蹀血, 啑血."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðiệp điệp 喋喋 nói lem lém.",
+                "Thiệp điệp 唼喋 tả cái dáng đàn le đàn nhạn nó cùng mò ăn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【喋喋】điệp điệp [diédié] Liến thoắng, nói lem lém, nói luôn mồm: 喋喋不休 Nói liến thoắng;",
+                "Xem 唼喋;",
+                "【喋血】điệp huyết [diéxuè] (văn) Đổ máu, đẫm máu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói nhiều, nói luôn mồm. Cũng gọi là Điệp điệp."
+            ],
+            "compound_words": {
+                "唼喋": "xiếp điệp"
+            }
+        }
+    }
+}

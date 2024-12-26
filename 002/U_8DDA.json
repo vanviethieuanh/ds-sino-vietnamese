@@ -1,0 +1,73 @@
+{
+    "character": "跚",
+    "details": {
+        "Âm Hán Việt": [
+            "san"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "túc 足 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊册"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一ノフノフ一"
+        ],
+        "Thương Hiệt": [
+            "RMBT (口一月廿)"
+        ],
+        "Unicode": [
+            "U+8DDA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shān ㄕㄢ"
+        ],
+        "Âm Nôm": [
+            "san"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サン (san)"
+        ],
+        "Âm Hàn": [
+            "산"
+        ],
+        "Âm Quảng Đông": [
+            "saan1"
+        ]
+    },
+    "meanings": {
+        "san": {
+            "Từ điển phổ thông": [
+                "(xem: bàn san 蹣跚,蹒跚)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. “Bàn san” 蹣跚: xem “bàn” 蹣."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bàn san 蹣跚. Xem chữ bàn 蹣."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 蹣跚 [pánshan]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bàn san 蹣跚: Dáng đi khập khiễng, như người thọt chân — Dáng đi uốn lượn."
+            ],
+            "compound_words": {
+                "蹒跚": "bàn san",
+                "蹣跚": "bàn san"
+            }
+        }
+    }
+}

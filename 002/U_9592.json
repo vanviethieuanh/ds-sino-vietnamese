@@ -1,0 +1,242 @@
+{
+    "character": "閒",
+    "details": {
+        "Âm Hán Việt": [
+            "gian",
+            "gián",
+            "nhàn"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "môn 門 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿵門月"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "ANB (日弓月)"
+        ],
+        "Unicode": [
+            "U+9592"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "jiān ㄐㄧㄢ",
+            "jiàn ㄐㄧㄢˋ",
+            "xián ㄒㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "gián",
+            "nhàn"
+        ],
+        "Âm Hàn": [
+            "한"
+        ],
+        "Âm Quảng Đông": [
+            "gaan1",
+            "gaan3",
+            "haan4"
+        ]
+    },
+    "meanings": {
+        "gian": {
+            "Từ điển phổ thông": [
+                "khoảng không gian"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lúc rảnh rỗi, thời kì không có việc phải làm. ◎Như: 'nông nhàn' 農閒 thời kì rảnh việc của nhà nông, 'mang trung thâu nhàn' 忙中偷閒 trong khi bận rộn có được chút rảnh rỗi.",
+                "(Danh) Chức vụ không quan trọng, ít việc phải làm.",
+                "(Tính) Rảnh rỗi, vô sự. ◎Như: 'không nhàn' 空閒 rảnh rang, 'nhàn hạ' 閒暇 rảnh rỗi.",
+                "(Tính) Thong dong, yên ổn. ◎Như: 'nhàn nhã' 閒雅 thong dong, yên ổn, 'nhàn tình dật trí' 閒情逸致 yên vui thong dong.",
+                "(Tính) Để không. ◎Như: 'nhàn điền' 閒田 ruộng bỏ không, 'nhàn phòng' 閒房 buổng để không, 'nhàn tiền' 閒錢 tiền không dùng đến.",
+                "(Tính) Không liên can tới sự việc, vô phận sự. ◎Như: 'nhàn nhân miễn tiến' 閒人免進 người vô phận sự xin đừng vào.",
+                "(Phó) Tùy ý, không phải bận tâm. ◎Như: 'nhàn xả' 閒扯 nói chuyện phiếm, tán gẫu, 'nhàn cuống' 閒逛 đi rong chơi, 'nhàn liêu' 閒聊 nói chuyện vãn.",
+                "Một âm là 'gian'. § Ngày xưa dùng như chữ 'gian' 間. (Danh) Kẽ hở, lỗ hổng. ◇Trang Tử 莊子: 'Bỉ tiết giả hữu gian, nhi đao nhận giả vô hậu; dĩ vô hậu giả nhập hữu gian, khôi khôi hồ kì ư du nhận, tất hữu dư địa hĩ' 彼節者有閒, 而刀刃者無厚; 以無厚者入有閒, 恢恢乎其於遊刃, 必有餘地矣 (Dưỡng sanh chủ 養生主) Những đốt kia có kẽ hở, mà lưỡi dao này không dày. Lấy bề mỏng của con dao, xổng xểnh vậy, đưa vào chỗ kẽ, tất là có chỗ thừa.",
+                "(Danh) Khoảng, ở giữa, bên trong (nói về không gian hoặc thời gian). ◇Luận Ngữ 論語: 'Quân tử vô chung thực chi gian vi nhân' 君子無終食之閒違仁 (Lí nhân 里仁) Người quân tử, dù trong khoảng thời gian một bữa ăn, cũng không làm trái điều nhân.",
+                "(Danh) Một lát, khoảnh khắc. ◇Trang Tử 莊子: 'Biển Tử nhập, tọa hữu gian, ngưỡng thiên nhi thán' 扁子入, 坐有閒, 仰天而歎 (Đạt sanh 達生) Biển Tử vào, ngồi một lát, ngửa mặt lên trời thở dài.",
+                "(Danh) Thời gian gần đây, cận lai. ◇Hán Thư 漢書: 'Đế gian nhan sắc sấu hắc' 帝閒顏色瘦黑 (Tự truyện thượng 敘傳上) Khoảng gần đây vẻ mặt vua gầy đen.",
+                "Một âm là 'gián'. § Ngày xưa dùng như chữ 'gián' 間. (Danh) Khoảng cách, sai biệt.",
+                "(Danh) Gián điệp.",
+                "(Động) Chia rẽ, hiềm khích.",
+                "(Động) Ngăn cách, cách trở.",
+                "(Động) Xen lẫn.",
+                "(Động) Li gián.",
+                "(Động) Dò thám.",
+                "(Động) Chê trách, hủy báng. ◇Luận Ngữ 論語: 'Hiếu tai Mẫn Tử Khiên! Nhân bất gián ư kì phụ mẫu côn đệ chi ngôn' 孝哉閔子騫! 人不閒於其父母昆弟之言 (Tiên tiến 先進) Hiếu thuận thay, anh Mẫn Tử Khiên! Không ai chê trách gì lời (khen ngợi anh) của cha mẹ và anh em.",
+                "(Động) Đắp đổi, thay phiên. ◇Thư Kinh 書經: 'Sanh dong dĩ gián' 笙鏞以閒 (Ích tắc 益稷) Sênh và chuông đắp đổi.",
+                "(Động) Thuyên dũ, bệnh giảm. ◇Luận Ngữ 論語: 'Tử tật bệnh, Tử Lộ sử môn nhân vi thần. Bệnh gián, viết: Cửu hĩ tai! Do chi hành trá dã, vô thần nhi vi hữu thần' 子疾病, 子路使門人為臣. 病閒, 曰: 久矣哉! 由之行詐也, 無臣而為有臣 (Tử Hãn 子罕) Khổng Tử đau nặng, Tử Lộ bảo anh em đồng môn làm như gia thần (để hộ tang theo lễ đại phu nếu Khổng Tử mãn phần). Bệnh giảm, Khổng Tử bảo: (Trò đùa) kéo dài đủ lâu rồi! Anh Do làm chuyện lừa dối đó, ta không có gia thần mà làm ra có gia thần.",
+                "(Phó) Bí mật, lén lút, không công khai. ◇Sử Kí 史記: 'Cố lệnh nhân trì bích quy, gián chí Triệu hĩ' 故令人持璧歸, 閒至趙矣 (Liêm Pha Lạn Tương Như liệt truyện 廉頗藺相如列傳) Nên đã sai người mang ngọc bích bí mật về tới nước Triệu rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoảng giữa.",
+                "Một gian nhà hay một cái buồng gọi là nhất gian 一閒.",
+                "Một thứ thước đo của nước Nhật Bản, dài sáu thước.",
+                "Khoảng. Như điền gian 田閒 khoảng ruộng.",
+                "Dong được.",
+                "Một âm là nhàn. Nhàn rỗi vô sự.",
+                "An nhàn, yên ổn thư thái không có ý khoe khoang gọi là nhàn. Như nhàn nhã 閒雅.",
+                "Một âm là gián. Hé, có lỗ hỗng. Như độc thư đắc gián 讀書得閒 đọc sách có chỗ hé có thể hiểu được.",
+                "Làm chia rẽ, dùng lời gièm pha làm cho hai bên ghét nhau, ngờ nhau gọi là li gián 離閒, là phản gián 反閒.",
+                "Gián điệp 閒諜 kẻ do thám quân tình, cũng gọi là tế tác 細作.",
+                "Xen lẫn. Như sơ bất gián thân 疏不閒親 kẻ xa không xen lẫn với người thân được. Các sắc lẫn lộn gọi là gián sắc 閒色.",
+                "Ngăn cách. Như gián bích 閒壁 cách vách, nhà láng giềng bên cạnh chỉ cách một bức vách.",
+                "Phân biệt, khác hẳn không cùng giống nhau gọi là hữu gián 有閒.",
+                "Nhất gián 一閒 chỉ cách nhau một tí, vì thế nên hơi khác nhau gọi là nhất gián nhĩ 一閒耳. Còn chưa hợp một tí gọi là vị đạt nhất gián 未達一閒.",
+                "Bệnh hơi bớt gọi là bệnh gián 病閒.",
+                "Trừ chữ nhàn 閒 nghĩa là nhàn hạ 閒暇 ra, ta hay viết là gian 間."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 間."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Gian 間 — Một âm là Nhàn. Xem Nhàn."
+            ],
+            "compound_words": {
+                "閒閒": "gian gian"
+            }
+        },
+        "gián": {
+            "Từ điển trích dẫn": [
+                "(Danh) Lúc rảnh rỗi, thời kì không có việc phải làm. ◎Như: 'nông nhàn' 農閒 thời kì rảnh việc của nhà nông, 'mang trung thâu nhàn' 忙中偷閒 trong khi bận rộn có được chút rảnh rỗi.",
+                "(Danh) Chức vụ không quan trọng, ít việc phải làm.",
+                "(Tính) Rảnh rỗi, vô sự. ◎Như: 'không nhàn' 空閒 rảnh rang, 'nhàn hạ' 閒暇 rảnh rỗi.",
+                "(Tính) Thong dong, yên ổn. ◎Như: 'nhàn nhã' 閒雅 thong dong, yên ổn, 'nhàn tình dật trí' 閒情逸致 yên vui thong dong.",
+                "(Tính) Để không. ◎Như: 'nhàn điền' 閒田 ruộng bỏ không, 'nhàn phòng' 閒房 buổng để không, 'nhàn tiền' 閒錢 tiền không dùng đến.",
+                "(Tính) Không liên can tới sự việc, vô phận sự. ◎Như: 'nhàn nhân miễn tiến' 閒人免進 người vô phận sự xin đừng vào.",
+                "(Phó) Tùy ý, không phải bận tâm. ◎Như: 'nhàn xả' 閒扯 nói chuyện phiếm, tán gẫu, 'nhàn cuống' 閒逛 đi rong chơi, 'nhàn liêu' 閒聊 nói chuyện vãn.",
+                "Một âm là 'gian'. § Ngày xưa dùng như chữ 'gian' 間. (Danh) Kẽ hở, lỗ hổng. ◇Trang Tử 莊子: 'Bỉ tiết giả hữu gian, nhi đao nhận giả vô hậu; dĩ vô hậu giả nhập hữu gian, khôi khôi hồ kì ư du nhận, tất hữu dư địa hĩ' 彼節者有閒, 而刀刃者無厚; 以無厚者入有閒, 恢恢乎其於遊刃, 必有餘地矣 (Dưỡng sanh chủ 養生主) Những đốt kia có kẽ hở, mà lưỡi dao này không dày. Lấy bề mỏng của con dao, xổng xểnh vậy, đưa vào chỗ kẽ, tất là có chỗ thừa.",
+                "(Danh) Khoảng, ở giữa, bên trong (nói về không gian hoặc thời gian). ◇Luận Ngữ 論語: 'Quân tử vô chung thực chi gian vi nhân' 君子無終食之閒違仁 (Lí nhân 里仁) Người quân tử, dù trong khoảng thời gian một bữa ăn, cũng không làm trái điều nhân.",
+                "(Danh) Một lát, khoảnh khắc. ◇Trang Tử 莊子: 'Biển Tử nhập, tọa hữu gian, ngưỡng thiên nhi thán' 扁子入, 坐有閒, 仰天而歎 (Đạt sanh 達生) Biển Tử vào, ngồi một lát, ngửa mặt lên trời thở dài.",
+                "(Danh) Thời gian gần đây, cận lai. ◇Hán Thư 漢書: 'Đế gian nhan sắc sấu hắc' 帝閒顏色瘦黑 (Tự truyện thượng 敘傳上) Khoảng gần đây vẻ mặt vua gầy đen.",
+                "Một âm là 'gián'. § Ngày xưa dùng như chữ 'gián' 間. (Danh) Khoảng cách, sai biệt.",
+                "(Danh) Gián điệp.",
+                "(Động) Chia rẽ, hiềm khích.",
+                "(Động) Ngăn cách, cách trở.",
+                "(Động) Xen lẫn.",
+                "(Động) Li gián.",
+                "(Động) Dò thám.",
+                "(Động) Chê trách, hủy báng. ◇Luận Ngữ 論語: 'Hiếu tai Mẫn Tử Khiên! Nhân bất gián ư kì phụ mẫu côn đệ chi ngôn' 孝哉閔子騫! 人不閒於其父母昆弟之言 (Tiên tiến 先進) Hiếu thuận thay, anh Mẫn Tử Khiên! Không ai chê trách gì lời (khen ngợi anh) của cha mẹ và anh em.",
+                "(Động) Đắp đổi, thay phiên. ◇Thư Kinh 書經: 'Sanh dong dĩ gián' 笙鏞以閒 (Ích tắc 益稷) Sênh và chuông đắp đổi.",
+                "(Động) Thuyên dũ, bệnh giảm. ◇Luận Ngữ 論語: 'Tử tật bệnh, Tử Lộ sử môn nhân vi thần. Bệnh gián, viết: Cửu hĩ tai! Do chi hành trá dã, vô thần nhi vi hữu thần' 子疾病, 子路使門人為臣. 病閒, 曰: 久矣哉! 由之行詐也, 無臣而為有臣 (Tử Hãn 子罕) Khổng Tử đau nặng, Tử Lộ bảo anh em đồng môn làm như gia thần (để hộ tang theo lễ đại phu nếu Khổng Tử mãn phần). Bệnh giảm, Khổng Tử bảo: (Trò đùa) kéo dài đủ lâu rồi! Anh Do làm chuyện lừa dối đó, ta không có gia thần mà làm ra có gia thần.",
+                "(Phó) Bí mật, lén lút, không công khai. ◇Sử Kí 史記: 'Cố lệnh nhân trì bích quy, gián chí Triệu hĩ' 故令人持璧歸, 閒至趙矣 (Liêm Pha Lạn Tương Như liệt truyện 廉頗藺相如列傳) Nên đã sai người mang ngọc bích bí mật về tới nước Triệu rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoảng giữa.",
+                "Một gian nhà hay một cái buồng gọi là nhất gian 一閒.",
+                "Một thứ thước đo của nước Nhật Bản, dài sáu thước.",
+                "Khoảng. Như điền gian 田閒 khoảng ruộng.",
+                "Dong được.",
+                "Một âm là nhàn. Nhàn rỗi vô sự.",
+                "An nhàn, yên ổn thư thái không có ý khoe khoang gọi là nhàn. Như nhàn nhã 閒雅.",
+                "Một âm là gián. Hé, có lỗ hỗng. Như độc thư đắc gián 讀書得閒 đọc sách có chỗ hé có thể hiểu được.",
+                "Làm chia rẽ, dùng lời gièm pha làm cho hai bên ghét nhau, ngờ nhau gọi là li gián 離閒, là phản gián 反閒.",
+                "Gián điệp 閒諜 kẻ do thám quân tình, cũng gọi là tế tác 細作.",
+                "Xen lẫn. Như sơ bất gián thân 疏不閒親 kẻ xa không xen lẫn với người thân được. Các sắc lẫn lộn gọi là gián sắc 閒色.",
+                "Ngăn cách. Như gián bích 閒壁 cách vách, nhà láng giềng bên cạnh chỉ cách một bức vách.",
+                "Phân biệt, khác hẳn không cùng giống nhau gọi là hữu gián 有閒.",
+                "Nhất gián 一閒 chỉ cách nhau một tí, vì thế nên hơi khác nhau gọi là nhất gián nhĩ 一閒耳. Còn chưa hợp một tí gọi là vị đạt nhất gián 未達一閒.",
+                "Bệnh hơi bớt gọi là bệnh gián 病閒.",
+                "Trừ chữ nhàn 閒 nghĩa là nhàn hạ 閒暇 ra, ta hay viết là gian 間."
+            ]
+        },
+        "nhàn": {
+            "Từ điển phổ thông": [
+                "nhàn hạ, rảnh rỗi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lúc rảnh rỗi, thời kì không có việc phải làm. ◎Như: 'nông nhàn' 農閒 thời kì rảnh việc của nhà nông, 'mang trung thâu nhàn' 忙中偷閒 trong khi bận rộn có được chút rảnh rỗi.",
+                "(Danh) Chức vụ không quan trọng, ít việc phải làm.",
+                "(Tính) Rảnh rỗi, vô sự. ◎Như: 'không nhàn' 空閒 rảnh rang, 'nhàn hạ' 閒暇 rảnh rỗi.",
+                "(Tính) Thong dong, yên ổn. ◎Như: 'nhàn nhã' 閒雅 thong dong, yên ổn, 'nhàn tình dật trí' 閒情逸致 yên vui thong dong.",
+                "(Tính) Để không. ◎Như: 'nhàn điền' 閒田 ruộng bỏ không, 'nhàn phòng' 閒房 buổng để không, 'nhàn tiền' 閒錢 tiền không dùng đến.",
+                "(Tính) Không liên can tới sự việc, vô phận sự. ◎Như: 'nhàn nhân miễn tiến' 閒人免進 người vô phận sự xin đừng vào.",
+                "(Phó) Tùy ý, không phải bận tâm. ◎Như: 'nhàn xả' 閒扯 nói chuyện phiếm, tán gẫu, 'nhàn cuống' 閒逛 đi rong chơi, 'nhàn liêu' 閒聊 nói chuyện vãn.",
+                "Một âm là 'gian'. § Ngày xưa dùng như chữ 'gian' 間. (Danh) Kẽ hở, lỗ hổng. ◇Trang Tử 莊子: 'Bỉ tiết giả hữu gian, nhi đao nhận giả vô hậu; dĩ vô hậu giả nhập hữu gian, khôi khôi hồ kì ư du nhận, tất hữu dư địa hĩ' 彼節者有閒, 而刀刃者無厚; 以無厚者入有閒, 恢恢乎其於遊刃, 必有餘地矣 (Dưỡng sanh chủ 養生主) Những đốt kia có kẽ hở, mà lưỡi dao này không dày. Lấy bề mỏng của con dao, xổng xểnh vậy, đưa vào chỗ kẽ, tất là có chỗ thừa.",
+                "(Danh) Khoảng, ở giữa, bên trong (nói về không gian hoặc thời gian). ◇Luận Ngữ 論語: 'Quân tử vô chung thực chi gian vi nhân' 君子無終食之閒違仁 (Lí nhân 里仁) Người quân tử, dù trong khoảng thời gian một bữa ăn, cũng không làm trái điều nhân.",
+                "(Danh) Một lát, khoảnh khắc. ◇Trang Tử 莊子: 'Biển Tử nhập, tọa hữu gian, ngưỡng thiên nhi thán' 扁子入, 坐有閒, 仰天而歎 (Đạt sanh 達生) Biển Tử vào, ngồi một lát, ngửa mặt lên trời thở dài.",
+                "(Danh) Thời gian gần đây, cận lai. ◇Hán Thư 漢書: 'Đế gian nhan sắc sấu hắc' 帝閒顏色瘦黑 (Tự truyện thượng 敘傳上) Khoảng gần đây vẻ mặt vua gầy đen.",
+                "Một âm là 'gián'. § Ngày xưa dùng như chữ 'gián' 間. (Danh) Khoảng cách, sai biệt.",
+                "(Danh) Gián điệp.",
+                "(Động) Chia rẽ, hiềm khích.",
+                "(Động) Ngăn cách, cách trở.",
+                "(Động) Xen lẫn.",
+                "(Động) Li gián.",
+                "(Động) Dò thám.",
+                "(Động) Chê trách, hủy báng. ◇Luận Ngữ 論語: 'Hiếu tai Mẫn Tử Khiên! Nhân bất gián ư kì phụ mẫu côn đệ chi ngôn' 孝哉閔子騫! 人不閒於其父母昆弟之言 (Tiên tiến 先進) Hiếu thuận thay, anh Mẫn Tử Khiên! Không ai chê trách gì lời (khen ngợi anh) của cha mẹ và anh em.",
+                "(Động) Đắp đổi, thay phiên. ◇Thư Kinh 書經: 'Sanh dong dĩ gián' 笙鏞以閒 (Ích tắc 益稷) Sênh và chuông đắp đổi.",
+                "(Động) Thuyên dũ, bệnh giảm. ◇Luận Ngữ 論語: 'Tử tật bệnh, Tử Lộ sử môn nhân vi thần. Bệnh gián, viết: Cửu hĩ tai! Do chi hành trá dã, vô thần nhi vi hữu thần' 子疾病, 子路使門人為臣. 病閒, 曰: 久矣哉! 由之行詐也, 無臣而為有臣 (Tử Hãn 子罕) Khổng Tử đau nặng, Tử Lộ bảo anh em đồng môn làm như gia thần (để hộ tang theo lễ đại phu nếu Khổng Tử mãn phần). Bệnh giảm, Khổng Tử bảo: (Trò đùa) kéo dài đủ lâu rồi! Anh Do làm chuyện lừa dối đó, ta không có gia thần mà làm ra có gia thần.",
+                "(Phó) Bí mật, lén lút, không công khai. ◇Sử Kí 史記: 'Cố lệnh nhân trì bích quy, gián chí Triệu hĩ' 故令人持璧歸, 閒至趙矣 (Liêm Pha Lạn Tương Như liệt truyện 廉頗藺相如列傳) Nên đã sai người mang ngọc bích bí mật về tới nước Triệu rồi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Khoảng giữa.",
+                "Một gian nhà hay một cái buồng gọi là nhất gian 一閒.",
+                "Một thứ thước đo của nước Nhật Bản, dài sáu thước.",
+                "Khoảng. Như điền gian 田閒 khoảng ruộng.",
+                "Dong được.",
+                "Một âm là nhàn. Nhàn rỗi vô sự.",
+                "An nhàn, yên ổn thư thái không có ý khoe khoang gọi là nhàn. Như nhàn nhã 閒雅.",
+                "Một âm là gián. Hé, có lỗ hỗng. Như độc thư đắc gián 讀書得閒 đọc sách có chỗ hé có thể hiểu được.",
+                "Làm chia rẽ, dùng lời gièm pha làm cho hai bên ghét nhau, ngờ nhau gọi là li gián 離閒, là phản gián 反閒.",
+                "Gián điệp 閒諜 kẻ do thám quân tình, cũng gọi là tế tác 細作.",
+                "Xen lẫn. Như sơ bất gián thân 疏不閒親 kẻ xa không xen lẫn với người thân được. Các sắc lẫn lộn gọi là gián sắc 閒色.",
+                "Ngăn cách. Như gián bích 閒壁 cách vách, nhà láng giềng bên cạnh chỉ cách một bức vách.",
+                "Phân biệt, khác hẳn không cùng giống nhau gọi là hữu gián 有閒.",
+                "Nhất gián 一閒 chỉ cách nhau một tí, vì thế nên hơi khác nhau gọi là nhất gián nhĩ 一閒耳. Còn chưa hợp một tí gọi là vị đạt nhất gián 未達一閒.",
+                "Bệnh hơi bớt gọi là bệnh gián 病閒.",
+                "Trừ chữ nhàn 閒 nghĩa là nhàn hạ 閒暇 ra, ta hay viết là gian 間."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 閑."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rảnh rang thong thả. Hát nói của Nguyễn Công Trứ có câu: » So lao tâm lao lực cũng như một đoàn, người trần thế muốn nhàn sao được « — Các âm khác là Gian, Gián. Xem các âm này."
+            ],
+            "compound_words": {
+                "安閒": "an nhàn",
+                "幫閒": "bang nhàn",
+                "悠閒": "du nhàn",
+                "休閒": "hưu nhàn",
+                "空閒": "không nhàn",
+                "閒步": "nhàn bộ",
+                "閒逛": "nhàn cuống",
+                "閒居": "nhàn cư",
+                "閒遊": "nhàn du",
+                "閒談": "nhàn đàm",
+                "閒獨": "nhàn độc",
+                "閒堂": "nhàn đường",
+                "閒暇": "nhàn hạ",
+                "閒曠": "nhàn khoáng",
+                "閒覽": "nhàn lãm",
+                "閒雅": "nhàn nhã",
+                "閒人": "nhàn nhân",
+                "閒放": "nhàn phóng",
+                "閒官": "nhàn quan",
+                "閒事": "nhàn sự",
+                "閒暢": "nhàn sướng",
+                "閒散": "nhàn tản",
+                "閒適": "nhàn thích",
+                "閒話": "nhàn thoại",
+                "閒趣": "nhàn thú",
+                "閒錢": "nhàn tiền",
+                "閒坐": "nhàn toạ",
+                "閒思": "nhàn tứ",
+                "清閒": "thanh nhàn",
+                "乘閒": "thừa nhàn",
+                "優閒": "ưu nhàn"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "仡",
+    "details": {
+        "Âm Hán Việt": [
+            "ngật"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "nhân 人 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻乞"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一フ"
+        ],
+        "Thương Hiệt": [
+            "OON (人人弓)"
+        ],
+        "Unicode": [
+            "U+4EE1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "Gē ㄍㄜ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ngất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キツ (kitsu)",
+            "コチ (kochi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いさ.ましい (isa.mashii)"
+        ],
+        "Âm Hàn": [
+            "흘"
+        ],
+        "Âm Quảng Đông": [
+            "gaak3",
+            "ngat6"
+        ]
+    },
+    "meanings": {
+        "ngật": {
+            "Từ điển phổ thông": [
+                "(xem: ngật ngật 仡仡)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Dũng mãnh, mạnh mẽ.",
+                "(Động) Ngẩng đầu.",
+                "(Danh) § Xem 'ngật lão' 仡佬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ngật ngật 仡仡 lực lưỡng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Dũng cảm, can đảm;",
+                "Oai vệ, oai nghiêm;",
+                "Đứng thẳng: 仡然 Đứng thẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dáng cao lớn mạnh mẽ — Ngẩng đầu lên."
+            ],
+            "compound_words": {
+                "仡佬": "ngật lao",
+                "仡仡": "ngật ngật"
+            }
+        }
+    }
+}

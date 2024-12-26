@@ -1,0 +1,79 @@
+{
+    "character": "艇",
+    "details": {
+        "Âm Hán Việt": [
+            "đĩnh"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "chu 舟 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟廷"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶ノ一丨一フ丶"
+        ],
+        "Thương Hiệt": [
+            "HYNKG (竹卜弓大土)"
+        ],
+        "Unicode": [
+            "U+8247"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tǐng ㄊㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "đĩnh"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テイ (tei)"
+        ],
+        "Âm Hàn": [
+            "정"
+        ],
+        "Âm Quảng Đông": [
+            "teng5",
+            "ting5"
+        ]
+    },
+    "meanings": {
+        "đĩnh": {
+            "Từ điển phổ thông": [
+                "cái thoi (thứ thuyền nhỏ và dài)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái thoi, thứ thuyền nhỏ mà dài. ◇Nguyễn Du 阮攸: 'Khẩn thúc giáp điệp quần, Thái liên trạo tiểu đĩnh' 緊束蛺蝶裙, 採蓮棹小艇 (Mộng đắc thái liên 夢得埰蓮) Buộc chặt quần cánh bướm, Hái sen chèo thuyền con.",
+                "(Danh) 'Tiềm thủy đĩnh' 潛水艇 tàu ngầm."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái thoi, thứ thuyền nhỏ mà dài.",
+                "Tiềm thuỷ đĩnh 潛水艇 tàu ngầm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền nhỏ và dài, tàu thuỷ: 汽艇 Canô; 游艇 Tàu du lịch, du thuyền; 潛艇 Tàu ngầm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thuyền nhỏ — Chỉ chung tàu thuyền. Chẳng hạn Tiềm thuỷ đỉnh 潛水艇 ( tàu ngầm )."
+            ],
+            "compound_words": {
+                "游艇": "du đĩnh",
+                "飛艇": "phi đĩnh",
+                "泛艇": "phiếm đĩnh",
+                "潛艇": "tiềm đĩnh",
+                "潛水艇": "tiềm thuỷ đĩnh"
+            }
+        }
+    }
+}

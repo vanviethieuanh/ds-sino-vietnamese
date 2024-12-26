@@ -1,0 +1,138 @@
+{
+    "character": "計",
+    "details": {
+        "Âm Hán Việt": [
+            "kê",
+            "kế"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngôn 言 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰言十"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一一丨"
+        ],
+        "Thương Hiệt": [
+            "YRJ (卜口十)"
+        ],
+        "Unicode": [
+            "U+8A08"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "ké",
+            "kê"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケイ (kei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はか.る (haka.ru)",
+            "はか.らう (haka.rau)"
+        ],
+        "Âm Hàn": [
+            "계"
+        ],
+        "Âm Quảng Đông": [
+            "gai3",
+            "gei3"
+        ]
+    },
+    "meanings": {
+        "kê": {
+            "Từ điển trích dẫn": [
+                "(Động) Đếm, tính. ◎Như: 'bất kế kì số' 不計其數 không đếm xuể, 'thống kế' 統計 tính gộp cả, 'hội kế' 會計 tính toán. § Ngày xưa, nhà Hán kén quan lại cho vào cung làm việc tính toán sổ sách. Nên đời khoa cử gọi thi hội là 'kế giai' 計偕.",
+                "(Động) Mưu tính, trù tính. ◎Như: 'kế hoạch' 計劃 mưu tính, vạch ra đường lối.",
+                "(Động) Xét, liệu tưởng, so sánh. ◇Trang Tử 莊子: 'Kế tứ hải chi tại thiên địa chi gian dã, bất tự lỗi không chi tại đại trạch hồ?' 計四海之在天地之間也, 不似礨空之在大澤乎 (Thu thủy 秋水) Kể bốn biển ở trong trời đất, chẳng cũng giống như cái hang nhỏ ở trong cái chằm lớn sao?",
+                "(Danh) Sách lược, phương pháp, mưu mô, mẹo, chước. ◎Như: 'đắc kế' 得計 đắc sách, có được mưu hay, 'hoãn binh chi kề' 緩兵之計 kế hoãn binh.",
+                "(Phó) Kể ra, đại khái, so ra, tính ra, ngỡ rằng. ◇Sử Kí 史記: 'Dư dĩ vi kì nhân kế khôi ngô kì vĩ, chí kiến kì đồ, trạng mạo như phụ nhân hảo nữ' 余以為其人計魁梧奇偉, 至見其圖, 狀貌如婦人好女 (Lưu Hầu thế gia 留侯世家) Ta cho rằng người ấy tất phải khôi ngô kì vĩ, khi nhìn tranh, thấy trạng mạo như một người con gái đẹp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tính. Phàm tính gộp các môn lại để xem số nhiều hay ít đều gọi là kế. Như thống kê 統計 tính gộp cả, hội kế 會計 cùng tính cả, v.v. Vì thế nên sổ sách cũng gọi là kế. Nhà Hán kén quan lại cho vào cung làm việc với các quan tính toán sổ sách để tập việc. Nên về đời khoa cử gọi thi hội là kế giai 計偕 là bởi đó.",
+                "Xét các quan lại. Như đại kế 大計 xét suốt cả các quan lại trong thiên hạ.",
+                "Mưu kế, mưu tính. Như đắc kế 得計 đắc sách (mưu hay).",
+                "Ta thường đọc là kê cả."
+            ],
+            "compound_words": {
+                "勾計": "câu kê",
+                "列計": "liệt kê",
+                "研計": "nghiên kê"
+            }
+        },
+        "kế": {
+            "Từ điển phổ thông": [
+                "mưu kế, kế sách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đếm, tính. ◎Như: 'bất kế kì số' 不計其數 không đếm xuể, 'thống kế' 統計 tính gộp cả, 'hội kế' 會計 tính toán. § Ngày xưa, nhà Hán kén quan lại cho vào cung làm việc tính toán sổ sách. Nên đời khoa cử gọi thi hội là 'kế giai' 計偕.",
+                "(Động) Mưu tính, trù tính. ◎Như: 'kế hoạch' 計劃 mưu tính, vạch ra đường lối.",
+                "(Động) Xét, liệu tưởng, so sánh. ◇Trang Tử 莊子: 'Kế tứ hải chi tại thiên địa chi gian dã, bất tự lỗi không chi tại đại trạch hồ?' 計四海之在天地之間也, 不似礨空之在大澤乎 (Thu thủy 秋水) Kể bốn biển ở trong trời đất, chẳng cũng giống như cái hang nhỏ ở trong cái chằm lớn sao?",
+                "(Danh) Sách lược, phương pháp, mưu mô, mẹo, chước. ◎Như: 'đắc kế' 得計 đắc sách, có được mưu hay, 'hoãn binh chi kề' 緩兵之計 kế hoãn binh.",
+                "(Phó) Kể ra, đại khái, so ra, tính ra, ngỡ rằng. ◇Sử Kí 史記: 'Dư dĩ vi kì nhân kế khôi ngô kì vĩ, chí kiến kì đồ, trạng mạo như phụ nhân hảo nữ' 余以為其人計魁梧奇偉, 至見其圖, 狀貌如婦人好女 (Lưu Hầu thế gia 留侯世家) Ta cho rằng người ấy tất phải khôi ngô kì vĩ, khi nhìn tranh, thấy trạng mạo như một người con gái đẹp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tính. Phàm tính gộp các môn lại để xem số nhiều hay ít đều gọi là kế. Như thống kê 統計 tính gộp cả, hội kế 會計 cùng tính cả, v.v. Vì thế nên sổ sách cũng gọi là kế. Nhà Hán kén quan lại cho vào cung làm việc với các quan tính toán sổ sách để tập việc. Nên về đời khoa cử gọi thi hội là kế giai 計偕 là bởi đó.",
+                "Xét các quan lại. Như đại kế 大計 xét suốt cả các quan lại trong thiên hạ.",
+                "Mưu kế, mưu tính. Như đắc kế 得計 đắc sách (mưu hay).",
+                "Ta thường đọc là kê cả."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tính toán — Sổ sách để tính toán — Sắp đặt trước công việc."
+            ],
+            "compound_words": {
+                "陰計": "âm kế",
+                "百計": "bách kế",
+                "估計": "cổ kế",
+                "會計": "cối kế",
+                "遺計": "di kế",
+                "妙計": "diệu kế",
+                "預計": "dự kế",
+                "電腦輔助設計": "điện não phụ trợ thiết kế",
+                "毒計": "độc kế",
+                "獻計": "hiến kế",
+                "活計": "hoạt kế",
+                "計較": "kế giảo",
+                "計劃": "kế hoạch",
+                "計畫": "kế hoạch",
+                "計算": "kế toán",
+                "計算機": "kế toán cơ",
+                "夥計": "khoả kế",
+                "立計": "lập kế",
+                "密計": "mật kế",
+                "謀計": "mưu kế",
+                "逆計": "nghịch kế",
+                "日計": "nhật kế",
+                "過計": "quá kế",
+                "國計": "quốc kế",
+                "詭計": "quỷ kế",
+                "鬼計": "quỷ kế",
+                "生計": "sinh kế",
+                "邪計": "tà kế",
+                "心計": "tâm kế",
+                "設計": "thiết kế",
+                "統計": "thống kế",
+                "總計": "tổng kế",
+                "中計": "trúng kế",
+                "問計": "vấn kế",
+                "無計": "vô kế",
+                "巧計": "xảo kế"
+            }
+        }
+    }
+}

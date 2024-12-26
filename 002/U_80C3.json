@@ -1,0 +1,98 @@
+{
+    "character": "胃",
+    "details": {
+        "Âm Hán Việt": [
+            "trụ",
+            "vị"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "nhục 肉 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱田月"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "WB (田月)"
+        ],
+        "Unicode": [
+            "U+80C3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "vị"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イ (i)"
+        ],
+        "Âm Hàn": [
+            "위"
+        ],
+        "Âm Quảng Đông": [
+            "wai6"
+        ]
+    },
+    "meanings": {
+        "trụ": {
+            "Từ điển Thiều Chửu": [
+                "Như 冑"
+            ]
+        },
+        "vị": {
+            "Từ điển phổ thông": [
+                "dạ dày",
+                "mề (gà, chim)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dạ dày.",
+                "(Danh) Họ 'Vị'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dạ dày, dùng để đựng và tiêu hoá đồ ăn. Vì thế nên tục gọi sự muốn ăn là vị khẩu 胃口.",
+                "Sao Vị, một ngôi sao trong nhị thập bát tú."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dạ dày, bao tử, vị: 胃痛 Đau dạ dày; 健胃葯 Thuốc bổ vị;",
+                "[Wèi] Sao Vị (một ngôi sao trong nhị thập bát tú)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dạ dày — Tên một ngôi sao trong Nhị thập bát tú."
+            ],
+            "compound_words": {
+                "飲灰洗胃": "ẩm hôi tẩy vị",
+                "敗胃": "bại vị",
+                "败胃": "bại vị",
+                "開胃": "khai vị",
+                "芻胃": "sô vị",
+                "洗胃": "tẩy vị",
+                "胃病": "vị bệnh",
+                "胃液": "vị dịch",
+                "胃疸": "vị đản",
+                "胃口": "vị khẩu",
+                "胃納": "vị nạp",
+                "胃臓": "vị tạng",
+                "胃酸": "vị toan",
+                "胃張": "vị trương",
+                "胃腺": "vị tuyến",
+                "胃癰": "vị ung",
+                "胃炎": "vị viêm"
+            }
+        }
+    }
+}

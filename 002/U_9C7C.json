@@ -1,0 +1,59 @@
+{
+    "character": "鱼",
+    "details": {
+        "Âm Hán Việt": [
+            "ngư"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ngư 魚 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノフ丨フ一丨一一"
+        ],
+        "Thương Hiệt": [
+            "NWM (弓田一)"
+        ],
+        "Unicode": [
+            "U+9C7C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yú ㄩˊ"
+        ],
+        "Âm Nôm": [
+            "ngư"
+        ],
+        "Âm Quảng Đông": [
+            "jyu4"
+        ]
+    },
+    "meanings": {
+        "ngư": {
+            "Từ điển phổ thông": [
+                "con cá"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 魚."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 魚"
+            ],
+            "compound_words": {
+                "鲍鱼": "bảo ngư",
+                "捕鱼": "bộ ngư",
+                "尊鱼": "tôn ngư"
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "character": "愊",
+    "details": {
+        "Âm Hán Việt": [
+            "phúc",
+            "phức"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "tâm 心 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖畐"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨フ一丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "PMRW (心一口田)"
+        ],
+        "Unicode": [
+            "U+610A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "bức",
+            "phức"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒョク (hyoku)",
+            "ヒキ (hiki)",
+            "フク (fuku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まこと (makoto)"
+        ],
+        "Âm Quảng Đông": [
+            "bik1"
+        ]
+    },
+    "meanings": {
+        "phúc": {
+            "Từ điển phổ thông": [
+                "thành thực"
+            ]
+        },
+        "phức": {
+            "Từ điển trích dẫn": [
+                "(Tính) Thành thực, chí thành. ◎Như: 'khổn phức vô hoa' 悃愊無華 thực thà không phù hoa.",
+                "(Tính) Buồn phiền, sầu muộn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chí thành thực, dốc một chí. Khổn phức vô hoa 悃愊無華 thực thà không phù hoa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thành thực, thật thà;",
+                "Sầu muộn, phiền muộn, buồn phiền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lòng thành — Rất thành thật."
+            ],
+            "compound_words": {
+                "愊怛": "phức đát",
+                "愊憶": "phức ức"
+            }
+        }
+    }
+}

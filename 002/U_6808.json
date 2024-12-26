@@ -1,0 +1,80 @@
+{
+    "character": "栈",
+    "details": {
+        "Âm Hán Việt": [
+            "chăn",
+            "sạn",
+            "trăn",
+            "xiễn"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木戋"
+        ],
+        "Nét bút": [
+            "一丨ノ丶一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "DIJ (木戈十)"
+        ],
+        "Unicode": [
+            "U+6808"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zhàn ㄓㄢˋ"
+        ],
+        "Âm Nôm": [
+            "sạn"
+        ],
+        "Âm Quảng Đông": [
+            "zaan6"
+        ]
+    },
+    "meanings": {
+        "chăn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 棧."
+            ]
+        },
+        "sạn": {
+            "Từ điển phổ thông": [
+                "nhà kho",
+                "quán trọ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 棧."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 棧"
+            ],
+            "compound_words": {
+                "客栈": "khách sạn",
+                "栈道": "sạn đạo"
+            }
+        },
+        "trăn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 棧."
+            ]
+        },
+        "xiễn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 棧."
+            ]
+        }
+    }
+}

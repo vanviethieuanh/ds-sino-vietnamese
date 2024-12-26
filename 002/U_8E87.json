@@ -1,0 +1,103 @@
+{
+    "character": "躇",
+    "details": {
+        "Âm Hán Việt": [
+            "sước",
+            "trù",
+            "trừ",
+            "xước"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "túc 足 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊著"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一一丨丨一丨一ノ丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "RMTJA (口一廿十日)"
+        ],
+        "Unicode": [
+            "U+8E87"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chú ㄔㄨˊ",
+            "chuò ㄔㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "chỉ",
+            "chứa",
+            "trư"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チョ (cho)",
+            "チャク (chaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ためら.う (tamera.u)"
+        ],
+        "Âm Hàn": [
+            "저",
+            "착"
+        ],
+        "Âm Quảng Đông": [
+            "cyu4"
+        ]
+    },
+    "meanings": {
+        "sước": {
+            "Từ điển trích dẫn": [
+                "(Phó) § Xem 'trù trừ' 躊躇.",
+                "Một âm là 'sước'. (Động) Vượt qua. ◇Công Dương truyện 公羊傳: 'Triệu Thuẫn tri chi, sước giai nhi tẩu' 趙盾知之, 躇階而走 (Tuyên công lục niên 宣公六年) Triệu Thuẫn biết thế, vượt qua thềm mà chạy."
+            ]
+        },
+        "trù": {
+            "Từ điển Thiều Chửu": [
+                "Trù trừ 躊躇 do dự, rụt rè. Làm việc toan tính hai ba lần mà được kết quả tốt gọi là trù trừ mãn chí 躊躇滿志. Trang Tử 莊子: Ðề đao nhi lập, vi chi tứ cố, vi chi trù trừ mãn chí, thiện đao nhi tàng chi 提刀而立，爲之四顧，爲之躊躇滿志，善刀而藏之 (Dưỡng sinh chủ 養生主) cầm dao đứng đó, vì nó nhìn quanh, thoả lòng vì được dao tốt, đem cất nó đi.",
+                "Một âm là sước. Vượt qua."
+            ],
+            "compound_words": {
+                "踌躇": "trù trừ",
+                "躊躇": "trù trừ"
+            }
+        },
+        "trừ": {
+            "Từ điển phổ thông": [
+                "(xem: trù trừ 躊躇,踌躇)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Phó) § Xem 'trù trừ' 躊躇.",
+                "Một âm là 'sước'. (Động) Vượt qua. ◇Công Dương truyện 公羊傳: 'Triệu Thuẫn tri chi, sước giai nhi tẩu' 趙盾知之, 躇階而走 (Tuyên công lục niên 宣公六年) Triệu Thuẫn biết thế, vượt qua thềm mà chạy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 躊躇 [chóuchú]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Trù trừ vần Trù — Một âm là Xước."
+            ],
+            "compound_words": {
+                "踌躇": "trù trừ",
+                "躊躇": "trù trừ"
+            }
+        },
+        "xước": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tụt xuống. Phóng xuống mà không cần đi từng bậc — Một âm là Trừ. Xem Trừ."
+            ]
+        }
+    }
+}

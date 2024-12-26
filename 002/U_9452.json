@@ -1,0 +1,76 @@
+{
+    "character": "鑒",
+    "details": {
+        "Âm Hán Việt": [
+            "giám"
+        ],
+        "Tổng nét": [
+            "22"
+        ],
+        "Bộ": [
+            "kim 金 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨フ一丨フノ一丶丨フ丨丨一ノ丶一一丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "SWC (尸田金)"
+        ],
+        "Unicode": [
+            "U+9452"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "giám",
+            "gương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かんが.みる (kan ga.miru)",
+            "かがみ (kagami)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "gaam3"
+        ]
+    },
+    "meanings": {
+        "giám": {
+            "Từ điển phổ thông": [
+                "cái gương soi bằng đồng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Cũng như chữ “giám” 鑑."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cũng như chữ giám 鑑."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鑑."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Giám 鑑."
+            ],
+            "compound_words": {
+                "大越通鑒通考": "đại việt thông giám thông khảo",
+                "大越通鑒總論": "đại việt thông giám tổng luận",
+                "欽定越史通鑒綱目": "khâm định việt sử thông giám cương mục"
+            }
+        }
+    }
+}

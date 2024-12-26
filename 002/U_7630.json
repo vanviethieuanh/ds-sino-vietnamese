@@ -1,0 +1,103 @@
+{
+    "character": "瘰",
+    "details": {
+        "Âm Hán Việt": [
+            "loa",
+            "loã",
+            "lỗi"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "nạch 疒 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒累"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨フ一丨一フフ丶丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "KWVF (大田女火)"
+        ],
+        "Unicode": [
+            "U+7630"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "luǒ ㄌㄨㄛˇ"
+        ],
+        "Âm Nôm": [
+            "loa",
+            "luy"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ルイ (rui)",
+            "ラ (ra)",
+            "ライ (rai)"
+        ],
+        "Âm Hàn": [
+            "라"
+        ],
+        "Âm Quảng Đông": [
+            "lo2"
+        ]
+    },
+    "meanings": {
+        "loa": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh nổi hạch lớn ở cổ, tức bệnh tràng hạc. Cũng gọi là Loa lịch 瘰癧. Cũng đọc Lỗi."
+            ]
+        },
+        "loã": {
+            "Từ điển phổ thông": [
+                "(xem: lỗi lịch 瘰癧,瘰疬)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Lỗi lịch' 瘰癧 bệnh tràng nhạc, trong cổ kết hạch từng chùm.",
+                "§ Ta quen đọc là 'lõa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lỗi lịch 瘰癧 chứng tràng nhạc, cổ có từng chùm nhọt như một tràng nhạc ngựa, có khi nó ăn lan cả xuống ngực xuống nách nên cũng gọi là lịch quán 癧串. Ta quen đọc là chữ loã."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【瘰"
+            ],
+            "compound_words": {
+                "瘰疬": "loã lịch",
+                "瘰癧": "loã lịch"
+            }
+        },
+        "lỗi": {
+            "Từ điển phổ thông": [
+                "(xem: lỗi lịch 瘰癧,瘰疬)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Lỗi lịch' 瘰癧 bệnh tràng nhạc, trong cổ kết hạch từng chùm.",
+                "§ Ta quen đọc là 'lõa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lỗi lịch 瘰癧 chứng tràng nhạc, cổ có từng chùm nhọt như một tràng nhạc ngựa, có khi nó ăn lan cả xuống ngực xuống nách nên cũng gọi là lịch quán 癧串. Ta quen đọc là chữ loã."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【瘰"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lỗi lịch 瘰瀝: Bệnh sưng hạch lớn ở cổ, tức bệnh tràng nhạc. Cũng đọc Loa."
+            ],
+            "compound_words": {
+                "瘰疬": "lỗi lịch",
+                "瘰癧": "lỗi lịch"
+            }
+        }
+    }
+}

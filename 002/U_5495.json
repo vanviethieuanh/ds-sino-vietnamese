@@ -1,0 +1,77 @@
+{
+    "character": "咕",
+    "details": {
+        "Âm Hán Việt": [
+            "cô"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "khẩu 口 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口古"
+        ],
+        "Nét bút": [
+            "丨フ一一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RJR (口十口)"
+        ],
+        "Unicode": [
+            "U+5495"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "gū ㄍㄨ"
+        ],
+        "Âm Nôm": [
+            "cổ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ぶつぶつい.う (butsubutsui.u)"
+        ],
+        "Âm Quảng Đông": [
+            "gu1",
+            "gu2"
+        ]
+    },
+    "meanings": {
+        "cô": {
+            "Từ điển phổ thông": [
+                "lải nhải"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) “Cô nông” 咕噥 nói lẩm bẩm, nói thì thầm. § Xem thêm “đô” 嘟."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cô nông 咕噥 nói dai (lải nhải)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Tiếng kêu của gà mái hay tiếng chim gáy;",
+                "(văn) Lải nhải."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng ú ớ không rõ ( vì giận, xúc động… )."
+            ],
+            "compound_words": {
+                "咕噜": "cô lỗ",
+                "咕嚕": "cô lỗ",
+                "嘀嘀咕咕": "đê đê cô cô",
+                "嘰哩咕嚕": "ki lí cô lỗ"
+            }
+        }
+    }
+}

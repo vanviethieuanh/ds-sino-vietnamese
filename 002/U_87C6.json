@@ -1,0 +1,85 @@
+{
+    "character": "蟆",
+    "details": {
+        "Âm Hán Việt": [
+            "mô",
+            "mạc"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trùng 虫 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫莫"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨丨丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LITAK (中戈廿日大)"
+        ],
+        "Unicode": [
+            "U+87C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "má ㄇㄚˊ",
+            "mò ㄇㄛˋ"
+        ],
+        "Âm Nôm": [
+            "mò",
+            "mô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バ (ba)",
+            "マ (ma)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひき (hiki)"
+        ],
+        "Âm Hàn": [
+            "마"
+        ],
+        "Âm Quảng Đông": [
+            "maa4"
+        ]
+    },
+    "meanings": {
+        "mô": {
+            "Từ điển phổ thông": [
+                "(xem: hà mô 蝦蟆)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “hà mô” 蝦蟆."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Xem chữ oa 蛙."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cv. 蟇. Xem 蝍蟆[háma]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hà mô 蝦蟆: Con ễnh ương — Một Âm là Mạc. Xem Mạc."
+            ],
+            "compound_words": {
+                "虾蟆": "hà mô",
+                "蝦蟆": "hà mô"
+            }
+        },
+        "mạc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài muỗi nhỏ — Một âm là Mô. Xem Mô."
+            ]
+        }
+    }
+}

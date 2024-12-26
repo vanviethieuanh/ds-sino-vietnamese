@@ -1,0 +1,72 @@
+{
+    "character": "扫",
+    "details": {
+        "Âm Hán Việt": [
+            "táo",
+            "tảo"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thủ 手 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺘彐"
+        ],
+        "Nét bút": [
+            "一丨一フ一一"
+        ],
+        "Thương Hiệt": [
+            "QSM (手尸一)"
+        ],
+        "Unicode": [
+            "U+626B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sǎo ㄙㄠˇ",
+            "sào ㄙㄠˋ"
+        ],
+        "Âm Nôm": [
+            "tảo"
+        ],
+        "Âm Quảng Đông": [
+            "sou2",
+            "sou3"
+        ]
+    },
+    "meanings": {
+        "táo": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 掃"
+            ]
+        },
+        "tảo": {
+            "Từ điển phổ thông": [
+                "quét",
+                "cái chổi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 掃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 掃"
+            ],
+            "compound_words": {
+                "打扫": "đả tảo",
+                "横扫": "hoành tảo",
+                "拂扫": "phất tảo",
+                "扫帚": "tảo trửu"
+            }
+        }
+    }
+}

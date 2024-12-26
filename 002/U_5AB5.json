@@ -1,0 +1,92 @@
+{
+    "character": "媵",
+    "details": {
+        "Âm Hán Việt": [
+            "dắng",
+            "dựng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nữ 女 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸⿰月龹女"
+        ],
+        "Nét bút": [
+            "ノフ一一丶ノ一一ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "BFQV (月火手女)"
+        ],
+        "Unicode": [
+            "U+5AB5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yìng ㄧㄥˋ"
+        ],
+        "Âm Nôm": [
+            "ánh",
+            "dựng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おく.る (oku.ru)",
+            "つきそ.い (tsukiso.i)",
+            "おくりめ (okurime)",
+            "おくりびと (okuribito)"
+        ],
+        "Âm Hàn": [
+            "잉"
+        ],
+        "Âm Quảng Đông": [
+            "jing6"
+        ]
+    },
+    "meanings": {
+        "dắng": {
+            "Từ điển phổ thông": [
+                "người hầu đi theo các phu nhân khi mới xuất giá",
+                "đính thêm tặng vật phụ khi tặng quà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Trai hoặc gái đưa tiễn cô dâu (thời xưa).",
+                "(Danh) Nàng hầu, thị thiếp. ◇Đỗ Mục 杜牧: 'Phi tần dắng tường, vương tử hoàng tôn, từ lâu hạ điện liễn lai ư Tần' 妃嬪媵嬙, 王子皇孫, 辭樓下殿輦來於秦 (A phòng cung phú 阿房宮賦) Các bà phi tần, thị nữ, các ông vương tử hoàng tôn dời lầu, xuống điện, cỡi xe về nhà Tần.",
+                "(Động) Bồi tống, tống giá, đưa tiễn cô dâu.",
+                "(Động) Đưa tặng. ◇Tô Mạn Thù 蘇曼殊: 'Thử họa năng kiến dắng phủ' 此畫能見媵否 (Đoạn hồng linh nhạn kí 斷鴻零雁記) Bức họa này có thể tặng người ta được chăng?"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nàng hầu, các vua chư hầu ngày xưa gả chồng cho con gái, lúc vu quy cho thêm mấy đứa em gái hay cháu gái đi bồi và làm hầu lẽ cho chồng con nữa gọi là dắng.",
+                "Ðính theo, tặng cho người đồ gì mà lại phụ thêm vật gì nữa cũng gọi là dắng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Theo hầu các phu nhân khi mới xuất giá đến hậu cung;",
+                "Nàng hầu (đi theo các phu nhân khi xuất giá và ở lại hậu cung để phục vụ);",
+                "Đính thêm tặng vật phụ (khi tặng quà cho ai)."
+            ],
+            "compound_words": {
+                "媵婢": "dắng tì"
+            }
+        },
+        "dựng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chị em gái theo tiễn cô dâu về nhà chồng — Đưa con gái về nhà chồng. Đưa dâu — Gả chồng — Đưa tiễn — Gửi gấm."
+            ],
+            "compound_words": {
+                "媵婢": "dựng tì"
+            }
+        }
+    }
+}

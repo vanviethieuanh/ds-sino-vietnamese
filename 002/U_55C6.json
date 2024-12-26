@@ -1,0 +1,88 @@
+{
+    "character": "嗆",
+    "details": {
+        "Âm Hán Việt": [
+            "sang",
+            "thương"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khẩu 口 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口倉"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶丶フ一一ノ丨フ一"
+        ],
+        "Thương Hiệt": [
+            "ROIR (口人戈口)"
+        ],
+        "Unicode": [
+            "U+55C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "qiāng ㄑㄧㄤ",
+            "qiàng ㄑㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "sang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)",
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ついば.む (tsuiba.mu)",
+            "むせ.る (muse.ru)",
+            "つ.まる (tsu.maru)"
+        ],
+        "Âm Quảng Đông": [
+            "coeng1",
+            "coeng3"
+        ]
+    },
+    "meanings": {
+        "sang": {
+            "Từ điển phổ thông": [
+                "sặc, nghẹn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) (Chim) ăn, mổ.",
+                "(Động) Sặc. ◎Như: 'mạn mạn cật, biệt sang trước liễu' 慢慢吃, 別嗆著了 ăn từ từ, không thì bị sặc bây giờ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chim ăn.",
+                "Sặc, nhân ăn uống nghẹn mà phát ho gọi là sang."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sặc, hắc: 煙嗆嗓子 Sặc khói; 辣椒味兒嗆得難受 Mùi ớt hắc vào mũi khó chịu quá. Xem 嗆 [qiang]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chim mổ đồ ăn mà ăn — Họ sặc lên trong khi đang ăn hay uống — Vẻ ngu ngốc đần độn — Cũng đọc Thương."
+            ]
+        },
+        "thương": {
+            "Từ điển Trần Văn Chánh": [
+                "Sặc: 吃飯吃嗆了 Đang ăn thì sặc; 喝水嗆着了 Uống nước bị sặc;",
+                "(đph) Ho;",
+                "(văn) (Chim) ăn, mổ;",
+                "(văn) Ngu ngốc, ngu si, đần độn. Xem 嗆 [qiàng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chim mổ đồ ăn mà ăn — Ợ lên vì ăn hoặc uống nhiều quá. — Vẻ ngu đần — Ta có người đọc Sang."
+            ]
+        }
+    }
+}

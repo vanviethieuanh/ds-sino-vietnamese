@@ -1,0 +1,103 @@
+{
+    "character": "蓄",
+    "details": {
+        "Âm Hán Việt": [
+            "súc"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thảo 艸 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹畜"
+        ],
+        "Nét bút": [
+            "一丨丨丶一フフ丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "TYVW (廿卜女田)"
+        ],
+        "Unicode": [
+            "U+84C4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xù ㄒㄩˋ"
+        ],
+        "Âm Nôm": [
+            "súc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チク (chiku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たくわ.える (takuwa.eru)"
+        ],
+        "Âm Hàn": [
+            "축"
+        ],
+        "Âm Quảng Đông": [
+            "cuk1"
+        ]
+    },
+    "meanings": {
+        "súc": {
+            "Từ điển phổ thông": [
+                "tích, chứa, trữ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Dành chứa, tồn trữ. ◎Như: 'súc tích' 蓄積 cất chứa.",
+                "(Động) Hàm chứa, uẩn tàng. ◎Như: 'hàm súc' 含蓄 chứa đựng kín đáo.",
+                "(Động) Để cho mọc (râu, tóc). ◎Như: 'súc tu' 蓄鬚 để râu.",
+                "(Động) Chờ, đợi. ◇Hậu Hán Thư 後漢書: 'Thục vị thì chi khả súc?' 孰謂時之可蓄 (Trương Hành truyện 張衡傳) Ai bảo thời có thể chờ được?",
+                "(Động) Nuôi nấng, dưỡng dục. ◇Liêu trai chí dị 聊齋志異: 'Cam ông tại thì, súc nhất anh vũ thậm tuệ' 甘翁在時, 蓄一鸚鵡甚慧 (A Anh 阿英) Thời cha (họ Cam) còn sống, nuôi được một con vẹt rất khôn.",
+                "(Danh) Tên một loại rau. ◇Tào Thực 曹植: 'Phương cô tinh bại, Sương súc lộ quỳ' 芳菰精粺, 霜蓄露葵 (Thất khải 七啟) Rau cô thơm gạo trắng, rau súc rau quỳ (thích hợp với tiết trời) sương móc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dành chứa.",
+                "Ðựng chứa được.",
+                "Ðể cho mọc (râu, tóc). Như súc tu 蓄鬚 để râu.",
+                "Súc chí 蓄志 Ấp ủ, nuôi chí, định bụng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tích tụ, tích trữ, chứa: 這個水庫能蓄多少水？ Bể chứa nước này có thể tích trữ bao nhiêu khối nước?;",
+                "Để (râu, tóc): 蓄鬚 Để râu;",
+                "Ấp ủ, nuôi chí, định bụng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chứa đựng — Nuôi dưỡng. Dùng như chữ Súc 畜 — Trông đợi."
+            ],
+            "compound_words": {
+                "含蓄": "hàm súc",
+                "涵蓄": "hàm súc",
+                "萹蓄": "phiên súc",
+                "蓄種": "súc chủng",
+                "蓄電池": "súc điện trì",
+                "蓄恨": "súc hận",
+                "蓄慮": "súc lự",
+                "蓄艾": "súc ngãi",
+                "蓄鋭": "súc nhuệ",
+                "蓄怨": "súc oán",
+                "蓄菜": "súc thái",
+                "蓄積": "súc tích",
+                "蓄聚": "súc tụ",
+                "蓄意": "súc ý",
+                "蓄衣節食": "súc y tiết thực",
+                "積蓄": "tích súc",
+                "儲蓄": "trữ súc",
+                "貯蓄": "trữ súc",
+                "蘊蓄": "uẩn súc"
+            }
+        }
+    }
+}

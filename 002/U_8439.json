@@ -1,0 +1,86 @@
+{
+    "character": "萹",
+    "details": {
+        "Âm Hán Việt": [
+            "biển",
+            "phiên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹扁"
+        ],
+        "Nét bút": [
+            "一丨丨丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "THSB (廿竹尸月)"
+        ],
+        "Unicode": [
+            "U+8439"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "biān ㄅㄧㄢ",
+            "biǎn ㄅㄧㄢˇ",
+            "piān ㄆㄧㄢ"
+        ],
+        "Âm Nôm": [
+            "biến",
+            "phiên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "にわやなぎ (niwayanagi)"
+        ],
+        "Âm Hàn": [
+            "편"
+        ],
+        "Âm Quảng Đông": [
+            "bin1",
+            "pin1"
+        ]
+    },
+    "meanings": {
+        "biển": {
+            "Từ điển Trần Văn Chánh": [
+                "Một loại đậu: 萹豆 Biển đậu (dùng làm thuốc)."
+            ]
+        },
+        "phiên": {
+            "Từ điển phổ thông": [
+                "(xem: phiên súc 萹蓄)",
+                "(xem: phiên đậu 萹豆)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Phiên súc' 萹蓄 một thứ cỏ để làm thuốc (Polygonum aviculare L).",
+                "(Danh) 'Phiên đậu' 萹豆 một thứ đậu để làm thuốc. § Ta gọi là 'biển đậu'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phiên súc 萹蓄 một thứ cỏ để làm thuốc.",
+                "Phiên đậu 萹豆 một thứ đậu để làm thuốc. Ta gọi là biển đậu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Một thứ cỏ: 萹蓄 Phiên súc (dùng làm thuốc)."
+            ],
+            "compound_words": {
+                "萹豆": "phiên đậu",
+                "萹蓄": "phiên súc"
+            }
+        }
+    }
+}

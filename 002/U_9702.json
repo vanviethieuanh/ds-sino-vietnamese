@@ -1,0 +1,71 @@
+{
+    "character": "霂",
+    "details": {
+        "Âm Hán Việt": [
+            "mộc"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "vũ 雨 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱雨沐"
+        ],
+        "Nét bút": [
+            "一丶フ丨丶丶丶丶丶丶一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MBED (一月水木)"
+        ],
+        "Unicode": [
+            "U+9702"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "mù ㄇㄨˋ"
+        ],
+        "Âm Nôm": [
+            "móc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボク (boku)",
+            "モク (moku)"
+        ],
+        "Âm Quảng Đông": [
+            "muk6"
+        ]
+    },
+    "meanings": {
+        "mộc": {
+            "Từ điển phổ thông": [
+                "mưa phùn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Mạch mộc 霢霂: xem “mạch” 霢."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Mưa phùn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mưa phùn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mưa nhỏ, mưa phùn. Cũng nói: Mạch mộc 霢霂."
+            ],
+            "compound_words": {
+                "霡霂": "mạch mộc",
+                "霢霂": "mạch mộc"
+            }
+        }
+    }
+}

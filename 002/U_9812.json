@@ -1,0 +1,115 @@
+{
+    "character": "頒",
+    "details": {
+        "Âm Hán Việt": [
+            "ban",
+            "phân",
+            "phần"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰分頁"
+        ],
+        "Nét bút": [
+            "ノ丶フノ一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "CHMBC (金竹一月金)"
+        ],
+        "Unicode": [
+            "U+9812"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bān ㄅㄢ",
+            "fén ㄈㄣˊ"
+        ],
+        "Âm Nôm": [
+            "ban"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハン (han)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わか.つ (waka.tsu)"
+        ],
+        "Âm Hàn": [
+            "반",
+            "분"
+        ],
+        "Âm Quảng Đông": [
+            "baan1",
+            "paan1"
+        ]
+    },
+    "meanings": {
+        "ban": {
+            "Từ điển phổ thông": [
+                "ban bố ra, ban phát"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Cấp phát, trao tặng, tưởng thưởng. ◎Như: 'ban phát' 頒發 cấp phát. ◇Tống sử 宋史: 'Phàm hữu ban khao, quân cấp quân lại, thu hào bất tư' 凡有頒犒, 均給軍吏, 秋毫不私 (Nhạc Phi truyện 岳飛傳) Khi có ban thưởng, phân chia đồng đều cho quân quan, không một chút nào thiên vị.",
+                "(Động) Tuyên bố, công bố. ◎Như: 'ban bố' 頒布 công bố.",
+                "(Tính) Trắng đen xen lẫn. § Thông 'ban' 斑. ◎Như: 'đầu phát ban bạch' 頭髮頒白 tóc hoa râm, tóc nửa bạc nửa đen."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ban bố ra, người trên ban phát hay chỉ bảo kẻ dưới gọi là ban.",
+                "Ban bạch 頒白 hoa râm, tóc nửa bạc nửa đen gọi là ban bạch.",
+                "Chia.",
+                "Một âm là phân. Lù lù, tả cái dáng đầu cá to."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tuyên bố, công bố, ban bố ra: 頒布法令 Ban bố một pháp lệnh;",
+                "Ban cho, ban cấp, phát, trao tặng: 頒發獎旗 Ban cho lá cờ danh dự; 頒發獎章 Trao tặng huy chương; 校長頒榮譽學位給他 Hiệu trưởng trao tặng học vị danh dự cho anh ấy;",
+                "(văn) Như 斑 (bộ 文)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cấp cho. Tặng cho — Chia ra. Chia cho — Dùng như Chữ Ban 班. Xem Ban bạch."
+            ],
+            "compound_words": {
+                "頒恩": "ban ân",
+                "頒白": "ban bạch",
+                "頒斌": "ban bân",
+                "頒布": "ban bố",
+                "頒禽": "ban cầm",
+                "頒給": "ban cấp",
+                "頒行": "ban hành",
+                "頒犒": "ban khao",
+                "頒發": "ban phát",
+                "頒賞": "ban thưởng",
+                "匪頒": "phỉ ban"
+            }
+        },
+        "phân": {
+            "Từ điển trích dẫn": [
+                "(Động) Cấp phát, trao tặng, tưởng thưởng. ◎Như: 'ban phát' 頒發 cấp phát. ◇Tống sử 宋史: 'Phàm hữu ban khao, quân cấp quân lại, thu hào bất tư' 凡有頒犒, 均給軍吏, 秋毫不私 (Nhạc Phi truyện 岳飛傳) Khi có ban thưởng, phân chia đồng đều cho quân quan, không một chút nào thiên vị.",
+                "(Động) Tuyên bố, công bố. ◎Như: 'ban bố' 頒布 công bố.",
+                "(Tính) Trắng đen xen lẫn. § Thông 'ban' 斑. ◎Như: 'đầu phát ban bạch' 頭髮頒白 tóc hoa râm, tóc nửa bạc nửa đen."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ban bố ra, người trên ban phát hay chỉ bảo kẻ dưới gọi là ban.",
+                "Ban bạch 頒白 hoa râm, tóc nửa bạc nửa đen gọi là ban bạch.",
+                "Chia.",
+                "Một âm là phân. Lù lù, tả cái dáng đầu cá to."
+            ]
+        },
+        "phần": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đầu to quá khổ — Một âm là Ban. Xem Ban."
+            ]
+        }
+    }
+}

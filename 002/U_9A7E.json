@@ -1,0 +1,62 @@
+{
+    "character": "驾",
+    "details": {
+        "Âm Hán Việt": [
+            "giá"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱加马"
+        ],
+        "Nét bút": [
+            "フノ丨フ一フフ一"
+        ],
+        "Thương Hiệt": [
+            "KRNVM (大口弓女一)"
+        ],
+        "Unicode": [
+            "U+9A7E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jià ㄐㄧㄚˋ"
+        ],
+        "Âm Nôm": [
+            "giá"
+        ],
+        "Âm Quảng Đông": [
+            "gaa3"
+        ]
+    },
+    "meanings": {
+        "giá": {
+            "Từ điển phổ thông": [
+                "đóng ngựa vào xe",
+                "xe cộ",
+                "chuyến đi của vua"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 駕."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 駕"
+            ],
+            "compound_words": {
+                "保驾": "bảo giá"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "character": "掣",
+    "details": {
+        "Âm Hán Việt": [
+            "sế",
+            "xiết",
+            "xế"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thủ 手 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱制手"
+        ],
+        "Nét bút": [
+            "ノ一一丨フ丨丨丨ノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "HNQ (竹弓手)"
+        ],
+        "Unicode": [
+            "U+63A3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chè ㄔㄜˋ"
+        ],
+        "Âm Nôm": [
+            "siết",
+            "xế",
+            "xía",
+            "xiết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セイ (sei)",
+            "セツ (setsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ.く (hi.ku)"
+        ],
+        "Âm Hàn": [
+            "체",
+            "철"
+        ],
+        "Âm Quảng Đông": [
+            "cit3",
+            "zai3"
+        ]
+    },
+    "meanings": {
+        "sế": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kéo. Níu kéo — Nắm giữ lấy."
+            ],
+            "compound_words": {
+                "掣肘": "sế chửu"
+            }
+        },
+        "xiết": {
+            "Từ điển phổ thông": [
+                "kéo, lôi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kéo, lôi. ◎Như: 'xế trửu' 掣肘 kéo cánh tay (ý nói cản trở), 'khiên xế' 牽掣 kéo dắt nhau.",
+                "(Động) Rút, bắt. ◎Như: 'xế tiêm' 掣籤 rút thẻ, rút thăm. ◇Tam quốc diễn nghĩa 三國演義: 'Toại xế bội kiếm dục trảm Đinh Nguyên' 遂掣佩劍欲斬丁原 (Đệ tam hồi) Bèn rút gươm toan chém Đinh Nguyên.",
+                "(Động) Đi nhanh, bay nhanh. ◇Giản Văn Đế 簡文帝: 'Tinh lưu điện xế' 星流電掣 (Kim thuần phú 金錞賦) Sao chuyển động, chớp bay vụt.",
+                "(Động) Giơ, cầm, đưa lên. ◇Tam quốc diễn nghĩa 三國演義: 'Lưu Huyền Đức xế song cổ kiếm, sậu hoàng tông mã, thứ tà lí dã lai trợ chiến' 劉玄德掣雙股劍, 驟黃鬃馬, 刺斜裏也來助戰 (Đệ ngũ hồi) Lưu Huyền Đức cầm đôi gươm, tế ngựa bờm vàng, đâm xiên vào đánh giúp.",
+                "(Động) Co rút.",
+                "§ Cũng đọc là 'xiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kéo, như xế chửu 掣肘 kéo cánh tay (bó cánh), khiên xế 牽掣 kéo dắt nhau.",
+                "Rút, như xế tiêm 掣籤 rút thẻ, cũng đọc là chữ xiết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lôi, kéo, níu: 掣後腿 Níu chân (giữ lại không cho đi), ngăn trở; 牽掣 Kéo dắt nhau;",
+                "Bắt, rút: 掣簽 Bắt (rút) thăm; 他趕緊掣回手去 Nó vội vàng rút tay về."
+            ],
+            "compound_words": {
+                "電掣": "điện xiết"
+            }
+        },
+        "xế": {
+            "Từ điển trích dẫn": [
+                "(Động) Kéo, lôi. ◎Như: 'xế trửu' 掣肘 kéo cánh tay (ý nói cản trở), 'khiên xế' 牽掣 kéo dắt nhau.",
+                "(Động) Rút, bắt. ◎Như: 'xế tiêm' 掣籤 rút thẻ, rút thăm. ◇Tam quốc diễn nghĩa 三國演義: 'Toại xế bội kiếm dục trảm Đinh Nguyên' 遂掣佩劍欲斬丁原 (Đệ tam hồi) Bèn rút gươm toan chém Đinh Nguyên.",
+                "(Động) Đi nhanh, bay nhanh. ◇Giản Văn Đế 簡文帝: 'Tinh lưu điện xế' 星流電掣 (Kim thuần phú 金錞賦) Sao chuyển động, chớp bay vụt.",
+                "(Động) Giơ, cầm, đưa lên. ◇Tam quốc diễn nghĩa 三國演義: 'Lưu Huyền Đức xế song cổ kiếm, sậu hoàng tông mã, thứ tà lí dã lai trợ chiến' 劉玄德掣雙股劍, 驟黃鬃馬, 刺斜裏也來助戰 (Đệ ngũ hồi) Lưu Huyền Đức cầm đôi gươm, tế ngựa bờm vàng, đâm xiên vào đánh giúp.",
+                "(Động) Co rút.",
+                "§ Cũng đọc là 'xiết'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kéo, như xế chửu 掣肘 kéo cánh tay (bó cánh), khiên xế 牽掣 kéo dắt nhau.",
+                "Rút, như xế tiêm 掣籤 rút thẻ, cũng đọc là chữ xiết."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lôi, kéo, níu: 掣後腿 Níu chân (giữ lại không cho đi), ngăn trở; 牽掣 Kéo dắt nhau;",
+                "Bắt, rút: 掣簽 Bắt (rút) thăm; 他趕緊掣回手去 Nó vội vàng rút tay về."
+            ],
+            "compound_words": {
+                "掣肘": "xế trửu"
+            }
+        }
+    }
+}

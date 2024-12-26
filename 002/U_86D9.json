@@ -1,0 +1,82 @@
+{
+    "character": "蛙",
+    "details": {
+        "Âm Hán Việt": [
+            "oa"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "trùng 虫 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫圭"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶一丨一一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIGG (中戈土土)"
+        ],
+        "Unicode": [
+            "U+86D9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ",
+            "wā ㄨㄚ"
+        ],
+        "Âm Nôm": [
+            "oa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ア (a)",
+            "ワ (wa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かえる (kaeru)",
+            "かわず (kawazu)"
+        ],
+        "Âm Hàn": [
+            "와",
+            "왜"
+        ],
+        "Âm Quảng Đông": [
+            "waa1"
+        ]
+    },
+    "meanings": {
+        "oa": {
+            "Từ điển phổ thông": [
+                "con ếch"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Ếch, nhái. § Con ếch tục gọi là “kim tuyến oa” 金線蛙, là “điền kê” 田雞, là “thủy kê tử” 水雞子. Con chẫu gọi là “thanh oa” 青蛙, lại gọi là “vũ oa” 雨蛙. Con cóc gọi là “thiềm thừ” 蟾蜍. Ễnh ương gọi là “hà mô” 蝦蟆. Giống ếch, giống chẫu hay kêu hay giận cho nên tiếng nhạc dâm gọi là “oa thanh” 蛙聲, phát cáu gọi là “oa nộ” 蛙怒."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Một giống động vật có xương sống, ở được cả nước cả cạn. Con ếch tục gọi là kim tuyến oa 金線蛙, là điền kê 田雞, là thuỷ kê tử 水雞子. Con chẫu gọi là thanh oa 青蛙, lại gọi là vũ oa 雨蛙. Con cóc gọi là thiềm thừ 蟾蜍. Ễnh ương gọi là hà mô 蝦蟆. Giống ếch, giống chẫu hay kêu hay giận cho nên tiếng nhạc dâm gọi là oa thanh 蛙聲, phát cáu gọi là oa nộ 蛙怒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con nhái, ếch, ếch nhái: 井底之蛙 Ếch ngồi đáy giếng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con chẫu chuộc ( thuộc loài ếch nhái )."
+            ],
+            "compound_words": {
+                "金線蛙": "kim tuyến oa",
+                "金线蛙": "kim tuyến oa",
+                "青蛙": "thanh oa",
+                "雨蛙": "vũ oa"
+            }
+        }
+    }
+}

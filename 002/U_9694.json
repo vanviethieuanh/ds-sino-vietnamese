@@ -1,0 +1,96 @@
+{
+    "character": "隔",
+    "details": {
+        "Âm Hán Việt": [
+            "cách"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "phụ 阜 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖鬲"
+        ],
+        "Nét bút": [
+            "フ丨一丨フ一丨フ丶ノ一丨"
+        ],
+        "Thương Hiệt": [
+            "NLMRB (弓中一口月)"
+        ],
+        "Unicode": [
+            "U+9694"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gé ㄍㄜˊ",
+            "jī ㄐㄧ",
+            "rǒng ㄖㄨㄥˇ"
+        ],
+        "Âm Nôm": [
+            "cách"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "へだ.てる (heda.teru)",
+            "へだ.たる (heda.taru)"
+        ],
+        "Âm Hàn": [
+            "격"
+        ],
+        "Âm Quảng Đông": [
+            "gaak3"
+        ]
+    },
+    "meanings": {
+        "cách": {
+            "Từ điển phổ thông": [
+                "ngăn ra"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngăn trở, ngăn che (làm cho không thông suốt). ◎Như: 'cách ngoa tao dưỡng' 隔靴搔癢 cách giày gãi ngứa.",
+                "(Động) Phân biệt, không tương hợp. ◇Nhan thị gia huấn 顏氏家訓: 'Chí ư sĩ thứ quý tiện chi cách, tục dĩ vi thường' 至於士庶貴賤之隔, 俗以為常 (Hậu thú 後娶).",
+                "(Động) Xa, cách xa. ◎Như: 'khuê cách' 暌隔 cách biệt xa xôi, 'cách lưỡng nhật hựu nhất thứ' 隔兩日又一次 cách hai ngày lại có một lần. ◇Nguyễn Du 阮攸: 'Hồi đầu dĩ cách vạn trùng nhai' 回頭已隔萬重崖 (Vọng quan âm miếu 望觀音廟) Quay đầu lại đã cách xa núi muôn trùng.",
+                "(Động) Biệt li. ◇Tả Tư 左思: 'Hội nhật hà đoản? Cách nhật hà trường? Ngưỡng chiêm diệu linh, Ái thử thốn quang' 會日何短? 隔日何長? 仰瞻曜靈, 愛此寸光 (Điệu li tặng muội 悼離贈妹).",
+                "(Động) Sửa đổi, đổi khác, biến dịch. ◇Hậu Hán Thư 後漢書: 'Xưng hiệu thiên cách, phong cát củ phân' 稱號遷隔, 封割糾紛 (Quận quốc chí tán 郡國志贊).",
+                "(Động) Giới hạn. ◇Ngụy Huyền Đồng 魏玄同: 'Bao biếm bất thậm minh, đắc thất vô đại cách' 褒貶不甚明, 得失無大隔 (Thỉnh Lại bộ các trạch liêu thuộc sớ 請吏部各擇寮屬疏)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngăn cách, giữa khoảng hai cái gì mà lại có một cái ngăn cách ở giữa khiến cho không thông với nhau được gọi là cách.",
+                "Xa lìa. Như khuê cách 暌隔 cách biệt xa xôi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Che. Lấp. Không thông dược với nhau — Xa lìa — Rời xa — Thay đổi. — Kông hợp nhau."
+            ],
+            "compound_words": {
+                "陰陽隔別": "âm dương cách biệt",
+                "否隔": "bĩ cách",
+                "隔別": "cách biệt",
+                "隔礙": "cách ngại",
+                "隔靴搔癢": "cách ngoa tao dưỡng",
+                "隔日": "cách nhật",
+                "隔截": "cách tiệt",
+                "隔阻": "cách trở",
+                "隔絕": "cách tuyệt",
+                "隔越": "cách việt",
+                "間隔": "gián cách",
+                "橫隔膜": "hoành cách mô",
+                "毎隔": "mỗi cách",
+                "每隔": "mỗi cách",
+                "分隔": "phân cách",
+                "阻隔": "trở cách"
+            }
+        }
+    }
+}

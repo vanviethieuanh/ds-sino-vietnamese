@@ -1,0 +1,82 @@
+{
+    "character": "蹬",
+    "details": {
+        "Âm Hán Việt": [
+            "đăng",
+            "đặng"
+        ],
+        "Tổng nét": [
+            "19"
+        ],
+        "Bộ": [
+            "túc 足 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⻊登"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一フ丶ノノ丶一丨フ一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "RMNOT (口一弓人廿)"
+        ],
+        "Unicode": [
+            "U+8E6C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dēng ㄉㄥ",
+            "dèng ㄉㄥˋ"
+        ],
+        "Âm Nôm": [
+            "đắng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トウ (tō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よろめ.く (yorome.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "dang1",
+            "dang6"
+        ]
+    },
+    "meanings": {
+        "đăng": {
+            "Từ điển Trần Văn Chánh": [
+                "Đạp, giẫm lên (như 登 [deng], bộ 癶, nghĩa ④)."
+            ]
+        },
+        "đặng": {
+            "Từ điển phổ thông": [
+                "bước vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giẫm, đạp. ◇Tây du kí 西遊記: 'Tương thân nhất tung, khiêu xuất đan lô, lạt đích nhất thanh, đặng đảo bát quái lô, vãng ngoại tựu tẩu' 將身一蹤, 跳出丹爐, 喇的一聲, 蹬倒八卦爐, 往外就走 (Đệ thất hồi) Tung mình dậy, nhảy khỏi lò luyện đan, ầm một tiếng, đạp đổ lò bát quái, chạy vụt ra ngoài.",
+                "(Động) Đi, mang, xỏ. ◇Nhi nữ anh hùng truyện 兒女英雄傳: 'Tại trướng tử lí xuyên hảo liễu y phục, há liễu sàng, đặng thượng hài tử' 在帳子裡穿好了衣服, 下了床，蹬上鞋子 (Đệ tam thập nhất hồi) Ở nơi màn trướng mặc quần áo đẹp, bước xuống giường, mang giày dép.",
+                "(Tính) § Xem 'thặng đặng' 蹭蹬."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thặng đặng 蹭蹬 ngơ ngác, tả cái dáng thất thế. Nay gọi người thân thế không được gặp gỡ gì gọi là thặng đặng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bị tước quyền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dẫm lên. Bước lên."
+            ],
+            "compound_words": {
+                "蹭蹬": "thặng đặng"
+            }
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "湖",
+    "details": {
+        "Âm Hán Việt": [
+            "hồ"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡胡"
+        ],
+        "Nét bút": [
+            "丶丶一一丨丨フ一ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "EJRB (水十口月)"
+        ],
+        "Unicode": [
+            "U+6E56"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hú ㄏㄨˊ"
+        ],
+        "Âm Nôm": [
+            "hồ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コ (ko)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "みずうみ (mizūmi)"
+        ],
+        "Âm Hàn": [
+            "호"
+        ],
+        "Âm Quảng Đông": [
+            "wu4"
+        ]
+    },
+    "meanings": {
+        "hồ": {
+            "Từ điển phổ thông": [
+                "hồ nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hồ. ◎Như: 'Động Đình hồ' 洞庭湖 hồ Động Đình.",
+                "(Danh) Họ 'Hồ'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái hồ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hồ: 湖畔 Bờ hồ; 洞庭湖 Hồ Động Đình; 湖水清清 Nước hồ trong xanh;",
+                "Hai tỉnh Hồ Nam và Hồ Bắc (gọi tắt)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái ao thật lớn, ."
+            ],
+            "compound_words": {
+                "江湖": "giang hồ",
+                "湖北": "hồ bắc",
+                "湖南": "hồ nam",
+                "五湖": "ngũ hồ",
+                "山湖": "sơn hồ",
+                "西湖詩集": "tây hồ thi tập",
+                "頌西湖賦": "tụng tây hồ phú"
+            }
+        }
+    }
+}

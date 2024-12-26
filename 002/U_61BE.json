@@ -1,0 +1,95 @@
+{
+    "character": "憾",
+    "details": {
+        "Âm Hán Việt": [
+            "hám",
+            "đảm"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "tâm 心 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖感"
+        ],
+        "Nét bút": [
+            "丶丶丨一ノ一丨フ一フノ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "PIRP (心戈口心)"
+        ],
+        "Unicode": [
+            "U+61BE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dàn ㄉㄢˋ",
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nôm": [
+            "gớm",
+            "hám",
+            "hóm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うら.む (ura.mu)"
+        ],
+        "Âm Hàn": [
+            "감"
+        ],
+        "Âm Quảng Đông": [
+            "ham6"
+        ]
+    },
+    "meanings": {
+        "hám": {
+            "Từ điển phổ thông": [
+                "ăn năn, hối hận"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sự hối tiếc, niềm ăn năn. ◎Như: 'di hám' 遺憾 ân hận. ◇Nguyễn Du 阮攸: 'Bình sinh trực đạo vô di hám' 平生直道無遺憾 (Âu Dương Văn Trung Công mộ 歐陽文忠公墓) Bình sinh theo đường ngay, lòng không có gì hối tiếc.",
+                "(Danh) Chỉ người mang lòng oán hận. ◇Tả truyện 左傳: 'Nhị hám vãng hĩ, phất bị, tất bại' 二憾往矣, 弗備, 必敗 (Tuyên Công thập nhị niên 宣公十二年).",
+                "(Động) Giận, oán hận. ◇Lưu Nghĩa Khánh 劉義慶: 'Kí hoàn, tri mẫu hám chi bất dĩ, nhân quỵ tiền thỉnh tử' 既還, 知母撼之不已, 因跪前請死 (Thế thuyết tân ngữ 世說新語, Đức hạnh 德行).",
+                "(Tính) Hối hận, không vừa ý. ◎Như: 'hám sự' 憾事.",
+                "Một âm là 'đảm'. (Tính) Bất an, không yên. ◎Như: 'đảm sảng' 憾愴 thương xót không yên lòng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giận, ăn năn.",
+                "Thù giận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiếc, đáng tiếc, hối tiếc, hối hận, ăn năn, (thiếu) sót: 引以爲憾 Lấy làm đáng tiếc; 缺憾 Thiếu sót; 遺憾 Đáng tiếc;",
+                "(văn) Giận, thù giận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giận ghét — Không được vừa lòng."
+            ],
+            "compound_words": {
+                "撞憾": "chàng hám",
+                "遺憾": "di hám"
+            }
+        },
+        "đảm": {
+            "Từ điển trích dẫn": [
+                "(Danh) Sự hối tiếc, niềm ăn năn. ◎Như: 'di hám' 遺憾 ân hận. ◇Nguyễn Du 阮攸: 'Bình sinh trực đạo vô di hám' 平生直道無遺憾 (Âu Dương Văn Trung Công mộ 歐陽文忠公墓) Bình sinh theo đường ngay, lòng không có gì hối tiếc.",
+                "(Danh) Chỉ người mang lòng oán hận. ◇Tả truyện 左傳: 'Nhị hám vãng hĩ, phất bị, tất bại' 二憾往矣, 弗備, 必敗 (Tuyên Công thập nhị niên 宣公十二年).",
+                "(Động) Giận, oán hận. ◇Lưu Nghĩa Khánh 劉義慶: 'Kí hoàn, tri mẫu hám chi bất dĩ, nhân quỵ tiền thỉnh tử' 既還, 知母撼之不已, 因跪前請死 (Thế thuyết tân ngữ 世說新語, Đức hạnh 德行).",
+                "(Tính) Hối hận, không vừa ý. ◎Như: 'hám sự' 憾事.",
+                "Một âm là 'đảm'. (Tính) Bất an, không yên. ◎Như: 'đảm sảng' 憾愴 thương xót không yên lòng."
+            ]
+        }
+    }
+}

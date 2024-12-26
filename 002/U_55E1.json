@@ -1,0 +1,70 @@
+{
+    "character": "嗡",
+    "details": {
+        "Âm Hán Việt": [
+            "ông",
+            "ổng"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khẩu 口 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口翁"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶フ丶フ丶一フ丶一"
+        ],
+        "Thương Hiệt": [
+            "RCIM (口金戈一)"
+        ],
+        "Unicode": [
+            "U+55E1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wēng ㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "óng",
+            "ông"
+        ],
+        "Âm Quảng Đông": [
+            "jung1"
+        ]
+    },
+    "meanings": {
+        "ông": {
+            "Từ điển phổ thông": [
+                "vo ve, vù vù"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Trạng thanh) Vo ve, vù vù (tiếng côn trùng bay hoặc rung cánh). ◎Như: “mật phong ông ông địa phi” 蜜蜂嗡嗡地飛 ong bay vo ve. ◇Lỗ Tấn 魯迅: “Tha tảo tựu lưỡng nhãn phát hắc, nhĩ đóa lí ông đích nhất thanh” 他早就兩眼發黑, 耳朵裡嗡的一聲 (A Q chánh truyện 阿Q正傳) Hai mắt y đã tối sầm lại, trong tai nghe vù vù."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Vo ve, vù vù: 飛機嗡嗡響 Tiếng máy bay vù vù; 蜜蜂嗡嗡地飛 Ong bay vo ve."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng côn trùng bay vo ve. Cũng nói Ông ông — Một âm là Ổng, Xem Ổng."
+            ]
+        },
+        "ổng": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng nói thầm, tiếng thì thào — Một âm là Ông. Xem Ông."
+            ],
+            "compound_words": {
+                "嗡嗡": "ổng ổng"
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "character": "舖",
+    "details": {
+        "Âm Hán Việt": [
+            "phô",
+            "phố"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "thiệt 舌 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舍甫"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丨フ一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "ORIJB (人口戈十月)"
+        ],
+        "Unicode": [
+            "U+8216"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pū ㄆㄨ",
+            "pù ㄆㄨˋ"
+        ],
+        "Âm Nôm": [
+            "pho",
+            "phô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "pou3"
+        ]
+    },
+    "meanings": {
+        "phô": {
+            "Từ điển phổ thông": [
+                "phô, bày",
+                "lát phẳng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Tục dùng như chữ “phô” 鋪."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ phô 鋪."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋪 (bộ 金)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phô 鋪 — Một âm khác là Phổ. Xem Phổ."
+            ]
+        },
+        "phố": {
+            "Từ điển phổ thông": [
+                "cửa hàng buôn bán",
+                "giường, phản"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鋪 (bộ 金)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phố 鋪 — Một âm khác là Phô. Xem Phô."
+            ],
+            "compound_words": {
+                "茗舖": "mính phố",
+                "肉舖": "nhục phố"
+            }
+        }
+    }
+}

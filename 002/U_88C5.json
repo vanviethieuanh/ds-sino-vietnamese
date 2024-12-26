@@ -1,0 +1,87 @@
+{
+    "character": "装",
+    "details": {
+        "Âm Hán Việt": [
+            "trang"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "y 衣 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱壮衣"
+        ],
+        "Nét bút": [
+            "丶一丨一丨一丶一ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "IGYHV (戈土卜竹女)"
+        ],
+        "Unicode": [
+            "U+88C5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhuāng ㄓㄨㄤ"
+        ],
+        "Âm Nôm": [
+            "trang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よそお.う (yosō.u)",
+            "よそお.い (yosō.i)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zong1"
+        ]
+    },
+    "meanings": {
+        "trang": {
+            "Từ điển phổ thông": [
+                "quần áo, trang phục",
+                "giả làm, đóng giả, giả bộ",
+                "trang điểm, trang sức, hoá trang",
+                "đựng, để vào, cho vào",
+                "lắp, bắc",
+                "đóng sách"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 裝."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 裝"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trang 裝."
+            ],
+            "compound_words": {
+                "安装": "an trang",
+                "扮装": "ban trang",
+                "改装": "cải trang",
+                "乔装": "kiều trang",
+                "伪装": "nguỵ trang",
+                "服装": "phục trang",
+                "装饬": "trang sức",
+                "装置": "trang trí",
+                "武装": "vũ trang"
+            }
+        }
+    }
+}

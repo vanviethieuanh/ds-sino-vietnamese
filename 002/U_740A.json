@@ -1,0 +1,71 @@
+{
+    "character": "琊",
+    "details": {
+        "Âm Hán Việt": [
+            "da",
+            "gia"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngọc 玉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺩邪"
+        ],
+        "Nét bút": [
+            "一一丨一一フ丨ノフ丨"
+        ],
+        "Thương Hiệt": [
+            "MGMHL (一土一竹中)"
+        ],
+        "Unicode": [
+            "U+740A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "yá ㄧㄚˊ",
+            "yé ㄜˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヤ (ya)"
+        ],
+        "Âm Quảng Đông": [
+            "je4"
+        ]
+    },
+    "meanings": {
+        "da": {
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “lang da” 瑯琊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 琅琊."
+            ],
+            "compound_words": {
+                "瑯琊": "lang da"
+            }
+        },
+        "gia": {
+            "Từ điển phổ thông": [
+                "(xem: lang gia 琅琊)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lang gia 琅琊 tên đất."
+            ],
+            "compound_words": {
+                "琅琊": "lang gia",
+                "瑯琊": "lang gia"
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "character": "駐",
+    "details": {
+        "Âm Hán Việt": [
+            "trú"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "mã 馬 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰馬主"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶丶丶丶丶一一丨一"
+        ],
+        "Thương Hiệt": [
+            "SFYG (尸火卜土)"
+        ],
+        "Unicode": [
+            "U+99D0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zhù ㄓㄨˋ"
+        ],
+        "Âm Nôm": [
+            "trú"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu3"
+        ]
+    },
+    "meanings": {
+        "trú": {
+            "Từ điển phổ thông": [
+                "nghỉ lại, lưu lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Ngừng, đỗ (xe, ngựa). ◇Ngụy thư 魏書: 'Đà văn kì thân ngâm, trú xa vãng thị' 佗聞其呻吟, 駐車往視 (Hoa Đà truyện 華佗傳) Hoa Đà nghe rên rỉ, ngừng xe lại xem.",
+                "(Động) Ở lại, lưu lại. ◇Vương Bột 王勃: 'Tuế nguyệt dị tận, Quang âm nan trú' 歲月易盡, 光陰難駐 (Thủ tuế tự 守歲序) Năm tháng dễ hết, Thời gian khó ở lại.",
+                "(Động) Giữ lại, giữ gìn. ◇Tô Thức 蘇軾: 'Trường tùng quái thạch nghi sương mấn, Bất dụng kim đan khổ trú nhan' 長松怪石宜霜鬢, 不用金丹苦駐顏 (Đỗng tiêu cung 洞霄宮) Thông cao đá kì nên đầu bạc, Chẳng cần kim đan để khổ công giữ nhan sắc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðóng. Xe ngựa đỗ lại nghỉ gọi là trú. Lưu ở lại chỗ nào cũng gọi là trú. Như đóng ở chỗ mỗ làm việc gọi là trú trát mỗ xứ 駐紮某處. Ði sứ đóng ở nước ngoài cũng gọi là trú. Như đóng ở nước Anh gọi là trú Anh 駐英, đóng ở nước Pháp gọi là trú Pháp 駐法."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tại, ở, lưu lại, trú, trú đóng, thường trú: 駐英 Đóng ở nước Anh; 越南駐華大使館 Đại sứ quán Việt Nam tại Trung Quốc; 駐胡志明巾記者 Phóng viên thường trú tại Thành phố Hồ Chí Minh;",
+                "Đóng: 駐軍 Đóng quân; 一連駐在永澤村 Trung đội 1 đóng tại làng Vĩnh Trạch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xe ngựa dừng lại — Dừng lại — Ở lại trong một thời gian — Dừng chân. Đóng quân ở tạm nơi nào."
+            ],
+            "compound_words": {
+                "屯駐": "đồn trú",
+                "常駐": "thường trú",
+                "駐兵": "trú binh",
+                "駐蹕": "trú tất"
+            }
+        }
+    }
+}

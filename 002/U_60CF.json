@@ -1,0 +1,98 @@
+{
+    "character": "惏",
+    "details": {
+        "Âm Hán Việt": [
+            "lam",
+            "lâm",
+            "lẫm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖林"
+        ],
+        "Nét bút": [
+            "丶丶丨一丨ノ丶一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "PDD (心木木)"
+        ],
+        "Unicode": [
+            "U+60CF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lám",
+            "lán ㄌㄢˊ",
+            "lín ㄌㄧㄣˊ"
+        ],
+        "Âm Nôm": [
+            "lầm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)",
+            "リン (rin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むさぼ.る (musabo.ru)"
+        ],
+        "Âm Hàn": [
+            "람"
+        ],
+        "Âm Quảng Đông": [
+            "laam4"
+        ]
+    },
+    "meanings": {
+        "lam": {
+            "Từ điển phổ thông": [
+                "tham lam"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tham lam, tham tàn. § Cũng như 'lam' 婪.",
+                "Một âm là 'lâm'. (Tính) Bi thương. ◎Như: 'lâm lệ' 惏悷 đau xót, bi thương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 婪 (bộ 女)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tham. Ham muốn nhiều, hoặc ham muốn thứ không phải của mình. Cũng nói: Tham lam — Một âm là Lẫm."
+            ]
+        },
+        "lâm": {
+            "Từ điển phổ thông": [
+                "(xem: lâm lệ 惏悷)",
+                "(xem: lâm lật 惏栗)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Tham lam, tham tàn. § Cũng như 'lam' 婪.",
+                "Một âm là 'lâm'. (Tính) Bi thương. ◎Như: 'lâm lệ' 惏悷 đau xót, bi thương."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) 【惏悷】 lâm lệ [línlì] Bi thương;",
+                "【惏栗】 lâm lật [línlì] Lạnh lẽo, rét căm."
+            ],
+            "compound_words": {
+                "惏栗": "lâm lật",
+                "惏悷": "lâm lệ"
+            }
+        },
+        "lẫm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rất lạnh. Rét. Td: Lẫm lật 惏慄 ( rét run ) — Một âm là Lam."
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "character": "瀉",
+    "details": {
+        "Âm Hán Việt": [
+            "tạ",
+            "tả"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡寫"
+        ],
+        "Nét bút": [
+            "丶丶一丶丶フノ丨一フ一一ノフ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "EJHF (水十竹火)"
+        ],
+        "Unicode": [
+            "U+7009"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "dã",
+            "tã"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くだ.す (kuda.su)",
+            "は.く (ha.ku)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "se2",
+            "se3"
+        ]
+    },
+    "meanings": {
+        "tạ": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng địa phương vùng Dương châu, Dự châu, có nghĩa là nôn mửa — Một âm là Tả. Xem Tả."
+            ],
+            "compound_words": {
+                "瀉土": "tạ thổ"
+            }
+        },
+        "tả": {
+            "Từ điển phổ thông": [
+                "dòng nước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chảy dốc xuống, chảy như rót xuống. ◎Như: 'nhất tả thiên lí' 一瀉千 chảy băng băng nghìn dặm. ◇Liêu trai chí dị 聊齋志異: 'Thừa minh vương tha cố, dĩ trản tựu án giác tả chi, ngụy vi tận giả' 乘冥王他顧, 以盞就案角瀉之, 偽為盡者 (Tam sanh 三生) Thừa dịp Diêm Vương ngoảnh đi, lấy chén (trà) đổ xuống góc gầm bàn, giả vờ như uống hết rồi.",
+                "(Động) Tháo dạ, đi rửa. ◎Như: 'thượng thổ hạ tả' 上吐下瀉 nôn mửa tháo dạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dốc xuống, chảy như rót xuống.",
+                "Bệnh tả (đi rửa)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chảy nhanh (xiết), chảy rốc xuống: 河水奔騰，一瀉千里 Nước sông ào ạt chảy băng nghìn dặm;",
+                "Tháo dạ, đi tả, đi rửa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước đổ xuống, chảy xuống — Bệnh ỉa chảy. Thành ngữ: Thượng thổ hạ tả ( trên nôn mửa, dưới thì ỉa chảy ) — Một âm là Tạ. Xem Tạ."
+            ],
+            "compound_words": {
+                "嘔瀉": "ẩu tả",
+                "奔瀉": "bôn tả",
+                "瀉鹽": "tả diêm",
+                "瀉藥": "tả dược",
+                "吐瀉": "thổ tả"
+            }
+        }
+    }
+}

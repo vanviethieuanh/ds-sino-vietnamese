@@ -1,0 +1,88 @@
+{
+    "character": "庇",
+    "details": {
+        "Âm Hán Việt": [
+            "tí",
+            "tý"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nghiễm 广 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸广比"
+        ],
+        "Nét bút": [
+            "丶一ノ一フノフ"
+        ],
+        "Thương Hiệt": [
+            "IPP (戈心心)"
+        ],
+        "Unicode": [
+            "U+5E87"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひさし (hisashi)",
+            "おお.う (ō.u)",
+            "かば.う (kaba.u)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei3"
+        ]
+    },
+    "meanings": {
+        "tí": {
+            "Từ điển trích dẫn": [
+                "1. (Động) Che chở. ◎Như: “tí hộ” 庇護 che chở giúp giữ cho. ◇Thủy hử truyện 水滸傳: “Thần minh tí hữu, cải nhật lai thiêu chỉ tiền” 神明庇祐, 改日來燒紙錢 (Đệ thập hồi) (Xin) thần minh phù hộ, bữa khác sẽ lại (cúng) đốt tiền giấy."
+            ],
+            "compound_words": {
+                "庇民": "tí dân",
+                "庇護": "tí hộ"
+            }
+        },
+        "tý": {
+            "Từ điển phổ thông": [
+                "che trở"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Che chở, như tí hộ 庇護 che chở giúp giữ cho."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Che, che chở, che đỡ: 包庇 Che chở, che đậy, bao che; 護國庇民 Giúp nước phò dân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Che chở."
+            ],
+            "compound_words": {
+                "包庇": "bao tý",
+                "庇廕": "tý ấm",
+                "庇荫": "tý ấm",
+                "庇护": "tý hộ",
+                "庇護": "tý hộ"
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "character": "摈",
+    "details": {
+        "Âm Hán Việt": [
+            "bấn",
+            "thấn",
+            "tấn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘宾"
+        ],
+        "Nét bút": [
+            "一丨一丶丶フノ丨一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QJOC (手十人金)"
+        ],
+        "Unicode": [
+            "U+6448"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bìn ㄅㄧㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tấn"
+        ],
+        "Âm Quảng Đông": [
+            "ban3"
+        ]
+    },
+    "meanings": {
+        "bấn": {
+            "Từ điển phổ thông": [
+                "ruồng đuổi"
+            ],
+            "compound_words": {
+                "摈弃": "bấn khí",
+                "摈除": "bấn trừ",
+                "摈斥": "bấn xích"
+            }
+        },
+        "thấn": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 擯"
+            ]
+        },
+        "tấn": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 擯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 擯"
+            ]
+        }
+    }
+}

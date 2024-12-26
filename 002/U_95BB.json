@@ -1,0 +1,84 @@
+{
+    "character": "閻",
+    "details": {
+        "Âm Hán Việt": [
+            "diêm",
+            "diễm"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "môn 門 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門臽"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一ノフノ丨一フ一一"
+        ],
+        "Thương Hiệt": [
+            "ANNHX (日弓弓竹重)"
+        ],
+        "Unicode": [
+            "U+95BB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ",
+            "yǎn ㄧㄢˇ",
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "diêm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Hàn": [
+            "염"
+        ],
+        "Âm Quảng Đông": [
+            "jim4"
+        ]
+    },
+    "meanings": {
+        "diêm": {
+            "Từ điển phổ thông": [
+                "âm phủ, địa ngục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cổng làng. ◇Sử Kí 史記: 'Thủ lư diêm giả thực lương nhục' 守閭閻者食粱肉 (Bình chuẩn thư 平準書) Người giữ cổng làng được ăn cơm thịt (món ngon).",
+                "(Danh) Ngõ trong làng. ◇Tuân Tử 荀子: 'Tuy ẩn ư cùng diêm lậu ốc, nhân mạc bất quý chi' 雖隱於窮閻漏屋, 人莫不貴之 (Nho hiệu 儒效) Dù ẩn mình nơi ngõ hẻm chỗ nhà quê mùa, không ai là không quý trọng.",
+                "(Danh) Họ 'Diêm'.",
+                "(Danh) § Xem: 'diêm vương' 閻王, 'diêm la' 閻羅."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cửa ngõ, cổng làng;",
+                "[Yán] (Họ) Diêm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cổng làng — Cổng ngó trong xóm — Một âm là Diễm."
+            ],
+            "compound_words": {
+                "窮閻": "cùng diêm",
+                "閻羅": "diêm la",
+                "閻浮提": "diêm phù đề",
+                "閻王": "diêm vương"
+            }
+        },
+        "diễm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Diễm 豔 — Một âm khác là Diêm."
+            ]
+        }
+    }
+}

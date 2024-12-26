@@ -1,0 +1,81 @@
+{
+    "character": "菌",
+    "details": {
+        "Âm Hán Việt": [
+            "khuẩn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thảo 艸 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹囷"
+        ],
+        "Nét bút": [
+            "一丨丨丨フノ一丨ノ丶一"
+        ],
+        "Thương Hiệt": [
+            "TWHD (廿田竹木)"
+        ],
+        "Unicode": [
+            "U+83CC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jūn ㄐㄩㄣ",
+            "jùn ㄐㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "khuẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キン (kin)"
+        ],
+        "Âm Hàn": [
+            "균"
+        ],
+        "Âm Quảng Đông": [
+            "kwan2"
+        ]
+    },
+    "meanings": {
+        "khuẩn": {
+            "Từ điển phổ thông": [
+                "cây nấm",
+                "vi khuẩn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nấm. § Có thứ ăn ngon, có thứ độc chết người.",
+                "(Danh) Vi trùng. ◎Như: 'vi khuẩn' 微菌, 'tế khuẩn' 細菌."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cây nấm, có thứ ăn ngon, có thứ độc lạ.",
+                "Một giống động vật rất nhỏ, sống nhờ ở trong các loài vật ôi thối gọi là vi khuẩn 微菌, sống nhờ ở trong than thể người hay giống vật gọi là tế khuẩn 細菌 sinh ra lắm bệnh lạ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nấm;",
+                "Vi khuẩn, vi trùng Xem 菌 [jùn]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây nấm. Td: Vi khuẩn ( loài nấm cực nhỏ )."
+            ],
+            "compound_words": {
+                "病菌": "bệnh khuẩn",
+                "菌柄": "khuẩn bính",
+                "菌類": "khuẩn loại",
+                "菌傘": "khuẩn tán",
+                "殺菌劑": "sát khuẩn tế"
+            }
+        }
+    }
+}

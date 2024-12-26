@@ -1,0 +1,58 @@
+{
+    "character": "氢",
+    "details": {
+        "Âm Hán Việt": [
+            "khinh"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khí 气 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿹气𢀖"
+        ],
+        "Nét bút": [
+            "ノ一一フフ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "ONNOM (人弓弓人一)"
+        ],
+        "Unicode": [
+            "U+6C22"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "qīng ㄑㄧㄥ"
+        ],
+        "Âm Quảng Đông": [
+            "hing1"
+        ]
+    },
+    "meanings": {
+        "khinh": {
+            "Từ điển phổ thông": [
+                "khinh khí, khí hidro"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của 氫."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 氫"
+            ],
+            "compound_words": {
+                "氢气": "khinh khí",
+                "重氢": "trọng khinh"
+            }
+        }
+    }
+}

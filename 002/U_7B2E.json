@@ -1,0 +1,88 @@
+{
+    "character": "笮",
+    "details": {
+        "Âm Hán Việt": [
+            "trá",
+            "trách",
+            "tạc"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "trúc 竹 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⺮乍"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶ノ一丨一一"
+        ],
+        "Thương Hiệt": [
+            "HHS (竹竹尸)"
+        ],
+        "Unicode": [
+            "U+7B2E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "zé ㄗㄜˊ",
+            "zhà ㄓㄚˋ"
+        ],
+        "Âm Nôm": [
+            "sịa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サク (saku)",
+            "シャク (shaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せま.い (sema.i)"
+        ],
+        "Âm Quảng Đông": [
+            "zaak3",
+            "zaak6",
+            "zok6"
+        ]
+    },
+    "meanings": {
+        "trá": {
+            "Từ điển phổ thông": [
+                "một loại đồ đựng rượu",
+                "ép"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Một loại đồ đựng rượu;",
+                "Ép."
+            ]
+        },
+        "trách": {
+            "Từ điển phổ thông": [
+                "thúc bách, gấp rút",
+                "tấm vỉ tre đặt giữa lớp ngói và hàng rui trên mái nhà",
+                "túi đựng tên"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thúc bách, gấp rút;",
+                "Tấm vỉ tre đặt giữa lớp ngói và hàng rui trên mái nhà;",
+                "Túi đựng tên."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái rèm tre, cái mành treo cửa — Xem Tạc."
+            ]
+        },
+        "tạc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dây làm bằng tre. Dây lạt — Một âm là Trách. Xem trách."
+            ]
+        }
+    }
+}

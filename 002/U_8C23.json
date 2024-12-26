@@ -1,0 +1,63 @@
+{
+    "character": "谣",
+    "details": {
+        "Âm Hán Việt": [
+            "dao"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "ngôn 言 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠䍃"
+        ],
+        "Nét bút": [
+            "丶フノ丶丶ノノ一一丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "IVBOU (戈女月人山)"
+        ],
+        "Unicode": [
+            "U+8C23"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "yáo ㄧㄠˊ"
+        ],
+        "Âm Nôm": [
+            "dao"
+        ],
+        "Âm Quảng Đông": [
+            "jiu4"
+        ]
+    },
+    "meanings": {
+        "dao": {
+            "Từ điển phổ thông": [
+                "tin đồn, lời đồn đại",
+                "ca dao"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 謠.",
+                "Giản thể của chữ 謡."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 謠"
+            ],
+            "compound_words": {
+                "歌谣": "ca dao",
+                "谣传": "dao truyền"
+            }
+        }
+    }
+}

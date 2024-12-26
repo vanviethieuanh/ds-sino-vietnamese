@@ -1,0 +1,84 @@
+{
+    "character": "噪",
+    "details": {
+        "Âm Hán Việt": [
+            "táo"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口喿"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一丨フ一丨フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RRRD (口口口木)"
+        ],
+        "Unicode": [
+            "U+566A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zào ㄗㄠˋ"
+        ],
+        "Âm Nôm": [
+            "táo",
+            "tháo"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さわ.ぐ (sawa.gu)"
+        ],
+        "Âm Hàn": [
+            "조"
+        ],
+        "Âm Quảng Đông": [
+            "cou3"
+        ]
+    },
+    "meanings": {
+        "táo": {
+            "Từ điển phổ thông": [
+                "tiếng chim kêu",
+                "reo hò ầm ĩ",
+                "chê trách"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Huyên náo, ồn ào. ◎Như: 'cổ táo' 鼓噪 (1) đánh trống om sòm (thời xưa, ra trận đánh trống, reo hò để khoách trương thanh thế), (2) đông người reo hò. § Cũng viết là 'cổ táo' 鼓譟.",
+                "(Động) Chim chóc, sâu bọ kêu. ◎Như: 'thước táo' 鵲噪 chim bồ các kêu. ◇Vương Duy 王維: 'Tước táo hoang thôn, Kê minh không quán' 雀噪荒村, 雞鳴空館 (Thù chư công kiến quá 酬諸公見過) Sẻ kêu thôn vắng, Gà gáy quán không."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dức lác, tiếng chim, sâu kêu to mà kêu luôn cũng gọi là táo, như thước táo 鵲噪 chim bồ các kêu.",
+                "Reo hò."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ầm ĩ, ồn ào: 蛇譟 Ve kêu; 名譟一時 Nổi danh (tiếng) nhất thời;",
+                "(văn) Chê trách."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ríu rít. Như chữ Táo 喿 — Ồn ào. Td: Táo thanh ( tiếng ồn )."
+            ],
+            "compound_words": {
+                "嚗噪": "bác táo",
+                "噪音": "táo âm",
+                "噪声": "táo thanh",
+                "噪聲": "táo thanh"
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "character": "誤",
+    "details": {
+        "Âm Hán Việt": [
+            "ngộ"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言吴"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "YRRVK (卜口口女大)"
+        ],
+        "Unicode": [
+            "U+8AA4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wù ㄨˋ"
+        ],
+        "Âm Nôm": [
+            "ngộ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ゴ (go)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あやま.る (ayama.ru)",
+            "-あやま.る (-ayama.ru)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ng6"
+        ]
+    },
+    "meanings": {
+        "ngộ": {
+            "Từ điển phổ thông": [
+                "nhầm",
+                "làm mê hoặc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sự sai lầm. ◇Tam quốc chí 三國志: 'Khúc hữu ngộ, Chu Lang cố' 曲有誤, 周郎顧 (Ngô thư 吳書, Chu Du truyện 周瑜傳) Khúc nhạc (đang đàn cho nghe) có chỗ sai, Chu Du ngoảnh đầu lại nhìn.",
+                "(Động) Lầm lẫn. ◎Như: 'thác ngộ' 錯誤 lầm lẫn. ◇Sử Kí 史記: 'Quần thần nghị giai ngộ' 群臣議皆誤 ( Tiêu tướng quốc thế gia 蕭相國世家) Lời bàn của quần thần đều sai lầm cả.",
+                "(Động) Lỡ, bỏ lỡ. ◎Như: 'hỏa xa ngộ điểm' 火車誤點 xe lửa lỡ giờ. ◇Tam quốc diễn nghĩa 三國演義: 'Khởi khả nhân nhất ngôn nhi ngộ đại sự da?' 豈可因一言而誤大事耶 (Đệ ngũ hồi) Sao lại vì một lời nói mà bỏ lỡ việc lớn?",
+                "(Động) Mê hoặc. ◇Tân Đường Thư 新唐書: 'Thử phi bệ hạ ý, tất tiêm nhân dĩ thử doanh ngộ thượng tâm' ：此非陛下意, 必憸人以此營誤上心 (Lí Giáng truyện 李絳傳) Đó không phải là ý của bệ hạ, hẳn có người gian lấy đó mưu làm mê hoặc lòng trên.",
+                "(Động) Làm hại, làm lụy. ◇Đỗ Phủ 杜甫: 'Nho quan đa ngộ thân' 儒冠多誤身 (Phụng tặng Vi Tả Thừa 奉贈韋左丞) Mũ nhà nho hay làm lụy thân."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lầm. Như thác ngộ 錯誤 lầm lẫn.",
+                "Làm mê hoặc.",
+                "Bị sự gì nó làm luỵ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sai, lầm, nhầm: 錯誤 Sai lầm; 筆誤 Viết sai; 群臣議皆誤 Lời bàn của quần thần đều sai cả (lầm cả) (Sử kí);",
+                "(văn) Làm mê hoặc;",
+                "Lỡ làm (không cố ý);",
+                "Lỡ, nhỡ, bỏ lỡ: 誤事 Lỡ việc, nhỡ việc; 誤點 Lỡ giờ;",
+                "Hại, làm hại, làm lỡ: 誤人子弟 Làm hại con em người ta."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngờ vực — Sai lầm. Lầm lẫn."
+            ],
+            "compound_words": {
+                "筆誤": "bút ngộ",
+                "耽誤": "đam ngộ",
+                "酖誤": "đam ngộ",
+                "勘誤": "khám ngộ",
+                "誤點": "ngộ điểm",
+                "誤解": "ngộ giải",
+                "誤謬": "ngộ mậu",
+                "誤認": "ngộ nhận",
+                "誤殺": "ngộ sát",
+                "誤事": "ngộ sự",
+                "錯誤": "thác ngộ"
+            }
+        }
+    }
+}

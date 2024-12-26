@@ -1,0 +1,113 @@
+{
+    "character": "甄",
+    "details": {
+        "Âm Hán Việt": [
+            "chân",
+            "chấn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "ngoã 瓦 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰垔瓦"
+        ],
+        "Nét bút": [
+            "一丨フ丨丨一一丨一一フフ丶"
+        ],
+        "Thương Hiệt": [
+            "MGMVN (一土一女弓)"
+        ],
+        "Unicode": [
+            "U+7504"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "juàn ㄐㄩㄢˋ",
+            "zhēn ㄓㄣ",
+            "zhèn ㄓㄣˋ"
+        ],
+        "Âm Nôm": [
+            "chân"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すえ (sue)"
+        ],
+        "Âm Hàn": [
+            "견",
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "jan1",
+            "zan1"
+        ]
+    },
+    "meanings": {
+        "chân": {
+            "Từ điển phổ thông": [
+                "thợ gốm",
+                "soi xét, phân biệt",
+                "nêu tỏ",
+                "sáng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Làm đồ gốm. ◎Như: 'chân đào' 甄陶 nặn đúc.",
+                "(Động) Soi xét, tiến cử, tuyển bạt. ◎Như: 'chân bạt' 甄拔 phân biệt hơn kém mà tiến cử.",
+                "(Danh) Họ 'Chân'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thợ gốm, như chân đào 甄陶 nặn đúc, dạy dỗ gây dựng nên nhân tài, cũng gọi là chân đào.",
+                "Soi xét, phân biệt. Như chân bạt 甄拔, chân biệt 甄別 đều nghĩa là phân biệt hơn kém mà tiến cử lên vậy.",
+                "Nêu tỏ.",
+                "Sáng.",
+                "Tên một thế trận.",
+                "Một âm là chấn. Tiếng chuông rè."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Thợ gốm;",
+                "(văn) Lựa, xét, soi xét, phân biệt;",
+                "(văn) Nêu tỏ;",
+                "(văn) Sáng;",
+                "Tên một thế trận;",
+                "[Zhen] (Họ) Chân."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nung đồ gốm — Làm ra, tạo ra — Xét kĩ, phân biệt — Làm cho rõ ràng ra."
+            ],
+            "compound_words": {
+                "甄拔": "chân bạt",
+                "甄別": "chân biệt",
+                "甄陶": "chân đào"
+            }
+        },
+        "chấn": {
+            "Từ điển trích dẫn": [
+                "(Động) Làm đồ gốm. ◎Như: 'chân đào' 甄陶 nặn đúc.",
+                "(Động) Soi xét, tiến cử, tuyển bạt. ◎Như: 'chân bạt' 甄拔 phân biệt hơn kém mà tiến cử.",
+                "(Danh) Họ 'Chân'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thợ gốm, như chân đào 甄陶 nặn đúc, dạy dỗ gây dựng nên nhân tài, cũng gọi là chân đào.",
+                "Soi xét, phân biệt. Như chân bạt 甄拔, chân biệt 甄別 đều nghĩa là phân biệt hơn kém mà tiến cử lên vậy.",
+                "Nêu tỏ.",
+                "Sáng.",
+                "Tên một thế trận.",
+                "Một âm là chấn. Tiếng chuông rè."
+            ]
+        }
+    }
+}

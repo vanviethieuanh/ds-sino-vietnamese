@@ -1,0 +1,213 @@
+{
+    "character": "花",
+    "details": {
+        "Âm Hán Việt": [
+            "hoa"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thảo 艸 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱艹化"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丨ノフ"
+        ],
+        "Thương Hiệt": [
+            "TOP (廿人心)"
+        ],
+        "Unicode": [
+            "U+82B1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huā ㄏㄨㄚ"
+        ],
+        "Âm Nôm": [
+            "hoa",
+            "huê"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ケ (ke)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はな (hana)"
+        ],
+        "Âm Hàn": [
+            "화"
+        ],
+        "Âm Quảng Đông": [
+            "faa1"
+        ]
+    },
+    "meanings": {
+        "hoa": {
+            "Từ điển phổ thông": [
+                "bông hoa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hoa của cây cỏ. ◎Như: 'cúc hoa' 菊花 hoa cúc. ◇Thôi Hộ 崔護: 'Khứ niên kim nhật thử môn trung, Nhân diện đào hoa tương ánh hồng' 去年今日此門中, 人面桃花相映紅 (Đề đô thành nam trang 題都城南莊) Năm ngoái vào ngày hôm nay, ở trong cửa này, Mặt nàng cùng với hoa đào phản chiếu nhau thắm một màu hồng.",
+                "(Danh) Phiếm chỉ cây cỏ có thể nở ra hoa. ◎Như: 'tài hoa' 栽花 trồng hoa.",
+                "(Danh) Vật thể có hình giống hoa. ◎Như: 'hoa tuyết' 雪花 bông tuyết.",
+                "(Danh) Tỉ dụ người đẹp, mĩ nữ. ◇Bạch Cư Dị 白居易: 'Kiều hoa xảo tiếu cửu tịch liêu' 嬌花巧笑久寂寥 (Nghê thường vũ y ca 霓裳羽衣歌) Người đẹp cười tươi đã vắng lặng từ lâu.",
+                "(Danh) Chỉ trẻ con, tiểu hài. ◇Nho lâm ngoại sử 儒林外史: 'Phu nhân một liễu, nhi kim nhi hoa nữ hoa dã vô' 夫人沒了, 而今兒花女花也無 (Đệ thập thất hồi) Phu nhân mất rồi, mà nay con trai nhỏ con gái nhỏ cũng không có.",
+                "(Danh) Chỉ vật non, nhỏ. ◇Lí Điều Nguyên 李調元: 'Duy Tây Giang đa hữu ngư hoa' 惟西江多有魚花 (Nam Việt bút kí 南越筆記, Ngư hoa 魚花) Chỉ Tây Giang thường có cá non nhỏ.",
+                "(Danh) Nốt đậu. ◎Như: 'chủng hoa' 種花 chủng đậu, 'thiên hoa' 天花 bệnh lên đậu.",
+                "(Danh) Nhà trò, con hát, kĩ nữ. ◎Như: 'tầm hoa vấn liễu' 尋花問 柳 hỏi liễu tìm hoa.",
+                "(Danh) Năm đồng tiền gọi là một 'hoa'.",
+                "(Danh) Tỉ dụ tinh hoa.",
+                "(Danh) Pháo bông. ◎Như: 'phóng hoa' 放花 bắn pháo bông.",
+                "(Danh) Họ 'Hoa'.",
+                "(Tính) Có hoa. ◎Như: 'hoa quý' 花季 mùa hoa.",
+                "(Tính) Lang lổ, sặc sỡ, vá. ◎Như: 'hoa bố' 花布 vải hoa, 'hoa biên' 花邊 viền hoa, 'hoa miêu' 花貓 mèo vá.",
+                "(Tính) Xinh, đẹp (như hoa). ◇Bạch Cư Dị 白居易: 'Vân mấn hoa nhan kim bộ diêu, Phù dung trướng noãn độ xuân tiêu' 雲鬢花顏金步搖, 芙蓉帳暖度春霄 (Trường hận ca 長恨歌) Mặt nàng đẹp như hoa, tóc mượt như mây, cài chiếc bộ dao bằng vàng, Trải qua đêm xuân ấm áp trong trướng Phù Dung.",
+                "(Tính) Nhiều kiểu, dạng, vẻ khác nhau. ◎Như: 'hoa thức du vịnh' 花式游泳 các kiểu bơi lội khác nhau.",
+                "(Tính) Giả dối, xảo. ◎Như: 'hoa ngôn xảo ngữ' 花言巧語 lời đường mật giả dối.",
+                "(Tính) Không rõ, mờ, quáng. ◎Như: 'nhãn tình đô hoa liễu' 眼睛都花了 mắt hoa cả rồi. ◇Hồng Lâu Mộng 紅樓夢: 'Giả mẫu tiếu đạo: Ngã đích nhãn việt phát hoa liễu' 賈母笑道: 我的眼越發花了 (Đệ ngũ thập hồi) Giả mẩu cười nói: Mắt ta càng ngày càng quáng rồi.",
+                "(Tính) Tâm tính không định, ham ăn chơi.",
+                "(Động) Nở hoa. ◇Đỗ Phủ 杜甫: 'Tân di thủy hoa diệc dĩ lạc, Huống ngã dữ tử phi tráng niên' 辛夷始花亦已落, 況我與子非壯年 (Bức trắc hành 偪仄行) Mộc lan vừa mới nở hoa mà đã rụng rồi, Huống chi tôi với ông không còn là trai tráng nữa.",
+                "(Động) Hao phí. ◎Như: 'hoa phí' 花費 tiêu phí, 'hoa thì gian' 花時間 phí thời giờ.",
+                "(Động) Bị mê hoặc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hoa, hoa của cây cỏ.",
+                "Tục gọi các vật loang lổ sặc sỡ như vẽ vời thuê thùa là hoa.",
+                "Danh sắc phiền phức cũng gọi là hoa. Như hoa danh 花名 một bộ có nhiều tên.",
+                "Nốt đậu. Trẻ con trồng đậu gọi là chủng hoa 種花, lên đậu mùa gọi là thiên hoa 天花.",
+                "Hao phí. Như hoa phí 花費 tiêu phí nhiều.",
+                "Nhà trò, con hát.",
+                "Năm đồng tiền gọi là một hoa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Bông) hoa: 美麗的花 Hoa đẹp;",
+                "Tia, hạt... (hình dạng như hoa): 火花兒 Tia lửa; 鹽花兒 Hạt muối;",
+                "Quáng, hoa (mắt): 眼花 Mắt quáng, hoa mắt;",
+                "Bông hoa, cây cảnh: 花兒匠 Thợ cây cảnh; 種花兒 Trồng cây cảnh;",
+                "Hoa văn, vá: 花兒太密 Hoa văn dày quá; 花狗 Chó vá; 花 貓 Mèo vá;",
+                "Độn, pha: 花搭着食 Ăn độn;",
+                "Lừa bịp: 耍花招 Giở trò bịp;",
+                "Tiêu, tiêu phí, tiêu pha, hao, tốn, bỏ mất: 花了多少錢？ Tiêu mất bao nhiêu tiền?; 花了三 年工夫才完成 Bỏ mất 3 năm mới hoàn thành được;",
+                "Bông: 軋花 Cán bông; 彈花 Bật bông;",
+                "(y) Đậu, nốt đậu, đậu mùa: 天花 Lên đậu, đậu mùa; 出過花兒嗎？ Đã từng lên đậu chưa?;",
+                "Bị thương trong khi tác chiến: 掛了兩次花 Hai lần bị thương;",
+                "(văn) Nhà trò, con hát;",
+                "(văn) Năm đồng tiền;",
+                "[Hua] (Họ) Hoa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Phần đẹp nhất của cây, tức bông hoa — Chỉ người con gái đẹp — Gái điếm. Gái chơi — Tiêu dùng hao phí — Bệnh đậu mùa."
+            ],
+            "compound_words": {
+                "愛花": "ái hoa",
+                "櫻花": "anh hoa",
+                "印花": "ấn hoa",
+                "印花稅": "ấn hoa thuế",
+                "隱花植物": "ẩn hoa thực vật",
+                "百花蜜": "bách hoa mật",
+                "百花生日": "bách hoa sinh nhật",
+                "百花酒": "bách hoa tửu",
+                "百花王": "bách hoa vương",
+                "敗柳殘花": "bại liễu tàn hoa",
+                "刨花": "bào hoa",
+                "閉月羞花": "bế nguyệt tu hoa",
+                "錦上添花": "cẩm thượng thiêm hoa",
+                "折花": "chiết hoa",
+                "菊花": "cúc hoa",
+                "菊花酒": "cúc hoa tửu",
+                "名花": "danh hoa",
+                "名花有主": "danh hoa hữu chủ",
+                "移花接木": "di hoa tiếp mộc",
+                "昙花": "đàm hoa",
+                "曇花": "đàm hoa",
+                "昙花一现": "đàm hoa nhất hiện",
+                "曇花一現": "đàm hoa nhất hiện",
+                "桃花": "đào hoa",
+                "燈花": "đăng hoa",
+                "第八才子花箋演音": "đệ bát tài tử hoa tiên diễn âm",
+                "單性花": "đơn tính hoa",
+                "荷花": "hà hoa",
+                "花苞": "hoa bao",
+                "花辨": "hoa biện",
+                "花枝": "hoa chi",
+                "花燭": "hoa chúc",
+                "花面": "hoa diện",
+                "花后": "hoa hậu",
+                "火花": "hoả hoa",
+                "花紅": "hoa hồng",
+                "花魁": "hoa khôi",
+                "花旗": "hoa kì",
+                "花落": "hoa lạc",
+                "花柳": "hoa liễu",
+                "花言": "hoa ngôn",
+                "花月": "hoa nguyệt",
+                "花年": "hoa niên",
+                "花奴": "hoa nô",
+                "花娘": "hoa nương",
+                "花色": "hoa sắc",
+                "花市": "hoa thị",
+                "花天": "hoa thiên",
+                "花婢": "hoa tì",
+                "花笺": "hoa tiên",
+                "花箋": "hoa tiên",
+                "花箋傳": "hoa tiên truyện",
+                "花子": "hoa tử",
+                "花園": "hoa viên",
+                "黃花": "hoàng hoa",
+                "黃花酒": "hoàng hoa tửu",
+                "香花": "hương hoa",
+                "開花": "khai hoa",
+                "看花": "khán hoa",
+                "拷花": "khảo hoa",
+                "空花": "không hoa",
+                "落花": "lạc hoa",
+                "落花生": "lạc hoa sinh",
+                "菱花": "lăng hoa",
+                "龍花": "long hoa",
+                "蘆花蕩": "lô hoa đãng",
+                "眉花眼笑": "mi hoa nhãn tiếu",
+                "棉花": "miên hoa",
+                "芫花": "nguyên hoa",
+                "月花": "nguyệt hoa",
+                "眼花": "nhãn hoa",
+                "眼花撩亂": "nhãn hoa liêu loạn",
+                "富貴花": "phú qu‎ý hoa",
+                "君子花": "quân tử hoa",
+                "桂花": "quế hoa",
+                "國花": "quốc hoa",
+                "瓊花": "quỳnh hoa",
+                "殘花": "tàn hoa",
+                "尋花": "tầm hoa",
+                "浸花": "tẩm hoa",
+                "心花怒放": "tâm hoa nộ phóng",
+                "探花": "thám hoa",
+                "天花": "thiên hoa",
+                "催花": "thôi hoa",
+                "催花雨": "thôi hoa vũ",
+                "翠花": "thuý hoa",
+                "賞花": "thưởng hoa",
+                "箋花": "tiên hoa",
+                "賽花": "trại hoa",
+                "优昙花": "ưu đàm hoa",
+                "優曇花": "ưu đàm hoa",
+                "晚花": "vãn hoa",
+                "无花果": "vô hoa quả",
+                "無花果": "vô hoa quả",
+                "粲花": "xán hoa",
+                "春花": "xuân hoa",
+                "煙花": "yên hoa"
+            }
+        }
+    }
+}

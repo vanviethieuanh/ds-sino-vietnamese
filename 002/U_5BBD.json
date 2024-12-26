@@ -1,0 +1,65 @@
+{
+    "character": "宽",
+    "details": {
+        "Âm Hán Việt": [
+            "khoan"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "miên 宀 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿳宀艹见"
+        ],
+        "Nét bút": [
+            "丶丶フ一丨丨丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "XJTBU (重十廿月山)"
+        ],
+        "Unicode": [
+            "U+5BBD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "kuān ㄎㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "khoan"
+        ],
+        "Âm Quảng Đông": [
+            "fun1"
+        ]
+    },
+    "meanings": {
+        "khoan": {
+            "Từ điển phổ thông": [
+                "rộng rãi"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 寬."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 寬"
+            ],
+            "compound_words": {
+                "带宽": "đới khoan",
+                "加宽": "gia khoan",
+                "宽容": "khoan dung",
+                "宽度": "khoan độ",
+                "宽限": "khoan hạn",
+                "宽阔": "khoan khoát"
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "character": "昆",
+    "details": {
+        "Âm Hán Việt": [
+            "côn"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "nhật 日 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱日比"
+        ],
+        "Nét bút": [
+            "丨フ一一一フノフ"
+        ],
+        "Thương Hiệt": [
+            "APP (日心心)"
+        ],
+        "Unicode": [
+            "U+6606"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hùn ㄏㄨㄣˋ",
+            "kūn ㄎㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "con",
+            "côn",
+            "gon"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コン (kon)"
+        ],
+        "Âm Hàn": [
+            "곤",
+            "혼"
+        ],
+        "Âm Quảng Đông": [
+            "gwan1"
+        ]
+    },
+    "meanings": {
+        "côn": {
+            "Từ điển phổ thông": [
+                "nhiều nhung nhúc",
+                "em trai"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con cháu. ◎Như: 'hậu côn' 後昆 đàn sau, con cháu về sau.",
+                "(Danh) Người anh. ◎Như: 'côn ngọc' 昆玉 anh em.",
+                "(Tính) Nhiều, đông, nhung nhúc. ◎Như: 'côn trùng' 昆虫 sâu bọ (vì giống sâu bọ sinh sản rất nhiều).",
+                "(Phó) Cùng. § Cũng như 'đồng' 同."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con nối, như hậu côn 後昆 đàn sau.",
+                "Anh, côn ngọc 昆玉 anh em.",
+                "Nhung nhúc, như côn trùng 昆虫 sâu bọ, vì giống sâu bọ sinh sản nhiều lắm nên gọi là côn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Anh: 昆玉 Anh em. 【昆仲】côn trọng [kun-zhòng] Anh em: 你昆仲幾位？ Anh có mấy anh em?;",
+                "Con cháu: 後昆 Con cháu nối dõi;",
+                "Nhung nhúc. 【昆蟲】côn trùng [kunchóng] Sâu bọ, côn trùng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cùng nhau — Người anh — Con cháu đời sau — Đông đảo. Số nhiều."
+            ],
+            "compound_words": {
+                "昆裔": "côn duệ",
+                "昆弟": "côn đệ",
+                "昆仑": "côn lôn",
+                "昆玉": "côn ngọc",
+                "昆孫": "côn tôn",
+                "昆仲": "côn trọng",
+                "昆虫": "côn trùng",
+                "昆蟲": "côn trùng"
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "character": "矮",
+    "details": {
+        "Âm Hán Việt": [
+            "nuỵ",
+            "oải",
+            "ải"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thỉ 矢 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰矢委"
+        ],
+        "Nét bút": [
+            "ノ一一ノ丶ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "OKHDV (人大竹木女)"
+        ],
+        "Unicode": [
+            "U+77EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "ǎi ㄚㄧˇ"
+        ],
+        "Âm Nôm": [
+            "ải",
+            "nuỵ",
+            "oải"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワイ (wai)",
+            "アイ (ai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひく.い (hiku.i)"
+        ],
+        "Âm Hàn": [
+            "왜"
+        ],
+        "Âm Quảng Đông": [
+            "aai2",
+            "ai2",
+            "ngai2"
+        ]
+    },
+    "meanings": {
+        "nuỵ": {
+            "Từ điển phổ thông": [
+                "lùn, thấp",
+                "thụp xuống"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Lùn (thân hình). ◎Như: 'Bạch Tuyết công chủ hòa thất cá tiểu ải nhân' 白雪公主和七個小矮人 công chúa Bạch Tuyết và bảy chú lùn.",
+                "(Tính) Thấp, không cao. ◎Như: 'ải thụ' 矮樹 cây thấp, 'ải đắng' 矮凳 ghế thấp.",
+                "(Tính) Hèn, kém. ◇Lão Xá 老舍: 'Khoái thất thập liễu, việt hoạt việt ải' 快七十了, 越活越矮 (Tứ thế đồng đường 四世同堂, Tam ngũ 三五) Sắp bảy mươi rồi, càng sống càng hèn hạ.",
+                "§ Ghi chú: Ta quen đọc là 'nụy'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấp bé, người lùn.",
+                "Hèn kém, thấp hẹp. Ta quen gọi là chữ nuỵ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thấp, lùn: 他比我矮 Nó thấp hơn tôi;",
+                "Dưới: 他比他哥哥矮一班 Nó học dưới anh nó một lớp;",
+                "Kém bậc: 矮一級 Thấp hơn một bậc;",
+                "(văn) Hèn kém."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lùn. Thấp — Ngắn — Cũng đọc Oải, Ải."
+            ],
+            "compound_words": {
+                "矮人": "nuỵ nhân"
+            }
+        },
+        "oải": {
+            "Từ điển phổ thông": [
+                "lùn, thấp",
+                "thụp xuống"
+            ]
+        },
+        "ải": {
+            "Từ điển trích dẫn": [
+                "(Tính) Lùn (thân hình). ◎Như: 'Bạch Tuyết công chủ hòa thất cá tiểu ải nhân' 白雪公主和七個小矮人 công chúa Bạch Tuyết và bảy chú lùn.",
+                "(Tính) Thấp, không cao. ◎Như: 'ải thụ' 矮樹 cây thấp, 'ải đắng' 矮凳 ghế thấp.",
+                "(Tính) Hèn, kém. ◇Lão Xá 老舍: 'Khoái thất thập liễu, việt hoạt việt ải' 快七十了, 越活越矮 (Tứ thế đồng đường 四世同堂, Tam ngũ 三五) Sắp bảy mươi rồi, càng sống càng hèn hạ.",
+                "§ Ghi chú: Ta quen đọc là 'nụy'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấp bé, người lùn.",
+                "Hèn kém, thấp hẹp. Ta quen gọi là chữ nuỵ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thấp, lùn: 他比我矮 Nó thấp hơn tôi;",
+                "Dưới: 他比他哥哥矮一班 Nó học dưới anh nó một lớp;",
+                "Kém bậc: 矮一級 Thấp hơn một bậc;",
+                "(văn) Hèn kém."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thấp lùn — Người lùn."
+            ]
+        }
+    }
+}

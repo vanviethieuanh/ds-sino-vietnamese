@@ -1,0 +1,103 @@
+{
+    "character": "佚",
+    "details": {
+        "Âm Hán Việt": [
+            "dật",
+            "điệt"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhân 人 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻失"
+        ],
+        "Nét bút": [
+            "ノ丨ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OHQO (人竹手人)"
+        ],
+        "Unicode": [
+            "U+4F5A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dié ㄉㄧㄝˊ",
+            "yì ㄧˋ"
+        ],
+        "Âm Nôm": [
+            "dật",
+            "giặt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "イツ (itsu)",
+            "テツ (tetsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たのし.む (tanoshi.mu)",
+            "のが.れる (noga.reru)"
+        ],
+        "Âm Hàn": [
+            "일",
+            "질"
+        ],
+        "Âm Quảng Đông": [
+            "jat6"
+        ]
+    },
+    "meanings": {
+        "dật": {
+            "Từ điển phổ thông": [
+                "nhàn rỗi",
+                "ẩn, trốn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mất, tán thất. ◎Như: 'tán dật' 散佚 tán thất.",
+                "(Tính) Bị mất. ◎Như: 'dật thư' 佚書 sách cổ đã thất tán.",
+                "(Tính) Tốt đẹp. § Xem 'dật nữ' 佚女.",
+                "(Tính) Buông thả, phóng đãng. § Thông 'dật' 逸. ◎Như: 'dật nhạc' nhạc phóng đãng, buông lung, 'dật du' 佚遊 chơi bời phóng túng.",
+                "(Danh) Lỗi lầm. ◇Thương quân thư 商君書: 'Dâm tắc sanh dật' 淫則生佚 (Khai tắc 開塞) Quá độ thì sinh ra lầm lỗi.",
+                "(Danh) Họ 'Dật'.",
+                "Một âm là 'điệt'. (Phó) Lần lượt, thay đổi nhau."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Rồi, như an dật 安佚 yên rồi.",
+                "Trốn, ẩn như ẩn dật 隱佚 người trốn đời không cho đời biết, di dật nhi bất oán 遺佚而不怨 bỏ sót mình ở ẩn mà không oán."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 逸 [yì] nghĩa",
+                "."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sót lại. Bỏ sót — Mất — Thú vui xác thịt giữa trai gái — Quá mức. Vượt khỏi mức thường."
+            ],
+            "compound_words": {
+                "安佚": "an dật",
+                "佚遊": "dật du",
+                "佚女": "dật nữ"
+            }
+        },
+        "điệt": {
+            "Từ điển trích dẫn": [
+                "(Động) Mất, tán thất. ◎Như: 'tán dật' 散佚 tán thất.",
+                "(Tính) Bị mất. ◎Như: 'dật thư' 佚書 sách cổ đã thất tán.",
+                "(Tính) Tốt đẹp. § Xem 'dật nữ' 佚女.",
+                "(Tính) Buông thả, phóng đãng. § Thông 'dật' 逸. ◎Như: 'dật nhạc' nhạc phóng đãng, buông lung, 'dật du' 佚遊 chơi bời phóng túng.",
+                "(Danh) Lỗi lầm. ◇Thương quân thư 商君書: 'Dâm tắc sanh dật' 淫則生佚 (Khai tắc 開塞) Quá độ thì sinh ra lầm lỗi.",
+                "(Danh) Họ 'Dật'.",
+                "Một âm là 'điệt'. (Phó) Lần lượt, thay đổi nhau."
+            ]
+        }
+    }
+}

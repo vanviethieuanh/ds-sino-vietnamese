@@ -1,0 +1,94 @@
+{
+    "character": "訟",
+    "details": {
+        "Âm Hán Việt": [
+            "tụng"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰言公"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノ丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YRCI (卜口金戈)"
+        ],
+        "Unicode": [
+            "U+8A1F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "róng ㄖㄨㄥˊ",
+            "sòng ㄙㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "tụng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Hàn": [
+            "송"
+        ],
+        "Âm Quảng Đông": [
+            "zung6"
+        ]
+    },
+    "meanings": {
+        "tụng": {
+            "Từ điển phổ thông": [
+                "kiện tụng",
+                "tranh cãi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kiện cáo (đem nhau lên quan, tòa án mà tranh biện phải trái). ◎Như: 'tố tụng' 訴訟 cáo kiện. ◇Luận Ngữ 論語: 'Thính tụng, ngô do nhân dã. Tất dã, sử vô tụng hồ' 聽訟, 吾猶人也. 必也, 使無訟乎 (Nhan Uyên 顏淵) Xử kiện, ta cũng như người khác thôi. Phải làm sao làm cho không có kiện tụng thì hơn!",
+                "(Động) Tranh cãi. ◎Như: 'tụng khúc' 訟曲 tranh luận phải trái, 'tụng đấu' 訟鬥 tranh đấu.",
+                "(Động) Minh oan cho người. ◇Hán Thư 漢書: 'Lại thượng thư tụng oan Mãng giả dĩ bách số' 吏上書訟冤莽者以百數 (Vương Mãng truyện 王莽傳傳) Có hàng trăm quan lại dâng thư minh oan cho (Vương) Mãng.",
+                "(Động) Khiển trách. ◎Như: 'tụng quá' 訟過 tự trách lỗi mình.",
+                "(Động) Khen ngợi. § Thông 'tụng' 頌. ◇Hán Thư 漢書: 'Thâm tụng Mãng công' 吏上書訟冤莽者以百數 (Vương Mãng truyện 王莽傳傳) Rất khen ngợi công đức của (Vương) Mãng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Kiện tụng, đem nhau lên quan mà tranh biện phải trái gọi là tụng.",
+                "Cãi lẽ, cãi nhau để tranh lấy cái phải cũng gọi là tụng.",
+                "Dâng thơ tuyết oan cho người.",
+                "Trách phạt.",
+                "Khen ngợi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kiện tụng: 成訟 Thành việc kiện cáo;",
+                "Bàn cãi: 聚訟紛紜 Bàn cãi sôi nổi;",
+                "(văn) Dâng thơ để minh oan cho người khác;",
+                "(văn) Trách phạt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thưa kiện ở cửa quan để phân phải trái."
+            ],
+            "compound_words": {
+                "敗訟": "bại tụng",
+                "折訟": "chiết tụng",
+                "獄訟": "ngục tụng",
+                "雜訟": "tạp tụng",
+                "聼訟": "thính tụng",
+                "訴訟": "tố tụng",
+                "爭訟": "tranh tụng",
+                "訟庭": "tụng đình",
+                "訟費": "tụng phí",
+                "詞訟": "từ tụng"
+            }
+        }
+    }
+}

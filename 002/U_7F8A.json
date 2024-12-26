@@ -1,0 +1,92 @@
+{
+    "character": "羊",
+    "details": {
+        "Âm Hán Việt": [
+            "dương",
+            "tường"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "dương 羊 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丶ノ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "TQ (廿手)"
+        ],
+        "Unicode": [
+            "U+7F8A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yáng ㄧㄤˊ"
+        ],
+        "Âm Nôm": [
+            "dương"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひつじ (hitsuji)"
+        ],
+        "Âm Hàn": [
+            "양"
+        ],
+        "Âm Quảng Đông": [
+            "joeng4"
+        ]
+    },
+    "meanings": {
+        "dương": {
+            "Từ điển phổ thông": [
+                "con dê"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Dê, cừu. ◎Như: 'sơn dương' 山羊 con dê, 'miên dương' 綿羊 con cừu.",
+                "(Danh) Họ 'Dương'.",
+                "Một âm là 'tường'. (Tính) § Thông 'tường' 祥. ◎Như: 'cát tuờng như ý' 吉羊如意."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con dê.",
+                "Một âm là tường, ngày xưa dùng như chữ 祥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dê, cừu: 山羊 Dê; 綿羊 Cừu;",
+                "[Yáng] (Họ) Dương."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con dê."
+            ],
+            "compound_words": {
+                "飲羊": "ẩm dương",
+                "九坂羊腸": "cửu bản dương trường",
+                "羊羔": "dương cao",
+                "羊膓": "dương trường",
+                "羚羊": "linh dương",
+                "母羊": "mẫu dương",
+                "綿羊": "miên dương",
+                "绵羊": "miên dương",
+                "羱羊": "nguyên dương",
+                "羵羊": "phần dương",
+                "山羊": "sơn dương"
+            }
+        },
+        "tường": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 祥 (bộ 示)."
+            ]
+        }
+    }
+}

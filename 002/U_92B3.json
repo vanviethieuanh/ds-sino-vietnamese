@@ -1,0 +1,109 @@
+{
+    "character": "銳",
+    "details": {
+        "Âm Hán Việt": [
+            "duệ",
+            "nhuệ",
+            "đoái"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金兌"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丶丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "CCRU (金金口山)"
+        ],
+        "Unicode": [
+            "U+92B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "duì ㄉㄨㄟˋ",
+            "ruì ㄖㄨㄟˋ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "nhọn",
+            "nhuệ"
+        ],
+        "Âm Hàn": [
+            "예"
+        ],
+        "Âm Quảng Đông": [
+            "jeoi6"
+        ]
+    },
+    "meanings": {
+        "duệ": {
+            "Từ điển trích dẫn": [
+                "(Tính) Sắc, bén.",
+                "(Tính) Nhọn. ◇Đỗ Phủ 杜甫: 'Duệ đầu tướng quân lai hà trì, Lệnh ngã tâm trung khổ bất túc' 銳頭將軍來何遲, 令我心中苦不足 (Cửu vũ kì vương tướng quân bất chí 久雨期王將軍不至) Tướng quân đầu nhọn đến sao mà chậm trễ, Khiến cho lòng ta khổ sở biết bao.",
+                "(Tính) Mạnh mẽ, tinh nhuệ. ◇Chiến quốc sách 戰國策: 'Sử khinh xa duệ kị xung Ung Môn' 使輕車銳騎衝雍門 (Tề sách nhất 齊策一) Cho xe nhẹ quân kị hùng mạnh xông thẳng tới Ung Môn.",
+                "(Tính) Nhạy, thính. ◎Như: 'cảm giác mẫn duệ' 感覺敏銳 cảm giác bén nhạy.",
+                "(Phó) Nhanh chóng, rõ rệt. ◇Liêu trai chí dị 聊齋志異: 'Phụ phẫn khuể đắc tật, thực duệ giảm' 父忿恚得疾, 食銳減 (Vân La công chúa 雲蘿公主) Cha tức giận quá phát bệnh, ăn uống rõ ràng kém đi.",
+                "(Danh) Vũ khí sắc, nhọn. ◇Hán Thư 漢書: 'Bị kiên chấp duệ, tự suất sĩ tốt' 被堅執銳, 自帥士卒 (Cao Đế kỉ hạ 高帝紀下) Mặc áo giáp cầm gươm, tự mình thống suất binh lính.",
+                "(Danh) Lực lượng hùng mạnh. ◎Như: 'dưỡng tinh súc duệ' 養精蓄銳 nuôi dưỡng lực lượng giỏi mạnh.",
+                "(Danh) Họ 'Duệ'.",
+                "§ Ta quen đọc là 'nhuệ'.",
+                "§ Cũng viết là 鋭."
+            ],
+            "compound_words": {
+                "英銳": "anh duệ",
+                "敏銳": "mẫn duệ"
+            }
+        },
+        "nhuệ": {
+            "Từ điển phổ thông": [
+                "sắc, nhọn",
+                "mũi nhọn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Sắc, bén.",
+                "(Tính) Nhọn. ◇Đỗ Phủ 杜甫: 'Duệ đầu tướng quân lai hà trì, Lệnh ngã tâm trung khổ bất túc' 銳頭將軍來何遲, 令我心中苦不足 (Cửu vũ kì vương tướng quân bất chí 久雨期王將軍不至) Tướng quân đầu nhọn đến sao mà chậm trễ, Khiến cho lòng ta khổ sở biết bao.",
+                "(Tính) Mạnh mẽ, tinh nhuệ. ◇Chiến quốc sách 戰國策: 'Sử khinh xa duệ kị xung Ung Môn' 使輕車銳騎衝雍門 (Tề sách nhất 齊策一) Cho xe nhẹ quân kị hùng mạnh xông thẳng tới Ung Môn.",
+                "(Tính) Nhạy, thính. ◎Như: 'cảm giác mẫn duệ' 感覺敏銳 cảm giác bén nhạy.",
+                "(Phó) Nhanh chóng, rõ rệt. ◇Liêu trai chí dị 聊齋志異: 'Phụ phẫn khuể đắc tật, thực duệ giảm' 父忿恚得疾, 食銳減 (Vân La công chúa 雲蘿公主) Cha tức giận quá phát bệnh, ăn uống rõ ràng kém đi.",
+                "(Danh) Vũ khí sắc, nhọn. ◇Hán Thư 漢書: 'Bị kiên chấp duệ, tự suất sĩ tốt' 被堅執銳, 自帥士卒 (Cao Đế kỉ hạ 高帝紀下) Mặc áo giáp cầm gươm, tự mình thống suất binh lính.",
+                "(Danh) Lực lượng hùng mạnh. ◎Như: 'dưỡng tinh súc duệ' 養精蓄銳 nuôi dưỡng lực lượng giỏi mạnh.",
+                "(Danh) Họ 'Duệ'.",
+                "§ Ta quen đọc là 'nhuệ'.",
+                "§ Cũng viết là 鋭."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sắc bén, nhọn, mũi nhọn: 嘴銳 Sắc bén, sâu sắc;",
+                "Nhanh, gấp, tinh nhanh, lanh lợi: 感覺敏銳 Nhạy, nhạy cảm, rất thính; 其進銳者其退速 Nó tiến lên nhanh và lui cũng nhanh (Mạnh tử);",
+                "Mạnh, hùng mạnh, tinh nhuệ: 銳進 Hăng hái tiến lên, tiến mạnh bước; 銳兵 Quân đội tinh nhuệ; 精銳 Tinh nhuệ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Nhuệ 鋭."
+            ],
+            "compound_words": {
+                "英銳": "anh nhuệ",
+                "被堅執銳": "bị kiên chấp nhuệ",
+                "敏銳": "mẫn nhuệ",
+                "尖銳": "tiêm nhuệ"
+            }
+        },
+        "đoái": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Đoái 鋭."
+            ]
+        }
+    }
+}

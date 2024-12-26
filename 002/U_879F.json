@@ -1,0 +1,75 @@
+{
+    "character": "螟",
+    "details": {
+        "Âm Hán Việt": [
+            "minh"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trùng 虫 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫冥"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丶フ丨フ一一丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "LIBAC (中戈月日金)"
+        ],
+        "Unicode": [
+            "U+879F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "míng ㄇㄧㄥˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "メイ (mei)",
+            "ミョウ (myō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ずいむし (zuimushi)"
+        ],
+        "Âm Hàn": [
+            "명"
+        ],
+        "Âm Quảng Đông": [
+            "ming4"
+        ]
+    },
+    "meanings": {
+        "minh": {
+            "Từ điển phổ thông": [
+                "một thứ sâu trong thân lúa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Minh nga' 螟蛾 một thứ sâu nằm ở trong thân lúa, hút hết nhựa lúa.",
+                "(Danh) 'Minh linh' 螟蛉: (1) Một thứ sâu giết hại sâu khác. § Còn gọi là 'thanh trùng' 青蟲. (2) Những con tò vò (quả lỏa 蜾蠃) thường bắt 'minh linh' để ở trong tổ để làm lương ăn cho con, người xưa lầm tưởng tò vò nuôi 'minh linh' làm con. Vì thế nên người sau gọi con nuôi là 'minh linh' 螟蛉. ◇Tam quốc diễn nghĩa 三國演義: 'Huynh trường kí hữu tử, hà tất dụng minh linh' 兄長既有子, 何必用螟蛉 (Đệ tam thập lục hồi) Anh đã có con rồi, hà tất phải cần con nuôi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Một thứ sâu nằm ở trong thân lúa, hút hết nhựa lúa rồi lúa khô héo.",
+                "Minh linh 螟蛉 một thứ sâu ăn hại rau. Những con tò vò thường bắt để ở trong tổ để làm lương ăn cho con, tục lầm cho nó nuôi để làm con nó, vì thế nên người sau gọi con nuôi là minh linh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sâu keo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con sâu keo, phá hại lúa."
+            ],
+            "compound_words": {
+                "螟蛉": "minh linh"
+            }
+        }
+    }
+}

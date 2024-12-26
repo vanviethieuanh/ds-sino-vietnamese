@@ -1,0 +1,112 @@
+{
+    "character": "寫",
+    "details": {
+        "Âm Hán Việt": [
+            "tả"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "miên 宀 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱宀舄"
+        ],
+        "Nét bút": [
+            "丶丶フノ丨一フ一一ノフ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "JHXF (十竹重火)"
+        ],
+        "Unicode": [
+            "U+5BEB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiě ㄒㄧㄝˇ"
+        ],
+        "Âm Nôm": [
+            "giã",
+            "tả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつ.す (utsu.su)",
+            "うつ.る (utsu.ru)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "se2"
+        ]
+    },
+    "meanings": {
+        "tả": {
+            "Từ điển phổ thông": [
+                "viết, chép",
+                "dốc hết ra, tháo ra",
+                "đúc tượng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đặt để.",
+                "(Động) Viết. ◎Như: 'tả tự' 寫字 viết chữ, 'mặc tả' 默寫 viết thuộc lòng, 'tả cảo tử' 寫稿子 viết bản thảo, 'tả đối liên' 寫對聯 viết câu đối.",
+                "(Động) Sao chép, sao lục. ◇Hán Thư 漢書: 'Trí tả thư chi quan' 置寫書之官 (Nghệ văn chí 藝文志) Đặt quan sao lục sách.",
+                "(Động) Miêu tả. ◎Như: 'tả cảnh' 寫景 miêu tả cảnh vật (bằng thơ, văn hoặc tranh vẽ), 'tả sanh' 寫生 vẽ theo cảnh vật thật, sống động.",
+                "(Động) Đúc tượng. ◇Quốc ngữ 國語: 'Vương lệnh công dĩ lương kim tả Phạm Lãi chi trạng, nhi triều lễ chi' 王令工以良金寫范蠡之狀, 而朝禮之 (Việt ngữ 越語) Vua ra lệnh cho thợ dùng vàng tốt đúc tượng Phạm Lãi để lễ bái.",
+                "(Động) Dốc hết ra, tháo ra, trút ra. ◎Như: 'tả ý nhi' 寫意兒 thích ý. ◇Thi Kinh 詩經: 'Giá ngôn xuất du, Dĩ tả ngã ưu' 駕言出遊, 以寫我憂 (Bội phong 邶風, Tuyền thủy 泉水) Thắng xe ra ngoài dạo chơi, Để trút hết nỗi buồn của ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Dốc hết ra, tháo ra, như kinh Thi nói dĩ tả ngã ưu 以寫我憂 để dốc hết lòng lo của ta ra. Nay thường nói sự ưu du tự đắc là tả ý 寫意 nghĩa là ý không bị uất ức vậy.",
+                "Viết, sao chép.",
+                "Phỏng theo nét bút, như vẽ theo tấm ảnh đã chụp ra gọi là tả chân 寫真 vẽ theo hình vóc loài vật sống gọi là tả sinh 寫生.",
+                "Ðúc tượng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Viết, biên, sáng tác: 寫信 Viết thư; 寫對聯 Viết câu đối; 寫小說 Viết (sáng tác) tiểu thuyết;",
+                "Tả, miêu tả: 寫景 Tả cảnh;",
+                "Vẽ.【寫生】tả sinh [xiâsheng] Vẻ cảnh vật thật;",
+                "(văn) Đúc tượng;",
+                "(văn) Dốc hết ra, tháo ra, làm cho tan: 以寫我憂 Để làm tan nỗi lo của ta (Thi Kinh)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Viết ra — Bày tỏ ra."
+            ],
+            "compound_words": {
+                "暗寫": "ám tả",
+                "大寫": "đại tả",
+                "簡寫": "giản tả",
+                "刻寫": "khắc tả",
+                "亂寫": "loạn tả",
+                "默寫": "mặc tả",
+                "描寫": "miêu tả",
+                "模寫": "mô tả",
+                "複寫紙": "phức tả chỉ",
+                "抄寫": "sao tả",
+                "擦寫": "sát tả",
+                "撰寫": "soạn tả",
+                "寫真": "tả chân",
+                "寫倣": "tả phóng",
+                "寫生": "tả sinh",
+                "借寫": "tá tả",
+                "寫神": "tả thần",
+                "寫實": "tả thực",
+                "寫信": "tả tín",
+                "寫情": "tả tình",
+                "手寫": "thủ tả",
+                "小寫": "tiểu tả"
+            }
+        }
+    }
+}

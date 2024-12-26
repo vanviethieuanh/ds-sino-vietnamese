@@ -1,0 +1,140 @@
+{
+    "character": "釐",
+    "details": {
+        "Âm Hán Việt": [
+            "hi",
+            "hy",
+            "li",
+            "ly"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "lý 里 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿸𠩺里"
+        ],
+        "Nét bút": [
+            "一一丨ノ丶ノ一ノ丶一ノ丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "JKMWG (十大一田土)"
+        ],
+        "Unicode": [
+            "U+91D0"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ",
+            "xī ㄒㄧ",
+            "xǐ ㄒㄧˇ"
+        ],
+        "Âm Nôm": [
+            "li",
+            "ly"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リ (ri)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おさ.める (osa.meru)",
+            "さいわ.い (saiwa.i)",
+            "りん (rin)"
+        ],
+        "Âm Hàn": [
+            "리",
+            "희"
+        ],
+        "Âm Quảng Đông": [
+            "hei1",
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "hi": {
+            "Từ điển trích dẫn": [
+                "(Động) Sửa sang, sửa đổi. ◎Như: 'li chánh văn thể' 釐正文體 sửa sang thể văn cho đúng.",
+                "(Động) Cai trị, trị lí.",
+                "(Động) Cho, cấp cho.",
+                "(Danh) Đơn vị tỉ lệ lãi. Lãi mỗi năm, một 'li' là 1%.",
+                "(Danh) Đơn vị chiều dài. ◎Như: 'li mễ' 釐米 một phần trăm của một mét (cm, centimètre), cũng gọi là 'công phân' 公分.",
+                "(Danh) Đơn vị diện tích. Bằng một phần trăm của một 'mẫu' 畝.",
+                "(Danh) Đơn vị trọng lượng. Bằng một phần ngàn của một 'lượng' 兩.",
+                "(Danh) 'Li kim' 釐金 một thứ thuế nhà buôn. Cứ trăm phần lấy năm phần gọi là 'li kim'. Thường dùng tắt một chữ 'li'.",
+                "(Danh) Đàn bà góa, quả phụ. § Thông 'li' 嫠.",
+                "(Danh) Họ 'Li'.",
+                "Một âm là 'hi'. (Danh) Hạnh phúc, may mắn. § Cùng nghĩa với 'hi' 禧."
+            ]
+        },
+        "hy": {
+            "Từ điển Thiều Chửu": [
+                "Sửa sang. Như li chánh văn thể 釐正文體 sửa sang thể văn cho đúng.",
+                "Li, lai. Ðơn vị tỉ lệ lãi, lãi hàng năm 1 li (lai) là 1%. Mười lai là một phân.",
+                "Cai trị.",
+                "Cho.",
+                "Li kim 釐金 một thứ thuế nhà buôn. Cứ trăm phần lấy năm phần gọi là li kim, thường dùng tắt một chữ li.",
+                "Một âm là hi. Phúc. Cùng nghĩa với chữ hi 禧."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 禧 (bộ 示)"
+            ]
+        },
+        "li": {
+            "Từ điển trích dẫn": [
+                "(Động) Sửa sang, sửa đổi. ◎Như: 'li chánh văn thể' 釐正文體 sửa sang thể văn cho đúng.",
+                "(Động) Cai trị, trị lí.",
+                "(Động) Cho, cấp cho.",
+                "(Danh) Đơn vị tỉ lệ lãi. Lãi mỗi năm, một 'li' là 1%.",
+                "(Danh) Đơn vị chiều dài. ◎Như: 'li mễ' 釐米 một phần trăm của một mét (cm, centimètre), cũng gọi là 'công phân' 公分.",
+                "(Danh) Đơn vị diện tích. Bằng một phần trăm của một 'mẫu' 畝.",
+                "(Danh) Đơn vị trọng lượng. Bằng một phần ngàn của một 'lượng' 兩.",
+                "(Danh) 'Li kim' 釐金 một thứ thuế nhà buôn. Cứ trăm phần lấy năm phần gọi là 'li kim'. Thường dùng tắt một chữ 'li'.",
+                "(Danh) Đàn bà góa, quả phụ. § Thông 'li' 嫠.",
+                "(Danh) Họ 'Li'.",
+                "Một âm là 'hi'. (Danh) Hạnh phúc, may mắn. § Cùng nghĩa với 'hi' 禧."
+            ],
+            "compound_words": {
+                "毫釐": "hào li"
+            }
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "sửa sang",
+                "tỷ lệ lãi",
+                "cai trị"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sửa sang. Như li chánh văn thể 釐正文體 sửa sang thể văn cho đúng.",
+                "Li, lai. Ðơn vị tỉ lệ lãi, lãi hàng năm 1 li (lai) là 1%. Mười lai là một phân.",
+                "Cai trị.",
+                "Cho.",
+                "Li kim 釐金 một thứ thuế nhà buôn. Cứ trăm phần lấy năm phần gọi là li kim, thường dùng tắt một chữ li.",
+                "Một âm là hi. Phúc. Cùng nghĩa với chữ hi 禧."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xentimet;",
+                "Li, lai (đơn vị tỉ lệ lãi, lãi hàng năm 1 li (lai) là 1%, lãi hàng tháng 1 li (lai) là 0, 1%);",
+                "Nhỏ bé;",
+                "(văn) Chỉnh lí, điều khiển, sửa sang: 釐正文體 Sửa sang văn thể;",
+                "(văn) Cai trị;",
+                "(văn) Cho. Xem 釐, 禧 [xê]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sửa sang sắp đặt — Điều may mắn, phúc đức — Đàn bà goá chồng — Tặng. Ban cho — Đơn vị diện tích rất nhỏ, bằng 1/1000 thước ta — Đơn vị chiều dài rất nhỏ, bằng 1/1000 mẫu ta — Đơn vị trọng lượng rất nhỏ, bằng 1/1000 lạng ta — như chữ li 厘."
+            ],
+            "compound_words": {
+                "公釐": "công ly"
+            }
+        }
+    }
+}

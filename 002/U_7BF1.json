@@ -1,0 +1,70 @@
+{
+    "character": "篱",
+    "details": {
+        "Âm Hán Việt": [
+            "li",
+            "ly"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "trúc 竹 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱⺮离"
+        ],
+        "Nét bút": [
+            "ノ一丶ノ一丶丶一ノ丶フ丨丨フフ丶"
+        ],
+        "Thương Hiệt": [
+            "HYUB (竹卜山月)"
+        ],
+        "Unicode": [
+            "U+7BF1"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "lí ㄌㄧˊ"
+        ],
+        "Âm Nôm": [
+            "li"
+        ],
+        "Âm Quảng Đông": [
+            "lei4"
+        ]
+    },
+    "meanings": {
+        "li": {
+            "Từ điển trích dẫn": [
+                "(Danh) Một dạng của 'li' 籬.",
+                "Giản thể của chữ 籬."
+            ]
+        },
+        "ly": {
+            "Từ điển phổ thông": [
+                "hàng rào, bờ giậu"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 笊篱 [zhàolí];",
+                "Bờ giậu, bờ rào, hàng rào: 竹籬茅舍 Nhà tranh giậu nứa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trảo li 笊篱: Cái gầu múc nước đan bằng tre."
+            ],
+            "compound_words": {
+                "笆篱": "ba ly",
+                "树篱": "thụ ly",
+                "笊篱": "tráo ly"
+            }
+        }
+    }
+}

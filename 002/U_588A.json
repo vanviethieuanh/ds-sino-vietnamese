@@ -1,0 +1,101 @@
+{
+    "character": "墊",
+    "details": {
+        "Âm Hán Việt": [
+            "điếm",
+            "điệp"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thổ 土 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱執土"
+        ],
+        "Nét bút": [
+            "一丨一丶ノ一一丨ノフ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "GIG (土戈土)"
+        ],
+        "Unicode": [
+            "U+588A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "điếm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おち.いる (ochi.iru)",
+            "おぼ.れる (obo.reru)",
+            "なや.む (naya.mu)"
+        ],
+        "Âm Hàn": [
+            "점"
+        ],
+        "Âm Quảng Đông": [
+            "dim3",
+            "din3",
+            "din6",
+            "zin3"
+        ]
+    },
+    "meanings": {
+        "điếm": {
+            "Từ điển phổ thông": [
+                "thấp xuống",
+                "chết đuối",
+                "kê, đệm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Kê, đệm. ◎Như: 'sàng bất ổn, điếm nhất khối mộc đầu' 床不穩, 墊一塊木頭 giường gập ghềnh, kê một miếng gỗ vào.",
+                "(Động) Chêm vào, thêm vào chỗ trống. ◎Như: 'chánh hí vị thượng diễn tiền, tiên điếm nhất đoạn tiểu hí' 正戲未上演前, 先墊一段小戲 tuồng chính chưa diễn, hãy xen vào một vở phụ.",
+                "(Động) Ứng tiền trước. ◎Như: 'nhĩ tiên cấp ngã điếm thượng, dĩ hậu tái hoàn nhĩ' 你先給我墊上, 以後再還你 anh ứng tiền trước cho tôi, sau này tôi sẽ trả lại anh.",
+                "(Động) Chìm, đắm. ◎Như: 'điếm một' 墊沒 chìm đắm.",
+                "(Danh) Nệm, đệm. ◎Như: 'bì điếm' 皮墊 nệm bằng da."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thấp xuống.",
+                "Chết đuối.",
+                "Ðệm, phàm kê đệm cho cao cho dày lên gọi là điếm.",
+                "Cái đệm.",
+                "Khoản tiền thay người tạm giao đi gọi là điếm khoản 墊款."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kê, đệm, chèn, lót: 把桌子墊高些 Kê bàn lên một tí; 墊路 Lót đường;",
+                "Đệm, nệm: 床墊 Đệm giường; 坐在墊上 Ngồi trên nệm;",
+                "Ứng trước: 你先給我墊上，以後再還你 Anh ứng hộ tôi, sau này tôi sẽ trả lại anh;",
+                "Chết đuối;",
+                "(văn) Thấp xuống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ở bên dưới đất — Chìm xuống. Lút xuống — Trong Bạch thoại có nghĩa là tiền ứng trước cho người khác — Một âm là Điệp. Xem Điệp."
+            ],
+            "compound_words": {
+                "床墊": "sàng điếm"
+            }
+        },
+        "điệp": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên sông."
+            ]
+        }
+    }
+}

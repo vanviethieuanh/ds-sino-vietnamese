@@ -1,0 +1,104 @@
+{
+    "character": "实",
+    "details": {
+        "Âm Hán Việt": [
+            "thật",
+            "thực"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "miên 宀 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱宀头"
+        ],
+        "Nét bút": [
+            "丶丶フ丶丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "JYK (十卜大)"
+        ],
+        "Unicode": [
+            "U+5B9E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shí ㄕˊ"
+        ],
+        "Âm Nôm": [
+            "thật",
+            "thiệt",
+            "thực"
+        ],
+        "Âm Quảng Đông": [
+            "sat6"
+        ]
+    },
+    "meanings": {
+        "thật": {
+            "Từ điển phổ thông": [
+                "thật, thực, đúng",
+                "thật thà"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 實."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Thật 實."
+            ],
+            "compound_words": {
+                "事实": "sự thật"
+            }
+        },
+        "thực": {
+            "Từ điển phổ thông": [
+                "thật, thực, đúng",
+                "thật thà"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 實."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đặc, đầy: 虛實 Hư thực, không và có, giả và thật; 實心的鐵球 Quả sắt đặc ruột (lõi đặc); 實足年齡 Tuổi thật; 殷實 Giàu có đầy đủ;",
+                "Thực, thật, thật thà, thật là: 實心實意 Thật lòng thật dạ; 實話實說 Lời thực nói thẳng; 實在好 Thật là tốt; 老實人說老實話 Người thật nói thẳng; 我實不德 Ta thật không đó đức. 【實在】thực tại [shízài] a. Thật, thật sự, thật là, thật tình: 這事我實在一點不知道 Việc này thật tôi không biết tí gì; b. Trên thực tế, thực ra (thật ra): 他說是 懂了，實在并不懂 Nó nói đã hiểu rồi, nhưng thực tế (thật ra) chả hiểu gì cả;",
+                "(văn) Chứng thực: 以實吾言 Để chứng thực lời tôi nói;",
+                "Sự thật, việc thật;",
+                "Quả, trái: 開花結實 Khai hoa kết quả;",
+                "(văn) Các phẩm vật, đồ đạc bày ra: 庭實 Đồ đạc bày la liệt trong sân nhà; 軍實 Binh khí trong dinh quân;",
+                "(văn) Xin, mong (biểu thị sự sai khiến hoặc khuyến cáo): 敢布腹心，君實圖之！Mạo muội nói điều nghĩ trong lòng, xin ngài tính cho (Tả truyện: Tuyên công thập nhị niên);",
+                "(văn) Trợ từ, đặt giữa tân ngữ ở trước với động từ ở sau, để đảo tân ngữ ra trước động từ: 鬼神非人實親，惟德是依 Quỷ thần chẳng phải thân gần với người nào, chỉ dựa theo đức hạnh (mà quyết định thân hay sơ) (Tả truyện: Hi công ngũ niên) (chữ 人 là tân ngữ, đưa ra trước động từ 親)."
+            ],
+            "compound_words": {
+                "证实": "chứng thực",
+                "其实": "kỳ thực",
+                "事实": "sự thực",
+                "切实": "thiết thực",
+                "实质": "thực chất",
+                "实行": "thực hành",
+                "实现": "thực hiện",
+                "实况": "thực huống",
+                "实力": "thực lực",
+                "实验": "thực nghiệm",
+                "实在": "thực tại",
+                "实习": "thực tập",
+                "实际": "thực tế",
+                "实際": "thực tế",
+                "实体": "thực thể",
+                "实施": "thực thi",
+                "实时": "thực thì",
+                "实践": "thực tiễn",
+                "忠实": "trung thực"
+            }
+        }
+    }
+}

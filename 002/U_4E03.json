@@ -1,0 +1,87 @@
+{
+    "character": "七",
+    "details": {
+        "Âm Hán Việt": [
+            "thất"
+        ],
+        "Tổng nét": [
+            "2"
+        ],
+        "Bộ": [
+            "nhất 一 (+1 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "一フ"
+        ],
+        "Thương Hiệt": [
+            "JU (十山)"
+        ],
+        "Unicode": [
+            "U+4E03"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qī ㄑㄧ"
+        ],
+        "Âm Nôm": [
+            "thất"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シチ (shichi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なな (nana)",
+            "なな.つ (nana.tsu)",
+            "なの (nano)"
+        ],
+        "Âm Hàn": [
+            "칠"
+        ],
+        "Âm Quảng Đông": [
+            "cat1"
+        ]
+    },
+    "meanings": {
+        "thất": {
+            "Từ điển phổ thông": [
+                "bảy, 7"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Số bảy, thứ bảy. ◇Trang Tử 莊子: 'Nhân giai hữu thất khiếu dĩ thị thính thực tức' 人皆有七竅以視聽食息 (Ứng đế vương 應帝王) Người ta ai cũng có bảy lỗ để thấy, nghe, ăn và thở.",
+                "(Danh) Thể văn. ◎Như: lối văn 'thất vấn thất đáp' 七問七答 của Mai Thừa 枚乘, lối văn song thất của ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bảy, tên số đếm.",
+                "Có nghĩa chỉ về thể văn, như lối văn thất vấn thất đáp 七問七答 của Mai Thừa, lối văn song thất của ta."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bảy (7): 七個人 Bảy người; 七號車 Toa số 7."
+            ],
+            "compound_words": {
+                "救人一命勝造七級浮屠": "cứu nhân nhất mệnh thắng tạo thất cấp phù đồ",
+                "理七": "lí thất",
+                "六八間七": "lục bát gián thất",
+                "雙七": "song thất",
+                "雙七六八": "song thất lục bát",
+                "七寶": "thất bảo",
+                "七政": "thất chính",
+                "七顛八倒": "thất điên bát đảo",
+                "七言": "thất ngôn",
+                "七月": "thất nguyệt",
+                "七彩繽紛": "thất thải tân phân",
+                "七十": "thất thập",
+                "七夕": "thất tịch",
+                "七情": "thất tình",
+                "七斬疏": "thất trảm sớ"
+            }
+        }
+    }
+}

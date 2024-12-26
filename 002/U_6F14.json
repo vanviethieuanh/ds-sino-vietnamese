@@ -1,0 +1,120 @@
+{
+    "character": "演",
+    "details": {
+        "Âm Hán Việt": [
+            "diễn"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺡寅"
+        ],
+        "Nét bút": [
+            "丶丶一丶丶フ一丨フ一丨一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "EJMC (水十一金)"
+        ],
+        "Unicode": [
+            "U+6F14"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yǎn ㄧㄢˇ",
+            "yàn ㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "dán",
+            "dăn",
+            "diễn",
+            "dợn",
+            "gián",
+            "giỡn",
+            "rởn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "エン (en)"
+        ],
+        "Âm Hàn": [
+            "연"
+        ],
+        "Âm Quảng Đông": [
+            "jin2",
+            "jin5"
+        ]
+    },
+    "meanings": {
+        "diễn": {
+            "Từ điển phổ thông": [
+                "diễn ra",
+                "diễn thuyết, diễn giảng, nói rõ",
+                "làm thử, mô phỏng, tập trước"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trình bày trước công chúng kịch, tuồng, nghệ thuật, v.v. ◎Như: 'biểu diễn' 表演 trình bày cho xem. ◇Hồng Lâu Mộng 紅樓夢: 'Hí diễn đích thị Bát Nghĩa trung Quan Đăng bát xích' 戲演的是八義中觀燈八齣 (Đệ ngũ thập tứ hồi) Trình diễn đoạn Bát Nghĩa trong tuồng Quan Đăng tám xuất.",
+                "(Động) Luyện tập. ◎Như: 'diễn lễ' 演禮 tập lễ nghi trước. ◇Thủy hử truyện 水滸傳: 'Mỗi nhật tương tửu nhục lai thỉnh Trí Thâm, khán tha diễn vũ sử quyền' 每日將酒肉來請智深, 看他演武使拳 (Đệ thất hồi) Mỗi ngày đem rượu thịt mời (Lỗ) Trí Thâm, xem (hòa thượng) luyện võ múa quyền.",
+                "(Động) Mở rộng, xiển dương. ◇Hán Thư 漢書: 'Hựu bất tri thôi diễn thánh đức, thuật tiên đế chi chí' 又不知推演聖德, 述先帝之志 (Ngoại thích truyện hạ 外戚傳下) Lại không biết xiển dương thánh đức, bày tỏ ý chí của vua trước.",
+                "(Động) Tính toán, suy tính. ◇Tống sử 宋史: 'Thủy khả diễn tạo tân lịch' 始可演造新曆 (Luật lịch chí thập ngũ 律曆志十五) Rồi mới có thể tính toán làm ra lịch mới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Diễn ra, sự gì nhân cái này được cái kia, có thể y theo cái lẽ tự nhiên mà suy ra đều gọi là diễn, như nhân tám quẻ (bát quái 八卦) mà diễn ra 64 quẻ, gọi là diễn dịch 演易.",
+                "Diễn thuyết, diễn giảng, nói cho tỏ rõ hết nghĩa ra.",
+                "Thử đặt, tạm thử, như thí diễn 試演 thử diễn, diễn vũ 演武 diễn nghề võ.",
+                "Mô phỏng theo việc, như đóng tuồng gọi là diễn kịch 演劇.",
+                "Thiên diễn 天演 cuộc chơi bày tự nhiên.",
+                "Tập trước, như diễn lễ 演禮 tập lễ nghi trước."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Diễn biến, biến hoá;",
+                "Diễn.【演說】diễn thuyết [yănshuo] Diễn thuyết: 他在演說 Anh ấy đang diễn thuyết;",
+                "Diễn tập;",
+                "(Biểu) diễn, đóng (vai): 表演節目 Biểu diễn tiết mục; 她演過白毛女 Cô ta đã từng đóng vai Bạch mao nữ;",
+                "(văn) Diễn ra, suy diễn, suy ra: 演繹 Diễn dịch."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nước chảy dài — Dài ra. Kéo dài — Ruộng đất — Bắt chước theo — Làm ra, theo đúng như đã luyện tập — Nói rộng ra. Suy rộng ra."
+            ],
+            "compound_words": {
+                "扮演": "ban diễn",
+                "表演": "biểu diễn",
+                "演歌": "diễn ca",
+                "演繹": "diễn dịch",
+                "演壇": "diễn đàn",
+                "演達": "diễn đạt",
+                "演者": "diễn giả",
+                "演解": "diễn giải",
+                "演講": "diễn giảng",
+                "演劇": "diễn kịch",
+                "演義": "diễn nghĩa",
+                "演說": "diễn thuyết",
+                "演進": "diễn tiến",
+                "演辭": "diễn từ",
+                "演文": "diễn văn",
+                "演武": "diễn vũ",
+                "大南國史演歌": "đại nam quốc sử diễn ca",
+                "導演": "đạo diễn",
+                "第八才子花箋演音": "đệ bát tài tử hoa tiên diễn âm",
+                "講演": "giảng diễn",
+                "開演": "khai diễn",
+                "論語演歌": "luận ngữ diễn ca",
+                "二十四孝演音": "nhị thập tứ hiếu diễn âm",
+                "推演": "suy diễn",
+                "操演": "thao diễn",
+                "十條演歌": "thập điều diễn ca",
+                "涴演": "uyển diễn"
+            }
+        }
+    }
+}

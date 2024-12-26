@@ -1,0 +1,85 @@
+{
+    "character": "惇",
+    "details": {
+        "Âm Hán Việt": [
+            "đôn"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖享"
+        ],
+        "Nét bút": [
+            "丶丶丨丶一丨フ一フ丨一"
+        ],
+        "Thương Hiệt": [
+            "PYRD (心卜口木)"
+        ],
+        "Unicode": [
+            "U+60C7"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dūn ㄉㄨㄣ"
+        ],
+        "Âm Nôm": [
+            "đôn",
+            "run"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュン (shun)",
+            "ジュン (jun)",
+            "トン (ton)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あつ.い (atsu.i)"
+        ],
+        "Âm Hàn": [
+            "돈"
+        ],
+        "Âm Quảng Đông": [
+            "deon1"
+        ]
+    },
+    "meanings": {
+        "đôn": {
+            "Từ điển phổ thông": [
+                "đôn đốc",
+                "tin tưởng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Trung hậu, thành thật, dày dặn. ◎Như: 'phong đôn tục hậu' 風惇俗厚 phong tục trung hậu.",
+                "(Động) Khuyến khích.",
+                "(Động) Coi trọng, tôn sùng. ◇Thư Kinh 書經: 'Đôn tín minh nghĩa' 惇信明義 (Vũ Thành 武成) Coi trọng tin tưởng đạo nghĩa minh bạch."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hậu, đôn đốc.",
+                "Tin."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiền hoà, đôn hậu, trung hậu, dầy dặn;",
+                "(văn) Coi trọng, tôn sùng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dày dặn. Nhiều ( nói về cái đức của người ) — Thành thật. Đáng tin ( nói về lòng người )."
+            ],
+            "compound_words": {
+                "惇篤": "đôn đốc",
+                "惇厚": "đôn hậu",
+                "惇樸": "đôn phác"
+            }
+        }
+    }
+}

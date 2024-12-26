@@ -1,0 +1,93 @@
+{
+    "character": "替",
+    "details": {
+        "Âm Hán Việt": [
+            "thế"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "viết 曰 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱㚘曰"
+        ],
+        "Nét bút": [
+            "一一ノ丶一一ノ丶丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "QOA (手人日)"
+        ],
+        "Unicode": [
+            "U+66FF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "tì ㄊㄧˋ"
+        ],
+        "Âm Nôm": [
+            "thế"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "か.える (ka.eru)",
+            "か.え- (ka.e-)",
+            "か.わる (ka.waru)"
+        ],
+        "Âm Hàn": [
+            "체"
+        ],
+        "Âm Quảng Đông": [
+            "tai3"
+        ]
+    },
+    "meanings": {
+        "thế": {
+            "Từ điển phổ thông": [
+                "thay thế"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Trừ, bỏ. ◎Như: 'thế phế' 替廢 bỏ phế.",
+                "(Động) Thay. ◎Như: 'đại thế' 代替 thay thế. ◇Thủy hử truyện 水滸傳: 'Quản doanh sai giá cá Lâm Xung lai thế nhĩ, (...) nhĩ khả tức tiện giao cát' 管營差這個林沖來替你, (...) 你可即便交割 (Đệ thập hồi) Quản dinh sai tên Lâm Xung này đến thay mi, (...) mi có thể giao việc ngay.",
+                "(Động) Suy bại. ◎Như: 'hưng thế' 興替 hưng suy. ◇Tấn Thư 晉書: 'Phong đồi hóa thế, mạc tương củ nhiếp' 風頹化替, 莫相糾攝 (Mộ dong vĩ tái kí 慕容暐載記) Phong hóa suy đồi, mà không sửa trị.",
+                "(Giới) Vì, cho. ◇Đỗ Mục 杜牧: 'Lạp chúc hữu tâm hoàn tích biệt, Thế nhân thùy lệ đáo thiên minh' 蠟燭有心還惜別, 替人垂淚到天明 (Tặng biệt 贈別) Ngọn nến có lòng còn tiếc li biệt, Vì người rơi lệ cho đến sáng.",
+                "(Giới) Đối với, hướng. ◇Nho lâm ngoại sử 儒林外史: 'Ngã hồi lai hoàn hữu thoại thế nhĩ thuyết' 我回來還有話替你說 (Đệ nhị thập ngũ hồi) Tôi trở về sẽ có chuyện nói với ngươi.",
+                "(Liên) Và, với. ◇Sơ khắc phách án kinh kì 初刻拍案驚奇: 'Nhất viện trung đích nhân một nhất cá bất thế tha tương hảo' 一院中的人沒一個不替他相好 (Quyển nhị thập thất) Cả trong viện, không ai là không tốt đẹp với người ấy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bỏ.",
+                "Thay.",
+                "Xuy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thay, hộ, giúp: 我替你洗衣服 Tôi giặt quần áo giúp anh; 代替 Thay thế;",
+                "Vì, cho: 替祖國爭光 Giành vinh quang cho Tổ quốc; 蠟燭有心還惜別，替人垂淚到天明 Ngọn nến thắp có lòng còn tiếc cho cuộc li biệt, rơi lệ cho người cho đến lúc trời sáng (Phàm Xuyên văn tập: Tặng biệt);",
+                "(văn) Suy phế."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thay vào. Thay cho — Bỏ đi."
+            ],
+            "compound_words": {
+                "代替": "đại thế",
+                "頂替": "đính thế",
+                "交替": "giao thế",
+                "冒名頂替": "mạo danh đính thế",
+                "替换": "thế hoán",
+                "替換": "thế hoán",
+                "替命": "thế mệnh",
+                "接替": "tiếp thế"
+            }
+        }
+    }
+}

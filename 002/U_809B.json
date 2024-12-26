@@ -1,0 +1,113 @@
+{
+    "character": "肛",
+    "details": {
+        "Âm Hán Việt": [
+            "cương",
+            "giang",
+            "khang",
+            "soang",
+            "xoang"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhục 肉 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月工"
+        ],
+        "Nét bút": [
+            "ノフ一一一丨一"
+        ],
+        "Thương Hiệt": [
+            "BM (月一)"
+        ],
+        "Unicode": [
+            "U+809B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "gāng ㄍㄤ",
+            "kāng ㄎㄤ"
+        ],
+        "Âm Nôm": [
+            "dom",
+            "giang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "gong1"
+        ]
+    },
+    "meanings": {
+        "cương": {
+            "Từ điển phổ thông": [
+                "lỗ đít, hậu môn"
+            ]
+        },
+        "giang": {
+            "Từ điển phổ thông": [
+                "lỗ đít, hậu môn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) “Giang môn” 肛門 lỗ đít, hậu môn."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lỗ đít, miệng ruột thẳng.",
+                "Một âm là khang: béo, lớn. Ta quen đọc là chữ xoang cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hậu môn, lỗ đít: 脫肛 Sa ruột thẳng, lòi rom."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lỗ đít. Cũng gọi là Giang môn hoặc Hậu môn. Cũng đọc Xoang."
+            ]
+        },
+        "khang": {
+            "Từ điển phổ thông": [
+                "béo, lớn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lỗ đít, miệng ruột thẳng.",
+                "Một âm là khang: béo, lớn. Ta quen đọc là chữ xoang cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "To lớn, béo, mập."
+            ]
+        },
+        "soang": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hậu môn ( Lỗ đít, anus ). Cũng đọc Cang, hoặc Giang."
+            ],
+            "compound_words": {
+                "肛門": "soang môn"
+            }
+        },
+        "xoang": {
+            "Từ điển phổ thông": [
+                "lỗ đít, hậu môn"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lỗ đít, miệng ruột thẳng.",
+                "Một âm là khang: béo, lớn. Ta quen đọc là chữ xoang cả."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "To lớn, béo, mập."
+            ]
+        }
+    }
+}

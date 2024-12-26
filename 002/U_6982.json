@@ -1,0 +1,110 @@
+{
+    "character": "概",
+    "details": {
+        "Âm Hán Việt": [
+            "hị",
+            "khái"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "mộc 木 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木既"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ一一フ丶一フノフ"
+        ],
+        "Thương Hiệt": [
+            "DAIU (木日戈山)"
+        ],
+        "Unicode": [
+            "U+6982"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "gài ㄍㄞˋ",
+            "guì ㄍㄨㄟˋ",
+            "jié ㄐㄧㄝˊ"
+        ],
+        "Âm Nôm": [
+            "khái"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガイ (gai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおむ.ね (ōmu.ne)"
+        ],
+        "Âm Hàn": [
+            "개"
+        ],
+        "Âm Quảng Đông": [
+            "koi2",
+            "koi3"
+        ]
+    },
+    "meanings": {
+        "hị": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lấy. Đưa tay mà lấy. Cũng đọc Hí — Một âm là Cái, có nghĩa là giặt rửa. Cũng đọc Khái."
+            ]
+        },
+        "khái": {
+            "Từ điển phổ thông": [
+                "gạt phẳng, gạt bằng",
+                "đo đạc",
+                "bao quát, tóm tắt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cái gạt. § Khí cụ ngày xưa, khi đong lường ngũ cốc, dùng để gạt ngang.",
+                "(Danh) Cái chén đựng rượu.",
+                "(Danh) Độ lượng, phẩm cách. ◎Như: 'khí khái' 氣概 tiết tháo, khí phách.",
+                "(Danh) Tình huống sơ lược, đại khái. ◎Như: 'ngạnh khái' 梗概 sơ qua phần chính.",
+                "(Động) Gạt phẳng. ◇Quản Tử 管子: 'Đấu hộc mãn tắc nhân khái chi, nhân mãn tắc thiên khái chi' 鬥斛滿則人概之, 人滿則天概之 Đẩu hộc đầy tràn thì người gạt cho bằng, người đầy tràn thì trời làm cho bằng.",
+                "(Động) Bao quát, tóm tắt. ◎Như: 'khái nhi luận chi' 概而論之 nói tóm lại",
+                "(Tính) Đại khái, ước lược. ◎Như: 'khái huống' 概況 tình hình tổng quát, 'khái niệm' 概念 ý niệm tổng quát.",
+                "(Phó) Đại thể, đại lược. ◎Như: 'sự tình đích kinh quá, đại khái tựu thị giá dạng liễu' 事情的經過, 大概就是這樣了sự việc trải qua, đại lược là như vậy.",
+                "(Phó) Đều, nhất loạt. ◎Như: 'hóa vật xuất môn, khái bất thối hoán' 貨物出門, 概不退換 hàng hóa (mua xong rồi) đã mang ra khỏi cửa tiệm, đều không được đổi lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gạt phẳng.",
+                "Cân lường, phân lượng, người có tiết tháo gọi là tiết khái 節概 hay phong khái 風概 đều chỉ về phần khí cục mà nói cả.",
+                "Bao quát, tóm tắt, như nhất khái 一概, đại khái 大概, ngạnh khái 梗概 đều là ý tóm tất cả.",
+                "Cái chén đựng rượu.",
+                "Bằng, yên.",
+                "Cảnh tượng.",
+                "Cùng nghĩa với chữ khái 槩."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái chung, đại thể, bao quát, tổng quát, toàn thể, tóm lại: 概而論之 Nói tóm lại;",
+                "Nhất luật: 概不退換 Nhất luật không đổi. Xem 一概 [yigài];",
+                "Khí khái, khí phách, dũng khí: 氣概 Khí khái;",
+                "(văn) Gạt phẳng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái que gỗ để gạt miệng đấu khi đong lúa gạo — Gồm chung. Bao quát. Td: Đại khái 大概 ( bao quát nét lớn, nay ta hiểu là sơ sài, thì nghĩa quá xa )."
+            ],
+            "compound_words": {
+                "大概": "đại khái",
+                "概論": "khái luận",
+                "概略": "khái lược",
+                "概念": "khái niệm",
+                "概括": "khái quát",
+                "概述": "khái thuật",
+                "氣概": "khí khái",
+                "一概": "nhất khái"
+            }
+        }
+    }
+}

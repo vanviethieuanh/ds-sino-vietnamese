@@ -1,0 +1,100 @@
+{
+    "character": "歲",
+    "details": {
+        "Âm Hán Việt": [
+            "tuế"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "chỉ 止 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "丨一丨一一ノ一丨ノノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "YMIHH (卜一戈竹竹)"
+        ],
+        "Unicode": [
+            "U+6B72"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "suì ㄙㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "tuế",
+            "tuổi"
+        ],
+        "Âm Hàn": [
+            "세"
+        ],
+        "Âm Quảng Đông": [
+            "seoi3"
+        ]
+    },
+    "meanings": {
+        "tuế": {
+            "Từ điển phổ thông": [
+                "năm",
+                "tuổi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sao 'Tuế', tức là 'Mộc tinh' 木星, mười hai năm quanh hết một vòng mặt trời, cũng gọi là sao 'Thái Tuế' 太歲.",
+                "(Danh) Năm. ◇Liễu Tông Nguyên 柳宗元: 'Tự ngô thị tam thế cư thị hương, tích ư kim lục thập tuế hĩ' 自吾氏三世居是鄉, 積於今六十歲矣 (Bộ xà giả thuyết 捕蛇者說) Họ tôi đã ba đời ở làng này, tính tới nay được sáu chục năm.",
+                "(Danh) Chỉ mỗi năm, hằng năm. ◇Tuân Tử 荀子: 'Nhật tế, nguyệt tự, thì hưởng, tuế cống' 日祭, 月祀, 時享, 歲貢 (Chánh luận 正論).",
+                "(Danh) Năm tháng, thời gian, quang âm. ◇Luận Ngữ 論語: 'Nhật nguyệt thệ hĩ, tuế bất ngã dữ' 日月逝矣, 歲不我與 (Dương Hóa 陽貨) Ngày tháng trôi qua, năm tháng chẳng chờ ta.",
+                "(Danh) Đầu một năm, năm mới. ◎Như: 'cản hồi gia khứ độ tuế' 趕回家去度歲.",
+                "(Danh) Tuổi. ◇Tây du kí 西遊記: 'Ngã nhất sanh mệnh khổ, tự ấu mông phụ mẫu dưỡng dục chí bát cửu tuế, tài tri nhân sự' 我一生命苦, 自幼蒙父母養育至八九歲, 才知人事 (Đệ nhất hồi) Tôi suốt đời khổ sở, từ bé được cha mẹ nuôi nấng tới tám chín tuổi, mới hơi hay biết việc đời.",
+                "(Danh) Thu hoạch nhà nông trong một năm. ◇Tả truyện 左傳: 'Mẫn mẫn yên như nông phu chi vọng tuế' 閔閔焉如農夫之望歲 (Chiêu Công tam thập nhị niên 昭公三十二年).",
+                "(Danh) Tên một lễ tế."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Năm.",
+                "Sao Tuế, tức là sao Mộc tinh, mười hai năm quay quanh hết một vòng mặt trời, cũng gọi là sao Thái Tuế 太歲.",
+                "Tuổi.",
+                "Mùa màng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tuổi: 三歲的 孩子 Đứa trẻ lên ba;",
+                "Năm: 去歲 Năm ngoái; 歲末 Cuối năm;",
+                "Số thu hoạch hoa màu, mùa màng: 歉歲 Mất mùa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Năm. Xem Tuế nguyệt — Tuổi."
+            ],
+            "compound_words": {
+                "惡歲": "ác tuế",
+                "壓歲": "áp tuế",
+                "壓歲盤": "áp tuế bàn",
+                "壓歲錢": "áp tuế tiền",
+                "百歲": "bách tuế",
+                "百歲之後": "bách tuế chi hậu",
+                "百歲爲期": "bách tuế vi kì",
+                "周歲": "chu tuế",
+                "週歲": "chu tuế",
+                "同歲": "đồng tuế",
+                "富歲": "phú tuế",
+                "冠歲": "quan tuế",
+                "餽歲": "quỹ tuế",
+                "太歲頭上動土": "thái tuế đầu thượng động thổ",
+                "千歲": "thiên tuế",
+                "歲貢": "tuế cống",
+                "歲律": "tuế luật",
+                "歲月": "tuế nguyệt",
+                "歲數": "tuế số",
+                "晚歲": "vãn tuế",
+                "萬歲": "vạn tuế"
+            }
+        }
+    }
+}

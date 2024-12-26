@@ -1,0 +1,97 @@
+{
+    "character": "葬",
+    "details": {
+        "Âm Hán Việt": [
+            "táng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "thảo 艸 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿳艹死廾"
+        ],
+        "Nét bút": [
+            "一丨丨一ノフ丶ノフ一ノ丨"
+        ],
+        "Thương Hiệt": [
+            "TMPT (廿一心廿)"
+        ],
+        "Unicode": [
+            "U+846C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zàng ㄗㄤˋ"
+        ],
+        "Âm Nôm": [
+            "táng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ほうむ.る (hōmu.ru)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zong3"
+        ]
+    },
+    "meanings": {
+        "táng": {
+            "Từ điển phổ thông": [
+                "chôn, vùi, mai táng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Chôn, vùi. ◎Như: 'mai táng' 埋葬 chôn cất.",
+                "(Động) § Xem 'táng tống' 葬送.",
+                "(Danh) Cách thức chôn cất thi thể. ◎Như: 'hỏa táng' 火葬 thiêu xác, 'hải táng' 海葬 bỏ xác dưới biển."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Chôn, người chết bỏ vào áo quan đem chôn gọi là táng. Như mai táng 埋葬 chôn cất. Bất cứ dùng cách gì chủ ý để cho tiêu cái xác chết đều gọi là táng. Như hoả táng 火葬 lấy lửa thiêu xác, táng thân ngư phúc 葬身魚腹 chết đuối (vùi thân bụng cá), v.v.",
+                "Vùi lấp. Táng tống 葬送 buộc người vào tội, hãm hại."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chôn, táng: 埋葬 Chôn cất, mai táng; 安葬 An táng;",
+                "Đám tang: 送葬 Đưa đám; 舉行葬禮 Tổ chức lễ tang. Cv. 塟 (bộ 土)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chôn cất người chết. Td: Mai táng 埋葬 ( chôn cất )."
+            ],
+            "compound_words": {
+                "安葬": "an táng",
+                "薄葬": "bạc táng",
+                "改葬": "cải táng",
+                "吉葬": "cát táng",
+                "野葬": "dã táng",
+                "鳥葬": "điểu táng",
+                "火葬": "hoả táng",
+                "凶葬": "hung táng",
+                "寄葬": "kí táng",
+                "埋葬": "mai táng",
+                "國葬": "quốc táng",
+                "歸葬": "quy táng",
+                "葬地": "táng địa",
+                "葬送": "táng tống",
+                "殡葬": "tấn táng",
+                "殯葬": "tấn táng",
+                "燒葬": "thiêu táng",
+                "送葬": "tống táng",
+                "殉葬": "tuẫn táng"
+            }
+        }
+    }
+}

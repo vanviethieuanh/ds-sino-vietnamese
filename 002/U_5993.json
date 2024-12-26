@@ -1,0 +1,97 @@
+{
+    "character": "妓",
+    "details": {
+        "Âm Hán Việt": [
+            "kĩ",
+            "kỹ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nữ 女 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰女支"
+        ],
+        "Nét bút": [
+            "フノ一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "VJE (女十水)"
+        ],
+        "Unicode": [
+            "U+5993"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "đĩ",
+            "kĩ",
+            "kỹ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざおぎ (wazaogi)",
+            "うたいめ (utaime)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei6"
+        ]
+    },
+    "meanings": {
+        "kĩ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Phụ nữ làm nghề hát múa (thời xưa). ◎Như: 'ca kĩ' 歌妓 phụ nữ làm nghề ca hát. ◇Lạc Dương già lam kí 洛陽伽藍記: 'Kĩ nữ tam bách nhân, tận giai quốc sắc' 妓女三百人, 盡皆國色 (Pháp Vân tự 法雲寺) Kĩ nữ ba trăm người, đều là quốc sắc.",
+                "(Danh) Gái điếm, gái mại dâm. ◎Như: 'xướng kĩ' 娼妓 gái đĩ, 'kĩ nữ hộ' 妓女戶 nhà chứa."
+            ],
+            "compound_words": {
+                "歌妓": "ca kĩ",
+                "營妓": "doanh kĩ",
+                "角妓": "giác kĩ",
+                "狎妓": "hiệp kĩ",
+                "妓女": "kĩ nữ",
+                "妓院": "kĩ viện",
+                "倡妓": "xướng kĩ",
+                "娼妓": "xướng kĩ"
+            }
+        },
+        "kỹ": {
+            "Từ điển phổ thông": [
+                "con gái phường chèo, gái lầu xanh"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Con nữ phường chèo, con đĩ nhà thổ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Con hát;",
+                "Đĩ, gái điếm. 【妓女】kĩ nữ [jìn=] Gái điếm, (gái) đĩ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người con gái đẹp ( nghĩa cổ ) — Đào hát — Người con gái làm nghề mãi dâm."
+            ],
+            "compound_words": {
+                "妓女": "kỹ nữ",
+                "妓院": "kỹ viện",
+                "嫖妓": "phiêu kỹ",
+                "官妓": "quan kỹ"
+            }
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "character": "治",
+    "details": {
+        "Âm Hán Việt": [
+            "trì",
+            "trị"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡台"
+        ],
+        "Nét bút": [
+            "丶丶一フ丶丨フ一"
+        ],
+        "Thương Hiệt": [
+            "EIR (水戈口)"
+        ],
+        "Unicode": [
+            "U+6CBB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chí ㄔˊ",
+            "yí ㄧˊ",
+            "zhì ㄓˋ"
+        ],
+        "Âm Nôm": [
+            "chệ",
+            "trị",
+            "trịa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジ (ji)",
+            "チ (chi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おさ.める (osa.meru)",
+            "おさ.まる (osa.maru)",
+            "なお.る (nao.ru)",
+            "なお.す (nao.su)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "ci4",
+            "zi6"
+        ]
+    },
+    "meanings": {
+        "trì": {
+            "Từ điển Thiều Chửu": [
+                "Sửa.",
+                "Trừng trị.",
+                "Một âm là trị. Sửa trị, như tràng trị cửu an 長治久安 (Minh sử 明史) trị yên lâu dài.",
+                "Chỗ quan chánh phủ địa phương đóng gọi là trị, như tỉnh trị 省治, huyện trị 縣治, v.v. Dân đối với quan gọi là trị hạ 治下 dưới quyền cai trị.",
+                "So sánh."
+            ]
+        },
+        "trị": {
+            "Từ điển phổ thông": [
+                "cai trị"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Sửa chữa. ◇Tô Thức 蘇軾: 'Dư chí Phù Phong chi minh niên, thủy trị quan xá' 余至扶風之明年, 始治官舍 (Hỉ vũ đình kí 喜雨亭記) Tôi đến Phù Phong năm trước thì năm sau mới sửa lại quan nha.",
+                "(Động) Trừng trị, trừng phạt. ◎Như: 'trị tội' 治罪 xử tội.",
+                "(Động) Sắp xếp, lo liệu, sửa soạn, quản lí. ◎Như: 'trị quốc' 治國 lo liệu nước, 'tràng trị cửu an' 長治久安 (Minh sử 明史) trị yên lâu dài, 'trị tửu tiễn hành' 治酒餞行 đặt rượu đưa tiễn.",
+                "(Động) Chữa bệnh. ◎Như: 'trị bệnh' 治病 chữa bệnh, chẩn bệnh, 'y trị' 醫治 chữa bệnh bằng thuốc.",
+                "(Động) Nghiên cứu. ◎Như: 'chuyên trị cổ văn tự' 專治古文字 chuyên nghiên cứu văn tự cổ.",
+                "(Động) Kinh doanh. ◎Như: 'trị sản' 治產 kinh doanh tài sản. ◇Liêu trai chí dị 聊齋志異: 'Cư quan liêm, đắc bổng bất trị sanh sản, tích thư doanh ốc' 居官廉, 得俸不治生產, 積書盈屋 (Thư si 書癡) Làm quan thanh liêm, có bổng lộc không vụ làm giàu tậu điền sản, chỉ chứa sách đầy nhà.",
+                "(Danh) Việc cai trị.",
+                "(Danh) Trụ sở, chỗ quan chánh phủ đóng. ◎Như: 'tỉnh trị' 省治, 'huyện trị' 縣治.",
+                "(Tính) Dân đối với quan. ◎Như: 'trị hạ' 治下 dân đối với quan tự xưng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Sửa.",
+                "Trừng trị.",
+                "Một âm là trị. Sửa trị, như tràng trị cửu an 長治久安 (Minh sử 明史) trị yên lâu dài.",
+                "Chỗ quan chánh phủ địa phương đóng gọi là trị, như tỉnh trị 省治, huyện trị 縣治, v.v. Dân đối với quan gọi là trị hạ 治下 dưới quyền cai trị.",
+                "So sánh."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trị, cai trị, quản lí: 自治 Tự trị; 治國 Trị nước; 治家 Quản lí (trông nom) gia đình; 長治久安 Trị yên lâu dài;",
+                "Trị thuỷ, chữa: 治准工程 Công trình trị thuỷ sông Hoài;",
+                "Trừng trị;",
+                "Chữa, trị (bệnh): 我的病治好了 Bệnh của tôi đã chữa khỏi; 不治之症 Bệnh không thể chữa được;",
+                "Diệt, trừ: 治蝗 Diệt châu chấu; 治蟲害 Trừ sâu hại;",
+                "Nghiên cứu: 專治古文字 Chuyên nghiên cứu văn tự cổ;",
+                "Thái bình, yên ổn: 國家大治 Đất nước thái bình;",
+                "(văn) So sánh;",
+                "(cũ) Trụ sở: 省治 Trụ sở tỉnh;",
+                "[Zhì] (Họ) Trị."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Yên ổn tốt đẹp. Td: Thịnh trị — Làm cho yên ổn — Sắp đặt công việc — Sửa sang cho tốt đẹp — Chữa bệnh."
+            ],
+            "compound_words": {
+                "按治": "án trị",
+                "陰治": "âm trị",
+                "平治": "bình trị",
+                "該治": "cai trị",
+                "根治": "căn trị",
+                "政治經濟學": "chánh trị kinh tế học",
+                "診治": "chẩn trị",
+                "政治": "chính trị",
+                "政治家": "chính trị gia",
+                "政治犯": "chính trị phạm",
+                "專治": "chuyên trị",
+                "究治": "cứu trị",
+                "民治": "dân trị",
+                "以毒治毒": "dĩ độc trị độc",
+                "吏治": "lại trị",
+                "內治": "nội trị",
+                "法治": "pháp trị",
+                "敷治": "phu trị",
+                "管治": "quản trị",
+                "廣治": "quảng trị",
+                "佐治": "tá trị",
+                "盛治": "thịnh trị",
+                "統治": "thống trị",
+                "治安": "trị an",
+                "治病": "trị bệnh",
+                "治兵": "trị binh",
+                "治平": "trị bình",
+                "治家": "trị gia",
+                "治下": "trị hạ",
+                "治經": "trị kinh",
+                "治理": "trị lí",
+                "治療": "trị liệu",
+                "治亂": "trị loạn",
+                "治國": "trị quốc",
+                "治事": "trị sự",
+                "治心": "trị tâm",
+                "治世": "trị thế",
+                "治水": "trị thuỷ",
+                "治罪": "trị tội",
+                "懲治": "trừng trị",
+                "自治": "tự trị",
+                "文治": "văn trị"
+            }
+        }
+    }
+}

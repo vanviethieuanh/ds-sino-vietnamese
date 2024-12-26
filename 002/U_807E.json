@@ -1,0 +1,81 @@
+{
+    "character": "聾",
+    "details": {
+        "Âm Hán Việt": [
+            "lung"
+        ],
+        "Tổng nét": [
+            "23"
+        ],
+        "Bộ": [
+            "nhĩ 耳 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱龍耳"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一丨フ一一一フ一フ一一一一丨丨一一一"
+        ],
+        "Thương Hiệt": [
+            "YPSJ (卜心尸十)"
+        ],
+        "Unicode": [
+            "U+807E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lóng ㄌㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "tủng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ロウ (rō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ろう.する (rō.suru)",
+            "つんぼ (tsun bo)",
+            "みみしい (mimishii)"
+        ],
+        "Âm Hàn": [
+            "롱",
+            "농"
+        ],
+        "Âm Quảng Đông": [
+            "lung4"
+        ]
+    },
+    "meanings": {
+        "lung": {
+            "Từ điển phổ thông": [
+                "điếc, nghễnh ngãng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh điếc.",
+                "(Tính) Điếc. ◇Trang Tử 莊子: 'Lung giả vô dĩ dự hồ chung cổ chi thanh' 聾者無以與乎鐘鼓之聲 (Tiêu dao du 逍遙遊) Kẻ điếc không có cách gì dự nghe tiếng chuông, trống.",
+                "(Tính) Ngu muội, không hiểu sự lí. ◇Tả truyện 左傳: 'Trịnh chiêu, Tống lung' 鄭昭, 宋聾 (Tuyên Công thập tứ niên 宣公十四年) Trịnh sáng (hiểu sự lí), Tống ngu (không hiểu sự lí)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðiếc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Điếc: 他耳朵聾了 Tai anh ấy bị điếc."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Điếc. Tai bị bệnh không nghe được nữa."
+            ],
+            "compound_words": {
+                "聾喑": "lung ấm",
+                "聾瞶": "lung quý"
+            }
+        }
+    }
+}

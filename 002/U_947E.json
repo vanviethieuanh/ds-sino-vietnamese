@@ -1,0 +1,77 @@
+{
+    "character": "鑾",
+    "details": {
+        "Âm Hán Việt": [
+            "loan"
+        ],
+        "Tổng nét": [
+            "27"
+        ],
+        "Bộ": [
+            "kim 金 (+19 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱䜌金"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フフ丶丶丶丶フフ丶丶丶丶ノ丶一一丨丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "VFC (女火金)"
+        ],
+        "Unicode": [
+            "U+947E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "luán ㄌㄨㄢˊ"
+        ],
+        "Âm Nôm": [
+            "loan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ラン (ran)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "すず (suzu)"
+        ],
+        "Âm Hàn": [
+            "란"
+        ],
+        "Âm Quảng Đông": [
+            "lyun4"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển phổ thông": [
+                "cái chuông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lục lạc, chuông nhỏ. § Ngày xưa, trước xe vua đi có trổ một con chim loan ngậm cái chuông, gọi là 'loan linh' 鑾鈴.",
+                "(Danh) Xa giá của vua hoặc cung vua. Cũng mượn chỉ nhà vua. ◎Như: 'tùy loan' 隨鑾 theo xe vua, 'nghênh loan' 迎鑾 đón vua. ◇Hồng Lâu Mộng 紅樓夢: 'Chấp sự thái giám khải đạo: Thì dĩ sửu chánh tam khắc, thỉnh giá hồi loan' 執事太監啟道: 時已丑正三刻, 請駕回鑾 (Đệ thập bát hồi) Viên thái giám chấp sự tâu: Đã đến giờ sửu ba khắc, mời loan giá về cung."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Loan linh 鑾駖 trước xe vua đi có trỗ một con chim loan ngậm cái chuông, vì thế nên xa giá của vua gọi là loan. Như tùy loan 隨鑾 theo xe vua."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lục lạc, chuông nhỏ (gắn trên cổ ngựa, hoặc treo trên xe vua đi);",
+                "Xa giá của vua, xe vua đi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chuông đeo ở cổ ngựa."
+            ],
+            "compound_words": {
+                "回鑾": "hồi loan"
+            }
+        }
+    }
+}

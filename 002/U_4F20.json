@@ -1,0 +1,122 @@
+{
+    "character": "传",
+    "details": {
+        "Âm Hán Việt": [
+            "truyến",
+            "truyền",
+            "truyện"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻专"
+        ],
+        "Nét bút": [
+            "ノ丨一一フ丶"
+        ],
+        "Thương Hiệt": [
+            "OQNI (人手弓戈)"
+        ],
+        "Unicode": [
+            "U+4F20"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chuán ㄔㄨㄢˊ",
+            "zhuàn ㄓㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "truyền"
+        ],
+        "Âm Quảng Đông": [
+            "cyun4"
+        ]
+    },
+    "meanings": {
+        "truyến": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 傳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Truyện (tác phẩm văn học, tiểu thuyết): 《水滸傳》Truyện Thuỷ hử;",
+                "Truyện (sách giải thích kinh văn): 經傳 Kinh truyện;",
+                "Truyện kí, tiểu sử: 興道大王傳 Tiểu sử Hưng Đạo Đại Vương; 自傳 Tiểu sử, tự truyện;",
+                "(văn) Nhà trạm, nhà khách: 作義舍，如今之亭傳 Lập nhà khách miễn phí, giống như nhà trạm thời nay (Tam quốc chí);",
+                "(văn) Xe trạm (loại xe ngựa thời xưa dùng để truyền đạt mệnh lệnh): 遽傳不用 Không dùng xe trạm (Hàn Phi tử: Dụ lão);",
+                "(văn) Xe chở người cho phủ quan (thời xưa). Xem 傳 [chuán]."
+            ]
+        },
+        "truyền": {
+            "Từ điển phổ thông": [
+                "truyền"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 傳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Truyền (bá): 頻傳 Truyền tới dồn dập; 傳消息 Truyền tin;",
+                "Truyền lại, trao cho: 傳球 Truyền bóng; 傳藝 Truyền nghề;",
+                "(luật) Gọi, đòi: 傳證人 Gọi người làm chứng; 傳見 Gọi vào yết kiến;",
+                "Dẫn: 傳熱 Dẫn nhiệt, truyền nhiệt;",
+                "Lây, truyền nhiễm: 這種病傳人 Bệnh này hay lây (truyền nhiễm);",
+                "Truyền thần, truyền cảm: 傳神之筆 Cây bút truyền thần;",
+                "Truyền (lại cho): 家傳祕方 Môn thuốc gia truyền;",
+                "(văn) Con dấu để làm tin, bằng chứng: 詐刻傳出關歸家 Khắc giả con dấu làm tin ra khỏi cửa ải về nhà (Hán thư: Ninh Thành truyện). Xem 傳 [zhuàn]."
+            ],
+            "compound_words": {
+                "谣传": "dao truyền",
+                "遗传": "di truyền",
+                "流传": "lưu truyền",
+                "风传": "phong truyền",
+                "广传": "quảng truyền",
+                "失传": "thất truyền",
+                "传播": "truyền bá",
+                "传眞": "truyền chân",
+                "传达": "truyền đạt",
+                "传单": "truyền đơn",
+                "传教": "truyền giáo",
+                "传染": "truyền nhiễm",
+                "传神": "truyền thần",
+                "传输": "truyền thâu",
+                "传统": "truyền thống",
+                "传授": "truyền thụ",
+                "传说": "truyền thuyết",
+                "传送": "truyền tống",
+                "传闻": "truyền văn",
+                "宣传": "tuyên truyền"
+            }
+        },
+        "truyện": {
+            "Từ điển phổ thông": [
+                "truyện"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 傳."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Truyện (tác phẩm văn học, tiểu thuyết): 《水滸傳》Truyện Thuỷ hử;",
+                "Truyện (sách giải thích kinh văn): 經傳 Kinh truyện;",
+                "Truyện kí, tiểu sử: 興道大王傳 Tiểu sử Hưng Đạo Đại Vương; 自傳 Tiểu sử, tự truyện;",
+                "(văn) Nhà trạm, nhà khách: 作義舍，如今之亭傳 Lập nhà khách miễn phí, giống như nhà trạm thời nay (Tam quốc chí);",
+                "(văn) Xe trạm (loại xe ngựa thời xưa dùng để truyền đạt mệnh lệnh): 遽傳不用 Không dùng xe trạm (Hàn Phi tử: Dụ lão);",
+                "(văn) Xe chở người cho phủ quan (thời xưa). Xem 傳 [chuán]."
+            ],
+            "compound_words": {
+                "传记": "truyện ký",
+                "自传": "tự truyện"
+            }
+        }
+    }
+}

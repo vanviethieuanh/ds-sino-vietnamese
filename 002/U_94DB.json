@@ -1,0 +1,75 @@
+{
+    "character": "铛",
+    "details": {
+        "Âm Hán Việt": [
+            "sanh",
+            "đang"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "kim 金 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰钅当"
+        ],
+        "Nét bút": [
+            "ノ一一一フ丨丶ノフ一一"
+        ],
+        "Thương Hiệt": [
+            "CFSM (金火尸一)"
+        ],
+        "Unicode": [
+            "U+94DB"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chēng ㄔㄥ",
+            "dāng ㄉㄤ"
+        ],
+        "Âm Nôm": [
+            "đương",
+            "xanh"
+        ],
+        "Âm Quảng Đông": [
+            "cang1",
+            "dong1"
+        ]
+    },
+    "meanings": {
+        "sanh": {
+            "Từ điển phổ thông": [
+                "cái chảo rán"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鐺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鐺"
+            ]
+        },
+        "đang": {
+            "Từ điển phổ thông": [
+                "(xem: lang đang 鋃鐺,锒铛)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鐺."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鐺"
+            ],
+            "compound_words": {
+                "锒铛": "lang đang"
+            }
+        }
+    }
+}

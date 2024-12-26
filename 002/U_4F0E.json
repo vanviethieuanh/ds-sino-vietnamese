@@ -1,0 +1,95 @@
+{
+    "character": "伎",
+    "details": {
+        "Âm Hán Việt": [
+            "ky",
+            "kĩ",
+            "kỹ"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "nhân 人 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻支"
+        ],
+        "Nét bút": [
+            "ノ丨一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "OJE (人十水)"
+        ],
+        "Unicode": [
+            "U+4F0E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ",
+            "qí ㄑㄧˊ"
+        ],
+        "Âm Nôm": [
+            "kĩ",
+            "kỹ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざ (waza)",
+            "わざおぎ (wazaogi)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei6"
+        ]
+    },
+    "meanings": {
+        "ky": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ki ki 伎伎: Vẻ thư thái — Một âm là Kĩ."
+            ]
+        },
+        "kĩ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Tài nghề, tài năng. ◎Như: 'kĩ xảo' 伎巧 tài khéo. ◇Tân Đường Thư 新唐書: 'Thiếu tập vũ kĩ' 少習武伎 (Vệ Bá Ngọc truyện 衛伯玉傳) Thuở nhỏ học nghề múa.",
+                "(Danh) Phụ nữ làm nghề ca múa (thời xưa). ◎Như: 'kĩ nữ' 伎女 con hát. § Cũng viết là 妓."
+            ],
+            "compound_words": {
+                "伎倆": "kĩ lưỡng"
+            }
+        },
+        "kỹ": {
+            "Từ điển phổ thông": [
+                "tài, khéo"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tài, như kĩ xảo 伎巧 tài khéo.",
+                "Con nhà nghề, như kĩ nữ 伎女 con hát."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 技 [jì]. 【伎倆】 kĩ lưỡng [jìliăng] Mánh khóe, thủ đoạn, trò, ngón: 欺騙伎倆 Trò bịp bợm;",
+                "Người phụ nữ (thời xưa) chuyên nghề ca múa, con hát (như 妓, bộ 女)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tài khéo — Con đĩ — Một âm là Ki."
+            ],
+            "compound_words": {
+                "伎女": "kỹ nữ",
+                "伎巧": "kỹ xảo"
+            }
+        }
+    }
+}

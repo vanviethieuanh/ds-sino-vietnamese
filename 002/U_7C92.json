@@ -1,0 +1,84 @@
+{
+    "character": "粒",
+    "details": {
+        "Âm Hán Việt": [
+            "lạp"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mễ 米 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰米立"
+        ],
+        "Nét bút": [
+            "丶ノ一丨ノ丶丶一丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "FDYT (火木卜廿)"
+        ],
+        "Unicode": [
+            "U+7C92"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lì ㄌㄧˋ"
+        ],
+        "Âm Nôm": [
+            "lạp",
+            "lép"
+        ],
+        "Âm Nhật (onyomi)": [
+            "リュウ (ryū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つぶ (tsubu)"
+        ],
+        "Âm Hàn": [
+            "립",
+            "입"
+        ],
+        "Âm Quảng Đông": [
+            "lap1",
+            "nap1"
+        ]
+    },
+    "meanings": {
+        "lạp": {
+            "Từ điển phổ thông": [
+                "hạt gạo, hạt thóc"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hạt gạo. ◇Liệt Tử 列子: 'Phẫu lạp vi nhị, dẫn doanh xa chi ngư' 剖粒為餌, 引盈車之魚 (Thang vấn 湯問) Bổ hạt gạo làm mồi, câu được cá đầy xe.",
+                "(Danh) Hột, viên. ◎Như: 'sa lạp' 砂粒 hạt cát, 'diêm lạp' 鹽粒 hột muối.",
+                "(Danh) Lượng từ: đơn vị dùng chỉ viên, hạt, hột, v.v. ◎Như: 'lưỡng lạp dược hoàn' 兩粒藥丸 hai viên thuốc.",
+                "(Động) Ăn gạo. ◇Thư Kinh 書經: 'Chưng dân nãi lạp, vạn bang tác nghệ' 烝民乃粒, 萬邦作乂 (Ích tắc 益稷) Dân chúng ăn gạo, muôn nước yên định."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hạt gạo, hạt lúa, vật gì nhỏ mà rời từng hạt đều gọi là lạp.",
+                "Ăn gạo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hạt: 頭粒兒 Hạt đậu; 鹽粒 Hạt muối;",
+                "(loại) Viên, hạt: 一粒米 Một hạt gạo; 三粒子彈 Ba viên đạn;",
+                "(văn) Ăn gạo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hạt gạo — Viên nhỏ. Hạt nhỏ."
+            ],
+            "compound_words": {
+                "玉粒": "ngọc lạp"
+            }
+        }
+    }
+}

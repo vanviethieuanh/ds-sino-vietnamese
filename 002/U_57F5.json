@@ -1,0 +1,81 @@
+{
+    "character": "埵",
+    "details": {
+        "Âm Hán Việt": [
+            "đoá",
+            "đoả"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thổ 土 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土垂"
+        ],
+        "Nét bút": [
+            "一丨一ノ一丨一丨丨一一"
+        ],
+        "Thương Hiệt": [
+            "GHJM (土竹十一)"
+        ],
+        "Unicode": [
+            "U+57F5"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "duǒ ㄉㄨㄛˇ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タ (ta)"
+        ],
+        "Âm Quảng Đông": [
+            "do2"
+        ]
+    },
+    "meanings": {
+        "đoá": {
+            "Từ điển phổ thông": [
+                "đất cứng",
+                "đê đập",
+                "đống đất",
+                "vun bùn đất",
+                "cái ống nối liền ống bễ với lò nấu kim loại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đất cứng.",
+                "(Danh) Ống nối với bễ lò (để nấu, luyện kim loại).",
+                "Xem 'Bồ-đề tát-đóa' 菩提薩埵."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Đất cứng;",
+                "Đê đập;",
+                "Đống đất;",
+                "Vun bùn đất;",
+                "Cái ống nối liền ống bễ với lò nấu kim loại."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đổ đất thành đống. Như chữ Đoá 垛."
+            ],
+            "compound_words": {
+                "菩提薩埵": "bồ đề tát đoá"
+            }
+        },
+        "đoả": {
+            "Từ điển trích dẫn": [
+                "(Danh) Đất cứng.",
+                "(Danh) Ống nối với bễ lò (để nấu, luyện kim loại).",
+                "Xem 'Bồ-đề tát-đóa' 菩提薩埵."
+            ]
+        }
+    }
+}

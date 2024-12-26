@@ -1,0 +1,81 @@
+{
+    "character": "兢",
+    "details": {
+        "Âm Hán Việt": [
+            "căng"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "nhân 儿 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰克克"
+        ],
+        "Nét bút": [
+            "一丨丨フ一ノフ一丨丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "JUJRU (十山十口山)"
+        ],
+        "Unicode": [
+            "U+5162"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jīng ㄐㄧㄥ"
+        ],
+        "Âm Nôm": [
+            "cạnh",
+            "căng",
+            "ganh",
+            "giằng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キョウ (kyō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おそ.れる (oso.reru)",
+            "つつ.しむ (tsutsu.shimu)"
+        ],
+        "Âm Hàn": [
+            "긍"
+        ],
+        "Âm Quảng Đông": [
+            "ging1"
+        ]
+    },
+    "meanings": {
+        "căng": {
+            "Từ điển phổ thông": [
+                "nơm nớp"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Kiêng dè, cẩn thận. § Cũng nói là 'căng căng' 兢兢. ◇Phan Nhạc 潘岳: 'Tâm chiến cụ dĩ căng tủng, như lâm thâm nhi lí bạc' 心戰懼以兢竦, 如臨深而履薄 (Tây chinh phú 西征賦) Trong lòng run sợ thận trọng, như đi tới vực sâu giẫm trên giá mỏng.",
+                "(Tính) Run sợ. ◇Trương Hành 張衡: 'Tương sạ vãng nhi vị bán, truật điệu lật nhi túng căng' 將乍往而未半, 怵悼慄而慫兢 (Tây kinh phú 西京賦)."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Nơm nớp. Tả cái dáng kiêng dè cẩn thận."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nơm nớp, kiêng dè thận trọng. 【兢兢業業】 căng căng nghiệp nghiệp [jingjing yèyè] Cần cù tận tuỵ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Kính sợ. Chẳng hạn Căng căng ( lo sợ ngay ngáy )."
+            ],
+            "compound_words": {
+                "戰兢": "chiến căng",
+                "戰兢兢": "chiến căng căng"
+            }
+        }
+    }
+}

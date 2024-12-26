@@ -1,0 +1,85 @@
+{
+    "character": "硃",
+    "details": {
+        "Âm Hán Việt": [
+            "chu",
+            "châu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thạch 石 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰石朱"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一ノ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "MRHJD (一口竹十木)"
+        ],
+        "Unicode": [
+            "U+7843"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhū ㄓㄨ"
+        ],
+        "Âm Nôm": [
+            "châu",
+            "chu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュ (shu)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zyu1"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển phổ thông": [
+                "một thứ đá đỏ dùng làm thuốc chế từ thuỷ ngân"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) § Xem “chu sa” 硃砂."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chu sa 硃砂 một thứ đá đỏ dùng làm thuốc được, dùng thuỷ ngân mà chế ra gọi là ngân chu 銀硃."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chu sa (Vermilion);",
+                "Thuộc về hoàng đế (vì chữ kí và các chỉ dụ của vua được viết bằng mực đỏ)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên loại khoáng chất màu đỏ, tức Chu sa 朱砂."
+            ],
+            "compound_words": {
+                "近硃近墨": "cận chu cận mặc",
+                "硃砂": "chu sa"
+            }
+        },
+        "châu": {
+            "Từ điển Trần Văn Chánh": [
+                "Chu sa (Vermilion);",
+                "Thuộc về hoàng đế (vì chữ kí và các chỉ dụ của vua được viết bằng mực đỏ)."
+            ],
+            "compound_words": {
+                "土硃": "thổ châu"
+            }
+        }
+    }
+}

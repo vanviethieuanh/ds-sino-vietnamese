@@ -1,0 +1,102 @@
+{
+    "character": "貝",
+    "details": {
+        "Âm Hán Việt": [
+            "bối"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "bối 貝 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "BUC (月山金)"
+        ],
+        "Unicode": [
+            "U+8C9D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "bèi ㄅㄟˋ"
+        ],
+        "Âm Nôm": [
+            "bói",
+            "bối",
+            "búi",
+            "buổi",
+            "mấy",
+            "mới",
+            "với",
+            "vuối"
+        ],
+        "Âm Nhật (onyomi)": [
+            "バイ (bai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かい (kai)"
+        ],
+        "Âm Hàn": [
+            "패",
+            "배"
+        ],
+        "Âm Quảng Đông": [
+            "bui3"
+        ]
+    },
+    "meanings": {
+        "bối": {
+            "Từ điển phổ thông": [
+                "con sò, hến",
+                "vật quý",
+                "tiền tệ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sò, hến.",
+                "(Danh) Ngày xưa dùng vỏ sò làm tiền, gọi là 'bối hóa' 貝貨.",
+                "(Danh) § Xem 'bảo bối' 寶貝.",
+                "(Danh) Tên một nhạc khí thời xưa, làm bằng sò ốc, dùng trong Phạm nhạc 梵樂.",
+                "(Danh) Nói tắt của 'bối-đa' 貝多 hoặc 'bối-đa-la thụ' 貝多羅樹. § Các đồ đệ Phật lấy lá cây bối viết kinh gọi là 'bối diệp kinh' 貝葉經.",
+                "(Danh) Họ 'Bối'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con sò, ngày xưa dùng vỏ sò làm tiền tiêu, cho nên những chữ nói về của cải phần nhiều có chữ 貝 ở bên, những đồ quý báu gọi là bảo bối 寶貝.",
+                "Các đồ đệ Phật lấy lá cây bối đa viết kinh gọi là bối diệp kinh 貝葉經.",
+                "Trang sức."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Loài sò, hến (nói chung);",
+                "Tiền thời xưa làm bằng vỏ sò, vỏ hến;",
+                "Quý giá, quý báu: 寶貝 Đồ quý báu;",
+                "(lí) Bel (đơn vị do công suất dùng trong điện học hoặc âm học);",
+                "Cây bối đa 貝葉經 Kinh viết bằng lá cây bối đa;",
+                "[Bèi] (Họ) Bối."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỉ chung loài sò hến — tiền bạc (thời cổ làm bằng vỏ hến) — Đồ quý báu, chẳng hạn Bảo bối."
+            ],
+            "compound_words": {
+                "寶貝": "bảo bối",
+                "編貝": "biên bối",
+                "貝編": "bối biên",
+                "貝貨": "bối hoá",
+                "貝溪集": "bối khê tập",
+                "貝寧": "bối ninh",
+                "貝子": "bối tử",
+                "貝殼": "bối xác",
+                "螺貝": "loa bối"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "character": "硉",
+    "details": {
+        "Âm Hán Việt": [
+            "luật",
+            "lột"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "thạch 石 (+6 nét)"
+        ],
+        "Hình thái": [
+            "⿰石聿"
+        ],
+        "Nét bút": [
+            "一ノ丨フ一フ一一一一丨"
+        ],
+        "Thương Hiệt": [
+            "MRLQ (一口中手)"
+        ],
+        "Unicode": [
+            "U+7849"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lù ㄌㄨˋ"
+        ],
+        "Âm Quảng Đông": [
+            "leot6"
+        ]
+    },
+    "meanings": {
+        "luật": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đá núi hiểm trở, cheo leo. Cũng nói luật ngột 矹硉."
+            ]
+        },
+        "lột": {
+            "Từ điển phổ thông": [
+                "cao và thẳng"
+            ],
+            "compound_words": {
+                "硉矹": "lột ngột"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "character": "鶴",
+    "details": {
+        "Âm Hán Việt": [
+            "hạc"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰隺鳥"
+        ],
+        "Nét bút": [
+            "丶フノ丨丶一一一丨一ノ丨フ一一一フ丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "OGHAF (人土竹日火)"
+        ],
+        "Unicode": [
+            "U+9DB4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "hè ㄏㄜˋ"
+        ],
+        "Âm Nôm": [
+            "hạc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カク (kaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つる (tsuru)"
+        ],
+        "Âm Hàn": [
+            "학"
+        ],
+        "Âm Quảng Đông": [
+            "hok6"
+        ]
+    },
+    "meanings": {
+        "hạc": {
+            "Từ điển phổ thông": [
+                "chim hạc, con sếu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chim hạc, sếu. ◇Nguyễn Trãi 阮廌: 'Viên hạc tiêu điều ý phỉ câm' 猿鶴蕭條意匪禁 (Khất nhân họa Côn Sơn đồ 乞人畫崑山圖) Vượn và hạc tiêu điều, cảm xúc khó cầm.",
+                "(Danh) Họ 'Hạc'.",
+                "(Tính) Bạc, trắng. ◇Dữu Tín 庾信: 'Hạc phát kê bì, bồng đầu lịch xỉ' 鶴髮雞皮, 蓬頭歷齒 (Trúc trượng phú 竹杖賦) Tóc bạc da mồi, đầu bù răng thưa."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Chim hạc, sếu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(động) Hạc, sếu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một giống chim thuộc loài cò, hình dáng thanh nhã, bay cao. Ta cũng gọi là chim bạc."
+            ],
+            "compound_words": {
+                "琴鶴": "cầm hạc",
+                "孤雲野鶴": "cô vân dã hạc",
+                "野鶴": "dã hạc",
+                "鶴髪": "hạc phát",
+                "鶴膝": "hạc tất",
+                "鶴夀": "hạc thọ",
+                "化鶴": "hoá hạc",
+                "跨鶴": "khoá hạc"
+            }
+        }
+    }
+}

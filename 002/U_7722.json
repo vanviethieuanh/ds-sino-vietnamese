@@ -1,0 +1,77 @@
+{
+    "character": "眢",
+    "details": {
+        "Âm Hán Việt": [
+            "oan",
+            "uyên"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "mục 目 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱夗目"
+        ],
+        "Nét bút": [
+            "ノフ丶フフ丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "NUBU (弓山月山)"
+        ],
+        "Unicode": [
+            "U+7722"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yuān ㄩㄢ"
+        ],
+        "Âm Nôm": [
+            "oan"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワン (wan)",
+            "エン (en)",
+            "オン (on)"
+        ],
+        "Âm Quảng Đông": [
+            "jyun1"
+        ]
+    },
+    "meanings": {
+        "oan": {
+            "Từ điển phổ thông": [
+                "con ngươi lõm vào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Con ngươi mắt khô, mắt không sáng.",
+                "(Tính) Khô, không có nước. ◎Như: 'oan tỉnh' 眢井 giếng khô, giếng bỏ hoang."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ngươi dọp lõm vào.",
+                "Giếng khô không nước gọi là oan tỉnh 眢井."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Mắt khô lõm vào (không thấy đường);",
+                "Khô cạn (không có nước): 眢井 Giếng khô."
+            ],
+            "compound_words": {
+                "眢井": "oan tỉnh"
+            }
+        },
+        "uyên": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mắt mờ, không thấy rõ."
+            ]
+        }
+    }
+}

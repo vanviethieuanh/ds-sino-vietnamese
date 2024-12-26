@@ -1,0 +1,76 @@
+{
+    "character": "嘮",
+    "details": {
+        "Âm Hán Việt": [
+            "lao",
+            "lạo"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "khẩu 口 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口勞"
+        ],
+        "Nét bút": [
+            "丨フ一丶ノノ丶丶ノノ丶丶フフノ"
+        ],
+        "Thương Hiệt": [
+            "RFFS (口火火尸)"
+        ],
+        "Unicode": [
+            "U+562E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "láo ㄌㄠˊ",
+            "lào ㄌㄠˋ"
+        ],
+        "Âm Nôm": [
+            "lao"
+        ],
+        "Âm Quảng Đông": [
+            "lou4"
+        ]
+    },
+    "meanings": {
+        "lao": {
+            "Từ điển phổ thông": [
+                "hót líu lo",
+                "nói nhiều"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) § Xem 'lao thao' 嘮叨.",
+                "(Tính) § Xem 'lao lao' 嘮嘮."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Lao thao 嘮叨 nói bát sát (nói nhiều)."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói nhiều, nhiều lời, lắm lời, già chuyện. 【嘮叨】lao đao (thao) [láodao] Lảm nhảm, làm nhàm: 嘮叨半天 Lảm nhảm mãi. Xem 嘮 [lào]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói liền miệng, không ngớt."
+            ],
+            "compound_words": {
+                "嘮嘮": "lao lao",
+                "嘮叨": "lao thao"
+            }
+        },
+        "lạo": {
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Nói, nói chuyện: 大家在一起嘮得很熱鬧 Chúng ta chuyện trò rất vui. Xem 嘮 [láo]."
+            ]
+        }
+    }
+}

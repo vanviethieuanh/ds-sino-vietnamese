@@ -1,0 +1,65 @@
+{
+    "character": "悬",
+    "details": {
+        "Âm Hán Việt": [
+            "huyền"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "tâm 心 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿳且厶心"
+        ],
+        "Nét bút": [
+            "丨フ一一一フ丶丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "BIP (月戈心)"
+        ],
+        "Unicode": [
+            "U+60AC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "xuán ㄒㄩㄢˊ"
+        ],
+        "Âm Nôm": [
+            "huyền"
+        ],
+        "Âm Quảng Đông": [
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "huyền": {
+            "Từ điển phổ thông": [
+                "còn lại, tồn lại",
+                "sai, cách biệt",
+                "treo lên"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 懸."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 懸"
+            ],
+            "compound_words": {
+                "悬疑": "huyền nghi",
+                "悬崖": "huyền nhai",
+                "悬岩": "huyền nham",
+                "悬挂": "huyền quải"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "character": "脏",
+    "details": {
+        "Âm Hán Việt": [
+            "táng",
+            "tạng",
+            "tảng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nhục 肉 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰月庄"
+        ],
+        "Nét bút": [
+            "ノフ一一丶一ノ一丨一"
+        ],
+        "Thương Hiệt": [
+            "BIG (月戈土)"
+        ],
+        "Unicode": [
+            "U+810F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zāng ㄗㄤ",
+            "zǎng ㄗㄤˇ",
+            "zàng ㄗㄤˋ"
+        ],
+        "Âm Nôm": [
+            "táng"
+        ],
+        "Âm Quảng Đông": [
+            "zong6"
+        ]
+    },
+    "meanings": {
+        "táng": {
+            "Từ điển Trần Văn Chánh": [
+                "Bẩn: 骯髒 Bẩn thỉu; 淡顏色的布容易髒 Vải màu nhạt dễ bẩn. Xem 臟 [zàng]."
+            ]
+        },
+        "tạng": {
+            "Từ điển phổ thông": [
+                "cơ quan nội tạng (ngũ tạng gồm có: 心 tâm; 肝 can; 脾 tỳ; 肺 phế; 腎 thận)"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 臟.",
+                "Giản thể của chữ 髒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 臟"
+            ],
+            "compound_words": {
+                "內脏": "nội tạng"
+            }
+        },
+        "tảng": {
+            "Từ điển phổ thông": [
+                "(xem: khảng tảng 骯髒)",
+                "bẩn thỉu"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 臟.",
+                "Giản thể của chữ 髒."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bẩn: 骯髒 Bẩn thỉu; 淡顏色的布容易髒 Vải màu nhạt dễ bẩn. Xem 臟 [zàng]."
+            ],
+            "compound_words": {
+                "肮脏": "khảng tảng"
+            }
+        }
+    }
+}

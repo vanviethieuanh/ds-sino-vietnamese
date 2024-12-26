@@ -1,0 +1,62 @@
+{
+    "character": "鸠",
+    "details": {
+        "Âm Hán Việt": [
+            "cưu"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "điểu 鳥 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰九鸟"
+        ],
+        "Nét bút": [
+            "ノフノフ丶フ一"
+        ],
+        "Thương Hiệt": [
+            "KNPYM (大弓心卜一)"
+        ],
+        "Unicode": [
+            "U+9E20"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiū ㄐㄧㄡ"
+        ],
+        "Âm Quảng Đông": [
+            "gau1",
+            "kau2"
+        ]
+    },
+    "meanings": {
+        "cưu": {
+            "Từ điển phổ thông": [
+                "chim tu hú"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 鳩."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 鳩"
+            ],
+            "compound_words": {
+                "斑鸠": "ban cưu",
+                "鹘鸠": "cốt cưu",
+                "雎鸠": "thư cưu",
+                "鹴鸠": "sương cưu",
+                "鸤鸠": "thi cưu"
+            }
+        }
+    }
+}

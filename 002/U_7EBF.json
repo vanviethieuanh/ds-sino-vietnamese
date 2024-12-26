@@ -1,0 +1,67 @@
+{
+    "character": "线",
+    "details": {
+        "Âm Hán Việt": [
+            "tuyến"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "mịch 糸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟戋"
+        ],
+        "Nét bút": [
+            "フフ一一一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "VMIJ (女一戈十)"
+        ],
+        "Unicode": [
+            "U+7EBF"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiàn ㄒㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tuyến"
+        ],
+        "Âm Quảng Đông": [
+            "sin3"
+        ]
+    },
+    "meanings": {
+        "tuyến": {
+            "Từ điển phổ thông": [
+                "đường, tia"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 綫.",
+                "Giản thể của chữ 線."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 綫"
+            ],
+            "compound_words": {
+                "佔线": "chiếm tuyến",
+                "底线": "để tuyến",
+                "电线": "điện tuyến",
+                "金线蛙": "kim tuyến oa",
+                "非对称式数据用户线": "phi đối xứng thức số cứ dụng hộ tuyến",
+                "光线": "quang tuyến",
+                "射线": "xạ tuyến"
+            }
+        }
+    }
+}

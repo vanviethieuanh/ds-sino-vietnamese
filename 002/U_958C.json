@@ -1,0 +1,70 @@
+{
+    "character": "閌",
+    "details": {
+        "Âm Hán Việt": [
+            "khang",
+            "kháng"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "môn 門 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿵門亢"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丶一ノフ"
+        ],
+        "Thương Hiệt": [
+            "ANYHN (日弓卜竹弓)"
+        ],
+        "Unicode": [
+            "U+958C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "kāng ㄎㄤ",
+            "kàng ㄎㄤˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Quảng Đông": [
+            "kong3"
+        ]
+    },
+    "meanings": {
+        "khang": {
+            "Từ điển phổ thông": [
+                "cao lớn, đồ sộ"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【閌閬】 khang lang [kangláng] (đph) Phần trống không của một vật kiến trúc."
+            ],
+            "compound_words": {
+                "閌閬": "khang lãng"
+            }
+        },
+        "kháng": {
+            "Từ điển phổ thông": [
+                "(xem: khang lang 閌閬,闶阆)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cao lớn, đồ sộ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái cửa thật cao — Cao ( trái với thấp )."
+            ]
+        }
+    }
+}

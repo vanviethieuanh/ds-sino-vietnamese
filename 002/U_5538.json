@@ -1,0 +1,87 @@
+{
+    "character": "唸",
+    "details": {
+        "Âm Hán Việt": [
+            "niệm",
+            "điếm"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "khẩu 口 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口念"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶丶フ丶フ丶丶"
+        ],
+        "Thương Hiệt": [
+            "ROIP (口人戈心)"
+        ],
+        "Unicode": [
+            "U+5538"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "diàn ㄉㄧㄢˋ",
+            "niàn ㄋㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "điếm",
+            "nếm",
+            "niệm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "テン (ten)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うな.る (una.ru)",
+            "うなり (unari)"
+        ],
+        "Âm Hàn": [
+            "점",
+            "전"
+        ],
+        "Âm Quảng Đông": [
+            "nim6"
+        ]
+    },
+    "meanings": {
+        "niệm": {
+            "Từ điển trích dẫn": [
+                "(Động) Tụng, đọc. ◎Như: 'niệm thư' 唸書 đọc sách, 'niệm kinh' 唸經 tụng kinh , 'niệm chú' 唸咒 đọc chú.",
+                "§ Cũng như chữ 念."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đọc (như 念, bộ 心, nghĩa",
+                ")."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đọc lên. Ngâm lên."
+            ],
+            "compound_words": {
+                "唸經": "niệm kinh",
+                "唸佛": "niệm phật",
+                "唸書": "niệm thư"
+            }
+        },
+        "điếm": {
+            "Từ điển phổ thông": [
+                "rên rỉ"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "【唸呎】điếm hi [diànxi] (văn) Rên rỉ."
+            ]
+        }
+    }
+}

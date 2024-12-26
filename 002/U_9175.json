@@ -1,0 +1,81 @@
+{
+    "character": "酵",
+    "details": {
+        "Âm Hán Việt": [
+            "diếu",
+            "giáo"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "dậu 酉 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰酉孝"
+        ],
+        "Nét bút": [
+            "一丨フノフ一一一丨一ノフ丨一"
+        ],
+        "Thương Hiệt": [
+            "MWJKD (一田十大木)"
+        ],
+        "Unicode": [
+            "U+9175"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "jiào ㄐㄧㄠˋ",
+            "xiào ㄒㄧㄠˋ"
+        ],
+        "Âm Nôm": [
+            "dáo",
+            "diếu",
+            "giáo",
+            "giếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "효"
+        ],
+        "Âm Quảng Đông": [
+            "gaau3",
+            "haau1"
+        ]
+    },
+    "meanings": {
+        "diếu": {
+            "Từ điển phổ thông": [
+                "men rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Men. ◎Như: “phát diếu” 發酵 lên men."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Men, meo mốc là chất chảy hâm có chất đường, vì tác dụng hoá học sinh ra vi trùng nổi bọt meo lên thành ra chất chua, gọi là phát diếu 發酵 lên men. Như ủ rượu gây giấm biến ra mùi chua đều là vì thế, cho rượu vào bột cho nó bốc bồng lên cũng gọi là phát diếu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Men: 發酵 Lên men, dậy men."
+            ]
+        },
+        "giáo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chất men, do vật thể để lâu mà thành. Chẳng hạn Phát giáo ( lên men ). Cũng gọi là Giáo mẫu."
+            ],
+            "compound_words": {
+                "發酵": "phát giáo",
+                "醱酵": "phát giáo"
+            }
+        }
+    }
+}

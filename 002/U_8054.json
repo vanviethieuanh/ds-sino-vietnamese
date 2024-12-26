@@ -1,0 +1,70 @@
+{
+    "character": "联",
+    "details": {
+        "Âm Hán Việt": [
+            "liên"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "nhĩ 耳 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰耳关"
+        ],
+        "Nét bút": [
+            "一丨丨一一一丶ノ一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "SJTK (尸十廿大)"
+        ],
+        "Unicode": [
+            "U+8054"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "liên"
+        ],
+        "Âm Quảng Đông": [
+            "lyun4"
+        ]
+    },
+    "meanings": {
+        "liên": {
+            "Từ điển phổ thông": [
+                "liên minh, liên kết",
+                "câu đối"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 聯."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 聯"
+            ],
+            "compound_words": {
+                "东南亚国家联盟": "đông nam á quốc gia liên minh",
+                "互联": "hỗ liên",
+                "联系": "liên hệ",
+                "联欢": "liên hoan",
+                "联合": "liên hợp",
+                "联结": "liên kết",
+                "联络": "liên lạc",
+                "联盟": "liên minh",
+                "联翻": "liên phiên",
+                "春联": "xuân liên"
+            }
+        }
+    }
+}

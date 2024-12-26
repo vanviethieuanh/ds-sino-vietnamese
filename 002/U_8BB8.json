@@ -1,0 +1,86 @@
+{
+    "character": "许",
+    "details": {
+        "Âm Hán Việt": [
+            "hổ",
+            "hứa",
+            "hử"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "ngôn 言 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠午"
+        ],
+        "Nét bút": [
+            "丶フノ一一丨"
+        ],
+        "Thương Hiệt": [
+            "IVOJ (戈女人十)"
+        ],
+        "Unicode": [
+            "U+8BB8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hǔ ㄏㄨˇ",
+            "xǔ ㄒㄩˇ"
+        ],
+        "Âm Nôm": [
+            "hứa"
+        ],
+        "Âm Quảng Đông": [
+            "heoi2"
+        ]
+    },
+    "meanings": {
+        "hổ": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 許."
+            ]
+        },
+        "hứa": {
+            "Từ điển phổ thông": [
+                "khen",
+                "hứa hẹn",
+                "rất, lắm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 許."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 許"
+            ],
+            "compound_words": {
+                "准许": "chuẩn hứa",
+                "也许": "dã hứa",
+                "允许": "duẫn hứa",
+                "容许": "dung hứa",
+                "或许": "hoặc hứa",
+                "些许": "ta hứa"
+            }
+        },
+        "hử": {
+            "Từ điển phổ thông": [
+                "như thế (tiếng dùng làm trợ ngữ)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 許."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 許"
+            ]
+        }
+    }
+}

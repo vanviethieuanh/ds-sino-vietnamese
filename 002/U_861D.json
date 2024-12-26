@@ -1,0 +1,83 @@
+{
+    "character": "蘝",
+    "details": {
+        "Âm Hán Việt": [
+            "liêm",
+            "liễm"
+        ],
+        "Tổng nét": [
+            "20"
+        ],
+        "Bộ": [
+            "thảo 艸 (+17 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹歛"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶一丨フ一丨フ一ノ丶ノ丶ノフノ丶"
+        ],
+        "Thương Hiệt": [
+            "TOOO (廿人人人)"
+        ],
+        "Unicode": [
+            "U+861D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ",
+            "liǎn ㄌㄧㄢˇ",
+            "liàn ㄌㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "lém",
+            "liễm"
+        ]
+    },
+    "meanings": {
+        "liêm": {
+            "Từ điển phổ thông": [
+                "(xem: ô liêm mẫu 烏蘝母,乌蔹母)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Ô liêm mẫu' 烏蘝母 một thứ cỏ bò lan, dùng làm thuốc được (lat. Cayratia corniculata).",
+                "Một âm là 'liễm'. (Danh) Một thứ cỏ mọc từng khóm, thứ trắng gọi là 'bạch liễm' 白蘝 (lat. Ampelopsis japonica), thứ đỏ gọi là 'xích liễm' 赤蘝, vỏ dùng làm thuốc.",
+                "§ Cũng viết là 蘞."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ô liêm mẫu 烏蘝母 một thứ cỏ bò lan, dùng làm thuốc được.",
+                "Một âm là liễm. Một thứ cỏ mọc từng khóm. Thứ trắng gọi là bạch liễm 白蘝, thứ đỏ gọi là xích liễm 赤蘝. Vỏ dùng làm thuốc.",
+                "Có chỗ viết là 蘞."
+            ],
+            "compound_words": {
+                "烏蘝母": "ô liêm mẫu"
+            }
+        },
+        "liễm": {
+            "Từ điển phổ thông": [
+                "(xem: ô liêm mẫu 烏蘝母,乌蔹母)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Ô liêm mẫu' 烏蘝母 một thứ cỏ bò lan, dùng làm thuốc được (lat. Cayratia corniculata).",
+                "Một âm là 'liễm'. (Danh) Một thứ cỏ mọc từng khóm, thứ trắng gọi là 'bạch liễm' 白蘝 (lat. Ampelopsis japonica), thứ đỏ gọi là 'xích liễm' 赤蘝, vỏ dùng làm thuốc.",
+                "§ Cũng viết là 蘞."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ô liêm mẫu 烏蘝母 một thứ cỏ bò lan, dùng làm thuốc được.",
+                "Một âm là liễm. Một thứ cỏ mọc từng khóm. Thứ trắng gọi là bạch liễm 白蘝, thứ đỏ gọi là xích liễm 赤蘝. Vỏ dùng làm thuốc.",
+                "Có chỗ viết là 蘞."
+            ],
+            "compound_words": {
+                "烏蘝母": "ô liễm mẫu"
+            }
+        }
+    }
+}

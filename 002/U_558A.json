@@ -1,0 +1,85 @@
+{
+    "character": "喊",
+    "details": {
+        "Âm Hán Việt": [
+            "hám",
+            "hảm"
+        ],
+        "Tổng nét": [
+            "12"
+        ],
+        "Bộ": [
+            "khẩu 口 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口咸"
+        ],
+        "Nét bút": [
+            "丨フ一一ノ一丨フ一フノ丶"
+        ],
+        "Thương Hiệt": [
+            "RIHR (口戈竹口)"
+        ],
+        "Unicode": [
+            "U+558A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "hǎn ㄏㄢˇ"
+        ],
+        "Âm Nôm": [
+            "hảm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "ヤク (yaku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さけ.ぶ (sake.bu)"
+        ],
+        "Âm Hàn": [
+            "함"
+        ],
+        "Âm Quảng Đông": [
+            "haam3",
+            "ham6"
+        ]
+    },
+    "meanings": {
+        "hám": {
+            "Từ điển phổ thông": [
+                "kêu gào"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gọi lớn lên. Kêu to lên."
+            ]
+        },
+        "hảm": {
+            "Từ điển phổ thông": [
+                "kêu gào"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hô lớn, quát tháo. ◎Như: 'hô hảm' 呼喊 hò reo.",
+                "(Động) Kêu, gọi. ◎Như: 'khoái bả tha hảm lai' 快把他喊來 hãy mau gọi nó lại."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Hô, quát tháo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hô, kêu, gọi, quát tháo: 喊口號 Hô khẩu hiệu; 喊他一聲 Gọi anh ấy một tiếng; 喊救命 Kêu cứu."
+            ],
+            "compound_words": {
+                "呼喊": "hô hảm",
+                "叫喊": "khiếu hảm"
+            }
+        }
+    }
+}

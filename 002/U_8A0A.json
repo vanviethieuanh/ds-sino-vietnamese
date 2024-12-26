@@ -1,0 +1,112 @@
+{
+    "character": "訊",
+    "details": {
+        "Âm Hán Việt": [
+            "tấn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "ngôn 言 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言卂"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一フ一丨"
+        ],
+        "Thương Hiệt": [
+            "YRNJ (卜口弓十)"
+        ],
+        "Unicode": [
+            "U+8A0A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "tấn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジン (jin)",
+            "シュン (shun)",
+            "シン (shin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.く (ki.ku)",
+            "と.う (to.u)",
+            "たず.ねる (tazu.neru)"
+        ],
+        "Âm Hàn": [
+            "신"
+        ],
+        "Âm Quảng Đông": [
+            "seon3"
+        ]
+    },
+    "meanings": {
+        "tấn": {
+            "Từ điển phổ thông": [
+                "hỏi, hỏi thăm",
+                "tin tức",
+                "can ngăn",
+                "nhường"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hỏi, kẻ trên hỏi kẻ dưới.",
+                "(Động) Hỏi thăm. ◇Nguyễn Du 阮攸: 'Cổ tự vô danh nan vấn tấn' 古寺無名難問訊 (Thương Ngô Trúc Chi ca 蒼梧竹枝歌) Chùa cổ không tên khó hỏi thăm.",
+                "(Động) Tra hỏi, thẩm vấn. ◎Như: 'tấn cúc' 訊鞫 tra xét lấy khẩu cung, 'thẩm tấn phạm nhân' 審訊犯人 tra hỏi người phạm tội.",
+                "(Động) Trách hỏi.",
+                "(Động) Can.",
+                "(Động) Nhường.",
+                "(Động) Mách bảo, báo cho biết. ◇Kê Khang 嵇康: 'Ngưỡng tấn cao vân, Phủ thác khinh ba' 仰訊高雲, 俯託輕波 (Tứ ngôn tặng huynh tú tài nhập quân 四言贈兄秀才入軍) Ngẩng lên bảo mây cao, Cúi xuống xin sóng nhẹ.",
+                "(Động) Mưu.",
+                "(Danh) Tin tức, tiêu tức. ◎Như: 'âm tấn' 音訊 tin tức, tăm hơi, 'hoa tấn' 花訊 tin hoa nở. ◇Nguyên Chẩn 元稹: 'Cố giao âm tấn thiểu' 故交音訊少 (Thù Lạc Thiên tảo xuân nhàn du Tây Hồ 酬樂天早春閑遊西湖) Bạn cũ tin tức ít."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Hỏi. Kẻ trên hỏi kẻ dưới là tấn.",
+                "Thư hỏi thăm, như âm tấn 音訊 tăm hơi. Nguyễn Du 阮攸: Cổ tự vô danh nan vấn tấn 古寺無名難問訊 chùa cổ không tên khó hỏi thăm.",
+                "Tiêu tức. Như hoa tấn 花訊 tin hoa nở.",
+                "Tra tấn. Như tấn cúc 訊鞫 tra xét lấy khẩu cung.",
+                "Can.",
+                "Nhường.",
+                "Mách bảo.",
+                "Mưu.",
+                "Nhanh chóng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tin, tin tức: 新華社訊 Tin Tân Hoa xã; 聞訊赶到 Được tin chạy đến; 花訊 Tin hoa nở;",
+                "Hỏi, tra hỏi: 刑訊 Tra hỏi, tra tấn; 審訊犯人 Tra hỏi người mắc tội; 訊鞫 Tra hỏi lấy khẩu cung;",
+                "(văn) Can;",
+                "(văn) Nhường;",
+                "(văn) Mách bảo;",
+                "(văn) Mưu;",
+                "(văn) Nhanh chóng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hỏi, hạch hỏi — Nói cho biết — Tin tức. Td: Thông tấn."
+            ],
+            "compound_words": {
+                "鞫訊": "cúc tấn",
+                "訊斷": "tấn đoán",
+                "訊考": "tấn khảo",
+                "訊檢": "tấn kiểm",
+                "訊雷": "tấn lôi",
+                "訊問": "tấn vấn",
+                "審訊": "thẩm tấn",
+                "通訊社": "thông tấn xã",
+                "查訊": "tra tấn"
+            }
+        }
+    }
+}

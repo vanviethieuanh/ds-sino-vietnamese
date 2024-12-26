@@ -1,0 +1,104 @@
+{
+    "character": "幡",
+    "details": {
+        "Âm Hán Việt": [
+            "phan",
+            "phiên"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "cân 巾 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰巾番"
+        ],
+        "Nét bút": [
+            "丨フ丨ノ丶ノ一丨ノ丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "LBHDW (中月竹木田)"
+        ],
+        "Unicode": [
+            "U+5E61"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "fān ㄈㄢ"
+        ],
+        "Âm Nôm": [
+            "phan",
+            "phiên",
+            "phướn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "マン (man)",
+            "ハン (han)",
+            "バン (ban)",
+            "ホン (hon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はた (hata)"
+        ],
+        "Âm Hàn": [
+            "번"
+        ],
+        "Âm Quảng Đông": [
+            "faan1"
+        ]
+    },
+    "meanings": {
+        "phan": {
+            "Từ điển trích dẫn": [
+                "(Danh) Phướn. § Cờ hiệu hẹp và dài. ◇Pháp Hoa Kinh 法華經: 'Nhất nhất tháp miếu, Các thiên tràng phiên' 一一塔廟, 各千幢幡 (Tự phẩm đệ nhất 序品第一) Chùa chùa miếu miếu, Cả ngàn cờ phướn.",
+                "(Phó) § Xem 'phiên nhiên' 幡然.",
+                "Cũng đọc là 'phan'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cờ, lá phướn, cánh phan;",
+                "【旛然】 phan nhiên [fanrán] Như 譯然 [fanrán]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Phan 旛."
+            ],
+            "compound_words": {
+                "幡幡": "phan phan"
+            }
+        },
+        "phiên": {
+            "Từ điển phổ thông": [
+                "cờ hiệu",
+                "lật mặt"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Phướn. § Cờ hiệu hẹp và dài. ◇Pháp Hoa Kinh 法華經: 'Nhất nhất tháp miếu, Các thiên tràng phiên' 一一塔廟, 各千幢幡 (Tự phẩm đệ nhất 序品第一) Chùa chùa miếu miếu, Cả ngàn cờ phướn.",
+                "(Phó) § Xem 'phiên nhiên' 幡然.",
+                "Cũng đọc là 'phan'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cờ hiệu.",
+                "Lật mặt, cũng như chữ phiên 翻, như phiên nhiên cải viết 幡然改曰 trở mặt đổi giọng rằng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cờ hiệu (như 旛, bộ 方);",
+                "Đột ngột, thình lình: 幡然改曰 Đột nhiên đổi giọng rằng; 那浪子幡然改途 Chàng lãng tử kia đột ngột thay đổi lối sống."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lá cờ hẹp mà dài — Cờ rủ xuống — Biển động. Thay đổi mạnh mẽ."
+            ],
+            "compound_words": {
+                "幡然": "phiên nhiên",
+                "幢幡": "tràng phiên"
+            }
+        }
+    }
+}

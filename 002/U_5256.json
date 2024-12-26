@@ -1,0 +1,87 @@
+{
+    "character": "剖",
+    "details": {
+        "Âm Hán Việt": [
+            "phẫu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "đao 刀 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰咅⺉"
+        ],
+        "Nét bút": [
+            "丶一丶ノ一丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "YRLN (卜口中弓)"
+        ],
+        "Unicode": [
+            "U+5256"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pōu ㄆㄡ"
+        ],
+        "Âm Nôm": [
+            "bo",
+            "mổ",
+            "phẫu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)"
+        ],
+        "Âm Hàn": [
+            "부"
+        ],
+        "Âm Quảng Đông": [
+            "fau2",
+            "pau2"
+        ]
+    },
+    "meanings": {
+        "phẫu": {
+            "Từ điển phổ thông": [
+                "mổ, giải phẫu",
+                "trình bày rõ ràng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Phanh ra, bổ ra, mổ ra. ◎Như: 'giải phẫu' 解剖 mổ xẻ. ◇Trang Tử 莊子: 'Tử Tư trầm giang, Tỉ Can phẫu tâm' 子胥沉江, 比干剖心 (Đạo Chích 盜跖) Tử Tư chết chìm dưới sông, Tỉ Can bị moi tim.",
+                "(Động) Phân tách, biện minh. ◎Như: 'phẫu minh' 剖明 tách rõ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Phanh ra, như phẫu giải 剖解 mổ xẻ.",
+                "Phân tách rõ ràng, như phẫu minh 剖明 tách rõ nguyên uỷ của một sự gì."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mổ, phẫu, mổ xẻ, cắt: 病理解剖 Giải phẫu bệnh lí; 解剖 Mổ xẻ, giải phẫu;",
+                "Phân tách rõ ràng: 剖明 Phân tách cho rõ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Dùng dao mà bổ ra — Mổ xẻ. Td: Giải phẫu."
+            ],
+            "compound_words": {
+                "解剖": "giải phẫu",
+                "觧剖": "giải phẫu",
+                "剖斷": "phẫu đoán",
+                "剖解": "phẫu giải",
+                "剖觧": "phẫu giải",
+                "剖決": "phẫu quyết",
+                "剖心": "phẫu tâm",
+                "剖析": "phẫu tích",
+                "瓜剖": "qua phẫu"
+            }
+        }
+    }
+}

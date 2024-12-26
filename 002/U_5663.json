@@ -1,0 +1,82 @@
+{
+    "character": "噣",
+    "details": {
+        "Âm Hán Việt": [
+            "trác",
+            "trú",
+            "trụ"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Hình thái": [
+            "⿰口蜀"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ丨丨一ノフ丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "RWLI (口田中戈)"
+        ],
+        "Unicode": [
+            "U+5663"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "zhòu ㄓㄡˋ",
+            "zhuó ㄓㄨㄛˊ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュ (chu)",
+            "チュウ (chū)",
+            "トウ (tō)",
+            "ツ (tsu)",
+            "ショク (shoku)",
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "くちばし (kuchibashi)",
+            "ついば.む (tsuiba.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "doek3",
+            "zau3",
+            "zyu1"
+        ]
+    },
+    "meanings": {
+        "trác": {
+            "Từ điển phổ thông": [
+                "mổ (chim)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) (Chim) mổ, ăn (như 啄)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Trác 啄 — Xem Trú."
+            ]
+        },
+        "trú": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái miệng — Một âm là Trác."
+            ]
+        },
+        "trụ": {
+            "Từ điển phổ thông": [
+                "mỏ chim",
+                "tên gọi khác của sao Liễu (một trong Nhị thập bát tú)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Như 咮."
+            ]
+        }
+    }
+}

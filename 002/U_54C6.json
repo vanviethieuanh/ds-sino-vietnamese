@@ -1,0 +1,105 @@
+{
+    "character": "哆",
+    "details": {
+        "Âm Hán Việt": [
+            "sỉ",
+            "xỉ",
+            "đá"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "khẩu 口 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口多"
+        ],
+        "Nét bút": [
+            "丨フ一ノフ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "RNIN (口弓戈弓)"
+        ],
+        "Unicode": [
+            "U+54C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chǐ ㄔˇ",
+            "duō ㄉㄨㄛ"
+        ],
+        "Âm Nôm": [
+            "đe",
+            "đớ",
+            "đứ",
+            "sỉ",
+            "xỉ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)",
+            "タ (ta)",
+            "シャ (sha)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おお.きい (ō.kii)",
+            "おおくち (ōkuchi)"
+        ],
+        "Âm Hàn": [
+            "치"
+        ],
+        "Âm Quảng Đông": [
+            "ce2",
+            "ci2",
+            "do1"
+        ]
+    },
+    "meanings": {
+        "sỉ": {
+            "Từ điển phổ thông": [
+                "há miệng"
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Há miệng. Cũng đọc là đá, trong thần chú thường dùng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Há miệng;",
+                "Run. 【哆嗦】sỉ sách [duosuo] Run cầm cập, lập cập, lẩy bẩy."
+            ],
+            "compound_words": {
+                "哆嗦": "sỉ sách"
+            }
+        },
+        "xỉ": {
+            "Từ điển trích dẫn": [
+                "(Tính) Miệng há. ◇Lí Ngữ Trưng Thật 里語徵實: 'Khẩu xỉ giáp trùng xuất, Lân tiêm tuyết tranh quang' 口哆頰重出, 鱗纖雪爭光 (Thực lư ngư 食鱸魚) Miệng há, hai má lồi ra, Vảy nhỏ trắng lấp lánh.",
+                "(Động) § Xem 'xỉ sách' 哆嗦.",
+                "Cũng đọc là 'đá'."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Há miệng lớn ra — Nhả ra. Thả ra. Buông ra — To lớn. Rộng lớn — Tiếng ồn ào của nhiều người."
+            ],
+            "compound_words": {
+                "哆嗦": "xỉ sách"
+            }
+        },
+        "đá": {
+            "Từ điển trích dẫn": [
+                "(Tính) Miệng há. ◇Lí Ngữ Trưng Thật 里語徵實: 'Khẩu xỉ giáp trùng xuất, Lân tiêm tuyết tranh quang' 口哆頰重出, 鱗纖雪爭光 (Thực lư ngư 食鱸魚) Miệng há, hai má lồi ra, Vảy nhỏ trắng lấp lánh.",
+                "(Động) § Xem 'xỉ sách' 哆嗦.",
+                "Cũng đọc là 'đá'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Há miệng. Cũng đọc là đá, trong thần chú thường dùng."
+            ]
+        }
+    }
+}

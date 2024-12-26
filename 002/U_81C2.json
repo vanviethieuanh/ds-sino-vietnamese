@@ -1,0 +1,92 @@
+{
+    "character": "臂",
+    "details": {
+        "Âm Hán Việt": [
+            "tí",
+            "tý"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nhục 肉 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱辟月"
+        ],
+        "Nét bút": [
+            "フ一ノ丨フ一丶一丶ノ一一丨丨フ一一"
+        ],
+        "Thương Hiệt": [
+            "SJB (尸十月)"
+        ],
+        "Unicode": [
+            "U+81C2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bēi ㄅㄟ",
+            "bèi ㄅㄟˋ",
+            "bì ㄅㄧˋ"
+        ],
+        "Âm Nôm": [
+            "tí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヒ (hi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひじ (hiji)"
+        ],
+        "Âm Hàn": [
+            "비"
+        ],
+        "Âm Quảng Đông": [
+            "bei3"
+        ]
+    },
+    "meanings": {
+        "tí": {
+            "Từ điển trích dẫn": [
+                "(Danh) Cánh tay. ◎Như: 'bả tí hoan tiếu' 把臂歡笑 nắm tay nhau vui cười, 'bả tí nhập lâm' 把臂入林 khoác tay vào rừng (cùng nhau đi ẩn), 'thất chi giao tí' 失之交臂 không khoác tay nữa (không hòa thuận nữa), 'bán tí' 半臂 áo cộc tay (áo trấn thủ).",
+                "(Danh) Hai 'chi' 肢 trước của động vật, phần thân dài của các loại khí giới như tay cung, cán nỏ, càng thang leo. ◎Như: 'viên tí' 猿臂 cánh tay vượn, 'đường tí đương xa' 螳臂當車 cánh tay bọ ngựa chống xe."
+            ],
+            "compound_words": {
+                "把臂": "bả tí",
+                "半臂": "bán tí",
+                "紾臂": "chẩn tí",
+                "三頭六臂": "tam đầu lục tí"
+            }
+        },
+        "tý": {
+            "Từ điển phổ thông": [
+                "cánh tay",
+                "càng (tôm, cua, ...)"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cánh tay trên. Nói bóng về sự cùng nhau đi ẩn gọi là bả tí nhập lâm 把臂入林 khoác tay vào rừng. Hai bên trái nhau gọi là thất chi giao tí 失之交臂 không khoác tay nữa.",
+                "Cái áo trấn thủ gọi là bán tí 半臂 cái áo cộc tay.",
+                "Giống gì có tay như cánh tay người đều gọi là tí. Như đường tí đương xa 螳臂當車 cánh tay bọ ngựa chống xe, ý nói không biết lượng sức vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cánh tay, bắp tay, tay: 左臂 Cánh tay trái; 助我一臂之力 Giúp tôi một tay; 把臂入林 Nắm tay nhau cùng vào rừng (để ở ẩn);",
+                "Bộ phận của loài vật giống như cánh tay: 螳臂當車 Cánh tay bọ ngựa chống xe. Xem 臂 [bei]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cánh tay — Cái cán của cây nỏ."
+            ],
+            "compound_words": {
+                "手臂": "thủ tý",
+                "臂章": "tý chương"
+            }
+        }
+    }
+}

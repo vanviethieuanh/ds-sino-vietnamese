@@ -1,0 +1,103 @@
+{
+    "character": "吶",
+    "details": {
+        "Âm Hán Việt": [
+            "niệt",
+            "nột"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "khẩu 口 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰口內"
+        ],
+        "Nét bút": [
+            "丨フ一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "ROB (口人月)"
+        ],
+        "Unicode": [
+            "U+5436"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "nà ㄋㄚˋ",
+            "na",
+            "nē ㄋㄜ",
+            "né ㄋㄜˊ",
+            "nè ㄋㄜˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "トツ (totsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ども.る (domo.ru)"
+        ],
+        "Âm Hàn": [
+            "눌",
+            "설"
+        ],
+        "Âm Quảng Đông": [
+            "naap6",
+            "nat6",
+            "neot6"
+        ]
+    },
+    "meanings": {
+        "niệt": {
+            "Từ điển phổ thông": [
+                "nói năng cẩn trọng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Reo hò, gào thét. ◎Như: 'nột hảm' 吶喊 la ó, kêu gào. ◇Tam quốc diễn nghĩa 三國演義: 'Minh cổ nột hảm nhi tiến' 鳴鼓吶喊而進 (Đệ tứ thập ngũ hồi) Đánh trống hò reo mà tiến lên.",
+                "(Phó) Ấp úng, nói năng không lưu loát. ◇Liễu Tông Nguyên 柳宗元: 'Kim ngu thậm nột, bất năng đa ngôn' 今愚甚吶, 不能多言 (Dữ Lí Mục Châu luận phục khí thư 與李睦州論服氣書) Kẻ ngu dốt này ăn nói ấp úng, không biết nhiều lời.",
+                "§ Ghi chú: Cũng đọc là chữ 'niệt'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nột nột 吶吶 ấp úng (trì trọng). Nói năng cẩn thận, nghĩ ngợi kĩ lưỡng rồi mới nói.",
+                "Reo hò cho thêm oai thanh gọi là nột hám 吶喊. Cũng đọc là chữ niệt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Nói) ấp úng;",
+                "【吶喊】nột hám [nàhăn] Kêu gào, gào thét, reo hò: 高聲吶喊 Lớn tiếng gào thét; 吶喊助威 Reo hò trợ uy."
+            ]
+        },
+        "nột": {
+            "Từ điển phổ thông": [
+                "reo hò trong trận đánh"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Reo hò, gào thét. ◎Như: 'nột hảm' 吶喊 la ó, kêu gào. ◇Tam quốc diễn nghĩa 三國演義: 'Minh cổ nột hảm nhi tiến' 鳴鼓吶喊而進 (Đệ tứ thập ngũ hồi) Đánh trống hò reo mà tiến lên.",
+                "(Phó) Ấp úng, nói năng không lưu loát. ◇Liễu Tông Nguyên 柳宗元: 'Kim ngu thậm nột, bất năng đa ngôn' 今愚甚吶, 不能多言 (Dữ Lí Mục Châu luận phục khí thư 與李睦州論服氣書) Kẻ ngu dốt này ăn nói ấp úng, không biết nhiều lời.",
+                "§ Ghi chú: Cũng đọc là chữ 'niệt'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nột nột 吶吶 ấp úng (trì trọng). Nói năng cẩn thận, nghĩ ngợi kĩ lưỡng rồi mới nói.",
+                "Reo hò cho thêm oai thanh gọi là nột hám 吶喊. Cũng đọc là chữ niệt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Nói) ấp úng;",
+                "【吶喊】nột hám [nàhăn] Kêu gào, gào thét, reo hò: 高聲吶喊 Lớn tiếng gào thét; 吶喊助威 Reo hò trợ uy."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ăn nói chậm chạp."
+            ],
+            "compound_words": {
+                "唢吶": "toả nột",
+                "嗩吶": "toả nột"
+            }
+        }
+    }
+}

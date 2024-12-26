@@ -1,0 +1,67 @@
+{
+    "character": "险",
+    "details": {
+        "Âm Hán Việt": [
+            "hiểm"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "phụ 阜 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻖佥"
+        ],
+        "Nét bút": [
+            "フ丨ノ丶一丶丶ノ一"
+        ],
+        "Thương Hiệt": [
+            "NLOMM (弓中人一一)"
+        ],
+        "Unicode": [
+            "U+9669"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "xiǎn ㄒㄧㄢˇ",
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "hiểm"
+        ],
+        "Âm Quảng Đông": [
+            "him2"
+        ]
+    },
+    "meanings": {
+        "hiểm": {
+            "Từ điển phổ thông": [
+                "nguy hiểm"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 險."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 險"
+            ],
+            "compound_words": {
+                "保险": "bảo hiểm",
+                "挺而走险": "đĩnh nhi tẩu hiểm",
+                "铤而走险": "đĩnh nhi tẩu hiểm",
+                "险阻": "hiểm trở",
+                "冒险": "mạo hiểm",
+                "危险": "nguy hiểm",
+                "探险": "thám hiểm"
+            }
+        }
+    }
+}

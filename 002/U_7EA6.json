@@ -1,0 +1,82 @@
+{
+    "character": "约",
+    "details": {
+        "Âm Hán Việt": [
+            "yêu",
+            "ước"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "mịch 糸 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰纟勺"
+        ],
+        "Nét bút": [
+            "フフ一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "VMPI (女一心戈)"
+        ],
+        "Unicode": [
+            "U+7EA6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yāo ㄧㄠ",
+            "yuē ㄩㄝ"
+        ],
+        "Âm Nôm": [
+            "ước",
+            "yêu"
+        ],
+        "Âm Quảng Đông": [
+            "joek3"
+        ]
+    },
+    "meanings": {
+        "yêu": {
+            "Từ điển Trần Văn Chánh": [
+                "Như 約"
+            ]
+        },
+        "ước": {
+            "Từ điển phổ thông": [
+                "thắt, bó",
+                "đại lược, chừng, khoảng",
+                "giao ước, ước hẹn"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 約."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 約"
+            ],
+            "compound_words": {
+                "北大西洋公约组织": "bắc đại tây dương công ước tổ chức",
+                "北约": "bắc ước",
+                "彴约": "bột ước",
+                "制约": "chế ước",
+                "公约": "công ước",
+                "大约": "đại ước",
+                "条约": "điều ước",
+                "订约": "đính ước",
+                "和约": "hoà ước",
+                "婚约": "hôn ước",
+                "契约": "khế ước",
+                "婥约": "sước ước",
+                "失约": "thất ước"
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "character": "说",
+    "details": {
+        "Âm Hán Việt": [
+            "duyệt",
+            "thoát",
+            "thuyết",
+            "thuế"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "ngôn 言 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰讠兑"
+        ],
+        "Nét bút": [
+            "丶フ丶ノ丨フ一ノフ"
+        ],
+        "Thương Hiệt": [
+            "IVCRU (戈女金口山)"
+        ],
+        "Unicode": [
+            "U+8BF4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shuì ㄕㄨㄟˋ",
+            "shuō ㄕㄨㄛ",
+            "tuō ㄊㄨㄛ",
+            "yuè ㄩㄝˋ"
+        ],
+        "Âm Nôm": [
+            "thuyết"
+        ],
+        "Âm Quảng Đông": [
+            "syut3"
+        ]
+    },
+    "meanings": {
+        "duyệt": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 說."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Vui lòng (dùng như 悅, bộ 忄)."
+            ]
+        },
+        "thoát": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Giải thoát (dùng như 脫, bộ 肉): 利用刑人，用說桎梏 Lợi cho người bị tù tội, mà thoát khỏi gông cùm (Chu Dịch: Mông quái)."
+            ]
+        },
+        "thuyết": {
+            "Từ điển phổ thông": [
+                "nói, giảng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 說."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Như 說"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói, giảng giải, giải thích: 說眞話 Nói thật; 說盡心中無限事 Nói ra hết những điều vô hạn ở trong lòng (Bạch Cư Dị: Tì bà hành); 子墨子起，再拜曰：請說之 Thầy Mặc tử đứng lên lạy hai lạy và nói: Tôi xin giảng giải về việc đó (Mặc tử);",
+                "Giới thiệu (làm) mối: 說媒 Làm mối;",
+                "Ngôn luận, chủ trương, thuyết: 學說 Học thuyết; 是說也，人常疑之 Người ta thường nghi ngờ thuyết đó (Tô Thức: Thạch Chung Sơn kí);",
+                "Mắng: 他挨說了 Anh ấy bị mắng;",
+                "(văn) Bài tạp thuyết (tạp kí): 故爲之說 Cho nên viết một bài tạp kí về việc đó (Liễu Tôn Nguyên: Bổ xà giả thuyết). Xem 說 [shuì], [yuè]."
+            ],
+            "compound_words": {
+                "据说": "cứ thuyết",
+                "勸说": "khuyến thuyết",
+                "乱说": "loạn thuyết",
+                "小说": "tiểu thuyết",
+                "传说": "truyền thuyết"
+            }
+        },
+        "thuế": {
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 說."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nói, giảng giải, giải thích: 說眞話 Nói thật; 說盡心中無限事 Nói ra hết những điều vô hạn ở trong lòng (Bạch Cư Dị: Tì bà hành); 子墨子起，再拜曰：請說之 Thầy Mặc tử đứng lên lạy hai lạy và nói: Tôi xin giảng giải về việc đó (Mặc tử);",
+                "Giới thiệu (làm) mối: 說媒 Làm mối;",
+                "Ngôn luận, chủ trương, thuyết: 學說 Học thuyết; 是說也，人常疑之 Người ta thường nghi ngờ thuyết đó (Tô Thức: Thạch Chung Sơn kí);",
+                "Mắng: 他挨說了 Anh ấy bị mắng;",
+                "(văn) Bài tạp thuyết (tạp kí): 故爲之說 Cho nên viết một bài tạp kí về việc đó (Liễu Tôn Nguyên: Bổ xà giả thuyết). Xem 說 [shuì], [yuè]."
+            ]
+        }
+    }
+}

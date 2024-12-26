@@ -1,0 +1,86 @@
+{
+    "character": "薟",
+    "details": {
+        "Âm Hán Việt": [
+            "hiêm",
+            "thiêm"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "thảo 艸 (+13 nét)"
+        ],
+        "Hình thái": [
+            "⿱艹僉"
+        ],
+        "Nét bút": [
+            "一丨丨ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "TOMO (廿人一人)"
+        ],
+        "Unicode": [
+            "U+859F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "kàn ㄎㄢˋ",
+            "lián ㄌㄧㄢˊ",
+            "liǎn ㄌㄧㄢˇ",
+            "xiān ㄒㄧㄢ",
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "hiên",
+            "kiểm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)",
+            "ケン (ken)",
+            "コン (kon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やぶからし (yabukarashi)"
+        ],
+        "Âm Quảng Đông": [
+            "cim1",
+            "lim4",
+            "lim6"
+        ]
+    },
+    "meanings": {
+        "hiêm": {
+            "Từ điển trích dẫn": [
+                "(Danh) 'Hi hiêm' 豨薟 cỏ hi hiêm, dùng làm thuốc (Siegesbeckia orientalis L).",
+                "Một âm là 'liễm'. (Danh) Cây 'bạch liễm' 白蘞."
+            ],
+            "Từ điển Thiều Chửu": [
+                "hi hiêm 豨薟 cỏ hi hiêm, dùng làm thuốc.",
+                "Một âm là liễm. Cây bạch liễm 白蘞."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một loài cỏ."
+            ],
+            "compound_words": {
+                "豨薟": "hy thiêm"
+            }
+        },
+        "thiêm": {
+            "Từ điển phổ thông": [
+                "(xem: hy hiêm 豨薟,豨莶)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 豨薟 [xixian]."
+            ],
+            "compound_words": {
+                "豨薟": "hy thiêm"
+            }
+        }
+    }
+}

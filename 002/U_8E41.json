@@ -1,0 +1,77 @@
+{
+    "character": "蹁",
+    "details": {
+        "Âm Hán Việt": [
+            "biên",
+            "biển"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "túc 足 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊扁"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶フ一ノ丨フ一丨丨"
+        ],
+        "Thương Hiệt": [
+            "RMHSB (口一竹尸月)"
+        ],
+        "Unicode": [
+            "U+8E41"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "pián ㄆㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "biên"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘン (hen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "よろめ.く (yorome.ku)"
+        ],
+        "Âm Quảng Đông": [
+            "pin4"
+        ]
+    },
+    "meanings": {
+        "biên": {
+            "Từ điển phổ thông": [
+                "khập khiễng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Chân đi xiên xẹo.",
+                "(Tính) Méo, lệch, nghiêng (tư thế).",
+                "(Tính) 'Biên tiên' 蹁躚: (1) Xinh đẹp. ◇Hồng Lâu Mộng 紅樓夢: 'Ca âm vị tức, tảo kiến na biên tẩu xuất nhất cá nhân lai, biên tiên niệu na, đoan đích dữ nhân bất đồng' 歌音未息, 早見那邊走出一個人來, 蹁躚嬝娜, 端的與人不同 (Đệ ngũ hồi) Tiếng ca chưa dứt, đã thấy một người (con gái) từ xa đi lại, xinh đẹp yểu điệu, quả thực khác hẳn với người thường. (2) Phơi phới, thướt tha (dáng như múa). ◇Tô Thức 蘇軾: 'Mộng nhất đạo sĩ, vũ y biên tiên' 夢一道士, 羽衣蹁躚 (Hậu Xích Bích phú 後赤壁賦) Mộng thấy một đạo sĩ, áo lông phơi phới."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Biên tiên 蹁躚 đi quanh quéo (quanh co)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chân cong vẹo, không thẳng."
+            ],
+            "compound_words": {
+                "蹁跣": "biên tiên"
+            }
+        },
+        "biển": {
+            "Từ điển Trần Văn Chánh": [
+                "Đi lạng quạng (không vững). 【蹁躚】biển tiên [piánxian] (văn) Đi quanh quẹo (như 翩躚 [pian xian])."
+            ]
+        }
+    }
+}

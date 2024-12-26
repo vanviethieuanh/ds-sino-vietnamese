@@ -1,0 +1,81 @@
+{
+    "character": "靼",
+    "details": {
+        "Âm Hán Việt": [
+            "đát"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "cách 革 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰革旦"
+        ],
+        "Nét bút": [
+            "一丨丨一丨フ一一丨丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "TJAM (廿十日一)"
+        ],
+        "Unicode": [
+            "U+977C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "dá ㄉㄚˊ"
+        ],
+        "Âm Nôm": [
+            "đát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "タチ (tachi)",
+            "タツ (tatsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "なめ.す (name.su)",
+            "なめしがわ (nameshigawa)"
+        ],
+        "Âm Hàn": [
+            "달",
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daat3"
+        ]
+    },
+    "meanings": {
+        "đát": {
+            "Từ điển phổ thông": [
+                "(xem: thát đát 韃靼)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Da thú mềm.",
+                "(Danh) 'Thát Đát' 韃靼: xem 'thát' 韃."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Thát Ðát 韃靼 một bộ lạc ở phía bắc nước Tàu, tức xứ Mông Cổ 蒙古 bây giờ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 韃靼 [Dádá]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loại da thú thuộc mềm."
+            ],
+            "compound_words": {
+                "鞑靼": "thát đát",
+                "韃靼": "thát đát"
+            }
+        }
+    }
+}

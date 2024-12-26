@@ -1,0 +1,68 @@
+{
+    "character": "嘟",
+    "details": {
+        "Âm Hán Việt": [
+            "đô"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "khẩu 口 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口都"
+        ],
+        "Nét bút": [
+            "丨フ一一丨一ノ丨フ一一フ丨"
+        ],
+        "Thương Hiệt": [
+            "RJAL (口十日中)"
+        ],
+        "Unicode": [
+            "U+561F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "dū ㄉㄨ"
+        ],
+        "Âm Nôm": [
+            "đô",
+            "đua"
+        ],
+        "Âm Quảng Đông": [
+            "dou1"
+        ]
+    },
+    "meanings": {
+        "đô": {
+            "Từ điển phổ thông": [
+                "tiếng kêu bí bo",
+                "bĩu môi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Trạng thanh) § Xem 'đô đô' 嘟嘟.",
+                "(Động) § Xem 'đô đô nông nông' 嘟嘟噥噥."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Bí bo: 汽車嗽叭嘟嘟響 Tiếng còi xe hơi kêu bí bo;",
+                "(đph) Bĩu môi, chàu bạu: 氣得他嘟起了嘴，一言不發 Anh ấy tức giận ngồi chàu bạu chẳng nói một câu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói ú ớ khó nghe."
+            ],
+            "compound_words": {
+                "嘟嘟": "đô đô",
+                "嘟嘟噥噥": "đô đô nông nông"
+            }
+        }
+    }
+}

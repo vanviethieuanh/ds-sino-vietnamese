@@ -1,0 +1,84 @@
+{
+    "character": "償",
+    "details": {
+        "Âm Hán Việt": [
+            "thường"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nhân 人 (+15 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亻賞"
+        ],
+        "Nét bút": [
+            "ノ丨丨丶ノ丶フ丨フ一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OFBC (人火月金)"
+        ],
+        "Unicode": [
+            "U+511F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "cháng ㄔㄤˊ"
+        ],
+        "Âm Nôm": [
+            "thường"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つぐな.う (tsuguna.u)"
+        ],
+        "Âm Hàn": [
+            "상"
+        ],
+        "Âm Quảng Đông": [
+            "coeng4",
+            "soeng4"
+        ]
+    },
+    "meanings": {
+        "thường": {
+            "Từ điển phổ thông": [
+                "đền lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Hoàn trả lại. ◎Như: 'thường hoàn' 償還 hoàn lại, 'phụ trái bất thường' 負債不償 vỗ nợ không trả. ◇Liêu trai chí dị 聊齋志異: 'Hựu phó thiên tiền ước doanh nhi thường chi' 付千錢約贏而償之 (Đổ phù 賭符) Lại cho vay tiền một ngàn, hẹn đánh được bạc phải trả lại.",
+                "(Động) Đền, bù. ◎Như: 'đắc bất thường thất' 得不償失 số được chẳng bù số mất, 'sát nhân thường mệnh' 殺人償命 giết người đền mạng.",
+                "(Động) Thực hiện, thỏa. ◎Như: 'đắc thường túc nguyện' 得償夙願 thực hiện được ước nguyện.",
+                "(Danh) Sự vật đền bù lại. ◇Chiến quốc sách 戰國策: 'Thị ngã vong ư Tần nhi thủ thường ư Tề dã' 是我亡於秦而取償於齊也 (Tần sách nhị 秦策二) Thế là mình mất (đất) với Tần mà lấy cái bù lại (đất) của Tề vậy."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Ðền, như thường hoàn 償還 đền trả. Bù, như đắc bất thường thất 得不償失 số được chẳng bù số mất."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Đền, bù, trả lại, hoàn lại: 賠償 Đền, bồi thường; 無償援助 Viện trợ không hoàn lại; 得不償失 Được không bù mất, lợi không bù hại;",
+                "Phỉ, phỉ nguyền, thoả thích, thực hiện: 如願以償 Phỉ nguyền, thoả lòng mong muốn; 得償夙願 Thực hiện được ước nguyện."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Trả lại — Đền bù lại. Td: Bồi thường."
+            ],
+            "compound_words": {
+                "報償": "báo thường",
+                "補償": "bổ thường",
+                "賠償": "bồi thường",
+                "償還": "thường hoàn",
+                "無償": "vô thường"
+            }
+        }
+    }
+}

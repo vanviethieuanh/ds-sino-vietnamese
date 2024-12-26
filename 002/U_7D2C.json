@@ -1,0 +1,85 @@
+{
+    "character": "紬",
+    "details": {
+        "Âm Hán Việt": [
+            "trừu"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mịch 糸 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰糹由"
+        ],
+        "Nét bút": [
+            "フフ丶丶丶丶丨フ一丨一"
+        ],
+        "Thương Hiệt": [
+            "VFLW (女火中田)"
+        ],
+        "Unicode": [
+            "U+7D2C"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "chōu ㄔㄡ",
+            "chóu ㄔㄡˊ"
+        ],
+        "Âm Nôm": [
+            "dò",
+            "trừu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つむぎ (tsumugi)",
+            "つむ.ぐ (tsumu.gu)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "cau1",
+            "cau4"
+        ]
+    },
+    "meanings": {
+        "trừu": {
+            "Từ điển phổ thông": [
+                "quấn sợi, xe sợi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sợi thô, đồ dệt thô.",
+                "(Danh) Đồ dệt, chức phẩm. § Thông 'trừu' 綢.",
+                "(Động) Kéo ra, gỡ. ◎Như: 'trừu dịch' 紬繹 gỡ kéo đầu mối ra.",
+                "(Động) Chắp nhặt. ◇Tư Mã Trinh 司馬貞: 'Trừu triệt cựu thư cố sự nhi thứ thuật chi' 抽徹舊書故事而次述之 (Tác ẩn 索隱) Chắp nhặt hết các chuyện cũ sách xưa mà thuật lại theo thứ tự."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Trừu, một thứ dệt bằng tơ to.",
+                "Quấn sợi, xe sợi.",
+                "Kéo ra, như trừu dịch 紬繹 gỡ kéo đầu mối ra.",
+                "Chắp nhặt."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 抽 (bộ 扌)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ lụa mặt thô, sợi to — Kéo ra."
+            ],
+            "compound_words": {
+                "紬繹": "trừu dịch"
+            }
+        }
+    }
+}

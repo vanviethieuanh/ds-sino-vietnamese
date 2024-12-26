@@ -1,0 +1,110 @@
+{
+    "character": "損",
+    "details": {
+        "Âm Hán Việt": [
+            "tổn"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "thủ 手 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘員"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "QRBC (手口月金)"
+        ],
+        "Unicode": [
+            "U+640D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "sǔn ㄙㄨㄣˇ"
+        ],
+        "Âm Nôm": [
+            "tỏn",
+            "tốn",
+            "tủn",
+            "vin"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソン (son)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そこ.なう (soko.nau)",
+            "そこな.う (sokona.u)",
+            "-そこ.なう (-soko.nau)",
+            "そこ.ねる (soko.neru)",
+            "-そこ.ねる (-soko.neru)"
+        ],
+        "Âm Hàn": [
+            "손"
+        ],
+        "Âm Quảng Đông": [
+            "syun2"
+        ]
+    },
+    "meanings": {
+        "tổn": {
+            "Từ điển phổ thông": [
+                "tốn, mất"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giảm bớt. ◎Như: 'tổn thượng ích hạ' 損上益下 bớt của người trên thêm cho kẻ dưới. ◇Sử Kí 史: 'Hữu năng tăng tổn nhất tự giả, dữ thiên kim' 有能增損一字者, 予千金 (Lã Bất Vi liệt truyện 呂不韋列傳) Người nào có thể thêm hay bớt một chữ thì xin biếu một nghìn lạng vàng.",
+                "(Động) Mất. ◇Thương quân thư 商君書: 'Dĩ chiến tất tổn kì tướng' 以戰必損其將 (Thận pháp 慎法) Đánh trận như thế thì ắt sẽ mất tướng.",
+                "(Động) Làm hại, hủy hoại. ◎Như: 'tổn nhân lợi kỉ' 損人利己 hại người lợi mình, 'phá tổn' 破損 phá hại.",
+                "(Động) Đè nén xuống, khiêm nhượng. ◇Tấn Thư 晉書: 'Phu tính chí thận. Tuyên Đế chấp chánh, thường tự thối tổn' 孚性至慎. 宣帝執政, 常自退損 (An Bình Hiến Vương Phu truyện 安平獻王孚傳) (Vương) Phu tính hết mực cẩn trọng. Khi Tuyên Đế nắm quyền chính, thường tự khiêm thối.",
+                "(Động) Nhiếc móc, đay nghiến. ◎Như: 'nhĩ biệt tổn nhân liễu' 你別損人了 anh đừng nhiếc móc người ta nữa.",
+                "(Tính) Hiểm độc, ác nghiệt (tiếng địa phương, bắc Trung Quốc). ◎Như: 'giá pháp tử chân tổn' 這法子眞損 cách đó hiểm độc thật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bớt, như tổn thượng ích hạ 損上益下 bớt kẻ trên thêm kẻ dưới.",
+                "Mất, như tổn thất 損失, tổn hại 損害, v.v.",
+                "Yếu."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bớt: 不能損益一字 Không được thêm bớt một chữ; 損上益下 Bớt của người trên thêm cho người dưới;",
+                "Mất, tổn hại, thiệt hại: 以戰必損其將 Dùng người như thế mà đánh trận thì ắt sẽ mất tướng (Thương Quân thư); 父損命 Cha mất mạng (Sử kí); 損失 Thiệt hại;",
+                "Làm hại: 損人利 己 Lợi mình hại người;",
+                "Nhiếc móc, đay nghiến: 別損人了 Đừng nhiếc móc người ta nữa;",
+                "(đph) Hiểm độc, cay độc, ác: 這法子眞損 Cách đó hiểm độc thật."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Giảm đi. Bớt đi — Thiếu hụt — Mất mát."
+            ],
+            "compound_words": {
+                "折損": "chiết tổn",
+                "減損": "giảm tổn",
+                "耗損": "hao tổn",
+                "虧損": "khuy tổn",
+                "勞損": "lao tổn",
+                "滿招損，謙受益": "mãn chiêu tổn, khiêm thụ ích",
+                "費損": "phí tổn",
+                "衰損": "suy tổn",
+                "增損": "tăng tổn",
+                "傷損": "thương tổn",
+                "損害": "tổn hại",
+                "損耗": "tổn háo",
+                "損壞": "tổn hoại",
+                "損益": "tổn ích",
+                "損費": "tổn phí",
+                "損失": "tổn thất",
+                "損夀": "tổn thọ",
+                "損傷": "tổn thương"
+            }
+        }
+    }
+}

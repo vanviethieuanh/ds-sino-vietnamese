@@ -1,0 +1,81 @@
+{
+    "character": "銼",
+    "details": {
+        "Âm Hán Việt": [
+            "toà",
+            "toả"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金坐"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丶ノ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "COOG (金人人土)"
+        ],
+        "Unicode": [
+            "U+92BC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "cuò ㄘㄨㄛˋ"
+        ],
+        "Âm Nôm": [
+            "giuã",
+            "toả"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)",
+            "ソク (soku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "かま (kama)"
+        ],
+        "Âm Quảng Đông": [
+            "co3"
+        ]
+    },
+    "meanings": {
+        "toà": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nồi lớn, miệng rộng."
+            ],
+            "compound_words": {
+                "銼刀": "toà đao"
+            }
+        },
+        "toả": {
+            "Từ điển phổ thông": [
+                "cái giũa",
+                "giũa",
+                "cái vạc lớn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Một thứ nồi rộng miệng. ◇Đỗ Phủ 杜甫: 'Kinh phi thâm mạn thảo, Thổ tỏa lãnh sơ yên' 荊扉深蔓草, 土銼冷疏煙 (Văn hộc tư lục quan vị quy 聞斛斯六官未歸) Cửa gai đầy cỏ mọc, Nồi đất lạnh khói thưa.",
+                "(Danh) Cái giũa, tiếng gọi tắt của 'tỏa đao' 銼刀.",
+                "(Động) Mài giũa đồ vật (bằng tỏa đao).",
+                "(Động) Thua, bại. ◇Sử Kí 史記: 'Vong địa Hán Trung, binh tỏa Lam Điền' 亡地漢中, 兵銼藍田 (Sở thế gia 楚世家) Mất đất Hán Trung, quân thua ở Lam Điền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái giũa: 扁銼 Giũa dẹp;",
+                "Giũa: 把鋸子銼一銼 Giũa cưa;",
+                "(văn) Cái vạc lớn (thời xưa ở Trung Quốc)."
+            ]
+        }
+    }
+}

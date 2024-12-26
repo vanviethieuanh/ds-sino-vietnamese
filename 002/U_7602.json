@@ -1,0 +1,67 @@
+{
+    "character": "瘂",
+    "details": {
+        "Âm Hán Việt": [
+            "á"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "nạch 疒 (+8 nét)"
+        ],
+        "Hình thái": [
+            "⿸疒亞"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一一丨一フフ一丨一"
+        ],
+        "Thương Hiệt": [
+            "KMLM (大一中一)"
+        ],
+        "Unicode": [
+            "U+7602"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "yǎ ㄧㄚˇ"
+        ],
+        "Âm Nôm": [
+            "á"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ア (a)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おし (oshi)"
+        ],
+        "Âm Quảng Đông": [
+            "aa2"
+        ]
+    },
+    "meanings": {
+        "á": {
+            "Từ điển phổ thông": [
+                "câm",
+                "khàn, khản"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 啞 [yă] (bộ 口)."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Câm. Không nói được. Cũng viết là 啞."
+            ],
+            "compound_words": {
+                "瘂口": "á khẩu",
+                "瘂科": "á khoa",
+                "瘂語": "á ngữ",
+                "瘂聲": "á thanh"
+            }
+        }
+    }
+}

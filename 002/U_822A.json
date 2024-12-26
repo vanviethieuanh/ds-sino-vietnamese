@@ -1,0 +1,91 @@
+{
+    "character": "航",
+    "details": {
+        "Âm Hán Việt": [
+            "hàng"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "chu 舟 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰舟亢"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶丶一ノフ"
+        ],
+        "Thương Hiệt": [
+            "HYYHN (竹卜卜竹弓)"
+        ],
+        "Unicode": [
+            "U+822A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "háng ㄏㄤˊ"
+        ],
+        "Âm Nôm": [
+            "hàng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Hàn": [
+            "항"
+        ],
+        "Âm Quảng Đông": [
+            "hong4"
+        ]
+    },
+    "meanings": {
+        "hàng": {
+            "Từ điển phổ thông": [
+                "cái xuồng, thuyền",
+                "vượt qua"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thuyền, tàu.",
+                "(Danh) Cầu nổi dùng thuyền nối lại thành.",
+                "(Động) Đi (dùng thuyền, máy bay, v.v.). ◎Như: 'lĩnh hàng' 領航 lái thuyền hoặc máy bay."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thuyền, hai chiếc thuyền cùng sang gọi là hàng.",
+                "Vượt qua. Như hàng hải 航海 vượt bể, hàng lộ 航路 đường nước, v.v.",
+                "Ken thuyền làm cầu nổi sang sông."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền, tàu, tàu thuỷ;",
+                "Đi (biển), bay, hàng (không), chạy: 遠航貨輪 Tàu hàng viễn dương; 飛機試航 Máy bay bay thử; 民航 Hàng không dân dụng;",
+                "(văn) Nối thuyền làm cầu nổi sang sông."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thuyền — Dùng thuyền mà đi."
+            ],
+            "compound_words": {
+                "夜航": "dạ hàng",
+                "导航": "đạo hàng",
+                "導航": "đạo hàng",
+                "航海": "hàng hải",
+                "航空": "hàng không",
+                "航路": "hàng lộ",
+                "航船": "hàng thuyền",
+                "航線": "hàng tuyến",
+                "航缐": "hàng tuyến",
+                "航運": "hàng vận",
+                "巡航": "tuần hàng",
+                "宇航": "vũ hàng",
+                "處女航": "xử nữ hàng"
+            }
+        }
+    }
+}

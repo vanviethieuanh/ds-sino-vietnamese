@@ -1,0 +1,80 @@
+{
+    "character": "叭",
+    "details": {
+        "Âm Hán Việt": [
+            "bá"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "khẩu 口 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口八"
+        ],
+        "Nét bút": [
+            "丨フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RC (口金)"
+        ],
+        "Unicode": [
+            "U+53ED"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bā ㄅㄚ"
+        ],
+        "Âm Nôm": [
+            "bá",
+            "bát",
+            "bớ",
+            "bớt",
+            "váp",
+            "vát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ハツ (hatsu)"
+        ],
+        "Âm Hàn": [
+            "팔"
+        ],
+        "Âm Quảng Đông": [
+            "baa1"
+        ]
+    },
+    "meanings": {
+        "bá": {
+            "Từ điển phổ thông": [
+                "(xem: lạt bá 唰叭)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) 'Lạt bá' 喇叭: xem 'lạt' 喇.",
+                "(Trạng thanh) Tiếng còi xe. ◎Như: 'bá bá' 叭叭 bin bin."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Lạt bá 喇叭 cái loa.",
+                "Một giống chó ở phương bắc gọi là lạt bá 喇叭."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thanh) Phịch, phạch: 叭的一聲，弦斷了 Dây đàn đứt đánh phạch một cái;",
+                "(nhạc) Kèn trompet."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiếng trợ từ cuối câu. Cũng đọc là Ba, như chữ Ba."
+            ],
+            "compound_words": {
+                "喇叭": "lạt bát"
+            }
+        }
+    }
+}

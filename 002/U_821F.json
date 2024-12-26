@@ -1,0 +1,108 @@
+{
+    "character": "舟",
+    "details": {
+        "Âm Hán Việt": [
+            "chu",
+            "châu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "chu 舟 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "ノノフ丶一丶"
+        ],
+        "Thương Hiệt": [
+            "HBYI (竹月卜戈)"
+        ],
+        "Unicode": [
+            "U+821F"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhōu ㄓㄡ"
+        ],
+        "Âm Nôm": [
+            "châu",
+            "chu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シュウ (shū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ふね (fune)",
+            "ふな- (funa-)",
+            "-ぶね (-bune)"
+        ],
+        "Âm Hàn": [
+            "주"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "chu": {
+            "Từ điển phổ thông": [
+                "cái thuyền"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thuyền, đò. ◇Nguyễn Du 阮攸: 'Thiên địa thiên chu phù tự diệp, Văn chương tàn tức nhược như ti' 天地扁舟浮以葉, 文章殘息弱如絲 (Chu hành tức sự 舟行即事) Chiếc thuyền con như chiếc lá nổi giữa đất trời, Hơi tàn văn chương yếu ớt như tơ. § Bùi Giáng dịch thơ: Thuyền con chiếc lá giữa trời, Thơ văn tiếng thở như lời tơ than.",
+                "(Danh) Cái dĩa dùng để đặt dưới cái chén.",
+                "(Danh) Họ 'Chu'.",
+                "(Động) Đi thuyền.",
+                "(Động) Đeo, mang. ◇Thi Kinh 詩經: 'Hà dĩ chu chi, Duy ngọc cập dao' 何以舟之, 維玉及瑤 (Đại nhã 大雅, Công lưu 公劉) Lấy gì mà đeo, Chỉ lấy ngọc và ngọc dao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thuyền. Các cái như thuyền, bè dùng qua sông qua nước đều gọi là chu. Nguyễn Du 阮攸: Thiên địa thiên chu phù tự diệp, văn chương tàn tức nhược như ti 天地扁舟浮似葉, 文章殘息弱如絲 Chiếc thuyền con như chiếc lá nổi giữa đất trời, Hơi tàn văn chương yếu ớt như tơ. Bùi Giáng dịch thơ: Thuyền con chiếc lá giữa trời, thơ văn tiếng thở như lời tơ than.",
+                "Cái đài đựng chén.",
+                "Ðeo."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền, đò: 小舟 Thuyền con; 柏舟 Thuyền gỗ bách; 柏舟求劍 Khắc thuyền tìm gươm;",
+                "(văn) Cái đài đựng chén;",
+                "(văn) Đeo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thuyền — Tên một bộ trong các bộ chữ Trung Hoa."
+            ],
+            "compound_words": {
+                "柏舟之節": "bách chu chi tiết",
+                "舟師": "chu sư",
+                "舟子": "chu tử",
+                "龍舟": "long chu",
+                "吳越同舟": "ngô việt đồng chu",
+                "方舟": "phương chu"
+            }
+        },
+        "châu": {
+            "Từ điển phổ thông": [
+                "cái thuyền"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thuyền, đò: 小舟 Thuyền con; 柏舟 Thuyền gỗ bách; 柏舟求劍 Khắc thuyền tìm gươm;",
+                "(văn) Cái đài đựng chén;",
+                "(văn) Đeo."
+            ],
+            "compound_words": {
+                "獨木舟": "độc mộc châu",
+                "輕舟": "khinh châu",
+                "漁舟": "ngư châu",
+                "鳧舟": "phù châu",
+                "扁舟": "thiên châu",
+                "掉舟": "trạo châu",
+                "腰舟": "yêu châu"
+            }
+        }
+    }
+}

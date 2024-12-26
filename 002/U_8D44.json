@@ -1,0 +1,67 @@
+{
+    "character": "资",
+    "details": {
+        "Âm Hán Việt": [
+            "tư"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "bối 貝 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱次贝"
+        ],
+        "Nét bút": [
+            "丶一ノフノ丶丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "IOBO (戈人月人)"
+        ],
+        "Unicode": [
+            "U+8D44"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zī ㄗ"
+        ],
+        "Âm Nôm": [
+            "tư"
+        ],
+        "Âm Quảng Đông": [
+            "zi1"
+        ]
+    },
+    "meanings": {
+        "tư": {
+            "Từ điển phổ thông": [
+                "của cải, vốn",
+                "giúp đỡ, cung cấp",
+                "tư chất, tư cách"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 資."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 資"
+            ],
+            "compound_words": {
+                "工资": "công tư",
+                "投资": "đầu tư",
+                "外资": "ngoại tư",
+                "资本": "tư bản",
+                "资格": "tư cách",
+                "资产": "tư sản"
+            }
+        }
+    }
+}

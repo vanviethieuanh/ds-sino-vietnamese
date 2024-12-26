@@ -1,0 +1,103 @@
+{
+    "character": "謅",
+    "details": {
+        "Âm Hán Việt": [
+            "sưu",
+            "sảo",
+            "xảo"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "ngôn 言 (+10 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰言芻"
+        ],
+        "Nét bút": [
+            "丶一一一丨フ一ノフフ丨ノノフフ丨ノ"
+        ],
+        "Thương Hiệt": [
+            "YRPUU (卜口心山山)"
+        ],
+        "Unicode": [
+            "U+8B05"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chǎo ㄔㄠˇ",
+            "chōu ㄔㄡ",
+            "zhōu ㄓㄡ",
+            "zōu ㄗㄡ"
+        ],
+        "Âm Nôm": [
+            "sạo",
+            "sưu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)",
+            "シュウ (shū)",
+            "シュ (shu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "もてあそ.ぶ (moteaso.bu)"
+        ],
+        "Âm Quảng Đông": [
+            "zau1"
+        ]
+    },
+    "meanings": {
+        "sưu": {
+            "Từ điển phổ thông": [
+                "bảo nhỏ, nhắc nhỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Đặt điều, nói bậy, nói càn, hồ thuyết. ◎Như: 'hạt sưu' 瞎謅 đặt điều nói bừa, nói chuyện không đích xác. ◇Hồng Lâu Mộng 紅樓夢: 'Xuất cá đề mục, nhượng ngã sưu khứ, sưu liễu lai, thế ngã cải chánh' 出個題目, 讓我謅去, 謅了來, 替我改正 (Đệ tứ thập bát hồi) Xin ra đầu đề (thơ), cho em về làm đại, làm xong, nhờ sửa giùm em.",
+                "Một âm là 'sảo'. (Động) Tranh cãi. ◇Chu Tử ngữ loại 朱子語類: 'Quang tính cương, tuy tạm khuất, chung thị bất cam, toại dữ Tần Cối sảo' 光性剛, 雖暫屈, 終是不甘, 遂與秦檜謅 (Quyển nhất tam nhất) Lí Quang tính cứng cỏi, dù tạm khuất phục, rốt cuộc không chịu nhịn, bèn tranh cãi với Tần Cối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bảo nhỏ, bỏ nhỏ.",
+                "Một âm là sảo. Nói đùa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Nói) bậy, càn, láo: 胡謅 Nói bậy (láo); 瞎謅 Nói càn;",
+                "(văn) Bảo nhỏ, bỏ nhỏ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nói thầm, riêng cho một người nghe — Một âm là Xảo. Xem Xảo."
+            ],
+            "compound_words": {
+                "胡謅": "hồ sưu"
+            }
+        },
+        "sảo": {
+            "Từ điển trích dẫn": [
+                "(Động) Đặt điều, nói bậy, nói càn, hồ thuyết. ◎Như: 'hạt sưu' 瞎謅 đặt điều nói bừa, nói chuyện không đích xác. ◇Hồng Lâu Mộng 紅樓夢: 'Xuất cá đề mục, nhượng ngã sưu khứ, sưu liễu lai, thế ngã cải chánh' 出個題目, 讓我謅去, 謅了來, 替我改正 (Đệ tứ thập bát hồi) Xin ra đầu đề (thơ), cho em về làm đại, làm xong, nhờ sửa giùm em.",
+                "Một âm là 'sảo'. (Động) Tranh cãi. ◇Chu Tử ngữ loại 朱子語類: 'Quang tính cương, tuy tạm khuất, chung thị bất cam, toại dữ Tần Cối sảo' 光性剛, 雖暫屈, 終是不甘, 遂與秦檜謅 (Quyển nhất tam nhất) Lí Quang tính cứng cỏi, dù tạm khuất phục, rốt cuộc không chịu nhịn, bèn tranh cãi với Tần Cối."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bảo nhỏ, bỏ nhỏ.",
+                "Một âm là sảo. Nói đùa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Nói) bậy, càn, láo: 胡謅 Nói bậy (láo); 瞎謅 Nói càn;",
+                "(văn) Bảo nhỏ, bỏ nhỏ."
+            ]
+        },
+        "xảo": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lời nói châm chọc khinh lờn người khác — Một âm là Sưu. Xem Sưu."
+            ]
+        }
+    }
+}

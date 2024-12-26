@@ -1,0 +1,65 @@
+{
+    "character": "赞",
+    "details": {
+        "Âm Hán Việt": [
+            "tán"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "bối 貝 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱兟贝"
+        ],
+        "Nét bút": [
+            "ノ一丨一ノフノ一丨一ノフ丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "HUBO (竹山月人)"
+        ],
+        "Unicode": [
+            "U+8D5E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "zàn ㄗㄢˋ"
+        ],
+        "Âm Nôm": [
+            "tán"
+        ],
+        "Âm Quảng Đông": [
+            "zaan3"
+        ]
+    },
+    "meanings": {
+        "tán": {
+            "Từ điển phổ thông": [
+                "khen ngợi",
+                "văn tán dương công đức",
+                "giúp đỡ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 贊."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 讚"
+            ],
+            "compound_words": {
+                "赞叹": "tán thán",
+                "赞成": "tán thành",
+                "赞颂": "tán tụng",
+                "参赞": "tham tán"
+            }
+        }
+    }
+}

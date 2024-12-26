@@ -1,0 +1,82 @@
+{
+    "character": "为",
+    "details": {
+        "Âm Hán Việt": [
+            "vi",
+            "vy",
+            "vị"
+        ],
+        "Tổng nét": [
+            "4"
+        ],
+        "Bộ": [
+            "chủ 丶 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "IKSI (戈大尸戈)"
+        ],
+        "Unicode": [
+            "U+4E3A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wéi ㄨㄟˊ",
+            "wèi ㄨㄟˋ"
+        ],
+        "Âm Nôm": [
+            "vi"
+        ],
+        "Âm Quảng Đông": [
+            "wai4",
+            "wai6"
+        ]
+    },
+    "meanings": {
+        "vi": {
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 為.",
+                "Giản thể của chữ 爲."
+            ],
+            "compound_words": {
+                "以为": "dĩ vi",
+                "成为": "thành vi",
+                "为非作歹": "vi phi tác đãi",
+                "无为": "vô vi"
+            }
+        },
+        "vy": {
+            "Từ điển phổ thông": [
+                "làm, gây nên"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Xem 爲 (bộ 爪)."
+            ]
+        },
+        "vị": {
+            "Từ điển phổ thông": [
+                "bởi vì",
+                "giúp cho"
+            ],
+            "Từ điển trích dẫn": [
+                "Giản thể của chữ 為.",
+                "Giản thể của chữ 爲."
+            ],
+            "compound_words": {
+                "因为": "nhân vị",
+                "为己": "vị kỷ",
+                "舍己为人": "xả kỷ vị nhân"
+            }
+        }
+    }
+}

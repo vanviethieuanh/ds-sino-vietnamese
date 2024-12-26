@@ -1,0 +1,75 @@
+{
+    "character": "塾",
+    "details": {
+        "Âm Hán Việt": [
+            "thục"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "thổ 土 (+11 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱孰土"
+        ],
+        "Nét bút": [
+            "丶一丨フ一フ丨一ノフ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "YIG (卜戈土)"
+        ],
+        "Unicode": [
+            "U+587E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "shú ㄕㄨˊ"
+        ],
+        "Âm Nôm": [
+            "thục"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュク (juku)"
+        ],
+        "Âm Hàn": [
+            "숙"
+        ],
+        "Âm Quảng Đông": [
+            "suk6"
+        ]
+    },
+    "meanings": {
+        "thục": {
+            "Từ điển phổ thông": [
+                "lớp học tại nhà"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chái nhà, gian nhà hai bên cửa cái.",
+                "(Danh) Trường học do tư nhân lập ra (ngày xưa). ◎Như: 'tư thục' 私塾, 'gia thục' 家塾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái chái nhà. Gian nhà hai bên cửa cái gọi là thục. Là chỗ để cho con em vào học, cho nên gọi chỗ chái học là gia thục 家塾. Ðời sau nhân thế mới gọi tràng học tư là tư thục 私塾, mà gọi thầy học là thục sư 塾師 vậy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Trường học tư (thời xưa): 私塾 Trường tư; 家塾 Lớp dạy gia đình;",
+                "(văn) Chái nhà."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Ngôi nhà nhỏ ở cạnh cổng chánh ra vào — Trường học. Td: Tư thục."
+            ],
+            "compound_words": {
+                "義塾": "nghĩa thục",
+                "私塾": "tư thục"
+            }
+        }
+    }
+}

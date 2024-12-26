@@ -1,0 +1,102 @@
+{
+    "character": "炳",
+    "details": {
+        "Âm Hán Việt": [
+            "bính",
+            "bỉnh"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "hoả 火 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰火丙"
+        ],
+        "Nét bút": [
+            "丶ノノ丶一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "FMOB (火一人月)"
+        ],
+        "Unicode": [
+            "U+70B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "bǐng ㄅㄧㄥˇ"
+        ],
+        "Âm Nôm": [
+            "bảnh",
+            "bính",
+            "đèn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ヘイ (hei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あきらか (akiraka)"
+        ],
+        "Âm Hàn": [
+            "병"
+        ],
+        "Âm Quảng Đông": [
+            "bing2"
+        ]
+    },
+    "meanings": {
+        "bính": {
+            "Từ điển phổ thông": [
+                "sáng chói",
+                "tỏ rõ"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tỏ rõ, như bỉnh nhiên 炳然 rõ vậy, bỉnh bỉnh 炳炳 rờ rỡ, rõ rệt.",
+                "Văn minh. Cũng đọc là chữ bính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sáng tỏ, tỏ rõ, sáng chói, rực rỡ, sáng ngời: 炳然 Rõ ràng; 炳炳 Rờ rỡ, rõ rệt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Bưu bính 彪炳."
+            ],
+            "compound_words": {
+                "彪炳": "bưu bính"
+            }
+        },
+        "bỉnh": {
+            "Từ điển phổ thông": [
+                "sáng chói",
+                "tỏ rõ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Sáng tỏ, quang minh.",
+                "(Phó) Rõ ràng, minh bạch. ◎Như: 'bỉnh nhiên' 炳然 rõ ràng, 'bỉnh bỉnh' 炳炳 rờ rỡ, rõ rệt.",
+                "(Động) Cầm, nắm. § Thông 'bỉnh' 秉"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tỏ rõ, như bỉnh nhiên 炳然 rõ vậy, bỉnh bỉnh 炳炳 rờ rỡ, rõ rệt.",
+                "Văn minh. Cũng đọc là chữ bính."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Sáng tỏ, tỏ rõ, sáng chói, rực rỡ, sáng ngời: 炳然 Rõ ràng; 炳炳 Rờ rỡ, rõ rệt."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sáng. Cháy sáng. Cũng đọc Bính."
+            ],
+            "compound_words": {
+                "炳燭夜遊": "bỉnh chúc dạ du",
+                "彪炳": "bưu bỉnh"
+            }
+        }
+    }
+}

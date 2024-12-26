@@ -1,0 +1,170 @@
+{
+    "character": "目",
+    "details": {
+        "Âm Hán Việt": [
+            "mục"
+        ],
+        "Tổng nét": [
+            "5"
+        ],
+        "Bộ": [
+            "mục 目 (+0 nét)"
+        ],
+        "Lục thư": [
+            "tượng hình"
+        ],
+        "Nét bút": [
+            "丨フ一一一"
+        ],
+        "Thương Hiệt": [
+            "BU (月山)"
+        ],
+        "Unicode": [
+            "U+76EE"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "mù ㄇㄨˋ"
+        ],
+        "Âm Nôm": [
+            "mục",
+            "mụt"
+        ],
+        "Âm Nhật (onyomi)": [
+            "モク (moku)",
+            "ボク (boku)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "め (me)",
+            "-め (-me)",
+            "ま- (ma-)"
+        ],
+        "Âm Hàn": [
+            "목"
+        ],
+        "Âm Quảng Đông": [
+            "muk6"
+        ]
+    },
+    "meanings": {
+        "mục": {
+            "Từ điển phổ thông": [
+                "mắt",
+                "khoản mục"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con mắt. ◎Như: 'nhĩ thông mục minh' 耳聰目明 tai thính mắt sáng, 'ngư mục hỗn châu' 魚目混珠 mắt cá làm giả (lẫn lộn) với ngọc.",
+                "(Danh) Điều khoản, phần, hạng. ◎Như: khoa thi chia ra từng hạng, loại gọi là 'khoa mục' 科目. ◇Luận Ngữ 論語: 'Nhan Uyên vấn nhân, tử viết: Khắc kỉ phục lễ vi nhân, (...). Nhan Uyên viết: Thỉnh vấn kì mục' 顏淵問仁, 子曰: 克己復禮為仁, (...). 顏淵曰: 請問其目 (Nhan Uyên 顏淵) Nhan Uyên hỏi về đức nhân. Khổng Tử đáp: Khắc kỉ mà trở vể lễ thì là nhân, (...). Nhan Uyên hỏi: Xin hỏi về những điều khoản (để thực hành).",
+                "(Danh) Chia từng ngăn như trong cái lưới, ngoài giường lưới gọi là 'cương' 綱, những mắt dây nhỏ gọi là 'mục' 目. Nói ví dụ về sự lớn nhỏ cùng ràng buộc nhau gọi là 'hoành cương tế mục' 宏綱細目.",
+                "(Danh) Bảng liệt kê các phần, các điều trong sách vở, tài liệu cho tiện việc tra cứu. ◎Như: 'thư mục' 書目 bảng liệt kê các tên sách, 'mục lục' 目錄 bảng ghi các chương, tiết, đề tài có trong sách.",
+                "(Danh) Danh xưng, tiêu đề. ◎Như: 'danh mục' 名目 tên gọi, 'đề mục' 題目 đầu đề.",
+                "(Danh) Thủ lĩnh, người cầm đầu. ◎Như: 'đầu mục' 頭目 người đứng đầu, lãnh đạo.",
+                "(Danh) Chỗ tinh thần thiết yếu.",
+                "(Động) Nhìn, nhìn chăm chú. ◎Như: 'cực mục' 極目 nhìn mút mắt, nhìn xa tít tắp. ◇Cao Bá Quát 高伯适: 'Cực mục vân man man' 極目雲漫漫 (Đạo phùng ngạ phu 道逢餓夫) Nhìn mút mắt mây mênh mang.",
+                "(Động) Coi, coi là, khen là. ◎Như: 'mục chi vi thần phẩm' 目之爲神品 khen là cái phẩm thần, coi là quý lạ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con mắt.",
+                "Lườm, nhìn kĩ (trố mắt nhìn).",
+                "Khen, danh mục 名目 được người khen.",
+                "Phẩm đề, như mục chi vi thần phẩm 目之爲神品 khen là cái phẩm thần, nghĩa là bình phẩm cho là quý lạ.",
+                "Ðiều kiện, như khoa thi lấy học trò chia ra từng điều kiện gọi là khoa mục 科目.",
+                "Chia từng ngăn như trong cái lưới, ngoài giường lưới gọi là cương 綱, những mắt dây nhỏ gọi là mục 目. Nói ví dụ về sự lớn nhỏ cùng ràng buộc nhau gọi là hoành cương tế mục 宏綱細目.",
+                "Mục lục, trên đầu sách liệt kê các mục trong sách gọi là mục lục 目錄.",
+                "Một người thống suất một số đông người gọi là đầu mục 頭目.",
+                "Chỗ tinh thần thiết yếu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con mắt — Thấy. Nhìn — Gọi tên — Điều khoản — Tên một bộ chữ Trung Hoa, tức bộ Mục — Thập mục sở thị: Mười mắt trông vào. » Ở đây mười mắt trông vào, rõ ràng án ấy tha sao cho đành « ( Nhị độ mai )."
+            ],
+            "compound_words": {
+                "暗目": "ám mục",
+                "閉目": "bế mục",
+                "比目魚": "bỉ mục ngư",
+                "弁目": "biện mục",
+                "本來面目": "bổn lai diện mục",
+                "真面目": "chân diện mục",
+                "指目": "chỉ mục",
+                "注目": "chú mục",
+                "屬目": "chúc mục",
+                "眾目睽睽": "chúng mục khuê khuê",
+                "舉目": "cử mục",
+                "舉目無親": "cử mục vô thân",
+                "極目": "cực mục",
+                "綱舉目張": "cương cử mục trương",
+                "綱目": "cương mục",
+                "名目": "danh mục",
+                "溢目": "dật mục",
+                "面目": "diện mục",
+                "遊目": "du mục",
+                "悅目": "duyệt mục",
+                "頭目": "đầu mục",
+                "題目": "đề mục",
+                "奪目": "đoạt mục",
+                "何面目": "hà diện mục",
+                "豪目": "hào mục",
+                "橫目": "hoành mục",
+                "炫目": "huyễn mục",
+                "鄉目": "hương mục",
+                "欽定越史通鑒綱目": "khâm định việt sử thông giám cương mục",
+                "科目": "khoa mục",
+                "吏目": "lại mục",
+                "類目": "loại mục",
+                "亂目": "loạn mục",
+                "流目": "lưu mục",
+                "梅目": "mai mục",
+                "滿目": "mãn mục",
+                "眉目": "mi mục",
+                "美目": "mĩ mục",
+                "眉清目秀": "mi thanh mục tú",
+                "明目": "minh mục",
+                "瞑目": "minh mục",
+                "明目張膽": "minh mục trương đảm",
+                "目波": "mục ba",
+                "目禁": "mục cấm",
+                "目的": "mục đích",
+                "目下無人": "mục hạ vô nhân",
+                "目空一切": "mục không nhất thế",
+                "目擊": "mục kích",
+                "目擊耳聞": "mục kích nhĩ văn",
+                "目見": "mục kiến",
+                "目录": "mục lục",
+                "目錄": "mục lục",
+                "目語": "mục ngữ",
+                "目光": "mục quang",
+                "目前": "mục tiền",
+                "目標": "mục tiêu",
+                "目笑": "mục tiếu",
+                "隅目": "ngung mục",
+                "眼目": "nhãn mục",
+                "努目": "nỗ mục",
+                "怒目": "nộ mục",
+                "反目": "phản mục",
+                "過目": "quá mục",
+                "抉目": "quyết mục",
+                "瞋目": "sân mục",
+                "鴟目": "si mục",
+                "騁目": "sính mục",
+                "數目": "số mục",
+                "心目": "tâm mục",
+                "擠眉弄目": "tễ mi lộng mục",
+                "細目": "tế mục",
+                "節目": "tiết mục",
+                "节目": "tiết mục",
+                "總目": "tổng mục",
+                "側目": "trắc mục",
+                "足目": "túc mục",
+                "越史綱目": "việt sử cương mục",
+                "觸目": "xúc mục",
+                "掩目": "yểm mục",
+                "掩目捕雀": "yểm mục bổ tước",
+                "掩人耳目": "yểm nhân nhĩ mục"
+            }
+        }
+    }
+}

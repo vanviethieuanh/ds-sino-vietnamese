@@ -1,0 +1,110 @@
+{
+    "character": "技",
+    "details": {
+        "Âm Hán Việt": [
+            "kĩ",
+            "kỹ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘支"
+        ],
+        "Nét bút": [
+            "一丨一一丨フ丶"
+        ],
+        "Thương Hiệt": [
+            "QJE (手十水)"
+        ],
+        "Unicode": [
+            "U+6280"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jì ㄐㄧˋ"
+        ],
+        "Âm Nôm": [
+            "chẻ",
+            "chia",
+            "gãy",
+            "ghẽ",
+            "kẽ",
+            "kể",
+            "kĩ",
+            "kỹ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギ (gi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "わざ (waza)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "gei6"
+        ]
+    },
+    "meanings": {
+        "kĩ": {
+            "Từ điển trích dẫn": [
+                "(Danh) Nghề, tài nghệ, bản lĩnh chuyên môn. ◎Như: 'nhất kĩ chi trường' 一技之長 giỏi một nghề, 'mạt kĩ' 末技 nghề mạt hạng.",
+                "(Danh) Thợ. ◇Tuân Tử 荀子: 'Cố bách kĩ sở thành, sở dĩ dưỡng nhất nhân dã' 故百技所成, 所以養一人也 (Phú quốc 富國) Cho nên cái mà trăm thợ làm ra, cũng để phụng dưỡng một người."
+            ],
+            "compound_words": {
+                "薄技": "bạc kĩ",
+                "妙技": "diệu kĩ",
+                "口技": "khẩu kĩ",
+                "技倆": "kĩ lưỡng",
+                "技能": "kĩ năng",
+                "技藝": "kĩ nghệ",
+                "技師": "kĩ sư",
+                "技術": "kĩ thuật",
+                "技巧": "kĩ xảo",
+                "末技": "mạt kĩ",
+                "才技": "tài kĩ",
+                "雜技": "tạp kĩ",
+                "賤技": "tiện kĩ",
+                "展技": "triển kĩ",
+                "巧技": "xảo kĩ"
+            }
+        },
+        "kỹ": {
+            "Từ điển phổ thông": [
+                "kỹ thuật",
+                "tài năng"
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nghề, như tràng kĩ 長技 nghề tài, mạt kĩ 末技 nghề mạt hạng, v.v.",
+                "Tài năng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Kĩ năng, kĩ xảo, tài năng, tài khéo, tài nghệ, năng lực chuyên môn, nghề: 一技之長 Giỏi một nghề; 末技 Nghề mạt hạng; 黔驢技窮 Hết kế khả thi, mưu cùng kế tận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tài khéo — Nghề giỏi — Người thợ."
+            ],
+            "compound_words": {
+                "技工": "kỹ công",
+                "技俩": "kỹ lưỡng",
+                "技倆": "kỹ lưỡng",
+                "技能": "kỹ năng",
+                "技術": "kỹ thuật",
+                "雜技": "tạp kỹ"
+            }
+        }
+    }
+}

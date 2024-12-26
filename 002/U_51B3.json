@@ -1,0 +1,107 @@
+{
+    "character": "决",
+    "details": {
+        "Âm Hán Việt": [
+            "huyết",
+            "khuyết",
+            "quyết"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "băng 冫 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰冫夬"
+        ],
+        "Nét bút": [
+            "丶一フ一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "IMDK (戈一木大)"
+        ],
+        "Unicode": [
+            "U+51B3"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jué ㄐㄩㄝˊ"
+        ],
+        "Âm Nôm": [
+            "quết",
+            "quyết"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケチ (kechi)",
+            "ケツ (ketsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "き.める (ki.meru)",
+            "き.まる (ki.maru)",
+            "さ.く (sa.ku)"
+        ],
+        "Âm Hàn": [
+            "결"
+        ],
+        "Âm Quảng Đông": [
+            "kyut3"
+        ]
+    },
+    "meanings": {
+        "huyết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mau lẹ. Nhanh — Các âm khác là Khuyết, Quyết."
+            ]
+        },
+        "khuyết": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Khuyết 缺 — Các âm khác là Quyết, Huyết."
+            ]
+        },
+        "quyết": {
+            "Từ điển phổ thông": [
+                "khơi, tháo",
+                "vỡ đê",
+                "quyết tâm, nhất định"
+            ],
+            "Từ điển trích dẫn": [
+                "Tục dùng như chữ 決.",
+                "Giản thể của chữ 決."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Tục dùng như chữ 決."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Vỡ: 決提 Vỡ đê;",
+                "(văn) Khoi, tháo;",
+                "Kiên quyết, quả quyết, quyết đoán, quyết: 決心 Quyết tâm; 遲疑不決 Chần chừ không quyết;",
+                "Quyết không..., không đời nào..., không bao giờ..., nhất định không...: 我決不反對 Tôi quyết không phản đối; 他決不會這麼說 Anh ấy không đời nào nói như vậy; 今年決不比去年差 Năm nay nhất định không kém năm ngoái;",
+                "Xử chém, xử tử: 槍決 Xử bắn; 處決 Xử tử;",
+                "(văn) Cắn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Quyết 決 — Các âm khác là Khuyết, Huyết."
+            ],
+            "compound_words": {
+                "表决": "biểu quyết",
+                "觧决": "giải quyết",
+                "絞决": "giảo quyết",
+                "行决": "hành quyết",
+                "坚决": "kiên quyết",
+                "議决": "nghị quyết",
+                "判决": "phán quyết",
+                "果决": "quả quyết",
+                "處决": "xử quyết"
+            }
+        }
+    }
+}

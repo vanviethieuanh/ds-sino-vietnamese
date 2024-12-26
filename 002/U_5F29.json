@@ -1,0 +1,82 @@
+{
+    "character": "弩",
+    "details": {
+        "Âm Hán Việt": [
+            "nỗ"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "cung 弓 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱奴弓"
+        ],
+        "Nét bút": [
+            "フノ一フ丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "VEN (女水弓)"
+        ],
+        "Unicode": [
+            "U+5F29"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "nǔ ㄋㄨˇ"
+        ],
+        "Âm Nôm": [
+            "ná",
+            "nõ",
+            "nỗ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ド (do)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おおゆみ (ōyumi)",
+            "いしゆみ (ishiyumi)"
+        ],
+        "Âm Hàn": [
+            "노"
+        ],
+        "Âm Quảng Đông": [
+            "nou5"
+        ]
+    },
+    "meanings": {
+        "nỗ": {
+            "Từ điển phổ thông": [
+                "cái nỏ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Danh) Cái nỏ. ◇An Nam Chí Lược 安南志畧: “Thần nỗ nhất phát sát vạn nhân” 神弩一發殺萬人 (Cổ tích 古跡) Nỏ thần bắn một phát giết được muôn người."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái nỏ."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái nỏ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái nỏ, tức cái cung có cán."
+            ],
+            "compound_words": {
+                "弓弩": "cung nỗ",
+                "彊弩之末": "cương nỗ chi mạt",
+                "連弩": "liên nỗ",
+                "弩牙": "nỗ nha",
+                "弩手": "nỗ thủ"
+            }
+        }
+    }
+}

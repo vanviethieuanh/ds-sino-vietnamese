@@ -1,0 +1,71 @@
+{
+    "character": "瞅",
+    "details": {
+        "Âm Hán Việt": [
+            "thiễu",
+            "thu"
+        ],
+        "Tổng nét": [
+            "14"
+        ],
+        "Bộ": [
+            "mục 目 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰目秋"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ一丨ノ丶丶ノノ丶"
+        ],
+        "Thương Hiệt": [
+            "BUHDF (月山竹木火)"
+        ],
+        "Unicode": [
+            "U+7785"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "chǒu ㄔㄡˇ"
+        ],
+        "Âm Nôm": [
+            "thiếu"
+        ],
+        "Âm Quảng Đông": [
+            "cau2"
+        ]
+    },
+    "meanings": {
+        "thiễu": {
+            "Từ điển phổ thông": [
+                "nhìn, trông thấy",
+                "(xem: thu thải 瞅睬)"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(đph) Nhìn, trông thấy: 我沒瞅見他 Tôi không trông thấy nó."
+            ]
+        },
+        "thu": {
+            "Từ điển phổ thông": [
+                "nhìn, trông thấy",
+                "(xem: thu thải 瞅睬)"
+            ],
+            "Từ điển trích dẫn": [
+                "1. (Động) Nhìn. ◎Như: “thu liễu nhất nhãn” 瞅了一眼 đưa mắt nhìn một cái."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đưa mắt nhìn."
+            ],
+            "compound_words": {
+                "瞅睬": "thu thải"
+            }
+        }
+    }
+}

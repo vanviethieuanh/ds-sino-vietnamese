@@ -1,0 +1,108 @@
+{
+    "character": "扣",
+    "details": {
+        "Âm Hán Việt": [
+            "khấu",
+            "khẩu"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thủ 手 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺘口"
+        ],
+        "Nét bút": [
+            "一丨一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "QR (手口)"
+        ],
+        "Unicode": [
+            "U+6263"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "kòu ㄎㄡˋ"
+        ],
+        "Âm Nôm": [
+            "kháu",
+            "khâu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "コウ (kō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たた.く (tata.ku)",
+            "ひか.える (hika.eru)"
+        ],
+        "Âm Hàn": [
+            "구"
+        ],
+        "Âm Quảng Đông": [
+            "kau3"
+        ]
+    },
+    "meanings": {
+        "khấu": {
+            "Từ điển phổ thông": [
+                "bắt lại, giằng lại"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Giằng lại, kéo lại. ◎Như: 'khấu mã' 扣馬 gò cương ngựa.",
+                "(Động) Cài, gài. ◎Như: 'tương môn khấu thượng' 將門扣上 gài cửa lại.",
+                "(Động) Bắt dẫn đi, áp giải, câu lưu. ◎Như: 'khấu lưu' 扣留 câu lưu.",
+                "(Động) Gõ, đập. § Thông 'khấu' 叩. ◎Như: 'khấu môn' 扣門 gõ cửa.",
+                "(Động) Úp, chụp, đậy.",
+                "(Động) Đánh phá. ◎Như: 'khấu thành bất hạ' 扣城不下 đánh thành không được.",
+                "(Động) Trừ bớt. ◎Như: 'khấu tiền' 扣錢 trừ bớt tiền.",
+                "(Động) Gảy. ◎Như: 'khấu huyền' 扣弦 gảy đàn.",
+                "(Danh) Khuy, nút, cúc (áo), núm, dây để cài."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Giằng lại. Ngựa đang chạy kéo cương cho đứng lại gọi là khấu.",
+                "Khấu lấy. Vật đáng cho mà khấu lấy không cho gọi là khấu.",
+                "Cái kháp. Phàm vật gì có thể kháp vào nhau được cho vững gọi là khấu. Như đái khấu 帶扣 khoá thắt lưng.",
+                "Gõ, cũng như chữ khấu 叩, như khấu môn 扣門 gõ cửa.",
+                "Số đồ. Một tập văn thơ gọi là nhất khấu 一扣.",
+                "Gảy, lấy tay gảy đàn gọi là khấu huyền 扣弦."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 釦"
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Gò cương ngựa.  Đoạn trường tân thanh  có câu: » Lỏng buông tay khấu bước lần dặm băng « — Rút bớt đi, cắt bớt đi — Gõ. Đập — Vật dùng để cột lại, móc lại."
+            ],
+            "compound_words": {
+                "折扣": "chiết khấu",
+                "扣押": "khấu áp",
+                "扣留": "khấu lưu",
+                "扣馬而諫": "khấu mã nhi gián",
+                "扣上": "khấu thượng",
+                "扣除": "khấu trừ",
+                "絲絲入扣": "ti ti nhập khấu"
+            }
+        },
+        "khẩu": {
+            "Từ điển phổ thông": [
+                "bịt vàng, nạm vàng, mạ vàng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 釦"
+            ],
+            "compound_words": {
+                "带扣": "đới khẩu"
+            }
+        }
+    }
+}

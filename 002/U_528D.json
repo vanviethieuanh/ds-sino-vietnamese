@@ -1,0 +1,103 @@
+{
+    "character": "劍",
+    "details": {
+        "Âm Hán Việt": [
+            "kiếm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "đao 刀 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰僉⺉"
+        ],
+        "Nét bút": [
+            "ノ丶一丨フ一丨フ一ノ丶ノ丶丨丨"
+        ],
+        "Thương Hiệt": [
+            "OOLN (人人中弓)"
+        ],
+        "Unicode": [
+            "U+528D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "jiàn ㄐㄧㄢˋ"
+        ],
+        "Âm Nôm": [
+            "chém",
+            "ghém",
+            "gươm",
+            "kém",
+            "kiếm",
+            "sớm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つるぎ (tsurugi)"
+        ],
+        "Âm Hàn": [
+            "검"
+        ],
+        "Âm Quảng Đông": [
+            "gim3"
+        ]
+    },
+    "meanings": {
+        "kiếm": {
+            "Từ điển phổ thông": [
+                "cái kiếm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Gươm. ◎Như: 'khắc chu cầu kiếm' 刻舟求劍 khắc thuyền tìm gươm.",
+                "(Danh) Lượng từ: số lần múa kiếm.",
+                "§ Ghi chú: Nguyên viết là 劎."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái gươm, có phép dùng gươm riêng gọi là kiếm thuật 劍術, thần về gươm, tục gọi là kiếm tiên 劍仙, kiếm hiệp 劍俠. Nguyên viết là 劎."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Gươm, kiếm: 刻舟求劍 Khắc dấu trên thuyền để tìm gươm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thanh gươm, thứ binh khí thời xưa."
+            ],
+            "compound_words": {
+                "按劍": "án kiếm",
+                "寶劍": "bửu kiếm",
+                "拔劍": "bạt kiếm",
+                "蒲劍": "bồ kiếm",
+                "琴劍": "cầm kiếm",
+                "琴心劍膽": "cầm tâm kiếm đảm",
+                "刀劍": "đao kiếm",
+                "短劍": "đoản kiếm",
+                "擊劍": "kích kiếm",
+                "劍弓": "kiếm cung",
+                "劍俠": "kiếm hiệp",
+                "劍客": "kiếm khách",
+                "劍士": "kiếm sĩ",
+                "劍師": "kiếm sư",
+                "劍術": "kiếm thuật",
+                "飛劍": "phi kiếm",
+                "撫劍": "phủ kiếm",
+                "伏劍": "phục kiếm",
+                "掛劍": "quải kiếm",
+                "雙劍": "song kiếm",
+                "書劍": "thư kiếm",
+                "腰劍": "yêu kiếm"
+            }
+        }
+    }
+}

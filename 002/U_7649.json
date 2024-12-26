@@ -1,0 +1,111 @@
+{
+    "character": "癉",
+    "details": {
+        "Âm Hán Việt": [
+            "đan",
+            "đả",
+            "đản"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "nạch 疒 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒單"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一丨フ一丨フ一丨フ一一一丨"
+        ],
+        "Thương Hiệt": [
+            "KRRJ (大口口十)"
+        ],
+        "Unicode": [
+            "U+7649"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "dān ㄉㄢ",
+            "dǎn ㄉㄢˇ",
+            "dàn ㄉㄢˋ",
+            "tán ㄊㄢˊ"
+        ],
+        "Âm Nôm": [
+            "đản",
+            "đẫn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)",
+            "タ (ta)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やす.む (yasu.mu)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "daan1",
+            "daan3",
+            "taan2"
+        ]
+    },
+    "meanings": {
+        "đan": {
+            "Từ điển phổ thông": [
+                "ghét, căm ghét",
+                "kiệt sức",
+                "bệnh đơn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Căm ghét. ◇Thư Kinh 書經: 'Chương thiện đản ác' 彰善癉惡 (Tất mệnh 畢命) Biểu dương điều tốt lành, ghét bỏ điều xấu ác.",
+                "(Danh) Bệnh do mệt nhọc phát sinh. ◇Thi Kinh 詩經: 'Thượng đế bản bản, Hạ dân tốt đản' 上帝板板, 下民卒癉 (Đại nhã 大雅, Bản 板) Trời làm trái đạo thường, Dân hèn đều mệt nhọc bệnh hoạn.",
+                "Một âm là 'đan'. (Danh) 'Hỏa đan' 火癉 bệnh trẻ con bị phát ban đỏ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðau đớn.",
+                "Ghét.",
+                "Bệnh đản.",
+                "Một âm là đan. Bệnh đơn, trẻ con bị chứng da dẻ đỏ lửng, phải ban từng mảng gọi là hoả đan 火癉."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ghét, căm ghét;",
+                "Kiệt sức;",
+                "Bệnh đơn: 火癉 Bệnh ban đỏ ở trẻ con. 【癉瘧】đan ngược [dannđè] (y) Bệnh sốt rét."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh do mệt nhọc, mất sức mà ra. Bệnh lao lực — Nhọt. Ung nhọt — Một âm là Đả."
+            ],
+            "compound_words": {
+                "癉瘧": "đan ngược"
+            }
+        },
+        "đả": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Mệt nhọc — Giận dữ — Nhiều. Thịnh — Một âm khác là Đan."
+            ]
+        },
+        "đản": {
+            "Từ điển trích dẫn": [
+                "(Động) Căm ghét. ◇Thư Kinh 書經: 'Chương thiện đản ác' 彰善癉惡 (Tất mệnh 畢命) Biểu dương điều tốt lành, ghét bỏ điều xấu ác.",
+                "(Danh) Bệnh do mệt nhọc phát sinh. ◇Thi Kinh 詩經: 'Thượng đế bản bản, Hạ dân tốt đản' 上帝板板, 下民卒癉 (Đại nhã 大雅, Bản 板) Trời làm trái đạo thường, Dân hèn đều mệt nhọc bệnh hoạn.",
+                "Một âm là 'đan'. (Danh) 'Hỏa đan' 火癉 bệnh trẻ con bị phát ban đỏ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðau đớn.",
+                "Ghét.",
+                "Bệnh đản.",
+                "Một âm là đan. Bệnh đơn, trẻ con bị chứng da dẻ đỏ lửng, phải ban từng mảng gọi là hoả đan 火癉."
+            ]
+        }
+    }
+}

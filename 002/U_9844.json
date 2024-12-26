@@ -1,0 +1,68 @@
+{
+    "character": "顄",
+    "details": {
+        "Âm Hán Việt": [
+            "hàm",
+            "hạm"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "hiệt 頁 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰函頁"
+        ],
+        "Nét bút": [
+            "フ丨丶一ノ丶フ丨一ノ丨フ一一一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NUMBC (弓山一月金)"
+        ],
+        "Unicode": [
+            "U+9844"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "hàn ㄏㄢˋ"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カン (kan)",
+            "ゴン (gon)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "おとがい (otogai)"
+        ],
+        "Âm Quảng Đông": [
+            "ham5"
+        ]
+    },
+    "meanings": {
+        "hàm": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Hàm 頷."
+            ]
+        },
+        "hạm": {
+            "Từ điển phổ thông": [
+                "cái cằm"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cằm (càm) (như 頷);",
+                "【顄淡】hạm đạm [hàndàn] Nước sóng sánh."
+            ],
+            "compound_words": {
+                "顄淡": "hạm đạm"
+            }
+        }
+    }
+}

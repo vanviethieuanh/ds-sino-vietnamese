@@ -1,0 +1,96 @@
+{
+    "character": "煞",
+    "details": {
+        "Âm Hán Việt": [
+            "sát"
+        ],
+        "Tổng nét": [
+            "13"
+        ],
+        "Bộ": [
+            "hoả 火 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱⿰刍攵灬"
+        ],
+        "Nét bút": [
+            "ノフフ一一ノ一ノ丶丶丶丶丶"
+        ],
+        "Thương Hiệt": [
+            "NKF (弓大火)"
+        ],
+        "Unicode": [
+            "U+715E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "shā ㄕㄚ",
+            "shà ㄕㄚˋ"
+        ],
+        "Âm Nôm": [
+            "sát"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サツ (satsu)",
+            "サイ (sai)",
+            "セツ (setsu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ころ.す (koro.su)",
+            "そ.ぐ (so.gu)"
+        ],
+        "Âm Hàn": [
+            "살"
+        ],
+        "Âm Quảng Đông": [
+            "saat3"
+        ]
+    },
+    "meanings": {
+        "sát": {
+            "Từ điển phổ thông": [
+                "giết chết"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Hung thần. ◎Như: 'hung sát' 凶煞 thần hung ác.",
+                "(Danh) § Xem 'hồi sát' 回煞.",
+                "(Phó) Rất, hết sức, cực, thậm. ◎Như: 'sát phí khổ tâm' 煞費苦心 mất rất nhiều tâm sức, nát tim nát óc.",
+                "(Phó) Nào, gì. § Tương đương với 'hà' 何, 'thập ma' 什麼. ◇Hồng Lâu Mộng 紅樓夢: 'Giá thị thập ma ái vật nhi, hữu sát dụng ni?' 這是什麼愛物兒, 有煞用呢 (Đệ lục hồi) Vật đó là cái gì, nó dùng làm gì vậy?",
+                "(Động) Giết. § Cũng như 'sát' 殺.",
+                "(Động) Dừng lại, đình chỉ. ◎Như: 'sát xa' 煞車 ngừng xe. ◇Hồng Lâu Mộng 紅樓夢: 'Bảo Thoa tại đình ngoại thính kiến thuyết thoại, tiện sát trụ cước, vãng lí tế thính' 寶釵在亭外聽見說話, 便煞住腳, 往裏細聽 (Đệ nhị thập thất hồi) Bảo Thoa ở phía ngoài đình nghe thấy tiếng nói chuyện, bèn dừng chân, lắng tai nghe."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tục dùng như chữ sát 殺. Các hung thần đều gọi là sát.",
+                "Lấy ngày kẻ chết mà tính xem đến ngày nào hồn về gọi là quy sát 歸煞.",
+                "Thu sát 收煞 thu thúc lại.",
+                "Rất, như sát phí kinh doanh 煞費經營 kinh doanh rất khó nhọc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dừng lại, chấm dứt, ngừng, khóa: 煞住腳 Dừng chân; 煞帳 Khóa sổ;",
+                "Buộc chặt, thắt chặt lại, thúc lại: 煞一煞腰帶 Thắt chặt dây lưng; 收煞 Thu thúc lại;",
+                "Như 殺 [sha] nghĩa",
+                "",
+                "",
+                ". Xem 煞 [shà]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Làm bị thương, làm tổn hại tới thân thể người khác — Vị hung thần — Rất. Lắm — Thâu tóm lại. Xem Sát bút."
+            ],
+            "compound_words": {
+                "回煞": "hồi sát",
+                "末煞": "mạt sát",
+                "煞筆": "sát bút",
+                "煞費": "sát phí",
+                "煞星": "sát tinh"
+            }
+        }
+    }
+}

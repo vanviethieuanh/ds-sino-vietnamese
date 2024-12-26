@@ -1,0 +1,77 @@
+{
+    "character": "薹",
+    "details": {
+        "Âm Hán Việt": [
+            "đài"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "thảo 艸 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿱艹臺"
+        ],
+        "Nét bút": [
+            "一丨丨一丨一丨フ一丶フ一フ丶一丨一"
+        ],
+        "Thương Hiệt": [
+            "TGRG (廿土口土)"
+        ],
+        "Unicode": [
+            "U+85B9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "tái ㄊㄞˊ"
+        ],
+        "Âm Nôm": [
+            "đài"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タイ (tai)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "とう (tō)",
+            "あぶらな (aburana)"
+        ],
+        "Âm Hàn": [
+            "대"
+        ],
+        "Âm Quảng Đông": [
+            "toi4"
+        ]
+    },
+    "meanings": {
+        "đài": {
+            "Từ điển phổ thông": [
+                "(xem: vân đài 蕓薹)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cây lách, lá khô dùng làm nón, áo tơi. § Còn gọi là 'lạp gian' 笠菅.",
+                "(Danh) Cuống các loài cỏ như hẹ, hành, tỏi..., tới kì nở hoa, hái làm rau ăn. ◎Như: 'cửu thái đài' 韭菜薹 cuống hẹ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cỏ đài, cây lách, lá khô dùng làm nón.",
+                "Vân đài 蕓薹 rau vân đài. Còn có tên là du thái 油菜.",
+                "Cuống hoa của các thú rau."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(thực) Cây lách (lá khô dùng làm nón);",
+                "Nõn hoa tỏi, hẹ..."
+            ],
+            "compound_words": {
+                "蕓薹": "vân đài"
+            }
+        }
+    }
+}

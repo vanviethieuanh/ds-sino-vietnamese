@@ -1,0 +1,93 @@
+{
+    "character": "丸",
+    "details": {
+        "Âm Hán Việt": [
+            "hoàn"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "chủ 丶 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "KNI (大弓戈)"
+        ],
+        "Unicode": [
+            "U+4E38"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "wán ㄨㄢˊ"
+        ],
+        "Âm Nôm": [
+            "giúp",
+            "hoàn",
+            "hòn",
+            "xắp",
+            "xóp"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ガン (gan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まる (maru)",
+            "まる.める (maru.meru)",
+            "まる.い (maru.i)"
+        ],
+        "Âm Hàn": [
+            "환"
+        ],
+        "Âm Quảng Đông": [
+            "jyun2",
+            "jyun4"
+        ]
+    },
+    "meanings": {
+        "hoàn": {
+            "Từ điển phổ thông": [
+                "viên, vật nhỏ và tròn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Viên (vật nhỏ mà tròn). ◎Như: 'hoàn tán cao đan' 丸散膏丹 chỉ chung các loại thuốc đông y (viên, bột, cao, tễ).",
+                "(Danh) Riêng chỉ viên đạn. ◇Tả truyện 左傳: 'Tòng đài thượng đạn nhân nhi quan kì tịch hoàn dã' 從台上彈人而觀其辟丸也 (Tuyên Công nhị niên 宣公二年) Từ trên đài bắn người và xem người tránh đạn.",
+                "(Danh) Viên thuốc.",
+                "(Danh) Trò chơi thời xưa như trái cầu.",
+                "(Danh) Một thứ chuông sử dụng trong trò biểu diễn tạp kĩ ngày xưa. Thường dùng để rung chuông khi múa kiếm.",
+                "(Danh) Trứng. ◇Lã Thị Xuân Thu 呂氏春秋: 'Lưu Sa chi tây, Đan San chi nam, hữu phượng chi hoàn' 流沙之西, 丹山之南, 有鳳之丸 (Bổn vị 本味) Ở phía tây Lưu Sa, phía nam Đan Sơn, có trứng chim phượng.",
+                "(Danh) Lượng từ: viên, hòn. ◎Như: 'thử dược mỗi phục lưỡng hoàn' 此藥每服兩丸 thuốc này mỗi lần uống hai viên.",
+                "(Danh) Họ 'Hoàn'.",
+                "(Động) Vo tròn lại, làm thành viên. ◇Tây du kí 西遊記: 'Hành Giả đạo: Yếu hoàn dược' 行者道: 要丸藥 (Đệ lục thập cửu hồi) Hành Giả nói: Để vo tròn lại làm viên thuốc.",
+                "(Động) § Thông 'hoàn' 完."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Viên, phàm vật gì nhỏ mà tròn đều gọi là hoàn, như đạn hoàn 彈丸 viên đạn.",
+                "Thẳng thắn, như tùng bách hoàn toàn 松柏丸全 cây tùng cây bách thẳng thắn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Viên: 一丸藥 Một viên thuốc; 彈丸 Viên đạn; 奉藥一丸 Dâng cho một viên thuốc (Tào Thực: Thiện chiến hành);",
+                "Viên đạn: 從台上彈人，而觀其辟丸也 Từ trên đài bắn người, mà xem người tránh đạn (Tả truyện: Tuyên công nhị niên);",
+                "Trứng: 流沙之西，丹山之南有鳳之丸 Ở phía tây Lưu Sa, phía nam Đan Sơn, có trứng con phượng (Lã thị Xuân thu: Bản vị)."
+            ],
+            "compound_words": {
+                "膏單丸散": "cao đơn hoàn tán",
+                "睪丸": "cao hoàn",
+                "睾丸": "cao hoàn",
+                "藥丸": "dược hoàn",
+                "彈丸": "đạn hoàn",
+                "丸丸": "hoàn hoàn"
+            }
+        }
+    }
+}

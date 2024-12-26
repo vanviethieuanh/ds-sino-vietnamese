@@ -1,0 +1,130 @@
+{
+    "character": "器",
+    "details": {
+        "Âm Hán Việt": [
+            "khí"
+        ],
+        "Tổng nét": [
+            "16"
+        ],
+        "Bộ": [
+            "khẩu 口 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱哭吅"
+        ],
+        "Nét bút": [
+            "丨フ一丨フ一一ノ丶丶丨フ一丨フ一"
+        ],
+        "Thương Hiệt": [
+            "RRIKR (口口戈大口)"
+        ],
+        "Unicode": [
+            "U+5668"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "qì ㄑㄧˋ"
+        ],
+        "Âm Nôm": [
+            "khí"
+        ],
+        "Âm Nhật (onyomi)": [
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "うつわ (utsuwa)"
+        ],
+        "Âm Hàn": [
+            "기"
+        ],
+        "Âm Quảng Đông": [
+            "hei3"
+        ]
+    },
+    "meanings": {
+        "khí": {
+            "Từ điển phổ thông": [
+                "đồ dùng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Đồ dùng, dụng cụ. ◎Như: 'khí dụng' 器用 đồ dùng, 'đào khí' 陶器 đồ gốm, 'binh khí' 兵器 khí giới.",
+                "(Danh) Độ lượng. ◎Như: 'khí độ khoan quảng' 器度寬廣 khí độ rộng rãi. ◇Luận Ngữ 論語: 'Quản Trọng chi khí tiểu tai' 管仲之器小哉 (Bát dật 八佾) Độ lượng của Quản Trọng nhỏ nhen thay!",
+                "(Danh) Tài năng, năng lực. ◇Tam quốc diễn nghĩa 三國演義: 'Thử tử trưởng thành, tất đương đại chi vĩ khí dã' 此子長成, 必當代之偉器也 (Đệ thập nhất hồi) Người này lớn lên tất là người giỏi trong đời.",
+                "(Danh) Cơ quan, bộ phận. ◎Như: 'sinh thực khí' 生殖器 bộ phận sinh dục.",
+                "(Danh) Các thứ thuộc về tước vị, danh hiệu.",
+                "(Danh) Họ 'Khí'.",
+                "(Động) Coi trọng. ◎Như: 'khí trọng' 器重 coi trọng (vì có tài năng). ◇Hậu Hán Thư 後漢書: 'Triều đình khí chi' 朝廷器之 (Trần Sủng truyện 陳寵傳) Triều đình coi trọng ông."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ðồ, như khí dụng 器用 đồ dùng.",
+                "Tài năng.",
+                "Ðộ lượng. Trông người nào mà cho là có tài gọi là khí trọng 器重.",
+                "Các thứ thuộc về tước vị danh hiệu cũng gọi là khí."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(Gọi chung các) công cụ, đồ dùng: 武器 Vũ khí; 容器 Đồ đựng; 石器 Đồ đá; 銅器 Đồ đồng;",
+                "Cơ quan: 消化器 Cơ quan tiêu hoá;",
+                "Máy, hộp: 變壓器 Máy biến thế; 變速器 Hộp số, hộp biến tốc;",
+                "Bụng dạ, độ lượng, khí độ: 小器 Bụng dạ hẹp hòi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đồ dùng — Sự tài giỏi — Lòng dạ rộng hẹp của một người."
+            ],
+            "compound_words": {
+                "暗器": "ám khí",
+                "飲器": "ẩm khí",
+                "排泄器": "bài tiết khí",
+                "排泄器官": "bài tiết khí quan",
+                "祕器": "bí khí",
+                "变壓器": "biến áp khí",
+                "變壓器": "biến áp khí",
+                "兵器": "binh khí",
+                "根器": "căn khí",
+                "机器": "cơ khí",
+                "機器": "cơ khí",
+                "彞器": "di khí",
+                "滅火器": "diệt hoả khí",
+                "容器": "dung khí",
+                "大器": "đại khí",
+                "陶器": "đào khí",
+                "隯器": "đào khí",
+                "投鼠忌器": "đầu thử kị khí",
+                "田器": "điền khí",
+                "電器": "điện khí",
+                "銅器": "đồng khí",
+                "核武器": "hạch vũ khí",
+                "凶器": "hung khí",
+                "器具": "khí cụ",
+                "器局": "khí cục",
+                "器械": "khí giới",
+                "器官": "khí quan",
+                "器宇": "khí vũ",
+                "金器": "kim khí",
+                "利器": "lợi khí",
+                "瓦器": "ngoã khí",
+                "樂器": "nhạc khí",
+                "戎器": "nhung khí",
+                "法器": "pháp khí",
+                "噴霧器": "phún vụ khí",
+                "軍器": "quân khí",
+                "生殖器": "sinh thực khí",
+                "材器": "tài khí",
+                "石器": "thạch khí",
+                "夀器": "thọ khí",
+                "祀器": "tự khí",
+                "微音器": "vi âm khí",
+                "味覺器": "vị giác khí",
+                "武器": "vũ khí"
+            }
+        }
+    }
+}

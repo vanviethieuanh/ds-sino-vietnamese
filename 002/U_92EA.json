@@ -1,0 +1,132 @@
+{
+    "character": "鋪",
+    "details": {
+        "Âm Hán Việt": [
+            "phô",
+            "phố"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "kim 金 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰金甫"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "CIJB (金戈十月)"
+        ],
+        "Unicode": [
+            "U+92EA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "pū ㄆㄨ",
+            "pù ㄆㄨˋ"
+        ],
+        "Âm Nôm": [
+            "pho",
+            "phô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)",
+            "フ (fu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "しく (shiku)",
+            "みせ (mise)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "pou1",
+            "pou3"
+        ]
+    },
+    "meanings": {
+        "phô": {
+            "Từ điển phổ thông": [
+                "phô, bày",
+                "lát phẳng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bày ra. ◎Như: 'phô thiết' 鋪設 bày biện, 'phô trương' 鋪張 bày ra, khoe khoang. ◇Vạn Hạnh 萬行: 'Thịnh suy như lộ thảo đầu phô' 盛衰如露草頭鋪 Thịnh suy như sương bày ra trên ngọn cỏ.",
+                "(Động) Trải ra. ◎Như: 'phô sàng' 鋪床 trải giường, 'phô trác bố' 鋪桌布 trải khăn bàn. ◇Thủy hử truyện 水滸傳: 'Phô khai bị ngọa, thoát liễu y thường, thướng sàng tiện thụy' 鋪開被臥, 脫了衣裳, 上床便睡 (Đệ tam thập nhất hồi) Trải chăn đệm ra, cởi quần áo lên giường ngủ.",
+                "Một âm là 'phố'. (Danh) Cửa hàng buôn bán. ◎Như: 'thư phố' 書鋪 hiệu sách, 'tạp hóa phố' 雜貨鋪 tiệm tạp hóa.",
+                "(Danh) Tiếng gọi chung mùng, mền, giường, chiếu. ◎Như: 'sàng phố' 床鋪 gọi chung mùng, mền, giường, chiếu, 'sàng vị' 床位 giường nằm (dành cho khách đi xe lửa, tàu thủy).",
+                "(Danh) Nhà trạm.",
+                "(Danh) Lượng từ: cái. ◎Như: 'nhất phố sàng' 一 鋪床 một cái giường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bày. Như phô thiết 鋪設 bày đặt, bày biện nhiều thứ cho sang. Vì thế nên khoe nhiều, phô bày của cải ra gọi là phô trương 鋪張.",
+                "Lát phẳng, giải phẳng. Như địa phô chuyên thạch 地鋪專石 đất lát gạch đá phẳng.",
+                "Một âm là phố. Cửa hàng buôn bán.",
+                "Cái chiếu nằm.",
+                "Nhà trạm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Rải, dọn, trải, lót, lát: 鋪桌布 Trải khăn bàn; 鋪柏油 rải nhựa; 鋪地板 Lát ván; 地面鋪上一層稻草 Rải một lớp rơm trên mặt đất; 鋪平道路 Dọn (mở) đường;",
+                "Bày ra, trải ra, phô bày;",
+                "Cái (từ chỉ đơn vị): 一 鋪床 Một cái giường. Xem 鋪 [pù]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bày ra ngoài cho người khác thấy. Tục ngữ ta có câu: » Tốt đẹp phô ra, xấu xa đậy lại « — Một âm khác là Phố. Xem Phố."
+            ],
+            "compound_words": {
+                "鋪排": "phô bài",
+                "鋪眉蒙眼": "phô mi mông nhãn",
+                "鋪陳": "phô trần",
+                "鋪張": "phô trương"
+            }
+        },
+        "phố": {
+            "Từ điển phổ thông": [
+                "cửa hàng buôn bán",
+                "giường, phản"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Bày ra. ◎Như: 'phô thiết' 鋪設 bày biện, 'phô trương' 鋪張 bày ra, khoe khoang. ◇Vạn Hạnh 萬行: 'Thịnh suy như lộ thảo đầu phô' 盛衰如露草頭鋪 Thịnh suy như sương bày ra trên ngọn cỏ.",
+                "(Động) Trải ra. ◎Như: 'phô sàng' 鋪床 trải giường, 'phô trác bố' 鋪桌布 trải khăn bàn. ◇Thủy hử truyện 水滸傳: 'Phô khai bị ngọa, thoát liễu y thường, thướng sàng tiện thụy' 鋪開被臥, 脫了衣裳, 上床便睡 (Đệ tam thập nhất hồi) Trải chăn đệm ra, cởi quần áo lên giường ngủ.",
+                "Một âm là 'phố'. (Danh) Cửa hàng buôn bán. ◎Như: 'thư phố' 書鋪 hiệu sách, 'tạp hóa phố' 雜貨鋪 tiệm tạp hóa.",
+                "(Danh) Tiếng gọi chung mùng, mền, giường, chiếu. ◎Như: 'sàng phố' 床鋪 gọi chung mùng, mền, giường, chiếu, 'sàng vị' 床位 giường nằm (dành cho khách đi xe lửa, tàu thủy).",
+                "(Danh) Nhà trạm.",
+                "(Danh) Lượng từ: cái. ◎Như: 'nhất phố sàng' 一 鋪床 một cái giường."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Bày. Như phô thiết 鋪設 bày đặt, bày biện nhiều thứ cho sang. Vì thế nên khoe nhiều, phô bày của cải ra gọi là phô trương 鋪張.",
+                "Lát phẳng, giải phẳng. Như địa phô chuyên thạch 地鋪專石 đất lát gạch đá phẳng.",
+                "Một âm là phố. Cửa hàng buôn bán.",
+                "Cái chiếu nằm.",
+                "Nhà trạm."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Hiệu, cửa hiệu, cửa hàng: 肉鋪 Cửa hàng bán thịt; 雜貨鋪兒 Hiệu bán tạp hoá;",
+                "Giường: 搭個鋪睡覺 Kê cái giường để ngủ;",
+                "Nhà trạm. Xem 鋪 [pu]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tiệm bán hàng — Nhà trạm ở dọc đường — Ta còn hiểu là con đường hai bên có tiệm buôn bán, hoặc hiểu là nhà ở, tại thành thị."
+            ],
+            "compound_words": {
+                "當鋪": "đương phố",
+                "鋪保": "phố bảo",
+                "鋪坊": "phố phường",
+                "坊鋪": "phường phố",
+                "床鋪": "sàng phố"
+            }
+        }
+    }
+}

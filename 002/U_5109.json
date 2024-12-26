@@ -1,0 +1,90 @@
+{
+    "character": "儉",
+    "details": {
+        "Âm Hán Việt": [
+            "kiệm"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "nhân 人 (+13 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻僉"
+        ],
+        "Nét bút": [
+            "ノ丨ノ丶一丨フ一丨フ一ノ丶ノ丶"
+        ],
+        "Thương Hiệt": [
+            "OOMO (人人一人)"
+        ],
+        "Unicode": [
+            "U+5109"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiǎn ㄐㄧㄢˇ"
+        ],
+        "Âm Nôm": [
+            "cợm",
+            "hiếm",
+            "kiệm",
+            "thiếu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ケン (ken)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "つま.しい (tsuma.shii)",
+            "つづまやか (tsuzumayaka)"
+        ],
+        "Âm Hàn": [
+            "검"
+        ],
+        "Âm Quảng Đông": [
+            "gim6"
+        ]
+    },
+    "meanings": {
+        "kiệm": {
+            "Từ điển phổ thông": [
+                "tiết kiệm"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Tằn tiện, dè sẻn. ◇Lí Thương Ẩn 李商隱: 'Thành do cần kiệm phá do xa' 成由勤儉破由奢 (Vịnh sử 詠史) Nên việc là do dè xẻn, đổ vỡ vì hoang phí.",
+                "(Tính) Khiêm hòa, tiết chế. ◎Như: 'cung kiệm' 恭儉 cung kính khiêm hòa.",
+                "(Tính) Thiếu thốn. ◎Như: 'bần kiệm' 貧儉 nghèo thiếu, 'kiệm bạc' 儉薄 ít ỏi nhỏ mọn.",
+                "(Tính) Mất mùa, thu hoạch kém. ◎Như: 'kiệm tuế' 儉歲 năm mất mùa ."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tằn tiện, có tiết chế mà không phung phá láo gọi là kiệm.",
+                "Thiếu, như bần kiệm 貧儉 nghèo thiếu, kiệm bạc 儉薄 ít ỏi nhỏ mọn.",
+                "Năm mất mùa cũng gọi là kiệm tuế 儉歲."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tiết kiệm: 勤儉 Cần kiệm;",
+                "(văn) Thiếu kém, ít ỏi: 貧儉 Nghèo thiếu; 儉歲 Năm mất mùa."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cột cho gọn lại — Thâu bớt lại — Dè xẻn, không hoang phí — Thiếu hụt."
+            ],
+            "compound_words": {
+                "勤儉": "cần kiệm",
+                "儉簿": "kiệm bạc",
+                "儉月": "kiệm nguyệt",
+                "儉腹": "kiệm phúc",
+                "儉約": "kiệm ước",
+                "節儉": "tiết kiệm"
+            }
+        }
+    }
+}

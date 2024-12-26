@@ -1,0 +1,81 @@
+{
+    "character": "贓",
+    "details": {
+        "Âm Hán Việt": [
+            "tang"
+        ],
+        "Tổng nét": [
+            "21"
+        ],
+        "Bộ": [
+            "bối 貝 (+14 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰貝臧"
+        ],
+        "Nét bút": [
+            "丨フ一一一ノ丶一ノフ一ノ一丨フ一丨フフノ丶"
+        ],
+        "Thương Hiệt": [
+            "BCIMS (月金戈一尸)"
+        ],
+        "Unicode": [
+            "U+8D13"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "zāng ㄗㄤ"
+        ],
+        "Âm Nôm": [
+            "tang"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zong1"
+        ]
+    },
+    "meanings": {
+        "tang": {
+            "Từ điển phổ thông": [
+                "của ăn trộm",
+                "tang vật"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiền của ăn cắp, tước đoạt một cách bất chính hoặc phi pháp. ◎Như: 'tham tang uổng pháp' 貪贓枉法 tiền của bất chính, việc làm trái phép, 'nhân tang tịnh hoạch' 人贓並獲 bắt được cả người và đồ đã lấy.",
+                "(Tính) Ăn cắp được, có được một cách trái luật pháp. ◎Như: 'tang khoản' 贓款 tiền ăn cắp, tiền hối lộ, 'tang vật' 贓物 đồ vật bị cướp đoạt."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Quan lại ăn của đút, như tham tang uổng pháp 貪贓枉法 tham của đút làm sai phép.",
+                "Tang vật, những đồ trộm cướp đã lấy được đều gọi là tang, như nhân tang tịnh hoạch 人贓並獲 bắt được cả người và đồ đã lấy."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Của ăn cắp, tang vật: 抓到三個正在分贓的小偷 Bắt được ba kẻ trộm đang chia của; 追贓 Truy tang vật; 退贓 Hoàn lại của ăn cắp; 人贓並獲 Bắt được cả người và tang vật;",
+                "(văn) Ăn của đút lót: 貪贓枉法 Tham của đút làm trái luật pháp."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Đút lót cho quan — Tiền của đút lót — Vật làm bằng cớ.  Đoạn trường tân thanh : » Thực tang bắt được dường này «."
+            ],
+            "compound_words": {
+                "果贓": "quả tang",
+                "贓證": "tang chứng",
+                "贓據": "tang cứ",
+                "贓迹": "tang tích",
+                "贓物": "tang vật",
+                "無贓": "vô tang"
+            }
+        }
+    }
+}

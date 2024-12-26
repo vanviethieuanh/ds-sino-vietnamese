@@ -1,0 +1,86 @@
+{
+    "character": "址",
+    "details": {
+        "Âm Hán Việt": [
+            "chỉ"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thổ 土 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土止"
+        ],
+        "Nét bút": [
+            "一丨一丨一丨一"
+        ],
+        "Thương Hiệt": [
+            "GYLM (土卜中一)"
+        ],
+        "Unicode": [
+            "U+5740"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zhǐ ㄓˇ"
+        ],
+        "Âm Nôm": [
+            "chỉ",
+            "xởi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シ (shi)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あと (ato)"
+        ],
+        "Âm Hàn": [
+            "지"
+        ],
+        "Âm Quảng Đông": [
+            "zi2"
+        ]
+    },
+    "meanings": {
+        "chỉ": {
+            "Từ điển phổ thông": [
+                "nền đất",
+                "(xem: địa chỉ 地址)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Nền móng, cơ sở. ◇Vương An Thạch 王安石: 'Bao Thiền San diệc vị chi Hoa San, Đường phù đồ Tuệ Bao thủy xá ư kì chỉ' 褒禪山亦謂之華山, 唐浮圖慧褒始舍於其址 (Du Bao Thiền Sơn kí 遊褒禪山記) Bao Thiền Sơn cũng gọi là Hoa Sơn; đời Đường, nhà sư Tuệ Bao bắt đầu cất nhà ở nền này.",
+                "(Danh) Nơi, chỗ, địa điểm. ◎Như: 'trụ chỉ' 住址 chỗ ở."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cái nền."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nơi, chỗ, chỉ, địa điểm: 住址 Nơi ở, chỗ ở; 廠址 Địa điểm của nhà máy; 地址 Địa chỉ; 舊址 Nơi (ở) cũ, địa điểm cũ;",
+                "Nền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nền nhà."
+            ],
+            "compound_words": {
+                "基址": "cơ chỉ",
+                "遗址": "di chỉ",
+                "遺址": "di chỉ",
+                "地址": "địa chỉ",
+                "廢址": "phế chỉ",
+                "貫址": "quán chỉ",
+                "住址": "trú chỉ",
+                "文址": "văn chỉ"
+            }
+        }
+    }
+}

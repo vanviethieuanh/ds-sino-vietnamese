@@ -1,0 +1,93 @@
+{
+    "character": "鍛",
+    "details": {
+        "Âm Hán Việt": [
+            "thuyến",
+            "đoàn",
+            "đoán",
+            "đoạn"
+        ],
+        "Tổng nét": [
+            "17"
+        ],
+        "Bộ": [
+            "kim 金 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰金段"
+        ],
+        "Nét bút": [
+            "ノ丶一一丨丶ノ一ノ丨一一一ノフフ丶"
+        ],
+        "Thương Hiệt": [
+            "CHJE (金竹十水)"
+        ],
+        "Unicode": [
+            "U+935B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "duàn ㄉㄨㄢˋ"
+        ],
+        "Âm Nôm": [
+            "đoàn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "タン (tan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "きた.える (kita.eru)"
+        ],
+        "Âm Hàn": [
+            "단"
+        ],
+        "Âm Quảng Đông": [
+            "dyun3"
+        ]
+    },
+    "meanings": {
+        "thuyến": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thứ đá để mài lưỡi rìu — Xem Đoán."
+            ]
+        },
+        "đoàn": {
+            "Từ điển phổ thông": [
+                "rèn (kim loại)"
+            ]
+        },
+        "đoán": {
+            "Từ điển trích dẫn": [
+                "(Động) Rèn, luyện. ◎Như: 'đoán luyện' 鍛鍊 rèn đúc, rèn luyện.",
+                "(Danh) Đá mài dao."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Gió sắt, rèn sắt.",
+                "Rửa, mài giũa cho sắc bén. Như đoán luyện 鍛鍊 rèn đúc, rèn luyện."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Luyện;",
+                "Rèn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nung đèn — Đập nện — Ta quen đọc Đoạn."
+            ],
+            "compound_words": {
+                "鍛鍊": "đoán luyện"
+            }
+        },
+        "đoạn": {
+            "Từ điển phổ thông": [
+                "rèn (kim loại)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "character": "懊",
+    "details": {
+        "Âm Hán Việt": [
+            "áo",
+            "úc"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "tâm 心 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⺖奧"
+        ],
+        "Nét bút": [
+            "丶丶丨ノ丨フ丶ノ一丨ノ丶一ノ丶"
+        ],
+        "Thương Hiệt": [
+            "PHBK (心竹月大)"
+        ],
+        "Unicode": [
+            "U+61CA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "ào ㄚㄛˋ"
+        ],
+        "Âm Nôm": [
+            "áo",
+            "úc"
+        ],
+        "Âm Nhật (onyomi)": [
+            "オウ (ō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "じれった.い (jire'ta.i)",
+            "なや.む (naya.mu)"
+        ],
+        "Âm Hàn": [
+            "오"
+        ],
+        "Âm Quảng Đông": [
+            "ou3"
+        ]
+    },
+    "meanings": {
+        "áo": {
+            "Từ điển phổ thông": [
+                "hối hận, tiếc nuối",
+                "buồn rầu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Phiền, bực dọc. ◎Như: 'áo não' 懊惱 bực dọc, buồn bực.",
+                "(Động) Hối hận, ăn năn. ◎Như: 'áo não' 懊惱 hối hận."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Áo não 懊惱 tấm tức, bực dọc, trong lòng có sự căm tức như nung như nấu gọi là áo não."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Phiền, bực dọc, buồn, giận;",
+                "Ăn năn, hối hận."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Hối hận — Buồn rầu — Giận hờn — Một âm khác là Úc."
+            ],
+            "compound_words": {
+                "懊悔": "áo hối",
+                "懊憦": "áo lạo",
+                "懊恼": "áo não",
+                "懊惱": "áo não",
+                "懊儂": "áo nông",
+                "懊丧": "áo tang",
+                "懊喪": "áo tang"
+            }
+        },
+        "úc": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Buồn rầu, như chữ Úc 噢 — Xem Áo."
+            ]
+        }
+    }
+}

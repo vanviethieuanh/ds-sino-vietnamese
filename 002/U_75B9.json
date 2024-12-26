@@ -1,0 +1,80 @@
+{
+    "character": "疹",
+    "details": {
+        "Âm Hán Việt": [
+            "chẩn"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "nạch 疒 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿸疒㐱"
+        ],
+        "Nét bút": [
+            "丶一ノ丶一ノ丶ノノノ"
+        ],
+        "Thương Hiệt": [
+            "KOHH (大人竹竹)"
+        ],
+        "Unicode": [
+            "U+75B9"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chèn ㄔㄣˋ",
+            "zhěn ㄓㄣˇ"
+        ],
+        "Âm Nôm": [
+            "chẩn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "シン (shin)",
+            "チン (chin)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はしか (hashika)"
+        ],
+        "Âm Hàn": [
+            "진"
+        ],
+        "Âm Quảng Đông": [
+            "can2",
+            "zan2"
+        ]
+    },
+    "meanings": {
+        "chẩn": {
+            "Từ điển phổ thông": [
+                "bệnh lên sởi"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Bệnh lên sởi, ngoài da mọc mụn đỏ.",
+                "(Danh) Bệnh tật."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Bệnh lên sởi."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(y) Nốt, mụt, nấm, (bệnh) sởi: 起疹子 Nổi nốt; 濕疹 Nấm ngoài da; 麻疹 Bệnh sởi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bệnh sởi — Bệnh nổi mụn ngoài da."
+            ],
+            "compound_words": {
+                "痲疹": "ma chẩn",
+                "麻疹": "ma chẩn"
+            }
+        }
+    }
+}

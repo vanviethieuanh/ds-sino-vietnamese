@@ -1,0 +1,107 @@
+{
+    "character": "迦",
+    "details": {
+        "Âm Hán Việt": [
+            "ca",
+            "già"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "sước 辵 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿺辶加"
+        ],
+        "Nét bút": [
+            "フノ丨フ一丶フ丶"
+        ],
+        "Thương Hiệt": [
+            "YKSR (卜大尸口)"
+        ],
+        "Unicode": [
+            "U+8FE6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiā ㄐㄧㄚ",
+            "xiè ㄒㄧㄝˋ"
+        ],
+        "Âm Nôm": [
+            "ca",
+            "dà",
+            "già"
+        ],
+        "Âm Nhật (onyomi)": [
+            "カ (ka)",
+            "ケ (ke)"
+        ],
+        "Âm Hàn": [
+            "가"
+        ],
+        "Âm Quảng Đông": [
+            "gaa1"
+        ]
+    },
+    "meanings": {
+        "ca": {
+            "Từ điển phổ thông": [
+                "(xem: thích ca 釋迦)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng dùng để dịch âm kinh Tạng.",
+                "(Danh) § Xem 'Thích-già' 釋迦.",
+                "(Danh) § Xem 'Già-lam' 迦藍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thích Già 釋迦 Đức Thích Ca là vị tổ sáng lập ra Phật giáo. Cũng đọc là chữ ca.",
+                "Già Lam 迦監 chùa, nhà của sư ở.",
+                "Già La 迦羅 tách một cái lòng của người thành trăm phần."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Xem Thích ca, cũng đọc Già."
+            ],
+            "compound_words": {
+                "迦葉": "ca diếp",
+                "释迦": "thích ca",
+                "釋迦": "thích ca"
+            }
+        },
+        "già": {
+            "Từ điển phổ thông": [
+                "(xem: thích ca 釋迦)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Tiếng dùng để dịch âm kinh Tạng.",
+                "(Danh) § Xem 'Thích-già' 釋迦.",
+                "(Danh) § Xem 'Già-lam' 迦藍."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thích Già 釋迦 Đức Thích Ca là vị tổ sáng lập ra Phật giáo. Cũng đọc là chữ ca.",
+                "Già Lam 迦監 chùa, nhà của sư ở.",
+                "Già La 迦羅 tách một cái lòng của người thành trăm phần."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chữ dùng để phiên âm tiếng nước ngoài (thường là Phạn ngữ): 釋迦 Phật Thích Ca; 迦監 Chùa chiền."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Già 伽, không có nghĩa, dùng để phiên âm tiếng Phạn. Cũng đọc Ca. Chẳng hạn Thích-già ( ca )."
+            ],
+            "compound_words": {
+                "迦葉": "già diệp",
+                "迦藍": "già lam",
+                "迦比羅": "già tỉ la",
+                "釋迦": "thích già"
+            }
+        }
+    }
+}

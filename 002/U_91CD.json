@@ -1,0 +1,258 @@
+{
+    "character": "重",
+    "details": {
+        "Âm Hán Việt": [
+            "trùng",
+            "trọng"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "lý 里 (+2 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノ一丨フ一一丨一一"
+        ],
+        "Thương Hiệt": [
+            "HJWG (竹十田土)"
+        ],
+        "Unicode": [
+            "U+91CD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chóng ㄔㄨㄥˊ",
+            "tóng ㄊㄨㄥˊ",
+            "zhòng ㄓㄨㄥˋ"
+        ],
+        "Âm Nôm": [
+            "chõng",
+            "chồng",
+            "chuộng",
+            "trọng",
+            "trộng",
+            "trùng",
+            "trửng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュウ (jū)",
+            "チョウ (chō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "え (e)",
+            "おも.い (omo.i)",
+            "おも.り (omo.ri)",
+            "おも.なう (omo.nau)",
+            "かさ.ねる (kasa.neru)",
+            "かさ.なる (kasa.naru)",
+            "おも (omo)"
+        ],
+        "Âm Hàn": [
+            "중"
+        ],
+        "Âm Quảng Đông": [
+            "cung4",
+            "cung5",
+            "zung6"
+        ]
+    },
+    "meanings": {
+        "trùng": {
+            "Từ điển phổ thông": [
+                "trùng, lặp lại",
+                "lần"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nặng (sức, lượng). ◎Như: 'khinh trọng' 輕重 nặng nhẹ.",
+                "(Tính) Lớn, mạnh (nói về âm thanh). ◎Như: 'trọng độc' 重讀 đọc lớn tiếng, 'trọng âm' 重音 âm nặng, âm trầm.",
+                "(Tính) Giá trị cao, quan yếu. ◎Như: 'trọng giá' 重價 giá cao, 'trọng quyền' 重權 quyền hành cao.",
+                "(Tính) Trang trọng, thận trọng. ◎Như: 'trọng nhân' 重人 người cẩn thận.",
+                "(Tính) Khẩn yếu. ◎Như: 'nghiêm trọng' 嚴重.",
+                "(Tính) Tôn quý. ◎Như: 'trọng khách' 重客 quý khách, 'trọng hóa' 重貨 vàng bạc của cải quý giá.",
+                "(Tính) Nồng, đậm, nhiều, hậu, dày. ◎Như: 'trọng sắc' 重色 nhan sắc rất đẹp, 'trọng băng' 重冰 băng đá dày, 'trọng ý' 重意 tình ý thâm hậu, 'trọng bích' 重碧 xanh lục đậm.",
+                "(Tính) Nghiêm túc, nghiêm khắc. ◎Như: 'trọng pháp' 重法 hình phạt nghiêm khắc, 'trọng tích' 重辟 tử hình.",
+                "(Tính) Nặng nề. ◎Như: 'sát nhân trọng tù' 殺人重囚 tù có tội nặng giết người.",
+                "(Tính) Nặng nhọc, trì trệ, chậm chạp. ◎Như: 'trọng khí' 重氣 hít thở nặng nhọc, khó khăn, 'trọng trệ' 重滯 ngưng trệ, bế tắc.",
+                "(Danh) Trọng lượng.",
+                "(Danh) Quyền lực, quyền thế. ◇Hàn Phi Tử 韓非子: 'Nhiên tắc nhân chủ vô uy, nhi trọng tại tả hữu hĩ' 然則人主无威, 而重在左右矣 (Ngoại trữ thuyết tả hạ 外儲說左下) Nhưng mà bậc chủ không có oai nghi, thì quyền thế ở trong tay kẻ tả hữu vậy.",
+                "(Danh) Xe quân nhu (quân đội thời xưa dùng để chở quần áo, lương thực).",
+                "(Động) Chuộng, coi trọng. ◎Như: 'trọng nông' 重農 chuộng nghề làm ruộng.",
+                "(Động) Tăng thêm. ◇Hán Thư 漢書: 'Thị trọng ngô bất đức dã' 是重吾不德也 (Văn Đế kỉ 文帝紀) Thế là làm tăng thêm sự thiếu đức của ta.",
+                "(Phó) Rất, lắm, quá. ◇Tố Vấn 素問: 'Trọng hàn tắc nhiệt' 重寒則熱 (Âm dương ứng tượng 陰陽應象) Lạnh quá hóa nóng.",
+                "(Phó) Đặc biệt, đặc cách. ◇Sử Kí 史記: 'Tần Hoàng Đế tích kì thiện kích trúc, trọng xá chi, nãi hoắc kì mục' 秦皇帝惜其善擊筑, 重赦之, 乃矐其目 (Kinh Kha truyện 荊軻傳) Tần Hoàng Đế tiếc tài thổi sáo trúc của ông (Cao Tiệm Li 高漸離), đặc cách cho ân xá, nhưng làm cho mù mắt.",
+                "Một âm là 'trùng'. (Phó) Lại, nhiều lần, chồng chất. ◎Như: 'trùng tố' 重做 làm lại, 'phúc bất trùng lai' 福不重來 phúc chẳng đến hai lần.",
+                "(Danh) Lượng từ: tầng, lớp. ◎Như: 'nhất trùng' 一重 một tầng. ◇Vương An Thạch 王安石: 'Chung San chỉ cách sổ trùng san' 鍾山只隔數重山 (Bạc thuyền Qua Châu 泊船瓜洲) Chung San chỉ cách mấy lớp núi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nặng. Ðem hai vật so sánh với nhau gọi là khinh trọng 輕重 nặng nhẹ. Dùng sức nhiều cũng gọi là trọng, vì thế nên tiếng to cũng gọi là trọng.",
+                "Tính cái sức chống chọi của vật này với vật kia gọi là trọng lượng 重量, khoa học nghiên cứu về cái lẽ của sức, định sức, động sức giúp gọi là trọng học 重學 hay lực học 力學, v.v.",
+                "Coi trọng, không dám khinh thường. Như trịnh trọng 鄭重, nghiêm trọng 嚴重, v.v.",
+                "Tôn trọng. Như quân tử tự trọng 君子自重 người quân tử tôn trọng lấy mình.",
+                "Chuộng. Như trọng nông 重農 chuộng nghề làm ruộng.",
+                "Quá. Thư trọng bệnh 重病 bệnh nặng quá, trọng tội 重罪 tội nặng quá, v.v.",
+                "Một âm là trùng. Gấp, kép. Như trùng tứ 重四 gấp tư.",
+                "Lại. Như trùng tố 重做 làm lại. Phúc bất trùng lai 福不重來 phúc chẳng đến hai lần.",
+                "Trồng vật gì cách nhau một từng gọi là nhất trùng 一重."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Lại, lần nữa, hai lần: 寫錯了，重寫吧 Viết sai rồi, viết lại đi!; 重問一遍 Hỏi lại một lần; 重修 Sửa lại; 福不重來 Phúc chẳng đến hai lần; 時無重 至 Thời không đến hai lần (Lục Cơ: Đoản ca hành). 【重新】 trùng tân [chóngxin] ... lại, ... một lần nữa: 重新組織 Tổ chức lại; 重新寫 Viết lại; 重新做一遍 Làm lại một lần nữa; 【重行】 trùng hành [chóngxíng] Như 重新;",
+                "Trùng, trùng phức, thừa: 書買重了 Mua trùng sách rồi; 做重了 Làm trùng nhau; 删除複重 Bỏ bớt những chỗ trùng (trùng phức, thừa);",
+                "Lớp, tầng: 雲山萬重 Núi mây lớp lớp; 九重塔 Tháp chín tầng; 漢軍及諸侯兵圍之數重 Quân Hán và quân các chư hầu bao vây ông ta mấy lớp (Sử kí). Xem 重 [zhòng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Lặp đi lặp lại nhiều lần, giống nhau — Tầng lớp. Lần. Lớp. ĐTTT: » Khấu đầu lạy tạ cao thâm nghìn trùng « — Một âm khác là Trọng."
+            ],
+            "compound_words": {
+                "九重": "cửu trùng",
+                "福不重來": "phúc bất trùng lai",
+                "捲土重來": "quyển thổ trùng lai",
+                "重九": "trùng cửu",
+                "重洋": "trùng dương",
+                "重阳": "trùng dương",
+                "重陽": "trùng dương",
+                "重疊": "trùng điệp",
+                "重來": "trùng lai",
+                "重五": "trùng ngũ",
+                "重逢": "trùng phùng",
+                "重生": "trùng sinh",
+                "重喪": "trùng tang",
+                "重重": "trùng trùng",
+                "重修": "trùng tu",
+                "重圍": "trùng vi"
+            }
+        },
+        "trọng": {
+            "Từ điển phổ thông": [
+                "nặng",
+                "coi trọng, kính trọng",
+                "chuộng"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nặng (sức, lượng). ◎Như: 'khinh trọng' 輕重 nặng nhẹ.",
+                "(Tính) Lớn, mạnh (nói về âm thanh). ◎Như: 'trọng độc' 重讀 đọc lớn tiếng, 'trọng âm' 重音 âm nặng, âm trầm.",
+                "(Tính) Giá trị cao, quan yếu. ◎Như: 'trọng giá' 重價 giá cao, 'trọng quyền' 重權 quyền hành cao.",
+                "(Tính) Trang trọng, thận trọng. ◎Như: 'trọng nhân' 重人 người cẩn thận.",
+                "(Tính) Khẩn yếu. ◎Như: 'nghiêm trọng' 嚴重.",
+                "(Tính) Tôn quý. ◎Như: 'trọng khách' 重客 quý khách, 'trọng hóa' 重貨 vàng bạc của cải quý giá.",
+                "(Tính) Nồng, đậm, nhiều, hậu, dày. ◎Như: 'trọng sắc' 重色 nhan sắc rất đẹp, 'trọng băng' 重冰 băng đá dày, 'trọng ý' 重意 tình ý thâm hậu, 'trọng bích' 重碧 xanh lục đậm.",
+                "(Tính) Nghiêm túc, nghiêm khắc. ◎Như: 'trọng pháp' 重法 hình phạt nghiêm khắc, 'trọng tích' 重辟 tử hình.",
+                "(Tính) Nặng nề. ◎Như: 'sát nhân trọng tù' 殺人重囚 tù có tội nặng giết người.",
+                "(Tính) Nặng nhọc, trì trệ, chậm chạp. ◎Như: 'trọng khí' 重氣 hít thở nặng nhọc, khó khăn, 'trọng trệ' 重滯 ngưng trệ, bế tắc.",
+                "(Danh) Trọng lượng.",
+                "(Danh) Quyền lực, quyền thế. ◇Hàn Phi Tử 韓非子: 'Nhiên tắc nhân chủ vô uy, nhi trọng tại tả hữu hĩ' 然則人主无威, 而重在左右矣 (Ngoại trữ thuyết tả hạ 外儲說左下) Nhưng mà bậc chủ không có oai nghi, thì quyền thế ở trong tay kẻ tả hữu vậy.",
+                "(Danh) Xe quân nhu (quân đội thời xưa dùng để chở quần áo, lương thực).",
+                "(Động) Chuộng, coi trọng. ◎Như: 'trọng nông' 重農 chuộng nghề làm ruộng.",
+                "(Động) Tăng thêm. ◇Hán Thư 漢書: 'Thị trọng ngô bất đức dã' 是重吾不德也 (Văn Đế kỉ 文帝紀) Thế là làm tăng thêm sự thiếu đức của ta.",
+                "(Phó) Rất, lắm, quá. ◇Tố Vấn 素問: 'Trọng hàn tắc nhiệt' 重寒則熱 (Âm dương ứng tượng 陰陽應象) Lạnh quá hóa nóng.",
+                "(Phó) Đặc biệt, đặc cách. ◇Sử Kí 史記: 'Tần Hoàng Đế tích kì thiện kích trúc, trọng xá chi, nãi hoắc kì mục' 秦皇帝惜其善擊筑, 重赦之, 乃矐其目 (Kinh Kha truyện 荊軻傳) Tần Hoàng Đế tiếc tài thổi sáo trúc của ông (Cao Tiệm Li 高漸離), đặc cách cho ân xá, nhưng làm cho mù mắt.",
+                "Một âm là 'trùng'. (Phó) Lại, nhiều lần, chồng chất. ◎Như: 'trùng tố' 重做 làm lại, 'phúc bất trùng lai' 福不重來 phúc chẳng đến hai lần.",
+                "(Danh) Lượng từ: tầng, lớp. ◎Như: 'nhất trùng' 一重 một tầng. ◇Vương An Thạch 王安石: 'Chung San chỉ cách sổ trùng san' 鍾山只隔數重山 (Bạc thuyền Qua Châu 泊船瓜洲) Chung San chỉ cách mấy lớp núi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nặng. Ðem hai vật so sánh với nhau gọi là khinh trọng 輕重 nặng nhẹ. Dùng sức nhiều cũng gọi là trọng, vì thế nên tiếng to cũng gọi là trọng.",
+                "Tính cái sức chống chọi của vật này với vật kia gọi là trọng lượng 重量, khoa học nghiên cứu về cái lẽ của sức, định sức, động sức giúp gọi là trọng học 重學 hay lực học 力學, v.v.",
+                "Coi trọng, không dám khinh thường. Như trịnh trọng 鄭重, nghiêm trọng 嚴重, v.v.",
+                "Tôn trọng. Như quân tử tự trọng 君子自重 người quân tử tôn trọng lấy mình.",
+                "Chuộng. Như trọng nông 重農 chuộng nghề làm ruộng.",
+                "Quá. Thư trọng bệnh 重病 bệnh nặng quá, trọng tội 重罪 tội nặng quá, v.v.",
+                "Một âm là trùng. Gấp, kép. Như trùng tứ 重四 gấp tư.",
+                "Lại. Như trùng tố 重做 làm lại. Phúc bất trùng lai 福不重來 phúc chẳng đến hai lần.",
+                "Trồng vật gì cách nhau một từng gọi là nhất trùng 一重."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Nặng, trọng lượng: 這條魚有三斤重 Con cá này nặng ba cân; 鐵比鋁重 Sắt nặng hơn nhôm; 重于泰山 Nặng hơn núi Thái Sơn; 話說得太重了 Ăn nói quá nặng lời; 金人十二， 重各千石 Mười hai người đúc bằng vàng, mỗi người nặng ngàn thạch (Sử kí); 重罪 Tội nặng;",
+                "Thẫm, đậm: 色重 Màu thẫm;",
+                "Rậm, nhiều: 眉毛重 Lông mày rậm;",
+                "Đắt, giá cao: 重價收買 Thu mua bằng giá đắt (cao);",
+                "Quan trọng, trọng yếu: 軍事重地 Nơi quân sự trọng yếu;",
+                "Trọng, kính trọng, coi trọng, chuộng: 重男輕女 Trọng nam khinh nữ; 重農 Trọng nông; 人皆重之 Ai nấy đều coi trọng; 尊賢而重士 Tôn người hiền và coi trọng kẻ sĩ (Giả Nghị: Quá Tần luận);",
+                "Thận trọng, trang trọng: 慎重 Trận trọng; 老成持重 Vững vàng thận trọng;",
+                "(văn) Làm nặng thêm, thêm lên: 是重吾之不德也 Thế là làm cho ta thêm thiếu đức (Hán thư);",
+                "(văn) Càng thêm: 農民重苦 Dân làm ruộng càng thêm khổ (Diêm thiết luận);",
+                "(văn) Rất: 有此一者，則重難治也 Nếu có một trong những tình huống này thì rất khó trị hết (bệnh) (Sử kí);",
+                "(văn) Khó: 上重違大臣正議 Nhà vua khó làm trái lời bàn công chính của các đại thần (Hán thư);",
+                "(văn) Xe quân nhu (chở lương thực, võ khí): 楚重至幹邲 Xe quân nhu của Sở đi tới đất Bật (Tả truyện). Xem 重 [chóng]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Nặng ( trái với nhẹ ) — Coi là nặng, là hơn. Truyện  Trê Cóc : » Được con là trọng, kêu chi thêm càng « — Tôn kính. Ca dao: » Bên khinh bên trọng ra tình xấu chơi « — Một âm là Trùng."
+            ],
+            "compound_words": {
+                "陰重": "âm trọng",
+                "保重": "bảo trọng",
+                "矜重": "căng trọng",
+                "謹重": "cẩn trọng",
+                "注重": "chú trọng",
+                "輜重": "chuy trọng",
+                "功高望重": "công cao vọng trọng",
+                "舉足輕重": "cử túc khinh trọng",
+                "德高望重": "đức cao vọng trọng",
+                "加重": "gia trọng",
+                "厚重": "hậu trọng",
+                "契重": "khế trọng",
+                "輕重": "khinh trọng",
+                "起重機": "khởi trọng cơ",
+                "敬重": "kính trọng",
+                "隆重": "long trọng",
+                "严重": "nghiêm trọng",
+                "嚴重": "nghiêm trọng",
+                "任重": "nhiệm trọng",
+                "穩重": "ổn trọng",
+                "樸重": "phác trọng",
+                "負重": "phụ trọng",
+                "貴重": "quý trọng",
+                "崇重": "sùng trọng",
+                "推重": "suy trọng",
+                "借重": "tá trọng",
+                "載重": "tải trọng",
+                "慎重": "thận trọng",
+                "比重": "tỷ trọng",
+                "尊重": "tôn trọng",
+                "莊重": "trang trọng",
+                "沈重": "trầm trọng",
+                "沉重": "trầm trọng",
+                "珍重": "trân trọng",
+                "持重": "trì trọng",
+                "鄭重": "trịnh trọng",
+                "重病": "trọng bệnh",
+                "重禁": "trọng cấm",
+                "重用": "trọng dụng",
+                "重大": "trọng đại",
+                "重待": "trọng đãi",
+                "重厚": "trọng hậu",
+                "重刑": "trọng hình",
+                "重玄": "trọng huyền",
+                "重氢": "trọng khinh",
+                "重氫": "trọng khinh",
+                "重力": "trọng lực",
+                "重義": "trọng nghĩa",
+                "重任": "trọng nhậm",
+                "重農": "trọng nông",
+                "重負": "trọng phụ",
+                "重心": "trọng tâm",
+                "重臣": "trọng thần",
+                "重體": "trọng thể",
+                "重視": "trọng thị",
+                "重聽": "trọng thính",
+                "重稅": "trọng thuế",
+                "重傷": "trọng thương",
+                "重賞": "trọng thưởng",
+                "重罪": "trọng tội",
+                "重責": "trọng trách",
+                "重望": "trọng vọng",
+                "重要": "trọng yếu",
+                "自重": "tự trọng",
+                "威重": "uy trọng",
+                "倚重": "ỷ trọng"
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "character": "视",
+    "details": {
+        "Âm Hán Việt": [
+            "thị"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "kiến 見 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺭见"
+        ],
+        "Nét bút": [
+            "丶フ丨丶丨フノフ"
+        ],
+        "Thương Hiệt": [
+            "IFBHU (戈火月竹山)"
+        ],
+        "Unicode": [
+            "U+89C6"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "shì ㄕˋ"
+        ],
+        "Âm Nôm": [
+            "thị"
+        ],
+        "Âm Quảng Đông": [
+            "si6"
+        ]
+    },
+    "meanings": {
+        "thị": {
+            "Từ điển phổ thông": [
+                "nhìn kỹ"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 視."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 視"
+            ],
+            "compound_words": {
+                "鄙视": "bỉ thị",
+                "电视": "điện thị",
+                "忽视": "hốt thị",
+                "歧视": "kỳ thị",
+                "俯视": "phủ thị",
+                "探视": "thám thị"
+            }
+        }
+    }
+}

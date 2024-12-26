@@ -1,0 +1,77 @@
+{
+    "character": "偻",
+    "details": {
+        "Âm Hán Việt": [
+            "lâu",
+            "lũ"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "nhân 人 (+9 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰亻娄"
+        ],
+        "Nét bút": [
+            "ノ丨丶ノ一丨ノ丶フノ一"
+        ],
+        "Thương Hiệt": [
+            "OFDV (人火木女)"
+        ],
+        "Unicode": [
+            "U+507B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "lóu ㄌㄡˊ",
+            "lǚ",
+            "lǔ ㄌㄨˇ"
+        ],
+        "Âm Nôm": [
+            "lâu",
+            "lu",
+            "xâu"
+        ],
+        "Âm Quảng Đông": [
+            "lau4"
+        ]
+    },
+    "meanings": {
+        "lâu": {
+            "Từ điển phổ thông": [
+                "gù lưng, còng lưng"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 僂"
+            ],
+            "compound_words": {
+                "佝偻": "câu lâu"
+            }
+        },
+        "lũ": {
+            "Từ điển phổ thông": [
+                "gù lưng, còng lưng"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 僂."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Gù lưng. Xem 傴僂",
+                "(văn) Nhanh chóng, ngay: 不能僂指 Không thể vạch ra ngay. Xem 僂 [lóu]."
+            ],
+            "compound_words": {
+                "伛偻": "ủ lũ"
+            }
+        }
+    }
+}

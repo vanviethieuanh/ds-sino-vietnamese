@@ -1,0 +1,87 @@
+{
+    "character": "匠",
+    "details": {
+        "Âm Hán Việt": [
+            "tượng"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "phương 匚 (+4 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿷匚斤"
+        ],
+        "Nét bút": [
+            "一ノノ一丨フ"
+        ],
+        "Thương Hiệt": [
+            "SHML (尸竹一中)"
+        ],
+        "Unicode": [
+            "U+5320"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jiàng ㄐㄧㄤˋ"
+        ],
+        "Âm Nôm": [
+            "tượng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "たくみ (takumi)"
+        ],
+        "Âm Hàn": [
+            "장"
+        ],
+        "Âm Quảng Đông": [
+            "zoeng6"
+        ]
+    },
+    "meanings": {
+        "tượng": {
+            "Từ điển phổ thông": [
+                "người thợ",
+                "khéo, lành nghề"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thợ mộc. ◇Trang Tử 莊子: 'Tượng nhân viết: Ngã thiện trị mộc' 匠人曰: 我善治木 (Mã đề 馬蹄) Thợ mộc nói: Tôi khéo làm đồ gỗ.",
+                "(Danh) Ngày nay gọi chung các người thợ là 'tượng'. ◎Như: 'đồng tượng' 銅匠 thợ đồng, 'thiết tượng' 鐵匠 thợ sắt.",
+                "(Danh) Tiếng tôn xưng người tài ba, xuất sắc về một bộ môn hoặc phương diện nào đó, bậc thầy. ◎Như: 'họa đàn cự tượng' 畫壇巨匠 bậc thầy trong ngành hội họa, 'văn đàn xảo tượng' 文壇巧匠 tác giả lớn trên văn đàn.",
+                "(Tính) Lành nghề, tinh xảo, khéo léo. ◎Như: 'tượng tâm' 匠心 tâm cơ linh xảo, khéo léo. ◇Cao Bá Quát 高伯适: 'Cổ nhân tượng tâm diệu chỉ sở dĩ vũ dực ngô chi văn chương dã' 古人匠心妙旨所以羽翼吾之文章也 (Hoa Tiên kí hậu tự 花箋記後序) Tình hay ý đẹp của người xưa đã làm vây cánh cho văn chương ta."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Thợ mộc, bây giờ thông dụng để gọi cả các thứ thợ, như đồng tượng 銅匠 thợ đồng, thiết tượng 鐵匠 thợ sắt, v.v.",
+                "Lành nghề. Chuyên tinh về một nghề gọi là tượng. Như tự tượng 字匠 viết giỏi, hoạ tượng 畫匠 vẽ khéo. Khen người tài giỏi gọi là tôn tượng 宗匠.",
+                "Khéo, người có ý khéo gọi là ý tượng 意匠, tượng tâm 匠心, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Thợ: 鐵匠 Thợ rèn; 木匠 Thợ mộc;",
+                "Bậc thầy, người kiệt xuất: 文壇巨匠 Bậc thầy trên văn đàn; 使用語言的巨匠 Người kiệt xuất trong việc dùng ngôn ngữ;",
+                "(văn) Khéo: 匠心 Ý khéo."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Người thợ mộc — Chỉ chung người thợ."
+            ],
+            "compound_words": {
+                "工匠": "công tượng",
+                "巨匠": "cự tượng",
+                "木匠": "mộc tượng",
+                "匠手": "tượng thủ",
+                "巧匠": "xảo tượng"
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "character": "梭",
+    "details": {
+        "Âm Hán Việt": [
+            "thoa",
+            "toa"
+        ],
+        "Tổng nét": [
+            "11"
+        ],
+        "Bộ": [
+            "mộc 木 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰木夋"
+        ],
+        "Nét bút": [
+            "一丨ノ丶フ丶ノ丶ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "DICE (木戈金水)"
+        ],
+        "Unicode": [
+            "U+68AD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "suō ㄙㄨㄛ",
+            "xùn ㄒㄩㄣˋ"
+        ],
+        "Âm Nôm": [
+            "thoa",
+            "thoi",
+            "toa"
+        ],
+        "Âm Nhật (onyomi)": [
+            "サ (sa)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "ひ (hi)"
+        ],
+        "Âm Hàn": [
+            "사"
+        ],
+        "Âm Quảng Đông": [
+            "so1"
+        ]
+    },
+    "meanings": {
+        "thoa": {
+            "Từ điển phổ thông": [
+                "cái thoi dệt cửi",
+                "quan chức đi lại đốc suất binh phu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Thoi dệt cửi. ◎Như: 'nhật nguyệt như toa' 日月如梭 ngày tháng như thoi đưa.",
+                "(Động) 'Toa tuần' 梭巡 qua lại coi xét, tuần tra.",
+                "§ Ghi chú: Ta quen đọc là 'thoa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái thoi dệt cửi, cái thoi nó đi lại rất nhanh, nên nói đến thì giờ nhanh chóng gọi là nhật nguyệt như toa 日月如梭 ngày tháng như thoi đưa.",
+                "Quan chức đi lại đốc suất binh phu gọi là toa tuần 梭巡. Ta quen đọc là chữ thoa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái thoi: 梭子 Con thoi; 日月如梭 Ngày tháng như thoi đưa;",
+                "【梭巡】toa tuần [suoxún] (văn) Đi tuần tra."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cái thoi, con thoi ( vật dụng bằng gỗ, hai đầu nhọn, rỗng ruột, dùng để luồn chỉ qua các sợi vải trên khung cửi mà dệt thành vải lụa )."
+            ],
+            "compound_words": {
+                "交梭": "giao thoa",
+                "擲梭": "trịch thoa"
+            }
+        },
+        "toa": {
+            "Từ điển trích dẫn": [
+                "(Danh) Thoi dệt cửi. ◎Như: 'nhật nguyệt như toa' 日月如梭 ngày tháng như thoi đưa.",
+                "(Động) 'Toa tuần' 梭巡 qua lại coi xét, tuần tra.",
+                "§ Ghi chú: Ta quen đọc là 'thoa'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái thoi dệt cửi, cái thoi nó đi lại rất nhanh, nên nói đến thì giờ nhanh chóng gọi là nhật nguyệt như toa 日月如梭 ngày tháng như thoi đưa.",
+                "Quan chức đi lại đốc suất binh phu gọi là toa tuần 梭巡. Ta quen đọc là chữ thoa."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Cái thoi: 梭子 Con thoi; 日月如梭 Ngày tháng như thoi đưa;",
+                "【梭巡】toa tuần [suoxún] (văn) Đi tuần tra."
+            ]
+        }
+    }
+}

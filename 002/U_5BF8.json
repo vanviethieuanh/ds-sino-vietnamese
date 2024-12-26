@@ -1,0 +1,88 @@
+{
+    "character": "寸",
+    "details": {
+        "Âm Hán Việt": [
+            "thốn"
+        ],
+        "Tổng nét": [
+            "3"
+        ],
+        "Bộ": [
+            "thốn 寸 (+0 nét)"
+        ],
+        "Lục thư": [
+            "chỉ sự"
+        ],
+        "Nét bút": [
+            "一丨丶"
+        ],
+        "Thương Hiệt": [
+            "DI (木戈)"
+        ],
+        "Unicode": [
+            "U+5BF8"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "cùn ㄘㄨㄣˋ"
+        ],
+        "Âm Nôm": [
+            "dón",
+            "són",
+            "thốn",
+            "thuỗn",
+            "xốn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "スン (sun)"
+        ],
+        "Âm Hàn": [
+            "촌"
+        ],
+        "Âm Quảng Đông": [
+            "cyun3"
+        ]
+    },
+    "meanings": {
+        "thốn": {
+            "Từ điển phổ thông": [
+                "tấc (đơn vị đo chiều dài)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lượng từ, đơn vị đo chiều dài: (1) Ngày xưa bằng độ một ngón tay. (2) Tấc, mười phân là một tấc. (3) Gọi tắt của 'thị thốn' 市寸, tức một phần mười của một 'thị xích' 市尺.",
+                "(Danh) Mạch cổ tay (đông y). ◇Hồng Lâu Mộng 紅樓夢: 'Khán đắc tôn phu nhân giá mạch tức, tả thốn trầm sác, tả quan trầm phục, hữu thốn tế nhi vô lực, hữu quan hư nhi vô thần' 看得尊夫人這脈息: 左寸沉數, 左關沉伏; 右寸細而無力, 右關虛而無神 (Đệ thập hồi) Coi mạch tức cho phu nhân thấy: mạch cổ tay bên trái thì trầm sác, quan bên trái thì trầm phục; mạch cổ tay bên phải thì nhỏ mà không có sức, quan bên phải thì hư mà không có thần.",
+                "(Danh) Họ 'Thốn'.",
+                "(Tính) Ngắn ngủi, nhỏ bé, ít ỏi. ◎Như: 'thốn bộ nan hành' 寸步難行 tấc bước khó đi, 'thốn âm khả tích' 寸陰可惜 tấc bóng quang âm đáng tiếc. ◇Sử Kí 史記: 'Thần, Đông Chu chi bỉ nhân dã, vô hữu phân thốn chi công, nhi vương thân bái chi ư miếu nhi lễ chi ư đình' 臣, 東周之鄙人也, 無有分寸之功, 而王親拜之於廟而禮之於廷 (Tô Tần truyện 蘇秦傳) Thần là kẻ quê mùa ở Đông Chu, không có chút công cán gì mà nhà vua bái thần ở miếu, kính lễ thần ở triều.",
+                "(Động) Giúp đỡ, hiệp trợ. ◇Tây du kí 西遊記: 'Lưỡng điều côn hướng chấn thiên quan, Bất kiến thâu doanh giai bàng thốn' 兩條棍向振天關, 不見輸贏皆傍寸 (Đệ lục thập hồi) Hai cây gậy vung lên chấn động cửa trời, Chẳng thấy hơn thua cùng trợ giúp."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Tấc, mười phân là một tấc.",
+                "Nói ví dụ các sự nhỏ bé. Như thốn bộ nan hành 寸步難行 tấc bước khó đi, thốn âm khả tích 寸音可惜 tấc bóng quang âm khá tiếc, v.v."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Tấc (= 1/10 thước): 一寸布 Một tấc vải; 手無寸鐵 Tay không tấc sắt. (Ngr) Ngắn ngủi, hẹp hòi, nông cạn, nhỏ bé, ít ỏi: 寸草心 Tấm lòng tấc cỏ; 寸陰可惜 Tấc thời gian đáng tiếc; 鼠目寸光 Tầm mắt hẹp hòi;",
+                "(y) Mạch cổ tay (寸口 nói tắt);",
+                "[Cùn] (Họ) Thốn."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Một tấc, một phần mười của thước ta — Một tấm. Một cái — Tên một bộ chữ Hán, bộ Thốn."
+            ],
+            "compound_words": {
+                "肝腸寸斷": "can tràng thốn đoạn",
+                "公寸": "công thốn",
+                "分寸": "phân thốn",
+                "方寸": "phương thốn",
+                "三寸舌": "tam thốn thiệt",
+                "寸地": "thốn địa",
+                "寸心": "thốn tâm",
+                "寸舌": "thốn thiệt",
+                "尺寸": "xích thốn"
+            }
+        }
+    }
+}

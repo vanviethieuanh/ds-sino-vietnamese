@@ -1,0 +1,85 @@
+{
+    "character": "灣",
+    "details": {
+        "Âm Hán Việt": [
+            "loan"
+        ],
+        "Tổng nét": [
+            "25"
+        ],
+        "Bộ": [
+            "thuỷ 水 (+22 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰⺡彎"
+        ],
+        "Nét bút": [
+            "丶丶一丶一一一丨フ一フフ丶丶丶丶フフ丶丶丶丶フ一フ"
+        ],
+        "Thương Hiệt": [
+            "EVFN (水女火弓)"
+        ],
+        "Unicode": [
+            "U+7063"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "wān ㄨㄢ"
+        ],
+        "Âm Nôm": [
+            "loan",
+            "loáng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ワン (wan)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "いりえ (irie)"
+        ],
+        "Âm Hàn": [
+            "만"
+        ],
+        "Âm Quảng Đông": [
+            "waan1",
+            "waan4"
+        ]
+    },
+    "meanings": {
+        "loan": {
+            "Từ điển phổ thông": [
+                "vịnh biển",
+                "chỗ ngoặt trên sông, khuỷu sông"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Chỗ dòng nước hõm vào, chỗ sông uốn khúc. ◎Như: 'hà loan' 河灣 khuỷu sông.",
+                "(Danh) Vũng bể, vịnh. ◎Như: 'Quảng Châu loan' 廣州灣 vịnh Quảng Châu.",
+                "(Động) Đỗ, đậu, dừng (thuyền bè). ◇Hồng Lâu Mộng 紅樓夢: 'Na bất thị tiếp tha môn lai đích thuyền lai liễu, loan tại na lí ni' 那不是接他們來的船來了, 灣在那裡呢 (Đệ ngũ thập thất hồi) Kia chẳng phải là thuyền đón các cô ấy đã đến không, đậu ở đấy rồi.",
+                "(Động) Cong, ngoằn ngoèo, khuất khúc. § Thông 'loan' 彎."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Vũng bể, chỗ nước hõm vào."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Chỗ ngoặt trên sông: 河灣 Khuỷu sông;",
+                "Vịnh: 北部灣 Vịnh Bắc Bộ;",
+                "(Thuyền bè) đậu, đỗ, dừng lại: 把 船灣在那邊 Cho thuyền đậu (đỗ) ở bên kia."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Chỗ nước chảy vòng — Phần biển ăn sâu vào đất liền. Vịnh — Đậu thuyền. Neo thuyền."
+            ],
+            "compound_words": {
+                "台灣": "đài loan",
+                "臺灣": "đài loan",
+                "海灣": "hải loan"
+            }
+        }
+    }
+}

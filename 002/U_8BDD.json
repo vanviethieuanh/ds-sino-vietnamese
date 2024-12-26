@@ -1,0 +1,64 @@
+{
+    "character": "话",
+    "details": {
+        "Âm Hán Việt": [
+            "thoại"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "ngôn 言 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿰讠舌"
+        ],
+        "Nét bút": [
+            "丶フノ一丨丨フ一"
+        ],
+        "Thương Hiệt": [
+            "IVHJR (戈女竹十口)"
+        ],
+        "Unicode": [
+            "U+8BDD"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "huà ㄏㄨㄚˋ"
+        ],
+        "Âm Nôm": [
+            "thoại"
+        ],
+        "Âm Quảng Đông": [
+            "waa2",
+            "waa6"
+        ]
+    },
+    "meanings": {
+        "thoại": {
+            "Từ điển phổ thông": [
+                "nói"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 話."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 話"
+            ],
+            "compound_words": {
+                "电话": "điện thoại",
+                "对话": "đối thoại",
+                "梦话": "mộng thoại",
+                "屁话": "thí thoại"
+            }
+        }
+    }
+}

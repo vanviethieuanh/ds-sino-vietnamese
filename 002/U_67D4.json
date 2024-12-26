@@ -1,0 +1,105 @@
+{
+    "character": "柔",
+    "details": {
+        "Âm Hán Việt": [
+            "nhu"
+        ],
+        "Tổng nét": [
+            "9"
+        ],
+        "Bộ": [
+            "mộc 木 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿱矛木"
+        ],
+        "Nét bút": [
+            "フ丶フ丨ノ一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "NHD (弓竹木)"
+        ],
+        "Unicode": [
+            "U+67D4"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "róu ㄖㄡˊ"
+        ],
+        "Âm Nôm": [
+            "nhu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ジュウ (jū)",
+            "ニュウ (nyū)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "やわ.らか (yawa.raka)",
+            "やわ.らかい (yawa.rakai)",
+            "やわ (yawa)",
+            "やわ.ら (yawa.ra)"
+        ],
+        "Âm Hàn": [
+            "유"
+        ],
+        "Âm Quảng Đông": [
+            "jau4"
+        ]
+    },
+    "meanings": {
+        "nhu": {
+            "Từ điển phổ thông": [
+                "mềm dẻo"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Mềm, mềm yếu, mềm mại. ◎Như: 'nhu nhuyễn' 柔軟 mềm mại, 'nhu nhược' 柔弱 mềm yếu, 'nhu năng khắc cương' 柔能克剛 mềm thắng được cứng.",
+                "(Tính) Hòa thuận, ôn hòa. ◎Như: 'nhu thuận' 柔順 nhún thuận. ◇Pháp Hoa Kinh 法華經: 'Kì thanh thanh tịnh, Xuất nhu nhuyễn âm, Giáo chư bồ tát, Vô số ức vạn' 其聲清淨, 出柔軟音, 教諸菩薩, 無數億萬 (Tự phẩm đệ nhất 序品第一) Tiếng của ngài thanh tịnh, Nói ra lời hòa nhã, Dạy các bồ tát, Vô số ức vạn.",
+                "(Tính) Non, mới mọc (cây cỏ). ◇Tào Thực 曹植: 'Nhu điều phân nhiễm nhiễm, Diệp lạc hà phiên phiên' 柔條紛冉冉, 葉落何翩翩 (Mĩ nữ thiên 美女篇) Cành non phơ phất đầy, Lá rụng nhẹ nhàng sao.",
+                "(Động) Làm cho yên, vỗ về. ◇Thi Kinh 詩經: 'Nhu viễn năng nhĩ' 柔遠能邇 (Đại Nhã 大雅, Dân lao 民勞) Khiến cho kẻ xa được yên ổn và dân ở gần hòa thuận."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mềm, mềm yếu, mềm mại, như nhu nhuyễn 柔軟 mềm lướt, nhu thuận 柔順 nhún thuận, v.v.",
+                "Phục, làm cho yên, như nhu viễn nhân 柔遠人 làm cho người xa phục.",
+                "Cây cỏ mới mọc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mềm mại: 柔枝嫩葉 Cành mềm lá non; 剛柔相推而生變化 Cứng và mềm thúc đẩy nhau mà sinh ra biến hoá (Chu Dịch);",
+                "Dịu dàng: 性情溫柔 Tính nết dịu dàng;",
+                "Êm dịu, êm đềm: 柔和的聲音 Tiếng nói dịu dàng; 柔風 Gió hiu hiu;",
+                "(văn) Làm cho tin phục: 柔遠人 Làm cho người xa tin phục;",
+                "(văn) Cây cỏ mới mọc;",
+                "[Róu] (Họ) Nhu."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Cây gỗ mềm, dễ uốn — Mềm ( trái với cứng ) — Thuận theo — Yên ổn."
+            ],
+            "compound_words": {
+                "剛柔": "cương nhu",
+                "柔道": "nhu đạo",
+                "柔嘉": "nhu gia",
+                "柔雗": "nhu hàn",
+                "柔和": "nhu hoà",
+                "柔毛": "nhu mao",
+                "柔忍": "nhu nhẫn",
+                "柔軟": "nhu nhuyễn",
+                "柔软": "nhu nhuyễn",
+                "柔弱": "nhu nhược",
+                "柔惰": "nhu noạ",
+                "柔順": "nhu thuận",
+                "柔術": "nhu thuật",
+                "柔性": "nhu tính",
+                "柔遠能邇": "nhu viễn năng nhĩ",
+                "溫柔": "ôn nhu",
+                "優柔": "ưu nhu"
+            }
+        }
+    }
+}

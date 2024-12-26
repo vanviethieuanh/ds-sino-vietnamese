@@ -1,0 +1,106 @@
+{
+    "character": "哺",
+    "details": {
+        "Âm Hán Việt": [
+            "bu",
+            "bô",
+            "bộ"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "khẩu 口 (+7 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰口甫"
+        ],
+        "Nét bút": [
+            "丨フ一一丨フ一一丨丶"
+        ],
+        "Thương Hiệt": [
+            "RIJB (口戈十月)"
+        ],
+        "Unicode": [
+            "U+54FA"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "bū ㄅㄨ",
+            "bǔ ㄅㄨˇ",
+            "bù ㄅㄨˋ"
+        ],
+        "Âm Nôm": [
+            "bô",
+            "bu",
+            "pho",
+            "phô"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ホ (ho)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "はぐく.む (haguku.mu)",
+            "ふく.む (fuku.mu)"
+        ],
+        "Âm Hàn": [
+            "포"
+        ],
+        "Âm Quảng Đông": [
+            "bou1",
+            "bou6"
+        ]
+    },
+    "meanings": {
+        "bu": {
+            "Từ điển phổ thông": [
+                "bú sữa"
+            ]
+        },
+        "bô": {
+            "Từ điển phổ thông": [
+                "bữa ăn quá trưa",
+                "xế chiều"
+            ],
+            "compound_words": {
+                "哺啜": "bô xuyết"
+            }
+        },
+        "bộ": {
+            "Từ điển phổ thông": [
+                "bú sữa"
+            ],
+            "Từ điển trích dẫn": [
+                "(Động) Mớm, cho bú, cho ăn. ◎Như: 'bộ nhũ' 哺乳 cho bú.",
+                "(Danh) Cơm búng, đồ ăn đã nhấm nhai ở trong miệng. ◇Trang Tử 莊子: 'Hàm bộ nhi hi, cổ phúc nhi du' 含哺而熙, 鼓腹而游 (Mã đề 馬蹄) Ngậm cơm mà vui, vỗ bụng rong chơi."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mớm (chim mẹ mớm cho chim con).",
+                "Nhai."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Cho bú, mớm: 哺乳 Cho bú;",
+                "Nhai;",
+                "Cơm búng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Bú. Ngậm trong miệng mà nút."
+            ],
+            "compound_words": {
+                "哺育": "bộ dục",
+                "哺养": "bộ dưỡng",
+                "哺養": "bộ dưỡng",
+                "哺乳": "bộ nhũ",
+                "哺乳類": "bộ nhũ loại"
+            }
+        }
+    }
+}

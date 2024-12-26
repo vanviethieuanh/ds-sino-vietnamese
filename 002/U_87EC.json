@@ -1,0 +1,98 @@
+{
+    "character": "蟬",
+    "details": {
+        "Âm Hán Việt": [
+            "thiền",
+            "thuyền"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "trùng 虫 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰虫單"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一丨フ一丨フ一一丨一"
+        ],
+        "Thương Hiệt": [
+            "LIRRJ (中戈口口十)"
+        ],
+        "Unicode": [
+            "U+87EC"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "trung bình"
+        ],
+        "Âm Pinyin": [
+            "chán ㄔㄢˊ",
+            "shàn ㄕㄢˋ"
+        ],
+        "Âm Nôm": [
+            "thiền"
+        ],
+        "Âm Nhật (onyomi)": [
+            "セン (sen)",
+            "ゼン (zen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せみ (semi)"
+        ],
+        "Âm Hàn": [
+            "선"
+        ],
+        "Âm Quảng Đông": [
+            "sim4",
+            "sin4"
+        ]
+    },
+    "meanings": {
+        "thiền": {
+            "Từ điển phổ thông": [
+                "con ve sầu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Con ve sầu. ◇Nguyễn Du 阮攸: 'Hàn thiền chung nhật táo cao chi' 寒蟬終日噪高枝 (Sơ thu cảm hứng 初秋感興) Ve sầu lạnh suốt ngày kêu trên cành cao.",
+                "(Phó) Liền nối, liên tục. ◎Như: 'thiền liên' 蟬聯 liên tục không dứt.",
+                "(Tính) 'Thiền quyên' 蟬娟 tươi đẹp.",
+                "§ Còn đọc là 'thuyền'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Con ve sầu. Nguyễn Du: Hàn thiền chung nhật táo cao chi 寒蟬終日噪高枝 (Sơ thu cảm hứng 初秋感興) ve sầu lạnh suốt ngày kêu trên cành cao.",
+                "Liền nối, liền nối không dứt gọi là thiền liên 蟬聯.",
+                "Thiền quyên 蟬蜎 tươi đẹp."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ve sầu. Cg. 知了 [zhiliăo];",
+                "(văn) Liền nối không dứt, liên tục."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Con ve."
+            ],
+            "compound_words": {
+                "蚹蟬": "phụ thiền",
+                "蟬蜕": "thiền thuế"
+            }
+        },
+        "thuyền": {
+            "Từ điển trích dẫn": [
+                "(Danh) Con ve sầu. ◇Nguyễn Du 阮攸: 'Hàn thiền chung nhật táo cao chi' 寒蟬終日噪高枝 (Sơ thu cảm hứng 初秋感興) Ve sầu lạnh suốt ngày kêu trên cành cao.",
+                "(Phó) Liền nối, liên tục. ◎Như: 'thiền liên' 蟬聯 liên tục không dứt.",
+                "(Tính) 'Thiền quyên' 蟬娟 tươi đẹp.",
+                "§ Còn đọc là 'thuyền'."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Ve sầu. Cg. 知了 [zhiliăo];",
+                "(văn) Liền nối không dứt, liên tục."
+            ]
+        }
+    }
+}

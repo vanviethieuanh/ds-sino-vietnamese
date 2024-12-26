@@ -1,0 +1,95 @@
+{
+    "character": "蟲",
+    "details": {
+        "Âm Hán Việt": [
+            "trùng"
+        ],
+        "Tổng nét": [
+            "18"
+        ],
+        "Bộ": [
+            "trùng 虫 (+12 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱虫䖵"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丶丨フ一丨一丶丨フ一丨一丶"
+        ],
+        "Thương Hiệt": [
+            "LILII (中戈中戈戈)"
+        ],
+        "Unicode": [
+            "U+87F2"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "chóng ㄔㄨㄥˊ"
+        ],
+        "Âm Nôm": [
+            "sùng",
+            "trùng"
+        ],
+        "Âm Nhật (onyomi)": [
+            "チュウ (chū)",
+            "キ (ki)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "むし (mushi)"
+        ],
+        "Âm Hàn": [
+            "충",
+            "훼"
+        ],
+        "Âm Quảng Đông": [
+            "cung4"
+        ]
+    },
+    "meanings": {
+        "trùng": {
+            "Từ điển phổ thông": [
+                "loài sâu bọ"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Sâu bọ.",
+                "(Danh) Ngày xưa dùng để gọi tất cả các loài động vật. ◎Như: 'vũ trùng' 羽蟲 loài chim, 'mao trùng' 毛蟲 loài thú, 'đại trùng' 大蟲 lão hổ, 'trường trùng' 長蟲 rắn. ◇Thủy hử truyện 水滸傳: 'Khứ đáo đắc Cảnh Dương cương thượng đả liễu đại trùng, tống khứ Dương Cốc huyện, tri huyện tựu đài cử ngã tố liễu đô đầu' 去到得景陽岡上打了大蟲, 送去陽穀縣, 知縣就抬舉我做了都頭 (Đệ tam thập nhị hồi) Đến đồi Cảnh Dương đánh cọp, khiêng về huyện Dương Cốc, được quan huyện cất nhắc làm đô đầu.",
+                "(Danh) Tiếng gọi khinh miệt người khác. ◎Như: 'lại trùng' 懶蟲 đồ làm biếng, 'khả liên trùng' 可憐蟲 cái thứ đáng tội nghiệp.",
+                "(Danh) Họ 'Trùng'."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Giống sâu có chân gọi là trùng, ngày xưa dùng để gọi tất cả các loài động vật. Như vũ trùng 羽蟲 loài chim, mao trùng 毛蟲 loài thú."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Sâu, bọ, (côn) trùng: 毛毛蟲 Sâu róm; (đph) 大蟲 Cọp, hổ; 羽蟲 Loài chim; 毛蟲 1. Sâu róm; 2. Loài thú rừng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Loài sâu bọ. Td: Côn trùng — Con sâu. Con giun con dế. Bản dịch CPNK: » Cành cây sương đuộm tiếng trùng mưa phun «."
+            ],
+            "compound_words": {
+                "幼蟲": "ấu trùng",
+                "爬蟲類": "bà trùng loài",
+                "胞子蟲": "bào tử trùng",
+                "昆蟲": "côn trùng",
+                "毒蟲": "độc trùng",
+                "益蟲": "ích trùng",
+                "去蟲": "khử trùng",
+                "染蟲": "nhiễm trùng",
+                "沙蟲": "sa trùng",
+                "殺蟲": "sát trùng",
+                "桑蟲": "tang trùng",
+                "絛蟲": "thao trùng",
+                "精蟲": "tinh trùng",
+                "微蟲": "vi trùng",
+                "羽蟲": "vũ trùng"
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "character": "踪",
+    "details": {
+        "Âm Hán Việt": [
+            "tung"
+        ],
+        "Tổng nét": [
+            "15"
+        ],
+        "Bộ": [
+            "túc 足 (+8 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰⻊宗"
+        ],
+        "Nét bút": [
+            "丨フ一丨一丨一丶丶フ一一丨ノ丶"
+        ],
+        "Thương Hiệt": [
+            "RMJMF (口一十一火)"
+        ],
+        "Unicode": [
+            "U+8E2A"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "zōng ㄗㄨㄥ"
+        ],
+        "Âm Nôm": [
+            "tông",
+            "tung"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ソウ (sō)",
+            "ショウ (shō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あと (ato)"
+        ],
+        "Âm Hàn": [
+            "종"
+        ],
+        "Âm Quảng Đông": [
+            "zung1"
+        ]
+    },
+    "meanings": {
+        "tung": {
+            "Từ điển phổ thông": [
+                "vết chân",
+                "tung tích, dấu vết"
+            ],
+            "Từ điển trích dẫn": [
+                "Cùng nghĩa với chữ 蹤.",
+                "Giản thể của chữ 蹤."
+            ],
+            "Từ điển Thiều Chửu": [
+                "① Cùng nghĩa với chữ 蹤."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Dấu chân, vết chân, dấu vết, vết tích, tích: 追蹤 Đuổi theo dấu vết; 失蹤Mất tích;",
+                "Theo dấu;",
+                "(văn) Như 縱 (bộ 糸) ."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Như chữ Tung 蹤."
+            ],
+            "compound_words": {
+                "潛踪": "tiềm tung",
+                "踪跡": "tung tích"
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "character": "帘",
+    "details": {
+        "Âm Hán Việt": [
+            "liêm"
+        ],
+        "Tổng nét": [
+            "8"
+        ],
+        "Bộ": [
+            "cân 巾 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Hình thái": [
+            "⿱穴巾"
+        ],
+        "Nét bút": [
+            "丶丶フノ丶丨フ丨"
+        ],
+        "Thương Hiệt": [
+            "JCLB (十金中月)"
+        ],
+        "Unicode": [
+            "U+5E18"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "lián ㄌㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "liêm",
+            "rèm"
+        ],
+        "Âm Nhật (onyomi)": [
+            "レン (ren)",
+            "シン (shin)",
+            "ヨウ (yō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "さけばた (sakebata)"
+        ],
+        "Âm Quảng Đông": [
+            "lim4"
+        ]
+    },
+    "meanings": {
+        "liêm": {
+            "Từ điển phổ thông": [
+                "cái cờ bài rượu"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Cờ treo trước cửa tiệm bán rượu. ◇Lí Trung 李中: 'Thiểm thiểm tửu liêm chiêu túy khách, Thâm thâm lục thụ ẩn đề oanh' 閃閃酒帘招醉客, 深深綠樹隱啼鶯 (Giang biên ngâm 江邊吟) Phần phật bay cờ tiệm rượu vời khách say, Lẩn sâu trong cây xanh chim oanh hót.",
+                "(Danh) Màn treo cửa, rèm. § Cũng như 'liêm' 簾. ◎Như: 'môn liêm' 門帘 màn cửa, 'song liêm' 窗帘 rèm sửa sổ, 'trúc liêm' 竹帘 rèm trúc."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Cái cờ bài rượu.",
+                "Cái màn treo cửa cũng gọi là môn liêm 門帘."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Bức mành (quán hàng): 酒簾 Bức mành quán rượu;",
+                "Bức sáo, rèm, mành: 葦簾 Mành sậy; 窗簾兒 Rèm cửa sổ; 門簾兒 Rèm cửa;",
+                "【簾官】liêm quan [liánguan] Quan chấm thi hương thời xưa;【內簾】nội liêm [nèilián] Chức giữ việc chấm văn; 【外簾】ngoại liêm [wài lián] Chức giữ việc thu quyển thi."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tấm vải có dấu hiệu riêng treo ở trước cửa tiệm rượu, để người ta biết là tiệm bán rượu."
+            ],
+            "compound_words": {
+                "帐帘": "trướng liêm",
+                "帳帘": "trướng liêm"
+            }
+        }
+    }
+}

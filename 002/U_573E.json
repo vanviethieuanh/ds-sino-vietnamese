@@ -1,0 +1,98 @@
+{
+    "character": "圾",
+    "details": {
+        "Âm Hán Việt": [
+            "ngập",
+            "sắc"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "thổ 土 (+3 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Hình thái": [
+            "⿰土及"
+        ],
+        "Nét bút": [
+            "一丨一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "GNHE (土弓竹水)"
+        ],
+        "Unicode": [
+            "U+573E"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "jī ㄐㄧ",
+            "jí ㄐㄧˊ"
+        ],
+        "Âm Nôm": [
+            "ngập"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ギュウ (gyū)",
+            "ゴウ (gō)",
+            "ショク (shoku)",
+            "セイ (sei)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "あや.うい (aya.ui)"
+        ],
+        "Âm Hàn": [
+            "급"
+        ],
+        "Âm Quảng Đông": [
+            "kap1",
+            "saap3"
+        ]
+    },
+    "meanings": {
+        "ngập": {
+            "Từ điển phổ thông": [
+                "nguy khốn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Nguy khốn. § Thông 'ngập' 岌. ◇Trang Tử 莊子: 'Đãi tai ngập hồ thiên hạ' 殆哉圾乎天下 (Thiên địa 天地) Nguy thay, khốn cho thiên hạ.",
+                "Một âm là 'sắc'. (Danh) § Xem 'lạp sắc' 垃圾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nguy.",
+                "Lạp ngập 垃圾 bụi bậm chồng chất, cũng gọi là chữ sắc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nguy ngập;",
+                "Bụi. Xem 垃圾 [laji]."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Thế đất cao, hiểm trở."
+            ]
+        },
+        "sắc": {
+            "Từ điển trích dẫn": [
+                "(Tính) Nguy khốn. § Thông 'ngập' 岌. ◇Trang Tử 莊子: 'Đãi tai ngập hồ thiên hạ' 殆哉圾乎天下 (Thiên địa 天地) Nguy thay, khốn cho thiên hạ.",
+                "Một âm là 'sắc'. (Danh) § Xem 'lạp sắc' 垃圾."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Nguy.",
+                "Lạp ngập 垃圾 bụi bậm chồng chất, cũng gọi là chữ sắc."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Nguy ngập;",
+                "Bụi. Xem 垃圾 [laji]."
+            ],
+            "compound_words": {
+                "垃圾": "lạp sắc"
+            }
+        }
+    }
+}

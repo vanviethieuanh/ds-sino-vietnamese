@@ -1,0 +1,77 @@
+{
+    "character": "抐",
+    "details": {
+        "Âm Hán Việt": [
+            "nạp",
+            "nột"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "thủ 手 (+4 nét)"
+        ],
+        "Hình thái": [
+            "⿰⺘內"
+        ],
+        "Nét bút": [
+            "一丨一丨フノ丶"
+        ],
+        "Thương Hiệt": [
+            "QOB (手人月)"
+        ],
+        "Unicode": [
+            "U+6290"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất thấp"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất thấp"
+        ],
+        "Âm Pinyin": [
+            "nà ㄋㄚˋ",
+            "nè ㄋㄜˋ"
+        ],
+        "Âm Nôm": [
+            "nhồi"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ドツ (dotsu)",
+            "ナチ (nachi)",
+            "ドン (don)",
+            "ソン (son)",
+            "ドウ (dō)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "そ.める (so.meru)",
+            "う.つ (u.tsu)",
+            "い.れる (i.reru)",
+            "つか.む (tsuka.mu)"
+        ],
+        "Âm Quảng Đông": [
+            "leot6",
+            "neot6"
+        ]
+    },
+    "meanings": {
+        "nạp": {
+            "Từ điển phổ thông": [
+                "may nhặt",
+                "đánh"
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "May nhặt;",
+                "(văn) Đánh."
+            ],
+            "compound_words": {
+                "結抐": "kết nạp"
+            }
+        },
+        "nột": {
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Ấn vào trong nước."
+            ]
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "character": "畝",
+    "details": {
+        "Âm Hán Việt": [
+            "mẫu"
+        ],
+        "Tổng nét": [
+            "10"
+        ],
+        "Bộ": [
+            "điền 田 (+5 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh & hội ý"
+        ],
+        "Hình thái": [
+            "⿰亩久"
+        ],
+        "Nét bút": [
+            "丶一丨フ一丨一ノフ丶"
+        ],
+        "Thương Hiệt": [
+            "YWNO (卜田弓人)"
+        ],
+        "Unicode": [
+            "U+755D"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "cao"
+        ],
+        "Âm Pinyin": [
+            "mǔ ㄇㄨˇ"
+        ],
+        "Âm Nôm": [
+            "mẩu"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ボウ (bō)",
+            "ホ (ho)",
+            "モ (mo)",
+            "ム (mu)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "せ (se)",
+            "うね (une)"
+        ],
+        "Âm Hàn": [
+            "무",
+            "묘"
+        ],
+        "Âm Quảng Đông": [
+            "mau5"
+        ]
+    },
+    "meanings": {
+        "mẫu": {
+            "Từ điển phổ thông": [
+                "mẫu (đơn vị đo, bằng 60 trượng vuông)"
+            ],
+            "Từ điển trích dẫn": [
+                "(Danh) Lượng từ: đơn vị diện tích. § Ngày nay, một 'mẫu' 畝 bằng 100 mét vuông. Ngày xưa, một 'mẫu' 畝 bằng 6000 thước (xích 尺) vuông.",
+                "(Danh) Khu ruộng, phần ruộng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Mẫu, mười sào là một mẫu (3600 thước vuông tây là một mẫu).",
+                "Khu ruộng, phần ruộng."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Mẫu (bằng 1/15 hecta);",
+                "(văn) Khu ruộng, phần ruộng."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Tên một đơn vị diện tích dùng để tính ruộng, bằng 60 trượng vuông. Ta cũng gọi là Mẫu."
+            ],
+            "compound_words": {
+                "公畝": "công mẫu"
+            }
+        }
+    }
+}

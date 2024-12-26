@@ -1,0 +1,68 @@
+{
+    "character": "严",
+    "details": {
+        "Âm Hán Việt": [
+            "nghiêm"
+        ],
+        "Tổng nét": [
+            "7"
+        ],
+        "Bộ": [
+            "nhất 一 (+6 nét)"
+        ],
+        "Lục thư": [
+            "hình thanh"
+        ],
+        "Nét bút": [
+            "一丨丨丶ノ一ノ"
+        ],
+        "Thương Hiệt": [
+            "MTCH (一廿金竹)"
+        ],
+        "Unicode": [
+            "U+4E25"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "rất cao"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "rất cao"
+        ],
+        "Âm Pinyin": [
+            "yán ㄧㄢˊ"
+        ],
+        "Âm Nôm": [
+            "nghiêm"
+        ],
+        "Âm Quảng Đông": [
+            "jim4"
+        ]
+    },
+    "meanings": {
+        "nghiêm": {
+            "Từ điển phổ thông": [
+                "kín, chặt chẽ",
+                "nghiêm khắc",
+                "rất"
+            ],
+            "Từ điển trích dẫn": [
+                "1. Giản thể của chữ 嚴."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "Như 嚴"
+            ],
+            "compound_words": {
+                "严格": "nghiêm cách",
+                "严正": "nghiêm chính",
+                "严整": "nghiêm chỉnh",
+                "严寒": "nghiêm hàn",
+                "严厉": "nghiêm lệ",
+                "严密": "nghiêm mật",
+                "严重": "nghiêm trọng",
+                "严峻": "nghiêm tuấn",
+                "严肃": "nghiêm túc",
+                "尊严": "tôn nghiêm"
+            }
+        }
+    }
+}

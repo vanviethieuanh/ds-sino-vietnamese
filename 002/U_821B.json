@@ -1,0 +1,87 @@
+{
+    "character": "舛",
+    "details": {
+        "Âm Hán Việt": [
+            "suyễn",
+            "xuyễn"
+        ],
+        "Tổng nét": [
+            "6"
+        ],
+        "Bộ": [
+            "suyễn 舛 (+0 nét)"
+        ],
+        "Lục thư": [
+            "hội ý"
+        ],
+        "Nét bút": [
+            "ノフ丶一フ丨"
+        ],
+        "Thương Hiệt": [
+            "NIQ (弓戈手)"
+        ],
+        "Unicode": [
+            "U+821B"
+        ],
+        "Độ thông dụng trong Hán ngữ cổ": [
+            "trung bình"
+        ],
+        "Độ thông dụng trong tiếng Trung hiện đại": [
+            "thấp"
+        ],
+        "Âm Pinyin": [
+            "chuǎn ㄔㄨㄢˇ"
+        ],
+        "Âm Nôm": [
+            "sẻn",
+            "suyễn"
+        ],
+        "Âm Nhật (onyomi)": [
+            "ブ (bu)",
+            "セン (sen)"
+        ],
+        "Âm Nhật (kunyomi)": [
+            "まい (mai)",
+            "そむ.く (somu.ku)"
+        ],
+        "Âm Hàn": [
+            "천"
+        ],
+        "Âm Quảng Đông": [
+            "cyun2"
+        ]
+    },
+    "meanings": {
+        "suyễn": {
+            "Từ điển phổ thông": [
+                "ngang trái",
+                "lẫn lộn"
+            ],
+            "Từ điển trích dẫn": [
+                "(Tính) Ngang trái. ◇Vương Bột 王勃: 'Ta hồ! Thời vận bất tề, mệnh đồ đa suyễn' 嗟乎! 時運不齊, 命途多舛 (Đằng Vương các tự 滕王閣序) Than ôi! Thời vận chẳng đều nhau, đường đời nhiều ngang trái.",
+                "(Tính) Lẫn lộn. ◇Trang Tử 莊子: 'Huệ Thi đa phương, kì thư ngũ xa, kì đạo suyễn bác, kì ngôn dã bất trúng' 惠施多方, 其書五車, 其道舛駁, 其言也不中 (Thiên hạ 天下) Huệ Thi học thức uyên bác, sách ông có đến năm xe, Đạo ông lầm lẫn, lời ông không trúng."
+            ],
+            "Từ điển Thiều Chửu": [
+                "Ngang trái. Vương Bột 王勃: Ta hô! Thời vận bất tế, mệnh đồ đa suyễn 嗟乎！時運不齊，命途多舛 Than ôi! Thời vận chẳng bình thường, đường đời nhiều ngang trái.",
+                "Lẫn lộn."
+            ],
+            "Từ điển Trần Văn Chánh": [
+                "(văn) Rủi ro, không may, bất hạnh: 命途多舛 Số phận không may;",
+                "Sai lầm, sai trái, sai sót, lẫn lộn: 舛誤 Sai lầm."
+            ],
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Sai lầm. Không đúng. Td: Say suyễn."
+            ]
+        },
+        "xuyễn": {
+            "Từ điển Nguyễn Quốc Hùng": [
+                "Rối loạn. Chằng chịt với nhau — Tên một bộ chữ Hán, tức bộ Xuyễn."
+            ],
+            "compound_words": {
+                "舛互": "xuyễn hỗ",
+                "舛午": "xuyễn ngỗ",
+                "舛錯": "xuyễn thác"
+            }
+        }
+    }
+}
